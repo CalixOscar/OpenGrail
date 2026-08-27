@@ -49,16 +49,14 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Korean%20Confucian%20Traditions
 artifacts:
-  - title: Korean Confucian Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Korean Confucian Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Confucian_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 4th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Korean Confucian Traditions.
-  - title: Korean Confucian Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Korean Confucian Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Confucian_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 4th century CE

@@ -51,16 +51,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Kongo%20Religious%20Traditions'
 artifacts:
-  - title: Kongo Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Kongo Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Kongo_Religious_Traditions'
     provenance: 'M''banza-Kongo, Kingdom of Kongo'
     period: c. before 1400 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Kongo Religious Traditions.
-  - title: Kongo Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Kongo Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Kongo_Religious_Traditions'
     provenance: 'M''banza-Kongo, Kingdom of Kongo'
     period: c. before 1400 CE

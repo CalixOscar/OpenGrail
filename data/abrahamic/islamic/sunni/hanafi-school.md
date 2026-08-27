@@ -42,16 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Hanafi School'
     url: 'https://www.cambridge.org/core/search?q=Hanafi%20School'
 artifacts:
-  - title: Hanafi School Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Hanafi School Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Hanafi_School'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hanafi School.
-  - title: Hanafi School Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Hanafi School Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Hanafi_School'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE

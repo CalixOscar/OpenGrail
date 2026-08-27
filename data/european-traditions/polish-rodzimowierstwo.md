@@ -50,16 +50,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Polish Rodzimowierstwo'
     url: 'https://brill.com/search?q=Polish%20Rodzimowierstwo'
 artifacts:
-  - title: Polish Rodzimowierstwo Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Polish Rodzimowierstwo Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Polish_Rodzimowierstwo'
     provenance: 'London, England, UK'
     period: c. 1990s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Polish Rodzimowierstwo.
-  - title: Polish Rodzimowierstwo Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Polish Rodzimowierstwo Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Polish_Rodzimowierstwo'
     provenance: 'London, England, UK'
     period: c. 1990s CE

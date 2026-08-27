@@ -42,16 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Pharisees'
     url: 'https://www.cambridge.org/core/search?q=Pharisees'
 artifacts:
-  - title: Pharisees Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Pharisees Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Pharisees'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Pharisees.
-  - title: Pharisees Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Pharisees Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Pharisees'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century BCE

@@ -43,22 +43,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Advent%20Christian%20Church'
 artifacts:
-  - title: Advent Christian Church Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Advent Christian Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Advent_Christian_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1860 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Advent Christian Church.
-  - title: Advent Christian Church Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/advent-christian-church-1.jpg
+  - title: Advent Christian Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Advent_Christian_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1860 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Advent Christian Church.
+    imageUrl: /artifacts/advent-christian-church-2.jpg
 ---
 
 # Advent Christian Church

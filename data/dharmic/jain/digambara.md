@@ -43,16 +43,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Digambara%20Jainism'
 artifacts:
-  - title: Digambara Jainism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Digambara Jainism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Digambara_Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 1st century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Digambara Jainism.
-  - title: Digambara Jainism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Digambara Jainism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Digambara_Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 1st century CE

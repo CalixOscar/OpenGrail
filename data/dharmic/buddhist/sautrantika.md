@@ -46,16 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sautr%C4%81ntika'
 artifacts:
-  - title: Sautrāntika Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Sautrāntika Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Sautr%C4%81ntika'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE–2nd century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sautrāntika.
-  - title: Sautrāntika Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Sautrāntika Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sautr%C4%81ntika'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE–2nd century CE

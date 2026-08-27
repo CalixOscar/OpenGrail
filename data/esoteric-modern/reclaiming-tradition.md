@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Reclaiming Tradition'
     url: 'https://brill.com/search?q=Reclaiming%20Tradition'
 artifacts:
-  - title: Reclaiming Tradition Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Reclaiming Tradition Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Reclaiming_Tradition'
     provenance: 'London, England, UK'
     period: c. 1979 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Reclaiming Tradition.
-  - title: Reclaiming Tradition Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Reclaiming Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Reclaiming_Tradition'
     provenance: 'London, England, UK'
     period: c. 1979 CE

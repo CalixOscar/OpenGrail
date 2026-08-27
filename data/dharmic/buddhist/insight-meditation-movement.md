@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Insight%20Meditation%20Movement'
 artifacts:
-  - title: Insight Meditation Movement Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Insight Meditation Movement Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Insight_Meditation_Movement'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Insight Meditation Movement.
-  - title: Insight Meditation Movement Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Insight Meditation Movement Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Insight_Meditation_Movement'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE

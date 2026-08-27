@@ -46,16 +46,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shangqing%20Daoism'
 artifacts:
-  - title: Shangqing Daoism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Shangqing Daoism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Shangqing_Daoism'
     provenance: 'Luoyang, Henan, China'
     period: c. 4th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Shangqing Daoism.
-  - title: Shangqing Daoism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Shangqing Daoism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Shangqing_Daoism'
     provenance: 'Luoyang, Henan, China'
     period: c. 4th century CE

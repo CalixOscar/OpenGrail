@@ -44,16 +44,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Rastafari'
 artifacts:
-  - title: Rastafari Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Rastafari Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Rastafari'
     provenance: 'Kingston, Jamaica'
     period: c. 1930s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Rastafari.
-  - title: Rastafari Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Rastafari Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Rastafari'
     provenance: 'Kingston, Jamaica'
     period: c. 1930s CE

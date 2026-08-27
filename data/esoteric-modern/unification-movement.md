@@ -45,16 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Unification Movement'
     url: 'https://brill.com/search?q=Unification%20Movement'
 artifacts:
-  - title: Unification Movement Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Unification Movement Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Unification_Movement'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. 1954 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Unification Movement.
-  - title: Unification Movement Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Unification Movement Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Unification_Movement'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. 1954 CE

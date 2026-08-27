@@ -42,16 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Zaydism'
     url: 'https://www.cambridge.org/core/search?q=Zaydism'
 artifacts:
-  - title: Zaydism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Zaydism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Zaydism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 740 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Zaydism.
-  - title: Zaydism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Zaydism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Zaydism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 740 CE

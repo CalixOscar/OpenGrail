@@ -48,16 +48,14 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Way%20of%20the%20Celestial%20Masters
 artifacts:
-  - title: Way of the Celestial Masters Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Way of the Celestial Masters Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Way_of_the_Celestial_Masters'
     provenance: 'Luoyang, Henan, China'
     period: c. 142 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Way of the Celestial Masters.
-  - title: Way of the Celestial Masters Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Way of the Celestial Masters Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Way_of_the_Celestial_Masters'
     provenance: 'Luoyang, Henan, China'
     period: c. 142 CE

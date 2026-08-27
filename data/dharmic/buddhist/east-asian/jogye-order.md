@@ -47,16 +47,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Jogye%20Order'
 artifacts:
-  - title: Jogye Order Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Jogye Order Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Jogye_Order'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Jogye Order.
-  - title: Jogye Order Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Jogye Order Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Jogye_Order'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE

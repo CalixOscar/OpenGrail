@@ -45,16 +45,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Maasai%20Religious%20Traditions'
 artifacts:
-  - title: Maasai Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Maasai Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Maasai_Religious_Traditions'
     provenance: 'Rift Valley (Nairobi), Kenya'
     period: c. precolonial
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Maasai Religious Traditions.
-  - title: Maasai Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Maasai Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Maasai_Religious_Traditions'
     provenance: 'Rift Valley (Nairobi), Kenya'
     period: c. precolonial

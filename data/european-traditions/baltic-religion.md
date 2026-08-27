@@ -39,16 +39,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Baltic Religion'
     url: 'https://brill.com/search?q=Baltic%20Religion'
 artifacts:
-  - title: Baltic Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Baltic Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Baltic_Religion'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Baltic Religion.
-  - title: Baltic Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Baltic Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Baltic_Religion'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium BCE

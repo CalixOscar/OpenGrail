@@ -46,16 +46,14 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Chinese%20Folk%20Religion
 artifacts:
-  - title: Chinese Folk Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Chinese Folk Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Folk_Religion'
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Chinese Folk Religion.
-  - title: Chinese Folk Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Chinese Folk Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Folk_Religion'
     provenance: 'Qufu, Shandong, China'
     period: c. ancient

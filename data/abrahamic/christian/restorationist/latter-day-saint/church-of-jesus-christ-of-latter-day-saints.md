@@ -60,8 +60,9 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=The%20Church%20of%20Jesus%20Christ%20of%20Latter-day%20Saints
 artifacts:
-  - title: The Church of Jesus Christ of Latter-day Saints Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: >-
+      The Church of Jesus Christ of Latter-day Saints Historical Sanctuary &
+      Relics
     sourceUrl: >-
       https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
@@ -69,10 +70,8 @@ artifacts:
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with The Church of Jesus Christ of Latter-day Saints.
-  - title: >-
-      The Church of Jesus Christ of Latter-day Saints Sacred Texts & Material
-      Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/church-of-jesus-christ-of-latter-day-saints-1.jpg
+  - title: The Church of Jesus Christ of Latter-day Saints Sacred Scripture & Art
     sourceUrl: >-
       https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
@@ -80,6 +79,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of The Church of Jesus Christ of Latter-day Saints.
+    imageUrl: /artifacts/church-of-jesus-christ-of-latter-day-saints-2.jpg
 ---
 
 # The Church of Jesus Christ of Latter-day Saints

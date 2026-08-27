@@ -42,16 +42,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ter%C4%81panth%20Jainism'
 artifacts:
-  - title: Terāpanth Jainism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Terāpanth Jainism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ter%C4%81panth_Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. 1760 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Terāpanth Jainism.
-  - title: Terāpanth Jainism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Terāpanth Jainism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ter%C4%81panth_Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. 1760 CE

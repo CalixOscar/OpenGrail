@@ -50,16 +50,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Pythagoreanism'
     url: 'https://brill.com/search?q=Pythagoreanism'
 artifacts:
-  - title: Pythagoreanism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Pythagoreanism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Pythagoreanism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 530 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Pythagoreanism.
-  - title: Pythagoreanism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Pythagoreanism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Pythagoreanism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 530 BCE

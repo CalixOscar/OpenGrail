@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Middle Platonism'
     url: 'https://brill.com/search?q=Middle%20Platonism'
 artifacts:
-  - title: Middle Platonism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Middle Platonism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Middle_Platonism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 80 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Middle Platonism.
-  - title: Middle Platonism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Middle Platonism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Middle_Platonism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 80 BCE

@@ -42,16 +42,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=B%C3%B6n'
 artifacts:
-  - title: Bön Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Bön Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/B%C3%B6n'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Bön.
-  - title: Bön Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Bön Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/B%C3%B6n'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE

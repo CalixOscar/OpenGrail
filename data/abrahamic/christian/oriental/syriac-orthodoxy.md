@@ -42,24 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Syriac Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Orthodoxy'
 artifacts:
-  - title: Syriac Orthodox Church Historical Sanctuary & Records
+  - title: Syriac Orthodoxy Historical Sanctuary & Relics
+    sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Orthodoxy'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1st century CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Syriac Orthodoxy.
     imageUrl: /artifacts/syriac-orthodoxy-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Orthodox_Church'
+  - title: Syriac Orthodoxy Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      The Syriac Orthodox Church (Classical Syriac: ܥܺܕܬܳܐ ܣܽܘܪܝܳܝܬܳܐ ܬܪܺܝܨܰܬ݂
-      ܫܽܘܒܚܳܐ, romanized: ʿIdto Sūryoyto Trīṣāth Šubḥō), also informally known
-      as the Jacobite Church, is an Orie...
-  - title: Peshitta Canonical Scripture & Iconography
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Syriac Orthodoxy.
     imageUrl: /artifacts/syriac-orthodoxy-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Peshitta'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1st century CE
-    description: >-
-      The Peshitta (Classical Syriac: ܦܫܺܝܛܬܳܐ or ܦܫܝܼܛܬܵܐ pšīṭta) is the
-      standard Syriac edition of the Bible for the Syriac churches and
-      traditions that follow the liturgy of the Syria...
 ---
 
 # Syriac Orthodoxy

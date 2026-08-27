@@ -42,24 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Mandaeism'
     url: 'https://www.cambridge.org/core/search?q=Mandaeism'
 artifacts:
-  - title: Mandaeism Historical Sanctuary & Records
-    imageUrl: /artifacts/mandeanism-1.jpg
+  - title: Mandaeism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Mandaeism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd–5th centuries CE
     description: >-
-      Mandaeism (Classical Mandaic: ࡌࡀࡍࡃࡀࡉࡅࡕࡀ‎ mandaiuta), sometimes also known
-      as Nasoraeanism or Sabianism, is a Gnostic, monotheistic and ethnic
-      religion with Greek, Iranian, and Jewi...
-  - title: Ginza Rabba Canonical Scripture & Iconography
-    imageUrl: /artifacts/mandeanism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ginza_Rabba'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Mandaeism.
+    imageUrl: /artifacts/mandeanism-1.jpg
+  - title: Mandaeism Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mandaeism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd–5th centuries CE
     description: >-
-      The Ginza Rabba (Classical Mandaic: ࡂࡉࡍࡆࡀ ࡓࡁࡀ, romanized: Ginzā Rbā,
-      lit. 'Great Treasury', Modern Mandaic pronunciation: [ˈgɪnza ˈrɑbbɑ]),
-      Ginza Rba, or Sidra Rabba (Classical Man...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Mandaeism.
+    imageUrl: /artifacts/mandeanism-2.jpg
 ---
 
 # Mandaeism

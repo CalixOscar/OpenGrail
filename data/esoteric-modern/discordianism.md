@@ -47,16 +47,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Discordianism'
     url: 'https://brill.com/search?q=Discordianism'
 artifacts:
-  - title: Discordianism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Discordianism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Discordianism'
     provenance: 'London, England, UK'
     period: c. late 1950s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Discordianism.
-  - title: Discordianism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Discordianism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Discordianism'
     provenance: 'London, England, UK'
     period: c. late 1950s CE

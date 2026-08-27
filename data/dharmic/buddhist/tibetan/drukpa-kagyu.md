@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Drukpa%20Kagyu'
 artifacts:
-  - title: Drukpa Kagyu Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Drukpa Kagyu Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Drukpa_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Drukpa Kagyu.
-  - title: Drukpa Kagyu Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Drukpa Kagyu Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Drukpa_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE

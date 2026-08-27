@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Heaven''s Gate'
     url: 'https://brill.com/search?q=Heaven''s%20Gate'
 artifacts:
-  - title: Heaven's Gate Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Heaven's Gate Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Heaven''s_Gate'
     provenance: 'London, England, UK'
     period: c. 1970s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Heaven's Gate.
-  - title: Heaven's Gate Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Heaven's Gate Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Heaven''s_Gate'
     provenance: 'London, England, UK'
     period: c. 1970s CE

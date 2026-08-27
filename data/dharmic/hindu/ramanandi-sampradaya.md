@@ -50,16 +50,14 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=R%C4%81m%C4%81nand%C4%AB%20Samprad%C4%81ya
 artifacts:
-  - title: Rāmānandī Sampradāya Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Rāmānandī Sampradāya Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/R%C4%81m%C4%81nand%C4%AB_Samprad%C4%81ya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 14th–15th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Rāmānandī Sampradāya.
-  - title: Rāmānandī Sampradāya Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Rāmānandī Sampradāya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/R%C4%81m%C4%81nand%C4%AB_Samprad%C4%81ya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 14th–15th century CE

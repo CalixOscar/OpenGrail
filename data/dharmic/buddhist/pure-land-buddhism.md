@@ -43,16 +43,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pure%20Land%20Buddhism'
 artifacts:
-  - title: Pure Land Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Pure Land Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Pure_Land_Buddhism'
     provenance: 'Luoyang, Henan, China'
     period: c. c. 2nd century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Pure Land Buddhism.
-  - title: Pure Land Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Pure Land Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Pure_Land_Buddhism'
     provenance: 'Luoyang, Henan, China'
     period: c. c. 2nd century CE

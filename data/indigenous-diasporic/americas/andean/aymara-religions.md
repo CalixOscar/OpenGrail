@@ -54,16 +54,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Aymara%20Religious%20Traditions'
 artifacts:
-  - title: Aymara Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Aymara Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Aymara_Religious_Traditions'
     provenance: 'Tiwanaku, Lake Titicaca, Bolivia'
     period: c. pre-Inca and historically diverse
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Aymara Religious Traditions.
-  - title: Aymara Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Aymara Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Aymara_Religious_Traditions'
     provenance: 'Tiwanaku, Lake Titicaca, Bolivia'
     period: c. pre-Inca and historically diverse

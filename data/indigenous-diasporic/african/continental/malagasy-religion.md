@@ -49,16 +49,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Malagasy%20Religious%20Traditions'
 artifacts:
-  - title: Malagasy Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Malagasy Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Malagasy_Religious_Traditions'
     provenance: 'Highlands (Antananarivo), Madagascar'
     period: c. precolonial
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Malagasy Religious Traditions.
-  - title: Malagasy Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Malagasy Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Malagasy_Religious_Traditions'
     provenance: 'Highlands (Antananarivo), Madagascar'
     period: c. precolonial

@@ -43,16 +43,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Messianic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Messianic%20Judaism'
 artifacts:
-  - title: Messianic Judaism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Messianic Judaism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Messianic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1960s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Messianic Judaism.
-  - title: Messianic Judaism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Messianic Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Messianic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1960s CE

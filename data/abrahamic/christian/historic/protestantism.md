@@ -44,24 +44,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Protestantism'
     url: 'https://www.cambridge.org/core/search?q=Protestantism'
 artifacts:
-  - title: Timeline of Jerusalem Historical Sanctuary & Records
+  - title: Protestantism Historical Sanctuary & Relics
+    sourceUrl: 'https://en.wikipedia.org/wiki/Protestantism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1517 CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Protestantism.
     imageUrl: /artifacts/protestantism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Timeline_of_Jerusalem'
+  - title: Protestantism Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Protestantism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1517 CE
     description: >-
-      This is a timeline of major events in the history of Jerusalem; a city
-      that has been fought over sixteen times over millennia. During its
-      history, Jerusalem has been destroyed twic...
-  - title: Bible Canonical Scripture & Iconography
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Protestantism.
     imageUrl: /artifacts/protestantism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1517 CE
-    description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
 ---
 
 # Protestantism

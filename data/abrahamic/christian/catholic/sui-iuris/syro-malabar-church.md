@@ -45,24 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Syro-Malabar Church'
     url: 'https://www.cambridge.org/core/search?q=Syro-Malabar%20Church'
 artifacts:
-  - title: Syro-Malabar Church Historical Sanctuary & Records
-    imageUrl: /artifacts/syro-malabar-church-1.jpg
+  - title: Syro-Malabar Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malabar_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 16th century CE
     description: >-
-      The Syro-Malabar Church, also known as the Syro-Malabar Catholic Church or
-      Edtha Qatholiqi d'Malabar Suryaya, is an Eastern Catholic church based in
-      Kerala, India. It is a sui iuri...
-  - title: Bible Canonical Scripture & Iconography
-    imageUrl: /artifacts/syro-malabar-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Syro-Malabar Church.
+    imageUrl: /artifacts/syro-malabar-church-1.jpg
+  - title: Syro-Malabar Church Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malabar_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 16th century CE
     description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Syro-Malabar Church.
+    imageUrl: /artifacts/syro-malabar-church-2.jpg
 ---
 
 # Syro-Malabar Church

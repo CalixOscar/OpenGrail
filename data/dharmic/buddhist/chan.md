@@ -44,16 +44,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Chan%20Buddhism'
 artifacts:
-  - title: Chan Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Chan Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Chan_Buddhism'
     provenance: 'Luoyang, Henan, China'
     period: c. c. 6th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Chan Buddhism.
-  - title: Chan Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Chan Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Chan_Buddhism'
     provenance: 'Luoyang, Henan, China'
     period: c. c. 6th century CE

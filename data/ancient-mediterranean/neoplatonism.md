@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Neoplatonism'
     url: 'https://brill.com/search?q=Neoplatonism'
 artifacts:
-  - title: Neoplatonism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Neoplatonism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Neoplatonism'
     provenance: 'Athens, Attica, Greece'
     period: c. 3rd century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Neoplatonism.
-  - title: Neoplatonism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Neoplatonism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Neoplatonism'
     provenance: 'Athens, Attica, Greece'
     period: c. 3rd century CE

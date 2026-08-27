@@ -46,16 +46,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hermeticism'
     url: 'https://brill.com/search?q=Hermeticism'
 artifacts:
-  - title: Hermeticism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Hermeticism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Hermeticism'
     provenance: 'London, England, UK'
     period: c. c. 1st–3rd centuries CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hermeticism.
-  - title: Hermeticism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Hermeticism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Hermeticism'
     provenance: 'London, England, UK'
     period: c. c. 1st–3rd centuries CE

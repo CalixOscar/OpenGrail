@@ -46,16 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Karma%20Kagyu'
 artifacts:
-  - title: Karma Kagyu Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Karma Kagyu Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Karma_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Karma Kagyu.
-  - title: Karma Kagyu Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Karma Kagyu Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Karma_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE

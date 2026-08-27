@@ -46,16 +46,14 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Cheng%E2%80%93Zhu%20Confucianism
 artifacts:
-  - title: Cheng–Zhu Confucianism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Cheng–Zhu Confucianism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Cheng%E2%80%93Zhu_Confucianism'
     provenance: 'Qufu, Shandong, China'
     period: c. 11th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cheng–Zhu Confucianism.
-  - title: Cheng–Zhu Confucianism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Cheng–Zhu Confucianism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cheng%E2%80%93Zhu_Confucianism'
     provenance: 'Qufu, Shandong, China'
     period: c. 11th century CE

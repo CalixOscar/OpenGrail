@@ -45,16 +45,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Jeungsanism'
 artifacts:
-  - title: Jeungsanism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Jeungsanism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Jeungsanism'
     provenance: 'Jeongeup / Moaksan, Jeonbuk, South Korea'
     period: c. early 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Jeungsanism.
-  - title: Jeungsanism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Jeungsanism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Jeungsanism'
     provenance: 'Jeongeup / Moaksan, Jeonbuk, South Korea'
     period: c. early 20th century CE

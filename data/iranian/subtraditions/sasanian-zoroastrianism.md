@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Sasanian Zoroastrianism'
     url: 'https://brill.com/search?q=Sasanian%20Zoroastrianism'
 artifacts:
-  - title: Sasanian Zoroastrianism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Sasanian Zoroastrianism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Sasanian_Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. 224 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sasanian Zoroastrianism.
-  - title: Sasanian Zoroastrianism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Sasanian Zoroastrianism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sasanian_Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. 224 CE

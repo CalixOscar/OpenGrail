@@ -46,22 +46,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of England'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20England'
 artifacts:
-  - title: Church of England Historical Records
-    imageUrl: /artifacts/church-of-england-1.jpg
+  - title: Church of England Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_England'
     provenance: 'Canterbury, Kent, England, UK'
     period: c. 1534 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Church of England.
-  - title: Church of England Sacred Texts & Material Culture
-    imageUrl: /artifacts/church-of-england-2.jpg
+    imageUrl: /artifacts/church-of-england-1.jpg
+  - title: Church of England Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_England'
     provenance: 'Canterbury, Kent, England, UK'
     period: c. 1534 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Church of England.
+    imageUrl: /artifacts/church-of-england-2.jpg
 ---
 
 # Church of England

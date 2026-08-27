@@ -42,16 +42,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Micronesian%20Religions'
 artifacts:
-  - title: Micronesian Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Micronesian Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Micronesian_Religions'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. ancestral era
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Micronesian Religions.
-  - title: Micronesian Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Micronesian Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Micronesian_Religions'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. ancestral era

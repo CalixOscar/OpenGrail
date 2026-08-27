@@ -59,8 +59,7 @@ sources:
 artifacts:
   - title: >-
       Fundamentalist Church of Jesus Christ of Latter-Day Saints Historical
-      Records
-    imageUrl: /artifacts/fundamentalist-church-jesus-christ-latter-day-saints-1.jpg
+      Sanctuary & Relics
     sourceUrl: >-
       https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
@@ -69,10 +68,10 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Fundamentalist Church of Jesus Christ of Latter-Day
       Saints.
-  - title: >-
-      Fundamentalist Church of Jesus Christ of Latter-Day Saints Sacred Texts &
-      Material Culture
     imageUrl: /artifacts/fundamentalist-church-jesus-christ-latter-day-saints-1.jpg
+  - title: >-
+      Fundamentalist Church of Jesus Christ of Latter-Day Saints Sacred
+      Scripture & Art
     sourceUrl: >-
       https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
@@ -80,6 +79,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Fundamentalist Church of Jesus Christ of Latter-Day Saints.
+    imageUrl: /artifacts/fundamentalist-church-jesus-christ-latter-day-saints-2.jpg
 ---
 
 # Fundamentalist Church of Jesus Christ of Latter-Day Saints

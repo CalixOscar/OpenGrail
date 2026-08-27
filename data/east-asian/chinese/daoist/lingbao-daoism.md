@@ -46,16 +46,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Lingbao%20Daoism'
 artifacts:
-  - title: Lingbao Daoism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Lingbao Daoism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Lingbao_Daoism'
     provenance: 'Luoyang, Henan, China'
     period: c. late 4th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Lingbao Daoism.
-  - title: Lingbao Daoism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Lingbao Daoism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Lingbao_Daoism'
     provenance: 'Luoyang, Henan, China'
     period: c. late 4th century CE

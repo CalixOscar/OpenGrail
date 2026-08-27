@@ -45,16 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Wicca'
     url: 'https://brill.com/search?q=Wicca'
 artifacts:
-  - title: Wicca Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Wicca Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. mid-20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Wicca.
-  - title: Wicca Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Wicca Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. mid-20th century CE

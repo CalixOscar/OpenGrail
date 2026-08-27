@@ -49,22 +49,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=African%20Methodist%20Episcopal%20Church
 artifacts:
-  - title: African Methodist Episcopal Church Historical Records
-    imageUrl: /artifacts/african-methodist-episcopal-church-2.jpg
+  - title: African Methodist Episcopal Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/African_Methodist_Episcopal_Church'
     provenance: 'Oxford, Oxfordshire, England, UK'
     period: c. 1816 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with African Methodist Episcopal Church.
-  - title: African Methodist Episcopal Church Sacred Texts & Material Culture
-    imageUrl: /artifacts/african-methodist-episcopal-church-2.jpg
+    imageUrl: /artifacts/african-methodist-episcopal-church-1.jpg
+  - title: African Methodist Episcopal Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/African_Methodist_Episcopal_Church'
     provenance: 'Oxford, Oxfordshire, England, UK'
     period: c. 1816 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of African Methodist Episcopal Church.
+    imageUrl: /artifacts/african-methodist-episcopal-church-2.jpg
 ---
 
 # African Methodist Episcopal Church

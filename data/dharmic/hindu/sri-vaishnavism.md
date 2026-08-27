@@ -50,16 +50,14 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%AB%20Vai%E1%B9%A3%E1%B9%87avism
 artifacts:
-  - title: Śrī Vaiṣṇavism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Śrī Vaiṣṇavism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Ar%C4%AB_Vai%E1%B9%A3%E1%B9%87avism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Śrī Vaiṣṇavism.
-  - title: Śrī Vaiṣṇavism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Śrī Vaiṣṇavism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Ar%C4%AB_Vai%E1%B9%A3%E1%B9%87avism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE

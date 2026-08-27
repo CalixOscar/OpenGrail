@@ -52,16 +52,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Jediism'
     url: 'https://brill.com/search?q=Jediism'
 artifacts:
-  - title: Jediism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Jediism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Jediism'
     provenance: 'London, England, UK'
     period: c. late 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Jediism.
-  - title: Jediism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Jediism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Jediism'
     provenance: 'London, England, UK'
     period: c. late 20th century CE

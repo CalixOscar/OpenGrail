@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Asclepius'
     url: 'https://brill.com/search?q=Cult%20of%20Asclepius'
 artifacts:
-  - title: Cult of Asclepius Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Cult of Asclepius Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Asclepius'
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 6th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cult of Asclepius.
-  - title: Cult of Asclepius Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Cult of Asclepius Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Asclepius'
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 6th century BCE

@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Parsi Zoroastrianism'
     url: 'https://brill.com/search?q=Parsi%20Zoroastrianism'
 artifacts:
-  - title: Parsi Zoroastrianism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Parsi Zoroastrianism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Parsi_Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. c. 8th–10th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Parsi Zoroastrianism.
-  - title: Parsi Zoroastrianism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Parsi Zoroastrianism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Parsi_Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. c. 8th–10th century CE

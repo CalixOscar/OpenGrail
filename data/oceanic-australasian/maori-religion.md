@@ -43,16 +43,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=M%C4%81ori%20Religion'
 artifacts:
-  - title: Māori Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Māori Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/M%C4%81ori_Religion'
     provenance: 'Rotorua (Te Arawa), Bay of Plenty, NZ'
     period: c. c. 1250 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Māori Religion.
-  - title: Māori Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Māori Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/M%C4%81ori_Religion'
     provenance: 'Rotorua (Te Arawa), Bay of Plenty, NZ'
     period: c. c. 1250 CE

@@ -40,16 +40,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hurrian Religion'
     url: 'https://brill.com/search?q=Hurrian%20Religion'
 artifacts:
-  - title: Hurrian Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Hurrian Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Hurrian_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2200 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hurrian Religion.
-  - title: Hurrian Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Hurrian Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Hurrian_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2200 BCE

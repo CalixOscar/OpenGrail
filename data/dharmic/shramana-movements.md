@@ -54,16 +54,14 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Arama%E1%B9%87a%20Movements
 artifacts:
-  - title: Śramaṇa Movements Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Śramaṇa Movements Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a_Movements'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Śramaṇa Movements.
-  - title: Śramaṇa Movements Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Śramaṇa Movements Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a_Movements'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century BCE

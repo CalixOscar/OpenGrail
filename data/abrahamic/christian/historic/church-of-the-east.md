@@ -42,24 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of the East'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20the%20East'
 artifacts:
-  - title: Church of the East Historical Sanctuary & Records
-    imageUrl: /artifacts/church-of-the-east-1.jpg
+  - title: Church of the East Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_the_East'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century CE
     description: >-
-      The Church of the East (Classical Syriac: ܥܕܬܐ ܕܡܕܢܚܐ ʿĒḏtā d-Maḏenḥā) or
-      the East Syriac Church, (also called the Church of Seleucia-Ctesiphon, the
-      Persian Church, the Assyrian Ch...
-  - title: Peshitta Canonical Scripture & Iconography
-    imageUrl: /artifacts/church-of-the-east-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Peshitta'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Church of the East.
+    imageUrl: /artifacts/church-of-the-east-1.jpg
+  - title: Church of the East Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_the_East'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century CE
     description: >-
-      The Peshitta (Classical Syriac: ܦܫܺܝܛܬܳܐ or ܦܫܝܼܛܬܵܐ pšīṭta) is the
-      standard Syriac edition of the Bible for the Syriac churches and
-      traditions that follow the liturgy of the Syria...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Church of the East.
+    imageUrl: /artifacts/church-of-the-east-2.jpg
 ---
 
 # Church of the East

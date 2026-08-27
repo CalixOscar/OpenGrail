@@ -45,16 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Missionary Church of Kopimism'
     url: 'https://brill.com/search?q=Missionary%20Church%20of%20Kopimism'
 artifacts:
-  - title: Missionary Church of Kopimism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Missionary Church of Kopimism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Missionary_Church_of_Kopimism'
     provenance: 'London, England, UK'
     period: c. 2010 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Missionary Church of Kopimism.
-  - title: Missionary Church of Kopimism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Missionary Church of Kopimism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Missionary_Church_of_Kopimism'
     provenance: 'London, England, UK'
     period: c. 2010 CE

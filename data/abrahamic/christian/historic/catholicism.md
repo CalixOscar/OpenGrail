@@ -45,24 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Catholicism'
     url: 'https://www.cambridge.org/core/search?q=Catholicism'
 artifacts:
-  - title: Catholic Church Historical Sanctuary & Records
+  - title: Catholicism Historical Sanctuary & Relics
+    sourceUrl: 'https://en.wikipedia.org/wiki/Catholicism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1st century CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Catholicism.
     imageUrl: /artifacts/catholicism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Catholic_Church'
+  - title: Catholicism Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Catholicism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      The Catholic Church (Latin: Ecclesia Catholica), also called the Roman
-      Catholic Church (Latin: Ecclesia Catholica Romana), is the largest
-      Christian church, with an estimated 1.28 t...
-  - title: Bible Canonical Scripture & Iconography
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Catholicism.
     imageUrl: /artifacts/catholicism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1st century CE
-    description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
 ---
 
 # Catholicism

@@ -43,24 +43,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Oriental Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Oriental%20Orthodoxy'
 artifacts:
-  - title: Oriental Orthodox Churches Historical Sanctuary & Records
+  - title: Oriental Orthodoxy Historical Sanctuary & Relics
+    sourceUrl: 'https://en.wikipedia.org/wiki/Oriental_Orthodoxy'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 451 CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Oriental Orthodoxy.
     imageUrl: /artifacts/oriental-orthodoxy-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches'
+  - title: Oriental Orthodoxy Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Oriental_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 451 CE
     description: >-
-      The Oriental Orthodox Churches are a communion of Eastern Christian
-      churches adhering to Miaphysite Christology. In 2020, it was estimated
-      that the Oriental Orthodox Churches had 7...
-  - title: Bible Canonical Scripture & Iconography
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Oriental Orthodoxy.
     imageUrl: /artifacts/oriental-orthodoxy-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 451 CE
-    description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
 ---
 
 # Oriental Orthodoxy

@@ -43,16 +43,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Haudenosaunee%20Religions'
 artifacts:
-  - title: Haudenosaunee Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Haudenosaunee Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Haudenosaunee_Religions'
     provenance: 'Onondaga, Haudenosaunee Territory, NY, USA'
     period: c. before 1500 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Haudenosaunee Religions.
-  - title: Haudenosaunee Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Haudenosaunee Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Haudenosaunee_Religions'
     provenance: 'Onondaga, Haudenosaunee Territory, NY, USA'
     period: c. before 1500 CE

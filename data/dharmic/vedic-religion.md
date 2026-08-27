@@ -47,16 +47,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vedic%20Religion'
 artifacts:
-  - title: Vedic Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Vedic Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Vedic_Religion'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1500 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Vedic Religion.
-  - title: Vedic Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Vedic Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Vedic_Religion'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1500 BCE

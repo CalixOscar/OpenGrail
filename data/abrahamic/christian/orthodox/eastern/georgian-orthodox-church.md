@@ -44,23 +44,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Georgian%20Orthodox%20Church'
 artifacts:
-  - title: Georgian Orthodox Church Historical Sanctuary & Records
-    imageUrl: /artifacts/georgian-orthodox-church-1.jpg
+  - title: Georgian Orthodox Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Georgian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE
     description: >-
-      The Apostolic Autocephalous Orthodox Church of Georgia (Georgian:
-      საქართველოს სამოციქულო ავტოკეფალური მართლმადიდებელი ეკლესია, romanized:
-      sakartvelos samotsikulo avt'ok'epaluri mar...
-  - title: Georgian Orthodox Church Sacred Texts & Material Culture
-    imageUrl: /artifacts/georgian-orthodox-church-2.jpg
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Georgian Orthodox Church.
+    imageUrl: /artifacts/georgian-orthodox-church-1.jpg
+  - title: Georgian Orthodox Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Georgian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Georgian Orthodox Church.
+    imageUrl: /artifacts/georgian-orthodox-church-2.jpg
 ---
 
 # Georgian Orthodox Church

@@ -52,16 +52,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Spiritism'
     url: 'https://brill.com/search?q=Spiritism'
 artifacts:
-  - title: Spiritism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Spiritism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Spiritism'
     provenance: 'London, England, UK'
     period: c. 1857 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Spiritism.
-  - title: Spiritism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Spiritism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Spiritism'
     provenance: 'London, England, UK'
     period: c. 1857 CE

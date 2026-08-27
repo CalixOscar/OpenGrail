@@ -43,24 +43,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Latin Church'
     url: 'https://www.cambridge.org/core/search?q=Latin%20Church'
 artifacts:
-  - title: Latin Church Historical Sanctuary & Records
-    imageUrl: /artifacts/latin-church-1.jpg
+  - title: Latin Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Latin_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 1st century CE
     description: >-
-      The Latin Church (Latin: Ecclesia Latina) is the largest autonomous (sui
-      iuris) particular church within the Catholic Church, whose members
-      constitute the vast majority of the 1.3...
-  - title: Bible Canonical Scripture & Iconography
-    imageUrl: /artifacts/latin-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Latin Church.
+    imageUrl: /artifacts/latin-church-1.jpg
+  - title: Latin Church Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Latin_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 1st century CE
     description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Latin Church.
+    imageUrl: /artifacts/latin-church-2.jpg
 ---
 
 # Latin Church

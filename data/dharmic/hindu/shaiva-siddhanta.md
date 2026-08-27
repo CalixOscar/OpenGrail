@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9Aaiva%20Siddh%C4%81nta'
 artifacts:
-  - title: Śaiva Siddhānta Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Śaiva Siddhānta Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Aaiva_Siddh%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th–8th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Śaiva Siddhānta.
-  - title: Śaiva Siddhānta Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Śaiva Siddhānta Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Aaiva_Siddh%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th–8th century CE

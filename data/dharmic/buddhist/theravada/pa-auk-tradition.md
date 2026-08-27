@@ -46,16 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pa-Auk%20Tradition'
 artifacts:
-  - title: Pa-Auk Tradition Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Pa-Auk Tradition Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Pa-Auk_Tradition'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 1980s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Pa-Auk Tradition.
-  - title: Pa-Auk Tradition Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Pa-Auk Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Pa-Auk_Tradition'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 1980s CE

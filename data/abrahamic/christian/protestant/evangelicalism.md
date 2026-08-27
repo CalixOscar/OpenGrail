@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Evangelicalism'
     url: 'https://www.cambridge.org/core/search?q=Evangelicalism'
 artifacts:
-  - title: Evangelicalism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Evangelicalism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Evangelicalism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1730s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Evangelicalism.
-  - title: Evangelicalism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/evangelicalism-1.jpg
+  - title: Evangelicalism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Evangelicalism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1730s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Evangelicalism.
+    imageUrl: /artifacts/evangelicalism-2.jpg
 ---
 
 # Evangelicalism

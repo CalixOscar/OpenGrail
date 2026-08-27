@@ -48,16 +48,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Lucum%C3%AD%20%2F%20Regla%20de%20Ocha'
 artifacts:
-  - title: Lucumí / Regla de Ocha Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Lucumí / Regla de Ocha Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Lucum%C3%AD_%2F_Regla_de_Ocha'
     provenance: 'Havana, Cuba'
     period: c. 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Lucumí / Regla de Ocha.
-  - title: Lucumí / Regla de Ocha Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Lucumí / Regla de Ocha Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Lucum%C3%AD_%2F_Regla_de_Ocha'
     provenance: 'Havana, Cuba'
     period: c. 19th century CE

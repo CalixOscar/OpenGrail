@@ -46,16 +46,14 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Auddh%C4%81dvaita%20Ved%C4%81nta
 artifacts:
-  - title: Śuddhādvaita Vedānta Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Śuddhādvaita Vedānta Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Auddh%C4%81dvaita_Ved%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 15th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Śuddhādvaita Vedānta.
-  - title: Śuddhādvaita Vedānta Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Śuddhādvaita Vedānta Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Auddh%C4%81dvaita_Ved%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 15th century CE

@@ -42,16 +42,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=B%C4%ABsapantha'
 artifacts:
-  - title: Bīsapantha Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Bīsapantha Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/B%C4%ABsapantha'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. early modern period
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Bīsapantha.
-  - title: Bīsapantha Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Bīsapantha Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/B%C4%ABsapantha'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. early modern period

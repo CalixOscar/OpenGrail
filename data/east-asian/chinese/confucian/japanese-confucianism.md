@@ -49,16 +49,14 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Japanese%20Confucian%20Traditions
 artifacts:
-  - title: Japanese Confucian Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Japanese Confucian Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Japanese_Confucian_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 6th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Japanese Confucian Traditions.
-  - title: Japanese Confucian Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Japanese Confucian Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Japanese_Confucian_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 6th century CE

@@ -49,16 +49,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Plum%20Village%20Tradition'
 artifacts:
-  - title: Plum Village Tradition Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Plum Village Tradition Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Plum_Village_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1982 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Plum Village Tradition.
-  - title: Plum Village Tradition Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Plum Village Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Plum_Village_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1982 CE

@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gaulish Religions'
     url: 'https://brill.com/search?q=Gaulish%20Religions'
 artifacts:
-  - title: Gaulish Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Gaulish Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Gaulish_Religions'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 600 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Gaulish Religions.
-  - title: Gaulish Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Gaulish Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Gaulish_Religions'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 600 BCE

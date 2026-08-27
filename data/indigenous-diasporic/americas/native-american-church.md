@@ -44,16 +44,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Native%20American%20Church'
 artifacts:
-  - title: Native American Church Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Native American Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Native_American_Church'
     provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
     period: c. late 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Native American Church.
-  - title: Native American Church Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Native American Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Native_American_Church'
     provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
     period: c. late 19th century CE

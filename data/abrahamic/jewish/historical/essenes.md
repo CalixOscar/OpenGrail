@@ -42,16 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Essenes'
     url: 'https://www.cambridge.org/core/search?q=Essenes'
 artifacts:
-  - title: Essenes Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Essenes Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Essenes'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Essenes.
-  - title: Essenes Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Essenes Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Essenes'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century BCE

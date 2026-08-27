@@ -50,16 +50,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Cambodian%20Buddhism'
 artifacts:
-  - title: Cambodian Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Cambodian Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Cambodian_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 14th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cambodian Buddhism.
-  - title: Cambodian Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Cambodian Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cambodian_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 14th century CE

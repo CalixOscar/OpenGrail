@@ -40,16 +40,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Yor%C3%B9b%C3%A1%20Religion'
 artifacts:
-  - title: Yorùbá Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Yorùbá Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Yor%C3%B9b%C3%A1_Religion'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. before 1000 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Yorùbá Religion.
-  - title: Yorùbá Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Yorùbá Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Yor%C3%B9b%C3%A1_Religion'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. before 1000 CE

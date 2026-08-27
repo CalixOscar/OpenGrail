@@ -43,16 +43,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Druidry'
     url: 'https://brill.com/search?q=Modern%20Druidry'
 artifacts:
-  - title: Modern Druidry Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Modern Druidry Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Druidry'
     provenance: 'Glastonbury, Somerset, England, UK'
     period: c. 18th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Modern Druidry.
-  - title: Modern Druidry Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Modern Druidry Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Druidry'
     provenance: 'Glastonbury, Somerset, England, UK'
     period: c. 18th century CE

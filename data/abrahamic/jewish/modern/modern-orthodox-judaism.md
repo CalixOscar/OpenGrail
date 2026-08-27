@@ -46,16 +46,14 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Modern%20Orthodox%20Judaism'
 artifacts:
-  - title: Modern Orthodox Judaism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Modern Orthodox Judaism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Orthodox_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Modern Orthodox Judaism.
-  - title: Modern Orthodox Judaism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Modern Orthodox Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Orthodox_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 19th century CE

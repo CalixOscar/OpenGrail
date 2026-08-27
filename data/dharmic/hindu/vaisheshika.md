@@ -44,16 +44,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vai%C5%9Be%E1%B9%A3ika'
 artifacts:
-  - title: Vaiśeṣika Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Vaiśeṣika Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Vaiśeṣika.
-  - title: Vaiśeṣika Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Vaiśeṣika Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE

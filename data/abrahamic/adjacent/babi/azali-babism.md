@@ -45,24 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Azali Babism'
     url: 'https://www.cambridge.org/core/search?q=Azali%20Babism'
 artifacts:
-  - title: Subh-i-Azal Historical Sanctuary & Records
+  - title: Azali Babism Historical Sanctuary & Relics
+    sourceUrl: 'https://en.wikipedia.org/wiki/Azali_Babism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1860s CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Azali Babism.
     imageUrl: /artifacts/azali-babism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Subh-i-Azal'
+  - title: Azali Babism Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Azali_Babism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1860s CE
     description: >-
-      Subh-i-Azal (1831–1912), born Mīrzā Yaḥyā Nūrī, was an Iranian Bábí
-      religious figure and writer who was designated by the Báb shortly before
-      the Báb's execution in 1850 as a leadin...
-  - title: Persian Bayán Canonical Scripture & Iconography
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Azali Babism.
     imageUrl: /artifacts/azali-babism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Persian_Bay%C3%A1n'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1860s CE
-    description: >-
-      The Persian Bayán (Persian: بیان  'expression') is one of the principal
-      scriptural writings of the Báb, the founder of Bábism, written in Persian.
-      The Báb also wrote a shorter book...
 ---
 
 # Azali Babism

@@ -43,16 +43,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Mazdakism'
     url: 'https://brill.com/search?q=Mazdakism'
 artifacts:
-  - title: Mazdakism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Mazdakism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Mazdakism'
     provenance: 'Isfahan, Iran'
     period: c. late 5th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mazdakism.
-  - title: Mazdakism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Mazdakism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Mazdakism'
     provenance: 'Isfahan, Iran'
     period: c. late 5th century CE

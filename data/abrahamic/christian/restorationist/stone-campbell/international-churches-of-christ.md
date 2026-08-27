@@ -45,16 +45,14 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=International%20Churches%20of%20Christ
 artifacts:
-  - title: International Churches of Christ Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: International Churches of Christ Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/International_Churches_of_Christ'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1979 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with International Churches of Christ.
-  - title: International Churches of Christ Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: International Churches of Christ Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/International_Churches_of_Christ'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1979 CE

@@ -44,16 +44,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Confucian%20Traditions'
 artifacts:
-  - title: Confucian Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Confucian Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Confucian_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 5th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Confucian Traditions.
-  - title: Confucian Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Confucian Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Confucian_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 5th century BCE

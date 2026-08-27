@@ -48,22 +48,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=United%20Methodist%20Church'
 artifacts:
-  - title: United Methodist Church Historical Records
-    imageUrl: /artifacts/united-methodist-church-2.jpg
+  - title: United Methodist Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/United_Methodist_Church'
     provenance: 'Oxford, Oxfordshire, England, UK'
     period: c. 1968 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with United Methodist Church.
-  - title: United Methodist Church Sacred Texts & Material Culture
-    imageUrl: /artifacts/united-methodist-church-2.jpg
+    imageUrl: /artifacts/united-methodist-church-1.jpg
+  - title: United Methodist Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/United_Methodist_Church'
     provenance: 'Oxford, Oxfordshire, England, UK'
     period: c. 1968 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of United Methodist Church.
+    imageUrl: /artifacts/united-methodist-church-2.jpg
 ---
 
 # United Methodist Church

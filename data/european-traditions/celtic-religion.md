@@ -39,16 +39,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Celtic Religions'
     url: 'https://brill.com/search?q=Ancient%20Celtic%20Religions'
 artifacts:
-  - title: Ancient Celtic Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ancient Celtic Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Celtic_Religions'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 800 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ancient Celtic Religions.
-  - title: Ancient Celtic Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ancient Celtic Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Celtic_Religions'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 800 BCE

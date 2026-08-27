@@ -43,16 +43,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Romuva'
     url: 'https://brill.com/search?q=Romuva'
 artifacts:
-  - title: Romuva Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Romuva Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Romuva'
     provenance: 'Vilnius, Lithuania'
     period: c. early 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Romuva.
-  - title: Romuva Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Romuva Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Romuva'
     provenance: 'Vilnius, Lithuania'
     period: c. early 20th century CE

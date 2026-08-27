@@ -49,16 +49,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Zulu%20Religious%20Traditions'
 artifacts:
-  - title: Zulu Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Zulu Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Zulu_Religious_Traditions'
     provenance: 'KwaZulu (Ulundi), South Africa'
     period: c. precolonial
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Zulu Religious Traditions.
-  - title: Zulu Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Zulu Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Zulu_Religious_Traditions'
     provenance: 'KwaZulu (Ulundi), South Africa'
     period: c. precolonial

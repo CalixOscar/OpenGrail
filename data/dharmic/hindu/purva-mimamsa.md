@@ -47,16 +47,14 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=P%C5%ABrva%20M%C4%ABm%C4%81%E1%B9%83s%C4%81
 artifacts:
-  - title: Pūrva Mīmāṃsā Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Pūrva Mīmāṃsā Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/P%C5%ABrva_M%C4%ABm%C4%81%E1%B9%83s%C4%81'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Pūrva Mīmāṃsā.
-  - title: Pūrva Mīmāṃsā Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Pūrva Mīmāṃsā Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/P%C5%ABrva_M%C4%ABm%C4%81%E1%B9%83s%C4%81'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE

@@ -49,16 +49,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Palo'
 artifacts:
-  - title: Palo Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Palo Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Palo'
     provenance: 'Havana, Cuba'
     period: c. 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Palo.
-  - title: Palo Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Palo Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Palo'
     provenance: 'Havana, Cuba'
     period: c. 19th century CE

@@ -47,16 +47,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Candombl%C3%A9'
 artifacts:
-  - title: Candomblé Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Candomblé Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Candombl%C3%A9'
     provenance: 'Salvador da Bahia, Brazil'
     period: c. 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Candomblé.
-  - title: Candomblé Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Candomblé Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Candombl%C3%A9'
     provenance: 'Salvador da Bahia, Brazil'
     period: c. 19th century CE

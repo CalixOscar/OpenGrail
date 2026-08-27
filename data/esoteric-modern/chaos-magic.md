@@ -47,16 +47,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Chaos Magic'
     url: 'https://brill.com/search?q=Chaos%20Magic'
 artifacts:
-  - title: Chaos Magic Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Chaos Magic Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Chaos_Magic'
     provenance: 'London, England, UK'
     period: c. late 1970s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Chaos Magic.
-  - title: Chaos Magic Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Chaos Magic Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Chaos_Magic'
     provenance: 'London, England, UK'
     period: c. late 1970s CE

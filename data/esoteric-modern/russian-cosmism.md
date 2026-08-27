@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Russian Cosmism'
     url: 'https://brill.com/search?q=Russian%20Cosmism'
 artifacts:
-  - title: Russian Cosmism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Russian Cosmism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Russian_Cosmism'
     provenance: 'London, England, UK'
     period: c. late 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Russian Cosmism.
-  - title: Russian Cosmism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Russian Cosmism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Russian_Cosmism'
     provenance: 'London, England, UK'
     period: c. late 19th century CE

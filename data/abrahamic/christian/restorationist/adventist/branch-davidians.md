@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Branch Davidians'
     url: 'https://www.cambridge.org/core/search?q=Branch%20Davidians'
 artifacts:
-  - title: Branch Davidians Historical Records
-    imageUrl: /artifacts/branch-davidians-1.jpg
+  - title: Branch Davidians Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Branch_Davidians'
     provenance: 'Mount Carmel (Waco), Texas, USA'
     period: c. 1955 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Branch Davidians.
-  - title: Branch Davidians Sacred Texts & Material Culture
     imageUrl: /artifacts/branch-davidians-1.jpg
+  - title: Branch Davidians Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Branch_Davidians'
     provenance: 'Mount Carmel (Waco), Texas, USA'
     period: c. 1955 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Branch Davidians.
+    imageUrl: /artifacts/branch-davidians-2.jpg
 ---
 
 # Branch Davidians

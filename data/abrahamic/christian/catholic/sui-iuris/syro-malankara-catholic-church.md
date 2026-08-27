@@ -48,24 +48,22 @@ sources:
       Catholic Church
     url: 'https://www.cambridge.org/core/search?q=Syro-Malankara%20Catholic%20Church'
 artifacts:
-  - title: Syro-Malankara Catholic Church Historical Sanctuary & Records
-    imageUrl: /artifacts/syro-malankara-catholic-church-1.jpg
+  - title: Syro-Malankara Catholic Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malankara_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1930 CE
     description: >-
-      The Syro-Malankara Catholic Church, also known as the Malankara Syrian
-      Catholic Church, is an Eastern Catholic sui iuris particular church that
-      employs the West Syriac Rite and is...
-  - title: Bible Canonical Scripture & Iconography
-    imageUrl: /artifacts/syro-malankara-catholic-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Syro-Malankara Catholic Church.
+    imageUrl: /artifacts/syro-malankara-catholic-church-1.jpg
+  - title: Syro-Malankara Catholic Church Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malankara_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1930 CE
     description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Syro-Malankara Catholic Church.
+    imageUrl: /artifacts/syro-malankara-catholic-church-2.jpg
 ---
 
 # Syro-Malankara Catholic Church

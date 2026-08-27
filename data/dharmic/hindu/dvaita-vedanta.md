@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Dvaita%20Ved%C4%81nta'
 artifacts:
-  - title: Dvaita Vedānta Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Dvaita Vedānta Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Dvaita_Ved%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Dvaita Vedānta.
-  - title: Dvaita Vedānta Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Dvaita Vedānta Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Dvaita_Ved%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE

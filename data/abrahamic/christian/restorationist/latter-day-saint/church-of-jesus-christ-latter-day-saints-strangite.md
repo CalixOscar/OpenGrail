@@ -48,8 +48,9 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Church%20of%20Jesus%20Christ%20of%20Latter%20Day%20Saints
 artifacts:
-  - title: Church of Jesus Christ of Latter Day Saints (Strangite) Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: >-
+      Church of Jesus Christ of Latter Day Saints (Strangite) Historical
+      Sanctuary & Relics
     sourceUrl: >-
       https://en.wikipedia.org/wiki/Church_of_Jesus_Christ_of_Latter_Day_Saints_(Strangite)
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
@@ -57,10 +58,10 @@ artifacts:
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Church of Jesus Christ of Latter Day Saints (Strangite).
+    imageUrl: /artifacts/church-of-jesus-christ-latter-day-saints-strangite-1.jpg
   - title: >-
-      Church of Jesus Christ of Latter Day Saints (Strangite) Sacred Texts &
-      Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+      Church of Jesus Christ of Latter Day Saints (Strangite) Sacred Scripture &
+      Art
     sourceUrl: >-
       https://en.wikipedia.org/wiki/Church_of_Jesus_Christ_of_Latter_Day_Saints_(Strangite)
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
@@ -68,6 +69,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Church of Jesus Christ of Latter Day Saints (Strangite).
+    imageUrl: /artifacts/church-of-jesus-christ-latter-day-saints-strangite-2.jpg
 ---
 
 # Church of Jesus Christ of Latter Day Saints (Strangite)

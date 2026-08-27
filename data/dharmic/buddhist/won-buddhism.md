@@ -44,16 +44,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Won%20Buddhism'
 artifacts:
-  - title: Won Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Won Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Won_Buddhism'
     provenance: 'Iksan, North Jeolla, South Korea'
     period: c. 1916 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Won Buddhism.
-  - title: Won Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Won Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Won_Buddhism'
     provenance: 'Iksan, North Jeolla, South Korea'
     period: c. 1916 CE

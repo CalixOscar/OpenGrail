@@ -47,16 +47,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Luciferianism'
     url: 'https://brill.com/search?q=Modern%20Luciferianism'
 artifacts:
-  - title: Modern Luciferianism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Modern Luciferianism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Luciferianism'
     provenance: 'London, England, UK'
     period: c. late 19th–20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Modern Luciferianism.
-  - title: Modern Luciferianism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Modern Luciferianism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Luciferianism'
     provenance: 'London, England, UK'
     period: c. late 19th–20th century CE

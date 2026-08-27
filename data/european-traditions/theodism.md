@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Theodism'
     url: 'https://brill.com/search?q=Theodism'
 artifacts:
-  - title: Theodism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Theodism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Theodism'
     provenance: 'London, England, UK'
     period: c. 1970s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Theodism.
-  - title: Theodism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Theodism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Theodism'
     provenance: 'London, England, UK'
     period: c. 1970s CE

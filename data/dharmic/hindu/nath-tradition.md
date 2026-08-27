@@ -48,16 +48,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=N%C4%81th%20Tradition'
 artifacts:
-  - title: Nāth Tradition Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Nāth Tradition Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/N%C4%81th_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 11th–12th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Nāth Tradition.
-  - title: Nāth Tradition Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Nāth Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/N%C4%81th_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 11th–12th century CE

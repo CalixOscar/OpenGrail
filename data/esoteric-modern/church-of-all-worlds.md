@@ -47,16 +47,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Church of All Worlds'
     url: 'https://brill.com/search?q=Church%20of%20All%20Worlds'
 artifacts:
-  - title: Church of All Worlds Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Church of All Worlds Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_All_Worlds'
     provenance: 'London, England, UK'
     period: c. 1962 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Church of All Worlds.
-  - title: Church of All Worlds Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Church of All Worlds Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_All_Worlds'
     provenance: 'London, England, UK'
     period: c. 1962 CE

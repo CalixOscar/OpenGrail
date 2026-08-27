@@ -52,16 +52,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Iranian Zoroastrianism'
     url: 'https://brill.com/search?q=Iranian%20Zoroastrianism'
 artifacts:
-  - title: Iranian Zoroastrianism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Iranian Zoroastrianism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Iranian_Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. c. 7th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Iranian Zoroastrianism.
-  - title: Iranian Zoroastrianism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Iranian Zoroastrianism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Iranian_Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. c. 7th century CE

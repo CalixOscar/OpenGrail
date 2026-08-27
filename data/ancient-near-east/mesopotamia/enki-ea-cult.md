@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Enki–Ea'
     url: 'https://brill.com/search?q=Cult%20of%20Enki%E2%80%93Ea'
 artifacts:
-  - title: Cult of Enki–Ea Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Cult of Enki–Ea Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Enki%E2%80%93Ea'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3000 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cult of Enki–Ea.
-  - title: Cult of Enki–Ea Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Cult of Enki–Ea Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Enki%E2%80%93Ea'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3000 BCE

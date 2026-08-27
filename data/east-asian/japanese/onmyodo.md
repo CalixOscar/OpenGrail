@@ -45,16 +45,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Onmy%C5%8Dd%C5%8D'
 artifacts:
-  - title: Onmyōdō Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Onmyōdō Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Onmy%C5%8Dd%C5%8D'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Onmyōdō.
-  - title: Onmyōdō Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Onmyōdō Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Onmy%C5%8Dd%C5%8D'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE

@@ -47,24 +47,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Chaldean%20Catholic%20Church'
 artifacts:
-  - title: Chaldean Catholic Church Historical Sanctuary & Records
-    imageUrl: /artifacts/chaldean-catholic-church-1.jpg
+  - title: Chaldean Catholic Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Chaldean_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1553 CE
     description: >-
-      The Chaldean Catholic Church (Classical Syriac: ܥܕܬܐ ܟܠܕܝܬܐ ܩܬܘܠܝܩܝܬܐ,
-      ʿĒdtā Kalḏāytā Qāṯōlīqāytā; Arabic: الكنيسة الكلدانية, al-Kanīsa
-      al-Kaldāniyya; Latin: Ecclesia Chaldaeorum C...
-  - title: Peshitta Canonical Scripture & Iconography
-    imageUrl: /artifacts/chaldean-catholic-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Peshitta'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Chaldean Catholic Church.
+    imageUrl: /artifacts/chaldean-catholic-church-1.jpg
+  - title: Chaldean Catholic Church Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chaldean_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1553 CE
     description: >-
-      The Peshitta (Classical Syriac: ܦܫܺܝܛܬܳܐ or ܦܫܝܼܛܬܵܐ pšīṭta) is the
-      standard Syriac edition of the Bible for the Syriac churches and
-      traditions that follow the liturgy of the Syria...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Chaldean Catholic Church.
+    imageUrl: /artifacts/chaldean-catholic-church-2.jpg
 ---
 
 # Chaldean Catholic Church

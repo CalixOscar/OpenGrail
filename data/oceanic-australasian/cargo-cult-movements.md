@@ -44,16 +44,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=So-Called%20Cargo%20Cult%20Movements'
 artifacts:
-  - title: So-Called Cargo Cult Movements Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: So-Called Cargo Cult Movements Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/So-Called_Cargo_Cult_Movements'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. late 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with So-Called Cargo Cult Movements.
-  - title: So-Called Cargo Cult Movements Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: So-Called Cargo Cult Movements Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/So-Called_Cargo_Cult_Movements'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. late 19th century CE

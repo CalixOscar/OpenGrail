@@ -40,16 +40,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Karaite Judaism'
     url: 'https://www.cambridge.org/core/search?q=Karaite%20Judaism'
 artifacts:
-  - title: Karaite Judaism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Karaite Judaism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Karaite_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Karaite Judaism.
-  - title: Karaite Judaism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Karaite Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Karaite_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE

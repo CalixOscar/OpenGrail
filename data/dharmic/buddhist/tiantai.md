@@ -42,16 +42,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Tiantai%20Buddhism'
 artifacts:
-  - title: Tiantai Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Tiantai Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Tiantai_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 6th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Tiantai Buddhism.
-  - title: Tiantai Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Tiantai Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Tiantai_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 6th century CE

@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Cybele and Attis'
     url: 'https://brill.com/search?q=Cult%20of%20Cybele%20and%20Attis'
 artifacts:
-  - title: Cult of Cybele and Attis Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Cult of Cybele and Attis Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Cybele_and_Attis'
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 1st millennium BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cult of Cybele and Attis.
-  - title: Cult of Cybele and Attis Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Cult of Cybele and Attis Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Cybele_and_Attis'
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 1st millennium BCE

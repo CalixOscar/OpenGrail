@@ -43,16 +43,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Australian%20Aboriginal%20Religions'
 artifacts:
-  - title: Australian Aboriginal Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Australian Aboriginal Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Australian_Aboriginal_Religions'
     provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
     period: c. ancestral era
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Australian Aboriginal Religions.
-  - title: Australian Aboriginal Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Australian Aboriginal Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Australian_Aboriginal_Religions'
     provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
     period: c. ancestral era

@@ -48,16 +48,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
 artifacts:
-  - title: Puṣṭimārga Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Puṣṭimārga Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 15th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Puṣṭimārga.
-  - title: Puṣṭimārga Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Puṣṭimārga Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 15th century CE

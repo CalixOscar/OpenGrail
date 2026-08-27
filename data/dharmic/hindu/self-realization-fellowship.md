@@ -48,16 +48,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Self-Realization%20Fellowship'
 artifacts:
-  - title: Self-Realization Fellowship Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Self-Realization Fellowship Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Self-Realization_Fellowship'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1920 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Self-Realization Fellowship.
-  - title: Self-Realization Fellowship Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Self-Realization Fellowship Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Self-Realization_Fellowship'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1920 CE

@@ -49,22 +49,22 @@ sources:
       Reformed Churches
     url: 'https://www.cambridge.org/core/search?q=Continental%20Reformed%20Churches'
 artifacts:
-  - title: Continental Reformed Churches Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Continental Reformed Churches Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Continental_Reformed_Churches'
     provenance: 'Geneva, Switzerland'
     period: c. 1520s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Continental Reformed Churches.
-  - title: Continental Reformed Churches Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/continental-reformed-churches-1.jpg
+  - title: Continental Reformed Churches Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Continental_Reformed_Churches'
     provenance: 'Geneva, Switzerland'
     period: c. 1520s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Continental Reformed Churches.
+    imageUrl: /artifacts/continental-reformed-churches-2.jpg
 ---
 
 # Continental Reformed Churches

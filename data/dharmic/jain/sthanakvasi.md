@@ -43,16 +43,14 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Sth%C4%81nakav%C4%81s%C4%AB%20Jainism
 artifacts:
-  - title: Sthānakavāsī Jainism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Sthānakavāsī Jainism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Sth%C4%81nakav%C4%81s%C4%AB_Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. 15th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sthānakavāsī Jainism.
-  - title: Sthānakavāsī Jainism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Sthānakavāsī Jainism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sth%C4%81nakav%C4%81s%C4%AB_Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. 15th century CE

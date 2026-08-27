@@ -43,16 +43,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Dianic Wicca'
     url: 'https://brill.com/search?q=Dianic%20Wicca'
 artifacts:
-  - title: Dianic Wicca Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Dianic Wicca Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Dianic_Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1970s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Dianic Wicca.
-  - title: Dianic Wicca Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Dianic Wicca Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Dianic_Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1970s CE

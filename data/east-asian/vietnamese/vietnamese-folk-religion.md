@@ -49,16 +49,14 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Vietnamese%20Folk%20Religion
 artifacts:
-  - title: Vietnamese Folk Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Vietnamese Folk Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Vietnamese_Folk_Religion'
     provenance: 'Hanoi (Thang Long), Vietnam'
     period: c. ancient; continuously developing
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Vietnamese Folk Religion.
-  - title: Vietnamese Folk Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Vietnamese Folk Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Vietnamese_Folk_Religion'
     provenance: 'Hanoi (Thang Long), Vietnam'
     period: c. ancient; continuously developing

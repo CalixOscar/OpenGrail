@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Roman Imperial Cult'
     url: 'https://brill.com/search?q=Roman%20Imperial%20Cult'
 artifacts:
-  - title: Roman Imperial Cult Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Roman Imperial Cult Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Imperial_Cult'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 27 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Roman Imperial Cult.
-  - title: Roman Imperial Cult Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Roman Imperial Cult Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Imperial_Cult'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 27 BCE

@@ -48,16 +48,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Swaminarayan%20Samprad%C4%81ya'
 artifacts:
-  - title: Swaminarayan Sampradāya Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Swaminarayan Sampradāya Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Swaminarayan_Samprad%C4%81ya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. early 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Swaminarayan Sampradāya.
-  - title: Swaminarayan Sampradāya Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Swaminarayan Sampradāya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Swaminarayan_Samprad%C4%81ya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. early 19th century CE

@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Methodism'
     url: 'https://www.cambridge.org/core/search?q=Methodism'
 artifacts:
-  - title: Methodism Historical Records
-    imageUrl: /artifacts/methodism-2.jpg
+  - title: Methodism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Methodism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1730s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Methodism.
-  - title: Methodism Sacred Texts & Material Culture
-    imageUrl: /artifacts/methodism-2.jpg
+    imageUrl: /artifacts/methodism-1.jpg
+  - title: Methodism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Methodism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1730s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Methodism.
+    imageUrl: /artifacts/methodism-2.jpg
 ---
 
 # Methodism

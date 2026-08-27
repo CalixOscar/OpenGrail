@@ -42,16 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Beta Israel'
     url: 'https://www.cambridge.org/core/search?q=Beta%20Israel'
 artifacts:
-  - title: Beta Israel Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Beta Israel Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Beta_Israel'
     provenance: 'Jerusalem, Southern Levant'
     period: c. before 15th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Beta Israel.
-  - title: Beta Israel Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Beta Israel Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Beta_Israel'
     provenance: 'Jerusalem, Southern Levant'
     period: c. before 15th century CE

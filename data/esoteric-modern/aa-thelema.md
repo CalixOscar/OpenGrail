@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: A∴A∴'
     url: 'https://brill.com/search?q=A%E2%88%B4A%E2%88%B4'
 artifacts:
-  - title: A∴A∴ Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: A∴A∴ Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/A%E2%88%B4A%E2%88%B4'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1907 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with A∴A∴.
-  - title: A∴A∴ Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: A∴A∴ Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/A%E2%88%B4A%E2%88%B4'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1907 CE

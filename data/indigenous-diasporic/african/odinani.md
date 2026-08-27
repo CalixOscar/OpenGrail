@@ -42,16 +42,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=%E1%BB%8Cd%E1%BB%8Bnani'
 artifacts:
-  - title: Ọdịnani Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ọdịnani Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/%E1%BB%8Cd%E1%BB%8Bnani'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial era
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ọdịnani.
-  - title: Ọdịnani Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ọdịnani Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/%E1%BB%8Cd%E1%BB%8Bnani'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial era

@@ -55,18 +55,14 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Chinese%20Salvationist%20Religions
 artifacts:
-  - title: Chinese Salvationist Religions (Comparative) Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Chinese Salvationist Religions (Comparative) Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Salvationist_Religions_(Comparative)'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 12th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Chinese Salvationist Religions (Comparative).
-  - title: >-
-      Chinese Salvationist Religions (Comparative) Sacred Texts & Material
-      Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Chinese Salvationist Religions (Comparative) Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Salvationist_Religions_(Comparative)'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 12th century CE

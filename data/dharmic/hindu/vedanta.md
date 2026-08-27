@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ved%C4%81nta'
 artifacts:
-  - title: Vedānta Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Vedānta Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ved%C4%81nta'
     provenance: 'Kanchipuram, Tamil Nadu, India'
     period: c. c. 2nd century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Vedānta.
-  - title: Vedānta Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Vedānta Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ved%C4%81nta'
     provenance: 'Kanchipuram, Tamil Nadu, India'
     period: c. c. 2nd century BCE

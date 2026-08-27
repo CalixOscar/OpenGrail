@@ -44,16 +44,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hellenic Polytheism'
     url: 'https://brill.com/search?q=Hellenic%20Polytheism'
 artifacts:
-  - title: Hellenic Polytheism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Hellenic Polytheism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Hellenic_Polytheism'
     provenance: 'London, England, UK'
     period: c. late 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hellenic Polytheism.
-  - title: Hellenic Polytheism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Hellenic Polytheism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Hellenic_Polytheism'
     provenance: 'London, England, UK'
     period: c. late 20th century CE

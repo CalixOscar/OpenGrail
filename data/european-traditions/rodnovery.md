@@ -43,16 +43,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Rodnovery'
     url: 'https://brill.com/search?q=Rodnovery'
 artifacts:
-  - title: Rodnovery Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Rodnovery Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Rodnovery'
     provenance: 'Kraków, Lesser Poland'
     period: c. late 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Rodnovery.
-  - title: Rodnovery Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Rodnovery Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Rodnovery'
     provenance: 'Kraków, Lesser Poland'
     period: c. late 20th century CE

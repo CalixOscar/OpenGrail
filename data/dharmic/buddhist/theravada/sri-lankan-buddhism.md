@@ -46,16 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sri%20Lankan%20Buddhism'
 artifacts:
-  - title: Sri Lankan Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Sri Lankan Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Sri_Lankan_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 3rd century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sri Lankan Buddhism.
-  - title: Sri Lankan Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Sri Lankan Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sri_Lankan_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 3rd century BCE

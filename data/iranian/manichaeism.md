@@ -56,16 +56,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Manichaeism'
     url: 'https://brill.com/search?q=Manichaeism'
 artifacts:
-  - title: Manichaeism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Manichaeism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Manichaeism'
     provenance: 'Isfahan, Iran'
     period: c. c. 240 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Manichaeism.
-  - title: Manichaeism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Manichaeism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Manichaeism'
     provenance: 'Isfahan, Iran'
     period: c. c. 240 CE

@@ -49,16 +49,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Daoist%20Traditions'
 artifacts:
-  - title: Daoist Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Daoist Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Daoist_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 4th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Daoist Traditions.
-  - title: Daoist Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Daoist Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Daoist_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 4th century BCE

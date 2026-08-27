@@ -50,16 +50,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Islam'
     url: 'https://www.cambridge.org/core/search?q=Islam'
 artifacts:
-  - title: Islam Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Islam Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Islam'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 610 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Islam.
-  - title: Islam Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Islam Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Islam'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 610 CE

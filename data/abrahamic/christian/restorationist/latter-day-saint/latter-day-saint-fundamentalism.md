@@ -57,22 +57,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Latter%20Day%20Saint%20Fundamentalism
 artifacts:
-  - title: Latter Day Saint Fundamentalism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Latter Day Saint Fundamentalism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_Fundamentalism'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1890s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Latter Day Saint Fundamentalism.
-  - title: Latter Day Saint Fundamentalism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/latter-day-saint-fundamentalism-1.jpg
+  - title: Latter Day Saint Fundamentalism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_Fundamentalism'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1890s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Latter Day Saint Fundamentalism.
+    imageUrl: /artifacts/latter-day-saint-fundamentalism-2.jpg
 ---
 
 # Latter Day Saint Fundamentalism

@@ -42,16 +42,14 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Reconstructionist%20Judaism'
 artifacts:
-  - title: Reconstructionist Judaism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Reconstructionist Judaism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Reconstructionist_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1920s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Reconstructionist Judaism.
-  - title: Reconstructionist Judaism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Reconstructionist Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Reconstructionist_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1920s CE

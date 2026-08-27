@@ -59,16 +59,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Christianity'
     url: 'https://www.cambridge.org/core/search?q=Christianity'
 artifacts:
-  - title: Christianity Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Christianity Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Christianity'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 30 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Christianity.
-  - title: Christianity Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Christianity Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Christianity'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 30 CE

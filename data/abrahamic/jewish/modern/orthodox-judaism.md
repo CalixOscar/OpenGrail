@@ -40,16 +40,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Orthodox Judaism'
     url: 'https://www.cambridge.org/core/search?q=Orthodox%20Judaism'
 artifacts:
-  - title: Orthodox Judaism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Orthodox Judaism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Orthodox Judaism.
-  - title: Orthodox Judaism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Orthodox Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 19th century CE

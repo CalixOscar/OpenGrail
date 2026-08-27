@@ -43,16 +43,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Maya%20Religions'
 artifacts:
-  - title: Maya Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Maya Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Maya_Religions'
     provenance: 'Tikal, Petén Basin, Maya Lowlands'
     period: c. c. 2000 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Maya Religions.
-  - title: Maya Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Maya Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Maya_Religions'
     provenance: 'Tikal, Petén Basin, Maya Lowlands'
     period: c. c. 2000 BCE

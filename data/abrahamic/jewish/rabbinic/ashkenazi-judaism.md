@@ -44,16 +44,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ashkenazi Judaism'
     url: 'https://www.cambridge.org/core/search?q=Ashkenazi%20Judaism'
 artifacts:
-  - title: Ashkenazi Judaism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ashkenazi Judaism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ashkenazi_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 10th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ashkenazi Judaism.
-  - title: Ashkenazi Judaism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ashkenazi Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ashkenazi_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 10th century CE

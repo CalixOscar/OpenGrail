@@ -50,8 +50,9 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=United%20Church%20of%20God%2C%20an%20International%20Association
 artifacts:
-  - title: 'United Church of God, an International Association Historical Records'
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: >-
+      United Church of God, an International Association Historical Sanctuary &
+      Relics
     sourceUrl: >-
       https://en.wikipedia.org/wiki/United_Church_of_God%2C_an_International_Association
     provenance: 'Jerusalem, Southern Levant'
@@ -59,10 +60,8 @@ artifacts:
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with United Church of God, an International Association.
-  - title: >-
-      United Church of God, an International Association Sacred Texts & Material
-      Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/united-church-of-god-1.jpg
+  - title: 'United Church of God, an International Association Sacred Scripture & Art'
     sourceUrl: >-
       https://en.wikipedia.org/wiki/United_Church_of_God%2C_an_International_Association
     provenance: 'Jerusalem, Southern Levant'
@@ -70,6 +69,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of United Church of God, an International Association.
+    imageUrl: /artifacts/united-church-of-god-2.jpg
 ---
 
 # United Church of God, an International Association

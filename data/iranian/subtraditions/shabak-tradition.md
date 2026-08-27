@@ -50,16 +50,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Shabak Religious Tradition'
     url: 'https://brill.com/search?q=Shabak%20Religious%20Tradition'
 artifacts:
-  - title: Shabak Religious Tradition Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Shabak Religious Tradition Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Shabak_Religious_Tradition'
     provenance: 'Isfahan, Iran'
     period: c. c. 16th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Shabak Religious Tradition.
-  - title: Shabak Religious Tradition Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Shabak Religious Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Shabak_Religious_Tradition'
     provenance: 'Isfahan, Iran'
     period: c. c. 16th century CE

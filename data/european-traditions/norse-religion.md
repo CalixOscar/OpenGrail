@@ -40,16 +40,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Norse Religion'
     url: 'https://brill.com/search?q=Norse%20Religion'
 artifacts:
-  - title: Norse Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Norse Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Norse_Religion'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 500 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Norse Religion.
-  - title: Norse Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Norse Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Norse_Religion'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 500 CE

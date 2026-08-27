@@ -50,16 +50,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Forn Siðr'
     url: 'https://brill.com/search?q=Forn%20Si%C3%B0r'
 artifacts:
-  - title: Forn Siðr Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Forn Siðr Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Forn_Si%C3%B0r'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Forn Siðr.
-  - title: Forn Siðr Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Forn Siðr Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Forn_Si%C3%B0r'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE

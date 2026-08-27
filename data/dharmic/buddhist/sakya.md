@@ -42,16 +42,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sakya'
 artifacts:
-  - title: Sakya Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Sakya Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Sakya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 11th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sakya.
-  - title: Sakya Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Sakya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sakya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 11th century CE

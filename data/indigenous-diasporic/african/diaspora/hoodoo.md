@@ -50,16 +50,14 @@ sources:
     url: >-
       https://ich.unesco.org/en/search?q=Hoodoo%20%2F%20African%20American%20Conjure
 artifacts:
-  - title: Hoodoo / African American Conjure Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Hoodoo / African American Conjure Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Hoodoo_%2F_African_American_Conjure'
     provenance: 'Salvador da Bahia, Brazil'
     period: c. 18th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hoodoo / African American Conjure.
-  - title: Hoodoo / African American Conjure Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Hoodoo / African American Conjure Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Hoodoo_%2F_African_American_Conjure'
     provenance: 'Salvador da Bahia, Brazil'
     period: c. 18th century CE

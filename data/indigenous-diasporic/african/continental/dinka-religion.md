@@ -46,16 +46,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Dinka%20Religious%20Traditions'
 artifacts:
-  - title: Dinka Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Dinka Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Dinka_Religious_Traditions'
     provenance: 'Bahr el Ghazal (Juba), South Sudan'
     period: c. precolonial
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Dinka Religious Traditions.
-  - title: Dinka Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Dinka Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Dinka_Religious_Traditions'
     provenance: 'Bahr el Ghazal (Juba), South Sudan'
     period: c. precolonial

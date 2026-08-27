@@ -46,16 +46,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Paganism'
     url: 'https://brill.com/search?q=Modern%20Paganism'
 artifacts:
-  - title: Modern Paganism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Modern Paganism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Paganism'
     provenance: 'London, England, UK'
     period: c. 19th–20th centuries CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Modern Paganism.
-  - title: Modern Paganism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Modern Paganism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Paganism'
     provenance: 'London, England, UK'
     period: c. 19th–20th centuries CE

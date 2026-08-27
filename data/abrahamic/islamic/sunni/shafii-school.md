@@ -42,16 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Shafi''i School'
     url: 'https://www.cambridge.org/core/search?q=Shafi''i%20School'
 artifacts:
-  - title: Shafi'i School Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Shafi'i School Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Shafi''i_School'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Shafi'i School.
-  - title: Shafi'i School Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Shafi'i School Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Shafi''i_School'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE

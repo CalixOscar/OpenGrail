@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Nabataean Religion'
     url: 'https://brill.com/search?q=Nabataean%20Religion'
 artifacts:
-  - title: Nabataean Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Nabataean Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Nabataean_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 4th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Nabataean Religion.
-  - title: Nabataean Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Nabataean Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Nabataean_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 4th century BCE

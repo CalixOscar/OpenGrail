@@ -43,16 +43,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Longmen%20Daoism'
 artifacts:
-  - title: Longmen Daoism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Longmen Daoism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Longmen_Daoism'
     provenance: 'Luoyang, Henan, China'
     period: c. c. 17th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Longmen Daoism.
-  - title: Longmen Daoism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Longmen Daoism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Longmen_Daoism'
     provenance: 'Luoyang, Henan, China'
     period: c. c. 17th century CE

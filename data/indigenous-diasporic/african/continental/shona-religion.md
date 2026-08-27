@@ -46,16 +46,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Shona%20Religious%20Traditions'
 artifacts:
-  - title: Shona Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Shona Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Shona_Religious_Traditions'
     provenance: 'Great Zimbabwe / Harare, Zimbabwe'
     period: c. precolonial
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Shona Religious Traditions.
-  - title: Shona Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Shona Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Shona_Religious_Traditions'
     provenance: 'Great Zimbabwe / Harare, Zimbabwe'
     period: c. precolonial

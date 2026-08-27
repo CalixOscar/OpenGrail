@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Philistine Religion'
     url: 'https://brill.com/search?q=Philistine%20Religion'
 artifacts:
-  - title: Philistine Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Philistine Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Philistine_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1175 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Philistine Religion.
-  - title: Philistine Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Philistine Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Philistine_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1175 BCE

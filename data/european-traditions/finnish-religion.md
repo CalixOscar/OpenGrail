@@ -43,16 +43,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Finnic Religions'
     url: 'https://brill.com/search?q=Finnic%20Religions'
 artifacts:
-  - title: Finnic Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Finnic Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Finnic_Religions'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Finnic Religions.
-  - title: Finnic Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Finnic Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Finnic_Religions'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium CE

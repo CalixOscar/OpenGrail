@@ -48,16 +48,14 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=%C4%90%E1%BA%A1o%20M%E1%BA%ABu
 artifacts:
-  - title: Đạo Mẫu Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Đạo Mẫu Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu'
     provenance: 'Hanoi (Thang Long), Vietnam'
     period: c. early modern roots
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Đạo Mẫu.
-  - title: Đạo Mẫu Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Đạo Mẫu Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu'
     provenance: 'Hanoi (Thang Long), Vietnam'
     period: c. early modern roots

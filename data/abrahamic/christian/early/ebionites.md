@@ -47,24 +47,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ebionites'
     url: 'https://www.cambridge.org/core/search?q=Ebionites'
 artifacts:
-  - title: Ebionites Historical Sanctuary & Records
-    imageUrl: /artifacts/ebionites-2.jpg
+  - title: Ebionites Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ebionites'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1st–2nd centuries CE
     description: >-
-      Ebionites (Ancient Greek: Ἐβιωναῖοι, romanized: Ebiōnaîoi, derived from
-      the Hebrew word אֶבְיוֹנִים, ʾEḇyōnīm, meaning 'the poor' or 'poor ones')
-      were an adoptionist Mosaic law-obs...
-  - title: Hebrew Bible Canonical Scripture & Iconography
-    imageUrl: /artifacts/ebionites-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hebrew_Bible'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Ebionites.
+    imageUrl: /artifacts/ebionites-1.jpg
+  - title: Ebionites Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ebionites'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1st–2nd centuries CE
     description: >-
-      The Hebrew Bible, Jewish Bible, or Tanakh (US: , UK:  or ; Hebrew:
-      תַּנַ״ךְ, romanized: tanaḵ; תָּנָ״ךְ, tānāḵ; or תְּנַ״ךְ, tənaḵ), also
-      known in Hebrew as Miqra (; מִקְרָא, miqrā...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Ebionites.
+    imageUrl: /artifacts/ebionites-2.jpg
 ---
 
 # Ebionites

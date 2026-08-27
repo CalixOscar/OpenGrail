@@ -45,16 +45,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Ancestor%20Veneration'
 artifacts:
-  - title: Ancestor Veneration Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ancestor Veneration Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ancestor_Veneration'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. prehistoric; globally recurrent
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ancestor Veneration.
-  - title: Ancestor Veneration Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ancestor Veneration Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ancestor_Veneration'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. prehistoric; globally recurrent

@@ -48,16 +48,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Amarapura%20Nik%C4%81ya'
 artifacts:
-  - title: Amarapura Nikāya Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Amarapura Nikāya Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Amarapura_Nik%C4%81ya'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1803 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Amarapura Nikāya.
-  - title: Amarapura Nikāya Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Amarapura Nikāya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Amarapura_Nik%C4%81ya'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1803 CE

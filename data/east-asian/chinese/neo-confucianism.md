@@ -47,16 +47,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Neo-Confucianism'
 artifacts:
-  - title: Neo-Confucianism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Neo-Confucianism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Neo-Confucianism'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 11th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Neo-Confucianism.
-  - title: Neo-Confucianism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Neo-Confucianism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Neo-Confucianism'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 11th century CE

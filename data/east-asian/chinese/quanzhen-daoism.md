@@ -40,16 +40,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Quanzhen%20Daoism'
 artifacts:
-  - title: Quanzhen Daoism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Quanzhen Daoism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Quanzhen_Daoism'
     provenance: 'Qufu, Shandong, China'
     period: c. 12th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Quanzhen Daoism.
-  - title: Quanzhen Daoism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Quanzhen Daoism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Quanzhen_Daoism'
     provenance: 'Qufu, Shandong, China'
     period: c. 12th century CE

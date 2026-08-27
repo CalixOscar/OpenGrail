@@ -48,16 +48,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ud%C4%81s%C4%AB%20Tradition'
 artifacts:
-  - title: Udāsī Tradition Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Udāsī Tradition Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ud%C4%81s%C4%AB_Tradition'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 16th–17th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Udāsī Tradition.
-  - title: Udāsī Tradition Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Udāsī Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ud%C4%81s%C4%AB_Tradition'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 16th–17th century CE

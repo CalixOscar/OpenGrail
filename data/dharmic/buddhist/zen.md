@@ -44,16 +44,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Zen%20Buddhism'
 artifacts:
-  - title: Zen Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Zen Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Zen_Buddhism'
     provenance: 'Kyoto (Heian-kyo), Japan'
     period: c. 12th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Zen Buddhism.
-  - title: Zen Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Zen Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Zen_Buddhism'
     provenance: 'Kyoto (Heian-kyo), Japan'
     period: c. 12th century CE

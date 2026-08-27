@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Balinese%20Hinduism'
 artifacts:
-  - title: Balinese Hinduism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Balinese Hinduism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Balinese_Hinduism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Balinese Hinduism.
-  - title: Balinese Hinduism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Balinese Hinduism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Balinese_Hinduism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE

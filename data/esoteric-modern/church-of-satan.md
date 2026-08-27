@@ -42,16 +42,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Church of Satan'
     url: 'https://brill.com/search?q=Church%20of%20Satan'
 artifacts:
-  - title: Church of Satan Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Church of Satan Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Satan'
     provenance: 'San Francisco, California, USA'
     period: c. 1966 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Church of Satan.
-  - title: Church of Satan Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Church of Satan Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Satan'
     provenance: 'San Francisco, California, USA'
     period: c. 1966 CE

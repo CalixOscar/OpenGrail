@@ -42,16 +42,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Soka%20Gakkai'
 artifacts:
-  - title: Soka Gakkai Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Soka Gakkai Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Soka_Gakkai'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1930 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Soka Gakkai.
-  - title: Soka Gakkai Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Soka Gakkai Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Soka_Gakkai'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1930 CE

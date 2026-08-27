@@ -44,16 +44,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sikh%20Tradition'
 artifacts:
-  - title: Sikh Tradition Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Sikh Tradition Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Sikh_Tradition'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 1500 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sikh Tradition.
-  - title: Sikh Tradition Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Sikh Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sikh_Tradition'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 1500 CE

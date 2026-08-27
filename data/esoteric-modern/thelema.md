@@ -45,16 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Thelema'
     url: 'https://brill.com/search?q=Thelema'
 artifacts:
-  - title: Thelema Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Thelema Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Thelema'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1904 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Thelema.
-  - title: Thelema Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Thelema Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Thelema'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1904 CE

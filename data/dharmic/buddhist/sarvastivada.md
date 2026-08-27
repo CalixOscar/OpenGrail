@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sarv%C4%81stiv%C4%81da'
 artifacts:
-  - title: Sarvāstivāda Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Sarvāstivāda Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Sarv%C4%81stiv%C4%81da'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 3rd century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sarvāstivāda.
-  - title: Sarvāstivāda Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Sarvāstivāda Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sarv%C4%81stiv%C4%81da'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 3rd century BCE

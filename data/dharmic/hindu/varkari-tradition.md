@@ -47,16 +47,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=V%C4%81rkar%C4%AB%20Tradition'
 artifacts:
-  - title: Vārkarī Tradition Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Vārkarī Tradition Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/V%C4%81rkar%C4%AB_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Vārkarī Tradition.
-  - title: Vārkarī Tradition Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Vārkarī Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/V%C4%81rkar%C4%AB_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE

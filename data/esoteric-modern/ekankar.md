@@ -45,16 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Eckankar'
     url: 'https://brill.com/search?q=Eckankar'
 artifacts:
-  - title: Eckankar Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Eckankar Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Eckankar'
     provenance: 'London, England, UK'
     period: c. 1965 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Eckankar.
-  - title: Eckankar Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Eckankar Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Eckankar'
     provenance: 'London, England, UK'
     period: c. 1965 CE

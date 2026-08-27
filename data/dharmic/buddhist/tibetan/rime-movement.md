@@ -54,16 +54,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Rim%C3%A9%20Movement'
 artifacts:
-  - title: Rimé Movement Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Rimé Movement Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Rim%C3%A9_Movement'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Rimé Movement.
-  - title: Rimé Movement Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Rimé Movement Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Rim%C3%A9_Movement'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 19th century CE

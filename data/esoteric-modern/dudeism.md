@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Dudeism'
     url: 'https://brill.com/search?q=Dudeism'
 artifacts:
-  - title: Dudeism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Dudeism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Dudeism'
     provenance: 'London, England, UK'
     period: c. 2005 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Dudeism.
-  - title: Dudeism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Dudeism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Dudeism'
     provenance: 'London, England, UK'
     period: c. 2005 CE

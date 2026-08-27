@@ -44,16 +44,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=S%C4%81%E1%B9%83khya'
 artifacts:
-  - title: Sāṃkhya Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Sāṃkhya Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/S%C4%81%E1%B9%83khya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sāṃkhya.
-  - title: Sāṃkhya Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Sāṃkhya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/S%C4%81%E1%B9%83khya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century CE

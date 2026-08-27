@@ -43,16 +43,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Kagyu'
 artifacts:
-  - title: Kagyu Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Kagyu Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Kagyu'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 11th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Kagyu.
-  - title: Kagyu Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Kagyu Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Kagyu'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 11th century CE

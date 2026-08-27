@@ -47,16 +47,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Aghori%20Tradition'
 artifacts:
-  - title: Aghori Tradition Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Aghori Tradition Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Aghori_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 17th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Aghori Tradition.
-  - title: Aghori Tradition Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Aghori Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Aghori_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 17th century CE

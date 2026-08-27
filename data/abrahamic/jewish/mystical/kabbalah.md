@@ -42,16 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Kabbalah'
     url: 'https://www.cambridge.org/core/search?q=Kabbalah'
 artifacts:
-  - title: Kabbalah Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Kabbalah Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Kabbalah'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 12th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Kabbalah.
-  - title: Kabbalah Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Kabbalah Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Kabbalah'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 12th century CE

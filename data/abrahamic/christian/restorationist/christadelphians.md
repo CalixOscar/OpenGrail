@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Christadelphians'
     url: 'https://www.cambridge.org/core/search?q=Christadelphians'
 artifacts:
-  - title: Christadelphians Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Christadelphians Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Christadelphians'
     provenance: 'London, England, UK'
     period: c. 1848 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Christadelphians.
-  - title: Christadelphians Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/christadelphians-1.jpg
+  - title: Christadelphians Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Christadelphians'
     provenance: 'London, England, UK'
     period: c. 1848 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Christadelphians.
+    imageUrl: /artifacts/christadelphians-2.jpg
 ---
 
 # Christadelphians

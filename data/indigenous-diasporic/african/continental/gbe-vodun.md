@@ -46,16 +46,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Gbe%20Vodun%20Traditions'
 artifacts:
-  - title: Gbe Vodun Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Gbe Vodun Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Gbe_Vodun_Traditions'
     provenance: 'Ouidah, Kingdom of Dahomey, Benin'
     period: c. precolonial
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Gbe Vodun Traditions.
-  - title: Gbe Vodun Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Gbe Vodun Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Gbe_Vodun_Traditions'
     provenance: 'Ouidah, Kingdom of Dahomey, Benin'
     period: c. precolonial

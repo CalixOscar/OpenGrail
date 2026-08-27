@@ -42,16 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ahmadiyya'
     url: 'https://www.cambridge.org/core/search?q=Ahmadiyya'
 artifacts:
-  - title: Ahmadiyya Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ahmadiyya Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ahmadiyya'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1889 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ahmadiyya.
-  - title: Ahmadiyya Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ahmadiyya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ahmadiyya'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1889 CE

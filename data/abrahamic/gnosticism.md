@@ -53,16 +53,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Gnostic Traditions'
     url: 'https://www.cambridge.org/core/search?q=Gnostic%20Traditions'
 artifacts:
-  - title: Gnostic Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Gnostic Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Gnostic_Traditions'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 100 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Gnostic Traditions.
-  - title: Gnostic Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Gnostic Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Gnostic_Traditions'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 100 CE

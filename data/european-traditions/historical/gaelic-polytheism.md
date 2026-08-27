@@ -46,16 +46,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gaelic Polytheism'
     url: 'https://brill.com/search?q=Gaelic%20Polytheism'
 artifacts:
-  - title: Gaelic Polytheism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Gaelic Polytheism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Gaelic_Polytheism'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Gaelic Polytheism.
-  - title: Gaelic Polytheism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Gaelic Polytheism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Gaelic_Polytheism'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium BCE

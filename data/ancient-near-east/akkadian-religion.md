@@ -44,16 +44,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Akkadian Religion'
     url: 'https://brill.com/search?q=Akkadian%20Religion'
 artifacts:
-  - title: Akkadian Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Akkadian Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Akkadian_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2400 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Akkadian Religion.
-  - title: Akkadian Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Akkadian Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Akkadian_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2400 BCE

@@ -45,16 +45,14 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Lu%E2%80%93Wang%20Confucianism
 artifacts:
-  - title: Lu–Wang Confucianism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Lu–Wang Confucianism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Lu%E2%80%93Wang_Confucianism'
     provenance: 'Qufu, Shandong, China'
     period: c. 12th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Lu–Wang Confucianism.
-  - title: Lu–Wang Confucianism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Lu–Wang Confucianism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Lu%E2%80%93Wang_Confucianism'
     provenance: 'Qufu, Shandong, China'
     period: c. 12th century CE

@@ -47,24 +47,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Orthodox%20Bah%C3%A1'%C3%AD%20Faith
 artifacts:
-  - title: Religion in Israel Historical Sanctuary & Records
-    imageUrl: /artifacts/orthodox-bahai-faith-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Religion_in_Israel'
+  - title: Orthodox Bahá'í Faith Historical Sanctuary & Relics
+    sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Bah%C3%A1''%C3%AD_Faith'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1960 CE
     description: >-
-      Religion in Israel is manifested primarily in Judaism, the ethnic religion
-      of the Jewish people. The State of Israel declares itself as a "Jewish and
-      democratic state" and is the o...
-  - title: Kitáb-i-Aqdas Canonical Scripture & Iconography
-    imageUrl: /artifacts/orthodox-bahai-faith-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Kit%C3%A1b-i-Aqdas'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Orthodox Bahá'í Faith.
+    imageUrl: /artifacts/orthodox-bahai-faith-1.jpg
+  - title: Orthodox Bahá'í Faith Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Bah%C3%A1''%C3%AD_Faith'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1960 CE
     description: >-
-      The Kitáb-i-Aqdas (Persian: [keˈtɒːb e æɢdæs], lit. 'The Most Holy Book')
-      is the central religious text of the Baháʼí Faith, written by Baháʼu'lláh,
-      the founder of the religion, in...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Orthodox Bahá'í Faith.
+    imageUrl: /artifacts/orthodox-bahai-faith-2.jpg
 ---
 
 # Orthodox Bahá'í Faith

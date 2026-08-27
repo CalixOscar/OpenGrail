@@ -50,22 +50,22 @@ sources:
       Adventist Church
     url: 'https://www.cambridge.org/core/search?q=Seventh-day%20Adventist%20Church'
 artifacts:
-  - title: Seventh-day Adventist Church Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Seventh-day Adventist Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Seventh-day_Adventist_Church'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1863 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Seventh-day Adventist Church.
-  - title: Seventh-day Adventist Church Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/seventh-day-adventist-church-1.jpg
+  - title: Seventh-day Adventist Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Seventh-day_Adventist_Church'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1863 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Seventh-day Adventist Church.
+    imageUrl: /artifacts/seventh-day-adventist-church-2.jpg
 ---
 
 # Seventh-day Adventist Church

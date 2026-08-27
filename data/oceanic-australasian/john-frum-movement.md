@@ -40,16 +40,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=John%20Frum%20Movement'
 artifacts:
-  - title: John Frum Movement Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: John Frum Movement Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/John_Frum_Movement'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. 1930s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with John Frum Movement.
-  - title: John Frum Movement Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: John Frum Movement Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/John_Frum_Movement'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. 1930s CE

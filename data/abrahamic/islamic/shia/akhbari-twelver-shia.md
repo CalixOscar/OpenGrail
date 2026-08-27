@@ -45,16 +45,14 @@ sources:
       Shiism
     url: 'https://www.cambridge.org/core/search?q=Akhbari%20Twelver%20Shiism'
 artifacts:
-  - title: Akhbari Twelver Shiism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Akhbari Twelver Shiism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Akhbari_Twelver_Shiism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 17th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Akhbari Twelver Shiism.
-  - title: Akhbari Twelver Shiism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Akhbari Twelver Shiism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Akhbari_Twelver_Shiism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 17th century CE

@@ -40,16 +40,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Sect%20Shinto'
 artifacts:
-  - title: Sect Shinto Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Sect Shinto Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Sect_Shinto'
     provenance: 'Qufu, Shandong, China'
     period: c. 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sect Shinto.
-  - title: Sect Shinto Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Sect Shinto Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sect_Shinto'
     provenance: 'Qufu, Shandong, China'
     period: c. 19th century CE

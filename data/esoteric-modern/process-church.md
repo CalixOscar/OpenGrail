@@ -51,16 +51,14 @@ sources:
       Judgment
     url: 'https://brill.com/search?q=Process%20Church%20of%20the%20Final%20Judgment'
 artifacts:
-  - title: Process Church of the Final Judgment Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Process Church of the Final Judgment Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Process_Church_of_the_Final_Judgment'
     provenance: 'London, England, UK'
     period: c. 1960s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Process Church of the Final Judgment.
-  - title: Process Church of the Final Judgment Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Process Church of the Final Judgment Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Process_Church_of_the_Final_Judgment'
     provenance: 'London, England, UK'
     period: c. 1960s CE

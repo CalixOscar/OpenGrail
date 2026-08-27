@@ -50,22 +50,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=The%20Episcopal%20Church'
 artifacts:
-  - title: The Episcopal Church Historical Records
-    imageUrl: /artifacts/episcopal-church-2.jpg
+  - title: The Episcopal Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/The_Episcopal_Church'
     provenance: 'Canterbury, Kent, England, UK'
     period: c. 1789 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with The Episcopal Church.
-  - title: The Episcopal Church Sacred Texts & Material Culture
-    imageUrl: /artifacts/episcopal-church-2.jpg
+    imageUrl: /artifacts/episcopal-church-1.jpg
+  - title: The Episcopal Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/The_Episcopal_Church'
     provenance: 'Canterbury, Kent, England, UK'
     period: c. 1789 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of The Episcopal Church.
+    imageUrl: /artifacts/episcopal-church-2.jpg
 ---
 
 # The Episcopal Church

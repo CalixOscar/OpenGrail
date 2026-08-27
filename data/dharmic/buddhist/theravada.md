@@ -43,16 +43,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Therav%C4%81da%20Buddhism'
 artifacts:
-  - title: Theravāda Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Theravāda Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Therav%C4%81da_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 3rd century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Theravāda Buddhism.
-  - title: Theravāda Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Theravāda Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Therav%C4%81da_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 3rd century BCE

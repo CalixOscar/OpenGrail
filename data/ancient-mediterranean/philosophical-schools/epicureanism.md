@@ -50,16 +50,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Epicureanism'
     url: 'https://brill.com/search?q=Epicureanism'
 artifacts:
-  - title: Epicureanism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Epicureanism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Epicureanism'
     provenance: 'Athens, Attica, Greece'
     period: c. 306 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Epicureanism.
-  - title: Epicureanism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Epicureanism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Epicureanism'
     provenance: 'Athens, Attica, Greece'
     period: c. 306 BCE

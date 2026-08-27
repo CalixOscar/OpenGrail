@@ -44,16 +44,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Classical%20Yoga'
 artifacts:
-  - title: Classical Yoga Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Classical Yoga Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Classical_Yoga'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Classical Yoga.
-  - title: Classical Yoga Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Classical Yoga Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Classical_Yoga'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century CE

@@ -42,16 +42,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nyingma'
 artifacts:
-  - title: Nyingma Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Nyingma Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Nyingma'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 8th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Nyingma.
-  - title: Nyingma Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Nyingma Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Nyingma'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 8th century CE

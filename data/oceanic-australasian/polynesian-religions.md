@@ -39,16 +39,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Polynesian%20Religions'
 artifacts:
-  - title: Polynesian Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Polynesian Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Polynesian_Religions'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. c. 1000 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Polynesian Religions.
-  - title: Polynesian Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Polynesian Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Polynesian_Religions'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. c. 1000 BCE

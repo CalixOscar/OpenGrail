@@ -42,16 +42,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9Avet%C4%81mbara%20Jainism'
 artifacts:
-  - title: Śvetāmbara Jainism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Śvetāmbara Jainism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 1st century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Śvetāmbara Jainism.
-  - title: Śvetāmbara Jainism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Śvetāmbara Jainism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 1st century CE

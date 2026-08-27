@@ -42,16 +42,14 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Conservative%20Judaism'
 artifacts:
-  - title: Conservative Judaism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Conservative Judaism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Conservative_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Conservative Judaism.
-  - title: Conservative Judaism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Conservative Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Conservative_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 19th century CE

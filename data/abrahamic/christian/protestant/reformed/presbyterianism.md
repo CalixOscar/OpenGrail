@@ -45,22 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Presbyterianism'
     url: 'https://www.cambridge.org/core/search?q=Presbyterianism'
 artifacts:
-  - title: Presbyterianism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Presbyterianism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Presbyterianism'
     provenance: 'Geneva, Switzerland'
     period: c. c. 1560 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Presbyterianism.
-  - title: Presbyterianism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/presbyterianism-1.jpg
+  - title: Presbyterianism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Presbyterianism'
     provenance: 'Geneva, Switzerland'
     period: c. c. 1560 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Presbyterianism.
+    imageUrl: /artifacts/presbyterianism-2.jpg
 ---
 
 # Presbyterianism

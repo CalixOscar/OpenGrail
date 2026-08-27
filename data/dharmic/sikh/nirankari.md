@@ -41,16 +41,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nirankari%20Movement'
 artifacts:
-  - title: Nirankari Movement Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Nirankari Movement Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Nirankari_Movement'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 1851 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Nirankari Movement.
-  - title: Nirankari Movement Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Nirankari Movement Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Nirankari_Movement'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 1851 CE

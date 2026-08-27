@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Pastafarianism'
     url: 'https://brill.com/search?q=Pastafarianism'
 artifacts:
-  - title: Pastafarianism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Pastafarianism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Pastafarianism'
     provenance: 'London, England, UK'
     period: c. 2005 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Pastafarianism.
-  - title: Pastafarianism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Pastafarianism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Pastafarianism'
     provenance: 'London, England, UK'
     period: c. 2005 CE

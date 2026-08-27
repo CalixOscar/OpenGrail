@@ -49,16 +49,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Prince%20Philip%20Movement'
 artifacts:
-  - title: Prince Philip Movement Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Prince Philip Movement Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Prince_Philip_Movement'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. mid-20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Prince Philip Movement.
-  - title: Prince Philip Movement Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Prince Philip Movement Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Prince_Philip_Movement'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. mid-20th century CE
