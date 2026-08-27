@@ -44,24 +44,22 @@ sources:
       Churches
     url: 'https://www.cambridge.org/core/search?q=Eastern%20Catholic%20Churches'
 artifacts:
-  - title: Eastern Catholic Churches Historical Sanctuary & Records
-    imageUrl: /artifacts/eastern-catholic-churches-1.jpg
+  - title: Eastern Catholic Churches Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Eastern_Catholic_Churches'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 16th century CE
     description: >-
-      The Eastern Catholic Churches or Oriental Catholic Churches, also known as
-      the Eastern-Rite Catholic Churches, Eastern Rite Catholicism, or simply
-      the Eastern Churches, are 23 East...
-  - title: Bible Canonical Scripture & Iconography
-    imageUrl: /artifacts/eastern-catholic-churches-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Eastern Catholic Churches.
+    imageUrl: /artifacts/eastern-catholic-churches-1.jpg
+  - title: Eastern Catholic Churches Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Eastern_Catholic_Churches'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 16th century CE
     description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Eastern Catholic Churches.
+    imageUrl: /artifacts/eastern-catholic-churches-2.jpg
 ---
 
 # Eastern Catholic Churches

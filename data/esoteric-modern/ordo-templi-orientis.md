@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ordo Templi Orientis'
     url: 'https://brill.com/search?q=Ordo%20Templi%20Orientis'
 artifacts:
-  - title: Ordo Templi Orientis Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ordo Templi Orientis Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ordo_Templi_Orientis'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. c. 1902 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ordo Templi Orientis.
-  - title: Ordo Templi Orientis Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ordo Templi Orientis Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ordo_Templi_Orientis'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. c. 1902 CE

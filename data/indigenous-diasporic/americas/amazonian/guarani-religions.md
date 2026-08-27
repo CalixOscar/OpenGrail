@@ -51,16 +51,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Guaran%C3%AD%20Religious%20Traditions'
 artifacts:
-  - title: Guaraní Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Guaraní Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Guaran%C3%AD_Religious_Traditions'
     provenance: 'Paraná Basin (Asunción), Paraguay'
     period: c. precolonial
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Guaraní Religious Traditions.
-  - title: Guaraní Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Guaraní Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Guaran%C3%AD_Religious_Traditions'
     provenance: 'Paraná Basin (Asunción), Paraguay'
     period: c. precolonial

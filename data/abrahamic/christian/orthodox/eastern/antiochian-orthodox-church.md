@@ -46,23 +46,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Greek%20Orthodox%20Patriarchate%20of%20Antioch
 artifacts:
-  - title: Greek Orthodox Patriarchate of Antioch Historical Sanctuary & Records
-    imageUrl: /artifacts/antiochian-orthodox-church-1.jpg
+  - title: Greek Orthodox Patriarchate of Antioch Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Greek_Orthodox_Patriarchate_of_Antioch'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      The Greek Orthodox Patriarchate of Antioch (Greek: Ελληνορθόδοξο
-      Πατριαρχείο Αντιοχείας), also known as the Greek Orthodox Church of
-      Antioch, Antiochian Orthodox Church and legally...
-  - title: Greek Orthodox Patriarchate of Antioch Sacred Texts & Material Culture
-    imageUrl: /artifacts/antiochian-orthodox-church-2.jpg
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Greek Orthodox Patriarchate of Antioch.
+    imageUrl: /artifacts/antiochian-orthodox-church-1.jpg
+  - title: Greek Orthodox Patriarchate of Antioch Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Greek_Orthodox_Patriarchate_of_Antioch'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Greek Orthodox Patriarchate of Antioch.
+    imageUrl: /artifacts/antiochian-orthodox-church-2.jpg
 ---
 
 # Greek Orthodox Patriarchate of Antioch

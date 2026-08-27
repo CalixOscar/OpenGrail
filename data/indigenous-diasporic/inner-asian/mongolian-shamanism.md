@@ -45,16 +45,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Mongolian%20Shamanic%20Traditions'
 artifacts:
-  - title: Mongolian Shamanic Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Mongolian Shamanic Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Mongolian_Shamanic_Traditions'
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. ancient; continuously developing
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mongolian Shamanic Traditions.
-  - title: Mongolian Shamanic Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Mongolian Shamanic Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Mongolian_Shamanic_Traditions'
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. ancient; continuously developing

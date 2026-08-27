@@ -46,22 +46,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Seventh%20Day%20Adventist%20Reform%20Movement
 artifacts:
-  - title: Seventh Day Adventist Reform Movement Historical Records
-    imageUrl: /artifacts/seventh-day-adventist-reform-movement-1.jpg
+  - title: Seventh Day Adventist Reform Movement Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Seventh_Day_Adventist_Reform_Movement'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1914 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Seventh Day Adventist Reform Movement.
-  - title: Seventh Day Adventist Reform Movement Sacred Texts & Material Culture
     imageUrl: /artifacts/seventh-day-adventist-reform-movement-1.jpg
+  - title: Seventh Day Adventist Reform Movement Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Seventh_Day_Adventist_Reform_Movement'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1914 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Seventh Day Adventist Reform Movement.
+    imageUrl: /artifacts/seventh-day-adventist-reform-movement-2.jpg
 ---
 
 # Seventh Day Adventist Reform Movement

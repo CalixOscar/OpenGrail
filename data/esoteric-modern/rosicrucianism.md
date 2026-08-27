@@ -45,16 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Rosicrucianism'
     url: 'https://brill.com/search?q=Rosicrucianism'
 artifacts:
-  - title: Rosicrucianism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Rosicrucianism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Rosicrucianism'
     provenance: 'London, England, UK'
     period: c. early 17th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Rosicrucianism.
-  - title: Rosicrucianism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Rosicrucianism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Rosicrucianism'
     provenance: 'London, England, UK'
     period: c. early 17th century CE

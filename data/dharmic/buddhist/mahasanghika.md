@@ -44,16 +44,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81s%C4%81%E1%B9%83ghika'
 artifacts:
-  - title: Mahāsāṃghika Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Mahāsāṃghika Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%81%E1%B9%83ghika'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mahāsāṃghika.
-  - title: Mahāsāṃghika Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Mahāsāṃghika Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%81%E1%B9%83ghika'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century BCE

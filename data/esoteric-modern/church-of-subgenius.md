@@ -47,16 +47,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Church of the SubGenius'
     url: 'https://brill.com/search?q=Church%20of%20the%20SubGenius'
 artifacts:
-  - title: Church of the SubGenius Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Church of the SubGenius Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_the_SubGenius'
     provenance: 'London, England, UK'
     period: c. 1979 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Church of the SubGenius.
-  - title: Church of the SubGenius Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Church of the SubGenius Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_the_SubGenius'
     provenance: 'London, England, UK'
     period: c. 1979 CE

@@ -46,16 +46,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Waaqeffanna'
 artifacts:
-  - title: Waaqeffanna Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Waaqeffanna Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Waaqeffanna'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial; modern revitalization
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Waaqeffanna.
-  - title: Waaqeffanna Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Waaqeffanna Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Waaqeffanna'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial; modern revitalization

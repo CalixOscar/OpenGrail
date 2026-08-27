@@ -51,16 +51,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Cao%20%C4%90%C3%A0i'
 artifacts:
-  - title: Cao Đài Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Cao Đài Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Cao_%C4%90%C3%A0i'
     provenance: 'Holy See of Tay Ninh, Vietnam'
     period: c. 1926 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cao Đài.
-  - title: Cao Đài Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Cao Đài Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cao_%C4%90%C3%A0i'
     provenance: 'Holy See of Tay Ninh, Vietnam'
     period: c. 1926 CE

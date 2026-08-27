@@ -43,16 +43,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gardnerian Wicca'
     url: 'https://brill.com/search?q=Gardnerian%20Wicca'
 artifacts:
-  - title: Gardnerian Wicca Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Gardnerian Wicca Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Gardnerian_Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1950s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Gardnerian Wicca.
-  - title: Gardnerian Wicca Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Gardnerian Wicca Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Gardnerian_Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1950s CE

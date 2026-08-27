@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: UFO Religions'
     url: 'https://brill.com/search?q=UFO%20Religions'
 artifacts:
-  - title: UFO Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: UFO Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/UFO_Religions'
     provenance: 'London, England, UK'
     period: c. mid-20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with UFO Religions.
-  - title: UFO Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: UFO Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/UFO_Religions'
     provenance: 'London, England, UK'
     period: c. mid-20th century CE

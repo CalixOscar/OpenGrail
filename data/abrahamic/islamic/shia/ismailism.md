@@ -42,16 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ismailism'
     url: 'https://www.cambridge.org/core/search?q=Ismailism'
 artifacts:
-  - title: Ismailism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ismailism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ismailism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ismailism.
-  - title: Ismailism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ismailism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ismailism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE

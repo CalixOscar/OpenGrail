@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Arabian Religions'
     url: 'https://brill.com/search?q=Ancient%20Arabian%20Religions'
 artifacts:
-  - title: Ancient Arabian Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ancient Arabian Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Arabian_Religions'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1st millennium BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ancient Arabian Religions.
-  - title: Ancient Arabian Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ancient Arabian Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Arabian_Religions'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1st millennium BCE

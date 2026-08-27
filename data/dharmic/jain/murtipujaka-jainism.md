@@ -48,8 +48,7 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=M%C5%ABrtip%C5%ABjaka%20%C5%9Avet%C4%81mbara%20Jainism
 artifacts:
-  - title: Mūrtipūjaka Śvetāmbara Jainism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Mūrtipūjaka Śvetāmbara Jainism Historical Sanctuary & Relics
     sourceUrl: >-
       https://en.wikipedia.org/wiki/M%C5%ABrtip%C5%ABjaka_%C5%9Avet%C4%81mbara_Jainism
     provenance: 'Pataliputra (Patna), Bihar, India'
@@ -57,8 +56,7 @@ artifacts:
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mūrtipūjaka Śvetāmbara Jainism.
-  - title: Mūrtipūjaka Śvetāmbara Jainism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Mūrtipūjaka Śvetāmbara Jainism Sacred Scripture & Art
     sourceUrl: >-
       https://en.wikipedia.org/wiki/M%C5%ABrtip%C5%ABjaka_%C5%9Avet%C4%81mbara_Jainism
     provenance: 'Pataliputra (Patna), Bihar, India'

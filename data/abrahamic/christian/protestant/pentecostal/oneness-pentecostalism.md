@@ -46,22 +46,22 @@ sources:
       Pentecostalism
     url: 'https://www.cambridge.org/core/search?q=Oneness%20Pentecostalism'
 artifacts:
-  - title: Oneness Pentecostalism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Oneness Pentecostalism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Oneness_Pentecostalism'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1913 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Oneness Pentecostalism.
-  - title: Oneness Pentecostalism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/oneness-pentecostalism-1.jpg
+  - title: Oneness Pentecostalism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Oneness_Pentecostalism'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1913 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Oneness Pentecostalism.
+    imageUrl: /artifacts/oneness-pentecostalism-2.jpg
 ---
 
 # Oneness Pentecostalism

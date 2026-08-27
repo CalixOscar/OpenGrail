@@ -47,16 +47,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Muscogee%20Ceremonial%20Traditions'
 artifacts:
-  - title: Muscogee Ceremonial Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Muscogee Ceremonial Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Muscogee_Ceremonial_Traditions'
     provenance: 'Cahokia Mounds, Mississippi River, IL, USA'
     period: c. precolonial
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Muscogee Ceremonial Traditions.
-  - title: Muscogee Ceremonial Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Muscogee Ceremonial Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Muscogee_Ceremonial_Traditions'
     provenance: 'Cahokia Mounds, Mississippi River, IL, USA'
     period: c. precolonial

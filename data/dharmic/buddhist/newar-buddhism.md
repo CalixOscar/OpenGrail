@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Newar%20Buddhism'
 artifacts:
-  - title: Newar Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Newar Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Newar_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Newar Buddhism.
-  - title: Newar Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Newar Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Newar_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE

@@ -47,22 +47,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Pentecostal%20Assemblies%20of%20the%20World
 artifacts:
-  - title: Pentecostal Assemblies of the World Historical Records
-    imageUrl: /artifacts/pentecostal-assemblies-of-the-world-1.jpg
+  - title: Pentecostal Assemblies of the World Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Pentecostal_Assemblies_of_the_World'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1906 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Pentecostal Assemblies of the World.
-  - title: Pentecostal Assemblies of the World Sacred Texts & Material Culture
     imageUrl: /artifacts/pentecostal-assemblies-of-the-world-1.jpg
+  - title: Pentecostal Assemblies of the World Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Pentecostal_Assemblies_of_the_World'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1906 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Pentecostal Assemblies of the World.
+    imageUrl: /artifacts/pentecostal-assemblies-of-the-world-2.jpg
 ---
 
 # Pentecostal Assemblies of the World

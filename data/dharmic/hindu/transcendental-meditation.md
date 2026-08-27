@@ -49,16 +49,14 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Transcendental%20Meditation%20Movement
 artifacts:
-  - title: Transcendental Meditation Movement Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Transcendental Meditation Movement Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Transcendental_Meditation_Movement'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1950s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Transcendental Meditation Movement.
-  - title: Transcendental Meditation Movement Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Transcendental Meditation Movement Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Transcendental_Meditation_Movement'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1950s CE

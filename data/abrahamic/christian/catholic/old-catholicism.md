@@ -43,24 +43,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Old Catholicism'
     url: 'https://www.cambridge.org/core/search?q=Old%20Catholicism'
 artifacts:
-  - title: Rome Historical Sanctuary & Records
+  - title: Old Catholicism Historical Sanctuary & Relics
+    sourceUrl: 'https://en.wikipedia.org/wiki/Old_Catholicism'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1870s CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Old Catholicism.
     imageUrl: /artifacts/old-catholicism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rome'
+  - title: Old Catholicism Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Old_Catholicism'
     provenance: 'Rome, Latium, Italy'
     period: c. 1870s CE
     description: >-
-      Rome is the capital city and most populated comune (municipality) of
-      Italy. It is also the administrative centre of the Lazio region and of the
-      Metropolitan City of Rome. A special...
-  - title: Bible Canonical Scripture & Iconography
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Old Catholicism.
     imageUrl: /artifacts/old-catholicism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1870s CE
-    description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
 ---
 
 # Old Catholicism

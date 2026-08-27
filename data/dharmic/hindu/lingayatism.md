@@ -45,16 +45,14 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Li%E1%B9%85g%C4%81yat%20Tradition
 artifacts:
-  - title: Liṅgāyat Tradition Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Liṅgāyat Tradition Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Li%E1%B9%85g%C4%81yat_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 12th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Liṅgāyat Tradition.
-  - title: Liṅgāyat Tradition Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Liṅgāyat Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Li%E1%B9%85g%C4%81yat_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 12th century CE

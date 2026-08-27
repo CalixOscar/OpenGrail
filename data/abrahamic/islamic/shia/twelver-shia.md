@@ -40,16 +40,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Twelver Shi''a'
     url: 'https://www.cambridge.org/core/search?q=Twelver%20Shi''a'
 artifacts:
-  - title: Twelver Shi'a Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Twelver Shi'a Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Twelver_Shi''a'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Twelver Shi'a.
-  - title: Twelver Shi'a Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Twelver Shi'a Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Twelver_Shi''a'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE

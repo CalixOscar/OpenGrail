@@ -44,16 +44,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=T%C4%81ra%E1%B9%87apantha'
 artifacts:
-  - title: Tāraṇapantha Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Tāraṇapantha Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/T%C4%81ra%E1%B9%87apantha'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. late 15th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Tāraṇapantha.
-  - title: Tāraṇapantha Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Tāraṇapantha Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/T%C4%81ra%E1%B9%87apantha'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. late 15th century CE

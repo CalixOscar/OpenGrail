@@ -48,24 +48,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Ruthenian%20Greek%20Catholic%20Church
 artifacts:
-  - title: Ruthenian Greek Catholic Church Historical Sanctuary & Records
-    imageUrl: /artifacts/ruthenian-greek-catholic-church-1.jpg
+  - title: Ruthenian Greek Catholic Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ruthenian_Greek_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1646 CE
     description: >-
-      The Ruthenian Greek Catholic Church, also known in the United States as
-      the Byzantine Catholic Church, is a sui iuris (autonomous) Eastern
-      Catholic particular church based in Easte...
-  - title: Bible Canonical Scripture & Iconography
-    imageUrl: /artifacts/ruthenian-greek-catholic-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Ruthenian Greek Catholic Church.
+    imageUrl: /artifacts/ruthenian-greek-catholic-church-1.jpg
+  - title: Ruthenian Greek Catholic Church Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ruthenian_Greek_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1646 CE
     description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Ruthenian Greek Catholic Church.
+    imageUrl: /artifacts/ruthenian-greek-catholic-church-2.jpg
 ---
 
 # Ruthenian Greek Catholic Church

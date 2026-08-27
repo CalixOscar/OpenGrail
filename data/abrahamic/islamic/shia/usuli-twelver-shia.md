@@ -46,16 +46,14 @@ sources:
       Shiism
     url: 'https://www.cambridge.org/core/search?q=Usuli%20Twelver%20Shiism'
 artifacts:
-  - title: Usuli Twelver Shiism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Usuli Twelver Shiism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Usuli_Twelver_Shiism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 17th–18th centuries CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Usuli Twelver Shiism.
-  - title: Usuli Twelver Shiism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Usuli Twelver Shiism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Usuli_Twelver_Shiism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 17th–18th centuries CE

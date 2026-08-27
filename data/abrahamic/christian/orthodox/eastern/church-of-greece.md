@@ -45,24 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Greece'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Greece'
 artifacts:
-  - title: Church of Greece Historical Sanctuary & Records
-    imageUrl: /artifacts/church-of-greece-1.jpg
+  - title: Church of Greece Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Greece'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1833 CE
     description: >-
-      The Church of Greece (Greek: Ἐκκλησία τῆς Ἑλλάδος, romanized: Ekklēsía
-      tē̂s Helládos, Greek pronunciation: [ekliˈsi.a tis eˈlaðos]), is an
-      autocephalous Greek Orthodox church and o...
-  - title: Bible Canonical Scripture & Iconography
-    imageUrl: /artifacts/church-of-greece-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Church of Greece.
+    imageUrl: /artifacts/church-of-greece-1.jpg
+  - title: Church of Greece Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Greece'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1833 CE
     description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Church of Greece.
+    imageUrl: /artifacts/church-of-greece-2.jpg
 ---
 
 # Church of Greece

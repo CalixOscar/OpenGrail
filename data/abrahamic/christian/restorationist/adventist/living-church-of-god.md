@@ -43,22 +43,22 @@ sources:
       God
     url: 'https://www.cambridge.org/core/search?q=Living%20Church%20of%20God'
 artifacts:
-  - title: Living Church of God Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Living Church of God Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Living_Church_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1998 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Living Church of God.
-  - title: Living Church of God Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/living-church-of-god-1.jpg
+  - title: Living Church of God Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Living_Church_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1998 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Living Church of God.
+    imageUrl: /artifacts/living-church-of-god-2.jpg
 ---
 
 # Living Church of God

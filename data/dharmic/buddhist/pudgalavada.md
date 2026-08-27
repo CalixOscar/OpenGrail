@@ -46,16 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pudgalav%C4%81da%20Schools'
 artifacts:
-  - title: Pudgalavāda Schools Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Pudgalavāda Schools Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Pudgalav%C4%81da_Schools'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 3rd century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Pudgalavāda Schools.
-  - title: Pudgalavāda Schools Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Pudgalavāda Schools Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Pudgalav%C4%81da_Schools'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 3rd century BCE

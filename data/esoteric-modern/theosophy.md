@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Theosophy'
     url: 'https://brill.com/search?q=Theosophy'
 artifacts:
-  - title: Theosophy Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Theosophy Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Theosophy'
     provenance: 'New York City, New York, USA'
     period: c. 1875 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Theosophy.
-  - title: Theosophy Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Theosophy Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Theosophy'
     provenance: 'New York City, New York, USA'
     period: c. 1875 CE

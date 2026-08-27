@@ -46,24 +46,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Arian Christianity'
     url: 'https://www.cambridge.org/core/search?q=Arian%20Christianity'
 artifacts:
-  - title: Christianity as the Roman state religion Historical Sanctuary & Records
-    imageUrl: /artifacts/arian-christianity-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christianity_as_the_Roman_state_religion'
+  - title: Arian Christianity (Historical) Historical Sanctuary & Relics
+    sourceUrl: 'https://en.wikipedia.org/wiki/Arian_Christianity_(Historical)'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 318 CE
     description: >-
-      In the year before the First Council of Constantinople in 381, Nicene
-      Christianity became the official religion of the Roman Empire when
-      Theodosius I, emperor of the East, Gratian,...
-  - title: Bible Canonical Scripture & Iconography
-    imageUrl: /artifacts/arian-christianity-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Arian Christianity (Historical).
+    imageUrl: /artifacts/arian-christianity-1.jpg
+  - title: Arian Christianity (Historical) Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Arian_Christianity_(Historical)'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 318 CE
     description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Arian Christianity (Historical).
+    imageUrl: /artifacts/arian-christianity-2.jpg
 ---
 
 # Arian Christianity (Historical)

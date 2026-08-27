@@ -52,8 +52,9 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=International%20Society%20for%20Krishna%20Consciousness
 artifacts:
-  - title: International Society for Krishna Consciousness Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: >-
+      International Society for Krishna Consciousness Historical Sanctuary &
+      Relics
     sourceUrl: >-
       https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -61,10 +62,7 @@ artifacts:
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with International Society for Krishna Consciousness.
-  - title: >-
-      International Society for Krishna Consciousness Sacred Texts & Material
-      Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: International Society for Krishna Consciousness Sacred Scripture & Art
     sourceUrl: >-
       https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'

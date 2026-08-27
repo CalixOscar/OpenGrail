@@ -42,24 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Yazidism'
     url: 'https://www.cambridge.org/core/search?q=Yazidism'
 artifacts:
-  - title: Yazidism Historical Sanctuary & Records
+  - title: Yazidism Historical Sanctuary & Relics
+    sourceUrl: 'https://en.wikipedia.org/wiki/Yazidism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 12th century CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Yazidism.
     imageUrl: /artifacts/yazidism-1.jpg
+  - title: Yazidism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Yazidism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 12th century CE
     description: >-
-      Yazidism, or Yezidism also known as Sharfadin, is a monotheistic ethnic
-      religion. It developed through a complex historical process involving a
-      pre-Islamic Kurdish religious substr...
-  - title: Yazidism Canonical Scripture & Iconography
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Yazidism.
     imageUrl: /artifacts/yazidism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Yazidism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 12th century CE
-    description: >-
-      Yazidism, or Yezidism also known as Sharfadin, is a monotheistic ethnic
-      religion. It developed through a complex historical process involving a
-      pre-Islamic Kurdish religious substr...
 ---
 
 # Yazidism

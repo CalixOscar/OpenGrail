@@ -49,16 +49,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Huayan%20Buddhism'
 artifacts:
-  - title: Huayan Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Huayan Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Huayan_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 6th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Huayan Buddhism.
-  - title: Huayan Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Huayan Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Huayan_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 6th century CE

@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Unarius Academy of Science'
     url: 'https://brill.com/search?q=Unarius%20Academy%20of%20Science'
 artifacts:
-  - title: Unarius Academy of Science Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Unarius Academy of Science Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Unarius_Academy_of_Science'
     provenance: 'London, England, UK'
     period: c. 1954 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Unarius Academy of Science.
-  - title: Unarius Academy of Science Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Unarius Academy of Science Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Unarius_Academy_of_Science'
     provenance: 'London, England, UK'
     period: c. 1954 CE

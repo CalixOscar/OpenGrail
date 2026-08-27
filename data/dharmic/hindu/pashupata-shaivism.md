@@ -45,16 +45,14 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=P%C4%81%C5%9Bupata%20%C5%9Aaivism
 artifacts:
-  - title: Pāśupata Śaivism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Pāśupata Śaivism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/P%C4%81%C5%9Bupata_%C5%9Aaivism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Pāśupata Śaivism.
-  - title: Pāśupata Śaivism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Pāśupata Śaivism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/P%C4%81%C5%9Bupata_%C5%9Aaivism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century CE

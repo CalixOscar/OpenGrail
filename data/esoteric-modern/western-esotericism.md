@@ -43,16 +43,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Western Esotericism'
     url: 'https://brill.com/search?q=Western%20Esotericism'
 artifacts:
-  - title: Western Esotericism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Western Esotericism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Western_Esotericism'
     provenance: 'London, England, UK'
     period: c. late antiquity; modern category
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Western Esotericism.
-  - title: Western Esotericism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Western Esotericism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Western_Esotericism'
     provenance: 'London, England, UK'
     period: c. late antiquity; modern category

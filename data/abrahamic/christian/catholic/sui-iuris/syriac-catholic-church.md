@@ -47,24 +47,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Catholic%20Church'
 artifacts:
-  - title: Syriac Catholic Church Historical Sanctuary & Records
-    imageUrl: /artifacts/syriac-catholic-church-1.jpg
+  - title: Syriac Catholic Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1782 CE
     description: >-
-      The Syriac Catholic Church is an Eastern Catholic sui iuris
-      (self-governing) particular church that is in full communion with the Holy
-      See and with the entirety of the Catholic Chu...
-  - title: Peshitta Canonical Scripture & Iconography
-    imageUrl: /artifacts/syriac-catholic-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Peshitta'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Syriac Catholic Church.
+    imageUrl: /artifacts/syriac-catholic-church-1.jpg
+  - title: Syriac Catholic Church Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1782 CE
     description: >-
-      The Peshitta (Classical Syriac: ܦܫܺܝܛܬܳܐ or ܦܫܝܼܛܬܵܐ pšīṭta) is the
-      standard Syriac edition of the Bible for the Syriac churches and
-      traditions that follow the liturgy of the Syria...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Syriac Catholic Church.
+    imageUrl: /artifacts/syriac-catholic-church-2.jpg
 ---
 
 # Syriac Catholic Church

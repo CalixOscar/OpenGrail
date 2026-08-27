@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ukrainian Native Faith'
     url: 'https://brill.com/search?q=Ukrainian%20Native%20Faith'
 artifacts:
-  - title: Ukrainian Native Faith Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ukrainian Native Faith Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ukrainian_Native_Faith'
     provenance: 'Kyiv, Dnipro Region, Ukraine'
     period: c. 1930s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ukrainian Native Faith.
-  - title: Ukrainian Native Faith Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ukrainian Native Faith Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ukrainian_Native_Faith'
     provenance: 'Kyiv, Dnipro Region, Ukraine'
     period: c. 1930s CE

@@ -50,16 +50,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=African%20Diasporic%20Traditions'
 artifacts:
-  - title: African Diasporic Traditions (Comparative) Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: African Diasporic Traditions (Comparative) Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/African_Diasporic_Traditions_(Comparative)'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. 16th century CE onward
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with African Diasporic Traditions (Comparative).
-  - title: African Diasporic Traditions (Comparative) Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: African Diasporic Traditions (Comparative) Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/African_Diasporic_Traditions_(Comparative)'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. 16th century CE onward

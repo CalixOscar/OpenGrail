@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Memphite Theology'
     url: 'https://brill.com/search?q=Memphite%20Theology'
 artifacts:
-  - title: Memphite Theology Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Memphite Theology Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Memphite_Theology'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 1st millennium BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Memphite Theology.
-  - title: Memphite Theology Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Memphite Theology Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Memphite_Theology'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 1st millennium BCE

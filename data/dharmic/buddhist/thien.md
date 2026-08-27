@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Thi%E1%BB%81n%20Buddhism'
 artifacts:
-  - title: Thiền Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Thiền Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Thi%E1%BB%81n_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Thiền Buddhism.
-  - title: Thiền Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Thiền Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Thi%E1%BB%81n_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE

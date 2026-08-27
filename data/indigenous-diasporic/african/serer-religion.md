@@ -40,16 +40,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Serer%20Religion'
 artifacts:
-  - title: Serer Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Serer Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Serer_Religion'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial era
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Serer Religion.
-  - title: Serer Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Serer Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Serer_Religion'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial era

@@ -47,16 +47,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Haitian%20Vodou'
 artifacts:
-  - title: Haitian Vodou Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Haitian Vodou Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Haitian_Vodou'
     provenance: 'Port-au-Prince, Haiti'
     period: c. 17th–18th centuries CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Haitian Vodou.
-  - title: Haitian Vodou Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Haitian Vodou Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Haitian_Vodou'
     provenance: 'Port-au-Prince, Haiti'
     period: c. 17th–18th centuries CE

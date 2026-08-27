@@ -46,16 +46,14 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Korean%20Shamanic%20Traditions
 artifacts:
-  - title: Korean Shamanic Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Korean Shamanic Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Shamanic_Traditions'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. ancient
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Korean Shamanic Traditions.
-  - title: Korean Shamanic Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Korean Shamanic Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Shamanic_Traditions'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. ancient

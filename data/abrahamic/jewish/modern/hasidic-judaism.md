@@ -43,16 +43,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Hasidic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Hasidic%20Judaism'
 artifacts:
-  - title: Hasidic Judaism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Hasidic Judaism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Hasidic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1740s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hasidic Judaism.
-  - title: Hasidic Judaism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Hasidic Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Hasidic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1740s CE

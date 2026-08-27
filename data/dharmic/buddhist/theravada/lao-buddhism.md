@@ -50,16 +50,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Lao%20Buddhism'
 artifacts:
-  - title: Lao Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Lao Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Lao_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 14th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Lao Buddhism.
-  - title: Lao Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Lao Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Lao_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 14th century CE

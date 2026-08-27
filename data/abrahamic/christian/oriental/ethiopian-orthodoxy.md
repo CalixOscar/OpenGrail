@@ -42,23 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ethiopian Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Ethiopian%20Orthodoxy'
 artifacts:
-  - title: Ethiopian Orthodox Tewahedo Church Historical Sanctuary & Records
-    imageUrl: /artifacts/ethiopian-orthodoxy-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Tewahedo_Church'
+  - title: Ethiopian Orthodoxy Historical Sanctuary & Relics
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ethiopian_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE
     description: >-
-      The Ethiopian Orthodox Tewahedo Church (Amharic: የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ
-      ክርስቲያን, romanized: Ye-Ītyop’a ortodoks tewahido bēte kristīyan), also
-      sometimes known as the Abyssinian Churc...
-  - title: Ethiopian Orthodoxy Sacred Texts & Material Culture
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Ethiopian Orthodoxy.
     imageUrl: /artifacts/ethiopian-orthodoxy-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Tewahedo_Church'
+  - title: Ethiopian Orthodoxy Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ethiopian_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Ethiopian Orthodoxy.
+    imageUrl: /artifacts/ethiopian-orthodoxy-2.jpg
 ---
 
 # Ethiopian Orthodoxy

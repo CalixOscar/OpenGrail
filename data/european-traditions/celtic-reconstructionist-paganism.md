@@ -55,16 +55,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Celtic Reconstructionist Paganism'
     url: 'https://brill.com/search?q=Celtic%20Reconstructionist%20Paganism'
 artifacts:
-  - title: Celtic Reconstructionist Paganism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Celtic Reconstructionist Paganism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Celtic_Reconstructionist_Paganism'
     provenance: 'Glastonbury, Somerset, England, UK'
     period: c. 1980s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Celtic Reconstructionist Paganism.
-  - title: Celtic Reconstructionist Paganism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Celtic Reconstructionist Paganism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Celtic_Reconstructionist_Paganism'
     provenance: 'Glastonbury, Somerset, England, UK'
     period: c. 1980s CE

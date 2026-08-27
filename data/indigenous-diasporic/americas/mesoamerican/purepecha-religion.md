@@ -51,16 +51,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Pur%C3%A9pecha%20Religious%20Traditions'
 artifacts:
-  - title: Purépecha Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Purépecha Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Pur%C3%A9pecha_Religious_Traditions'
     provenance: 'Tzintzuntzan, Lake Pátzcuaro, Michoacán'
     period: c. precolonial
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Purépecha Religious Traditions.
-  - title: Purépecha Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Purépecha Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Pur%C3%A9pecha_Religious_Traditions'
     provenance: 'Tzintzuntzan, Lake Pátzcuaro, Michoacán'
     period: c. precolonial

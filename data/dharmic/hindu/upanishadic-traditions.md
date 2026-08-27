@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Upanishadic%20Traditions'
 artifacts:
-  - title: Upanishadic Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Upanishadic Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Upanishadic_Traditions'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 700 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Upanishadic Traditions.
-  - title: Upanishadic Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Upanishadic Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Upanishadic_Traditions'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 700 BCE

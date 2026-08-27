@@ -51,16 +51,14 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=H%C3%B2a%20H%E1%BA%A3o%20Buddhism
 artifacts:
-  - title: Hòa Hảo Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Hòa Hảo Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/H%C3%B2a_H%E1%BA%A3o_Buddhism'
     provenance: 'Chau Doc / An Giang, Mekong Delta, Vietnam'
     period: c. 1939 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hòa Hảo Buddhism.
-  - title: Hòa Hảo Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Hòa Hảo Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/H%C3%B2a_H%E1%BA%A3o_Buddhism'
     provenance: 'Chau Doc / An Giang, Mekong Delta, Vietnam'
     period: c. 1939 CE

@@ -47,16 +47,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Tibetan%20Buddhism'
 artifacts:
-  - title: Tibetan Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Tibetan Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Tibetan_Buddhism'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 7th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Tibetan Buddhism.
-  - title: Tibetan Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Tibetan Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Tibetan_Buddhism'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 7th century CE

@@ -52,16 +52,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Deobandi Movement'
     url: 'https://www.cambridge.org/core/search?q=Deobandi%20Movement'
 artifacts:
-  - title: Deobandi Movement Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Deobandi Movement Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Deobandi_Movement'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1866 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Deobandi Movement.
-  - title: Deobandi Movement Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Deobandi Movement Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Deobandi_Movement'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1866 CE

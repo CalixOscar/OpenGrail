@@ -51,16 +51,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Yarsan'
     url: 'https://brill.com/search?q=Yarsan'
 artifacts:
-  - title: Yarsan Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Yarsan Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Yarsan'
     provenance: 'Isfahan, Iran'
     period: c. c. 14th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Yarsan.
-  - title: Yarsan Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Yarsan Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Yarsan'
     provenance: 'Isfahan, Iran'
     period: c. c. 14th century CE

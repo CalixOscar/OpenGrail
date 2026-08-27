@@ -50,16 +50,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Khurramism'
     url: 'https://brill.com/search?q=Khurramism'
 artifacts:
-  - title: Khurramism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Khurramism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Khurramism'
     provenance: 'Isfahan, Iran'
     period: c. c. 8th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Khurramism.
-  - title: Khurramism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Khurramism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Khurramism'
     provenance: 'Isfahan, Iran'
     period: c. c. 8th century CE

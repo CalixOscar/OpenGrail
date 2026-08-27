@@ -50,16 +50,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Dievturība'
     url: 'https://brill.com/search?q=Dievtur%C4%ABba'
 artifacts:
-  - title: Dievturība Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Dievturība Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Dievtur%C4%ABba'
     provenance: 'Riga, Vidzeme, Latvia'
     period: c. 1920s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Dievturība.
-  - title: Dievturība Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Dievturība Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Dievtur%C4%ABba'
     provenance: 'Riga, Vidzeme, Latvia'
     period: c. 1920s CE

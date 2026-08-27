@@ -43,16 +43,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Hawaiian%20Religion'
 artifacts:
-  - title: Hawaiian Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Hawaiian Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Hawaiian_Religion'
     provenance: 'Oahu (Honolulu / Heiau), Hawaii, USA'
     period: c. c. 1000 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hawaiian Religion.
-  - title: Hawaiian Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Hawaiian Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Hawaiian_Religion'
     provenance: 'Oahu (Honolulu / Heiau), Hawaii, USA'
     period: c. c. 1000 CE

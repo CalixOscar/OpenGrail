@@ -46,16 +46,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Tlingit%20Religious%20Traditions'
 artifacts:
-  - title: Tlingit Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Tlingit Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Tlingit_Religious_Traditions'
     provenance: 'Sitka (Tlingit Territory), Alaska, USA'
     period: c. precolonial
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Tlingit Religious Traditions.
-  - title: Tlingit Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Tlingit Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Tlingit_Religious_Traditions'
     provenance: 'Sitka (Tlingit Territory), Alaska, USA'
     period: c. precolonial

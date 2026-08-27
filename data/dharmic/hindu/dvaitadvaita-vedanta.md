@@ -48,16 +48,14 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Dvait%C4%81dvaita%20Ved%C4%81nta
 artifacts:
-  - title: Dvaitādvaita Vedānta Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Dvaitādvaita Vedānta Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Dvait%C4%81dvaita_Ved%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 12th–13th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Dvaitādvaita Vedānta.
-  - title: Dvaitādvaita Vedānta Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Dvaitādvaita Vedānta Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Dvait%C4%81dvaita_Ved%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 12th–13th century CE

@@ -44,16 +44,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Drikung%20Kagyu'
 artifacts:
-  - title: Drikung Kagyu Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Drikung Kagyu Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Drikung_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 1179 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Drikung Kagyu.
-  - title: Drikung Kagyu Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Drikung Kagyu Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Drikung_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 1179 CE

@@ -45,16 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Spiritualism'
     url: 'https://brill.com/search?q=Modern%20Spiritualism'
 artifacts:
-  - title: Modern Spiritualism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Modern Spiritualism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Spiritualism'
     provenance: 'London, England, UK'
     period: c. 1848 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Modern Spiritualism.
-  - title: Modern Spiritualism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Modern Spiritualism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Spiritualism'
     provenance: 'London, England, UK'
     period: c. 1848 CE

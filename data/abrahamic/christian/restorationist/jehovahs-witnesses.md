@@ -45,22 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Jehovah''s Witnesses'
     url: 'https://www.cambridge.org/core/search?q=Jehovah''s%20Witnesses'
 artifacts:
-  - title: Jehovah's Witnesses Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Jehovah's Witnesses Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Jehovah''s_Witnesses'
     provenance: 'Allegheny (Pittsburgh), Pennsylvania, USA'
     period: c. 1870s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Jehovah's Witnesses.
-  - title: Jehovah's Witnesses Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/jehovahs-witnesses-1.jpg
+  - title: Jehovah's Witnesses Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Jehovah''s_Witnesses'
     provenance: 'Allegheny (Pittsburgh), Pennsylvania, USA'
     period: c. 1870s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Jehovah's Witnesses.
+    imageUrl: /artifacts/jehovahs-witnesses-2.jpg
 ---
 
 # Jehovah's Witnesses

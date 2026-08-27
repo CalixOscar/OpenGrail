@@ -47,16 +47,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Roman Mithraism'
     url: 'https://brill.com/search?q=Roman%20Mithraism'
 artifacts:
-  - title: Roman Mithraism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Roman Mithraism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Mithraism'
     provenance: 'Athens, Attica, Greece'
     period: c. late 1st century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Roman Mithraism.
-  - title: Roman Mithraism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Roman Mithraism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Mithraism'
     provenance: 'Athens, Attica, Greece'
     period: c. late 1st century CE

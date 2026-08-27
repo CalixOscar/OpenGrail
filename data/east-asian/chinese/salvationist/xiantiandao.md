@@ -46,16 +46,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Xiantiandao'
 artifacts:
-  - title: Xiantiandao Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Xiantiandao Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Xiantiandao'
     provenance: 'Qufu, Shandong, China'
     period: c. 18th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Xiantiandao.
-  - title: Xiantiandao Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Xiantiandao Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Xiantiandao'
     provenance: 'Qufu, Shandong, China'
     period: c. 18th century CE

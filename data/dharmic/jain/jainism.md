@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Jainism'
 artifacts:
-  - title: Jainism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Jainism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 6th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Jainism.
-  - title: Jainism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Jainism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 6th century BCE

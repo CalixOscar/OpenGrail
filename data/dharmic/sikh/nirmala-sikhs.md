@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nirmal%C4%81%20Sikhs'
 artifacts:
-  - title: Nirmalā Sikhs Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Nirmalā Sikhs Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Nirmal%C4%81_Sikhs'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 18th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Nirmalā Sikhs.
-  - title: Nirmalā Sikhs Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Nirmalā Sikhs Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Nirmal%C4%81_Sikhs'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 18th century CE

@@ -42,16 +42,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Scientology'
     url: 'https://brill.com/search?q=Scientology'
 artifacts:
-  - title: Scientology Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Scientology Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Scientology'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1950s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Scientology.
-  - title: Scientology Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Scientology Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Scientology'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1950s CE

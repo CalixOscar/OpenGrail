@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Parody & Fiction-Derived Religions'
     url: 'https://brill.com/search?q=Parody%20%26%20Fiction-Derived%20Religions'
 artifacts:
-  - title: Parody & Fiction-Derived Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Parody & Fiction-Derived Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Parody_%26_Fiction-Derived_Religions'
     provenance: 'London, England, UK'
     period: c. mid-20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Parody & Fiction-Derived Religions.
-  - title: Parody & Fiction-Derived Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Parody & Fiction-Derived Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Parody_%26_Fiction-Derived_Religions'
     provenance: 'London, England, UK'
     period: c. mid-20th century CE

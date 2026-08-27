@@ -43,16 +43,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Linji%20Chan'
 artifacts:
-  - title: Linji Chan Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Linji Chan Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Linji_Chan'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 9th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Linji Chan.
-  - title: Linji Chan Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Linji Chan Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Linji_Chan'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 9th century CE

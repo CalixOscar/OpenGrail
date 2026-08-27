@@ -46,22 +46,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Community of Christ'
     url: 'https://www.cambridge.org/core/search?q=Community%20of%20Christ'
 artifacts:
-  - title: Community of Christ Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Community of Christ Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Community_of_Christ'
     provenance: 'Independence, Jackson County, Missouri, USA'
     period: c. 1860 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Community of Christ.
-  - title: Community of Christ Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/community-of-christ-1.jpg
+  - title: Community of Christ Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Community_of_Christ'
     provenance: 'Independence, Jackson County, Missouri, USA'
     period: c. 1860 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Community of Christ.
+    imageUrl: /artifacts/community-of-christ-2.jpg
 ---
 
 # Community of Christ

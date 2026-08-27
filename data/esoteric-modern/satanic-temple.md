@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: The Satanic Temple'
     url: 'https://brill.com/search?q=The%20Satanic%20Temple'
 artifacts:
-  - title: The Satanic Temple Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: The Satanic Temple Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/The_Satanic_Temple'
     provenance: 'Boston, Massachusetts, USA'
     period: c. 2013 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with The Satanic Temple.
-  - title: The Satanic Temple Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: The Satanic Temple Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/The_Satanic_Temple'
     provenance: 'Boston, Massachusetts, USA'
     period: c. 2013 CE

@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Marduk'
     url: 'https://brill.com/search?q=Cult%20of%20Marduk'
 artifacts:
-  - title: Cult of Marduk Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Cult of Marduk Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Marduk'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2000 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cult of Marduk.
-  - title: Cult of Marduk Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Cult of Marduk Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Marduk'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2000 BCE

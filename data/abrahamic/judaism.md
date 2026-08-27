@@ -44,16 +44,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Judaism'
     url: 'https://www.cambridge.org/core/search?q=Judaism'
 artifacts:
-  - title: Judaism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Judaism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1200–500 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Judaism.
-  - title: Judaism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1200–500 BCE

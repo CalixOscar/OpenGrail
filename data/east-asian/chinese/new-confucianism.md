@@ -41,16 +41,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=New%20Confucianism'
 artifacts:
-  - title: New Confucianism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: New Confucianism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/New_Confucianism'
     provenance: 'Qufu, Shandong, China'
     period: c. 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with New Confucianism.
-  - title: New Confucianism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: New Confucianism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/New_Confucianism'
     provenance: 'Qufu, Shandong, China'
     period: c. 20th century CE

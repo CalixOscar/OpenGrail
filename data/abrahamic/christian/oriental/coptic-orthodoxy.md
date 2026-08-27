@@ -42,24 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Coptic Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Coptic%20Orthodoxy'
 artifacts:
-  - title: Coptic Orthodox Church Historical Sanctuary & Records
+  - title: Coptic Orthodoxy Historical Sanctuary & Relics
+    sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Orthodoxy'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1st century CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Coptic Orthodoxy.
     imageUrl: /artifacts/coptic-orthodoxy-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Orthodox_Church'
+  - title: Coptic Orthodoxy Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      The Coptic Orthodox Church, also known as the Coptic Orthodox Patriarchate
-      of Alexandria, is an Oriental Orthodox Christian church based in Egypt.
-      The head of the Coptic Orthodox C...
-  - title: Bible Canonical Scripture & Iconography
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Coptic Orthodoxy.
     imageUrl: /artifacts/coptic-orthodoxy-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1st century CE
-    description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
 ---
 
 # Coptic Orthodoxy

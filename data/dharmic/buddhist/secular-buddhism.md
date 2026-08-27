@@ -46,16 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Secular%20Buddhism'
 artifacts:
-  - title: Secular Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Secular Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Secular_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Secular Buddhism.
-  - title: Secular Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Secular Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Secular_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 20th century CE

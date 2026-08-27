@@ -44,16 +44,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Heathenry'
     url: 'https://brill.com/search?q=Heathenry'
 artifacts:
-  - title: Heathenry Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Heathenry Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Heathenry'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Heathenry.
-  - title: Heathenry Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Heathenry Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Heathenry'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE

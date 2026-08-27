@@ -43,16 +43,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Gelug'
 artifacts:
-  - title: Gelug Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Gelug Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Gelug'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 15th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Gelug.
-  - title: Gelug Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Gelug Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Gelug'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 15th century CE

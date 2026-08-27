@@ -49,22 +49,22 @@ sources:
       Churches of God
     url: 'https://www.cambridge.org/core/search?q=Armstrongist%20Churches%20of%20God'
 artifacts:
-  - title: Armstrongist Churches of God Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Armstrongist Churches of God Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Armstrongist_Churches_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1934 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Armstrongist Churches of God.
-  - title: Armstrongist Churches of God Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/armstrongism-1.jpg
+  - title: Armstrongist Churches of God Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Armstrongist_Churches_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1934 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Armstrongist Churches of God.
+    imageUrl: /artifacts/armstrongism-2.jpg
 ---
 
 # Armstrongist Churches of God

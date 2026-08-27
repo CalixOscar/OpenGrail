@@ -40,16 +40,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Egyptian Religion'
     url: 'https://brill.com/search?q=Ancient%20Egyptian%20Religion'
 artifacts:
-  - title: Ancient Egyptian Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ancient Egyptian Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Egyptian_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3100 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ancient Egyptian Religion.
-  - title: Ancient Egyptian Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ancient Egyptian Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Egyptian_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3100 BCE

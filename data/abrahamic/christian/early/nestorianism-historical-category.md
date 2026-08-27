@@ -50,24 +50,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & “Nestorianism”'
     url: 'https://www.cambridge.org/core/search?q=%E2%80%9CNestorianism%E2%80%9D'
 artifacts:
-  - title: Nestorianism Historical Sanctuary & Records
-    imageUrl: /artifacts/nestorianism-historical-category-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nestorianism'
+  - title: “Nestorianism” (Historical Category) Historical Sanctuary & Relics
+    sourceUrl: >-
+      https://en.wikipedia.org/wiki/%E2%80%9CNestorianism%E2%80%9D_(Historical_Category)
     provenance: 'Jerusalem, Southern Levant'
     period: c. 5th century CE
     description: >-
-      Nestorianism is a term used in Christian theology and Church history to
-      refer to several mutually related but doctrinally distinct sets of
-      teachings that fall under the umbrella te...
-  - title: Bazaar of Heracleides Canonical Scripture & Iconography
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with “Nestorianism” (Historical Category).
     imageUrl: /artifacts/nestorianism-historical-category-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bazaar_of_Heracleides'
+  - title: “Nestorianism” (Historical Category) Sacred Scripture & Art
+    sourceUrl: >-
+      https://en.wikipedia.org/wiki/%E2%80%9CNestorianism%E2%80%9D_(Historical_Category)
     provenance: 'Jerusalem, Southern Levant'
     period: c. 5th century CE
     description: >-
-      The Bazaar of Heracleides (Syriac: ܬܰܓܘܼܪܬܳܐ ܕܗܰܪܰܩܠܝܼܕܶܣ) is a
-      theological and historical apologetic work attributed to Nestorius, the
-      5th-century Patriarch of Constantinople. Com...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of “Nestorianism” (Historical Category).
+    imageUrl: /artifacts/nestorianism-historical-category-2.jpg
 ---
 
 # “Nestorianism” (Historical Category)

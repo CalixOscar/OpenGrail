@@ -47,22 +47,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Serbian%20Orthodox%20Church'
 artifacts:
-  - title: Serbian Orthodox Church Historical Records
-    imageUrl: /artifacts/serbian-orthodox-church-1.jpg
+  - title: Serbian Orthodox Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Serbian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1219 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Serbian Orthodox Church.
-  - title: Serbian Orthodox Church Sacred Texts & Material Culture
-    imageUrl: /artifacts/serbian-orthodox-church-2.jpg
+    imageUrl: /artifacts/serbian-orthodox-church-1.jpg
+  - title: Serbian Orthodox Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Serbian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1219 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Serbian Orthodox Church.
+    imageUrl: /artifacts/serbian-orthodox-church-2.jpg
 ---
 
 # Serbian Orthodox Church

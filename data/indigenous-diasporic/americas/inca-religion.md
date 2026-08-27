@@ -42,16 +42,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Inca%20Imperial%20Religion'
 artifacts:
-  - title: Inca Imperial Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Inca Imperial Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Inca_Imperial_Religion'
     provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
     period: c. c. 1400 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Inca Imperial Religion.
-  - title: Inca Imperial Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Inca Imperial Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Inca_Imperial_Religion'
     provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
     period: c. c. 1400 CE

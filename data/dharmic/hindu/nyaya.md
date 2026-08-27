@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ny%C4%81ya'
 artifacts:
-  - title: Nyāya Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Nyāya Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ny%C4%81ya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Nyāya.
-  - title: Nyāya Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Nyāya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ny%C4%81ya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century CE

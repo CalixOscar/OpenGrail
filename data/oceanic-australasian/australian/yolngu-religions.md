@@ -48,16 +48,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Yol%C5%8Bu%20Religious%20Traditions'
 artifacts:
-  - title: Yolŋu Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Yolŋu Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Yol%C5%8Bu_Religious_Traditions'
     provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
     period: c. ancient and continuing
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Yolŋu Religious Traditions.
-  - title: Yolŋu Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Yolŋu Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Yol%C5%8Bu_Religious_Traditions'
     provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
     period: c. ancient and continuing

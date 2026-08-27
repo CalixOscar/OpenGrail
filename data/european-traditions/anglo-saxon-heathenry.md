@@ -50,16 +50,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Anglo-Saxon Heathenry'
     url: 'https://brill.com/search?q=Anglo-Saxon%20Heathenry'
 artifacts:
-  - title: Anglo-Saxon Heathenry Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Anglo-Saxon Heathenry Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Anglo-Saxon_Heathenry'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Anglo-Saxon Heathenry.
-  - title: Anglo-Saxon Heathenry Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Anglo-Saxon Heathenry Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Anglo-Saxon_Heathenry'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE

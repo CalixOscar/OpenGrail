@@ -52,16 +52,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Hindu%20Traditions'
 artifacts:
-  - title: Hindu Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Hindu Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Hindu_Traditions'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 500 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hindu Traditions.
-  - title: Hindu Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Hindu Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Hindu_Traditions'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 500 BCE

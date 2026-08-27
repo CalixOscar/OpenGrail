@@ -46,16 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9A%C4%81ktism'
 artifacts:
-  - title: Śāktism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Śāktism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81ktism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Śāktism.
-  - title: Śāktism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Śāktism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81ktism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century CE

@@ -46,16 +46,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Christian Church'
     url: 'https://www.cambridge.org/core/search?q=Christian%20Church'
 artifacts:
-  - title: Christian Church (Disciples of Christ) Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Christian Church (Disciples of Christ) Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Christian_Church_(Disciples_of_Christ)'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1968 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Christian Church (Disciples of Christ).
-  - title: Christian Church (Disciples of Christ) Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Christian Church (Disciples of Christ) Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Christian_Church_(Disciples_of_Christ)'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1968 CE

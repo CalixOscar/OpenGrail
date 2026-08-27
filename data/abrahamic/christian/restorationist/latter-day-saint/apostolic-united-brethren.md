@@ -45,22 +45,22 @@ sources:
       Brethren
     url: 'https://www.cambridge.org/core/search?q=Apostolic%20United%20Brethren'
 artifacts:
-  - title: Apostolic United Brethren Historical Records
-    imageUrl: /artifacts/apostolic-united-brethren-1.jpg
+  - title: Apostolic United Brethren Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Apostolic_United_Brethren'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1954 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Apostolic United Brethren.
-  - title: Apostolic United Brethren Sacred Texts & Material Culture
     imageUrl: /artifacts/apostolic-united-brethren-1.jpg
+  - title: Apostolic United Brethren Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Apostolic_United_Brethren'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1954 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Apostolic United Brethren.
+    imageUrl: /artifacts/apostolic-united-brethren-2.jpg
 ---
 
 # Apostolic United Brethren

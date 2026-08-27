@@ -41,16 +41,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Hopi%20Religion'
 artifacts:
-  - title: Hopi Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Hopi Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Hopi_Religion'
     provenance: 'Old Oraibi, Third Mesa, Hopi Nation, AZ'
     period: c. ancestral era
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hopi Religion.
-  - title: Hopi Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Hopi Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Hopi_Religion'
     provenance: 'Old Oraibi, Third Mesa, Hopi Nation, AZ'
     period: c. ancestral era

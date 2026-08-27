@@ -46,16 +46,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Aetherius Society'
     url: 'https://brill.com/search?q=Aetherius%20Society'
 artifacts:
-  - title: Aetherius Society Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Aetherius Society Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Aetherius_Society'
     provenance: 'London, England, UK'
     period: c. 1955 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Aetherius Society.
-  - title: Aetherius Society Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Aetherius Society Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Aetherius_Society'
     provenance: 'London, England, UK'
     period: c. 1955 CE

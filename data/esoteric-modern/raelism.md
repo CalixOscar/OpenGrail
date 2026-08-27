@@ -44,16 +44,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Raëlism'
     url: 'https://brill.com/search?q=Ra%C3%ABlism'
 artifacts:
-  - title: Raëlism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Raëlism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ra%C3%ABlism'
     provenance: 'London, England, UK'
     period: c. 1974 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Raëlism.
-  - title: Raëlism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Raëlism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ra%C3%ABlism'
     provenance: 'London, England, UK'
     period: c. 1974 CE

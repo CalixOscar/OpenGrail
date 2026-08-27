@@ -43,16 +43,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Ghost%20Dance%20Movements'
 artifacts:
-  - title: Ghost Dance Movements Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ghost Dance Movements Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ghost_Dance_Movements'
     provenance: 'Wounded Knee / Pine Ridge, SD, USA'
     period: c. 1870 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ghost Dance Movements.
-  - title: Ghost Dance Movements Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ghost Dance Movements Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ghost_Dance_Movements'
     provenance: 'Wounded Knee / Pine Ridge, SD, USA'
     period: c. 1870 CE

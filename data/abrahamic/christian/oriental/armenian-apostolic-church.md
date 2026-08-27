@@ -44,25 +44,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Armenian%20Apostolic%20Church'
 artifacts:
-  - title: Armenian Apostolic Church Historical Sanctuary & Records
-    imageUrl: /artifacts/armenian-apostolic-church-1.jpg
+  - title: Armenian Apostolic Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Apostolic_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE
     description: >-
-      The Armenian Apostolic Church (Armenian: Հայ Առաքելական Եկեղեցի,
-      romanized: Hay Aṙaqelakan Ékełetsi) is the autocephalous national church
-      of Armenia. Part of Oriental Orthodoxy, it...
-  - title: Bible translations into Armenian Canonical Scripture & Iconography
-    imageUrl: /artifacts/armenian-apostolic-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible_translations_into_Armenian'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Armenian Apostolic Church.
+    imageUrl: /artifacts/armenian-apostolic-church-1.jpg
+  - title: Armenian Apostolic Church Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Apostolic_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE
     description: >-
-      The Bible (Armenian: Աստուածաշունչ, 'Breath of God') has been translated
-      to Armenian since the beginning of the fifth century.
-
-      The invention of the Armenian alphabet by Mesrop Mash...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Armenian Apostolic Church.
+    imageUrl: /artifacts/armenian-apostolic-church-2.jpg
 ---
 
 # Armenian Apostolic Church

@@ -43,16 +43,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Kemetism'
     url: 'https://brill.com/search?q=Kemetism'
 artifacts:
-  - title: Kemetism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Kemetism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Kemetism'
     provenance: 'London, England, UK'
     period: c. 1970s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Kemetism.
-  - title: Kemetism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Kemetism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Kemetism'
     provenance: 'London, England, UK'
     period: c. 1970s CE

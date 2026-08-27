@@ -43,16 +43,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Tengrism'
 artifacts:
-  - title: Tengrism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Tengrism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Tengrism'
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. at least 6th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Tengrism.
-  - title: Tengrism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Tengrism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Tengrism'
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. at least 6th century CE

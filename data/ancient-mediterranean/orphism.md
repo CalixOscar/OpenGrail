@@ -44,16 +44,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Orphism'
     url: 'https://brill.com/search?q=Orphism'
 artifacts:
-  - title: Orphism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Orphism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Orphism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 6th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Orphism.
-  - title: Orphism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Orphism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Orphism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 6th century BCE

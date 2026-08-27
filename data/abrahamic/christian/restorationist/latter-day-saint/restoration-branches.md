@@ -45,22 +45,22 @@ sources:
       Branches
     url: 'https://www.cambridge.org/core/search?q=Restoration%20Branches'
 artifacts:
-  - title: Restoration Branches Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Restoration Branches Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Branches'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1984 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Restoration Branches.
-  - title: Restoration Branches Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/restoration-branches-1.jpg
+  - title: Restoration Branches Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Branches'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1984 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Restoration Branches.
+    imageUrl: /artifacts/restoration-branches-2.jpg
 ---
 
 # Restoration Branches

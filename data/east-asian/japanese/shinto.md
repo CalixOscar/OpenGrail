@@ -45,16 +45,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shinto'
 artifacts:
-  - title: Shinto Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Shinto Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Shinto'
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Shinto.
-  - title: Shinto Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Shinto Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Shinto'
     provenance: 'Qufu, Shandong, China'
     period: c. ancient

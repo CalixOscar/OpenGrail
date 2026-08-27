@@ -48,22 +48,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Iglesia ni Cristo'
     url: 'https://www.cambridge.org/core/search?q=Iglesia%20ni%20Cristo'
 artifacts:
-  - title: Iglesia ni Cristo Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Iglesia ni Cristo Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Iglesia_ni_Cristo'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1914 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Iglesia ni Cristo.
-  - title: Iglesia ni Cristo Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/iglesia-ni-cristo-1.jpg
+  - title: Iglesia ni Cristo Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Iglesia_ni_Cristo'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1914 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Iglesia ni Cristo.
+    imageUrl: /artifacts/iglesia-ni-cristo-1.jpg
 ---
 
 # Iglesia ni Cristo

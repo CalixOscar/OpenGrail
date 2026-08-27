@@ -48,22 +48,22 @@ sources:
       Traditions
     url: 'https://www.cambridge.org/core/search?q=Mennonite%20Traditions'
 artifacts:
-  - title: Mennonite Traditions Historical Records
-    imageUrl: /artifacts/mennonites-2.jpg
+  - title: Mennonite Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Mennonite_Traditions'
     provenance: 'Zurich, Switzerland'
     period: c. 1520s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mennonite Traditions.
-  - title: Mennonite Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/mennonites-2.jpg
+    imageUrl: /artifacts/mennonites-1.jpg
+  - title: Mennonite Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Mennonite_Traditions'
     provenance: 'Zurich, Switzerland'
     period: c. 1520s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Mennonite Traditions.
+    imageUrl: /artifacts/mennonites-2.jpg
 ---
 
 # Mennonite Traditions

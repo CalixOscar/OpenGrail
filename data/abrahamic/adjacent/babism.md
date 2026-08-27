@@ -48,24 +48,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Babism'
     url: 'https://www.cambridge.org/core/search?q=Babism'
 artifacts:
-  - title: Bábism Historical Sanctuary & Records
+  - title: Babism Historical Sanctuary & Relics
+    sourceUrl: 'https://en.wikipedia.org/wiki/Babism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1844 CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Babism.
     imageUrl: /artifacts/babism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/B%C3%A1bism'
+  - title: Babism Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Babism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1844 CE
     description: >-
-      Bábism (Persian: بابیه, romanized: Bâbiyye) is a messianic movement
-      founded in 1844 by the Báb. The Báb, an Iranian merchant-turned-prophet,
-      professed that there is one incorporeal...
-  - title: Qayyūm al-asmā Canonical Scripture & Iconography
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Babism.
     imageUrl: /artifacts/babism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Qayy%C5%ABm_al-asm%C4%81'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1844 CE
-    description: >-
-      Qayyūm al-asmā or Qayyúmu'l-Asmáʼ (Arabic: قيوم الأسماء; transl. "The
-      Self-Subsisting Lord of All Names") is the first major work by Siyyid ʻAlí
-      Muhammad Shírází, the Báb, after de...
 ---
 
 # Babism

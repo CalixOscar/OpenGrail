@@ -51,8 +51,9 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Remnant%20Church%20of%20Jesus%20Christ%20of%20Latter%20Day%20Saints
 artifacts:
-  - title: Remnant Church of Jesus Christ of Latter Day Saints Historical Records
-    imageUrl: /artifacts/remnant-church-jesus-christ-latter-day-saints-1.jpg
+  - title: >-
+      Remnant Church of Jesus Christ of Latter Day Saints Historical Sanctuary &
+      Relics
     sourceUrl: >-
       https://en.wikipedia.org/wiki/Remnant_Church_of_Jesus_Christ_of_Latter_Day_Saints
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
@@ -60,10 +61,8 @@ artifacts:
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Remnant Church of Jesus Christ of Latter Day Saints.
-  - title: >-
-      Remnant Church of Jesus Christ of Latter Day Saints Sacred Texts &
-      Material Culture
     imageUrl: /artifacts/remnant-church-jesus-christ-latter-day-saints-1.jpg
+  - title: Remnant Church of Jesus Christ of Latter Day Saints Sacred Scripture & Art
     sourceUrl: >-
       https://en.wikipedia.org/wiki/Remnant_Church_of_Jesus_Christ_of_Latter_Day_Saints
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
@@ -71,6 +70,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Remnant Church of Jesus Christ of Latter Day Saints.
+    imageUrl: /artifacts/remnant-church-jesus-christ-latter-day-saints-2.jpg
 ---
 
 # Remnant Church of Jesus Christ of Latter Day Saints

@@ -47,8 +47,7 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%ABkula%20%2F%20%C5%9Ar%C4%ABvidy%C4%81
 artifacts:
-  - title: Śrīkula / Śrīvidyā Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Śrīkula / Śrīvidyā Historical Sanctuary & Relics
     sourceUrl: >-
       https://en.wikipedia.org/wiki/%C5%9Ar%C4%ABkula_%2F_%C5%9Ar%C4%ABvidy%C4%81
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -56,8 +55,7 @@ artifacts:
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Śrīkula / Śrīvidyā.
-  - title: Śrīkula / Śrīvidyā Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Śrīkula / Śrīvidyā Sacred Scripture & Art
     sourceUrl: >-
       https://en.wikipedia.org/wiki/%C5%9Ar%C4%ABkula_%2F_%C5%9Ar%C4%ABvidy%C4%81
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'

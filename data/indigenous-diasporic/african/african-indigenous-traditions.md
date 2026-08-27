@@ -46,18 +46,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=African%20Indigenous%20Traditions'
 artifacts:
-  - title: African Indigenous Traditions (Comparative) Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: African Indigenous Traditions (Comparative) Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/African_Indigenous_Traditions_(Comparative)'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. prehistoric and historically diverse
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with African Indigenous Traditions (Comparative).
-  - title: >-
-      African Indigenous Traditions (Comparative) Sacred Texts & Material
-      Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: African Indigenous Traditions (Comparative) Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/African_Indigenous_Traditions_(Comparative)'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. prehistoric and historically diverse

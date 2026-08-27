@@ -48,16 +48,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9A%C4%81kta%20Tantra'
 artifacts:
-  - title: Śākta Tantra Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Śākta Tantra Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81kta_Tantra'
     provenance: 'Kamakhya (Guwahati), Assam, India'
     period: c. c. 6th–8th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Śākta Tantra.
-  - title: Śākta Tantra Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Śākta Tantra Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81kta_Tantra'
     provenance: 'Kamakhya (Guwahati), Assam, India'
     period: c. c. 6th–8th century CE

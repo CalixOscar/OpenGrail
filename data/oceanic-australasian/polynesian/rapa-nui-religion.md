@@ -47,16 +47,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Rapa%20Nui%20Religious%20Traditions'
 artifacts:
-  - title: Rapa Nui Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Rapa Nui Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Rapa_Nui_Religious_Traditions'
     provenance: Rano Raraku (Rapa Nui / Easter Island)
     period: c. c. 1200 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Rapa Nui Religious Traditions.
-  - title: Rapa Nui Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Rapa Nui Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Rapa_Nui_Religious_Traditions'
     provenance: Rano Raraku (Rapa Nui / Easter Island)
     period: c. c. 1200 CE

@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Navay%C4%81na%20Buddhism'
 artifacts:
-  - title: Navayāna Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Navayāna Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Navay%C4%81na_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1956 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Navayāna Buddhism.
-  - title: Navayāna Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Navayāna Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Navay%C4%81na_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1956 CE

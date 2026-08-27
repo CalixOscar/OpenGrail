@@ -48,22 +48,22 @@ sources:
       Movement
     url: 'https://www.cambridge.org/core/search?q=Restoration%20Movement'
 artifacts:
-  - title: Restoration Movement Historical Records
-    imageUrl: /artifacts/restoration-movement-1.jpg
+  - title: Restoration Movement Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Movement'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1800 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Restoration Movement.
-  - title: Restoration Movement Sacred Texts & Material Culture
     imageUrl: /artifacts/restoration-movement-1.jpg
+  - title: Restoration Movement Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Movement'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1800 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Restoration Movement.
+    imageUrl: /artifacts/restoration-movement-2.jpg
 ---
 
 # Restoration Movement

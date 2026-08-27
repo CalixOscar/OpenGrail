@@ -47,16 +47,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Enochian Magic'
     url: 'https://brill.com/search?q=Enochian%20Magic'
 artifacts:
-  - title: Enochian Magic Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Enochian Magic Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Enochian_Magic'
     provenance: 'London, England, UK'
     period: c. 1580s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Enochian Magic.
-  - title: Enochian Magic Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Enochian Magic Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Enochian_Magic'
     provenance: 'London, England, UK'
     period: c. 1580s CE

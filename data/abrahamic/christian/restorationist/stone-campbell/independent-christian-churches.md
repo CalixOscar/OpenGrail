@@ -51,8 +51,9 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Independent%20Christian%20Churches%20and%20Churches%20of%20Christ
 artifacts:
-  - title: Independent Christian Churches and Churches of Christ Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: >-
+      Independent Christian Churches and Churches of Christ Historical Sanctuary
+      & Relics
     sourceUrl: >-
       https://en.wikipedia.org/wiki/Independent_Christian_Churches_and_Churches_of_Christ
     provenance: 'Jerusalem, Southern Levant'
@@ -61,9 +62,8 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Independent Christian Churches and Churches of Christ.
   - title: >-
-      Independent Christian Churches and Churches of Christ Sacred Texts &
-      Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+      Independent Christian Churches and Churches of Christ Sacred Scripture &
+      Art
     sourceUrl: >-
       https://en.wikipedia.org/wiki/Independent_Christian_Churches_and_Churches_of_Christ
     provenance: 'Jerusalem, Southern Levant'

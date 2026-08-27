@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Samothracian Mysteries'
     url: 'https://brill.com/search?q=Samothracian%20Mysteries'
 artifacts:
-  - title: Samothracian Mysteries Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Samothracian Mysteries Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Samothracian_Mysteries'
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 7th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Samothracian Mysteries.
-  - title: Samothracian Mysteries Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Samothracian Mysteries Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Samothracian_Mysteries'
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 7th century BCE

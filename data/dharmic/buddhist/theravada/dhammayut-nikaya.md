@@ -46,16 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Dhammayut%20Nik%C4%81ya'
 artifacts:
-  - title: Dhammayut Nikāya Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Dhammayut Nikāya Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Dhammayut_Nik%C4%81ya'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1833 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Dhammayut Nikāya.
-  - title: Dhammayut Nikāya Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Dhammayut Nikāya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Dhammayut_Nik%C4%81ya'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1833 CE

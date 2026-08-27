@@ -45,16 +45,14 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Churches%20of%20Christ%20in%20Australia
 artifacts:
-  - title: Churches of Christ in Australia Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Churches of Christ in Australia Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Churches_of_Christ_in_Australia'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1840s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Churches of Christ in Australia.
-  - title: Churches of Christ in Australia Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Churches of Christ in Australia Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Churches_of_Christ_in_Australia'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1840s CE

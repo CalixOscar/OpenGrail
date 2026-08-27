@@ -48,16 +48,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81s%C4%AB%20Tradition'
 artifacts:
-  - title: Mahāsī Tradition Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Mahāsī Tradition Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%AB_Tradition'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 1930s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mahāsī Tradition.
-  - title: Mahāsī Tradition Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Mahāsī Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%AB_Tradition'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 1930s CE

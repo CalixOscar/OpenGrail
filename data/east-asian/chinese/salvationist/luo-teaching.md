@@ -46,16 +46,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Luo%20Teaching'
 artifacts:
-  - title: Luo Teaching Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Luo Teaching Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Luo_Teaching'
     provenance: 'Qufu, Shandong, China'
     period: c. late 15th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Luo Teaching.
-  - title: Luo Teaching Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Luo Teaching Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Luo_Teaching'
     provenance: 'Qufu, Shandong, China'
     period: c. late 15th century CE

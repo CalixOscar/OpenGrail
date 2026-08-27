@@ -43,16 +43,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Thai%20Forest%20Tradition'
 artifacts:
-  - title: Thai Forest Tradition Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Thai Forest Tradition Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Thai_Forest_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1900 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Thai Forest Tradition.
-  - title: Thai Forest Tradition Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Thai Forest Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Thai_Forest_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1900 CE

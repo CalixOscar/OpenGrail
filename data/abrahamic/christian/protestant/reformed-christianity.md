@@ -44,22 +44,22 @@ sources:
       Christianity
     url: 'https://www.cambridge.org/core/search?q=Reformed%20Christianity'
 artifacts:
-  - title: Reformed Christianity Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Reformed Christianity Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Reformed_Christianity'
     provenance: 'Geneva, Switzerland'
     period: c. 1520s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Reformed Christianity.
-  - title: Reformed Christianity Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/reformed-christianity-1.jpg
+  - title: Reformed Christianity Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Reformed_Christianity'
     provenance: 'Geneva, Switzerland'
     period: c. 1520s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Reformed Christianity.
+    imageUrl: /artifacts/reformed-christianity-2.jpg
 ---
 
 # Reformed Christianity

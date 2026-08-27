@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gathic Zoroastrianism'
     url: 'https://brill.com/search?q=Gathic%20Zoroastrianism'
 artifacts:
-  - title: Gathic Zoroastrianism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Gathic Zoroastrianism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Gathic_Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. c. 1200–600 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Gathic Zoroastrianism.
-  - title: Gathic Zoroastrianism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Gathic Zoroastrianism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Gathic_Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. c. 1200–600 BCE

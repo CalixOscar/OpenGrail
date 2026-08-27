@@ -40,16 +40,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Slavic Religion'
     url: 'https://brill.com/search?q=Slavic%20Religion'
 artifacts:
-  - title: Slavic Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Slavic Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Slavic_Religion'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 6th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Slavic Religion.
-  - title: Slavic Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Slavic Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Slavic_Religion'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 6th century CE

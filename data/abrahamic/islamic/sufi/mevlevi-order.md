@@ -45,16 +45,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Mevlevi Order'
     url: 'https://www.cambridge.org/core/search?q=Mevlevi%20Order'
 artifacts:
-  - title: Mevlevi Order Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Mevlevi Order Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Mevlevi_Order'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 13th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mevlevi Order.
-  - title: Mevlevi Order Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Mevlevi Order Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Mevlevi_Order'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 13th century CE

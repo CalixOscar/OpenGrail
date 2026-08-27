@@ -45,16 +45,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Rabbinic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Rabbinic%20Judaism'
 artifacts:
-  - title: Rabbinic Judaism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Rabbinic Judaism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Rabbinic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Rabbinic Judaism.
-  - title: Rabbinic Judaism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Rabbinic Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Rabbinic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century CE

@@ -46,16 +46,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Churches of Christ'
     url: 'https://www.cambridge.org/core/search?q=Churches%20of%20Christ'
 artifacts:
-  - title: Churches of Christ Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Churches of Christ Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Churches_of_Christ'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1906 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Churches of Christ.
-  - title: Churches of Christ Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Churches of Christ Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Churches_of_Christ'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1906 CE

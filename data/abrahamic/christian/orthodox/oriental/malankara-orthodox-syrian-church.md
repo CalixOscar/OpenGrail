@@ -49,22 +49,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Malankara%20Orthodox%20Syrian%20Church
 artifacts:
-  - title: Malankara Orthodox Syrian Church Historical Records
-    imageUrl: /artifacts/malankara-orthodox-syrian-church-1.jpg
+  - title: Malankara Orthodox Syrian Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Malankara_Orthodox_Syrian_Church'
     provenance: 'Kottayam / Malabar Coast, Kerala, India'
     period: c. 1912 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Malankara Orthodox Syrian Church.
-  - title: Malankara Orthodox Syrian Church Sacred Texts & Material Culture
-    imageUrl: /artifacts/malankara-orthodox-syrian-church-2.jpg
+    imageUrl: /artifacts/malankara-orthodox-syrian-church-1.jpg
+  - title: Malankara Orthodox Syrian Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Malankara_Orthodox_Syrian_Church'
     provenance: 'Kottayam / Malabar Coast, Kerala, India'
     period: c. 1912 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Malankara Orthodox Syrian Church.
+    imageUrl: /artifacts/malankara-orthodox-syrian-church-2.jpg
 ---
 
 # Malankara Orthodox Syrian Church

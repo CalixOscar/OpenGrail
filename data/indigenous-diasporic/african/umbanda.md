@@ -50,16 +50,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Umbanda'
 artifacts:
-  - title: Umbanda Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Umbanda Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Umbanda'
     provenance: 'Rio de Janeiro, Brazil'
     period: c. early 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Umbanda.
-  - title: Umbanda Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Umbanda Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Umbanda'
     provenance: 'Rio de Janeiro, Brazil'
     period: c. early 20th century CE

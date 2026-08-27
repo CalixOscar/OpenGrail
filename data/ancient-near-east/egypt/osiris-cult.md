@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Osiris'
     url: 'https://brill.com/search?q=Cult%20of%20Osiris'
 artifacts:
-  - title: Cult of Osiris Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Cult of Osiris Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Osiris'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 2400 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cult of Osiris.
-  - title: Cult of Osiris Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Cult of Osiris Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Osiris'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 2400 BCE

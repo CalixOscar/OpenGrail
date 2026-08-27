@@ -46,16 +46,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: The Fourth Way'
     url: 'https://brill.com/search?q=The%20Fourth%20Way'
 artifacts:
-  - title: The Fourth Way Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: The Fourth Way Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/The_Fourth_Way'
     provenance: 'London, England, UK'
     period: c. early 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with The Fourth Way.
-  - title: The Fourth Way Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: The Fourth Way Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/The_Fourth_Way'
     provenance: 'London, England, UK'
     period: c. early 20th century CE

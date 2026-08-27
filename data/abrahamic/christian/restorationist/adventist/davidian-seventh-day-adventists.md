@@ -46,22 +46,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Davidian%20Seventh-day%20Adventists
 artifacts:
-  - title: Davidian Seventh-day Adventists Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Davidian Seventh-day Adventists Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Davidian_Seventh-day_Adventists'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1929 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Davidian Seventh-day Adventists.
-  - title: Davidian Seventh-day Adventists Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/davidian-seventh-day-adventists-1.jpg
+  - title: Davidian Seventh-day Adventists Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Davidian_Seventh-day_Adventists'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1929 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Davidian Seventh-day Adventists.
+    imageUrl: /artifacts/davidian-seventh-day-adventists-2.jpg
 ---
 
 # Davidian Seventh-day Adventists

@@ -46,18 +46,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Indigenous%20American%20Religions'
 artifacts:
-  - title: Indigenous American Religions (Comparative) Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Indigenous American Religions (Comparative) Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Indigenous_American_Religions_(Comparative)'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. prehistoric and historically diverse
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Indigenous American Religions (Comparative).
-  - title: >-
-      Indigenous American Religions (Comparative) Sacred Texts & Material
-      Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Indigenous American Religions (Comparative) Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Indigenous_American_Religions_(Comparative)'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. prehistoric and historically diverse

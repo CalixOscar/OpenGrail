@@ -46,16 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vajray%C4%81na%20Buddhism'
 artifacts:
-  - title: Vajrayāna Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Vajrayāna Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Vajray%C4%81na_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Vajrayāna Buddhism.
-  - title: Vajrayāna Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Vajrayāna Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Vajray%C4%81na_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE

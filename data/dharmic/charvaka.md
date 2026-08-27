@@ -51,16 +51,14 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=C%C4%81rv%C4%81ka%20%2F%20Lok%C4%81yata
 artifacts:
-  - title: Cārvāka / Lokāyata Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Cārvāka / Lokāyata Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/C%C4%81rv%C4%81ka_%2F_Lok%C4%81yata'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1st millennium BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cārvāka / Lokāyata.
-  - title: Cārvāka / Lokāyata Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Cārvāka / Lokāyata Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/C%C4%81rv%C4%81ka_%2F_Lok%C4%81yata'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1st millennium BCE

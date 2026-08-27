@@ -49,16 +49,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Athari Theology'
     url: 'https://www.cambridge.org/core/search?q=Athari%20Theology'
 artifacts:
-  - title: Athari Theology Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Athari Theology Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Athari_Theology'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 8th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Athari Theology.
-  - title: Athari Theology Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Athari Theology Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Athari_Theology'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 8th century CE

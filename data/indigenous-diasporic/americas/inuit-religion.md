@@ -42,16 +42,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Inuit%20Religions'
 artifacts:
-  - title: Inuit Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Inuit Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Inuit_Religions'
     provenance: 'Arctic Circle (Nuuk / Thule), Greenland'
     period: c. ancestral era
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Inuit Religions.
-  - title: Inuit Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Inuit Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Inuit_Religions'
     provenance: 'Arctic Circle (Nuuk / Thule), Greenland'
     period: c. ancestral era

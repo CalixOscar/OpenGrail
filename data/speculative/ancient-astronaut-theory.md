@@ -51,16 +51,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Astronaut Theory'
     url: 'https://brill.com/search?q=Ancient%20Astronaut%20Theory'
 artifacts:
-  - title: Ancient Astronaut Theory Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ancient Astronaut Theory Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Astronaut_Theory'
     provenance: 'Geneva, Switzerland'
     period: c. 1960s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ancient Astronaut Theory.
-  - title: Ancient Astronaut Theory Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ancient Astronaut Theory Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Astronaut_Theory'
     provenance: 'Geneva, Switzerland'
     period: c. 1960s CE

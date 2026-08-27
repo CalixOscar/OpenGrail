@@ -44,16 +44,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Satmar Hasidism'
     url: 'https://www.cambridge.org/core/search?q=Satmar%20Hasidism'
 artifacts:
-  - title: Satmar Hasidism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Satmar Hasidism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Satmar_Hasidism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1905 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Satmar Hasidism.
-  - title: Satmar Hasidism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Satmar Hasidism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Satmar_Hasidism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1905 CE

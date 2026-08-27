@@ -48,16 +48,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Dangun%20Veneration'
 artifacts:
-  - title: Dangun Veneration (Comparative) Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Dangun Veneration (Comparative) Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Dangun_Veneration_(Comparative)'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. medieval roots; modern revival
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Dangun Veneration (Comparative).
-  - title: Dangun Veneration (Comparative) Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Dangun Veneration (Comparative) Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Dangun_Veneration_(Comparative)'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. medieval roots; modern revival

@@ -50,16 +50,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Tongan%20Religious%20Traditions'
 artifacts:
-  - title: Tongan Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Tongan Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Tongan_Religious_Traditions'
     provenance: 'Tongatapu (Nuku''alofa), Kingdom of Tonga'
     period: c. precolonial
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Tongan Religious Traditions.
-  - title: Tongan Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Tongan Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Tongan_Religious_Traditions'
     provenance: 'Tongatapu (Nuku''alofa), Kingdom of Tonga'
     period: c. precolonial

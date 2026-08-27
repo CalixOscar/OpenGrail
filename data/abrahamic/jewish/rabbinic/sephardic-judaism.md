@@ -44,16 +44,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sephardic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Sephardic%20Judaism'
 artifacts:
-  - title: Sephardic Judaism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Sephardic Judaism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Sephardic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 10th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sephardic Judaism.
-  - title: Sephardic Judaism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Sephardic Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sephardic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 10th century CE

@@ -40,16 +40,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nihang%20Sikhs'
 artifacts:
-  - title: Nihang Sikhs Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Nihang Sikhs Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Nihang_Sikhs'
     provenance: 'Amritsar, Punjab, India'
     period: c. 18th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Nihang Sikhs.
-  - title: Nihang Sikhs Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Nihang Sikhs Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Nihang_Sikhs'
     provenance: 'Amritsar, Punjab, India'
     period: c. 18th century CE

@@ -42,16 +42,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Akan%20Religion'
 artifacts:
-  - title: Akan Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Akan Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Akan_Religion'
     provenance: 'Kumasi, Ashanti Empire, Ghana'
     period: c. precolonial era
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Akan Religion.
-  - title: Akan Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Akan Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Akan_Religion'
     provenance: 'Kumasi, Ashanti Empire, Ghana'
     period: c. precolonial era

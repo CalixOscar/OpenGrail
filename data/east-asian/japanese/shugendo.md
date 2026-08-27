@@ -45,16 +45,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shugend%C5%8D'
 artifacts:
-  - title: Shugendō Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Shugendō Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Shugend%C5%8D'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Shugendō.
-  - title: Shugendō Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Shugendō Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Shugend%C5%8D'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE

@@ -46,16 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Radha%20Soami%20Tradition'
 artifacts:
-  - title: Radha Soami Tradition Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Radha Soami Tradition Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Radha_Soami_Tradition'
     provenance: 'Amritsar, Punjab, India'
     period: c. 1861 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Radha Soami Tradition.
-  - title: Radha Soami Tradition Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Radha Soami Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Radha_Soami_Tradition'
     provenance: 'Amritsar, Punjab, India'
     period: c. 1861 CE

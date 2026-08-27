@@ -45,16 +45,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Konk%C5%8Dky%C5%8D'
 artifacts:
-  - title: Konkōkyō Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Konkōkyō Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Konk%C5%8Dky%C5%8D'
     provenance: 'Ise Grand Shrine, Mie, Japan'
     period: c. 1859 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Konkōkyō.
-  - title: Konkōkyō Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Konkōkyō Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Konk%C5%8Dky%C5%8D'
     provenance: 'Ise Grand Shrine, Mie, Japan'
     period: c. 1859 CE

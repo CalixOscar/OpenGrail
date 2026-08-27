@@ -46,16 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vai%E1%B9%A3%E1%B9%87avism'
 artifacts:
-  - title: Vaiṣṇavism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Vaiṣṇavism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Vai%E1%B9%A3%E1%B9%87avism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Vaiṣṇavism.
-  - title: Vaiṣṇavism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Vaiṣṇavism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Vai%E1%B9%A3%E1%B9%87avism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE

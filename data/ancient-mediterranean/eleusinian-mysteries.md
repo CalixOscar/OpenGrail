@@ -45,16 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Eleusinian Mysteries'
     url: 'https://brill.com/search?q=Eleusinian%20Mysteries'
 artifacts:
-  - title: Eleusinian Mysteries Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Eleusinian Mysteries Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Eleusinian_Mysteries'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 8th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Eleusinian Mysteries.
-  - title: Eleusinian Mysteries Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Eleusinian Mysteries Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Eleusinian_Mysteries'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 8th century BCE

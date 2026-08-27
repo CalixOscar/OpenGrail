@@ -49,16 +49,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Zapotec%20Religious%20Traditions'
 artifacts:
-  - title: Zapotec Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Zapotec Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Zapotec_Religious_Traditions'
     provenance: 'Monte Albán / Oaxaca Valley, Mexico'
     period: c. c. 500 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Zapotec Religious Traditions.
-  - title: Zapotec Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Zapotec Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Zapotec_Religious_Traditions'
     provenance: 'Monte Albán / Oaxaca Valley, Mexico'
     period: c. c. 500 BCE

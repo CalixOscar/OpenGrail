@@ -49,16 +49,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Thai%20Buddhism'
 artifacts:
-  - title: Thai Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Thai Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Thai_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 13th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Thai Buddhism.
-  - title: Thai Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Thai Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Thai_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 13th century CE

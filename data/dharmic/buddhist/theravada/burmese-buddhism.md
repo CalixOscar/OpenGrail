@@ -47,16 +47,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Burmese%20Buddhism'
 artifacts:
-  - title: Burmese Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Burmese Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Burmese_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 11th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Burmese Buddhism.
-  - title: Burmese Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Burmese Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Burmese_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 11th century CE

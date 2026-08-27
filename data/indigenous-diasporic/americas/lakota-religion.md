@@ -42,16 +42,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Lakota%20Religion'
 artifacts:
-  - title: Lakota Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Lakota Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Lakota_Religion'
     provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
     period: c. ancestral era
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Lakota Religion.
-  - title: Lakota Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Lakota Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Lakota_Religion'
     provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
     period: c. ancestral era

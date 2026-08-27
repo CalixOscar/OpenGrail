@@ -45,16 +45,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Siberian%20Shamanic%20Traditions'
 artifacts:
-  - title: Siberian Shamanic Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Siberian Shamanic Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Siberian_Shamanic_Traditions'
     provenance: 'Lake Baikal (Ulan-Ude), Buryatia, Siberia'
     period: c. ancient; continuously developing
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Siberian Shamanic Traditions.
-  - title: Siberian Shamanic Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Siberian Shamanic Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Siberian_Shamanic_Traditions'
     provenance: 'Lake Baikal (Ulan-Ude), Buryatia, Siberia'
     period: c. ancient; continuously developing

@@ -47,8 +47,7 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Vi%C5%9Bi%E1%B9%A3%E1%B9%AD%C4%81dvaita%20Ved%C4%81nta
 artifacts:
-  - title: Viśiṣṭādvaita Vedānta Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Viśiṣṭādvaita Vedānta Historical Sanctuary & Relics
     sourceUrl: >-
       https://en.wikipedia.org/wiki/Vi%C5%9Bi%E1%B9%A3%E1%B9%AD%C4%81dvaita_Ved%C4%81nta
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -56,8 +55,7 @@ artifacts:
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Viśiṣṭādvaita Vedānta.
-  - title: Viśiṣṭādvaita Vedānta Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Viśiṣṭādvaita Vedānta Sacred Scripture & Art
     sourceUrl: >-
       https://en.wikipedia.org/wiki/Vi%C5%9Bi%E1%B9%A3%E1%B9%AD%C4%81dvaita_Ved%C4%81nta
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'

@@ -45,16 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Alexandrian Wicca'
     url: 'https://brill.com/search?q=Alexandrian%20Wicca'
 artifacts:
-  - title: Alexandrian Wicca Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Alexandrian Wicca Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Alexandrian_Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1960s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Alexandrian Wicca.
-  - title: Alexandrian Wicca Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Alexandrian Wicca Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Alexandrian_Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1960s CE

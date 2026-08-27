@@ -46,16 +46,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Tayyibi Ismailism'
     url: 'https://www.cambridge.org/core/search?q=Tayyibi%20Ismailism'
 artifacts:
-  - title: Tayyibi Ismailism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Tayyibi Ismailism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Tayyibi_Ismailism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1130 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Tayyibi Ismailism.
-  - title: Tayyibi Ismailism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Tayyibi Ismailism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Tayyibi_Ismailism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1130 CE

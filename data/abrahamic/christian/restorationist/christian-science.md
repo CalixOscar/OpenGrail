@@ -51,22 +51,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Church%20of%20Christ%2C%20Scientist
 artifacts:
-  - title: 'Church of Christ, Scientist Historical Records'
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: 'Church of Christ, Scientist Historical Sanctuary & Relics'
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Christ%2C_Scientist'
     provenance: 'Boston, Massachusetts, USA'
     period: c. 1879 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Church of Christ, Scientist.
-  - title: 'Church of Christ, Scientist Sacred Texts & Material Culture'
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/christian-science-1.jpg
+  - title: 'Church of Christ, Scientist Sacred Scripture & Art'
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Christ%2C_Scientist'
     provenance: 'Boston, Massachusetts, USA'
     period: c. 1879 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Church of Christ, Scientist.
+    imageUrl: /artifacts/christian-science-2.jpg
 ---
 
 # Church of Christ, Scientist

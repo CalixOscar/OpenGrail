@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Anthroposophy'
     url: 'https://brill.com/search?q=Anthroposophy'
 artifacts:
-  - title: Anthroposophy Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Anthroposophy Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Anthroposophy'
     provenance: 'Dornach, Solothurn, Switzerland'
     period: c. 1912–1913 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Anthroposophy.
-  - title: Anthroposophy Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Anthroposophy Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Anthroposophy'
     provenance: 'Dornach, Solothurn, Switzerland'
     period: c. 1912–1913 CE

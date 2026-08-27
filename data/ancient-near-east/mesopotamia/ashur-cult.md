@@ -48,16 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Ashur'
     url: 'https://brill.com/search?q=Cult%20of%20Ashur'
 artifacts:
-  - title: Cult of Ashur Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Cult of Ashur Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Ashur'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2000 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cult of Ashur.
-  - title: Cult of Ashur Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Cult of Ashur Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Ashur'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2000 BCE

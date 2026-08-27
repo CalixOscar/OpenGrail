@@ -49,16 +49,14 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Sikh%20Dharma%20International%20%2F%203HO
 artifacts:
-  - title: Sikh Dharma International / 3HO Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Sikh Dharma International / 3HO Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Sikh_Dharma_International_%2F_3HO'
     provenance: 'Amritsar, Punjab, India'
     period: c. late 1960s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sikh Dharma International / 3HO.
-  - title: Sikh Dharma International / 3HO Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Sikh Dharma International / 3HO Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sikh_Dharma_International_%2F_3HO'
     provenance: 'Amritsar, Punjab, India'
     period: c. late 1960s CE

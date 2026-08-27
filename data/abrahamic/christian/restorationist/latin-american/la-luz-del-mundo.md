@@ -43,22 +43,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & La Luz del Mundo'
     url: 'https://www.cambridge.org/core/search?q=La%20Luz%20del%20Mundo'
 artifacts:
-  - title: La Luz del Mundo Historical Records
-    imageUrl: /artifacts/la-luz-del-mundo-1.jpg
+  - title: La Luz del Mundo Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/La_Luz_del_Mundo'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1926 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with La Luz del Mundo.
-  - title: La Luz del Mundo Sacred Texts & Material Culture
     imageUrl: /artifacts/la-luz-del-mundo-1.jpg
+  - title: La Luz del Mundo Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/La_Luz_del_Mundo'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1926 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of La Luz del Mundo.
+    imageUrl: /artifacts/la-luz-del-mundo-2.jpg
 ---
 
 # La Luz del Mundo

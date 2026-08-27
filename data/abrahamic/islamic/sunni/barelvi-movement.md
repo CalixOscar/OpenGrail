@@ -52,16 +52,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Barelvi Movement'
     url: 'https://www.cambridge.org/core/search?q=Barelvi%20Movement'
 artifacts:
-  - title: Barelvi Movement Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Barelvi Movement Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Barelvi_Movement'
     provenance: 'Jerusalem, Southern Levant'
     period: c. late 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Barelvi Movement.
-  - title: Barelvi Movement Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Barelvi Movement Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Barelvi_Movement'
     provenance: 'Jerusalem, Southern Levant'
     period: c. late 19th century CE

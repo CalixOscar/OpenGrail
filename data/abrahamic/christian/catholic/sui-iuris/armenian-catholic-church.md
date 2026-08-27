@@ -47,24 +47,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Armenian%20Catholic%20Church'
 artifacts:
-  - title: Armenian Catholic Church Historical Sanctuary & Records
-    imageUrl: /artifacts/armenian-catholic-church-1.jpg
+  - title: Armenian Catholic Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1742 CE
     description: >-
-      The Armenian Catholic Church is an Eastern Catholic particular church sui
-      iuris of the Catholic Church. It accepts the leadership of the bishop of
-      Rome, and is therefore in full co...
-  - title: Bible Canonical Scripture & Iconography
-    imageUrl: /artifacts/armenian-catholic-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Armenian Catholic Church.
+    imageUrl: /artifacts/armenian-catholic-church-1.jpg
+  - title: Armenian Catholic Church Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1742 CE
     description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Armenian Catholic Church.
+    imageUrl: /artifacts/armenian-catholic-church-2.jpg
 ---
 
 # Armenian Catholic Church

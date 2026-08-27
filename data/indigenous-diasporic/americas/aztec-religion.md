@@ -40,16 +40,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Mexica%20and%20Nahua%20Religions'
 artifacts:
-  - title: Mexica and Nahua Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Mexica and Nahua Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Mexica_and_Nahua_Religions'
     provenance: 'Tenochtitlan (Mexico City), Mexico'
     period: c. c. 1300 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mexica and Nahua Religions.
-  - title: Mexica and Nahua Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Mexica and Nahua Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Mexica_and_Nahua_Religions'
     provenance: 'Tenochtitlan (Mexico City), Mexico'
     period: c. c. 1300 CE

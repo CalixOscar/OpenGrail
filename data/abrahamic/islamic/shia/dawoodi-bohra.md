@@ -44,16 +44,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Dawoodi Bohra'
     url: 'https://www.cambridge.org/core/search?q=Dawoodi%20Bohra'
 artifacts:
-  - title: Dawoodi Bohra Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Dawoodi Bohra Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Dawoodi_Bohra'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1592 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Dawoodi Bohra.
-  - title: Dawoodi Bohra Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Dawoodi Bohra Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Dawoodi_Bohra'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1592 CE

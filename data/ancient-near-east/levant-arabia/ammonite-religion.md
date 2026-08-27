@@ -45,16 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ammonite Religion'
     url: 'https://brill.com/search?q=Ammonite%20Religion'
 artifacts:
-  - title: Ammonite Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ammonite Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ammonite_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1000 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ammonite Religion.
-  - title: Ammonite Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ammonite Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ammonite_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1000 BCE

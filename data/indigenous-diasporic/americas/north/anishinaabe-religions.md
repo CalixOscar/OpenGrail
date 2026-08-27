@@ -48,16 +48,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Anishinaabe%20Religious%20Traditions'
 artifacts:
-  - title: Anishinaabe Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Anishinaabe Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Anishinaabe_Religious_Traditions'
     provenance: 'Lake Superior (Anishinaabe), MI/ON'
     period: c. precolonial
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Anishinaabe Religious Traditions.
-  - title: Anishinaabe Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Anishinaabe Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Anishinaabe_Religious_Traditions'
     provenance: 'Lake Superior (Anishinaabe), MI/ON'
     period: c. precolonial

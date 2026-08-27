@@ -48,16 +48,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=%C5%8Cmoto'
 artifacts:
-  - title: Ōmoto Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ōmoto Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%8Cmoto'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1892 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ōmoto.
-  - title: Ōmoto Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ōmoto Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/%C5%8Cmoto'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1892 CE

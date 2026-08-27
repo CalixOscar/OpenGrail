@@ -46,24 +46,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Melkite%20Greek%20Catholic%20Church
 artifacts:
-  - title: Melkite Greek Catholic Church Historical Sanctuary & Records
-    imageUrl: /artifacts/melkite-greek-catholic-church-1.jpg
+  - title: Melkite Greek Catholic Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Melkite_Greek_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1724 CE
     description: >-
-      The Melkite Greek Catholic Church, also known as the Melkite Byzantine
-      Catholic Church, is an Eastern Catholic church in full communion with the
-      Holy See as part of the worldwide C...
-  - title: Bible Canonical Scripture & Iconography
-    imageUrl: /artifacts/melkite-greek-catholic-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Melkite Greek Catholic Church.
+    imageUrl: /artifacts/melkite-greek-catholic-church-1.jpg
+  - title: Melkite Greek Catholic Church Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Melkite_Greek_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1724 CE
     description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Melkite Greek Catholic Church.
+    imageUrl: /artifacts/melkite-greek-catholic-church-2.jpg
 ---
 
 # Melkite Greek Catholic Church

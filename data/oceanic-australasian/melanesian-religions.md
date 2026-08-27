@@ -42,16 +42,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Melanesian%20Religions'
 artifacts:
-  - title: Melanesian Religions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Melanesian Religions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Melanesian_Religions'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. ancestral era
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Melanesian Religions.
-  - title: Melanesian Religions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Melanesian Religions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Melanesian_Religions'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. ancestral era

@@ -45,16 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Freemasonry'
     url: 'https://brill.com/search?q=Freemasonry'
 artifacts:
-  - title: Freemasonry Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Freemasonry Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Freemasonry'
     provenance: 'London, England, UK'
     period: c. early 18th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Freemasonry.
-  - title: Freemasonry Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Freemasonry Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Freemasonry'
     provenance: 'London, England, UK'
     period: c. early 18th century CE

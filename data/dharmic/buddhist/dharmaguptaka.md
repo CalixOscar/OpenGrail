@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Dharmaguptaka'
 artifacts:
-  - title: Dharmaguptaka Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Dharmaguptaka Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Dharmaguptaka'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 3rd century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Dharmaguptaka.
-  - title: Dharmaguptaka Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Dharmaguptaka Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Dharmaguptaka'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 3rd century BCE

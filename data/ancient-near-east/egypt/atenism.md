@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Atenism'
     url: 'https://brill.com/search?q=Atenism'
 artifacts:
-  - title: Atenism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Atenism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Atenism'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 1353 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Atenism.
-  - title: Atenism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Atenism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Atenism'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 1353 BCE

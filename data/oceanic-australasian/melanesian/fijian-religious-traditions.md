@@ -55,16 +55,14 @@ sources:
     url: >-
       https://ich.unesco.org/en/search?q=iTaukei%20Fijian%20Religious%20Traditions
 artifacts:
-  - title: iTaukei Fijian Religious Traditions Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: iTaukei Fijian Religious Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/iTaukei_Fijian_Religious_Traditions'
     provenance: 'Viti Levu (Suva / Bau), Fiji'
     period: c. precolonial
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with iTaukei Fijian Religious Traditions.
-  - title: iTaukei Fijian Religious Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: iTaukei Fijian Religious Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/iTaukei_Fijian_Religious_Traditions'
     provenance: 'Viti Levu (Suva / Bau), Fiji'
     period: c. precolonial

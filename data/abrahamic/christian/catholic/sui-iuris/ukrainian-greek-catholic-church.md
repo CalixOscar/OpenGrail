@@ -46,24 +46,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Ukrainian%20Greek%20Catholic%20Church
 artifacts:
-  - title: Ukrainian Greek Catholic Church Historical Sanctuary & Records
-    imageUrl: /artifacts/ukrainian-greek-catholic-church-1.jpg
+  - title: Ukrainian Greek Catholic Church Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ukrainian_Greek_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1596 CE
     description: >-
-      The Ukrainian Greek Catholic Church (UGCC) is a major archiepiscopal sui
-      iuris ("autonomous") Eastern Catholic church that is based in Ukraine. As
-      a particular church of the Cathol...
-  - title: Bible Canonical Scripture & Iconography
-    imageUrl: /artifacts/ukrainian-greek-catholic-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Ukrainian Greek Catholic Church.
+    imageUrl: /artifacts/ukrainian-greek-catholic-church-1.jpg
+  - title: Ukrainian Greek Catholic Church Sacred Scripture & Art
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ukrainian_Greek_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1596 CE
     description: >-
-      The Bible is an anthology of religious texts that are central to
-      Christianity and Judaism, and important in other Abrahamic religions such
-      as Islam. The texts include instructions,...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Ukrainian Greek Catholic Church.
+    imageUrl: /artifacts/ukrainian-greek-catholic-church-2.jpg
 ---
 
 # Ukrainian Greek Catholic Church

@@ -45,22 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Pentecostalism'
     url: 'https://www.cambridge.org/core/search?q=Pentecostalism'
 artifacts:
-  - title: Pentecostalism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Pentecostalism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Pentecostalism'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. c. 1901 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Pentecostalism.
-  - title: Pentecostalism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/pentecostalism-1.jpg
+  - title: Pentecostalism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Pentecostalism'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. c. 1901 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Pentecostalism.
+    imageUrl: /artifacts/pentecostalism-2.jpg
 ---
 
 # Pentecostalism

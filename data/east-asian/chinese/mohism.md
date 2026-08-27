@@ -41,16 +41,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Mohism'
 artifacts:
-  - title: Mohism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Mohism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Mohism'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 5th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mohism.
-  - title: Mohism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Mohism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Mohism'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 5th century BCE

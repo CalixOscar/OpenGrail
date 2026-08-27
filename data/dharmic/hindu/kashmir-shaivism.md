@@ -49,16 +49,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Kashmir%20%C5%9Aaivism'
 artifacts:
-  - title: Kashmir Śaivism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Kashmir Śaivism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Kashmir_%C5%9Aaivism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Kashmir Śaivism.
-  - title: Kashmir Śaivism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Kashmir Śaivism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Kashmir_%C5%9Aaivism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE

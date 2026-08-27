@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Baptist Traditions'
     url: 'https://www.cambridge.org/core/search?q=Baptist%20Traditions'
 artifacts:
-  - title: Baptist Traditions Historical Records
-    imageUrl: /artifacts/baptist-traditions-2.jpg
+  - title: Baptist Traditions Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Baptist_Traditions'
     provenance: 'London, England, UK'
     period: c. 1609 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Baptist Traditions.
-  - title: Baptist Traditions Sacred Texts & Material Culture
-    imageUrl: /artifacts/baptist-traditions-2.jpg
+    imageUrl: /artifacts/baptist-traditions-1.jpg
+  - title: Baptist Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Baptist_Traditions'
     provenance: 'London, England, UK'
     period: c. 1609 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Baptist Traditions.
+    imageUrl: /artifacts/baptist-traditions-2.jpg
 ---
 
 # Baptist Traditions

@@ -43,16 +43,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Zurvanism'
     url: 'https://brill.com/search?q=Zurvanism'
 artifacts:
-  - title: Zurvanism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Zurvanism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Zurvanism'
     provenance: 'Isfahan, Iran'
     period: c. c. 4th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Zurvanism.
-  - title: Zurvanism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Zurvanism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Zurvanism'
     provenance: 'Isfahan, Iran'
     period: c. c. 4th century BCE

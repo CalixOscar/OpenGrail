@@ -47,16 +47,14 @@ sources:
       Religion
     url: 'https://www.cambridge.org/core/search?q=Ancient%20Israelite%20Religion'
 artifacts:
-  - title: Ancient Israelite Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ancient Israelite Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Israelite_Religion'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1200 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ancient Israelite Religion.
-  - title: Ancient Israelite Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ancient Israelite Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Israelite_Religion'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1200 BCE

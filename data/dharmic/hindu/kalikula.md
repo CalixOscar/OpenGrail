@@ -44,16 +44,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=K%C4%81l%C4%ABkula'
 artifacts:
-  - title: Kālīkula Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Kālīkula Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/K%C4%81l%C4%ABkula'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Kālīkula.
-  - title: Kālīkula Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Kālīkula Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/K%C4%81l%C4%ABkula'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE

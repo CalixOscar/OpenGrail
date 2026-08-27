@@ -40,16 +40,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Namdhari%20Sikhs'
 artifacts:
-  - title: Namdhari Sikhs Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Namdhari Sikhs Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Namdhari_Sikhs'
     provenance: 'Amritsar, Punjab, India'
     period: c. 1857 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Namdhari Sikhs.
-  - title: Namdhari Sikhs Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Namdhari Sikhs Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Namdhari_Sikhs'
     provenance: 'Amritsar, Punjab, India'
     period: c. 1857 CE

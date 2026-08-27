@@ -45,16 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Arya%20Samaj'
 artifacts:
-  - title: Arya Samaj Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Arya Samaj Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Arya_Samaj'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1875 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Arya Samaj.
-  - title: Arya Samaj Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Arya Samaj Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Arya_Samaj'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1875 CE

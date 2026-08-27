@@ -44,16 +44,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Temple of Set'
     url: 'https://brill.com/search?q=Temple%20of%20Set'
 artifacts:
-  - title: Temple of Set Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Temple of Set Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Temple_of_Set'
     provenance: 'San Francisco, California, USA'
     period: c. 1975 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Temple of Set.
-  - title: Temple of Set Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Temple of Set Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Temple_of_Set'
     provenance: 'San Francisco, California, USA'
     period: c. 1975 CE

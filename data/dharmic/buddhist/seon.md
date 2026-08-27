@@ -46,16 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Seon%20Buddhism'
 artifacts:
-  - title: Seon Buddhism Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Seon Buddhism Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Seon_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Seon Buddhism.
-  - title: Seon Buddhism Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Seon Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Seon_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE

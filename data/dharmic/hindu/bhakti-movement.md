@@ -49,16 +49,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Bhakti%20Movements'
 artifacts:
-  - title: Bhakti Movements Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Bhakti Movements Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Bhakti_Movements'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Bhakti Movements.
-  - title: Bhakti Movements Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Bhakti Movements Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Bhakti_Movements'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE

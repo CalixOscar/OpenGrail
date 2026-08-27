@@ -46,16 +46,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Ryukyuan%20Religion'
 artifacts:
-  - title: Ryukyuan Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Ryukyuan Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Ryukyuan_Religion'
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ryukyuan Religion.
-  - title: Ryukyuan Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Ryukyuan Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ryukyuan_Religion'
     provenance: 'Qufu, Shandong, China'
     period: c. ancient

@@ -43,16 +43,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Mexicayotl'
     url: 'https://brill.com/search?q=Mexicayotl'
 artifacts:
-  - title: Mexicayotl Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Mexicayotl Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Mexicayotl'
     provenance: 'Tenochtitlan (Mexico City), Mexico'
     period: c. 1950s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mexicayotl.
-  - title: Mexicayotl Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Mexicayotl Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Mexicayotl'
     provenance: 'Tenochtitlan (Mexico City), Mexico'
     period: c. 1950s CE

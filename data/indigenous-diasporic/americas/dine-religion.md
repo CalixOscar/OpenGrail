@@ -42,16 +42,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Din%C3%A9%20Religion'
 artifacts:
-  - title: Diné Religion Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Diné Religion Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Din%C3%A9_Religion'
     provenance: 'Dinétah (Navajo Nation), Four Corners, USA'
     period: c. ancestral era
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Diné Religion.
-  - title: Diné Religion Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+  - title: Diné Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Din%C3%A9_Religion'
     provenance: 'Dinétah (Navajo Nation), Four Corners, USA'
     period: c. ancestral era

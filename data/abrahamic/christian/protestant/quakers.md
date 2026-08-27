@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Quakers'
     url: 'https://www.cambridge.org/core/search?q=Quakers'
 artifacts:
-  - title: Quakers Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Quakers Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Quakers'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1650s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Quakers.
-  - title: Quakers Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/quakers-1.jpg
+  - title: Quakers Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Quakers'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1650s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Quakers.
+    imageUrl: /artifacts/quakers-2.jpg
 ---
 
 # Quakers

@@ -44,22 +44,22 @@ sources:
       of God
     url: 'https://www.cambridge.org/core/search?q=Philadelphia%20Church%20of%20God'
 artifacts:
-  - title: Philadelphia Church of God Historical Records
-    imageUrl: /artifacts/ancient-parthenon.jpg
+  - title: Philadelphia Church of God Historical Sanctuary & Relics
     sourceUrl: 'https://en.wikipedia.org/wiki/Philadelphia_Church_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1989 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Philadelphia Church of God.
-  - title: Philadelphia Church of God Sacred Texts & Material Culture
-    imageUrl: /artifacts/christianity-codex.jpg
+    imageUrl: /artifacts/philadelphia-church-of-god-1.jpg
+  - title: Philadelphia Church of God Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Philadelphia_Church_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1989 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Philadelphia Church of God.
+    imageUrl: /artifacts/philadelphia-church-of-god-2.jpg
 ---
 
 # Philadelphia Church of God
