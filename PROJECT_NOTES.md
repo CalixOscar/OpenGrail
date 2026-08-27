@@ -22,10 +22,10 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** In progress — dual-license policy applied; verification and publication remain.
-**Task:** Verify the AGPL/commercial licensing transition and publish the updated `main` branch.
-**Files touched:** `LICENSE`, `LICENSE-COMMERCIAL.md`, `LICENSE-CONTENT-MIT.md`, `LICENSING.md`, `README.md`, `package.json`, and this note.
-**Next step:** Run `npm run build`, commit the licensing transition, and push `main`.
+**Status:** None — clean state. AGPL/commercial licensing transition verified and published.
+**Task:**
+**Files touched:** `LICENSE`, `LICENSE-COMMERCIAL.md`, `LICENSE-CONTENT-MIT.md`, `LICENSING.md`, `README.md`, application source headers, `package.json`, and this note.
+**Next step:** Continue feature work from `main`; use a written Commercial Agreement for any proprietary deployment.
 **Gotchas:** The published history through commit `007686a` remains MIT and cannot be relicensed retroactively. `public/graph.json` is generated but intentionally tracked; `node_modules/` and `dist/` are ignored. Do not overwrite the existing mockup image.
 **Left by:** Codex (2026-08-27)
 
@@ -89,3 +89,10 @@ working and Git root; only GitHub authentication and publication remained at the
 Committed the consolidated project on `main` and published it as the public repository
 `https://github.com/CalixOscar/OpenGrail`. The production build passed immediately before
 publication, and `main` now tracks `origin/main`.
+
+### 2026-08-27 — AGPL and commercial licensing policy published
+Added the full AGPL-3.0-or-later text for new application code, SPDX headers across the
+authored app/build sources, a separate OpenGrail Commercial License, and an MIT content
+license for the authored atlas data and documentation. Updated the README and package
+metadata, verified `npm run build`, and pushed commit `b3b53f5` to `main`. Historical MIT
+permissions through `007686a` remain explicitly preserved.
