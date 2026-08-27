@@ -22,11 +22,11 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** In progress — migration complete; GitHub publication remains.
-**Task:** Initialize/commit the destination on `main`, create the GitHub repository, and push it.
-**Files touched:** All project files are now under `/Users/calmdownoscar/Documents/Projects/OpenGrail`; `TheoGraph.png` was preserved.
-**Next step:** Run the production build from the destination, authenticate GitHub CLI if needed, then publish `main`.
-**Gotchas:** `public/graph.json` is generated but intentionally tracked; `node_modules/` and `dist/` are ignored. The saved GitHub CLI credential previously reported as invalid. Do not overwrite the existing mockup image.
+**Status:** None — clean state. Migration, build, commit, and GitHub publication completed.
+**Task:**
+**Files touched:** All project files are under `/Users/calmdownoscar/Documents/Projects/OpenGrail`; `TheoGraph.png` was preserved; `public/graph.json` was regenerated from the Markdown source.
+**Next step:** Continue feature work from the `main` branch, keeping `data/**/*.md` as the source of truth.
+**Gotchas:** `public/graph.json` is generated but intentionally tracked; `node_modules/` and `dist/` are ignored. Do not overwrite the existing mockup image.
 **Left by:** Codex (2026-08-27)
 
 ## Decisions Log
@@ -76,4 +76,9 @@ Moved the complete project from `Documents/ChatGPT/TheoGraph` into
 `Documents/Projects/OpenGrail` and preserved the existing `TheoGraph.png` mockup. The
 destination contains 536 Markdown data records, the React/Vite app, generated graph,
 project guidance, and ignored local dependencies. The destination is now the canonical
-working and Git root; only GitHub authentication and publication remain.
+working and Git root; only GitHub authentication and publication remained at the time.
+
+### 2026-08-27 — GitHub publication completed
+Committed the consolidated project on `main` and published it as the public repository
+`https://github.com/CalixOscar/OpenGrail`. The production build passed immediately before
+publication, and `main` now tracks `origin/main`.
