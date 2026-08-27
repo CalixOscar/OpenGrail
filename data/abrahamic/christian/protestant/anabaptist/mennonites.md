@@ -48,22 +48,22 @@ sources:
       Traditions
     url: 'https://www.cambridge.org/core/search?q=Mennonite%20Traditions'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Mennonite Traditions Historical Records
+    imageUrl: /artifacts/mennonites-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mennonite_Traditions'
+    provenance: 'Zurich, Switzerland'
+    period: c. 1520s CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Mennonite Traditions.
+  - title: Mennonite Traditions Sacred Texts & Material Culture
+    imageUrl: /artifacts/mennonites-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mennonite_Traditions'
+    provenance: 'Zurich, Switzerland'
+    period: c. 1520s CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Mennonite Traditions.
 ---
 
 # Mennonite Traditions

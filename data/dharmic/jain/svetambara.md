@@ -42,22 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9Avet%C4%81mbara%20Jainism'
 artifacts:
-  - title: Gommateshwara Bahubali Monolithic Statue
-    imageUrl: /artifacts/jainism-gommateshwara.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gommateshwara_statue'
-    provenance: 'Shravanabelagola, Karnataka'
-    period: 981 CE
+  - title: Śvetāmbara Jainism Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Jainism'
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. c. 1st century CE
     description: >-
-      A 57-foot monolithic granite statue commemorating the supreme detachment
-      and ahimsa of Lord Bahubali.
-  - title: Dilwara Marble Temple Carvings
-    imageUrl: /artifacts/jainism-dilwara-temple.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dilwara_Temples'
-    provenance: 'Mount Abu, Rajasthan'
-    period: 11th-13th century CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Śvetāmbara Jainism.
+  - title: Śvetāmbara Jainism Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Jainism'
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. c. 1st century CE
     description: >-
-      Intricately carved white marble ceilings depicting the spiritual
-      liberation of the Tirthankaras.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Śvetāmbara Jainism.
 ---
 
 # Śvetāmbara Jainism

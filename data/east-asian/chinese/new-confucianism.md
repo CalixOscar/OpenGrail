@@ -41,22 +41,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=New%20Confucianism'
 artifacts:
-  - title: Wudang Mountain Sacred Golden Hall Complex
-    imageUrl: /artifacts/daoism-wudang-hall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
-    provenance: 'Hubei, China'
-    period: 1416 CE
+  - title: New Confucianism Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/New_Confucianism'
+    provenance: 'Qufu, Shandong, China'
+    period: c. 20th century CE
     description: >-
-      Imperial architectural shrine of Daoist alchemy and philosophical
-      meditation.
-  - title: Itsukushima Floating Torii Gate Shrine
-    imageUrl: /artifacts/shinto-torii-gate.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
-    provenance: Sacred Sanctuaries
-    period: Medieval Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with New Confucianism.
+  - title: New Confucianism Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/New_Confucianism'
+    provenance: 'Qufu, Shandong, China'
+    period: c. 20th century CE
     description: >-
-      Sacred gateway demarcating the transition from mundane space to sacred
-      realm.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of New Confucianism.
 ---
 
 # New Confucianism

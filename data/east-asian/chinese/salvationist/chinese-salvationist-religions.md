@@ -55,22 +55,24 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Chinese%20Salvationist%20Religions
 artifacts:
-  - title: Itsukushima Floating Torii Gate Shrine
-    imageUrl: /artifacts/shinto-torii-gate.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
-    provenance: 'Miyajima, Hiroshima, Japan'
-    period: 1168 CE
+  - title: Chinese Salvationist Religions (Comparative) Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Salvationist_Religions_(Comparative)'
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 12th century CE
     description: >-
-      Iconic sacred Shinto gate standing in the tidal sea, demarcating the
-      boundary of the sacred realm.
-  - title: Wudang Mountain Sacred Golden Hall Complex
-    imageUrl: /artifacts/daoism-wudang-hall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
-    provenance: 'Hubei, China'
-    period: 1416 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Chinese Salvationist Religions (Comparative).
+  - title: >-
+      Chinese Salvationist Religions (Comparative) Sacred Texts & Material
+      Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Salvationist_Religions_(Comparative)'
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 12th century CE
     description: >-
-      Imperial architectural shrine of Daoist alchemy and philosophical
-      meditation.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Chinese Salvationist Religions (Comparative).
 ---
 
 # Chinese Salvationist Religions (Comparative)

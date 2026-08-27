@@ -45,22 +45,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Catholicism'
     url: 'https://www.cambridge.org/core/search?q=Catholicism'
 artifacts:
-  - title: Saint Peter's Papal Basilica & Piazza
-    imageUrl: /artifacts/christianity-basilica.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
-    provenance: 'Vatican City, Rome'
-    period: 1506–1626 CE
+  - title: Catholic Church Historical Sanctuary & Records
+    imageUrl: /artifacts/catholicism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Catholic_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1st century CE
     description: >-
-      The Renaissance and Baroque episcopal center of the Roman Catholic Church,
-      designed by Michelangelo and Bernini.
-  - title: Codex Vaticanus Greek Bible Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Vatican Library Collection
-    period: c. 4th century CE
+      The Catholic Church (Latin: Ecclesia Catholica), also called the Roman
+      Catholic Church (Latin: Ecclesia Catholica Romana), is the largest
+      Christian church, with an estimated 1.28 t...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/catholicism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1st century CE
     description: >-
-      One of the earliest extant uncial manuscripts of the Greek Old and New
-      Testaments.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Catholicism

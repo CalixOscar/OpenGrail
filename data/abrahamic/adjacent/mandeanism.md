@@ -42,20 +42,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Mandaeism'
     url: 'https://www.cambridge.org/core/search?q=Mandaeism'
 artifacts:
-  - title: Persepolis Faravahar Bas-Relief
-    imageUrl: /artifacts/zoroastrian-faravahar.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
-    provenance: 'Persepolis, Ancient Persia'
-    period: c. 515 BCE
+  - title: Mandaeism Historical Sanctuary & Records
+    imageUrl: /artifacts/mandeanism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mandaeism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 2nd–5th centuries CE
     description: >-
-      Carved winged symbol of Good Thoughts, Good Words, and Good Deeds (Humata,
-      Hukhta, Hvarshta).
-  - title: The Parthenon Classical Sanctuary of Athena
-    imageUrl: /artifacts/ancient-parthenon.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
-    provenance: Ancient Near East / Mediterranean
-    period: Classical Antiquity
-    description: Monumental sacred architecture honoring the civic and cosmological order.
+      Mandaeism (Classical Mandaic: ࡌࡀࡍࡃࡀࡉࡅࡕࡀ‎ mandaiuta), sometimes also known
+      as Nasoraeanism or Sabianism, is a Gnostic, monotheistic and ethnic
+      religion with Greek, Iranian, and Jewi...
+  - title: Ginza Rabba Canonical Scripture & Iconography
+    imageUrl: /artifacts/mandeanism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ginza_Rabba'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 2nd–5th centuries CE
+    description: >-
+      The Ginza Rabba (Classical Mandaic: ࡂࡉࡍࡆࡀ ࡓࡁࡀ, romanized: Ginzā Rbā,
+      lit. 'Great Treasury', Modern Mandaic pronunciation: [ˈgɪnza ˈrɑbbɑ]),
+      Ginza Rba, or Sidra Rabba (Classical Man...
 ---
 
 # Mandaeism

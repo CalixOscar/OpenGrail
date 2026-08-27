@@ -47,22 +47,24 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Catholic%20Church'
 artifacts:
-  - title: Saint Peter's Papal Basilica & Piazza
-    imageUrl: /artifacts/christianity-basilica.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
-    provenance: 'Vatican City, Rome'
-    period: 1506–1626 CE
+  - title: Syriac Catholic Church Historical Sanctuary & Records
+    imageUrl: /artifacts/syriac-catholic-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Catholic_Church'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1782 CE
     description: >-
-      The Renaissance and Baroque episcopal center of the Roman Catholic Church,
-      designed by Michelangelo and Bernini.
-  - title: Codex Vaticanus Greek Bible Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Vatican Library Collection
-    period: c. 4th century CE
+      The Syriac Catholic Church is an Eastern Catholic sui iuris
+      (self-governing) particular church that is in full communion with the Holy
+      See and with the entirety of the Catholic Chu...
+  - title: Peshitta Canonical Scripture & Iconography
+    imageUrl: /artifacts/syriac-catholic-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Peshitta'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1782 CE
     description: >-
-      One of the earliest extant uncial manuscripts of the Greek Old and New
-      Testaments.
+      The Peshitta (Classical Syriac: ܦܫܺܝܛܬܳܐ or ܦܫܝܼܛܬܵܐ pšīṭta) is the
+      standard Syriac edition of the Bible for the Syriac churches and
+      traditions that follow the liturgy of the Syria...
 ---
 
 # Syriac Catholic Church

@@ -44,22 +44,24 @@ sources:
       Churches
     url: 'https://www.cambridge.org/core/search?q=Eastern%20Catholic%20Churches'
 artifacts:
-  - title: Saint Peter's Papal Basilica & Piazza
-    imageUrl: /artifacts/christianity-basilica.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
-    provenance: 'Vatican City, Rome'
-    period: 1506–1626 CE
+  - title: Eastern Catholic Churches Historical Sanctuary & Records
+    imageUrl: /artifacts/eastern-catholic-churches-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Eastern_Catholic_Churches'
+    provenance: 'Rome, Latium, Italy'
+    period: c. c. 16th century CE
     description: >-
-      The Renaissance and Baroque episcopal center of the Roman Catholic Church,
-      designed by Michelangelo and Bernini.
-  - title: Codex Vaticanus Greek Bible Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Vatican Library Collection
-    period: c. 4th century CE
+      The Eastern Catholic Churches or Oriental Catholic Churches, also known as
+      the Eastern-Rite Catholic Churches, Eastern Rite Catholicism, or simply
+      the Eastern Churches, are 23 East...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/eastern-catholic-churches-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Rome, Latium, Italy'
+    period: c. c. 16th century CE
     description: >-
-      One of the earliest extant uncial manuscripts of the Greek Old and New
-      Testaments.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Eastern Catholic Churches

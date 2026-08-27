@@ -45,22 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Pre-exilic Yahwism'
     url: 'https://www.cambridge.org/core/search?q=Pre-exilic%20Yahwism'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
+  - title: Pre-exilic Yahwism Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pre-exilic_Yahwism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1000 BCE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Pre-exilic Yahwism.
+  - title: Pre-exilic Yahwism Sacred Texts & Material Culture
     imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pre-exilic_Yahwism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1000 BCE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
-    description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Pre-exilic Yahwism.
 ---
 
 # Pre-exilic Yahwism

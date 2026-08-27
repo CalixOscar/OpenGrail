@@ -45,22 +45,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Li%E1%B9%85g%C4%81yat%20Tradition
 artifacts:
-  - title: Mahabodhi Temple Enlightenment Sanctuary
-    imageUrl: /artifacts/buddhism-mahabodhi.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
-    provenance: 'Bodh Gaya, Bihar, India'
-    period: c. 250 BCE - 5th century CE
+  - title: Liṅgāyat Tradition Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Li%E1%B9%85g%C4%81yat_Tradition'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 12th century CE
     description: >-
-      UNESCO World Heritage monumental stone temple marking the spot of
-      Siddhartha Gautama's enlightenment.
-  - title: Brihadisvara Monumental Dravidian Temple Gopuram
-    imageUrl: /artifacts/hinduism-brihadisvara.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
-    provenance: 'Thanjavur, Tamil Nadu'
-    period: 1010 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Liṅgāyat Tradition.
+  - title: Liṅgāyat Tradition Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Li%E1%B9%85g%C4%81yat_Tradition'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 12th century CE
     description: >-
-      Grand granite rock-cut temple dedicated to cosmic balance and sacred
-      ritual architecture.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Liṅgāyat Tradition.
 ---
 
 # Liṅgāyat Tradition

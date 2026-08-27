@@ -49,22 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Cybele and Attis'
     url: 'https://brill.com/search?q=Cult%20of%20Cybele%20and%20Attis'
 artifacts:
-  - title: The Parthenon Classical Sanctuary of Athena
+  - title: Cult of Cybele and Attis Historical Records
     imageUrl: /artifacts/ancient-parthenon.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
-    provenance: 'Acropolis of Athens, Greece'
-    period: 447–432 BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Cybele_and_Attis'
+    provenance: 'Eleusis, Attica, Greece'
+    period: c. c. 1st millennium BCE
     description: >-
-      Pinnacle of Classical Greek sacred temple architecture honoring the civic
-      and divine order.
-  - title: Persepolis Monumental Faravahar Stone Relief
-    imageUrl: /artifacts/zoroastrian-faravahar.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
-    provenance: 'Persepolis, Ancient Persia'
-    period: c. 515 BCE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Cult of Cybele and Attis.
+  - title: Cult of Cybele and Attis Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Cybele_and_Attis'
+    provenance: 'Eleusis, Attica, Greece'
+    period: c. c. 1st millennium BCE
     description: >-
-      Achaemenid royal carving representing divine grace (Khvarenah) and moral
-      responsibility in Zoroastrianism.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Cult of Cybele and Attis.
 ---
 
 # Cult of Cybele and Attis

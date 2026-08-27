@@ -45,20 +45,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Jinja%20Shinto'
 artifacts:
-  - title: Itsukushima Floating Torii Gate Shrine
-    imageUrl: /artifacts/shinto-torii-gate.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
-    provenance: 'Miyajima, Hiroshima, Japan'
-    period: 1168 CE
+  - title: Jinja Shinto Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Jinja_Shinto'
+    provenance: 'Ise Grand Shrine, Mie, Japan'
+    period: c. 1945 CE
     description: >-
-      Iconic sacred Shinto gate standing in the tidal sea, demarcating the
-      boundary of the sacred realm.
-  - title: Wudang Mountain Sacred Golden Hall Complex
-    imageUrl: /artifacts/daoism-wudang-hall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
-    provenance: East Asian Sanctuaries
-    period: Medieval Era
-    description: Imperial architectural shrine honoring celestial and natural harmony.
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Jinja Shinto.
+  - title: Jinja Shinto Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Jinja_Shinto'
+    provenance: 'Ise Grand Shrine, Mie, Japan'
+    period: c. 1945 CE
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Jinja Shinto.
 ---
 
 # Jinja Shinto

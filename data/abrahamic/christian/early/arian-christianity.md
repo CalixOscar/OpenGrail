@@ -46,22 +46,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Arian Christianity'
     url: 'https://www.cambridge.org/core/search?q=Arian%20Christianity'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Christianity as the Roman state religion Historical Sanctuary & Records
+    imageUrl: /artifacts/arian-christianity-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Christianity_as_the_Roman_state_religion'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 318 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      In the year before the First Council of Constantinople in 381, Nicene
+      Christianity became the official religion of the Roman Empire when
+      Theodosius I, emperor of the East, Gratian,...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/arian-christianity-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 318 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Arian Christianity (Historical)

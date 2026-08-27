@@ -49,22 +49,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Malankara%20Orthodox%20Syrian%20Church
 artifacts:
-  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
-    imageUrl: /artifacts/orthodoxy-hagia-sophia.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
-    provenance: Constantinople (Istanbul)
-    period: 537 CE
+  - title: Malankara Orthodox Syrian Church Historical Records
+    imageUrl: /artifacts/malankara-orthodox-syrian-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Malankara_Orthodox_Syrian_Church'
+    provenance: 'Kottayam / Malabar Coast, Kerala, India'
+    period: c. 1912 CE
     description: >-
-      Monumental domed cathedral of the Byzantine Empire and historical mother
-      church of Eastern Orthodoxy.
-  - title: Sinai Christ Pantocrator Encaustic Icon
-    imageUrl: /artifacts/orthodoxy-icon-pantocrator.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
-    provenance: 'Saint Catherine''s Monastery, Sinai'
-    period: c. 6th century CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Malankara Orthodox Syrian Church.
+  - title: Malankara Orthodox Syrian Church Sacred Texts & Material Culture
+    imageUrl: /artifacts/malankara-orthodox-syrian-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Malankara_Orthodox_Syrian_Church'
+    provenance: 'Kottayam / Malabar Coast, Kerala, India'
+    period: c. 1912 CE
     description: >-
-      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
-      embodying dual divine and human natures.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Malankara Orthodox Syrian Church.
 ---
 
 # Malankara Orthodox Syrian Church

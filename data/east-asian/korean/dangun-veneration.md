@@ -48,22 +48,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Dangun%20Veneration'
 artifacts:
-  - title: Itsukushima Floating Torii Gate Shrine
-    imageUrl: /artifacts/shinto-torii-gate.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
-    provenance: 'Miyajima, Hiroshima, Japan'
-    period: 1168 CE
+  - title: Dangun Veneration (Comparative) Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dangun_Veneration_(Comparative)'
+    provenance: 'Seoul (Hanyang), South Korea'
+    period: c. medieval roots; modern revival
     description: >-
-      Iconic sacred Shinto gate standing in the tidal sea, demarcating the
-      boundary of the sacred realm.
-  - title: Wudang Mountain Sacred Golden Hall Complex
-    imageUrl: /artifacts/daoism-wudang-hall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
-    provenance: 'Hubei, China'
-    period: 1416 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Dangun Veneration (Comparative).
+  - title: Dangun Veneration (Comparative) Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dangun_Veneration_(Comparative)'
+    provenance: 'Seoul (Hanyang), South Korea'
+    period: c. medieval roots; modern revival
     description: >-
-      Imperial architectural shrine of Daoist alchemy and philosophical
-      meditation.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Dangun Veneration (Comparative).
 ---
 
 # Dangun Veneration (Comparative)

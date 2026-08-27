@@ -43,22 +43,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Druidry'
     url: 'https://brill.com/search?q=Modern%20Druidry'
 artifacts:
-  - title: The Parthenon Classical Sanctuary of Athena
+  - title: Modern Druidry Historical Records
     imageUrl: /artifacts/ancient-parthenon.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
-    provenance: 'Acropolis of Athens, Greece'
-    period: 447–432 BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Druidry'
+    provenance: 'Glastonbury, Somerset, England, UK'
+    period: c. 18th century CE
     description: >-
-      Pinnacle of Classical Greek sacred temple architecture honoring the civic
-      and divine order.
-  - title: Persepolis Monumental Faravahar Stone Relief
-    imageUrl: /artifacts/zoroastrian-faravahar.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
-    provenance: 'Persepolis, Ancient Persia'
-    period: c. 515 BCE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Modern Druidry.
+  - title: Modern Druidry Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Druidry'
+    provenance: 'Glastonbury, Somerset, England, UK'
+    period: c. 18th century CE
     description: >-
-      Achaemenid royal carving representing divine grace (Khvarenah) and moral
-      responsibility in Zoroastrianism.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Modern Druidry.
 ---
 
 # Modern Druidry

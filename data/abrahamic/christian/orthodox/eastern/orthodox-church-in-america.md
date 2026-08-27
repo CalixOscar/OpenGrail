@@ -48,22 +48,22 @@ sources:
       America
     url: 'https://www.cambridge.org/core/search?q=Orthodox%20Church%20in%20America'
 artifacts:
-  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
-    imageUrl: /artifacts/orthodoxy-hagia-sophia.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
-    provenance: Constantinople (Istanbul)
-    period: 537 CE
+  - title: Orthodox Church in America Historical Records
+    imageUrl: /artifacts/orthodox-church-in-america-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Church_in_America'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1970 CE
     description: >-
-      Monumental domed cathedral of the Byzantine Empire and historical mother
-      church of Eastern Orthodoxy.
-  - title: Sinai Christ Pantocrator Encaustic Icon
-    imageUrl: /artifacts/orthodoxy-icon-pantocrator.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
-    provenance: 'Saint Catherine''s Monastery, Sinai'
-    period: c. 6th century CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Orthodox Church in America.
+  - title: Orthodox Church in America Sacred Texts & Material Culture
+    imageUrl: /artifacts/orthodox-church-in-america-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Church_in_America'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1970 CE
     description: >-
-      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
-      embodying dual divine and human natures.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Orthodox Church in America.
 ---
 
 # Orthodox Church in America

@@ -47,22 +47,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ebionites'
     url: 'https://www.cambridge.org/core/search?q=Ebionites'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Ebionites Historical Sanctuary & Records
+    imageUrl: /artifacts/ebionites-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ebionites'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1st–2nd centuries CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      Ebionites (Ancient Greek: Ἐβιωναῖοι, romanized: Ebiōnaîoi, derived from
+      the Hebrew word אֶבְיוֹנִים, ʾEḇyōnīm, meaning 'the poor' or 'poor ones')
+      were an adoptionist Mosaic law-obs...
+  - title: Hebrew Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/ebionites-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hebrew_Bible'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1st–2nd centuries CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      The Hebrew Bible, Jewish Bible, or Tanakh (US: , UK:  or ; Hebrew:
+      תַּנַ״ךְ, romanized: tanaḵ; תָּנָ״ךְ, tānāḵ; or תְּנַ״ךְ, tənaḵ), also
+      known in Hebrew as Miqra (; מִקְרָא, miqrā...
 ---
 
 # Ebionites

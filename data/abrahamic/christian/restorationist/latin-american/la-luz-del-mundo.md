@@ -43,22 +43,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & La Luz del Mundo'
     url: 'https://www.cambridge.org/core/search?q=La%20Luz%20del%20Mundo'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: La Luz del Mundo Historical Records
+    imageUrl: /artifacts/la-luz-del-mundo-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/La_Luz_del_Mundo'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1926 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with La Luz del Mundo.
+  - title: La Luz del Mundo Sacred Texts & Material Culture
+    imageUrl: /artifacts/la-luz-del-mundo-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/La_Luz_del_Mundo'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1926 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of La Luz del Mundo.
 ---
 
 # La Luz del Mundo

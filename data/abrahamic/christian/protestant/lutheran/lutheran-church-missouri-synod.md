@@ -49,22 +49,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Lutheran%20Church%E2%80%94Missouri%20Synod
 artifacts:
-  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
-    imageUrl: /artifacts/protestantism-wittenberg.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
-    provenance: 'Wittenberg, Germany'
-    period: 1517 CE
+  - title: Lutheran Church—Missouri Synod Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lutheran_Church%E2%80%94Missouri_Synod'
+    provenance: 'Wittenberg, Saxony, Germany'
+    period: c. 1847 CE
     description: >-
-      Historic church where Martin Luther posted his Ninety-five Theses,
-      initiating the Protestant Reformation.
-  - title: Luther 1534 German Bible Title Woodcut
-    imageUrl: /artifacts/protestantism-luther-bible.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Luther_Bible'
-    provenance: Wittenberg
-    period: 1534 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Lutheran Church—Missouri Synod.
+  - title: Lutheran Church—Missouri Synod Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lutheran_Church%E2%80%94Missouri_Synod'
+    provenance: 'Wittenberg, Saxony, Germany'
+    period: c. 1847 CE
     description: >-
-      Historic printed vernacular German translation democratizing direct
-      scriptural access for all believers.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Lutheran Church—Missouri Synod.
 ---
 
 # Lutheran Church—Missouri Synod

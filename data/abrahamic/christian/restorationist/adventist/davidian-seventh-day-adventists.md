@@ -46,22 +46,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Davidian%20Seventh-day%20Adventists
 artifacts:
-  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
-    imageUrl: /artifacts/protestantism-wittenberg.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
-    provenance: 'Wittenberg, Germany'
-    period: 1517 CE
+  - title: Davidian Seventh-day Adventists Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Davidian_Seventh-day_Adventists'
+    provenance: 'Battle Creek, Calhoun County, Michigan, USA'
+    period: c. 1929 CE
     description: >-
-      Historic church where Martin Luther posted his Ninety-five Theses,
-      initiating the Protestant Reformation.
-  - title: Luther 1534 German Bible Title Woodcut
-    imageUrl: /artifacts/protestantism-luther-bible.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Luther_Bible'
-    provenance: Wittenberg
-    period: 1534 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Davidian Seventh-day Adventists.
+  - title: Davidian Seventh-day Adventists Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Davidian_Seventh-day_Adventists'
+    provenance: 'Battle Creek, Calhoun County, Michigan, USA'
+    period: c. 1929 CE
     description: >-
-      Historic printed vernacular German translation democratizing direct
-      scriptural access for all believers.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Davidian Seventh-day Adventists.
 ---
 
 # Davidian Seventh-day Adventists

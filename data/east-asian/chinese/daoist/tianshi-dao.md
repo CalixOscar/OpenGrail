@@ -48,22 +48,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Way%20of%20the%20Celestial%20Masters
 artifacts:
-  - title: Wudang Mountain Sacred Golden Hall Complex
-    imageUrl: /artifacts/daoism-wudang-hall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
-    provenance: 'Hubei, China'
-    period: 1416 CE
+  - title: Way of the Celestial Masters Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Way_of_the_Celestial_Masters'
+    provenance: 'Luoyang, Henan, China'
+    period: c. 142 CE
     description: >-
-      Imperial architectural shrine of Daoist alchemy and philosophical
-      meditation.
-  - title: Itsukushima Floating Torii Gate Shrine
-    imageUrl: /artifacts/shinto-torii-gate.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
-    provenance: Sacred Sanctuaries
-    period: Medieval Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Way of the Celestial Masters.
+  - title: Way of the Celestial Masters Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Way_of_the_Celestial_Masters'
+    provenance: 'Luoyang, Henan, China'
+    period: c. 142 CE
     description: >-
-      Sacred gateway demarcating the transition from mundane space to sacred
-      realm.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Way of the Celestial Masters.
 ---
 
 # Way of the Celestial Masters

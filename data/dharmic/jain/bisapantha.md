@@ -42,22 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=B%C4%ABsapantha'
 artifacts:
-  - title: Mahabodhi Temple Enlightenment Sanctuary
-    imageUrl: /artifacts/buddhism-mahabodhi.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
-    provenance: 'Bodh Gaya, Bihar, India'
-    period: c. 250 BCE - 5th century CE
+  - title: Bīsapantha Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/B%C4%ABsapantha'
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. early modern period
     description: >-
-      UNESCO World Heritage monumental stone temple marking the spot of
-      Siddhartha Gautama's enlightenment.
-  - title: Brihadisvara Monumental Dravidian Temple Gopuram
-    imageUrl: /artifacts/hinduism-brihadisvara.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
-    provenance: 'Thanjavur, Tamil Nadu'
-    period: 1010 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Bīsapantha.
+  - title: Bīsapantha Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/B%C4%ABsapantha'
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. early modern period
     description: >-
-      Grand granite rock-cut temple dedicated to cosmic balance and sacred
-      ritual architecture.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Bīsapantha.
 ---
 
 # Bīsapantha

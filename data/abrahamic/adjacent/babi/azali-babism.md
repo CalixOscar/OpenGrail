@@ -45,22 +45,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Azali Babism'
     url: 'https://www.cambridge.org/core/search?q=Azali%20Babism'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Subh-i-Azal Historical Sanctuary & Records
+    imageUrl: /artifacts/azali-babism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Subh-i-Azal'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1860s CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      Subh-i-Azal (1831–1912), born Mīrzā Yaḥyā Nūrī, was an Iranian Bábí
+      religious figure and writer who was designated by the Báb shortly before
+      the Báb's execution in 1850 as a leadin...
+  - title: Persian Bayán Canonical Scripture & Iconography
+    imageUrl: /artifacts/azali-babism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Persian_Bay%C3%A1n'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1860s CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      The Persian Bayán (Persian: بیان  'expression') is one of the principal
+      scriptural writings of the Báb, the founder of Bábism, written in Persian.
+      The Báb also wrote a shorter book...
 ---
 
 # Azali Babism

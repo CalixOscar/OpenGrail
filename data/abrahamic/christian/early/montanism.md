@@ -47,22 +47,24 @@ sources:
       Movement
     url: 'https://www.cambridge.org/core/search?q=New%20Prophecy%20Movement'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Montanism Historical Sanctuary & Records
+    imageUrl: /artifacts/montanism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Montanism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 160 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      Montanism (), known by its adherents as the New Revelation, was an early
+      Christian movement of the mid-to-late 2nd century, later referred to by
+      the name of its founder, Montanus....
+  - title: New Testament Canonical Scripture & Iconography
+    imageUrl: /artifacts/montanism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/New_Testament'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 160 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      The New Testament (NT) is the second division of the Christian Bible. It
+      discusses the teachings and person of Jesus, as well as events relating to
+      first-century Christianity. The...
 ---
 
 # New Prophecy Movement (Montanism)

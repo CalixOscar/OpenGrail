@@ -46,22 +46,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Seventh%20Day%20Adventist%20Reform%20Movement
 artifacts:
-  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
-    imageUrl: /artifacts/protestantism-wittenberg.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
-    provenance: 'Wittenberg, Germany'
-    period: 1517 CE
+  - title: Seventh Day Adventist Reform Movement Historical Records
+    imageUrl: /artifacts/seventh-day-adventist-reform-movement-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Seventh_Day_Adventist_Reform_Movement'
+    provenance: 'Battle Creek, Calhoun County, Michigan, USA'
+    period: c. 1914 CE
     description: >-
-      Historic church where Martin Luther posted his Ninety-five Theses,
-      initiating the Protestant Reformation.
-  - title: Luther 1534 German Bible Title Woodcut
-    imageUrl: /artifacts/protestantism-luther-bible.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Luther_Bible'
-    provenance: Wittenberg
-    period: 1534 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Seventh Day Adventist Reform Movement.
+  - title: Seventh Day Adventist Reform Movement Sacred Texts & Material Culture
+    imageUrl: /artifacts/seventh-day-adventist-reform-movement-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Seventh_Day_Adventist_Reform_Movement'
+    provenance: 'Battle Creek, Calhoun County, Michigan, USA'
+    period: c. 1914 CE
     description: >-
-      Historic printed vernacular German translation democratizing direct
-      scriptural access for all believers.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Seventh Day Adventist Reform Movement.
 ---
 
 # Seventh Day Adventist Reform Movement

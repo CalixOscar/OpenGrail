@@ -46,22 +46,24 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Melkite%20Greek%20Catholic%20Church
 artifacts:
-  - title: Saint Peter's Papal Basilica & Piazza
-    imageUrl: /artifacts/christianity-basilica.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
-    provenance: 'Vatican City, Rome'
-    period: 1506–1626 CE
+  - title: Melkite Greek Catholic Church Historical Sanctuary & Records
+    imageUrl: /artifacts/melkite-greek-catholic-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Melkite_Greek_Catholic_Church'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1724 CE
     description: >-
-      The Renaissance and Baroque episcopal center of the Roman Catholic Church,
-      designed by Michelangelo and Bernini.
-  - title: Codex Vaticanus Greek Bible Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Vatican Library Collection
-    period: c. 4th century CE
+      The Melkite Greek Catholic Church, also known as the Melkite Byzantine
+      Catholic Church, is an Eastern Catholic church in full communion with the
+      Holy See as part of the worldwide C...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/melkite-greek-catholic-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1724 CE
     description: >-
-      One of the earliest extant uncial manuscripts of the Greek Old and New
-      Testaments.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Melkite Greek Catholic Church

@@ -44,22 +44,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vai%C5%9Be%E1%B9%A3ika'
 artifacts:
-  - title: Mahabodhi Temple Enlightenment Sanctuary
-    imageUrl: /artifacts/buddhism-mahabodhi.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
-    provenance: 'Bodh Gaya, Bihar, India'
-    period: c. 250 BCE - 5th century CE
+  - title: Vaiśeṣika Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century BCE
     description: >-
-      UNESCO World Heritage monumental stone temple marking the spot of
-      Siddhartha Gautama's enlightenment.
-  - title: Brihadisvara Monumental Dravidian Temple Gopuram
-    imageUrl: /artifacts/hinduism-brihadisvara.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
-    provenance: 'Thanjavur, Tamil Nadu'
-    period: 1010 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Vaiśeṣika.
+  - title: Vaiśeṣika Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century BCE
     description: >-
-      Grand granite rock-cut temple dedicated to cosmic balance and sacred
-      ritual architecture.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Vaiśeṣika.
 ---
 
 # Vaiśeṣika

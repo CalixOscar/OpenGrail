@@ -54,22 +54,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Buddhism'
 artifacts:
-  - title: Mahabodhi Temple Enlightenment Complex
-    imageUrl: /artifacts/buddhism-mahabodhi.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
-    provenance: 'Bodh Gaya, Bihar, India'
-    period: c. 250 BCE - 5th century CE
+  - title: Buddhism Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 5th century BCE
     description: >-
-      UNESCO World Heritage stone temple constructed around the sacred Bodhi
-      Tree where the Buddha awakened.
-  - title: Brihadisvara Sacred Monumental Sanctuary
-    imageUrl: /artifacts/hinduism-brihadisvara.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
-    provenance: Ancient India
-    period: Classical Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Buddhism.
+  - title: Buddhism Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 5th century BCE
     description: >-
-      Monumental sacred architecture preserving early Indian stone masonry and
-      meditation sanctuaries.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Buddhism.
 ---
 
 # Buddhism

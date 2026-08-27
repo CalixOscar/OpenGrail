@@ -48,22 +48,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Swaminarayan%20Samprad%C4%81ya'
 artifacts:
-  - title: Mahabodhi Temple Enlightenment Sanctuary
-    imageUrl: /artifacts/buddhism-mahabodhi.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
-    provenance: 'Bodh Gaya, Bihar, India'
-    period: c. 250 BCE - 5th century CE
+  - title: Swaminarayan Sampradāya Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Swaminarayan_Samprad%C4%81ya'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. early 19th century CE
     description: >-
-      UNESCO World Heritage monumental stone temple marking the spot of
-      Siddhartha Gautama's enlightenment.
-  - title: Brihadisvara Monumental Dravidian Temple Gopuram
-    imageUrl: /artifacts/hinduism-brihadisvara.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
-    provenance: 'Thanjavur, Tamil Nadu'
-    period: 1010 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Swaminarayan Sampradāya.
+  - title: Swaminarayan Sampradāya Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Swaminarayan_Samprad%C4%81ya'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. early 19th century CE
     description: >-
-      Grand granite rock-cut temple dedicated to cosmic balance and sacred
-      ritual architecture.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Swaminarayan Sampradāya.
 ---
 
 # Swaminarayan Sampradāya

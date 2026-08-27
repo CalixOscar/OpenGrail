@@ -43,22 +43,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Oriental Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Oriental%20Orthodoxy'
 artifacts:
-  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
-    imageUrl: /artifacts/orthodoxy-hagia-sophia.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
-    provenance: Constantinople (Istanbul)
-    period: 537 CE
+  - title: Oriental Orthodox Churches Historical Sanctuary & Records
+    imageUrl: /artifacts/oriental-orthodoxy-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 451 CE
     description: >-
-      Monumental domed cathedral of the Byzantine Empire and historical mother
-      church of Eastern Orthodoxy.
-  - title: Sinai Christ Pantocrator Encaustic Icon
-    imageUrl: /artifacts/orthodoxy-icon-pantocrator.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
-    provenance: 'Saint Catherine''s Monastery, Sinai'
-    period: c. 6th century CE
+      The Oriental Orthodox Churches are a communion of Eastern Christian
+      churches adhering to Miaphysite Christology. In 2020, it was estimated
+      that the Oriental Orthodox Churches had 7...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/oriental-orthodoxy-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 451 CE
     description: >-
-      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
-      embodying dual divine and human natures.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Oriental Orthodoxy

@@ -49,22 +49,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Japanese%20Confucian%20Traditions
 artifacts:
-  - title: Wudang Mountain Sacred Golden Hall Complex
-    imageUrl: /artifacts/daoism-wudang-hall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
-    provenance: 'Hubei, China'
-    period: 1416 CE
+  - title: Japanese Confucian Traditions Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Japanese_Confucian_Traditions'
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 6th century CE
     description: >-
-      Imperial architectural shrine of Daoist alchemy and philosophical
-      meditation.
-  - title: Itsukushima Floating Torii Gate Shrine
-    imageUrl: /artifacts/shinto-torii-gate.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
-    provenance: Sacred Sanctuaries
-    period: Medieval Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Japanese Confucian Traditions.
+  - title: Japanese Confucian Traditions Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Japanese_Confucian_Traditions'
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 6th century CE
     description: >-
-      Sacred gateway demarcating the transition from mundane space to sacred
-      realm.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Japanese Confucian Traditions.
 ---
 
 # Japanese Confucian Traditions

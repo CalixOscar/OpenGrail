@@ -43,22 +43,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Old Catholicism'
     url: 'https://www.cambridge.org/core/search?q=Old%20Catholicism'
 artifacts:
-  - title: Saint Peter's Papal Basilica & Piazza
-    imageUrl: /artifacts/christianity-basilica.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
-    provenance: 'Vatican City, Rome'
-    period: 1506–1626 CE
+  - title: Rome Historical Sanctuary & Records
+    imageUrl: /artifacts/old-catholicism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Rome'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1870s CE
     description: >-
-      The Renaissance and Baroque episcopal center of the Roman Catholic Church,
-      designed by Michelangelo and Bernini.
-  - title: Codex Vaticanus Greek Bible Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Vatican Library Collection
-    period: c. 4th century CE
+      Rome is the capital city and most populated comune (municipality) of
+      Italy. It is also the administrative centre of the Lazio region and of the
+      Metropolitan City of Rome. A special...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/old-catholicism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1870s CE
     description: >-
-      One of the earliest extant uncial manuscripts of the Greek Old and New
-      Testaments.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Old Catholicism

@@ -44,22 +44,23 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Georgian%20Orthodox%20Church'
 artifacts:
-  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
-    imageUrl: /artifacts/orthodoxy-hagia-sophia.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
-    provenance: Constantinople (Istanbul)
-    period: 537 CE
+  - title: Georgian Orthodox Church Historical Sanctuary & Records
+    imageUrl: /artifacts/georgian-orthodox-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Georgian_Orthodox_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 4th century CE
     description: >-
-      Monumental domed cathedral of the Byzantine Empire and historical mother
-      church of Eastern Orthodoxy.
-  - title: Sinai Christ Pantocrator Encaustic Icon
-    imageUrl: /artifacts/orthodoxy-icon-pantocrator.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
-    provenance: 'Saint Catherine''s Monastery, Sinai'
-    period: c. 6th century CE
+      The Apostolic Autocephalous Orthodox Church of Georgia (Georgian:
+      საქართველოს სამოციქულო ავტოკეფალური მართლმადიდებელი ეკლესია, romanized:
+      sakartvelos samotsikulo avt'ok'epaluri mar...
+  - title: Georgian Orthodox Church Sacred Texts & Material Culture
+    imageUrl: /artifacts/georgian-orthodox-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Georgian_Orthodox_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 4th century CE
     description: >-
-      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
-      embodying dual divine and human natures.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Georgian Orthodox Church.
 ---
 
 # Georgian Orthodox Church

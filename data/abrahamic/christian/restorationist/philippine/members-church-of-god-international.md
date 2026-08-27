@@ -51,22 +51,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Members%20Church%20of%20God%20International
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
+  - title: Members Church of God International Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Members_Church_of_God_International'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1977 CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Members Church of God International.
+  - title: Members Church of God International Sacred Texts & Material Culture
     imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+    sourceUrl: 'https://en.wikipedia.org/wiki/Members_Church_of_God_International'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1977 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
-    description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Members Church of God International.
 ---
 
 # Members Church of God International

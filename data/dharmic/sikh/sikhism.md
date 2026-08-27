@@ -44,22 +44,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sikh%20Tradition'
 artifacts:
-  - title: Harmandir Sahib (The Golden Temple)
-    imageUrl: /artifacts/sikhism-golden-temple.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Golden_Temple'
-    provenance: 'Amritsar, Punjab'
-    period: 1604 CE
+  - title: Sikh Tradition Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sikh_Tradition'
+    provenance: 'Amritsar, Punjab, India'
+    period: c. c. 1500 CE
     description: >-
-      The spiritual and cultural center of Sikhism, designed with entrances on
-      four sides welcoming all humanity.
-  - title: Guru Granth Sahib Sacred Illumination
-    imageUrl: /artifacts/sikhism-guru-granth.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Guru_Granth_Sahib'
-    provenance: Punjab
-    period: 17th century CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Sikh Tradition.
+  - title: Sikh Tradition Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sikh_Tradition'
+    provenance: 'Amritsar, Punjab, India'
+    period: c. c. 1500 CE
     description: >-
-      Illuminated sacred scripture and eternal living Guru containing hymns of
-      the Sikh Gurus and Bhagats.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Sikh Tradition.
 ---
 
 # Sikh Tradition

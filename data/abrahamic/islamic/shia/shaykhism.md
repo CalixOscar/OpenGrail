@@ -45,22 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Shaykhism'
     url: 'https://www.cambridge.org/core/search?q=Shaykhism'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
+  - title: Shaykhism Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shaykhism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. early 19th century CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Shaykhism.
+  - title: Shaykhism Sacred Texts & Material Culture
     imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shaykhism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. early 19th century CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
-    description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Shaykhism.
 ---
 
 # Shaykhism

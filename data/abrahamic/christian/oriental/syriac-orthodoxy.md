@@ -42,22 +42,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Syriac Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Orthodoxy'
 artifacts:
-  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
-    imageUrl: /artifacts/orthodoxy-hagia-sophia.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
-    provenance: Constantinople (Istanbul)
-    period: 537 CE
+  - title: Syriac Orthodox Church Historical Sanctuary & Records
+    imageUrl: /artifacts/syriac-orthodoxy-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Orthodox_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1st century CE
     description: >-
-      Monumental domed cathedral of the Byzantine Empire and historical mother
-      church of Eastern Orthodoxy.
-  - title: Sinai Christ Pantocrator Encaustic Icon
-    imageUrl: /artifacts/orthodoxy-icon-pantocrator.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
-    provenance: 'Saint Catherine''s Monastery, Sinai'
-    period: c. 6th century CE
+      The Syriac Orthodox Church (Classical Syriac: ܥܺܕܬܳܐ ܣܽܘܪܝܳܝܬܳܐ ܬܪܺܝܨܰܬ݂
+      ܫܽܘܒܚܳܐ, romanized: ʿIdto Sūryoyto Trīṣāth Šubḥō), also informally known
+      as the Jacobite Church, is an Orie...
+  - title: Peshitta Canonical Scripture & Iconography
+    imageUrl: /artifacts/syriac-orthodoxy-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Peshitta'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1st century CE
     description: >-
-      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
-      embodying dual divine and human natures.
+      The Peshitta (Classical Syriac: ܦܫܺܝܛܬܳܐ or ܦܫܝܼܛܬܵܐ pšīṭta) is the
+      standard Syriac edition of the Bible for the Syriac churches and
+      traditions that follow the liturgy of the Syria...
 ---
 
 # Syriac Orthodoxy

@@ -48,22 +48,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Babism'
     url: 'https://www.cambridge.org/core/search?q=Babism'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Bábism Historical Sanctuary & Records
+    imageUrl: /artifacts/babism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/B%C3%A1bism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1844 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      Bábism (Persian: بابیه, romanized: Bâbiyye) is a messianic movement
+      founded in 1844 by the Báb. The Báb, an Iranian merchant-turned-prophet,
+      professed that there is one incorporeal...
+  - title: Qayyūm al-asmā Canonical Scripture & Iconography
+    imageUrl: /artifacts/babism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Qayy%C5%ABm_al-asm%C4%81'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1844 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Qayyūm al-asmā or Qayyúmu'l-Asmáʼ (Arabic: قيوم الأسماء; transl. "The
+      Self-Subsisting Lord of All Names") is the first major work by Siyyid ʻAlí
+      Muhammad Shírází, the Báb, after de...
 ---
 
 # Babism

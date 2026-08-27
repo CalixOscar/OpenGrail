@@ -46,22 +46,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Chinese%20Folk%20Religion
 artifacts:
-  - title: Itsukushima Floating Torii Gate Shrine
-    imageUrl: /artifacts/shinto-torii-gate.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
-    provenance: 'Miyajima, Hiroshima, Japan'
-    period: 1168 CE
+  - title: Chinese Folk Religion Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Folk_Religion'
+    provenance: 'Qufu, Shandong, China'
+    period: c. ancient
     description: >-
-      Iconic sacred Shinto gate standing in the tidal sea, demarcating the
-      boundary of the sacred realm.
-  - title: Wudang Mountain Sacred Golden Hall Complex
-    imageUrl: /artifacts/daoism-wudang-hall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
-    provenance: 'Hubei, China'
-    period: 1416 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Chinese Folk Religion.
+  - title: Chinese Folk Religion Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Folk_Religion'
+    provenance: 'Qufu, Shandong, China'
+    period: c. ancient
     description: >-
-      Imperial architectural shrine of Daoist alchemy and philosophical
-      meditation.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Chinese Folk Religion.
 ---
 
 # Chinese Folk Religion

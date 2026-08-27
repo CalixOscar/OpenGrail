@@ -57,22 +57,29 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Fundamentalist%20Church%20of%20Jesus%20Christ%20of%20Latter-Day%20Saints
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: >-
+      Fundamentalist Church of Jesus Christ of Latter-Day Saints Historical
+      Records
+    imageUrl: /artifacts/fundamentalist-church-jesus-christ-latter-day-saints-1.jpg
+    sourceUrl: >-
+      https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints
+    provenance: 'Salt Lake City (Temple Square), Utah, USA'
+    period: c. c. 1954 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Fundamentalist Church of Jesus Christ of Latter-Day
+      Saints.
+  - title: >-
+      Fundamentalist Church of Jesus Christ of Latter-Day Saints Sacred Texts &
+      Material Culture
+    imageUrl: /artifacts/fundamentalist-church-jesus-christ-latter-day-saints-1.jpg
+    sourceUrl: >-
+      https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints
+    provenance: 'Salt Lake City (Temple Square), Utah, USA'
+    period: c. c. 1954 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Fundamentalist Church of Jesus Christ of Latter-Day Saints.
 ---
 
 # Fundamentalist Church of Jesus Christ of Latter-Day Saints

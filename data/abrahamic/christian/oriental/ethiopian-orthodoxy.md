@@ -42,22 +42,23 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ethiopian Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Ethiopian%20Orthodoxy'
 artifacts:
-  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
-    imageUrl: /artifacts/orthodoxy-hagia-sophia.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
-    provenance: Constantinople (Istanbul)
-    period: 537 CE
+  - title: Ethiopian Orthodox Tewahedo Church Historical Sanctuary & Records
+    imageUrl: /artifacts/ethiopian-orthodoxy-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Tewahedo_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 4th century CE
     description: >-
-      Monumental domed cathedral of the Byzantine Empire and historical mother
-      church of Eastern Orthodoxy.
-  - title: Sinai Christ Pantocrator Encaustic Icon
-    imageUrl: /artifacts/orthodoxy-icon-pantocrator.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
-    provenance: 'Saint Catherine''s Monastery, Sinai'
-    period: c. 6th century CE
+      The Ethiopian Orthodox Tewahedo Church (Amharic: የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ
+      ክርስቲያን, romanized: Ye-Ītyop’a ortodoks tewahido bēte kristīyan), also
+      sometimes known as the Abyssinian Churc...
+  - title: Ethiopian Orthodoxy Sacred Texts & Material Culture
+    imageUrl: /artifacts/ethiopian-orthodoxy-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Tewahedo_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 4th century CE
     description: >-
-      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
-      embodying dual divine and human natures.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Ethiopian Orthodoxy.
 ---
 
 # Ethiopian Orthodoxy

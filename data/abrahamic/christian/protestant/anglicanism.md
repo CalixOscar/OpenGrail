@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Anglicanism'
     url: 'https://www.cambridge.org/core/search?q=Anglicanism'
 artifacts:
-  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
-    imageUrl: /artifacts/protestantism-wittenberg.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
-    provenance: 'Wittenberg, Germany'
-    period: 1517 CE
+  - title: Anglicanism Historical Records
+    imageUrl: /artifacts/anglicanism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Anglicanism'
+    provenance: 'Canterbury, Kent, England, UK'
+    period: c. 1530s CE
     description: >-
-      Historic church where Martin Luther posted his Ninety-five Theses,
-      initiating the Protestant Reformation.
-  - title: Luther 1534 German Bible Title Woodcut
-    imageUrl: /artifacts/protestantism-luther-bible.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Luther_Bible'
-    provenance: Wittenberg
-    period: 1534 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Anglicanism.
+  - title: Anglicanism Sacred Texts & Material Culture
+    imageUrl: /artifacts/anglicanism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Anglicanism'
+    provenance: 'Canterbury, Kent, England, UK'
+    period: c. 1530s CE
     description: >-
-      Historic printed vernacular German translation democratizing direct
-      scriptural access for all believers.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Anglicanism.
 ---
 
 # Anglicanism

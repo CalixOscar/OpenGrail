@@ -46,22 +46,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Baha''i Faith'
     url: 'https://www.cambridge.org/core/search?q=Baha''i%20Faith'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Baháʼí Faith Historical Sanctuary & Records
+    imageUrl: /artifacts/bahai-faith-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1863 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      The Baháʼí Faith is a religion established by Baháʼu'lláh in the 19th
+      century that teaches the essential worth of all religions and the unity of
+      all people. It initially developed...
+  - title: Kitáb-i-Aqdas Canonical Scripture & Iconography
+    imageUrl: /artifacts/bahai-faith-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Kit%C3%A1b-i-Aqdas'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1863 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      The Kitáb-i-Aqdas (Persian: [keˈtɒːb e æɢdæs], lit. 'The Most Holy Book')
+      is the central religious text of the Baháʼí Faith, written by Baháʼu'lláh,
+      the founder of the religion, in...
 ---
 
 # Baha'i Faith

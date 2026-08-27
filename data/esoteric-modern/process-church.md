@@ -51,22 +51,22 @@ sources:
       Judgment
     url: 'https://brill.com/search?q=Process%20Church%20of%20the%20Final%20Judgment'
 artifacts:
-  - title: The Parthenon Classical Sanctuary of Athena
+  - title: Process Church of the Final Judgment Historical Records
     imageUrl: /artifacts/ancient-parthenon.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
-    provenance: 'Acropolis of Athens, Greece'
-    period: 447–432 BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Process_Church_of_the_Final_Judgment'
+    provenance: 'London, England, UK'
+    period: c. 1960s CE
     description: >-
-      Pinnacle of Classical Greek sacred temple architecture honoring the civic
-      and divine order.
-  - title: Persepolis Monumental Faravahar Stone Relief
-    imageUrl: /artifacts/zoroastrian-faravahar.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
-    provenance: 'Persepolis, Ancient Persia'
-    period: c. 515 BCE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Process Church of the Final Judgment.
+  - title: Process Church of the Final Judgment Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Process_Church_of_the_Final_Judgment'
+    provenance: 'London, England, UK'
+    period: c. 1960s CE
     description: >-
-      Achaemenid royal carving representing divine grace (Khvarenah) and moral
-      responsibility in Zoroastrianism.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Process Church of the Final Judgment.
 ---
 
 # Process Church of the Final Judgment

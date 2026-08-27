@@ -45,22 +45,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Syro-Malabar Church'
     url: 'https://www.cambridge.org/core/search?q=Syro-Malabar%20Church'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Syro-Malabar Church Historical Sanctuary & Records
+    imageUrl: /artifacts/syro-malabar-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malabar_Church'
+    provenance: 'Rome, Latium, Italy'
+    period: c. c. 16th century CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      The Syro-Malabar Church, also known as the Syro-Malabar Catholic Church or
+      Edtha Qatholiqi d'Malabar Suryaya, is an Eastern Catholic church based in
+      Kerala, India. It is a sui iuri...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/syro-malabar-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Rome, Latium, Italy'
+    period: c. c. 16th century CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Syro-Malabar Church

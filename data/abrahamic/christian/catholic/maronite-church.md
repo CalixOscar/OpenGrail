@@ -42,22 +42,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Maronite Church'
     url: 'https://www.cambridge.org/core/search?q=Maronite%20Church'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Maronite Church Historical Sanctuary & Records
+    imageUrl: /artifacts/maronite-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Maronite_Church'
+    provenance: 'Rome, Latium, Italy'
+    period: c. c. 5th century CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      The Maronite Catholic Church (Arabic: الكنيسة المارونية‎; Syriac: ܥܕܬܐ
+      ܣܘܪܝܝܬܐ ܡܪܘܢܝܬܐ) is an Eastern Catholic sui iuris particular church in
+      full communion with the pope and the w...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/maronite-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Rome, Latium, Italy'
+    period: c. c. 5th century CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Maronite Church

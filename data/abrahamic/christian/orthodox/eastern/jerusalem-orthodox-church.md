@@ -46,22 +46,23 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Greek%20Orthodox%20Patriarchate%20of%20Jerusalem
 artifacts:
-  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
-    imageUrl: /artifacts/orthodoxy-hagia-sophia.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
-    provenance: Constantinople (Istanbul)
-    period: 537 CE
+  - title: Greek Orthodox Patriarchate of Jerusalem Historical Sanctuary & Records
+    imageUrl: /artifacts/jerusalem-orthodox-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Greek_Orthodox_Patriarchate_of_Jerusalem'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 451 CE
     description: >-
-      Monumental domed cathedral of the Byzantine Empire and historical mother
-      church of Eastern Orthodoxy.
-  - title: Sinai Christ Pantocrator Encaustic Icon
-    imageUrl: /artifacts/orthodoxy-icon-pantocrator.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
-    provenance: 'Saint Catherine''s Monastery, Sinai'
-    period: c. 6th century CE
+      The Greek Orthodox Patriarchate of Jerusalem, also known as the Greek
+      Orthodox Church of Jerusalem, is an autocephalous Eastern Orthodox church
+      in full communion with the other Eas...
+  - title: Greek Orthodox Patriarchate of Jerusalem Sacred Texts & Material Culture
+    imageUrl: /artifacts/jerusalem-orthodox-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Greek_Orthodox_Patriarchate_of_Jerusalem'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 451 CE
     description: >-
-      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
-      embodying dual divine and human natures.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Greek Orthodox Patriarchate of Jerusalem.
 ---
 
 # Greek Orthodox Patriarchate of Jerusalem

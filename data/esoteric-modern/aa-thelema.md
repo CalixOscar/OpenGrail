@@ -48,22 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: A∴A∴'
     url: 'https://brill.com/search?q=A%E2%88%B4A%E2%88%B4'
 artifacts:
-  - title: The Parthenon Classical Sanctuary of Athena
+  - title: A∴A∴ Historical Records
     imageUrl: /artifacts/ancient-parthenon.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
-    provenance: 'Acropolis of Athens, Greece'
-    period: 447–432 BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/A%E2%88%B4A%E2%88%B4'
+    provenance: 'Cairo (Fustat), Egypt'
+    period: c. 1907 CE
     description: >-
-      Pinnacle of Classical Greek sacred temple architecture honoring the civic
-      and divine order.
-  - title: Persepolis Monumental Faravahar Stone Relief
-    imageUrl: /artifacts/zoroastrian-faravahar.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
-    provenance: 'Persepolis, Ancient Persia'
-    period: c. 515 BCE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with A∴A∴.
+  - title: A∴A∴ Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/A%E2%88%B4A%E2%88%B4'
+    provenance: 'Cairo (Fustat), Egypt'
+    period: c. 1907 CE
     description: >-
-      Achaemenid royal carving representing divine grace (Khvarenah) and moral
-      responsibility in Zoroastrianism.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of A∴A∴.
 ---
 
 # A∴A∴

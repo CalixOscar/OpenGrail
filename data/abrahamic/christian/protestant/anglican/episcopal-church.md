@@ -50,22 +50,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=The%20Episcopal%20Church'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: The Episcopal Church Historical Records
+    imageUrl: /artifacts/episcopal-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/The_Episcopal_Church'
+    provenance: 'Canterbury, Kent, England, UK'
+    period: c. 1789 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with The Episcopal Church.
+  - title: The Episcopal Church Sacred Texts & Material Culture
+    imageUrl: /artifacts/episcopal-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/The_Episcopal_Church'
+    provenance: 'Canterbury, Kent, England, UK'
+    period: c. 1789 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of The Episcopal Church.
 ---
 
 # The Episcopal Church

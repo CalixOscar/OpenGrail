@@ -43,22 +43,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Mexicayotl'
     url: 'https://brill.com/search?q=Mexicayotl'
 artifacts:
-  - title: The Parthenon Classical Sanctuary of Athena
+  - title: Mexicayotl Historical Records
     imageUrl: /artifacts/ancient-parthenon.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
-    provenance: 'Acropolis of Athens, Greece'
-    period: 447–432 BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mexicayotl'
+    provenance: 'Tenochtitlan (Mexico City), Mexico'
+    period: c. 1950s CE
     description: >-
-      Pinnacle of Classical Greek sacred temple architecture honoring the civic
-      and divine order.
-  - title: Persepolis Monumental Faravahar Stone Relief
-    imageUrl: /artifacts/zoroastrian-faravahar.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
-    provenance: 'Persepolis, Ancient Persia'
-    period: c. 515 BCE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Mexicayotl.
+  - title: Mexicayotl Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mexicayotl'
+    provenance: 'Tenochtitlan (Mexico City), Mexico'
+    period: c. 1950s CE
     description: >-
-      Achaemenid royal carving representing divine grace (Khvarenah) and moral
-      responsibility in Zoroastrianism.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Mexicayotl.
 ---
 
 # Mexicayotl

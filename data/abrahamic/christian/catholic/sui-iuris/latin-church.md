@@ -43,22 +43,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Latin Church'
     url: 'https://www.cambridge.org/core/search?q=Latin%20Church'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Latin Church Historical Sanctuary & Records
+    imageUrl: /artifacts/latin-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Latin_Church'
+    provenance: 'Rome, Latium, Italy'
+    period: c. c. 1st century CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      The Latin Church (Latin: Ecclesia Latina) is the largest autonomous (sui
+      iuris) particular church within the Catholic Church, whose members
+      constitute the vast majority of the 1.3...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/latin-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Rome, Latium, Italy'
+    period: c. c. 1st century CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Latin Church

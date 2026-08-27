@@ -45,22 +45,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=P%C4%81%C5%9Bupata%20%C5%9Aaivism
 artifacts:
-  - title: Brihadisvara Temple (Peruvudaiyar Kovil)
-    imageUrl: /artifacts/hinduism-brihadisvara.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
-    provenance: 'Thanjavur, Tamil Nadu'
-    period: 1010 CE (Chola Dynasty)
+  - title: Pāśupata Śaivism Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/P%C4%81%C5%9Bupata_%C5%9Aaivism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century CE
     description: >-
-      Towering granite rock architecture exemplifying Tamil Dravidian temple
-      design and Shaivite sacred geometry.
-  - title: Chola Nataraja (Cosmic Dance of Shiva) Bronze
-    imageUrl: /artifacts/hinduism-nataraja.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nataraja'
-    provenance: Southern India
-    period: c. 10th-11th century CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Pāśupata Śaivism.
+  - title: Pāśupata Śaivism Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/P%C4%81%C5%9Bupata_%C5%9Aaivism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century CE
     description: >-
-      Iconic lost-wax bronze sculpture representing the continuous cycle of
-      cosmic creation and preservation.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Pāśupata Śaivism.
 ---
 
 # Pāśupata Śaivism

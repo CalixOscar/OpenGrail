@@ -47,22 +47,24 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Chaldean%20Catholic%20Church'
 artifacts:
-  - title: Saint Peter's Papal Basilica & Piazza
-    imageUrl: /artifacts/christianity-basilica.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
-    provenance: 'Vatican City, Rome'
-    period: 1506–1626 CE
+  - title: Chaldean Catholic Church Historical Sanctuary & Records
+    imageUrl: /artifacts/chaldean-catholic-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chaldean_Catholic_Church'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1553 CE
     description: >-
-      The Renaissance and Baroque episcopal center of the Roman Catholic Church,
-      designed by Michelangelo and Bernini.
-  - title: Codex Vaticanus Greek Bible Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Vatican Library Collection
-    period: c. 4th century CE
+      The Chaldean Catholic Church (Classical Syriac: ܥܕܬܐ ܟܠܕܝܬܐ ܩܬܘܠܝܩܝܬܐ,
+      ʿĒdtā Kalḏāytā Qāṯōlīqāytā; Arabic: الكنيسة الكلدانية, al-Kanīsa
+      al-Kaldāniyya; Latin: Ecclesia Chaldaeorum C...
+  - title: Peshitta Canonical Scripture & Iconography
+    imageUrl: /artifacts/chaldean-catholic-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Peshitta'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1553 CE
     description: >-
-      One of the earliest extant uncial manuscripts of the Greek Old and New
-      Testaments.
+      The Peshitta (Classical Syriac: ܦܫܺܝܛܬܳܐ or ܦܫܝܼܛܬܵܐ pšīṭta) is the
+      standard Syriac edition of the Bible for the Syriac churches and
+      traditions that follow the liturgy of the Syria...
 ---
 
 # Chaldean Catholic Church
