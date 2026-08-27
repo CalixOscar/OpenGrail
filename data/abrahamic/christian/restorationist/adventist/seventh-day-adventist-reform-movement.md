@@ -54,13 +54,17 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Seventh Day Adventist Reform Movement.
     imageUrl: /artifacts/seventh-day-adventist-reform-movement-1.jpg
-  - title: Seventh Day Adventist Reform Movement Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Seventh_Day_Adventist_Reform_Movement'
+  - title: >-
+      Christian experience & teachings of Ellen G. White ... (IA
+      christianexperie00whit) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Christian_experience_%26_teachings_of_Ellen_G._White_..._(IA_christianexperie00whit).pdf
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1914 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Seventh Day Adventist Reform Movement.
+    description: |-
+      1 p. 19 cm
+
+      Subjects:...
     imageUrl: /artifacts/seventh-day-adventist-reform-movement-2.jpg
 ---
 

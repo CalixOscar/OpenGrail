@@ -48,13 +48,17 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Lutheranism.
     imageUrl: /artifacts/lutheranism-1.jpg
-  - title: Lutheranism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lutheranism'
+  - title: Augsburger-Reichstag Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Augsburger-Reichstag.jpg'
     provenance: 'Wittenberg, Saxony, Germany'
     period: c. 1517 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Lutheranism.
+      Diet of Augsburg by Christian Beyer
+
+
+      Augsburger Reichstag gemeinfrei Holzschnitt aus dem 16.Jahrhundert in
+      Nürnberg: Kanzler Dr.Christian Beyer verliest vor Karl V die "Confessio
+      A...
     imageUrl: /artifacts/lutheranism-2.jpg
 ---
 

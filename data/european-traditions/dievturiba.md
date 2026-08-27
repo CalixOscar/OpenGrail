@@ -50,22 +50,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Dievturība'
     url: 'https://brill.com/search?q=Dievtur%C4%ABba'
 artifacts:
-  - title: Dievturība Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dievtur%C4%ABba'
+  - title: Māra – Zemes Māte 2 Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:M%C4%81ra_%E2%80%93_Zemes_M%C4%81te_2.jpg
     provenance: 'Riga, Vidzeme, Latvia'
     period: c. 1920s CE
     description: >-
-      Dievturība is a contemporary continuation of the ethnic religion of the
-      Latvians from what it was before Christianization in the 13th century.
-      Adherents call themselves Dievturi (s...
-    imageUrl: /artifacts/dievturiba-2.jpg
-  - title: Daina Taimina Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Daina_Taimina.jpg'
+      Dievturi pielūdz Dievieti Māru kā nāves un dzīvības Dievieti. Zemes Mātes
+      veidolā Dieviete Māra pilda dzīvības Dievietes funkciju. Dieviete Māra
+      uztur dabā līdzsvaru starp dzīvību...
+    imageUrl: /artifacts/dievturiba-1.jpg
+  - title: Dievturība Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:M%C4%81ra_%E2%80%93_Zemes_M%C4%81te_2.jpg
     provenance: 'Riga, Vidzeme, Latvia'
     period: c. 1920s CE
     description: >-
-      Picture of latvian mathematician Daina Taimina, her husband geometer David
-      W. Henderson and crocheted hyperbolic plane...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Dievturība.
     imageUrl: /artifacts/dievturiba-2.jpg
 ---
 

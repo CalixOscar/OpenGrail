@@ -45,24 +45,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Daejonggyo'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Portrait of Dangun Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Portrait_of_Dangun.jpg'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. 1909 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Portrait of Dangun...
     imageUrl: /artifacts/daejonggyo-1.jpg
-  - title: Daejonggyo Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: DangunFeveronpcb Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:DangunFeveronpcb.jpg'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. 1909 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Daejonggyo.
-    imageUrl: /artifacts/daejonggyo-1.jpg
+    description: Dangun Feveron arcade PCB with art...
+    imageUrl: /artifacts/daejonggyo-2.jpg
 ---
 
 # Daejonggyo

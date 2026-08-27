@@ -53,7 +53,7 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Azali Babism.
     imageUrl: /artifacts/azali-babism-1.jpg
-  - title: Azali Babism Sacred Scripture & Art
+  - title: Azali Babism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Azali_Babism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1860s CE

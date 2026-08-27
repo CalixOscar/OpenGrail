@@ -49,20 +49,19 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Sasanian Zoroastrianism'
     url: 'https://brill.com/search?q=Sasanian%20Zoroastrianism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Sasanian plate (4496695466) Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sasanian_plate_(4496695466).jpg'
     provenance: 'Isfahan, Iran'
     period: c. 224 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Sasanian era silver &amp; gold dish showing a griffin. Taken at the
+      British museum, London, United kingdom, December 2009. 
+
+
+      Plat en or et argent d’époque Sasanide montrant un grif...
     imageUrl: /artifacts/sasanian-zoroastrianism-1.jpg
-  - title: >-
-      Avesta, translated by Ignacy Pietraszewski Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Avesta,_translated_by_Ignacy_Pietraszewski.jpg
+  - title: Sasanian Zoroastrianism Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sasanian_plate_(4496695466).jpg'
     provenance: 'Isfahan, Iran'
     period: c. 224 CE
     description: >-

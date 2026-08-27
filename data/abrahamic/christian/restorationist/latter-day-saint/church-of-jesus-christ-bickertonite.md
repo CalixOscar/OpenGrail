@@ -52,13 +52,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with The Church of Jesus Christ (Bickertonite).
     imageUrl: /artifacts/church-of-jesus-christ-bickertonite-1.jpg
-  - title: The Church of Jesus Christ (Bickertonite) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ'
+  - title: 'Book of Mormon 2 Nephi 30,5-6 Sacred Relics & Scripture'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Book_of_Mormon_2_Nephi_30,5-6.jpg'
     provenance: 'Kirtland, Lake County, Ohio, USA'
     period: c. 1862 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of The Church of Jesus Christ (Bickertonite).
+      The Book of Mormon: An Account Written by the Hand of Mormon, Upon Plates
+      Taken from the Plates of Nephi, 2 Nephi 30:5-6, from the 1830 version....
     imageUrl: /artifacts/church-of-jesus-christ-bickertonite-2.jpg
 ---
 

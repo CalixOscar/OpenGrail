@@ -49,24 +49,22 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Dangun%20Veneration'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Shrine of Saint Therese Catholic Church in Pueblo Colorado 2 Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Shrine_of_Saint_Therese_Catholic_Church_in_Pueblo_Colorado_2.jpg
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. medieval roots; modern revival
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Shrine of Saint Therese Catholic Church in Pueblo Colorado 2...
     imageUrl: /artifacts/dangun-veneration-1.jpg
-  - title: >-
-      Memorabilia of the Three Kingdoms in museum Canonical Scripture &
-      Iconography
+  - title: Dangun Veneration (Comparative) Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Memorabilia_of_the_Three_Kingdoms_in_museum.jpg
+      https://commons.wikimedia.org/wiki/File:Shrine_of_Saint_Therese_Catholic_Church_in_Pueblo_Colorado_2.jpg
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. medieval roots; modern revival
     description: >-
-      Memorabilia of the Three Kingdoms displayed in Seoul National University
-      Kyujanggak Institute for Koreanology Studies...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Dangun Veneration (Comparative).
     imageUrl: /artifacts/dangun-veneration-2.jpg
 ---
 

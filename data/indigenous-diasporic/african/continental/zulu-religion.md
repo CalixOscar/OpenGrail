@@ -50,23 +50,23 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Zulu%20Religious%20Traditions'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      The religious revolution of to-day (IA religiousrevolut00shot) Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:The_religious_revolution_of_to-day_(IA_religiousrevolut00shot).pdf
     provenance: 'KwaZulu (Ulundi), South Africa'
     period: c. precolonial
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Subjects: Christianity -- 20th century...'
     imageUrl: /artifacts/zulu-religion-1.jpg
   - title: >-
-      The principle of oral English (IA principleoforale00palmrich) Canonical
-      Scripture & Iconography
+      The principle of oral English (IA principleoforale00palmrich) Sacred
+      Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:The_principle_of_oral_English_(IA_principleoforale00palmrich).pdf
     provenance: 'KwaZulu (Ulundi), South Africa'
     period: c. precolonial
     description: 'Subjects: Elocution...'
-    imageUrl: /artifacts/zulu-religion-1.jpg
+    imageUrl: /artifacts/zulu-religion-2.jpg
 ---
 
 # Zulu Religious Traditions

@@ -45,19 +45,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Rosicrucianism'
     url: 'https://brill.com/search?q=Rosicrucianism'
 artifacts:
-  - title: Rosicrucianism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rosicrucianism'
+  - title: Templeofrosycross Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Templeofrosycross.png'
     provenance: 'London, England, UK'
     period: c. early 17th century CE
     description: >-
-      Rosicrucianism () is a spiritual and cultural movement influenced by
-      Esoteric Christianity and Hermeticism that arose in early modern Europe in
-      the early 17th century after the pub...
-  - title: Portada Fama Fraternitatis Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Portada_Fama_Fraternitatis.jpg'
+      The representation was created around 1604 and was published in the
+      Speculum sophicum Rhodostauroticum by Theophilus Schweighart. At the
+      center of the picture is a wheeled, fortres...
+    imageUrl: /artifacts/rosicrucianism-1.jpg
+  - title: Fama Fraternitatis Rosae Crucis (page 1) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Fama_Fraternitatis_Rosae_Crucis_(page_1).jpg
     provenance: 'London, England, UK'
     period: c. early 17th century CE
-    description: 'Portada de la obra Fama Fraternitatis, publicada en Alemania en 1614...'
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Rosicrucianism.
+    imageUrl: /artifacts/rosicrucianism-2.jpg
 ---
 
 # Rosicrucianism

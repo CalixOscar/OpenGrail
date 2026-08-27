@@ -49,24 +49,21 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Russian Cosmism'
     url: 'https://brill.com/search?q=Russian%20Cosmism'
 artifacts:
-  - title: Russian cosmism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Russian_cosmism'
+  - title: Alex Grey - COSM 4 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Alex_Grey_-_COSM_4.jpg'
     provenance: 'London, England, UK'
     period: c. late 19th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Russian Cosmism.
+    description: Inside the Chapel Of Sacred Mirrors....
+    imageUrl: /artifacts/russian-cosmism-1.jpg
   - title: >-
-      The American philosophy of government; (IA americanphilosop00snowrich)
-      Canonical Scripture & Iconography
+      The philosophy of laughter and smiling (IA philosophyoflaug00vase) Sacred
+      Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_American_philosophy_of_government;_(IA_americanphilosop00snowrich).pdf
+      https://commons.wikimedia.org/wiki/File:The_philosophy_of_laughter_and_smiling_(IA_philosophyoflaug00vase).pdf
     provenance: 'London, England, UK'
     period: c. late 19th century CE
-    description: |-
-      "List of references": p. 473
-
-      Subjects: League of nations; United States -- Politics and government...
+    description: 'Subjects: Laughter...'
+    imageUrl: /artifacts/russian-cosmism-2.jpg
 ---
 
 # Russian Cosmism

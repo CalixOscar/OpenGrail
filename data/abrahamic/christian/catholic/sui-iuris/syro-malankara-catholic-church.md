@@ -56,14 +56,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Syro-Malankara Catholic Church.
     imageUrl: /artifacts/syro-malankara-catholic-church-1.jpg
-  - title: Syro-Malankara Catholic Church Sacred Scripture & Art
+  - title: Syro-Malankara Catholic Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malankara_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1930 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Syro-Malankara Catholic Church.
-    imageUrl: /artifacts/syro-malankara-catholic-church-2.jpg
 ---
 
 # Syro-Malankara Catholic Church

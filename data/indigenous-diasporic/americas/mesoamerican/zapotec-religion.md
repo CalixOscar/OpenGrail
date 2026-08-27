@@ -49,24 +49,23 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Zapotec%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Pre-historic America (IA b24875144) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Pre-historic_America_(IA_b24875144).pdf
     provenance: 'Monte Albán / Oaxaca Valley, Mexico'
     period: c. c. 500 BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: |-
+      Bookplate of W. A. Nicholson
+
+      Subjects: Indians, North American...
     imageUrl: /artifacts/zapotec-religion-1.jpg
-  - title: >-
-      PSM V73 D396 Some bear pictorial inscriptions Canonical Scripture &
-      Iconography
+  - title: PSM V73 D396 Some bear pictorial inscriptions Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:PSM_V73_D396_Some_bear_pictorial_inscriptions.png
     provenance: 'Monte Albán / Oaxaca Valley, Mexico'
     period: c. c. 500 BCE
     description: Some bear pictorial inscriptions...
-    imageUrl: /artifacts/zapotec-religion-1.jpg
+    imageUrl: /artifacts/zapotec-religion-2.jpg
 ---
 
 # Zapotec Religious Traditions

@@ -48,16 +48,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Nabataean Religion'
     url: 'https://brill.com/search?q=Nabataean%20Religion'
 artifacts:
-  - title: Nabataean Religion Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nabataean_Religion'
+  - title: Relief of Dushara Petra Jordan1423 Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Relief_of_Dushara_Petra_Jordan1423.jpg
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 4th century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Nabataean Religion.
+      This relief of Dushara, chief god of the Nabataeans, is located under an
+      overhang on the way to the High Place of Jabal al-Madbah...
     imageUrl: /artifacts/nabataean-religion-1.jpg
-  - title: Nabataean Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nabataean_Religion'
+  - title: Nabataean Religion Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Relief_of_Dushara_Petra_Jordan1423.jpg
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 4th century BCE
     description: >-

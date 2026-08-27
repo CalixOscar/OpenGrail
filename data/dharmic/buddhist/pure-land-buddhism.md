@@ -48,11 +48,10 @@ artifacts:
     provenance: 'Luoyang, Henan, China'
     period: c. c. 2nd century CE
     description: >-
-      Pure Land Buddhism or the Pure Land School  (Chinese: 淨土宗; pinyin:
-      Jìngtǔzōng) is a broad branch of Mahayana Buddhism focused on achieving
-      rebirth in a Pure Land. It is one of the...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Pure Land Buddhism.
     imageUrl: /artifacts/pure-land-buddhism-1.jpg
-  - title: Pure Land Buddhism Sacred Scripture & Art
+  - title: Pure Land Buddhism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Pure_Land_Buddhism'
     provenance: 'Luoyang, Henan, China'
     period: c. c. 2nd century CE

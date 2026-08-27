@@ -45,20 +45,21 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Jinja%20Shinto'
 artifacts:
-  - title: >-
-      Utrecht - St. Catharinakathedraal - Altaar met Willibrordschrijn -
-      20220130 PvE (Q1627233) Historical Sanctuary & Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Utrecht_-_St._Catharinakathedraal_-_Altaar_met_Willibrordschrijn_-_20220130_PvE_(Q1627233).jpg
+  - title: Jinja Shinto Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Jinja_Shinto'
     provenance: 'Ise Grand Shrine, Mie, Japan'
     period: c. 1945 CE
-    description: Altar with Willibrord shrine at St. Catherine's Cathedral in Utrecht...
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Jinja Shinto.
     imageUrl: /artifacts/jinja-shinto-1.jpg
-  - title: Kojiki Shinpukuji Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kojiki_Shinpukuji.jpg'
+  - title: Jinja Shinto Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Jinja_Shinto'
     provenance: 'Ise Grand Shrine, Mie, Japan'
     period: c. 1945 CE
-    description: 'The Records of Ancient Matters (古事記, Kojiki), Shinpukuji manuscript...'
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Jinja Shinto.
     imageUrl: /artifacts/jinja-shinto-2.jpg
 ---
 

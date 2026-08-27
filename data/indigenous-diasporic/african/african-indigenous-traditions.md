@@ -46,27 +46,27 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=African%20Indigenous%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Halcyonair ATR 42 Cape Verde 2011 Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. prehistoric and historically diverse
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/african-indigenous-traditions-1.jpg
-  - title: >-
-      Dr. Sharon W Weiss Oral History Interview (IA WeissSharon) Canonical
-      Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Dr._Sharon_W_Weiss_Oral_History_Interview_(IA_WeissSharon).pdf
+      https://commons.wikimedia.org/wiki/File:Halcyonair_ATR_42_Cape_Verde_2011.jpg
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. prehistoric and historically diverse
     description: >-
-      ARMED FORCES INSTITUTE OF PATHOLOGYORAL HISTORY PROGRAMSUBJECT: Dr. Sharon
-      W. WeissINTERVIEWER: Charles Stuart KennedyDATE: March 16, 1992
+      An ATR of the Cape Verdian airline Halcyonair at Amílcar Cabral
+      International Airport in en:Espargos, Sal, Cape Verde.
 
-      Subjects: Armed Forces Institute of Path...
+      The name of the airline is derived from Halcyon, a genus of k...
+    imageUrl: /artifacts/african-indigenous-traditions-1.jpg
+  - title: >-
+      African Indigenous Traditions (Comparative) Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Halcyonair_ATR_42_Cape_Verde_2011.jpg
+    provenance: 'Ile-Ife, Osun, Nigeria'
+    period: c. prehistoric and historically diverse
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of African Indigenous Traditions (Comparative).
     imageUrl: /artifacts/african-indigenous-traditions-2.jpg
 ---
 

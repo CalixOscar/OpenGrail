@@ -46,23 +46,19 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Seon%20Buddhism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Jeong Seon-Ingok.yugeodo Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Jeong_Seon-Ingok.yugeodo.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: '인곡유거도(仁谷幽居圖), 27.3*27.5cm 종이에 담채, 간송미술관...'
     imageUrl: /artifacts/seon-1.jpg
-  - title: >-
-      An essay on the practicability of cultivating the honey bee (IA
-      essayonpracticab00smit) Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:An_essay_on_the_practicability_of_cultivating_the_honey_bee_(IA_essayonpracticab00smit).pdf
+  - title: Seon Buddhism Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Jeong_Seon-Ingok.yugeodo.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
-    description: 'Subjects: Bees. [from old catalog]...'
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Seon Buddhism.
     imageUrl: /artifacts/seon-2.jpg
 ---
 

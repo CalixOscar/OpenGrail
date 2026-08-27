@@ -57,13 +57,14 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Lutheran Church—Missouri Synod.
     imageUrl: /artifacts/lutheran-church-missouri-synod-1.jpg
-  - title: Lutheran Church—Missouri Synod Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lutheran_Church%E2%80%94Missouri_Synod'
+  - title: Bookofconcord Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bookofconcord.jpg'
     provenance: 'Wittenberg, Saxony, Germany'
     period: c. 1847 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Lutheran Church—Missouri Synod.
+      Title Page from 1580 German Edition of the en:Book of Concord. (Image
+      privately held by Paul T. McCain. Digital photo taken by Paul McCain. Made
+      available to public domain.)...
     imageUrl: /artifacts/lutheran-church-missouri-synod-2.jpg
 ---
 

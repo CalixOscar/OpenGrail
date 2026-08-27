@@ -47,24 +47,19 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Chaos Magic'
     url: 'https://brill.com/search?q=Chaos%20Magic'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Chaos magic ritual involving videoconferencing Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Chaos_magic_ritual_involving_videoconferencing.JPG
     provenance: 'London, England, UK'
     period: c. late 1970s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: A chaos magic ritual that uses videoconferencing....
     imageUrl: /artifacts/chaos-magic-1.jpg
-  - title: Chaos Magic Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: 'Chaos, a vision of eternity Sacred Relics & Scripture'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Chaos,_a_vision_of_eternity.djvu'
     provenance: 'London, England, UK'
     period: c. late 1970s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Chaos Magic.
-    imageUrl: /artifacts/chaos-magic-1.jpg
+    description: '"A poem in dramatic form." 55 p. front., plates. 17 cm....'
+    imageUrl: /artifacts/chaos-magic-2.jpg
 ---
 
 # Chaos Magic

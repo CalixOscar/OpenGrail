@@ -49,22 +49,25 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Ud%C4%81s%C4%AB%20Tradition'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Painting depicting Guru Arjan, from an illustrated Sikh manuscript
+      commissioned by Udasis, ca.1757–59 Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Amritsar, Punjab, India'
-    period: c. c. 16th–17th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/udasi-1.jpg
-  - title: Sri Guru Granth Sahib Nishan Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sri_Guru_Granth_Sahib_Nishan.jpg'
+      https://commons.wikimedia.org/wiki/File:Painting_depicting_Guru_Arjan,_from_an_illustrated_Sikh_manuscript_commissioned_by_Udasis,_ca.1757%E2%80%9359.jpg
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 16th–17th century CE
     description: >-
-      Illuminated Adi Granth folio with nisan of Guru Gobind Singh. The
-      manuscript is of the Lahore recension, late 17th to early 18th century.
-      Gold and colours on paper; folio size 360...
+      Painting depicting Guru Arjan, from an illustrated Sikh manuscript
+      commissioned by Udasis, ca.1757–59. Kept in the private collection of a
+      family based in the United Kingdom of Gre...
+    imageUrl: /artifacts/udasi-1.jpg
+  - title: Illuminated Guru Granth Sahib manuscript 04 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Illuminated_Guru_Granth_Sahib_manuscript_04.jpg
+    provenance: 'Amritsar, Punjab, India'
+    period: c. c. 16th–17th century CE
+    description: >-
+      Illuminated Guru Granth Sahib manuscript from the Dr. Gurpal Singh Bhuller
+      collection....
     imageUrl: /artifacts/udasi-2.jpg
 ---
 

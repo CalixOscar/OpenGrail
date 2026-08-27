@@ -54,7 +54,7 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Christian Church (Disciples of Christ).
     imageUrl: /artifacts/christian-church-disciples-of-christ-1.jpg
-  - title: Christian Church (Disciples of Christ) Sacred Scripture & Art
+  - title: Christian Church (Disciples of Christ) Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Christian_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1968 CE

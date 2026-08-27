@@ -44,20 +44,17 @@ artifacts:
     provenance: 'Isfahan, Iran'
     period: c. c. 1200–600 BCE
     description: >-
-      Zoroastrianism, also called Mazdayasna and Behdin, is an Iranian religion
-      centred on the Avesta and the teachings of Zarathushtra Spitama, who is
-      more commonly referred to by the G...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Zoroastrianism.
     imageUrl: /artifacts/zoroastrianism-1.jpg
-  - title: >-
-      Avesta, translated by Ignacy Pietraszewski Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Avesta,_translated_by_Ignacy_Pietraszewski.jpg
+  - title: Stainless visent Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Stainless_visent.jpg'
     provenance: 'Isfahan, Iran'
     period: c. c. 1200–600 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Zoroastrianism.
+      Visent statue made of stainless steel. Visent was the symbol of the local
+      steel mills, former Avesta Jernverk. This statue can be seen in the city
+      park in front of the Star hotel,...
     imageUrl: /artifacts/zoroastrianism-2.jpg
 ---
 

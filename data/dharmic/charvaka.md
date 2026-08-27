@@ -52,23 +52,28 @@ sources:
       https://www.rep.routledge.com/search?query=C%C4%81rv%C4%81ka%20%2F%20Lok%C4%81yata
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Verses from the Sarva-Darśana-Sangraha, the Vishnu Purāna, and the
+      Rāmāyana, Illustrating the Tenets of the Chārvākas, or Indian Materialists
+      (IA jstor-25228721) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 1st millennium BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/charvaka-1.jpg
-  - title: Cārvāka / Lokāyata Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Verses_from_the_Sarva-Dar%C5%9Bana-Sangraha,_the_Vishnu_Pur%C4%81na,_and_the_R%C4%81m%C4%81yana,_Illustrating_the_Tenets_of_the_Ch%C4%81rv%C4%81kas,_or_Indian_Materialists_(IA_jstor-25228721).pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1st millennium BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cārvāka / Lokāyata.
+      "Verses from the Sarva-Darśana-Sangraha, the Vishnu Purāna, and the
+      Rāmāyana, Illustrating the Tenets of the Chārvākas, or Indian
+      Materialists, with Some Remarks on Freedom of Spe...
     imageUrl: /artifacts/charvaka-1.jpg
+  - title: The kalas (IA kalaskalas00venkrich) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_kalas_(IA_kalaskalas00venkrich).pdf
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 1st millennium BCE
+    description: |-
+      Thesis (doctoral)--University of Bern
+
+      Subjects:...
+    imageUrl: /artifacts/charvaka-2.jpg
 ---
 
 # Cārvāka / Lokāyata

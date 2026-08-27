@@ -48,16 +48,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Asclepius'
     url: 'https://brill.com/search?q=Cult%20of%20Asclepius'
 artifacts:
-  - title: Cult of Asclepius Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Asclepius'
+  - title: Head of Asclepius (8726730898) Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Head_of_Asclepius_(8726730898).jpg'
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 6th century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Cult of Asclepius.
+      "It may have belonged to the cult statue of this god at his sanctuary at
+      Morrylos. Ano Apostoloi, Kilkis (ancient Morrylos). Late 4th c. B.C.
+
+      Archaeological Museum of Thessaloniki,...
     imageUrl: /artifacts/asclepius-cult-1.jpg
-  - title: Cult of Asclepius Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Asclepius'
+  - title: Cult of Asclepius Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Head_of_Asclepius_(8726730898).jpg'
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 6th century BCE
     description: >-

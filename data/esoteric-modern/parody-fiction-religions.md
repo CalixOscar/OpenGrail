@@ -48,24 +48,20 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Parody & Fiction-Derived Religions'
     url: 'https://brill.com/search?q=Parody%20%26%20Fiction-Derived%20Religions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'London, England, UK'
-    period: c. mid-20th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/parody-fiction-religions-1.jpg
-  - title: Communist Manifesto (IA ComManifesto) Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Communist_Manifesto_(IA_ComManifesto).pdf
+  - title: Parody & Fiction-Derived Religions Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Parody_%26_Fiction-Derived_Religions'
     provenance: 'London, England, UK'
     period: c. mid-20th century CE
     description: >-
-      The Communist Manifesto (originally Manifesto of the Communist Party) is
-      an 1848 political pamphlet by German philosophers &lt;a
-      href="https://en.wikipedia.org/wiki/Karl_Marx" tit...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Parody & Fiction-Derived Religions.
+  - title: Parody & Fiction-Derived Religions Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Parody_%26_Fiction-Derived_Religions'
+    provenance: 'London, England, UK'
+    period: c. mid-20th century CE
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Parody & Fiction-Derived Religions.
     imageUrl: /artifacts/parody-fiction-religions-2.jpg
 ---
 

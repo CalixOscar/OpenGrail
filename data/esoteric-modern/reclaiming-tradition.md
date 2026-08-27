@@ -49,17 +49,15 @@ sources:
     url: 'https://brill.com/search?q=Reclaiming%20Tradition'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      The church-the faith-tradition (IA churchthefaithtr00onde) Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:The_church-the_faith-tradition_(IA_churchthefaithtr00onde).pdf
     provenance: 'London, England, UK'
     period: c. 1979 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Subjects: Episcopal Church; Sermons, American...'
     imageUrl: /artifacts/reclaiming-tradition-1.jpg
-  - title: >-
-      A wanderer dancing the dance of stars and space Canonical Scripture &
-      Iconography
+  - title: A wanderer dancing the dance of stars and space Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:A_wanderer_dancing_the_dance_of_stars_and_space.jpg
     provenance: 'London, England, UK'
@@ -68,7 +66,7 @@ artifacts:
       The NASA/ESA Hubble Space Telescope provides us this week with a
       spectacular image of the bright star-forming ring that surrounds the heart
       of the barred spiral galaxy NGC 1097. In...
-    imageUrl: /artifacts/reclaiming-tradition-1.jpg
+    imageUrl: /artifacts/reclaiming-tradition-2.jpg
 ---
 
 # Reclaiming Tradition

@@ -53,13 +53,10 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1920 CE
     description: >-
-      Self-Realization Fellowship (SRF) is a worldwide religious organization
-      founded in 1920 by Paramahansa Yogananda, the Indian guru who authored
-      Autobiography of a Yogi. Before movin...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Self-Realization Fellowship.
     imageUrl: /artifacts/self-realization-fellowship-1.jpg
-  - title: >-
-      Copyright-page-of-Autobiography-of-a-Yogi1952 Canonical Scripture &
-      Iconography
+  - title: Copyright-page-of-Autobiography-of-a-Yogi1952 Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Copyright-page-of-Autobiography-of-a-Yogi1952.png
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -67,7 +64,7 @@ artifacts:
     description: >-
       Scan of the copyright 1952 edition page of the book Autobiography of a
       Yogi, which is in public domain....
-    imageUrl: /artifacts/self-realization-fellowship-1.jpg
+    imageUrl: /artifacts/self-realization-fellowship-2.jpg
 ---
 
 # Self-Realization Fellowship

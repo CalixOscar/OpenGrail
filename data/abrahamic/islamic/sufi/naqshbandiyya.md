@@ -45,21 +45,20 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Naqshbandiyya'
     url: 'https://www.cambridge.org/core/search?q=Naqshbandiyya'
 artifacts:
-  - title: Naqshbandiyya Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Naqshbandiyya'
+  - title: Naqshbandi bukhara Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Naqshbandi_bukhara.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 14th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Naqshbandiyya.
+    description: 'See: &lt;http://www.sacredsites.com/asia/uzbekistan/bukhara.htm&gt;...'
     imageUrl: /artifacts/naqshbandiyya-1.jpg
-  - title: Naqshbandiyya Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Naqshbandiyya'
+  - title: Hadith Al-Nabawi Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hadith_Al-Nabawi.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 14th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Naqshbandiyya.
+      ManuScript in Arabic on paper, Mecca, Saudi Arabia, 1329, 251 ff.
+      (complete), 32x23 cm, single column, (main text: 21x16 cm, including
+      gloss: 30x23 cm ), 21 lines in Arabic Naskhi...
     imageUrl: /artifacts/naqshbandiyya-2.jpg
 ---
 

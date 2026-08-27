@@ -45,29 +45,23 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Satanism'
     url: 'https://brill.com/search?q=Modern%20Satanism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'London, England, UK'
-    period: c. 1960s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/modern-satanism-1.jpg
-  - title: >-
-      The believer's victory over Satan's devices (IA believersvictory00pars)
-      Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_believer%27s_victory_over_Satan%27s_devices_(IA_believersvictory00pars).pdf
+  - title: Modern Satanism Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Satanism'
     provenance: 'London, England, UK'
     period: c. 1960s CE
     description: >-
-      Previously published under title: Satan's devices and the believer's
-      victory
-
-
-      Subjects: Conversion; Devil; Sanctification...
-    imageUrl: /artifacts/modern-satanism-1.jpg
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Modern Satanism.
+  - title: TheSatanicBibleLeatherbound2005 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:TheSatanicBibleLeatherbound2005.jpg
+    provenance: 'London, England, UK'
+    period: c. 1960s CE
+    description: >-
+      The Satanic Bible in Leatherbound form, featuring the Sigil of Baphomet
+      engraved into the cover. Released 2005 with introduction by Magus Peter H.
+      Gilmore. ISBN: 0-380-01539-0, pub...
+    imageUrl: /artifacts/modern-satanism-2.jpg
 ---
 
 # Modern Satanism

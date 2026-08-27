@@ -50,24 +50,26 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Tongan%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Tongatapu (Nuku''alofa), Kingdom of Tonga'
-    period: c. precolonial
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/tongan-religious-traditions-1.jpg
-  - title: >-
-      Folk-lore - A Quarterly Review. Volume 15, 1904 Canonical Scripture &
-      Iconography
+  - title: 'Folk-lore - A Quarterly Review. Volume 15, 1904 Historical Sanctuary'
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Folk-lore_-_A_Quarterly_Review._Volume_15,_1904.djvu
     provenance: 'Tongatapu (Nuku''alofa), Kingdom of Tonga'
     period: c. precolonial
     description: Scan of collected volume of journals...
     imageUrl: /artifacts/tongan-religious-traditions-1.jpg
+  - title: >-
+      CSAP Communications Technical Assistance Bulletin- Communicating
+      Appropriately with Asian and Pacific Islander Audiences (IA
+      csapcomm00cent) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:CSAP_Communications_Technical_Assistance_Bulletin-_Communicating_Appropriately_with_Asian_and_Pacific_Islander_Audiences_(IA_csapcomm00cent).pdf
+    provenance: 'Tongatapu (Nuku''alofa), Kingdom of Tonga'
+    period: c. precolonial
+    description: >-
+      Subjects: COMMUNICATION STRATEGIES; SUBSTANCE ABUSE; ASIANS; PACIFIC
+      ISLANDERS; ETHNOCULTURAL FACTORS; CHINESE; JAPANESE; KOREANS; FILIPINOS;
+      VIETNAMESE; CAMBODIANS; LAOTIANS; HMO...
+    imageUrl: /artifacts/tongan-religious-traditions-2.jpg
 ---
 
 # Tongan Religious Traditions

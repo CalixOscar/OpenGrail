@@ -52,24 +52,25 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Cao%20%C4%90%C3%A0i'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Auge der Cao Dai Detailansicht des Tempels Tay Ninh Vietnam Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Auge_der_Cao_Dai_Detailansicht_des_Tempels_Tay_Ninh_Vietnam.JPG
     provenance: 'Holy See of Tay Ninh, Vietnam'
     period: c. 1926 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Auge der Cao Dai Detailansicht des Tempels Tay Ninh Vietnam...
     imageUrl: /artifacts/caodaism-1.jpg
-  - title: >-
-      Ho Chi Minh reading the Proclamation of Independence of the Democratic
-      Republic of Vietnam on 2 September 1945 Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_reading_the_Proclamation_of_Independence_of_the_Democratic_Republic_of_Vietnam_on_2_September_1945.wav
+  - title: GIA PHA HO BACH VAN Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:GIA_PHA_HO_BACH_VAN.pdf'
     provenance: 'Holy See of Tay Ninh, Vietnam'
     period: c. 1926 CE
     description: >-
-      Post-1954 recording of a recreation of Ho Chi Minh reading the
-      Proclamation of Independence of the Democratic Republic of Vietnam....
+      “Làm người phải biết tổ tông.
+
+      Như cây có cội, như sông có nguồn”.
+
+      Mỗi người sinh ra đều có tổ tiên, ông bà, cha mẹ, cũng như một dòng sông
+      một con suối đều có ngọn nguồn của nó. Vì...
     imageUrl: /artifacts/caodaism-2.jpg
 ---
 

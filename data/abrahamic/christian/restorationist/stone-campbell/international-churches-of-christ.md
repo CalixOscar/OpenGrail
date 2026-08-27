@@ -50,12 +50,12 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1979 CE
     description: >-
-      The International Churches of Christ (ICOC) is a decentralized fellowship
-      of cooperating, religiously conservative, and racially integrated
-      Christian congregations. With its origin...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with International Churches of Christ.
     imageUrl: /artifacts/international-churches-of-christ-1.jpg
-  - title: International Churches of Christ Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/International_Churches_of_Christ'
+  - title: Unity and Rome (IA unityrome01midd) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Unity_and_Rome_(IA_unityrome01midd).pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1979 CE
     description: >-

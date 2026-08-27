@@ -42,22 +42,26 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Church of Satan'
     url: 'https://brill.com/search?q=Church%20of%20Satan'
 artifacts:
-  - title: Church of Satan Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Satan'
+  - title: >-
+      Detail of statue in the North End with Archangel Michael's spear at
+      Satan's throat Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Detail_of_statue_in_the_North_End_with_Archangel_Michael%27s_spear_at_Satan%27s_throat.jpg
     provenance: 'San Francisco, California, USA'
     period: c. 1966 CE
     description: >-
-      The Church of Satan (CoS) is a sect dedicated to Satanism as defined by
-      Anton Szandor LaVey. Founded in San Francisco in 1966, by LaVey, it is
-      considered the "oldest satanic religi...
+      Detail of statue in the North End with Archangel Michael's spear at
+      Satan's throat.  January 2009 photo by John Stephen Dwyer...
+    imageUrl: /artifacts/church-of-satan-1.jpg
   - title: >-
       Spiritualism, a satanic delusion and a sign of the times (IA
-      spiritualismsa00rams) Canonical Scripture & Iconography
+      spiritualismsa00rams) Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Spiritualism,_a_satanic_delusion_and_a_sign_of_the_times_(IA_spiritualismsa00rams).pdf
     provenance: 'San Francisco, California, USA'
     period: c. 1966 CE
     description: 'Subjects: Spiritualism; Bible and spiritualism...'
+    imageUrl: /artifacts/church-of-satan-2.jpg
 ---
 
 # Church of Satan

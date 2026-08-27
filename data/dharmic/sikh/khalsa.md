@@ -48,18 +48,16 @@ artifacts:
     provenance: 'Amritsar, Punjab, India'
     period: c. 1699 CE
     description: >-
-      The term Khālsā (Punjabi: ਖਾਲਸਾ, pronounced [kʰaːl(ə̆)saː]) refers to both
-      a community that follows Sikhism as its religion, as well as a special
-      group of initiated Sikhs. The Khal...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Khalsa.
     imageUrl: /artifacts/khalsa-1.jpg
-  - title: Sri Guru Granth Sahib Nishan Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sri_Guru_Granth_Sahib_Nishan.jpg'
+  - title: Khalsa Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Khalsa'
     provenance: 'Amritsar, Punjab, India'
     period: c. 1699 CE
     description: >-
-      Illuminated Adi Granth folio with nisan of Guru Gobind Singh. The
-      manuscript is of the Lahore recension, late 17th to early 18th century.
-      Gold and colours on paper; folio size 360...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Khalsa.
     imageUrl: /artifacts/khalsa-2.jpg
 ---
 

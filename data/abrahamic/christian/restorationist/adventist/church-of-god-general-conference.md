@@ -54,13 +54,18 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Church of God General Conference.
     imageUrl: /artifacts/church-of-god-general-conference-1.jpg
-  - title: Church of God General Conference Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_God_General_Conference'
+  - title: >-
+      A brief history of the Strong Place Baptist Church, Brooklyn, with the
+      declaration of faith, church covenant, general regulations, and list of
+      officers (IA briefhistoryofst00stro) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:A_brief_history_of_the_Strong_Place_Baptist_Church,_Brooklyn,_with_the_declaration_of_faith,_church_covenant,_general_regulations,_and_list_of_officers_(IA_briefhistoryofst00stro).pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1921 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Church of God General Conference.
+    description: |-
+      Cover title: Strong Place Baptist Church
+
+      Subjects: Strong Place Baptist Church, Brooklyn...
     imageUrl: /artifacts/church-of-god-general-conference-2.jpg
 ---
 

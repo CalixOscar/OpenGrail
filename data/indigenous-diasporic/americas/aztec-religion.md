@@ -40,18 +40,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Mexica%20and%20Nahua%20Religions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Historia Verdadera del Mexico profundo Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Historia_Verdadera_del_Mexico_profundo.djvu
     provenance: 'Tenochtitlan (Mexico City), Mexico'
     period: c. c. 1300 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'djvu of Pedagogía Tolteca. (ISBN: 968-73-8-05-9)...'
     imageUrl: /artifacts/aztec-religion-1.jpg
   - title: >-
       The history of the world; a survey of a man's record (IA
-      historyofworldsu01helm) Canonical Scripture & Iconography
+      historyofworldsu01helm) Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:The_history_of_the_world;_a_survey_of_a_man%27s_record_(IA_historyofworldsu01helm).pdf
     provenance: 'Tenochtitlan (Mexico City), Mexico'
@@ -62,7 +60,7 @@ artifacts:
 
       I. Pre-history. America and the Pacific Ocean.--II. Eastern Asia and
       Oceania--The Indian Ocean.--...
-    imageUrl: /artifacts/aztec-religion-1.jpg
+    imageUrl: /artifacts/aztec-religion-2.jpg
 ---
 
 # Mexica and Nahua Religions

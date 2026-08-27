@@ -40,16 +40,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Egyptian Religion'
     url: 'https://brill.com/search?q=Ancient%20Egyptian%20Religion'
 artifacts:
-  - title: Ancient Egyptian Religion Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Egyptian_Religion'
+  - title: >-
+      Edwin Longsden Long - Alethe Attendant of the Sacred Ibis in the Temple of
+      Isis at Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Edwin_Longsden_Long_-_Alethe_Attendant_of_the_Sacred_Ibis_in_the_Temple_of_Isis_at.jpg
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3100 BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ancient Egyptian Religion.
+    description: Alethe Attendant of the Sacred Ibis in the Temple of Isis at Memphis...
     imageUrl: /artifacts/ancient-egyptian-religion-1.jpg
-  - title: Ancient Egyptian Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Egyptian_Religion'
+  - title: Ancient Egyptian Religion Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Edwin_Longsden_Long_-_Alethe_Attendant_of_the_Sacred_Ibis_in_the_Temple_of_Isis_at.jpg
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3100 BCE
     description: >-

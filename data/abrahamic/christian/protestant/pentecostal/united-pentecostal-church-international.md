@@ -55,8 +55,9 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with United Pentecostal Church International.
     imageUrl: /artifacts/united-pentecostal-church-international-1.jpg
-  - title: United Pentecostal Church International Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/United_Pentecostal_Church_International'
+  - title: Dictionary of the Apostolic Church Volume 2 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Dictionary_of_the_Apostolic_Church_Volume_2.pdf
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1945 CE
     description: >-

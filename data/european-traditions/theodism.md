@@ -49,16 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Theodism'
     url: 'https://brill.com/search?q=Theodism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Підгорянський монастир Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80.jpg
     provenance: 'London, England, UK'
     period: c. 1970s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Pidhora Monastery, Terebovlia Raion, Ternopil Oblast, Ukraine....'
     imageUrl: /artifacts/theodism-1.jpg
-  - title: Old map-Corpus Christi-1887 Canonical Scripture & Iconography
+  - title: Old map-Corpus Christi-1887 Sacred Relics & Scripture
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Old_map-Corpus_Christi-1887.jpg'
     provenance: 'London, England, UK'
     period: c. 1970s CE
@@ -66,7 +64,7 @@ artifacts:
       Corpus Christi, Texas in 1887. Bird's Eye View of Corpus Christi. Nueces
       County, Texas. 1887, 1887. Lithograph, 21 x 28 in. Lithographer unknown.
       Corpus Christi Public Library....
-    imageUrl: /artifacts/theodism-1.jpg
+    imageUrl: /artifacts/theodism-2.jpg
 ---
 
 # Theodism

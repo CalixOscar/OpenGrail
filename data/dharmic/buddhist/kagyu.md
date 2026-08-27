@@ -48,11 +48,10 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 11th century CE
     description: >-
-      The Kagyu school, also transliterated as Kagyü, or Kagyud (Tibetan:
-      བཀའ་བརྒྱུད།, Wylie: bka' brgyud), which translates to "Oral Lineage" or
-      "Whispered Transmission" school, is one...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Kagyu.
     imageUrl: /artifacts/kagyu-1.jpg
-  - title: Kagyu Sacred Scripture & Art
+  - title: Kagyu Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Kagyu'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 11th century CE

@@ -47,16 +47,19 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Roman Mithraism'
     url: 'https://brill.com/search?q=Roman%20Mithraism'
 artifacts:
-  - title: Roman Mithraism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Mithraism'
+  - title: Mithras tauroctony Louvre Ma3441b Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Mithras_tauroctony_Louvre_Ma3441b.jpg
     provenance: 'Athens, Attica, Greece'
     period: c. late 1st century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Roman Mithraism.
+      CIMRM 641: Side A (obverse) of a two-sided Mithraic relief. Found at Fiano
+      Romano, near Rome "couché dans un petit réduit de briques" in 1926. White
+      marble (H. 62cm, W. 67 cm, D. 1...
     imageUrl: /artifacts/mithraism-1.jpg
-  - title: Roman Mithraism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Mithraism'
+  - title: Roman Mithraism Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Mithras_tauroctony_Louvre_Ma3441b.jpg
     provenance: 'Athens, Attica, Greece'
     period: c. late 1st century CE
     description: >-

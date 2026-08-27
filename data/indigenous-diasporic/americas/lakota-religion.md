@@ -42,25 +42,23 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Lakota%20Religion'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
-    period: c. ancestral era
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/lakota-religion-1.jpg
-  - title: >-
-      Filming of the Yoruba oral traditions project Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
+  - title: Blackhawk-spiritbeing Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Blackhawk-spiritbeing.jpg'
     provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
     period: c. ancestral era
     description: >-
-      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
-      Ṣànpọ̀ná...
+      A ledger drawing by Lakota Sioux Chief Black Hawk, depicting a horned 
+      Thunder Being (Haokah) on a horse-like creature with eagle talons and
+      buffalo horns. The creature's tail form...
+    imageUrl: /artifacts/lakota-religion-1.jpg
+  - title: >-
+      Folktales & Oral Traditions Archive - (Ibibio Language) Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Folktales_%26_Oral_Traditions_Archive_-_(Ibibio_Language).webm
+    provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
+    period: c. ancestral era
+    description: Folktales and Oral Traditions Archives...
     imageUrl: /artifacts/lakota-religion-2.jpg
 ---
 

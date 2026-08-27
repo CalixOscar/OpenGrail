@@ -53,13 +53,14 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Syro-Malabar Church.
     imageUrl: /artifacts/syro-malabar-church-1.jpg
-  - title: Syro-Malabar Church Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malabar_Church'
+  - title: Icon of Mar Addai and Mari Apostles of the East Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Icon_of_Mar_Addai_and_Mari_Apostles_of_the_East.jpg
     provenance: 'Rome, Latium, Italy'
     period: c. c. 16th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Syro-Malabar Church.
+      Saint Addai and Mari Apostles as depicted on the cover of a missal of the
+      Liturgy of Addai and Mari...
     imageUrl: /artifacts/syro-malabar-church-2.jpg
 ---
 

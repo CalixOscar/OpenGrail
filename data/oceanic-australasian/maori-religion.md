@@ -43,26 +43,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=M%C4%81ori%20Religion'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Rotorua (Te Arawa), Bay of Plenty, NZ'
-    period: c. c. 1250 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/maori-religion-1.jpg
-  - title: >-
-      Filming of the Yoruba oral traditions project Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
+  - title: Maorigodsymbols Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Maorigodsymbols.jpg'
     provenance: 'Rotorua (Te Arawa), Bay of Plenty, NZ'
     period: c. c. 1250 CE
     description: >-
-      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
-      Ṣànpọ̀ná...
-    imageUrl: /artifacts/maori-religion-2.jpg
+      Carved sticks representing the Māori gods Tūmatauenga (god of war),
+      Tāhirimātea (storm god), Tāne (god of forests), Tangaroa (sea god), Rongo
+      (god of cultivated plants and peace),...
+    imageUrl: /artifacts/maori-religion-1.jpg
+  - title: Māori Religion Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Maorigodsymbols.jpg'
+    provenance: 'Rotorua (Te Arawa), Bay of Plenty, NZ'
+    period: c. c. 1250 CE
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Māori Religion.
 ---
 
 # Māori Religion

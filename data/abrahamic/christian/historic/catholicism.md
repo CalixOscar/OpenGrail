@@ -53,13 +53,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Catholicism.
     imageUrl: /artifacts/catholicism-1.jpg
-  - title: Catholicism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Catholicism'
+  - title: Nicaea icon Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Nicaea_icon.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Catholicism.
+      Symbolum Nicaeno-Constantinopolitanum. Icon depicting the First Council of
+      Nicaea with ten men and a text of the Nicean Creed in Greek....
     imageUrl: /artifacts/catholicism-2.jpg
 ---
 

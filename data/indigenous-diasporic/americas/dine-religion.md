@@ -42,25 +42,21 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Din%C3%A9%20Religion'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Mosque Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mosque.jpg'
     provenance: 'Dinétah (Navajo Nation), Four Corners, USA'
     period: c. ancestral era
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Muslims praying towards Mecca; Umayyad Mosque, Damascus....'
     imageUrl: /artifacts/dine-religion-1.jpg
-  - title: >-
-      Filming of the Yoruba oral traditions project Canonical Scripture &
-      Iconography
+  - title: Martin van Maele - La Sorcière 06 Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
+      https://commons.wikimedia.org/wiki/File:Martin_van_Maele_-_La_Sorci%C3%A8re_06.jpg
     provenance: 'Dinétah (Navajo Nation), Four Corners, USA'
     period: c. ancestral era
     description: >-
-      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
-      Ṣànpọ̀ná...
+      Jules Michelet, The Witch, Paris, J. Chevrel Bookseller, 1911. One of
+      Martin Van Maële's sixty-nine original compositions, including fifteen
+      plates engraved with etching by the art...
     imageUrl: /artifacts/dine-religion-2.jpg
 ---
 

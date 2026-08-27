@@ -46,20 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Secular%20Buddhism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Discovery Of Living Buddhism In Bengal Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Discovery_Of_Living_Buddhism_In_Bengal.djvu
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 20th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Book Source: &lt;a href="http://www.new.dli.ernet.in/handle/2015/47680"
+      rel="nofollow"&gt;Digital Library of India Item
+      2015.47680&lt;/a&gt;dc.contributor.author: Sastri, Harapras...
     imageUrl: /artifacts/secular-buddhism-1.jpg
-  - title: Buddhist Parables Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddhist_Parables.djvu'
+  - title: Buddhist India (IA buddhistindia00davirich) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Buddhist_India_(IA_buddhistindia00davirich).pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 20th century CE
-    description: 'xxix, 348 p., 1 l. front. (port.) 25 cm....'
+    description: 'Subjects: Buddhism -- India; India -- Civilization; India -- History...'
     imageUrl: /artifacts/secular-buddhism-2.jpg
 ---
 

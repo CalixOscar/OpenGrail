@@ -55,22 +55,25 @@ sources:
       https://www.rep.routledge.com/search?query=%C5%9Arama%E1%B9%87a%20Movements
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      The Indian saint, or, Buddha and Buddhism - a sketch, historical and
+      critical (IA indiansaintorbud00mill) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:The_Indian_saint,_or,_Buddha_and_Buddhism_-_a_sketch,_historical_and_critical_(IA_indiansaintorbud00mill).pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: |-
+      Includes index
+
+      Subjects: Buddhism...
     imageUrl: /artifacts/shramana-movements-1.jpg
-  - title: Rana clamitans MN Canonical Scripture & Iconography
+  - title: Rana clamitans MN Sacred Relics & Scripture
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Rana_clamitans_MN.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century BCE
     description: >-
       Female Green frog (Rana clamitans melanota) at Réserve naturelle des
       Marais-du-Nord, Quebec, Canada....
-    imageUrl: /artifacts/shramana-movements-1.jpg
+    imageUrl: /artifacts/shramana-movements-2.jpg
 ---
 
 # Śramaṇa Movements

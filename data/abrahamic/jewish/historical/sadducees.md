@@ -42,21 +42,27 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sadducees'
     url: 'https://www.cambridge.org/core/search?q=Sadducees'
 artifacts:
-  - title: Sadducees Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sadducees'
+  - title: Nuremberg chronicles f 096v 3 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Nuremberg_chronicles_f_096v_3.png'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Sadducees.
+    description: |-
+      This is a part of a scan of an historical document:
+
+      Title: Schedelsche Weltchronik or Nuremberg Chronicle...
     imageUrl: /artifacts/sadducees-1.jpg
-  - title: Sadducees Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sadducees'
+  - title: >-
+      Woodcut illustration of the story of Paulina and Decius Mundus from
+      Josephus's Jewish Antiquities - Penn Provenance Project Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Woodcut_illustration_of_the_story_of_Paulina_and_Decius_Mundus_from_Josephus%27s_Jewish_Antiquities_-_Penn_Provenance_Project.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Sadducees.
+      Woodcut illustration (leaf [n]8v, f. cxviij) of the story of Paulina and
+      Decius Mundus from Josephus's Jewish Antiquities, hand-colored in red,
+      green, yellow and black, from an inc...
     imageUrl: /artifacts/sadducees-2.jpg
 ---
 

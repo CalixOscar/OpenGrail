@@ -43,22 +43,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Therav%C4%81da%20Buddhism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 'Münster, St.-Paulus-Dom, Altarinsel -- 2019 -- 3815-9 Historical Sanctuary'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 3rd century BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/theravada-1.jpg
-  - title: Tipitaka1 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg'
+      https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_St.-Paulus-Dom,_Altarinsel_--_2019_--_3815-9.jpg
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 3rd century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Theravāda Buddhism.
+      Altar island in the St Paul’s Cathedral in Münster, North
+      Rhine-Westphalia, GermanySt. Paul’s Cathedral is the cathedral of the
+      Diocese of Münster and is dedicated to St. Paul the...
+    imageUrl: /artifacts/theravada-1.jpg
+  - title: Mahajula Tripiṭaka Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mahajula_Tripi%E1%B9%ADaka.jpg'
+    provenance: 'Anuradhapura, North Central, Sri Lanka'
+    period: c. c. 3rd century BCE
+    description: >-
+      Pāli Canon (Tripiṭaka)in Ubosot of Wat Kungtaphao Location: Wat Khung
+      Taphao Ban Khung Taphao, Khung Taphao subdistrict, Mueang Uttaradit,
+      Uttaradit Province, Thailand....
     imageUrl: /artifacts/theravada-2.jpg
 ---
 

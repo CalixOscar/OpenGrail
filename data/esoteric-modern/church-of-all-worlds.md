@@ -47,20 +47,25 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Church of All Worlds'
     url: 'https://brill.com/search?q=Church%20of%20All%20Worlds'
 artifacts:
-  - title: Church of All Worlds Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_All_Worlds'
+  - title: >-
+      The church of All Saints - war memorial - geograph.org.uk - 1709365
+      Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_church_of_All_Saints_-_war_memorial_-_geograph.org.uk_-_1709365.jpg
     provenance: 'London, England, UK'
     period: c. 1962 CE
     description: >-
-      The Church of All Worlds (CAW) is an American Neopagan group whose stated
-      mission is to evolve a network of information, mythology, and experience
-      that provides a context and stimu...
-  - title: 'Teal, pink and green egg, april 2011 Canonical Scripture & Iconography'
+      The church of All Saints - war memorial. All Saints' church &gt; 1709325
+      was built during the 13th century with its tower added a century later.
+      The church was extensively restored...
+    imageUrl: /artifacts/church-of-all-worlds-1.jpg
+  - title: 'Teal, pink and green egg, april 2011 Sacred Relics & Scripture'
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Teal,_pink_and_green_egg,_april_2011.jpg
     provenance: 'London, England, UK'
     period: c. 1962 CE
     description: 'Teal, pink and green egg....'
+    imageUrl: /artifacts/church-of-all-worlds-2.jpg
 ---
 
 # Church of All Worlds

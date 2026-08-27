@@ -50,17 +50,20 @@ sources:
     url: 'https://brill.com/search?q=Ukrainian%20Native%20Faith'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Worship ceremony at the Temple of the Nativity of Lev Sylenko in
+      Bohoyavlensky, Mykolaiv, Ukraine Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Worship_ceremony_at_the_Temple_of_the_Nativity_of_Lev_Sylenko_in_Bohoyavlensky,_Mykolaiv,_Ukraine.png
     provenance: 'Kyiv, Dnipro Region, Ukraine'
     period: c. 1930s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Communal worship at the Temple of the Nativity of Lev Sylenko (Святиня
+      Різдва Лева Силенка), belonging to OSIDU RUNVira, located in
+      Bohoyavlensky, Mykolaiv, Ukraine. The temple is...
     imageUrl: /artifacts/ukrainian-native-faith-1.jpg
   - title: >-
-      Church-slavonic and Ugric-russian authentic folklore reader 1251 Canonical
-      Scripture & Iconography
+      Church-slavonic and Ugric-russian authentic folklore reader 1251 Sacred
+      Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Church-slavonic_and_Ugric-russian_authentic_folklore_reader_1251.jpg
     provenance: 'Kyiv, Dnipro Region, Ukraine'
@@ -68,7 +71,7 @@ artifacts:
     description: >-
       Church-slavonic and Urgic-russian folklore reader with authentic tales.
       Uzhhorod, 1893.Page VIII From I.Franko personal Library...
-    imageUrl: /artifacts/ukrainian-native-faith-1.jpg
+    imageUrl: /artifacts/ukrainian-native-faith-2.jpg
 ---
 
 # Ukrainian Native Faith

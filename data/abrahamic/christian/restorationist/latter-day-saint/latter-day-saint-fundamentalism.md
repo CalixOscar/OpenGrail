@@ -65,13 +65,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Latter Day Saint Fundamentalism.
     imageUrl: /artifacts/latter-day-saint-fundamentalism-1.jpg
-  - title: Latter Day Saint Fundamentalism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_Fundamentalism'
+  - title: Book of Mormon - Croatian Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Book_of_Mormon_-_Croatian.jpg'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1890s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Latter Day Saint Fundamentalism.
+      cover of the 1979 edition of the Book of Mormon in the Croatian language;
+      title is "Mormonova Knjiga"...
     imageUrl: /artifacts/latter-day-saint-fundamentalism-2.jpg
 ---
 

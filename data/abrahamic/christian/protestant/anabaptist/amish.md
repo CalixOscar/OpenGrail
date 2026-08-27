@@ -53,13 +53,20 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Amish Traditions.
     imageUrl: /artifacts/amish-1.jpg
-  - title: Amish Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Amish_Traditions'
+  - title: >-
+      A World of Names, U.S. Department of the Interior, 1992 (IA doi-report
+      1332n15) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:A_World_of_Names,_U.S._Department_of_the_Interior,_1992_(IA_doi-report_1332n15).pdf
     provenance: 'Zurich, Switzerland'
     period: c. 1693 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Amish Traditions.
+      133.2:N15Digitized from &lt;a
+      href="https://archive.org/details/microfiche-scan_IA1177301-19/IA1177301-19-0098/page/n0"
+      rel="ugc nofollow"&gt;IA1177301-19-0098&lt;/a&gt;.
+
+
+      Subject...
     imageUrl: /artifacts/amish-2.jpg
 ---
 

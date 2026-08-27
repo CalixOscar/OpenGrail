@@ -48,15 +48,16 @@ artifacts:
     provenance: 'Tenri, Nara Prefecture, Japan'
     period: c. 1838 CE
     description: >-
-      Tenrikyo (天理教, Tenrikyō) is a Japanese new religion which is neither
-      strictly monotheistic nor pantheistic, originating from the teachings of a
-      19th-century woman named Nakayama Mi...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Tenrikyo.
     imageUrl: /artifacts/tenrikyo-1.jpg
-  - title: Ofudesaki (English) Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ofudesaki_(English).jpg'
+  - title: Tenrikyo Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Tenrikyo'
     provenance: 'Tenri, Nara Prefecture, Japan'
     period: c. 1838 CE
-    description: 'Cover of Ofudesaki, published by Tenrikyo Church Headquarters....'
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Tenrikyo.
     imageUrl: /artifacts/tenrikyo-2.jpg
 ---
 

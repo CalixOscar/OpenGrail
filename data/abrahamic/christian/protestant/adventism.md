@@ -54,13 +54,11 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Adventism.
     imageUrl: /artifacts/adventism-1.jpg
-  - title: Adventism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Adventism'
+  - title: Christos Acheiropoietos Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Christos_Acheiropoietos.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1830s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Adventism.
+    description: Christ Acheiropoietos (Made without hands)...
     imageUrl: /artifacts/adventism-2.jpg
 ---
 

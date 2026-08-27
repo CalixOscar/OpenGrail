@@ -50,18 +50,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Polish Rodzimowierstwo'
     url: 'https://brill.com/search?q=Polish%20Rodzimowierstwo'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 'Shrine of Saint Guillaume Courtet, Sérignan Historical Sanctuary'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Shrine_of_Saint_Guillaume_Courtet,_S%C3%A9rignan.jpg
     provenance: 'London, England, UK'
     period: c. 1990s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Shrine of Saint Guillaume Courtet in the Collegiate Church of
+      Notra-Dame-de-Grâce, Sérignan...
     imageUrl: /artifacts/polish-rodzimowierstwo-1.jpg
   - title: >-
-      The Soviet Union 1969 CPA 3768 stamp (Polish Map, Flag and Arms) Canonical
-      Scripture & Iconography
+      The Soviet Union 1969 CPA 3768 stamp (Polish Map, Flag and Arms) Sacred
+      Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:The_Soviet_Union_1969_CPA_3768_stamp_(Polish_Map,_Flag_and_Arms).png
     provenance: 'London, England, UK'
@@ -69,7 +69,7 @@ artifacts:
     description: >-
       USSR stampː Polish Map, Flag and Arms. Seriesː 25th Anniversary of the
       Polish People's Republic (1944, July)...
-    imageUrl: /artifacts/polish-rodzimowierstwo-1.jpg
+    imageUrl: /artifacts/polish-rodzimowierstwo-2.jpg
 ---
 
 # Polish Rodzimowierstwo

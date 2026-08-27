@@ -51,18 +51,16 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. 451 CE
     description: >-
-      The Greek Orthodox Patriarchate of Jerusalem, also known as the Greek
-      Orthodox Church of Jerusalem, is an autocephalous Eastern Orthodox church
-      in full communion with the other Eas...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Greek Orthodox Patriarchate of Jerusalem.
     imageUrl: /artifacts/jerusalem-orthodox-church-1.jpg
-  - title: Greek Orthodox Patriarchate of Jerusalem Sacred Scripture & Art
+  - title: Greek Orthodox Patriarchate of Jerusalem Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Greek_Orthodox_Patriarchate_of_Jerusalem'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 451 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Greek Orthodox Patriarchate of Jerusalem.
-    imageUrl: /artifacts/jerusalem-orthodox-church-2.jpg
 ---
 
 # Greek Orthodox Patriarchate of Jerusalem

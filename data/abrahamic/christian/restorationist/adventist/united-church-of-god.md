@@ -61,14 +61,15 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with United Church of God, an International Association.
     imageUrl: /artifacts/united-church-of-god-1.jpg
-  - title: 'United Church of God, an International Association Sacred Scripture & Art'
+  - title: >-
+      MICHELE RAMIREZ, a New Jersey resident; Plaintiff, - against – WORLD
+      MISSION SOCIETY, CHURCH OF GOD, a NJ Nonprofit Corporation Sacred Relics &
+      Scripture
     sourceUrl: >-
-      https://en.wikipedia.org/wiki/United_Church_of_God%2C_an_International_Association
+      https://commons.wikimedia.org/wiki/File:MICHELE_RAMIREZ,_a_New_Jersey_resident;_Plaintiff,_-_against_%E2%80%93_WORLD_MISSION_SOCIETY,_CHURCH_OF_GOD,_a_NJ_Nonprofit_Corporation.pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1995 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of United Church of God, an International Association.
+    description: lawsuit against the church by a former member...
     imageUrl: /artifacts/united-church-of-god-2.jpg
 ---
 

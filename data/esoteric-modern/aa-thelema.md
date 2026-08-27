@@ -48,25 +48,25 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: A∴A∴'
     url: 'https://brill.com/search?q=A%E2%88%B4A%E2%88%B4'
 artifacts:
-  - title: Eldridge Street Synagogue (42773) Historical Sanctuary & Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Eldridge_Street_Synagogue_(42773).jpg
+  - title: A∴A∴ Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/A%E2%88%B4A%E2%88%B4'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1907 CE
     description: >-
-      Eldridge Street Synagogue, located in Chinatown, Manhattan, New York,
-      during Open House New York Weekend 2018. It opened in 1887 as one of the
-      first synagogues founded in the Unite...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with A∴A∴.
     imageUrl: /artifacts/aa-thelema-1.jpg
-  - title: EQUINOX (4) 20180508 EuroVisionary Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:EQUINOX_(4)_20180508_EuroVisionary.jpg
+  - title: Earth-lighting-equinox EN Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Earth-lighting-equinox_EN.png'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1907 CE
     description: >-
-      Press conference after the first Semi-Final of the 2018 Eurovision Song
-      Contest...
-    imageUrl: /artifacts/aa-thelema-1.jpg
+      Illumination of Earth by the Sun on the day of the equinox (vernal and
+      autumnal).
+
+      A view of the eastern hemisphere showing noon in Central European time
+      zone (ignoring DST) on the...
+    imageUrl: /artifacts/aa-thelema-2.jpg
 ---
 
 # A∴A∴

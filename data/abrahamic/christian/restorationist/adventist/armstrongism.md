@@ -49,21 +49,23 @@ sources:
       Churches of God
     url: 'https://www.cambridge.org/core/search?q=Armstrongist%20Churches%20of%20God'
 artifacts:
-  - title: Armstrongist Churches of God Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Armstrongist_Churches_of_God'
+  - title: >-
+      Lincoln Cathedral - High Altar - geograph.org.uk - 8028431 Historical
+      Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Lincoln_Cathedral_-_High_Altar_-_geograph.org.uk_-_8028431.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1934 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Armstrongist Churches of God.
+    description: Lincoln Cathedral - High Altar...
     imageUrl: /artifacts/armstrongism-1.jpg
-  - title: Armstrongist Churches of God Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Armstrongist_Churches_of_God'
+  - title: >-
+      1788 - Roaring Spring - Bare Memorial Church of God Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:1788_-_Roaring_Spring_-_Bare_Memorial_Church_of_God.JPG
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1934 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Armstrongist Churches of God.
+    description: "Bare Memorial Church of God, Roaring Spring, Pennsylvania\n\n\nCamera location40°\_20′\_05.7″\_N, 78°\_23′\_57.6″\_W\_\_\_View this and other nearby images on: OpenStreetMap 40.334917;  -78.39..."
     imageUrl: /artifacts/armstrongism-2.jpg
 ---
 

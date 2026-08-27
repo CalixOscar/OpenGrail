@@ -50,25 +50,32 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=Japanese%20Confucian%20Traditions
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Japanese national interests and the Sino-Japanese peace and friendship
+      treaty (IA japanesenational00mazz) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 6th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/japanese-confucianism-1.jpg
-  - title: >-
-      The Chinese Classics - Legge - 2nd ed - 1893 - Vol 1 Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Chinese_Classics_-_Legge_-_2nd_ed_-_1893_-_Vol_1.djvu
+      https://commons.wikimedia.org/wiki/File:Japanese_national_interests_and_the_Sino-Japanese_peace_and_friendship_treaty_(IA_japanesenational00mazz).pdf
     provenance: 'Qufu, Shandong, China'
     period: c. c. 6th century CE
     description: >-
-      Vols. 1-2, 2d edition revised, 1893-95, printed at the Clarendon press,
-      Oxford; v. 3-5, printed at the London missionary society's printing
-      office, Hongkong, are a reissue of the...
+      Thesis Advisor(s): Boyd Huff
+
+      "March 1979."
+
+      Thesis (M.A. in National Security Affairs)--Naval Postgraduate School,
+      March 1979
+
+      Includes bibliographical references (p. 158-192)
+
+      "The...
+    imageUrl: /artifacts/japanese-confucianism-1.jpg
+  - title: Japanese Confucian Traditions Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Japanese_national_interests_and_the_Sino-Japanese_peace_and_friendship_treaty_(IA_japanesenational00mazz).pdf
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 6th century CE
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Japanese Confucian Traditions.
     imageUrl: /artifacts/japanese-confucianism-2.jpg
 ---
 

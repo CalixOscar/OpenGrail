@@ -46,18 +46,19 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Dhammayut%20Nik%C4%81ya'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Mongkut in the Sangha Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mongkut_in_the_Sangha.jpeg'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1833 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Photograph of King Mongkut in the white robes of a lay renunciant,
+      observing the precepts....
     imageUrl: /artifacts/dhammayut-nikaya-1.jpg
-  - title: The Pali literature of Burma (1909) Canonical Scripture & Iconography
+  - title: >-
+      The Pali literature of Burma (IA paliliteratureof00bodeiala) Sacred Relics
+      & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Pali_literature_of_Burma_(1909).djvu
+      https://commons.wikimedia.org/wiki/File:The_Pali_literature_of_Burma_(IA_paliliteratureof00bodeiala).pdf
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1833 CE
     description: >-

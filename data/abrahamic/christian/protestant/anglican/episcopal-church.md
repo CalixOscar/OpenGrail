@@ -58,14 +58,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with The Episcopal Church.
     imageUrl: /artifacts/episcopal-church-1.jpg
-  - title: The Episcopal Church Sacred Scripture & Art
+  - title: The Episcopal Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/The_Episcopal_Church'
     provenance: 'Canterbury, Kent, England, UK'
     period: c. 1789 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of The Episcopal Church.
-    imageUrl: /artifacts/episcopal-church-2.jpg
 ---
 
 # The Episcopal Church

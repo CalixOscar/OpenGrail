@@ -49,16 +49,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Huayan%20Buddhism'
 artifacts:
-  - title: Huayan Buddhism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Huayan_Buddhism'
+  - title: Dazu Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dazu.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 6th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Huayan Buddhism.
+      The Three Worthies of Huayan, Dazu Rock Carvings on Mount Baoding, Dazu
+      County, near Chongqing, China...
     imageUrl: /artifacts/huayan-buddhism-1.jpg
-  - title: Huayan Buddhism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Huayan_Buddhism'
+  - title: Huayan Buddhism Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dazu.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 6th century CE
     description: >-

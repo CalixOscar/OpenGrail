@@ -46,22 +46,25 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hittite Religion'
     url: 'https://brill.com/search?q=Hittite%20Religion'
 artifacts:
-  - title: Hittite Religion Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hittite_Religion'
+  - title: >-
+      Museum Hattusa - Boğazköy Museum, Boğazköy, Çorum, Turkey 27 Historical
+      Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Museum_Hattusa_-_Bo%C4%9Fazk%C3%B6y_Museum,_Bo%C4%9Fazk%C3%B6y,_%C3%87orum,_Turkey_27.jpg
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1650 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Hittite Religion.
+      The archaeological site of Hattusha, former capital of the Hittite Empire,
+      is notable for its urban organization, the types of construction that have
+      been preserved (temples, royal...
     imageUrl: /artifacts/hittite-religion-1.jpg
-  - title: Hittite Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hittite_Religion'
+  - title: Museum of Anatolian Civilizations082 kopie1jpg Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Museum_of_Anatolian_Civilizations082_kopie1jpg.jpg
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1650 BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Hittite Religion.
-    imageUrl: /artifacts/hittite-religion-1.jpg
+    description: "Depiction of the myth of the Sky God killing the dragon Illuyankas\_; Neo-Hittites; 850-800 BC; \n\nLimestone orthostat at the Lions Gate at Malitiya (Arslantepe, 38° 22' 53\" N  38° 2..."
+    imageUrl: /artifacts/hittite-religion-2.jpg
 ---
 
 # Hittite Religion

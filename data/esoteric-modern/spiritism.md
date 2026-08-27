@@ -52,21 +52,21 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Spiritism'
     url: 'https://brill.com/search?q=Spiritism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: KSC-03PD-0786 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:KSC-03PD-0786.jpg'
     provenance: 'London, England, UK'
     period: c. 1857 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      KENNEDY SPACE CENTER, Fla. - In the Payload Hazardous Servicing Facility,
+      the Mars Exploration Rover-2 (MER-2) is tested for mobility and
+      maneuverability. Set to launch in Spring 2...
     imageUrl: /artifacts/spiritism-1.jpg
-  - title: Le Livre des Esprits 2 Canonical Scripture & Iconography
+  - title: Le Livre des Esprits 2 Sacred Relics & Scripture
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Le_Livre_des_Esprits_2.jpg'
     provenance: 'London, England, UK'
     period: c. 1857 CE
     description: 'Page de garde du Livre des Esprits, édition de 1860....'
-    imageUrl: /artifacts/spiritism-1.jpg
+    imageUrl: /artifacts/spiritism-2.jpg
 ---
 
 # Spiritism

@@ -39,18 +39,20 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Celtic Religions'
     url: 'https://brill.com/search?q=Ancient%20Celtic%20Religions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Couple de divinités gallo-romaines Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Couple_de_divinit%C3%A9s_gallo-romaines.JPG
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 800 BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: |-
+      Deities couple, goddess holding a horn of plenty, 
+      Gallo-roman statue from Alise-sainte-Reine
+
+      Dijon archeological museum, France...
     imageUrl: /artifacts/celtic-religion-1.jpg
   - title: >-
-      The Archaeological journal (IA archaeologicaljo50brit) Canonical Scripture
-      & Iconography
+      The Archaeological journal (IA archaeologicaljo50brit) Sacred Relics &
+      Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:The_Archaeological_journal_(IA_archaeologicaljo50brit).pdf
     provenance: 'Old Uppsala, Uppland, Sweden'
@@ -64,7 +66,7 @@ artifacts:
       Architectural periodicals index
 
       RILA. Répertoire international de la littératu...
-    imageUrl: /artifacts/celtic-religion-1.jpg
+    imageUrl: /artifacts/celtic-religion-2.jpg
 ---
 
 # Ancient Celtic Religions

@@ -52,28 +52,19 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Hindu%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Hindu priests performing yagna Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hindu_priests_performing_yagna.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 500 BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Hindu priests performing Dattatreya yaga...
     imageUrl: /artifacts/hinduism-1.jpg
-  - title: >-
-      MS Indic 37, Isa upanisad. Wellcome L0027330 Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:MS_Indic_37,_Isa_upanisad._Wellcome_L0027330.jpg
+  - title: Hindu Traditions Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hindu_priests_performing_yagna.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 500 BCE
-    description: |-
-      MS Indic 37, Isa upanisad.
-      Folio 1r.
-
-      Wellcome Images
-      Keywords: isa upanisad; ms indic 37...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Hindu Traditions.
     imageUrl: /artifacts/hinduism-2.jpg
 ---
 

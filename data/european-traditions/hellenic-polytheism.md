@@ -44,23 +44,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hellenic Polytheism'
     url: 'https://brill.com/search?q=Hellenic%20Polytheism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Hellen ritual (7) Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hellen_ritual_(7).jpg'
     provenance: 'London, England, UK'
     period: c. late 20th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Hellen ritual performed by members of the YSEE, Supreme Council of
+      Ethnikoi Hellenes....
     imageUrl: /artifacts/hellenic-polytheism-1.jpg
-  - title: >-
-      Homeric Hymns 16 eis Dioskourous by Hélène Kémiktsi Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Homeric_Hymns_16_eis_Dioskourous_by_H%C3%A9l%C3%A8ne_K%C3%A9miktsi.ogg
+  - title: Werke und Tage Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Werke_und_Tage.jpg'
     provenance: 'London, England, UK'
     period: c. late 20th century CE
-    description: Ηχογράφηση του ομηρικού ύμνου «Εἰς Διοσκούρους»...
+    description: >-
+      Initial page of Hesiod’s poem Works and Days, with the Greek original text
+      on the left side, and a Latin translation on the right side. From the 1539
+      edition Hesiodi Ascraei opuscu...
     imageUrl: /artifacts/hellenic-polytheism-2.jpg
 ---
 

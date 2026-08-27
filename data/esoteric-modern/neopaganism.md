@@ -46,28 +46,21 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Paganism'
     url: 'https://brill.com/search?q=Modern%20Paganism'
 artifacts:
-  - title: Modern paganism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_paganism'
+  - title: Modern Paganism Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Paganism'
     provenance: 'London, England, UK'
     period: c. 19th–20th centuries CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Modern Paganism.
     imageUrl: /artifacts/neopaganism-1.jpg
-  - title: >-
-      Encyclopædia of religion and ethics (IA encyclopaediaofr10hast) Canonical
-      Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Encyclop%C3%A6dia_of_religion_and_ethics_(IA_encyclopaediaofr10hast).pdf
+  - title: Modern Paganism Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Paganism'
     provenance: 'London, England, UK'
     period: c. 19th–20th centuries CE
     description: >-
-      Vols. 6-12 "edited by James Hastings, with the assistance of John A.
-      Selbie and Louis H. Gray."
-
-      Some vols. are "Edition completed and corrected editions, 1926-1976,
-      reprinted 1994...
-    imageUrl: /artifacts/neopaganism-1.jpg
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Modern Paganism.
 ---
 
 # Modern Paganism

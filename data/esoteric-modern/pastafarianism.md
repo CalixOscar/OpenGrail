@@ -49,18 +49,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Pastafarianism'
     url: 'https://brill.com/search?q=Pastafarianism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Flying Spaghetti Monster (yarncraft) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Flying_Spaghetti_Monster_(yarncraft).jpg
     provenance: 'London, England, UK'
     period: c. 2005 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: A sewn Flying Spaghetti Monster craft....
     imageUrl: /artifacts/pastafarianism-1.jpg
   - title: >-
       Catalog of Copyright Entries 1942 Books New Series Vol 39 Pt 1 For the
-      Year 1942 (IA catalogofcopyrig391li) Canonical Scripture & Iconography
+      Year 1942 (IA catalogofcopyrig391li) Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Catalog_of_Copyright_Entries_1942_Books_New_Series_Vol_39_Pt_1_For_the_Year_1942_(IA_catalogofcopyrig391li).pdf
     provenance: 'London, England, UK'
@@ -71,7 +69,7 @@ artifacts:
 
       Description: The Catalogs of Copyright Entries (CCEs) are published
       compilations of copyri...
-    imageUrl: /artifacts/pastafarianism-1.jpg
+    imageUrl: /artifacts/pastafarianism-2.jpg
 ---
 
 # Pastafarianism

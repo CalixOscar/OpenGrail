@@ -51,24 +51,21 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Kongo%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Cinq nô Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Cinq_n%C3%B4.djvu'
     provenance: 'M''banza-Kongo, Kingdom of Kongo'
     period: c. before 1400 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: "Cinq nô\_: drames lyriques japonais..."
     imageUrl: /artifacts/kongo-religion-1.jpg
   - title: >-
       The ancient history of the Maori, his mythology and traditions .. (IA
-      ancienthistoryof01whit) Canonical Scripture & Iconography
+      ancienthistoryof01whit) Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:The_ancient_history_of_the_Maori,_his_mythology_and_traditions_.._(IA_ancienthistoryof01whit).pdf
     provenance: 'M''banza-Kongo, Kingdom of Kongo'
     period: c. before 1400 CE
     description: 'Subjects: Maori (New Zealand people)...'
-    imageUrl: /artifacts/kongo-religion-1.jpg
+    imageUrl: /artifacts/kongo-religion-2.jpg
 ---
 
 # Kongo Religious Traditions

@@ -43,21 +43,23 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Assyrian Religion'
     url: 'https://brill.com/search?q=Assyrian%20Religion'
 artifacts:
-  - title: Assyrian Religion Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Assyrian_Religion'
+  - title: Assyrian Gospel 2 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Assyrian_Gospel_2.jpg'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2000 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Assyrian Religion.
+      Ewangeliyon (The Assyrian Gospel). Urmia, Iran, late eighteenth century.
+      Manuscript. Page 2. Near East Section, African and Middle Eastern
+      Division, Library of Congress (007.00.02)...
     imageUrl: /artifacts/assyrian-religion-1.jpg
-  - title: Assyrian Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Assyrian_Religion'
+  - title: >-
+      Assyrian Lion and Duck weight inscriptions, Lions 1-8 Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Assyrian_Lion_and_Duck_weight_inscriptions,_Lions_1-8.jpg
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2000 BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Assyrian Religion.
+    description: 'Assyrian Lion and Duck weight inscriptions, Lions 1-8...'
     imageUrl: /artifacts/assyrian-religion-2.jpg
 ---
 

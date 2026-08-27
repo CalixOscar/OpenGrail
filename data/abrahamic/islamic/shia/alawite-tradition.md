@@ -42,21 +42,26 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Alawite Tradition'
     url: 'https://www.cambridge.org/core/search?q=Alawite%20Tradition'
 artifacts:
-  - title: Alawite Tradition Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Alawite_Tradition'
+  - title: RS21745 (IA RS21745-crs) Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:RS21745_(IA_RS21745-crs).pdf'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Alawite Tradition.
+    description: |-
+      RS21745
+
+      Subjects: Congressional Research Service; CRS; Congress...
     imageUrl: /artifacts/alawite-tradition-1.jpg
-  - title: Alawite Tradition Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Alawite_Tradition'
+  - title: >-
+      Thurston, the famous magician - East Indian Rope Trick Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Thurston,_the_famous_magician_-_East_Indian_Rope_Trick.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Alawite Tradition.
+      Poster advertising Thurston, the magician's reproduction of the (mythical)
+      East Indian rope-trick. It claims that it's the first time out of India,
+      though the truth value of early...
     imageUrl: /artifacts/alawite-tradition-2.jpg
 ---
 

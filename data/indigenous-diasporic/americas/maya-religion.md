@@ -43,22 +43,21 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Maya%20Religions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 'Playa Maya, Ko Phi Phi, Tailandia, 2013-08-19, DD 13 Historical Sanctuary'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Playa_Maya,_Ko_Phi_Phi,_Tailandia,_2013-08-19,_DD_13.JPG
     provenance: 'Tikal, Petén Basin, Maya Lowlands'
     period: c. c. 2000 BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Long-tail boats in Maya Beach, Ko Phi Phi Lee, Thailand....'
     imageUrl: /artifacts/maya-religion-1.jpg
-  - title: Popol vuh Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Popol_vuh.jpg'
+  - title: Maya Religions Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Playa_Maya,_Ko_Phi_Phi,_Tailandia,_2013-08-19,_DD_13.JPG
     provenance: 'Tikal, Petén Basin, Maya Lowlands'
     period: c. c. 2000 BCE
     description: >-
-      First page of the Popol Vuh manuscript, Saved at Newberry Library,
-      Chicago, Yesterday Collection...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Maya Religions.
     imageUrl: /artifacts/maya-religion-2.jpg
 ---
 

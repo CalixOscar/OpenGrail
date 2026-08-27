@@ -49,21 +49,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Transcendental%20Meditation%20Movement
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Abstract ME map-cropped Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Abstract_ME_map-cropped.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1950s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Maps of Maharishi Effect - Abstract map....
     imageUrl: /artifacts/transcendental-meditation-1.jpg
-  - title: MaharishiMaheshYogi-01 Canonical Scripture & Iconography
+  - title: MaharishiMaheshYogi-01 Sacred Relics & Scripture
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:MaharishiMaheshYogi-01.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1950s CE
     description: Maharishi Mahesh Yogi (2007)...
-    imageUrl: /artifacts/transcendental-meditation-1.jpg
+    imageUrl: /artifacts/transcendental-meditation-2.jpg
 ---
 
 # Transcendental Meditation Movement

@@ -40,23 +40,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nihang%20Sikhs'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 'Nihang and Nihangni, by Kehar Singh Historical Sanctuary'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Amritsar, Punjab, India'
-    period: c. 18th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/nihang-1.jpg
-  - title: Sri Guru Granth Sahib Nishan Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sri_Guru_Granth_Sahib_Nishan.jpg'
+      https://commons.wikimedia.org/wiki/File:Nihang_and_Nihangni,_by_Kehar_Singh.jpg
     provenance: 'Amritsar, Punjab, India'
     period: c. 18th century CE
     description: >-
-      Illuminated Adi Granth folio with nisan of Guru Gobind Singh. The
-      manuscript is of the Lahore recension, late 17th to early 18th century.
-      Gold and colours on paper; folio size 360...
+      Nihang and Nihangni (female Nihang). The Nihangni appears to have her hair
+      in top knot (maybe a keski). She wears a salwar and kameez (or possibly
+      ghagra and suthan) and carries a...
+    imageUrl: /artifacts/nihang-1.jpg
+  - title: Illuminated Guru Granth Sahib manuscript 02 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Illuminated_Guru_Granth_Sahib_manuscript_02.jpg
+    provenance: 'Amritsar, Punjab, India'
+    period: c. 18th century CE
+    description: >-
+      Illuminated Guru Granth Sahib manuscript from the Dr. Gurpal Singh Bhuller
+      collection....
     imageUrl: /artifacts/nihang-2.jpg
 ---
 

@@ -44,21 +44,19 @@ sources:
       Christianity
     url: 'https://www.cambridge.org/core/search?q=Unitarian%20Christianity'
 artifacts:
-  - title: Unitarian Christianity Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Unitarian_Christianity'
+  - title: Summit Unitarian Church Youth Minister Emilie Boggis Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Summit_Unitarian_Church_Youth_Minister_Emilie_Boggis.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1560s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Unitarian Christianity.
+    description: Unitarian church Youth Minister Emilie Boggis in 2011....
     imageUrl: /artifacts/unitarian-christianity-1.jpg
-  - title: Unitarian Christianity Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Unitarian_Christianity'
+  - title: 'Racovian Catechism, cover, pol-1605, lat-1609 Sacred Relics & Scripture'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Racovian_Catechism,_cover,_pol-1605,_lat-1609.png
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1560s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Unitarian Christianity.
+    description: 'Racovian Catechism, cover, pol-1605, lat-1609...'
     imageUrl: /artifacts/unitarian-christianity-2.jpg
 ---
 

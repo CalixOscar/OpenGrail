@@ -48,23 +48,16 @@ artifacts:
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1970s CE
     description: >-
-      Dianic Wicca, also known as Dianic Witchcraft, is a modern pagan goddess
-      tradition focused on female experience and empowerment. Leadership is by
-      women, who may be ordained as prie...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Dianic Wicca.
     imageUrl: /artifacts/dianic-wicca-1.jpg
-  - title: >-
-      The land of living color; a pictorial journey from the storied Southwest
-      through the gardens and missions and scenic splendor of the Pacific coast
-      country to the eternal snows of Alaska (IA landoflivingcolo00sanf)
-      Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_land_of_living_color;_a_pictorial_journey_from_the_storied_Southwest_through_the_gardens_and_missions_and_scenic_splendor_of_the_Pacific_coast_country_to_the_eternal_snows_of_Alaska_(IA_landoflivingcolo00sanf).pdf
+  - title: Dianic Wicca Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dianic_Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1970s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Dianic Wicca.
-    imageUrl: /artifacts/dianic-wicca-1.jpg
 ---
 
 # Dianic Wicca

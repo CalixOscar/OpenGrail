@@ -47,23 +47,21 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Candombl%C3%A9'
 artifacts:
-  - title: Candomblé Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Candombl%C3%A9'
+  - title: Caetité baianas Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Caetit%C3%A9_baianas.jpg'
     provenance: 'Salvador da Bahia, Brazil'
     period: c. 19th century CE
     description: >-
-      Candomblé (Portuguese pronunciation: [kɐ̃dõˈblɛ]) is an African diasporic
-      religion that developed in Brazil during the 19th century. It arose
-      through a process of syncretism betwee...
-  - title: >-
-      Singers and songs of the liberal faith; being selections of hymns and
-      other sacred poems of the liberal church in America (IA
-      singerssongsofl00putn) Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Singers_and_songs_of_the_liberal_faith;_being_selections_of_hymns_and_other_sacred_poems_of_the_liberal_church_in_America_(IA_singerssongsofl00putn).pdf
+      Baianas na Lavagem da Esquina do Padre, festa típica, folclore, Caetité,
+      Bahia, Brazil...
+    imageUrl: /artifacts/candomble-1.jpg
+  - title: Candomblé Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Caetit%C3%A9_baianas.jpg'
     provenance: 'Salvador da Bahia, Brazil'
     period: c. 19th century CE
-    description: 'Subjects: Religious poetry, American...'
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Candomblé.
 ---
 
 # Candomblé

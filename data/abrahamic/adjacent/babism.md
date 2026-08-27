@@ -56,13 +56,12 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Babism.
     imageUrl: /artifacts/babism-1.jpg
-  - title: Babism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Babism'
+  - title: Siyyid Mírzá 'Alí-Muhammad Shirazi Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Siyyid_M%C3%ADrz%C3%A1_%27Al%C3%AD-Muhammad_Shirazi.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1844 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Babism.
+    description: Bábism founder The Báb....
     imageUrl: /artifacts/babism-2.jpg
 ---
 

@@ -50,13 +50,16 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Reconstructionist Judaism.
     imageUrl: /artifacts/reconstructionist-judaism-1.jpg
-  - title: Reconstructionist Judaism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Reconstructionist_Judaism'
+  - title: >-
+      Litoměřice - Mírové náměstí - Renaissance Sgraffito - Hebrew Bible Imagery
+      01 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Litom%C4%9B%C5%99ice_-_M%C3%ADrov%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_-_Renaissance_Sgraffito_-_Hebrew_Bible_Imagery_01.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1920s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Reconstructionist Judaism.
+      Litoměřice - Mírové náměstí - Renaissance Sgraffito - Hebrew Bible
+      Imagery...
     imageUrl: /artifacts/reconstructionist-judaism-2.jpg
 ---
 

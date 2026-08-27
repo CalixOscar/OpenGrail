@@ -45,21 +45,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Heliopolitan Theology'
     url: 'https://brill.com/search?q=Heliopolitan%20Theology'
 artifacts:
-  - title: Heliopolitan Theology Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Heliopolitan_Theology'
+  - title: >-
+      Books from the Library of Congress (IA kingtutankhamenh00bell) Historical
+      Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Books_from_the_Library_of_Congress_(IA_kingtutankhamenh00bell).pdf
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 2400 BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Heliopolitan Theology.
+    description: |-
+      2 p.l., vii-xii p., 2 l., 290 p. 20 cm
+
+      Subjects: Tutankhamen, king of Egypt -- Fiction...
     imageUrl: /artifacts/heliopolitan-theology-1.jpg
-  - title: Heliopolitan Theology Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Heliopolitan_Theology'
+  - title: Pyramid text utterance 272 to 260 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Pyramid_text_utterance_272_to_260.jpg
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 2400 BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Heliopolitan Theology.
+    description: Pyramid text utterance 272 to 260 from Unas pyramid....
     imageUrl: /artifacts/heliopolitan-theology-2.jpg
 ---
 

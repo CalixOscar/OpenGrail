@@ -55,24 +55,25 @@ sources:
     url: >-
       https://ich.unesco.org/en/search?q=iTaukei%20Fijian%20Religious%20Traditions
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 'Folk-lore - A Quarterly Review. Volume 7, 1896 Historical Sanctuary'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Folk-lore_-_A_Quarterly_Review._Volume_7,_1896.djvu
     provenance: 'Viti Levu (Suva / Bau), Fiji'
     period: c. precolonial
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Scan of collected volume of journals...
     imageUrl: /artifacts/fijian-religious-traditions-1.jpg
-  - title: iTaukei Fijian Religious Traditions Sacred Scripture & Art
+  - title: >-
+      Campbell Interurban Press 1920-12-24 (IA cacblm 000654) Sacred Relics &
+      Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Campbell_Interurban_Press_1920-12-24_(IA_cacblm_000654).pdf
     provenance: 'Viti Levu (Suva / Bau), Fiji'
     period: c. precolonial
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of iTaukei Fijian Religious Traditions.
-    imageUrl: /artifacts/fijian-religious-traditions-1.jpg
+      Note for IA: Darkened images inherent to the nature of microfilm.Series
+      Title: Campbell (Interurban) Press Newspaper.Description: This series of
+      newspapers ranges from 1895 throug...
+    imageUrl: /artifacts/fijian-religious-traditions-2.jpg
 ---
 
 # iTaukei Fijian Religious Traditions

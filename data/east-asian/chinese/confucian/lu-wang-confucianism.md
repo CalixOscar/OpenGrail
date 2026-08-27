@@ -45,20 +45,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Lu%E2%80%93Wang%20Confucianism
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Wang Shou-Ren Calligraphy Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Wang_Shou-Ren_Calligraphy.jpg'
     provenance: 'Qufu, Shandong, China'
     period: c. 12th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: |-
+      ​[明]  王守仁《与郑邦瑞尺牍》
+      纸本，行草。
+      纵24厘米，横392.8厘米。
+      墨 
+      来自：中国书法网
+
+      原作为二维平面艺术（书法作品），作者逝世已逾百年，无特殊版权要求。...
     imageUrl: /artifacts/lu-wang-confucianism-1.jpg
-  - title: >-
-      Cosmography in four books Fleuron T107951-4 Canonical Scripture &
-      Iconography
+  - title: Cosmography in four books Fleuron T107951-13 Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Cosmography_in_four_books_Fleuron_T107951-4.png
+      https://commons.wikimedia.org/wiki/File:Cosmography_in_four_books_Fleuron_T107951-13.png
     provenance: 'Qufu, Shandong, China'
     period: c. 12th century CE
     description: >-

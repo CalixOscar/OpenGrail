@@ -47,23 +47,25 @@ sources:
       https://www.rep.routledge.com/search?query=%C5%9Auddh%C4%81dvaita%20Ved%C4%81nta
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Indian theism from the Vedic to the Muhammadan period (IA
+      indiantheismfrom00macniala) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Indian_theism_from_the_Vedic_to_the_Muhammadan_period_(IA_indiantheismfrom00macniala).pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 15th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: |-
+      Bibliography: p.[282]-284
+
+      Subjects: India -- Religion...
     imageUrl: /artifacts/shuddhadvaita-1.jpg
-  - title: Śuddhādvaita Vedānta Sacred Scripture & Art
+  - title: Śuddhādvaita Vedānta Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Indian_theism_from_the_Vedic_to_the_Muhammadan_period_(IA_indiantheismfrom00macniala).pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 15th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Śuddhādvaita Vedānta.
-    imageUrl: /artifacts/shuddhadvaita-1.jpg
 ---
 
 # Śuddhādvaita Vedānta

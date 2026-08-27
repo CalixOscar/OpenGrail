@@ -48,23 +48,24 @@ sources:
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%ABkula%20%2F%20%C5%9Ar%C4%ABvidy%C4%81
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Marian shrine at Saint Patrick Catholic Church in Silverton Colorado
+      Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Marian_shrine_at_Saint_Patrick_Catholic_Church_in_Silverton_Colorado.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 9th–11th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Marian shrine at Saint Patrick Catholic Church in Silverton Colorado...
     imageUrl: /artifacts/srikula-1.jpg
-  - title: Śrīkula / Śrīvidyā Sacred Scripture & Art
+  - title: Administrative Building (Tripura University) Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Administrative_Building_(Tripura_University).jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 9th–11th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Śrīkula / Śrīvidyā.
-    imageUrl: /artifacts/srikula-1.jpg
+      From a humble beginning as the Post-Graduate Wing of Calcutta University
+      in 1976 to a state university in 1987 and eventually a central university
+      in 2007, Tripura University has t...
+    imageUrl: /artifacts/srikula-2.jpg
 ---
 
 # Śrīkula / Śrīvidyā

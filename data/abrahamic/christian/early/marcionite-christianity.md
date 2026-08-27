@@ -48,16 +48,23 @@ sources:
       Christianity
     url: 'https://www.cambridge.org/core/search?q=Marcionite%20Christianity'
 artifacts:
-  - title: Marcionite Christianity Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Marcionite_Christianity'
+  - title: >-
+      Apostle John and Marcion of Sinope, from JPM LIbrary MS 748, 11th c
+      Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Apostle_John_and_Marcion_of_Sinope,_from_JPM_LIbrary_MS_748,_11th_c.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 140 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Marcionite Christianity.
+      Content: the Apostle John and Marcion of Sinope (according to R. Eisler,
+      The Enigma of the Fourth Gospel, Methuen &amp; Co., 1938, p. 158, plate
+      XIII).
+
+      Source: J. Pierpoint Morgan...
     imageUrl: /artifacts/marcionite-christianity-1.jpg
-  - title: Marcionite Christianity Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Marcionite_Christianity'
+  - title: Marcionite Christianity Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Apostle_John_and_Marcion_of_Sinope,_from_JPM_LIbrary_MS_748,_11th_c.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 140 CE
     description: >-

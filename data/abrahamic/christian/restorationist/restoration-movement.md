@@ -53,17 +53,19 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1800 CE
     description: >-
-      The Restoration Movement (also known as the American Restoration Movement
-      or the Stone–Campbell Movement, and pejoratively as Campbellism) is a
-      Christian movement that began on the...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Restoration Movement.
     imageUrl: /artifacts/restoration-movement-1.jpg
-  - title: Restoration Movement Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Movement'
+  - title: >-
+      Declaration and Address Christian Assoc of Washington (Cover) 1809 Sacred
+      Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Declaration_and_Address_Christian_Assoc_of_Washington_(Cover)_1809.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1800 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Restoration Movement.
+      "This is the front cover from the book Declaration and Address of the
+      Christian Association of Washington"...
     imageUrl: /artifacts/restoration-movement-2.jpg
 ---
 

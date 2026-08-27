@@ -46,16 +46,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Amoraic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Amoraic%20Judaism'
 artifacts:
-  - title: Amoraic Judaism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Amoraic_Judaism'
+  - title: >-
+      New edition of the Babylonian Talmud (IA babyloniantalmud01rodk)
+      Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:New_edition_of_the_Babylonian_Talmud_(IA_babyloniantalmud01rodk).pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 220 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Amoraic Judaism.
+      Vols. 1-2, 11-12, 13-14, 15-16 paged continuously
+
+      Vol. 1: First ed., rev. and cor. by Rev. Dr. Isaac M. Wise ... Second ed.,
+      re-edited, rev. and enl.; v. 2: Rev. by Rev. Dr. Isaac...
     imageUrl: /artifacts/amoraic-judaism-1.jpg
-  - title: Amoraic Judaism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Amoraic_Judaism'
+  - title: Amoraic Judaism Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:New_edition_of_the_Babylonian_Talmud_(IA_babyloniantalmud01rodk).pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 220 CE
     description: >-

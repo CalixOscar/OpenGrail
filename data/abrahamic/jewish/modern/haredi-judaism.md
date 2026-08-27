@@ -52,13 +52,11 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Haredi Judaism.
     imageUrl: /artifacts/haredi-judaism-1.jpg
-  - title: Haredi Judaism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Haredi_Judaism'
+  - title: Hebrew Bible MET LC 2018 59s18 Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hebrew_Bible_MET_LC_2018_59s18.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Haredi Judaism.
+    description: Spanish; Manuscripts and Illuminations;...
     imageUrl: /artifacts/haredi-judaism-2.jpg
 ---
 

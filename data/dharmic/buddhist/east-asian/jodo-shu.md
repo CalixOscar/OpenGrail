@@ -51,17 +51,20 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1175 CE
     description: >-
-      Jōdo-shū (浄土宗, "The Pure Land School") is a Japanese branch of Pure Land
-      Buddhism derived from the teachings of the Kamakura era monk Hōnen
-      (1133–1212). The school is traditionally...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Jōdo-shū.
     imageUrl: /artifacts/jodo-shu-1.jpg
-  - title: Jōdo-shū Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/J%C5%8Ddo-sh%C5%AB'
+  - title: >-
+      The dragon, image, and demon; or, The three religions of China- (IA
+      afy7418.0001.001.umich.edu) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_dragon,_image,_and_demon;_or,_The_three_religions_of_China-_(IA_afy7418.0001.001.umich.edu).pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1175 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Jōdo-shū.
+    description: |-
+      Mode of access: Internet
+
+      Subjects: Confucius; Buddhism; Taoism; Confucianism...
     imageUrl: /artifacts/jodo-shu-2.jpg
 ---
 

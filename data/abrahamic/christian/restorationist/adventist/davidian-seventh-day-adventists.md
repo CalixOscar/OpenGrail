@@ -54,14 +54,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Davidian Seventh-day Adventists.
     imageUrl: /artifacts/davidian-seventh-day-adventists-1.jpg
-  - title: Davidian Seventh-day Adventists Sacred Scripture & Art
+  - title: Davidian Seventh-day Adventists Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Davidian_Seventh-day_Adventists'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1929 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Davidian Seventh-day Adventists.
-    imageUrl: /artifacts/davidian-seventh-day-adventists-2.jpg
 ---
 
 # Davidian Seventh-day Adventists

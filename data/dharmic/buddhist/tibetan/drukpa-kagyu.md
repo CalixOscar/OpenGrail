@@ -50,15 +50,15 @@ artifacts:
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
     description: >-
-      The Drukpa or Drukpa Kagyu (Dzongkha: འབྲུག་པ་བཀའ་བརྒྱུད) lineage,
-      sometimes called Dugpa in older sources, is a branch of the Kagyu school
-      of Tibetan Buddhism. The Kagyu school is...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Drukpa Kagyu.
     imageUrl: /artifacts/drukpa-kagyu-1.jpg
-  - title: Kanjur Tenjur Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kanjur_Tenjur.jpg'
+  - title: Bhutanese Gold Kangyur page detail Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Bhutanese_Gold_Kangyur_page_detail.jpg
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
-    description: Monastic library with Kanjur and Tanjur on the bookshelves (Riwoche)...
+    description: Detail from a page of gold Kangyur manuscript being written in Bhutan...
     imageUrl: /artifacts/drukpa-kagyu-2.jpg
 ---
 

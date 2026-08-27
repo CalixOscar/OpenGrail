@@ -55,14 +55,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Russian Orthodox Church.
     imageUrl: /artifacts/russian-orthodox-church-1.jpg
-  - title: Russian Orthodox Church Sacred Scripture & Art
+  - title: Russian Orthodox Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Russian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 988 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Russian Orthodox Church.
-    imageUrl: /artifacts/russian-orthodox-church-2.jpg
 ---
 
 # Russian Orthodox Church

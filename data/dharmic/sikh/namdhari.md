@@ -40,23 +40,26 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Namdhari%20Sikhs'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Namdhari Sikhs Rawalsar Sahib Himachal Pradesh India Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Amritsar, Punjab, India'
-    period: c. 1857 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/namdhari-1.jpg
-  - title: Sri Guru Granth Sahib Nishan Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sri_Guru_Granth_Sahib_Nishan.jpg'
+      https://commons.wikimedia.org/wiki/File:Namdhari_Sikhs_Rawalsar_Sahib_Himachal_Pradesh_India.jpg
     provenance: 'Amritsar, Punjab, India'
     period: c. 1857 CE
     description: >-
-      Illuminated Adi Granth folio with nisan of Guru Gobind Singh. The
-      manuscript is of the Lahore recension, late 17th to early 18th century.
-      Gold and colours on paper; folio size 360...
+      A Namdhari Sikh sect shrine.
+
+
+      The monument remembers Guru Gobind Singh's stay for a month, to team with
+      Hill states in his struggle against Aurangzeb....
+    imageUrl: /artifacts/namdhari-1.jpg
+  - title: Illuminated Guru Granth Sahib manuscript 01 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Illuminated_Guru_Granth_Sahib_manuscript_01.jpg
+    provenance: 'Amritsar, Punjab, India'
+    period: c. 1857 CE
+    description: >-
+      Illuminated Guru Granth Sahib manuscript from the Dr. Gurpal Singh Bhuller
+      collection....
     imageUrl: /artifacts/namdhari-2.jpg
 ---
 

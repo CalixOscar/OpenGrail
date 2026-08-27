@@ -56,24 +56,27 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=Chinese%20Salvationist%20Religions
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Chinese ancestor-gods belief by province of China (Chinese Spiritual Life
+      Survey 2010) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 12th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/chinese-salvationist-religions-1.jpg
-  - title: >-
-      菊花-金書寶卷 Chrysanthemum morifolium 'Gold Book Precious Scroll' -香港圓玄學院 Hong
-      Kong Yuen Yuen Institute- (12084953135) Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%E8%8F%8A%E8%8A%B1-%E9%87%91%E6%9B%B8%E5%AF%B6%E5%8D%B7_Chrysanthemum_morifolium_%27Gold_Book_Precious_Scroll%27_-%E9%A6%99%E6%B8%AF%E5%9C%93%E7%8E%84%E5%AD%B8%E9%99%A2_Hong_Kong_Yuen_Yuen_Institute-_(12084953135).jpg
+      https://commons.wikimedia.org/wiki/File:Chinese_ancestor-gods_belief_by_province_of_China_(Chinese_Spiritual_Life_Survey_2010).png
     provenance: 'Qufu, Shandong, China'
     period: c. c. 12th century CE
     description: >-
-      菊花-金書寶卷 Chrysanthemum morifolium 'Gold Book Precious Scroll'  [香港圓玄學院 Hong
-      Kong Yuen Yuen Institute]...
+      Distribution of believers in Chinese ancestorism, or worship of
+      ancestor-gods (the worship of a kin's ancestor-gods in the system of
+      lineage societies and ancestral shrines), by pr...
+    imageUrl: /artifacts/chinese-salvationist-religions-1.jpg
+  - title: >-
+      Chinese Salvationist Religions (Comparative) Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Chinese_ancestor-gods_belief_by_province_of_China_(Chinese_Spiritual_Life_Survey_2010).png
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 12th century CE
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Chinese Salvationist Religions (Comparative).
     imageUrl: /artifacts/chinese-salvationist-religions-2.jpg
 ---
 

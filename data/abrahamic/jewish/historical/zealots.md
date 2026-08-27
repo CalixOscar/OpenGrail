@@ -44,21 +44,20 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Zealots'
     url: 'https://www.cambridge.org/core/search?q=Zealots'
 artifacts:
-  - title: Zealots Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zealots'
+  - title: Baptisterio Neoniano - Judas Zelote Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Baptisterio_Neoniano_-_Judas_Zelote.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1st century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Zealots.
+      Baptisterio Neoniano en Rávena (Italia). Detalle del mosaico de la cúpula
+      que muestra al apóstol "Judas Zelote", actualmente llamado Judas Tadeo....
     imageUrl: /artifacts/zealots-1.jpg
-  - title: Zealots Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zealots'
+  - title: Hebrew Bible MET LC 2018 59s42 Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hebrew_Bible_MET_LC_2018_59s42.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1st century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Zealots.
+    description: Spanish; Manuscripts and Illuminations;...
     imageUrl: /artifacts/zealots-2.jpg
 ---
 

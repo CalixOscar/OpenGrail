@@ -45,19 +45,26 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Vai%C5%9Be%E1%B9%A3ika'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      12th-century Belur Vaishnavism Hindu temples complex, Brahma Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:12th-century_Belur_Vaishnavism_Hindu_temples_complex,_Brahma.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      The Chennakeshava Temple is an early 12th-century Vaishnavism Hindu temple
+      in the Hassan district of Karnataka state, India.
+
+      Featuring intricate Hoysala artwork and squares-circles...
     imageUrl: /artifacts/vaisheshika-1.jpg
-  - title: Vaisesika-philosophy-12-728 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Vaisesika-philosophy-12-728.jpg'
+  - title: Vaiśeṣika Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:12th-century_Belur_Vaishnavism_Hindu_temples_complex,_Brahma.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
-    description: Vaisesika category...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Vaiśeṣika.
     imageUrl: /artifacts/vaisheshika-2.jpg
 ---
 

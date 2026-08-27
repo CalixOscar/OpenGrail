@@ -50,13 +50,15 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Coptic Orthodoxy.
     imageUrl: /artifacts/coptic-orthodoxy-1.jpg
-  - title: Coptic Orthodoxy Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Orthodoxy'
+  - title: Sacristy of Saint Basil's Cathedral 11 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Sacristy_of_Saint_Basil%27s_Cathedral_11.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Coptic Orthodoxy.
+      Тарель. Псков. Конец 15 - начало 16 века. Серебро, чернение, гравировка,
+      скань. Изображение: "Богоматерь и апостолы". Надпись: "Бысть чрево твое
+      святая трапеза, имущая небесный хле...
     imageUrl: /artifacts/coptic-orthodoxy-2.jpg
 ---
 

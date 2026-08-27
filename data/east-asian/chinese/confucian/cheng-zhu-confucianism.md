@@ -46,28 +46,19 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Cheng%E2%80%93Zhu%20Confucianism
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Lixue Hutong (20200827133040) Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lixue_Hutong_(20200827133040).jpg'
     provenance: 'Qufu, Shandong, China'
     period: c. 11th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Mechanics lane? Not that case....
     imageUrl: /artifacts/cheng-zhu-confucianism-1.jpg
-  - title: >-
-      Cosmography in four books Fleuron T107951-4 Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Cosmography_in_four_books_Fleuron_T107951-4.png
+  - title: Cheng–Zhu Confucianism Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lixue_Hutong_(20200827133040).jpg'
     provenance: 'Qufu, Shandong, China'
     period: c. 11th century CE
     description: >-
-      Fleuron from book:
-
-      Cosmography in four books. Containing the chorography and history of the
-      whole world: and all the principal kingdoms, provinces, seas, and the
-      isles thereof. By...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Cheng–Zhu Confucianism.
     imageUrl: /artifacts/cheng-zhu-confucianism-2.jpg
 ---
 

@@ -52,22 +52,27 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Pur%C3%A9pecha%20Religious%20Traditions'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      The history of ancient Mexico - from the foundation of that empire to its
+      destruction by the Spaniards (IA ancientmexicofro02gord) Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:The_history_of_ancient_Mexico_-_from_the_foundation_of_that_empire_to_its_destruction_by_the_Spaniards_(IA_ancientmexicofro02gord).pdf
     provenance: 'Tzintzuntzan, Lake Pátzcuaro, Michoacán'
     period: c. precolonial
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: |-
+      Chiefly drawn from the History of Mexico, by F.X. Clavigero. cf. Pref
+      Contains numerous lithographed plates
+      Some plates in library's copy are hand-colored
+      Subjects: Indians of Mex...
     imageUrl: /artifacts/purepecha-religion-1.jpg
-  - title: Relación de Michoacán Lámina 1 Canonical Scripture & Iconography
+  - title: Purépecha Religious Traditions Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Relaci%C3%B3n_de_Michoac%C3%A1n_L%C3%A1mina_1.JPG
+      https://commons.wikimedia.org/wiki/File:The_history_of_ancient_Mexico_-_from_the_foundation_of_that_empire_to_its_destruction_by_the_Spaniards_(IA_ancientmexicofro02gord).pdf
     provenance: 'Tzintzuntzan, Lake Pátzcuaro, Michoacán'
     period: c. precolonial
     description: >-
-      Delivery of the Relación to the Viceroy Antonio de Mendoza by Fray
-      Jerónimo de Alcalá...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Purépecha Religious Traditions.
     imageUrl: /artifacts/purepecha-religion-2.jpg
 ---
 

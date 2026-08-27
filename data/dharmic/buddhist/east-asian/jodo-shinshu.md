@@ -54,11 +54,10 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 13th century CE
     description: >-
-      Jōdo Shinshū (浄土真宗, "The True Essence of the Pure Land Teaching"), also
-      known as Shin Buddhism or True Pure Land Buddhism, is a Japanese tradition
-      of Pure Land Buddhism founded by...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Jōdo Shinshū.
     imageUrl: /artifacts/jodo-shinshu-1.jpg
-  - title: Jōdo Shinshū Sacred Scripture & Art
+  - title: Jōdo Shinshū Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 13th century CE

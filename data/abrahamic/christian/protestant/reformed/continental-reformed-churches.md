@@ -57,13 +57,12 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Continental Reformed Churches.
     imageUrl: /artifacts/continental-reformed-churches-1.jpg
-  - title: Continental Reformed Churches Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Continental_Reformed_Churches'
+  - title: DBP 1963 396 400J Heidelberger Katechismus Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:DBP_1963_396_400J_Heidelberger_Katechismus.jpg
     provenance: 'Geneva, Switzerland'
     period: c. 1520s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Continental Reformed Churches.
+    description: 'Stamp description: 400 years of Heidelberg catechism 1963...'
     imageUrl: /artifacts/continental-reformed-churches-2.jpg
 ---
 

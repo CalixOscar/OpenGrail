@@ -42,16 +42,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Hanbali School'
     url: 'https://www.cambridge.org/core/search?q=Hanbali%20School'
 artifacts:
-  - title: Hanbali School Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hanbali_School'
+  - title: Ibnhanbal Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ibnhanbal.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hanbali School.
     imageUrl: /artifacts/hanbali-school-1.jpg
-  - title: Hanbali School Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hanbali_School'
+  - title: Hanbali School Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ibnhanbal.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
     description: >-

@@ -51,7 +51,7 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Advent Christian Church.
     imageUrl: /artifacts/advent-christian-church-1.jpg
-  - title: Advent Christian Church Sacred Scripture & Art
+  - title: Advent Christian Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Advent_Christian_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1860 CE

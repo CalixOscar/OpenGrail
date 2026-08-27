@@ -42,25 +42,23 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Micronesian%20Religions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. ancestral era
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/micronesian-religions-1.jpg
-  - title: >-
-      Filming of the Yoruba oral traditions project Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
+  - title: Religiones Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Religiones.pdf'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. ancestral era
     description: >-
-      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
-      Ṣànpọ̀ná...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Micronesian Religions.
+    imageUrl: /artifacts/micronesian-religions-1.jpg
+  - title: >-
+      The World's fair; its meaning and scope; its old-world friends, their
+      countries, customs and religions; what they will exhibit (IA
+      worldsfairitsmea01cutl) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_World%27s_fair;_its_meaning_and_scope;_its_old-world_friends,_their_countries,_customs_and_religions;_what_they_will_exhibit_(IA_worldsfairitsmea01cutl).pdf
+    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
+    period: c. ancestral era
+    description: "Subjects: World's Columbian Exposition (1893\_: Chicago, Ill.)..."
     imageUrl: /artifacts/micronesian-religions-2.jpg
 ---
 

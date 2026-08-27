@@ -42,16 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Essenes'
     url: 'https://www.cambridge.org/core/search?q=Essenes'
 artifacts:
-  - title: Essenes Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Essenes'
+  - title: QumranLivingQuarters Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:QumranLivingQuarters.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Essenes.
+    description: Remains of living quarters at Qumran....
     imageUrl: /artifacts/essenes-1.jpg
-  - title: Essenes Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Essenes'
+  - title: Essenes Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:QumranLivingQuarters.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century BCE
     description: >-

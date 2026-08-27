@@ -41,23 +41,36 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=New%20Confucianism'
 artifacts:
-  - title: New Confucianism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/New_Confucianism'
+  - title: >-
+      The dragon, image, and demon; or, The three religions of China-
+      Confucianism, Buddhism, and Taoism, giving an account of the mythology,
+      idolatry, and demonolatry of the Chinese (1887) (14597249320) Historical
+      Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_dragon,_image,_and_demon;_or,_The_three_religions_of_China-_Confucianism,_Buddhism,_and_Taoism,_giving_an_account_of_the_mythology,_idolatry,_and_demonolatry_of_the_Chinese_(1887)_(14597249320).jpg
     provenance: 'Qufu, Shandong, China'
     period: c. 20th century CE
     description: >-
-      New Confucianism (Chinese: 新儒家; pinyin: Xīn Rújiā; lit. 'New
-      Confucianism') is an intellectual movement of Confucianism that began in
-      the early 20th century in Republican China, an...
+      Identifier: dragonimagedemon1887dubo (find matches)
+
+      Title: The dragon, image, and demon; or, The three religions of China:
+      Confucianism, Buddhism, and Taoism, giving an account of...
     imageUrl: /artifacts/new-confucianism-1.jpg
-  - title: New Confucianism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/New_Confucianism'
+  - title: >-
+      The face of China, travels in East, North, Central and Western China; with
+      some account of the new schools, universities, missions, and the old
+      religious sacred places of Confucianism, Buddhism, and (14776545671)
+      Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_face_of_China,_travels_in_East,_North,_Central_and_Western_China;_with_some_account_of_the_new_schools,_universities,_missions,_and_the_old_religious_sacred_places_of_Confucianism,_Buddhism,_and_(14776545671).jpg
     provenance: 'Qufu, Shandong, China'
     period: c. 20th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of New Confucianism.
-    imageUrl: /artifacts/new-confucianism-1.jpg
+      Identifier: faceofchinatrav00kemp (find matches)
+
+      Title: The face of China, travels in East, North, Central and Western
+      China; with some account of the new schools, universities, m...
+    imageUrl: /artifacts/new-confucianism-2.jpg
 ---
 
 # New Confucianism

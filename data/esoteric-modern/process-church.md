@@ -51,22 +51,23 @@ sources:
       Judgment
     url: 'https://brill.com/search?q=Process%20Church%20of%20the%20Final%20Judgment'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Ames Process pressure vessel lower Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Ames_Process_pressure_vessel_lower.jpg
     provenance: 'London, England, UK'
     period: c. 1960s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      A pressure vessel being lowered into a furnace during the Manhattan
+      Project for reduction to uranium metal.  Uranium halide and sacrificial
+      metal are in the vessel.  This is part o...
     imageUrl: /artifacts/process-church-1.jpg
-  - title: 3D print in process (9437659715) Canonical Scripture & Iconography
+  - title: 3D print in process (9437659715) Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:3D_print_in_process_(9437659715).jpg
     provenance: 'London, England, UK'
     period: c. 1960s CE
     description: 3D Printer Shootout Testing - Day 3...
-    imageUrl: /artifacts/process-church-1.jpg
+    imageUrl: /artifacts/process-church-2.jpg
 ---
 
 # Process Church of the Final Judgment

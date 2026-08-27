@@ -40,24 +40,25 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Norse Religion'
     url: 'https://brill.com/search?q=Norse%20Religion'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Norse mythology (IA norsemythology00ande) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Norse_mythology_(IA_norsemythology00ande).pdf
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 500 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Subjects: Mythology, Norse; Old Norse literature; Northmen...'
     imageUrl: /artifacts/norse-religion-1.jpg
-  - title: 'Brate, Sämunds Edda (1913) Omslag Canonical Scripture & Iconography'
+  - title: >-
+      Studach, Sämunds Edda des Weisen (1829) Titelblatt Sacred Relics &
+      Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Brate,_S%C3%A4munds_Edda_(1913)_Omslag.jpg
+      https://commons.wikimedia.org/wiki/File:Studach,_S%C3%A4munds_Edda_des_Weisen_(1829)_Titelblatt.jpg
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 500 CE
     description: >-
-      Sämunds Edda (1913), the first edition of Erik Brate's translation from
-      Icelandic to Swedish of the Poetic Edda (also known as the Elder Edda)....
-    imageUrl: /artifacts/norse-religion-1.jpg
+      The title-page of Sämund's Edda des Weisen oder die Ältesten Norränischen
+      Lieder (1829), a German translation of the Poetic Edda by J. L. Studach.
+      Printed by Johann Leonhard Schrag...
+    imageUrl: /artifacts/norse-religion-2.jpg
 ---
 
 # Norse Religion

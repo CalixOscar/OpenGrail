@@ -51,17 +51,16 @@ artifacts:
     provenance: 'London, England, UK'
     period: c. 1955 CE
     description: >-
-      The Aetherius Society is a new religious movement founded by George King
-      in the mid-1950s, being the result of what King claimed were contacts with
-      extraterrestrial intelligences w...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Aetherius Society.
     imageUrl: /artifacts/aetherius-society-1.jpg
-  - title: Twelve Years a Slave (1853) Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Twelve_Years_a_Slave_(1853).djvu'
+  - title: Aetherius Society Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Aetherius_Society'
     provenance: 'London, England, UK'
     period: c. 1955 CE
     description: >-
-      Scanned copy of the 1853 first edition of Twelve Years a Slave, a slave
-      narrative by Solomon Northup....
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Aetherius Society.
     imageUrl: /artifacts/aetherius-society-2.jpg
 ---
 

@@ -52,22 +52,17 @@ artifacts:
     provenance: 'London, England, UK'
     period: c. late 1950s CE
     description: >-
-      Discordianism is a belief system based around Eris, the Greek goddess of
-      strife and discord, and variously defined as a religion, new religious
-      movement, virtual religion, or somew...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Discordianism.
     imageUrl: /artifacts/discordianism-1.jpg
-  - title: >-
-      Principia Discordia page00043 mandala subset-not-Borromean Canonical
-      Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Principia_Discordia_page00043_mandala_subset-not-Borromean.gif
+  - title: Eye Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Eye.jpg'
     provenance: 'London, England, UK'
     period: c. late 1950s CE
     description: >-
-      Modified version of image File:Principia Discordia page00043 mandala
-      (Brunnian link).svg, showing that if you choose three non-adjacent
-      nonagons (here the red, green, and blue), th...
-    imageUrl: /artifacts/discordianism-1.jpg
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Discordianism.
+    imageUrl: /artifacts/discordianism-2.jpg
 ---
 
 # Discordianism

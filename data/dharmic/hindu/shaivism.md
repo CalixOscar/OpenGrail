@@ -47,17 +47,8 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=%C5%9Aaivism'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/shaivism-1.jpg
-  - title: >-
       A collage of Shaivism Shiva Siwa Hindu icons and temples in Southeast Asia
-      Canonical Scripture & Iconography
+      Historical Sanctuary
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:A_collage_of_Shaivism_Shiva_Siwa_Hindu_icons_and_temples_in_Southeast_Asia.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -69,6 +60,18 @@ artifacts:
 
       071 Siva Mahadeva, Dieng, Cent...
     imageUrl: /artifacts/shaivism-1.jpg
+  - title: >-
+      483 CE Khoh copper plate inscription, Shaivism, king Hastin, Sanskrit
+      Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:483_CE_Khoh_copper_plate_inscription,_Shaivism,_king_Hastin,_Sanskrit.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century BCE
+    description: >-
+      This is a Gupta Empire era inscription from ancient India. The Gupta era
+      Hindu inscriptions mention Hindu gods/goddesses particularly in its
+      invocations or Hindu texts it cites. Th...
+    imageUrl: /artifacts/shaivism-2.jpg
 ---
 
 # Śaivism

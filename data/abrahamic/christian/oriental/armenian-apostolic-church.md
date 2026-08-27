@@ -49,11 +49,10 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE
     description: >-
-      The Armenian Apostolic Church (Armenian: Հայ Առաքելական Եկեղեցի,
-      romanized: Hay Aṙaqelakan Ékełetsi) is the autocephalous national church
-      of Armenia. Part of Oriental Orthodoxy, it...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Armenian Apostolic Church.
     imageUrl: /artifacts/armenian-apostolic-church-1.jpg
-  - title: Armenian Apostolic Church Sacred Scripture & Art
+  - title: Armenian Apostolic Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Apostolic_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE

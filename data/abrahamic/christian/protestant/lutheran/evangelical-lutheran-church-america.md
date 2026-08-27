@@ -56,13 +56,11 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Evangelical Lutheran Church in America.
     imageUrl: /artifacts/evangelical-lutheran-church-america-1.jpg
-  - title: Evangelical Lutheran Church in America Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Evangelical_Lutheran_Church_in_America'
+  - title: 'Concordia, Dresden 1580 - fba Sacred Relics & Scripture'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Concordia,_Dresden_1580_-_fba.jpg'
     provenance: 'Wittenberg, Saxony, Germany'
     period: c. 1988 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Evangelical Lutheran Church in America.
+    description: Title Page of Book of Concord 1580...
     imageUrl: /artifacts/evangelical-lutheran-church-america-2.jpg
 ---
 

@@ -46,26 +46,27 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Tendai%20Buddhism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 'Bundesarchiv Bild 146-2006-0064, Bruno Petzold Historical Sanctuary'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 9th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/tendai-1.jpg
-  - title: >-
-      Goryeo-Illustrated manuscript of the Lotus Sutra c.1340 Canonical
-      Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Goryeo-Illustrated_manuscript_of_the_Lotus_Sutra_c.1340.jpg
+      https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-2006-0064,_Bruno_Petzold.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 9th century CE
     description: >-
-      Illustrated Korean manuscript of the Lotus Sutra, Koryô (Goryeo) Dynasty
-      (918–1392), ca. 1340, Folding book, gold and silver on indigo-dyed
-      mulberry paper; 106 pages; each 33 x 11...
+      For documentary purposes the German Federal Archive often retained the
+      original image captions, which may be erroneous, biased, obsolete or
+      politically extreme. Auszeichnung eines...
+    imageUrl: /artifacts/tendai-1.jpg
+  - title: >-
+      A Sanskrit manuscript of Lotus Sutra in South Turkestan Brahmi script
+      Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:A_Sanskrit_manuscript_of_Lotus_Sutra_in_South_Turkestan_Brahmi_script.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 9th century CE
+    description: >-
+      This folio of the popular Saddharmapuṇḍarīkasūtra (Lotus Sutra) is written
+      in Sanskrit in an early form of South Turkestan Brahmi script. The
+      manuscript originally comprised more t...
     imageUrl: /artifacts/tendai-2.jpg
 ---
 

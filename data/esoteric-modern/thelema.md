@@ -55,7 +55,7 @@ artifacts:
     imageUrl: /artifacts/thelema-1.jpg
   - title: >-
       Joseph Martin Kronheim - Foxe's Book of Martyrs Plate VIII - Prest's Wife
-      and the Stonemason Canonical Scripture & Iconography
+      and the Stonemason Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Joseph_Martin_Kronheim_-_Foxe%27s_Book_of_Martyrs_Plate_VIII_-_Prest%27s_Wife_and_the_Stonemason.jpg
     provenance: 'Cairo (Fustat), Egypt'
@@ -63,7 +63,7 @@ artifacts:
     description: >-
       "Prest's Wife and the Stonemason", from an 1887 copy of Foxe's Book of
       Martyrs illustrated by Kronheim....
-    imageUrl: /artifacts/thelema-1.jpg
+    imageUrl: /artifacts/thelema-2.jpg
 ---
 
 # Thelema

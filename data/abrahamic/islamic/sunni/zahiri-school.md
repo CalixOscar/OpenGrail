@@ -46,21 +46,17 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Zahiri School'
     url: 'https://www.cambridge.org/core/search?q=Zahiri%20School'
 artifacts:
-  - title: Zahiri School Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zahiri_School'
+  - title: Faton Zahiri Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Faton_Zahiri.JPG'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 9th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Zahiri School.
+    description: 'Faton Zahiri, Sarpsborg...'
     imageUrl: /artifacts/zahiri-school-1.jpg
-  - title: Zahiri School Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zahiri_School'
+  - title: Sahih Al-Kafi Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sahih_Al-Kafi.png'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 9th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Zahiri School.
+    description: صورة غلاف كتاب "صحيح الكافي" الذي صدر في ثلاث أجزاء....
     imageUrl: /artifacts/zahiri-school-2.jpg
 ---
 

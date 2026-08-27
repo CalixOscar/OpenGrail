@@ -47,17 +47,17 @@ artifacts:
     provenance: 'Mount Carmel (Waco), Texas, USA'
     period: c. 1955 CE
     description: >-
-      The Branch Davidians (or the General Association of Branch Davidian
-      Seventh-day Adventists, or the Branch Seventh-day Adventists) are a
-      religious group founded in 1955 by Benjamin...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Branch Davidians.
     imageUrl: /artifacts/branch-davidians-1.jpg
-  - title: Branch Davidians Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Branch_Davidians'
+  - title: >-
+      Early writings of Mrs White (IA earlywritingsofm00whit) Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Early_writings_of_Mrs_White_(IA_earlywritingsofm00whit).pdf
     provenance: 'Mount Carmel (Waco), Texas, USA'
     period: c. 1955 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Branch Davidians.
+    description: 'Subjects: Seventh-Day Adventists...'
     imageUrl: /artifacts/branch-davidians-2.jpg
 ---
 

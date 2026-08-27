@@ -48,23 +48,14 @@ artifacts:
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1950s CE
     description: >-
-      Gardnerian Wicca, or Gardnerian witchcraft, is a 
-
-      tradition in the neopagan religion of Wicca, whose members can trace
-      initiatory descent from Gerald Gardner. The tradition is itse...
-  - title: >-
-      What Men Want - Initial Thoughts on the Male Goddess Movement Canonical
-      Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:What_Men_Want_-_Initial_Thoughts_on_the_Male_Goddess_Movement.pdf
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Gardnerian Wicca.
+  - title: Hokusai Sangoku Yoko-den Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hokusai_Sangoku_Yoko-den.jpg'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1950s CE
-    description: >-
-      Dave Green. 2012. "What Men Want? Initial Thoughts on the Male Goddess
-      Movement". Religion and Gender 2(2) 305–327. Utrecht, Utrecht Province,
-      Netherlands: Igitur Publishing.
-
-      Senio...
+    description: Sangoku Yōko-den (三国妖狐伝)...
+    imageUrl: /artifacts/gardnerian-wicca-2.jpg
 ---
 
 # Gardnerian Wicca

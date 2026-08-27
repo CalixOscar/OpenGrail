@@ -50,23 +50,30 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%AB%20Vai%E1%B9%A3%E1%B9%87avism
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Indische plastik (IA indischeplastik00cohn) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Indische_plastik_(IA_indischeplastik00cohn).pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: |-
+      Most of the plates printed on both sides
+      "Literatur": p. 89-90
+      Subjects: Sculpture...
     imageUrl: /artifacts/sri-vaishnavism-1.jpg
-  - title: Manavala mamunigal 03 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Manavala_mamunigal_03.jpg'
+  - title: >-
+      Vaikuntha Perumal Temple, Kanchipuram, dedicated to Vishnu, Pallava
+      period, 8th century Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Vaikuntha_Perumal_Temple,_Kanchipuram,_dedicated_to_Vishnu,_Pallava_period,_8th_century.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Śrī Vaiṣṇavism.
-    imageUrl: /artifacts/sri-vaishnavism-1.jpg
+      Thiru Parameswara Vinnagaram or Vaikunta Perumal Temple is a temple
+      dedicated to the Hindu god Vishnu, located in Kanchipuram in the South
+      Indian state of Tamil Nadu. 
+
+      It is dated...
+    imageUrl: /artifacts/sri-vaishnavism-2.jpg
 ---
 
 # Śrī Vaiṣṇavism

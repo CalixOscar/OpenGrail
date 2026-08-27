@@ -44,24 +44,26 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Australian%20Aboriginal%20Religions'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Saint Catherine's Monastery in Sinai surrounded by mountains mentioned in
+      the Bible when the People of Israel left Egypt (FL45952482) Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
-    period: c. ancestral era
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/australian-aboriginal-religions-1.jpg
-  - title: >-
-      Filming of the Yoruba oral traditions project Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
+      https://commons.wikimedia.org/wiki/File:Saint_Catherine%27s_Monastery_in_Sinai_surrounded_by_mountains_mentioned_in_the_Bible_when_the_People_of_Israel_left_Egypt_(FL45952482).jpg
     provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
     period: c. ancestral era
     description: >-
-      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
-      Ṣànpọ̀ná...
+      Saint Catherine's Monastery in Sinai surrounded by mountains mentioned in
+      the Bible when the People of Israel left Egypt.Photo shows: The landscape
+      of the Santa Katerina Monastery...
+    imageUrl: /artifacts/australian-aboriginal-religions-1.jpg
+  - title: Australian Aboriginal Religions Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Saint_Catherine%27s_Monastery_in_Sinai_surrounded_by_mountains_mentioned_in_the_Bible_when_the_People_of_Israel_left_Egypt_(FL45952482).jpg
+    provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
+    period: c. ancestral era
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Australian Aboriginal Religions.
     imageUrl: /artifacts/australian-aboriginal-religions-2.jpg
 ---
 

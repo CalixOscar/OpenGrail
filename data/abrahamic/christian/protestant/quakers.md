@@ -50,13 +50,17 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Quakers.
     imageUrl: /artifacts/quakers-1.jpg
-  - title: Quakers Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Quakers'
+  - title: George Fox Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:George_Fox.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1650s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Quakers.
+      George Fox.
+
+
+      This image shows part of an engraving by "S. Allen" (published 1838) of a
+      painting by "S. Chinn". The provenance of the original painting is
+      unknown....
     imageUrl: /artifacts/quakers-2.jpg
 ---
 

@@ -51,20 +51,25 @@ sources:
       https://www.rep.routledge.com/search?query=R%C4%81m%C4%81nand%C4%AB%20Samprad%C4%81ya
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Galtaji the monkey God temple The Temple of Galtaji is famous for its
+      natural water springs. Set a midst the beautiful landscape, Galtaji Temple
+      offers a picturesque view of the city. Natural water springs dr -
+      panoramio Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Galtaji_the_monkey_God_temple_The_Temple_of_Galtaji_is_famous_for_its_natural_water_springs._Set_a_midst_the_beautiful_landscape,_Galtaji_Temple_offers_a_picturesque_view_of_the_city._Natural_water_springs_dr_-_panoramio.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 14th–15th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Galtaji the monkey God temple The Temple of Galtaji is famous for its
+      natural water springs. Set a midst the beautiful landscape, Galtaji Temple
+      offers a picturesque view of the ci...
     imageUrl: /artifacts/ramanandi-sampradaya-1.jpg
-  - title: Older Durga Temple - Banaras Canonical Scripture & Iconography
+  - title: Older Durga Temple - Banaras Sacred Relics & Scripture
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Older_Durga_Temple_-_Banaras.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 14th–15th century CE
     description: 'This is the 500 years old Durga Temple, situated in Ramnagar, Varanasi....'
-    imageUrl: /artifacts/ramanandi-sampradaya-1.jpg
+    imageUrl: /artifacts/ramanandi-sampradaya-2.jpg
 ---
 
 # Rāmānandī Sampradāya

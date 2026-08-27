@@ -46,21 +46,29 @@ sources:
       Shiism
     url: 'https://www.cambridge.org/core/search?q=Usuli%20Twelver%20Shiism'
 artifacts:
-  - title: Usuli Twelver Shiism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Usuli_Twelver_Shiism'
+  - title: >-
+      A close look to the future of Turkish-Iranian relations (IA
+      acloselooktofutu1094542962) Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:A_close_look_to_the_future_of_Turkish-Iranian_relations_(IA_acloselooktofutu1094542962).pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. 17th–18th centuries CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Usuli Twelver Shiism.
+      The purpose of this thesis is to examine relations of Turkey and Iran
+      under the perspective of their cultural biases and security
+      prerequisities. It is important to evaluate both...
     imageUrl: /artifacts/usuli-twelver-shia-1.jpg
-  - title: Usuli Twelver Shiism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Usuli_Twelver_Shiism'
+  - title: Cosmography in four books Fleuron T107951-4 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Cosmography_in_four_books_Fleuron_T107951-4.png
     provenance: 'Jerusalem, Southern Levant'
     period: c. 17th–18th centuries CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Usuli Twelver Shiism.
+      Fleuron from book:
+
+      Cosmography in four books. Containing the chorography and history of the
+      whole world: and all the principal kingdoms, provinces, seas, and the
+      isles thereof. By...
     imageUrl: /artifacts/usuli-twelver-shia-2.jpg
 ---
 

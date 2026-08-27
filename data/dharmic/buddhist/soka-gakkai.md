@@ -42,26 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Soka%20Gakkai'
 artifacts:
-  - title: Soka Gakkai Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Soka_Gakkai'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1930 CE
-    description: >-
-      Soka Gakkai (Japanese: 創価学会, Hepburn: Sōka Gakkai; "creating value study
-      group") is a Japanese new religion founded in 1930 based on the teachings
-      of the 13th-century Japanese Budd...
-    imageUrl: /artifacts/soka-gakkai-2.jpg
-  - title: >-
-      Goryeo-Illustrated manuscript of the Lotus Sutra c.1340 Canonical
-      Scripture & Iconography
+  - title: Soka Gakkai (new head office 1) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Goryeo-Illustrated_manuscript_of_the_Lotus_Sutra_c.1340.jpg
+      https://commons.wikimedia.org/wiki/File:Soka_Gakkai_(new_head_office_1).jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 1930 CE
+    description: 'Soka Gakkai (創価学会), at Shinanomachi, Shinjuku, Tokyo, Japan...'
+    imageUrl: /artifacts/soka-gakkai-1.jpg
+  - title: Heike-Nokyo-Chapter-12-Lotus-Sutra Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Heike-Nokyo-Chapter-12-Lotus-Sutra.png
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1930 CE
     description: >-
-      Illustrated Korean manuscript of the Lotus Sutra, Koryô (Goryeo) Dynasty
-      (918–1392), ca. 1340, Folding book, gold and silver on indigo-dyed
-      mulberry paper; 106 pages; each 33 x 11...
+      Sutra art from the Heike-Nôkyô. The mikaeshi of chapter 12. The daughter
+      (Longnü) of the Dragon King offers the Buddha her priceless jewel (pearl).
+      With this anecdote, the Lotus Su...
     imageUrl: /artifacts/soka-gakkai-2.jpg
 ---
 

@@ -49,26 +49,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Parsi Zoroastrianism'
     url: 'https://brill.com/search?q=Parsi%20Zoroastrianism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Parsi wedding portrait with Dastur MN Dhalla Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Isfahan, Iran'
-    period: c. c. 8th–10th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/parsi-zoroastrianism-1.jpg
-  - title: >-
-      Avesta, translated by Ignacy Pietraszewski Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Avesta,_translated_by_Ignacy_Pietraszewski.jpg
+      https://commons.wikimedia.org/wiki/File:Parsi_wedding_portrait_with_Dastur_MN_Dhalla.jpg
     provenance: 'Isfahan, Iran'
     period: c. c. 8th–10th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Parsi Zoroastrianism.
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Parsi Zoroastrianism.
     imageUrl: /artifacts/parsi-zoroastrianism-1.jpg
+  - title: Erinaceus europaeus in Avesta 04 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Erinaceus_europaeus_in_Avesta_04.jpg
+    provenance: 'Isfahan, Iran'
+    period: c. c. 8th–10th century CE
+    description: >-
+      European hedgehog (Erinaceus europaeus). Avesta, Sweden. 1997 Opel Vectra
+      in background....
+    imageUrl: /artifacts/parsi-zoroastrianism-2.jpg
 ---
 
 # Parsi Zoroastrianism

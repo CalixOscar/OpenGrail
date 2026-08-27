@@ -53,13 +53,11 @@ artifacts:
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1803 CE
     description: >-
-      The Amarapura Nikāya (Sinhala: අමරපුර මහ නිකාය) was a Sri Lankan monastic
-      fraternity (gaṇa or nikāya) founded in 1800. It is named after the city of
-      Amarapura, Burma, the capital o...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Amarapura Nikāya.
     imageUrl: /artifacts/amarapura-nikaya-1.jpg
-  - title: The Pali literature of Burma (1909) Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Pali_literature_of_Burma_(1909).djvu
+  - title: Tipitaka Vinaya Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tipitaka_Vinaya.gif'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1803 CE
     description: >-

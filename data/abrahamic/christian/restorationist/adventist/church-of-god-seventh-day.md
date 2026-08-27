@@ -49,14 +49,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Church of God (Seventh Day).
     imageUrl: /artifacts/church-of-god-seventh-day-1.jpg
-  - title: Church of God (Seventh Day) Sacred Scripture & Art
+  - title: Church of God (Seventh Day) Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1863 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Church of God (Seventh Day).
-    imageUrl: /artifacts/church-of-god-seventh-day-2.jpg
 ---
 
 # Church of God (Seventh Day)

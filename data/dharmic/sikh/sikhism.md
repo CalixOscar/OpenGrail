@@ -45,22 +45,26 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Sikh%20Tradition'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Sikh painting of a marriage procession, circa 19th century Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Amritsar, Punjab, India'
-    period: c. c. 1500 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/sikhism-1.jpg
-  - title: Sri Guru Granth Sahib Nishan Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sri_Guru_Granth_Sahib_Nishan.jpg'
+      https://commons.wikimedia.org/wiki/File:Sikh_painting_of_a_marriage_procession,_circa_19th_century.jpg
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 1500 CE
     description: >-
-      Illuminated Adi Granth folio with nisan of Guru Gobind Singh. The
-      manuscript is of the Lahore recension, late 17th to early 18th century.
-      Gold and colours on paper; folio size 360...
+      Sikh painting of a marriage procession, circa 1850-1900. Opaque
+      watercolors on paper, 31.8 × 54.6 cm, Asian Art Museum of San Francisco,
+      Gift of the Kapany Collection, 1998.70....
+    imageUrl: /artifacts/sikhism-1.jpg
+  - title: The Cosmic Lotus Mahakala and the Ten Sikh Gurus Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Cosmic_Lotus_Mahakala_and_the_Ten_Sikh_Gurus.jpg
+    provenance: 'Amritsar, Punjab, India'
+    period: c. c. 1500 CE
+    description: >-
+      This is one of the folios of Sri Guru Granth Sahib, it is a visual
+      representation of the text written in the Guru Granth Sahib. The painting
+      represents the Universe, divided into t...
     imageUrl: /artifacts/sikhism-2.jpg
 ---
 

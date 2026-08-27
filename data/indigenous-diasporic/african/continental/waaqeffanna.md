@@ -47,23 +47,25 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Waaqeffanna'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Rankweil-Parish church to St. Peter-side altar right-altar shrine Saint
+      Pankratius-01ASD Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Rankweil-Parish_church_to_St._Peter-side_altar_right-altar_shrine_Saint_Pankratius-01ASD.jpg
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial; modern revitalization
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Church of Saint Peter in Rankweil, Vorarlberg, Austria. One of the oldest
+      churches in Vorarlberg...
     imageUrl: /artifacts/waaqeffanna-1.jpg
   - title: >-
-      Literacy in Multilingual and Multicultural Contexts Canonical Scripture &
-      Iconography
+      Literacy in Multilingual and Multicultural Contexts Sacred Relics &
+      Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Literacy_in_Multilingual_and_Multicultural_Contexts.pdf
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial; modern revitalization
     description: Publication by UNESCO...
-    imageUrl: /artifacts/waaqeffanna-1.jpg
+    imageUrl: /artifacts/waaqeffanna-2.jpg
 ---
 
 # Waaqeffanna

@@ -48,24 +48,19 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Anishinaabe%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: TRC Canada Executive Summary Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:TRC_Canada_Executive_Summary.pdf'
     provenance: 'Lake Superior (Anishinaabe), MI/ON'
     period: c. precolonial
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: TRC Canada Executive Summary...
     imageUrl: /artifacts/anishinaabe-religions-1.jpg
-  - title: Anishinaabe Religious Traditions Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Anishinaabe Religious Traditions Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:TRC_Canada_Executive_Summary.pdf'
     provenance: 'Lake Superior (Anishinaabe), MI/ON'
     period: c. precolonial
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Anishinaabe Religious Traditions.
-    imageUrl: /artifacts/anishinaabe-religions-1.jpg
 ---
 
 # Anishinaabe Religious Traditions

@@ -43,24 +43,21 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Longmen%20Daoism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Longmen-grottoes-longmen-mountain-from-a-distance Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Luoyang, Henan, China'
-    period: c. c. 17th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/longmen-daoism-1.jpg
-  - title: Longmen Daoism Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Longmen-grottoes-longmen-mountain-from-a-distance.jpg
     provenance: 'Luoyang, Henan, China'
     period: c. c. 17th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Longmen Daoism.
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Longmen Daoism.
     imageUrl: /artifacts/longmen-daoism-1.jpg
+  - title: 丘處機 Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:%E4%B8%98%E8%99%95%E6%A9%9F.jpg'
+    provenance: 'Luoyang, Henan, China'
+    period: c. c. 17th century CE
+    description: ​《邱祖便裝行道圖》，據傳為元代畫作，有清代牟昌裕題跋，藏於北京白雲觀。...
+    imageUrl: /artifacts/longmen-daoism-2.jpg
 ---
 
 # Longmen Daoism

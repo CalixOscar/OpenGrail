@@ -42,24 +42,38 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ter%C4%81panth%20Jainism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. 1760 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/terapanth-jainism-1.jpg
-  - title: Terāpanth Jainism Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Acharya Mahapragya Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Acharya_Mahapragya.jpg'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. 1760 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Terāpanth Jainism.
+      Acharya Mahapragya is the 10th Head of the Jain Shwetamber Terapanth sect.
+      He is great philosopher, author and social reformer...
     imageUrl: /artifacts/terapanth-jainism-1.jpg
+  - title: Shrimad Jayacharya Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Shrimad_Jayacharya.jpg'
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. 1760 CE
+    description: |-
+      ACHARYA SHRI JEETMAL
+      Category: Acharya  
+
+            Name
+
+      Acharya Shri Jeetmal
+         Original Name
+
+      Jayacharya
+          Date of Birth
+
+
+      29th September 1803
+
+          Place of Birth
+
+
+      Royat (Rajasth...
+    imageUrl: /artifacts/terapanth-jainism-2.jpg
 ---
 
 # Terāpanth Jainism

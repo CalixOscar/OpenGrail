@@ -46,21 +46,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Shi''a Islam'
     url: 'https://www.cambridge.org/core/search?q=Shi''a%20Islam'
 artifacts:
-  - title: Shi'a Islam Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shi''a_Islam'
+  - title: Arba'een Pilgrimage - Iranian People- Shia Muslim 05 Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Arba%27een_Pilgrimage_-_Iranian_People-_Shia_Muslim_05.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 7th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Shi'a Islam.
+      During the pilgrimage "copious supplies of food, small clinics and even
+      dentists are available for pilgrims and they all work for free. "The care
+      of pilgrims is regarded as a relig...
     imageUrl: /artifacts/shia-islam-1.jpg
-  - title: Shi'a Islam Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shi''a_Islam'
+  - title: >-
+      Quran page - Al-Baqara Sura - Egyptian National Library Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Quran_page_-_Al-Baqara_Sura_-_Egyptian_National_Library.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 7th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Shi'a Islam.
+    description: صفحة من القرآن مكتوبة بخط النسخ...
     imageUrl: /artifacts/shia-islam-2.jpg
 ---
 

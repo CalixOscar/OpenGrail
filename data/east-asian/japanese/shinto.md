@@ -50,15 +50,14 @@ artifacts:
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
     description: >-
-      Shinto (Japanese: 神道, Hepburn: Shintō; Japanese pronunciation:
-      [ɕiꜜn.toː]), also called Shintoism, is a religion from Japan. Classified
-      as an East Asian religion by scholars of rel...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Shinto.
     imageUrl: /artifacts/shinto-1.jpg
-  - title: Kojiki Shinpukuji Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kojiki_Shinpukuji.jpg'
+  - title: Kojiki French edition Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kojiki_French_edition.JPG'
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
-    description: 'The Records of Ancient Matters (古事記, Kojiki), Shinpukuji manuscript...'
+    description: Edition française du Kojiki...
     imageUrl: /artifacts/shinto-2.jpg
 ---
 

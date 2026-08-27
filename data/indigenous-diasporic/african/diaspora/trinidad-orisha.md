@@ -54,10 +54,9 @@ artifacts:
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. 19th century CE
     description: >-
-      Trinidad Orisha, also known as Orisha religion and Shango, is a syncretic
-      religion in Trinidad and Tobago and the Caribbean, originally from West
-      Africa (Yoruba religion). Trinidad...
-  - title: Trinidad Orisha Sacred Scripture & Art
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Trinidad Orisha.
+  - title: Trinidad Orisha Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Trinidad_Orisha'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. 19th century CE

@@ -46,22 +46,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Churches of Christ'
     url: 'https://www.cambridge.org/core/search?q=Churches%20of%20Christ'
 artifacts:
-  - title: Churches of Christ Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Churches_of_Christ'
+  - title: >-
+      Altar, Temple Church, London EC4 - geograph.org.uk - 3169010 Historical
+      Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Altar,_Temple_Church,_London_EC4_-_geograph.org.uk_-_3169010.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1906 CE
-    description: >-
-      The Churches of Christ, also commonly known as the Church of Christ, is a
-      loose association of autonomous Christian congregations located around the
-      world. Typically, their disting...
+    description: 'Altar, Temple Church, London EC4...'
     imageUrl: /artifacts/churches-of-christ-1.jpg
-  - title: Churches of Christ Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Churches_of_Christ'
+  - title: >-
+      The Declaration of independence of the United States of America, 1776; and
+      Washington's farewell address to the people of the United States, 1796 (IA
+      declarationofind03unit) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Declaration_of_independence_of_the_United_States_of_America,_1776;_and_Washington%27s_farewell_address_to_the_people_of_the_United_States,_1796_(IA_declarationofind03unit).pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1906 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Churches of Christ.
+    description: 'Subjects: Washington, George, 1732-1799...'
     imageUrl: /artifacts/churches-of-christ-2.jpg
 ---
 

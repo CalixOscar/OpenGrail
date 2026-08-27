@@ -47,18 +47,16 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century CE
     description: >-
-      The Church of the East (Classical Syriac: ܥܕܬܐ ܕܡܕܢܚܐ ʿĒḏtā d-Maḏenḥā) or
-      the East Syriac Church, (also called the Church of Seleucia-Ctesiphon, the
-      Persian Church, the Assyrian Ch...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Church of the East.
     imageUrl: /artifacts/church-of-the-east-1.jpg
-  - title: Church of the East Sacred Scripture & Art
+  - title: Church of the East Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_the_East'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Church of the East.
-    imageUrl: /artifacts/church-of-the-east-2.jpg
 ---
 
 # Church of the East

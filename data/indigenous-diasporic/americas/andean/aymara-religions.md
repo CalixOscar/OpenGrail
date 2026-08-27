@@ -54,27 +54,23 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Aymara%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Aymara Religious Traditions Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Aymara_Religious_Traditions'
     provenance: 'Tiwanaku, Lake Titicaca, Bolivia'
     period: c. pre-Inca and historically diverse
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/aymara-religions-1.jpg
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Aymara Religious Traditions.
   - title: >-
-      The Indian races of North and South America (Bronwell, 1853) (IA
-      indianracesofnor00brow 0) Canonical Scripture & Iconography
+      American ethnology- being a summary of some of the results which have
+      followed the investigation of this subject (IA americanethnolog00squi)
+      Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Indian_races_of_North_and_South_America_(Bronwell,_1853)_(IA_indianracesofnor00brow_0).pdf
+      https://commons.wikimedia.org/wiki/File:American_ethnology-_being_a_summary_of_some_of_the_results_which_have_followed_the_investigation_of_this_subject_(IA_americanethnolog00squi).pdf
     provenance: 'Tiwanaku, Lake Titicaca, Bolivia'
     period: c. pre-Inca and historically diverse
-    description: |-
-      p. 24 col. pl., 15 port. (part col.) 23 cm
-
-      Subjects: Indians...
-    imageUrl: /artifacts/aymara-religions-1.jpg
+    description: 'Subjects: Indians...'
+    imageUrl: /artifacts/aymara-religions-2.jpg
 ---
 
 # Aymara Religious Traditions

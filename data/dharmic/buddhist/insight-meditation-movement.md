@@ -45,16 +45,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Insight%20Meditation%20Movement'
 artifacts:
-  - title: Insight Meditation Movement Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Insight_Meditation_Movement'
+  - title: >-
+      Federal Election Commission investigation of Larry Chroman for Congress
+      complaint Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Federal_Election_Commission_investigation_of_Larry_Chroman_for_Congress_complaint.pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Insight Meditation Movement.
+      Federal Election Commission investigation of Larry Chroman for Congress
+      complaint;See also: United States House of Representatives elections,
+      1992...
     imageUrl: /artifacts/insight-meditation-movement-1.jpg
-  - title: Insight Meditation Movement Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Insight_Meditation_Movement'
+  - title: Insight Meditation Movement Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Federal_Election_Commission_investigation_of_Larry_Chroman_for_Congress_complaint.pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-

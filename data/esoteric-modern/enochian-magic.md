@@ -47,22 +47,20 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Enochian Magic'
     url: 'https://brill.com/search?q=Enochian%20Magic'
 artifacts:
-  - title: Enochian magic Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Enochian_magic'
+  - title: Enochian Magic Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Enochian_Magic'
     provenance: 'London, England, UK'
     period: c. 1580s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Enochian Magic.
     imageUrl: /artifacts/enochian-magic-1.jpg
-  - title: Enochian Magic Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Enochian_magic'
+  - title: Sloane3188-john dee Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sloane3188-john_dee.png'
     provenance: 'London, England, UK'
     period: c. 1580s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Enochian Magic.
-    imageUrl: /artifacts/enochian-magic-1.jpg
+    description: Diagram of Sigillum Dei Aemeth by John Dee...
+    imageUrl: /artifacts/enochian-magic-2.jpg
 ---
 
 # Enochian Magic

@@ -50,12 +50,14 @@ artifacts:
     provenance: 'Athens, Attica, Greece'
     period: c. c. 8th century BCE
     description: >-
-      The Eleusinian Mysteries (Greek: Ἐλευσίνια Μυστήρια, romanized: Eleusínia
-      Mystḗria) were initiations held every year for the cult of Demeter and
-      Persephone based at the Panhellenic...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Eleusinian Mysteries.
     imageUrl: /artifacts/eleusinian-mysteries-1.jpg
-  - title: Eleusinian Mysteries Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Eleusinian_Mysteries'
+  - title: >-
+      Leiden BPG 33 H fol 33r - Homeric Hymn to Demeter 187-236 Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Leiden_BPG_33_H_fol_33r_-_Homeric_Hymn_to_Demeter_187-236.jpg
     provenance: 'Athens, Attica, Greece'
     period: c. c. 8th century BCE
     description: >-

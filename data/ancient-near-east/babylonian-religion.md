@@ -46,17 +46,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Babylonian Religion'
     url: 'https://brill.com/search?q=Babylonian%20Religion'
 artifacts:
-  - title: Babylonian religion Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Babylonian_religion'
+  - title: Babylonian Religion Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Babylonian_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1900 BCE
     description: >-
-      Babylonia's religion and mythology were largely influenced by its Sumerian
-      counterparts and were written on clay tablets inscribed with the cuneiform
-      script derived from Sumerian c...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Babylonian Religion.
     imageUrl: /artifacts/babylonian-religion-1.jpg
-  - title: Babylonian Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Babylonian_religion'
+  - title: Babylonian Religion Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Babylonian_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1900 BCE
     description: >-

@@ -47,23 +47,26 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=Korean%20Shamanic%20Traditions
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      A modern pioneer in Korea-Henry G. Appenzeller-by William Elliot Griffis
+      Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Seoul (Hanyang), South Korea'
-    period: c. ancient
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/korean-shamanism-1.jpg
-  - title: Korean Shamanic Traditions Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:A_modern_pioneer_in_Korea-Henry_G._Appenzeller-by_William_Elliot_Griffis.djvu
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. ancient
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Korean Shamanic Traditions.
+      A modern pioneer in Korea; the life story of Henry G. Appenzeller
+      (1912)...
     imageUrl: /artifacts/korean-shamanism-1.jpg
+  - title: Land use and agriculture (IA CAT31330530) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Land_use_and_agriculture_(IA_CAT31330530).pdf
+    provenance: 'Seoul (Hanyang), South Korea'
+    period: c. ancient
+    description: |-
+      "June 1977."
+      Includes bibliographical references and index
+      Subjects: Agriculture; Land use; Agriculture; Land use...
+    imageUrl: /artifacts/korean-shamanism-2.jpg
 ---
 
 # Korean Shamanic Traditions

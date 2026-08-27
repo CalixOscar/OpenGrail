@@ -46,20 +46,20 @@ sources:
     url: 'https://brill.com/search?q=Unification%20Movement'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      2008 09 Family Federation for World Peace and Unification, Toronto
+      Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:2008_09_Family_Federation_for_World_Peace_and_Unification,_Toronto.jpg
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. 1954 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: '"Family Federation for World Peace and Unification", in Toronto...'
     imageUrl: /artifacts/unification-movement-1.jpg
-  - title: Unification Church DC 2 Canonical Scripture & Iconography
+  - title: Unification Church DC 2 Sacred Relics & Scripture
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Unification_Church_DC_2.jpg'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. 1954 CE
     description: 'Unification Church on 16th Street NW in Washington, DC...'
-    imageUrl: /artifacts/unification-movement-1.jpg
+    imageUrl: /artifacts/unification-movement-2.jpg
 ---
 
 # Unification Movement

@@ -49,23 +49,33 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Shrinathji Nathdwara Pushtimarg Krishna jouant de la flûte (Musée Guimet,
+      Paris) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. late 15th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/pushtimarg-1.jpg
-  - title: Puṣṭimārga Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Shrinathji_Nathdwara_Pushtimarg_Krishna_jouant_de_la_fl%C3%BBte_(Mus%C3%A9e_Guimet,_Paris).jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 15th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Puṣṭimārga.
+      Krishna jouant de la flûte (Venugopala)
+
+      École du Rajasthan, Nathdwara, Inde
+
+      Vers 1850, Gouache sur papier
+
+      Achat, 1964, Collection du musée national des arts asiatiques - Guimet,
+      Pa...
     imageUrl: /artifacts/pushtimarg-1.jpg
+  - title: >-
+      4990010250483 - Subodhini (1870) vol. 1, Mitra, Kalidas, ed., 418p,
+      GENERALITIES, bengali (1890) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:4990010250483_-_Subodhini_(1870)_vol._1,_Mitra,_Kalidas,_ed.,_418p,_GENERALITIES,_bengali_(1890).pdf
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. late 15th century CE
+    description: >-
+      4990010250483 - Subodhini (1870) vol. 1, Mitra, Kalidas, ed., 418p,
+      GENERALITIES, bengali (1890).pdf...
+    imageUrl: /artifacts/pushtimarg-2.jpg
 ---
 
 # Puṣṭimārga

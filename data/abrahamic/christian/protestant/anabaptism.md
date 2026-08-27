@@ -50,14 +50,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Anabaptism.
     imageUrl: /artifacts/anabaptism-1.jpg
-  - title: Anabaptism Sacred Scripture & Art
+  - title: Anabaptism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Anabaptism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1525 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Anabaptism.
-    imageUrl: /artifacts/anabaptism-2.jpg
 ---
 
 # Anabaptism

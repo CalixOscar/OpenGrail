@@ -48,16 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Enlil at Nippur'
     url: 'https://brill.com/search?q=Cult%20of%20Enlil%20at%20Nippur'
 artifacts:
-  - title: Cult of Enlil at Nippur Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Enlil_at_Nippur'
+  - title: >-
+      The Babylonian Expedition of the University of Pennsylvania (IA
+      acf2576.0005.001.umich.edu) Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Babylonian_Expedition_of_the_University_of_Pennsylvania_(IA_acf2576.0005.001.umich.edu).pdf
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3000 BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Cult of Enlil at Nippur.
+    description: |-
+      "Eckley Brinton Coxe, junior, fund."
+      Editor: H. V. Hilprecht
+      Mode of access: Internet
+      Subjects: Excavations (Archaeology); Cuneiform inscriptions...
     imageUrl: /artifacts/enlil-cult-nippur-1.jpg
-  - title: Cult of Enlil at Nippur Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Enlil_at_Nippur'
+  - title: Cult of Enlil at Nippur Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Babylonian_Expedition_of_the_University_of_Pennsylvania_(IA_acf2576.0005.001.umich.edu).pdf
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3000 BCE
     description: >-

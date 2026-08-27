@@ -48,24 +48,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Swaminarayan%20Samprad%C4%81ya'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 'Shri Swaminarayan Mandir, Bhavnagar 01 Historical Sanctuary'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Shri_Swaminarayan_Mandir,_Bhavnagar_01.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. early 19th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Shri Swaminarayan Mandir, Bhavnagar, India...'
     imageUrl: /artifacts/swaminarayan-sampradaya-1.jpg
-  - title: Swaminarayan Sampradāya Sacred Scripture & Art
+  - title: Swaminarayan Sampradāya Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Shri_Swaminarayan_Mandir,_Bhavnagar_01.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. early 19th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Swaminarayan Sampradāya.
-    imageUrl: /artifacts/swaminarayan-sampradaya-1.jpg
 ---
 
 # Swaminarayan Sampradāya

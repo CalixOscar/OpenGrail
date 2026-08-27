@@ -46,25 +46,23 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Indigenous%20American%20Religions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. prehistoric and historically diverse
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/indigenous-american-religions-1.jpg
-  - title: >-
-      United Nations General Assembly resolution A-RES-77-203 Canonical
-      Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:United_Nations_General_Assembly_resolution_A-RES-77-203.pdf
+  - title: Hunab Ku Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hunab_Ku.png'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. prehistoric and historically diverse
     description: >-
-      Resolution adopted at the 77th session of the United Nations General
-      Assembly...
+      The Hunab Ku, symbol of Mexicayotl and Toltecayotl, modern revivals of
+      ancient Mexican/Mesoamerican religions....
+    imageUrl: /artifacts/indigenous-american-religions-1.jpg
+  - title: >-
+      Indigenous American Religions (Comparative) Canonical Scripture &
+      Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hunab_Ku.png'
+    provenance: 'Ile-Ife, Osun, Nigeria'
+    period: c. prehistoric and historically diverse
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Indigenous American Religions (Comparative).
     imageUrl: /artifacts/indigenous-american-religions-2.jpg
 ---
 

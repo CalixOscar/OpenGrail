@@ -53,16 +53,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Gnostic Traditions'
     url: 'https://www.cambridge.org/core/search?q=Gnostic%20Traditions'
 artifacts:
-  - title: Gnostic Traditions Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gnostic_Traditions'
+  - title: Pleroma-Logo Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Pleroma-Logo.png'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 100 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Gnostic Traditions.
+    description: 'Logo of Pleroma, an implementation of w:federated social network...'
     imageUrl: /artifacts/gnosticism-1.jpg
-  - title: Gnostic Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gnostic_Traditions'
+  - title: Gnostic Traditions Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Pleroma-Logo.png'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 100 CE
     description: >-

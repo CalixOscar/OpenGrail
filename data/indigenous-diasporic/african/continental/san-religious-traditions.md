@@ -51,21 +51,23 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=San%20Religious%20Traditions'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Mantegna, Andrea - crucifixion - Louvre from Predella San Zeno Altarpiece
+      Verona Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Mantegna,_Andrea_-_crucifixion_-_Louvre_from_Predella_San_Zeno_Altarpiece_Verona.jpg
     provenance: 'Kalahari Desert, Botswana/Namibia'
     period: c. prehistoric continuity and change
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Altarretabel von San Zeno in Verona, Triptychon, mittlere Predellatafel:
+      Kreuzigung...
     imageUrl: /artifacts/san-religious-traditions-1.jpg
-  - title: Oral English (IA oralenglish00newy) Canonical Scripture & Iconography
+  - title: Oral English (IA oralenglish00newy) Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Oral_English_(IA_oralenglish00newy).pdf
     provenance: 'Kalahari Desert, Botswana/Namibia'
     period: c. prehistoric continuity and change
     description: 'Subjects: English language...'
-    imageUrl: /artifacts/san-religious-traditions-1.jpg
+    imageUrl: /artifacts/san-religious-traditions-2.jpg
 ---
 
 # San Religious Traditions (Comparative)

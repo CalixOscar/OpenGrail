@@ -42,16 +42,20 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=B%C3%B6n'
 artifacts:
-  - title: Bön Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/B%C3%B6n'
+  - title: >-
+      Khro bo gtso mchog mKha’ ’gying and mKha’ la gdug mo with their entourage
+      pigments and gold on cotton - Bonpo thangka c. 1300 Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Khro_bo_gtso_mchog_mKha%E2%80%99_%E2%80%99gying_and_mKha%E2%80%99_la_gdug_mo_with_their_entourage_pigments_and_gold_on_cotton_-_Bonpo_thangka_c._1300.png
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Bön.
+      Depicts in the center Khro bo gtso mchog mkha’ ’gying (blue) and his
+      consort Mkha’ la gdug mo (red) with their entourage...
     imageUrl: /artifacts/bon-1.jpg
-  - title: Bön Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/B%C3%B6n'
+  - title: Bön Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Khro_bo_gtso_mchog_mKha%E2%80%99_%E2%80%99gying_and_mKha%E2%80%99_la_gdug_mo_with_their_entourage_pigments_and_gold_on_cotton_-_Bonpo_thangka_c._1300.png
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-

@@ -46,18 +46,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shangqing%20Daoism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Liu Shangqing Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Liu_Shangqing.jpg'
     provenance: 'Luoyang, Henan, China'
     period: c. 4th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Liu Shangqing (Liu Shang-ch'ing) (1868 - 1947)...
     imageUrl: /artifacts/shangqing-daoism-1.jpg
-  - title: CADAL06050869 真誥·卷一~卷四 Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:CADAL06050869_%E7%9C%9F%E8%AA%A5%C2%B7%E5%8D%B7%E4%B8%80~%E5%8D%B7%E5%9B%9B.djvu
+  - title: Shangqing Daoism Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Liu_Shangqing.jpg'
     provenance: 'Luoyang, Henan, China'
     period: c. 4th century CE
     description: >-

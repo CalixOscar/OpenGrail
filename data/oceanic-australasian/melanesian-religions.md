@@ -42,25 +42,26 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Melanesian%20Religions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. ancestral era
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/melanesian-religions-1.jpg
-  - title: >-
-      Filming of the Yoruba oral traditions project Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
+  - title: Melanesian Religions Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Melanesian_Religions'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. ancestral era
     description: >-
-      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
-      Ṣànpọ̀ná...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Melanesian Religions.
+  - title: >-
+      Islands far away; Fijian pictures with pen and brush (1921) (14591035370)
+      Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Islands_far_away;_Fijian_pictures_with_pen_and_brush_(1921)_(14591035370).jpg
+    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
+    period: c. ancestral era
+    description: |-
+      Identifier: islandsfarawayfi00king (find matches)
+      Title: Islands far away; Fijian pictures with pen and brush
+      Year: 1921 (1920s)
+      Authors:  King, Agnes Gardner
+      Subjects:  Fiji -- D...
     imageUrl: /artifacts/melanesian-religions-2.jpg
 ---
 

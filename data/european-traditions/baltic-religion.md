@@ -39,24 +39,25 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Baltic Religion'
     url: 'https://brill.com/search?q=Baltic%20Religion'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Dievs Pērkons 11 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dievs_P%C4%93rkons_11.jpg'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Dievturi pielūdz Dievu Pērkonu kā Debesu Tēvu. Dievu Pērkonu dievturībā
+      mēdz dēvēt par Pērkoņtēvu vai visvareno Pērkonu – Debesu Tēvu. Viņa
+      simbols ir Pērkoņkrusts jeb Pērkonkrusts...
     imageUrl: /artifacts/baltic-religion-1.jpg
   - title: >-
-      Esthonia past and present (IA esthoniapastpres00ohar) Canonical Scripture
-      & Iconography
+      News releases and other news material - United States Department of
+      Agriculture, Office of Public Affairs. (IA CAT10619378047) Sacred Relics &
+      Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Esthonia_past_and_present_(IA_esthoniapastpres00ohar).pdf
+      https://commons.wikimedia.org/wiki/File:News_releases_and_other_news_material_-_United_States_Department_of_Agriculture,_Office_of_Public_Affairs._(IA_CAT10619378047).pdf
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium BCE
-    description: "\"By courtesy of the Review of reviews (September, 1922).\"\nWith: Esthonia / by Robert Machray. Bournemouth\_: W. Mate, 1919\nSubjects:..."
-    imageUrl: /artifacts/baltic-religion-1.jpg
+    description: "volumes\_; 22 cm\nIssue numbering consists of month-week no. in month-year designation: e.g., no. 2193 covers 1st week in Feb. 1993; no. 11293 covers2nd week in Nov. 1993, etc\nDescr..."
+    imageUrl: /artifacts/baltic-religion-2.jpg
 ---
 
 # Baltic Religion

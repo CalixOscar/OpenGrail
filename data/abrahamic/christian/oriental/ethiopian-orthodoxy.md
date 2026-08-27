@@ -50,7 +50,7 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ethiopian Orthodoxy.
     imageUrl: /artifacts/ethiopian-orthodoxy-1.jpg
-  - title: Ethiopian Orthodoxy Sacred Scripture & Art
+  - title: Ethiopian Orthodoxy Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Ethiopian_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE

@@ -50,10 +50,9 @@ artifacts:
     provenance: 'London, England, UK'
     period: c. 2010 CE
     description: >-
-      The Missionary Church of Kopimism (in Swedish Missionerande
-      Kopimistsamfundet) is a congregation of file sharers who believe that
-      copying information is a sacred virtue; it was fou...
-  - title: Missionary Church of Kopimism Sacred Scripture & Art
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Missionary Church of Kopimism.
+  - title: Missionary Church of Kopimism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Missionary_Church_of_Kopimism'
     provenance: 'London, England, UK'
     period: c. 2010 CE

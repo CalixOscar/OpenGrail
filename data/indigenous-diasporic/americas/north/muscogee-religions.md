@@ -47,18 +47,15 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Muscogee%20Ceremonial%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Phyang Monastery 01 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Phyang_Monastery_01.jpg'
     provenance: 'Cahokia Mounds, Mississippi River, IL, USA'
     period: c. precolonial
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Phyang Monastery, Ladakh, India...'
     imageUrl: /artifacts/muscogee-religions-1.jpg
   - title: >-
       Public Lands Institute - Ocmulgee Mounds National Historical Park - 001
-      Canonical Scripture & Iconography
+      Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Public_Lands_Institute_-_Ocmulgee_Mounds_National_Historical_Park_-_001.tif
     provenance: 'Cahokia Mounds, Mississippi River, IL, USA'
@@ -67,7 +64,7 @@ artifacts:
       Photograph by the Public Lands Institute. Site: Ocmulgee Mounds National
       Historical Park, Georgia. Managed by National Park Service. Geological
       age: ~85 Mya Late Cretaceous Ripley...
-    imageUrl: /artifacts/muscogee-religions-1.jpg
+    imageUrl: /artifacts/muscogee-religions-2.jpg
 ---
 
 # Muscogee Ceremonial Traditions

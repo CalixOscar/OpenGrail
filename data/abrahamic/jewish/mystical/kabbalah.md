@@ -47,11 +47,10 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 12th century CE
     description: >-
-      Kabbalah or Qabalah ( kə-BAH-lə, KAB-ə-lə; Hebrew: קַבָּלָה, romanized:
-      Qabbālā, pronounced [kabaˈla] ; lit. 'act of receiving'  or 'acceptation')
-      is an esoteric method, discipline...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Kabbalah.
     imageUrl: /artifacts/kabbalah-1.jpg
-  - title: Kabbalah Sacred Scripture & Art
+  - title: Kabbalah Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Kabbalah'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 12th century CE

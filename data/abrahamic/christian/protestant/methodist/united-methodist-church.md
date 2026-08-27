@@ -56,14 +56,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with United Methodist Church.
     imageUrl: /artifacts/united-methodist-church-1.jpg
-  - title: United Methodist Church Sacred Scripture & Art
+  - title: United Methodist Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/United_Methodist_Church'
     provenance: 'Oxford, Oxfordshire, England, UK'
     period: c. 1968 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of United Methodist Church.
-    imageUrl: /artifacts/united-methodist-church-2.jpg
 ---
 
 # United Methodist Church

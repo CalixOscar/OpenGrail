@@ -48,30 +48,26 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Heaven''s Gate'
     url: 'https://brill.com/search?q=Heaven''s%20Gate'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: HeavensGateRecruitmentMeetingFlyer (cropped) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'London, England, UK'
-    period: c. 1970s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/heavens-gate-1.jpg
-  - title: >-
-      De Curaçaosche courant 01-12-1821 (IA ddd 010334217 mpeg21) Canonical
-      Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:De_Cura%C3%A7aosche_courant_01-12-1821_(IA_ddd_010334217_mpeg21).pdf
+      https://commons.wikimedia.org/wiki/File:HeavensGateRecruitmentMeetingFlyer_(cropped).jpg
     provenance: 'London, England, UK'
     period: c. 1970s CE
     description: >-
-      Title: De Curaçaosche courantDatum: 01-12-1821Editie: DagPlaats van
-      uitgave: [Willemstad]Uitgever: William LeeVerspreidingsgebied: Nederlandse
-      AntillenNummer: 48Jaargang: 9
-
-
-      Subje...
+      This flyer was distributed in Berkeley, CA in May, 1993 for a recruitment
+      meeting by Heaven's Gate recruiters....
     imageUrl: /artifacts/heavens-gate-1.jpg
+  - title: >-
+      Heaven's Gate member lays on a bed in Rancho Santa Fe Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Heaven%27s_Gate_member_lays_on_a_bed_in_Rancho_Santa_Fe.png
+    provenance: 'London, England, UK'
+    period: c. 1970s CE
+    description: >-
+      Heaven's Gate member lays on a bed in Rancho Santa Fe after the 1997 mass
+      suicide...
+    imageUrl: /artifacts/heavens-gate-2.jpg
 ---
 
 # Heaven's Gate

@@ -40,24 +40,25 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Quanzhen%20Daoism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Qufu, Shandong, China'
-    period: c. 12th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/quanzhen-daoism-1.jpg
-  - title: Quanzhen Daoism Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: WangChongYang Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:WangChongYang.jpg'
     provenance: 'Qufu, Shandong, China'
     period: c. 12th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Quanzhen Daoism.
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Quanzhen Daoism.
     imageUrl: /artifacts/quanzhen-daoism-1.jpg
+  - title: Daoistplaquecharmrevhengshan3 Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Daoistplaquecharmrevhengshan3.jpg'
+    provenance: 'Qufu, Shandong, China'
+    period: c. 12th century CE
+    description: >-
+      Mount Heng (Hengshan 恒山) in Shanxi (山西) province is the “North Peak (北岳).
+      Mount Heng was the center of Quanzhen Daoism (全真道) and is where Yin
+      Zhiping made pills of immortality.
+
+      Nea...
+    imageUrl: /artifacts/quanzhen-daoism-2.jpg
 ---
 
 # Quanzhen Daoism

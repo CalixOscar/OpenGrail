@@ -49,16 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Roman Imperial Cult'
     url: 'https://brill.com/search?q=Roman%20Imperial%20Cult'
 artifacts:
-  - title: Roman Imperial Cult Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Imperial_Cult'
+  - title: Antinous imperial cult Louvre Ma1781 Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Antinous_imperial_cult_Louvre_Ma1781.jpg
     provenance: 'Athens, Attica, Greece'
     period: c. c. 27 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Roman Imperial Cult.
+      Antinous (117–138 CE) as a priest of the imperial cult. Marble statue
+      found in Cyrene, Libya....
     imageUrl: /artifacts/roman-imperial-cult-1.jpg
-  - title: Roman Imperial Cult Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Imperial_Cult'
+  - title: Roman Imperial Cult Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Antinous_imperial_cult_Louvre_Ma1781.jpg
     provenance: 'Athens, Attica, Greece'
     period: c. c. 27 BCE
     description: >-

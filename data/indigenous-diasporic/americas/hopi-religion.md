@@ -42,24 +42,27 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Hopi%20Religion'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Hopi Indian priests emerging from their Kivas before the Hopi Snake Dance
+      Ceremony at Mishongnovi, ca.1900 (CHS-1046) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Old Oraibi, Third Mesa, Hopi Nation, AZ'
-    period: c. ancestral era
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/hopi-religion-1.jpg
-  - title: >-
-      Filming of the Yoruba oral traditions project Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
+      https://commons.wikimedia.org/wiki/File:Hopi_Indian_priests_emerging_from_their_Kivas_before_the_Hopi_Snake_Dance_Ceremony_at_Mishongnovi,_ca.1900_(CHS-1046).jpg
     provenance: 'Old Oraibi, Third Mesa, Hopi Nation, AZ'
     period: c. ancestral era
     description: >-
-      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
-      Ṣànpọ̀ná...
+      Hopi Indian priests emerging from their Kivas before the Hopi Snake Dance
+      Ceremony at Mishongnovi, ca.1900
+
+      Photograph of two Hopi Indian priests emerging from their Kivas
+      (includi...
+    imageUrl: /artifacts/hopi-religion-1.jpg
+  - title: ECH 2985 10 - Fiestas y celebraciones Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:ECH_2985_10_-_Fiestas_y_celebraciones.djvu
+    provenance: 'Old Oraibi, Third Mesa, Hopi Nation, AZ'
+    period: c. ancestral era
+    description: >-
+      Article of the category Folklore from the Enciclopedia Chilena project,
+      done by the Chilean Library of Congress...
     imageUrl: /artifacts/hopi-religion-2.jpg
 ---
 

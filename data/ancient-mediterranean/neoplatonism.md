@@ -54,11 +54,10 @@ artifacts:
     provenance: 'Athens, Attica, Greece'
     period: c. 3rd century CE
     description: >-
-      Neoplatonism is a version of Platonic philosophy that emerged in the 3rd
-      century AD against the background of Hellenistic philosophy and religion.
-      The term does not encapsulate a s...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Neoplatonism.
     imageUrl: /artifacts/neoplatonism-1.jpg
-  - title: Neoplatonism Sacred Scripture & Art
+  - title: Neoplatonism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Neoplatonism'
     provenance: 'Athens, Attica, Greece'
     period: c. 3rd century CE

@@ -47,20 +47,15 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Luciferianism'
     url: 'https://brill.com/search?q=Modern%20Luciferianism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Modern Luciferianism Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Luciferianism'
     provenance: 'London, England, UK'
     period: c. late 19th–20th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/luciferianism-1.jpg
-  - title: >-
-      The poems of Henry Vaughan, silurist (IA poemsofhenryvaug02vaug) Canonical
-      Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_poems_of_Henry_Vaughan,_silurist_(IA_poemsofhenryvaug02vaug).pdf
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Modern Luciferianism.
+  - title: Modern Luciferianism Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Luciferianism'
     provenance: 'London, England, UK'
     period: c. late 19th–20th century CE
     description: >-

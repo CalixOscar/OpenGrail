@@ -45,26 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Dvaita%20Ved%C4%81nta'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Advaita Vedanta Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Advaita_Vedanta.pdf'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      The article contains a description of the Concept of Jivanmukti,
+      liberation while still alive, as taught in traditional Advaita Vedanta.
+      Some other topics of interest to Advaitic s...
     imageUrl: /artifacts/dvaita-vedanta-1.jpg
-  - title: >-
-      The teachings of Vedanta according to Ramanuja (IA
-      teachingsofvedan00sukhrich) Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_teachings_of_Vedanta_according_to_Ramanuja_(IA_teachingsofvedan00sukhrich).pdf
+  - title: Dvaita Vedānta Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Advaita_Vedanta.pdf'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE
-    description: |-
-      Thesis--Bonn
-      Includes bibliographical references
-      Subjects: Ramanuja, 1017-1137; Vedanta...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Dvaita Vedānta.
     imageUrl: /artifacts/dvaita-vedanta-2.jpg
 ---
 

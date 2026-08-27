@@ -47,20 +47,25 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Radha%20Soami%20Tradition'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Encyclopædia of religion and ethics (IA encyclopaediaofr10hast) Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Encyclop%C3%A6dia_of_religion_and_ethics_(IA_encyclopaediaofr10hast).pdf
     provenance: 'Amritsar, Punjab, India'
     period: c. 1861 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Vols. 6-12 "edited by James Hastings, with the assistance of John A.
+      Selbie and Louis H. Gray."
+
+      Some vols. are "Edition completed and corrected editions, 1926-1976,
+      reprinted 1994...
     imageUrl: /artifacts/radha-soami-1.jpg
-  - title: The Indian Antiquary Vol 2 Canonical Scripture & Iconography
+  - title: The Indian Antiquary Vol 2 Sacred Relics & Scripture
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:The_Indian_Antiquary_Vol_2.pdf'
     provenance: 'Amritsar, Punjab, India'
     period: c. 1861 CE
     description: The Indian Antiquary Vol 2...
-    imageUrl: /artifacts/radha-soami-1.jpg
+    imageUrl: /artifacts/radha-soami-2.jpg
 ---
 
 # Radha Soami Tradition

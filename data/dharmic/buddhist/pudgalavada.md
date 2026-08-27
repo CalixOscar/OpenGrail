@@ -46,22 +46,27 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pudgalav%C4%81da%20Schools'
 artifacts:
-  - title: Pudgalavāda Schools Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pudgalav%C4%81da_Schools'
+  - title: SectarianBuddhistschools Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:SectarianBuddhistschools.png'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 3rd century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Pudgalavāda Schools.
+      Map of the major divisions of Sectarian Buddhism in India at around the
+      time of Xuanzang's visit in the seventh century. Sarvastivada (Red),
+      Sthaviravada (Orange), Mahasamghika (Ye...
     imageUrl: /artifacts/pudgalavada-1.jpg
-  - title: Pudgalavāda Schools Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pudgalav%C4%81da_Schools'
+  - title: >-
+      Bulletin of the Public Library of the City of Boston (IA
+      bulletinofpublic4319bost) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Bulletin_of_the_Public_Library_of_the_City_of_Boston_(IA_bulletinofpublic4319bost).pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 3rd century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Pudgalavāda Schools.
-    imageUrl: /artifacts/pudgalavada-1.jpg
+      "The Monthly bulletin and the Annual lists are now discontinued, and are
+      replaced by a Weekly list, the first number of which appeared ... April
+      25, 1908, and by the present Quart...
+    imageUrl: /artifacts/pudgalavada-2.jpg
 ---
 
 # Pudgalavāda Schools

@@ -49,17 +49,20 @@ artifacts:
     provenance: 'Rome, Latium, Italy'
     period: c. c. 16th century CE
     description: >-
-      The Eastern Catholic Churches or Oriental Catholic Churches, also known as
-      the Eastern-Rite Catholic Churches, Eastern Rite Catholicism, or simply
-      the Eastern Churches, are 23 East...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Eastern Catholic Churches.
     imageUrl: /artifacts/eastern-catholic-churches-1.jpg
-  - title: Eastern Catholic Churches Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Eastern_Catholic_Churches'
+  - title: >-
+      Heiligengrabe, Kloster Stift zum Heiligengrabe, Stiftskirche -- 2017 --
+      9969 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Stiftskirche_--_2017_--_9969.jpg
     provenance: 'Rome, Latium, Italy'
     period: c. c. 16th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Eastern Catholic Churches.
+      Altar in the Collegiate church, Monastery Endowment of the Holy Grave,
+      Heiligengrabe, Brandenburg, GermanyThe monastery was founded in 1287 by
+      the Ascanian Margrave Otto IV as a Ci...
     imageUrl: /artifacts/eastern-catholic-churches-2.jpg
 ---
 

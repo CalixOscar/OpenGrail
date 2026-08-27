@@ -45,25 +45,32 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Mongolian%20Shamanic%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Decorated tent near lake Qinghai (1) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Decorated_tent_near_lake_Qinghai_(1).jpg
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. ancient; continuously developing
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Yugur or Mongolian Asar maikhan (Асар майхан, litteraly pavilon tent, kind
+      of yurt or tent)[5][6][7][8] in Qinghai plateau, near the Qinghai Lake
+      (Kokonor or khökhnuur (Хөхнуур) in...
     imageUrl: /artifacts/mongolian-shamanism-1.jpg
   - title: >-
-      History of Acworth, with the proceedings of the centennial anniversary,
-      genealogical records, and register of farms (IA historyofacwor00merr)
-      Canonical Scripture & Iconography
+      The Edinburgh new philosophical journal (IA edinburghnewphil05edinuoft)
+      Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:History_of_Acworth,_with_the_proceedings_of_the_centennial_anniversary,_genealogical_records,_and_register_of_farms_(IA_historyofacwor00merr).pdf
+      https://commons.wikimedia.org/wiki/File:The_Edinburgh_new_philosophical_journal_(IA_edinburghnewphil05edinuoft).pdf
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. ancient; continuously developing
-    description: 'Subjects: Acworth (N.H.) -- History; Acworth (N.H.) -- Genealogy...'
-    imageUrl: /artifacts/mongolian-shamanism-1.jpg
+    description: >-
+      Absorbed by the Quarterly journal of science (called later Journal of
+      science and annals of astronomy, biology, geology, industrial arts,
+      manufacturers, and technology)
+
+      14
+
+      Subject...
+    imageUrl: /artifacts/mongolian-shamanism-2.jpg
 ---
 
 # Mongolian Shamanic Traditions

@@ -48,18 +48,23 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 15th century CE
     description: >-
-      The Gelug (, also Geluk; lit. 'virtuous') is the youngest of the four
-      major schools of Tibetan Buddhism. It was founded by Je Tsongkhapa
-      (1357–1419), a Tibetan philosopher, tantric...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Gelug.
     imageUrl: /artifacts/gelug-1.jpg
-  - title: Gelug Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gelug'
+  - title: >-
+      Eloquence a virtue; or, Outlines of a systematic rhetoric (IA
+      eloquencevirtueo00ther) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Eloquence_a_virtue;_or,_Outlines_of_a_systematic_rhetoric_(IA_eloquencevirtueo00ther).pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 15th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Gelug.
-    imageUrl: /artifacts/gelug-1.jpg
+      A translation of "Die beredsamkeit eine tugend; oder, Grundlinien einer
+      systematischen rhetoric."
+
+
+      Subjects: Eloquence; Oratory...
+    imageUrl: /artifacts/gelug-2.jpg
 ---
 
 # Gelug

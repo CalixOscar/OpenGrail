@@ -48,18 +48,16 @@ artifacts:
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial era
     description: >-
-      Ifá or Fá is a geomantic system originating from Yorubaland in West
-      Africa. It originates within the traditional religion of the Yoruba
-      people. It is also practiced by followers of...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Ifá.
     imageUrl: /artifacts/ifa-1.jpg
-  - title: Ifá Sacred Scripture & Art
+  - title: Ifá Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/If%C3%A1'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial era
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Ifá.
-    imageUrl: /artifacts/ifa-1.jpg
 ---
 
 # Ifá

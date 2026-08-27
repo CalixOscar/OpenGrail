@@ -50,13 +50,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Evangelicalism.
     imageUrl: /artifacts/evangelicalism-1.jpg
-  - title: Evangelicalism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Evangelicalism'
+  - title: Fundamentals of Transportation Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Fundamentals_of_Transportation.pdf'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1730s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Evangelicalism.
+    description: |-
+      Fundamentals of Transportation wikibook combined into a single .pdf.
+      Created using Mediawiki2pdf online system by Dash-of-Pepper....
     imageUrl: /artifacts/evangelicalism-2.jpg
 ---
 

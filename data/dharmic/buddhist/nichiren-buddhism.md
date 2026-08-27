@@ -51,11 +51,10 @@ artifacts:
     provenance: 'Kamakura, Kanagawa, Japan'
     period: c. 13th century CE
     description: >-
-      Nichiren Buddhism (Japanese: 日蓮仏教, romanized: Nichiren bukkyō), also known
-      as Hokkeshū (Japanese: 法華宗, meaning Lotus Sect), is a branch of Mahayana
-      Buddhism based on the teachings...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Nichiren Buddhism.
     imageUrl: /artifacts/nichiren-buddhism-1.jpg
-  - title: Nichiren Buddhism Sacred Scripture & Art
+  - title: Nichiren Buddhism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Nichiren_Buddhism'
     provenance: 'Kamakura, Kanagawa, Japan'
     period: c. 13th century CE

@@ -40,26 +40,21 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Serer%20Religion'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Early 20th century Yoruba divination board Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Early_20th_century_Yoruba_divination_board.jpg
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial era
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Early 20th century Yoruba divination board....
     imageUrl: /artifacts/serer-religion-1.jpg
-  - title: >-
-      Filming of the Yoruba oral traditions project Canonical Scripture &
-      Iconography
+  - title: Serer Religion Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
+      https://commons.wikimedia.org/wiki/File:Early_20th_century_Yoruba_divination_board.jpg
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial era
     description: >-
-      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
-      Ṣànpọ̀ná...
-    imageUrl: /artifacts/serer-religion-2.jpg
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Serer Religion.
 ---
 
 # Serer Religion

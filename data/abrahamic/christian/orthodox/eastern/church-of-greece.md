@@ -50,18 +50,16 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1833 CE
     description: >-
-      The Church of Greece (Greek: Ἐκκλησία τῆς Ἑλλάδος, romanized: Ekklēsía
-      tē̂s Helládos, Greek pronunciation: [ekliˈsi.a tis eˈlaðos]), is an
-      autocephalous Greek Orthodox church and o...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Church of Greece.
     imageUrl: /artifacts/church-of-greece-1.jpg
-  - title: Church of Greece Sacred Scripture & Art
+  - title: Church of Greece Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Greece'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1833 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Church of Greece.
-    imageUrl: /artifacts/church-of-greece-2.jpg
 ---
 
 # Church of Greece

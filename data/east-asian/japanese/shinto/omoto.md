@@ -48,24 +48,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=%C5%8Cmoto'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Onisaburo Deguchi 2 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Onisaburo_Deguchi_2.jpg'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1892 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Onisaburo Deguchi....
     imageUrl: /artifacts/omoto-1.jpg
-  - title: Ōmoto Sacred Scripture & Art
+  - title: Onisaburo recites text of Reikai Monogatari Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Onisaburo_recites_text_of_Reikai_Monogatari.png
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1892 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ōmoto.
-    imageUrl: /artifacts/omoto-1.jpg
+      Onisaburo in a process of creating Reikai Monogatari. He used Chinkon
+      Kishin technique in order to create this text. As can be seen from this
+      picture, he did not write it down hims...
+    imageUrl: /artifacts/omoto-2.jpg
 ---
 
 # Ōmoto

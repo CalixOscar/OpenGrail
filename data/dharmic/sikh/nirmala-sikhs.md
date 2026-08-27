@@ -45,23 +45,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nirmal%C4%81%20Sikhs'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Simhasth2016 Panchayati akhada nirmal Shahi Snan Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Simhasth2016_Panchayati_akhada_nirmal_Shahi_Snan.jpg
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 18th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Ujjain Simhasth 2016 Panchayati akhada nirmal Shahi Snan...
     imageUrl: /artifacts/nirmala-sikhs-1.jpg
-  - title: Sri Guru Granth Sahib Nishan Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sri_Guru_Granth_Sahib_Nishan.jpg'
+  - title: Gurudwara Bara Sikh Sangat Granth Sahib Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Gurudwara_Bara_Sikh_Sangat_Granth_Sahib.jpg
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 18th century CE
     description: >-
-      Illuminated Adi Granth folio with nisan of Guru Gobind Singh. The
-      manuscript is of the Lahore recension, late 17th to early 18th century.
-      Gold and colours on paper; folio size 360...
+      The Guru Granth Sahib, the holy book of the Sikhs, inside the Gurudwara
+      Bara Sikh Sangat in Kolkata...
     imageUrl: /artifacts/nirmala-sikhs-2.jpg
 ---
 

@@ -46,22 +46,23 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pa-Auk%20Tradition'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Science (IA science21895mich) Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Science_(IA_science21895mich).pdf'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 1980s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: "\"A weekly record of scientific progress.\"\nEdited by J. Michels\nPublished: Cambridge, Mass.\_: Science Company, Moses King, 1883-\_; Lancaster, Pa.\_: Science Press, -1944; Lancaster,..."
     imageUrl: /artifacts/pa-auk-tradition-1.jpg
-  - title: Tipitaka1 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg'
+  - title: >-
+      Fragment of the "Extracts from the Pali canon (Tipitaka) and Qualities of
+      the Buddha (Mahabuddhaguna)" (CBL Thi 1341) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Fragment_of_the_%22Extracts_from_the_Pali_canon_(Tipitaka)_and_Qualities_of_the_Buddha_(Mahabuddhaguna)%22_(CBL_Thi_1341).jpg
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 1980s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Pa-Auk Tradition.
+      Fragment of the Thai folding book (samut khoi) containing extracts from
+      the Pali canon (Tipitaka) and Qualities of the Buddha (Mahabuddhaguna),
+      the text illustrated with scenes fro...
     imageUrl: /artifacts/pa-auk-tradition-2.jpg
 ---
 

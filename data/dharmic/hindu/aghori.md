@@ -48,23 +48,24 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Aghori%20Tradition'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      A handbook of Sanskrit literature - with appendices descriptive of the
+      mythology castes, and religious sects of the Hindus (IA
+      handbookofsanskr00smalrich) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:A_handbook_of_Sanskrit_literature_-_with_appendices_descriptive_of_the_mythology_castes,_and_religious_sects_of_the_Hindus_(IA_handbookofsanskr00smalrich).pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 17th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Subjects: Sanskrit literature -- History and criticism...'
     imageUrl: /artifacts/aghori-1.jpg
-  - title: Aghori Tradition Sacred Scripture & Art
+  - title: >-
+      Shri Dutta Nirguna Mutt, Ganagapura, Kalaburagi, Karnataka (2024) 06
+      Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Shri_Dutta_Nirguna_Mutt,_Ganagapura,_Kalaburagi,_Karnataka_(2024)_06.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 17th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Aghori Tradition.
-    imageUrl: /artifacts/aghori-1.jpg
+    description: 'Shri Dutta Nirguna Mutt, Ganagapura, Kalaburagi, Karnataka (2024)...'
+    imageUrl: /artifacts/aghori-2.jpg
 ---
 
 # Aghori Tradition

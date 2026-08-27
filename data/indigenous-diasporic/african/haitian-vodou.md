@@ -52,18 +52,17 @@ artifacts:
     provenance: 'Port-au-Prince, Haiti'
     period: c. 17th–18th centuries CE
     description: >-
-      Haitian Vodou () is an African diasporic religion that developed in Haiti
-      between the 16th and 19th centuries. It arose through a process of
-      syncretism between several traditional...
-  - title: >-
-      Singers and songs of the liberal faith; being selections of hymns and
-      other sacred poems of the liberal church in America (IA
-      singerssongsofl00putn) Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Singers_and_songs_of_the_liberal_faith;_being_selections_of_hymns_and_other_sacred_poems_of_the_liberal_church_in_America_(IA_singerssongsofl00putn).pdf
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Haitian Vodou.
+  - title: Asson2 Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Asson2.jpg'
     provenance: 'Port-au-Prince, Haiti'
     period: c. 17th–18th centuries CE
-    description: 'Subjects: Religious poetry, American...'
+    description: >-
+      An asson, the sacred rattle emblematic of thepriesthood of Haitian Vodou.
+      It is made of a calabash gourd, strung with beads and / or snake
+      vertebrae....
+    imageUrl: /artifacts/haitian-vodou-2.jpg
 ---
 
 # Haitian Vodou

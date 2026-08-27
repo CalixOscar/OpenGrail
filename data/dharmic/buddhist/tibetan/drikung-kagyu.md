@@ -49,15 +49,16 @@ artifacts:
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 1179 CE
     description: >-
-      Drikung Kagyü or Drigung Kagyü (Wylie: 'bri-gung bka'-brgyud) is one of
-      the eight "minor" lineages of the Kagyu school of Tibetan Buddhism.
-      "Major" here refers to those Kagyü linea...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Drikung Kagyu.
     imageUrl: /artifacts/drikung-kagyu-1.jpg
-  - title: Kanjur Tenjur Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kanjur_Tenjur.jpg'
+  - title: Drikung Kagyu Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Drikung_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 1179 CE
-    description: Monastic library with Kanjur and Tanjur on the bookshelves (Riwoche)...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Drikung Kagyu.
     imageUrl: /artifacts/drikung-kagyu-2.jpg
 ---
 

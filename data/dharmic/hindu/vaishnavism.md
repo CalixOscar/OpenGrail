@@ -46,28 +46,30 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vai%E1%B9%A3%E1%B9%87avism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/vaishnavism-1.jpg
-  - title: >-
-      BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter 1.20.21 Canonical
-      Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter_1.20.21.jpg
+  - title: Vishnu Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Vishnu.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
     description: >-
-      This folio samples a part of verse 20, and the beginning of verse 21 from
-      the opening chapter of the Bhagavad Gita, which is on the topic of
-      Arjuna's distress.
+      Closeup of Vishnu, seated in the lotus position on a lotus. From depiction
+      of the poet Jayadeva bowing to Vishnu, Gouache on paper 
 
-      प्रवृत्ते शस्त्रसम्प...
+      Pahari,  
+
+
+      The very picture of devotion, bare-bo...
+    imageUrl: /artifacts/vaishnavism-1.jpg
+  - title: >-
+      6th Chapter, verse 1, Bhagavad Gita, Sanskrit, Devanagari script Sacred
+      Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:6th_Chapter,_verse_1,_Bhagavad_Gita,_Sanskrit,_Devanagari_script.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century BCE
+    description: >-
+      Bhagavad Gita is one of the scriptures of Hinduism, its best known. It has
+      been widely translated in Indian languages as well as numerous non-Indian
+      languages. Over 200 translation...
     imageUrl: /artifacts/vaishnavism-2.jpg
 ---
 

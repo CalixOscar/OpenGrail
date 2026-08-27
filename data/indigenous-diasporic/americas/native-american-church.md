@@ -44,16 +44,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Native%20American%20Church'
 artifacts:
-  - title: Native American Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Native_American_Church'
+  - title: John-wilson Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:John-wilson.jpg'
     provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
     period: c. late 19th century CE
     description: >-
-      The Native American Church (NAC), also known as Peyotism and Peyote
-      Religion, is a syncretic Native American religion that teaches a
-      combination of traditional Native American beli...
-  - title: Native American Church Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Native_American_Church'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Native American Church.
+    imageUrl: /artifacts/native-american-church-1.jpg
+  - title: Native American Church Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:John-wilson.jpg'
     provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
     period: c. late 19th century CE
     description: >-

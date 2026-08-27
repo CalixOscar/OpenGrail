@@ -55,15 +55,13 @@ artifacts:
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Orthodox Church in America.
-    imageUrl: /artifacts/orthodox-church-in-america-1.jpg
-  - title: Orthodox Church in America Sacred Scripture & Art
+  - title: Orthodox Church in America Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Church_in_America'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1970 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Orthodox Church in America.
-    imageUrl: /artifacts/orthodox-church-in-america-2.jpg
 ---
 
 # Orthodox Church in America

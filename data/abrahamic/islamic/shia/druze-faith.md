@@ -41,16 +41,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Druze Faith'
     url: 'https://www.cambridge.org/core/search?q=Druze%20Faith'
 artifacts:
-  - title: Druze Faith Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Druze_Faith'
+  - title: DruzeOttomanHakim Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:DruzeOttomanHakim.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1017 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Druze Faith.
+      Meeting of Druze and Ottoman leaders in Damascus, about the control of
+      Jebel Druze....
     imageUrl: /artifacts/druze-faith-1.jpg
-  - title: Druze Faith Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Druze_Faith'
+  - title: Druze Faith Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:DruzeOttomanHakim.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1017 CE
     description: >-

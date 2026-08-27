@@ -44,22 +44,29 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Akkadian Religion'
     url: 'https://brill.com/search?q=Akkadian%20Religion'
 artifacts:
-  - title: Akkadian Religion Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Akkadian_Religion'
+  - title: Encyclopedia of Religion and Ethics Volume 3 Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Encyclopedia_of_Religion_and_Ethics_Volume_3.pdf
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2400 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Akkadian Religion.
+      pdf of third volume of the Encyclopedia of Religion and Ethics edited by
+      James Hastings et al...
     imageUrl: /artifacts/akkadian-religion-1.jpg
-  - title: Akkadian Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Akkadian_Religion'
+  - title: >-
+      Religions of the past and present; a series of lectures delivered by
+      members of the faculty of the University of Pennsylvania (IA
+      religionsofpastp01mont) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Religions_of_the_past_and_present;_a_series_of_lectures_delivered_by_members_of_the_faculty_of_the_University_of_Pennsylvania_(IA_religionsofpastp01mont).pdf
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2400 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Akkadian Religion.
-    imageUrl: /artifacts/akkadian-religion-1.jpg
+      Bibliography at end of each of the chapters
+
+      Primitive religion / F. G. Speck -- The Egyptian religion / W. M. Müller
+      -- The religion of Babylonia and Assyria / Morris Jastow, Jr....
+    imageUrl: /artifacts/akkadian-religion-2.jpg
 ---
 
 # Akkadian Religion

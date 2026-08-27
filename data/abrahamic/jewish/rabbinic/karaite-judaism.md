@@ -45,17 +45,17 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-
-      Karaite Judaism or Karaism is a Jewish sect characterized by the
-      recognition of the written Tanakh alone as its supreme authority in
-      halakha (religious law) and theology, and rejec...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Karaite Judaism.
     imageUrl: /artifacts/karaite-judaism-1.jpg
-  - title: Karaite Judaism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Karaite_Judaism'
+  - title: >-
+      Hebrew Bible, Vetus Testamentum, Brescia 1494 - 02 Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Hebrew_Bible,_Vetus_Testamentum,_Brescia_1494_-_02.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Karaite Judaism.
+    description: 'Illuminated page from a Hebrew Bible, Vetus Testamentum, Brescia 1494....'
     imageUrl: /artifacts/karaite-judaism-2.jpg
 ---
 

@@ -50,13 +50,16 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Church of Christ (Temple Lot).
     imageUrl: /artifacts/church-of-christ-temple-lot-1.jpg
-  - title: Church of Christ (Temple Lot) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Christ'
+  - title: >-
+      The Book of Mormon- An Account Written by the Hand of Mormon upon Plates
+      Taken from the Plates of Nephi Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Book_of_Mormon-_An_Account_Written_by_the_Hand_of_Mormon_upon_Plates_Taken_from_the_Plates_of_Nephi.jpg
     provenance: 'Independence, Jackson County, Missouri, USA'
     period: c. 1863 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Church of Christ (Temple Lot).
+      Title page of a 1830 copy of The Book of Mormon: An Account Written by the
+      Hand of Mormon upon Plates Taken from the Plates of Nephi...
     imageUrl: /artifacts/church-of-christ-temple-lot-2.jpg
 ---
 

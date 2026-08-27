@@ -54,13 +54,17 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Melkite Greek Catholic Church.
     imageUrl: /artifacts/melkite-greek-catholic-church-1.jpg
-  - title: Melkite Greek Catholic Church Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Melkite_Greek_Catholic_Church'
+  - title: >-
+      Score of Divine Liturgy of Saint John Chrysostom and Other Compositions by
+      Artemiĭ Vedelʹ WDL11809 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Score_of_Divine_Liturgy_of_Saint_John_Chrysostom_and_Other_Compositions_by_Artemi%C4%AD_Vedel%CA%B9_WDL11809.pdf
     provenance: 'Rome, Latium, Italy'
     period: c. 1724 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Melkite Greek Catholic Church.
+      This manuscript is the only known work in the hand of Artemiĭ Vedelʹ
+      (1767–1808), one of the most famous Ukrainian composers. It consists of
+      six parts of the Liturgy of Saint John...
     imageUrl: /artifacts/melkite-greek-catholic-church-2.jpg
 ---
 

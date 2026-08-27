@@ -47,11 +47,10 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. before 15th century CE
     description: >-
-      The Beta Israel, or Ethiopian Jews, are a Jewish group originating in the
-      Amhara and Tigray regions of northern Ethiopia, where they historically
-      inhabited more than 500 small vill...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Beta Israel.
     imageUrl: /artifacts/beta-israel-1.jpg
-  - title: Beta Israel Sacred Scripture & Art
+  - title: Beta Israel Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Beta_Israel'
     provenance: 'Jerusalem, Southern Levant'
     period: c. before 15th century CE

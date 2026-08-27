@@ -42,24 +42,26 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9Avet%C4%81mbara%20Jainism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Pavagadh Śvetāmbara Idol 3 Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Pavagadh_%C5%9Avet%C4%81mbara_Idol_3.jpg
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 1st century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      An idol depicting Śvetāmbara iconography (with a waistband carved over it)
+      on the outer walls of a Jain temple at Pavagadh Hill...
     imageUrl: /artifacts/svetambara-1.jpg
-  - title: Śvetāmbara Jainism Sacred Scripture & Art
+  - title: >-
+      Unknown (Indian) - Kalpa Sutra - 73.292.57A - Detroit Institute of Arts
+      Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Unknown_(Indian)_-_Kalpa_Sutra_-_73.292.57A_-_Detroit_Institute_of_Arts.jpg
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 1st century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Śvetāmbara Jainism.
-    imageUrl: /artifacts/svetambara-1.jpg
+    imageUrl: /artifacts/svetambara-2.jpg
 ---
 
 # Śvetāmbara Jainism

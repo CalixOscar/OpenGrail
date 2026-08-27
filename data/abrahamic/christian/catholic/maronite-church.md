@@ -50,13 +50,16 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Maronite Church.
     imageUrl: /artifacts/maronite-church-1.jpg
-  - title: Maronite Church Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maronite_Church'
+  - title: >-
+      Gustave Doré - The Holy Bible - Plate CXLI, The Judas Kiss Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_The_Holy_Bible_-_Plate_CXLI,_The_Judas_Kiss.jpg
     provenance: 'Rome, Latium, Italy'
     period: c. c. 5th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Maronite Church.
+      "The Judas Kiss", (Mark 14:45) by Gustave Doré. Judas kisses Jesus in
+      order to betray him to the guards....
     imageUrl: /artifacts/maronite-church-2.jpg
 ---
 

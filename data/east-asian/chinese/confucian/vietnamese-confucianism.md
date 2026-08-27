@@ -51,25 +51,29 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=Vietnamese%20Confucian%20Traditions
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Your health is golden heart health promotion activities for Vietnamese
+      communities (IA CAT31311113) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 1st century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/vietnamese-confucianism-1.jpg
-  - title: >-
-      The Chinese Classics - Legge - 2nd ed - 1893 - Vol 1 Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Chinese_Classics_-_Legge_-_2nd_ed_-_1893_-_Vol_1.djvu
+      https://commons.wikimedia.org/wiki/File:Your_health_is_golden_heart_health_promotion_activities_for_Vietnamese_communities_(IA_CAT31311113).pdf
     provenance: 'Qufu, Shandong, China'
     period: c. c. 1st century CE
     description: >-
-      Vols. 1-2, 2d edition revised, 1893-95, printed at the Clarendon press,
-      Oxford; v. 3-5, printed at the London missionary society's printing
-      office, Hongkong, are a reissue of the...
+      Subjects: Heart Diseases United States Prevention; Vietnamese Americans
+      Health and hygiene...
+    imageUrl: /artifacts/vietnamese-confucianism-1.jpg
+  - title: >-
+      The Chinese classics (IA chineseclassics00confiala) Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Chinese_classics_(IA_chineseclassics00confiala).pdf
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 1st century CE
+    description: >-
+      pt. l. Confucius. Analects. Great learning. Doctrine of the mean.--pt. 2.
+      Works of Mencius
+
+
+      Subjects: Chinese literature; English literature...
     imageUrl: /artifacts/vietnamese-confucianism-2.jpg
 ---
 

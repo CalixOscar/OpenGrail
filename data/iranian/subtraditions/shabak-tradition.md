@@ -51,23 +51,25 @@ sources:
     url: 'https://brill.com/search?q=Shabak%20Religious%20Tradition'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      THE GLOBAL CRISIS OF RELIGIOUS FREEDOM (IA
+      gov.gpo.fdsys.CHRG-114hhrg97331) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:THE_GLOBAL_CRISIS_OF_RELIGIOUS_FREEDOM_(IA_gov.gpo.fdsys.CHRG-114hhrg97331).pdf
     provenance: 'Isfahan, Iran'
     period: c. c. 16th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Government Publishing OfficeU.S. CongressHouse of RepresentativesCommittee
+      on Foreign AffairsTHE GLOBAL CRISIS OF RELIGIOUS FREEDOMDate(s) Held:
+      2015-10-27 114th Congress, 1st Ses...
     imageUrl: /artifacts/shabak-tradition-1.jpg
-  - title: Shabak Religious Tradition Sacred Scripture & Art
+  - title: Shabak Religious Tradition Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:THE_GLOBAL_CRISIS_OF_RELIGIOUS_FREEDOM_(IA_gov.gpo.fdsys.CHRG-114hhrg97331).pdf
     provenance: 'Isfahan, Iran'
     period: c. c. 16th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Shabak Religious Tradition.
-    imageUrl: /artifacts/shabak-tradition-1.jpg
 ---
 
 # Shabak Religious Tradition

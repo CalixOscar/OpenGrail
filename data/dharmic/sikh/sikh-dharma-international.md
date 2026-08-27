@@ -50,22 +50,25 @@ sources:
       https://www.rep.routledge.com/search?query=Sikh%20Dharma%20International%20%2F%203HO
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      RIO ARRIBA COUNTY STRATEGY TO COMBAT HEROIN ADDICTION (IA
+      gov.gpo.fdsys.CHRG-106shrg57116) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Amritsar, Punjab, India'
-    period: c. late 1960s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/sikh-dharma-international-1.jpg
-  - title: Sri Guru Granth Sahib Nishan Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sri_Guru_Granth_Sahib_Nishan.jpg'
+      https://commons.wikimedia.org/wiki/File:RIO_ARRIBA_COUNTY_STRATEGY_TO_COMBAT_HEROIN_ADDICTION_(IA_gov.gpo.fdsys.CHRG-106shrg57116).pdf
     provenance: 'Amritsar, Punjab, India'
     period: c. late 1960s CE
     description: >-
-      Illuminated Adi Granth folio with nisan of Guru Gobind Singh. The
-      manuscript is of the Lahore recension, late 17th to early 18th century.
-      Gold and colours on paper; folio size 360...
+      Government Publishing OfficeU.S. CongressSenateCommittee on
+      AppropriationsRIO ARRIBA COUNTY STRATEGY TO COMBAT HEROIN ADDICTIONDate(s)
+      Held: 1999-03-23, 1999-03-30 106th Congress,...
+    imageUrl: /artifacts/sikh-dharma-international-1.jpg
+  - title: Illuminated Guru Granth Sahib manuscript 05 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Illuminated_Guru_Granth_Sahib_manuscript_05.jpg
+    provenance: 'Amritsar, Punjab, India'
+    period: c. late 1960s CE
+    description: >-
+      Illuminated Guru Granth Sahib manuscript from the Dr. Gurpal Singh Bhuller
+      collection....
     imageUrl: /artifacts/sikh-dharma-international-2.jpg
 ---
 

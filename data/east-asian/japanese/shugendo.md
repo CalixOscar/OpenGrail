@@ -50,18 +50,15 @@ artifacts:
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE
     description: >-
-      Shugendō (修験道, lit. 'the "Way [of] Trial [and] Practice", the "Way of
-      Shugen, or Gen-practice"') is an Esoteric Buddhist religion, associated
-      with a body of ascetic practices that...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Shugendō.
     imageUrl: /artifacts/shugendo-1.jpg
-  - title: Shugendō Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shugend%C5%8D'
+  - title: Gyoja-gaeshi Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Gyoja-gaeshi.JPG'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Shugendō.
-    imageUrl: /artifacts/shugendo-1.jpg
+    description: 'In the legend, En no Gyōja was returned by this mountain god from here....'
+    imageUrl: /artifacts/shugendo-2.jpg
 ---
 
 # Shugendō

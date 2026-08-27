@@ -50,24 +50,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=African%20Diasporic%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Voodoo Altar New Orleans Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Voodoo_Altar_New_Orleans.jpg'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. 16th century CE onward
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Voodoo Altar, French Quarter, New Orleans...'
     imageUrl: /artifacts/african-diasporic-traditions-1.jpg
-  - title: African Diasporic Traditions (Comparative) Sacred Scripture & Art
+  - title: The Folk-songs of Southern India Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:The_Folk-songs_of_Southern_India.djvu
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. 16th century CE onward
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of African Diasporic Traditions (Comparative).
-    imageUrl: /artifacts/african-diasporic-traditions-1.jpg
+      Book from the &lt;a href="http://www.ignca.nic.in/"
+      rel="nofollow"&gt;Archaeological Survey of India&lt;/a&gt;Central
+      Archaeological Library, New DelhiBook Number: 30952Book Title...
+    imageUrl: /artifacts/african-diasporic-traditions-2.jpg
 ---
 
 # African Diasporic Traditions (Comparative)

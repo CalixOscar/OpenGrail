@@ -53,11 +53,10 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1967 CE
     description: >-
-      Fo Guang Shan (FGS; Chinese: 佛光山; pinyin: Fó guāng shān; lit. 'Buddha's
-      Light Mountain') is an international Chinese Mahāyāna Buddhist
-      organization and monastic order based in Taiw...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Fo Guang Shan.
     imageUrl: /artifacts/fo-guang-shan-1.jpg
-  - title: Fo Guang Shan Sacred Scripture & Art
+  - title: Fo Guang Shan Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Fo_Guang_Shan'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1967 CE

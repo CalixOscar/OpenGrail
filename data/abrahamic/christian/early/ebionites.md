@@ -47,16 +47,20 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ebionites'
     url: 'https://www.cambridge.org/core/search?q=Ebionites'
 artifacts:
-  - title: Ebionites Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ebionites'
+  - title: >-
+      Ehrman comparison Ebionites Gnostics Marcionites proto-Orthodox EN
+      Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Ehrman_comparison_Ebionites_Gnostics_Marcionites_proto-Orthodox_EN.png
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1st–2nd centuries CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ebionites.
+      New Testament scholar Bart D. Ehrman's model of early Christian sects'
+      core beliefs about Jesus (in English)....
     imageUrl: /artifacts/ebionites-1.jpg
-  - title: Ebionites Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ebionites'
+  - title: Ebionites Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Ehrman_comparison_Ebionites_Gnostics_Marcionites_proto-Orthodox_EN.png
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1st–2nd centuries CE
     description: >-

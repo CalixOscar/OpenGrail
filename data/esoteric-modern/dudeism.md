@@ -53,19 +53,18 @@ artifacts:
     provenance: 'London, England, UK'
     period: c. 2005 CE
     description: >-
-      Dudeism (/ˈduːdɪzəm/ ) is a religion, philosophy, or lifestyle inspired by
-      "The Dude", the protagonist of the Coen Brothers' 1998 film The Big
-      Lebowski.
-
-      Dudeism's stated primary ob...
-  - title: Berlin wall Big Lebowski graffiti Canonical Scripture & Iconography
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Dudeism.
+  - title: Songs of the workers 9th Edition Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Berlin_wall_Big_Lebowski_graffiti.jpg
+      https://commons.wikimedia.org/wiki/File:Songs_of_the_workers_9th_Edition.pdf
     provenance: 'London, England, UK'
     period: c. 2005 CE
     description: >-
-      Graffiti of Walter Sobchak (John Goodman) from the Big Lebowski on the
-      East Side Gallery of the Berlin Wall....
+      Songs written for I.W.W. meetings and demonstrations. Printed with lyrics
+      only, with a note indicating which popular tune, march or hymn should be
+      used for the melody....
+    imageUrl: /artifacts/dudeism-2.jpg
 ---
 
 # Dudeism

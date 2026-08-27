@@ -49,22 +49,38 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Samothracian Mysteries'
     url: 'https://brill.com/search?q=Samothracian%20Mysteries'
 artifacts:
-  - title: Samothracian Mysteries Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Samothracian_Mysteries'
+  - title: >-
+      Essay on the mysteries of Eleusis; (IA essayonmysteries00uvar) Historical
+      Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Essay_on_the_mysteries_of_Eleusis;_(IA_essayonmysteries00uvar).pdf
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 7th century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Samothracian Mysteries.
+      Engraved half-title: head and tail pieces
+
+      Translated from the third French edition of A. I. Silvestre de Sacy. cf.
+      Advertisement
+
+      Subjects: Eleusinian mysteries...
     imageUrl: /artifacts/samothracian-mysteries-1.jpg
-  - title: Samothracian Mysteries Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Samothracian_Mysteries'
+  - title: >-
+      The Archaeological journal (IA archaeologicaljo51brit) Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Archaeological_journal_(IA_archaeologicaljo51brit).pdf
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 7th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Samothracian Mysteries.
-    imageUrl: /artifacts/samothracian-mysteries-1.jpg
+      Avery index to architectural periodicals. Second edition. Revised and
+      enlarged. Supplement
+
+      Art index
+
+      Architectural periodicals index
+
+      RILA. Répertoire international de la littératu...
+    imageUrl: /artifacts/samothracian-mysteries-2.jpg
 ---
 
 # Samothracian Mysteries

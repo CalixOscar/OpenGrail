@@ -44,21 +44,23 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ashkenazi Judaism'
     url: 'https://www.cambridge.org/core/search?q=Ashkenazi%20Judaism'
 artifacts:
-  - title: Ashkenazi Judaism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ashkenazi_Judaism'
+  - title: Orthodox ashkenazi egypt Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Orthodox_ashkenazi_egypt.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 10th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ashkenazi Judaism.
+    description: 'Image from Flickr:[1] Author: David Lisbona....'
     imageUrl: /artifacts/ashkenazi-judaism-1.jpg
-  - title: Ashkenazi Judaism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ashkenazi_Judaism'
+  - title: >-
+      First page of the first tractate of the Talmud (Daf Beis of Maseches
+      Brachos) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:First_page_of_the_first_tractate_of_the_Talmud_(Daf_Beis_of_Maseches_Brachos).jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 10th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ashkenazi Judaism.
+      Scanned page of the Babylonian w:Talmud, showing the first page of the
+      first tractate, Daf "Bet" (folio 2a) of  Masechet (Tractate) Brachot. The
+      center column contains the Talmud t...
     imageUrl: /artifacts/ashkenazi-judaism-2.jpg
 ---
 

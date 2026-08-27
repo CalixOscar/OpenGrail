@@ -49,17 +49,14 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1200–500 BCE
     description: >-
-      Judaism (Hebrew: יַהֲדוּת, romanized: Yahăḏūṯ) is an Abrahamic,
-      monotheistic, ethnic religion that comprises the collective spiritual,
-      cultural, and legal traditions of the Jewish...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Judaism.
     imageUrl: /artifacts/judaism-1.jpg
-  - title: Judaism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Judaism'
+  - title: Siyum Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Siyum.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1200–500 BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Judaism.
+    description: 'end page of w:Mishna...'
     imageUrl: /artifacts/judaism-2.jpg
 ---
 

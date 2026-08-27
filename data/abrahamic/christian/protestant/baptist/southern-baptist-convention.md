@@ -56,14 +56,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Southern Baptist Convention.
     imageUrl: /artifacts/southern-baptist-convention-1.jpg
-  - title: Southern Baptist Convention Sacred Scripture & Art
+  - title: Southern Baptist Convention Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Southern_Baptist_Convention'
     provenance: 'London, England, UK'
     period: c. 1845 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Southern Baptist Convention.
-    imageUrl: /artifacts/southern-baptist-convention-2.jpg
 ---
 
 # Southern Baptist Convention

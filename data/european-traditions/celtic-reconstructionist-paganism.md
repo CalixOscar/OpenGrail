@@ -55,23 +55,23 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Celtic Reconstructionist Paganism'
     url: 'https://brill.com/search?q=Celtic%20Reconstructionist%20Paganism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Druids procession Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Druids_procession.jpg'
     provenance: 'Glastonbury, Somerset, England, UK'
     period: c. 1980s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Druids procession moving north along William Street, passing Hay Street
+      (west). E.S.&amp; A. Bank Chambers, 43 William Street, Ezywalkin, 741-745
+      Hay Street. (Perth, Western Austra...
     imageUrl: /artifacts/celtic-reconstructionist-paganism-1.jpg
-  - title: Welsh Medieval Law Canonical Scripture & Iconography
+  - title: Welsh Medieval Law Sacred Relics & Scripture
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Welsh_Medieval_Law.djvu'
     provenance: 'Glastonbury, Somerset, England, UK'
     period: c. 1980s CE
     description: >-
       Translation and reprint of the British Museum Harlein MS. 4353 of 13th
       Century; or, Llyfr Cyfnerf...
-    imageUrl: /artifacts/celtic-reconstructionist-paganism-1.jpg
+    imageUrl: /artifacts/celtic-reconstructionist-paganism-2.jpg
 ---
 
 # Celtic Reconstructionist Paganism

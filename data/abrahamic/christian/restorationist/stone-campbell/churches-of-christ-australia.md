@@ -45,21 +45,20 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Churches%20of%20Christ%20in%20Australia
 artifacts:
-  - title: Churches of Christ in Australia Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Churches_of_Christ_in_Australia'
+  - title: CastlemaineAnglicanChurch Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:CastlemaineAnglicanChurch.JPG'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1840s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Churches of Christ in Australia.
+    description: 'Christ Church Anglican church at en:Castlemaine, Victoria...'
     imageUrl: /artifacts/churches-of-christ-australia-1.jpg
-  - title: Churches of Christ in Australia Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Churches_of_Christ_in_Australia'
+  - title: >-
+      The Declaration of independence. An address; (IA declarationofind00warr)
+      Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Declaration_of_independence._An_address;_(IA_declarationofind00warr).pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1840s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Churches of Christ in Australia.
+    description: 'Subjects: United States...'
     imageUrl: /artifacts/churches-of-christ-australia-2.jpg
 ---
 
