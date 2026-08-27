@@ -40,22 +40,23 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Norse Religion'
     url: 'https://brill.com/search?q=Norse%20Religion'
 artifacts:
-  - title: Norse Religion Historical Sanctuary & Iconography
+  - title: Ardre VIII Gotland Image Stone (Odin & Sleipnir)
     imageUrl: /artifacts/norse-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Norse_Religion'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 500 CE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Old_Norse_religion'
+    provenance: 'Ardre, Gotland, Sweden'
+    period: c. 8th–11th century CE
     description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Norse Religion.
-  - title: Poetic Edda & Sacred Relics
+      Carved limestone image stone depicting Odin riding the eight-legged horse
+      Sleipnir into Valhalla, illustrating pre-Christian Norse mythology and
+      funerary cosmology.
+  - title: Codex Regius of the Poetic Edda Manuscript
     imageUrl: /artifacts/norse-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Norse_Religion'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 500 CE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Poetic_Edda'
+    provenance: Icelandic National Manuscript Collection (GKS 2365 4to)
+    period: c. 1270 CE (Preserving pre-Christian oral poetry)
     description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Norse
-      Religion.
+      The primary surviving vellum manuscript containing the mythological poems
+      of the Poetic Edda, including the Völuspá, Hávamál, and Lokasenna.
 ---
 
 # Norse Religion

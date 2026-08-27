@@ -51,22 +51,24 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=C%C4%81rv%C4%81ka%20%2F%20Lok%C4%81yata
 artifacts:
-  - title: Cārvāka / Lokāyata Historical Sanctuary & Iconography
+  - title: Ancient Indian Classical Epigraphy & Debates
     imageUrl: /artifacts/charvaka-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/C%C4%81rv%C4%81ka_%2F_Lok%C4%81yata'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 1st millennium BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Charvaka'
+    provenance: 'Ancient Gujarat / Magadha, India'
+    period: c. 3rd century BCE
     description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Cārvāka / Lokāyata.
-  - title: Tattvopaplavasimha & Sacred Relics
+      Ancient Brahmi stone edict reflecting the rigorous philosophical pluralism
+      and public debates of 1st-millennium BCE India, where Cārvāka materialists
+      vigorously challenged metaphysical orthodoxies.
+  - title: Tattvopaplavasimha Philosophical Treatise Manuscript
     imageUrl: /artifacts/charvaka-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/C%C4%81rv%C4%81ka_%2F_Lok%C4%81yata'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 1st millennium BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Charvaka'
+    provenance: Patan Jain Bhandar Manuscript Collection
+    period: c. 8th century CE
     description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Cārvāka / Lokāyata.
+      Historical Sanskrit palm-leaf manuscript of Jayarāśi Bhaṭṭa's
+      Tattvopaplavasiṃha, the only surviving direct philosophical text
+      representing the radical skeptical and materialist Lokāyata school.
 ---
 
 # Cārvāka / Lokāyata
