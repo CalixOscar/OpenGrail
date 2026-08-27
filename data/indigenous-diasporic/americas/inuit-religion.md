@@ -42,21 +42,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Inuit%20Religions'
 artifacts:
-  - title: Ovayok Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ovayok.jpg'
-    provenance: 'Arctic Circle (Nuuk / Thule), Greenland'
-    period: c. ancestral era
-    description: Looking north to Ovayok (Mount Pelly) taken 20 June 1999....
+  - title: Inuit Religions Historical Sanctuary & Iconography
     imageUrl: /artifacts/inuit-religion-1.jpg
-  - title: >-
-      Folktales & Oral Traditions Archive - (Ibani Language) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Folktales_%26_Oral_Traditions_Archive_-_(Ibani_Language).webm
+    sourceUrl: 'https://en.wikipedia.org/wiki/Inuit_Religions'
     provenance: 'Arctic Circle (Nuuk / Thule), Greenland'
     period: c. ancestral era
-    description: Folktales and Oral Traditions Archives...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Inuit Religions.
+  - title: Oral traditions (region-specific) & Sacred Relics
     imageUrl: /artifacts/inuit-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Inuit_Religions'
+    provenance: 'Arctic Circle (Nuuk / Thule), Greenland'
+    period: c. ancestral era
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Inuit
+      Religions.
 ---
 
 # Inuit Religions

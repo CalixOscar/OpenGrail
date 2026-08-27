@@ -46,24 +46,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Xiantiandao'
 artifacts:
-  - title: 先天道坤儀堂 (3)神桌 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%E5%85%88%E5%A4%A9%E9%81%93%E5%9D%A4%E5%84%80%E5%A0%82_(3)%E7%A5%9E%E6%A1%8C.jpg
-    provenance: 'Qufu, Shandong, China'
-    period: c. 18th century CE
-    description: ​台灣澎湖縣馬公市長安里中正路93巷11號...
+  - title: Xiantiandao Historical Sanctuary & Iconography
     imageUrl: /artifacts/xiantiandao-1.jpg
-  - title: >-
-      History and mystery of precious stones (IA b24868929) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:History_and_mystery_of_precious_stones_(IA_b24868929).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Xiantiandao'
     provenance: 'Qufu, Shandong, China'
     period: c. 18th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Xiantiandao.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Xiantiandao.
+  - title: Precious scrolls (baojuan) & Sacred Relics
     imageUrl: /artifacts/xiantiandao-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Xiantiandao'
+    provenance: 'Qufu, Shandong, China'
+    period: c. 18th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Xiantiandao.
 ---
 
 # Xiantiandao

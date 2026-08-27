@@ -52,25 +52,24 @@ sources:
 artifacts:
   - title: >-
       United Church of God, an International Association Historical Sanctuary &
-      Records
+      Iconography
+    imageUrl: /artifacts/united-church-of-god-1.jpg
     sourceUrl: >-
       https://en.wikipedia.org/wiki/United_Church_of_God%2C_an_International_Association
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1995 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with United Church of God, an International Association.
-    imageUrl: /artifacts/united-church-of-god-1.jpg
-  - title: >-
-      MICHELE RAMIREZ, a New Jersey resident; Plaintiff, - against – WORLD
-      MISSION SOCIETY, CHURCH OF GOD, a NJ Nonprofit Corporation Sacred Relics &
-      Scripture
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/united-church-of-god-2.jpg
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:MICHELE_RAMIREZ,_a_New_Jersey_resident;_Plaintiff,_-_against_%E2%80%93_WORLD_MISSION_SOCIETY,_CHURCH_OF_GOD,_a_NJ_Nonprofit_Corporation.pdf
+      https://en.wikipedia.org/wiki/United_Church_of_God%2C_an_International_Association
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1995 CE
-    description: lawsuit against the church by a former member...
-    imageUrl: /artifacts/united-church-of-god-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      United Church of God, an International Association.
 ---
 
 # United Church of God, an International Association

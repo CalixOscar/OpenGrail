@@ -45,21 +45,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Unification Movement'
     url: 'https://brill.com/search?q=Unification%20Movement'
 artifacts:
-  - title: >-
-      2008 09 Family Federation for World Peace and Unification, Toronto
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:2008_09_Family_Federation_for_World_Peace_and_Unification,_Toronto.jpg
-    provenance: 'Seoul (Hanyang), South Korea'
-    period: c. 1954 CE
-    description: '"Family Federation for World Peace and Unification", in Toronto...'
+  - title: Unification Movement Historical Sanctuary & Iconography
     imageUrl: /artifacts/unification-movement-1.jpg
-  - title: Unification Church DC 2 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Unification_Church_DC_2.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Unification_Movement'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. 1954 CE
-    description: 'Unification Church on 16th Street NW in Washington, DC...'
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Unification Movement.
+  - title: Exposition of the Divine Principle & Sacred Relics
     imageUrl: /artifacts/unification-movement-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Unification_Movement'
+    provenance: 'Seoul (Hanyang), South Korea'
+    period: c. 1954 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Unification Movement.
 ---
 
 # Unification Movement

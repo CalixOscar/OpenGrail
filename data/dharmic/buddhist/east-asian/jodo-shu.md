@@ -46,26 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=J%C5%8Ddo-sh%C5%AB'
 artifacts:
-  - title: Jōdo-shū Historical Sanctuary & Records
+  - title: Jōdo-shū Historical Sanctuary & Iconography
+    imageUrl: /artifacts/jodo-shu-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/J%C5%8Ddo-sh%C5%AB'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1175 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Jōdo-shū.
-    imageUrl: /artifacts/jodo-shu-1.jpg
-  - title: >-
-      The dragon, image, and demon; or, The three religions of China- (IA
-      afy7418.0001.001.umich.edu) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_dragon,_image,_and_demon;_or,_The_three_religions_of_China-_(IA_afy7418.0001.001.umich.edu).pdf
+  - title: Three Pure Land Sūtras & Sacred Relics
+    imageUrl: /artifacts/jodo-shu-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/J%C5%8Ddo-sh%C5%AB'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1175 CE
-    description: |-
-      Mode of access: Internet
-
-      Subjects: Confucius; Buddhism; Taoism; Confucianism...
-    imageUrl: /artifacts/jodo-shu-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Jōdo-shū.
 ---
 
 # Jōdo-shū

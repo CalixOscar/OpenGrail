@@ -55,25 +55,22 @@ sources:
     url: >-
       https://ich.unesco.org/en/search?q=iTaukei%20Fijian%20Religious%20Traditions
 artifacts:
-  - title: 'Folk-lore - A Quarterly Review. Volume 7, 1896 Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Folk-lore_-_A_Quarterly_Review._Volume_7,_1896.djvu
-    provenance: 'Viti Levu (Suva / Bau), Fiji'
-    period: c. precolonial
-    description: Scan of collected volume of journals...
+  - title: iTaukei Fijian Religious Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/fijian-religious-traditions-1.jpg
-  - title: >-
-      Campbell Interurban Press 1920-12-24 (IA cacblm 000654) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Campbell_Interurban_Press_1920-12-24_(IA_cacblm_000654).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/iTaukei_Fijian_Religious_Traditions'
     provenance: 'Viti Levu (Suva / Bau), Fiji'
     period: c. precolonial
     description: >-
-      Note for IA: Darkened images inherent to the nature of microfilm.Series
-      Title: Campbell (Interurban) Press Newspaper.Description: This series of
-      newspapers ranges from 1895 throug...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with iTaukei Fijian Religious Traditions.
+  - title: iTaukei oral genealogies & Sacred Relics
     imageUrl: /artifacts/fijian-religious-traditions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/iTaukei_Fijian_Religious_Traditions'
+    provenance: 'Viti Levu (Suva / Bau), Fiji'
+    period: c. precolonial
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      iTaukei Fijian Religious Traditions.
 ---
 
 # iTaukei Fijian Religious Traditions

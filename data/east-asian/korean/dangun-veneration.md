@@ -48,24 +48,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Dangun%20Veneration'
 artifacts:
-  - title: >-
-      Shrine of Saint Therese Catholic Church in Pueblo Colorado 2 Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Shrine_of_Saint_Therese_Catholic_Church_in_Pueblo_Colorado_2.jpg
-    provenance: 'Seoul (Hanyang), South Korea'
-    period: c. medieval roots; modern revival
-    description: Shrine of Saint Therese Catholic Church in Pueblo Colorado 2...
+  - title: Dangun Veneration (Comparative) Historical Sanctuary & Iconography
     imageUrl: /artifacts/dangun-veneration-1.jpg
-  - title: Dangun Veneration (Comparative) Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Shrine_of_Saint_Therese_Catholic_Church_in_Pueblo_Colorado_2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dangun_Veneration'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. medieval roots; modern revival
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Dangun Veneration (Comparative).
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Dangun Veneration (Comparative).
+  - title: Samguk Yusa & Sacred Relics
     imageUrl: /artifacts/dangun-veneration-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dangun_Veneration'
+    provenance: 'Seoul (Hanyang), South Korea'
+    period: c. medieval roots; modern revival
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Dangun Veneration (Comparative).
 ---
 
 # Dangun Veneration (Comparative)

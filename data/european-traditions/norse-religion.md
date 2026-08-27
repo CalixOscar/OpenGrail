@@ -40,25 +40,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Norse Religion'
     url: 'https://brill.com/search?q=Norse%20Religion'
 artifacts:
-  - title: Norse mythology (IA norsemythology00ande) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Norse_mythology_(IA_norsemythology00ande).pdf
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 500 CE
-    description: 'Subjects: Mythology, Norse; Old Norse literature; Northmen...'
+  - title: Norse Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/norse-religion-1.jpg
-  - title: >-
-      Studach, Sämunds Edda des Weisen (1829) Titelblatt Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Studach,_S%C3%A4munds_Edda_des_Weisen_(1829)_Titelblatt.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Norse_Religion'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 500 CE
     description: >-
-      The title-page of Sämund's Edda des Weisen oder die Ältesten Norränischen
-      Lieder (1829), a German translation of the Poetic Edda by J. L. Studach.
-      Printed by Johann Leonhard Schrag...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Norse Religion.
+  - title: Poetic Edda & Sacred Relics
     imageUrl: /artifacts/norse-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Norse_Religion'
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. c. 500 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Norse
+      Religion.
 ---
 
 # Norse Religion

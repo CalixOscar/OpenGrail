@@ -43,21 +43,22 @@ sources:
       International
     url: 'https://www.cambridge.org/core/search?q=Grace%20Communion%20International'
 artifacts:
-  - title: Grace Communion International Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Grace_Communion_International'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1995 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Grace Communion International.
+  - title: Grace Communion International Historical Sanctuary & Iconography
     imageUrl: /artifacts/grace-communion-international-1.jpg
-  - title: Grace Communion International Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Grace_Communion_International'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1995 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Grace Communion International.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Grace Communion International.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/grace-communion-international-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Grace_Communion_International'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1995 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Grace
+      Communion International.
 ---
 
 # Grace Communion International

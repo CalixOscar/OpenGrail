@@ -48,24 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Memphite Theology'
     url: 'https://brill.com/search?q=Memphite%20Theology'
 artifacts:
-  - title: ShabakaStone-BritishMuseum-August19-08 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:ShabakaStone-BritishMuseum-August19-08.jpg
-    provenance: 'Thebes (Luxor), Ancient Egypt'
-    period: c. c. 1st millennium BCE
-    description: >-
-      The "Shabaka Stone", bearing an inscription outlining the creation myth
-      centred on the god Ptah; circa 710 BC. EA 498....
+  - title: Memphite Theology Historical Sanctuary & Iconography
     imageUrl: /artifacts/memphite-theology-1.jpg
-  - title: Memphite Theology Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:ShabakaStone-BritishMuseum-August19-08.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Memphite_Theology'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 1st millennium BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Memphite Theology.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Memphite Theology.
+  - title: Shabaka Stone & Sacred Relics
     imageUrl: /artifacts/memphite-theology-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Memphite_Theology'
+    provenance: 'Thebes (Luxor), Ancient Egypt'
+    period: c. c. 1st millennium BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Memphite Theology.
 ---
 
 # Memphite Theology

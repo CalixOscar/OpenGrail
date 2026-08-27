@@ -50,24 +50,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=San%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      Mantegna, Andrea - crucifixion - Louvre from Predella San Zeno Altarpiece
-      Verona Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Mantegna,_Andrea_-_crucifixion_-_Louvre_from_Predella_San_Zeno_Altarpiece_Verona.jpg
+  - title: San Religious Traditions (Comparative) Historical Sanctuary & Iconography
+    imageUrl: /artifacts/san-religious-traditions-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/San_Religious_Traditions'
     provenance: 'Kalahari Desert, Botswana/Namibia'
     period: c. prehistoric continuity and change
     description: >-
-      Altarretabel von San Zeno in Verona, Triptychon, mittlere Predellatafel:
-      Kreuzigung...
-    imageUrl: /artifacts/san-religious-traditions-1.jpg
-  - title: Oral English (IA oralenglish00newy) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Oral_English_(IA_oralenglish00newy).pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with San Religious Traditions (Comparative).
+  - title: Community-specific oral narratives & Sacred Relics
+    imageUrl: /artifacts/san-religious-traditions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/San_Religious_Traditions'
     provenance: 'Kalahari Desert, Botswana/Namibia'
     period: c. prehistoric continuity and change
-    description: 'Subjects: English language...'
-    imageUrl: /artifacts/san-religious-traditions-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of San
+      Religious Traditions (Comparative).
 ---
 
 # San Religious Traditions (Comparative)

@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Hanafi School'
     url: 'https://www.cambridge.org/core/search?q=Hanafi%20School'
 artifacts:
-  - title: شمس الأئمة السرخسي Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%D8%B4%D9%85%D8%B3_%D8%A7%D9%84%D8%A3%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%B1%D8%AE%D8%B3%D9%8A.png
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 8th century CE
-    description: تخطيط اسم شمس الأئمة السرخسي بخط الثُّلُث...
+  - title: Hanafi School Historical Sanctuary & Iconography
     imageUrl: /artifacts/hanafi-school-1.jpg
-  - title: Hanafi School Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%D8%B4%D9%85%D8%B3_%D8%A7%D9%84%D8%A3%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%B1%D8%AE%D8%B3%D9%8A.png
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hanafi_School'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Hanafi School.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Hanafi School.
+  - title: Al-Asl & Sacred Relics
     imageUrl: /artifacts/hanafi-school-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hanafi_School'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 8th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Hanafi School.
 ---
 
 # Hanafi School

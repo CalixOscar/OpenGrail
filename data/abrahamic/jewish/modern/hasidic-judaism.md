@@ -43,22 +43,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Hasidic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Hasidic%20Judaism'
 artifacts:
-  - title: Hasidic Judaism Historical Sanctuary & Records
+  - title: Hasidic Judaism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/hasidic-judaism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Hasidic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1740s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Hasidic Judaism.
-    imageUrl: /artifacts/hasidic-judaism-1.jpg
-  - title: 20100910bm0031 Tanya Tate Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:20100910bm0031_Tanya_Tate.jpg'
+  - title: Tanya & Sacred Relics
+    imageUrl: /artifacts/hasidic-judaism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hasidic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1740s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Hasidic Judaism.
-    imageUrl: /artifacts/hasidic-judaism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Hasidic Judaism.
 ---
 
 # Hasidic Judaism

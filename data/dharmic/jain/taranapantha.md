@@ -44,37 +44,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=T%C4%81ra%E1%B9%87apantha'
 artifacts:
-  - title: >-
-      Marian Shrine at Our Lady of Sorrows Catholic Church in Bernalillo New
-      Mexico Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Marian_Shrine_at_Our_Lady_of_Sorrows_Catholic_Church_in_Bernalillo_New_Mexico.jpg
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. late 15th century CE
-    description: >-
-      Marian Shrine at Our Lady of Sorrows Catholic Church in Bernalillo New
-      Mexico...
+  - title: Tāraṇapantha Historical Sanctuary & Iconography
     imageUrl: /artifacts/taranapantha-1.jpg
-  - title: >-
-      Ten Classes of Cosmological Deities Identified by Their Crown Ornaments,
-      Folio from a Laghu-Samgrahanisutra ('Short' Book of Compilation) LACMA
-      AC1999.127.18 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Ten_Classes_of_Cosmological_Deities_Identified_by_Their_Crown_Ornaments,_Folio_from_a_Laghu-Samgrahanisutra_(%27Short%27_Book_of_Compilation)_LACMA_AC1999.127.18.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/T%C4%81ra%E1%B9%87apantha'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. late 15th century CE
     description: >-
-      India, Gujarat, circa 1575
-
-      Books
-
-      Opaque watercolor and ink on paper
-
-      4 3/8 x 10 1/4 in. (11.11 x 26.04 cm)
-
-      Gift of Jane Greenough Green in memory of Edward Pelton Green
-      (AC1999.127...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Tāraṇapantha.
+  - title: Tāraṇ Svāmī's fourteen texts & Sacred Relics
     imageUrl: /artifacts/taranapantha-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/T%C4%81ra%E1%B9%87apantha'
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. late 15th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Tāraṇapantha.
 ---
 
 # Tāraṇapantha

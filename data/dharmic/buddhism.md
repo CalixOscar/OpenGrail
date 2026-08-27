@@ -54,22 +54,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Buddhism'
 artifacts:
-  - title: Buddhism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 5th century BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Buddhism.
+  - title: Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/buddhism-1.jpg
-  - title: Buddhism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Buddhism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Buddhism.
+  - title: Pāli Tipiṭaka & Sacred Relics
     imageUrl: /artifacts/buddhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 5th century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Buddhism.
 ---
 
 # Buddhism

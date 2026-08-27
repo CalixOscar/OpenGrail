@@ -45,24 +45,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Rosicrucianism'
     url: 'https://brill.com/search?q=Rosicrucianism'
 artifacts:
-  - title: Templeofrosycross Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Templeofrosycross.png'
-    provenance: 'London, England, UK'
-    period: c. early 17th century CE
-    description: >-
-      The representation was created around 1604 and was published in the
-      Speculum sophicum Rhodostauroticum by Theophilus Schweighart. At the
-      center of the picture is a wheeled, fortres...
+  - title: Rosicrucianism Historical Sanctuary & Iconography
     imageUrl: /artifacts/rosicrucianism-1.jpg
-  - title: Fama Fraternitatis Rosae Crucis (page 1) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Fama_Fraternitatis_Rosae_Crucis_(page_1).jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Rosicrucianism'
     provenance: 'London, England, UK'
     period: c. early 17th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Rosicrucianism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Rosicrucianism.
+  - title: Fama Fraternitatis & Sacred Relics
     imageUrl: /artifacts/rosicrucianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Rosicrucianism'
+    provenance: 'London, England, UK'
+    period: c. early 17th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Rosicrucianism.
 ---
 
 # Rosicrucianism

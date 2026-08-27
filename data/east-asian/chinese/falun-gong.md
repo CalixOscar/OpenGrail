@@ -45,22 +45,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Falun%20Gong'
 artifacts:
-  - title: Falun Gong Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Falun_Gong'
-    provenance: 'Beijing (Forbidden City), China'
-    period: c. 1992 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Falun Gong.
+  - title: Falun Gong Historical Sanctuary & Iconography
     imageUrl: /artifacts/falun-gong-1.jpg
-  - title: Falun Gong Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Falun_Gong'
     provenance: 'Beijing (Forbidden City), China'
     period: c. 1992 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Falun Gong.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Falun Gong.
+  - title: Zhuan Falun & Sacred Relics
     imageUrl: /artifacts/falun-gong-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Falun_Gong'
+    provenance: 'Beijing (Forbidden City), China'
+    period: c. 1992 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Falun
+      Gong.
 ---
 
 # Falun Gong

@@ -40,22 +40,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Slavic Religion'
     url: 'https://brill.com/search?q=Slavic%20Religion'
 artifacts:
-  - title: Slavic Ritual Angle Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Slavic_Ritual_Angle.PNG'
+  - title: Slavic Religion Historical Sanctuary & Iconography
+    imageUrl: /artifacts/slavic-religion-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Slavic_Religion'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 6th century CE
     description: >-
-      One of the basic Slavic ritual triangles, found in acheology of Slavic
-      cult objects. Described in Pleterski, Andrej (1996). Strukture tridelne
-      ideologije v prostoru pri Slovanih....
-    imageUrl: /artifacts/slavic-religion-1.jpg
-  - title: Yoruba oral traditions projects Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Yoruba_oral_traditions_projects.jpg
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Slavic Religion.
+  - title: Oral traditions & Sacred Relics
+    imageUrl: /artifacts/slavic-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Slavic_Religion'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 6th century CE
-    description: Filming of the Yoruba oral traditions projects....
-    imageUrl: /artifacts/slavic-religion-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Slavic Religion.
 ---
 
 # Slavic Religion

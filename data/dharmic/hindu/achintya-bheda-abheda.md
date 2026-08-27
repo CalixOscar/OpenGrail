@@ -44,22 +44,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Acintya-bhed%C4%81bheda'
 artifacts:
-  - title: Acintya-bhedābheda Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Acintya-bhed%C4%81bheda'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 16th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Acintya-bhedābheda.
+  - title: Acintya-bhedābheda Historical Sanctuary & Iconography
     imageUrl: /artifacts/achintya-bheda-abheda-1.jpg
-  - title: Acintya-bhedābheda Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Acintya-bhed%C4%81bheda'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 16th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Acintya-bhedābheda.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Acintya-bhedābheda.
+  - title: Ṣaṭ-sandarbha & Sacred Relics
     imageUrl: /artifacts/achintya-bheda-abheda-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Acintya-bhed%C4%81bheda'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 16th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Acintya-bhedābheda.
 ---
 
 # Acintya-bhedābheda

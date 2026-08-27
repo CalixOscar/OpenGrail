@@ -44,21 +44,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Romanian%20Orthodox%20Church'
 artifacts:
-  - title: Romanian Orthodox Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Romanian_Orthodox_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1872 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Romanian Orthodox Church.
+  - title: Romanian Orthodox Church Historical Sanctuary & Iconography
     imageUrl: /artifacts/romanian-orthodox-church-1.jpg
-  - title: Romanian Orthodox Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Romanian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1872 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Romanian Orthodox Church.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Romanian Orthodox Church.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/romanian-orthodox-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Romanian_Orthodox_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1872 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Romanian Orthodox Church.
 ---
 
 # Romanian Orthodox Church

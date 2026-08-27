@@ -45,22 +45,21 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Jehovah''s Witnesses'
     url: 'https://www.cambridge.org/core/search?q=Jehovah''s%20Witnesses'
 artifacts:
-  - title: Jehovah's Witnesses Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jehovah''s_Witnesses'
-    provenance: 'Allegheny (Pittsburgh), Pennsylvania, USA'
-    period: c. 1870s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Jehovah's Witnesses.
+  - title: CS 54 Jehovah PublicHearing
     imageUrl: /artifacts/jehovahs-witnesses-1.jpg
-  - title: Jehovah's Witnesses Canonical Scripture & Iconography
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jehovah''s_Witnesses'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:CS_54_Jehovah_PublicHearing.jpg'
     provenance: 'Allegheny (Pittsburgh), Pennsylvania, USA'
     period: c. 1870s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Jehovah's Witnesses.
+      Jehovah's Witness leaders at the Royal Commission into Institutional
+      Responses to Child Sexual Abuse in Australia...
+  - title: Jehovas Zeugen - Länder ohne berichtete Aktivitat
     imageUrl: /artifacts/jehovahs-witnesses-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Jehovas_Zeugen_-_L%C3%A4nder_ohne_berichtete_Aktivitat.png
+    provenance: 'Allegheny (Pittsburgh), Pennsylvania, USA'
+    period: c. 1870s CE
+    description: Countries where Jehovah's Witnesses' activities are or were banned...
 ---
 
 # Jehovah's Witnesses

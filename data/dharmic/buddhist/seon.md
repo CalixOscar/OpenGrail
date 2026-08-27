@@ -46,20 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Seon%20Buddhism'
 artifacts:
-  - title: Jeong Seon-Ingok.yugeodo Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Jeong_Seon-Ingok.yugeodo.jpg'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 8th century CE
-    description: '인곡유거도(仁谷幽居圖), 27.3*27.5cm 종이에 담채, 간송미술관...'
+  - title: Seon Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/seon-1.jpg
-  - title: Seon Buddhism Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Jeong_Seon-Ingok.yugeodo.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Seon_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Seon Buddhism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Seon Buddhism.
+  - title: Secrets on Cultivating the Mind & Sacred Relics
     imageUrl: /artifacts/seon-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Seon_Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 8th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Seon
+      Buddhism.
 ---
 
 # Seon Buddhism

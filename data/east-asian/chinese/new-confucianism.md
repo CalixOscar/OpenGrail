@@ -41,36 +41,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=New%20Confucianism'
 artifacts:
-  - title: >-
-      The dragon, image, and demon; or, The three religions of China-
-      Confucianism, Buddhism, and Taoism, giving an account of the mythology,
-      idolatry, and demonolatry of the Chinese (1887) (14597249320) Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_dragon,_image,_and_demon;_or,_The_three_religions_of_China-_Confucianism,_Buddhism,_and_Taoism,_giving_an_account_of_the_mythology,_idolatry,_and_demonolatry_of_the_Chinese_(1887)_(14597249320).jpg
-    provenance: 'Qufu, Shandong, China'
-    period: c. 20th century CE
-    description: >-
-      Identifier: dragonimagedemon1887dubo (find matches)
-
-      Title: The dragon, image, and demon; or, The three religions of China:
-      Confucianism, Buddhism, and Taoism, giving an account of...
+  - title: New Confucianism Historical Sanctuary & Iconography
     imageUrl: /artifacts/new-confucianism-1.jpg
-  - title: >-
-      The face of China, travels in East, North, Central and Western China; with
-      some account of the new schools, universities, missions, and the old
-      religious sacred places of Confucianism, Buddhism, and (14776545671)
-      Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_face_of_China,_travels_in_East,_North,_Central_and_Western_China;_with_some_account_of_the_new_schools,_universities,_missions,_and_the_old_religious_sacred_places_of_Confucianism,_Buddhism,_and_(14776545671).jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/New_Confucianism'
     provenance: 'Qufu, Shandong, China'
     period: c. 20th century CE
     description: >-
-      Identifier: faceofchinatrav00kemp (find matches)
-
-      Title: The face of China, travels in East, North, Central and Western
-      China; with some account of the new schools, universities, m...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with New Confucianism.
+  - title: A Manifesto for a Re-appraisal of Sinology & Sacred Relics
     imageUrl: /artifacts/new-confucianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/New_Confucianism'
+    provenance: 'Qufu, Shandong, China'
+    period: c. 20th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of New
+      Confucianism.
 ---
 
 # New Confucianism

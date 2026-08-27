@@ -45,26 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Breslov Hasidism'
     url: 'https://www.cambridge.org/core/search?q=Breslov%20Hasidism'
 artifacts:
-  - title: >-
-      Juifs religieux de la hassidout Breslov en pélerinage à Ouman, Ukraine
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Juifs_religieux_de_la_hassidout_Breslov_en_p%C3%A9lerinage_%C3%A0_Ouman,_Ukraine.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1802 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Breslov Hasidism.
+  - title: Breslov Hasidism Historical Sanctuary & Iconography
     imageUrl: /artifacts/breslov-hasidism-1.jpg
-  - title: Breslov Hasidism Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Juifs_religieux_de_la_hassidout_Breslov_en_p%C3%A9lerinage_%C3%A0_Ouman,_Ukraine.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Breslov_Hasidism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1802 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Breslov Hasidism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Breslov Hasidism.
+  - title: Likutey Moharan & Sacred Relics
     imageUrl: /artifacts/breslov-hasidism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Breslov_Hasidism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1802 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Breslov Hasidism.
 ---
 
 # Breslov Hasidism

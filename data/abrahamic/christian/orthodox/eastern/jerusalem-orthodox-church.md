@@ -46,21 +46,24 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Greek%20Orthodox%20Patriarchate%20of%20Jerusalem
 artifacts:
-  - title: Greek Orthodox Patriarchate of Jerusalem Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Greek_Orthodox_Patriarchate_of_Jerusalem'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 451 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Greek Orthodox Patriarchate of Jerusalem.
+  - title: >-
+      Greek Orthodox Patriarchate of Jerusalem Historical Sanctuary &
+      Iconography
     imageUrl: /artifacts/jerusalem-orthodox-church-1.jpg
-  - title: Greek Orthodox Patriarchate of Jerusalem Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Greek_Orthodox_Patriarchate_of_Jerusalem'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 451 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Greek Orthodox Patriarchate of Jerusalem.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Greek Orthodox Patriarchate of Jerusalem.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/jerusalem-orthodox-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Greek_Orthodox_Patriarchate_of_Jerusalem'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 451 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Greek
+      Orthodox Patriarchate of Jerusalem.
 ---
 
 # Greek Orthodox Patriarchate of Jerusalem

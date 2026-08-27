@@ -48,22 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: The Satanic Temple'
     url: 'https://brill.com/search?q=The%20Satanic%20Temple'
 artifacts:
-  - title: LucienGreavesSASHAcon2016 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:LucienGreavesSASHAcon2016.jpg'
-    provenance: 'Boston, Massachusetts, USA'
-    period: c. 2013 CE
-    description: The Satanic Temple co-founder Lucien Greaves speaks at SASHAcon 2016....
+  - title: The Satanic Temple Historical Sanctuary & Iconography
     imageUrl: /artifacts/satanic-temple-1.jpg
-  - title: >-
-      Campbellism exposed - or, Strictures on the peculiar tenets of Alexander
-      Campbell - by William Phillips (IA campbellismexpos01phil) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Campbellism_exposed_-_or,_Strictures_on_the_peculiar_tenets_of_Alexander_Campbell_-_by_William_Phillips_(IA_campbellismexpos01phil).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/The_Satanic_Temple'
     provenance: 'Boston, Massachusetts, USA'
     period: c. 2013 CE
-    description: 'Subjects: Campbell, Alexander, 1788-1866...'
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with The Satanic Temple.
+  - title: The Seven Fundamental Tenets & Sacred Relics
     imageUrl: /artifacts/satanic-temple-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/The_Satanic_Temple'
+    provenance: 'Boston, Massachusetts, USA'
+    period: c. 2013 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of The
+      Satanic Temple.
 ---
 
 # The Satanic Temple

@@ -44,22 +44,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=S%C4%81%E1%B9%83khya'
 artifacts:
-  - title: Evolution in Samkhya Japanese Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Evolution_in_Samkhya_Japanese.png'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 4th century CE
-    description: ​サーンキヤ哲学における世界展開（二十五諦）...
+  - title: Sāṃkhya Historical Sanctuary & Iconography
     imageUrl: /artifacts/samkhya-1.jpg
-  - title: गौडपादकारिका Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%E0%A4%97%E0%A5%8C%E0%A4%A1%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE.pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/S%C4%81%E1%B9%83khya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century CE
     description: >-
-      Gaudapada-Karika in Sanskrit, Edited With A Complete Translation Into
-      English, Notes, Introduction and Appendices - By Raghunath Damodar
-      Karmarkar...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sāṃkhya.
+  - title: Sāṃkhyakārikā & Sacred Relics
     imageUrl: /artifacts/samkhya-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/S%C4%81%E1%B9%83khya'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 4th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Sāṃkhya.
 ---
 
 # Sāṃkhya

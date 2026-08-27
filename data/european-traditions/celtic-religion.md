@@ -39,34 +39,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Celtic Religions'
     url: 'https://brill.com/search?q=Ancient%20Celtic%20Religions'
 artifacts:
-  - title: Couple de divinités gallo-romaines Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Couple_de_divinit%C3%A9s_gallo-romaines.JPG
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 800 BCE
-    description: |-
-      Deities couple, goddess holding a horn of plenty, 
-      Gallo-roman statue from Alise-sainte-Reine
-
-      Dijon archeological museum, France...
+  - title: Ancient Celtic Religions Historical Sanctuary & Iconography
     imageUrl: /artifacts/celtic-religion-1.jpg
-  - title: >-
-      The Archaeological journal (IA archaeologicaljo50brit) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Archaeological_journal_(IA_archaeologicaljo50brit).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Celtic_Religions'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 800 BCE
     description: >-
-      Avery index to architectural periodicals. Second edition. Revised and
-      enlarged. Supplement
-
-      Art index
-
-      Architectural periodicals index
-
-      RILA. Répertoire international de la littératu...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ancient Celtic Religions.
+  - title: Ritual and archaeological corpus & Sacred Relics
     imageUrl: /artifacts/celtic-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Celtic_Religions'
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. c. 800 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ancient Celtic Religions.
 ---
 
 # Ancient Celtic Religions

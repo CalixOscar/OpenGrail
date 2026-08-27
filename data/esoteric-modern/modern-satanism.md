@@ -45,23 +45,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Satanism'
     url: 'https://brill.com/search?q=Modern%20Satanism'
 artifacts:
-  - title: Modern Satanism Historical Sanctuary & Records
+  - title: Modern Satanism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/modern-satanism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Satanism'
     provenance: 'London, England, UK'
     period: c. 1960s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Modern Satanism.
-  - title: TheSatanicBibleLeatherbound2005 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:TheSatanicBibleLeatherbound2005.jpg
+  - title: Movement-specific Satanic scriptures & Sacred Relics
+    imageUrl: /artifacts/modern-satanism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Satanism'
     provenance: 'London, England, UK'
     period: c. 1960s CE
     description: >-
-      The Satanic Bible in Leatherbound form, featuring the Sigil of Baphomet
-      engraved into the cover. Released 2005 with introduction by Magus Peter H.
-      Gilmore. ISBN: 0-380-01539-0, pub...
-    imageUrl: /artifacts/modern-satanism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Modern Satanism.
 ---
 
 # Modern Satanism

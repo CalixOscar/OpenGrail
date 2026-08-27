@@ -41,22 +41,25 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Druze Faith'
     url: 'https://www.cambridge.org/core/search?q=Druze%20Faith'
 artifacts:
-  - title: DruzeOttomanHakim Historical Sanctuary
+  - title: DruzeOttomanHakim
+    imageUrl: /artifacts/druze-faith-1.jpg
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:DruzeOttomanHakim.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1017 CE
     description: >-
       Meeting of Druze and Ottoman leaders in Damascus, about the control of
       Jebel Druze....
-    imageUrl: /artifacts/druze-faith-1.jpg
-  - title: Druze Faith Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:DruzeOttomanHakim.jpg'
+  - title: Druze man
+    imageUrl: /artifacts/druze-faith-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Druze_man.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1017 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Druze Faith.
-    imageUrl: /artifacts/druze-faith-2.jpg
+      Druze Man of Lebanon
+
+      This striking Druze is a sheikh of a village in the mountains near
+      Beit-Eddine. The clothes he wears today are similar in many ways to those
+      worn by his ancest...
 ---
 
 # Druze Faith

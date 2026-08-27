@@ -48,24 +48,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Yol%C5%8Bu%20Religious%20Traditions'
 artifacts:
-  - title: To Guard the Stars and the Sea Together (ann22042l) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:To_Guard_the_Stars_and_the_Sea_Together_(ann22042l).jpg
-    provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
-    period: c. ancient and continuing
-    description: >-
-      Image title: To Guard the Stars and the Sea TogetherAuthor: Likai
-      LinCountry: China, NanjingThis image composition is amazing. In the far
-      background of the landscape we see a chain...
+  - title: Yolŋu Religious Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/yolngu-religions-1.jpg
-  - title: Yolŋu Religious Traditions Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:To_Guard_the_Stars_and_the_Sea_Together_(ann22042l).jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Yol%C5%8Bu_Religious_Traditions'
     provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
     period: c. ancient and continuing
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Yolŋu Religious Traditions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Yolŋu Religious Traditions.
+  - title: Manikay song cycles & Sacred Relics
+    imageUrl: /artifacts/yolngu-religions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Yol%C5%8Bu_Religious_Traditions'
+    provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
+    period: c. ancient and continuing
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Yolŋu
+      Religious Traditions.
 ---
 
 # Yolŋu Religious Traditions

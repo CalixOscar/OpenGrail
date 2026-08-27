@@ -45,26 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Engaged%20Buddhism'
 artifacts:
-  - title: Parallax Logo Stack RGB Black Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Parallax_Logo_Stack_RGB_Black.jpg'
+  - title: Engaged Buddhism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/engaged-buddhism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Engaged_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-
-      Logo of Plum Village Community of Engaged Buddhism publisher Parallax
-      Press...
-    imageUrl: /artifacts/engaged-buddhism-1.jpg
-  - title: >-
-      Buddha and the gospel of Buddhism (IA buddhagospelofbu01coom) Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Buddha_and_the_gospel_of_Buddhism_(IA_buddhagospelofbu01coom).pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Engaged Buddhism.
+  - title: 'Interbeing: Fourteen Guidelines & Sacred Relics'
+    imageUrl: /artifacts/engaged-buddhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Engaged_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
-    description: |-
-      Printed in Great Britain
-      Bibliography of works consulted by the author": p. 347-349
-      Subjects: Buddha and Buddhism...
-    imageUrl: /artifacts/engaged-buddhism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Engaged Buddhism.
 ---
 
 # Engaged Buddhism

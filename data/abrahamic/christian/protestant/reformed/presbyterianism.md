@@ -45,20 +45,19 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Presbyterianism'
     url: 'https://www.cambridge.org/core/search?q=Presbyterianism'
 artifacts:
-  - title: Presbyterianism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Presbyterianism'
-    provenance: 'Geneva, Switzerland'
-    period: c. c. 1560 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Presbyterianism.
+  - title: Celtic cross draped for Easter
     imageUrl: /artifacts/presbyterianism-1.jpg
-  - title: Scots Confession Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Scots_Confession.jpg'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Celtic_cross_draped_for_Easter.jpg'
     provenance: 'Geneva, Switzerland'
     period: c. c. 1560 CE
-    description: Title of Scots Confession...
+    description: Celtic cross draped for Easter...
+  - title: First Presbyterian Church of Pittsburgh
     imageUrl: /artifacts/presbyterianism-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:First_Presbyterian_Church_of_Pittsburgh.png
+    provenance: 'Geneva, Switzerland'
+    period: c. c. 1560 CE
+    description: First Presbyterian Church of Pittsburgh...
 ---
 
 # Presbyterianism

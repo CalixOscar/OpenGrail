@@ -44,25 +44,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Confucian%20Traditions'
 artifacts:
-  - title: Qufu 2009 1230 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Qufu_2009_1230.jpg'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 5th century BCE
-    description: >-
-      Dacheng Men. Confucius Temple, Qufu
-
-      The imposing Dacheng Men, or Great Achievement Gate, leads into the
-      courtyard that houses the main hall (Dacheng Dian). The gate's plain
-      octagon...
+  - title: Confucian Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/confucianism-1.jpg
-  - title: Confucian Traditions Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Qufu_2009_1230.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Confucian_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 5th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Confucian Traditions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Confucian Traditions.
+  - title: Analects & Sacred Relics
     imageUrl: /artifacts/confucianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Confucian_Traditions'
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 5th century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Confucian Traditions.
 ---
 
 # Confucian Traditions

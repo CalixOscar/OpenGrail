@@ -48,19 +48,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Anishinaabe%20Religious%20Traditions'
 artifacts:
-  - title: TRC Canada Executive Summary Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:TRC_Canada_Executive_Summary.pdf'
-    provenance: 'Lake Superior (Anishinaabe), MI/ON'
-    period: c. precolonial
-    description: TRC Canada Executive Summary...
+  - title: Anishinaabe Religious Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/anishinaabe-religions-1.jpg
-  - title: Anishinaabe Religious Traditions Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:TRC_Canada_Executive_Summary.pdf'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Anishinaabe_Religious_Traditions'
     provenance: 'Lake Superior (Anishinaabe), MI/ON'
     period: c. precolonial
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Anishinaabe Religious Traditions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Anishinaabe Religious Traditions.
+  - title: Aadizookaanag sacred narratives & Sacred Relics
+    imageUrl: /artifacts/anishinaabe-religions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Anishinaabe_Religious_Traditions'
+    provenance: 'Lake Superior (Anishinaabe), MI/ON'
+    period: c. precolonial
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Anishinaabe Religious Traditions.
 ---
 
 # Anishinaabe Religious Traditions

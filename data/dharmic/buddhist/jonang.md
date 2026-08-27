@@ -45,22 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Jonang'
 artifacts:
-  - title: Jonang Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jonang'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 13th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Jonang.
+  - title: Jonang Historical Sanctuary & Iconography
     imageUrl: /artifacts/jonang-1.jpg
-  - title: Jonang Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Jonang'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 13th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Jonang.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Jonang.
+  - title: Kālacakra Tantra & Sacred Relics
     imageUrl: /artifacts/jonang-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Jonang'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 13th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Jonang.
 ---
 
 # Jonang

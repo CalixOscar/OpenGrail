@@ -49,21 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ordo Templi Orientis'
     url: 'https://brill.com/search?q=Ordo%20Templi%20Orientis'
 artifacts:
-  - title: Ordo Templi Orientis Historical Sanctuary & Records
+  - title: Ordo Templi Orientis Historical Sanctuary & Iconography
+    imageUrl: /artifacts/ordo-templi-orientis-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Ordo_Templi_Orientis'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. c. 1902 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Ordo Templi Orientis.
-  - title: (Ordo Templi Orientis Mundi) Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:(Ordo_Templi_Orientis_Mundi).JPG'
+  - title: Liber AL vel Legis & Sacred Relics
+    imageUrl: /artifacts/ordo-templi-orientis-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ordo_Templi_Orientis'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. c. 1902 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ordo Templi Orientis.
-    imageUrl: /artifacts/ordo-templi-orientis-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Ordo
+      Templi Orientis.
 ---
 
 # Ordo Templi Orientis

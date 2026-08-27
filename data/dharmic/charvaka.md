@@ -51,29 +51,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=C%C4%81rv%C4%81ka%20%2F%20Lok%C4%81yata
 artifacts:
-  - title: >-
-      Verses from the Sarva-Darśana-Sangraha, the Vishnu Purāna, and the
-      Rāmāyana, Illustrating the Tenets of the Chārvākas, or Indian Materialists
-      (IA jstor-25228721) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Verses_from_the_Sarva-Dar%C5%9Bana-Sangraha,_the_Vishnu_Pur%C4%81na,_and_the_R%C4%81m%C4%81yana,_Illustrating_the_Tenets_of_the_Ch%C4%81rv%C4%81kas,_or_Indian_Materialists_(IA_jstor-25228721).pdf
+  - title: Cārvāka / Lokāyata Historical Sanctuary & Iconography
+    imageUrl: /artifacts/charvaka-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/C%C4%81rv%C4%81ka_%2F_Lok%C4%81yata'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1st millennium BCE
     description: >-
-      "Verses from the Sarva-Darśana-Sangraha, the Vishnu Purāna, and the
-      Rāmāyana, Illustrating the Tenets of the Chārvākas, or Indian
-      Materialists, with Some Remarks on Freedom of Spe...
-    imageUrl: /artifacts/charvaka-1.jpg
-  - title: The kalas (IA kalaskalas00venkrich) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_kalas_(IA_kalaskalas00venkrich).pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cārvāka / Lokāyata.
+  - title: Tattvopaplavasimha & Sacred Relics
+    imageUrl: /artifacts/charvaka-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/C%C4%81rv%C4%81ka_%2F_Lok%C4%81yata'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1st millennium BCE
-    description: |-
-      Thesis (doctoral)--University of Bern
-
-      Subjects:...
-    imageUrl: /artifacts/charvaka-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Cārvāka / Lokāyata.
 ---
 
 # Cārvāka / Lokāyata

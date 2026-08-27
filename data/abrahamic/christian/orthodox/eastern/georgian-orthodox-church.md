@@ -44,20 +44,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Georgian%20Orthodox%20Church'
 artifacts:
-  - title: Georgian Orthodox Church Historical Sanctuary & Records
+  - title: Georgian Orthodox Church Historical Sanctuary & Iconography
+    imageUrl: /artifacts/georgian-orthodox-church-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Georgian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Georgian Orthodox Church.
-    imageUrl: /artifacts/georgian-orthodox-church-1.jpg
-  - title: Nicene latcreed Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Nicene_latcreed.jpg'
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/georgian-orthodox-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Georgian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE
-    description: Nicene Creed in Codex Vat....
-    imageUrl: /artifacts/georgian-orthodox-church-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Georgian Orthodox Church.
 ---
 
 # Georgian Orthodox Church

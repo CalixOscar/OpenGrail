@@ -44,20 +44,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Dawoodi Bohra'
     url: 'https://www.cambridge.org/core/search?q=Dawoodi%20Bohra'
 artifacts:
-  - title: Dawoodi Bohra Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dawoodi_Bohra'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1592 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Dawoodi Bohra.
+  - title: HTN4258
     imageUrl: /artifacts/dawoodi-bohra-1.jpg
-  - title: AndalusQuran Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:AndalusQuran.JPG'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:HTN4258.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1592 CE
-    description: "Page from a manuscript from Al-Andalus, 12 cent. Sura 15\_: Al-Hijr. The thicker strokes in the center of the page are in the Kufic style of calligraphy...."
+    description: Dawoodi Bohra children in a classroom...
+  - title: MKE-EID1440-1866-4-2019-Edit
     imageUrl: /artifacts/dawoodi-bohra-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:MKE-EID1440-1866-4-2019-Edit.jpg'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1592 CE
+    description: Dawoodi Bohra Family Portrait &amp; Attire...
 ---
 
 # Dawoodi Bohra

@@ -50,26 +50,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Forn Siðr'
     url: 'https://brill.com/search?q=Forn%20Si%C3%B0r'
 artifacts:
-  - title: Runestone Forn Sidr Jelling 01 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Runestone_Forn_Sidr_Jelling_01.JPG'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. 1970s CE
-    description: >-
-      Runestone from the danish pagan society Forn Siðr, the official stone
-      setting was in november 2006 near Jelling....
+  - title: Forn Siðr Historical Sanctuary & Iconography
     imageUrl: /artifacts/forn-sidr-1.jpg
-  - title: >-
-      Afzelius, Edda Sæmundar hinns Fróda (1818) titelblad Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Afzelius,_Edda_S%C3%A6mundar_hinns_Fr%C3%B3da_(1818)_titelblad.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Forn_Si%C3%B0r'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE
     description: >-
-      The title-page of Edda Sæmundar hins fróda published by Arvid August
-      Afzelius in the year 1818. Printed in Stockholm in the year 1818. Edda
-      Sæmundar is also called the Elder Edda o...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Forn Siðr.
+  - title: Poetic Edda & Sacred Relics
     imageUrl: /artifacts/forn-sidr-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Forn_Si%C3%B0r'
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. 1970s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Forn
+      Siðr.
 ---
 
 # Forn Siðr

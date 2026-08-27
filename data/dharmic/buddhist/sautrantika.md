@@ -46,22 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sautr%C4%81ntika'
 artifacts:
-  - title: Buddha with transparent background Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Buddha_with_transparent_background.png
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE–2nd century CE
-    description: Buddha sculpture at Swayambunath Stupa (Monkey Temple)....
+  - title: Sautrāntika Historical Sanctuary & Iconography
     imageUrl: /artifacts/sautrantika-1.jpg
-  - title: Sautrāntika Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Buddha_with_transparent_background.png
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sautr%C4%81ntika'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE–2nd century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Sautrāntika.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sautrāntika.
+  - title: Abhidharmakośabhāṣya & Sacred Relics
     imageUrl: /artifacts/sautrantika-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sautr%C4%81ntika'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century BCE–2nd century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Sautrāntika.
 ---
 
 # Sautrāntika

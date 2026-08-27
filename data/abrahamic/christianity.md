@@ -59,22 +59,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Christianity'
     url: 'https://www.cambridge.org/core/search?q=Christianity'
 artifacts:
-  - title: Christianity Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christianity'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 30 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Christianity.
+  - title: 'Addis abeba, chiesa della trinità, esterno 02'
     imageUrl: /artifacts/christianity-1.jpg
-  - title: Christianity Canonical Scripture & Iconography
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christianity'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Addis_abeba,_chiesa_della_trinit%C3%A0,_esterno_02.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 30 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Christianity.
+    description: 'Holy Trinity Cathedral, Addis Ababa...'
+  - title: >-
+      Ann Arbor, University of Michigan P.Mich.inv. 6238 (Papyrus 46) fol. 142r
+      - 2 Corinthians 11,33-12,9
     imageUrl: /artifacts/christianity-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Ann_Arbor,_University_of_Michigan_P.Mich.inv._6238_(Papyrus_46)_fol._142r_-_2_Corinthians_11,33-12,9.jpg
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 30 CE
+    description: 'Papyrus 46 section containing  2 Corinthians 11,33-12,9...'
 ---
 
 # Christianity

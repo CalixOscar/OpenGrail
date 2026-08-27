@@ -48,23 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Dudeism'
     url: 'https://brill.com/search?q=Dudeism'
 artifacts:
-  - title: Dudeism Historical Sanctuary & Records
+  - title: Dudeism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/dudeism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Dudeism'
     provenance: 'London, England, UK'
     period: c. 2005 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Dudeism.
-  - title: Songs of the workers 9th Edition Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Songs_of_the_workers_9th_Edition.pdf
+  - title: The Big Lebowski & Sacred Relics
+    imageUrl: /artifacts/dudeism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dudeism'
     provenance: 'London, England, UK'
     period: c. 2005 CE
     description: >-
-      Songs written for I.W.W. meetings and demonstrations. Printed with lyrics
-      only, with a note indicating which popular tune, march or hymn should be
-      used for the melody....
-    imageUrl: /artifacts/dudeism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Dudeism.
 ---
 
 # Dudeism

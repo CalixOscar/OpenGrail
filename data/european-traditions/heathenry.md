@@ -44,23 +44,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Heathenry'
     url: 'https://brill.com/search?q=Heathenry'
 artifacts:
-  - title: Walpurgisnacht Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Walpurgisnacht.jpg'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. 1970s CE
-    description: >-
-      Kupferstich von W. Jury nach Johann Heinrich Ramberg - Walpurgisnachtszene
-      aus Faust 1...
+  - title: Heathenry Historical Sanctuary & Iconography
     imageUrl: /artifacts/heathenry-1.jpg
-  - title: 'Brate, Sämunds Edda (1913) Omslag Sacred Relics & Scripture'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Brate,_S%C3%A4munds_Edda_(1913)_Omslag.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Heathenry'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE
     description: >-
-      Sämunds Edda (1913), the first edition of Erik Brate's translation from
-      Icelandic to Swedish of the Poetic Edda (also known as the Elder Edda)....
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Heathenry.
+  - title: Poetic Edda & Sacred Relics
     imageUrl: /artifacts/heathenry-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Heathenry'
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. 1970s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Heathenry.
 ---
 
 # Heathenry

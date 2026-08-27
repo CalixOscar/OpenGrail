@@ -51,24 +51,24 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Church%20of%20Christ%2C%20Scientist
 artifacts:
-  - title: 'Church of Christ, Scientist Historical Sanctuary & Records'
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Christ%2C_Scientist'
-    provenance: 'Boston, Massachusetts, USA'
-    period: c. 1879 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Church of Christ, Scientist.
+  - title: 'Christian Science Mother Church, Boston, Massachusetts'
     imageUrl: /artifacts/christian-science-1.jpg
-  - title: 'Science and Health, 1875, cover page Sacred Relics & Scripture'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Science_and_Health,_1875,_cover_page.jpg
+      https://commons.wikimedia.org/wiki/File:Christian_Science_Mother_Church,_Boston,_Massachusetts.JPG
     provenance: 'Boston, Massachusetts, USA'
     period: c. 1879 CE
     description: >-
-      Science and Health (1875) by Mary Baker Eddy, probably the first edition.
-      It uses her surname (Glover) from her first husband, and therefore was
-      before her marriage to her third hu...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Church of Christ, Scientist.
+  - title: Bible & Sacred Relics
     imageUrl: /artifacts/christian-science-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Christian_Science_Mother_Church,_Boston,_Massachusetts.JPG
+    provenance: 'Boston, Massachusetts, USA'
+    period: c. 1879 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Church of Christ, Scientist.
 ---
 
 # Church of Christ, Scientist

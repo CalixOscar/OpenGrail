@@ -45,23 +45,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Spiritualism'
     url: 'https://brill.com/search?q=Modern%20Spiritualism'
 artifacts:
-  - title: Allal-Ming by N Roerich automatic writing 1920 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Allal-Ming_by_N_Roerich_automatic_writing_1920.jpg
-    provenance: 'London, England, UK'
-    period: c. 1848 CE
-    description: |-
-      Н.К.Рерих. Аллал-Минг. 1920.
-      Рисунок, сделанный способом автоматического письма...
+  - title: Modern Spiritualism Historical Sanctuary & Iconography
     imageUrl: /artifacts/spiritualism-1.jpg
-  - title: Spiritualism Unmasked Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Spiritualism_Unmasked.pdf'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Spiritualism'
     provenance: 'London, England, UK'
     period: c. 1848 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Modern Spiritualism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Modern Spiritualism.
+  - title: Spiritualist séance and lecture records & Sacred Relics
     imageUrl: /artifacts/spiritualism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Spiritualism'
+    provenance: 'London, England, UK'
+    period: c. 1848 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Modern Spiritualism.
 ---
 
 # Modern Spiritualism

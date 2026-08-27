@@ -48,19 +48,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9A%C4%81kta%20Tantra'
 artifacts:
-  - title: Elements of Hindu Iconography Vol. 1 Part 1 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Elements_of_Hindu_Iconography_Vol._1_Part_1.pdf
-    provenance: 'Kamakhya (Guwahati), Assam, India'
-    period: c. c. 6th–8th century CE
-    description: published 1914 in India...
+  - title: Śākta Tantra Historical Sanctuary & Iconography
     imageUrl: /artifacts/shakta-tantra-1.jpg
-  - title: Mukteswar temple Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mukteswar_temple.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81kta_Tantra'
     provenance: 'Kamakhya (Guwahati), Assam, India'
     period: c. c. 6th–8th century CE
-    description: A Sculpture showing sexual pose in Mukteswar Temple in odissa...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Śākta Tantra.
+  - title: Brahmayāmala & Sacred Relics
     imageUrl: /artifacts/shakta-tantra-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81kta_Tantra'
+    provenance: 'Kamakhya (Guwahati), Assam, India'
+    period: c. c. 6th–8th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Śākta
+      Tantra.
 ---
 
 # Śākta Tantra

@@ -52,21 +52,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Spiritism'
     url: 'https://brill.com/search?q=Spiritism'
 artifacts:
-  - title: KSC-03PD-0786 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:KSC-03PD-0786.jpg'
+  - title: Spiritism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/spiritism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Spiritism'
     provenance: 'London, England, UK'
     period: c. 1857 CE
     description: >-
-      KENNEDY SPACE CENTER, Fla. - In the Payload Hazardous Servicing Facility,
-      the Mars Exploration Rover-2 (MER-2) is tested for mobility and
-      maneuverability. Set to launch in Spring 2...
-    imageUrl: /artifacts/spiritism-1.jpg
-  - title: Le Livre des Esprits 2 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Le_Livre_des_Esprits_2.jpg'
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Spiritism.
+  - title: The Spirits' Book & Sacred Relics
+    imageUrl: /artifacts/spiritism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Spiritism'
     provenance: 'London, England, UK'
     period: c. 1857 CE
-    description: 'Page de garde du Livre des Esprits, édition de 1860....'
-    imageUrl: /artifacts/spiritism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Spiritism.
 ---
 
 # Spiritism

@@ -46,24 +46,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gaelic Polytheism'
     url: 'https://brill.com/search?q=Gaelic%20Polytheism'
 artifacts:
-  - title: Lady of Cornwall Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lady_of_Cornwall.jpg'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 1st millennium BCE
-    description: >-
-      The Lady of Cornwall Rebecca Gibson (Penzance Gorseth Picture Gallery
-      2007)...
+  - title: Gaelic Polytheism Historical Sanctuary & Iconography
     imageUrl: /artifacts/gaelic-polytheism-1.jpg
-  - title: Ireland-stamp-1922-sword-of-light-5p detail Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Ireland-stamp-1922-sword-of-light-5p_detail.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Gaelic_Polytheism'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium BCE
     description: >-
-      Detail of 1922/3 Ireland definitive 5p postage stamp making better legible
-      the label An Claiḋeaṁ Soluis (An Claidheamh Soluis , "The Sword of
-      Light")....
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Gaelic Polytheism.
+  - title: Irish mythological cycles & Sacred Relics
     imageUrl: /artifacts/gaelic-polytheism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Gaelic_Polytheism'
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. c. 1st millennium BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Gaelic Polytheism.
 ---
 
 # Gaelic Polytheism

@@ -45,24 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9Aaiva%20Siddh%C4%81nta'
 artifacts:
-  - title: Kadavul Temple Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kadavul_Temple.jpg'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th–8th century CE
-    description: 'Kadavul Temple, Kauai''s Hindu Monastery, Kapaa, Kauai, Hawaii....'
+  - title: Śaiva Siddhānta Historical Sanctuary & Iconography
     imageUrl: /artifacts/shaiva-siddhanta-1.jpg
-  - title: >-
-      13th century Nandi mandapa, Ramappa temples complex, Palampet Telangana
-      India - 33 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:13th_century_Nandi_mandapa,_Ramappa_temples_complex,_Palampet_Telangana_India_-_33.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Aaiva_Siddh%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th–8th century CE
     description: >-
-      The Ramappa temples complex is located about 65 kilometers northeast of
-      Warangal (NH 163) and about 2 kilometers south of Palampet village near
-      the 12th-century man made Ramappa la...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Śaiva Siddhānta.
+  - title: Śaiva Siddhānta Āgamas & Sacred Relics
     imageUrl: /artifacts/shaiva-siddhanta-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Aaiva_Siddh%C4%81nta'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 6th–8th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Śaiva
+      Siddhānta.
 ---
 
 # Śaiva Siddhānta

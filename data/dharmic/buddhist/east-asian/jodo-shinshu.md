@@ -49,22 +49,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=J%C5%8Ddo%20Shinsh%C5%AB'
 artifacts:
-  - title: Jōdo Shinshū Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 13th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Jōdo Shinshū.
+  - title: Jōdo Shinshū Historical Sanctuary & Iconography
     imageUrl: /artifacts/jodo-shinshu-1.jpg
-  - title: Jōdo Shinshū Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 13th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Jōdo Shinshū.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Jōdo Shinshū.
+  - title: Three Pure Land Sūtras & Sacred Relics
     imageUrl: /artifacts/jodo-shinshu-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 13th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Jōdo
+      Shinshū.
 ---
 
 # Jōdo Shinshū

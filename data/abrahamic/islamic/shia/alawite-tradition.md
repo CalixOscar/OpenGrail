@@ -42,27 +42,27 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Alawite Tradition'
     url: 'https://www.cambridge.org/core/search?q=Alawite%20Tradition'
 artifacts:
-  - title: RS21745 (IA RS21745-crs) Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:RS21745_(IA_RS21745-crs).pdf'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 9th century CE
-    description: |-
-      RS21745
-
-      Subjects: Congressional Research Service; CRS; Congress...
-    imageUrl: /artifacts/alawite-tradition-1.jpg
   - title: >-
-      Thurston, the famous magician - East Indian Rope Trick Sacred Relics &
-      Scripture
+      'The Visit of the Queen of Sheba to King Solomon', oil on canvas painting
+      by Edward Poynter, 1890, Art Gallery of New South Wales
+    imageUrl: /artifacts/alawite-tradition-1.jpg
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Thurston,_the_famous_magician_-_East_Indian_Rope_Trick.jpg
+      https://commons.wikimedia.org/wiki/File:%27The_Visit_of_the_Queen_of_Sheba_to_King_Solomon%27,_oil_on_canvas_painting_by_Edward_Poynter,_1890,_Art_Gallery_of_New_South_Wales.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
     description: >-
-      Poster advertising Thurston, the magician's reproduction of the (mythical)
-      East Indian rope-trick. It claims that it's the first time out of India,
-      though the truth value of early...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Alawite Tradition.
+  - title: Birmingham Quran manuscript full
     imageUrl: /artifacts/alawite-tradition-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Birmingham_Quran_manuscript_full.jpg
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 9th century CE
+    description: >-
+      Seventh-century Quran manuscript held by the University of Birmingham.
+      Folio 2 recto (left) and folio 1 verso (right). Folio 2 (left) from the
+      end of Chapter 19 to the beginning of...
 ---
 
 # Alawite Tradition

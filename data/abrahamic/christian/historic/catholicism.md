@@ -45,22 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Catholicism'
     url: 'https://www.cambridge.org/core/search?q=Catholicism'
 artifacts:
-  - title: Catholicism Historical Sanctuary & Records
+  - title: Catholicism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/catholicism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Catholicism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Catholicism.
-    imageUrl: /artifacts/catholicism-1.jpg
-  - title: Nicaea icon Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Nicaea_icon.jpg'
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/catholicism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Catholicism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      Symbolum Nicaeno-Constantinopolitanum. Icon depicting the First Council of
-      Nicaea with ten men and a text of the Nicean Creed in Greek....
-    imageUrl: /artifacts/catholicism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Catholicism.
 ---
 
 # Catholicism

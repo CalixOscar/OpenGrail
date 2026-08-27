@@ -48,21 +48,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Swaminarayan%20Samprad%C4%81ya'
 artifacts:
-  - title: 'Shri Swaminarayan Mandir, Bhavnagar 01 Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Shri_Swaminarayan_Mandir,_Bhavnagar_01.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. early 19th century CE
-    description: 'Shri Swaminarayan Mandir, Bhavnagar, India...'
+  - title: Swaminarayan Sampradāya Historical Sanctuary & Iconography
     imageUrl: /artifacts/swaminarayan-sampradaya-1.jpg
-  - title: Swaminarayan Sampradāya Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Shri_Swaminarayan_Mandir,_Bhavnagar_01.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Swaminarayan_Samprad%C4%81ya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. early 19th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Swaminarayan Sampradāya.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Swaminarayan Sampradāya.
+  - title: Śikṣāpatrī & Sacred Relics
+    imageUrl: /artifacts/swaminarayan-sampradaya-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Swaminarayan_Samprad%C4%81ya'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. early 19th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Swaminarayan Sampradāya.
 ---
 
 # Swaminarayan Sampradāya

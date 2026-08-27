@@ -42,23 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Branch Davidians'
     url: 'https://www.cambridge.org/core/search?q=Branch%20Davidians'
 artifacts:
-  - title: Branch Davidians Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Branch_Davidians'
-    provenance: 'Mount Carmel (Waco), Texas, USA'
-    period: c. 1955 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Branch Davidians.
+  - title: David koresh
     imageUrl: /artifacts/branch-davidians-1.jpg
-  - title: >-
-      Early writings of Mrs White (IA earlywritingsofm00whit) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Early_writings_of_Mrs_White_(IA_earlywritingsofm00whit).pdf
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:David_koresh.jpg'
     provenance: 'Mount Carmel (Waco), Texas, USA'
     period: c. 1955 CE
-    description: 'Subjects: Seventh-Day Adventists...'
+    description: Mug shot of David Koresh....
+  - title: Mountcarmelfire04-19-93-n
     imageUrl: /artifacts/branch-davidians-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mountcarmelfire04-19-93-n.jpg'
+    provenance: 'Mount Carmel (Waco), Texas, USA'
+    period: c. 1955 CE
+    description: Fire spreads rapidly to other second floor bedrooms....
 ---
 
 # Branch Davidians

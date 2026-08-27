@@ -46,22 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vajray%C4%81na%20Buddhism'
 artifacts:
-  - title: Buddhist sects Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddhist_sects.png'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century CE
-    description: >-
-      Map of the main modern Buddhist sects, source is Rupert Gethin's the
-      Foundations of Buddhism, pg xvi...
+  - title: Vajrayāna Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/vajrayana-1.jpg
-  - title: Vajrayāna Buddhism Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddhist_sects.png'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vajray%C4%81na_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Vajrayāna Buddhism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Vajrayāna Buddhism.
+  - title: Guhyasamāja Tantra & Sacred Relics
     imageUrl: /artifacts/vajrayana-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vajray%C4%81na_Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 6th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Vajrayāna Buddhism.
 ---
 
 # Vajrayāna Buddhism

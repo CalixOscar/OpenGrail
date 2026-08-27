@@ -43,25 +43,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & La Luz del Mundo'
     url: 'https://www.cambridge.org/core/search?q=La%20Luz%20del%20Mundo'
 artifacts:
-  - title: La Luz del Mundo Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/La_Luz_del_Mundo'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1926 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with La Luz del Mundo.
+  - title: Templolldm02
     imageUrl: /artifacts/la-luz-del-mundo-1.jpg
-  - title: >-
-      Basel Museum der Kulturen Statue funéraire Indonésie 25102013 1 Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Basel_Museum_der_Kulturen_Statue_fun%C3%A9raire_Indon%C3%A9sie_25102013_1.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Templolldm02.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1926 CE
     description: >-
-      Grave figure, marlstone, Indonesia. Alfred Bühler expedition in 1949.
-      Museum der Kulturen in Basel....
+      Flagship temple of La Luz del Mundo at Glorieta Central No. 1, Hermosa
+      Provincia, Guadalajara, Jalisco, México....
+  - title: Bible & Sacred Relics
     imageUrl: /artifacts/la-luz-del-mundo-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Templolldm02.jpg'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1926 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of La
+      Luz del Mundo.
 ---
 
 # La Luz del Mundo

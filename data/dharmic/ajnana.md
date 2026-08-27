@@ -45,22 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Aj%C3%B1%C4%81na%20Skeptics'
 artifacts:
-  - title: 'An iwan of Fatima Masumeh Shrine, qom, iran Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:An_iwan_of_Fatima_Masumeh_Shrine,_qom,_iran.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 5th century BCE
-    description: 'an iwan of Fatima Masumeh Shrine, qom, iran. this iwan rebuilt recently...'
+  - title: Ajñāna Skeptics Historical Sanctuary & Iconography
     imageUrl: /artifacts/ajnana-1.jpg
-  - title: Ajñāna Skeptics Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:An_iwan_of_Fatima_Masumeh_Shrine,_qom,_iran.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Aj%C3%B1%C4%81na_Skeptics'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ajñāna Skeptics.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ajñāna Skeptics.
+  - title: Sāmaññaphala Sutta account & Sacred Relics
     imageUrl: /artifacts/ajnana-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Aj%C3%B1%C4%81na_Skeptics'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 5th century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ajñāna Skeptics.
 ---
 
 # Ajñāna Skeptics

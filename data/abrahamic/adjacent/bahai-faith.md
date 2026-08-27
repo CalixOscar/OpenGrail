@@ -46,22 +46,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Baha''i Faith'
     url: 'https://www.cambridge.org/core/search?q=Baha''i%20Faith'
 artifacts:
-  - title: Baha'i Faith Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Baha''i_Faith'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1863 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Baha'i Faith.
+  - title: 051907 Wilmette IMG 1404 The Greatest Name
     imageUrl: /artifacts/bahai-faith-1.jpg
-  - title: Baha'i Faith Canonical Scripture & Iconography
-    sourceUrl: 'https://en.wikipedia.org/wiki/Baha''i_Faith'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:051907_Wilmette_IMG_1404_The_Greatest_Name.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1863 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Baha'i Faith.
+      Photograph of the Greatest Name at the top of the interior of the Baha'i
+      House of Worship in Wilmette, Illinois....
+  - title: Kitab-i-Aqdas & Sacred Relics
     imageUrl: /artifacts/bahai-faith-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:051907_Wilmette_IMG_1404_The_Greatest_Name.jpg
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1863 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Baha'i Faith.
 ---
 
 # Baha'i Faith

@@ -46,20 +46,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Ryukyuan%20Religion'
 artifacts:
-  - title: Miyako harimizu utaki Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Miyako_harimizu_utaki.jpg'
-    provenance: 'Qufu, Shandong, China'
-    period: c. ancient
-    description: 'Harimizu Utaki, Miyakojima, Okinawa, Japan...'
+  - title: Ryukyuan Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/ryukyuan-religion-1.jpg
-  - title: Ryukyuan Religion Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Miyako_harimizu_utaki.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ryukyuan_Religion'
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ryukyuan Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ryukyuan Religion.
+  - title: Omoro Sōshi & Sacred Relics
     imageUrl: /artifacts/ryukyuan-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ryukyuan_Religion'
+    provenance: 'Qufu, Shandong, China'
+    period: c. ancient
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ryukyuan Religion.
 ---
 
 # Ryukyuan Religion

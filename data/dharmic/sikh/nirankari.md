@@ -41,29 +41,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nirankari%20Movement'
 artifacts:
-  - title: >-
-      The role of moderate Muslims in combating violent Jihad (IA
-      theroleofmoderat109453018) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_role_of_moderate_Muslims_in_combating_violent_Jihad_(IA_theroleofmoderat109453018).pdf
-    provenance: 'Amritsar, Punjab, India'
-    period: c. c. 1851 CE
-    description: >-
-      s can play their most useful role only after  the state is able to contain
-      the radicals and secure conditions that are congenial for views different
-      from those of  radicals to be...
+  - title: Nirankari Movement Historical Sanctuary & Iconography
     imageUrl: /artifacts/nirankari-1.jpg
-  - title: Guru Granth Sahib and Dasam Granth together Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Guru_Granth_Sahib_and_Dasam_Granth_together.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Nirankari_Movement'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 1851 CE
     description: >-
-      Guru Granth Sahib and Dasam Granth together. Sikh fresco artwork.
-
-      Detailed description: "A Fresco Painting , 1800 CE in Gurdwara Ramsar
-      Sahib that illustrates the Perkash of Sri Da...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Nirankari Movement.
+  - title: Guru Granth Sahib & Sacred Relics
     imageUrl: /artifacts/nirankari-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Nirankari_Movement'
+    provenance: 'Amritsar, Punjab, India'
+    period: c. c. 1851 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Nirankari Movement.
 ---
 
 # Nirankari Movement

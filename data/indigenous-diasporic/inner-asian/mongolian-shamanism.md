@@ -45,32 +45,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Mongolian%20Shamanic%20Traditions'
 artifacts:
-  - title: Decorated tent near lake Qinghai (1) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Decorated_tent_near_lake_Qinghai_(1).jpg
-    provenance: 'Orkhon Valley (Karakorum), Mongolia'
-    period: c. ancient; continuously developing
-    description: >-
-      Yugur or Mongolian Asar maikhan (Асар майхан, litteraly pavilon tent, kind
-      of yurt or tent)[5][6][7][8] in Qinghai plateau, near the Qinghai Lake
-      (Kokonor or khökhnuur (Хөхнуур) in...
+  - title: Mongolian Shamanic Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/mongolian-shamanism-1.jpg
-  - title: >-
-      The Edinburgh new philosophical journal (IA edinburghnewphil05edinuoft)
-      Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Edinburgh_new_philosophical_journal_(IA_edinburghnewphil05edinuoft).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mongolian_Shamanic_Traditions'
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. ancient; continuously developing
     description: >-
-      Absorbed by the Quarterly journal of science (called later Journal of
-      science and annals of astronomy, biology, geology, industrial arts,
-      manufacturers, and technology)
-
-      14
-
-      Subject...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Mongolian Shamanic Traditions.
+  - title: Oral invocations and genealogies & Sacred Relics
     imageUrl: /artifacts/mongolian-shamanism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mongolian_Shamanic_Traditions'
+    provenance: 'Orkhon Valley (Karakorum), Mongolia'
+    period: c. ancient; continuously developing
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Mongolian Shamanic Traditions.
 ---
 
 # Mongolian Shamanic Traditions

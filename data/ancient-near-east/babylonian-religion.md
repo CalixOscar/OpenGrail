@@ -46,22 +46,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Babylonian Religion'
     url: 'https://brill.com/search?q=Babylonian%20Religion'
 artifacts:
-  - title: Babylonian Religion Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Babylonian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1900 BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Babylonian Religion.
+  - title: Babylonian Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/babylonian-religion-1.jpg
-  - title: Babylonian Religion Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Babylonian_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1900 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Babylonian Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Babylonian Religion.
+  - title: Enūma Eliš & Sacred Relics
     imageUrl: /artifacts/babylonian-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Babylonian_Religion'
+    provenance: 'Babylon, Mesopotamia'
+    period: c. c. 1900 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Babylonian Religion.
 ---
 
 # Babylonian Religion

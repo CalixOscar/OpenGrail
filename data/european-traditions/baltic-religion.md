@@ -39,25 +39,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Baltic Religion'
     url: 'https://brill.com/search?q=Baltic%20Religion'
 artifacts:
-  - title: Dievs Pērkons 11 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dievs_P%C4%93rkons_11.jpg'
+  - title: Baltic Religion Historical Sanctuary & Iconography
+    imageUrl: /artifacts/baltic-religion-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Baltic_Religion'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium BCE
     description: >-
-      Dievturi pielūdz Dievu Pērkonu kā Debesu Tēvu. Dievu Pērkonu dievturībā
-      mēdz dēvēt par Pērkoņtēvu vai visvareno Pērkonu – Debesu Tēvu. Viņa
-      simbols ir Pērkoņkrusts jeb Pērkonkrusts...
-    imageUrl: /artifacts/baltic-religion-1.jpg
-  - title: >-
-      News releases and other news material - United States Department of
-      Agriculture, Office of Public Affairs. (IA CAT10619378047) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:News_releases_and_other_news_material_-_United_States_Department_of_Agriculture,_Office_of_Public_Affairs._(IA_CAT10619378047).pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Baltic Religion.
+  - title: Lithuanian and Latvian oral traditions & Sacred Relics
+    imageUrl: /artifacts/baltic-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Baltic_Religion'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium BCE
-    description: "volumes\_; 22 cm\nIssue numbering consists of month-week no. in month-year designation: e.g., no. 2193 covers 1st week in Feb. 1993; no. 11293 covers2nd week in Nov. 1993, etc\nDescr..."
-    imageUrl: /artifacts/baltic-religion-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Baltic Religion.
 ---
 
 # Baltic Religion

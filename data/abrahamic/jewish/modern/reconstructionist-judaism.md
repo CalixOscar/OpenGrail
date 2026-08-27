@@ -42,25 +42,22 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Reconstructionist%20Judaism'
 artifacts:
-  - title: Reconstructionist Judaism Historical Sanctuary & Records
+  - title: Reconstructionist Judaism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/reconstructionist-judaism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Reconstructionist_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1920s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Reconstructionist Judaism.
-    imageUrl: /artifacts/reconstructionist-judaism-1.jpg
-  - title: >-
-      Litoměřice - Mírové náměstí - Renaissance Sgraffito - Hebrew Bible Imagery
-      01 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Litom%C4%9B%C5%99ice_-_M%C3%ADrov%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_-_Renaissance_Sgraffito_-_Hebrew_Bible_Imagery_01.jpg
+  - title: Tanakh & Sacred Relics
+    imageUrl: /artifacts/reconstructionist-judaism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Reconstructionist_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1920s CE
     description: >-
-      Litoměřice - Mírové náměstí - Renaissance Sgraffito - Hebrew Bible
-      Imagery...
-    imageUrl: /artifacts/reconstructionist-judaism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Reconstructionist Judaism.
 ---
 
 # Reconstructionist Judaism

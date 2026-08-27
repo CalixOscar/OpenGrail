@@ -48,27 +48,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ud%C4%81s%C4%AB%20Tradition'
 artifacts:
-  - title: >-
-      Painting depicting Guru Arjan, from an illustrated Sikh manuscript
-      commissioned by Udasis, ca.1757–59 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Painting_depicting_Guru_Arjan,_from_an_illustrated_Sikh_manuscript_commissioned_by_Udasis,_ca.1757%E2%80%9359.jpg
-    provenance: 'Amritsar, Punjab, India'
-    period: c. c. 16th–17th century CE
-    description: >-
-      Painting depicting Guru Arjan, from an illustrated Sikh manuscript
-      commissioned by Udasis, ca.1757–59. Kept in the private collection of a
-      family based in the United Kingdom of Gre...
+  - title: Udāsī Tradition Historical Sanctuary & Iconography
     imageUrl: /artifacts/udasi-1.jpg
-  - title: Illuminated Guru Granth Sahib manuscript 04 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Illuminated_Guru_Granth_Sahib_manuscript_04.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ud%C4%81s%C4%AB_Tradition'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 16th–17th century CE
     description: >-
-      Illuminated Guru Granth Sahib manuscript from the Dr. Gurpal Singh Bhuller
-      collection....
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Udāsī Tradition.
+  - title: Guru Granth Sahib & Sacred Relics
     imageUrl: /artifacts/udasi-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ud%C4%81s%C4%AB_Tradition'
+    provenance: 'Amritsar, Punjab, India'
+    period: c. c. 16th–17th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Udāsī
+      Tradition.
 ---
 
 # Udāsī Tradition

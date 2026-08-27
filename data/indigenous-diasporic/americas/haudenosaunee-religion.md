@@ -43,37 +43,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Haudenosaunee%20Religions'
 artifacts:
-  - title: >-
-      Who are the soldiers of the revolution? (IA whoaresoldiersof00hans)
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Who_are_the_soldiers_of_the_revolution%3F_(IA_whoaresoldiersof00hans).pdf
-    provenance: 'Onondaga, Haudenosaunee Territory, NY, USA'
-    period: c. before 1500 CE
-    description: >-
-      Thesis advisor, Roman Laba
-
-      "September 1996."
-
-      Thesis (M.A. in National Security Affairs) Naval Postgraduate School,
-      September 1996
-
-      Bibliography: p. 85-91
-
-      This thesis records the re...
+  - title: Haudenosaunee Religions Historical Sanctuary & Iconography
     imageUrl: /artifacts/haudenosaunee-religion-1.jpg
-  - title: >-
-      The league of the Iroquois and other legends - from the Indian muse (IA
-      cu31924079618462) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_league_of_the_Iroquois_and_other_legends_-_from_the_Indian_muse_(IA_cu31924079618462).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Haudenosaunee_Religions'
     provenance: 'Onondaga, Haudenosaunee Territory, NY, USA'
     period: c. before 1500 CE
     description: >-
-      The metadata below describe the original scanning. Follow the "All Files:
-      HTTP" link in the "View the book" box to the left to find XML files that
-      contain more metadata about the...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Haudenosaunee Religions.
+  - title: Kayanerenkówa / Great Law of Peace & Sacred Relics
     imageUrl: /artifacts/haudenosaunee-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Haudenosaunee_Religions'
+    provenance: 'Onondaga, Haudenosaunee Territory, NY, USA'
+    period: c. before 1500 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Haudenosaunee Religions.
 ---
 
 # Haudenosaunee Religions

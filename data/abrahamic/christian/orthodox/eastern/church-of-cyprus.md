@@ -42,21 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Cyprus'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Cyprus'
 artifacts:
-  - title: Church of Cyprus Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Cyprus'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 431 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Church of Cyprus.
+  - title: Church of Cyprus Historical Sanctuary & Iconography
     imageUrl: /artifacts/church-of-cyprus-1.jpg
-  - title: Church of Cyprus Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Cyprus'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 431 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Church of Cyprus.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Church of Cyprus.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/church-of-cyprus-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Cyprus'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 431 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Church of Cyprus.
 ---
 
 # Church of Cyprus

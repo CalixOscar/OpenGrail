@@ -47,22 +47,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Discordianism'
     url: 'https://brill.com/search?q=Discordianism'
 artifacts:
-  - title: Discordianism Historical Sanctuary & Records
+  - title: Discordianism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/discordianism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Discordianism'
     provenance: 'London, England, UK'
     period: c. late 1950s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Discordianism.
-    imageUrl: /artifacts/discordianism-1.jpg
-  - title: Eye Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Eye.jpg'
+  - title: Principia Discordia & Sacred Relics
+    imageUrl: /artifacts/discordianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Discordianism'
     provenance: 'London, England, UK'
     period: c. late 1950s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Discordianism.
-    imageUrl: /artifacts/discordianism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Discordianism.
 ---
 
 # Discordianism

@@ -43,28 +43,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Australian%20Aboriginal%20Religions'
 artifacts:
-  - title: >-
-      Saint Catherine's Monastery in Sinai surrounded by mountains mentioned in
-      the Bible when the People of Israel left Egypt (FL45952482) Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Saint_Catherine%27s_Monastery_in_Sinai_surrounded_by_mountains_mentioned_in_the_Bible_when_the_People_of_Israel_left_Egypt_(FL45952482).jpg
-    provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
-    period: c. ancestral era
-    description: >-
-      Saint Catherine's Monastery in Sinai surrounded by mountains mentioned in
-      the Bible when the People of Israel left Egypt.Photo shows: The landscape
-      of the Santa Katerina Monastery...
+  - title: Australian Aboriginal Religions Historical Sanctuary & Iconography
     imageUrl: /artifacts/australian-aboriginal-religions-1.jpg
-  - title: Australian Aboriginal Religions Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Saint_Catherine%27s_Monastery_in_Sinai_surrounded_by_mountains_mentioned_in_the_Bible_when_the_People_of_Israel_left_Egypt_(FL45952482).jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Australian_Aboriginal_Religions'
     provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
     period: c. ancestral era
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Australian Aboriginal Religions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Australian Aboriginal Religions.
+  - title: Oral traditions (community-governed) & Sacred Relics
     imageUrl: /artifacts/australian-aboriginal-religions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Australian_Aboriginal_Religions'
+    provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
+    period: c. ancestral era
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Australian Aboriginal Religions.
 ---
 
 # Australian Aboriginal Religions

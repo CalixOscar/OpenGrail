@@ -49,23 +49,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Zapotec%20Religious%20Traditions'
 artifacts:
-  - title: Pre-historic America (IA b24875144) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Pre-historic_America_(IA_b24875144).pdf
-    provenance: 'Monte Albán / Oaxaca Valley, Mexico'
-    period: c. c. 500 BCE
-    description: |-
-      Bookplate of W. A. Nicholson
-
-      Subjects: Indians, North American...
+  - title: Zapotec Religious Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/zapotec-religion-1.jpg
-  - title: PSM V73 D396 Some bear pictorial inscriptions Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:PSM_V73_D396_Some_bear_pictorial_inscriptions.png
+    sourceUrl: 'https://en.wikipedia.org/wiki/Zapotec_Religious_Traditions'
     provenance: 'Monte Albán / Oaxaca Valley, Mexico'
     period: c. c. 500 BCE
-    description: Some bear pictorial inscriptions...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Zapotec Religious Traditions.
+  - title: Monte Albán inscriptions & Sacred Relics
     imageUrl: /artifacts/zapotec-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Zapotec_Religious_Traditions'
+    provenance: 'Monte Albán / Oaxaca Valley, Mexico'
+    period: c. c. 500 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Zapotec Religious Traditions.
 ---
 
 # Zapotec Religious Traditions

@@ -48,21 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Anthroposophy'
     url: 'https://brill.com/search?q=Anthroposophy'
 artifacts:
-  - title: Monastery of the Theotokos of Iveron (Samara) 12 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Monastery_of_the_Theotokos_of_Iveron_(Samara)_12.jpg
-    provenance: 'Dornach, Solothurn, Switzerland'
-    period: c. 1912–1913 CE
-    description: Вид с Волги на Иверский женский монастырь...
+  - title: Anthroposophy Historical Sanctuary & Iconography
     imageUrl: /artifacts/anthroposophy-1.jpg
-  - title: Anthroposophy Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Monastery_of_the_Theotokos_of_Iveron_(Samara)_12.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Anthroposophy'
     provenance: 'Dornach, Solothurn, Switzerland'
     period: c. 1912–1913 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Anthroposophy.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Anthroposophy.
+  - title: The Philosophy of Freedom & Sacred Relics
+    imageUrl: /artifacts/anthroposophy-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Anthroposophy'
+    provenance: 'Dornach, Solothurn, Switzerland'
+    period: c. 1912–1913 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Anthroposophy.
 ---
 
 # Anthroposophy

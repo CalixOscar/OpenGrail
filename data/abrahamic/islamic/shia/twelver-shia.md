@@ -40,21 +40,28 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Twelver Shi''a'
     url: 'https://www.cambridge.org/core/search?q=Twelver%20Shi''a'
 artifacts:
-  - title: عزاداری شیعیان در ماه محرم 02 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%D8%B9%D8%B2%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C_%D8%B4%DB%8C%D8%B9%DB%8C%D8%A7%D9%86_%D8%AF%D8%B1_%D9%85%D8%A7%D9%87_%D9%85%D8%AD%D8%B1%D9%85_02.jpg
+  - title: Mirror writing2
+    imageUrl: /artifacts/twelver-shia-1.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mirror_writing2.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Twelver Shi'a.
-    imageUrl: /artifacts/twelver-shia-1.jpg
-  - title: Al-Kafi-first Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Al-Kafi-first.png'
+      Example of mirror writing in Islamic calligraphy.  18th-century Ottoman
+      levha, or calligraphic panel, which depicts the Shi'i phrase 'Ali is the
+      vicegerent of God' (Arabic: علي ولي...
+  - title: >-
+      Fonds Christian Bromberger - Affiches de la période de la Révolution
+      islamique (Iran, 1978-1979) - Ali ibn Abi Talib entouré des onze imams
+      chiites (MédiHAL 1791970)
+    imageUrl: /artifacts/twelver-shia-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Fonds_Christian_Bromberger_-_Affiches_de_la_p%C3%A9riode_de_la_R%C3%A9volution_islamique_(Iran,_1978-1979)_-_Ali_ibn_Abi_Talib_entour%C3%A9_des_onze_imams_chiites_(M%C3%A9diHAL_1791970).jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
-    description: First page from al-kafi manuscript...
-    imageUrl: /artifacts/twelver-shia-2.jpg
+    description: >-
+      In the centre the first Shia Imam, Ali ibn Abi Talib, holds his sword
+      Zulfiqar and surrounded by his eleven successors. To his left is sitting
+      Husayn ibn Ali, the third Shia Imam a...
 ---
 
 # Twelver Shi'a

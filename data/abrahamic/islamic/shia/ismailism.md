@@ -42,25 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ismailism'
     url: 'https://www.cambridge.org/core/search?q=Ismailism'
 artifacts:
-  - title: Ismailism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ismailism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 8th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ismailism.
+  - title: A28alamut
     imageUrl: /artifacts/ismailism-1.jpg
-  - title: Binding of the Qur'an manuscript Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Binding_of_the_Qur%27an_manuscript.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:A28alamut.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
-    description: >-
-      Binding of the Qur'an manuscript copied by Şeyh Hamdullah.
-
-      The leather binding is dark-red on the outside and dark-green on the
-      inside. The symmetrical layout on both the inner (do...
+    description: View of Alamut besieged....
+  - title: BohrasDiv01
     imageUrl: /artifacts/ismailism-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:BohrasDiv01.JPG'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 8th century CE
+    description: 'The divisions of the Mustaali, sometimes referred to as Bohras....'
 ---
 
 # Ismailism

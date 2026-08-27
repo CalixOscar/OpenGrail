@@ -45,20 +45,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Missionary Church of Kopimism'
     url: 'https://brill.com/search?q=Missionary%20Church%20of%20Kopimism'
 artifacts:
-  - title: Missionary Church of Kopimism Historical Sanctuary & Records
+  - title: Missionary Church of Kopimism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/kopimism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Missionary_Church_of_Kopimism'
     provenance: 'London, England, UK'
     period: c. 2010 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Missionary Church of Kopimism.
-  - title: Missionary Church of Kopimism Canonical Scripture & Iconography
+  - title: Kopimist Constitution & Sacred Relics
+    imageUrl: /artifacts/kopimism-2.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Missionary_Church_of_Kopimism'
     provenance: 'London, England, UK'
     period: c. 2010 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Missionary Church of Kopimism.
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Missionary Church of Kopimism.
 ---
 
 # Missionary Church of Kopimism

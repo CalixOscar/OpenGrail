@@ -41,29 +41,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Hopi%20Religion'
 artifacts:
-  - title: >-
-      Hopi Indian priests emerging from their Kivas before the Hopi Snake Dance
-      Ceremony at Mishongnovi, ca.1900 (CHS-1046) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Hopi_Indian_priests_emerging_from_their_Kivas_before_the_Hopi_Snake_Dance_Ceremony_at_Mishongnovi,_ca.1900_(CHS-1046).jpg
-    provenance: 'Old Oraibi, Third Mesa, Hopi Nation, AZ'
-    period: c. ancestral era
-    description: >-
-      Hopi Indian priests emerging from their Kivas before the Hopi Snake Dance
-      Ceremony at Mishongnovi, ca.1900
-
-      Photograph of two Hopi Indian priests emerging from their Kivas
-      (includi...
+  - title: Hopi Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/hopi-religion-1.jpg
-  - title: ECH 2985 10 - Fiestas y celebraciones Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:ECH_2985_10_-_Fiestas_y_celebraciones.djvu
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hopi_Religion'
     provenance: 'Old Oraibi, Third Mesa, Hopi Nation, AZ'
     period: c. ancestral era
     description: >-
-      Article of the category Folklore from the Enciclopedia Chilena project,
-      done by the Chilean Library of Congress...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Hopi Religion.
+  - title: Oral traditions (community-governed) & Sacred Relics
     imageUrl: /artifacts/hopi-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hopi_Religion'
+    provenance: 'Old Oraibi, Third Mesa, Hopi Nation, AZ'
+    period: c. ancestral era
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Hopi
+      Religion.
 ---
 
 # Hopi Religion

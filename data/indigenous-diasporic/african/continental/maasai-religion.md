@@ -45,29 +45,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Maasai%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      Rankweil-Parish church to St. Peter-side altar right-altar shrine Saint
-      Agnes-02ASD Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Rankweil-Parish_church_to_St._Peter-side_altar_right-altar_shrine_Saint_Agnes-02ASD.jpg
+  - title: Maasai Religious Traditions Historical Sanctuary & Iconography
+    imageUrl: /artifacts/maasai-religion-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Maasai_Religious_Traditions'
     provenance: 'Rift Valley (Nairobi), Kenya'
     period: c. precolonial
     description: >-
-      Church of Saint Peter in Rankweil, Vorarlberg, Austria. One of the oldest
-      churches in Vorarlberg...
-    imageUrl: /artifacts/maasai-religion-1.jpg
-  - title: >-
-      History of the Catholic Church, for Catholic parochial and high schools
-      (IA historyofcatholi00mari) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:History_of_the_Catholic_Church,_for_Catholic_parochial_and_high_schools_(IA_historyofcatholi00mari).pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Maasai Religious Traditions.
+  - title: Maa oral traditions & Sacred Relics
+    imageUrl: /artifacts/maasai-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Maasai_Religious_Traditions'
     provenance: 'Rift Valley (Nairobi), Kenya'
     period: c. precolonial
-    description: |-
-      "References for reading" at end of each chapter
-
-      Subjects: Catholic Church...
-    imageUrl: /artifacts/maasai-religion-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Maasai Religious Traditions.
 ---
 
 # Maasai Religious Traditions

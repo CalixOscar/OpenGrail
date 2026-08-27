@@ -49,18 +49,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Transcendental%20Meditation%20Movement
 artifacts:
-  - title: Abstract ME map-cropped Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Abstract_ME_map-cropped.jpg'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1950s CE
-    description: Maps of Maharishi Effect - Abstract map....
+  - title: Transcendental Meditation Movement Historical Sanctuary & Iconography
     imageUrl: /artifacts/transcendental-meditation-1.jpg
-  - title: MaharishiMaheshYogi-01 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:MaharishiMaheshYogi-01.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Transcendental_Meditation_Movement'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1950s CE
-    description: Maharishi Mahesh Yogi (2007)...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Transcendental Meditation Movement.
+  - title: Science of Being and Art of Living & Sacred Relics
     imageUrl: /artifacts/transcendental-meditation-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Transcendental_Meditation_Movement'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 1950s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Transcendental Meditation Movement.
 ---
 
 # Transcendental Meditation Movement

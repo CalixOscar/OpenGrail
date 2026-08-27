@@ -46,22 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9A%C4%81ktism'
 artifacts:
-  - title: Brihadeeswarar Temple 02 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Brihadeeswarar_Temple_02.jpg'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 5th century CE
-    description: >-
-      Second gopuram of Brihadeeswarar Temple, Thanjavur, State of Tamil Nadu,
-      India...
+  - title: Śāktism Historical Sanctuary & Iconography
     imageUrl: /artifacts/shaktism-1.jpg
-  - title: Śāktism Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Brihadeeswarar_Temple_02.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81ktism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Śāktism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Śāktism.
+  - title: Devī Māhātmya & Sacred Relics
     imageUrl: /artifacts/shaktism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81ktism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 5th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Śāktism.
 ---
 
 # Śāktism

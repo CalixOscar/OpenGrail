@@ -45,26 +45,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Moabite Religion'
     url: 'https://brill.com/search?q=Moabite%20Religion'
 artifacts:
-  - title: >-
-      The Inscription on the Stele of Méša commonly called the Moabite Stone
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Inscription_on_the_Stele_of_M%C3%A9%C5%A1a_commonly_called_the_Moabite_Stone.djvu
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1000 BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Moabite Religion.
+  - title: Moabite Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/moabite-religion-1.jpg
-  - title: Moabite Religion Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Inscription_on_the_Stele_of_M%C3%A9%C5%A1a_commonly_called_the_Moabite_Stone.djvu
+    sourceUrl: 'https://en.wikipedia.org/wiki/Moabite_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1000 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Moabite Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Moabite Religion.
+  - title: Mesha Stele & Sacred Relics
     imageUrl: /artifacts/moabite-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Moabite_Religion'
+    provenance: 'Babylon, Mesopotamia'
+    period: c. c. 1000 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Moabite Religion.
 ---
 
 # Moabite Religion

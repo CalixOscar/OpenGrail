@@ -42,34 +42,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Inca%20Imperial%20Religion'
 artifacts:
-  - title: >-
-      The Incas - the children of the sun (IA incaschildrenofs00groe) Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Incas_-_the_children_of_the_sun_(IA_incaschildrenofs00groe).pdf
-    provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
-    period: c. c. 1400 CE
-    description: 'Subjects: Incas; Indians of South America...'
+  - title: Inca Imperial Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/inca-religion-1.jpg
-  - title: >-
-      Government of Canada (IA recommendationsr00onta 5) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Government_of_Canada_(IA_recommendationsr00onta_5).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Inca_Imperial_Religion'
     provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
     period: c. c. 1400 CE
     description: >-
-      v
-
-      Decription based on 1924
-
-      Inventory of serials: 1907, 1915, 1924 (2c), 1943
-
-      No more published
-
-      Subjects: Agricultural education -- Ontario; Agriculture -- Ontario --
-      Study and tea...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Inca Imperial Religion.
+  - title: Andean oral traditions & Sacred Relics
     imageUrl: /artifacts/inca-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Inca_Imperial_Religion'
+    provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
+    period: c. c. 1400 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Inca
+      Imperial Religion.
 ---
 
 # Inca Imperial Religion

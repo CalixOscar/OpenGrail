@@ -47,24 +47,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vedic%20Religion'
 artifacts:
-  - title: >-
-      The Rig-Veda and Vedic religion - with readings from the Vedas (IA
-      rigvedavedicreli00clayiala) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Rig-Veda_and_Vedic_religion_-_with_readings_from_the_Vedas_(IA_rigvedavedicreli00clayiala).pdf
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 1500 BCE
-    description: "Bibliography\_: p. [276]-278\n\nSubjects: Vedas; Hinduism..."
+  - title: Vedic Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/vedic-religion-1.jpg
-  - title: Vedic Religion Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Rig-Veda_and_Vedic_religion_-_with_readings_from_the_Vedas_(IA_rigvedavedicreli00clayiala).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vedic_Religion'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1500 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Vedic Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Vedic Religion.
+  - title: Rigveda & Sacred Relics
     imageUrl: /artifacts/vedic-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vedic_Religion'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 1500 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Vedic
+      Religion.
 ---
 
 # Vedic Religion

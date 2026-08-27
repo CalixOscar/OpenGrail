@@ -47,29 +47,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=V%C4%81rkar%C4%AB%20Tradition'
 artifacts:
-  - title: A Warkari boy by Ashish Upadhyay Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_Warkari_boy_by_Ashish_Upadhyay.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 13th century CE
-    description: >-
-      Shot in the morning procession on day 1 of the 45th Nirankari Sant Samagam
-      of Maharashtra.
-
-      Location: Airoli, Navi Mumbai, Maharashtra
-
-
-      Date: January 20, 2012...
+  - title: Vārkarī Tradition Historical Sanctuary & Iconography
     imageUrl: /artifacts/varkari-tradition-1.jpg
-  - title: Vārkarī Tradition Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_Warkari_boy_by_Ashish_Upadhyay.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/V%C4%81rkar%C4%AB_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Vārkarī Tradition.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Vārkarī Tradition.
+  - title: Jñāneśvarī & Sacred Relics
     imageUrl: /artifacts/varkari-tradition-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/V%C4%81rkar%C4%AB_Tradition'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 13th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Vārkarī Tradition.
 ---
 
 # Vārkarī Tradition

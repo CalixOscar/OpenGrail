@@ -50,22 +50,22 @@ sources:
 artifacts:
   - title: >-
       Church of Jesus Christ of Latter Day Saints (Strangite) Historical
-      Sanctuary & Records
+      Sanctuary & Iconography
+    imageUrl: /artifacts/church-of-jesus-christ-latter-day-saints-strangite-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Jesus_Christ_of_Latter_Day_Saints'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1844 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Church of Jesus Christ of Latter Day Saints (Strangite).
-    imageUrl: /artifacts/church-of-jesus-christ-latter-day-saints-strangite-1.jpg
-  - title: Mormon-book Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mormon-book.jpg'
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/church-of-jesus-christ-latter-day-saints-strangite-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Jesus_Christ_of_Latter_Day_Saints'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1844 CE
     description: >-
-      The Book of Mormon: Another Testament of Jesus Christ. Published by The
-      Church of Jesus Christ of Latter-day Saints, August 2009....
-    imageUrl: /artifacts/church-of-jesus-christ-latter-day-saints-strangite-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Church of Jesus Christ of Latter Day Saints (Strangite).
 ---
 
 # Church of Jesus Christ of Latter Day Saints (Strangite)

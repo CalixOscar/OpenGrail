@@ -52,22 +52,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Iranian Zoroastrianism'
     url: 'https://brill.com/search?q=Iranian%20Zoroastrianism'
 artifacts:
-  - title: BehistunRoute Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:BehistunRoute.jpg'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 7th century CE
-    description: >-
-      I am visible at lower left, making my way up a chimney. From the top of
-      the chimney the route follows a slight ledge on the rock face up to the
-      right and reaches the ledge below th...
+  - title: Iranian Zoroastrianism Historical Sanctuary & Iconography
     imageUrl: /artifacts/iranian-zoroastrianism-1.jpg
-  - title: Iranian Zoroastrianism Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:BehistunRoute.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Iranian_Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. c. 7th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Iranian Zoroastrianism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Iranian Zoroastrianism.
+  - title: Avesta & Sacred Relics
+    imageUrl: /artifacts/iranian-zoroastrianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Iranian_Zoroastrianism'
+    provenance: 'Isfahan, Iran'
+    period: c. c. 7th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Iranian Zoroastrianism.
 ---
 
 # Iranian Zoroastrianism

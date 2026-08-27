@@ -44,22 +44,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Orphism'
     url: 'https://brill.com/search?q=Orphism'
 artifacts:
-  - title: Orphism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Orphism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 6th century BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Orphism.
+  - title: Orphism Historical Sanctuary & Iconography
     imageUrl: /artifacts/orphism-1.jpg
-  - title: Orphism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Orphism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 6th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Orphism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Orphism.
+  - title: Derveni Papyrus & Sacred Relics
     imageUrl: /artifacts/orphism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Orphism'
+    provenance: 'Athens, Attica, Greece'
+    period: c. c. 6th century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Orphism.
 ---
 
 # Orphism

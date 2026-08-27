@@ -46,23 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Karma%20Kagyu'
 artifacts:
-  - title: Karma Kagyu Historical Sanctuary & Records
+  - title: Karma Kagyu Historical Sanctuary & Iconography
+    imageUrl: /artifacts/karma-kagyu-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Karma_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Karma Kagyu.
-    imageUrl: /artifacts/karma-kagyu-1.jpg
-  - title: Calligrapher writing Gold Kangyur Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Calligrapher_writing_Gold_Kangyur.jpg
+  - title: Kangyur & Sacred Relics
+    imageUrl: /artifacts/karma-kagyu-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Karma_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
     description: >-
-      A Bhutanese calligrapher writing Kangyur (Buddhist canon) with gold ink.
-      Thimphu....
-    imageUrl: /artifacts/karma-kagyu-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Karma
+      Kagyu.
 ---
 
 # Karma Kagyu

@@ -48,21 +48,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Cheondoism'
 artifacts:
-  - title: Cheondoism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cheondoism'
-    provenance: 'Seoul (Hanyang), South Korea'
-    period: c. 1860 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Cheondoism.
+  - title: Cheondoism Historical Sanctuary & Iconography
     imageUrl: /artifacts/cheondoism-1.jpg
-  - title: Cheondoism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Cheondoism'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. 1860 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cheondoism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cheondoism.
+  - title: Donggyeong Daejeon & Sacred Relics
+    imageUrl: /artifacts/cheondoism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cheondoism'
+    provenance: 'Seoul (Hanyang), South Korea'
+    period: c. 1860 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Cheondoism.
 ---
 
 # Cheondoism

@@ -43,24 +43,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Romuva'
     url: 'https://brill.com/search?q=Romuva'
 artifacts:
-  - title: Schloss Rennhof in Hüttenfeld Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Schloss_Rennhof_in_H%C3%BCttenfeld.jpg
-    provenance: 'Vilnius, Lithuania'
-    period: c. early 20th century CE
-    description: >-
-      Schloss Rennhof in Hüttenfeld. Sitz der Litauischen Gemeinschaft in
-      Deutschland e.V....
+  - title: Romuva Historical Sanctuary & Iconography
     imageUrl: /artifacts/romuva-1.jpg
-  - title: Romuva Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Schloss_Rennhof_in_H%C3%BCttenfeld.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Romuva'
     provenance: 'Vilnius, Lithuania'
     period: c. early 20th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Romuva.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Romuva.
+  - title: Lithuanian dainos & Sacred Relics
     imageUrl: /artifacts/romuva-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Romuva'
+    provenance: 'Vilnius, Lithuania'
+    period: c. early 20th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Romuva.
 ---
 
 # Romuva

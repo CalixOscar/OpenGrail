@@ -46,24 +46,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Edomite Religion'
     url: 'https://brill.com/search?q=Edomite%20Religion'
 artifacts:
-  - title: Encyclopedia of Religion and Ethics Volume 5 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Encyclopedia_of_Religion_and_Ethics_Volume_5.pdf
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 900 BCE
-    description: >-
-      pdf of volume 5 of the Encyclopedia of Religion and Ethics edited by James
-      Hastings et al....
+  - title: Edomite Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/edomite-religion-1.jpg
-  - title: Edomite Religion Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Encyclopedia_of_Religion_and_Ethics_Volume_5.pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Edomite_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 900 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Edomite Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Edomite Religion.
+  - title: Edomite and Idumean inscriptions & Sacred Relics
     imageUrl: /artifacts/edomite-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Edomite_Religion'
+    provenance: 'Babylon, Mesopotamia'
+    period: c. c. 900 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Edomite Religion.
 ---
 
 # Edomite Religion

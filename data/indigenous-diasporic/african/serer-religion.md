@@ -40,21 +40,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Serer%20Religion'
 artifacts:
-  - title: Early 20th century Yoruba divination board Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Early_20th_century_Yoruba_divination_board.jpg
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. precolonial era
-    description: Early 20th century Yoruba divination board....
+  - title: Serer Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/serer-religion-1.jpg
-  - title: Serer Religion Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Early_20th_century_Yoruba_divination_board.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Serer_Religion'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial era
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Serer Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Serer Religion.
+  - title: Oral traditions & Sacred Relics
+    imageUrl: /artifacts/serer-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Serer_Religion'
+    provenance: 'Ile-Ife, Osun, Nigeria'
+    period: c. precolonial era
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Serer
+      Religion.
 ---
 
 # Serer Religion

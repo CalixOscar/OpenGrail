@@ -46,27 +46,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Korean%20Shamanic%20Traditions
 artifacts:
-  - title: >-
-      A modern pioneer in Korea-Henry G. Appenzeller-by William Elliot Griffis
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_modern_pioneer_in_Korea-Henry_G._Appenzeller-by_William_Elliot_Griffis.djvu
+  - title: Korean Shamanic Traditions Historical Sanctuary & Iconography
+    imageUrl: /artifacts/korean-shamanism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Shamanic_Traditions'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. ancient
     description: >-
-      A modern pioneer in Korea; the life story of Henry G. Appenzeller
-      (1912)...
-    imageUrl: /artifacts/korean-shamanism-1.jpg
-  - title: Land use and agriculture (IA CAT31330530) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Land_use_and_agriculture_(IA_CAT31330530).pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Korean Shamanic Traditions.
+  - title: Mudang oral ritual corpora & Sacred Relics
+    imageUrl: /artifacts/korean-shamanism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Shamanic_Traditions'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. ancient
-    description: |-
-      "June 1977."
-      Includes bibliographical references and index
-      Subjects: Agriculture; Land use; Agriculture; Land use...
-    imageUrl: /artifacts/korean-shamanism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Korean Shamanic Traditions.
 ---
 
 # Korean Shamanic Traditions

@@ -49,24 +49,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Zulu%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      The religious revolution of to-day (IA religiousrevolut00shot) Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_religious_revolution_of_to-day_(IA_religiousrevolut00shot).pdf
-    provenance: 'KwaZulu (Ulundi), South Africa'
-    period: c. precolonial
-    description: 'Subjects: Christianity -- 20th century...'
+  - title: Zulu Religious Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/zulu-religion-1.jpg
-  - title: >-
-      The principle of oral English (IA principleoforale00palmrich) Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_principle_of_oral_English_(IA_principleoforale00palmrich).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Zulu_Religious_Traditions'
     provenance: 'KwaZulu (Ulundi), South Africa'
     period: c. precolonial
-    description: 'Subjects: Elocution...'
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Zulu Religious Traditions.
+  - title: Zulu oral histories & Sacred Relics
     imageUrl: /artifacts/zulu-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Zulu_Religious_Traditions'
+    provenance: 'KwaZulu (Ulundi), South Africa'
+    period: c. precolonial
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Zulu
+      Religious Traditions.
 ---
 
 # Zulu Religious Traditions

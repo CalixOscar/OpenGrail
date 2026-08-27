@@ -42,20 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Syriac Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Orthodoxy'
 artifacts:
-  - title: Syriac Orthodoxy Historical Sanctuary & Records
+  - title: Syriac Orthodoxy Historical Sanctuary & Iconography
+    imageUrl: /artifacts/syriac-orthodoxy-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Syriac Orthodoxy.
-    imageUrl: /artifacts/syriac-orthodoxy-1.jpg
-  - title: Peshitta psalms in Aramaic Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Peshitta_psalms_in_Aramaic.png'
+  - title: Peshitta & Sacred Relics
+    imageUrl: /artifacts/syriac-orthodoxy-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
-    description: psalms in Aramaic...
-    imageUrl: /artifacts/syriac-orthodoxy-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Syriac Orthodoxy.
 ---
 
 # Syriac Orthodoxy

@@ -48,23 +48,24 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=M%C5%ABrtip%C5%ABjaka%20%C5%9Avet%C4%81mbara%20Jainism
 artifacts:
-  - title: Shri Simandhar Swami Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Shri_Simandhar_Swami.jpg'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. medieval period
-    description: 'Photo of Shri Simandhar Swami statue from Bhuj, Gujarat, India...'
+  - title: Mūrtipūjaka Śvetāmbara Jainism Historical Sanctuary & Iconography
     imageUrl: /artifacts/murtipujaka-jainism-1.jpg
-  - title: >-
-      Unknown (Indian) - Kalpa Sutra - 73.292.15B - Detroit Institute of Arts
-      Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Unknown_(Indian)_-_Kalpa_Sutra_-_73.292.15B_-_Detroit_Institute_of_Arts.jpg
+      https://en.wikipedia.org/wiki/M%C5%ABrtip%C5%ABjaka_%C5%9Avet%C4%81mbara_Jainism
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. medieval period
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Mūrtipūjaka Śvetāmbara Jainism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Mūrtipūjaka Śvetāmbara Jainism.
+  - title: Śvetāmbara Āgamas & Sacred Relics
     imageUrl: /artifacts/murtipujaka-jainism-2.jpg
+    sourceUrl: >-
+      https://en.wikipedia.org/wiki/M%C5%ABrtip%C5%ABjaka_%C5%9Avet%C4%81mbara_Jainism
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. medieval period
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Mūrtipūjaka Śvetāmbara Jainism.
 ---
 
 # Mūrtipūjaka Śvetāmbara Jainism

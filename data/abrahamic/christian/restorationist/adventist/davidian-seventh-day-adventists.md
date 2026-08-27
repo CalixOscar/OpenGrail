@@ -46,21 +46,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Davidian%20Seventh-day%20Adventists
 artifacts:
-  - title: Davidian Seventh-day Adventists Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Davidian_Seventh-day_Adventists'
-    provenance: 'Battle Creek, Calhoun County, Michigan, USA'
-    period: c. 1929 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Davidian Seventh-day Adventists.
+  - title: VIctor T. Houteff
     imageUrl: /artifacts/davidian-seventh-day-adventists-1.jpg
-  - title: Davidian Seventh-day Adventists Canonical Scripture & Iconography
-    sourceUrl: 'https://en.wikipedia.org/wiki/Davidian_Seventh-day_Adventists'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:VIctor_T._Houteff.jpg'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1929 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Davidian Seventh-day Adventists.
+      V.T.Houteff standing in front of the administration building circa
+      approx.1950...
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/davidian-seventh-day-adventists-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:VIctor_T._Houteff.jpg'
+    provenance: 'Battle Creek, Calhoun County, Michigan, USA'
+    period: c. 1929 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Davidian Seventh-day Adventists.
 ---
 
 # Davidian Seventh-day Adventists

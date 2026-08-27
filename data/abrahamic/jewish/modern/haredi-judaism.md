@@ -44,20 +44,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Haredi Judaism'
     url: 'https://www.cambridge.org/core/search?q=Haredi%20Judaism'
 artifacts:
-  - title: Haredi Judaism Historical Sanctuary & Records
+  - title: Haredi Judaism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/haredi-judaism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Haredi_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 19th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Haredi Judaism.
-    imageUrl: /artifacts/haredi-judaism-1.jpg
-  - title: Hebrew Bible MET LC 2018 59s18 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hebrew_Bible_MET_LC_2018_59s18.jpg'
+  - title: Hebrew Bible & Sacred Relics
+    imageUrl: /artifacts/haredi-judaism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Haredi_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 19th century CE
-    description: Spanish; Manuscripts and Illuminations;...
-    imageUrl: /artifacts/haredi-judaism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Haredi Judaism.
 ---
 
 # Haredi Judaism

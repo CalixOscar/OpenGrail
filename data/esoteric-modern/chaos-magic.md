@@ -47,19 +47,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Chaos Magic'
     url: 'https://brill.com/search?q=Chaos%20Magic'
 artifacts:
-  - title: Chaos magic ritual involving videoconferencing Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Chaos_magic_ritual_involving_videoconferencing.JPG
-    provenance: 'London, England, UK'
-    period: c. late 1970s CE
-    description: A chaos magic ritual that uses videoconferencing....
+  - title: Chaos Magic Historical Sanctuary & Iconography
     imageUrl: /artifacts/chaos-magic-1.jpg
-  - title: 'Chaos, a vision of eternity Sacred Relics & Scripture'
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Chaos,_a_vision_of_eternity.djvu'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chaos_Magic'
     provenance: 'London, England, UK'
     period: c. late 1970s CE
-    description: '"A poem in dramatic form." 55 p. front., plates. 17 cm....'
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Chaos Magic.
+  - title: Liber Null & Psychonaut & Sacred Relics
     imageUrl: /artifacts/chaos-magic-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chaos_Magic'
+    provenance: 'London, England, UK'
+    period: c. late 1970s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Chaos
+      Magic.
 ---
 
 # Chaos Magic

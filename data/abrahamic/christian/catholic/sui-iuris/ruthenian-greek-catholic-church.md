@@ -48,21 +48,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Ruthenian%20Greek%20Catholic%20Church
 artifacts:
-  - title: Ruthenian Greek Catholic Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ruthenian_Greek_Catholic_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1646 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ruthenian Greek Catholic Church.
+  - title: Ruthenian Greek Catholic Church Historical Sanctuary & Iconography
     imageUrl: /artifacts/ruthenian-greek-catholic-church-1.jpg
-  - title: Ruthenian Greek Catholic Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Ruthenian_Greek_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1646 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ruthenian Greek Catholic Church.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ruthenian Greek Catholic Church.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/ruthenian-greek-catholic-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ruthenian_Greek_Catholic_Church'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1646 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ruthenian Greek Catholic Church.
 ---
 
 # Ruthenian Greek Catholic Church

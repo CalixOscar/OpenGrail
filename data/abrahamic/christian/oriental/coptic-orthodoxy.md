@@ -42,24 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Coptic Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Coptic%20Orthodoxy'
 artifacts:
-  - title: Coptic Orthodoxy Historical Sanctuary & Records
+  - title: Coptic Orthodoxy Historical Sanctuary & Iconography
+    imageUrl: /artifacts/coptic-orthodoxy-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Coptic Orthodoxy.
-    imageUrl: /artifacts/coptic-orthodoxy-1.jpg
-  - title: Sacristy of Saint Basil's Cathedral 11 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Sacristy_of_Saint_Basil%27s_Cathedral_11.jpg
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/coptic-orthodoxy-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      Тарель. Псков. Конец 15 - начало 16 века. Серебро, чернение, гравировка,
-      скань. Изображение: "Богоматерь и апостолы". Надпись: "Бысть чрево твое
-      святая трапеза, имущая небесный хле...
-    imageUrl: /artifacts/coptic-orthodoxy-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Coptic Orthodoxy.
 ---
 
 # Coptic Orthodoxy

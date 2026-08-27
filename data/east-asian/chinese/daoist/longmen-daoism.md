@@ -43,21 +43,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Longmen%20Daoism'
 artifacts:
-  - title: Longmen-grottoes-longmen-mountain-from-a-distance Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Longmen-grottoes-longmen-mountain-from-a-distance.jpg
+  - title: Longmen Daoism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/longmen-daoism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Longmen_Daoism'
     provenance: 'Luoyang, Henan, China'
     period: c. c. 17th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Longmen Daoism.
-    imageUrl: /artifacts/longmen-daoism-1.jpg
-  - title: 丘處機 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:%E4%B8%98%E8%99%95%E6%A9%9F.jpg'
+  - title: Longmen xinfa & Sacred Relics
+    imageUrl: /artifacts/longmen-daoism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Longmen_Daoism'
     provenance: 'Luoyang, Henan, China'
     period: c. c. 17th century CE
-    description: ​《邱祖便裝行道圖》，據傳為元代畫作，有清代牟昌裕題跋，藏於北京白雲觀。...
-    imageUrl: /artifacts/longmen-daoism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Longmen Daoism.
 ---
 
 # Longmen Daoism

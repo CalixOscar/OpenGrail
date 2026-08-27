@@ -51,25 +51,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Yarsan'
     url: 'https://brill.com/search?q=Yarsan'
 artifacts:
-  - title: >-
-      Views around the Kakaii shrine of Shah Hayas in the village Wardik, with a
-      jamkhana, cemetery, and auxiliary shrines attached 24 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Views_around_the_Kakaii_shrine_of_Shah_Hayas_in_the_village_Wardik,_with_a_jamkhana,_cemetery,_and_auxiliary_shrines_attached_24.jpg
-    provenance: 'Isfahan, Iran'
-    period: c. c. 14th century CE
-    description: >-
-      Views around the Kakaii shrine of Shah Hayas in the village Wardik, with a
-      jamkhana, cemetery, and auxiliary shrines attached...
+  - title: Yarsan Historical Sanctuary & Iconography
     imageUrl: /artifacts/yarsan-1.jpg
-  - title: Yarsan Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Views_around_the_Kakaii_shrine_of_Shah_Hayas_in_the_village_Wardik,_with_a_jamkhana,_cemetery,_and_auxiliary_shrines_attached_24.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Yarsan'
     provenance: 'Isfahan, Iran'
     period: c. c. 14th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Yarsan.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Yarsan.
+  - title: Kalam-e Saranjam & Sacred Relics
+    imageUrl: /artifacts/yarsan-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Yarsan'
+    provenance: 'Isfahan, Iran'
+    period: c. c. 14th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Yarsan.
 ---
 
 # Yarsan

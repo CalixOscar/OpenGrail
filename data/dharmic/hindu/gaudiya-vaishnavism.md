@@ -51,24 +51,24 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Gau%E1%B8%8D%C4%ABya%20Vai%E1%B9%A3%E1%B9%87avism
 artifacts:
-  - title: Gaurakisora dasa Babaji ca.1900 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Gaurakisora_dasa_Babaji_ca.1900.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. early 16th century CE
-    description: >-
-      Gaurakisora Dasa Babaji, a renowned ascetic and saint in Gaudiya
-      Vaisnavism and the guru of Bhaktisiddhanta Sarasvati. Circa 1900....
+  - title: Gauḍīya Vaiṣṇavism Historical Sanctuary & Iconography
     imageUrl: /artifacts/gaudiya-vaishnavism-1.jpg
-  - title: Gauḍīya Vaiṣṇavism Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Gaurakisora_dasa_Babaji_ca.1900.jpg
+      https://en.wikipedia.org/wiki/Gau%E1%B8%8D%C4%ABya_Vai%E1%B9%A3%E1%B9%87avism
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. early 16th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Gauḍīya Vaiṣṇavism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Gauḍīya Vaiṣṇavism.
+  - title: Bhāgavata Purāṇa & Sacred Relics
     imageUrl: /artifacts/gaudiya-vaishnavism-2.jpg
+    sourceUrl: >-
+      https://en.wikipedia.org/wiki/Gau%E1%B8%8D%C4%ABya_Vai%E1%B9%A3%E1%B9%87avism
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. early 16th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Gauḍīya Vaiṣṇavism.
 ---
 
 # Gauḍīya Vaiṣṇavism

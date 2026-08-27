@@ -46,20 +46,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Cheng%E2%80%93Zhu%20Confucianism
 artifacts:
-  - title: Lixue Hutong (20200827133040) Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lixue_Hutong_(20200827133040).jpg'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 11th century CE
-    description: Mechanics lane? Not that case....
+  - title: Cheng–Zhu Confucianism Historical Sanctuary & Iconography
     imageUrl: /artifacts/cheng-zhu-confucianism-1.jpg
-  - title: Cheng–Zhu Confucianism Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lixue_Hutong_(20200827133040).jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cheng%E2%80%93Zhu_Confucianism'
     provenance: 'Qufu, Shandong, China'
     period: c. 11th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cheng–Zhu Confucianism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cheng–Zhu Confucianism.
+  - title: Four Books & Sacred Relics
     imageUrl: /artifacts/cheng-zhu-confucianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cheng%E2%80%93Zhu_Confucianism'
+    provenance: 'Qufu, Shandong, China'
+    period: c. 11th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Cheng–Zhu Confucianism.
 ---
 
 # Cheng–Zhu Confucianism

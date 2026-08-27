@@ -47,22 +47,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Haitian%20Vodou'
 artifacts:
-  - title: Haitian Vodou Historical Sanctuary & Records
+  - title: Haitian Vodou Historical Sanctuary & Iconography
+    imageUrl: /artifacts/haitian-vodou-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Haitian_Vodou'
     provenance: 'Port-au-Prince, Haiti'
     period: c. 17th–18th centuries CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Haitian Vodou.
-  - title: Asson2 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Asson2.jpg'
+  - title: Oral liturgies and sacred songs & Sacred Relics
+    imageUrl: /artifacts/haitian-vodou-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Haitian_Vodou'
     provenance: 'Port-au-Prince, Haiti'
     period: c. 17th–18th centuries CE
     description: >-
-      An asson, the sacred rattle emblematic of thepriesthood of Haitian Vodou.
-      It is made of a calabash gourd, strung with beads and / or snake
-      vertebrae....
-    imageUrl: /artifacts/haitian-vodou-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Haitian Vodou.
 ---
 
 # Haitian Vodou

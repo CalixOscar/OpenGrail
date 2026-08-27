@@ -44,20 +44,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81s%C4%81%E1%B9%83ghika'
 artifacts:
-  - title: Lion Capital of Ashoka 2 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lion_Capital_of_Ashoka_2.jpg'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 4th century BCE
-    description: 'Lion Capital of Ashoka, Sanchi, M. P., India....'
+  - title: Mahāsāṃghika Historical Sanctuary & Iconography
     imageUrl: /artifacts/mahasanghika-1.jpg
-  - title: Mahāsāṃghika Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lion_Capital_of_Ashoka_2.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%81%E1%B9%83ghika'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Mahāsāṃghika.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Mahāsāṃghika.
+  - title: Mahāsāṃghika Vinaya & Sacred Relics
     imageUrl: /artifacts/mahasanghika-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%81%E1%B9%83ghika'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 4th century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Mahāsāṃghika.
 ---
 
 # Mahāsāṃghika

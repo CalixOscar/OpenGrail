@@ -45,21 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Greece'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Greece'
 artifacts:
-  - title: Church of Greece Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Greece'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1833 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Church of Greece.
+  - title: Church of Greece Historical Sanctuary & Iconography
     imageUrl: /artifacts/church-of-greece-1.jpg
-  - title: Church of Greece Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Greece'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1833 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Church of Greece.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Church of Greece.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/church-of-greece-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Greece'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1833 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Church of Greece.
 ---
 
 # Church of Greece

@@ -42,28 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C4%80j%C4%ABvika%20Tradition'
 artifacts:
-  - title: >-
-      Barabar Hill Cave inscription, 6th century Maukhari Anantavarman, 3rd
-      century BCE Ajivika Lomas Rishi Cave, Krishna murti, Vaishnavism Sanskrit
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Barabar_Hill_Cave_inscription,_6th_century_Maukhari_Anantavarman,_3rd_century_BCE_Ajivika_Lomas_Rishi_Cave,_Krishna_murti,_Vaishnavism_Sanskrit.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 5th century BCE
-    description: >-
-      An early Gupta era inscription from ancient India, before the Gupta Empire
-      expanded from central India to include northern territories (now Uttar
-      Pradesh, parts of Bihar), previous...
+  - title: Ājīvika Tradition Historical Sanctuary & Iconography
     imageUrl: /artifacts/ajivika-1.jpg
-  - title: Ājīvika Tradition Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Barabar_Hill_Cave_inscription,_6th_century_Maukhari_Anantavarman,_3rd_century_BCE_Ajivika_Lomas_Rishi_Cave,_Krishna_murti,_Vaishnavism_Sanskrit.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ājīvika Tradition.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ājīvika Tradition.
+  - title: Buddhist Nikāya accounts & Sacred Relics
     imageUrl: /artifacts/ajivika-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika_Tradition'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 5th century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ājīvika Tradition.
 ---
 
 # Ājīvika Tradition

@@ -41,24 +41,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sunni Islam'
     url: 'https://www.cambridge.org/core/search?q=Sunni%20Islam'
 artifacts:
-  - title: Sunni Markaz Hyderabad Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sunni_Markaz_Hyderabad.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 7th century CE
-    description: Sunni Markaz Hyderabad...
+  - title: Al-Azhar (inside) 2006
     imageUrl: /artifacts/sunni-islam-1.jpg
-  - title: >-
-      Page from the Qur'an manuscript (TIEM 402, f. 259b) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Page_from_the_Qur%27an_manuscript_(TIEM_402,_f._259b).jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Al-Azhar_(inside)_2006.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 7th century CE
     description: >-
-      Page from the Qur'an manuscript copied by Şeyh Hamdullah. Finished
-      (aharlı) paper, ink, watercolour, gilding. 33.5 x 23.5 cm. Naskh script.
-      Istanbul, April 1494. Turkish and Islami...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sunni Islam.
+  - title: Great Mosque of Kairouan Panorama - Grande Mosquée de Kairouan Panorama
     imageUrl: /artifacts/sunni-islam-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosqu%C3%A9e_de_Kairouan_Panorama.jpg
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 7th century CE
+    description: >-
+      Stitched Panorama of the Great Mosque of Kairouan, in Tunisia. This
+      mosque, also called the Mosque of Uqba, extends over a surface area of
+      9,000 square metres. Founded in 670 AD by...
 ---
 
 # Sunni Islam

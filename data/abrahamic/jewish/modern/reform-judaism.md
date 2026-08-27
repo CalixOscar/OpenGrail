@@ -40,25 +40,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Reform Judaism'
     url: 'https://www.cambridge.org/core/search?q=Reform%20Judaism'
 artifacts:
-  - title: Reform Judaism Historical Sanctuary & Records
+  - title: Reform Judaism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/reform-judaism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Reform_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. early 19th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Reform Judaism.
-    imageUrl: /artifacts/reform-judaism-1.jpg
-  - title: >-
-      Litoměřice - Mírové náměstí - Renaissance Sgraffito - Hebrew Bible Imagery
-      05 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Litom%C4%9B%C5%99ice_-_M%C3%ADrov%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_-_Renaissance_Sgraffito_-_Hebrew_Bible_Imagery_05.jpg
+  - title: Tanakh & Sacred Relics
+    imageUrl: /artifacts/reform-judaism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Reform_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. early 19th century CE
     description: >-
-      Litoměřice - Mírové náměstí - Renaissance Sgraffito - Hebrew Bible
-      Imagery...
-    imageUrl: /artifacts/reform-judaism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Reform Judaism.
 ---
 
 # Reform Judaism

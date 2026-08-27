@@ -43,22 +43,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=M%C4%81ori%20Religion'
 artifacts:
-  - title: Maorigodsymbols Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Maorigodsymbols.jpg'
-    provenance: 'Rotorua (Te Arawa), Bay of Plenty, NZ'
-    period: c. c. 1250 CE
-    description: >-
-      Carved sticks representing the Māori gods Tūmatauenga (god of war),
-      Tāhirimātea (storm god), Tāne (god of forests), Tangaroa (sea god), Rongo
-      (god of cultivated plants and peace),...
+  - title: Māori Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/maori-religion-1.jpg
-  - title: Māori Religion Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Maorigodsymbols.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/M%C4%81ori_Religion'
     provenance: 'Rotorua (Te Arawa), Bay of Plenty, NZ'
     period: c. c. 1250 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Māori Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Māori Religion.
+  - title: Oral traditions (iwi- and hapū-specific) & Sacred Relics
+    imageUrl: /artifacts/maori-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/M%C4%81ori_Religion'
+    provenance: 'Rotorua (Te Arawa), Bay of Plenty, NZ'
+    period: c. c. 1250 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Māori
+      Religion.
 ---
 
 # Māori Religion

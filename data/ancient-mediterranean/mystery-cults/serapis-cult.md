@@ -51,24 +51,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Serapis'
     url: 'https://brill.com/search?q=Cult%20of%20Serapis'
 artifacts:
-  - title: >-
-      0235 Altes Museum High Clerk in the Cult of Serapis anagoria Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:0235_Altes_Museum_High_Clerk_in_the_Cult_of_Serapis_anagoria.JPG
-    provenance: 'Eleusis, Attica, Greece'
-    period: c. c. 3rd century BCE
-    description: "Altes Museum\n\_\_\n\n\n\n\n\nNative name\nAltes Museum\n\nParent institution\nStaatliche Museen zu Berlin\_\n\nLocation\nBerlin\n\nCoordinates\n52°\_31′\_10″\_N, 13°\_23′\_56″\_E  \_\n\nEstablished\n1828\n\nW..."
+  - title: Cult of Serapis Historical Sanctuary & Iconography
     imageUrl: /artifacts/serapis-cult-1.jpg
-  - title: Cult of Serapis Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:0235_Altes_Museum_High_Clerk_in_the_Cult_of_Serapis_anagoria.JPG
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Serapis'
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 3rd century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cult of Serapis.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cult of Serapis.
+  - title: Serapeum inscriptions & Sacred Relics
     imageUrl: /artifacts/serapis-cult-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Serapis'
+    provenance: 'Eleusis, Attica, Greece'
+    period: c. c. 3rd century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
+      of Serapis.
 ---
 
 # Cult of Serapis

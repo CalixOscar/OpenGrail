@@ -47,24 +47,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Muscogee%20Ceremonial%20Traditions'
 artifacts:
-  - title: Phyang Monastery 01 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Phyang_Monastery_01.jpg'
-    provenance: 'Cahokia Mounds, Mississippi River, IL, USA'
-    period: c. precolonial
-    description: 'Phyang Monastery, Ladakh, India...'
+  - title: Muscogee Ceremonial Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/muscogee-religions-1.jpg
-  - title: >-
-      Public Lands Institute - Ocmulgee Mounds National Historical Park - 001
-      Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Public_Lands_Institute_-_Ocmulgee_Mounds_National_Historical_Park_-_001.tif
+    sourceUrl: 'https://en.wikipedia.org/wiki/Muscogee_Ceremonial_Traditions'
     provenance: 'Cahokia Mounds, Mississippi River, IL, USA'
     period: c. precolonial
     description: >-
-      Photograph by the Public Lands Institute. Site: Ocmulgee Mounds National
-      Historical Park, Georgia. Managed by National Park Service. Geological
-      age: ~85 Mya Late Cretaceous Ripley...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Muscogee Ceremonial Traditions.
+  - title: Mvskoke oral traditions & Sacred Relics
     imageUrl: /artifacts/muscogee-religions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Muscogee_Ceremonial_Traditions'
+    provenance: 'Cahokia Mounds, Mississippi River, IL, USA'
+    period: c. precolonial
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Muscogee Ceremonial Traditions.
 ---
 
 # Muscogee Ceremonial Traditions

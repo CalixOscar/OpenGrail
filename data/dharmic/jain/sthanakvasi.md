@@ -43,27 +43,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Sth%C4%81nakav%C4%81s%C4%AB%20Jainism
 artifacts:
-  - title: Jain Sthanakvasi monk Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Jain_Sthanakvasi_monk.jpg'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. 15th century CE
-    description: Jain Sthanakvasi monk in Meditation...
+  - title: Sthānakavāsī Jainism Historical Sanctuary & Iconography
     imageUrl: /artifacts/sthanakvasi-1.jpg
-  - title: >-
-      A King and a Monk (recto); Text (verso); Folio from an Uttaradhyayanasutra
-      LACMA AC1993.225.1 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_King_and_a_Monk_(recto);_Text_(verso);_Folio_from_an_Uttaradhyayanasutra_LACMA_AC1993.225.1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sth%C4%81nakav%C4%81s%C4%AB_Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. 15th century CE
-    description: |-
-      India, Gujarat, circa 1450
-      Manuscripts
-      Ink and opaque watercolor with mica on paper
-      4 1/4 x 10 1/4 in. (10.8 x 26.04 cm)
-      Gift of Gursharan and Elvira Sidhu (AC1993.225.1)
-      South an...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sthānakavāsī Jainism.
+  - title: Thirty-two Śvetāmbara Āgamas & Sacred Relics
     imageUrl: /artifacts/sthanakvasi-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sth%C4%81nakav%C4%81s%C4%AB_Jainism'
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. 15th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Sthānakavāsī Jainism.
 ---
 
 # Sthānakavāsī Jainism

@@ -45,27 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Navay%C4%81na%20Buddhism'
 artifacts:
-  - title: >-
-      Indian Buddhists with blue Buddhist flag in Sangharsha Shanti Morcha
-      (Buddhist's, SC's & SC's movement) for atrocity act in Jalna city,
-      Maharashtra Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Indian_Buddhists_with_blue_Buddhist_flag_in_Sangharsha_Shanti_Morcha_(Buddhist%27s,_SC%27s_%26_SC%27s_movement)_for_atrocity_act_in_Jalna_city,_Maharashtra.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1956 CE
-    description: >-
-      Indian Buddhists with blue Buddhist flag in Sangharsha Shanti Morcha for
-      atrocity act in Jalna city, Maharashtra...
+  - title: Navayāna Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/navayana-1.jpg
-  - title: Navayāna Buddhism Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Indian_Buddhists_with_blue_Buddhist_flag_in_Sangharsha_Shanti_Morcha_(Buddhist%27s,_SC%27s_%26_SC%27s_movement)_for_atrocity_act_in_Jalna_city,_Maharashtra.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Navay%C4%81na_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1956 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Navayāna Buddhism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Navayāna Buddhism.
+  - title: The Buddha and His Dhamma & Sacred Relics
     imageUrl: /artifacts/navayana-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Navay%C4%81na_Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 1956 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Navayāna Buddhism.
 ---
 
 # Navayāna Buddhism

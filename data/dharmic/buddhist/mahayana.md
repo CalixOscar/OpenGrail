@@ -46,26 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81y%C4%81na%20Buddhism'
 artifacts:
-  - title: Kanishka-Inaugurates-Mahyana-Buddhism Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Kanishka-Inaugurates-Mahyana-Buddhism.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 1st century BCE
-    description: |-
-      Ambrose Dudley
-      Medium:
-
-      Oil Painting Reproduction on Canvas...
+  - title: Mahāyāna Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/mahayana-1.jpg
-  - title: Mahāyāna Buddhism Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Kanishka-Inaugurates-Mahyana-Buddhism.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81y%C4%81na_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1st century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Mahāyāna Buddhism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Mahāyāna Buddhism.
+  - title: Prajñāpāramitā sūtras & Sacred Relics
     imageUrl: /artifacts/mahayana-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81y%C4%81na_Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 1st century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Mahāyāna Buddhism.
 ---
 
 # Mahāyāna Buddhism

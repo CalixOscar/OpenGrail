@@ -51,26 +51,22 @@ sources:
       Movement
     url: 'https://www.cambridge.org/core/search?q=Latter%20Day%20Saint%20Movement'
 artifacts:
-  - title: Latter Day Saint Movement Historical Sanctuary & Records
+  - title: Latter Day Saint Movement Historical Sanctuary & Iconography
+    imageUrl: /artifacts/latter-day-saint-movement-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_Movement'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1830 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Latter Day Saint Movement.
-    imageUrl: /artifacts/latter-day-saint-movement-1.jpg
-  - title: >-
-      The Book of Mormon- an account written by the hand of Mormon, upon plates
-      taken from the plates of Nephi (IA bookofmormonacco00chicrich) Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Book_of_Mormon-_an_account_written_by_the_hand_of_Mormon,_upon_plates_taken_from_the_plates_of_Nephi_(IA_bookofmormonacco00chicrich).pdf
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/latter-day-saint-movement-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_Movement'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1830 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Latter Day Saint Movement.
-    imageUrl: /artifacts/latter-day-saint-movement-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Latter Day Saint Movement.
 ---
 
 # Latter Day Saint Movement

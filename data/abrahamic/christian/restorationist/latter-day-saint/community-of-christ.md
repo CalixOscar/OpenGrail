@@ -46,23 +46,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Community of Christ'
     url: 'https://www.cambridge.org/core/search?q=Community%20of%20Christ'
 artifacts:
-  - title: Community of Christ Historical Sanctuary & Records
+  - title: Community of Christ Historical Sanctuary & Iconography
+    imageUrl: /artifacts/community-of-christ-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Community_of_Christ'
     provenance: 'Independence, Jackson County, Missouri, USA'
     period: c. 1860 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Community of Christ.
-    imageUrl: /artifacts/community-of-christ-1.jpg
-  - title: 1841 Book of Mormon open to title page Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:1841_Book_of_Mormon_open_to_title_page.jpg
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/community-of-christ-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Community_of_Christ'
     provenance: 'Independence, Jackson County, Missouri, USA'
     period: c. 1860 CE
     description: >-
-      A photograph of the 1841 First European (London) edition of the Book of
-      Mormon, at the Springs Preserve museum, Las Vegas, Nevada....
-    imageUrl: /artifacts/community-of-christ-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Community of Christ.
 ---
 
 # Community of Christ

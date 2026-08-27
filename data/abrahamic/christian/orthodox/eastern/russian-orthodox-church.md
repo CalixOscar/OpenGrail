@@ -47,21 +47,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Russian%20Orthodox%20Church'
 artifacts:
-  - title: Russian Orthodox Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Russian_Orthodox_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 988 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Russian Orthodox Church.
+  - title: Russian Orthodox Church Historical Sanctuary & Iconography
     imageUrl: /artifacts/russian-orthodox-church-1.jpg
-  - title: Russian Orthodox Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Russian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 988 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Russian Orthodox Church.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Russian Orthodox Church.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/russian-orthodox-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Russian_Orthodox_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 988 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Russian Orthodox Church.
 ---
 
 # Russian Orthodox Church

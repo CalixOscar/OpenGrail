@@ -48,23 +48,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Self-Realization%20Fellowship'
 artifacts:
-  - title: Self-Realization Fellowship Historical Sanctuary & Records
+  - title: Self-Realization Fellowship Historical Sanctuary & Iconography
+    imageUrl: /artifacts/self-realization-fellowship-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Self-Realization_Fellowship'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1920 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Self-Realization Fellowship.
-    imageUrl: /artifacts/self-realization-fellowship-1.jpg
-  - title: Copyright-page-of-Autobiography-of-a-Yogi1952 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Copyright-page-of-Autobiography-of-a-Yogi1952.png
+  - title: Autobiography of a Yogi & Sacred Relics
+    imageUrl: /artifacts/self-realization-fellowship-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Self-Realization_Fellowship'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1920 CE
     description: >-
-      Scan of the copyright 1952 edition page of the book Autobiography of a
-      Yogi, which is in public domain....
-    imageUrl: /artifacts/self-realization-fellowship-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Self-Realization Fellowship.
 ---
 
 # Self-Realization Fellowship

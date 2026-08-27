@@ -45,22 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Azali Babism'
     url: 'https://www.cambridge.org/core/search?q=Azali%20Babism'
 artifacts:
-  - title: Azali Babism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Azali_Babism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1860s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Azali Babism.
+  - title: Azali Babism Historical Sanctuary & Iconography
     imageUrl: /artifacts/azali-babism-1.jpg
-  - title: Azali Babism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Azali_Babism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1860s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Azali Babism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Azali Babism.
+  - title: Persian Bayan & Sacred Relics
     imageUrl: /artifacts/azali-babism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Azali_Babism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1860s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Azali
+      Babism.
 ---
 
 # Azali Babism

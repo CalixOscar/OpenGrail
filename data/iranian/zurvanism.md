@@ -43,26 +43,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Zurvanism'
     url: 'https://brill.com/search?q=Zurvanism'
 artifacts:
-  - title: >-
-      Egyptian - Statue of a Vizier, Usurped by Pa-di-iset - Walters 22203
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Egyptian_-_Statue_of_a_Vizier,_Usurped_by_Pa-di-iset_-_Walters_22203.jpg
-    provenance: 'Isfahan, Iran'
-    period: c. c. 4th century BCE
-    description: >-
-      A remarkable example of the re-use of a work of art, reflecting the course
-      of Egypt's long history, this statue was originally carved to commemorate
-      a powerful government official....
+  - title: Zurvanism Historical Sanctuary & Iconography
     imageUrl: /artifacts/zurvanism-1.jpg
-  - title: Dieselpump Preem Avesta Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dieselpump_Preem_Avesta.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Zurvanism'
     provenance: 'Isfahan, Iran'
     period: c. c. 4th century BCE
     description: >-
-      A self-service pump for diesel fuel. To the right, a credit card payment
-      terminal. At a  Preem petrol station in Avesta, Dalarna, Sweden....
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Zurvanism.
+  - title: Avesta (shared Zoroastrian scripture) & Sacred Relics
     imageUrl: /artifacts/zurvanism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Zurvanism'
+    provenance: 'Isfahan, Iran'
+    period: c. c. 4th century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Zurvanism.
 ---
 
 # Zurvanism

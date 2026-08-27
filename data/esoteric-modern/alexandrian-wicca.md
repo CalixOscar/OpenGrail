@@ -45,27 +45,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Alexandrian Wicca'
     url: 'https://brill.com/search?q=Alexandrian%20Wicca'
 artifacts:
-  - title: >-
-      The Myth of the Burning Times and the Politics of Resistance in
-      Contemporary American Wicca Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Myth_of_the_Burning_Times_and_the_Politics_of_Resistance_in_Contemporary_American_Wicca.pdf
+  - title: Alexandrian Wicca Historical Sanctuary & Iconography
+    imageUrl: /artifacts/alexandrian-wicca-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Alexandrian_Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1960s CE
     description: >-
-      Omaha: Creighton University, 2000. Glenn Wm. Shuck. “The Myth of the
-      Burning Times and the Politics of Resistance in Contemporary American
-      Wicca.” Journal of Religion &amp; Society...
-    imageUrl: /artifacts/alexandrian-wicca-1.jpg
-  - title: >-
-      Books from the Library of Congress (IA compendiumofastr00olms) Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Books_from_the_Library_of_Congress_(IA_compendiumofastr00olms).pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Alexandrian Wicca.
+  - title: Alexandrian Books of Shadows & Sacred Relics
+    imageUrl: /artifacts/alexandrian-wicca-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Alexandrian_Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1960s CE
-    description: 'Subjects: Astronomy...'
-    imageUrl: /artifacts/alexandrian-wicca-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Alexandrian Wicca.
 ---
 
 # Alexandrian Wicca

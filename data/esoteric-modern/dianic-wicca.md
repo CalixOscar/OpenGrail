@@ -43,21 +43,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Dianic Wicca'
     url: 'https://brill.com/search?q=Dianic%20Wicca'
 artifacts:
-  - title: Dianic Wicca Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dianic_Wicca'
-    provenance: 'New Forest, Hampshire, England, UK'
-    period: c. 1970s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Dianic Wicca.
+  - title: Dianic Wicca Historical Sanctuary & Iconography
     imageUrl: /artifacts/dianic-wicca-1.jpg
-  - title: Dianic Wicca Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Dianic_Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1970s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Dianic Wicca.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Dianic Wicca.
+  - title: The Feminist Book of Lights and Shadows & Sacred Relics
+    imageUrl: /artifacts/dianic-wicca-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dianic_Wicca'
+    provenance: 'New Forest, Hampshire, England, UK'
+    period: c. 1970s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Dianic Wicca.
 ---
 
 # Dianic Wicca

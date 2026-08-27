@@ -51,21 +51,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Astronaut Theory'
     url: 'https://brill.com/search?q=Ancient%20Astronaut%20Theory'
 artifacts:
-  - title: Telamones Tula Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Telamones_Tula.jpg'
-    provenance: 'Geneva, Switzerland'
-    period: c. 1960s CE
-    description: 'Telamones, Tula, Mexico...'
+  - title: Ancient Astronaut Theory Historical Sanctuary & Iconography
     imageUrl: /artifacts/ancient-astronaut-theory-1.jpg
-  - title: Wenceslas Hollar - The Greek gods. Saturn Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Wenceslas_Hollar_-_The_Greek_gods._Saturn.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Astronaut_Theory'
     provenance: 'Geneva, Switzerland'
     period: c. 1960s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ancient Astronaut Theory.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ancient Astronaut Theory.
+  - title: Chariots of the Gods? (1968) & Sacred Relics
     imageUrl: /artifacts/ancient-astronaut-theory-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Astronaut_Theory'
+    provenance: 'Geneva, Switzerland'
+    period: c. 1960s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ancient Astronaut Theory.
 ---
 
 # Ancient Astronaut Theory

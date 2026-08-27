@@ -45,24 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Mevlevi Order'
     url: 'https://www.cambridge.org/core/search?q=Mevlevi%20Order'
 artifacts:
-  - title: Mevlevi Order Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mevlevi_Order'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 13th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Mevlevi Order.
+  - title: Mustafa Kemal and Mevlevi Order March 1923
     imageUrl: /artifacts/mevlevi-order-1.jpg
-  - title: Birmingham Quran manuscript full Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Birmingham_Quran_manuscript_full.jpg
+      https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_and_Mevlevi_Order_March_1923.png
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 13th century CE
+    description: Mustafa Kemal with sufies from Mevlevi order while visiting Konya...
+  - title: Quran & Sacred Relics
+    imageUrl: /artifacts/mevlevi-order-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_and_Mevlevi_Order_March_1923.png
     provenance: 'Jerusalem, Southern Levant'
     period: c. 13th century CE
     description: >-
-      Seventh-century Quran manuscript held by the University of Birmingham.
-      Folio 2 recto (left) and folio 1 verso (right). Folio 2 (left) from the
-      end of Chapter 19 to the beginning of...
-    imageUrl: /artifacts/mevlevi-order-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Mevlevi Order.
 ---
 
 # Mevlevi Order

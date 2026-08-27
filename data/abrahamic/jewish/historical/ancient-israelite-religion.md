@@ -47,23 +47,22 @@ sources:
       Religion
     url: 'https://www.cambridge.org/core/search?q=Ancient%20Israelite%20Religion'
 artifacts:
-  - title: Ajrud Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ajrud.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1200 BCE
-    description: >-
-      Painted on a jar found in Kuntilat Ajrud  in the Sinai Peninsula. Might
-      point to a local polytheistic belief. Polytheism was outlawed in Jewish
-      Sinai, though some local mystery cul...
+  - title: Ancient Israelite Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/ancient-israelite-religion-1.jpg
-  - title: Ancient Israelite Religion Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ajrud.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Israelite_Religion'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1200 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ancient Israelite Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ancient Israelite Religion.
+  - title: Hebrew Bible & Sacred Relics
     imageUrl: /artifacts/ancient-israelite-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Israelite_Religion'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1200 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ancient Israelite Religion.
 ---
 
 # Ancient Israelite Religion

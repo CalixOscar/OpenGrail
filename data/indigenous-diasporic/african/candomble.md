@@ -47,21 +47,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Candombl%C3%A9'
 artifacts:
-  - title: Caetité baianas Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Caetit%C3%A9_baianas.jpg'
-    provenance: 'Salvador da Bahia, Brazil'
-    period: c. 19th century CE
-    description: >-
-      Baianas na Lavagem da Esquina do Padre, festa típica, folclore, Caetité,
-      Bahia, Brazil...
+  - title: Candomblé Historical Sanctuary & Iconography
     imageUrl: /artifacts/candomble-1.jpg
-  - title: Candomblé Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Caetit%C3%A9_baianas.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Candombl%C3%A9'
     provenance: 'Salvador da Bahia, Brazil'
     period: c. 19th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Candomblé.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Candomblé.
+  - title: Oral liturgies and sacred songs & Sacred Relics
+    imageUrl: /artifacts/candomble-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Candombl%C3%A9'
+    provenance: 'Salvador da Bahia, Brazil'
+    period: c. 19th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Candomblé.
 ---
 
 # Candomblé

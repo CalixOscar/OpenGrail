@@ -43,26 +43,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Mexicayotl'
     url: 'https://brill.com/search?q=Mexicayotl'
 artifacts:
-  - title: Mexicayotl Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mexicayotl.jpg'
-    provenance: 'Tenochtitlan (Mexico City), Mexico'
-    period: c. 1950s CE
-    description: >-
-      Reported flag displayed by Mexicans of indigenous descent. Often used
-      symbolically as a part of the Mexicayotl movement. Features seal of Mexico
-      inside of Nahua sun symbol. Colors...
+  - title: Mexicayotl Historical Sanctuary & Iconography
     imageUrl: /artifacts/mexicayotl-1.jpg
-  - title: >-
-      Chronicles of the builders of the commonwealth - historical character
-      study (IA chroniclesofbuil00bancrich) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Chronicles_of_the_builders_of_the_commonwealth_-_historical_character_study_(IA_chroniclesofbuil00bancrich).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mexicayotl'
     provenance: 'Tenochtitlan (Mexico City), Mexico'
     period: c. 1950s CE
     description: >-
-      Subjects: Pacific States -- Biography; California -- Biography; Mexico --
-      Biography...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Mexicayotl.
+  - title: Nahua-language historical sources & Sacred Relics
     imageUrl: /artifacts/mexicayotl-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mexicayotl'
+    provenance: 'Tenochtitlan (Mexico City), Mexico'
+    period: c. 1950s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Mexicayotl.
 ---
 
 # Mexicayotl

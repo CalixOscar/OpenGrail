@@ -42,18 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Christadelphians'
     url: 'https://www.cambridge.org/core/search?q=Christadelphians'
 artifacts:
-  - title: Christadelphian Hall (Bath) Historical Sanctuary
+  - title: Christadelphian Hall (Bath)
+    imageUrl: /artifacts/christadelphians-1.jpg
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Christadelphian_Hall_(Bath).JPG'
     provenance: 'London, England, UK'
     period: c. 1848 CE
     description: Christadelphian Hall in Bath/England...
-    imageUrl: /artifacts/christadelphians-1.jpg
-  - title: Christadelphian Chapel Sign Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Christadelphian_Chapel_Sign.JPG'
+  - title: John Thomas
+    imageUrl: /artifacts/christadelphians-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:John_Thomas.png'
     provenance: 'London, England, UK'
     period: c. 1848 CE
-    description: '(Chapel Sign) Christadelphian Hall, 23 Glendhu Ave, Buffalo NY...'
-    imageUrl: /artifacts/christadelphians-2.jpg
+    description: John Thomas (1805-1871)....
 ---
 
 # Christadelphians

@@ -49,22 +49,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Kashmir%20%C5%9Aaivism'
 artifacts:
-  - title: Madhubani Mahavidyas Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Madhubani_Mahavidyas.jpg'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 8th century CE
-    description: >-
-      Mithila Painting with the Ten Mahavidyas,Siva and Sakti, with Serpent
-      Coiled Shri Yantra painted in Nepal...
+  - title: Kashmir Śaivism Historical Sanctuary & Iconography
     imageUrl: /artifacts/kashmir-shaivism-1.jpg
-  - title: Kashmir Śaivism Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Madhubani_Mahavidyas.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Kashmir_%C5%9Aaivism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Kashmir Śaivism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Kashmir Śaivism.
+  - title: Śiva Sūtras & Sacred Relics
     imageUrl: /artifacts/kashmir-shaivism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Kashmir_%C5%9Aaivism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 8th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Kashmir Śaivism.
 ---
 
 # Kashmir Śaivism

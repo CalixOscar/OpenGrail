@@ -45,22 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Upanishadic%20Traditions'
 artifacts:
-  - title: 'Neuf Upanishads, la théosophie des Védas Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Neuf_Upanishads,_la_th%C3%A9osophie_des_V%C3%A9das.djvu
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 700 BCE
-    description: "Neuf Upanishads\_: la théosophie des Védas...."
+  - title: Upanishadic Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/upanishadic-traditions-1.jpg
-  - title: Upanishadic Traditions Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Neuf_Upanishads,_la_th%C3%A9osophie_des_V%C3%A9das.djvu
+    sourceUrl: 'https://en.wikipedia.org/wiki/Upanishadic_Traditions'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 700 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Upanishadic Traditions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Upanishadic Traditions.
+  - title: Bṛhadāraṇyaka Upaniṣad & Sacred Relics
     imageUrl: /artifacts/upanishadic-traditions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Upanishadic_Traditions'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 700 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Upanishadic Traditions.
 ---
 
 # Upanishadic Traditions

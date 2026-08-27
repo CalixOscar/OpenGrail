@@ -46,26 +46,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Auddh%C4%81dvaita%20Ved%C4%81nta
 artifacts:
-  - title: >-
-      Indian theism from the Vedic to the Muhammadan period (IA
-      indiantheismfrom00macniala) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Indian_theism_from_the_Vedic_to_the_Muhammadan_period_(IA_indiantheismfrom00macniala).pdf
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. late 15th century CE
-    description: |-
-      Bibliography: p.[282]-284
-
-      Subjects: India -- Religion...
+  - title: Śuddhādvaita Vedānta Historical Sanctuary & Iconography
     imageUrl: /artifacts/shuddhadvaita-1.jpg
-  - title: Śuddhādvaita Vedānta Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Indian_theism_from_the_Vedic_to_the_Muhammadan_period_(IA_indiantheismfrom00macniala).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Auddh%C4%81dvaita_Ved%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 15th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Śuddhādvaita Vedānta.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Śuddhādvaita Vedānta.
+  - title: Aṇubhāṣya & Sacred Relics
+    imageUrl: /artifacts/shuddhadvaita-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Auddh%C4%81dvaita_Ved%C4%81nta'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. late 15th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Śuddhādvaita Vedānta.
 ---
 
 # Śuddhādvaita Vedānta

@@ -45,21 +45,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Freemasonry'
     url: 'https://brill.com/search?q=Freemasonry'
 artifacts:
-  - title: Freemasonry Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Freemasonry'
-    provenance: 'London, England, UK'
-    period: c. early 18th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Freemasonry.
+  - title: Freemasonry Historical Sanctuary & Iconography
     imageUrl: /artifacts/freemasonry-1.jpg
-  - title: Freemasonry Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Freemasonry'
     provenance: 'London, England, UK'
     period: c. early 18th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Freemasonry.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Freemasonry.
+  - title: Anderson's Constitutions & Sacred Relics
+    imageUrl: /artifacts/freemasonry-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Freemasonry'
+    provenance: 'London, England, UK'
+    period: c. early 18th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Freemasonry.
 ---
 
 # Freemasonry

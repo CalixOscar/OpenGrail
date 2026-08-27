@@ -45,27 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Insight%20Meditation%20Movement'
 artifacts:
-  - title: >-
-      Federal Election Commission investigation of Larry Chroman for Congress
-      complaint Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Federal_Election_Commission_investigation_of_Larry_Chroman_for_Congress_complaint.pdf
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 20th century CE
-    description: >-
-      Federal Election Commission investigation of Larry Chroman for Congress
-      complaint;See also: United States House of Representatives elections,
-      1992...
+  - title: Insight Meditation Movement Historical Sanctuary & Iconography
     imageUrl: /artifacts/insight-meditation-movement-1.jpg
-  - title: Insight Meditation Movement Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Federal_Election_Commission_investigation_of_Larry_Chroman_for_Congress_complaint.pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Insight_Meditation_Movement'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Insight Meditation Movement.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Insight Meditation Movement.
+  - title: Satipaṭṭhāna Sutta & Sacred Relics
     imageUrl: /artifacts/insight-meditation-movement-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Insight_Meditation_Movement'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 20th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Insight Meditation Movement.
 ---
 
 # Insight Meditation Movement

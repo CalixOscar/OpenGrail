@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ahmadiyya'
     url: 'https://www.cambridge.org/core/search?q=Ahmadiyya'
 artifacts:
-  - title: Ahmadiyya Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ahmadiyya'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1889 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ahmadiyya.
+  - title: Mirza Ghulam Ahmad (c. 1897)
     imageUrl: /artifacts/ahmadiyya-1.jpg
-  - title: Ahmadiyya Canonical Scripture & Iconography
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ahmadiyya'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mirza_Ghulam_Ahmad_(c._1897).jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1889 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ahmadiyya.
+      Mirza Ghulam Ahmad (13 February 1835 – 26 May 1908), a religious figure
+      from India, and the founder of the Ahmadiyya movement....
+  - title: Qur'an & Sacred Relics
     imageUrl: /artifacts/ahmadiyya-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mirza_Ghulam_Ahmad_(c._1897).jpg'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1889 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ahmadiyya.
 ---
 
 # Ahmadiyya

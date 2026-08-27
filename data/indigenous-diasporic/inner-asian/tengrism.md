@@ -43,22 +43,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Tengrism'
 artifacts:
-  - title: Tengrism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tengrism'
-    provenance: 'Orkhon Valley (Karakorum), Mongolia'
-    period: c. at least 6th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Tengrism.
+  - title: Tengrism Historical Sanctuary & Iconography
     imageUrl: /artifacts/tengrism-1.jpg
-  - title: Tengrism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Tengrism'
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. at least 6th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Tengrism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Tengrism.
+  - title: Orkhon inscriptions & Sacred Relics
     imageUrl: /artifacts/tengrism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Tengrism'
+    provenance: 'Orkhon Valley (Karakorum), Mongolia'
+    period: c. at least 6th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Tengrism.
 ---
 
 # Tengrism

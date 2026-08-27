@@ -60,27 +60,26 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=The%20Church%20of%20Jesus%20Christ%20of%20Latter-day%20Saints
 artifacts:
-  - title: >-
-      Trascoro, Catedral de Sevilla, Sevilla, España, 2015-12-06, DD 109-111 HDR
-      Historical Sanctuary
+  - title: 'Joseph Smith, Jr. portrait owned by Joseph Smith III'
+    imageUrl: /artifacts/church-of-jesus-christ-of-latter-day-saints-1.jpg
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Trascoro,_Catedral_de_Sevilla,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_109-111_HDR.JPG
+      https://commons.wikimedia.org/wiki/File:Joseph_Smith,_Jr._portrait_owned_by_Joseph_Smith_III.jpg
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1844 CE
     description: >-
-      Retrochoir of the Roman Catholic cathedral of Seville, Seville, Spain.
-      This wonderful Baroque style retrochoir is work of Miguel de Zumárraga and
-      was finalized in 1635. It was cons...
-    imageUrl: /artifacts/church-of-jesus-christ-of-latter-day-saints-1.jpg
-  - title: >-
-      The One Year Bible New Testament, King James Bible with concordance, and
-      The One Year Chronological Bible NIV Sacred Relics & Scripture
+      Painting by an unknown painter, circa 1842. The original is owned by the
+      Community of Christ archives. It is on display at the Community of Christ
+      headquarters in Independence Miss...
+  - title: Joseph Smith Preaching to the Indians by William Armitage
+    imageUrl: /artifacts/church-of-jesus-christ-of-latter-day-saints-2.jpg
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_One_Year_Bible_New_Testament,_King_James_Bible_with_concordance,_and_The_One_Year_Chronological_Bible_NIV.jpg
+      https://commons.wikimedia.org/wiki/File:Joseph_Smith_Preaching_to_the_Indians_by_William_Armitage.png
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1844 CE
-    description: Four bibles in a stack....
-    imageUrl: /artifacts/church-of-jesus-christ-of-latter-day-saints-2.jpg
+    description: >-
+      "Joseph Smith Preaching to the Indians" (oil on canvas, circa 1890 by
+      William Joseph Armitage (1820-1890)): Several times in Nauvoo, Illinois,
+      Joseph Smith met with local Indians....
 ---
 
 # The Church of Jesus Christ of Latter-day Saints

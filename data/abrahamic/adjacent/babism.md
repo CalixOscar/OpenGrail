@@ -48,21 +48,23 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Babism'
     url: 'https://www.cambridge.org/core/search?q=Babism'
 artifacts:
-  - title: Babism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Babism'
+  - title: Room-bab
+    imageUrl: /artifacts/babism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/File:Room-bab.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1844 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Babism.
-    imageUrl: /artifacts/babism-1.jpg
-  - title: Siyyid Mírzá 'Alí-Muhammad Shirazi Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Siyyid_M%C3%ADrz%C3%A1_%27Al%C3%AD-Muhammad_Shirazi.jpg
+  - title: Bab-Star-Tablet-Haykal
+    imageUrl: /artifacts/babism-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bab-Star-Tablet-Haykal.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1844 CE
-    description: Bábism founder The Báb....
-    imageUrl: /artifacts/babism-2.jpg
+    description: >-
+      Haykal by the Bab written in his own hand. See also details:
+      File:Bab-Star-Tablet-Haykal-detail.jpg and
+      File:Bab-Star-Tablet-Haykal-detail-2.jpg...
 ---
 
 # Babism

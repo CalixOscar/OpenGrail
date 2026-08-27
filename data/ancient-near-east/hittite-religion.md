@@ -46,25 +46,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hittite Religion'
     url: 'https://brill.com/search?q=Hittite%20Religion'
 artifacts:
-  - title: >-
-      Museum Hattusa - Boğazköy Museum, Boğazköy, Çorum, Turkey 27 Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Museum_Hattusa_-_Bo%C4%9Fazk%C3%B6y_Museum,_Bo%C4%9Fazk%C3%B6y,_%C3%87orum,_Turkey_27.jpg
+  - title: Hittite Religion Historical Sanctuary & Iconography
+    imageUrl: /artifacts/hittite-religion-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hittite_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1650 BCE
     description: >-
-      The archaeological site of Hattusha, former capital of the Hittite Empire,
-      is notable for its urban organization, the types of construction that have
-      been preserved (temples, royal...
-    imageUrl: /artifacts/hittite-religion-1.jpg
-  - title: Museum of Anatolian Civilizations082 kopie1jpg Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Museum_of_Anatolian_Civilizations082_kopie1jpg.jpg
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Hittite Religion.
+  - title: Kumarbi Cycle & Sacred Relics
+    imageUrl: /artifacts/hittite-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hittite_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1650 BCE
-    description: "Depiction of the myth of the Sky God killing the dragon Illuyankas\_; Neo-Hittites; 850-800 BC; \n\nLimestone orthostat at the Lions Gate at Malitiya (Arslantepe, 38° 22' 53\" N  38° 2..."
-    imageUrl: /artifacts/hittite-religion-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Hittite Religion.
 ---
 
 # Hittite Religion

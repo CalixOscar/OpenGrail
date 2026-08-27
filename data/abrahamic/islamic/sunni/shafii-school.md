@@ -42,24 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Shafi''i School'
     url: 'https://www.cambridge.org/core/search?q=Shafi''i%20School'
 artifacts:
-  - title: Madhhab Map03 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Madhhab_Map03.png'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 9th century CE
-    description: >-
-      In North Caucasus shia muslims are minority and only in coastal areas of
-      the Caspian Sea (only ethnic Azerbaijani people living there), 
-
-      northern parts of the Azerbaijan Republic i...
+  - title: Shafi'i School Historical Sanctuary & Iconography
     imageUrl: /artifacts/shafii-school-1.jpg
-  - title: Shafi'i School Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Madhhab_Map03.png'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shafi''i_School'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Shafi'i School.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Shafi'i School.
+  - title: Al-Risala & Sacred Relics
     imageUrl: /artifacts/shafii-school-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shafi''i_School'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 9th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Shafi'i School.
 ---
 
 # Shafi'i School

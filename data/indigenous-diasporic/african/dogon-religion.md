@@ -42,20 +42,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Dogon%20Religions'
 artifacts:
-  - title: Dogon Religions Historical Sanctuary & Records
+  - title: Dogon Religions Historical Sanctuary & Iconography
+    imageUrl: /artifacts/dogon-religion-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Dogon_Religions'
     provenance: 'Bandiagara Escarpment, Dogon, Mali'
     period: c. precolonial era
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Dogon Religions.
-  - title: Dogon Religions Canonical Scripture & Iconography
+  - title: Oral traditions & Sacred Relics
+    imageUrl: /artifacts/dogon-religion-2.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Dogon_Religions'
     provenance: 'Bandiagara Escarpment, Dogon, Mali'
     period: c. precolonial era
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Dogon Religions.
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Dogon
+      Religions.
 ---
 
 # Dogon Religions

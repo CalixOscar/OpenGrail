@@ -43,21 +43,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Oriental Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Oriental%20Orthodoxy'
 artifacts:
-  - title: 'The Monastery, Petra, Jordan8 Historical Sanctuary'
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:The_Monastery,_Petra,_Jordan8.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 451 CE
-    description: 'The Monastery, Petra, Jordan...'
+  - title: Oriental Orthodoxy Historical Sanctuary & Iconography
     imageUrl: /artifacts/oriental-orthodoxy-1.jpg
-  - title: Sacred Books of the East - Volume 19 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Sacred_Books_of_the_East_-_Volume_19.djvu
+    sourceUrl: 'https://en.wikipedia.org/wiki/Oriental_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 451 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Oriental Orthodoxy.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Oriental Orthodoxy.
+  - title: Bible & Sacred Relics
     imageUrl: /artifacts/oriental-orthodoxy-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Oriental_Orthodoxy'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 451 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Oriental Orthodoxy.
 ---
 
 # Oriental Orthodoxy

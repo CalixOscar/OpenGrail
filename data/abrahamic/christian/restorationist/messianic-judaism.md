@@ -43,24 +43,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Messianic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Messianic%20Judaism'
 artifacts:
-  - title: Messianic Judaism Cemetery in Haifa (2) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Messianic_Judaism_Cemetery_in_Haifa_(2).JPG
+  - title: Messianic Judaism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/messianic-judaism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Messianic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1960s CE
     description: >-
-      Messianic Judaism Cemetery in Haifa, West Haifa Israel
-
-
-      בית העלמין של הקהילות המשיחיות בחיפה, שוכן באזור חוף הכרמל, ממזרח למחלף
-      הדרומי של חיפה, ליד מנהרות הכרמל. בצמוד אליו שוכן בי...
-    imageUrl: /artifacts/messianic-judaism-1.jpg
-  - title: Entire Tanakh scroll set Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Entire_Tanakh_scroll_set.png'
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Messianic Judaism.
+  - title: Hebrew Bible & Sacred Relics
+    imageUrl: /artifacts/messianic-judaism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Messianic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1960s CE
-    description: Set of scrolls comprising the entire Tanakh...
-    imageUrl: /artifacts/messianic-judaism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Messianic Judaism.
 ---
 
 # Messianic Judaism

@@ -45,29 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Amish Traditions'
     url: 'https://www.cambridge.org/core/search?q=Amish%20Traditions'
 artifacts:
-  - title: Amish Traditions Historical Sanctuary & Records
+  - title: Amish Traditions Historical Sanctuary & Iconography
+    imageUrl: /artifacts/amish-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Amish_Traditions'
     provenance: 'Zurich, Switzerland'
     period: c. 1693 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Amish Traditions.
-    imageUrl: /artifacts/amish-1.jpg
-  - title: >-
-      A World of Names, U.S. Department of the Interior, 1992 (IA doi-report
-      1332n15) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_World_of_Names,_U.S._Department_of_the_Interior,_1992_(IA_doi-report_1332n15).pdf
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/amish-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Amish_Traditions'
     provenance: 'Zurich, Switzerland'
     period: c. 1693 CE
     description: >-
-      133.2:N15Digitized from &lt;a
-      href="https://archive.org/details/microfiche-scan_IA1177301-19/IA1177301-19-0098/page/n0"
-      rel="ugc nofollow"&gt;IA1177301-19-0098&lt;/a&gt;.
-
-
-      Subject...
-    imageUrl: /artifacts/amish-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Amish
+      Traditions.
 ---
 
 # Amish Traditions

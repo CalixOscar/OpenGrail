@@ -42,20 +42,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=%E1%BB%8Cd%E1%BB%8Bnani'
 artifacts:
-  - title: Ọdịnani Historical Sanctuary & Records
+  - title: Ọdịnani Historical Sanctuary & Iconography
+    imageUrl: /artifacts/odinani-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/%E1%BB%8Cd%E1%BB%8Bnani'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial era
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Ọdịnani.
-  - title: Ọdịnani Canonical Scripture & Iconography
+  - title: Oral traditions & Sacred Relics
+    imageUrl: /artifacts/odinani-2.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/%E1%BB%8Cd%E1%BB%8Bnani'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial era
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ọdịnani.
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ọdịnani.
 ---
 
 # Ọdịnani

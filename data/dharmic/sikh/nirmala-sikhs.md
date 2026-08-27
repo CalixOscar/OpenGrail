@@ -45,22 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nirmal%C4%81%20Sikhs'
 artifacts:
-  - title: Simhasth2016 Panchayati akhada nirmal Shahi Snan Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Simhasth2016_Panchayati_akhada_nirmal_Shahi_Snan.jpg
-    provenance: 'Amritsar, Punjab, India'
-    period: c. c. 18th century CE
-    description: Ujjain Simhasth 2016 Panchayati akhada nirmal Shahi Snan...
+  - title: Nirmalā Sikhs Historical Sanctuary & Iconography
     imageUrl: /artifacts/nirmala-sikhs-1.jpg
-  - title: Gurudwara Bara Sikh Sangat Granth Sahib Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Gurudwara_Bara_Sikh_Sangat_Granth_Sahib.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Nirmal%C4%81_Sikhs'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 18th century CE
     description: >-
-      The Guru Granth Sahib, the holy book of the Sikhs, inside the Gurudwara
-      Bara Sikh Sangat in Kolkata...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Nirmalā Sikhs.
+  - title: Guru Granth Sahib & Sacred Relics
     imageUrl: /artifacts/nirmala-sikhs-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Nirmal%C4%81_Sikhs'
+    provenance: 'Amritsar, Punjab, India'
+    period: c. c. 18th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Nirmalā Sikhs.
 ---
 
 # Nirmalā Sikhs

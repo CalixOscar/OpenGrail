@@ -47,21 +47,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Coptic%20Catholic%20Church'
 artifacts:
-  - title: Coptic Catholic Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Catholic_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1741 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Coptic Catholic Church.
+  - title: Coptic Catholic Church Historical Sanctuary & Iconography
     imageUrl: /artifacts/coptic-catholic-church-1.jpg
-  - title: Coptic Catholic Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1741 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Coptic Catholic Church.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Coptic Catholic Church.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/coptic-catholic-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Catholic_Church'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1741 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Coptic Catholic Church.
 ---
 
 # Coptic Catholic Church

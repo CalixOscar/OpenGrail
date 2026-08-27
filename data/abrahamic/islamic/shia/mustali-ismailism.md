@@ -46,21 +46,20 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Musta''li Ismailism'
     url: 'https://www.cambridge.org/core/search?q=Musta''li%20Ismailism'
 artifacts:
-  - title: Asadullah Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Asadullah.gif'
+  - title: Branch of Shi'a Islam
+    imageUrl: /artifacts/mustali-ismailism-1.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Branch_of_Shi%27a_Islam.png'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1094 CE
+    description: Branch of Shi'a Islam...
+  - title: Quran & Sacred Relics
+    imageUrl: /artifacts/mustali-ismailism-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Branch_of_Shi%27a_Islam.png'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1094 CE
     description: >-
-      Ali bin Ebu Talib'in sıfatı "Allah'ın Aslanı"dır. Şiiler ve diğer Aleviler
-      Ali'ye inanır. Türkiye'de yaygın olan Aleviliğin, Arapça metinleri
-      bulunmaktadır. Bu hareketli resim dosy...
-    imageUrl: /artifacts/mustali-ismailism-1.jpg
-  - title: Quran Kareem logo Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Quran_Kareem_logo.png'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1094 CE
-    description: logo quran kareem png...
-    imageUrl: /artifacts/mustali-ismailism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Musta'li Ismailism.
 ---
 
 # Musta'li Ismailism

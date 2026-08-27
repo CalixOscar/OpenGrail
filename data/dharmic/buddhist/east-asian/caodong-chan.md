@@ -43,20 +43,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Caodong%20Chan'
 artifacts:
-  - title: Soto Building Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Soto_Building.jpg'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 9th century CE
-    description: SotoZen Headquarters and Tokyo Grand Hotel in Tokyo Minato-ku...
+  - title: Caodong Chan Historical Sanctuary & Iconography
     imageUrl: /artifacts/caodong-chan-1.jpg
-  - title: Caodong Chan Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Soto_Building.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Caodong_Chan'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 9th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Caodong Chan.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Caodong Chan.
+  - title: Record of Dongshan & Sacred Relics
     imageUrl: /artifacts/caodong-chan-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Caodong_Chan'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 9th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Caodong Chan.
 ---
 
 # Caodong Chan

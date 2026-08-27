@@ -46,26 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Radha%20Soami%20Tradition'
 artifacts:
-  - title: >-
-      Encyclopædia of religion and ethics (IA encyclopaediaofr10hast) Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Encyclop%C3%A6dia_of_religion_and_ethics_(IA_encyclopaediaofr10hast).pdf
+  - title: Radha Soami Tradition Historical Sanctuary & Iconography
+    imageUrl: /artifacts/radha-soami-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Radha_Soami_Tradition'
     provenance: 'Amritsar, Punjab, India'
     period: c. 1861 CE
     description: >-
-      Vols. 6-12 "edited by James Hastings, with the assistance of John A.
-      Selbie and Louis H. Gray."
-
-      Some vols. are "Edition completed and corrected editions, 1926-1976,
-      reprinted 1994...
-    imageUrl: /artifacts/radha-soami-1.jpg
-  - title: The Indian Antiquary Vol 2 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:The_Indian_Antiquary_Vol_2.pdf'
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Radha Soami Tradition.
+  - title: Sar Bachan & Sacred Relics
+    imageUrl: /artifacts/radha-soami-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Radha_Soami_Tradition'
     provenance: 'Amritsar, Punjab, India'
     period: c. 1861 CE
-    description: The Indian Antiquary Vol 2...
-    imageUrl: /artifacts/radha-soami-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Radha
+      Soami Tradition.
 ---
 
 # Radha Soami Tradition

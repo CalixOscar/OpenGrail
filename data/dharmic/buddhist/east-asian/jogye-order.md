@@ -47,25 +47,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Jogye%20Order'
 artifacts:
-  - title: Jogye Order Historical Sanctuary & Records
+  - title: Jogye Order Historical Sanctuary & Iconography
+    imageUrl: /artifacts/jogye-order-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Jogye_Order'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Jogye Order.
-    imageUrl: /artifacts/jogye-order-1.jpg
-  - title: >-
-      Viewing Platform for the Heart Sutra Wood Inscription (Ngong Ping ) Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Viewing_Platform_for_the_Heart_Sutra_Wood_Inscription_(Ngong_Ping_).jpg
+  - title: Platform Sūtra & Sacred Relics
+    imageUrl: /artifacts/jogye-order-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Jogye_Order'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-
-      Layout Plan of the Wisdom Path (located on the viewing platform), Ngong
-      Ping, Lantau Island, Hong Kong....
-    imageUrl: /artifacts/jogye-order-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Jogye
+      Order.
 ---
 
 # Jogye Order

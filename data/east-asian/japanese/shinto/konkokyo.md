@@ -45,22 +45,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Konk%C5%8Dky%C5%8D'
 artifacts:
-  - title: Konkokyo Headquarters Central Worship Hall Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Konkokyo_Headquarters_Central_Worship_Hall.jpg
-    provenance: 'Ise Grand Shrine, Mie, Japan'
-    period: c. 1859 CE
-    description: Central Worship Hall at Konkokyo Headquarters...
+  - title: Konkōkyō Historical Sanctuary & Iconography
     imageUrl: /artifacts/konkokyo-1.jpg
-  - title: Konkōkyō Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Konkokyo_Headquarters_Central_Worship_Hall.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Konk%C5%8Dky%C5%8D'
     provenance: 'Ise Grand Shrine, Mie, Japan'
     period: c. 1859 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Konkōkyō.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Konkōkyō.
+  - title: Konkōkyō Kyōten & Sacred Relics
     imageUrl: /artifacts/konkokyo-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Konk%C5%8Dky%C5%8D'
+    provenance: 'Ise Grand Shrine, Mie, Japan'
+    period: c. 1859 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Konkōkyō.
 ---
 
 # Konkōkyō

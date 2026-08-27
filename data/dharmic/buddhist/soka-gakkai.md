@@ -42,23 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Soka%20Gakkai'
 artifacts:
-  - title: Soka Gakkai (new head office 1) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Soka_Gakkai_(new_head_office_1).jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1930 CE
-    description: 'Soka Gakkai (創価学会), at Shinanomachi, Shinjuku, Tokyo, Japan...'
+  - title: Soka Gakkai Historical Sanctuary & Iconography
     imageUrl: /artifacts/soka-gakkai-1.jpg
-  - title: Heike-Nokyo-Chapter-12-Lotus-Sutra Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Heike-Nokyo-Chapter-12-Lotus-Sutra.png
+    sourceUrl: 'https://en.wikipedia.org/wiki/Soka_Gakkai'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1930 CE
     description: >-
-      Sutra art from the Heike-Nôkyô. The mikaeshi of chapter 12. The daughter
-      (Longnü) of the Dragon King offers the Buddha her priceless jewel (pearl).
-      With this anecdote, the Lotus Su...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Soka Gakkai.
+  - title: Lotus Sūtra & Sacred Relics
     imageUrl: /artifacts/soka-gakkai-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Soka_Gakkai'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 1930 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Soka
+      Gakkai.
 ---
 
 # Soka Gakkai

@@ -46,26 +46,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Waaqeffanna'
 artifacts:
-  - title: >-
-      Rankweil-Parish church to St. Peter-side altar right-altar shrine Saint
-      Pankratius-01ASD Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Rankweil-Parish_church_to_St._Peter-side_altar_right-altar_shrine_Saint_Pankratius-01ASD.jpg
+  - title: Waaqeffanna Historical Sanctuary & Iconography
+    imageUrl: /artifacts/waaqeffanna-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Waaqeffanna'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial; modern revitalization
     description: >-
-      Church of Saint Peter in Rankweil, Vorarlberg, Austria. One of the oldest
-      churches in Vorarlberg...
-    imageUrl: /artifacts/waaqeffanna-1.jpg
-  - title: >-
-      Literacy in Multilingual and Multicultural Contexts Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Literacy_in_Multilingual_and_Multicultural_Contexts.pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Waaqeffanna.
+  - title: Oromo oral traditions & Sacred Relics
+    imageUrl: /artifacts/waaqeffanna-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Waaqeffanna'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial; modern revitalization
-    description: Publication by UNESCO...
-    imageUrl: /artifacts/waaqeffanna-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Waaqeffanna.
 ---
 
 # Waaqeffanna

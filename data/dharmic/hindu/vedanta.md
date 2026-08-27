@@ -45,22 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ved%C4%81nta'
 artifacts:
-  - title: BAPS Detroit Canton 2019 10 10 19 01 26 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:BAPS_Detroit_Canton_2019_10_10_19_01_26.jpg
-    provenance: 'Kanchipuram, Tamil Nadu, India'
-    period: c. c. 2nd century BCE
-    description: 'Front side of BAPS Detroit (Canton), on October 10, 2019, at 19:01:26....'
+  - title: Vedānta Historical Sanctuary & Iconography
     imageUrl: /artifacts/vedanta-1.jpg
-  - title: Sanskrit Grammar by Whitney p1 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Sanskrit_Grammar_by_Whitney_p1.djvu
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ved%C4%81nta'
     provenance: 'Kanchipuram, Tamil Nadu, India'
     period: c. c. 2nd century BCE
     description: >-
-      A grammar of the Sanskrit language (part 1 of 2, divided for upload onto
-      Commons)...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Vedānta.
+  - title: Principal Upaniṣads & Sacred Relics
     imageUrl: /artifacts/vedanta-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ved%C4%81nta'
+    provenance: 'Kanchipuram, Tamil Nadu, India'
+    period: c. c. 2nd century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Vedānta.
 ---
 
 # Vedānta

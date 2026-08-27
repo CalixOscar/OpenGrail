@@ -49,21 +49,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Polish%20Autocephalous%20Orthodox%20Church
 artifacts:
-  - title: Polish Autocephalous Orthodox Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Polish_Autocephalous_Orthodox_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1924 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Polish Autocephalous Orthodox Church.
+  - title: Polish Autocephalous Orthodox Church Historical Sanctuary & Iconography
     imageUrl: /artifacts/polish-orthodox-church-1.jpg
-  - title: Polish Autocephalous Orthodox Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Polish_Autocephalous_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1924 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Polish Autocephalous Orthodox Church.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Polish Autocephalous Orthodox Church.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/polish-orthodox-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Polish_Autocephalous_Orthodox_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1924 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Polish Autocephalous Orthodox Church.
 ---
 
 # Polish Autocephalous Orthodox Church

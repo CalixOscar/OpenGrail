@@ -44,22 +44,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Armenian%20Apostolic%20Church'
 artifacts:
-  - title: Armenian Apostolic Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Apostolic_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 4th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Armenian Apostolic Church.
+  - title: Armenian Apostolic Church Historical Sanctuary & Iconography
     imageUrl: /artifacts/armenian-apostolic-church-1.jpg
-  - title: Armenian Apostolic Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Apostolic_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Armenian Apostolic Church.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Armenian Apostolic Church.
+  - title: Armenian Bible & Sacred Relics
     imageUrl: /artifacts/armenian-apostolic-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Apostolic_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 4th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Armenian Apostolic Church.
 ---
 
 # Armenian Apostolic Church

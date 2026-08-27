@@ -48,20 +48,24 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Evangelical%20Lutheran%20Church%20in%20America
 artifacts:
-  - title: Evangelical Lutheran Church in America Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Evangelical_Lutheran_Church_in_America'
+  - title: The Logo of the Evangelical Lutheran Church in America
+    imageUrl: /artifacts/evangelical-lutheran-church-america-1.jpg
+    sourceUrl: >-
+      https://en.wikipedia.org/wiki/File:The_Logo_of_the_Evangelical_Lutheran_Church_in_America.png
     provenance: 'Wittenberg, Saxony, Germany'
     period: c. 1988 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Evangelical Lutheran Church in America.
-    imageUrl: /artifacts/evangelical-lutheran-church-america-1.jpg
-  - title: 'Concordia, Dresden 1580 - fba Sacred Relics & Scripture'
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Concordia,_Dresden_1580_-_fba.jpg'
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/evangelical-lutheran-church-america-2.jpg
+    sourceUrl: >-
+      https://en.wikipedia.org/wiki/File:The_Logo_of_the_Evangelical_Lutheran_Church_in_America.png
     provenance: 'Wittenberg, Saxony, Germany'
     period: c. 1988 CE
-    description: Title Page of Book of Concord 1580...
-    imageUrl: /artifacts/evangelical-lutheran-church-america-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Evangelical Lutheran Church in America.
 ---
 
 # Evangelical Lutheran Church in America

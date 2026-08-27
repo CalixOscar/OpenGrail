@@ -54,23 +54,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Aymara%20Religious%20Traditions'
 artifacts:
-  - title: Aymara Religious Traditions Historical Sanctuary & Records
+  - title: Aymara Religious Traditions Historical Sanctuary & Iconography
+    imageUrl: /artifacts/aymara-religions-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Aymara_Religious_Traditions'
     provenance: 'Tiwanaku, Lake Titicaca, Bolivia'
     period: c. pre-Inca and historically diverse
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Aymara Religious Traditions.
-  - title: >-
-      American ethnology- being a summary of some of the results which have
-      followed the investigation of this subject (IA americanethnolog00squi)
-      Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:American_ethnology-_being_a_summary_of_some_of_the_results_which_have_followed_the_investigation_of_this_subject_(IA_americanethnolog00squi).pdf
+  - title: Aymara oral narratives & Sacred Relics
+    imageUrl: /artifacts/aymara-religions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Aymara_Religious_Traditions'
     provenance: 'Tiwanaku, Lake Titicaca, Bolivia'
     period: c. pre-Inca and historically diverse
-    description: 'Subjects: Indians...'
-    imageUrl: /artifacts/aymara-religions-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Aymara Religious Traditions.
 ---
 
 # Aymara Religious Traditions

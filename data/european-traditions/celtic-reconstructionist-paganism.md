@@ -55,23 +55,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Celtic Reconstructionist Paganism'
     url: 'https://brill.com/search?q=Celtic%20Reconstructionist%20Paganism'
 artifacts:
-  - title: Druids procession Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Druids_procession.jpg'
-    provenance: 'Glastonbury, Somerset, England, UK'
-    period: c. 1980s CE
-    description: >-
-      Druids procession moving north along William Street, passing Hay Street
-      (west). E.S.&amp; A. Bank Chambers, 43 William Street, Ezywalkin, 741-745
-      Hay Street. (Perth, Western Austra...
+  - title: Celtic Reconstructionist Paganism Historical Sanctuary & Iconography
     imageUrl: /artifacts/celtic-reconstructionist-paganism-1.jpg
-  - title: Welsh Medieval Law Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Welsh_Medieval_Law.djvu'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Celtic_Reconstructionist_Paganism'
     provenance: 'Glastonbury, Somerset, England, UK'
     period: c. 1980s CE
     description: >-
-      Translation and reprint of the British Museum Harlein MS. 4353 of 13th
-      Century; or, Llyfr Cyfnerf...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Celtic Reconstructionist Paganism.
+  - title: Medieval Irish and Welsh source literature & Sacred Relics
     imageUrl: /artifacts/celtic-reconstructionist-paganism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Celtic_Reconstructionist_Paganism'
+    provenance: 'Glastonbury, Somerset, England, UK'
+    period: c. 1980s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Celtic Reconstructionist Paganism.
 ---
 
 # Celtic Reconstructionist Paganism

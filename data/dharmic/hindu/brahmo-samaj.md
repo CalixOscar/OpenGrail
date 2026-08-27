@@ -46,22 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Brahmo%20Samaj'
 artifacts:
-  - title: A History of the Brahmo Samaj Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:A_History_of_the_Brahmo_Samaj.djvu'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1828 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Brahmo Samaj.
+  - title: Brahmo Samaj Historical Sanctuary & Iconography
     imageUrl: /artifacts/brahmo-samaj-1.jpg
-  - title: Brahmo Samaj Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:A_History_of_the_Brahmo_Samaj.djvu'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Brahmo_Samaj'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1828 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Brahmo Samaj.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Brahmo Samaj.
+  - title: Brahmo Dharma & Sacred Relics
     imageUrl: /artifacts/brahmo-samaj-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Brahmo_Samaj'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 1828 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Brahmo Samaj.
 ---
 
 # Brahmo Samaj

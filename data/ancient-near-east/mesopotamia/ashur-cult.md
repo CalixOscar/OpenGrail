@@ -48,28 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Ashur'
     url: 'https://brill.com/search?q=Cult%20of%20Ashur'
 artifacts:
-  - title: >-
-      God Ea (Sumerian Enki); part of a basalt water basin from Assur, Iraq.
-      Reign of Sennacherib, 7th century BCE. Pergamon Museum Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:God_Ea_(Sumerian_Enki);_part_of_a_basalt_water_basin_from_Assur,_Iraq._Reign_of_Sennacherib,_7th_century_BCE._Pergamon_Museum.jpg
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2000 BCE
-    description: >-
-      Detail; water god Ea (Sumerian Enki), water basin from Assur. When
-      discovered, this water basin was completely shattered. It was cut
-      originally from a single basalt block and was l...
+  - title: Cult of Ashur Historical Sanctuary & Iconography
     imageUrl: /artifacts/ashur-cult-1.jpg
-  - title: Cult of Ashur Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:God_Ea_(Sumerian_Enki);_part_of_a_basalt_water_basin_from_Assur,_Iraq._Reign_of_Sennacherib,_7th_century_BCE._Pergamon_Museum.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Ashur'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2000 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cult of Ashur.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cult of Ashur.
+  - title: Assyrian royal inscriptions & Sacred Relics
     imageUrl: /artifacts/ashur-cult-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Ashur'
+    provenance: 'Babylon, Mesopotamia'
+    period: c. c. 2000 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
+      of Ashur.
 ---
 
 # Cult of Ashur

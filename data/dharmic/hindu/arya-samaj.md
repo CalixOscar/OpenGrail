@@ -45,23 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Arya%20Samaj'
 artifacts:
-  - title: Arya Samaj R.V. Russell 1916 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Arya_Samaj_R.V._Russell_1916.PNG'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1875 CE
-    description: >-
-      "A meeting of the Arya Samāj for investing boys with the sacred thread"
-      from R. V. Russell's 1916 "The Tribes and Castes of the Central Provinces
-      of India--Volume I"....
+  - title: Arya Samaj Historical Sanctuary & Iconography
     imageUrl: /artifacts/arya-samaj-1.jpg
-  - title: Arya Samaj Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Arya_Samaj_R.V._Russell_1916.PNG'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Arya_Samaj'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1875 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Arya Samaj.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Arya Samaj.
+  - title: Satyarth Prakash & Sacred Relics
     imageUrl: /artifacts/arya-samaj-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Arya_Samaj'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 1875 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Arya
+      Samaj.
 ---
 
 # Arya Samaj

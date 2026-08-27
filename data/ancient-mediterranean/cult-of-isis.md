@@ -48,25 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Isis'
     url: 'https://brill.com/search?q=Cult%20of%20Isis'
 artifacts:
-  - title: Pluto Serapis and Persephone Isis Heraklion museum Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Pluto_Serapis_and_Persephone_Isis_Heraklion_museum.jpg
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 4th century BCE
-    description: >-
-      Group of ancient Roman statues of Persephone (as Isis), Cerberus, and
-      Pluto (as Serapis), from Gortys. Archaeological Museum of Heraklion,
-      Crete, Greece.These gods were worshiped i...
+  - title: Cult of Isis Historical Sanctuary & Iconography
     imageUrl: /artifacts/cult-of-isis-1.jpg
-  - title: 'Plutarch''s Lives (Clough, v.1, 1865) Sacred Relics & Scripture'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Plutarch%27s_Lives_(Clough,_v.1,_1865).djvu
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Isis'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 4th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cult of Isis.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cult of Isis.
+  - title: Isis aretalogies & Sacred Relics
     imageUrl: /artifacts/cult-of-isis-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Isis'
+    provenance: 'Athens, Attica, Greece'
+    period: c. c. 4th century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
+      of Isis.
 ---
 
 # Cult of Isis

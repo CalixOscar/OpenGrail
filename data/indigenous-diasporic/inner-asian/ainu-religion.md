@@ -45,19 +45,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Ainu%20Religious%20Traditions'
 artifacts:
-  - title: Aino folk-tales Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Aino_folk-tales.djvu'
-    provenance: 'Hokkaido (Ainu Mosir), Japan'
-    period: c. ancient; continuously developing
-    description: 'Folk-tales of the Aino people, collected in the 19th century....'
+  - title: Ainu Religious Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/ainu-religion-1.jpg
-  - title: Ainu Religious Traditions Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Aino_folk-tales.djvu'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ainu_Religious_Traditions'
     provenance: 'Hokkaido (Ainu Mosir), Japan'
     period: c. ancient; continuously developing
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ainu Religious Traditions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ainu Religious Traditions.
+  - title: Yukar oral epics & Sacred Relics
+    imageUrl: /artifacts/ainu-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ainu_Religious_Traditions'
+    provenance: 'Hokkaido (Ainu Mosir), Japan'
+    period: c. ancient; continuously developing
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Ainu
+      Religious Traditions.
 ---
 
 # Ainu Religious Traditions

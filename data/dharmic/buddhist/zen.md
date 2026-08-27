@@ -44,28 +44,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Zen%20Buddhism'
 artifacts:
-  - title: Ambigram Zen Yes Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ambigram_Zen_Yes.png'
-    provenance: 'Kyoto (Heian-kyo), Japan'
-    period: c. 12th century CE
-    description: >-
-      Ambigram Zen Yes, black and white text logo. Mirror symmetry (vertical
-      axis). Meditation pictogram....
+  - title: Zen Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/zen-1.jpg
-  - title: >-
-      OVERSIGHT HEARING ON THE WASHINGTON AQUEDUCT AND THE EFFECTS OF ITS
-      DISCHARGE ON THE C&O CANAL NATIONAL HISTORIC PARK AND THE ENDANGERED
-      SHORTNOSE STURGEON (IA gov.gpo.fdsys.CHRG-107hhrg80271) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:OVERSIGHT_HEARING_ON_THE_WASHINGTON_AQUEDUCT_AND_THE_EFFECTS_OF_ITS_DISCHARGE_ON_THE_C%26O_CANAL_NATIONAL_HISTORIC_PARK_AND_THE_ENDANGERED_SHORTNOSE_STURGEON_(IA_gov.gpo.fdsys.CHRG-107hhrg80271).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Zen_Buddhism'
     provenance: 'Kyoto (Heian-kyo), Japan'
     period: c. 12th century CE
     description: >-
-      Government Publishing OfficeU.S. CongressHouse of RepresentativesCommittee
-      on ResourcesOVERSIGHT HEARING ON THE WASHINGTON AQUEDUCT AND THE EFFECTS
-      OF ITS DISCHARGE ON THE C&amp;O...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Zen Buddhism.
+  - title: Shōbōgenzō & Sacred Relics
     imageUrl: /artifacts/zen-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Zen_Buddhism'
+    provenance: 'Kyoto (Heian-kyo), Japan'
+    period: c. 12th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Zen
+      Buddhism.
 ---
 
 # Zen Buddhism

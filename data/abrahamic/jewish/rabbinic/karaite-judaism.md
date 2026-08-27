@@ -40,23 +40,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Karaite Judaism'
     url: 'https://www.cambridge.org/core/search?q=Karaite%20Judaism'
 artifacts:
-  - title: Karaite Judaism Historical Sanctuary & Records
+  - title: Karaite Judaism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/karaite-judaism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Karaite_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Karaite Judaism.
-    imageUrl: /artifacts/karaite-judaism-1.jpg
-  - title: >-
-      Hebrew Bible, Vetus Testamentum, Brescia 1494 - 02 Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Hebrew_Bible,_Vetus_Testamentum,_Brescia_1494_-_02.jpg
+  - title: Tanakh & Sacred Relics
+    imageUrl: /artifacts/karaite-judaism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Karaite_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
-    description: 'Illuminated page from a Hebrew Bible, Vetus Testamentum, Brescia 1494....'
-    imageUrl: /artifacts/karaite-judaism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Karaite Judaism.
 ---
 
 # Karaite Judaism

@@ -47,22 +47,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Chaldean%20Catholic%20Church'
 artifacts:
-  - title: Chaldean Catholic Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chaldean_Catholic_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1553 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Chaldean Catholic Church.
+  - title: Chaldean Catholic Church Historical Sanctuary & Iconography
     imageUrl: /artifacts/chaldean-catholic-church-1.jpg
-  - title: Chaldean Catholic Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Chaldean_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1553 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Chaldean Catholic Church.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Chaldean Catholic Church.
+  - title: Bible in the Syriac tradition & Sacred Relics
     imageUrl: /artifacts/chaldean-catholic-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chaldean_Catholic_Church'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1553 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Chaldean Catholic Church.
 ---
 
 # Chaldean Catholic Church

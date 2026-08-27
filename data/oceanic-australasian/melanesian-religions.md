@@ -42,27 +42,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Melanesian%20Religions'
 artifacts:
-  - title: Melanesian Religions Historical Sanctuary & Records
+  - title: Melanesian Religions Historical Sanctuary & Iconography
+    imageUrl: /artifacts/melanesian-religions-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Melanesian_Religions'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. ancestral era
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Melanesian Religions.
-  - title: >-
-      Islands far away; Fijian pictures with pen and brush (1921) (14591035370)
-      Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Islands_far_away;_Fijian_pictures_with_pen_and_brush_(1921)_(14591035370).jpg
+  - title: Oral traditions (community-specific) & Sacred Relics
+    imageUrl: /artifacts/melanesian-religions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Melanesian_Religions'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. ancestral era
-    description: |-
-      Identifier: islandsfarawayfi00king (find matches)
-      Title: Islands far away; Fijian pictures with pen and brush
-      Year: 1921 (1920s)
-      Authors:  King, Agnes Gardner
-      Subjects:  Fiji -- D...
-    imageUrl: /artifacts/melanesian-religions-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Melanesian Religions.
 ---
 
 # Melanesian Religions

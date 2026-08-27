@@ -52,20 +52,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Hindu%20Traditions'
 artifacts:
-  - title: Hindu priests performing yagna Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hindu_priests_performing_yagna.jpg'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 500 BCE
-    description: Hindu priests performing Dattatreya yaga...
+  - title: Hindu Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/hinduism-1.jpg
-  - title: Hindu Traditions Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hindu_priests_performing_yagna.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hindu_Traditions'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 500 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Hindu Traditions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Hindu Traditions.
+  - title: Upaniṣads & Sacred Relics
     imageUrl: /artifacts/hinduism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hindu_Traditions'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 500 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Hindu
+      Traditions.
 ---
 
 # Hindu Traditions

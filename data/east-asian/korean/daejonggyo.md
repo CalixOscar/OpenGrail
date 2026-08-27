@@ -45,18 +45,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Daejonggyo'
 artifacts:
-  - title: Portrait of Dangun Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Portrait_of_Dangun.jpg'
-    provenance: 'Seoul (Hanyang), South Korea'
-    period: c. 1909 CE
-    description: Portrait of Dangun...
+  - title: Daejonggyo Historical Sanctuary & Iconography
     imageUrl: /artifacts/daejonggyo-1.jpg
-  - title: DangunFeveronpcb Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:DangunFeveronpcb.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Daejonggyo'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. 1909 CE
-    description: Dangun Feveron arcade PCB with art...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Daejonggyo.
+  - title: Samil Sin'go & Sacred Relics
     imageUrl: /artifacts/daejonggyo-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Daejonggyo'
+    provenance: 'Seoul (Hanyang), South Korea'
+    period: c. 1909 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Daejonggyo.
 ---
 
 # Daejonggyo

@@ -46,22 +46,29 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of England'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20England'
 artifacts:
-  - title: Church of England Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_England'
-    provenance: 'Canterbury, Kent, England, UK'
-    period: c. 1534 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Church of England.
+  - title: Thomas Cranmer by Gerlach Flicke
     imageUrl: /artifacts/church-of-england-1.jpg
-  - title: Book of common prayer 1596 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Book_of_common_prayer_1596.jpg'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Thomas_Cranmer_by_Gerlach_Flicke.jpg
     provenance: 'Canterbury, Kent, England, UK'
     period: c. 1534 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Church of England.
+      This is part of a set of images gathered by User:Dcoetzee from the
+      National Portrait Gallery, London website using a special tool. All images
+      in this batch have a known author, an...
+  - title: Hooker-Statue
     imageUrl: /artifacts/church-of-england-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hooker-Statue.jpeg'
+    provenance: 'Canterbury, Kent, England, UK'
+    period: c. 1534 CE
+    description: >-
+      5164561521564897== Summary ==
+
+      Taken by me (ryan grenzow and released now by me under the GFDL.  Richard
+      Hooker statue in grounds of Exeter Cathedral
+
+
+      Logan Wenger &amp; Paige...
 ---
 
 # Church of England

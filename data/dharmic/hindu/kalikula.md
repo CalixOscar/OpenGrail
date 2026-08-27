@@ -44,22 +44,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=K%C4%81l%C4%ABkula'
 artifacts:
-  - title: Schillingi (Kaliküla) suguvõsa aadlivapp Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Schillingi_(Kalik%C3%BCla)_suguv%C3%B5sa_aadlivapp.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 10th century CE
-    description: Schillingi (Kaliküla) suguvõsa aadlivapp...
+  - title: Kālīkula Historical Sanctuary & Iconography
     imageUrl: /artifacts/kalikula-1.jpg
-  - title: Kālīkula Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Schillingi_(Kalik%C3%BCla)_suguv%C3%B5sa_aadlivapp.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/K%C4%81l%C4%ABkula'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Kālīkula.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Kālīkula.
+  - title: Kālī Tantra & Sacred Relics
     imageUrl: /artifacts/kalikula-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/K%C4%81l%C4%ABkula'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 10th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Kālīkula.
 ---
 
 # Kālīkula

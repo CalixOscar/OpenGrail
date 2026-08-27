@@ -46,24 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=S%C5%8Dt%C5%8D%20Zen'
 artifacts:
-  - title: Daifukuji Soto Zen Mission Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Daifukuji_Soto_Zen_Mission.jpg'
-    provenance: 'Cairo (Fustat), Egypt'
-    period: c. 13th century CE
-    description: >-
-      The Daifukuji Sōtō Mission is a Zen Buddhist temple on the island of
-      Hawaiʻi established in 1914 near Honalo. 
-
-      It was added to the National Register of Historic Places on April 21,...
+  - title: Sōtō Zen Historical Sanctuary & Iconography
     imageUrl: /artifacts/soto-zen-1.jpg
-  - title: Sōtō Zen Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Daifukuji_Soto_Zen_Mission.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/S%C5%8Dt%C5%8D_Zen'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 13th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Sōtō Zen.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sōtō Zen.
+  - title: Shōbōgenzō & Sacred Relics
     imageUrl: /artifacts/soto-zen-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/S%C5%8Dt%C5%8D_Zen'
+    provenance: 'Cairo (Fustat), Egypt'
+    period: c. 13th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Sōtō
+      Zen.
 ---
 
 # Sōtō Zen

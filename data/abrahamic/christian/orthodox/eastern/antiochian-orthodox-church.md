@@ -46,21 +46,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Greek%20Orthodox%20Patriarchate%20of%20Antioch
 artifacts:
-  - title: Cathedral High Altar - geograph.org.uk - 4332491 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Cathedral_High_Altar_-_geograph.org.uk_-_4332491.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1st century CE
-    description: Cathedral High Altar...
+  - title: Greek Orthodox Patriarchate of Antioch Historical Sanctuary & Iconography
     imageUrl: /artifacts/antiochian-orthodox-church-1.jpg
-  - title: Greek Orthodox Patriarchate of Antioch Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Cathedral_High_Altar_-_geograph.org.uk_-_4332491.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Greek_Orthodox_Patriarchate_of_Antioch'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Greek Orthodox Patriarchate of Antioch.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Greek Orthodox Patriarchate of Antioch.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/antiochian-orthodox-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Greek_Orthodox_Patriarchate_of_Antioch'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1st century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Greek
+      Orthodox Patriarchate of Antioch.
 ---
 
 # Greek Orthodox Patriarchate of Antioch

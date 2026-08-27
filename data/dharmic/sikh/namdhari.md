@@ -40,27 +40,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Namdhari%20Sikhs'
 artifacts:
-  - title: Namdhari Sikhs Rawalsar Sahib Himachal Pradesh India Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Namdhari_Sikhs_Rawalsar_Sahib_Himachal_Pradesh_India.jpg
-    provenance: 'Amritsar, Punjab, India'
-    period: c. 1857 CE
-    description: >-
-      A Namdhari Sikh sect shrine.
-
-
-      The monument remembers Guru Gobind Singh's stay for a month, to team with
-      Hill states in his struggle against Aurangzeb....
+  - title: Namdhari Sikhs Historical Sanctuary & Iconography
     imageUrl: /artifacts/namdhari-1.jpg
-  - title: Illuminated Guru Granth Sahib manuscript 01 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Illuminated_Guru_Granth_Sahib_manuscript_01.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Namdhari_Sikhs'
     provenance: 'Amritsar, Punjab, India'
     period: c. 1857 CE
     description: >-
-      Illuminated Guru Granth Sahib manuscript from the Dr. Gurpal Singh Bhuller
-      collection....
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Namdhari Sikhs.
+  - title: Guru Granth Sahib & Sacred Relics
     imageUrl: /artifacts/namdhari-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Namdhari_Sikhs'
+    provenance: 'Amritsar, Punjab, India'
+    period: c. 1857 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Namdhari Sikhs.
 ---
 
 # Namdhari Sikhs

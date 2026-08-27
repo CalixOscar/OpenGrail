@@ -46,23 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Secular%20Buddhism'
 artifacts:
-  - title: Discovery Of Living Buddhism In Bengal Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Discovery_Of_Living_Buddhism_In_Bengal.djvu
+  - title: Secular Buddhism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/secular-buddhism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Secular_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 20th century CE
     description: >-
-      Book Source: &lt;a href="http://www.new.dli.ernet.in/handle/2015/47680"
-      rel="nofollow"&gt;Digital Library of India Item
-      2015.47680&lt;/a&gt;dc.contributor.author: Sastri, Harapras...
-    imageUrl: /artifacts/secular-buddhism-1.jpg
-  - title: Buddhist India (IA buddhistindia00davirich) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Buddhist_India_(IA_buddhistindia00davirich).pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Secular Buddhism.
+  - title: Early Buddhist discourses & Sacred Relics
+    imageUrl: /artifacts/secular-buddhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Secular_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 20th century CE
-    description: 'Subjects: Buddhism -- India; India -- Civilization; India -- History...'
-    imageUrl: /artifacts/secular-buddhism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Secular Buddhism.
 ---
 
 # Secular Buddhism

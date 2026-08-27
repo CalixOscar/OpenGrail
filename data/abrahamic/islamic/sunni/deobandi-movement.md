@@ -52,18 +52,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Deobandi Movement'
     url: 'https://www.cambridge.org/core/search?q=Deobandi%20Movement'
 artifacts:
-  - title: Mahmud Hasan Deobandi Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mahmud_Hasan_Deobandi.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1866 CE
-    description: Shaykhul Hind Mawlānā Maḥmud Ḥasan Deobandi...
+  - title: Deobandi Movement Historical Sanctuary & Iconography
     imageUrl: /artifacts/deobandi-movement-1.jpg
-  - title: Darul Uloom Deoband Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Darul_Uloom_Deoband.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Deobandi_Movement'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1866 CE
-    description: Darul Uloom Deoband...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Deobandi Movement.
+  - title: Quran & Sacred Relics
     imageUrl: /artifacts/deobandi-movement-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Deobandi_Movement'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1866 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Deobandi Movement.
 ---
 
 # Deobandi Movement

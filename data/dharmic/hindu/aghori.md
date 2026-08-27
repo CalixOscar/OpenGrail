@@ -47,25 +47,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Aghori%20Tradition'
 artifacts:
-  - title: >-
-      A handbook of Sanskrit literature - with appendices descriptive of the
-      mythology castes, and religious sects of the Hindus (IA
-      handbookofsanskr00smalrich) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_handbook_of_Sanskrit_literature_-_with_appendices_descriptive_of_the_mythology_castes,_and_religious_sects_of_the_Hindus_(IA_handbookofsanskr00smalrich).pdf
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 17th century CE
-    description: 'Subjects: Sanskrit literature -- History and criticism...'
+  - title: Aghori Tradition Historical Sanctuary & Iconography
     imageUrl: /artifacts/aghori-1.jpg
-  - title: >-
-      Shri Dutta Nirguna Mutt, Ganagapura, Kalaburagi, Karnataka (2024) 06
-      Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Shri_Dutta_Nirguna_Mutt,_Ganagapura,_Kalaburagi,_Karnataka_(2024)_06.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Aghori_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 17th century CE
-    description: 'Shri Dutta Nirguna Mutt, Ganagapura, Kalaburagi, Karnataka (2024)...'
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Aghori Tradition.
+  - title: Aghor oral teachings & Sacred Relics
     imageUrl: /artifacts/aghori-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Aghori_Tradition'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 17th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Aghori Tradition.
 ---
 
 # Aghori Tradition

@@ -47,28 +47,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Cherokee%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      History of the Cherokee Indians and their legends and folklore Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:History_of_the_Cherokee_Indians_and_their_legends_and_folklore.djvu
-    provenance: 'Kituwah Mound (Cherokee), NC/TN, USA'
-    period: c. precolonial
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Cherokee Religious Traditions.
+  - title: Cherokee Religious Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/cherokee-religions-1.jpg
-  - title: >-
-      The Cherokee nation of Indians .. (IA cherokeenationof00king) Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Cherokee_nation_of_Indians_.._(IA_cherokeenationof00king).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cherokee_Religious_Traditions'
     provenance: 'Kituwah Mound (Cherokee), NC/TN, USA'
     period: c. precolonial
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cherokee Religious Traditions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cherokee Religious Traditions.
+  - title: Cherokee oral traditions & Sacred Relics
     imageUrl: /artifacts/cherokee-religions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cherokee_Religious_Traditions'
+    provenance: 'Kituwah Mound (Cherokee), NC/TN, USA'
+    period: c. precolonial
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Cherokee Religious Traditions.
 ---
 
 # Cherokee Religious Traditions

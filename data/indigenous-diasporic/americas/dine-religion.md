@@ -42,22 +42,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Din%C3%A9%20Religion'
 artifacts:
-  - title: Mosque Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mosque.jpg'
-    provenance: 'Dinétah (Navajo Nation), Four Corners, USA'
-    period: c. ancestral era
-    description: 'Muslims praying towards Mecca; Umayyad Mosque, Damascus....'
+  - title: Diné Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/dine-religion-1.jpg
-  - title: Martin van Maele - La Sorcière 06 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Martin_van_Maele_-_La_Sorci%C3%A8re_06.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Din%C3%A9_Religion'
     provenance: 'Dinétah (Navajo Nation), Four Corners, USA'
     period: c. ancestral era
     description: >-
-      Jules Michelet, The Witch, Paris, J. Chevrel Bookseller, 1911. One of
-      Martin Van Maële's sixty-nine original compositions, including fifteen
-      plates engraved with etching by the art...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Diné Religion.
+  - title: Oral traditions (community-governed) & Sacred Relics
     imageUrl: /artifacts/dine-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Din%C3%A9_Religion'
+    provenance: 'Dinétah (Navajo Nation), Four Corners, USA'
+    period: c. ancestral era
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Diné
+      Religion.
 ---
 
 # Diné Religion

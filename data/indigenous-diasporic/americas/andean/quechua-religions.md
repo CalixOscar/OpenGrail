@@ -53,20 +53,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Quechua%20Religious%20Traditions'
 artifacts:
-  - title: Quechua Religious Traditions Historical Sanctuary & Records
+  - title: Quechua Religious Traditions Historical Sanctuary & Iconography
+    imageUrl: /artifacts/quechua-religions-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Quechua_Religious_Traditions'
     provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
     period: c. pre-Inca and historically diverse
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Quechua Religious Traditions.
-  - title: Quechua Religious Traditions Canonical Scripture & Iconography
+  - title: Huarochirí Manuscript & Sacred Relics
+    imageUrl: /artifacts/quechua-religions-2.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Quechua_Religious_Traditions'
     provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
     period: c. pre-Inca and historically diverse
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Quechua Religious Traditions.
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Quechua Religious Traditions.
 ---
 
 # Quechua Religious Traditions

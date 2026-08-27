@@ -51,23 +51,22 @@ sources:
       Judgment
     url: 'https://brill.com/search?q=Process%20Church%20of%20the%20Final%20Judgment'
 artifacts:
-  - title: Ames Process pressure vessel lower Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Ames_Process_pressure_vessel_lower.jpg
+  - title: Process Church of the Final Judgment Historical Sanctuary & Iconography
+    imageUrl: /artifacts/process-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Process_Church_of_the_Final_Judgment'
     provenance: 'London, England, UK'
     period: c. 1960s CE
     description: >-
-      A pressure vessel being lowered into a furnace during the Manhattan
-      Project for reduction to uranium metal.  Uranium halide and sacrificial
-      metal are in the vessel.  This is part o...
-    imageUrl: /artifacts/process-church-1.jpg
-  - title: 3D print in process (9437659715) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:3D_print_in_process_(9437659715).jpg
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Process Church of the Final Judgment.
+  - title: The Process magazine & Sacred Relics
+    imageUrl: /artifacts/process-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Process_Church_of_the_Final_Judgment'
     provenance: 'London, England, UK'
     period: c. 1960s CE
-    description: 3D Printer Shootout Testing - Day 3...
-    imageUrl: /artifacts/process-church-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Process Church of the Final Judgment.
 ---
 
 # Process Church of the Final Judgment

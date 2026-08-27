@@ -54,22 +54,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Rim%C3%A9%20Movement'
 artifacts:
-  - title: Rime-letters Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Rime-letters.JPG'
-    provenance: 'Lhasa (Potala), U-Tsang, Tibet'
-    period: c. 19th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Rimé Movement.
+  - title: Rimé Movement Historical Sanctuary & Iconography
     imageUrl: /artifacts/rime-movement-1.jpg
-  - title: Rimé Movement Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Rime-letters.JPG'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Rim%C3%A9_Movement'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 19th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Rimé Movement.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Rimé Movement.
+  - title: Treasury of Precious Instructions & Sacred Relics
     imageUrl: /artifacts/rime-movement-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Rim%C3%A9_Movement'
+    provenance: 'Lhasa (Potala), U-Tsang, Tibet'
+    period: c. 19th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Rimé
+      Movement.
 ---
 
 # Rimé Movement

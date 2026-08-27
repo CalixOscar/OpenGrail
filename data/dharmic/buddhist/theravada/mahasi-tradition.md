@@ -48,20 +48,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81s%C4%AB%20Tradition'
 artifacts:
-  - title: 10.11648.j.ijalt.20160201.11 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:10.11648.j.ijalt.20160201.11.pdf'
+  - title: Mahāsī Tradition Historical Sanctuary & Iconography
+    imageUrl: /artifacts/mahasi-tradition-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%AB_Tradition'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 1930s CE
     description: >-
-      The Endangerment of the Nubiin Language: Sociolinguistics, Language Policy
-      and Literacy Perspectives...
-    imageUrl: /artifacts/mahasi-tradition-1.jpg
-  - title: Meopta MN 10 (5726) Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Meopta_MN_10_(5726).jpg'
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Mahāsī Tradition.
+  - title: Satipaṭṭhāna Sutta & Sacred Relics
+    imageUrl: /artifacts/mahasi-tradition-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%AB_Tradition'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 1930s CE
-    description: Meopta NK 10 small levelling instrument...
-    imageUrl: /artifacts/mahasi-tradition-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Mahāsī Tradition.
 ---
 
 # Mahāsī Tradition

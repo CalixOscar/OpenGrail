@@ -50,26 +50,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Pythagoreanism'
     url: 'https://brill.com/search?q=Pythagoreanism'
 artifacts:
-  - title: Pythagoreanism Historical Sanctuary & Records
+  - title: Pythagoreanism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/pythagoreanism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Pythagoreanism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 530 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Pythagoreanism.
-    imageUrl: /artifacts/pythagoreanism-1.jpg
-  - title: >-
-      Handbook of the history of philosophy; (IA handbookofhistor00sch) Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Handbook_of_the_history_of_philosophy;_(IA_handbookofhistor00sch).pdf
+  - title: Pythagorean acusmata & Sacred Relics
+    imageUrl: /artifacts/pythagoreanism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pythagoreanism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 530 BCE
-    description: |-
-      Half-title: Schwegler's history of philosophy
-
-      Subjects: Philosophy...
-    imageUrl: /artifacts/pythagoreanism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Pythagoreanism.
 ---
 
 # Pythagoreanism

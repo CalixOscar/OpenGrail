@@ -46,27 +46,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Shona%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      Address of the Honorable Abram P. Maury, on the life and character of Hugh
-      Lawson White (IA addressofhonorab00maur) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Address_of_the_Honorable_Abram_P._Maury,_on_the_life_and_character_of_Hugh_Lawson_White_(IA_addressofhonorab00maur).pdf
-    provenance: 'Great Zimbabwe / Harare, Zimbabwe'
-    period: c. precolonial
-    description: 'Subjects: White, Hugh Lawson, 1773-1840. [from old catalog]...'
+  - title: Shona Religious Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/shona-religion-1.jpg
-  - title: >-
-      The Journal v. 30, no. 18, June 14, 2018 (IA Journal180614) Sacred Relics
-      & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Journal_v._30,_no._18,_June_14,_2018_(IA_Journal180614).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shona_Religious_Traditions'
     provenance: 'Great Zimbabwe / Harare, Zimbabwe'
     period: c. precolonial
     description: >-
-      “America’s Medical School” Graduate Selected for NASA Spaceflight Mission;
-      Army Doctor, Astronaut Andrew Morgan heads to space in 2019Nursing Team
-      Leads Way to WRNMMC’s Pathway to...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Shona Religious Traditions.
+  - title: Shona oral traditions & Sacred Relics
     imageUrl: /artifacts/shona-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shona_Religious_Traditions'
+    provenance: 'Great Zimbabwe / Harare, Zimbabwe'
+    period: c. precolonial
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Shona
+      Religious Traditions.
 ---
 
 # Shona Religious Traditions

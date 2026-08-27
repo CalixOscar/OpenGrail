@@ -46,24 +46,24 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Indigenous%20American%20Religions'
 artifacts:
-  - title: Hunab Ku Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hunab_Ku.png'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. prehistoric and historically diverse
-    description: >-
-      The Hunab Ku, symbol of Mexicayotl and Toltecayotl, modern revivals of
-      ancient Mexican/Mesoamerican religions....
-    imageUrl: /artifacts/indigenous-american-religions-1.jpg
   - title: >-
-      Indigenous American Religions (Comparative) Canonical Scripture &
+      Indigenous American Religions (Comparative) Historical Sanctuary &
       Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hunab_Ku.png'
+    imageUrl: /artifacts/indigenous-american-religions-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Indigenous_American_Religions'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. prehistoric and historically diverse
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Indigenous American Religions (Comparative).
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Indigenous American Religions (Comparative).
+  - title: Nation- and community-specific oral traditions & Sacred Relics
     imageUrl: /artifacts/indigenous-american-religions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Indigenous_American_Religions'
+    provenance: 'Ile-Ife, Osun, Nigeria'
+    period: c. prehistoric and historically diverse
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Indigenous American Religions (Comparative).
 ---
 
 # Indigenous American Religions (Comparative)

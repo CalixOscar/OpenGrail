@@ -47,23 +47,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Armenian%20Catholic%20Church'
 artifacts:
-  - title: Armenian Catholic Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Catholic_Church'
+  - title: Holy SURP Hovhannes Church
+    imageUrl: /artifacts/armenian-catholic-church-1.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Holy_SURP_Hovhannes_Church.jpg'
     provenance: 'Rome, Latium, Italy'
     period: c. 1742 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Armenian Catholic Church.
-    imageUrl: /artifacts/armenian-catholic-church-1.jpg
-  - title: >-
-      Gutenberg Bible, New York Public Library, USA. Pic 01 Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg
+      Saint John Church of Sohrol is a 5th or 6th century Armenian Catholic
+      church in Sohrol, Shabestar, Iran....
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/armenian-catholic-church-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Holy_SURP_Hovhannes_Church.jpg'
     provenance: 'Rome, Latium, Italy'
     period: c. 1742 CE
-    description: Gutenberg Bible on display at the New York Public Library...
-    imageUrl: /artifacts/armenian-catholic-church-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Armenian Catholic Church.
 ---
 
 # Armenian Catholic Church

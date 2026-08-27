@@ -49,25 +49,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Vietnamese%20Folk%20Religion
 artifacts:
-  - title: >-
-      Shrine in Vietnamese Restaurant along the Kingsland Road, East London (01)
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Shrine_in_Vietnamese_Restaurant_along_the_Kingsland_Road,_East_London_(01).jpg
+  - title: Vietnamese Folk Religion Historical Sanctuary & Iconography
+    imageUrl: /artifacts/vietnamese-folk-religion-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vietnamese_Folk_Religion'
     provenance: 'Hanoi (Thang Long), Vietnam'
     period: c. ancient; continuously developing
     description: >-
-      Folk religious shrine in the window of a Vietnamese restaurant along the
-      Kingsland Road in East London, a street with many Vietnamese eateries
-      operating along it....
-    imageUrl: /artifacts/vietnamese-folk-religion-1.jpg
-  - title: Filming of the Yoruba oral traditions project 01 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project_01.jpg
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Vietnamese Folk Religion.
+  - title: Oral traditions & Sacred Relics
+    imageUrl: /artifacts/vietnamese-folk-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vietnamese_Folk_Religion'
     provenance: 'Hanoi (Thang Long), Vietnam'
     period: c. ancient; continuously developing
-    description: Filming of the Yoruba oral traditions projects....
-    imageUrl: /artifacts/vietnamese-folk-religion-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Vietnamese Folk Religion.
 ---
 
 # Vietnamese Folk Religion

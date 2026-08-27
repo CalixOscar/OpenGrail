@@ -50,30 +50,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%AB%20Vai%E1%B9%A3%E1%B9%87avism
 artifacts:
-  - title: Indische plastik (IA indischeplastik00cohn) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Indische_plastik_(IA_indischeplastik00cohn).pdf
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 10th century CE
-    description: |-
-      Most of the plates printed on both sides
-      "Literatur": p. 89-90
-      Subjects: Sculpture...
+  - title: Śrī Vaiṣṇavism Historical Sanctuary & Iconography
     imageUrl: /artifacts/sri-vaishnavism-1.jpg
-  - title: >-
-      Vaikuntha Perumal Temple, Kanchipuram, dedicated to Vishnu, Pallava
-      period, 8th century Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Vaikuntha_Perumal_Temple,_Kanchipuram,_dedicated_to_Vishnu,_Pallava_period,_8th_century.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Ar%C4%AB_Vai%E1%B9%A3%E1%B9%87avism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
-      Thiru Parameswara Vinnagaram or Vaikunta Perumal Temple is a temple
-      dedicated to the Hindu god Vishnu, located in Kanchipuram in the South
-      Indian state of Tamil Nadu. 
-
-      It is dated...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Śrī Vaiṣṇavism.
+  - title: Nālāyira Divya Prabandham & Sacred Relics
     imageUrl: /artifacts/sri-vaishnavism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Ar%C4%AB_Vai%E1%B9%A3%E1%B9%87avism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 10th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Śrī
+      Vaiṣṇavism.
 ---
 
 # Śrī Vaiṣṇavism

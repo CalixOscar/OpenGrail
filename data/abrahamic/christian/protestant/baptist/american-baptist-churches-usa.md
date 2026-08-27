@@ -49,21 +49,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=American%20Baptist%20Churches%20USA
 artifacts:
-  - title: American Baptist Churches USA Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/American_Baptist_Churches_USA'
-    provenance: 'London, England, UK'
-    period: c. 1907 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with American Baptist Churches USA.
+  - title: ABC USA colorized emblem
     imageUrl: /artifacts/american-baptist-churches-usa-1.jpg
-  - title: American Baptist Churches USA Canonical Scripture & Iconography
-    sourceUrl: 'https://en.wikipedia.org/wiki/American_Baptist_Churches_USA'
+    sourceUrl: 'https://en.wikipedia.org/wiki/File:ABC_USA_colorized_emblem.png'
     provenance: 'London, England, UK'
     period: c. 1907 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of American Baptist Churches USA.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with American Baptist Churches USA.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/american-baptist-churches-usa-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/File:ABC_USA_colorized_emblem.png'
+    provenance: 'London, England, UK'
+    period: c. 1907 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      American Baptist Churches USA.
 ---
 
 # American Baptist Churches USA

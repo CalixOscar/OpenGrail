@@ -49,22 +49,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Eritrean%20Orthodox%20Tewahedo%20Church
 artifacts:
-  - title: Eritrean Orthodox Tewahedo Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Eritrean_Orthodox_Tewahedo_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1993 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Eritrean Orthodox Tewahedo Church.
+  - title: Eritrean Orthodox Tewahedo Church Historical Sanctuary & Iconography
     imageUrl: /artifacts/eritrean-orthodox-tewahedo-church-1.jpg
-  - title: Eritrean Orthodox Tewahedo Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Eritrean_Orthodox_Tewahedo_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1993 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Eritrean Orthodox Tewahedo Church.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Eritrean Orthodox Tewahedo Church.
+  - title: Bible in the Ge'ez tradition & Sacred Relics
     imageUrl: /artifacts/eritrean-orthodox-tewahedo-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Eritrean_Orthodox_Tewahedo_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1993 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Eritrean Orthodox Tewahedo Church.
 ---
 
 # Eritrean Orthodox Tewahedo Church

@@ -45,24 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Shaykhism'
     url: 'https://www.cambridge.org/core/search?q=Shaykhism'
 artifacts:
-  - title: Sheikh-Lotf-Allah mosque wall and ceiling 2 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Sheikh-Lotf-Allah_mosque_wall_and_ceiling_2.jpg
+  - title: Shaykhism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/shaykhism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shaykhism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. early 19th century CE
     description: >-
-      Interior wall and ceiling of the Sheikh-Lotf-Allah mosque in Isfahan, Iran
-      (panorama)...
-    imageUrl: /artifacts/shaykhism-1.jpg
-  - title: >-
-      Aljamiado Quran RESC 25 Biblioteca Tomás Navarro Tomás Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Aljamiado_Quran_RESC_25_Biblioteca_Tom%C3%A1s_Navarro_Tom%C3%A1s.pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Shaykhism.
+  - title: Quran & Sacred Relics
+    imageUrl: /artifacts/shaykhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shaykhism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. early 19th century CE
-    description: Aljamiado Quran RESC 25 Biblioteca Tomás Navarro Tomás...
-    imageUrl: /artifacts/shaykhism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Shaykhism.
 ---
 
 # Shaykhism

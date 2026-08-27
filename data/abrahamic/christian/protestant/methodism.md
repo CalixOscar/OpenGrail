@@ -43,22 +43,24 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Methodism'
 artifacts:
   - title: >-
-      Manchester Cathedral, Chancel and Altar - geograph.org.uk - 5699119
-      Historical Sanctuary
+      Camp meeting of the Methodists in N. America J. Milbert del M. Dubourg
+      sculp (cropped)
+    imageUrl: /artifacts/methodism-1.jpg
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Manchester_Cathedral,_Chancel_and_Altar_-_geograph.org.uk_-_5699119.jpg
+      https://commons.wikimedia.org/wiki/File:Camp_meeting_of_the_Methodists_in_N._America_J._Milbert_del_M._Dubourg_sculp_(cropped).jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1730s CE
-    description: 'Manchester Cathedral, Chancel and Altar...'
-    imageUrl: /artifacts/methodism-1.jpg
-  - title: Methodism Canonical Scripture & Iconography
+    description: "Title: Camp meeting of the Methodists in N. America / J. Milbert del.\_; M. Dubourg sculp.\nCreator(s): Dubourg, M., engraver\nRelated Names:\n\n  Milbert, Jacques Gérard, 1766-1840 , a..."
+  - title: Chancel of White Memorial Wesleyan Methodist Church
+    imageUrl: /artifacts/methodism-2.jpg
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Manchester_Cathedral,_Chancel_and_Altar_-_geograph.org.uk_-_5699119.jpg
+      https://commons.wikimedia.org/wiki/File:Chancel_of_White_Memorial_Wesleyan_Methodist_Church.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1730s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Methodism.
+      The image depicts the chancel of White Memorial Wesleyan Methodist Church
+      (w:Struthers, Ohio, United States). This picture was clicked on June 26,
+      2019....
 ---
 
 # Methodism

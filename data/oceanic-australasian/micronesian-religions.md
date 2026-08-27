@@ -42,24 +42,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Micronesian%20Religions'
 artifacts:
-  - title: Religiones Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Religiones.pdf'
+  - title: Micronesian Religions Historical Sanctuary & Iconography
+    imageUrl: /artifacts/micronesian-religions-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Micronesian_Religions'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. ancestral era
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Micronesian Religions.
-    imageUrl: /artifacts/micronesian-religions-1.jpg
-  - title: >-
-      The World's fair; its meaning and scope; its old-world friends, their
-      countries, customs and religions; what they will exhibit (IA
-      worldsfairitsmea01cutl) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_World%27s_fair;_its_meaning_and_scope;_its_old-world_friends,_their_countries,_customs_and_religions;_what_they_will_exhibit_(IA_worldsfairitsmea01cutl).pdf
+  - title: Oral traditions (island-specific) & Sacred Relics
+    imageUrl: /artifacts/micronesian-religions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Micronesian_Religions'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. ancestral era
-    description: "Subjects: World's Columbian Exposition (1893\_: Chicago, Ill.)..."
-    imageUrl: /artifacts/micronesian-religions-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Micronesian Religions.
 ---
 
 # Micronesian Religions

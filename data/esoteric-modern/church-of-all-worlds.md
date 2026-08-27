@@ -47,25 +47,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Church of All Worlds'
     url: 'https://brill.com/search?q=Church%20of%20All%20Worlds'
 artifacts:
-  - title: >-
-      The church of All Saints - war memorial - geograph.org.uk - 1709365
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_church_of_All_Saints_-_war_memorial_-_geograph.org.uk_-_1709365.jpg
+  - title: Church of All Worlds Historical Sanctuary & Iconography
+    imageUrl: /artifacts/church-of-all-worlds-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_All_Worlds'
     provenance: 'London, England, UK'
     period: c. 1962 CE
     description: >-
-      The church of All Saints - war memorial. All Saints' church &gt; 1709325
-      was built during the 13th century with its tower added a century later.
-      The church was extensively restored...
-    imageUrl: /artifacts/church-of-all-worlds-1.jpg
-  - title: 'Teal, pink and green egg, april 2011 Sacred Relics & Scripture'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Teal,_pink_and_green_egg,_april_2011.jpg
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Church of All Worlds.
+  - title: Green Egg magazine & Sacred Relics
+    imageUrl: /artifacts/church-of-all-worlds-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_All_Worlds'
     provenance: 'London, England, UK'
     period: c. 1962 CE
-    description: 'Teal, pink and green egg....'
-    imageUrl: /artifacts/church-of-all-worlds-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Church of All Worlds.
 ---
 
 # Church of All Worlds

@@ -48,22 +48,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=%C5%8Cmoto'
 artifacts:
-  - title: Onisaburo Deguchi 2 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Onisaburo_Deguchi_2.jpg'
-    provenance: 'Cairo (Fustat), Egypt'
-    period: c. 1892 CE
-    description: Onisaburo Deguchi....
+  - title: Ōmoto Historical Sanctuary & Iconography
     imageUrl: /artifacts/omoto-1.jpg
-  - title: Onisaburo recites text of Reikai Monogatari Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Onisaburo_recites_text_of_Reikai_Monogatari.png
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%8Cmoto'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1892 CE
     description: >-
-      Onisaburo in a process of creating Reikai Monogatari. He used Chinkon
-      Kishin technique in order to create this text. As can be seen from this
-      picture, he did not write it down hims...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ōmoto.
+  - title: Ōmoto Shin'yū & Sacred Relics
     imageUrl: /artifacts/omoto-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%8Cmoto'
+    provenance: 'Cairo (Fustat), Egypt'
+    period: c. 1892 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ōmoto.
 ---
 
 # Ōmoto

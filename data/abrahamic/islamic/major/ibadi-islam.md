@@ -42,24 +42,21 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ibadi Islam'
     url: 'https://www.cambridge.org/core/search?q=Ibadi%20Islam'
 artifacts:
-  - title: Ghardaia Hochzeit Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ghardaia_Hochzeit.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 7th century CE
-    description: 'Presentation of the Berber Cavalry, wedding ceremony, Ghardaia, Algeria...'
+  - title: Branches of Ibadism (Islamic branch)
     imageUrl: /artifacts/ibadi-islam-1.jpg
-  - title: >-
-      Page from the Qur'an manuscript (TIEM 402, f. 1b) Sacred Relics &
-      Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Page_from_the_Qur%27an_manuscript_(TIEM_402,_f._1b).jpg
+      https://commons.wikimedia.org/wiki/File:Branches_of_Ibadism_(Islamic_branch).jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 7th century CE
     description: >-
-      Page from the Qur'an manuscript copied by Şeyh Hamdullah. Finished
-      (aharlı) paper, ink, watercolour, gilding. 33.5 x 23.5 cm. Naskh script.
-      Istanbul, April 1494. Turkish and Islami...
+      Branches of Ibadi Islam: Omani Ibadism (Eastern Ibadism) and Maghrebi
+      Ibadism (North African Ibadism)....
+  - title: Ghardaia01
     imageUrl: /artifacts/ibadi-islam-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ghardaia01.jpg'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 7th century CE
+    description: 'Ghardaia, Algeria self-made, October 1970...'
 ---
 
 # Ibadi Islam

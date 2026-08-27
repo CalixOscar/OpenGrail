@@ -45,23 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Dvaita%20Ved%C4%81nta'
 artifacts:
-  - title: Advaita Vedanta Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Advaita_Vedanta.pdf'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 13th century CE
-    description: >-
-      The article contains a description of the Concept of Jivanmukti,
-      liberation while still alive, as taught in traditional Advaita Vedanta.
-      Some other topics of interest to Advaitic s...
+  - title: Dvaita Vedānta Historical Sanctuary & Iconography
     imageUrl: /artifacts/dvaita-vedanta-1.jpg
-  - title: Dvaita Vedānta Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Advaita_Vedanta.pdf'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dvaita_Ved%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Dvaita Vedānta.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Dvaita Vedānta.
+  - title: Madhva's Brahma Sūtra Bhāṣya & Sacred Relics
     imageUrl: /artifacts/dvaita-vedanta-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dvaita_Ved%C4%81nta'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 13th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Dvaita Vedānta.
 ---
 
 # Dvaita Vedānta

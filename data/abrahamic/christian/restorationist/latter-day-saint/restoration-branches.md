@@ -45,22 +45,22 @@ sources:
       Branches
     url: 'https://www.cambridge.org/core/search?q=Restoration%20Branches'
 artifacts:
-  - title: Restoration Branches Historical Sanctuary & Records
+  - title: Restoration Branches Historical Sanctuary & Iconography
+    imageUrl: /artifacts/restoration-branches-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Branches'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1984 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Restoration Branches.
-    imageUrl: /artifacts/restoration-branches-1.jpg
-  - title: JosephSmithTranslating Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:JosephSmithTranslating.jpg'
+  - title: Inspired Version of the Bible & Sacred Relics
+    imageUrl: /artifacts/restoration-branches-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Branches'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1984 CE
     description: >-
-      21st century artistic interpretation of Joseph Smith translating the Book
-      of Mormon...
-    imageUrl: /artifacts/restoration-branches-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Restoration Branches.
 ---
 
 # Restoration Branches

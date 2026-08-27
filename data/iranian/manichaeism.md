@@ -56,23 +56,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Manichaeism'
     url: 'https://brill.com/search?q=Manichaeism'
 artifacts:
-  - title: Manichaeism Historical Sanctuary & Records
+  - title: Manichaeism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/manichaeism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Manichaeism'
     provenance: 'Isfahan, Iran'
     period: c. c. 240 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Manichaeism.
-    imageUrl: /artifacts/manichaeism-1.jpg
-  - title: M0497bplus recto - Copy Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:M0497bplus_recto_-_Copy.jpg'
+  - title: Šābuhragān & Sacred Relics
+    imageUrl: /artifacts/manichaeism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Manichaeism'
     provenance: 'Isfahan, Iran'
     period: c. c. 240 CE
     description: >-
-      شاپورگان مانی، به زبان فارسی میانه و به خط مانوی، نوشته شده در سال 240
-      میلادی، برگی از دستنویسی از حدود سده هشتم میلادی، کشف شده در تورفان چین و
-      محفوظ در موزه برلین (M0497)...
-    imageUrl: /artifacts/manichaeism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Manichaeism.
 ---
 
 # Manichaeism

@@ -46,25 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Dhammayut%20Nik%C4%81ya'
 artifacts:
-  - title: Mongkut in the Sangha Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mongkut_in_the_Sangha.jpeg'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. 1833 CE
-    description: >-
-      Photograph of King Mongkut in the white robes of a lay renunciant,
-      observing the precepts....
+  - title: Dhammayut Nikāya Historical Sanctuary & Iconography
     imageUrl: /artifacts/dhammayut-nikaya-1.jpg
-  - title: >-
-      The Pali literature of Burma (IA paliliteratureof00bodeiala) Sacred Relics
-      & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Pali_literature_of_Burma_(IA_paliliteratureof00bodeiala).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dhammayut_Nik%C4%81ya'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1833 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Dhammayut Nikāya.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Dhammayut Nikāya.
+  - title: Pāli Vinaya Piṭaka & Sacred Relics
     imageUrl: /artifacts/dhammayut-nikaya-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dhammayut_Nik%C4%81ya'
+    provenance: 'Anuradhapura, North Central, Sri Lanka'
+    period: c. 1833 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Dhammayut Nikāya.
 ---
 
 # Dhammayut Nikāya
