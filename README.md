@@ -27,7 +27,16 @@ The included atlas contains 536 traditions, denominations, schools, historical r
 
 Node size is a presentation aid, not an estimate of adherent population. Every node grows modestly with its number of graph connections, while the optional `display_weight` frontmatter field (validated from `0.75` to `3`) keeps major umbrella traditions legible at overview zoom. Records without that field default to `1`. Optional `aliases` improve discovery across self-designations, common historical names, transliterations, and languages; search also tolerates small spelling mistakes.
 
-The application, authored atlas data, and documentation are released under the [MIT License](LICENSE).
+## Licensing
+
+New application code is dual-licensed: you may use it under the [GNU AGPL v3-or-later](LICENSE)
+or obtain a separate [OpenGrail Commercial License](LICENSE-COMMERCIAL.md) for proprietary
+modifications and deployments. See [LICENSING.md](LICENSING.md) for the exact scope and the
+transition from the initial MIT release.
+
+Authored atlas data, generated graph content, and documentation remain under the
+[MIT content license](LICENSE-CONTENT-MIT.md). Third-party dependencies and the retained
+`TheoGraph.png` reference image have separate rights and provenance.
 
 ## Interface
 

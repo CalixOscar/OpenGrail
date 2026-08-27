@@ -22,11 +22,11 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** None — clean state. Migration, build, commit, and GitHub publication completed.
-**Task:**
-**Files touched:** All project files are under `/Users/calmdownoscar/Documents/Projects/OpenGrail`; `TheoGraph.png` was preserved; `public/graph.json` was regenerated from the Markdown source.
-**Next step:** Continue feature work from the `main` branch, keeping `data/**/*.md` as the source of truth.
-**Gotchas:** `public/graph.json` is generated but intentionally tracked; `node_modules/` and `dist/` are ignored. Do not overwrite the existing mockup image.
+**Status:** In progress — dual-license policy applied; verification and publication remain.
+**Task:** Verify the AGPL/commercial licensing transition and publish the updated `main` branch.
+**Files touched:** `LICENSE`, `LICENSE-COMMERCIAL.md`, `LICENSE-CONTENT-MIT.md`, `LICENSING.md`, `README.md`, `package.json`, and this note.
+**Next step:** Run `npm run build`, commit the licensing transition, and push `main`.
+**Gotchas:** The published history through commit `007686a` remains MIT and cannot be relicensed retroactively. `public/graph.json` is generated but intentionally tracked; `node_modules/` and `dist/` are ignored. Do not overwrite the existing mockup image.
 **Left by:** Codex (2026-08-27)
 
 ## Decisions Log
@@ -51,6 +51,13 @@ releases if the founder wants separate code/data terms.
 The app remains a local/static web experience with no custom backend, trackers, analytics,
 remote font dependency, or account system. This keeps the atlas portable and limits data
 collection by design.
+
+### 2026-08-27 — AGPL plus commercial application licensing
+New authored application code is dual-licensed under AGPL-3.0-or-later or a separate
+OpenGrail Commercial License. The existing MIT release remains valid for historical
+commits, while authored atlas data and documentation continue under a separate MIT
+content license. This preserves open-source access while creating a path for proprietary
+commercial deployments to obtain a direct license.
 
 ## Session Log
 <!-- Append a dated summary at the end of each significant session. -->

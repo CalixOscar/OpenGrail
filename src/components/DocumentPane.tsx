@@ -1,3 +1,6 @@
+/* SPDX-License-Identifier: AGPL-3.0-or-later OR LicenseRef-OpenGrail-Commercial */
+/* See LICENSE and LICENSE-COMMERCIAL.md for the applicable terms. */
+
 import { useEffect, useMemo, type CSSProperties, type SVGProps } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
