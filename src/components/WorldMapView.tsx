@@ -99,7 +99,8 @@ export function WorldMapView({ graphData, className = '' }: WorldMapViewProps) {
   // Load local bundled map asset
   useEffect(() => {
     const controller = new AbortController();
-    fetch('/world-110m.json', { signal: controller.signal })
+    const mapUrl = `${import.meta.env.BASE_URL}world-110m.json`;
+    fetch(mapUrl, { signal: controller.signal })
       .then((res) => res.json())
       .then((topo: Topology) => {
         if (topo && topo.objects && (topo.objects.land || topo.objects.countries)) {
