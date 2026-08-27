@@ -45,22 +45,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Greece'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Greece'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Church of Greece Historical Sanctuary & Records
+    imageUrl: /artifacts/church-of-greece-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Greece'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1833 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      The Church of Greece (Greek: Ἐκκλησία τῆς Ἑλλάδος, romanized: Ekklēsía
+      tē̂s Helládos, Greek pronunciation: [ekliˈsi.a tis eˈlaðos]), is an
+      autocephalous Greek Orthodox church and o...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/church-of-greece-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1833 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Church of Greece

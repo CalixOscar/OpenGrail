@@ -60,22 +60,26 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=The%20Church%20of%20Jesus%20Christ%20of%20Latter-day%20Saints
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
+  - title: The Church of Jesus Christ of Latter-day Saints Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: >-
+      https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints
+    provenance: 'Salt Lake City (Temple Square), Utah, USA'
+    period: c. 1844 CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with The Church of Jesus Christ of Latter-day Saints.
+  - title: >-
+      The Church of Jesus Christ of Latter-day Saints Sacred Texts & Material
+      Culture
     imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+    sourceUrl: >-
+      https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints
+    provenance: 'Salt Lake City (Temple Square), Utah, USA'
+    period: c. 1844 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
-    description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of The Church of Jesus Christ of Latter-day Saints.
 ---
 
 # The Church of Jesus Christ of Latter-day Saints

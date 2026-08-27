@@ -44,22 +44,22 @@ sources:
       Christianity
     url: 'https://www.cambridge.org/core/search?q=Reformed%20Christianity'
 artifacts:
-  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
-    imageUrl: /artifacts/protestantism-wittenberg.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
-    provenance: 'Wittenberg, Germany'
-    period: 1517 CE
+  - title: Reformed Christianity Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Reformed_Christianity'
+    provenance: 'Geneva, Switzerland'
+    period: c. 1520s CE
     description: >-
-      Historic church where Martin Luther posted his Ninety-five Theses,
-      initiating the Protestant Reformation.
-  - title: Luther 1534 German Bible Title Woodcut
-    imageUrl: /artifacts/protestantism-luther-bible.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Luther_Bible'
-    provenance: Wittenberg
-    period: 1534 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Reformed Christianity.
+  - title: Reformed Christianity Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Reformed_Christianity'
+    provenance: 'Geneva, Switzerland'
+    period: c. 1520s CE
     description: >-
-      Historic printed vernacular German translation democratizing direct
-      scriptural access for all believers.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Reformed Christianity.
 ---
 
 # Reformed Christianity

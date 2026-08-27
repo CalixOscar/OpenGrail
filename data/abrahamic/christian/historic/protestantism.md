@@ -44,22 +44,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Protestantism'
     url: 'https://www.cambridge.org/core/search?q=Protestantism'
 artifacts:
-  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
-    imageUrl: /artifacts/protestantism-wittenberg.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
-    provenance: 'Wittenberg, Germany'
-    period: 1517 CE
+  - title: Timeline of Jerusalem Historical Sanctuary & Records
+    imageUrl: /artifacts/protestantism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Timeline_of_Jerusalem'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1517 CE
     description: >-
-      Historic church where Martin Luther posted his Ninety-five Theses,
-      initiating the Protestant Reformation.
-  - title: Luther 1534 German Bible Title Woodcut
-    imageUrl: /artifacts/protestantism-luther-bible.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Luther_Bible'
-    provenance: Wittenberg
-    period: 1534 CE
+      This is a timeline of major events in the history of Jerusalem; a city
+      that has been fought over sixteen times over millennia. During its
+      history, Jerusalem has been destroyed twic...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/protestantism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1517 CE
     description: >-
-      Historic printed vernacular German translation democratizing direct
-      scriptural access for all believers.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Protestantism

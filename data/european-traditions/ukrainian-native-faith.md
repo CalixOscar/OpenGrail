@@ -49,22 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ukrainian Native Faith'
     url: 'https://brill.com/search?q=Ukrainian%20Native%20Faith'
 artifacts:
-  - title: The Parthenon Classical Sanctuary of Athena
+  - title: Ukrainian Native Faith Historical Records
     imageUrl: /artifacts/ancient-parthenon.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
-    provenance: 'Acropolis of Athens, Greece'
-    period: 447–432 BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ukrainian_Native_Faith'
+    provenance: 'Kyiv, Dnipro Region, Ukraine'
+    period: c. 1930s CE
     description: >-
-      Pinnacle of Classical Greek sacred temple architecture honoring the civic
-      and divine order.
-  - title: Persepolis Monumental Faravahar Stone Relief
-    imageUrl: /artifacts/zoroastrian-faravahar.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
-    provenance: 'Persepolis, Ancient Persia'
-    period: c. 515 BCE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Ukrainian Native Faith.
+  - title: Ukrainian Native Faith Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ukrainian_Native_Faith'
+    provenance: 'Kyiv, Dnipro Region, Ukraine'
+    period: c. 1930s CE
     description: >-
-      Achaemenid royal carving representing divine grace (Khvarenah) and moral
-      responsibility in Zoroastrianism.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Ukrainian Native Faith.
 ---
 
 # Ukrainian Native Faith

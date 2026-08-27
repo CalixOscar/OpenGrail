@@ -47,22 +47,24 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Armenian%20Catholic%20Church'
 artifacts:
-  - title: Saint Peter's Papal Basilica & Piazza
-    imageUrl: /artifacts/christianity-basilica.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
-    provenance: 'Vatican City, Rome'
-    period: 1506–1626 CE
+  - title: Armenian Catholic Church Historical Sanctuary & Records
+    imageUrl: /artifacts/armenian-catholic-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Catholic_Church'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1742 CE
     description: >-
-      The Renaissance and Baroque episcopal center of the Roman Catholic Church,
-      designed by Michelangelo and Bernini.
-  - title: Codex Vaticanus Greek Bible Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Vatican Library Collection
-    period: c. 4th century CE
+      The Armenian Catholic Church is an Eastern Catholic particular church sui
+      iuris of the Catholic Church. It accepts the leadership of the bishop of
+      Rome, and is therefore in full co...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/armenian-catholic-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1742 CE
     description: >-
-      One of the earliest extant uncial manuscripts of the Greek Old and New
-      Testaments.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Armenian Catholic Church

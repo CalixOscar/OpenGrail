@@ -44,22 +44,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81s%C4%81%E1%B9%83ghika'
 artifacts:
-  - title: Mahabodhi Temple Enlightenment Sanctuary
-    imageUrl: /artifacts/buddhism-mahabodhi.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
-    provenance: 'Bodh Gaya, Bihar, India'
-    period: c. 250 BCE - 5th century CE
+  - title: Mahāsāṃghika Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%81%E1%B9%83ghika'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 4th century BCE
     description: >-
-      UNESCO World Heritage monumental stone temple marking the spot of
-      Siddhartha Gautama's enlightenment.
-  - title: Brihadisvara Monumental Dravidian Temple Gopuram
-    imageUrl: /artifacts/hinduism-brihadisvara.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
-    provenance: 'Thanjavur, Tamil Nadu'
-    period: 1010 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Mahāsāṃghika.
+  - title: Mahāsāṃghika Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%81%E1%B9%83ghika'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 4th century BCE
     description: >-
-      Grand granite rock-cut temple dedicated to cosmic balance and sacred
-      ritual architecture.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Mahāsāṃghika.
 ---
 
 # Mahāsāṃghika

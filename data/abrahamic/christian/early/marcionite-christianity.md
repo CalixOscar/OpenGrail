@@ -48,22 +48,24 @@ sources:
       Christianity
     url: 'https://www.cambridge.org/core/search?q=Marcionite%20Christianity'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Christianity Historical Sanctuary & Records
+    imageUrl: /artifacts/marcionite-christianity-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Christianity'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 140 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      Christianity is an Abrahamic monotheistic religion based on the Bible and
+      the teachings of Jesus. The Gospels state that Jesus is the Son of God and
+      rose from the dead after his cr...
+  - title: Neon Genesis Evangelion Canonical Scripture & Iconography
+    imageUrl: /artifacts/marcionite-christianity-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 140 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Neon Genesis Evangelion (Japanese: 新世紀エヴァンゲリオン, Hepburn: Shin Seiki
+      Evangerion; lit. 'New Century Evangelion' in Japanese and lit. 'New
+      Beginning Gospel' in Greek), also known as s...
 ---
 
 # Marcionite Christianity

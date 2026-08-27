@@ -46,22 +46,23 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Ecumenical%20Patriarchate%20of%20Constantinople
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Ecumenical Patriarchate of Constantinople Historical Sanctuary & Records
+    imageUrl: /artifacts/ecumenical-patriarchate-constantinople-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ecumenical_Patriarchate_of_Constantinople'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 330 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      The Ecumenical Patriarchate of Constantinople (Greek: Οἰκουμενικὸν
+      Πατριαρχεῖον Κωνσταντινουπόλεως, romanized: Oikoumenikón Patriarkhíon
+      Konstantinoupóleos) is one of the autocepha...
+  - title: Ecumenical Patriarchate of Constantinople Sacred Texts & Material Culture
+    imageUrl: /artifacts/ecumenical-patriarchate-constantinople-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ecumenical_Patriarchate_of_Constantinople'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 330 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Ecumenical Patriarchate of Constantinople.
 ---
 
 # Ecumenical Patriarchate of Constantinople

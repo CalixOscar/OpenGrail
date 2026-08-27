@@ -46,22 +46,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Christian Church'
     url: 'https://www.cambridge.org/core/search?q=Christian%20Church'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
+  - title: Christian Church (Disciples of Christ) Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Christian_Church_(Disciples_of_Christ)'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1968 CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Christian Church (Disciples of Christ).
+  - title: Christian Church (Disciples of Christ) Sacred Texts & Material Culture
     imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+    sourceUrl: 'https://en.wikipedia.org/wiki/Christian_Church_(Disciples_of_Christ)'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1968 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
-    description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Christian Church (Disciples of Christ).
 ---
 
 # Christian Church (Disciples of Christ)

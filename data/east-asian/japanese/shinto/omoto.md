@@ -48,22 +48,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=%C5%8Cmoto'
 artifacts:
-  - title: Itsukushima Floating Torii Gate Shrine
-    imageUrl: /artifacts/shinto-torii-gate.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
-    provenance: 'Miyajima, Hiroshima, Japan'
-    period: 1168 CE
+  - title: Ōmoto Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%8Cmoto'
+    provenance: 'Cairo (Fustat), Egypt'
+    period: c. 1892 CE
     description: >-
-      Iconic sacred Shinto gate standing in the tidal sea, demarcating the
-      boundary of the sacred realm.
-  - title: Wudang Mountain Sacred Golden Hall Complex
-    imageUrl: /artifacts/daoism-wudang-hall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
-    provenance: 'Hubei, China'
-    period: 1416 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Ōmoto.
+  - title: Ōmoto Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%8Cmoto'
+    provenance: 'Cairo (Fustat), Egypt'
+    period: c. 1892 CE
     description: >-
-      Imperial architectural shrine of Daoist alchemy and philosophical
-      meditation.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Ōmoto.
 ---
 
 # Ōmoto

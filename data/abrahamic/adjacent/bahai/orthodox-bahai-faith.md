@@ -47,22 +47,24 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Orthodox%20Bah%C3%A1'%C3%AD%20Faith
 artifacts:
-  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
-    imageUrl: /artifacts/orthodoxy-hagia-sophia.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
-    provenance: Constantinople (Istanbul)
-    period: 537 CE
+  - title: Religion in Israel Historical Sanctuary & Records
+    imageUrl: /artifacts/orthodox-bahai-faith-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Religion_in_Israel'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1960 CE
     description: >-
-      Monumental domed cathedral of the Byzantine Empire and historical mother
-      church of Eastern Orthodoxy.
-  - title: Sinai Christ Pantocrator Encaustic Icon
-    imageUrl: /artifacts/orthodoxy-icon-pantocrator.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
-    provenance: 'Saint Catherine''s Monastery, Sinai'
-    period: c. 6th century CE
+      Religion in Israel is manifested primarily in Judaism, the ethnic religion
+      of the Jewish people. The State of Israel declares itself as a "Jewish and
+      democratic state" and is the o...
+  - title: Kitáb-i-Aqdas Canonical Scripture & Iconography
+    imageUrl: /artifacts/orthodox-bahai-faith-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Kit%C3%A1b-i-Aqdas'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1960 CE
     description: >-
-      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
-      embodying dual divine and human natures.
+      The Kitáb-i-Aqdas (Persian: [keˈtɒːb e æɢdæs], lit. 'The Most Holy Book')
+      is the central religious text of the Baháʼí Faith, written by Baháʼu'lláh,
+      the founder of the religion, in...
 ---
 
 # Orthodox Bahá'í Faith

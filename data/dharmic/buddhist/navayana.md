@@ -45,22 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Navay%C4%81na%20Buddhism'
 artifacts:
-  - title: Mahabodhi Temple Enlightenment Complex
-    imageUrl: /artifacts/buddhism-mahabodhi.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
-    provenance: 'Bodh Gaya, Bihar, India'
-    period: c. 250 BCE - 5th century CE
+  - title: Navayāna Buddhism Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Navay%C4%81na_Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 1956 CE
     description: >-
-      UNESCO World Heritage stone temple constructed around the sacred Bodhi
-      Tree where the Buddha awakened.
-  - title: Brihadisvara Sacred Monumental Sanctuary
-    imageUrl: /artifacts/hinduism-brihadisvara.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
-    provenance: Ancient India
-    period: Classical Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Navayāna Buddhism.
+  - title: Navayāna Buddhism Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Navay%C4%81na_Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 1956 CE
     description: >-
-      Monumental sacred architecture preserving early Indian stone masonry and
-      meditation sanctuaries.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Navayāna Buddhism.
 ---
 
 # Navayāna Buddhism

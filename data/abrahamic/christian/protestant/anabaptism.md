@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Anabaptism'
     url: 'https://www.cambridge.org/core/search?q=Anabaptism'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Anabaptism Historical Records
+    imageUrl: /artifacts/anabaptism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Anabaptism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1525 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Anabaptism.
+  - title: Anabaptism Sacred Texts & Material Culture
+    imageUrl: /artifacts/anabaptism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Anabaptism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1525 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Anabaptism.
 ---
 
 # Anabaptism

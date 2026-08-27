@@ -47,20 +47,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Roman Mithraism'
     url: 'https://brill.com/search?q=Roman%20Mithraism'
 artifacts:
-  - title: Persepolis Faravahar Bas-Relief
-    imageUrl: /artifacts/zoroastrian-faravahar.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
-    provenance: 'Persepolis, Ancient Persia'
-    period: c. 515 BCE
-    description: >-
-      Carved winged symbol of Good Thoughts, Good Words, and Good Deeds (Humata,
-      Hukhta, Hvarshta).
-  - title: The Parthenon Classical Sanctuary of Athena
+  - title: Roman Mithraism Historical Records
     imageUrl: /artifacts/ancient-parthenon.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
-    provenance: Ancient Near East / Mediterranean
-    period: Classical Antiquity
-    description: Monumental sacred architecture honoring the civic and cosmological order.
+    sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Mithraism'
+    provenance: 'Athens, Attica, Greece'
+    period: c. late 1st century CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Roman Mithraism.
+  - title: Roman Mithraism Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Mithraism'
+    provenance: 'Athens, Attica, Greece'
+    period: c. late 1st century CE
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Roman Mithraism.
 ---
 
 # Roman Mithraism

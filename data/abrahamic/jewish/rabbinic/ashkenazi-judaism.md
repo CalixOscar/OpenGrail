@@ -44,22 +44,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ashkenazi Judaism'
     url: 'https://www.cambridge.org/core/search?q=Ashkenazi%20Judaism'
 artifacts:
-  - title: Western Wall & Second Temple Foundation
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: 'Old City, Jerusalem'
-    period: c. 19 BCE (Herodian Era)
+  - title: Ashkenazi Judaism Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ashkenazi_Judaism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 10th century CE
     description: >-
-      The holiest prayer site of Jewish tradition, surviving western retaining
-      wall of the Second Temple complex.
-  - title: Aleppo Codex Masoretic Hebrew Bible Manuscript
-    imageUrl: /artifacts/judaism-torah-scroll.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Aleppo_Codex'
-    provenance: Tiberias & Jerusalem
-    period: c. 920 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Ashkenazi Judaism.
+  - title: Ashkenazi Judaism Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ashkenazi_Judaism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 10th century CE
     description: >-
-      Authoritative parchment manuscript of the Hebrew Bible with Masoretic
-      vocalization and cantillation marks.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Ashkenazi Judaism.
 ---
 
 # Ashkenazi Judaism

@@ -42,22 +42,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Coptic Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Coptic%20Orthodoxy'
 artifacts:
-  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
-    imageUrl: /artifacts/orthodoxy-hagia-sophia.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
-    provenance: Constantinople (Istanbul)
-    period: 537 CE
+  - title: Coptic Orthodox Church Historical Sanctuary & Records
+    imageUrl: /artifacts/coptic-orthodoxy-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Orthodox_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1st century CE
     description: >-
-      Monumental domed cathedral of the Byzantine Empire and historical mother
-      church of Eastern Orthodoxy.
-  - title: Sinai Christ Pantocrator Encaustic Icon
-    imageUrl: /artifacts/orthodoxy-icon-pantocrator.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
-    provenance: 'Saint Catherine''s Monastery, Sinai'
-    period: c. 6th century CE
+      The Coptic Orthodox Church, also known as the Coptic Orthodox Patriarchate
+      of Alexandria, is an Oriental Orthodox Christian church based in Egypt.
+      The head of the Coptic Orthodox C...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/coptic-orthodoxy-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1st century CE
     description: >-
-      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
-      embodying dual divine and human natures.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Coptic Orthodoxy

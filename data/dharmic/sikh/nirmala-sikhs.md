@@ -45,22 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nirmal%C4%81%20Sikhs'
 artifacts:
-  - title: Harmandir Sahib (The Golden Temple)
-    imageUrl: /artifacts/sikhism-golden-temple.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Golden_Temple'
-    provenance: 'Amritsar, Punjab'
-    period: 1604 CE
+  - title: Nirmalā Sikhs Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Nirmal%C4%81_Sikhs'
+    provenance: 'Amritsar, Punjab, India'
+    period: c. c. 18th century CE
     description: >-
-      The spiritual and cultural center of Sikhism, designed with entrances on
-      four sides welcoming all humanity.
-  - title: Guru Granth Sahib Sacred Illumination
-    imageUrl: /artifacts/sikhism-guru-granth.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Guru_Granth_Sahib'
-    provenance: Punjab
-    period: 17th century CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Nirmalā Sikhs.
+  - title: Nirmalā Sikhs Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Nirmal%C4%81_Sikhs'
+    provenance: 'Amritsar, Punjab, India'
+    period: c. c. 18th century CE
     description: >-
-      Illuminated sacred scripture and eternal living Guru containing hymns of
-      the Sikh Gurus and Bhagats.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Nirmalā Sikhs.
 ---
 
 # Nirmalā Sikhs

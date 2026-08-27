@@ -45,22 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ved%C4%81nta'
 artifacts:
-  - title: Brihadisvara Temple (Peruvudaiyar Kovil)
-    imageUrl: /artifacts/hinduism-brihadisvara.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
-    provenance: 'Thanjavur, Tamil Nadu'
-    period: 1010 CE (Chola Dynasty)
+  - title: Vedānta Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ved%C4%81nta'
+    provenance: 'Kanchipuram, Tamil Nadu, India'
+    period: c. c. 2nd century BCE
     description: >-
-      Towering granite rock architecture exemplifying Tamil Dravidian temple
-      design and Shaivite sacred geometry.
-  - title: Chola Nataraja (Cosmic Dance of Shiva) Bronze
-    imageUrl: /artifacts/hinduism-nataraja.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nataraja'
-    provenance: Southern India
-    period: c. 10th-11th century CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Vedānta.
+  - title: Vedānta Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ved%C4%81nta'
+    provenance: 'Kanchipuram, Tamil Nadu, India'
+    period: c. c. 2nd century BCE
     description: >-
-      Iconic lost-wax bronze sculpture representing the continuous cycle of
-      cosmic creation and preservation.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Vedānta.
 ---
 
 # Vedānta

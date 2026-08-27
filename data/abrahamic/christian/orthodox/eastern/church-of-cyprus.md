@@ -42,22 +42,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Cyprus'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Cyprus'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Church of Cyprus Historical Sanctuary & Records
+    imageUrl: /artifacts/church-of-cyprus-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Cyprus'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 431 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      The Church of Cyprus (Greek: Ἐκκλησία τῆς Κύπρου, romanized: Ekklisia tis
+      Kyprou), is an autocephalous Greek Orthodox church and one of the churches
+      within the communion of the Eas...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/church-of-cyprus-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 431 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Church of Cyprus

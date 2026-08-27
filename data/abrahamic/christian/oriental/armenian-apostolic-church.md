@@ -44,22 +44,25 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Armenian%20Apostolic%20Church'
 artifacts:
-  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
-    imageUrl: /artifacts/orthodoxy-hagia-sophia.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
-    provenance: Constantinople (Istanbul)
-    period: 537 CE
+  - title: Armenian Apostolic Church Historical Sanctuary & Records
+    imageUrl: /artifacts/armenian-apostolic-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Apostolic_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 4th century CE
     description: >-
-      Monumental domed cathedral of the Byzantine Empire and historical mother
-      church of Eastern Orthodoxy.
-  - title: Sinai Christ Pantocrator Encaustic Icon
-    imageUrl: /artifacts/orthodoxy-icon-pantocrator.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
-    provenance: 'Saint Catherine''s Monastery, Sinai'
-    period: c. 6th century CE
+      The Armenian Apostolic Church (Armenian: Հայ Առաքելական Եկեղեցի,
+      romanized: Hay Aṙaqelakan Ékełetsi) is the autocephalous national church
+      of Armenia. Part of Oriental Orthodoxy, it...
+  - title: Bible translations into Armenian Canonical Scripture & Iconography
+    imageUrl: /artifacts/armenian-apostolic-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible_translations_into_Armenian'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 4th century CE
     description: >-
-      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
-      embodying dual divine and human natures.
+      The Bible (Armenian: Աստուածաշունչ, 'Breath of God') has been translated
+      to Armenian since the beginning of the fifth century.
+
+      The invention of the Armenian alphabet by Mesrop Mash...
 ---
 
 # Armenian Apostolic Church

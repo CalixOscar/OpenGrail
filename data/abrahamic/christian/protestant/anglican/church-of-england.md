@@ -46,22 +46,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of England'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20England'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Church of England Historical Records
+    imageUrl: /artifacts/church-of-england-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_England'
+    provenance: 'Canterbury, Kent, England, UK'
+    period: c. 1534 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Church of England.
+  - title: Church of England Sacred Texts & Material Culture
+    imageUrl: /artifacts/church-of-england-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_England'
+    provenance: 'Canterbury, Kent, England, UK'
+    period: c. 1534 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Church of England.
 ---
 
 # Church of England

@@ -52,22 +52,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hermetic Order of the Golden Dawn'
     url: 'https://brill.com/search?q=Hermetic%20Order%20of%20the%20Golden%20Dawn'
 artifacts:
-  - title: The Parthenon Classical Sanctuary of Athena
+  - title: Hermetic Order of the Golden Dawn Historical Records
     imageUrl: /artifacts/ancient-parthenon.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
-    provenance: 'Acropolis of Athens, Greece'
-    period: 447–432 BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn'
+    provenance: 'London, England, UK'
+    period: c. 1888 CE
     description: >-
-      Pinnacle of Classical Greek sacred temple architecture honoring the civic
-      and divine order.
-  - title: Persepolis Monumental Faravahar Stone Relief
-    imageUrl: /artifacts/zoroastrian-faravahar.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
-    provenance: 'Persepolis, Ancient Persia'
-    period: c. 515 BCE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Hermetic Order of the Golden Dawn.
+  - title: Hermetic Order of the Golden Dawn Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn'
+    provenance: 'London, England, UK'
+    period: c. 1888 CE
     description: >-
-      Achaemenid royal carving representing divine grace (Khvarenah) and moral
-      responsibility in Zoroastrianism.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Hermetic Order of the Golden Dawn.
 ---
 
 # Hermetic Order of the Golden Dawn

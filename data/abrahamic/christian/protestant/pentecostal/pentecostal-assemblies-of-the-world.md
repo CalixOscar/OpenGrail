@@ -47,22 +47,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Pentecostal%20Assemblies%20of%20the%20World
 artifacts:
-  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
-    imageUrl: /artifacts/protestantism-wittenberg.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
-    provenance: 'Wittenberg, Germany'
-    period: 1517 CE
+  - title: Pentecostal Assemblies of the World Historical Records
+    imageUrl: /artifacts/pentecostal-assemblies-of-the-world-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pentecostal_Assemblies_of_the_World'
+    provenance: 'Azusa Street / Los Angeles, California, USA'
+    period: c. 1906 CE
     description: >-
-      Historic church where Martin Luther posted his Ninety-five Theses,
-      initiating the Protestant Reformation.
-  - title: Luther 1534 German Bible Title Woodcut
-    imageUrl: /artifacts/protestantism-luther-bible.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Luther_Bible'
-    provenance: Wittenberg
-    period: 1534 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Pentecostal Assemblies of the World.
+  - title: Pentecostal Assemblies of the World Sacred Texts & Material Culture
+    imageUrl: /artifacts/pentecostal-assemblies-of-the-world-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pentecostal_Assemblies_of_the_World'
+    provenance: 'Azusa Street / Los Angeles, California, USA'
+    period: c. 1906 CE
     description: >-
-      Historic printed vernacular German translation democratizing direct
-      scriptural access for all believers.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Pentecostal Assemblies of the World.
 ---
 
 # Pentecostal Assemblies of the World

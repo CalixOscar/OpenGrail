@@ -45,22 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Jainism'
 artifacts:
-  - title: Gommateshwara Bahubali Monolithic Statue
-    imageUrl: /artifacts/jainism-gommateshwara.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gommateshwara_statue'
-    provenance: 'Shravanabelagola, Karnataka'
-    period: 981 CE
+  - title: Jainism Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Jainism'
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. c. 6th century BCE
     description: >-
-      A 57-foot monolithic granite statue commemorating the supreme detachment
-      and ahimsa of Lord Bahubali.
-  - title: Dilwara Marble Temple Carvings
-    imageUrl: /artifacts/jainism-dilwara-temple.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dilwara_Temples'
-    provenance: 'Mount Abu, Rajasthan'
-    period: 11th-13th century CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Jainism.
+  - title: Jainism Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Jainism'
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. c. 6th century BCE
     description: >-
-      Intricately carved white marble ceilings depicting the spiritual
-      liberation of the Tirthankaras.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Jainism.
 ---
 
 # Jainism

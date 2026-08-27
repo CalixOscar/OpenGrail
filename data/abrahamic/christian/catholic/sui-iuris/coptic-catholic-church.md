@@ -47,22 +47,24 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Coptic%20Catholic%20Church'
 artifacts:
-  - title: Saint Peter's Papal Basilica & Piazza
-    imageUrl: /artifacts/christianity-basilica.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
-    provenance: 'Vatican City, Rome'
-    period: 1506–1626 CE
+  - title: Coptic Catholic Church Historical Sanctuary & Records
+    imageUrl: /artifacts/coptic-catholic-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Catholic_Church'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1741 CE
     description: >-
-      The Renaissance and Baroque episcopal center of the Roman Catholic Church,
-      designed by Michelangelo and Bernini.
-  - title: Codex Vaticanus Greek Bible Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Vatican Library Collection
-    period: c. 4th century CE
+      The Coptic Catholic Church, also known as the Coptic Catholic Church of
+      Alexandria, is an Eastern Catholic particular church in full communion
+      with the Catholic Church. Along with...
+  - title: Bible Canonical Scripture & Iconography
+    imageUrl: /artifacts/coptic-catholic-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1741 CE
     description: >-
-      One of the earliest extant uncial manuscripts of the Greek Old and New
-      Testaments.
+      The Bible is an anthology of religious texts that are central to
+      Christianity and Judaism, and important in other Abrahamic religions such
+      as Islam. The texts include instructions,...
 ---
 
 # Coptic Catholic Church

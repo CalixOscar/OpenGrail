@@ -47,22 +47,23 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Bulgarian%20Orthodox%20Church'
 artifacts:
-  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
-    imageUrl: /artifacts/orthodoxy-hagia-sophia.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
-    provenance: Constantinople (Istanbul)
-    period: 537 CE
+  - title: Bulgarian Orthodox Church Historical Sanctuary & Records
+    imageUrl: /artifacts/bulgarian-orthodox-church-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bulgarian_Orthodox_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 870 CE
     description: >-
-      Monumental domed cathedral of the Byzantine Empire and historical mother
-      church of Eastern Orthodoxy.
-  - title: Sinai Christ Pantocrator Encaustic Icon
-    imageUrl: /artifacts/orthodoxy-icon-pantocrator.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
-    provenance: 'Saint Catherine''s Monastery, Sinai'
-    period: c. 6th century CE
+      The Bulgarian Orthodox Church (Bulgarian: Българска православна църква,
+      romanized: Bûlgarska pravoslavna cûrkva), legally the Patriarchate of
+      Bulgaria (Bulgarian: Българска патриар...
+  - title: Bulgarian Orthodox Church Sacred Texts & Material Culture
+    imageUrl: /artifacts/bulgarian-orthodox-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bulgarian_Orthodox_Church'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 870 CE
     description: >-
-      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
-      embodying dual divine and human natures.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Bulgarian Orthodox Church.
 ---
 
 # Bulgarian Orthodox Church

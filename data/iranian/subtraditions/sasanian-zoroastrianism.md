@@ -49,20 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Sasanian Zoroastrianism'
     url: 'https://brill.com/search?q=Sasanian%20Zoroastrianism'
 artifacts:
-  - title: Persepolis Faravahar Bas-Relief
-    imageUrl: /artifacts/zoroastrian-faravahar.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
-    provenance: 'Persepolis, Ancient Persia'
-    period: c. 515 BCE
-    description: >-
-      Carved winged symbol of Good Thoughts, Good Words, and Good Deeds (Humata,
-      Hukhta, Hvarshta).
-  - title: The Parthenon Classical Sanctuary of Athena
+  - title: Sasanian Zoroastrianism Historical Records
     imageUrl: /artifacts/ancient-parthenon.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
-    provenance: Ancient Near East / Mediterranean
-    period: Classical Antiquity
-    description: Monumental sacred architecture honoring the civic and cosmological order.
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sasanian_Zoroastrianism'
+    provenance: 'Isfahan, Iran'
+    period: c. 224 CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Sasanian Zoroastrianism.
+  - title: Sasanian Zoroastrianism Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sasanian_Zoroastrianism'
+    provenance: 'Isfahan, Iran'
+    period: c. 224 CE
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Sasanian Zoroastrianism.
 ---
 
 # Sasanian Zoroastrianism

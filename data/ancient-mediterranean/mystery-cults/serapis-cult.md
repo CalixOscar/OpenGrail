@@ -51,22 +51,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Serapis'
     url: 'https://brill.com/search?q=Cult%20of%20Serapis'
 artifacts:
-  - title: The Parthenon Classical Sanctuary of Athena
+  - title: Cult of Serapis Historical Records
     imageUrl: /artifacts/ancient-parthenon.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
-    provenance: 'Acropolis of Athens, Greece'
-    period: 447–432 BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Serapis'
+    provenance: 'Eleusis, Attica, Greece'
+    period: c. c. 3rd century BCE
     description: >-
-      Pinnacle of Classical Greek sacred temple architecture honoring the civic
-      and divine order.
-  - title: Persepolis Monumental Faravahar Stone Relief
-    imageUrl: /artifacts/zoroastrian-faravahar.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
-    provenance: 'Persepolis, Ancient Persia'
-    period: c. 515 BCE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Cult of Serapis.
+  - title: Cult of Serapis Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Serapis'
+    provenance: 'Eleusis, Attica, Greece'
+    period: c. c. 3rd century BCE
     description: >-
-      Achaemenid royal carving representing divine grace (Khvarenah) and moral
-      responsibility in Zoroastrianism.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Cult of Serapis.
 ---
 
 # Cult of Serapis

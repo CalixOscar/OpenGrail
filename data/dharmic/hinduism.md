@@ -52,22 +52,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Hindu%20Traditions'
 artifacts:
-  - title: Brihadisvara Temple (Peruvudaiyar Kovil)
-    imageUrl: /artifacts/hinduism-brihadisvara.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
-    provenance: 'Thanjavur, Tamil Nadu'
-    period: 1010 CE (Chola Dynasty)
+  - title: Hindu Traditions Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hindu_Traditions'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 500 BCE
     description: >-
-      Towering granite rock architecture exemplifying Tamil Dravidian temple
-      design and Shaivite sacred geometry.
-  - title: Chola Nataraja (Cosmic Dance of Shiva) Bronze
-    imageUrl: /artifacts/hinduism-nataraja.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nataraja'
-    provenance: Southern India
-    period: c. 10th-11th century CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Hindu Traditions.
+  - title: Hindu Traditions Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hindu_Traditions'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 500 BCE
     description: >-
-      Iconic lost-wax bronze sculpture representing the continuous cycle of
-      cosmic creation and preservation.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Hindu Traditions.
 ---
 
 # Hindu Traditions

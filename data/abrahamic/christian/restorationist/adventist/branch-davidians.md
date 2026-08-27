@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Branch Davidians'
     url: 'https://www.cambridge.org/core/search?q=Branch%20Davidians'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Branch Davidians Historical Records
+    imageUrl: /artifacts/branch-davidians-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Branch_Davidians'
+    provenance: 'Mount Carmel (Waco), Texas, USA'
+    period: c. 1955 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Branch Davidians.
+  - title: Branch Davidians Sacred Texts & Material Culture
+    imageUrl: /artifacts/branch-davidians-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Branch_Davidians'
+    provenance: 'Mount Carmel (Waco), Texas, USA'
+    period: c. 1955 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Branch Davidians.
 ---
 
 # Branch Davidians

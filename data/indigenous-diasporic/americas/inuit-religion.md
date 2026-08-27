@@ -42,22 +42,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Inuit%20Religions'
 artifacts:
-  - title: Chichen Itza Pyramid of Kukulcan (El Castillo)
-    imageUrl: /artifacts/mesoamerican-pyramid.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/El_Castillo,_Chichen_Itza'
-    provenance: 'Yucatán, Mexico'
-    period: c. 900 CE
+  - title: Inuit Religions Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Inuit_Religions'
+    provenance: 'Arctic Circle (Nuuk / Thule), Greenland'
+    period: c. ancestral era
     description: >-
-      Monumental step-pyramid temple aligned with celestial equinox solar
-      serpent alignments.
-  - title: Ife Kingdom Bronze Royal Ancestor Sculpture
-    imageUrl: /artifacts/african-ife-bronze.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bronze_Head_from_Ife'
-    provenance: 'Ife Kingdom, West Africa'
-    period: c. 12th-14th century CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Inuit Religions.
+  - title: Inuit Religions Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Inuit_Religions'
+    provenance: 'Arctic Circle (Nuuk / Thule), Greenland'
+    period: c. ancestral era
     description: >-
-      Masterwork lost-wax bronze portrait embodying divine kingship and sacred
-      ancestral connection.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Inuit Religions.
 ---
 
 # Inuit Religions

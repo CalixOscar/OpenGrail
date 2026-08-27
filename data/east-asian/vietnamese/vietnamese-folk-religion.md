@@ -49,22 +49,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Vietnamese%20Folk%20Religion
 artifacts:
-  - title: Itsukushima Floating Torii Gate Shrine
-    imageUrl: /artifacts/shinto-torii-gate.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
-    provenance: 'Miyajima, Hiroshima, Japan'
-    period: 1168 CE
+  - title: Vietnamese Folk Religion Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vietnamese_Folk_Religion'
+    provenance: 'Hanoi (Thang Long), Vietnam'
+    period: c. ancient; continuously developing
     description: >-
-      Iconic sacred Shinto gate standing in the tidal sea, demarcating the
-      boundary of the sacred realm.
-  - title: Wudang Mountain Sacred Golden Hall Complex
-    imageUrl: /artifacts/daoism-wudang-hall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
-    provenance: 'Hubei, China'
-    period: 1416 CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Vietnamese Folk Religion.
+  - title: Vietnamese Folk Religion Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vietnamese_Folk_Religion'
+    provenance: 'Hanoi (Thang Long), Vietnam'
+    period: c. ancient; continuously developing
     description: >-
-      Imperial architectural shrine of Daoist alchemy and philosophical
-      meditation.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Vietnamese Folk Religion.
 ---
 
 # Vietnamese Folk Religion

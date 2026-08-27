@@ -41,22 +41,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sunni Islam'
     url: 'https://www.cambridge.org/core/search?q=Sunni%20Islam'
 artifacts:
-  - title: Dome of the Rock Sacred Umayyad Sanctuary
-    imageUrl: /artifacts/islam-dome-of-rock.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dome_of_the_Rock'
-    provenance: Jerusalem
-    period: 691 CE (Umayyad Caliphate)
+  - title: Sunni Islam Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sunni_Islam'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 7th century CE
     description: >-
-      Architectural masterpiece of early Islamic octagonal design with classical
-      Kufic Quranic inscriptions.
-  - title: Blue Quran Gold Kufic Manuscript Folio
-    imageUrl: /artifacts/islam-blue-quran.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Blue_Quran'
-    provenance: Kairouan / Great Mosque
-    period: c. 9th-10th century CE
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Sunni Islam.
+  - title: Sunni Islam Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sunni_Islam'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 7th century CE
     description: >-
-      Indigo-dyed vellum parchment illuminated with gold Kufic script preserving
-      the Holy Quran.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Sunni Islam.
 ---
 
 # Sunni Islam

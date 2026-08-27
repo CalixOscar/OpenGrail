@@ -48,22 +48,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=%C4%90%E1%BA%A1o%20M%E1%BA%ABu
 artifacts:
-  - title: Wudang Mountain Sacred Golden Hall Complex
-    imageUrl: /artifacts/daoism-wudang-hall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
-    provenance: 'Hubei, China'
-    period: 1416 CE
+  - title: Đạo Mẫu Historical Records
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu'
+    provenance: 'Hanoi (Thang Long), Vietnam'
+    period: c. early modern roots
     description: >-
-      Imperial architectural shrine of Daoist alchemy and philosophical
-      meditation.
-  - title: Itsukushima Floating Torii Gate Shrine
-    imageUrl: /artifacts/shinto-torii-gate.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
-    provenance: Sacred Sanctuaries
-    period: Medieval Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Đạo Mẫu.
+  - title: Đạo Mẫu Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu'
+    provenance: 'Hanoi (Thang Long), Vietnam'
+    period: c. early modern roots
     description: >-
-      Sacred gateway demarcating the transition from mundane space to sacred
-      realm.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Đạo Mẫu.
 ---
 
 # Đạo Mẫu

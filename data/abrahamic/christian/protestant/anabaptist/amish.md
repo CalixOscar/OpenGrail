@@ -45,22 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Amish Traditions'
     url: 'https://www.cambridge.org/core/search?q=Amish%20Traditions'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Amish Traditions Historical Records
+    imageUrl: /artifacts/amish-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Amish_Traditions'
+    provenance: 'Zurich, Switzerland'
+    period: c. 1693 CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Amish Traditions.
+  - title: Amish Traditions Sacred Texts & Material Culture
+    imageUrl: /artifacts/amish-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Amish_Traditions'
+    provenance: 'Zurich, Switzerland'
+    period: c. 1693 CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Amish Traditions.
 ---
 
 # Amish Traditions

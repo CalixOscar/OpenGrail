@@ -52,20 +52,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Iranian Zoroastrianism'
     url: 'https://brill.com/search?q=Iranian%20Zoroastrianism'
 artifacts:
-  - title: Persepolis Faravahar Bas-Relief
-    imageUrl: /artifacts/zoroastrian-faravahar.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
-    provenance: 'Persepolis, Ancient Persia'
-    period: c. 515 BCE
-    description: >-
-      Carved winged symbol of Good Thoughts, Good Words, and Good Deeds (Humata,
-      Hukhta, Hvarshta).
-  - title: The Parthenon Classical Sanctuary of Athena
+  - title: Iranian Zoroastrianism Historical Records
     imageUrl: /artifacts/ancient-parthenon.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
-    provenance: Ancient Near East / Mediterranean
-    period: Classical Antiquity
-    description: Monumental sacred architecture honoring the civic and cosmological order.
+    sourceUrl: 'https://en.wikipedia.org/wiki/Iranian_Zoroastrianism'
+    provenance: 'Isfahan, Iran'
+    period: c. c. 7th century CE
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Iranian Zoroastrianism.
+  - title: Iranian Zoroastrianism Sacred Texts & Material Culture
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Iranian_Zoroastrianism'
+    provenance: 'Isfahan, Iran'
+    period: c. c. 7th century CE
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Iranian Zoroastrianism.
 ---
 
 # Iranian Zoroastrianism

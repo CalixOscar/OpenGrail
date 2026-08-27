@@ -42,22 +42,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of the East'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20the%20East'
 artifacts:
-  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
-    imageUrl: /artifacts/christianity-codex.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
-    provenance: Near East / Mediterranean
-    period: Classical to Medieval Era
+  - title: Church of the East Historical Sanctuary & Records
+    imageUrl: /artifacts/church-of-the-east-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_the_East'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 2nd century CE
     description: >-
-      Parchment uncial manuscript preserving ancient canonical scripture and
-      liturgical traditions.
-  - title: Historical Sanctuary Architecture & Sacred Epigraphy
-    imageUrl: /artifacts/judaism-western-wall.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
-    provenance: Jerusalem & Levant
-    period: Ancient to Medieval Era
+      The Church of the East (Classical Syriac: ܥܕܬܐ ܕܡܕܢܚܐ ʿĒḏtā d-Maḏenḥā) or
+      the East Syriac Church, (also called the Church of Seleucia-Ctesiphon, the
+      Persian Church, the Assyrian Ch...
+  - title: Peshitta Canonical Scripture & Iconography
+    imageUrl: /artifacts/church-of-the-east-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Peshitta'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 2nd century CE
     description: >-
-      Monumental stone masonry and sacred sanctuary foundations central to
-      Abrahamic pilgrimage.
+      The Peshitta (Classical Syriac: ܦܫܺܝܛܬܳܐ or ܦܫܝܼܛܬܵܐ pšīṭta) is the
+      standard Syriac edition of the Bible for the Syriac churches and
+      traditions that follow the liturgy of the Syria...
 ---
 
 # Church of the East
