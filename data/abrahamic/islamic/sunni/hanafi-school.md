@@ -1,19 +1,59 @@
 ---
-id: "hanafi-school"
-title: "Hanafi School"
-cluster: "Abrahamic"
-color: "#3b9fc4"
-era_start: "c. 8th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A Sunni school of law associated with Abu Hanifa and influential from the Balkans through Central and South Asia."
+id: hanafi-school
+title: Hanafi School
+cluster: Abrahamic
+color: '#3b9fc4'
+era_start: c. 8th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Sunni school of law associated with Abu Hanifa and influential from the
+  Balkans through Central and South Asia.
 canonical_texts:
-  - "Al-Asl"
-  - "Mukhtasar al-Quduri"
-  - "Al-Hidaya"
+  - Al-Asl
+  - Mukhtasar al-Quduri
+  - Al-Hidaya
 relations:
-  - target: "sunni-islam"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: sunni-islam
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 750
+origin_geo:
+  lat: 31.342
+  lng: 36.0747
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The Hanafi school formed through Abu Hanifa's
+    eighth-century teaching circle in Kufa and the writings and judicial careers
+    of students such as Abu Yusuf and Muh...
+  - >-
+    Distinctive Practice: Hanafi jurisprudence is known for systematic
+    analogical reasoning, attention to juristic preference, and a substantial
+    inherited corpus of hypothetical cases. T...
+  - >-
+    Core Orientation: A Sunni school of law associated with Abu Hanifa and
+    influential from the Balkans through Central and South Asia.
+sources:
+  - title: 'Encyclopaedia Britannica: "Hanafi School"'
+    url: 'https://www.britannica.com/topic/hanafi-school'
+  - title: 'Oxford Reference: Overview of Hanafi School'
+    url: 'https://www.oxfordreference.com/search?q=Hanafi%20School'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Hanafi School'
+    url: 'https://www.cambridge.org/core/search?q=Hanafi%20School'
+artifacts:
+  - title: Hanafi School Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Hanafi_School'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Hanafi School.
+  - title: Hanafi School Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Al-Asl'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Hanafi School

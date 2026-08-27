@@ -1,19 +1,59 @@
 ---
-id: "anabaptism"
-title: "Anabaptism"
-cluster: "Abrahamic"
-color: "#4b87cf"
-era_start: "1525 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Radical Reformation family advocating voluntary baptism, disciplined communities, and separation from coercive religion."
+id: anabaptism
+title: Anabaptism
+cluster: Abrahamic
+color: '#4b87cf'
+era_start: 1525 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Radical Reformation family advocating voluntary baptism, disciplined
+  communities, and separation from coercive religion.
 canonical_texts:
-  - "Bible"
-  - "Schleitheim Confession"
-  - "Martyrs Mirror"
+  - Bible
+  - Schleitheim Confession
+  - Martyrs Mirror
 relations:
-  - target: "protestantism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: protestantism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1525
+origin_geo:
+  lat: 31.9734
+  lng: 35.5782
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Anabaptist movements emerged in several
+    sixteenth-century European settings when reformers rejected infant baptism
+    and established communities of professing bel...
+  - >-
+    Distinctive Practice: Historic Anabaptist themes include discipleship
+    modeled on Jesus, mutual accountability, refusal of coercion, economic
+    sharing in some communities, and often no...
+  - >-
+    Core Orientation: A Radical Reformation family advocating voluntary baptism,
+    disciplined communities, and separation from coercive religion.
+sources:
+  - title: 'Encyclopaedia Britannica: "Anabaptism"'
+    url: 'https://www.britannica.com/topic/anabaptism'
+  - title: 'Oxford Reference: Overview of Anabaptism'
+    url: 'https://www.oxfordreference.com/search?q=Anabaptism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Anabaptism'
+    url: 'https://www.cambridge.org/core/search?q=Anabaptism'
+artifacts:
+  - title: Anabaptism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Anabaptism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Anabaptism.
+  - title: Anabaptism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Anabaptism

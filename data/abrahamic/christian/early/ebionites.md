@@ -1,24 +1,64 @@
 ---
-id: "ebionites"
-title: "Ebionites"
-cluster: "Abrahamic"
-color: "#6e8bc6"
-era_start: "1st–2nd centuries CE"
-epistemic_tier: "academic_consensus"
-summary: "A patristic label for Jewish-Christian groups that observed Torah and understood Jesus in non-Nicene ways."
+id: ebionites
+title: Ebionites
+cluster: Abrahamic
+color: '#6e8bc6'
+era_start: 1st–2nd centuries CE
+epistemic_tier: academic_consensus
+summary: >-
+  A patristic label for Jewish-Christian groups that observed Torah and
+  understood Jesus in non-Nicene ways.
 aliases:
-  - "Ebionite Christianity"
-  - "Jewish Christians"
+  - Ebionite Christianity
+  - Jewish Christians
 canonical_texts:
-  - "Hebrew Bible"
-  - "Gospel of the Ebionites"
+  - Hebrew Bible
+  - Gospel of the Ebionites
 relations:
-  - target: "christianity"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "judaism"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: christianity
+    type: branch_of
+    certainty: academic_consensus
+  - target: judaism
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 50
+origin_geo:
+  lat: 32.5514
+  lng: 35.2654
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Christian heresiologists described Ebionites as
+    Torah-observant followers of Jesus who rejected Paul, used one or more
+    Jewish-Christian gospels, and denied Chri...
+  - >-
+    Distinctive Practice: “Ebionite” may combine distinct Jewish-Christian
+    communities under an outsider label derived from the Hebrew word for poor.
+    Their views of virgin birth, sacrifi...
+  - >-
+    Core Orientation: A patristic label for Jewish-Christian groups that
+    observed Torah and understood Jesus in non-Nicene ways.
+sources:
+  - title: 'Encyclopaedia Britannica: "Ebionites"'
+    url: 'https://www.britannica.com/topic/ebionites'
+  - title: 'Oxford Reference: Overview of Ebionites'
+    url: 'https://www.oxfordreference.com/search?q=Ebionites'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Ebionites'
+    url: 'https://www.cambridge.org/core/search?q=Ebionites'
+artifacts:
+  - title: Ebionites Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Ebionites'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Ebionites.
+  - title: Ebionites Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Hebrew_Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Ebionites

@@ -1,18 +1,61 @@
 ---
-id: "church-of-jesus-christ-bickertonite"
-title: "The Church of Jesus Christ (Bickertonite)"
-cluster: "Abrahamic"
-color: "#7898d4"
-era_start: "1862 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Latter Day Saint church descending from Sidney Rigdon and William Bickerton, with headquarters in Pennsylvania."
+id: church-of-jesus-christ-bickertonite
+title: The Church of Jesus Christ (Bickertonite)
+cluster: Abrahamic
+color: '#7898d4'
+era_start: 1862 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Latter Day Saint church descending from Sidney Rigdon and William Bickerton,
+  with headquarters in Pennsylvania.
 canonical_texts:
-  - "Bible"
-  - "Book of Mormon"
+  - Bible
+  - Book of Mormon
 relations:
-  - target: "latter-day-saint-movement"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: latter-day-saint-movement
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1862
+origin_geo:
+  lat: 41.6267
+  lng: -81.3639
+  place_name: 'Kirtland, Lake County, Ohio, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: This church traces its succession through Sidney
+    Rigdon's post-1844 claim and the ministry of William Bickerton in western
+    Pennsylvania. Bickerton organized the...
+  - >-
+    Distinctive Practice: The church accepts the Bible and Book of Mormon while
+    rejecting the Doctrine and Covenants and Pearl of Great Price as standards
+    of scripture. It practices bapt...
+  - >-
+    Core Orientation: A Latter Day Saint church descending from Sidney Rigdon
+    and William Bickerton, with headquarters in Pennsylvania.
+sources:
+  - title: 'Encyclopaedia Britannica: "The Church of Jesus Christ"'
+    url: 'https://www.britannica.com/topic/the-church-of-jesus-christ'
+  - title: 'Oxford Reference: Overview of The Church of Jesus Christ'
+    url: >-
+      https://www.oxfordreference.com/search?q=The%20Church%20of%20Jesus%20Christ
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & The Church of Jesus
+      Christ
+    url: 'https://www.cambridge.org/core/search?q=The%20Church%20of%20Jesus%20Christ'
+artifacts:
+  - title: The Church of Jesus Christ Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with The Church of Jesus Christ.
+  - title: The Church of Jesus Christ Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # The Church of Jesus Christ (Bickertonite)

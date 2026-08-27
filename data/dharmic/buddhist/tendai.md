@@ -1,22 +1,65 @@
 ---
-id: "tendai"
-title: "Tendai Buddhism"
-cluster: "Dharmic"
-color: "#f8963d"
-era_start: "9th century CE"
-epistemic_tier: "academic_consensus"
-summary: "The Japanese transmission of Tiantai centered at Mount Hiei, historically integrating Lotus, meditation, esoteric, and devotional practices."
+id: tendai
+title: Tendai Buddhism
+cluster: Dharmic
+color: '#f8963d'
+era_start: 9th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  The Japanese transmission of Tiantai centered at Mount Hiei, historically
+  integrating Lotus, meditation, esoteric, and devotional practices.
 canonical_texts:
-  - "Lotus Sūtra"
-  - "Sange Gakushō Shiki"
-  - "Mohe Zhiguan"
+  - Lotus Sūtra
+  - Sange Gakushō Shiki
+  - Mohe Zhiguan
 relations:
-  - target: "tiantai"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "shingon"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: tiantai
+    type: branch_of
+    certainty: academic_consensus
+  - target: shingon
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 850
+origin_geo:
+  lat: 26.1636
+  lng: 82.8824
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Saichō established Japanese Tendai at Mount Hiei
+    after studying Tiantai materials in China in the early ninth century. The
+    institution developed its own ordinat...
+  - >-
+    Distinctive Practice: Tendai affirms the potential for awakening in all
+    beings and reads diverse practices through the unifying horizon of the
+    *Lotus Sūtra*. Its doctrine of original...
+  - >-
+    Core Orientation: The Japanese transmission of Tiantai centered at Mount
+    Hiei, historically integrating Lotus, meditation, esoteric, and devotional
+    practices.
+sources:
+  - title: 'Encyclopaedia Britannica: "Tendai Buddhism"'
+    url: 'https://www.britannica.com/topic/tendai-buddhism'
+  - title: 'Oxford Reference: Overview of Tendai Buddhism'
+    url: 'https://www.oxfordreference.com/search?q=Tendai%20Buddhism'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Tendai%20Buddhism'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Tendai Buddhism

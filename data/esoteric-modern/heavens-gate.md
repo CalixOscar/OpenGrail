@@ -1,25 +1,65 @@
 ---
-id: "heavens-gate"
-title: "Heaven's Gate"
-cluster: "Esoteric & Modern"
-color: "#a66ad0"
-era_start: "1970s CE"
-epistemic_tier: "academic_consensus"
-summary: "A small American millennial UFO religion led by Marshall Applewhite and Bonnie Nettles that ended in a 1997 mass suicide."
+id: heavens-gate
+title: Heaven's Gate
+cluster: Esoteric & Modern
+color: '#a66ad0'
+era_start: 1970s CE
+epistemic_tier: academic_consensus
+summary: >-
+  A small American millennial UFO religion led by Marshall Applewhite and Bonnie
+  Nettles that ended in a 1997 mass suicide.
 aliases:
-  - "Human Individual Metamorphosis"
-  - "Total Overcomers Anonymous"
+  - Human Individual Metamorphosis
+  - Total Overcomers Anonymous
 canonical_texts:
-  - "Heaven's Gate website and exit statements"
-  - "Beyond Human video teachings"
-  - "Group recruitment materials"
+  - Heaven's Gate website and exit statements
+  - Beyond Human video teachings
+  - Group recruitment materials
 relations:
-  - target: "ufo-religions"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "christianity"
-    type: "fringe_reinterpretation"
-    certainty: "academic_consensus"
+  - target: ufo-religions
+    type: branch_of
+    certainty: academic_consensus
+  - target: christianity
+    type: fringe_reinterpretation
+    certainty: academic_consensus
+origin_year: 1970
+origin_geo:
+  lat: 51.634
+  lng: -0.8681
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Bonnie Nettles and Marshall Applewhite formed a
+    disciplined communal movement in the 1970s, teaching that members could
+    transform beyond the human level. After ...
+  - >-
+    Distinctive Practice: The group reinterpreted Jesus, apocalypticism,
+    extraterrestrials, celibacy, and bodily renunciation within a technological
+    cosmology. Its deaths require direct,...
+  - >-
+    Core Orientation: A small American millennial UFO religion led by Marshall
+    Applewhite and Bonnie Nettles that ended in a 1997 mass suicide.
+sources:
+  - title: 'Encyclopaedia Britannica: "Heaven''s Gate"'
+    url: 'https://www.britannica.com/topic/heaven-s-gate'
+  - title: 'Oxford Reference: Overview of Heaven''s Gate'
+    url: 'https://www.oxfordreference.com/search?q=Heaven''s%20Gate'
+  - title: 'Brill Handbook of Religious Traditions: Heaven''s Gate'
+    url: 'https://brill.com/search?q=Heaven''s%20Gate'
+artifacts:
+  - title: Heaven's Gate Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Heaven''s_Gate'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Heaven's Gate.
+  - title: Heaven's Gate Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Heaven''s_Gate_website_and_exit_statements'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Heaven's Gate

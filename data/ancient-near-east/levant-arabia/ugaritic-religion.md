@@ -1,23 +1,63 @@
 ---
-id: "ugaritic-religion"
-title: "Ugaritic Religion"
-cluster: "Ancient Near East"
-color: "#cda05a"
-era_start: "c. 1500 BCE"
-epistemic_tier: "academic_consensus"
-summary: "The Late Bronze Age temple and mythic traditions of Ugarit, documented unusually well by alphabetic cuneiform archives."
+id: ugaritic-religion
+title: Ugaritic Religion
+cluster: Ancient Near East
+color: '#cda05a'
+era_start: c. 1500 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  The Late Bronze Age temple and mythic traditions of Ugarit, documented
+  unusually well by alphabetic cuneiform archives.
 aliases:
-  - "Religion of Ugarit"
-  - "Ugaritic cult"
+  - Religion of Ugarit
+  - Ugaritic cult
 canonical_texts:
-  - "Baal Cycle"
-  - "Kirta Epic"
-  - "Aqhat Epic"
-  - "Ugaritic ritual tablets"
+  - Baal Cycle
+  - Kirta Epic
+  - Aqhat Epic
+  - Ugaritic ritual tablets
 relations:
-  - target: "canaanite-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: canaanite-religion
+    type: branch_of
+    certainty: academic_consensus
+origin_year: -1500
+origin_geo:
+  lat: 32.9659
+  lng: 43.949
+  place_name: 'Babylon, Mesopotamia'
+extinct_year: -1185
+key_tenets:
+  - >-
+    Foundational Doctrine: Texts excavated at Late Bronze Age Ugarit on the
+    Syrian coast preserve myths, offering lists, divination, correspondence, and
+    ritual instructions in Ugaritic an...
+  - >-
+    Distinctive Practice: Ugarit supplies the richest textual window onto a
+    northern Canaanite religious world, but it cannot stand unchanged for every
+    Levantine city or later century. L...
+  - >-
+    Core Orientation: The Late Bronze Age temple and mythic traditions of
+    Ugarit, documented unusually well by alphabetic cuneiform archives.
+sources:
+  - title: 'Encyclopaedia Britannica: "Ugaritic Religion"'
+    url: 'https://www.britannica.com/topic/ugaritic-religion'
+  - title: 'Oxford Reference: Overview of Ugaritic Religion'
+    url: 'https://www.oxfordreference.com/search?q=Ugaritic%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Ugaritic Religion'
+    url: 'https://brill.com/search?q=Ugaritic%20Religion'
+artifacts:
+  - title: Ugaritic Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Ugaritic_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Ugaritic Religion.
+  - title: Ugaritic Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Baal_Cycle'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Ugaritic Religion

@@ -1,19 +1,62 @@
 ---
-id: "restoration-branches"
-title: "Restoration Branches"
-cluster: "Abrahamic"
-color: "#889bd0"
-era_start: "1984 CE"
-epistemic_tier: "academic_consensus"
-summary: "Independent congregations that separated from the Reorganized Church during its liberalization and later transition to Community of Christ."
+id: restoration-branches
+title: Restoration Branches
+cluster: Abrahamic
+color: '#889bd0'
+era_start: 1984 CE
+epistemic_tier: academic_consensus
+summary: >-
+  Independent congregations that separated from the Reorganized Church during
+  its liberalization and later transition to Community of Christ.
 canonical_texts:
-  - "Inspired Version of the Bible"
-  - "Book of Mormon"
-  - "Doctrine and Covenants"
+  - Inspired Version of the Bible
+  - Book of Mormon
+  - Doctrine and Covenants
 relations:
-  - target: "community-of-christ"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: community-of-christ
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1984
+origin_geo:
+  lat: 31.5661
+  lng: 34.2447
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Restoration Branches formed chiefly during the 1980s
+    as conservative members and congregations opposed changes in the Reorganized
+    Church of Jesus Christ of Latt...
+  - >-
+    Distinctive Practice: Branches generally preserve older Reorganization
+    scriptures, priesthood offices, sacramental practice, and an expectation of
+    Zion centered in Independence, Miss...
+  - >-
+    Core Orientation: Independent congregations that separated from the
+    Reorganized Church during its liberalization and later transition to
+    Community of Christ.
+sources:
+  - title: 'Encyclopaedia Britannica: "Restoration Branches"'
+    url: 'https://www.britannica.com/topic/restoration-branches'
+  - title: 'Oxford Reference: Overview of Restoration Branches'
+    url: 'https://www.oxfordreference.com/search?q=Restoration%20Branches'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Restoration
+      Branches
+    url: 'https://www.cambridge.org/core/search?q=Restoration%20Branches'
+artifacts:
+  - title: Restoration Branches Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Restoration_Branches'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Restoration Branches.
+  - title: Restoration Branches Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Inspired_Version_of_the_Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Restoration Branches

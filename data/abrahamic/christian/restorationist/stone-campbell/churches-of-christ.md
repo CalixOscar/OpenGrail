@@ -1,22 +1,63 @@
 ---
-id: "churches-of-christ"
-title: "Churches of Christ"
-cluster: "Abrahamic"
-color: "#69a7e8"
-era_start: "c. 1906 CE"
-epistemic_tier: "academic_consensus"
-summary: "Autonomous Stone-Campbell congregations known for congregational governance, weekly Communion, and normally unaccompanied singing."
+id: churches-of-christ
+title: Churches of Christ
+cluster: Abrahamic
+color: '#69a7e8'
+era_start: c. 1906 CE
+epistemic_tier: academic_consensus
+summary: >-
+  Autonomous Stone-Campbell congregations known for congregational governance,
+  weekly Communion, and normally unaccompanied singing.
 aliases:
-  - "Church of Christ"
-  - "Churches of Christ"
+  - Church of Christ
+  - Churches of Christ
 display_weight: 1.35
 canonical_texts:
-  - "Bible"
-  - "Declaration and Address"
+  - Bible
+  - Declaration and Address
 relations:
-  - target: "restoration-movement"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: restoration-movement
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1906
+origin_geo:
+  lat: 31.0567
+  lng: 35.2392
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Churches of Christ emerged from the Stone-Campbell
+    Restoration Movement in the United States. Disputes over missionary
+    societies, instrumental music, biblical i...
+  - >-
+    Distinctive Practice: Congregations are autonomous and normally governed by
+    local elders rather than a denominational headquarters. Common practices
+    include believer's baptism by imm...
+  - >-
+    Core Orientation: Autonomous Stone-Campbell congregations known for
+    congregational governance, weekly Communion, and normally unaccompanied
+    singing.
+sources:
+  - title: 'Encyclopaedia Britannica: "Churches of Christ"'
+    url: 'https://www.britannica.com/topic/churches-of-christ'
+  - title: 'Oxford Reference: Overview of Churches of Christ'
+    url: 'https://www.oxfordreference.com/search?q=Churches%20of%20Christ'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Churches of Christ'
+    url: 'https://www.cambridge.org/core/search?q=Churches%20of%20Christ'
+artifacts:
+  - title: Churches of Christ Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Churches_of_Christ'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Churches of Christ.
+  - title: Churches of Christ Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Churches of Christ

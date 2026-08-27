@@ -1,26 +1,69 @@
 ---
-id: "lao-buddhism"
-title: "Lao Buddhism"
-cluster: "Dharmic"
-color: "#f6aa2c"
-era_start: "c. 14th century CE"
-epistemic_tier: "academic_consensus"
+id: lao-buddhism
+title: Lao Buddhism
+cluster: Dharmic
+color: '#f6aa2c'
+era_start: c. 14th century CE
+epistemic_tier: academic_consensus
 display_weight: 1.35
 aliases:
-  - "Laotian Buddhism"
-  - "Lao Theravāda"
-summary: "The Theravāda traditions of Laos and Lao communities, historically embedded in monasteries, festivals, education, and village ritual."
+  - Laotian Buddhism
+  - Lao Theravāda
+summary: >-
+  The Theravāda traditions of Laos and Lao communities, historically embedded in
+  monasteries, festivals, education, and village ritual.
 canonical_texts:
-  - "Pāli Tipiṭaka"
-  - "Vessantara Jātaka"
-  - "Lao palm-leaf manuscripts"
+  - Pāli Tipiṭaka
+  - Vessantara Jātaka
+  - Lao palm-leaf manuscripts
 relations:
-  - target: "theravada"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "thai-buddhism"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: theravada
+    type: branch_of
+    certainty: academic_consensus
+  - target: thai-buddhism
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 1350
+origin_geo:
+  lat: 8.5762
+  lng: 80.2611
+  place_name: 'Anuradhapura, North Central, Sri Lanka'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Theravāda institutions became closely associated with
+    the Lan Xang kingdom from the fourteenth century, supported by regional
+    exchanges with Khmer, Lanna, Siame...
+  - >-
+    Distinctive Practice: Lao communities cultivate merit through alms,
+    ordination, festivals, funerals, precepts, and devotion to images and
+    relics. The *Vessantara Jātaka* and local ma...
+  - >-
+    Core Orientation: The Theravāda traditions of Laos and Lao communities,
+    historically embedded in monasteries, festivals, education, and village
+    ritual.
+sources:
+  - title: 'Encyclopaedia Britannica: "Lao Buddhism"'
+    url: 'https://www.britannica.com/topic/lao-buddhism'
+  - title: 'Oxford Reference: Overview of Lao Buddhism'
+    url: 'https://www.oxfordreference.com/search?q=Lao%20Buddhism'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Lao%20Buddhism'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Lao Buddhism

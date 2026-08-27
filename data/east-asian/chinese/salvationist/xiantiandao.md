@@ -1,22 +1,63 @@
 ---
-id: "xiantiandao"
-title: "Xiantiandao"
-cluster: "East Asian"
-color: "#52b783"
-era_start: "18th century CE"
-epistemic_tier: "academic_consensus"
+id: xiantiandao
+title: Xiantiandao
+cluster: East Asian
+color: '#52b783'
+era_start: 18th century CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Way of Former Heaven"
-  - "Hsien-t'ien Tao"
-summary: "A family of Chinese salvationist lineages venerating the Eternal Mother and transmitting an initiatory path of return to primordial heaven."
+  - Way of Former Heaven
+  - Hsien-t'ien Tao
+summary: >-
+  A family of Chinese salvationist lineages venerating the Eternal Mother and
+  transmitting an initiatory path of return to primordial heaven.
 canonical_texts:
-  - "Precious scrolls (baojuan)"
-  - "Patriarchal transmission records"
-  - "Eternal Mother revealed texts"
+  - Precious scrolls (baojuan)
+  - Patriarchal transmission records
+  - Eternal Mother revealed texts
 relations:
-  - target: "chinese-salvationist-religions"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: chinese-salvationist-religions
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1750
+origin_geo:
+  lat: 35.3377
+  lng: 117.6112
+  place_name: 'Qufu, Shandong, China'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Xiantiandao, the “Way of Former Heaven,” names
+    related late-imperial transmission networks rather than one continuously
+    centralized church. Lineages used patria...
+  - >-
+    Distinctive Practice: Many lineages teach that souls originate with the
+    Unborn or Eternal Mother and must return from the later-heaven world through
+    moral cultivation and initiation....
+  - >-
+    Core Orientation: A family of Chinese salvationist lineages venerating the
+    Eternal Mother and transmitting an initiatory path of return to primordial
+    heaven.
+sources:
+  - title: 'Encyclopaedia Britannica: "Xiantiandao"'
+    url: 'https://www.britannica.com/topic/xiantiandao'
+  - title: 'Oxford Reference: Overview of Xiantiandao'
+    url: 'https://www.oxfordreference.com/search?q=Xiantiandao'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: 'https://plato.stanford.edu/search/searcher.py?query=Xiantiandao'
+artifacts:
+  - title: Wudang Mountain Sacred Golden Hall Complex
+    url: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
+    provenance: 'Hubei, China'
+    period: 1416 CE
+    description: >-
+      Imperial architectural shrine of Daoist alchemy and philosophical
+      meditation.
+  - title: Mawangdui Silk Laozi Manuscripts
+    url: 'https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts'
+    provenance: 'Changsha, Hunan, China'
+    period: c. 168 BCE (Han Dynasty)
+    description: Ancient silk manuscripts preserving early versions of the Daodejing.
 ---
 
 # Xiantiandao

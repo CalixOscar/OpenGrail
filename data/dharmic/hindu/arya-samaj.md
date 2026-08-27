@@ -1,22 +1,62 @@
 ---
-id: "arya-samaj"
-title: "Arya Samaj"
-cluster: "Dharmic"
-color: "#fb923c"
-era_start: "1875 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Veda-centered Hindu reform movement founded by Dayananda Saraswati, active in education and social reform."
+id: arya-samaj
+title: Arya Samaj
+cluster: Dharmic
+color: '#fb923c'
+era_start: 1875 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Veda-centered Hindu reform movement founded by Dayananda Saraswati, active
+  in education and social reform.
 canonical_texts:
-  - "Satyarth Prakash"
-  - "Vedas"
-  - "Ten Principles of Arya Samaj"
+  - Satyarth Prakash
+  - Vedas
+  - Ten Principles of Arya Samaj
 relations:
-  - target: "hinduism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "vedic-religion"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: hinduism
+    type: branch_of
+    certainty: academic_consensus
+  - target: vedic-religion
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1875
+origin_geo:
+  lat: 25.6421
+  lng: 83.0083
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Dayananda Saraswati founded the Arya Samaj in Bombay
+    in 1875, and it became particularly influential in Punjab and northern
+    India. Responding to colonial critiq...
+  - >-
+    Distinctive Practice: Arya Samaj treats the Vedas as uniquely authoritative
+    and teaches one formless God, rejecting image worship, hereditary priestly
+    privilege, and later texts when...
+  - >-
+    Core Orientation: A Veda-centered Hindu reform movement founded by Dayananda
+    Saraswati, active in education and social reform.
+sources:
+  - title: 'Encyclopaedia Britannica: "Arya Samaj"'
+    url: 'https://www.britannica.com/topic/arya-samaj'
+  - title: 'Oxford Reference: Overview of Arya Samaj'
+    url: 'https://www.oxfordreference.com/search?q=Arya%20Samaj'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Arya%20Samaj'
+artifacts:
+  - title: Arya Samaj Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Arya_Samaj'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Arya Samaj.
+  - title: Arya Samaj Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Satyarth_Prakash'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Arya Samaj

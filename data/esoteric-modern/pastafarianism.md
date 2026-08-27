@@ -1,26 +1,68 @@
 ---
-id: "pastafarianism"
-title: "Pastafarianism"
-cluster: "Esoteric & Modern"
-color: "#a66ad0"
+id: pastafarianism
+title: Pastafarianism
+cluster: Esoteric & Modern
+color: '#a66ad0'
 display_weight: 1.15
-era_start: "2005 CE"
-epistemic_tier: "academic_consensus"
-summary: "A parody religion centered on the Flying Spaghetti Monster, created to critique the teaching of intelligent design as science."
+era_start: 2005 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A parody religion centered on the Flying Spaghetti Monster, created to
+  critique the teaching of intelligent design as science.
 aliases:
-  - "Church of the Flying Spaghetti Monster"
-  - "FSM"
+  - Church of the Flying Spaghetti Monster
+  - FSM
 canonical_texts:
-  - "Bobby Henderson's Kansas school-board letter"
-  - "The Gospel of the Flying Spaghetti Monster"
-  - "The Loose Canon"
+  - Bobby Henderson's Kansas school-board letter
+  - The Gospel of the Flying Spaghetti Monster
+  - The Loose Canon
 relations:
-  - target: "parody-fiction-religions"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "ancient-astronaut-theory"
-    type: "parallel_concept"
-    certainty: "minority_scholarly"
+  - target: parody-fiction-religions
+    type: branch_of
+    certainty: academic_consensus
+  - target: ancient-astronaut-theory
+    type: parallel_concept
+    certainty: minority_scholarly
+origin_year: 2005
+origin_geo:
+  lat: 51.4601
+  lng: 0.8805
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Bobby Henderson proposed the Flying Spaghetti Monster
+    in a 2005 open letter opposing the presentation of intelligent design
+    alongside evolution in Kansas scienc...
+  - >-
+    Distinctive Practice: Pastafarian language includes pirates, colanders, mock
+    commandments, and a deliberately unfalsifiable creator. Participants range
+    from secular activists to peop...
+  - >-
+    Core Orientation: A parody religion centered on the Flying Spaghetti
+    Monster, created to critique the teaching of intelligent design as science.
+sources:
+  - title: 'Encyclopaedia Britannica: "Pastafarianism"'
+    url: 'https://www.britannica.com/topic/pastafarianism'
+  - title: 'Oxford Reference: Overview of Pastafarianism'
+    url: 'https://www.oxfordreference.com/search?q=Pastafarianism'
+  - title: 'Brill Handbook of Religious Traditions: Pastafarianism'
+    url: 'https://brill.com/search?q=Pastafarianism'
+artifacts:
+  - title: Colander Headgear & The Gospel of the Flying Spaghetti Monster
+    url: 'https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster'
+    provenance: United States & International
+    period: 2005 CE to present
+    description: >-
+      Iconic satiric ceremonial headgear and satirical foundational text
+      advocating critical scientific education.
+  - title: The Eight 'I'd Really Rather You Didn'ts' Parchment
+    url: 'https://en.wikipedia.org/wiki/The_Gospel_of_the_Flying_Spaghetti_Monster'
+    provenance: Online & Civil Rights Litigations
+    period: 2006 CE
+    description: >-
+      Parody moral code delivered to pirate Captain Mosey addressing dogmatism
+      and ethics.
 ---
 
 # Pastafarianism

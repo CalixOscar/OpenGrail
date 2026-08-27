@@ -1,22 +1,62 @@
 ---
-id: "geonic-judaism"
-title: "Geonic Judaism"
-cluster: "Abrahamic"
-color: "#d9bd70"
-era_start: "c. 600 CE"
-epistemic_tier: "academic_consensus"
-summary: "The era of Babylonian rabbinic academy heads whose responsa extended Talmudic authority across the medieval Jewish diaspora."
+id: geonic-judaism
+title: Geonic Judaism
+cluster: Abrahamic
+color: '#d9bd70'
+era_start: c. 600 CE
+epistemic_tier: academic_consensus
+summary: >-
+  The era of Babylonian rabbinic academy heads whose responsa extended Talmudic
+  authority across the medieval Jewish diaspora.
 aliases:
-  - "Gaonic Judaism"
-  - "Geonim"
+  - Gaonic Judaism
+  - Geonim
 canonical_texts:
-  - "Babylonian Talmud"
-  - "Geonic responsa"
-  - "She'iltot"
+  - Babylonian Talmud
+  - Geonic responsa
+  - She'iltot
 relations:
-  - target: "rabbinic-judaism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: rabbinic-judaism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 600
+origin_geo:
+  lat: 31.81
+  lng: 36.194
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Covenant & Monotheism: Eternal reciprocal covenant between YHWH and the
+    Jewish people based on the divine command to be a holy nation.
+  - >-
+    Torah (Written and Oral): Comprehensive guidance for life encompassing the
+    Written Torah and Oral Torah (Mishnah and Talmud).
+  - >-
+    Halakha & Mitzvot: Observance of the 613 commandments structuring daily
+    life, ethics, prayer, dietary laws, and Shabbat sanctification.
+sources:
+  - title: 'Encyclopaedia Britannica: "Geonic Judaism"'
+    url: 'https://www.britannica.com/topic/geonic-judaism'
+  - title: 'Oxford Reference: Overview of Geonic Judaism'
+    url: 'https://www.oxfordreference.com/search?q=Geonic%20Judaism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Geonic Judaism'
+    url: 'https://www.cambridge.org/core/search?q=Geonic%20Judaism'
+artifacts:
+  - title: Western Wall & Second Temple Foundation
+    url: 'https://en.wikipedia.org/wiki/Western_Wall'
+    provenance: 'Old City, Jerusalem'
+    period: c. 19 BCE (Herodian Era)
+    description: >-
+      The holiest prayer site of Jewish tradition, surviving western retaining
+      wall of the Second Temple complex.
+  - title: Aleppo Codex Masoretic Hebrew Bible Manuscript
+    url: 'https://en.wikipedia.org/wiki/Aleppo_Codex'
+    provenance: Tiberias & Jerusalem
+    period: c. 920 CE
+    description: >-
+      Authoritative parchment manuscript of the Hebrew Bible with Masoretic
+      vocalization and cantillation marks.
 ---
 
 # Geonic Judaism

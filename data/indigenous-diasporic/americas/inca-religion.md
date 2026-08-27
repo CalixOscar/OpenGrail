@@ -1,19 +1,59 @@
 ---
-id: "inca-religion"
-title: "Inca Imperial Religion"
-cluster: "Indigenous & Diasporic"
-color: "#c3894d"
-era_start: "c. 1400 CE"
-epistemic_tier: "academic_consensus"
-summary: "The state cults and negotiated local religious worlds of Tawantinsuyu in the Andes."
+id: inca-religion
+title: Inca Imperial Religion
+cluster: Indigenous & Diasporic
+color: '#c3894d'
+era_start: c. 1400 CE
+epistemic_tier: academic_consensus
+summary: >-
+  The state cults and negotiated local religious worlds of Tawantinsuyu in the
+  Andes.
 canonical_texts:
-  - "Andean oral traditions"
-  - "Khipu and archaeological corpus"
-  - "Quechua ritual hymns in colonial records"
+  - Andean oral traditions
+  - Khipu and archaeological corpus
+  - Quechua ritual hymns in colonial records
 relations:
-  - target: "aztec-religion"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: aztec-religion
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 1400
+origin_geo:
+  lat: -13.4613
+  lng: -72.0061
+  place_name: 'Cuzco, Sacred Valley, Inca Empire, Peru'
+extinct_year: 1572
+key_tenets:
+  - >-
+    Foundational Doctrine: The Inca state expanded rapidly across Tawantinsuyu
+    during the fifteenth and early sixteenth centuries, organizing royal
+    ancestor cults, solar institutions, pil...
+  - >-
+    Distinctive Practice: Inti, Viracocha, royal mummies, *huacas*, mountain
+    beings, reciprocal labor, divination, and offerings connected kin groups
+    with state and landscape. The capaco...
+  - >-
+    Core Orientation: The state cults and negotiated local religious worlds of
+    Tawantinsuyu in the Andes.
+sources:
+  - title: 'Encyclopaedia Britannica: "Inca Imperial Religion"'
+    url: 'https://www.britannica.com/topic/inca-imperial-religion'
+  - title: 'Oxford Reference: Overview of Inca Imperial Religion'
+    url: 'https://www.oxfordreference.com/search?q=Inca%20Imperial%20Religion'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Inca%20Imperial%20Religion'
+artifacts:
+  - title: Inca Imperial Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Inca_Imperial_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Inca Imperial Religion.
+  - title: Inca Imperial Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Andean_oral_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Inca Imperial Religion

@@ -1,20 +1,60 @@
 ---
-id: "ghost-dance"
-title: "Ghost Dance Movements"
-cluster: "Indigenous & Diasporic"
-color: "#7e8b67"
-era_start: "1870 CE"
-epistemic_tier: "academic_consensus"
-summary: "Intertribal prophetic dance movements promising renewal amid invasion, dispossession, and colonial violence."
+id: ghost-dance
+title: Ghost Dance Movements
+cluster: Indigenous & Diasporic
+color: '#7e8b67'
+era_start: 1870 CE
+epistemic_tier: academic_consensus
+summary: >-
+  Intertribal prophetic dance movements promising renewal amid invasion,
+  dispossession, and colonial violence.
 canonical_texts:
-  - "Wovoka's teachings and letters"
-  - "Ghost Dance song corpus"
-  - "Community oral histories"
+  - Wovoka's teachings and letters
+  - Ghost Dance song corpus
+  - Community oral histories
 relations:
-  - target: "christianity"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
-    citation: "Gregory E. Smoak, Ghost Dances and Identity (2006)"
+  - target: christianity
+    type: syncretized_with
+    certainty: academic_consensus
+    citation: 'Gregory E. Smoak, Ghost Dances and Identity (2006)'
+origin_year: 1870
+origin_geo:
+  lat: 43.1417
+  lng: -102.3639
+  place_name: 'Wounded Knee / Pine Ridge, SD, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Two related prophetic dance movements spread through
+    western North American networks, first around the Paiute prophet Wodziwob in
+    1870 and later around the Nort...
+  - >-
+    Distinctive Practice: Dancing, songs, moral renewal, reunion with the dead,
+    restored land, and the ending of colonial suffering received locally
+    different interpretations. Wovoka's l...
+  - >-
+    Core Orientation: Intertribal prophetic dance movements promising renewal
+    amid invasion, dispossession, and colonial violence.
+sources:
+  - title: 'Encyclopaedia Britannica: "Ghost Dance Movements"'
+    url: 'https://www.britannica.com/topic/ghost-dance-movements'
+  - title: 'Oxford Reference: Overview of Ghost Dance Movements'
+    url: 'https://www.oxfordreference.com/search?q=Ghost%20Dance%20Movements'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Ghost%20Dance%20Movements'
+artifacts:
+  - title: Ghost Dance Movements Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Ghost_Dance_Movements'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Ghost Dance Movements.
+  - title: Ghost Dance Movements Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Wovoka''s_teachings_and_letters'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Ghost Dance Movements

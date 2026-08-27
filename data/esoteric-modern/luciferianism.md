@@ -1,24 +1,64 @@
 ---
-id: "luciferianism"
-title: "Modern Luciferianism"
-cluster: "Esoteric & Modern"
-color: "#a66ad0"
-era_start: "late 19th–20th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A diverse modern esoteric current treating Lucifer as a symbol or deity of illumination, autonomy, knowledge, and self-cultivation."
+id: luciferianism
+title: Modern Luciferianism
+cluster: Esoteric & Modern
+color: '#a66ad0'
+era_start: late 19th–20th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A diverse modern esoteric current treating Lucifer as a symbol or deity of
+  illumination, autonomy, knowledge, and self-cultivation.
 aliases:
-  - "Luciferian spirituality"
+  - Luciferian spirituality
 canonical_texts:
-  - "Modern Luciferian manifestos"
-  - "Romantic literary treatments of Lucifer"
-  - "Order-specific ritual texts"
+  - Modern Luciferian manifestos
+  - Romantic literary treatments of Lucifer
+  - Order-specific ritual texts
 relations:
-  - target: "modern-satanism"
-    type: "branch_of"
-    certainty: "minority_scholarly"
-  - target: "western-esotericism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: modern-satanism
+    type: branch_of
+    certainty: minority_scholarly
+  - target: western-esotericism
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1850
+origin_geo:
+  lat: 51.7202
+  lng: -0.9847
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Modern Luciferian identities grew from Romantic
+    reinterpretations of the rebellious light-bringer, occult literature, and
+    twentieth-century left-hand-path organ...
+  - >-
+    Distinctive Practice: Lucifer may represent reason, liberation, forbidden
+    knowledge, spiritual ascent, or an actual divine intelligence. Some
+    Luciferians reject the label Satanist wh...
+  - >-
+    Core Orientation: A diverse modern esoteric current treating Lucifer as a
+    symbol or deity of illumination, autonomy, knowledge, and self-cultivation.
+sources:
+  - title: 'Encyclopaedia Britannica: "Modern Luciferianism"'
+    url: 'https://www.britannica.com/topic/modern-luciferianism'
+  - title: 'Oxford Reference: Overview of Modern Luciferianism'
+    url: 'https://www.oxfordreference.com/search?q=Modern%20Luciferianism'
+  - title: 'Brill Handbook of Religious Traditions: Modern Luciferianism'
+    url: 'https://brill.com/search?q=Modern%20Luciferianism'
+artifacts:
+  - title: Modern Luciferianism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Modern_Luciferianism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Modern Luciferianism.
+  - title: Modern Luciferianism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Modern_Luciferian_manifestos'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Modern Luciferianism

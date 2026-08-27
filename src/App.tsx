@@ -26,13 +26,13 @@ import GraphCanvas, {
   type GraphCanvasHandle,
 } from './components/GraphCanvas';
 import Sidebar from './components/Sidebar';
+import TimelineScrubber from './components/TimelineScrubber';
+import ViewSwitcher from './components/ViewSwitcher';
+import WorldMapView from './components/WorldMapView';
+import AtlasProvider, { useAtlasState } from './state/AtlasState';
 import {
-  EPISTEMIC_TIERS,
-  RELATION_TYPES,
   scoreGraphNodeSearch,
-  type EpistemicTier,
   type GraphData,
-  type RelationType,
 } from './types/graph';
 
 const EMPTY_GRAPH: GraphData = { nodes: [], links: [], clusters: [] };
@@ -47,30 +47,40 @@ function isGraphData(value: unknown): value is GraphData {
   );
 }
 
-export default function App() {
+function AppContent() {
   const graphRef = useRef<GraphCanvasHandle>(null);
   const [graphData, setGraphData] = useState<GraphData>(EMPTY_GRAPH);
   const [loadState, setLoadState] = useState<'loading' | 'ready' | 'error'>('loading');
   const [loadError, setLoadError] = useState('');
-  const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
   const [documentOpen, setDocumentOpen] = useState(false);
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
   const [clusterLayout, setClusterLayout] = useState(true);
-  const [searchQuery, setSearchQuery] = useState('');
   const [searchFocused, setSearchFocused] = useState(false);
-  const [activeTiers, setActiveTiers] = useState<Set<EpistemicTier>>(
-    () => new Set(EPISTEMIC_TIERS),
-  );
-  const [activeRelationTypes, setActiveRelationTypes] = useState<Set<RelationType>>(
-    () => new Set(RELATION_TYPES),
-  );
+
+  const {
+    currentYear,
+    viewMode,
+    selectedNodeId,
+    selectedLinkId,
+    selectNode: contextSelectNode,
+    selectLink: contextSelectLink,
+    clearSelection,
+    searchQuery,
+    setSearchQuery,
+    activeTiers,
+    toggleTier,
+    activeRelationTypes,
+    toggleRelationType,
+    resetFilters,
+  } = useAtlasState();
 
   useEffect(() => {
     const controller = new AbortController();
 
     async function loadGraph() {
       try {
-        const response = await fetch('/graph.json', { signal: controller.signal });
+        const graphUrl = `${import.meta.env.BASE_URL}graph.json`;
+        const response = await fetch(graphUrl, { signal: controller.signal });
         if (!response.ok) throw new Error(`Graph request failed (${response.status})`);
         const payload: unknown = await response.json();
         if (!isGraphData(payload)) throw new Error('graph.json has an invalid shape');
@@ -91,24 +101,35 @@ export default function App() {
     () => new Map(graphData.nodes.map((node) => [node.id, node])),
     [graphData.nodes],
   );
+
+  const linkById = useMemo(
+    () => new Map(graphData.links.map((link) => [link.id, link])),
+    [graphData.links],
+  );
+
   const selectedNode = selectedNodeId ? nodeById.get(selectedNodeId) ?? null : null;
+  const selectedLink = selectedLinkId ? linkById.get(selectedLinkId) ?? null : null;
 
   const visibleNodeIds = useMemo(
     () => new Set(
       graphData.nodes
-        .filter((node) => activeTiers.has(node.epistemicTier))
+        .filter((node) => activeTiers.has(node.epistemicTier) && (node.origin_year ?? node.originYear ?? 0) <= currentYear)
         .map((node) => node.id),
     ),
-    [activeTiers, graphData.nodes],
+    [activeTiers, currentYear, graphData.nodes],
   );
+
   const visibleLinkCount = useMemo(
-    () => graphData.links.filter((link) => (
-      visibleNodeIds.has(link.source) &&
-      visibleNodeIds.has(link.target) &&
-      activeTiers.has(link.certainty) &&
-      activeRelationTypes.has(link.type)
-    )).length,
-    [activeRelationTypes, activeTiers, graphData.links, visibleNodeIds],
+    () => graphData.links.filter((link) => {
+      if (!visibleNodeIds.has(link.source) || !visibleNodeIds.has(link.target)) return false;
+      if (!activeTiers.has(link.certainty) || !activeRelationTypes.has(link.type)) return false;
+      const srcNode = nodeById.get(link.source);
+      const tgtNode = nodeById.get(link.target);
+      const srcYear = srcNode?.origin_year ?? srcNode?.originYear ?? 0;
+      const tgtYear = tgtNode?.origin_year ?? tgtNode?.originYear ?? 0;
+      return Math.max(srcYear, tgtYear) <= currentYear;
+    }).length,
+    [activeRelationTypes, activeTiers, currentYear, graphData.links, nodeById, visibleNodeIds],
   );
 
   const searchMatches = useMemo(() => {
@@ -124,13 +145,21 @@ export default function App() {
       .slice(0, 6);
   }, [graphData.nodes, searchQuery]);
 
-  const selectNode = useCallback((nodeId: string) => {
-    setSelectedNodeId(nodeId);
-    setDocumentOpen(true);
-    setSearchQuery('');
-    setSearchFocused(false);
-    window.requestAnimationFrame(() => graphRef.current?.centerNode(nodeId));
-  }, []);
+  const selectNode = useCallback((nodeId: string | null) => {
+    contextSelectNode(nodeId);
+    if (nodeId) {
+      setDocumentOpen(true);
+      setSearchFocused(false);
+      window.requestAnimationFrame(() => graphRef.current?.centerNode(nodeId));
+    }
+  }, [contextSelectNode]);
+
+  const selectLink = useCallback((linkId: string | null) => {
+    contextSelectLink(linkId);
+    if (linkId) {
+      setDocumentOpen(true);
+    }
+  }, [contextSelectLink]);
 
   const submitSearch = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
@@ -140,36 +169,13 @@ export default function App() {
     setSearchFocused(false);
   };
 
-  const toggleTier = useCallback((tier: EpistemicTier) => {
-    setActiveTiers((current) => {
-      const next = new Set(current);
-      if (next.has(tier)) next.delete(tier);
-      else next.add(tier);
-      return next;
-    });
-  }, []);
-
-  const toggleRelationType = useCallback((relationType: RelationType) => {
-    setActiveRelationTypes((current) => {
-      const next = new Set(current);
-      if (next.has(relationType)) next.delete(relationType);
-      else next.add(relationType);
-      return next;
-    });
-  }, []);
-
-  const resetFilters = useCallback(() => {
-    setActiveTiers(new Set(EPISTEMIC_TIERS));
-    setActiveRelationTypes(new Set(RELATION_TYPES));
-  }, []);
-
   return (
     <div className="app-shell">
       <Sidebar
         nodes={graphData.nodes}
         clusters={graphData.clusters}
         selectedNodeId={selectedNodeId}
-        onSelectNode={selectNode}
+        onSelectNode={(id) => selectNode(id)}
         collapsed={sidebarCollapsed}
         onToggleCollapsed={() => setSidebarCollapsed((value) => !value)}
       />
@@ -179,11 +185,11 @@ export default function App() {
           <div className="topbar__context">
             <span className="topbar__eyebrow">
               <Network size={13} aria-hidden="true" />
-              Visualization
+              Comparative Religion Atlas
             </span>
             <div className="topbar__title-row">
               <h1>Historical &amp; theological relations</h1>
-              <span className="live-status"><span aria-hidden="true" />Live atlas</span>
+              <span className="live-status"><span aria-hidden="true" />Synchronized atlas</span>
             </div>
             <p>
               Showing {visibleNodeIds.size} of {graphData.nodes.length} traditions ·{' '}
@@ -192,47 +198,53 @@ export default function App() {
           </div>
 
           <div className="topbar__tools">
-            <div className="tool-group" aria-label="Zoom controls">
-              <span className="tool-group__label">Zoom</span>
-              <div className="tool-group__buttons">
-                <button type="button" onClick={() => graphRef.current?.zoomIn()} title="Zoom in" aria-label="Zoom in">
-                  <Plus size={15} />
-                </button>
-                <button type="button" onClick={() => graphRef.current?.zoomOut()} title="Zoom out" aria-label="Zoom out">
-                  <Minus size={15} />
-                </button>
-                <button type="button" onClick={() => graphRef.current?.fit()} title="Fit graph" aria-label="Fit graph">
-                  <LocateFixed size={15} />
-                </button>
-              </div>
-            </div>
+            <ViewSwitcher />
 
-            <div className="tool-group">
-              <span className="tool-group__label">Pan</span>
-              <button
-                className="cluster-toggle"
-                type="button"
-                onClick={() => graphRef.current?.resetView()}
-                title="Reset pan and zoom"
-              >
-                <Move size={15} />
-                Reset
-              </button>
-            </div>
+            {viewMode === 'brain' && (
+              <>
+                <div className="tool-group" aria-label="Zoom controls">
+                  <span className="tool-group__label">Zoom</span>
+                  <div className="tool-group__buttons">
+                    <button type="button" onClick={() => graphRef.current?.zoomIn()} title="Zoom in" aria-label="Zoom in">
+                      <Plus size={15} />
+                    </button>
+                    <button type="button" onClick={() => graphRef.current?.zoomOut()} title="Zoom out" aria-label="Zoom out">
+                      <Minus size={15} />
+                    </button>
+                    <button type="button" onClick={() => graphRef.current?.fit()} title="Fit graph" aria-label="Fit graph">
+                      <LocateFixed size={15} />
+                    </button>
+                  </div>
+                </div>
 
-            <div className="tool-group">
-              <span className="tool-group__label">Layout</span>
-              <button
-                className={`cluster-toggle${clusterLayout ? ' cluster-toggle--active' : ''}`}
-                type="button"
-                onClick={() => setClusterLayout((value) => !value)}
-                aria-pressed={clusterLayout}
-                title="Toggle cluster layout"
-              >
-                <Orbit size={15} />
-                Cluster
-              </button>
-            </div>
+                <div className="tool-group">
+                  <span className="tool-group__label">Pan</span>
+                  <button
+                    className="cluster-toggle"
+                    type="button"
+                    onClick={() => graphRef.current?.resetView()}
+                    title="Reset pan and zoom"
+                  >
+                    <Move size={15} />
+                    Reset
+                  </button>
+                </div>
+
+                <div className="tool-group">
+                  <span className="tool-group__label">Layout</span>
+                  <button
+                    className={`cluster-toggle${clusterLayout ? ' cluster-toggle--active' : ''}`}
+                    type="button"
+                    onClick={() => setClusterLayout((value) => !value)}
+                    aria-pressed={clusterLayout}
+                    title="Toggle cluster layout"
+                  >
+                    <Orbit size={15} />
+                    Cluster
+                  </button>
+                </div>
+              </>
+            )}
 
             <form className="graph-search" role="search" onSubmit={submitSearch}>
               <label htmlFor="graph-search-input">Search atlas</label>
@@ -292,18 +304,25 @@ export default function App() {
           totalLinkCount={graphData.links.length}
         />
 
-        <section className="graph-stage" aria-label="Interactive relation graph">
-          {loadState === 'ready' && (
+        <section className="graph-stage" aria-label="Interactive relation stage">
+          {loadState === 'ready' && viewMode === 'brain' && (
             <GraphCanvas
               ref={graphRef}
               graphData={graphData}
               selectedNodeId={selectedNodeId}
-              onSelectNode={(nodeId) => nodeId ? selectNode(nodeId) : setSelectedNodeId(null)}
+              selectedLinkId={selectedLinkId}
+              onSelectNode={(nodeId) => selectNode(nodeId)}
+              onSelectLink={(linkId) => selectLink(linkId)}
               activeTiers={activeTiers}
               activeRelationTypes={activeRelationTypes}
               searchQuery={searchQuery}
               clusterLayout={clusterLayout}
+              currentYear={currentYear}
             />
+          )}
+
+          {loadState === 'ready' && viewMode === 'map' && (
+            <WorldMapView graphData={graphData} />
           )}
 
           {loadState === 'loading' && (
@@ -348,13 +367,29 @@ export default function App() {
 
           <DocumentPane
             selectedNode={selectedNode}
+            selectedLink={selectedLink}
             nodes={graphData.nodes}
-            open={documentOpen}
-            onClose={() => setDocumentOpen(false)}
-            onSelectNode={selectNode}
+            links={graphData.links}
+            open={documentOpen && Boolean(selectedNode || selectedLink)}
+            onClose={() => {
+              setDocumentOpen(false);
+              clearSelection();
+            }}
+            onSelectNode={(id) => selectNode(id)}
           />
         </section>
+
+        <TimelineScrubber />
       </main>
     </div>
   );
 }
+
+export default function App() {
+  return (
+    <AtlasProvider>
+      <AppContent />
+    </AtlasProvider>
+  );
+}
+

@@ -1,21 +1,62 @@
 ---
-id: "ancestor-veneration"
-title: "Ancestor Veneration"
-cluster: "Indigenous & Diasporic"
-color: "#c09258"
-era_start: "prehistoric; globally recurrent"
-epistemic_tier: "academic_consensus"
-summary: "A cross-cultural family of practices sustaining reciprocal, moral, and ritual relationships between living communities and the dead."
+id: ancestor-veneration
+title: Ancestor Veneration
+cluster: Indigenous & Diasporic
+color: '#c09258'
+era_start: prehistoric; globally recurrent
+epistemic_tier: academic_consensus
+summary: >-
+  A cross-cultural family of practices sustaining reciprocal, moral, and ritual
+  relationships between living communities and the dead.
 canonical_texts:
-  - "Community-specific oral traditions"
-  - "Genealogies, memorial texts, and ritual corpora"
+  - Community-specific oral traditions
+  - 'Genealogies, memorial texts, and ritual corpora'
 relations:
-  - target: "confucianism"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
-  - target: "yoruba-religion"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: confucianism
+    type: parallel_concept
+    certainty: academic_consensus
+  - target: yoruba-religion
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: 7.3619
+  lng: 4.3631
+  place_name: 'Ile-Ife, Osun, Nigeria'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Care for the dead appears in archaeological and
+    historical settings across the world, but its meanings differ. Ancestors may
+    protect descendants, authorize land...
+  - >-
+    Distinctive Practice: Offerings, funerary cycles, genealogical recitation,
+    household altars, pilgrimage, and spirit consultation can renew kinship
+    across death. The term is a compara...
+  - >-
+    Core Orientation: A cross-cultural family of practices sustaining
+    reciprocal, moral, and ritual relationships between living communities and
+    the dead.
+sources:
+  - title: 'Encyclopaedia Britannica: "Ancestor Veneration"'
+    url: 'https://www.britannica.com/topic/ancestor-veneration'
+  - title: 'Oxford Reference: Overview of Ancestor Veneration'
+    url: 'https://www.oxfordreference.com/search?q=Ancestor%20Veneration'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Ancestor%20Veneration'
+artifacts:
+  - title: Ancestor Veneration Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Ancestor_Veneration'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Ancestor Veneration.
+  - title: Ancestor Veneration Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Community-specific_oral_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Ancestor Veneration

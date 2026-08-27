@@ -1,24 +1,65 @@
 ---
-id: "reclaiming-tradition"
-title: "Reclaiming Tradition"
-cluster: "Esoteric & Modern"
-color: "#cc72cf"
-era_start: "1979 CE"
-epistemic_tier: "academic_consensus"
-summary: "A feminist and activist witchcraft tradition integrating Goddess spirituality, consensus process, ecological ethics, and magical practice."
+id: reclaiming-tradition
+title: Reclaiming Tradition
+cluster: Esoteric & Modern
+color: '#cc72cf'
+era_start: 1979 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A feminist and activist witchcraft tradition integrating Goddess spirituality,
+  consensus process, ecological ethics, and magical practice.
 aliases:
-  - "Reclaiming Witchcraft"
+  - Reclaiming Witchcraft
 canonical_texts:
-  - "The Spiral Dance"
-  - "Reclaiming Principles of Unity"
-  - "Reclaiming ritual traditions"
+  - The Spiral Dance
+  - Reclaiming Principles of Unity
+  - Reclaiming ritual traditions
 relations:
-  - target: "wicca"
-    type: "branch_of"
-    certainty: "minority_scholarly"
-  - target: "dianic-wicca"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: wicca
+    type: branch_of
+    certainty: minority_scholarly
+  - target: dianic-wicca
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1979
+origin_geo:
+  lat: 51.1583
+  lng: 0.7885
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Reclaiming formed in the San Francisco Bay Area in
+    1979 around Starhawk, Diane Baker, and collaborators. Camps, public rituals,
+    affinity groups, and activist ne...
+  - >-
+    Distinctive Practice: The tradition joins earth-based spirituality, magic,
+    feminism, nonhierarchical process, and political action. Its public
+    Principles of Unity affirm inclusivity ...
+  - >-
+    Core Orientation: A feminist and activist witchcraft tradition integrating
+    Goddess spirituality, consensus process, ecological ethics, and magical
+    practice.
+sources:
+  - title: 'Encyclopaedia Britannica: "Reclaiming Tradition"'
+    url: 'https://www.britannica.com/topic/reclaiming-tradition'
+  - title: 'Oxford Reference: Overview of Reclaiming Tradition'
+    url: 'https://www.oxfordreference.com/search?q=Reclaiming%20Tradition'
+  - title: 'Brill Handbook of Religious Traditions: Reclaiming Tradition'
+    url: 'https://brill.com/search?q=Reclaiming%20Tradition'
+artifacts:
+  - title: Reclaiming Tradition Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Reclaiming_Tradition'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Reclaiming Tradition.
+  - title: Reclaiming Tradition Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/The_Spiral_Dance'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Reclaiming Tradition

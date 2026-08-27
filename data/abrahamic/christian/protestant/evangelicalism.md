@@ -1,19 +1,61 @@
 ---
-id: "evangelicalism"
-title: "Evangelicalism"
-cluster: "Abrahamic"
-color: "#318bd3"
-era_start: "1730s CE"
-epistemic_tier: "academic_consensus"
-summary: "A transdenominational Protestant movement stressing conversion, biblical authority, Christ's saving work, and active witness."
+id: evangelicalism
+title: Evangelicalism
+cluster: Abrahamic
+color: '#318bd3'
+era_start: 1730s CE
+epistemic_tier: academic_consensus
+summary: >-
+  A transdenominational Protestant movement stressing conversion, biblical
+  authority, Christ's saving work, and active witness.
 canonical_texts:
-  - "Bible"
-  - "The Fundamentals"
-  - "Lausanne Covenant"
+  - Bible
+  - The Fundamentals
+  - Lausanne Covenant
 relations:
-  - target: "protestantism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: protestantism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1730
+origin_geo:
+  lat: 32.5609
+  lng: 34.9377
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Evangelicalism took shape through eighteenth-century
+    revivals in Britain and North America, drawing on Pietist, Puritan,
+    Anglican, and Methodist sources. Ninete...
+  - >-
+    Distinctive Practice: Historians often describe four recurring traits:
+    conversion, activism, high regard for the Bible, and focus on Christ's
+    atoning death. Evangelicalism crosses Ba...
+  - >-
+    Core Orientation: A transdenominational Protestant movement stressing
+    conversion, biblical authority, Christ's saving work, and active witness.
+sources:
+  - title: 'Encyclopaedia Britannica: "Evangelicalism"'
+    url: 'https://www.britannica.com/topic/evangelicalism'
+  - title: 'Oxford Reference: Overview of Evangelicalism'
+    url: 'https://www.oxfordreference.com/search?q=Evangelicalism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Evangelicalism'
+    url: 'https://www.cambridge.org/core/search?q=Evangelicalism'
+artifacts:
+  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
+    url: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
+    provenance: 'Wittenberg, Germany'
+    period: 1517 CE
+    description: >-
+      Historic church where Martin Luther posted his Ninety-five Theses,
+      initiating the Protestant Reformation.
+  - title: Luther 1534 German Bible Title Woodcut
+    url: 'https://en.wikipedia.org/wiki/Luther_Bible'
+    provenance: Wittenberg
+    period: 1534 CE
+    description: >-
+      Historic printed vernacular German translation democratizing direct
+      scriptural access for all believers.
 ---
 
 # Evangelicalism

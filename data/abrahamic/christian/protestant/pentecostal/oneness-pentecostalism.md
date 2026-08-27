@@ -1,21 +1,65 @@
 ---
-id: "oneness-pentecostalism"
-title: "Oneness Pentecostalism"
-cluster: "Abrahamic"
-color: "#7f72d2"
-era_start: "1913 CE"
-epistemic_tier: "academic_consensus"
-summary: "A non-Trinitarian Pentecostal family teaching that the one God is fully revealed in Jesus Christ."
+id: oneness-pentecostalism
+title: Oneness Pentecostalism
+cluster: Abrahamic
+color: '#7f72d2'
+era_start: 1913 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A non-Trinitarian Pentecostal family teaching that the one God is fully
+  revealed in Jesus Christ.
 aliases:
-  - "Apostolic Pentecostalism"
-  - "Jesus Name Pentecostalism"
+  - Apostolic Pentecostalism
+  - Jesus Name Pentecostalism
 display_weight: 1.3
 canonical_texts:
-  - "Bible"
+  - Bible
 relations:
-  - target: "pentecostalism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: pentecostalism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1913
+origin_geo:
+  lat: 34.0992
+  lng: -118.3219
+  place_name: 'Azusa Street / Los Angeles, California, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Oneness Pentecostalism emerged from baptismal and
+    Christological debates within the early Pentecostal movement after a 1913
+    camp meeting in California. Minister...
+  - >-
+    Distinctive Practice: Oneness believers affirm one God who reveals himself
+    as Father, Son, and Holy Spirit rather than three coequal divine persons.
+    Many teach repentance, baptism in...
+  - >-
+    Core Orientation: A non-Trinitarian Pentecostal family teaching that the one
+    God is fully revealed in Jesus Christ.
+sources:
+  - title: 'Encyclopaedia Britannica: "Oneness Pentecostalism"'
+    url: 'https://www.britannica.com/topic/oneness-pentecostalism'
+  - title: 'Oxford Reference: Overview of Oneness Pentecostalism'
+    url: 'https://www.oxfordreference.com/search?q=Oneness%20Pentecostalism'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Oneness
+      Pentecostalism
+    url: 'https://www.cambridge.org/core/search?q=Oneness%20Pentecostalism'
+artifacts:
+  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
+    url: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
+    provenance: 'Wittenberg, Germany'
+    period: 1517 CE
+    description: >-
+      Historic church where Martin Luther posted his Ninety-five Theses,
+      initiating the Protestant Reformation.
+  - title: Luther 1534 German Bible Title Woodcut
+    url: 'https://en.wikipedia.org/wiki/Luther_Bible'
+    provenance: Wittenberg
+    period: 1534 CE
+    description: >-
+      Historic printed vernacular German translation democratizing direct
+      scriptural access for all believers.
 ---
 
 # Oneness Pentecostalism

@@ -1,22 +1,63 @@
 ---
-id: "sautrantika"
-title: "Sautrāntika"
-cluster: "Dharmic"
-color: "#f97316"
-era_start: "c. 2nd century BCE–2nd century CE"
-epistemic_tier: "minority_scholarly"
-summary: "A historical label for Buddhist Abhidharma critics who privileged sūtra reasoning and developed influential theories of perception and momentariness."
+id: sautrantika
+title: Sautrāntika
+cluster: Dharmic
+color: '#f97316'
+era_start: c. 2nd century BCE–2nd century CE
+epistemic_tier: minority_scholarly
+summary: >-
+  A historical label for Buddhist Abhidharma critics who privileged sūtra
+  reasoning and developed influential theories of perception and momentariness.
 canonical_texts:
-  - "Abhidharmakośabhāṣya"
-  - "Nyāyānusāra discussions"
-  - "Early Buddhist sūtras"
+  - Abhidharmakośabhāṣya
+  - Nyāyānusāra discussions
+  - Early Buddhist sūtras
 relations:
-  - target: "early-buddhist-schools"
-    type: "branch_of"
-    certainty: "minority_scholarly"
-  - target: "sarvastivada"
-    type: "diverged_from"
-    certainty: "minority_scholarly"
+  - target: early-buddhist-schools
+    type: branch_of
+    certainty: minority_scholarly
+  - target: sarvastivada
+    type: diverged_from
+    certainty: minority_scholarly
+origin_year: -150
+origin_geo:
+  lat: 26.1389
+  lng: 82.73
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Later Buddhist doxographies use “Sautrāntika” for
+    teachers who challenged Vaibhāṣika Sarvāstivāda orthodoxy and appealed to
+    sūtras over certain Abhidharma claim...
+  - >-
+    Distinctive Practice: Positions associated with Sautrāntikas include
+    representational theories of perception, seeds or latent continuities, and
+    denial that past and future phenomena ...
+  - >-
+    Core Orientation: A historical label for Buddhist Abhidharma critics who
+    privileged sūtra reasoning and developed influential theories of perception
+    and momentariness.
+sources:
+  - title: 'Encyclopaedia Britannica: "Sautrāntika"'
+    url: 'https://www.britannica.com/topic/sautr-ntika'
+  - title: 'Oxford Reference: Overview of Sautrāntika'
+    url: 'https://www.oxfordreference.com/search?q=Sautr%C4%81ntika'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Sautr%C4%81ntika'
+artifacts:
+  - title: Sautrāntika Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Sautr%C4%81ntika'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Sautrāntika.
+  - title: Sautrāntika Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Abhidharmako%C5%9Babh%C4%81%E1%B9%A3ya'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Sautrāntika

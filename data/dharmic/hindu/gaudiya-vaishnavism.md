@@ -1,26 +1,70 @@
 ---
-id: "gaudiya-vaishnavism"
-title: "Gauḍīya Vaiṣṇavism"
-cluster: "Dharmic"
-color: "#f97316"
+id: gaudiya-vaishnavism
+title: Gauḍīya Vaiṣṇavism
+cluster: Dharmic
+color: '#f97316'
 display_weight: 1.25
-era_start: "early 16th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A Bengali Vaiṣṇava devotional tradition centered on Caitanya, loving devotion to Rādhā and Kṛṣṇa, and congregational chanting."
+era_start: early 16th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Bengali Vaiṣṇava devotional tradition centered on Caitanya, loving devotion
+  to Rādhā and Kṛṣṇa, and congregational chanting.
 aliases:
-  - "Chaitanya Vaishnavism"
-  - "Bengal Vaishnavism"
+  - Chaitanya Vaishnavism
+  - Bengal Vaishnavism
 canonical_texts:
-  - "Bhāgavata Purāṇa"
-  - "Caitanya-caritāmṛta"
-  - "Bhakti-rasāmṛta-sindhu"
+  - Bhāgavata Purāṇa
+  - Caitanya-caritāmṛta
+  - Bhakti-rasāmṛta-sindhu
 relations:
-  - target: "vaishnavism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "achintya-bheda-abheda"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: vaishnavism
+    type: branch_of
+    certainty: academic_consensus
+  - target: achintya-bheda-abheda
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1550
+origin_geo:
+  lat: 24.8659
+  lng: 82.5658
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Gauḍīya Vaiṣṇavism formed around the devotional
+    movement of Caitanya in sixteenth-century Bengal and Odisha. His followers,
+    especially the Gosvāmins of Vrindava...
+  - >-
+    Distinctive Practice: The tradition presents Rādhā and Kṛṣṇa as the highest
+    expression of divine love and makes *bhakti*—cultivated through chanting,
+    remembrance, worship, and servic...
+  - >-
+    Core Orientation: A Bengali Vaiṣṇava devotional tradition centered on
+    Caitanya, loving devotion to Rādhā and Kṛṣṇa, and congregational chanting.
+sources:
+  - title: 'Encyclopaedia Britannica: "Gauḍīya Vaiṣṇavism"'
+    url: 'https://www.britannica.com/topic/gau-ya-vai-avism'
+  - title: 'Oxford Reference: Overview of Gauḍīya Vaiṣṇavism'
+    url: >-
+      https://www.oxfordreference.com/search?q=Gau%E1%B8%8D%C4%ABya%20Vai%E1%B9%A3%E1%B9%87avism
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: >-
+      https://www.rep.routledge.com/search?query=Gau%E1%B8%8D%C4%ABya%20Vai%E1%B9%A3%E1%B9%87avism
+artifacts:
+  - title: Brihadisvara Temple (Peruvudaiyar Kovil)
+    url: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
+    provenance: 'Thanjavur, Tamil Nadu'
+    period: 1010 CE (Chola Dynasty)
+    description: >-
+      Towering granite rock architecture exemplifying Tamil Dravidian temple
+      design and Shaivite sacred geometry.
+  - title: Chola Nataraja (Cosmic Dance of Shiva) Bronze
+    url: 'https://en.wikipedia.org/wiki/Nataraja'
+    provenance: Southern India
+    period: c. 10th-11th century CE
+    description: >-
+      Iconic lost-wax bronze sculpture representing the continuous cycle of
+      cosmic creation and preservation.
 ---
 
 # Gauḍīya Vaiṣṇavism

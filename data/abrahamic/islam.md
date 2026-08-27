@@ -1,29 +1,69 @@
 ---
-id: "islam"
-title: "Islam"
-cluster: "Abrahamic"
-color: "#38bdf8"
+id: islam
+title: Islam
+cluster: Abrahamic
+color: '#38bdf8'
 display_weight: 2.35
-era_start: "610 CE"
-epistemic_tier: "academic_consensus"
-summary: "A monotheistic tradition arising in seventh-century Arabia around the Qur'anic revelations proclaimed by Muhammad and the community formed around them."
+era_start: 610 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A monotheistic tradition arising in seventh-century Arabia around the Qur'anic
+  revelations proclaimed by Muhammad and the community formed around them.
 canonical_texts:
-  - "Qur'an"
-  - "Hadith collections"
-  - "Sīra literature"
+  - Qur'an
+  - Hadith collections
+  - Sīra literature
 relations:
-  - target: "judaism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-    citation: "Gabriel Said Reynolds, The Qur'an and the Bible (2018)"
-  - target: "christianity"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-    citation: "Sidney H. Griffith, The Bible in Arabic (2013)"
-  - target: "zoroastrianism"
-    type: "influenced_by"
-    certainty: "minority_scholarly"
-    citation: "Patricia Crone, The Nativist Prophets of Early Islamic Iran (2012)"
+  - target: judaism
+    type: influenced_by
+    certainty: academic_consensus
+    citation: 'Gabriel Said Reynolds, The Qur''an and the Bible (2018)'
+  - target: christianity
+    type: influenced_by
+    certainty: academic_consensus
+    citation: 'Sidney H. Griffith, The Bible in Arabic (2013)'
+  - target: zoroastrianism
+    type: influenced_by
+    certainty: minority_scholarly
+    citation: 'Patricia Crone, The Nativist Prophets of Early Islamic Iran (2012)'
+origin_year: 610
+origin_geo:
+  lat: 32.5357
+  lng: 34.7802
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Tawhid (Absolute Monotheism): Uncompromising oneness and transcendence of
+    Allah, rejecting any association of partners (shirk).
+  - >-
+    Prophethood & Seal of the Prophets: Revelation completed through Muhammad as
+    the final prophet, preserved in the uncreated Quran.
+  - >-
+    Five Pillars & Sunnah: Religious practice structured around Shahada (creed),
+    Salat (prayer), Zakat (alms), Sawm (fasting), and Hajj (pilgrimage).
+sources:
+  - title: 'Encyclopaedia Britannica: "Islam"'
+    url: 'https://www.britannica.com/topic/islam'
+  - title: 'Oxford Reference: Overview of Islam'
+    url: 'https://www.oxfordreference.com/search?q=Islam'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Islam'
+    url: 'https://www.cambridge.org/core/search?q=Islam'
+artifacts:
+  - title: Dome of the Rock Sacred Umayyad Sanctuary
+    url: 'https://en.wikipedia.org/wiki/Dome_of_the_Rock'
+    provenance: Jerusalem
+    period: 691 CE (Umayyad Caliphate)
+    description: >-
+      Architectural masterpiece of early Islamic octagonal design with classical
+      Kufic Quranic inscriptions.
+  - title: Blue Quran Gold Kufic Manuscript Folio
+    url: 'https://en.wikipedia.org/wiki/Blue_Quran'
+    provenance: Kairouan / Great Mosque
+    period: c. 9th-10th century CE
+    description: >-
+      Indigo-dyed vellum parchment illuminated with gold Kufic script preserving
+      the Holy Quran.
 ---
 
 # Islam

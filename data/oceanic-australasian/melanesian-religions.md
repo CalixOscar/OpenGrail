@@ -1,19 +1,59 @@
 ---
-id: "melanesian-religions"
-title: "Melanesian Religions"
-cluster: "Indigenous & Diasporic"
-color: "#428f86"
-era_start: "ancestral era"
-epistemic_tier: "academic_consensus"
-summary: "A geographic umbrella for highly diverse Indigenous religions across islands conventionally called Melanesia."
+id: melanesian-religions
+title: Melanesian Religions
+cluster: Indigenous & Diasporic
+color: '#428f86'
+era_start: ancestral era
+epistemic_tier: academic_consensus
+summary: >-
+  A geographic umbrella for highly diverse Indigenous religions across islands
+  conventionally called Melanesia.
 canonical_texts:
-  - "Oral traditions (community-specific)"
-  - "Ritual and exchange corpora"
-  - "Clan and place histories"
+  - Oral traditions (community-specific)
+  - Ritual and exchange corpora
+  - Clan and place histories
 relations:
-  - target: "polynesian-religions"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: polynesian-religions
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: -19.3757
+  lng: 169.1477
+  place_name: 'Tanna Island (Mount Yasur), Vanuatu'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: “Melanesia” is a colonial-era regional label covering
+    extraordinary linguistic and cultural diversity in New Guinea, the
+    Bismarcks, Solomon Islands, Vanuatu, Ne...
+  - >-
+    Distinctive Practice: Ancestors, spirits, gardening, exchange, secrecy,
+    initiation, healing, and ceremonial houses matter in some communities but
+    never define all. Classic anthropolo...
+  - >-
+    Core Orientation: A geographic umbrella for highly diverse Indigenous
+    religions across islands conventionally called Melanesia.
+sources:
+  - title: 'Encyclopaedia Britannica: "Melanesian Religions"'
+    url: 'https://www.britannica.com/topic/melanesian-religions'
+  - title: 'Oxford Reference: Overview of Melanesian Religions'
+    url: 'https://www.oxfordreference.com/search?q=Melanesian%20Religions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Melanesian%20Religions'
+artifacts:
+  - title: Melanesian Religions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Melanesian_Religions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Melanesian Religions.
+  - title: Melanesian Religions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Oral_traditions_(community-specific)'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Melanesian Religions

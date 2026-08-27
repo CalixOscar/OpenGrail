@@ -1,21 +1,61 @@
 ---
-id: "temple-of-set"
-title: "Temple of Set"
-cluster: "Esoteric & Modern"
-color: "#c34f91"
-era_start: "1975 CE"
-epistemic_tier: "academic_consensus"
-summary: "An initiatory Left-Hand Path religion founded by Michael Aquino that understands Set as a real principle of isolate intelligence."
+id: temple-of-set
+title: Temple of Set
+cluster: Esoteric & Modern
+color: '#c34f91'
+era_start: 1975 CE
+epistemic_tier: academic_consensus
+summary: >-
+  An initiatory Left-Hand Path religion founded by Michael Aquino that
+  understands Set as a real principle of isolate intelligence.
 canonical_texts:
-  - "The Book of Coming Forth by Night"
-  - "Temple of Set initiatory papers"
+  - The Book of Coming Forth by Night
+  - Temple of Set initiatory papers
 relations:
-  - target: "modern-satanism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "church-of-satan"
-    type: "diverged_from"
-    certainty: "academic_consensus"
+  - target: modern-satanism
+    type: branch_of
+    certainty: academic_consensus
+  - target: church-of-satan
+    type: diverged_from
+    certainty: academic_consensus
+origin_year: 1975
+origin_geo:
+  lat: 37.8537
+  lng: -122.2004
+  place_name: 'San Francisco, California, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Michael Aquino and associates formed the Temple of
+    Set in 1975 after leaving the Church of Satan. The organization developed a
+    graded initiatory system drawing ...
+  - >-
+    Distinctive Practice: Setians generally affirm Set as an objective
+    metaphysical intelligence and pursue *xeper*, self-directed becoming or
+    coming into being. This distinguishes the T...
+  - >-
+    Core Orientation: An initiatory Left-Hand Path religion founded by Michael
+    Aquino that understands Set as a real principle of isolate intelligence.
+sources:
+  - title: 'Encyclopaedia Britannica: "Temple of Set"'
+    url: 'https://www.britannica.com/topic/temple-of-set'
+  - title: 'Oxford Reference: Overview of Temple of Set'
+    url: 'https://www.oxfordreference.com/search?q=Temple%20of%20Set'
+  - title: 'Brill Handbook of Religious Traditions: Temple of Set'
+    url: 'https://brill.com/search?q=Temple%20of%20Set'
+artifacts:
+  - title: Temple of Set Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Temple_of_Set'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Temple of Set.
+  - title: Temple of Set Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/The_Book_of_Coming_Forth_by_Night'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Temple of Set

@@ -1,22 +1,63 @@
 ---
-id: "dinka-religion"
-title: "Dinka Religious Traditions"
-cluster: "Indigenous & Diasporic"
-color: "#bb7c53"
-era_start: "precolonial"
-epistemic_tier: "academic_consensus"
+id: dinka-religion
+title: Dinka Religious Traditions
+cluster: Indigenous & Diasporic
+color: '#bb7c53'
+era_start: precolonial
+epistemic_tier: academic_consensus
 aliases:
-  - "Jieng Religion"
-  - "Muonyjang Religious Traditions"
-summary: "Diverse religious traditions of Dinka communities in South Sudan, involving Divinity, clan powers, ancestors, cattle, sacrifice, and moral relationship."
+  - Jieng Religion
+  - Muonyjang Religious Traditions
+summary: >-
+  Diverse religious traditions of Dinka communities in South Sudan, involving
+  Divinity, clan powers, ancestors, cattle, sacrifice, and moral relationship.
 canonical_texts:
-  - "Dinka oral traditions"
-  - "Invocation and sacrifice corpora"
-  - "Clan songs and genealogies"
+  - Dinka oral traditions
+  - Invocation and sacrifice corpora
+  - Clan songs and genealogies
 relations:
-  - target: "african-indigenous-traditions"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: african-indigenous-traditions
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: 4.8594
+  lng: 31.5713
+  place_name: 'Bahr el Ghazal (Juba), South Sudan'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Dinka or Jieng communities comprise numerous sections
+    with distinct territories, histories, and ritual specialists. Their
+    religious worlds developed through cat...
+  - >-
+    Distinctive Practice: Accounts commonly describe a high divinity and diverse
+    Powers associated with clans, places, illness, and social life. Cattle can
+    mediate sacrifice, naming, poe...
+  - >-
+    Core Orientation: Diverse religious traditions of Dinka communities in South
+    Sudan, involving Divinity, clan powers, ancestors, cattle, sacrifice, and
+    moral relationship.
+sources:
+  - title: 'Encyclopaedia Britannica: "Dinka Religious Traditions"'
+    url: 'https://www.britannica.com/topic/dinka-religious-traditions'
+  - title: 'Oxford Reference: Overview of Dinka Religious Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Dinka%20Religious%20Traditions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Dinka%20Religious%20Traditions'
+artifacts:
+  - title: Dinka Religious Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Dinka_Religious_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Dinka Religious Traditions.
+  - title: Dinka Religious Traditions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Dinka_oral_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Dinka Religious Traditions

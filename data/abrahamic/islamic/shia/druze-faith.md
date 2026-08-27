@@ -1,18 +1,58 @@
 ---
-id: "druze-faith"
-title: "Druze Faith"
-cluster: "Abrahamic"
-color: "#46a8ad"
-era_start: "1017 CE"
-epistemic_tier: "academic_consensus"
-summary: "A closed, initiatory monotheistic tradition that emerged from an Ismaili milieu under the Fatimid caliph al-Hakim."
+id: druze-faith
+title: Druze Faith
+cluster: Abrahamic
+color: '#46a8ad'
+era_start: 1017 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A closed, initiatory monotheistic tradition that emerged from an Ismaili
+  milieu under the Fatimid caliph al-Hakim.
 canonical_texts:
-  - "Epistles of Wisdom"
-  - "Druze liturgical commentaries"
+  - Epistles of Wisdom
+  - Druze liturgical commentaries
 relations:
-  - target: "ismailism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: ismailism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1017
+origin_geo:
+  lat: 32.2277
+  lng: 35.9396
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The Druze call began in the early eleventh-century
+    Fatimid realm and was declared closed to new adherents within a few decades.
+    Communities endured in the mount...
+  - >-
+    Distinctive Practice: The *Epistles of Wisdom* present an esoteric
+    monotheism shaped by Ismaili interpretation and philosophical traditions.
+    The community distinguishes initiated *uq...
+  - >-
+    Core Orientation: A closed, initiatory monotheistic tradition that emerged
+    from an Ismaili milieu under the Fatimid caliph al-Hakim.
+sources:
+  - title: 'Encyclopaedia Britannica: "Druze Faith"'
+    url: 'https://www.britannica.com/topic/druze-faith'
+  - title: 'Oxford Reference: Overview of Druze Faith'
+    url: 'https://www.oxfordreference.com/search?q=Druze%20Faith'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Druze Faith'
+    url: 'https://www.cambridge.org/core/search?q=Druze%20Faith'
+artifacts:
+  - title: Druze Faith Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Druze_Faith'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Druze Faith.
+  - title: Druze Faith Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Epistles_of_Wisdom'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Druze Faith

@@ -1,27 +1,71 @@
 ---
-id: "hinduism"
-title: "Hindu Traditions"
-cluster: "Dharmic"
-color: "#f97316"
+id: hinduism
+title: Hindu Traditions
+cluster: Dharmic
+color: '#f97316'
 display_weight: 2.45
-era_start: "c. 500 BCE"
-epistemic_tier: "academic_consensus"
-summary: "A plural family of South Asian traditions linking Vedic authority, temple and household practice, devotion, philosophy, pilgrimage, and regional sacred worlds."
+era_start: c. 500 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  A plural family of South Asian traditions linking Vedic authority, temple and
+  household practice, devotion, philosophy, pilgrimage, and regional sacred
+  worlds.
 canonical_texts:
-  - "Upaniṣads"
-  - "Bhagavad Gītā"
-  - "Rāmāyaṇa"
-  - "Mahābhārata"
-  - "Purāṇas"
+  - Upaniṣads
+  - Bhagavad Gītā
+  - Rāmāyaṇa
+  - Mahābhārata
+  - Purāṇas
 relations:
-  - target: "vedic-religion"
-    type: "diverged_from"
-    certainty: "academic_consensus"
-    citation: "Gavin Flood, An Introduction to Hinduism (1996)"
-  - target: "buddhism"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
-    citation: "Johannes Bronkhorst, Greater Magadha (2007)"
+  - target: vedic-religion
+    type: diverged_from
+    certainty: academic_consensus
+    citation: 'Gavin Flood, An Introduction to Hinduism (1996)'
+  - target: buddhism
+    type: syncretized_with
+    certainty: academic_consensus
+    citation: 'Johannes Bronkhorst, Greater Magadha (2007)'
+origin_year: -500
+origin_geo:
+  lat: 25.3672
+  lng: 83.644
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: “Hinduism” is a relatively recent umbrella label for
+    traditions with much older and varied histories. Between the late Vedic
+    period and the early centuries CE, ...
+  - >-
+    Distinctive Practice: Vedic texts retained exceptional authority in many
+    schools, but continuity did not mean simple preservation. Philosophers
+    reinterpreted sacrifice, self, action,...
+  - >-
+    Core Orientation: A plural family of South Asian traditions linking Vedic
+    authority, temple and household practice, devotion, philosophy, pilgrimage,
+    and regional sacred worlds.
+sources:
+  - title: 'Encyclopaedia Britannica: "Hindu Traditions"'
+    url: 'https://www.britannica.com/topic/hindu-traditions'
+  - title: 'Oxford Reference: Overview of Hindu Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Hindu%20Traditions'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Hindu%20Traditions'
+artifacts:
+  - title: Brihadisvara Temple (Peruvudaiyar Kovil)
+    url: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
+    provenance: 'Thanjavur, Tamil Nadu'
+    period: 1010 CE (Chola Dynasty)
+    description: >-
+      Towering granite rock architecture exemplifying Tamil Dravidian temple
+      design and Shaivite sacred geometry.
+  - title: Chola Nataraja (Cosmic Dance of Shiva) Bronze
+    url: 'https://en.wikipedia.org/wiki/Nataraja'
+    provenance: Southern India
+    period: c. 10th-11th century CE
+    description: >-
+      Iconic lost-wax bronze sculpture representing the continuous cycle of
+      cosmic creation and preservation.
 ---
 
 # Hindu Traditions

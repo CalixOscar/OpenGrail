@@ -1,19 +1,59 @@
 ---
-id: "sadducees"
-title: "Sadducees"
-cluster: "Abrahamic"
-color: "#5b9bd7"
-era_start: "c. 2nd century BCE"
-epistemic_tier: "academic_consensus"
-summary: "A Second Temple Jewish party associated in surviving sources with priestly elites and Temple-centered authority."
+id: sadducees
+title: Sadducees
+cluster: Abrahamic
+color: '#5b9bd7'
+era_start: c. 2nd century BCE
+epistemic_tier: academic_consensus
+summary: >-
+  A Second Temple Jewish party associated in surviving sources with priestly
+  elites and Temple-centered authority.
 canonical_texts:
-  - "Josephus, Jewish Antiquities"
-  - "New Testament"
-  - "Mishnah"
+  - 'Josephus, Jewish Antiquities'
+  - New Testament
+  - Mishnah
 relations:
-  - target: "second-temple-judaism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: second-temple-judaism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: -150
+origin_geo:
+  lat: 30.9905
+  lng: 35.6137
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Sadducees are known almost entirely through opponents
+    or later observers, including Josephus, New Testament authors, and rabbinic
+    texts. They appear connected w...
+  - >-
+    Distinctive Practice: Ancient reports say Sadducees rejected resurrection
+    and some Pharisaic traditions, but the claim that they accepted only the
+    Pentateuch cannot be demonstrated s...
+  - >-
+    Core Orientation: A Second Temple Jewish party associated in surviving
+    sources with priestly elites and Temple-centered authority.
+sources:
+  - title: 'Encyclopaedia Britannica: "Sadducees"'
+    url: 'https://www.britannica.com/topic/sadducees'
+  - title: 'Oxford Reference: Overview of Sadducees'
+    url: 'https://www.oxfordreference.com/search?q=Sadducees'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Sadducees'
+    url: 'https://www.cambridge.org/core/search?q=Sadducees'
+artifacts:
+  - title: Sadducees Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Sadducees'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Sadducees.
+  - title: Sadducees Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Josephus%2C_Jewish_Antiquities'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Sadducees

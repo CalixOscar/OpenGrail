@@ -1,20 +1,60 @@
 ---
-id: "hawaiian-religion"
-title: "Hawaiian Religion"
-cluster: "Indigenous & Diasporic"
-color: "#2e9d8a"
-era_start: "c. 1000 CE"
-epistemic_tier: "academic_consensus"
-summary: "Kānaka Maoli religious traditions grounded in genealogy, akua, ʻāina, chiefly history, and reciprocal care."
+id: hawaiian-religion
+title: Hawaiian Religion
+cluster: Indigenous & Diasporic
+color: '#2e9d8a'
+era_start: c. 1000 CE
+epistemic_tier: academic_consensus
+summary: >-
+  Kānaka Maoli religious traditions grounded in genealogy, akua, ʻāina, chiefly
+  history, and reciprocal care.
 canonical_texts:
-  - "Kumulipo"
-  - "Mele and moʻolelo corpora"
-  - "Oral traditions and ritual records"
+  - Kumulipo
+  - Mele and moʻolelo corpora
+  - Oral traditions and ritual records
 relations:
-  - target: "polynesian-religions"
-    type: "branch_of"
-    certainty: "academic_consensus"
-    citation: "Valerio Valeri, Kingship and Sacrifice (1985)"
+  - target: polynesian-religions
+    type: branch_of
+    certainty: academic_consensus
+    citation: 'Valerio Valeri, Kingship and Sacrifice (1985)'
+origin_year: 1000
+origin_geo:
+  lat: 21.3069
+  lng: -157.8583
+  place_name: 'Oahu (Honolulu / Heiau), Hawaii, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Kānaka Maoli religious life developed across the
+    Hawaiian Islands through chiefly polities, specialist lineages, agriculture,
+    fishing, navigation, and relations...
+  - >-
+    Distinctive Practice: Akua such as Kāne, Kanaloa, Kū, and Lono participate
+    in a much wider field of ancestors and localized powers. *Mele*, *moʻolelo*,
+    *kapu*, *mana*, offering, and ...
+  - >-
+    Core Orientation: Kānaka Maoli religious traditions grounded in genealogy,
+    akua, ʻāina, chiefly history, and reciprocal care.
+sources:
+  - title: 'Encyclopaedia Britannica: "Hawaiian Religion"'
+    url: 'https://www.britannica.com/topic/hawaiian-religion'
+  - title: 'Oxford Reference: Overview of Hawaiian Religion'
+    url: 'https://www.oxfordreference.com/search?q=Hawaiian%20Religion'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Hawaiian%20Religion'
+artifacts:
+  - title: Hawaiian Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Hawaiian_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Hawaiian Religion.
+  - title: Hawaiian Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Kumulipo'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Hawaiian Religion

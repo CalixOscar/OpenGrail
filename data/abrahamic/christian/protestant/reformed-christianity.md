@@ -1,19 +1,63 @@
 ---
-id: "reformed-christianity"
-title: "Reformed Christianity"
-cluster: "Abrahamic"
-color: "#397fd2"
-era_start: "1520s CE"
-epistemic_tier: "academic_consensus"
-summary: "A Protestant family shaped by Swiss and Genevan reformers and traditions of covenantal, confessional theology."
+id: reformed-christianity
+title: Reformed Christianity
+cluster: Abrahamic
+color: '#397fd2'
+era_start: 1520s CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Protestant family shaped by Swiss and Genevan reformers and traditions of
+  covenantal, confessional theology.
 canonical_texts:
-  - "Bible"
-  - "Heidelberg Catechism"
-  - "Westminster Standards"
+  - Bible
+  - Heidelberg Catechism
+  - Westminster Standards
 relations:
-  - target: "protestantism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: protestantism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1520
+origin_geo:
+  lat: 45.969
+  lng: 6.335
+  place_name: 'Geneva, Switzerland'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Reformed Christianity grew from reforms associated
+    with Huldrych Zwingli, John Calvin, Heinrich Bullinger, and related
+    movements in Switzerland, France, the Net...
+  - >-
+    Distinctive Practice: Reformed theology emphasizes divine sovereignty,
+    covenant, disciplined communal life, and preaching ordered by scripture.
+    Classic confessions teach infant bapti...
+  - >-
+    Core Orientation: A Protestant family shaped by Swiss and Genevan reformers
+    and traditions of covenantal, confessional theology.
+sources:
+  - title: 'Encyclopaedia Britannica: "Reformed Christianity"'
+    url: 'https://www.britannica.com/topic/reformed-christianity'
+  - title: 'Oxford Reference: Overview of Reformed Christianity'
+    url: 'https://www.oxfordreference.com/search?q=Reformed%20Christianity'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Reformed
+      Christianity
+    url: 'https://www.cambridge.org/core/search?q=Reformed%20Christianity'
+artifacts:
+  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
+    url: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
+    provenance: 'Wittenberg, Germany'
+    period: 1517 CE
+    description: >-
+      Historic church where Martin Luther posted his Ninety-five Theses,
+      initiating the Protestant Reformation.
+  - title: Luther 1534 German Bible Title Woodcut
+    url: 'https://en.wikipedia.org/wiki/Luther_Bible'
+    provenance: Wittenberg
+    period: 1534 CE
+    description: >-
+      Historic printed vernacular German translation democratizing direct
+      scriptural access for all believers.
 ---
 
 # Reformed Christianity

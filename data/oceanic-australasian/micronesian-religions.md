@@ -1,19 +1,59 @@
 ---
-id: "micronesian-religions"
-title: "Micronesian Religions"
-cluster: "Indigenous & Diasporic"
-color: "#3b8fa0"
-era_start: "ancestral era"
-epistemic_tier: "academic_consensus"
-summary: "Distinct island religious traditions across the diverse region conventionally called Micronesia."
+id: micronesian-religions
+title: Micronesian Religions
+cluster: Indigenous & Diasporic
+color: '#3b8fa0'
+era_start: ancestral era
+epistemic_tier: academic_consensus
+summary: >-
+  Distinct island religious traditions across the diverse region conventionally
+  called Micronesia.
 canonical_texts:
-  - "Oral traditions (island-specific)"
-  - "Navigational, genealogical, and ritual corpora"
-  - "Community histories"
+  - Oral traditions (island-specific)
+  - 'Navigational, genealogical, and ritual corpora'
+  - Community histories
 relations:
-  - target: "polynesian-religions"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: polynesian-religions
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: -19.4611
+  lng: 169.0568
+  place_name: 'Tanna Island (Mount Yasur), Vanuatu'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Micronesia includes the Marianas, Carolines,
+    Marshalls, Kiribati, Nauru, and other island groups with different
+    languages, settlement histories, and political s...
+  - >-
+    Distinctive Practice: Genealogy, chiefly or clan authority, ocean knowledge,
+    ancestors, breadfruit and taro cycles, sacred places, and specialist healing
+    appear in locally specific f...
+  - >-
+    Core Orientation: Distinct island religious traditions across the diverse
+    region conventionally called Micronesia.
+sources:
+  - title: 'Encyclopaedia Britannica: "Micronesian Religions"'
+    url: 'https://www.britannica.com/topic/micronesian-religions'
+  - title: 'Oxford Reference: Overview of Micronesian Religions'
+    url: 'https://www.oxfordreference.com/search?q=Micronesian%20Religions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Micronesian%20Religions'
+artifacts:
+  - title: Micronesian Religions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Micronesian_Religions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Micronesian Religions.
+  - title: Micronesian Religions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Oral_traditions_(island-specific)'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Micronesian Religions

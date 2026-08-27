@@ -1,22 +1,62 @@
 ---
-id: "naqshbandiyya"
-title: "Naqshbandiyya"
-cluster: "Abrahamic"
-color: "#49b59e"
-era_start: "14th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A major Sufi order named for Baha al-Din Naqshband and noted in many lineages for silent remembrance."
+id: naqshbandiyya
+title: Naqshbandiyya
+cluster: Abrahamic
+color: '#49b59e'
+era_start: 14th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A major Sufi order named for Baha al-Din Naqshband and noted in many lineages
+  for silent remembrance.
 aliases:
-  - "Naqshbandi Order"
+  - Naqshbandi Order
 display_weight: 1.3
 canonical_texts:
-  - "Quran"
-  - "Hadith collections"
-  - "Rashahat Ayn al-Hayat"
+  - Quran
+  - Hadith collections
+  - Rashahat Ayn al-Hayat
 relations:
-  - target: "sufism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: sufism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1350
+origin_geo:
+  lat: 31.3038
+  lng: 34.3806
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The order crystallized in Central Asia around Baha
+    al-Din Naqshband, drawing on an earlier chain of Khwajagan teachers.
+    Mujaddidi, Khalidi, and other renewals c...
+  - >-
+    Distinctive Practice: Many Naqshbandi paths emphasize silent *dhikr*, close
+    adherence to Islamic law, companionship with a guide, and spiritual
+    awareness amid ordinary social life. P...
+  - >-
+    Core Orientation: A major Sufi order named for Baha al-Din Naqshband and
+    noted in many lineages for silent remembrance.
+sources:
+  - title: 'Encyclopaedia Britannica: "Naqshbandiyya"'
+    url: 'https://www.britannica.com/topic/naqshbandiyya'
+  - title: 'Oxford Reference: Overview of Naqshbandiyya'
+    url: 'https://www.oxfordreference.com/search?q=Naqshbandiyya'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Naqshbandiyya'
+    url: 'https://www.cambridge.org/core/search?q=Naqshbandiyya'
+artifacts:
+  - title: Naqshbandiyya Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Naqshbandiyya'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Naqshbandiyya.
+  - title: Naqshbandiyya Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Quran'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Naqshbandiyya

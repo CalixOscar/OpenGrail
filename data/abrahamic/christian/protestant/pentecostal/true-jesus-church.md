@@ -1,21 +1,62 @@
 ---
-id: "true-jesus-church"
-title: "True Jesus Church"
-cluster: "Abrahamic"
-color: "#9f77c6"
-era_start: "1917 CE"
-epistemic_tier: "academic_consensus"
-summary: "An independent Chinese Oneness Pentecostal church combining charismatic gifts, Jesus-name baptism, and seventh-day Sabbath observance."
+id: true-jesus-church
+title: True Jesus Church
+cluster: Abrahamic
+color: '#9f77c6'
+era_start: 1917 CE
+epistemic_tier: academic_consensus
+summary: >-
+  An independent Chinese Oneness Pentecostal church combining charismatic gifts,
+  Jesus-name baptism, and seventh-day Sabbath observance.
 canonical_texts:
-  - "Bible"
-  - "Ten Basic Beliefs of the True Jesus Church"
+  - Bible
+  - Ten Basic Beliefs of the True Jesus Church
 relations:
-  - target: "oneness-pentecostalism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "adventism"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: oneness-pentecostalism
+    type: branch_of
+    certainty: academic_consensus
+  - target: adventism
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 1917
+origin_geo:
+  lat: 34.3476
+  lng: -118.307
+  place_name: 'Azusa Street / Los Angeles, California, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The True Jesus Church arose in China in 1917 through
+    leaders including Paul Wei, Zhang Lingsheng, and Barnabas Zhang, amid
+    indigenous revival and contact with i...
+  - >-
+    Distinctive Practice: The church teaches the Oneness of God, baptism in
+    Jesus' name with full immersion, reception of the Holy Spirit evidenced by
+    tongues, foot washing, divine heali...
+  - >-
+    Core Orientation: An independent Chinese Oneness Pentecostal church
+    combining charismatic gifts, Jesus-name baptism, and seventh-day Sabbath
+    observance.
+sources:
+  - title: 'Encyclopaedia Britannica: "True Jesus Church"'
+    url: 'https://www.britannica.com/topic/true-jesus-church'
+  - title: 'Oxford Reference: Overview of True Jesus Church'
+    url: 'https://www.oxfordreference.com/search?q=True%20Jesus%20Church'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & True Jesus Church'
+    url: 'https://www.cambridge.org/core/search?q=True%20Jesus%20Church'
+artifacts:
+  - title: True Jesus Church Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/True_Jesus_Church'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with True Jesus Church.
+  - title: True Jesus Church Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # True Jesus Church

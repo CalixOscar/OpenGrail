@@ -1,26 +1,69 @@
 ---
-id: "cambodian-buddhism"
-title: "Cambodian Buddhism"
-cluster: "Dharmic"
-color: "#f3a020"
-era_start: "c. 14th century CE"
-epistemic_tier: "academic_consensus"
+id: cambodian-buddhism
+title: Cambodian Buddhism
+cluster: Dharmic
+color: '#f3a020'
+era_start: c. 14th century CE
+epistemic_tier: academic_consensus
 display_weight: 1.35
 aliases:
-  - "Khmer Buddhism"
-  - "Cambodian Theravāda"
-summary: "Cambodia’s predominantly Theravāda Buddhist tradition, rebuilt after severe twentieth-century persecution and institutional destruction."
+  - Khmer Buddhism
+  - Cambodian Theravāda
+summary: >-
+  Cambodia’s predominantly Theravāda Buddhist tradition, rebuilt after severe
+  twentieth-century persecution and institutional destruction.
 canonical_texts:
-  - "Pāli Tipiṭaka"
-  - "Khmer Dharma manuscripts"
-  - "Reamker"
+  - Pāli Tipiṭaka
+  - Khmer Dharma manuscripts
+  - Reamker
 relations:
-  - target: "theravada"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "thai-buddhism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: theravada
+    type: branch_of
+    certainty: academic_consensus
+  - target: thai-buddhism
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1350
+origin_geo:
+  lat: 8.5409
+  lng: 80.3501
+  place_name: 'Anuradhapura, North Central, Sri Lanka'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Theravāda became dominant after centuries in which
+    Khmer courts supported Hindu and Mahāyāna institutions, especially during
+    the post-Angkor period. Village mon...
+  - >-
+    Distinctive Practice: Cambodian Buddhist life includes merit transfer,
+    ancestor rites, chanting, temporary ordination, festivals, ethical precepts,
+    and protective practices as well a...
+  - >-
+    Core Orientation: Cambodia’s predominantly Theravāda Buddhist tradition,
+    rebuilt after severe twentieth-century persecution and institutional
+    destruction.
+sources:
+  - title: 'Encyclopaedia Britannica: "Cambodian Buddhism"'
+    url: 'https://www.britannica.com/topic/cambodian-buddhism'
+  - title: 'Oxford Reference: Overview of Cambodian Buddhism'
+    url: 'https://www.oxfordreference.com/search?q=Cambodian%20Buddhism'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Cambodian%20Buddhism'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Cambodian Buddhism

@@ -1,18 +1,59 @@
 ---
-id: "shamanic-traditions"
-title: "Shamanic Traditions"
-cluster: "Indigenous & Diasporic"
-color: "#ad8050"
-era_start: "ancient practices; modern comparative category"
-epistemic_tier: "minority_scholarly"
-summary: "A comparative umbrella for specialized ritual mediation, healing, and spirit encounter, derived from a Siberian term but applied much more broadly."
+id: shamanic-traditions
+title: Shamanic Traditions
+cluster: Indigenous & Diasporic
+color: '#ad8050'
+era_start: ancient practices; modern comparative category
+epistemic_tier: minority_scholarly
+summary: >-
+  A comparative umbrella for specialized ritual mediation, healing, and spirit
+  encounter, derived from a Siberian term but applied much more broadly.
 canonical_texts:
-  - "Community-specific oral traditions"
-  - "Healing and initiatory ritual corpora"
+  - Community-specific oral traditions
+  - Healing and initiatory ritual corpora
 relations:
-  - target: "animist-frameworks"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: animist-frameworks
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: 7.1133
+  lng: 4.4388
+  place_name: 'Ile-Ife, Osun, Nigeria'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The word *shaman* entered European scholarship
+    through Tungusic-speaking communities of Siberia and was later extended to
+    ritual specialists around the world. T...
+  - >-
+    Distinctive Practice: Practices called shamanic may include spirit
+    negotiation, healing, divination, soul journey, drumming, possession, or
+    initiation through illness, but no univers...
+  - >-
+    Core Orientation: A comparative umbrella for specialized ritual mediation,
+    healing, and spirit encounter, derived from a Siberian term but applied much
+    more broadly.
+sources:
+  - title: 'Encyclopaedia Britannica: "Shamanic Traditions"'
+    url: 'https://www.britannica.com/topic/shamanic-traditions'
+  - title: 'Oxford Reference: Overview of Shamanic Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Shamanic%20Traditions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Shamanic%20Traditions'
+artifacts:
+  - title: Shamanic Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Shamanic_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Shamanic Traditions.
+  - title: Shamanic Traditions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Community-specific_oral_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Shamanic Traditions

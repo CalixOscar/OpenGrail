@@ -1,20 +1,67 @@
 ---
-id: "church-of-jesus-christ-latter-day-saints-strangite"
-title: "Church of Jesus Christ of Latter Day Saints (Strangite)"
-cluster: "Abrahamic"
-color: "#887fc5"
-era_start: "1844 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Latter Day Saint branch that accepted James J. Strang as Joseph Smith's prophetic successor."
+id: church-of-jesus-christ-latter-day-saints-strangite
+title: Church of Jesus Christ of Latter Day Saints (Strangite)
+cluster: Abrahamic
+color: '#887fc5'
+era_start: 1844 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Latter Day Saint branch that accepted James J. Strang as Joseph Smith's
+  prophetic successor.
 canonical_texts:
-  - "Bible"
-  - "Book of Mormon"
-  - "Doctrine and Covenants"
-  - "Book of the Law of the Lord"
+  - Bible
+  - Book of Mormon
+  - Doctrine and Covenants
+  - Book of the Law of the Lord
 relations:
-  - target: "latter-day-saint-movement"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: latter-day-saint-movement
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1844
+origin_geo:
+  lat: 40.9399
+  lng: -111.975
+  place_name: 'Salt Lake City (Temple Square), Utah, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: James J. Strang claimed appointment by Joseph Smith
+    and reported new angelic authority shortly after Smith's death in 1844. His
+    movement established communities...
+  - >-
+    Distinctive Practice: Strangites accept the Bible, Book of Mormon, parts of
+    the Doctrine and Covenants, and Strang's *Book of the Law of the Lord*. The
+    tradition maintains Saturday a...
+  - >-
+    Core Orientation: A Latter Day Saint branch that accepted James J. Strang as
+    Joseph Smith's prophetic successor.
+sources:
+  - title: 'Encyclopaedia Britannica: "Church of Jesus Christ of Latter Day Saints"'
+    url: >-
+      https://www.britannica.com/topic/church-of-jesus-christ-of-latter-day-saints
+  - title: 'Oxford Reference: Overview of Church of Jesus Christ of Latter Day Saints'
+    url: >-
+      https://www.oxfordreference.com/search?q=Church%20of%20Jesus%20Christ%20of%20Latter%20Day%20Saints
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Church of Jesus
+      Christ of Latter Day Saints
+    url: >-
+      https://www.cambridge.org/core/search?q=Church%20of%20Jesus%20Christ%20of%20Latter%20Day%20Saints
+artifacts:
+  - title: >-
+      Church of Jesus Christ of Latter Day Saints Historical Reference &
+      Architecture
+    url: 'https://en.wikipedia.org/wiki/Church_of_Jesus_Christ_of_Latter_Day_Saints'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Church of Jesus Christ of Latter Day Saints.
+  - title: Church of Jesus Christ of Latter Day Saints Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Church of Jesus Christ of Latter Day Saints (Strangite)

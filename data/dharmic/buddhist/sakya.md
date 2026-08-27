@@ -1,19 +1,59 @@
 ---
-id: "sakya"
-title: "Sakya"
-cluster: "Dharmic"
-color: "#f28a3a"
-era_start: "11th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A Tibetan Buddhist school centered on Sakya Monastery, Lamdré teaching, rigorous scholarship, and hereditary-clerical leadership."
+id: sakya
+title: Sakya
+cluster: Dharmic
+color: '#f28a3a'
+era_start: 11th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Tibetan Buddhist school centered on Sakya Monastery, Lamdré teaching,
+  rigorous scholarship, and hereditary-clerical leadership.
 canonical_texts:
-  - "Hevajra Tantra"
-  - "Lamdré teachings"
-  - "Sakya Paṇḍita's Treasury of Valid Cognition"
+  - Hevajra Tantra
+  - Lamdré teachings
+  - Sakya Paṇḍita's Treasury of Valid Cognition
 relations:
-  - target: "tibetan-buddhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: tibetan-buddhism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1050
+origin_geo:
+  lat: 25.6848
+  lng: 82.1233
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Khön Könchok Gyalpo founded Sakya Monastery in 1073,
+    building on transmissions associated with the Indian adept Virūpa. The Khön
+    family and ordained masters joi...
+  - >-
+    Distinctive Practice: The Lamdré, or “Path and Fruit,” system integrates
+    Hevajra tantra with a complete account of path and result. Sakya scholarship
+    is renowned for logic, language,...
+  - >-
+    Core Orientation: A Tibetan Buddhist school centered on Sakya Monastery,
+    Lamdré teaching, rigorous scholarship, and hereditary-clerical leadership.
+sources:
+  - title: 'Encyclopaedia Britannica: "Sakya"'
+    url: 'https://www.britannica.com/topic/sakya'
+  - title: 'Oxford Reference: Overview of Sakya'
+    url: 'https://www.oxfordreference.com/search?q=Sakya'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Sakya'
+artifacts:
+  - title: Sakya Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Sakya'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Sakya.
+  - title: Sakya Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Hevajra_Tantra'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Sakya

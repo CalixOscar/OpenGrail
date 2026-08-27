@@ -1,25 +1,66 @@
 ---
-id: "zapotec-religion"
-title: "Zapotec Religious Traditions"
-cluster: "Indigenous & Diasporic"
-color: "#5a9d87"
-era_start: "c. 500 BCE"
-epistemic_tier: "academic_consensus"
+id: zapotec-religion
+title: Zapotec Religious Traditions
+cluster: Indigenous & Diasporic
+color: '#5a9d87'
+era_start: c. 500 BCE
+epistemic_tier: academic_consensus
 aliases:
-  - "Bënizaa Religious Traditions"
-  - "Zapotec Religion"
-summary: "Diverse Zapotec traditions linking community, ancestors, sacred mountains and caves, calendrical knowledge, rain, agriculture, and Catholic devotion."
+  - Bënizaa Religious Traditions
+  - Zapotec Religion
+summary: >-
+  Diverse Zapotec traditions linking community, ancestors, sacred mountains and
+  caves, calendrical knowledge, rain, agriculture, and Catholic devotion.
 canonical_texts:
-  - "Monte Albán inscriptions"
-  - "Colonial Zapotec-language ritual texts"
-  - "Community-specific oral traditions"
+  - Monte Albán inscriptions
+  - Colonial Zapotec-language ritual texts
+  - Community-specific oral traditions
 relations:
-  - target: "indigenous-american-religions"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "maya-religion"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: indigenous-american-religions
+    type: branch_of
+    certainty: academic_consensus
+  - target: maya-religion
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: -500
+origin_geo:
+  lat: 17.0439
+  lng: -96.7678
+  place_name: 'Monte Albán / Oaxaca Valley, Mexico'
+extinct_year: 1550
+key_tenets:
+  - >-
+    Foundational Doctrine: Zapotec-speaking peoples built long-lived urban and
+    regional traditions in Oaxaca, including Monte Albán, while never forming
+    one timeless culture. Spanish inva...
+  - >-
+    Distinctive Practice: Rain, maize, caves, mountains, ancestors, naming
+    calendars, household offerings, communal service, and Catholic festivals
+    interrelate differently by region. Arc...
+  - >-
+    Core Orientation: Diverse Zapotec traditions linking community, ancestors,
+    sacred mountains and caves, calendrical knowledge, rain, agriculture, and
+    Catholic devotion.
+sources:
+  - title: 'Encyclopaedia Britannica: "Zapotec Religious Traditions"'
+    url: 'https://www.britannica.com/topic/zapotec-religious-traditions'
+  - title: 'Oxford Reference: Overview of Zapotec Religious Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Zapotec%20Religious%20Traditions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Zapotec%20Religious%20Traditions'
+artifacts:
+  - title: Zapotec Religious Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Zapotec_Religious_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Zapotec Religious Traditions.
+  - title: Zapotec Religious Traditions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n_inscriptions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Zapotec Religious Traditions

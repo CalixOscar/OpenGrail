@@ -1,22 +1,62 @@
 ---
-id: "old-catholicism"
-title: "Old Catholicism"
-cluster: "Abrahamic"
-color: "#cda747"
-era_start: "1870s CE"
-epistemic_tier: "academic_consensus"
-summary: "Independent catholic churches, chiefly in the Union of Utrecht, formed in opposition to certain Roman definitions of papal authority."
+id: old-catholicism
+title: Old Catholicism
+cluster: Abrahamic
+color: '#cda747'
+era_start: 1870s CE
+epistemic_tier: academic_consensus
+summary: >-
+  Independent catholic churches, chiefly in the Union of Utrecht, formed in
+  opposition to certain Roman definitions of papal authority.
 canonical_texts:
-  - "Bible"
-  - "Declaration of Utrecht"
-  - "Old Catholic liturgical books"
+  - Bible
+  - Declaration of Utrecht
+  - Old Catholic liturgical books
 relations:
-  - target: "catholicism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "catholicism"
-    type: "schism"
-    certainty: "academic_consensus"
+  - target: catholicism
+    type: branch_of
+    certainty: academic_consensus
+  - target: catholicism
+    type: schism
+    certainty: academic_consensus
+origin_year: 1870
+origin_geo:
+  lat: 41.7786
+  lng: 12.0275
+  place_name: 'Rome, Latium, Italy'
+extinct_year: null
+key_tenets:
+  - >-
+    Apostolic Succession & Papacy: Communion with the Bishop of Rome as
+    successor of St. Peter holding the supreme teaching office (Magisterium).
+  - >-
+    Sacramental Economy: Seven sacraments centered on the real presence of
+    Christ in the Holy Eucharist as source and summit of spiritual life.
+  - >-
+    Scripture & Sacred Tradition: Divine revelation preserved through written
+    scripture and lived apostolic tradition interpreted by church councils.
+sources:
+  - title: 'Encyclopaedia Britannica: "Old Catholicism"'
+    url: 'https://www.britannica.com/topic/old-catholicism'
+  - title: 'Oxford Reference: Overview of Old Catholicism'
+    url: 'https://www.oxfordreference.com/search?q=Old%20Catholicism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Old Catholicism'
+    url: 'https://www.cambridge.org/core/search?q=Old%20Catholicism'
+artifacts:
+  - title: Saint Peter's Papal Basilica & Piazza
+    url: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
+    provenance: 'Vatican City, Rome'
+    period: 1506–1626 CE (Renaissance / Baroque)
+    description: >-
+      The Renaissance and Baroque episcopal center of the Roman Catholic Church,
+      designed by Michelangelo and Bernini.
+  - title: Codex Vaticanus Greek Bible Manuscript
+    url: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
+    provenance: Vatican Library Collection
+    period: c. 4th century CE
+    description: >-
+      One of the earliest extant uncial manuscripts of the Greek Old and New
+      Testaments.
 ---
 
 # Old Catholicism

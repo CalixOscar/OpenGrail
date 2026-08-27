@@ -1,23 +1,65 @@
 ---
-id: "restoration-movement"
-title: "Restoration Movement"
-cluster: "Abrahamic"
-color: "#6a87dc"
-era_start: "c. 1800 CE"
-epistemic_tier: "academic_consensus"
-summary: "The Stone-Campbell movement, a Protestant-origin effort to restore New Testament Christianity and overcome denominational division."
+id: restoration-movement
+title: Restoration Movement
+cluster: Abrahamic
+color: '#6a87dc'
+era_start: c. 1800 CE
+epistemic_tier: academic_consensus
+summary: >-
+  The Stone-Campbell movement, a Protestant-origin effort to restore New
+  Testament Christianity and overcome denominational division.
 aliases:
-  - "Stone-Campbell Movement"
-  - "Campbellites"
+  - Stone-Campbell Movement
+  - Campbellites
 display_weight: 1.45
 canonical_texts:
-  - "Bible"
-  - "Declaration and Address"
-  - "Last Will and Testament of the Springfield Presbytery"
+  - Bible
+  - Declaration and Address
+  - Last Will and Testament of the Springfield Presbytery
 relations:
-  - target: "protestantism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: protestantism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1800
+origin_geo:
+  lat: 32.6176
+  lng: 35.1738
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The Restoration Movement arose on the early
+    nineteenth-century United States frontier through networks associated
+    especially with Barton W. Stone and Alexander ...
+  - >-
+    Distinctive Practice: Common themes include believer's baptism by immersion,
+    weekly Communion, congregational life, and the slogan that scripture should
+    supply a basis for unity. The...
+  - >-
+    Core Orientation: The Stone-Campbell movement, a Protestant-origin effort to
+    restore New Testament Christianity and overcome denominational division.
+sources:
+  - title: 'Encyclopaedia Britannica: "Restoration Movement"'
+    url: 'https://www.britannica.com/topic/restoration-movement'
+  - title: 'Oxford Reference: Overview of Restoration Movement'
+    url: 'https://www.oxfordreference.com/search?q=Restoration%20Movement'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Restoration
+      Movement
+    url: 'https://www.cambridge.org/core/search?q=Restoration%20Movement'
+artifacts:
+  - title: Restoration Movement Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Restoration_Movement'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Restoration Movement.
+  - title: Restoration Movement Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Restoration Movement

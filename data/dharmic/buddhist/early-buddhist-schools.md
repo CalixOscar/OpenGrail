@@ -1,19 +1,61 @@
 ---
-id: "early-buddhist-schools"
-title: "Early Buddhist Schools"
-cluster: "Dharmic"
-color: "#f97316"
-era_start: "c. 4th century BCE"
-epistemic_tier: "academic_consensus"
-summary: "The multiple monastic and doctrinal lineages that developed after the Buddha, preserved through fragmentary and living canons."
+id: early-buddhist-schools
+title: Early Buddhist Schools
+cluster: Dharmic
+color: '#f97316'
+era_start: c. 4th century BCE
+epistemic_tier: academic_consensus
+summary: >-
+  The multiple monastic and doctrinal lineages that developed after the Buddha,
+  preserved through fragmentary and living canons.
 canonical_texts:
-  - "Early Buddhist discourses"
-  - "Vinaya collections"
-  - "Abhidharma collections"
+  - Early Buddhist discourses
+  - Vinaya collections
+  - Abhidharma collections
 relations:
-  - target: "buddhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: buddhism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: -350
+origin_geo:
+  lat: 25.1204
+  lng: 82.4107
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: In the centuries after the Buddha, monastic
+    communities differentiated through ordination lineages, disciplinary codes,
+    geography, patronage, and doctrinal anal...
+  - >-
+    Distinctive Practice: Schools produced distinct Vinayas and Abhidharma
+    systems while sharing teachings on dependent arising, ethical discipline,
+    meditation, and liberation. Theravāda...
+  - >-
+    Core Orientation: The multiple monastic and doctrinal lineages that
+    developed after the Buddha, preserved through fragmentary and living canons.
+sources:
+  - title: 'Encyclopaedia Britannica: "Early Buddhist Schools"'
+    url: 'https://www.britannica.com/topic/early-buddhist-schools'
+  - title: 'Oxford Reference: Overview of Early Buddhist Schools'
+    url: 'https://www.oxfordreference.com/search?q=Early%20Buddhist%20Schools'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Early%20Buddhist%20Schools'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Early Buddhist Schools

@@ -1,22 +1,61 @@
 ---
-id: "confucianism"
-title: "Confucian Traditions"
-cluster: "East Asian"
-color: "#22c55e"
+id: confucianism
+title: Confucian Traditions
+cluster: East Asian
+color: '#22c55e'
 display_weight: 1.8
-era_start: "c. 5th century BCE"
-epistemic_tier: "academic_consensus"
-summary: "An East Asian lineage of ethical, political, educational, and ritual thought associated with Confucius and the cultivation of humane social relations."
+era_start: c. 5th century BCE
+epistemic_tier: academic_consensus
+summary: >-
+  An East Asian lineage of ethical, political, educational, and ritual thought
+  associated with Confucius and the cultivation of humane social relations.
 canonical_texts:
-  - "Analects"
-  - "Mencius"
-  - "Five Classics"
-  - "Four Books"
+  - Analects
+  - Mencius
+  - Five Classics
+  - Four Books
 relations:
-  - target: "buddhism"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
-    citation: "John H. Berthrong, Transformations of the Confucian Way (1998)"
+  - target: buddhism
+    type: syncretized_with
+    certainty: academic_consensus
+    citation: 'John H. Berthrong, Transformations of the Confucian Way (1998)'
+origin_year: -450
+origin_geo:
+  lat: 35.3518
+  lng: 116.8429
+  place_name: 'Qufu, Shandong, China'
+extinct_year: null
+key_tenets:
+  - >-
+    Ren (Benevolence) & Li (Ritual Propriety): Cultivation of supreme humaneness
+    through respectful observance of social roles and moral etiquette.
+  - >-
+    Five Cardinal Relationships: Ethical harmony structured through reciprocal
+    duties between ruler-subject, parent-child, spouse, siblings, and friends.
+  - >-
+    Self-Cultivation & Junzi: Lifelong moral education aiming to become an
+    exemplary person of integrity dedicated to public good and family piety
+    (Xiao).
+sources:
+  - title: 'Encyclopaedia Britannica: "Confucian Traditions"'
+    url: 'https://www.britannica.com/topic/confucian-traditions'
+  - title: 'Oxford Reference: Overview of Confucian Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Confucian%20Traditions'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: 'https://plato.stanford.edu/search/searcher.py?query=Confucian%20Traditions'
+artifacts:
+  - title: Wudang Mountain Sacred Golden Hall Complex
+    url: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
+    provenance: 'Hubei, China'
+    period: 1416 CE
+    description: >-
+      Imperial architectural shrine of Daoist alchemy and philosophical
+      meditation.
+  - title: Mawangdui Silk Laozi Manuscripts
+    url: 'https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts'
+    provenance: 'Changsha, Hunan, China'
+    period: c. 168 BCE (Han Dynasty)
+    description: Ancient silk manuscripts preserving early versions of the Daodejing.
 ---
 
 # Confucian Traditions

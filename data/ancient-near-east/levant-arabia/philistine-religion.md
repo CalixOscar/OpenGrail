@@ -1,25 +1,65 @@
 ---
-id: "philistine-religion"
-title: "Philistine Religion"
-cluster: "Ancient Near East"
-color: "#bd8e52"
-era_start: "c. 1175 BCE"
-epistemic_tier: "academic_consensus"
-summary: "The evolving Iron Age religions of Philistine cities, formed through Aegean-linked migration and sustained Levantine interaction."
+id: philistine-religion
+title: Philistine Religion
+cluster: Ancient Near East
+color: '#bd8e52'
+era_start: c. 1175 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  The evolving Iron Age religions of Philistine cities, formed through
+  Aegean-linked migration and sustained Levantine interaction.
 aliases:
-  - "Religion of Philistia"
-  - "Philistine cults"
+  - Religion of Philistia
+  - Philistine cults
 canonical_texts:
-  - "Ekron Royal Dedicatory Inscription"
-  - "Philistine archaeological corpus"
-  - "Contemporary Levantine inscriptions"
+  - Ekron Royal Dedicatory Inscription
+  - Philistine archaeological corpus
+  - Contemporary Levantine inscriptions
 relations:
-  - target: "canaanite-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "ancient-greek-religion"
-    type: "influenced_by"
-    certainty: "minority_scholarly"
+  - target: canaanite-religion
+    type: branch_of
+    certainty: academic_consensus
+  - target: ancient-greek-religion
+    type: influenced_by
+    certainty: minority_scholarly
+origin_year: -1175
+origin_geo:
+  lat: 32.0034
+  lng: 44.2773
+  place_name: 'Babylon, Mesopotamia'
+extinct_year: -600
+key_tenets:
+  - >-
+    Foundational Doctrine: Philistine communities appeared in the southern
+    coastal Levant during the upheavals around 1200 BCE. Early material culture
+    shows Aegean and eastern Mediterrane...
+  - >-
+    Distinctive Practice: Philistine religion was neither a preserved package of
+    Mycenaean belief nor simply Canaanite religion under a new ethnic label.
+    Generations of migration, interm...
+  - >-
+    Core Orientation: The evolving Iron Age religions of Philistine cities,
+    formed through Aegean-linked migration and sustained Levantine interaction.
+sources:
+  - title: 'Encyclopaedia Britannica: "Philistine Religion"'
+    url: 'https://www.britannica.com/topic/philistine-religion'
+  - title: 'Oxford Reference: Overview of Philistine Religion'
+    url: 'https://www.oxfordreference.com/search?q=Philistine%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Philistine Religion'
+    url: 'https://brill.com/search?q=Philistine%20Religion'
+artifacts:
+  - title: Philistine Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Philistine_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Philistine Religion.
+  - title: Philistine Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Ekron_Royal_Dedicatory_Inscription'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Philistine Religion

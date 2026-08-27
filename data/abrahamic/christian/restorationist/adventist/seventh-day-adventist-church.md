@@ -1,24 +1,69 @@
 ---
-id: "seventh-day-adventist-church"
-title: "Seventh-day Adventist Church"
-cluster: "Abrahamic"
-color: "#4a91cf"
-era_start: "1863 CE"
-epistemic_tier: "academic_consensus"
-summary: "The largest Adventist denomination, distinguished by Saturday Sabbath observance, global mission, and the influence of Ellen G. White."
+id: seventh-day-adventist-church
+title: Seventh-day Adventist Church
+cluster: Abrahamic
+color: '#4a91cf'
+era_start: 1863 CE
+epistemic_tier: academic_consensus
+summary: >-
+  The largest Adventist denomination, distinguished by Saturday Sabbath
+  observance, global mission, and the influence of Ellen G. White.
 aliases:
-  - "Seventh-day Adventists"
-  - "SDA Church"
-  - "SDA"
+  - Seventh-day Adventists
+  - SDA Church
+  - SDA
 display_weight: 1.5
 canonical_texts:
-  - "Bible"
-  - "Seventh-day Adventist Fundamental Beliefs"
-  - "The Great Controversy"
+  - Bible
+  - Seventh-day Adventist Fundamental Beliefs
+  - The Great Controversy
 relations:
-  - target: "adventism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: adventism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1863
+origin_geo:
+  lat: 42.4795
+  lng: -85.3219
+  place_name: 'Battle Creek, Calhoun County, Michigan, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Seventh-day Adventism formed from Millerite believers
+    who reinterpreted the disappointment of 1844 and adopted the seventh-day
+    Sabbath. Networks associated with...
+  - >-
+    Distinctive Practice: The church is Protestant and Trinitarian, observes
+    Saturday as Sabbath, practices baptism by immersion, and teaches conditional
+    immortality and a heavenly inves...
+  - >-
+    Core Orientation: The largest Adventist denomination, distinguished by
+    Saturday Sabbath observance, global mission, and the influence of Ellen G.
+    White.
+sources:
+  - title: 'Encyclopaedia Britannica: "Seventh-day Adventist Church"'
+    url: 'https://www.britannica.com/topic/seventh-day-adventist-church'
+  - title: 'Oxford Reference: Overview of Seventh-day Adventist Church'
+    url: 'https://www.oxfordreference.com/search?q=Seventh-day%20Adventist%20Church'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Seventh-day
+      Adventist Church
+    url: 'https://www.cambridge.org/core/search?q=Seventh-day%20Adventist%20Church'
+artifacts:
+  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
+    url: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
+    provenance: 'Wittenberg, Germany'
+    period: 1517 CE
+    description: >-
+      Historic church where Martin Luther posted his Ninety-five Theses,
+      initiating the Protestant Reformation.
+  - title: Luther 1534 German Bible Title Woodcut
+    url: 'https://en.wikipedia.org/wiki/Luther_Bible'
+    provenance: Wittenberg
+    period: 1534 CE
+    description: >-
+      Historic printed vernacular German translation democratizing direct
+      scriptural access for all believers.
 ---
 
 # Seventh-day Adventist Church

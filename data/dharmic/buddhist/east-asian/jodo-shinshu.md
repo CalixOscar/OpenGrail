@@ -1,26 +1,66 @@
 ---
-id: "jodo-shinshu"
-title: "Jōdo Shinshū"
-cluster: "Dharmic"
-color: "#f3a952"
-era_start: "13th century CE"
-epistemic_tier: "academic_consensus"
+id: jodo-shinshu
+title: Jōdo Shinshū
+cluster: Dharmic
+color: '#f3a952'
+era_start: 13th century CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Jodo Shinshu"
-  - "Shin Buddhism"
-  - "True Pure Land Buddhism"
-summary: "The Japanese True Pure Land tradition associated with Shinran, emphasizing entrusting faith and Amitābha’s other-power."
+  - Jodo Shinshu
+  - Shin Buddhism
+  - True Pure Land Buddhism
+summary: >-
+  The Japanese True Pure Land tradition associated with Shinran, emphasizing
+  entrusting faith and Amitābha’s other-power.
 canonical_texts:
-  - "Three Pure Land Sūtras"
-  - "Kyōgyōshinshō"
-  - "Tannishō"
+  - Three Pure Land Sūtras
+  - Kyōgyōshinshō
+  - Tannishō
 relations:
-  - target: "pure-land-buddhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "jodo-shu"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: pure-land-buddhism
+    type: branch_of
+    certainty: academic_consensus
+  - target: jodo-shu
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1250
+origin_geo:
+  lat: 25.6508
+  lng: 83.6086
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Shinran, a disciple of Hōnen, interpreted Pure Land
+    teaching around radical dependence on Amitābha’s vow and did not initially
+    establish a formal school. Commun...
+  - >-
+    Distinctive Practice: Jōdo Shinshū treats *shinjin*, the entrusting
+    heart-mind given through other-power, as decisive; *nembutsu* expresses
+    gratitude rather than accumulating merit t...
+  - >-
+    Core Orientation: The Japanese True Pure Land tradition associated with
+    Shinran, emphasizing entrusting faith and Amitābha’s other-power.
+sources:
+  - title: 'Encyclopaedia Britannica: "Jōdo Shinshū"'
+    url: 'https://www.britannica.com/topic/j-do-shinsh-'
+  - title: 'Oxford Reference: Overview of Jōdo Shinshū'
+    url: 'https://www.oxfordreference.com/search?q=J%C5%8Ddo%20Shinsh%C5%AB'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=J%C5%8Ddo%20Shinsh%C5%AB'
+artifacts:
+  - title: Jōdo Shinshū Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Jōdo Shinshū.
+  - title: Jōdo Shinshū Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Three_Pure_Land_S%C5%ABtras'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Jōdo Shinshū

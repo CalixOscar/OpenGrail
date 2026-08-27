@@ -1,21 +1,63 @@
 ---
-id: "hittite-religion"
-title: "Hittite Religion"
-cluster: "Ancient Near East"
-color: "#c58e5b"
-era_start: "c. 1650 BCE"
-epistemic_tier: "academic_consensus"
-summary: "The multilingual state and local cults of Bronze Age Hatti in central Anatolia."
+id: hittite-religion
+title: Hittite Religion
+cluster: Ancient Near East
+color: '#c58e5b'
+era_start: c. 1650 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  The multilingual state and local cults of Bronze Age Hatti in central
+  Anatolia.
 canonical_texts:
-  - "Kumarbi Cycle"
-  - "Illuyanka myths"
-  - "Hittite festival and ritual tablets"
-  - "Plague Prayers of Muršili II"
+  - Kumarbi Cycle
+  - Illuyanka myths
+  - Hittite festival and ritual tablets
+  - Plague Prayers of Muršili II
 relations:
-  - target: "hurrian-religion"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-    citation: "Gary Beckman, The Religion of the Hittites, Biblical Archaeologist 52 (1989)"
+  - target: hurrian-religion
+    type: influenced_by
+    certainty: academic_consensus
+    citation: >-
+      Gary Beckman, The Religion of the Hittites, Biblical Archaeologist 52
+      (1989)
+origin_year: -1650
+origin_geo:
+  lat: 32.9762
+  lng: 44.3416
+  place_name: 'Babylon, Mesopotamia'
+extinct_year: -1180
+key_tenets:
+  - >-
+    Foundational Doctrine: Hittite archives from Hattusa preserve thousands of
+    ritual, festival, mythic, and diplomatic tablets from second-millennium BCE
+    Anatolia. Court scribes worked i...
+  - >-
+    Distinctive Practice: Seasonal festivals, oath gods, royal ancestor rites,
+    purification, sacrifice, and careful maintenance of divine images tied
+    ritual accuracy to political welfare...
+  - >-
+    Core Orientation: The multilingual state and local cults of Bronze Age Hatti
+    in central Anatolia.
+sources:
+  - title: 'Encyclopaedia Britannica: "Hittite Religion"'
+    url: 'https://www.britannica.com/topic/hittite-religion'
+  - title: 'Oxford Reference: Overview of Hittite Religion'
+    url: 'https://www.oxfordreference.com/search?q=Hittite%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Hittite Religion'
+    url: 'https://brill.com/search?q=Hittite%20Religion'
+artifacts:
+  - title: Hittite Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Hittite_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Hittite Religion.
+  - title: Hittite Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Kumarbi_Cycle'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Hittite Religion

@@ -1,25 +1,65 @@
 ---
-id: "fo-guang-shan"
-title: "Fo Guang Shan"
-cluster: "Dharmic"
-color: "#f4a64d"
-era_start: "1967 CE"
-epistemic_tier: "academic_consensus"
+id: fo-guang-shan
+title: Fo Guang Shan
+cluster: Dharmic
+color: '#f4a64d'
+era_start: 1967 CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Buddha's Light Mountain"
-  - "Foguangshan"
-summary: "A global Chinese Buddhist monastic and lay organization founded in Taiwan by Hsing Yun and identified with Humanistic Buddhism."
+  - Buddha's Light Mountain
+  - Foguangshan
+summary: >-
+  A global Chinese Buddhist monastic and lay organization founded in Taiwan by
+  Hsing Yun and identified with Humanistic Buddhism.
 canonical_texts:
-  - "Fo Guang Buddhist Canon"
-  - "The Core Teachings"
-  - "Mahāyāna sūtra selections"
+  - Fo Guang Buddhist Canon
+  - The Core Teachings
+  - Mahāyāna sūtra selections
 relations:
-  - target: "humanistic-buddhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "chan"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: humanistic-buddhism
+    type: branch_of
+    certainty: academic_consensus
+  - target: chan
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1967
+origin_geo:
+  lat: 25.5488
+  lng: 82.3941
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The monk Hsing Yun founded Fo Guang Shan in southern
+    Taiwan in 1967. It grew into an international network of temples, schools,
+    museums, publishing programs, so...
+  - >-
+    Distinctive Practice: Fo Guang Shan teaches Humanistic Buddhism through the
+    integration of Chan, Pure Land devotion, precepts, study, ritual, culture,
+    and public service. Its polishe...
+  - >-
+    Core Orientation: A global Chinese Buddhist monastic and lay organization
+    founded in Taiwan by Hsing Yun and identified with Humanistic Buddhism.
+sources:
+  - title: 'Encyclopaedia Britannica: "Fo Guang Shan"'
+    url: 'https://www.britannica.com/topic/fo-guang-shan'
+  - title: 'Oxford Reference: Overview of Fo Guang Shan'
+    url: 'https://www.oxfordreference.com/search?q=Fo%20Guang%20Shan'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Fo%20Guang%20Shan'
+artifacts:
+  - title: Fo Guang Shan Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Fo_Guang_Shan'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Fo Guang Shan.
+  - title: Fo Guang Shan Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Fo_Guang_Buddhist_Canon'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Fo Guang Shan

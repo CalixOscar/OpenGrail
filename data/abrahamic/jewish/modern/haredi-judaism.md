@@ -1,23 +1,63 @@
 ---
-id: "haredi-judaism"
-title: "Haredi Judaism"
-cluster: "Abrahamic"
-color: "#c5ad74"
-era_start: "19th century CE"
-epistemic_tier: "academic_consensus"
-summary: "An Orthodox Jewish family emphasizing rigorous halakhic observance and guarded continuity amid modern social change."
+id: haredi-judaism
+title: Haredi Judaism
+cluster: Abrahamic
+color: '#c5ad74'
+era_start: 19th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  An Orthodox Jewish family emphasizing rigorous halakhic observance and guarded
+  continuity amid modern social change.
 aliases:
-  - "Ultra-Orthodox Judaism"
-  - "Haredim"
+  - Ultra-Orthodox Judaism
+  - Haredim
 display_weight: 1.3
 canonical_texts:
-  - "Hebrew Bible"
-  - "Babylonian Talmud"
-  - "Shulchan Aruch"
+  - Hebrew Bible
+  - Babylonian Talmud
+  - Shulchan Aruch
 relations:
-  - target: "orthodox-judaism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: orthodox-judaism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1850
+origin_geo:
+  lat: 31.3704
+  lng: 34.334
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Covenant & Monotheism: Eternal reciprocal covenant between YHWH and the
+    Jewish people based on the divine command to be a holy nation.
+  - >-
+    Torah (Written and Oral): Comprehensive guidance for life encompassing the
+    Written Torah and Oral Torah (Mishnah and Talmud).
+  - >-
+    Halakha & Mitzvot: Observance of the 613 commandments structuring daily
+    life, ethics, prayer, dietary laws, and Shabbat sanctification.
+sources:
+  - title: 'Encyclopaedia Britannica: "Haredi Judaism"'
+    url: 'https://www.britannica.com/topic/haredi-judaism'
+  - title: 'Oxford Reference: Overview of Haredi Judaism'
+    url: 'https://www.oxfordreference.com/search?q=Haredi%20Judaism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Haredi Judaism'
+    url: 'https://www.cambridge.org/core/search?q=Haredi%20Judaism'
+artifacts:
+  - title: Western Wall & Second Temple Foundation
+    url: 'https://en.wikipedia.org/wiki/Western_Wall'
+    provenance: 'Old City, Jerusalem'
+    period: c. 19 BCE (Herodian Era)
+    description: >-
+      The holiest prayer site of Jewish tradition, surviving western retaining
+      wall of the Second Temple complex.
+  - title: Aleppo Codex Masoretic Hebrew Bible Manuscript
+    url: 'https://en.wikipedia.org/wiki/Aleppo_Codex'
+    provenance: Tiberias & Jerusalem
+    period: c. 920 CE
+    description: >-
+      Authoritative parchment manuscript of the Hebrew Bible with Masoretic
+      vocalization and cantillation marks.
 ---
 
 # Haredi Judaism

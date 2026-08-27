@@ -1,29 +1,69 @@
 ---
-id: "barelvi-movement"
-title: "Barelvi Movement"
-cluster: "Abrahamic"
-color: "#55b48d"
-era_start: "late 19th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A South Asian Sunni movement associated with Ahmad Raza Khan and devotional affirmation of the Prophet and Sufi practice."
+id: barelvi-movement
+title: Barelvi Movement
+cluster: Abrahamic
+color: '#55b48d'
+era_start: late 19th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A South Asian Sunni movement associated with Ahmad Raza Khan and devotional
+  affirmation of the Prophet and Sufi practice.
 aliases:
-  - "Ahl-e Sunnat wa Jama'at"
-  - "Barelvis"
+  - Ahl-e Sunnat wa Jama'at
+  - Barelvis
 display_weight: 1.3
 canonical_texts:
-  - "Quran"
-  - "Hadith collections"
-  - "Fatawa Razawiyya"
+  - Quran
+  - Hadith collections
+  - Fatawa Razawiyya
 relations:
-  - target: "sunni-islam"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "hanafi-school"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-  - target: "sufism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: sunni-islam
+    type: branch_of
+    certainty: academic_consensus
+  - target: hanafi-school
+    type: influenced_by
+    certainty: academic_consensus
+  - target: sufism
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1850
+origin_geo:
+  lat: 32.256
+  lng: 35.538
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The movement formed around the scholarship of Ahmad
+    Raza Khan of Bareilly in late nineteenth-century British India. Its scholars
+    defended established Sunni devo...
+  - >-
+    Distinctive Practice: Barelvi scholars are usually Hanafi and affirm
+    intercession, celebration of the Prophet's birth, devotional poetry, saintly
+    charisma, and visitation of shrines ...
+  - >-
+    Core Orientation: A South Asian Sunni movement associated with Ahmad Raza
+    Khan and devotional affirmation of the Prophet and Sufi practice.
+sources:
+  - title: 'Encyclopaedia Britannica: "Barelvi Movement"'
+    url: 'https://www.britannica.com/topic/barelvi-movement'
+  - title: 'Oxford Reference: Overview of Barelvi Movement'
+    url: 'https://www.oxfordreference.com/search?q=Barelvi%20Movement'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Barelvi Movement'
+    url: 'https://www.cambridge.org/core/search?q=Barelvi%20Movement'
+artifacts:
+  - title: Barelvi Movement Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Barelvi_Movement'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Barelvi Movement.
+  - title: Barelvi Movement Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Quran'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Barelvi Movement

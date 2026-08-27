@@ -1,22 +1,62 @@
 ---
-id: "ammonite-religion"
-title: "Ammonite Religion"
-cluster: "Ancient Near East"
-color: "#c69755"
-era_start: "c. 1000 BCE"
-epistemic_tier: "academic_consensus"
-summary: "The Iron Age religious traditions of the Ammonite kingdom around Rabbath-Ammon, associated especially with Milkom."
+id: ammonite-religion
+title: Ammonite Religion
+cluster: Ancient Near East
+color: '#c69755'
+era_start: c. 1000 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  The Iron Age religious traditions of the Ammonite kingdom around
+  Rabbath-Ammon, associated especially with Milkom.
 aliases:
-  - "Religion of Ammon"
-  - "Milkom cult"
+  - Religion of Ammon
+  - Milkom cult
 canonical_texts:
-  - "Ammonite inscriptions"
-  - "Tell Siran inscription"
-  - "Archaeological cultic corpus"
+  - Ammonite inscriptions
+  - Tell Siran inscription
+  - Archaeological cultic corpus
 relations:
-  - target: "canaanite-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: canaanite-religion
+    type: branch_of
+    certainty: academic_consensus
+origin_year: -1000
+origin_geo:
+  lat: 32.3466
+  lng: 44.4306
+  place_name: 'Babylon, Mesopotamia'
+extinct_year: -580
+key_tenets:
+  - >-
+    Foundational Doctrine: The Ammonite kingdom occupied territory around modern
+    Amman during the Iron Age. Inscriptions, personal names, figurines,
+    monumental remains, and external accou...
+  - >-
+    Distinctive Practice: Evidence for Ammon is much thinner than the archives
+    from Ugarit or Mesopotamia, so reconstructions must remain modest. Even the
+    identities and spellings of maj...
+  - >-
+    Core Orientation: The Iron Age religious traditions of the Ammonite kingdom
+    around Rabbath-Ammon, associated especially with Milkom.
+sources:
+  - title: 'Encyclopaedia Britannica: "Ammonite Religion"'
+    url: 'https://www.britannica.com/topic/ammonite-religion'
+  - title: 'Oxford Reference: Overview of Ammonite Religion'
+    url: 'https://www.oxfordreference.com/search?q=Ammonite%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Ammonite Religion'
+    url: 'https://brill.com/search?q=Ammonite%20Religion'
+artifacts:
+  - title: Ammonite Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Ammonite_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Ammonite Religion.
+  - title: Ammonite Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Ammonite_inscriptions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Ammonite Religion

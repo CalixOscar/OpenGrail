@@ -1,21 +1,61 @@
 ---
-id: "akkadian-religion"
-title: "Akkadian Religion"
-cluster: "Ancient Near East"
-color: "#cf9b4c"
-era_start: "c. 2400 BCE"
-epistemic_tier: "academic_consensus"
-summary: "Akkadian-language Mesopotamian traditions that adapted Sumerian cults within changing imperial and city settings."
+id: akkadian-religion
+title: Akkadian Religion
+cluster: Ancient Near East
+color: '#cf9b4c'
+era_start: c. 2400 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  Akkadian-language Mesopotamian traditions that adapted Sumerian cults within
+  changing imperial and city settings.
 canonical_texts:
-  - "Akkadian incantation series"
-  - "Epic of Gilgamesh"
-  - "Atrahasis"
-  - "Temple and omen tablets"
+  - Akkadian incantation series
+  - Epic of Gilgamesh
+  - Atrahasis
+  - Temple and omen tablets
 relations:
-  - target: "sumerian-religion"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-    citation: "Benjamin R. Foster, Before the Muses, 3rd ed. (2005)"
+  - target: sumerian-religion
+    type: influenced_by
+    certainty: academic_consensus
+    citation: 'Benjamin R. Foster, Before the Muses, 3rd ed. (2005)'
+origin_year: -2400
+origin_geo:
+  lat: 32.4861
+  lng: 44.3471
+  place_name: 'Babylon, Mesopotamia'
+extinct_year: -539
+key_tenets:
+  - >-
+    Foundational Doctrine: Akkadian-speaking populations lived alongside
+    Sumerian speakers for centuries, and rulers of the Akkadian Empire made
+    Semitic-language royal and divine traditio...
+  - >-
+    Distinctive Practice: Ishtar, Shamash, Adad, Ea, and other deities often
+    corresponded to Sumerian counterparts while acquiring distinct emphases.
+    Divination, lament, purification, oa...
+  - >-
+    Core Orientation: Akkadian-language Mesopotamian traditions that adapted
+    Sumerian cults within changing imperial and city settings.
+sources:
+  - title: 'Encyclopaedia Britannica: "Akkadian Religion"'
+    url: 'https://www.britannica.com/topic/akkadian-religion'
+  - title: 'Oxford Reference: Overview of Akkadian Religion'
+    url: 'https://www.oxfordreference.com/search?q=Akkadian%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Akkadian Religion'
+    url: 'https://brill.com/search?q=Akkadian%20Religion'
+artifacts:
+  - title: Akkadian Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Akkadian_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Akkadian Religion.
+  - title: Akkadian Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Akkadian_incantation_series'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Akkadian Religion

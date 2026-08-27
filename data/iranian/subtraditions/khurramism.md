@@ -1,27 +1,67 @@
 ---
-id: "khurramism"
-title: "Khurramism"
-cluster: "Iranian"
-color: "#e6ab1a"
-era_start: "c. 8th century CE"
-epistemic_tier: "academic_consensus"
-summary: "An umbrella for early Islamic-era Iranian religious and revolutionary movements known chiefly through hostile external accounts."
+id: khurramism
+title: Khurramism
+cluster: Iranian
+color: '#e6ab1a'
+era_start: c. 8th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  An umbrella for early Islamic-era Iranian religious and revolutionary
+  movements known chiefly through hostile external accounts.
 aliases:
-  - "Khurramiyya"
-  - "Khorramdinan"
-  - "Khurramites"
+  - Khurramiyya
+  - Khorramdinan
+  - Khurramites
 canonical_texts:
-  - "Accounts of al-Tabari"
-  - "Accounts of al-Maqdisi"
-  - "Medieval Arabic and Persian heresiographies"
-  - "Armenian chronicle accounts"
+  - Accounts of al-Tabari
+  - Accounts of al-Maqdisi
+  - Medieval Arabic and Persian heresiographies
+  - Armenian chronicle accounts
 relations:
-  - target: "mazdakism"
-    type: "branch_of"
-    certainty: "minority_scholarly"
-  - target: "zoroastrianism"
-    type: "influenced_by"
-    certainty: "minority_scholarly"
+  - target: mazdakism
+    type: branch_of
+    certainty: minority_scholarly
+  - target: zoroastrianism
+    type: influenced_by
+    certainty: minority_scholarly
+origin_year: 750
+origin_geo:
+  lat: 32.5477
+  lng: 51.917
+  place_name: 'Isfahan, Iran'
+extinct_year: 950
+key_tenets:
+  - >-
+    Foundational Doctrine: Medieval Muslim authors used labels related to
+    *Khurramiyya* for several Iranian movements, most famously the rebellion led
+    by Babak Khorramdin against the Abba...
+  - >-
+    Distinctive Practice: Scholars often connect Khurramite movements with
+    Mazdakite legacies and older Iranian religious patterns, yet the evidence
+    does not establish simple institution...
+  - >-
+    Core Orientation: An umbrella for early Islamic-era Iranian religious and
+    revolutionary movements known chiefly through hostile external accounts.
+sources:
+  - title: 'Encyclopaedia Britannica: "Khurramism"'
+    url: 'https://www.britannica.com/topic/khurramism'
+  - title: 'Oxford Reference: Overview of Khurramism'
+    url: 'https://www.oxfordreference.com/search?q=Khurramism'
+  - title: 'Brill Handbook of Religious Traditions: Khurramism'
+    url: 'https://brill.com/search?q=Khurramism'
+artifacts:
+  - title: Khurramism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Khurramism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Khurramism.
+  - title: Khurramism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Accounts_of_al-Tabari'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Khurramism

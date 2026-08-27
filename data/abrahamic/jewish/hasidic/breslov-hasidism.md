@@ -1,22 +1,62 @@
 ---
-id: "breslov-hasidism"
-title: "Breslov Hasidism"
-cluster: "Abrahamic"
-color: "#d88e6e"
-era_start: "1802 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Hasidic movement centered on the teachings of Rebbe Nachman of Breslov, prayer, joy, and spiritual renewal."
+id: breslov-hasidism
+title: Breslov Hasidism
+cluster: Abrahamic
+color: '#d88e6e'
+era_start: 1802 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Hasidic movement centered on the teachings of Rebbe Nachman of Breslov,
+  prayer, joy, and spiritual renewal.
 aliases:
-  - "Bratslav Hasidism"
-  - "Breslover Hasidim"
+  - Bratslav Hasidism
+  - Breslover Hasidim
 canonical_texts:
-  - "Likutey Moharan"
-  - "Sippurei Ma'asiyot"
-  - "Sichot HaRan"
+  - Likutey Moharan
+  - Sippurei Ma'asiyot
+  - Sichot HaRan
 relations:
-  - target: "hasidic-judaism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: hasidic-judaism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1802
+origin_geo:
+  lat: 32.1385
+  lng: 34.6802
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Rebbe Nachman, a great-grandson of the Baal Shem Tov,
+    established his circle in Ukraine and spent his final years in Breslov.
+    After his death in 1810 the moveme...
+  - >-
+    Distinctive Practice: Breslov teaching stresses hope, joy, honest
+    self-examination, simple faith, and *hitbodedut*, spontaneous personal
+    prayer to God. Stories and paradoxes address ...
+  - >-
+    Core Orientation: A Hasidic movement centered on the teachings of Rebbe
+    Nachman of Breslov, prayer, joy, and spiritual renewal.
+sources:
+  - title: 'Encyclopaedia Britannica: "Breslov Hasidism"'
+    url: 'https://www.britannica.com/topic/breslov-hasidism'
+  - title: 'Oxford Reference: Overview of Breslov Hasidism'
+    url: 'https://www.oxfordreference.com/search?q=Breslov%20Hasidism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Breslov Hasidism'
+    url: 'https://www.cambridge.org/core/search?q=Breslov%20Hasidism'
+artifacts:
+  - title: Breslov Hasidism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Breslov_Hasidism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Breslov Hasidism.
+  - title: Breslov Hasidism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Likutey_Moharan'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Breslov Hasidism

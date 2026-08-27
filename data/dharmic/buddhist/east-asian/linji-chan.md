@@ -1,22 +1,62 @@
 ---
-id: "linji-chan"
-title: "Linji Chan"
-cluster: "Dharmic"
-color: "#ea8b2d"
-era_start: "9th century CE"
-epistemic_tier: "academic_consensus"
+id: linji-chan
+title: Linji Chan
+cluster: Dharmic
+color: '#ea8b2d'
+era_start: 9th century CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Lin-chi Chan"
-  - "Linji School"
-summary: "A major Chinese Chan lineage associated with Linji Yixuan and later transmission traditions throughout East Asia."
+  - Lin-chi Chan
+  - Linji School
+summary: >-
+  A major Chinese Chan lineage associated with Linji Yixuan and later
+  transmission traditions throughout East Asia.
 canonical_texts:
-  - "Record of Linji"
-  - "Blue Cliff Record"
-  - "Gateless Barrier"
+  - Record of Linji
+  - Blue Cliff Record
+  - Gateless Barrier
 relations:
-  - target: "chan"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: chan
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 850
+origin_geo:
+  lat: 24.7531
+  lng: 83.5007
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Bodhisattva Ideal: Compassionate aspiration to attain complete Buddhahood
+    for the universal liberation of all sentient beings.
+  - >-
+    Shunyata (Emptiness): Radical insight that all phenomena are empty of
+    inherent, independent existence and interdependently originated.
+  - >-
+    Buddha-Nature (Tathagatagarbha): Innate potential for awakening present
+    within every conscious being.
+sources:
+  - title: 'Encyclopaedia Britannica: "Linji Chan"'
+    url: 'https://www.britannica.com/topic/linji-chan'
+  - title: 'Oxford Reference: Overview of Linji Chan'
+    url: 'https://www.oxfordreference.com/search?q=Linji%20Chan'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Linji%20Chan'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Linji Chan

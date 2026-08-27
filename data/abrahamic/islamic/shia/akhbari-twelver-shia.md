@@ -1,22 +1,64 @@
 ---
-id: "akhbari-twelver-shia"
-title: "Akhbari Twelver Shiism"
-cluster: "Abrahamic"
-color: "#6f9f8d"
-era_start: "17th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A Twelver Shia tradition emphasizing transmitted reports of the imams over independent juristic principles."
+id: akhbari-twelver-shia
+title: Akhbari Twelver Shiism
+cluster: Abrahamic
+color: '#6f9f8d'
+era_start: 17th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Twelver Shia tradition emphasizing transmitted reports of the imams over
+  independent juristic principles.
 aliases:
-  - "Akhbarism"
-  - "Akhbari School"
+  - Akhbarism
+  - Akhbari School
 canonical_texts:
-  - "Quran"
-  - "The Four Books"
-  - "Al-Fawa'id al-Madaniyya"
+  - Quran
+  - The Four Books
+  - Al-Fawa'id al-Madaniyya
 relations:
-  - target: "twelver-shia"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: twelver-shia
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1650
+origin_geo:
+  lat: 31.9546
+  lng: 35.4449
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Imamate (Divine Leadership): Spiritual and political succession through the
+    divinely designated Ahl al-Bayt starting with Ali ibn Abi Talib.
+  - >-
+    The Mahdi & Occultation: Expectation of the Twelfth Imam who remains in
+    occultation (Ghaybah) and will return to restore global justice.
+  - >-
+    Adalah (Divine Justice) & Ashura: Deep commitment to divine justice and
+    devotion to the martyrdom of Imam Husayn at Karbala.
+sources:
+  - title: 'Encyclopaedia Britannica: "Akhbari Twelver Shiism"'
+    url: 'https://www.britannica.com/topic/akhbari-twelver-shiism'
+  - title: 'Oxford Reference: Overview of Akhbari Twelver Shiism'
+    url: 'https://www.oxfordreference.com/search?q=Akhbari%20Twelver%20Shiism'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Akhbari Twelver
+      Shiism
+    url: 'https://www.cambridge.org/core/search?q=Akhbari%20Twelver%20Shiism'
+artifacts:
+  - title: Dome of the Rock Sacred Umayyad Sanctuary
+    url: 'https://en.wikipedia.org/wiki/Dome_of_the_Rock'
+    provenance: Jerusalem
+    period: 691 CE (Umayyad Caliphate)
+    description: >-
+      Architectural masterpiece of early Islamic octagonal design with classical
+      Kufic Quranic inscriptions.
+  - title: Blue Quran Gold Kufic Manuscript Folio
+    url: 'https://en.wikipedia.org/wiki/Blue_Quran'
+    provenance: Kairouan / Great Mosque
+    period: c. 9th-10th century CE
+    description: >-
+      Indigo-dyed vellum parchment illuminated with gold Kufic script preserving
+      the Holy Quran.
 ---
 
 # Akhbari Twelver Shiism

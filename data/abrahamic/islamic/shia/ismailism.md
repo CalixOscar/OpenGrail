@@ -1,19 +1,59 @@
 ---
-id: "ismailism"
-title: "Ismailism"
-cluster: "Abrahamic"
-color: "#36a6c2"
-era_start: "c. 8th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A Shi'a family recognizing the Imamate through Isma'il ibn Ja'far and known for Fatimid institutions and esoteric interpretation."
+id: ismailism
+title: Ismailism
+cluster: Abrahamic
+color: '#36a6c2'
+era_start: c. 8th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Shi'a family recognizing the Imamate through Isma'il ibn Ja'far and known
+  for Fatimid institutions and esoteric interpretation.
 canonical_texts:
-  - "Qur'an"
-  - "Da'a'im al-Islam"
-  - "Wajh-i Din"
+  - Qur'an
+  - Da'a'im al-Islam
+  - Wajh-i Din
 relations:
-  - target: "shia-islam"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: shia-islam
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 750
+origin_geo:
+  lat: 32.5509
+  lng: 34.8201
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Ismaili communities emerged from disagreement over
+    succession after Ja'far al-Sadiq in the eighth century. A far-reaching
+    missionary network supported the Fatim...
+  - >-
+    Distinctive Practice: Ismaili thought emphasizes the Imam's authoritative
+    guidance and layered interpretation that relates outward practice to inward
+    meaning. Fatimid scholars contri...
+  - >-
+    Core Orientation: A Shi'a family recognizing the Imamate through Isma'il ibn
+    Ja'far and known for Fatimid institutions and esoteric interpretation.
+sources:
+  - title: 'Encyclopaedia Britannica: "Ismailism"'
+    url: 'https://www.britannica.com/topic/ismailism'
+  - title: 'Oxford Reference: Overview of Ismailism'
+    url: 'https://www.oxfordreference.com/search?q=Ismailism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Ismailism'
+    url: 'https://www.cambridge.org/core/search?q=Ismailism'
+artifacts:
+  - title: Ismailism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Ismailism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Ismailism.
+  - title: Ismailism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Qur''an'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Ismailism

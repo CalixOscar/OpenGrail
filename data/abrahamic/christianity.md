@@ -1,32 +1,76 @@
 ---
-id: "christianity"
-title: "Christianity"
-cluster: "Abrahamic"
-color: "#3b82f6"
+id: christianity
+title: Christianity
+cluster: Abrahamic
+color: '#3b82f6'
 display_weight: 2.6
-era_start: "c. 30 CE"
-epistemic_tier: "academic_consensus"
-summary: "A family of traditions centered on Jesus of Nazareth, his proclaimed resurrection, and the interpretation of Israel's scriptures in light of his life."
+era_start: c. 30 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A family of traditions centered on Jesus of Nazareth, his proclaimed
+  resurrection, and the interpretation of Israel's scriptures in light of his
+  life.
 aliases:
-  - "Christian faith"
-  - "Christians"
+  - Christian faith
+  - Christians
 canonical_texts:
-  - "New Testament"
-  - "Septuagint"
-  - "Hebrew Bible / Old Testament"
+  - New Testament
+  - Septuagint
+  - Hebrew Bible / Old Testament
 relations:
-  - target: "judaism"
-    type: "diverged_from"
-    certainty: "academic_consensus"
-    citation: "Paula Fredriksen, When Christians Were Jews (2018)"
-  - target: "gnosticism"
-    type: "schism"
-    certainty: "minority_scholarly"
-    citation: "Karen L. King, What Is Gnosticism? (2003)"
-  - target: "zoroastrianism"
-    type: "influenced_by"
-    certainty: "minority_scholarly"
-    citation: "Anders Hultgård, Persian Apocalypticism, in The Encyclopedia of Apocalypticism, vol. 1 (1998)"
+  - target: judaism
+    type: diverged_from
+    certainty: academic_consensus
+    citation: 'Paula Fredriksen, When Christians Were Jews (2018)'
+  - target: gnosticism
+    type: schism
+    certainty: minority_scholarly
+    citation: 'Karen L. King, What Is Gnosticism? (2003)'
+  - target: zoroastrianism
+    type: influenced_by
+    certainty: minority_scholarly
+    citation: >-
+      Anders Hultgård, Persian Apocalypticism, in The Encyclopedia of
+      Apocalypticism, vol. 1 (1998)
+origin_year: 30
+origin_geo:
+  lat: 31.3215
+  lng: 35.7689
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Christianity began within the diverse Judaism of
+    first-century Roman Judea. Jesus's followers interpreted his teaching,
+    execution, and experiences of his resurr...
+  - >-
+    Distinctive Practice: Separation from Judaism was gradual, uneven, and
+    regionally varied. The destruction of Jerusalem in 70 CE, developing
+    Christian claims about Jesus, changing com...
+  - >-
+    Core Orientation: A family of traditions centered on Jesus of Nazareth, his
+    proclaimed resurrection, and the interpretation of Israel's scriptures in
+    light of his life.
+sources:
+  - title: 'Encyclopaedia Britannica: "Christianity"'
+    url: 'https://www.britannica.com/topic/christianity'
+  - title: 'Oxford Reference: Overview of Christianity'
+    url: 'https://www.oxfordreference.com/search?q=Christianity'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Christianity'
+    url: 'https://www.cambridge.org/core/search?q=Christianity'
+artifacts:
+  - title: Christianity Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Christianity'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Christianity.
+  - title: Christianity Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/New_Testament'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Christianity

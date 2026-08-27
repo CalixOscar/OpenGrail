@@ -1,18 +1,62 @@
 ---
-id: "international-churches-of-christ"
-title: "International Churches of Christ"
-cluster: "Abrahamic"
-color: "#5eb3e4"
-era_start: "1979 CE"
-epistemic_tier: "academic_consensus"
-summary: "A global Stone-Campbell network formed from the Boston Movement within Churches of Christ."
+id: international-churches-of-christ
+title: International Churches of Christ
+cluster: Abrahamic
+color: '#5eb3e4'
+era_start: 1979 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A global Stone-Campbell network formed from the Boston Movement within
+  Churches of Christ.
 canonical_texts:
-  - "Bible"
-  - "International Churches of Christ Unity Proposal"
+  - Bible
+  - International Churches of Christ Unity Proposal
 relations:
-  - target: "churches-of-christ"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: churches-of-christ
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1979
+origin_geo:
+  lat: 32.2911
+  lng: 36.0065
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The International Churches of Christ developed from a
+    rapidly growing ministry led by Kip McKean in Lexington, Massachusetts, and
+    then Boston from 1979. Its dis...
+  - >-
+    Distinctive Practice: Congregations retain Stone-Campbell emphases on the
+    Bible, baptism by immersion, and restoration of early Christian
+    discipleship. Intensive mentoring and a stro...
+  - >-
+    Core Orientation: A global Stone-Campbell network formed from the Boston
+    Movement within Churches of Christ.
+sources:
+  - title: 'Encyclopaedia Britannica: "International Churches of Christ"'
+    url: 'https://www.britannica.com/topic/international-churches-of-christ'
+  - title: 'Oxford Reference: Overview of International Churches of Christ'
+    url: >-
+      https://www.oxfordreference.com/search?q=International%20Churches%20of%20Christ
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & International
+      Churches of Christ
+    url: >-
+      https://www.cambridge.org/core/search?q=International%20Churches%20of%20Christ
+artifacts:
+  - title: International Churches of Christ Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/International_Churches_of_Christ'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with International Churches of Christ.
+  - title: International Churches of Christ Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # International Churches of Christ

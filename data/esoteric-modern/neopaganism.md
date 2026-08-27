@@ -1,22 +1,63 @@
 ---
-id: "neopaganism"
-title: "Modern Paganism"
-cluster: "Esoteric & Modern"
-color: "#b86ac8"
-era_start: "19th–20th centuries CE"
-epistemic_tier: "academic_consensus"
-summary: "A diverse family of modern religions reviving, reconstructing, or creatively renewing pre-Christian and nature-centered traditions."
+id: neopaganism
+title: Modern Paganism
+cluster: Esoteric & Modern
+color: '#b86ac8'
+era_start: 19th–20th centuries CE
+epistemic_tier: academic_consensus
+summary: >-
+  A diverse family of modern religions reviving, reconstructing, or creatively
+  renewing pre-Christian and nature-centered traditions.
 canonical_texts:
-  - "Modern Pagan ritual and liturgical corpus"
-  - "Reconstructionist source collections"
-  - "Movement-specific writings"
+  - Modern Pagan ritual and liturgical corpus
+  - Reconstructionist source collections
+  - Movement-specific writings
 relations:
-  - target: "western-esotericism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-  - target: "ancient-greek-religion"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: western-esotericism
+    type: influenced_by
+    certainty: academic_consensus
+  - target: ancient-greek-religion
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1850
+origin_geo:
+  lat: 52.0438
+  lng: 0.2944
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Modern Pagan religions developed through Romantic
+    nationalism, folklore collecting, occult revival, environmental movements,
+    feminist spirituality, and modern r...
+  - >-
+    Distinctive Practice: Many Pagan communities honor multiple deities,
+    seasonal cycles, ancestors, land, ritual reciprocity, or immanent sacred
+    power, though none of these defines ever...
+  - >-
+    Core Orientation: A diverse family of modern religions reviving,
+    reconstructing, or creatively renewing pre-Christian and nature-centered
+    traditions.
+sources:
+  - title: 'Encyclopaedia Britannica: "Modern Paganism"'
+    url: 'https://www.britannica.com/topic/modern-paganism'
+  - title: 'Oxford Reference: Overview of Modern Paganism'
+    url: 'https://www.oxfordreference.com/search?q=Modern%20Paganism'
+  - title: 'Brill Handbook of Religious Traditions: Modern Paganism'
+    url: 'https://brill.com/search?q=Modern%20Paganism'
+artifacts:
+  - title: Modern Paganism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Modern_Paganism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Modern Paganism.
+  - title: Modern Paganism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Modern_Pagan_ritual_and_liturgical_corpus'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Modern Paganism

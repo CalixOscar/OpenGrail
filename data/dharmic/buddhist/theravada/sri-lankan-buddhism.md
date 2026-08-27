@@ -1,23 +1,65 @@
 ---
-id: "sri-lankan-buddhism"
-title: "Sri Lankan Buddhism"
-cluster: "Dharmic"
-color: "#f6a21a"
-era_start: "c. 3rd century BCE"
-epistemic_tier: "academic_consensus"
+id: sri-lankan-buddhism
+title: Sri Lankan Buddhism
+cluster: Dharmic
+color: '#f6a21a'
+era_start: c. 3rd century BCE
+epistemic_tier: academic_consensus
 display_weight: 1.45
 aliases:
-  - "Sri Lankan Theravāda"
-  - "Sinhalese Buddhism"
-summary: "The Sri Lankan Theravāda tradition whose Pāli textual, monastic, and ritual lineages deeply shaped Buddhism across Southeast Asia."
+  - Sri Lankan Theravāda
+  - Sinhalese Buddhism
+summary: >-
+  The Sri Lankan Theravāda tradition whose Pāli textual, monastic, and ritual
+  lineages deeply shaped Buddhism across Southeast Asia.
 canonical_texts:
-  - "Pāli Tipiṭaka"
-  - "Mahāvaṃsa"
-  - "Visuddhimagga"
+  - Pāli Tipiṭaka
+  - Mahāvaṃsa
+  - Visuddhimagga
 relations:
-  - target: "theravada"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: theravada
+    type: branch_of
+    certainty: academic_consensus
+origin_year: -250
+origin_geo:
+  lat: 8.0703
+  lng: 80.0927
+  place_name: 'Anuradhapura, North Central, Sri Lanka'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Buddhist chronicles connect the island’s first
+    durable monastic establishment with missions during Aśoka’s reign in the
+    third century BCE. Anurādhapura monaster...
+  - >-
+    Distinctive Practice: Sri Lankan practice joins Pāli learning and monastic
+    discipline with pilgrimage, relic and bodhi-tree devotion, protective
+    chanting, merit-making, and worship o...
+  - >-
+    Core Orientation: The Sri Lankan Theravāda tradition whose Pāli textual,
+    monastic, and ritual lineages deeply shaped Buddhism across Southeast Asia.
+sources:
+  - title: 'Encyclopaedia Britannica: "Sri Lankan Buddhism"'
+    url: 'https://www.britannica.com/topic/sri-lankan-buddhism'
+  - title: 'Oxford Reference: Overview of Sri Lankan Buddhism'
+    url: 'https://www.oxfordreference.com/search?q=Sri%20Lankan%20Buddhism'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Sri%20Lankan%20Buddhism'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Sri Lankan Buddhism

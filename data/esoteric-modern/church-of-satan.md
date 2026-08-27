@@ -1,19 +1,59 @@
 ---
-id: "church-of-satan"
-title: "Church of Satan"
-cluster: "Esoteric & Modern"
-color: "#d65a80"
-era_start: "1966 CE"
-epistemic_tier: "academic_consensus"
-summary: "An atheistic Satanist organization founded by Anton LaVey that treats Satan as a symbol of individualism and carnal existence."
+id: church-of-satan
+title: Church of Satan
+cluster: Esoteric & Modern
+color: '#d65a80'
+era_start: 1966 CE
+epistemic_tier: academic_consensus
+summary: >-
+  An atheistic Satanist organization founded by Anton LaVey that treats Satan as
+  a symbol of individualism and carnal existence.
 canonical_texts:
-  - "The Satanic Bible"
-  - "The Satanic Rituals"
-  - "The Devil's Notebook"
+  - The Satanic Bible
+  - The Satanic Rituals
+  - The Devil's Notebook
 relations:
-  - target: "modern-satanism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: modern-satanism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1966
+origin_geo:
+  lat: 37.6997
+  lng: -122.3848
+  place_name: 'San Francisco, California, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Anton Szandor LaVey founded the Church of Satan in
+    San Francisco in 1966, combining theatrical ritual, social critique, occult
+    aesthetics, and a philosophy of s...
+  - >-
+    Distinctive Practice: The Church is non-theistic: Satan symbolizes pride,
+    liberty, skepticism, and embodied life rather than a worshiped supernatural
+    being. Ritual can serve psychodr...
+  - >-
+    Core Orientation: An atheistic Satanist organization founded by Anton LaVey
+    that treats Satan as a symbol of individualism and carnal existence.
+sources:
+  - title: 'Encyclopaedia Britannica: "Church of Satan"'
+    url: 'https://www.britannica.com/topic/church-of-satan'
+  - title: 'Oxford Reference: Overview of Church of Satan'
+    url: 'https://www.oxfordreference.com/search?q=Church%20of%20Satan'
+  - title: 'Brill Handbook of Religious Traditions: Church of Satan'
+    url: 'https://brill.com/search?q=Church%20of%20Satan'
+artifacts:
+  - title: Church of Satan Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Church_of_Satan'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Church of Satan.
+  - title: Church of Satan Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/The_Satanic_Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Church of Satan

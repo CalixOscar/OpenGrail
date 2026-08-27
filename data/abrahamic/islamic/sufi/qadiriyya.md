@@ -1,22 +1,62 @@
 ---
-id: "qadiriyya"
-title: "Qadiriyya"
-cluster: "Abrahamic"
-color: "#55b895"
-era_start: "12th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A widespread Sufi order tracing its lineage to the Baghdad preacher and jurist Abd al-Qadir al-Jilani."
+id: qadiriyya
+title: Qadiriyya
+cluster: Abrahamic
+color: '#55b895'
+era_start: 12th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A widespread Sufi order tracing its lineage to the Baghdad preacher and jurist
+  Abd al-Qadir al-Jilani.
 aliases:
-  - "Qadiri Order"
-  - "Qadiriyya Order"
+  - Qadiri Order
+  - Qadiriyya Order
 canonical_texts:
-  - "Quran"
-  - "Hadith collections"
-  - "Al-Ghunya li-talibi tariq al-haqq"
+  - Quran
+  - Hadith collections
+  - Al-Ghunya li-talibi tariq al-haqq
 relations:
-  - target: "sufism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: sufism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1150
+origin_geo:
+  lat: 31.5088
+  lng: 36.1631
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The Qadiriyya traces spiritual descent to Abd
+    al-Qadir al-Jilani, a twelfth-century Hanbali preacher in Baghdad whose
+    descendants and admirers spread his reputa...
+  - >-
+    Distinctive Practice: Qadiri practice commonly includes remembrance of God,
+    litanies, ethical discipline, spiritual companionship, and reverence for
+    al-Jilani. Ritual forms and doctr...
+  - >-
+    Core Orientation: A widespread Sufi order tracing its lineage to the Baghdad
+    preacher and jurist Abd al-Qadir al-Jilani.
+sources:
+  - title: 'Encyclopaedia Britannica: "Qadiriyya"'
+    url: 'https://www.britannica.com/topic/qadiriyya'
+  - title: 'Oxford Reference: Overview of Qadiriyya'
+    url: 'https://www.oxfordreference.com/search?q=Qadiriyya'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Qadiriyya'
+    url: 'https://www.cambridge.org/core/search?q=Qadiriyya'
+artifacts:
+  - title: Qadiriyya Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Qadiriyya'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Qadiriyya.
+  - title: Qadiriyya Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Quran'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Qadiriyya

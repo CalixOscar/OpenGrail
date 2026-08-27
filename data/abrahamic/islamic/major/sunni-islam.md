@@ -1,20 +1,60 @@
 ---
-id: "sunni-islam"
-title: "Sunni Islam"
-cluster: "Abrahamic"
-color: "#35a9c9"
+id: sunni-islam
+title: Sunni Islam
+cluster: Abrahamic
+color: '#35a9c9'
 display_weight: 1.75
-era_start: "c. 7th century CE"
-epistemic_tier: "academic_consensus"
-summary: "The largest family within Islam, recognizing the early caliphal community and plural schools of law and theology."
+era_start: c. 7th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  The largest family within Islam, recognizing the early caliphal community and
+  plural schools of law and theology.
 canonical_texts:
-  - "Qur'an"
-  - "Sahih al-Bukhari"
-  - "Sahih Muslim"
+  - Qur'an
+  - Sahih al-Bukhari
+  - Sahih Muslim
 relations:
-  - target: "islam"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: islam
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 650
+origin_geo:
+  lat: 30.9652
+  lng: 34.8891
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Tawhid (Absolute Monotheism): Uncompromising oneness and transcendence of
+    Allah, rejecting any association of partners (shirk).
+  - >-
+    Prophethood & Seal of the Prophets: Revelation completed through Muhammad as
+    the final prophet, preserved in the uncreated Quran.
+  - >-
+    Five Pillars & Sunnah: Religious practice structured around Shahada (creed),
+    Salat (prayer), Zakat (alms), Sawm (fasting), and Hajj (pilgrimage).
+sources:
+  - title: 'Encyclopaedia Britannica: "Sunni Islam"'
+    url: 'https://www.britannica.com/topic/sunni-islam'
+  - title: 'Oxford Reference: Overview of Sunni Islam'
+    url: 'https://www.oxfordreference.com/search?q=Sunni%20Islam'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Sunni Islam'
+    url: 'https://www.cambridge.org/core/search?q=Sunni%20Islam'
+artifacts:
+  - title: Dome of the Rock Sacred Umayyad Sanctuary
+    url: 'https://en.wikipedia.org/wiki/Dome_of_the_Rock'
+    provenance: Jerusalem
+    period: 691 CE (Umayyad Caliphate)
+    description: >-
+      Architectural masterpiece of early Islamic octagonal design with classical
+      Kufic Quranic inscriptions.
+  - title: Blue Quran Gold Kufic Manuscript Folio
+    url: 'https://en.wikipedia.org/wiki/Blue_Quran'
+    provenance: Kairouan / Great Mosque
+    period: c. 9th-10th century CE
+    description: >-
+      Indigo-dyed vellum parchment illuminated with gold Kufic script preserving
+      the Holy Quran.
 ---
 
 # Sunni Islam

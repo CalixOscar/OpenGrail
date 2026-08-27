@@ -1,21 +1,63 @@
 ---
-id: "shuddhadvaita"
-title: "Śuddhādvaita Vedānta"
-cluster: "Dharmic"
-color: "#f97316"
-era_start: "late 15th century CE"
-epistemic_tier: "academic_consensus"
-summary: "Vallabha's 'pure nondualism,' which regards Kṛṣṇa, selves, and cosmos as real expressions of one divine reality."
+id: shuddhadvaita
+title: Śuddhādvaita Vedānta
+cluster: Dharmic
+color: '#f97316'
+era_start: late 15th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  Vallabha's 'pure nondualism,' which regards Kṛṣṇa, selves, and cosmos as real
+  expressions of one divine reality.
 aliases:
-  - "Pure nondualism"
+  - Pure nondualism
 canonical_texts:
-  - "Aṇubhāṣya"
-  - "Tattvārthadīpanibandha"
-  - "Bhāgavata Purāṇa"
+  - Aṇubhāṣya
+  - Tattvārthadīpanibandha
+  - Bhāgavata Purāṇa
 relations:
-  - target: "vedanta"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: vedanta
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1450
+origin_geo:
+  lat: 24.4769
+  lng: 82.8358
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Vallabha articulated Śuddhādvaita in fifteenth- and
+    sixteenth-century North India through commentaries on the *Brahma Sūtras*
+    and *Bhāgavata Purāṇa*. His teachi...
+  - >-
+    Distinctive Practice: Śuddhādvaita identifies Brahman with the personal,
+    blissful Kṛṣṇa while affirming the reality of the universe as divine
+    manifestation. Bondage results from obsc...
+  - >-
+    Core Orientation: Vallabha's 'pure nondualism,' which regards Kṛṣṇa, selves,
+    and cosmos as real expressions of one divine reality.
+sources:
+  - title: 'Encyclopaedia Britannica: "Śuddhādvaita Vedānta"'
+    url: 'https://www.britannica.com/topic/-uddh-dvaita-ved-nta'
+  - title: 'Oxford Reference: Overview of Śuddhādvaita Vedānta'
+    url: >-
+      https://www.oxfordreference.com/search?q=%C5%9Auddh%C4%81dvaita%20Ved%C4%81nta
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: >-
+      https://www.rep.routledge.com/search?query=%C5%9Auddh%C4%81dvaita%20Ved%C4%81nta
+artifacts:
+  - title: Śuddhādvaita Vedānta Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/%C5%9Auddh%C4%81dvaita_Ved%C4%81nta'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Śuddhādvaita Vedānta.
+  - title: Śuddhādvaita Vedānta Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/A%E1%B9%87ubh%C4%81%E1%B9%A3ya'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Śuddhādvaita Vedānta

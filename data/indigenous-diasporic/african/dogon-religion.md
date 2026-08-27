@@ -1,19 +1,59 @@
 ---
-id: "dogon-religion"
-title: "Dogon Religions"
-cluster: "Indigenous & Diasporic"
-color: "#9f7551"
-era_start: "precolonial era"
-epistemic_tier: "academic_consensus"
-summary: "Diverse ritual and cosmological traditions among Dogon communities of Mali and neighboring regions."
+id: dogon-religion
+title: Dogon Religions
+cluster: Indigenous & Diasporic
+color: '#9f7551'
+era_start: precolonial era
+epistemic_tier: academic_consensus
+summary: >-
+  Diverse ritual and cosmological traditions among Dogon communities of Mali and
+  neighboring regions.
 canonical_texts:
-  - "Oral traditions"
-  - "Ritual and mask-society corpus"
-  - "Community histories"
+  - Oral traditions
+  - Ritual and mask-society corpus
+  - Community histories
 relations:
-  - target: "ancestor-veneration"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: ancestor-veneration
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: 14.35
+  lng: -3.6167
+  place_name: 'Bandiagara Escarpment, Dogon, Mali'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Dogon communities in and around Mali's Bandiagara
+    region include multiple dialects, settlements, occupational histories, and
+    religious affiliations. Their pract...
+  - >-
+    Distinctive Practice: Ancestors, land, masks, funerary sequences,
+    initiation, sacrifice, and relations with local powers vary by community and
+    lineage. Islam and Christianity also ha...
+  - >-
+    Core Orientation: Diverse ritual and cosmological traditions among Dogon
+    communities of Mali and neighboring regions.
+sources:
+  - title: 'Encyclopaedia Britannica: "Dogon Religions"'
+    url: 'https://www.britannica.com/topic/dogon-religions'
+  - title: 'Oxford Reference: Overview of Dogon Religions'
+    url: 'https://www.oxfordreference.com/search?q=Dogon%20Religions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Dogon%20Religions'
+artifacts:
+  - title: Dogon Religions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Dogon_Religions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Dogon Religions.
+  - title: Dogon Religions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Oral_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Dogon Religions

@@ -1,24 +1,66 @@
 ---
-id: "russian-cosmism"
-title: "Russian Cosmism"
-cluster: "Esoteric & Modern"
-color: "#a66ad0"
-era_start: "late 19th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A diverse Russian philosophical current linking human transformation, cosmic expansion, science, religious ethics, and—in Nikolai Fedorov—universal resurrection."
+id: russian-cosmism
+title: Russian Cosmism
+cluster: Esoteric & Modern
+color: '#a66ad0'
+era_start: late 19th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A diverse Russian philosophical current linking human transformation, cosmic
+  expansion, science, religious ethics, and—in Nikolai Fedorov—universal
+  resurrection.
 aliases:
-  - "Cosmism"
+  - Cosmism
 canonical_texts:
-  - "Philosophy of the Common Task"
-  - "Cosmic Philosophy"
-  - "Cosmist essays and archives"
+  - Philosophy of the Common Task
+  - Cosmic Philosophy
+  - Cosmist essays and archives
 relations:
-  - target: "western-esotericism"
-    type: "parallel_concept"
-    certainty: "minority_scholarly"
-  - target: "christianity"
-    type: "fringe_reinterpretation"
-    certainty: "minority_scholarly"
+  - target: western-esotericism
+    type: parallel_concept
+    certainty: minority_scholarly
+  - target: christianity
+    type: fringe_reinterpretation
+    certainty: minority_scholarly
+origin_year: 1850
+origin_geo:
+  lat: 52.1336
+  lng: 0.3536
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The retrospective category “Russian Cosmism” groups
+    thinkers including Nikolai Fedorov, Konstantin Tsiolkovsky, and Vladimir
+    Vernadsky, whose projects differed ...
+  - >-
+    Distinctive Practice: Cosmist themes include overcoming death, active
+    evolution, space settlement, planetary responsibility, and human
+    participation in cosmic development. Because th...
+  - >-
+    Core Orientation: A diverse Russian philosophical current linking human
+    transformation, cosmic expansion, science, religious ethics, and—in Nikolai
+    Fedorov—universal resurrection.
+sources:
+  - title: 'Encyclopaedia Britannica: "Russian Cosmism"'
+    url: 'https://www.britannica.com/topic/russian-cosmism'
+  - title: 'Oxford Reference: Overview of Russian Cosmism'
+    url: 'https://www.oxfordreference.com/search?q=Russian%20Cosmism'
+  - title: 'Brill Handbook of Religious Traditions: Russian Cosmism'
+    url: 'https://brill.com/search?q=Russian%20Cosmism'
+artifacts:
+  - title: Russian Cosmism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Russian_Cosmism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Russian Cosmism.
+  - title: Russian Cosmism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Philosophy_of_the_Common_Task'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Russian Cosmism

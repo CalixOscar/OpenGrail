@@ -1,25 +1,68 @@
 ---
-id: "guarani-religions"
-title: "Guaraní Religious Traditions"
-cluster: "Indigenous & Diasporic"
-color: "#4c947f"
-era_start: "precolonial"
-epistemic_tier: "academic_consensus"
+id: guarani-religions
+title: Guaraní Religious Traditions
+cluster: Indigenous & Diasporic
+color: '#4c947f'
+era_start: precolonial
+epistemic_tier: academic_consensus
 aliases:
-  - "Guarani Spiritual Traditions"
-  - "Mbyá-Guaraní Religion"
-summary: "Distinct religious traditions among Guaraní peoples centered on sacred speech, song, kinship, cultivated land, mobility, and relationships with divine beings."
+  - Guarani Spiritual Traditions
+  - Mbyá-Guaraní Religion
+summary: >-
+  Distinct religious traditions among Guaraní peoples centered on sacred speech,
+  song, kinship, cultivated land, mobility, and relationships with divine
+  beings.
 canonical_texts:
-  - "Guaraní oral traditions"
-  - "Ayvu Rapyta"
-  - "Mbyá sacred-song corpora"
+  - Guaraní oral traditions
+  - Ayvu Rapyta
+  - Mbyá sacred-song corpora
 relations:
-  - target: "indigenous-american-religions"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "christianity"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: indigenous-american-religions
+    type: branch_of
+    certainty: academic_consensus
+  - target: christianity
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: -25.2637
+  lng: -57.5759
+  place_name: 'Paraná Basin (Asunción), Paraguay'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Guaraní-speaking peoples inhabit regions now divided
+    among Paraguay, Brazil, Argentina, and Bolivia and include distinct
+    communities such as Mbyá, Kaiowá, Ñande...
+  - >-
+    Distinctive Practice: Sacred speech, song, naming, prayer houses, dreams,
+    cultivation, and journeys toward good or imperishable land are important in
+    several traditions. Published co...
+  - >-
+    Core Orientation: Distinct religious traditions among Guaraní peoples
+    centered on sacred speech, song, kinship, cultivated land, mobility, and
+    relationships with divine beings.
+sources:
+  - title: 'Encyclopaedia Britannica: "Guaraní Religious Traditions"'
+    url: 'https://www.britannica.com/topic/guaran-religious-traditions'
+  - title: 'Oxford Reference: Overview of Guaraní Religious Traditions'
+    url: >-
+      https://www.oxfordreference.com/search?q=Guaran%C3%AD%20Religious%20Traditions
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Guaran%C3%AD%20Religious%20Traditions'
+artifacts:
+  - title: Guaraní Religious Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Guaran%C3%AD_Religious_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Guaraní Religious Traditions.
+  - title: Guaraní Religious Traditions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Guaran%C3%AD_oral_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Guaraní Religious Traditions

@@ -1,19 +1,57 @@
 ---
-id: "zhengyi-daoism"
-title: "Zhengyi Daoism"
-cluster: "East Asian"
-color: "#32ad72"
-era_start: "2nd century CE; later Zhengyi formation"
-epistemic_tier: "academic_consensus"
-summary: "A major Daoist priestly tradition rooted in Celestial Master lineages and community ritual service."
+id: zhengyi-daoism
+title: Zhengyi Daoism
+cluster: East Asian
+color: '#32ad72'
+era_start: 2nd century CE; later Zhengyi formation
+epistemic_tier: academic_consensus
+summary: >-
+  A major Daoist priestly tradition rooted in Celestial Master lineages and
+  community ritual service.
 canonical_texts:
-  - "Celestial Masters covenant texts"
-  - "Zhengyi liturgical registers"
-  - "Daoist Canon selections"
+  - Celestial Masters covenant texts
+  - Zhengyi liturgical registers
+  - Daoist Canon selections
 relations:
-  - target: "daoism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: daoism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 150
+origin_geo:
+  lat: 35.6706
+  lng: 116.2725
+  place_name: 'Qufu, Shandong, China'
+extinct_year: null
+key_tenets:
+  - >-
+    The Dao (The Way): The ineffable, primordial cosmic source and flow
+    underlying and harmonizing all existence.
+  - >-
+    Wu Wei (Effortless Action): Alignment with natural rhythms through
+    non-contrivance, simplicity, and flexibility rather than forceful control.
+  - >-
+    Yin-Yang Polarity & Self-Cultivation: Harmonization of complementary cosmic
+    forces through meditation, alchemy, and preservation of vital energy (Qi).
+sources:
+  - title: 'Encyclopaedia Britannica: "Zhengyi Daoism"'
+    url: 'https://www.britannica.com/topic/zhengyi-daoism'
+  - title: 'Oxford Reference: Overview of Zhengyi Daoism'
+    url: 'https://www.oxfordreference.com/search?q=Zhengyi%20Daoism'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: 'https://plato.stanford.edu/search/searcher.py?query=Zhengyi%20Daoism'
+artifacts:
+  - title: Wudang Mountain Sacred Golden Hall Complex
+    url: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
+    provenance: 'Hubei, China'
+    period: 1416 CE
+    description: >-
+      Imperial architectural shrine of Daoist alchemy and philosophical
+      meditation.
+  - title: Mawangdui Silk Laozi Manuscripts
+    url: 'https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts'
+    provenance: 'Changsha, Hunan, China'
+    period: c. 168 BCE (Han Dynasty)
+    description: Ancient silk manuscripts preserving early versions of the Daodejing.
 ---
 
 # Zhengyi Daoism

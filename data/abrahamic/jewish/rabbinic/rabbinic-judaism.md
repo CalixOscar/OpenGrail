@@ -1,24 +1,64 @@
 ---
-id: "rabbinic-judaism"
-title: "Rabbinic Judaism"
-cluster: "Abrahamic"
-color: "#5f9fe0"
+id: rabbinic-judaism
+title: Rabbinic Judaism
+cluster: Abrahamic
+color: '#5f9fe0'
 display_weight: 1.65
-era_start: "c. 2nd century CE"
-epistemic_tier: "academic_consensus"
-summary: "The Jewish textual and communal tradition organized around rabbinic interpretation of written and oral Torah."
+era_start: c. 2nd century CE
+epistemic_tier: academic_consensus
+summary: >-
+  The Jewish textual and communal tradition organized around rabbinic
+  interpretation of written and oral Torah.
 canonical_texts:
-  - "Tanakh"
-  - "Mishnah"
-  - "Babylonian Talmud"
-  - "Midrash collections"
+  - Tanakh
+  - Mishnah
+  - Babylonian Talmud
+  - Midrash collections
 relations:
-  - target: "judaism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "pharisees"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: judaism
+    type: branch_of
+    certainty: academic_consensus
+  - target: pharisees
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 150
+origin_geo:
+  lat: 31.0493
+  lng: 35.7429
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Covenant & Monotheism: Eternal reciprocal covenant between YHWH and the
+    Jewish people based on the divine command to be a holy nation.
+  - >-
+    Torah (Written and Oral): Comprehensive guidance for life encompassing the
+    Written Torah and Oral Torah (Mishnah and Talmud).
+  - >-
+    Halakha & Mitzvot: Observance of the 613 commandments structuring daily
+    life, ethics, prayer, dietary laws, and Shabbat sanctification.
+sources:
+  - title: 'Encyclopaedia Britannica: "Rabbinic Judaism"'
+    url: 'https://www.britannica.com/topic/rabbinic-judaism'
+  - title: 'Oxford Reference: Overview of Rabbinic Judaism'
+    url: 'https://www.oxfordreference.com/search?q=Rabbinic%20Judaism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Rabbinic Judaism'
+    url: 'https://www.cambridge.org/core/search?q=Rabbinic%20Judaism'
+artifacts:
+  - title: Western Wall & Second Temple Foundation
+    url: 'https://en.wikipedia.org/wiki/Western_Wall'
+    provenance: 'Old City, Jerusalem'
+    period: c. 19 BCE (Herodian Era)
+    description: >-
+      The holiest prayer site of Jewish tradition, surviving western retaining
+      wall of the Second Temple complex.
+  - title: Aleppo Codex Masoretic Hebrew Bible Manuscript
+    url: 'https://en.wikipedia.org/wiki/Aleppo_Codex'
+    provenance: Tiberias & Jerusalem
+    period: c. 920 CE
+    description: >-
+      Authoritative parchment manuscript of the Hebrew Bible with Masoretic
+      vocalization and cantillation marks.
 ---
 
 # Rabbinic Judaism

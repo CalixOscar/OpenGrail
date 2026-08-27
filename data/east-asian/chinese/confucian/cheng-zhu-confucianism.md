@@ -1,23 +1,63 @@
 ---
-id: "cheng-zhu-confucianism"
-title: "Cheng–Zhu Confucianism"
-cluster: "East Asian"
-color: "#5bbf82"
-era_start: "11th century CE"
-epistemic_tier: "academic_consensus"
+id: cheng-zhu-confucianism
+title: Cheng–Zhu Confucianism
+cluster: East Asian
+color: '#5bbf82'
+era_start: 11th century CE
+epistemic_tier: academic_consensus
 display_weight: 1.35
 aliases:
-  - "School of Principle"
-  - "Cheng-Zhu School"
-summary: "A Neo-Confucian lineage associated with the Cheng brothers and Zhu Xi that systematized principle, material force, study, and self-cultivation."
+  - School of Principle
+  - Cheng-Zhu School
+summary: >-
+  A Neo-Confucian lineage associated with the Cheng brothers and Zhu Xi that
+  systematized principle, material force, study, and self-cultivation.
 canonical_texts:
-  - "Four Books"
-  - "Reflections on Things at Hand"
-  - "Collected Commentaries on the Four Books"
+  - Four Books
+  - Reflections on Things at Hand
+  - Collected Commentaries on the Four Books
 relations:
-  - target: "neo-confucianism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: neo-confucianism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1050
+origin_geo:
+  lat: 35.5739
+  lng: 117.0801
+  place_name: 'Qufu, Shandong, China'
+extinct_year: null
+key_tenets:
+  - >-
+    Ren (Benevolence) & Li (Ritual Propriety): Cultivation of supreme humaneness
+    through respectful observance of social roles and moral etiquette.
+  - >-
+    Five Cardinal Relationships: Ethical harmony structured through reciprocal
+    duties between ruler-subject, parent-child, spouse, siblings, and friends.
+  - >-
+    Self-Cultivation & Junzi: Lifelong moral education aiming to become an
+    exemplary person of integrity dedicated to public good and family piety
+    (Xiao).
+sources:
+  - title: 'Encyclopaedia Britannica: "Cheng–Zhu Confucianism"'
+    url: 'https://www.britannica.com/topic/cheng-zhu-confucianism'
+  - title: 'Oxford Reference: Overview of Cheng–Zhu Confucianism'
+    url: 'https://www.oxfordreference.com/search?q=Cheng%E2%80%93Zhu%20Confucianism'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: >-
+      https://plato.stanford.edu/search/searcher.py?query=Cheng%E2%80%93Zhu%20Confucianism
+artifacts:
+  - title: Wudang Mountain Sacred Golden Hall Complex
+    url: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
+    provenance: 'Hubei, China'
+    period: 1416 CE
+    description: >-
+      Imperial architectural shrine of Daoist alchemy and philosophical
+      meditation.
+  - title: Mawangdui Silk Laozi Manuscripts
+    url: 'https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts'
+    provenance: 'Changsha, Hunan, China'
+    period: c. 168 BCE (Han Dynasty)
+    description: Ancient silk manuscripts preserving early versions of the Daodejing.
 ---
 
 # Cheng–Zhu Confucianism

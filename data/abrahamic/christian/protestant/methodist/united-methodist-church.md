@@ -1,23 +1,67 @@
 ---
-id: "united-methodist-church"
-title: "United Methodist Church"
-cluster: "Abrahamic"
-color: "#527cc3"
-era_start: "1968 CE"
-epistemic_tier: "academic_consensus"
-summary: "A global Methodist denomination created by the union of the Methodist Church and Evangelical United Brethren Church."
+id: united-methodist-church
+title: United Methodist Church
+cluster: Abrahamic
+color: '#527cc3'
+era_start: 1968 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A global Methodist denomination created by the union of the Methodist Church
+  and Evangelical United Brethren Church.
 aliases:
-  - "UMC"
-  - "United Methodists"
+  - UMC
+  - United Methodists
 display_weight: 1.4
 canonical_texts:
-  - "Bible"
-  - "Book of Discipline of the United Methodist Church"
-  - "Articles of Religion"
+  - Bible
+  - Book of Discipline of the United Methodist Church
+  - Articles of Religion
 relations:
-  - target: "methodism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: methodism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1968
+origin_geo:
+  lat: 51.6823
+  lng: -1.5428
+  place_name: 'Oxford, Oxfordshire, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The United Methodist Church formed in 1968 from the
+    Methodist Church and the Evangelical United Brethren Church, joining
+    Wesleyan, German Pietist, and American ...
+  - >-
+    Distinctive Practice: United Methodism combines Wesleyan teaching on grace
+    and sanctification with liturgy, evangelism, education, and social action.
+    It baptizes infants and adults a...
+  - >-
+    Core Orientation: A global Methodist denomination created by the union of
+    the Methodist Church and Evangelical United Brethren Church.
+sources:
+  - title: 'Encyclopaedia Britannica: "United Methodist Church"'
+    url: 'https://www.britannica.com/topic/united-methodist-church'
+  - title: 'Oxford Reference: Overview of United Methodist Church'
+    url: 'https://www.oxfordreference.com/search?q=United%20Methodist%20Church'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & United Methodist
+      Church
+    url: 'https://www.cambridge.org/core/search?q=United%20Methodist%20Church'
+artifacts:
+  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
+    url: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
+    provenance: 'Wittenberg, Germany'
+    period: 1517 CE
+    description: >-
+      Historic church where Martin Luther posted his Ninety-five Theses,
+      initiating the Protestant Reformation.
+  - title: Luther 1534 German Bible Title Woodcut
+    url: 'https://en.wikipedia.org/wiki/Luther_Bible'
+    provenance: Wittenberg
+    period: 1534 CE
+    description: >-
+      Historic printed vernacular German translation democratizing direct
+      scriptural access for all believers.
 ---
 
 # United Methodist Church

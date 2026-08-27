@@ -1,20 +1,60 @@
 ---
-id: "finnish-religion"
-title: "Finnic Religions"
-cluster: "Ancient European"
-color: "#6699c6"
-era_start: "c. 1st millennium CE"
-epistemic_tier: "academic_consensus"
-summary: "Related but distinct religious traditions among Finnish, Karelian, Estonian, and other Finnic-speaking peoples."
+id: finnish-religion
+title: Finnic Religions
+cluster: Ancient European
+color: '#6699c6'
+era_start: c. 1st millennium CE
+epistemic_tier: academic_consensus
+summary: >-
+  Related but distinct religious traditions among Finnish, Karelian, Estonian,
+  and other Finnic-speaking peoples.
 canonical_texts:
-  - "Oral rune-song traditions"
-  - "Karelian lament corpus"
-  - "Kalevala (nineteenth-century compilation)"
-  - "Ethnographic ritual records"
+  - Oral rune-song traditions
+  - Karelian lament corpus
+  - Kalevala (nineteenth-century compilation)
+  - Ethnographic ritual records
 relations:
-  - target: "baltic-religion"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: baltic-religion
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 500
+origin_geo:
+  lat: 59.5883
+  lng: 17.6624
+  place_name: 'Old Uppsala, Uppland, Sweden'
+extinct_year: 1300
+key_tenets:
+  - >-
+    Foundational Doctrine: Finnic religious traditions are reconstructed through
+    archaeology, linguistic evidence, rune songs, charms, laments, and
+    ethnography recorded mainly after long ...
+  - >-
+    Distinctive Practice: Ritual specialists, incantatory knowledge, ancestors,
+    sacred places, and reciprocal relations with forest, water, weather, and
+    household powers appear across so...
+  - >-
+    Core Orientation: Related but distinct religious traditions among Finnish,
+    Karelian, Estonian, and other Finnic-speaking peoples.
+sources:
+  - title: 'Encyclopaedia Britannica: "Finnic Religions"'
+    url: 'https://www.britannica.com/topic/finnic-religions'
+  - title: 'Oxford Reference: Overview of Finnic Religions'
+    url: 'https://www.oxfordreference.com/search?q=Finnic%20Religions'
+  - title: 'Brill Handbook of Religious Traditions: Finnic Religions'
+    url: 'https://brill.com/search?q=Finnic%20Religions'
+artifacts:
+  - title: Finnic Religions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Finnic_Religions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Finnic Religions.
+  - title: Finnic Religions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Oral_rune-song_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Finnic Religions

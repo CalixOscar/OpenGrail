@@ -28,6 +28,14 @@ const RELATION_TYPES = new Set([
   "schism",
 ]);
 
+const CANONICAL_RELATION_TYPES = new Set([
+  "direct_branch",
+  "schism",
+  "thematic_parallel",
+]);
+
+const EDGE_STYLES = new Set(["solid", "dotted"]);
+
 const CLUSTER_ORDER = [
   "Abrahamic",
   "Dharmic",
@@ -76,6 +84,46 @@ function optionalNumber(value, field, filePath, fallback) {
   return value;
 }
 
+function requiredInteger(value, field, filePath) {
+  if (value == null || typeof value !== "number" || !Number.isInteger(value)) {
+    fail(filePath, `frontmatter field "${field}" must be an integer`);
+  }
+  return value;
+}
+
+function optionalIntegerOrNull(value, field, filePath) {
+  if (value === null || value === undefined) return null;
+  if (typeof value !== "number" || !Number.isInteger(value)) {
+    fail(filePath, `frontmatter field "${field}" must be an integer or null`);
+  }
+  return value;
+}
+
+function requiredGeo(value, filePath) {
+  if (!value || typeof value !== "object" || Array.isArray(value)) {
+    fail(filePath, 'frontmatter field "origin_geo" must be an object');
+  }
+  const lat = value.lat;
+  const lng = value.lng;
+  const placeName = value.place_name;
+
+  if (typeof lat !== "number" || !Number.isFinite(lat) || lat < -90 || lat > 90) {
+    fail(filePath, 'frontmatter field "origin_geo.lat" must be a number between -90 and 90');
+  }
+  if (typeof lng !== "number" || !Number.isFinite(lng) || lng < -180 || lng > 180) {
+    fail(filePath, 'frontmatter field "origin_geo.lng" must be a number between -180 and 180');
+  }
+  if (typeof placeName !== "string" || placeName.trim() === "") {
+    fail(filePath, 'frontmatter field "origin_geo.place_name" must be a non-empty string');
+  }
+
+  return {
+    lat,
+    lng,
+    place_name: placeName.trim(),
+  };
+}
+
 function stringArray(value, field, filePath) {
   if (!Array.isArray(value) || value.length === 0) {
     fail(filePath, `frontmatter field "${field}" must be a non-empty string array`);
@@ -94,6 +142,61 @@ function optionalStringArray(value, field, filePath) {
   return [...new Set(value.map((item, index) =>
     requiredString(item, `${field}[${index}]`, filePath),
   ))];
+}
+
+function normalizeSources(value, filePath) {
+  if (value == null) return [];
+  if (!Array.isArray(value)) {
+    fail(filePath, 'frontmatter field "sources" must be an array when provided');
+  }
+  return value.map((item, index) => {
+    if (typeof item === 'string') {
+      const trimmed = item.trim();
+      if (!trimmed) fail(filePath, `sources[${index}] must not be empty`);
+      return trimmed;
+    }
+    if (item && typeof item === 'object') {
+      const title = requiredString(item.title, `sources[${index}].title`, filePath);
+      const url = optionalString(item.url, `sources[${index}].url`, filePath);
+      return { title, ...(url ? { url } : {}) };
+    }
+    fail(filePath, `sources[${index}] must be a string or object`);
+  });
+}
+
+function normalizeArtifacts(value, filePath) {
+  if (value == null) return [];
+  if (!Array.isArray(value)) {
+    fail(filePath, 'frontmatter field "artifacts" must be an array when provided');
+  }
+  return value.map((item, index) => {
+    if (!item || typeof item !== "object" || Array.isArray(item)) {
+      fail(filePath, `artifacts[${index}] must be an object`);
+    }
+    const title = requiredString(item.title, `artifacts[${index}].title`, filePath);
+    const url = optionalString(item.url || item.imageUrl || item.image_url, `artifacts[${index}].url`, filePath);
+    const provenance = optionalString(item.provenance, `artifacts[${index}].provenance`, filePath);
+    const period = optionalString(item.period, `artifacts[${index}].period`, filePath);
+    const description = optionalString(item.description, `artifacts[${index}].description`, filePath);
+
+    return {
+      title,
+      ...(url ? { url, imageUrl: url } : {}),
+      ...(provenance ? { provenance } : {}),
+      ...(period ? { period } : {}),
+      ...(description ? { description } : {}),
+    };
+  });
+}
+
+function mapRelationType(legacyType) {
+  if (legacyType === "branch_of") {
+    return { relation_type: "direct_branch", style: "solid" };
+  }
+  if (legacyType === "schism" || legacyType === "diverged_from") {
+    return { relation_type: "schism", style: "solid" };
+  }
+  return { relation_type: "thematic_parallel", style: "dotted" };
 }
 
 function normalizeRelations(value, filePath) {
@@ -146,7 +249,17 @@ function normalizeRelations(value, filePath) {
       filePath,
     );
 
-    return citation ? { target, type, certainty, citation } : { target, type, certainty };
+    const mapped = mapRelationType(type);
+
+    return {
+      target,
+      type,
+      certainty,
+      relation_type: mapped.relation_type,
+      style: mapped.style,
+      epistemic_tier: certainty,
+      ...(citation ? { citation } : {}),
+    };
   });
 }
 
@@ -191,6 +304,18 @@ async function parseNode(filePath) {
     fail(filePath, `color "${color}" must be a six-digit hexadecimal color`);
   }
 
+  const originYear = requiredInteger(data.origin_year, "origin_year", filePath);
+  const originGeo = requiredGeo(data.origin_geo, filePath);
+  const extinctYear = optionalIntegerOrNull(data.extinct_year, "extinct_year", filePath);
+
+  const originYearPrecision = optionalString(data.origin_year_precision, "origin_year_precision", filePath);
+  const originGeoPrecision = optionalString(data.origin_geo_precision, "origin_geo_precision", filePath);
+  const originNote = optionalString(data.origin_note, "origin_note", filePath);
+
+  const keyTenets = optionalStringArray(data.key_tenets || data.keyTenets, "key_tenets", filePath);
+  const sources = normalizeSources(data.sources, filePath);
+  const artifacts = normalizeArtifacts(data.artifacts, filePath);
+
   const body = content.trim();
   if (!body) fail(filePath, "Markdown body must not be empty");
 
@@ -206,6 +331,19 @@ async function parseNode(filePath) {
       summary: requiredString(data.summary, "summary", filePath),
       aliases: optionalStringArray(data.aliases, "aliases", filePath),
       canonicalTexts: stringArray(data.canonical_texts, "canonical_texts", filePath),
+      key_tenets: keyTenets,
+      keyTenets,
+      sources,
+      artifacts,
+      origin_year: originYear,
+      originYear,
+      origin_geo: originGeo,
+      originGeo,
+      extinct_year: extinctYear,
+      extinctYear,
+      ...(originYearPrecision ? { origin_year_precision: originYearPrecision, originYearPrecision } : {}),
+      ...(originGeoPrecision ? { origin_geo_precision: originGeoPrecision, originGeoPrecision } : {}),
+      ...(originNote ? { origin_note: originNote, originNote } : {}),
       content: body,
       sourcePath: path.relative(PROJECT_ROOT, filePath).split(path.sep).join("/"),
       backlinks: { inbound: [], outbound: [] },
@@ -221,8 +359,36 @@ function backlinkRef(node, link) {
     title: node.title,
     type: link.type,
     certainty: link.certainty,
+    relation_type: link.relation_type,
+    relationType: link.relation_type,
+    epistemic_tier: link.epistemic_tier,
+    epistemicTier: link.epistemic_tier,
+    style: link.style,
   };
   return link.citation ? { ...ref, citation: link.citation } : ref;
+}
+
+function detectBranchCycles(nodesById, links) {
+  // Build parent adjacency for direct branch relations
+  const branchMap = new Map();
+  for (const link of links) {
+    if (link.type === "branch_of" || link.relation_type === "direct_branch") {
+      // link.source is branch of link.target
+      branchMap.set(link.source, link.target);
+    }
+  }
+
+  for (const startNodeId of branchMap.keys()) {
+    const visited = new Set();
+    let current = startNodeId;
+    while (current && branchMap.has(current)) {
+      if (visited.has(current)) {
+        throw new Error(`Branch cycle detected involving node "${current}"`);
+      }
+      visited.add(current);
+      current = branchMap.get(current);
+    }
+  }
 }
 
 async function buildGraph() {
@@ -251,6 +417,16 @@ async function buildGraph() {
         fail(filePath, `relation target "${relation.target}" does not exist`);
       }
 
+      if (!CANONICAL_RELATION_TYPES.has(relation.relation_type)) {
+        fail(filePath, `invalid relation_type "${relation.relation_type}"`);
+      }
+      if (!EDGE_STYLES.has(relation.style)) {
+        fail(filePath, `invalid edge style "${relation.style}"`);
+      }
+      if (!EPISTEMIC_TIERS.has(relation.epistemic_tier)) {
+        fail(filePath, `invalid epistemic_tier "${relation.epistemic_tier}"`);
+      }
+
       const dedupeKey = `${sourceNode.id}\u0000${relation.target}\u0000${relation.type}`;
       const link = {
         id: `${sourceNode.id}--${relation.type}--${relation.target}`,
@@ -258,6 +434,11 @@ async function buildGraph() {
         target: relation.target,
         type: relation.type,
         certainty: relation.certainty,
+        relation_type: relation.relation_type,
+        relationType: relation.relation_type,
+        epistemic_tier: relation.epistemic_tier,
+        epistemicTier: relation.epistemic_tier,
+        style: relation.style,
         ...(relation.citation ? { citation: relation.citation } : {}),
       };
 
@@ -265,7 +446,8 @@ async function buildGraph() {
       if (existing) {
         if (
           existing.certainty !== link.certainty ||
-          existing.citation !== link.citation
+          existing.citation !== link.citation ||
+          existing.relation_type !== link.relation_type
         ) {
           fail(
             filePath,
@@ -279,6 +461,10 @@ async function buildGraph() {
   }
 
   const links = [...linksByKey.values()].sort((a, b) => a.id.localeCompare(b.id));
+  
+  // Verify branch cycles
+  detectBranchCycles(nodesById, links);
+
   for (const link of links) {
     const sourceNode = nodesById.get(link.source);
     const targetNode = nodesById.get(link.target);

@@ -1,22 +1,64 @@
 ---
-id: "engaged-buddhism"
-title: "Engaged Buddhism"
-cluster: "Dharmic"
-color: "#f39a42"
-era_start: "20th century CE"
-epistemic_tier: "academic_consensus"
-summary: "Transnational Buddhist movements applying ethics and contemplative practice to peace, justice, ecology, and structural suffering."
+id: engaged-buddhism
+title: Engaged Buddhism
+cluster: Dharmic
+color: '#f39a42'
+era_start: 20th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  Transnational Buddhist movements applying ethics and contemplative practice to
+  peace, justice, ecology, and structural suffering.
 canonical_texts:
-  - "Interbeing: Fourteen Guidelines"
-  - "Socially Engaged Buddhism"
-  - "Buddhist peace declarations"
+  - 'Interbeing: Fourteen Guidelines'
+  - Socially Engaged Buddhism
+  - Buddhist peace declarations
 relations:
-  - target: "buddhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "thien"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: buddhism
+    type: branch_of
+    certainty: academic_consensus
+  - target: thien
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1950
+origin_geo:
+  lat: 25.058
+  lng: 82.4268
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The English label “Engaged Buddhism” gained currency
+    through Thích Nhất Hạnh during the Vietnam War, but related Buddhist
+    activism developed independently acros...
+  - >-
+    Distinctive Practice: Engaged Buddhists interpret compassion,
+    interdependence, non-harming, and the bodhisattva path as mandates to
+    confront social structures as well as individual d...
+  - >-
+    Core Orientation: Transnational Buddhist movements applying ethics and
+    contemplative practice to peace, justice, ecology, and structural suffering.
+sources:
+  - title: 'Encyclopaedia Britannica: "Engaged Buddhism"'
+    url: 'https://www.britannica.com/topic/engaged-buddhism'
+  - title: 'Oxford Reference: Overview of Engaged Buddhism'
+    url: 'https://www.oxfordreference.com/search?q=Engaged%20Buddhism'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Engaged%20Buddhism'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Engaged Buddhism

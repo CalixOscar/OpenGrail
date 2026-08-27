@@ -1,22 +1,66 @@
 ---
-id: "ancient-israelite-religion"
-title: "Ancient Israelite Religion"
-cluster: "Abrahamic"
-color: "#c7a956"
-era_start: "c. 1200 BCE"
-epistemic_tier: "academic_consensus"
-summary: "The changing religious cultures of ancient Israel and Judah from which later Judaism developed."
+id: ancient-israelite-religion
+title: Ancient Israelite Religion
+cluster: Abrahamic
+color: '#c7a956'
+era_start: c. 1200 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  The changing religious cultures of ancient Israel and Judah from which later
+  Judaism developed.
 aliases:
-  - "Israelite Religion"
-  - "Religion of Ancient Israel"
+  - Israelite Religion
+  - Religion of Ancient Israel
 display_weight: 1.35
 canonical_texts:
-  - "Hebrew Bible"
-  - "Ancient Hebrew and Northwest Semitic inscriptions"
+  - Hebrew Bible
+  - Ancient Hebrew and Northwest Semitic inscriptions
 relations:
-  - target: "judaism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: judaism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: -1200
+origin_geo:
+  lat: 31.5965
+  lng: 34.8012
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Ancient Israelite religion developed among Iron Age
+    communities in the southern Levant and changed substantially across the
+    monarchic, exilic, and post-exilic p...
+  - >-
+    Distinctive Practice: Scholars distinguish this varied ancient religion from
+    the later institutions and textual traditions called Judaism. Exclusive
+    worship of YHWH, covenantal ident...
+  - >-
+    Core Orientation: The changing religious cultures of ancient Israel and
+    Judah from which later Judaism developed.
+sources:
+  - title: 'Encyclopaedia Britannica: "Ancient Israelite Religion"'
+    url: 'https://www.britannica.com/topic/ancient-israelite-religion'
+  - title: 'Oxford Reference: Overview of Ancient Israelite Religion'
+    url: 'https://www.oxfordreference.com/search?q=Ancient%20Israelite%20Religion'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Ancient Israelite
+      Religion
+    url: 'https://www.cambridge.org/core/search?q=Ancient%20Israelite%20Religion'
+artifacts:
+  - title: Western Wall & Second Temple Foundation
+    url: 'https://en.wikipedia.org/wiki/Western_Wall'
+    provenance: 'Old City, Jerusalem'
+    period: c. 19 BCE (Herodian Era)
+    description: >-
+      The holiest prayer site of Jewish tradition, surviving western retaining
+      wall of the Second Temple complex.
+  - title: Aleppo Codex Masoretic Hebrew Bible Manuscript
+    url: 'https://en.wikipedia.org/wiki/Aleppo_Codex'
+    provenance: Tiberias & Jerusalem
+    period: c. 920 CE
+    description: >-
+      Authoritative parchment manuscript of the Hebrew Bible with Masoretic
+      vocalization and cantillation marks.
 ---
 
 # Ancient Israelite Religion

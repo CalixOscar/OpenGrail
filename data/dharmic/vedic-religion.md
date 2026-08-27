@@ -1,21 +1,66 @@
 ---
-id: "vedic-religion"
-title: "Vedic Religion"
-cluster: "Dharmic"
-color: "#fb923c"
-era_start: "c. 1500 BCE"
-epistemic_tier: "academic_consensus"
-summary: "The sacrificial and poetic religious culture preserved in the Vedas, formed among Indo-Aryan communities of the late second and first millennia BCE."
+id: vedic-religion
+title: Vedic Religion
+cluster: Dharmic
+color: '#fb923c'
+era_start: c. 1500 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  The sacrificial and poetic religious culture preserved in the Vedas, formed
+  among Indo-Aryan communities of the late second and first millennia BCE.
 canonical_texts:
-  - "Rigveda"
-  - "Sāmaveda"
-  - "Yajurveda"
-  - "Atharvaveda"
+  - Rigveda
+  - Sāmaveda
+  - Yajurveda
+  - Atharvaveda
 relations:
-  - target: "zoroastrianism"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
-    citation: "Michael Witzel, Early Sanskritization, Electronic Journal of Vedic Studies 1.4 (1995)"
+  - target: zoroastrianism
+    type: parallel_concept
+    certainty: academic_consensus
+    citation: >-
+      Michael Witzel, Early Sanskritization, Electronic Journal of Vedic Studies
+      1.4 (1995)
+origin_year: -1500
+origin_geo:
+  lat: 25.9817
+  lng: 82.3837
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Vedic religion is reconstructed primarily from
+    Sanskrit compositions transmitted orally with extraordinary precision. The
+    oldest layer, the *Rigveda*, is usuall...
+  - >-
+    Distinctive Practice: Fire sacrifice (*yajña*) linked patrons, specialist
+    priests, deities, ancestors, and cosmic order. Hymns praise figures such as
+    Agni, Indra, Soma, Uṣas, and Var...
+  - >-
+    Core Orientation: The sacrificial and poetic religious culture preserved in
+    the Vedas, formed among Indo-Aryan communities of the late second and first
+    millennia BCE.
+sources:
+  - title: 'Encyclopaedia Britannica: "Vedic Religion"'
+    url: 'https://www.britannica.com/topic/vedic-religion'
+  - title: 'Oxford Reference: Overview of Vedic Religion'
+    url: 'https://www.oxfordreference.com/search?q=Vedic%20Religion'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Vedic%20Religion'
+artifacts:
+  - title: Brihadisvara Temple (Peruvudaiyar Kovil)
+    url: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
+    provenance: 'Thanjavur, Tamil Nadu'
+    period: 1010 CE (Chola Dynasty)
+    description: >-
+      Towering granite rock architecture exemplifying Tamil Dravidian temple
+      design and Shaivite sacred geometry.
+  - title: Chola Nataraja (Cosmic Dance of Shiva) Bronze
+    url: 'https://en.wikipedia.org/wiki/Nataraja'
+    provenance: Southern India
+    period: c. 10th-11th century CE
+    description: >-
+      Iconic lost-wax bronze sculpture representing the continuous cycle of
+      cosmic creation and preservation.
 ---
 
 # Vedic Religion

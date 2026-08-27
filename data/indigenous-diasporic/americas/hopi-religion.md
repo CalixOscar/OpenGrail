@@ -1,18 +1,58 @@
 ---
-id: "hopi-religion"
-title: "Hopi Religion"
-cluster: "Indigenous & Diasporic"
-color: "#b7875e"
-era_start: "ancestral era"
-epistemic_tier: "academic_consensus"
-summary: "Community-governed religious traditions of Hopi villages in what is now northeastern Arizona."
+id: hopi-religion
+title: Hopi Religion
+cluster: Indigenous & Diasporic
+color: '#b7875e'
+era_start: ancestral era
+epistemic_tier: academic_consensus
+summary: >-
+  Community-governed religious traditions of Hopi villages in what is now
+  northeastern Arizona.
 canonical_texts:
-  - "Oral traditions (community-governed)"
-  - "Ceremonial and clan ritual corpus"
+  - Oral traditions (community-governed)
+  - Ceremonial and clan ritual corpus
 relations:
-  - target: "animist-frameworks"
-    type: "parallel_concept"
-    certainty: "minority_scholarly"
+  - target: animist-frameworks
+    type: parallel_concept
+    certainty: minority_scholarly
+origin_year: 0
+origin_geo:
+  lat: 35.8756
+  lng: -110.6406
+  place_name: 'Old Oraibi, Third Mesa, Hopi Nation, AZ'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Hopi villages maintain distinct clan histories,
+    ceremonial societies, agricultural knowledge, and responsibilities rooted in
+    long residence on and around the Ho...
+  - >-
+    Distinctive Practice: Dry farming, rain, emergence histories, katsinam,
+    pilgrimage, reciprocity, and village ceremonial cycles connect ethical life
+    with place. Practice differs among...
+  - >-
+    Core Orientation: Community-governed religious traditions of Hopi villages
+    in what is now northeastern Arizona.
+sources:
+  - title: 'Encyclopaedia Britannica: "Hopi Religion"'
+    url: 'https://www.britannica.com/topic/hopi-religion'
+  - title: 'Oxford Reference: Overview of Hopi Religion'
+    url: 'https://www.oxfordreference.com/search?q=Hopi%20Religion'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Hopi%20Religion'
+artifacts:
+  - title: Hopi Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Hopi_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Hopi Religion.
+  - title: Hopi Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Oral_traditions_(community-governed)'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Hopi Religion

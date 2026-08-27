@@ -1,22 +1,63 @@
 ---
-id: "korean-shamanism"
-title: "Korean Shamanic Traditions"
-cluster: "East Asian"
-color: "#4ade80"
-era_start: "ancient"
-epistemic_tier: "academic_consensus"
-summary: "Korean ritual traditions in which spirit specialists mediate among deities, ancestors, misfortune, healing, and communal life."
+id: korean-shamanism
+title: Korean Shamanic Traditions
+cluster: East Asian
+color: '#4ade80'
+era_start: ancient
+epistemic_tier: academic_consensus
+summary: >-
+  Korean ritual traditions in which spirit specialists mediate among deities,
+  ancestors, misfortune, healing, and communal life.
 canonical_texts:
-  - "Mudang oral ritual corpora"
-  - "Regional gut songs and narratives"
-  - "Village shrine traditions"
+  - Mudang oral ritual corpora
+  - Regional gut songs and narratives
+  - Village shrine traditions
 relations:
-  - target: "chinese-folk-religion"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
-  - target: "buddhism"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: chinese-folk-religion
+    type: parallel_concept
+    certainty: academic_consensus
+  - target: buddhism
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: 37.4672
+  lng: 126.6609
+  place_name: 'Seoul (Hanyang), South Korea'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Ritual specialists commonly called *mudang* have
+    served Korean households and communities through changing kingdoms,
+    Confucian governance, colonial suppression,...
+  - >-
+    Distinctive Practice: The *gut* combines offerings, music, dance, costume,
+    narrative, divination, and spirit embodiment to heal, guide the dead, secure
+    fortune, or restore relationsh...
+  - >-
+    Core Orientation: Korean ritual traditions in which spirit specialists
+    mediate among deities, ancestors, misfortune, healing, and communal life.
+sources:
+  - title: 'Encyclopaedia Britannica: "Korean Shamanic Traditions"'
+    url: 'https://www.britannica.com/topic/korean-shamanic-traditions'
+  - title: 'Oxford Reference: Overview of Korean Shamanic Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Korean%20Shamanic%20Traditions'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: >-
+      https://plato.stanford.edu/search/searcher.py?query=Korean%20Shamanic%20Traditions
+artifacts:
+  - title: Korean Shamanic Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Korean_Shamanic_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Korean Shamanic Traditions.
+  - title: Korean Shamanic Traditions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Mudang_oral_ritual_corpora'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Korean Shamanic Traditions

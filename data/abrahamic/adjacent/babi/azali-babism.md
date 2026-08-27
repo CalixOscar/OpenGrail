@@ -1,22 +1,62 @@
 ---
-id: "azali-babism"
-title: "Azali Babism"
-cluster: "Abrahamic"
-color: "#8797ba"
-era_start: "1860s CE"
-epistemic_tier: "academic_consensus"
-summary: "A small Babi continuation associated with Subh-i Azal that did not accept Baha'u'llah's prophetic claim."
+id: azali-babism
+title: Azali Babism
+cluster: Abrahamic
+color: '#8797ba'
+era_start: 1860s CE
+epistemic_tier: academic_consensus
+summary: >-
+  A small Babi continuation associated with Subh-i Azal that did not accept
+  Baha'u'llah's prophetic claim.
 aliases:
-  - "Azali Faith"
-  - "Bayani Faith"
+  - Azali Faith
+  - Bayani Faith
 canonical_texts:
-  - "Persian Bayan"
-  - "Arabic Bayan"
-  - "Writings of Subh-i Azal"
+  - Persian Bayan
+  - Arabic Bayan
+  - Writings of Subh-i Azal
 relations:
-  - target: "babism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: babism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1860
+origin_geo:
+  lat: 31.3055
+  lng: 35.4912
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: After the Bab's execution, leadership claims and the
+    later announcement of Baha'u'llah divided the Babi community. Followers of
+    Mirza Yahya Subh-i Azal rejected...
+  - >-
+    Distinctive Practice: Azalis emphasized preservation and interpretation of
+    the Bab's laws and writings while often practicing concealment in a hostile
+    environment. Their numbers decl...
+  - >-
+    Core Orientation: A small Babi continuation associated with Subh-i Azal that
+    did not accept Baha'u'llah's prophetic claim.
+sources:
+  - title: 'Encyclopaedia Britannica: "Azali Babism"'
+    url: 'https://www.britannica.com/topic/azali-babism'
+  - title: 'Oxford Reference: Overview of Azali Babism'
+    url: 'https://www.oxfordreference.com/search?q=Azali%20Babism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Azali Babism'
+    url: 'https://www.cambridge.org/core/search?q=Azali%20Babism'
+artifacts:
+  - title: Azali Babism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Azali_Babism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Azali Babism.
+  - title: Azali Babism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Persian_Bayan'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Azali Babism

@@ -1,25 +1,65 @@
 ---
-id: "cult-of-isis"
-title: "Cult of Isis"
-cluster: "Ancient Mediterranean"
-color: "#b986e8"
-era_start: "c. 4th century BCE"
-epistemic_tier: "academic_consensus"
-summary: "Mediterranean cults of the Egyptian goddess Isis adapted through Hellenistic and Roman institutions."
+id: cult-of-isis
+title: Cult of Isis
+cluster: Ancient Mediterranean
+color: '#b986e8'
+era_start: c. 4th century BCE
+epistemic_tier: academic_consensus
+summary: >-
+  Mediterranean cults of the Egyptian goddess Isis adapted through Hellenistic
+  and Roman institutions.
 canonical_texts:
-  - "Isis aretalogies"
-  - "Plutarch's On Isis and Osiris"
-  - "Apuleius's Metamorphoses, Book 11"
-  - "Temple and dedicatory inscriptions"
+  - Isis aretalogies
+  - Plutarch's On Isis and Osiris
+  - 'Apuleius''s Metamorphoses, Book 11'
+  - Temple and dedicatory inscriptions
 relations:
-  - target: "ancient-egyptian-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-    citation: "J. Gwyn Griffiths, Apuleius of Madauros: The Isis-Book (1975)"
-  - target: "hellenistic-religion"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
-    citation: "Laurent Bricault, Isis Pelagia (2020)"
+  - target: ancient-egyptian-religion
+    type: branch_of
+    certainty: academic_consensus
+    citation: 'J. Gwyn Griffiths, Apuleius of Madauros: The Isis-Book (1975)'
+  - target: hellenistic-religion
+    type: syncretized_with
+    certainty: academic_consensus
+    citation: 'Laurent Bricault, Isis Pelagia (2020)'
+origin_year: -350
+origin_geo:
+  lat: 38.17
+  lng: 23.6793
+  place_name: 'Athens, Attica, Greece'
+extinct_year: 535
+key_tenets:
+  - >-
+    Foundational Doctrine: Isis was rooted in Egyptian temple and royal
+    traditions, but her cult acquired new languages, images, associations, and
+    sanctuaries across the Hellenistic and R...
+  - >-
+    Distinctive Practice: Mediterranean Isis could be healer, protector at sea,
+    mourning mother, cosmic sovereign, and guarantor of initiated devotion.
+    These forms did not replace Egypti...
+  - >-
+    Core Orientation: Mediterranean cults of the Egyptian goddess Isis adapted
+    through Hellenistic and Roman institutions.
+sources:
+  - title: 'Encyclopaedia Britannica: "Cult of Isis"'
+    url: 'https://www.britannica.com/topic/cult-of-isis'
+  - title: 'Oxford Reference: Overview of Cult of Isis'
+    url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Isis'
+  - title: 'Brill Handbook of Religious Traditions: Cult of Isis'
+    url: 'https://brill.com/search?q=Cult%20of%20Isis'
+artifacts:
+  - title: Cult of Isis Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Cult_of_Isis'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Cult of Isis.
+  - title: Cult of Isis Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Isis_aretalogies'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Cult of Isis

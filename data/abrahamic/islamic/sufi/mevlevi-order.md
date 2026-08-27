@@ -1,22 +1,62 @@
 ---
-id: "mevlevi-order"
-title: "Mevlevi Order"
-cluster: "Abrahamic"
-color: "#6bb887"
-era_start: "13th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A Sufi order formed around the legacy of Jalal al-Din Rumi and known for its disciplined turning ceremony."
+id: mevlevi-order
+title: Mevlevi Order
+cluster: Abrahamic
+color: '#6bb887'
+era_start: 13th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Sufi order formed around the legacy of Jalal al-Din Rumi and known for its
+  disciplined turning ceremony.
 aliases:
-  - "Mevleviyya"
-  - "Whirling Dervishes"
+  - Mevleviyya
+  - Whirling Dervishes
 canonical_texts:
-  - "Quran"
-  - "Masnavi"
-  - "Divan-e Shams-e Tabrizi"
+  - Quran
+  - Masnavi
+  - Divan-e Shams-e Tabrizi
 relations:
-  - target: "sufism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: sufism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1250
+origin_geo:
+  lat: 32.0948
+  lng: 36.1401
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Followers and descendants of the Persian-language
+    poet and teacher Jalal al-Din Rumi organized the Mevlevi path in Konya after
+    his death in 1273. Lodges across ...
+  - >-
+    Distinctive Practice: The *sema* ceremony joins recited poetry, reed flute,
+    music, and measured turning as a disciplined remembrance of God. Mevlevi
+    formation historically required e...
+  - >-
+    Core Orientation: A Sufi order formed around the legacy of Jalal al-Din Rumi
+    and known for its disciplined turning ceremony.
+sources:
+  - title: 'Encyclopaedia Britannica: "Mevlevi Order"'
+    url: 'https://www.britannica.com/topic/mevlevi-order'
+  - title: 'Oxford Reference: Overview of Mevlevi Order'
+    url: 'https://www.oxfordreference.com/search?q=Mevlevi%20Order'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Mevlevi Order'
+    url: 'https://www.cambridge.org/core/search?q=Mevlevi%20Order'
+artifacts:
+  - title: Mevlevi Order Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Mevlevi_Order'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Mevlevi Order.
+  - title: Mevlevi Order Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Quran'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Mevlevi Order

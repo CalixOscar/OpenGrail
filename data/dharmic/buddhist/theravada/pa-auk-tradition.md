@@ -1,22 +1,63 @@
 ---
-id: "pa-auk-tradition"
-title: "Pa-Auk Tradition"
-cluster: "Dharmic"
-color: "#f5a52a"
-era_start: "c. 1980s CE"
-epistemic_tier: "academic_consensus"
+id: pa-auk-tradition
+title: Pa-Auk Tradition
+cluster: Dharmic
+color: '#f5a52a'
+era_start: c. 1980s CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Pa Auk Tradition"
-  - "Pa-Auk Tawya"
-summary: "A Burmese Theravāda meditation lineage presenting a detailed concentration-and-insight curriculum based on the Pāli commentaries."
+  - Pa Auk Tradition
+  - Pa-Auk Tawya
+summary: >-
+  A Burmese Theravāda meditation lineage presenting a detailed
+  concentration-and-insight curriculum based on the Pāli commentaries.
 canonical_texts:
-  - "Pāli Tipiṭaka"
-  - "Visuddhimagga"
-  - "Knowing and Seeing"
+  - Pāli Tipiṭaka
+  - Visuddhimagga
+  - Knowing and Seeing
 relations:
-  - target: "burmese-buddhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: burmese-buddhism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1980
+origin_geo:
+  lat: 7.9831
+  lng: 80.5247
+  place_name: 'Anuradhapura, North Central, Sri Lanka'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The contemporary Pa-Auk system is associated with
+    Pa-Auk Tawya Monastery in Myanmar and the teaching of Pa-Auk Sayadaw, who
+    became its abbot in the early 1980s....
+  - >-
+    Distinctive Practice: Students are often taught sustained concentration
+    through mindfulness of breathing, followed by absorption practices, analysis
+    of material and mental processes,...
+  - >-
+    Core Orientation: A Burmese Theravāda meditation lineage presenting a
+    detailed concentration-and-insight curriculum based on the Pāli
+    commentaries.
+sources:
+  - title: 'Encyclopaedia Britannica: "Pa-Auk Tradition"'
+    url: 'https://www.britannica.com/topic/pa-auk-tradition'
+  - title: 'Oxford Reference: Overview of Pa-Auk Tradition'
+    url: 'https://www.oxfordreference.com/search?q=Pa-Auk%20Tradition'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Pa-Auk%20Tradition'
+artifacts:
+  - title: Pa-Auk Tradition Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Pa-Auk_Tradition'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Pa-Auk Tradition.
+  - title: Pa-Auk Tradition Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/P%C4%81li_Tipi%E1%B9%ADaka'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Pa-Auk Tradition

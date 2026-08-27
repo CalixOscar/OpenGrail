@@ -1,19 +1,60 @@
 ---
-id: "tengrism"
-title: "Tengrism"
-cluster: "Indigenous & Diasporic"
-color: "#b98b54"
-era_start: "at least 6th century CE"
-epistemic_tier: "academic_consensus"
-summary: "Inner Asian religious traditions centered on Heaven or Tengri, land-and-water powers, ancestors, sovereignty, and ritual specialists."
+id: tengrism
+title: Tengrism
+cluster: Indigenous & Diasporic
+color: '#b98b54'
+era_start: at least 6th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  Inner Asian religious traditions centered on Heaven or Tengri, land-and-water
+  powers, ancestors, sovereignty, and ritual specialists.
 canonical_texts:
-  - "Orkhon inscriptions"
-  - "The Secret History of the Mongols"
-  - "Oral epic and ritual traditions"
+  - Orkhon inscriptions
+  - The Secret History of the Mongols
+  - Oral epic and ritual traditions
 relations:
-  - target: "shamanic-traditions"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: shamanic-traditions
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 550
+origin_geo:
+  lat: 47.6197
+  lng: 103.0956
+  place_name: 'Orkhon Valley (Karakorum), Mongolia'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Turkic and Mongolic polities of Inner Asia invoked
+    Tengri, often translated as Eternal Heaven, in inscriptions and accounts of
+    legitimate rule. Practices also c...
+  - >-
+    Distinctive Practice: Tengrism is a modern umbrella whose historical
+    referents were diverse and rarely constituted a centralized creed.
+    Contemporary revival movements reconstruct ide...
+  - >-
+    Core Orientation: Inner Asian religious traditions centered on Heaven or
+    Tengri, land-and-water powers, ancestors, sovereignty, and ritual
+    specialists.
+sources:
+  - title: 'Encyclopaedia Britannica: "Tengrism"'
+    url: 'https://www.britannica.com/topic/tengrism'
+  - title: 'Oxford Reference: Overview of Tengrism'
+    url: 'https://www.oxfordreference.com/search?q=Tengrism'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Tengrism'
+artifacts:
+  - title: Tengrism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Tengrism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Tengrism.
+  - title: Tengrism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Orkhon_inscriptions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Tengrism

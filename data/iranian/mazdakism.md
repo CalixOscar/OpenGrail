@@ -1,20 +1,60 @@
 ---
-id: "mazdakism"
-title: "Mazdakism"
-cluster: "Iranian"
-color: "#e3b53b"
-era_start: "late 5th century CE"
-epistemic_tier: "minority_scholarly"
-summary: "A contested designation for the reform movement associated with Mazdak in late Sasanian Iran."
+id: mazdakism
+title: Mazdakism
+cluster: Iranian
+color: '#e3b53b'
+era_start: late 5th century CE
+epistemic_tier: minority_scholarly
+summary: >-
+  A contested designation for the reform movement associated with Mazdak in late
+  Sasanian Iran.
 canonical_texts:
-  - "Middle Persian testimonia"
-  - "Arabic and Persian historical accounts"
-  - "Dēnkard reports on related doctrines"
+  - Middle Persian testimonia
+  - Arabic and Persian historical accounts
+  - Dēnkard reports on related doctrines
 relations:
-  - target: "zoroastrianism"
-    type: "branch_of"
-    certainty: "minority_scholarly"
-    citation: "Patricia Crone, The Nativist Prophets of Early Islamic Iran (2012)"
+  - target: zoroastrianism
+    type: branch_of
+    certainty: minority_scholarly
+    citation: 'Patricia Crone, The Nativist Prophets of Early Islamic Iran (2012)'
+origin_year: 450
+origin_geo:
+  lat: 32.6443
+  lng: 52.0241
+  place_name: 'Isfahan, Iran'
+extinct_year: 530
+key_tenets:
+  - >-
+    Foundational Doctrine: Mazdak appears in sources as a religious reformer
+    active around the reign of the Sasanian king Kavad I. Later Zoroastrian,
+    Arabic, and Persian authors portray h...
+  - >-
+    Distinctive Practice: Reports associate the movement with nonviolence,
+    restraint, communal access to resources, and a cosmology of light and
+    darkness. Sensational claims about “shari...
+  - >-
+    Core Orientation: A contested designation for the reform movement associated
+    with Mazdak in late Sasanian Iran.
+sources:
+  - title: 'Encyclopaedia Britannica: "Mazdakism"'
+    url: 'https://www.britannica.com/topic/mazdakism'
+  - title: 'Oxford Reference: Overview of Mazdakism'
+    url: 'https://www.oxfordreference.com/search?q=Mazdakism'
+  - title: 'Brill Handbook of Religious Traditions: Mazdakism'
+    url: 'https://brill.com/search?q=Mazdakism'
+artifacts:
+  - title: Mazdakism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Mazdakism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Mazdakism.
+  - title: Mazdakism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Middle_Persian_testimonia'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Mazdakism

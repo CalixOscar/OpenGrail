@@ -1,23 +1,64 @@
 ---
-id: "jinja-shinto"
-title: "Jinja Shinto"
-cluster: "East Asian"
-color: "#35bd6d"
-era_start: "1945 CE"
-epistemic_tier: "academic_consensus"
+id: jinja-shinto
+title: Jinja Shinto
+cluster: East Asian
+color: '#35bd6d'
+era_start: 1945 CE
+epistemic_tier: academic_consensus
 display_weight: 1.35
 aliases:
-  - "Shrine Shinto"
-  - "Jinja Honchō tradition"
-summary: "The postwar field of shrine-centered Shinto ritual, priesthood, festivals, and administration, especially shrines affiliated with Jinja Honchō."
+  - Shrine Shinto
+  - Jinja Honchō tradition
+summary: >-
+  The postwar field of shrine-centered Shinto ritual, priesthood, festivals, and
+  administration, especially shrines affiliated with Jinja Honchō.
 canonical_texts:
-  - "Kojiki"
-  - "Nihon Shoki"
-  - "Norito ritual prayers"
+  - Kojiki
+  - Nihon Shoki
+  - Norito ritual prayers
 relations:
-  - target: "shinto"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: shinto
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1945
+origin_geo:
+  lat: 34.437
+  lng: 136.8201
+  place_name: 'Ise Grand Shrine, Mie, Japan'
+extinct_year: null
+key_tenets:
+  - >-
+    Kami Veneration: Sacred reverence for divine spirits and natural forces
+    inhabiting mountains, trees, rivers, ancestors, and celestial bodies.
+  - >-
+    Kegare and Harai (Purity and Purification): Ritual washing,
+    salt-purification, and cleansing rites to remove spiritual pollution and
+    restore life vitality.
+  - >-
+    Harmony with Nature (Musuhi): Celebration of seasonal renewal, community
+    matsuri (festivals), and sacred connection to the Japanese land.
+sources:
+  - title: 'Encyclopaedia Britannica: "Jinja Shinto"'
+    url: 'https://www.britannica.com/topic/jinja-shinto'
+  - title: 'Oxford Reference: Overview of Jinja Shinto'
+    url: 'https://www.oxfordreference.com/search?q=Jinja%20Shinto'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: 'https://plato.stanford.edu/search/searcher.py?query=Jinja%20Shinto'
+artifacts:
+  - title: Itsukushima Floating Torii Gate Shrine
+    url: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
+    provenance: 'Miyajima, Hiroshima, Japan'
+    period: 1168 CE
+    description: >-
+      Iconic sacred Shinto gate standing in the tidal sea, demarcating the
+      boundary of the sacred realm.
+  - title: Ise Grand Shrine (Kotai Jingu)
+    url: 'https://en.wikipedia.org/wiki/Ise_Grand_Shrine'
+    provenance: 'Mie Prefecture, Japan'
+    period: c. 4 BCE / 7th century CE
+    description: >-
+      Principal Shinto sanctuary dedicated to the sun kami Amaterasu Omikami,
+      ritually rebuilt every 20 years.
 ---
 
 # Jinja Shinto

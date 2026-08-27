@@ -1,24 +1,80 @@
 ---
-id: "fundamentalist-church-jesus-christ-latter-day-saints"
-title: "Fundamentalist Church of Jesus Christ of Latter-Day Saints"
-cluster: "Abrahamic"
-color: "#a269a9"
-era_start: "c. 1954 CE"
-epistemic_tier: "academic_consensus"
-summary: "A centralized Latter Day Saint fundamentalist church commonly abbreviated FLDS, historically based in the Arizona-Utah border region."
+id: fundamentalist-church-jesus-christ-latter-day-saints
+title: Fundamentalist Church of Jesus Christ of Latter-Day Saints
+cluster: Abrahamic
+color: '#a269a9'
+era_start: c. 1954 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A centralized Latter Day Saint fundamentalist church commonly abbreviated
+  FLDS, historically based in the Arizona-Utah border region.
 aliases:
-  - "FLDS Church"
-  - "FLDS"
-  - "Fundamentalist Mormon Church"
+  - FLDS Church
+  - FLDS
+  - Fundamentalist Mormon Church
 canonical_texts:
-  - "King James Version of the Bible"
-  - "Book of Mormon"
-  - "Doctrine and Covenants"
-  - "Pearl of Great Price"
+  - King James Version of the Bible
+  - Book of Mormon
+  - Doctrine and Covenants
+  - Pearl of Great Price
 relations:
-  - target: "latter-day-saint-fundamentalism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: latter-day-saint-fundamentalism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1954
+origin_geo:
+  lat: 40.9293
+  lng: -111.6109
+  place_name: 'Salt Lake City (Temple Square), Utah, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The FLDS Church developed from the Short Creek
+    community and a fundamentalist priesthood council that continued plural
+    marriage after its abandonment by the Uta...
+  - >-
+    Distinctive Practice: The church preserves a fundamentalist interpretation
+    of nineteenth-century Latter Day Saint scripture, priesthood, communal
+    discipline, and plural marriage. It ...
+  - >-
+    Core Orientation: A centralized Latter Day Saint fundamentalist church
+    commonly abbreviated FLDS, historically based in the Arizona-Utah border
+    region.
+sources:
+  - title: >-
+      Encyclopaedia Britannica: "Fundamentalist Church of Jesus Christ of
+      Latter-Day Saints"
+    url: >-
+      https://www.britannica.com/topic/fundamentalist-church-of-jesus-christ-of-latter-day-saints
+  - title: >-
+      Oxford Reference: Overview of Fundamentalist Church of Jesus Christ of
+      Latter-Day Saints
+    url: >-
+      https://www.oxfordreference.com/search?q=Fundamentalist%20Church%20of%20Jesus%20Christ%20of%20Latter-Day%20Saints
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Fundamentalist
+      Church of Jesus Christ of Latter-Day Saints
+    url: >-
+      https://www.cambridge.org/core/search?q=Fundamentalist%20Church%20of%20Jesus%20Christ%20of%20Latter-Day%20Saints
+artifacts:
+  - title: >-
+      Fundamentalist Church of Jesus Christ of Latter-Day Saints Historical
+      Reference & Architecture
+    url: >-
+      https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Fundamentalist Church of Jesus Christ of
+      Latter-Day Saints.
+  - title: >-
+      Fundamentalist Church of Jesus Christ of Latter-Day Saints Primary Texts &
+      Sacred Records
+    url: 'https://en.wikipedia.org/wiki/King_James_Version_of_the_Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Fundamentalist Church of Jesus Christ of Latter-Day Saints

@@ -1,29 +1,73 @@
 ---
-id: "buddhism"
-title: "Buddhism"
-cluster: "Dharmic"
-color: "#f59e0b"
+id: buddhism
+title: Buddhism
+cluster: Dharmic
+color: '#f59e0b'
 display_weight: 2.5
-era_start: "c. 5th century BCE"
-epistemic_tier: "academic_consensus"
-summary: "A diverse tradition tracing itself to the Buddha and organized around diagnosing suffering, cultivating a path, and awakening from conditioned existence."
+era_start: c. 5th century BCE
+epistemic_tier: academic_consensus
+summary: >-
+  A diverse tradition tracing itself to the Buddha and organized around
+  diagnosing suffering, cultivating a path, and awakening from conditioned
+  existence.
 aliases:
-  - "Buddhist traditions"
-  - "Buddhists"
+  - Buddhist traditions
+  - Buddhists
 canonical_texts:
-  - "Pāli Tipiṭaka"
-  - "Āgamas"
-  - "Mahāyāna sūtras"
-  - "Tibetan Kangyur"
+  - Pāli Tipiṭaka
+  - Āgamas
+  - Mahāyāna sūtras
+  - Tibetan Kangyur
 relations:
-  - target: "vedic-religion"
-    type: "diverged_from"
-    certainty: "academic_consensus"
-    citation: "Richard Gombrich, What the Buddha Thought (2009)"
-  - target: "hinduism"
-    type: "diverged_from"
-    certainty: "academic_consensus"
-    citation: "Johannes Bronkhorst, Greater Magadha (2007)"
+  - target: vedic-religion
+    type: diverged_from
+    certainty: academic_consensus
+    citation: 'Richard Gombrich, What the Buddha Thought (2009)'
+  - target: hinduism
+    type: diverged_from
+    certainty: academic_consensus
+    citation: 'Johannes Bronkhorst, Greater Magadha (2007)'
+origin_year: -450
+origin_geo:
+  lat: 25.6289
+  lng: 82.6215
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Buddhist traditions trace their origin to Siddhārtha
+    Gautama, the Buddha, who taught in northern South Asia sometime around the
+    fifth century BCE. Precise dates...
+  - >-
+    Distinctive Practice: Royal and mercantile patronage supported monasteries
+    and missions across Asia. Distinct schools developed their own disciplinary
+    and doctrinal canons. Mahāyāna ...
+  - >-
+    Core Orientation: A diverse tradition tracing itself to the Buddha and
+    organized around diagnosing suffering, cultivating a path, and awakening
+    from conditioned existence.
+sources:
+  - title: 'Encyclopaedia Britannica: "Buddhism"'
+    url: 'https://www.britannica.com/topic/buddhism'
+  - title: 'Oxford Reference: Overview of Buddhism'
+    url: 'https://www.oxfordreference.com/search?q=Buddhism'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Buddhism'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Buddhism

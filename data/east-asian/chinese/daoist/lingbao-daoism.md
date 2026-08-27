@@ -1,25 +1,63 @@
 ---
-id: "lingbao-daoism"
-title: "Lingbao Daoism"
-cluster: "East Asian"
-color: "#3ab578"
-era_start: "late 4th century CE"
-epistemic_tier: "academic_consensus"
+id: lingbao-daoism
+title: Lingbao Daoism
+cluster: East Asian
+color: '#3ab578'
+era_start: late 4th century CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Numinous Treasure Tradition"
-  - "Ling-pao Daoism"
-summary: "A medieval Daoist scriptural and ritual tradition that systematized universal salvation, liturgy, cosmology, and communal offerings."
+  - Numinous Treasure Tradition
+  - Ling-pao Daoism
+summary: >-
+  A medieval Daoist scriptural and ritual tradition that systematized universal
+  salvation, liturgy, cosmology, and communal offerings.
 canonical_texts:
-  - "Five Talismans of the Numinous Treasure"
-  - "Lingbao wuliang duren shangpin miaojing"
-  - "Lingbao ritual manuals"
+  - Five Talismans of the Numinous Treasure
+  - Lingbao wuliang duren shangpin miaojing
+  - Lingbao ritual manuals
 relations:
-  - target: "daoism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "buddhism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: daoism
+    type: branch_of
+    certainty: academic_consensus
+  - target: buddhism
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 350
+origin_geo:
+  lat: 34.8045
+  lng: 112.508
+  place_name: 'Luoyang, Henan, China'
+extinct_year: null
+key_tenets:
+  - >-
+    The Dao (The Way): The ineffable, primordial cosmic source and flow
+    underlying and harmonizing all existence.
+  - >-
+    Wu Wei (Effortless Action): Alignment with natural rhythms through
+    non-contrivance, simplicity, and flexibility rather than forceful control.
+  - >-
+    Yin-Yang Polarity & Self-Cultivation: Harmonization of complementary cosmic
+    forces through meditation, alchemy, and preservation of vital energy (Qi).
+sources:
+  - title: 'Encyclopaedia Britannica: "Lingbao Daoism"'
+    url: 'https://www.britannica.com/topic/lingbao-daoism'
+  - title: 'Oxford Reference: Overview of Lingbao Daoism'
+    url: 'https://www.oxfordreference.com/search?q=Lingbao%20Daoism'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: 'https://plato.stanford.edu/search/searcher.py?query=Lingbao%20Daoism'
+artifacts:
+  - title: Wudang Mountain Sacred Golden Hall Complex
+    url: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
+    provenance: 'Hubei, China'
+    period: 1416 CE
+    description: >-
+      Imperial architectural shrine of Daoist alchemy and philosophical
+      meditation.
+  - title: Mawangdui Silk Laozi Manuscripts
+    url: 'https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts'
+    provenance: 'Changsha, Hunan, China'
+    period: c. 168 BCE (Han Dynasty)
+    description: Ancient silk manuscripts preserving early versions of the Daodejing.
 ---
 
 # Lingbao Daoism

@@ -1,19 +1,59 @@
 ---
-id: "church-of-christ-temple-lot"
-title: "Church of Christ (Temple Lot)"
-cluster: "Abrahamic"
-color: "#7e94cf"
-era_start: "1863 CE"
-epistemic_tier: "academic_consensus"
-summary: "A small Latter Day Saint church associated with the Temple Lot property in Independence, Missouri."
+id: church-of-christ-temple-lot
+title: Church of Christ (Temple Lot)
+cluster: Abrahamic
+color: '#7e94cf'
+era_start: 1863 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A small Latter Day Saint church associated with the Temple Lot property in
+  Independence, Missouri.
 canonical_texts:
-  - "Bible"
-  - "Book of Mormon"
-  - "Book of Commandments"
+  - Bible
+  - Book of Mormon
+  - Book of Commandments
 relations:
-  - target: "latter-day-saint-movement"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: latter-day-saint-movement
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1863
+origin_geo:
+  lat: 39.1589
+  lng: -94.3608
+  place_name: 'Independence, Jackson County, Missouri, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The Church of Christ (Temple Lot) descends from
+    Latter Day Saints who did not join the largest post-succession bodies.
+    Granville Hedrick helped organize the chu...
+  - >-
+    Distinctive Practice: Temple Lot members accept the Bible and Book of Mormon
+    and use the earlier Book of Commandments, while rejecting plural marriage,
+    baptism for the dead, and seve...
+  - >-
+    Core Orientation: A small Latter Day Saint church associated with the Temple
+    Lot property in Independence, Missouri.
+sources:
+  - title: 'Encyclopaedia Britannica: "Church of Christ"'
+    url: 'https://www.britannica.com/topic/church-of-christ'
+  - title: 'Oxford Reference: Overview of Church of Christ'
+    url: 'https://www.oxfordreference.com/search?q=Church%20of%20Christ'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Christ'
+    url: 'https://www.cambridge.org/core/search?q=Church%20of%20Christ'
+artifacts:
+  - title: Church of Christ Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Church_of_Christ'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Church of Christ.
+  - title: Church of Christ Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Church of Christ (Temple Lot)

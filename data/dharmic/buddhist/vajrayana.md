@@ -1,23 +1,65 @@
 ---
-id: "vajrayana"
-title: "Vajrayāna Buddhism"
-cluster: "Dharmic"
-color: "#f97316"
+id: vajrayana
+title: Vajrayāna Buddhism
+cluster: Dharmic
+color: '#f97316'
 display_weight: 1.7
-era_start: "c. 6th century CE"
-epistemic_tier: "academic_consensus"
-summary: "Esoteric Buddhist traditions using initiation, mantra, mandala, deity yoga, and embodied ritual within a Mahāyāna framework."
+era_start: c. 6th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  Esoteric Buddhist traditions using initiation, mantra, mandala, deity yoga,
+  and embodied ritual within a Mahāyāna framework.
 canonical_texts:
-  - "Guhyasamāja Tantra"
-  - "Hevajra Tantra"
-  - "Kālacakra Tantra"
+  - Guhyasamāja Tantra
+  - Hevajra Tantra
+  - Kālacakra Tantra
 relations:
-  - target: "mahayana"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "shaktism"
-    type: "parallel_concept"
-    certainty: "minority_scholarly"
+  - target: mahayana
+    type: branch_of
+    certainty: academic_consensus
+  - target: shaktism
+    type: parallel_concept
+    certainty: minority_scholarly
+origin_year: 550
+origin_geo:
+  lat: 26.1676
+  lng: 82.9804
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Esoteric Buddhist scriptures and ritual systems
+    expanded in India from about the sixth century CE and traveled to Tibet,
+    Nepal, China, Japan, and Southeast Asia...
+  - >-
+    Distinctive Practice: Vajrayāna aims to transform body, speech, and mind by
+    ritually inhabiting awakened form under a qualified teacher. Practices are
+    graduated and traditionally req...
+  - >-
+    Core Orientation: Esoteric Buddhist traditions using initiation, mantra,
+    mandala, deity yoga, and embodied ritual within a Mahāyāna framework.
+sources:
+  - title: 'Encyclopaedia Britannica: "Vajrayāna Buddhism"'
+    url: 'https://www.britannica.com/topic/vajray-na-buddhism'
+  - title: 'Oxford Reference: Overview of Vajrayāna Buddhism'
+    url: 'https://www.oxfordreference.com/search?q=Vajray%C4%81na%20Buddhism'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Vajray%C4%81na%20Buddhism'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Vajrayāna Buddhism

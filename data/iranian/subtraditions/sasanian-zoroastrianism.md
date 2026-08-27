@@ -1,27 +1,68 @@
 ---
-id: "sasanian-zoroastrianism"
-title: "Sasanian Zoroastrianism"
-cluster: "Iranian"
-color: "#f1c219"
-era_start: "224 CE"
-epistemic_tier: "academic_consensus"
-summary: "The institutionally elaborated forms of Zoroastrianism under the Sasanian Empire, known through inscriptions and later Middle Persian literature."
+id: sasanian-zoroastrianism
+title: Sasanian Zoroastrianism
+cluster: Iranian
+color: '#f1c219'
+era_start: 224 CE
+epistemic_tier: academic_consensus
+summary: >-
+  The institutionally elaborated forms of Zoroastrianism under the Sasanian
+  Empire, known through inscriptions and later Middle Persian literature.
 aliases:
-  - "Sassanian Zoroastrianism"
-  - "Sasanian Mazdayasna"
-  - "Middle Persian Zoroastrianism"
+  - Sassanian Zoroastrianism
+  - Sasanian Mazdayasna
+  - Middle Persian Zoroastrianism
 canonical_texts:
-  - "Avesta"
-  - "Dēnkard"
-  - "Bundahišn"
-  - "Kerdir inscriptions"
+  - Avesta
+  - Dēnkard
+  - Bundahišn
+  - Kerdir inscriptions
 relations:
-  - target: "zoroastrianism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "zurvanism"
-    type: "parallel_concept"
-    certainty: "minority_scholarly"
+  - target: zoroastrianism
+    type: branch_of
+    certainty: academic_consensus
+  - target: zurvanism
+    type: parallel_concept
+    certainty: minority_scholarly
+origin_year: 224
+origin_geo:
+  lat: 32.6543
+  lng: 51.253
+  place_name: 'Isfahan, Iran'
+extinct_year: 651
+key_tenets:
+  - >-
+    Ahura Mazda & Cosmic Dualism: Absolute devotion to the Wise Lord Ahura Mazda
+    in cosmic opposition to Spenta Mainyu against Angra Mainyu.
+  - >-
+    Humata, Hukhta, Hvarshta: The threefold moral triad of Good Thoughts, Good
+    Words, and Good Deeds as active human responsibility.
+  - >-
+    Sacred Fire & Eschatological Renewal: Fire (Atar) as the radiant symbol of
+    divine truth (Asha), anticipating the ultimate cosmic restoration
+    (Frashokereti).
+sources:
+  - title: 'Encyclopaedia Britannica: "Sasanian Zoroastrianism"'
+    url: 'https://www.britannica.com/topic/sasanian-zoroastrianism'
+  - title: 'Oxford Reference: Overview of Sasanian Zoroastrianism'
+    url: 'https://www.oxfordreference.com/search?q=Sasanian%20Zoroastrianism'
+  - title: 'Brill Handbook of Religious Traditions: Sasanian Zoroastrianism'
+    url: 'https://brill.com/search?q=Sasanian%20Zoroastrianism'
+artifacts:
+  - title: Persepolis Faravahar Bas-Relief
+    url: 'https://en.wikipedia.org/wiki/Faravahar'
+    provenance: 'Persepolis, Ancient Persia'
+    period: c. 515 BCE (Achaemenid Empire)
+    description: >-
+      Carved winged symbol of Good Thoughts, Good Words, and Good Deeds (Humata,
+      Hukhta, Hvarshta).
+  - title: Yazd Atash Behram Fire Temple
+    url: 'https://en.wikipedia.org/wiki/Yazd_Atash_Behram'
+    provenance: 'Yazd, Iran'
+    period: Fire burning continuously since 470 CE
+    description: >-
+      Sacred fire sanctuary housing the consecrated Atash Behram (Victorious
+      Fire) as symbol of divine Asha (Truth).
 ---
 
 # Sasanian Zoroastrianism

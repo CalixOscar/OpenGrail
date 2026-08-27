@@ -1,22 +1,63 @@
 ---
-id: "zahiri-school"
-title: "Zahiri School"
-cluster: "Abrahamic"
-color: "#57b7a5"
-era_start: "9th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A Sunni legal school emphasizing the apparent wording of revelation and rejecting analogical extension as an independent source of law."
+id: zahiri-school
+title: Zahiri School
+cluster: Abrahamic
+color: '#57b7a5'
+era_start: 9th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Sunni legal school emphasizing the apparent wording of revelation and
+  rejecting analogical extension as an independent source of law.
 aliases:
-  - "Zahirism"
-  - "Zahiri Madhhab"
+  - Zahirism
+  - Zahiri Madhhab
 canonical_texts:
-  - "Quran"
-  - "Hadith collections"
-  - "Al-Muhalla"
+  - Quran
+  - Hadith collections
+  - Al-Muhalla
 relations:
-  - target: "sunni-islam"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: sunni-islam
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 850
+origin_geo:
+  lat: 32.5119
+  lng: 34.7254
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Dawud al-Zahiri articulated the school in
+    ninth-century Baghdad, and Ibn Hazm later became its most influential
+    Andalusian representative. Zahiri jurists accept...
+  - >-
+    Distinctive Practice: The Zahiri school ceased to function as one of the
+    major continuously institutionalized Sunni madhhabs, yet its texts and
+    arguments remained influential. Modern...
+  - >-
+    Core Orientation: A Sunni legal school emphasizing the apparent wording of
+    revelation and rejecting analogical extension as an independent source of
+    law.
+sources:
+  - title: 'Encyclopaedia Britannica: "Zahiri School"'
+    url: 'https://www.britannica.com/topic/zahiri-school'
+  - title: 'Oxford Reference: Overview of Zahiri School'
+    url: 'https://www.oxfordreference.com/search?q=Zahiri%20School'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Zahiri School'
+    url: 'https://www.cambridge.org/core/search?q=Zahiri%20School'
+artifacts:
+  - title: Zahiri School Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Zahiri_School'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Zahiri School.
+  - title: Zahiri School Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Quran'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Zahiri School

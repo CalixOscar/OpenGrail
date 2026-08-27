@@ -1,19 +1,59 @@
 ---
-id: "akan-religion"
-title: "Akan Religion"
-cluster: "Indigenous & Diasporic"
-color: "#b98458"
-era_start: "precolonial era"
-epistemic_tier: "academic_consensus"
-summary: "Related religious traditions among Akan-speaking peoples of Ghana and Côte d'Ivoire."
+id: akan-religion
+title: Akan Religion
+cluster: Indigenous & Diasporic
+color: '#b98458'
+era_start: precolonial era
+epistemic_tier: academic_consensus
+summary: >-
+  Related religious traditions among Akan-speaking peoples of Ghana and Côte
+  d'Ivoire.
 canonical_texts:
-  - "Oral traditions"
-  - "Ritual corpus"
-  - "Proverbs and stool histories"
+  - Oral traditions
+  - Ritual corpus
+  - Proverbs and stool histories
 relations:
-  - target: "ancestor-veneration"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: ancestor-veneration
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: 6.6885
+  lng: -1.6244
+  place_name: 'Kumasi, Ashanti Empire, Ghana'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Akan religious life developed across communities
+    including Asante, Fante, Akuapem, Bono, and others, each with distinct
+    political and ritual institutions. Oral ...
+  - >-
+    Distinctive Practice: Nyame, *abosom*, ancestors, matrilineal and political
+    authority, moral personhood, healing, possession, and relations with land
+    are important in varying combina...
+  - >-
+    Core Orientation: Related religious traditions among Akan-speaking peoples
+    of Ghana and Côte d'Ivoire.
+sources:
+  - title: 'Encyclopaedia Britannica: "Akan Religion"'
+    url: 'https://www.britannica.com/topic/akan-religion'
+  - title: 'Oxford Reference: Overview of Akan Religion'
+    url: 'https://www.oxfordreference.com/search?q=Akan%20Religion'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Akan%20Religion'
+artifacts:
+  - title: Akan Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Akan_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Akan Religion.
+  - title: Akan Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Oral_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Akan Religion

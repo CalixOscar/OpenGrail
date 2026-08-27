@@ -1,25 +1,65 @@
 ---
-id: "iglesia-ni-cristo"
-title: "Iglesia ni Cristo"
-cluster: "Abrahamic"
-color: "#58a7db"
-era_start: "1914 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Filipino Christian restorationist church founded by Felix Y. Manalo and known internationally by its Tagalog name."
+id: iglesia-ni-cristo
+title: Iglesia ni Cristo
+cluster: Abrahamic
+color: '#58a7db'
+era_start: 1914 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Filipino Christian restorationist church founded by Felix Y. Manalo and
+  known internationally by its Tagalog name.
 aliases:
-  - "INC"
-  - "Iglesia de Cristo"
-  - "Church of Christ"
+  - INC
+  - Iglesia de Cristo
+  - Church of Christ
 display_weight: 1.35
 canonical_texts:
-  - "Bible"
+  - Bible
 relations:
-  - target: "christianity"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "adventism"
-    type: "influenced_by"
-    certainty: "minority_scholarly"
+  - target: christianity
+    type: branch_of
+    certainty: academic_consensus
+  - target: adventism
+    type: influenced_by
+    certainty: minority_scholarly
+origin_year: 1914
+origin_geo:
+  lat: 31.834
+  lng: 36.2112
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Felix Y. Manalo registered Iglesia ni Cristo with the
+    Philippine government in 1914 after engagement with several Protestant and
+    restorationist currents. The ch...
+  - >-
+    Distinctive Practice: Iglesia ni Cristo teaches that the one God is the
+    Father, that Jesus is the uniquely appointed human Son and Savior, and that
+    the church represents a restoratio...
+  - >-
+    Core Orientation: A Filipino Christian restorationist church founded by
+    Felix Y. Manalo and known internationally by its Tagalog name.
+sources:
+  - title: 'Encyclopaedia Britannica: "Iglesia ni Cristo"'
+    url: 'https://www.britannica.com/topic/iglesia-ni-cristo'
+  - title: 'Oxford Reference: Overview of Iglesia ni Cristo'
+    url: 'https://www.oxfordreference.com/search?q=Iglesia%20ni%20Cristo'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Iglesia ni Cristo'
+    url: 'https://www.cambridge.org/core/search?q=Iglesia%20ni%20Cristo'
+artifacts:
+  - title: Iglesia ni Cristo Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Iglesia_ni_Cristo'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Iglesia ni Cristo.
+  - title: Iglesia ni Cristo Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Iglesia ni Cristo

@@ -1,24 +1,64 @@
 ---
-id: "catholicism"
-title: "Catholicism"
-cluster: "Abrahamic"
-color: "#eabf55"
+id: catholicism
+title: Catholicism
+cluster: Abrahamic
+color: '#eabf55'
 display_weight: 2.25
-era_start: "c. 1st century CE"
-epistemic_tier: "academic_consensus"
-summary: "The worldwide Christian communion centered on the bishops in communion with the bishop of Rome."
+era_start: c. 1st century CE
+epistemic_tier: academic_consensus
+summary: >-
+  The worldwide Christian communion centered on the bishops in communion with
+  the bishop of Rome.
 aliases:
-  - "Catholic Church"
-  - "Roman Catholicism"
-  - "Catholics"
+  - Catholic Church
+  - Roman Catholicism
+  - Catholics
 canonical_texts:
-  - "Bible"
-  - "Nicene-Constantinopolitan Creed"
-  - "Catechism of the Catholic Church"
+  - Bible
+  - Nicene-Constantinopolitan Creed
+  - Catechism of the Catholic Church
 relations:
-  - target: "christianity"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: christianity
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 50
+origin_geo:
+  lat: 31.7717
+  lng: 34.4991
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Apostolic Succession & Papacy: Communion with the Bishop of Rome as
+    successor of St. Peter holding the supreme teaching office (Magisterium).
+  - >-
+    Sacramental Economy: Seven sacraments centered on the real presence of
+    Christ in the Holy Eucharist as source and summit of spiritual life.
+  - >-
+    Scripture & Sacred Tradition: Divine revelation preserved through written
+    scripture and lived apostolic tradition interpreted by church councils.
+sources:
+  - title: 'Encyclopaedia Britannica: "Catholicism"'
+    url: 'https://www.britannica.com/topic/catholicism'
+  - title: 'Oxford Reference: Overview of Catholicism'
+    url: 'https://www.oxfordreference.com/search?q=Catholicism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Catholicism'
+    url: 'https://www.cambridge.org/core/search?q=Catholicism'
+artifacts:
+  - title: Saint Peter's Papal Basilica & Piazza
+    url: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
+    provenance: 'Vatican City, Rome'
+    period: 1506–1626 CE (Renaissance / Baroque)
+    description: >-
+      The Renaissance and Baroque episcopal center of the Roman Catholic Church,
+      designed by Michelangelo and Bernini.
+  - title: Codex Vaticanus Greek Bible Manuscript
+    url: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
+    provenance: Vatican Library Collection
+    period: c. 4th century CE
+    description: >-
+      One of the earliest extant uncial manuscripts of the Greek Old and New
+      Testaments.
 ---
 
 # Catholicism

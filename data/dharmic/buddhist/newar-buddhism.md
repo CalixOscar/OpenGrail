@@ -1,22 +1,64 @@
 ---
-id: "newar-buddhism"
-title: "Newar Buddhism"
-cluster: "Dharmic"
-color: "#f68b37"
-era_start: "c. 8th century CE"
-epistemic_tier: "academic_consensus"
-summary: "The Sanskritic Mahāyāna and Vajrayāna traditions of the Newar communities of Nepal's Kathmandu Valley."
+id: newar-buddhism
+title: Newar Buddhism
+cluster: Dharmic
+color: '#f68b37'
+era_start: c. 8th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  The Sanskritic Mahāyāna and Vajrayāna traditions of the Newar communities of
+  Nepal's Kathmandu Valley.
 canonical_texts:
-  - "Nine Dharma scriptures"
-  - "Newar Buddhist ritual manuals"
-  - "Prajñāpāramitā literature"
+  - Nine Dharma scriptures
+  - Newar Buddhist ritual manuals
+  - Prajñāpāramitā literature
 relations:
-  - target: "vajrayana"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "hinduism"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: vajrayana
+    type: branch_of
+    certainty: academic_consensus
+  - target: hinduism
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 750
+origin_geo:
+  lat: 26.0964
+  lng: 82.8702
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Newar Buddhism preserves Sanskrit Mahāyāna and
+    Vajrayāna texts and rituals in the Kathmandu Valley through hereditary
+    ritual specialists, monasteries, festivals...
+  - >-
+    Distinctive Practice: Vajrācārya and Śākya lineages conduct initiations,
+    life-cycle rites, deity practices, and communal observances. Buddhist and
+    Hindu deities, festivals, and space...
+  - >-
+    Core Orientation: The Sanskritic Mahāyāna and Vajrayāna traditions of the
+    Newar communities of Nepal's Kathmandu Valley.
+sources:
+  - title: 'Encyclopaedia Britannica: "Newar Buddhism"'
+    url: 'https://www.britannica.com/topic/newar-buddhism'
+  - title: 'Oxford Reference: Overview of Newar Buddhism'
+    url: 'https://www.oxfordreference.com/search?q=Newar%20Buddhism'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Newar%20Buddhism'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Newar Buddhism
