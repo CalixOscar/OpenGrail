@@ -1,22 +1,62 @@
 ---
-id: "messianic-judaism"
-title: "Messianic Judaism"
-cluster: "Abrahamic"
-color: "#5a9fcf"
-era_start: "1960s CE"
-epistemic_tier: "academic_consensus"
-summary: "A modern Jewish-identifying Christian movement combining belief in Jesus as Messiah with selected Jewish ritual and communal forms."
+id: messianic-judaism
+title: Messianic Judaism
+cluster: Abrahamic
+color: '#5a9fcf'
+era_start: 1960s CE
+epistemic_tier: academic_consensus
+summary: >-
+  A modern Jewish-identifying Christian movement combining belief in Jesus as
+  Messiah with selected Jewish ritual and communal forms.
 canonical_texts:
-  - "Hebrew Bible"
-  - "New Testament"
-  - "Messianic Jewish Rabbinical Council Standards of Observance"
+  - Hebrew Bible
+  - New Testament
+  - Messianic Jewish Rabbinical Council Standards of Observance
 relations:
-  - target: "christianity"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "judaism"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: christianity
+    type: branch_of
+    certainty: academic_consensus
+  - target: judaism
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 1960
+origin_geo:
+  lat: 30.921
+  lng: 35.2927
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Covenant & Monotheism: Eternal reciprocal covenant between YHWH and the
+    Jewish people based on the divine command to be a holy nation.
+  - >-
+    Torah (Written and Oral): Comprehensive guidance for life encompassing the
+    Written Torah and Oral Torah (Mishnah and Talmud).
+  - >-
+    Halakha & Mitzvot: Observance of the 613 commandments structuring daily
+    life, ethics, prayer, dietary laws, and Shabbat sanctification.
+sources:
+  - title: 'Encyclopaedia Britannica: "Messianic Judaism"'
+    url: 'https://www.britannica.com/topic/messianic-judaism'
+  - title: 'Oxford Reference: Overview of Messianic Judaism'
+    url: 'https://www.oxfordreference.com/search?q=Messianic%20Judaism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Messianic Judaism'
+    url: 'https://www.cambridge.org/core/search?q=Messianic%20Judaism'
+artifacts:
+  - title: Western Wall & Second Temple Foundation
+    url: 'https://en.wikipedia.org/wiki/Western_Wall'
+    provenance: 'Old City, Jerusalem'
+    period: c. 19 BCE (Herodian Era)
+    description: >-
+      The holiest prayer site of Jewish tradition, surviving western retaining
+      wall of the Second Temple complex.
+  - title: Aleppo Codex Masoretic Hebrew Bible Manuscript
+    url: 'https://en.wikipedia.org/wiki/Aleppo_Codex'
+    provenance: Tiberias & Jerusalem
+    period: c. 920 CE
+    description: >-
+      Authoritative parchment manuscript of the Hebrew Bible with Masoretic
+      vocalization and cantillation marks.
 ---
 
 # Messianic Judaism

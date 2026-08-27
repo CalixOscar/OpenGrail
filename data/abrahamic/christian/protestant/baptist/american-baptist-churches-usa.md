@@ -1,22 +1,68 @@
 ---
-id: "american-baptist-churches-usa"
-title: "American Baptist Churches USA"
-cluster: "Abrahamic"
-color: "#4b87c8"
-era_start: "1907 CE"
-epistemic_tier: "academic_consensus"
-summary: "A mainline Baptist denomination rooted in northern United States mission societies and diverse regional conventions."
+id: american-baptist-churches-usa
+title: American Baptist Churches USA
+cluster: Abrahamic
+color: '#4b87c8'
+era_start: 1907 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A mainline Baptist denomination rooted in northern United States mission
+  societies and diverse regional conventions.
 aliases:
-  - "ABCUSA"
-  - "American Baptists"
-  - "Northern Baptist Convention"
+  - ABCUSA
+  - American Baptists
+  - Northern Baptist Convention
 canonical_texts:
-  - "Bible"
-  - "We Are American Baptists identity statement"
+  - Bible
+  - We Are American Baptists identity statement
 relations:
-  - target: "baptist-traditions"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: baptist-traditions
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1907
+origin_geo:
+  lat: 51.6039
+  lng: 0.1358
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Northern Baptist mission and publication societies
+    organized the Northern Baptist Convention in 1907 to coordinate work while
+    preserving congregational freedom....
+  - >-
+    Distinctive Practice: American Baptists practice believer's baptism, affirm
+    local church autonomy, and cooperate in mission, education, and social
+    witness. The denomination includes ...
+  - >-
+    Core Orientation: A mainline Baptist denomination rooted in northern United
+    States mission societies and diverse regional conventions.
+sources:
+  - title: 'Encyclopaedia Britannica: "American Baptist Churches USA"'
+    url: 'https://www.britannica.com/topic/american-baptist-churches-usa'
+  - title: 'Oxford Reference: Overview of American Baptist Churches USA'
+    url: >-
+      https://www.oxfordreference.com/search?q=American%20Baptist%20Churches%20USA
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & American Baptist
+      Churches USA
+    url: >-
+      https://www.cambridge.org/core/search?q=American%20Baptist%20Churches%20USA
+artifacts:
+  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
+    url: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
+    provenance: 'Wittenberg, Germany'
+    period: 1517 CE
+    description: >-
+      Historic church where Martin Luther posted his Ninety-five Theses,
+      initiating the Protestant Reformation.
+  - title: Luther 1534 German Bible Title Woodcut
+    url: 'https://en.wikipedia.org/wiki/Luther_Bible'
+    provenance: Wittenberg
+    period: 1534 CE
+    description: >-
+      Historic printed vernacular German translation democratizing direct
+      scriptural access for all believers.
 ---
 
 # American Baptist Churches USA

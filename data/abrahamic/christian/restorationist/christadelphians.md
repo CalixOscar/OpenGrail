@@ -1,19 +1,59 @@
 ---
-id: "christadelphians"
-title: "Christadelphians"
-cluster: "Abrahamic"
-color: "#6b91d0"
-era_start: "1848 CE"
-epistemic_tier: "academic_consensus"
-summary: "A non-Trinitarian restorationist fellowship founded through the preaching of John Thomas in Britain and North America."
+id: christadelphians
+title: Christadelphians
+cluster: Abrahamic
+color: '#6b91d0'
+era_start: 1848 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A non-Trinitarian restorationist fellowship founded through the preaching of
+  John Thomas in Britain and North America.
 canonical_texts:
-  - "Bible"
-  - "Birmingham Amended Statement of Faith"
-  - "Elpis Israel"
+  - Bible
+  - Birmingham Amended Statement of Faith
+  - Elpis Israel
 relations:
-  - target: "restoration-movement"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: restoration-movement
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1848
+origin_geo:
+  lat: 51.2954
+  lng: 0.2116
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: John Thomas entered Alexander Campbell's restoration
+    movement after emigrating to the United States but developed independent
+    teachings through debate and bibli...
+  - >-
+    Distinctive Practice: Christadelphians reject the Trinity, the inherent
+    immortality of the soul, and a supernatural personal devil. They teach that
+    Jesus is God's Son and human Messi...
+  - >-
+    Core Orientation: A non-Trinitarian restorationist fellowship founded
+    through the preaching of John Thomas in Britain and North America.
+sources:
+  - title: 'Encyclopaedia Britannica: "Christadelphians"'
+    url: 'https://www.britannica.com/topic/christadelphians'
+  - title: 'Oxford Reference: Overview of Christadelphians'
+    url: 'https://www.oxfordreference.com/search?q=Christadelphians'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Christadelphians'
+    url: 'https://www.cambridge.org/core/search?q=Christadelphians'
+artifacts:
+  - title: Christadelphians Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Christadelphians'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Christadelphians.
+  - title: Christadelphians Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Christadelphians

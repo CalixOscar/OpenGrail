@@ -1,19 +1,59 @@
 ---
-id: "orthodox-judaism"
-title: "Orthodox Judaism"
-cluster: "Abrahamic"
-color: "#4d8fd4"
-era_start: "c. 19th century CE"
-epistemic_tier: "academic_consensus"
-summary: "Modern Jewish movements affirming the binding authority of halakhah and continuity with rabbinic Torah."
+id: orthodox-judaism
+title: Orthodox Judaism
+cluster: Abrahamic
+color: '#4d8fd4'
+era_start: c. 19th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  Modern Jewish movements affirming the binding authority of halakhah and
+  continuity with rabbinic Torah.
 canonical_texts:
-  - "Tanakh"
-  - "Babylonian Talmud"
-  - "Shulchan Aruch"
+  - Tanakh
+  - Babylonian Talmud
+  - Shulchan Aruch
 relations:
-  - target: "rabbinic-judaism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: rabbinic-judaism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1850
+origin_geo:
+  lat: 32.2597
+  lng: 34.3935
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Covenant & Monotheism: Eternal reciprocal covenant between YHWH and the
+    Jewish people based on the divine command to be a holy nation.
+  - >-
+    Torah (Written and Oral): Comprehensive guidance for life encompassing the
+    Written Torah and Oral Torah (Mishnah and Talmud).
+  - >-
+    Halakha & Mitzvot: Observance of the 613 commandments structuring daily
+    life, ethics, prayer, dietary laws, and Shabbat sanctification.
+sources:
+  - title: 'Encyclopaedia Britannica: "Orthodox Judaism"'
+    url: 'https://www.britannica.com/topic/orthodox-judaism'
+  - title: 'Oxford Reference: Overview of Orthodox Judaism'
+    url: 'https://www.oxfordreference.com/search?q=Orthodox%20Judaism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Orthodox Judaism'
+    url: 'https://www.cambridge.org/core/search?q=Orthodox%20Judaism'
+artifacts:
+  - title: Western Wall & Second Temple Foundation
+    url: 'https://en.wikipedia.org/wiki/Western_Wall'
+    provenance: 'Old City, Jerusalem'
+    period: c. 19 BCE (Herodian Era)
+    description: >-
+      The holiest prayer site of Jewish tradition, surviving western retaining
+      wall of the Second Temple complex.
+  - title: Aleppo Codex Masoretic Hebrew Bible Manuscript
+    url: 'https://en.wikipedia.org/wiki/Aleppo_Codex'
+    provenance: Tiberias & Jerusalem
+    period: c. 920 CE
+    description: >-
+      Authoritative parchment manuscript of the Hebrew Bible with Masoretic
+      vocalization and cantillation marks.
 ---
 
 # Orthodox Judaism

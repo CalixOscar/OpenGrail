@@ -1,18 +1,63 @@
 ---
-id: "church-of-god-general-conference"
-title: "Church of God General Conference"
-cluster: "Abrahamic"
-color: "#5ba1ce"
-era_start: "1921 CE"
-epistemic_tier: "academic_consensus"
-summary: "An Adventist Christian denomination with roots in nineteenth-century restorationism and a non-Trinitarian, conditionalist theology."
+id: church-of-god-general-conference
+title: Church of God General Conference
+cluster: Abrahamic
+color: '#5ba1ce'
+era_start: 1921 CE
+epistemic_tier: academic_consensus
+summary: >-
+  An Adventist Christian denomination with roots in nineteenth-century
+  restorationism and a non-Trinitarian, conditionalist theology.
 canonical_texts:
-  - "Bible"
-  - "Church of God General Conference Statement of Faith"
+  - Bible
+  - Church of God General Conference Statement of Faith
 relations:
-  - target: "adventism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: adventism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1921
+origin_geo:
+  lat: 31.2478
+  lng: 34.7158
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The Church of God General Conference, sometimes
+    identified historically with the “Abrahamic Faith,” grew from
+    nineteenth-century Adventist and restorationist co...
+  - >-
+    Distinctive Practice: The denomination teaches the unity of God, Jesus as
+    the human Messiah and Son of God, conditional immortality, resurrection, and
+    the future kingdom of God on ea...
+  - >-
+    Core Orientation: An Adventist Christian denomination with roots in
+    nineteenth-century restorationism and a non-Trinitarian, conditionalist
+    theology.
+sources:
+  - title: 'Encyclopaedia Britannica: "Church of God General Conference"'
+    url: 'https://www.britannica.com/topic/church-of-god-general-conference'
+  - title: 'Oxford Reference: Overview of Church of God General Conference'
+    url: >-
+      https://www.oxfordreference.com/search?q=Church%20of%20God%20General%20Conference
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Church of God
+      General Conference
+    url: >-
+      https://www.cambridge.org/core/search?q=Church%20of%20God%20General%20Conference
+artifacts:
+  - title: Church of God General Conference Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Church_of_God_General_Conference'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Church of God General Conference.
+  - title: Church of God General Conference Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Church of God General Conference

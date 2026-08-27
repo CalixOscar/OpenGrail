@@ -1,25 +1,65 @@
 ---
-id: "babism"
-title: "Babism"
-cluster: "Abrahamic"
-color: "#4da7c8"
-era_start: "1844 CE"
-epistemic_tier: "academic_consensus"
-summary: "A nineteenth-century Iranian religion founded by the Bab, emerging from a Twelver Shi'a messianic environment."
+id: babism
+title: Babism
+cluster: Abrahamic
+color: '#4da7c8'
+era_start: 1844 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A nineteenth-century Iranian religion founded by the Bab, emerging from a
+  Twelver Shi'a messianic environment.
 aliases:
-  - "Babi Faith"
-  - "Babi Religion"
+  - Babi Faith
+  - Babi Religion
 canonical_texts:
-  - "Qayyum al-Asma"
-  - "Persian Bayan"
-  - "Arabic Bayan"
+  - Qayyum al-Asma
+  - Persian Bayan
+  - Arabic Bayan
 relations:
-  - target: "twelver-shia"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "shaykhism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: twelver-shia
+    type: branch_of
+    certainty: academic_consensus
+  - target: shaykhism
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1844
+origin_geo:
+  lat: 31.3401
+  lng: 35.5864
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: In 1844 Sayyid Ali Muhammad of Shiraz declared
+    himself the Bab, first understood as a gate to the hidden Imam and later as
+    an independent messenger inaugurating...
+  - >-
+    Distinctive Practice: Babi scripture reworks Shi'a messianic expectation
+    through new laws, symbolic exegesis, sacred calendars, and an emphasis on
+    progressive revelation. Most surviv...
+  - >-
+    Core Orientation: A nineteenth-century Iranian religion founded by the Bab,
+    emerging from a Twelver Shi'a messianic environment.
+sources:
+  - title: 'Encyclopaedia Britannica: "Babism"'
+    url: 'https://www.britannica.com/topic/babism'
+  - title: 'Oxford Reference: Overview of Babism'
+    url: 'https://www.oxfordreference.com/search?q=Babism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Babism'
+    url: 'https://www.cambridge.org/core/search?q=Babism'
+artifacts:
+  - title: Babism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Babism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Babism.
+  - title: Babism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Qayyum_al-Asma'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Babism

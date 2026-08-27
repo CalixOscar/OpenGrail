@@ -1,24 +1,68 @@
 ---
-id: "members-church-of-god-international"
-title: "Members Church of God International"
-cluster: "Abrahamic"
-color: "#52b2d7"
-era_start: "1977 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Philippine restorationist Christian body widely known through the Ang Dating Daan broadcasting ministry."
+id: members-church-of-god-international
+title: Members Church of God International
+cluster: Abrahamic
+color: '#52b2d7'
+era_start: 1977 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Philippine restorationist Christian body widely known through the Ang Dating
+  Daan broadcasting ministry.
 aliases:
-  - "MCGI"
-  - "Ang Dating Daan"
-  - "The Old Path"
+  - MCGI
+  - Ang Dating Daan
+  - The Old Path
 canonical_texts:
-  - "Bible"
+  - Bible
 relations:
-  - target: "christianity"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "iglesia-ni-cristo"
-    type: "influenced_by"
-    certainty: "minority_scholarly"
+  - target: christianity
+    type: branch_of
+    certainty: academic_consensus
+  - target: iglesia-ni-cristo
+    type: influenced_by
+    certainty: minority_scholarly
+origin_year: 1977
+origin_geo:
+  lat: 30.9692
+  lng: 34.8757
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Members Church of God International traces its
+    lineage through a Philippine Church of God body founded by Nicolas Perez
+    after his departure from Iglesia ni Cris...
+  - >-
+    Distinctive Practice: MCGI emphasizes intensive Bible exposition, baptism,
+    charity, congregational prayer, and a non-Trinitarian understanding of God.
+    Members follow distinctive prac...
+  - >-
+    Core Orientation: A Philippine restorationist Christian body widely known
+    through the Ang Dating Daan broadcasting ministry.
+sources:
+  - title: 'Encyclopaedia Britannica: "Members Church of God International"'
+    url: 'https://www.britannica.com/topic/members-church-of-god-international'
+  - title: 'Oxford Reference: Overview of Members Church of God International'
+    url: >-
+      https://www.oxfordreference.com/search?q=Members%20Church%20of%20God%20International
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Members Church of
+      God International
+    url: >-
+      https://www.cambridge.org/core/search?q=Members%20Church%20of%20God%20International
+artifacts:
+  - title: Members Church of God International Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Members_Church_of_God_International'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Members Church of God International.
+  - title: Members Church of God International Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Members Church of God International

@@ -1,25 +1,66 @@
 ---
-id: "plum-village-tradition"
-title: "Plum Village Tradition"
-cluster: "Dharmic"
-color: "#ee9848"
-era_start: "1982 CE"
-epistemic_tier: "academic_consensus"
+id: plum-village-tradition
+title: Plum Village Tradition
+cluster: Dharmic
+color: '#ee9848'
+era_start: 1982 CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Order of Interbeing"
-  - "Plum Village Buddhism"
-summary: "A transnational engaged-Buddhist community founded by Thích Nhất Hạnh, integrating Vietnamese Thiền, mindfulness, ethics, and peace work."
+  - Order of Interbeing
+  - Plum Village Buddhism
+summary: >-
+  A transnational engaged-Buddhist community founded by Thích Nhất Hạnh,
+  integrating Vietnamese Thiền, mindfulness, ethics, and peace work.
 canonical_texts:
-  - "Fourteen Mindfulness Trainings"
-  - "The Heart of the Buddha's Teaching"
-  - "Interbeing"
+  - Fourteen Mindfulness Trainings
+  - The Heart of the Buddha's Teaching
+  - Interbeing
 relations:
-  - target: "engaged-buddhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "thien"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: engaged-buddhism
+    type: branch_of
+    certainty: academic_consensus
+  - target: thien
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1982
+origin_geo:
+  lat: 25.8975
+  lng: 82.3327
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Vietnamese monk and peace activist Thích Nhất Hạnh
+    established a community at Plum Village in France in 1982 after years of
+    exile and antiwar work. Building on ...
+  - >-
+    Distinctive Practice: Plum Village practice emphasizes mindful breathing,
+    walking, communal meals, deep listening, ethical trainings, and
+    “interbeing,” a contemporary expression of d...
+  - >-
+    Core Orientation: A transnational engaged-Buddhist community founded by
+    Thích Nhất Hạnh, integrating Vietnamese Thiền, mindfulness, ethics, and
+    peace work.
+sources:
+  - title: 'Encyclopaedia Britannica: "Plum Village Tradition"'
+    url: 'https://www.britannica.com/topic/plum-village-tradition'
+  - title: 'Oxford Reference: Overview of Plum Village Tradition'
+    url: 'https://www.oxfordreference.com/search?q=Plum%20Village%20Tradition'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Plum%20Village%20Tradition'
+artifacts:
+  - title: Plum Village Tradition Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Plum_Village_Tradition'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Plum Village Tradition.
+  - title: Plum Village Tradition Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Fourteen_Mindfulness_Trainings'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Plum Village Tradition

@@ -1,20 +1,60 @@
 ---
-id: "phoenician-religion"
-title: "Phoenician Religion"
-cluster: "Ancient Near East"
-color: "#e5b368"
-era_start: "c. 1200 BCE"
-epistemic_tier: "academic_consensus"
-summary: "The locally varied Iron Age cults of Phoenician cities and their Mediterranean settlements."
+id: phoenician-religion
+title: Phoenician Religion
+cluster: Ancient Near East
+color: '#e5b368'
+era_start: c. 1200 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  The locally varied Iron Age cults of Phoenician cities and their Mediterranean
+  settlements.
 canonical_texts:
-  - "Phoenician and Punic dedicatory inscriptions"
-  - "Karatepe bilingual inscription"
-  - "Ritual and funerary corpora"
+  - Phoenician and Punic dedicatory inscriptions
+  - Karatepe bilingual inscription
+  - Ritual and funerary corpora
 relations:
-  - target: "canaanite-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-    citation: "Corinne Bonnet, Les enfants de Cadmos (2015)"
+  - target: canaanite-religion
+    type: branch_of
+    certainty: academic_consensus
+    citation: 'Corinne Bonnet, Les enfants de Cadmos (2015)'
+origin_year: -1200
+origin_geo:
+  lat: 32.1947
+  lng: 43.8973
+  place_name: 'Babylon, Mesopotamia'
+extinct_year: -300
+key_tenets:
+  - >-
+    Foundational Doctrine: Phoenician religion refers to the Iron Age traditions
+    of coastal cities such as Tyre, Sidon, Byblos, and Arwad and to related
+    Punic communities overseas. There ...
+  - >-
+    Distinctive Practice: Melqart, Eshmun, Astarte, Baal Hammon, and Tanit
+    became prominent in different places and periods. Maritime mobility carried
+    cult practices through Cyprus, Nort...
+  - >-
+    Core Orientation: The locally varied Iron Age cults of Phoenician cities and
+    their Mediterranean settlements.
+sources:
+  - title: 'Encyclopaedia Britannica: "Phoenician Religion"'
+    url: 'https://www.britannica.com/topic/phoenician-religion'
+  - title: 'Oxford Reference: Overview of Phoenician Religion'
+    url: 'https://www.oxfordreference.com/search?q=Phoenician%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Phoenician Religion'
+    url: 'https://brill.com/search?q=Phoenician%20Religion'
+artifacts:
+  - title: Phoenician Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Phoenician_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Phoenician Religion.
+  - title: Phoenician Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Phoenician_and_Punic_dedicatory_inscriptions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Phoenician Religion

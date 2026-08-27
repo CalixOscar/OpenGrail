@@ -1,19 +1,63 @@
 ---
-id: "romanian-orthodox-church"
-title: "Romanian Orthodox Church"
-cluster: "Abrahamic"
-color: "#50a0dc"
-era_start: "1872 CE"
-epistemic_tier: "academic_consensus"
-summary: "An autocephalous Eastern Orthodox church serving Romanian-speaking communities and headed by the patriarch of Romania."
+id: romanian-orthodox-church
+title: Romanian Orthodox Church
+cluster: Abrahamic
+color: '#50a0dc'
+era_start: 1872 CE
+epistemic_tier: academic_consensus
+summary: >-
+  An autocephalous Eastern Orthodox church serving Romanian-speaking communities
+  and headed by the patriarch of Romania.
 canonical_texts:
-  - "Bible"
-  - "Nicene-Constantinopolitan Creed"
-  - "Divine Liturgy of Saint John Chrysostom"
+  - Bible
+  - Nicene-Constantinopolitan Creed
+  - Divine Liturgy of Saint John Chrysostom
 relations:
-  - target: "eastern-orthodoxy"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: eastern-orthodoxy
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1872
+origin_geo:
+  lat: 32.1305
+  lng: 34.3057
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Orthodox metropolitanates long served the
+    principalities of Wallachia and Moldavia under complex relations with
+    Constantinople. Their hierarchy was unified afte...
+  - >-
+    Distinctive Practice: The Romanian Orthodox Church celebrates Byzantine
+    liturgy primarily in Romanian and is governed through a holy synod headed by
+    the patriarch of Romania. Monasti...
+  - >-
+    Core Orientation: An autocephalous Eastern Orthodox church serving
+    Romanian-speaking communities and headed by the patriarch of Romania.
+sources:
+  - title: 'Encyclopaedia Britannica: "Romanian Orthodox Church"'
+    url: 'https://www.britannica.com/topic/romanian-orthodox-church'
+  - title: 'Oxford Reference: Overview of Romanian Orthodox Church'
+    url: 'https://www.oxfordreference.com/search?q=Romanian%20Orthodox%20Church'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Romanian Orthodox
+      Church
+    url: 'https://www.cambridge.org/core/search?q=Romanian%20Orthodox%20Church'
+artifacts:
+  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
+    url: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
+    provenance: Constantinople (Istanbul)
+    period: 537 CE (Byzantine Empire)
+    description: >-
+      Monumental domed cathedral of the Byzantine Empire and historical mother
+      church of Eastern Orthodoxy.
+  - title: Sinai Christ Pantocrator Encaustic Icon
+    url: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
+    provenance: 'Saint Catherine''s Monastery, Sinai'
+    period: c. 6th century CE
+    description: >-
+      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
+      embodying dual divine and human natures.
 ---
 
 # Romanian Orthodox Church

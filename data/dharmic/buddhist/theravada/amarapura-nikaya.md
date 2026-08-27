@@ -1,24 +1,65 @@
 ---
-id: "amarapura-nikaya"
-title: "Amarapura Nikāya"
-cluster: "Dharmic"
-color: "#f4a62a"
-era_start: "1803 CE"
-epistemic_tier: "academic_consensus"
+id: amarapura-nikaya
+title: Amarapura Nikāya
+cluster: Dharmic
+color: '#f4a62a'
+era_start: 1803 CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Amarapura Order"
-summary: "A Sri Lankan monastic fraternity founded through Burmese ordination and historically open to communities excluded from the Siyam Nikāya."
+  - Amarapura Order
+summary: >-
+  A Sri Lankan monastic fraternity founded through Burmese ordination and
+  historically open to communities excluded from the Siyam Nikāya.
 canonical_texts:
-  - "Pāli Vinaya Piṭaka"
-  - "Upasampadā ritual texts"
-  - "Amarapura lineage chronicles"
+  - Pāli Vinaya Piṭaka
+  - Upasampadā ritual texts
+  - Amarapura lineage chronicles
 relations:
-  - target: "sri-lankan-buddhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "burmese-buddhism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: sri-lankan-buddhism
+    type: branch_of
+    certainty: academic_consensus
+  - target: burmese-buddhism
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1803
+origin_geo:
+  lat: 8.3861
+  lng: 80.3747
+  place_name: 'Anuradhapura, North Central, Sri Lanka'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Sri Lankan monks traveled to Amarapura, then a royal
+    capital in Burma, to receive higher ordination at the turn of the nineteenth
+    century. Their return establis...
+  - >-
+    Distinctive Practice: Amarapura communities share the Pāli canon and
+    Theravāda discipline while differing in temple networks, administrative
+    chapters, and reform histories. Monks fro...
+  - >-
+    Core Orientation: A Sri Lankan monastic fraternity founded through Burmese
+    ordination and historically open to communities excluded from the Siyam
+    Nikāya.
+sources:
+  - title: 'Encyclopaedia Britannica: "Amarapura Nikāya"'
+    url: 'https://www.britannica.com/topic/amarapura-nik-ya'
+  - title: 'Oxford Reference: Overview of Amarapura Nikāya'
+    url: 'https://www.oxfordreference.com/search?q=Amarapura%20Nik%C4%81ya'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Amarapura%20Nik%C4%81ya'
+artifacts:
+  - title: Amarapura Nikāya Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Amarapura_Nik%C4%81ya'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Amarapura Nikāya.
+  - title: Amarapura Nikāya Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/P%C4%81li_Vinaya_Pi%E1%B9%ADaka'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Amarapura Nikāya

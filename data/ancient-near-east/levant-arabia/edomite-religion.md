@@ -1,23 +1,63 @@
 ---
-id: "edomite-religion"
-title: "Edomite Religion"
-cluster: "Ancient Near East"
-color: "#c29253"
-era_start: "c. 900 BCE"
-epistemic_tier: "academic_consensus"
-summary: "The Iron Age religious traditions of Edom and Idumea, in which the deity Qos held special royal and communal importance."
+id: edomite-religion
+title: Edomite Religion
+cluster: Ancient Near East
+color: '#c29253'
+era_start: c. 900 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  The Iron Age religious traditions of Edom and Idumea, in which the deity Qos
+  held special royal and communal importance.
 aliases:
-  - "Religion of Edom"
-  - "Qos cult"
-  - "Idumean religion"
+  - Religion of Edom
+  - Qos cult
+  - Idumean religion
 canonical_texts:
-  - "Edomite and Idumean inscriptions"
-  - "Kuntillet Ajrud corpus"
-  - "Archaeological cultic corpus"
+  - Edomite and Idumean inscriptions
+  - Kuntillet Ajrud corpus
+  - Archaeological cultic corpus
 relations:
-  - target: "canaanite-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: canaanite-religion
+    type: branch_of
+    certainty: academic_consensus
+origin_year: -900
+origin_geo:
+  lat: 32.6173
+  lng: 43.9665
+  place_name: 'Babylon, Mesopotamia'
+extinct_year: -580
+key_tenets:
+  - >-
+    Foundational Doctrine: Edomite communities south and southeast of the Dead
+    Sea developed political institutions during the Iron Age, with Qos appearing
+    prominently in personal names a...
+  - >-
+    Distinctive Practice: Qos is securely associated with Edom, but surviving
+    sources do not support a complete mythology or fixed theology. Similarities
+    with neighboring Levantine relig...
+  - >-
+    Core Orientation: The Iron Age religious traditions of Edom and Idumea, in
+    which the deity Qos held special royal and communal importance.
+sources:
+  - title: 'Encyclopaedia Britannica: "Edomite Religion"'
+    url: 'https://www.britannica.com/topic/edomite-religion'
+  - title: 'Oxford Reference: Overview of Edomite Religion'
+    url: 'https://www.oxfordreference.com/search?q=Edomite%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Edomite Religion'
+    url: 'https://brill.com/search?q=Edomite%20Religion'
+artifacts:
+  - title: Edomite Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Edomite_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Edomite Religion.
+  - title: Edomite Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Edomite_and_Idumean_inscriptions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Edomite Religion

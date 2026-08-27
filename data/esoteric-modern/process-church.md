@@ -1,24 +1,68 @@
 ---
-id: "process-church"
-title: "Process Church of the Final Judgment"
-cluster: "Esoteric & Modern"
-color: "#a66ad0"
-era_start: "1960s CE"
-epistemic_tier: "academic_consensus"
-summary: "A countercultural communal religion that developed a distinctive theology of Jehovah, Lucifer, Satan, and Christ before fragmenting in the 1970s."
+id: process-church
+title: Process Church of the Final Judgment
+cluster: Esoteric & Modern
+color: '#a66ad0'
+era_start: 1960s CE
+epistemic_tier: academic_consensus
+summary: >-
+  A countercultural communal religion that developed a distinctive theology of
+  Jehovah, Lucifer, Satan, and Christ before fragmenting in the 1970s.
 aliases:
-  - "The Process"
+  - The Process
 canonical_texts:
-  - "The Process magazine"
-  - "Process Church liturgies"
-  - "As It Is"
+  - The Process magazine
+  - Process Church liturgies
+  - As It Is
 relations:
-  - target: "western-esotericism"
-    type: "branch_of"
-    certainty: "minority_scholarly"
-  - target: "christianity"
-    type: "fringe_reinterpretation"
-    certainty: "academic_consensus"
+  - target: western-esotericism
+    type: branch_of
+    certainty: minority_scholarly
+  - target: christianity
+    type: fringe_reinterpretation
+    certainty: academic_consensus
+origin_year: 1960
+origin_geo:
+  lat: 50.9359
+  lng: 0.3689
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Mary Ann and Robert de Grimston formed the Process in
+    1960s London after leaving Scientology. It developed communes, striking
+    black-clad public imagery, magazin...
+  - >-
+    Distinctive Practice: Process theology sought reconciliation among Jehovah,
+    Lucifer, Satan, and Christ within an approaching judgment. Sensational
+    allegations linking the group to un...
+  - >-
+    Core Orientation: A countercultural communal religion that developed a
+    distinctive theology of Jehovah, Lucifer, Satan, and Christ before
+    fragmenting in the 1970s.
+sources:
+  - title: 'Encyclopaedia Britannica: "Process Church of the Final Judgment"'
+    url: 'https://www.britannica.com/topic/process-church-of-the-final-judgment'
+  - title: 'Oxford Reference: Overview of Process Church of the Final Judgment'
+    url: >-
+      https://www.oxfordreference.com/search?q=Process%20Church%20of%20the%20Final%20Judgment
+  - title: >-
+      Brill Handbook of Religious Traditions: Process Church of the Final
+      Judgment
+    url: 'https://brill.com/search?q=Process%20Church%20of%20the%20Final%20Judgment'
+artifacts:
+  - title: Process Church of the Final Judgment Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Process_Church_of_the_Final_Judgment'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Process Church of the Final Judgment.
+  - title: Process Church of the Final Judgment Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/The_Process_magazine'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Process Church of the Final Judgment

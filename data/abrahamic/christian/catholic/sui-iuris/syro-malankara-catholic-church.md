@@ -1,22 +1,67 @@
 ---
-id: "syro-malankara-catholic-church"
-title: "Syro-Malankara Catholic Church"
-cluster: "Abrahamic"
-color: "#d99544"
-era_start: "1930 CE"
-epistemic_tier: "academic_consensus"
-summary: "A West Syriac Eastern Catholic church formed through reunion by part of the Malankara Christian community in India."
+id: syro-malankara-catholic-church
+title: Syro-Malankara Catholic Church
+cluster: Abrahamic
+color: '#d99544'
+era_start: 1930 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A West Syriac Eastern Catholic church formed through reunion by part of the
+  Malankara Christian community in India.
 canonical_texts:
-  - "Bible"
-  - "Divine Liturgy of Saint James"
-  - "West Syriac liturgical books"
+  - Bible
+  - Divine Liturgy of Saint James
+  - West Syriac liturgical books
 relations:
-  - target: "eastern-catholic-churches"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "syriac-orthodoxy"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: eastern-catholic-churches
+    type: branch_of
+    certainty: academic_consensus
+  - target: syriac-orthodoxy
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1930
+origin_geo:
+  lat: 41.6968
+  lng: 11.9684
+  place_name: 'Rome, Latium, Italy'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The church arose when Archbishop Mar Ivanios and
+    companions from the Malankara tradition entered communion with Rome in 1930.
+    Their communities belonged to the ...
+  - >-
+    Distinctive Practice: The Syro-Malankara Catholic Church is a major
+    archiepiscopal *sui iuris* church celebrating the West Syriac rite,
+    especially the Liturgy of Saint James. Its nam...
+  - >-
+    Core Orientation: A West Syriac Eastern Catholic church formed through
+    reunion by part of the Malankara Christian community in India.
+sources:
+  - title: 'Encyclopaedia Britannica: "Syro-Malankara Catholic Church"'
+    url: 'https://www.britannica.com/topic/syro-malankara-catholic-church'
+  - title: 'Oxford Reference: Overview of Syro-Malankara Catholic Church'
+    url: >-
+      https://www.oxfordreference.com/search?q=Syro-Malankara%20Catholic%20Church
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Syro-Malankara
+      Catholic Church
+    url: 'https://www.cambridge.org/core/search?q=Syro-Malankara%20Catholic%20Church'
+artifacts:
+  - title: Saint Peter's Papal Basilica & Piazza
+    url: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
+    provenance: 'Vatican City, Rome'
+    period: 1506–1626 CE (Renaissance / Baroque)
+    description: >-
+      The Renaissance and Baroque episcopal center of the Roman Catholic Church,
+      designed by Michelangelo and Bernini.
+  - title: Codex Vaticanus Greek Bible Manuscript
+    url: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
+    provenance: Vatican Library Collection
+    period: c. 4th century CE
+    description: >-
+      One of the earliest extant uncial manuscripts of the Greek Old and New
+      Testaments.
 ---
 
 # Syro-Malankara Catholic Church

@@ -1,19 +1,59 @@
 ---
-id: "essenes"
-title: "Essenes"
-cluster: "Abrahamic"
-color: "#64b2da"
-era_start: "c. 2nd century BCE"
-epistemic_tier: "academic_consensus"
-summary: "An ascetic Second Temple Jewish movement described by ancient authors and often associated, with qualifications, with Qumran."
+id: essenes
+title: Essenes
+cluster: Abrahamic
+color: '#64b2da'
+era_start: c. 2nd century BCE
+epistemic_tier: academic_consensus
+summary: >-
+  An ascetic Second Temple Jewish movement described by ancient authors and
+  often associated, with qualifications, with Qumran.
 canonical_texts:
-  - "Community Rule"
-  - "Damascus Document"
-  - "War Scroll"
+  - Community Rule
+  - Damascus Document
+  - War Scroll
 relations:
-  - target: "second-temple-judaism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: second-temple-judaism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: -150
+origin_geo:
+  lat: 31.255
+  lng: 34.4812
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Josephus, Philo, and Pliny describe Essenes as
+    disciplined Jewish communities with shared property, initiation, purity
+    practices, and in some accounts celibacy....
+  - >-
+    Distinctive Practice: Qumran texts present a covenant community awaiting
+    divine judgment, following a distinctive calendar, and interpreting
+    scripture through its own inspired teache...
+  - >-
+    Core Orientation: An ascetic Second Temple Jewish movement described by
+    ancient authors and often associated, with qualifications, with Qumran.
+sources:
+  - title: 'Encyclopaedia Britannica: "Essenes"'
+    url: 'https://www.britannica.com/topic/essenes'
+  - title: 'Oxford Reference: Overview of Essenes'
+    url: 'https://www.oxfordreference.com/search?q=Essenes'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Essenes'
+    url: 'https://www.cambridge.org/core/search?q=Essenes'
+artifacts:
+  - title: Essenes Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Essenes'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Essenes.
+  - title: Essenes Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Community_Rule'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Essenes

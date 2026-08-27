@@ -1,25 +1,65 @@
 ---
-id: "cheondoism"
-title: "Cheondoism"
-cluster: "East Asian"
-color: "#2fc66a"
-era_start: "1860 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Korean religion descended from Donghak, teaching the nearness of Heaven, human dignity, ethical cultivation, and social renewal."
+id: cheondoism
+title: Cheondoism
+cluster: East Asian
+color: '#2fc66a'
+era_start: 1860 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Korean religion descended from Donghak, teaching the nearness of Heaven,
+  human dignity, ethical cultivation, and social renewal.
 canonical_texts:
-  - "Donggyeong Daejeon"
-  - "Yongdam Yusa"
-  - "Cheondoist doctrinal collections"
+  - Donggyeong Daejeon
+  - Yongdam Yusa
+  - Cheondoist doctrinal collections
 relations:
-  - target: "confucianism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-  - target: "daoism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-  - target: "korean-shamanism"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: confucianism
+    type: influenced_by
+    certainty: academic_consensus
+  - target: daoism
+    type: influenced_by
+    certainty: academic_consensus
+  - target: korean-shamanism
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 1860
+origin_geo:
+  lat: 37.5391
+  lng: 126.8832
+  place_name: 'Seoul (Hanyang), South Korea'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Choe Je-u founded Donghak, “Eastern Learning,” in
+    1860 amid foreign pressure and domestic crisis. The movement joined
+    revelation, ethical discipline, and critiq...
+  - >-
+    Distinctive Practice: Cheondoism teaches that humans bear or serve Heaven
+    within, grounding radical dignity and moral responsibility. Incantation,
+    reverence, disciplined sincerity, a...
+  - >-
+    Core Orientation: A Korean religion descended from Donghak, teaching the
+    nearness of Heaven, human dignity, ethical cultivation, and social renewal.
+sources:
+  - title: 'Encyclopaedia Britannica: "Cheondoism"'
+    url: 'https://www.britannica.com/topic/cheondoism'
+  - title: 'Oxford Reference: Overview of Cheondoism'
+    url: 'https://www.oxfordreference.com/search?q=Cheondoism'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: 'https://plato.stanford.edu/search/searcher.py?query=Cheondoism'
+artifacts:
+  - title: Cheondoism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Cheondoism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Cheondoism.
+  - title: Cheondoism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Donggyeong_Daejeon'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Cheondoism

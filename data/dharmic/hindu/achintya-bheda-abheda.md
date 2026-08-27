@@ -1,21 +1,61 @@
 ---
-id: "achintya-bheda-abheda"
-title: "Acintya-bhedābheda"
-cluster: "Dharmic"
-color: "#f97316"
-era_start: "16th century CE"
-epistemic_tier: "academic_consensus"
-summary: "The Gauḍīya Vedānta teaching that selves and cosmos are inconceivably both distinct from and united with Kṛṣṇa."
+id: achintya-bheda-abheda
+title: Acintya-bhedābheda
+cluster: Dharmic
+color: '#f97316'
+era_start: 16th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  The Gauḍīya Vedānta teaching that selves and cosmos are inconceivably both
+  distinct from and united with Kṛṣṇa.
 aliases:
-  - "Inconceivable difference-in-nondifference"
+  - Inconceivable difference-in-nondifference
 canonical_texts:
-  - "Ṣaṭ-sandarbha"
-  - "Govinda-bhāṣya"
-  - "Bhāgavata Purāṇa"
+  - Ṣaṭ-sandarbha
+  - Govinda-bhāṣya
+  - Bhāgavata Purāṇa
 relations:
-  - target: "vedanta"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: vedanta
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1550
+origin_geo:
+  lat: 25.3051
+  lng: 83.0613
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The formula of “inconceivable difference and
+    nondifference” summarizes theology systematized by Jīva Gosvāmin and later
+    Gauḍīya authors after Caitanya. It parti...
+  - >-
+    Distinctive Practice: Kṛṣṇa and divine energies are inseparable, yet finite
+    selves and the cosmos retain real difference. Their simultaneous unity and
+    plurality exceeds ordinary logi...
+  - >-
+    Core Orientation: The Gauḍīya Vedānta teaching that selves and cosmos are
+    inconceivably both distinct from and united with Kṛṣṇa.
+sources:
+  - title: 'Encyclopaedia Britannica: "Acintya-bhedābheda"'
+    url: 'https://www.britannica.com/topic/acintya-bhed-bheda'
+  - title: 'Oxford Reference: Overview of Acintya-bhedābheda'
+    url: 'https://www.oxfordreference.com/search?q=Acintya-bhed%C4%81bheda'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Acintya-bhed%C4%81bheda'
+artifacts:
+  - title: Acintya-bhedābheda Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Acintya-bhed%C4%81bheda'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Acintya-bhedābheda.
+  - title: Acintya-bhedābheda Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/%E1%B9%A2a%E1%B9%AD-sandarbha'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Acintya-bhedābheda

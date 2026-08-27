@@ -1,23 +1,63 @@
 ---
-id: "zen"
-title: "Zen Buddhism"
-cluster: "Dharmic"
-color: "#f38b31"
+id: zen
+title: Zen Buddhism
+cluster: Dharmic
+color: '#f38b31'
 display_weight: 1.45
-era_start: "12th century CE"
-epistemic_tier: "academic_consensus"
-summary: "Japanese Buddhist traditions descended from Chinese Chan, especially the Sōtō, Rinzai, and Ōbaku lineages."
+era_start: 12th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  Japanese Buddhist traditions descended from Chinese Chan, especially the Sōtō,
+  Rinzai, and Ōbaku lineages.
 canonical_texts:
-  - "Shōbōgenzō"
-  - "Record of Linji"
-  - "Gateless Gate"
+  - Shōbōgenzō
+  - Record of Linji
+  - Gateless Gate
 relations:
-  - target: "chan"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "shinto"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: chan
+    type: branch_of
+    certainty: academic_consensus
+  - target: shinto
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 1150
+origin_geo:
+  lat: 35.0116
+  lng: 135.7681
+  place_name: 'Kyoto (Heian-kyo), Japan'
+extinct_year: null
+key_tenets:
+  - >-
+    Bodhisattva Ideal: Compassionate aspiration to attain complete Buddhahood
+    for the universal liberation of all sentient beings.
+  - >-
+    Shunyata (Emptiness): Radical insight that all phenomena are empty of
+    inherent, independent existence and interdependently originated.
+  - >-
+    Buddha-Nature (Tathagatagarbha): Innate potential for awakening present
+    within every conscious being.
+sources:
+  - title: 'Encyclopaedia Britannica: "Zen Buddhism"'
+    url: 'https://www.britannica.com/topic/zen-buddhism'
+  - title: 'Oxford Reference: Overview of Zen Buddhism'
+    url: 'https://www.oxfordreference.com/search?q=Zen%20Buddhism'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Zen%20Buddhism'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Zen Buddhism

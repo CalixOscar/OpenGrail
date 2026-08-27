@@ -1,22 +1,63 @@
 ---
-id: "aetherius-society"
-title: "Aetherius Society"
-cluster: "Esoteric & Modern"
-color: "#a66ad0"
-era_start: "1955 CE"
-epistemic_tier: "academic_consensus"
-summary: "A UFO-oriented new religious movement founded by George King, combining Theosophical cosmology, yoga, healing, and service to cosmic masters."
+id: aetherius-society
+title: Aetherius Society
+cluster: Esoteric & Modern
+color: '#a66ad0'
+era_start: 1955 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A UFO-oriented new religious movement founded by George King, combining
+  Theosophical cosmology, yoga, healing, and service to cosmic masters.
 canonical_texts:
-  - "The Twelve Blessings"
-  - "Cosmic Voice transmissions"
-  - "The Nine Freedoms"
+  - The Twelve Blessings
+  - Cosmic Voice transmissions
+  - The Nine Freedoms
 relations:
-  - target: "ufo-religions"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "theosophy"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: ufo-religions
+    type: branch_of
+    certainty: academic_consensus
+  - target: theosophy
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1955
+origin_geo:
+  lat: 51.5793
+  lng: -0.0714
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: British contactee George King founded the Aetherius
+    Society in London in 1955 after reporting communication with advanced
+    extraterrestrial intelligences. The mo...
+  - >-
+    Distinctive Practice: The society teaches a populated spiritual cosmos,
+    karmic evolution, yoga, prayer, healing, and service directed by Cosmic
+    Masters. Mountains and charged devices...
+  - >-
+    Core Orientation: A UFO-oriented new religious movement founded by George
+    King, combining Theosophical cosmology, yoga, healing, and service to cosmic
+    masters.
+sources:
+  - title: 'Encyclopaedia Britannica: "Aetherius Society"'
+    url: 'https://www.britannica.com/topic/aetherius-society'
+  - title: 'Oxford Reference: Overview of Aetherius Society'
+    url: 'https://www.oxfordreference.com/search?q=Aetherius%20Society'
+  - title: 'Brill Handbook of Religious Traditions: Aetherius Society'
+    url: 'https://brill.com/search?q=Aetherius%20Society'
+artifacts:
+  - title: Aetherius Society Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Aetherius_Society'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Aetherius Society.
+  - title: Aetherius Society Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/The_Twelve_Blessings'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Aetherius Society

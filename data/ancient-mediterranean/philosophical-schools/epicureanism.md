@@ -1,26 +1,67 @@
 ---
-id: "epicureanism"
-title: "Epicureanism"
-cluster: "Ancient Mediterranean"
-color: "#9468d5"
-era_start: "306 BCE"
-epistemic_tier: "academic_consensus"
-summary: "A Hellenistic philosophical community seeking tranquil pleasure through friendship, ethical discipline, and a naturalistic account of gods and nature."
+id: epicureanism
+title: Epicureanism
+cluster: Ancient Mediterranean
+color: '#9468d5'
+era_start: 306 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  A Hellenistic philosophical community seeking tranquil pleasure through
+  friendship, ethical discipline, and a naturalistic account of gods and nature.
 aliases:
-  - "The Garden"
-  - "Epicurean philosophy"
+  - The Garden
+  - Epicurean philosophy
 canonical_texts:
-  - "Letter to Menoeceus"
-  - "Principal Doctrines"
-  - "Vatican Sayings"
-  - "On the Nature of Things"
+  - Letter to Menoeceus
+  - Principal Doctrines
+  - Vatican Sayings
+  - On the Nature of Things
 relations:
-  - target: "hellenistic-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "stoicism"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: hellenistic-religion
+    type: branch_of
+    certainty: academic_consensus
+  - target: stoicism
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: -306
+origin_geo:
+  lat: 37.7609
+  lng: 23.9214
+  place_name: 'Athens, Attica, Greece'
+extinct_year: 400
+key_tenets:
+  - >-
+    Foundational Doctrine: Epicurus founded his Athenian school, the Garden, in
+    306 BCE. Communities preserved letters, maxims, commemorative meals,
+    friendship networks, and a philosophic...
+  - >-
+    Distinctive Practice: Epicureans accepted blessed and immortal gods but
+    denied that they created or providentially governed the world. Natural
+    explanations of celestial events and de...
+  - >-
+    Core Orientation: A Hellenistic philosophical community seeking tranquil
+    pleasure through friendship, ethical discipline, and a naturalistic account
+    of gods and nature.
+sources:
+  - title: 'Encyclopaedia Britannica: "Epicureanism"'
+    url: 'https://www.britannica.com/topic/epicureanism'
+  - title: 'Oxford Reference: Overview of Epicureanism'
+    url: 'https://www.oxfordreference.com/search?q=Epicureanism'
+  - title: 'Brill Handbook of Religious Traditions: Epicureanism'
+    url: 'https://brill.com/search?q=Epicureanism'
+artifacts:
+  - title: Epicureanism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Epicureanism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Epicureanism.
+  - title: Epicureanism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Letter_to_Menoeceus'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Epicureanism

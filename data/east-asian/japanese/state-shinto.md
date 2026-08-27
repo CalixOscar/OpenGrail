@@ -1,19 +1,60 @@
 ---
-id: "state-shinto"
-title: "State Shinto"
-cluster: "East Asian"
-color: "#16a34a"
-era_start: "1868 CE"
-epistemic_tier: "academic_consensus"
-summary: "The modern Japanese state system that administered shrines and imperial rites as public civic institutions rather than officially as religion."
+id: state-shinto
+title: State Shinto
+cluster: East Asian
+color: '#16a34a'
+era_start: 1868 CE
+epistemic_tier: academic_consensus
+summary: >-
+  The modern Japanese state system that administered shrines and imperial rites
+  as public civic institutions rather than officially as religion.
 canonical_texts:
-  - "Imperial Rescript on Education"
-  - "Meiji shrine regulations"
-  - "Kokutai no Hongi"
+  - Imperial Rescript on Education
+  - Meiji shrine regulations
+  - Kokutai no Hongi
 relations:
-  - target: "shinto"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: shinto
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1868
+origin_geo:
+  lat: 35.0532
+  lng: 116.9058
+  place_name: 'Qufu, Shandong, China'
+extinct_year: null
+key_tenets:
+  - >-
+    Kami Veneration: Sacred reverence for divine spirits and natural forces
+    inhabiting mountains, trees, rivers, ancestors, and celestial bodies.
+  - >-
+    Kegare and Harai (Purity and Purification): Ritual washing,
+    salt-purification, and cleansing rites to remove spiritual pollution and
+    restore life vitality.
+  - >-
+    Harmony with Nature (Musuhi): Celebration of seasonal renewal, community
+    matsuri (festivals), and sacred connection to the Japanese land.
+sources:
+  - title: 'Encyclopaedia Britannica: "State Shinto"'
+    url: 'https://www.britannica.com/topic/state-shinto'
+  - title: 'Oxford Reference: Overview of State Shinto'
+    url: 'https://www.oxfordreference.com/search?q=State%20Shinto'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: 'https://plato.stanford.edu/search/searcher.py?query=State%20Shinto'
+artifacts:
+  - title: Itsukushima Floating Torii Gate Shrine
+    url: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
+    provenance: 'Miyajima, Hiroshima, Japan'
+    period: 1168 CE
+    description: >-
+      Iconic sacred Shinto gate standing in the tidal sea, demarcating the
+      boundary of the sacred realm.
+  - title: Ise Grand Shrine (Kotai Jingu)
+    url: 'https://en.wikipedia.org/wiki/Ise_Grand_Shrine'
+    provenance: 'Mie Prefecture, Japan'
+    period: c. 4 BCE / 7th century CE
+    description: >-
+      Principal Shinto sanctuary dedicated to the sun kami Amaterasu Omikami,
+      ritually rebuilt every 20 years.
 ---
 
 # State Shinto

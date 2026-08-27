@@ -1,26 +1,67 @@
 ---
-id: "pythagoreanism"
-title: "Pythagoreanism"
-cluster: "Ancient Mediterranean"
-color: "#9d70dc"
-era_start: "c. 530 BCE"
-epistemic_tier: "academic_consensus"
-summary: "An ancient Greek philosophical and communal tradition linking disciplined life, number, cosmic order, and teachings attributed to Pythagoras."
+id: pythagoreanism
+title: Pythagoreanism
+cluster: Ancient Mediterranean
+color: '#9d70dc'
+era_start: c. 530 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  An ancient Greek philosophical and communal tradition linking disciplined
+  life, number, cosmic order, and teachings attributed to Pythagoras.
 aliases:
-  - "Pythagorean tradition"
-  - "Pythagorean school"
+  - Pythagorean tradition
+  - Pythagorean school
 canonical_texts:
-  - "Pythagorean acusmata"
-  - "Fragments of Philolaus"
-  - "Golden Verses"
-  - "Lives of Pythagoras"
+  - Pythagorean acusmata
+  - Fragments of Philolaus
+  - Golden Verses
+  - Lives of Pythagoras
 relations:
-  - target: "ancient-greek-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "orphism"
-    type: "parallel_concept"
-    certainty: "minority_scholarly"
+  - target: ancient-greek-religion
+    type: branch_of
+    certainty: academic_consensus
+  - target: orphism
+    type: parallel_concept
+    certainty: minority_scholarly
+origin_year: -530
+origin_geo:
+  lat: 37.5738
+  lng: 23.7236
+  place_name: 'Athens, Attica, Greece'
+extinct_year: 350
+key_tenets:
+  - >-
+    Foundational Doctrine: Pythagoras established a community in Croton in
+    southern Italy during the sixth century BCE, but almost no securely
+    contemporary writing survives. Later Pythago...
+  - >-
+    Distinctive Practice: Communal rules, purification, dietary disciplines,
+    reverence for number, and teachings about the soul gave Pythagorean life a
+    religious dimension alongside phil...
+  - >-
+    Core Orientation: An ancient Greek philosophical and communal tradition
+    linking disciplined life, number, cosmic order, and teachings attributed to
+    Pythagoras.
+sources:
+  - title: 'Encyclopaedia Britannica: "Pythagoreanism"'
+    url: 'https://www.britannica.com/topic/pythagoreanism'
+  - title: 'Oxford Reference: Overview of Pythagoreanism'
+    url: 'https://www.oxfordreference.com/search?q=Pythagoreanism'
+  - title: 'Brill Handbook of Religious Traditions: Pythagoreanism'
+    url: 'https://brill.com/search?q=Pythagoreanism'
+artifacts:
+  - title: Pythagoreanism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Pythagoreanism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Pythagoreanism.
+  - title: Pythagoreanism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Pythagorean_acusmata'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Pythagoreanism

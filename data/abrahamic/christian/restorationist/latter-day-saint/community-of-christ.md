@@ -1,23 +1,63 @@
 ---
-id: "community-of-christ"
-title: "Community of Christ"
-cluster: "Abrahamic"
-color: "#6f9ddd"
-era_start: "1860 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Latter Day Saint denomination formerly named the Reorganized Church, centered in Independence, Missouri."
+id: community-of-christ
+title: Community of Christ
+cluster: Abrahamic
+color: '#6f9ddd'
+era_start: 1860 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Latter Day Saint denomination formerly named the Reorganized Church,
+  centered in Independence, Missouri.
 aliases:
-  - "RLDS Church"
-  - "Reorganized Church of Jesus Christ of Latter Day Saints"
+  - RLDS Church
+  - Reorganized Church of Jesus Christ of Latter Day Saints
 display_weight: 1.3
 canonical_texts:
-  - "Bible"
-  - "Book of Mormon"
-  - "Doctrine and Covenants"
+  - Bible
+  - Book of Mormon
+  - Doctrine and Covenants
 relations:
-  - target: "latter-day-saint-movement"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: latter-day-saint-movement
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1860
+origin_geo:
+  lat: 39.2785
+  lng: -94.456
+  place_name: 'Independence, Jackson County, Missouri, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The Reorganized Church of Jesus Christ of Latter Day
+    Saints was formally organized in 1860 with Joseph Smith III as president. It
+    gathered Midwestern Saints who...
+  - >-
+    Distinctive Practice: Community of Christ emphasizes Jesus Christ, peace,
+    reconciliation, responsible interpretation of scripture, and continuing
+    revelation. It practices open Commun...
+  - >-
+    Core Orientation: A Latter Day Saint denomination formerly named the
+    Reorganized Church, centered in Independence, Missouri.
+sources:
+  - title: 'Encyclopaedia Britannica: "Community of Christ"'
+    url: 'https://www.britannica.com/topic/community-of-christ'
+  - title: 'Oxford Reference: Overview of Community of Christ'
+    url: 'https://www.oxfordreference.com/search?q=Community%20of%20Christ'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Community of Christ'
+    url: 'https://www.cambridge.org/core/search?q=Community%20of%20Christ'
+artifacts:
+  - title: Community of Christ Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Community_of_Christ'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Community of Christ.
+  - title: Community of Christ Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Community of Christ

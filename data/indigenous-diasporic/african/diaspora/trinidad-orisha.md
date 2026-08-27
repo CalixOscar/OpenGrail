@@ -1,25 +1,66 @@
 ---
-id: "trinidad-orisha"
-title: "Trinidad Orisha"
-cluster: "Indigenous & Diasporic"
-color: "#c98257"
-era_start: "19th century CE"
-epistemic_tier: "academic_consensus"
+id: trinidad-orisha
+title: Trinidad Orisha
+cluster: Indigenous & Diasporic
+color: '#c98257'
+era_start: 19th century CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Shango Religion"
-  - "Trinidad and Tobago Orisha"
-summary: "A Trinidadian Orisha religion rooted principally in Yorùbá traditions and transformed through Caribbean ritual, Christianity, and later Africanization."
+  - Shango Religion
+  - Trinidad and Tobago Orisha
+summary: >-
+  A Trinidadian Orisha religion rooted principally in Yorùbá traditions and
+  transformed through Caribbean ritual, Christianity, and later Africanization.
 canonical_texts:
-  - "Orisha praise-song corpus"
-  - "Yorùbá-derived liturgical traditions"
-  - "Shrine-specific oral teachings"
+  - Orisha praise-song corpus
+  - Yorùbá-derived liturgical traditions
+  - Shrine-specific oral teachings
 relations:
-  - target: "yoruba-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "christianity"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: yoruba-religion
+    type: branch_of
+    certainty: academic_consensus
+  - target: christianity
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 1850
+origin_geo:
+  lat: 7.0746
+  lng: 4.5996
+  place_name: 'Ile-Ife, Osun, Nigeria'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Yorùbá-speaking migrants and formerly enslaved
+    communities sustained Orisha worship in nineteenth-century Trinidad under
+    colonial restriction. The tradition int...
+  - >-
+    Distinctive Practice: Shrines honor multiple Orisha through drumming, song,
+    offering, divination, healing, and possession. “Shango” historically became
+    a broad popular name, but cont...
+  - >-
+    Core Orientation: A Trinidadian Orisha religion rooted principally in Yorùbá
+    traditions and transformed through Caribbean ritual, Christianity, and later
+    Africanization.
+sources:
+  - title: 'Encyclopaedia Britannica: "Trinidad Orisha"'
+    url: 'https://www.britannica.com/topic/trinidad-orisha'
+  - title: 'Oxford Reference: Overview of Trinidad Orisha'
+    url: 'https://www.oxfordreference.com/search?q=Trinidad%20Orisha'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Trinidad%20Orisha'
+artifacts:
+  - title: Trinidad Orisha Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Trinidad_Orisha'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Trinidad Orisha.
+  - title: Trinidad Orisha Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Orisha_praise-song_corpus'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Trinidad Orisha

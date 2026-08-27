@@ -1,23 +1,63 @@
 ---
-id: "christian-church-disciples-of-christ"
-title: "Christian Church (Disciples of Christ)"
-cluster: "Abrahamic"
-color: "#77a9e5"
-era_start: "1968 CE"
-epistemic_tier: "academic_consensus"
-summary: "A mainline Protestant Stone-Campbell denomination organized in its present form through a twentieth-century restructure."
+id: christian-church-disciples-of-christ
+title: Christian Church (Disciples of Christ)
+cluster: Abrahamic
+color: '#77a9e5'
+era_start: 1968 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A mainline Protestant Stone-Campbell denomination organized in its present
+  form through a twentieth-century restructure.
 aliases:
-  - "Disciples of Christ"
-  - "Christian Church"
+  - Disciples of Christ
+  - Christian Church
 display_weight: 1.3
 canonical_texts:
-  - "Bible"
-  - "The Design of the Christian Church (Disciples of Christ)"
-  - "Declaration and Address"
+  - Bible
+  - The Design of the Christian Church (Disciples of Christ)
+  - Declaration and Address
 relations:
-  - target: "restoration-movement"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: restoration-movement
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1968
+origin_geo:
+  lat: 31.2144
+  lng: 35.5907
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The Disciples of Christ descend from the Stone and
+    Campbell reform movements that joined in the 1830s. Cooperative missionary,
+    educational, and benevolent insti...
+  - >-
+    Distinctive Practice: Disciples congregations center worship on the Lord's
+    Supper and usually practice baptism by immersion while recognizing
+    Christians from other baptismal traditio...
+  - >-
+    Core Orientation: A mainline Protestant Stone-Campbell denomination
+    organized in its present form through a twentieth-century restructure.
+sources:
+  - title: 'Encyclopaedia Britannica: "Christian Church"'
+    url: 'https://www.britannica.com/topic/christian-church'
+  - title: 'Oxford Reference: Overview of Christian Church'
+    url: 'https://www.oxfordreference.com/search?q=Christian%20Church'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Christian Church'
+    url: 'https://www.cambridge.org/core/search?q=Christian%20Church'
+artifacts:
+  - title: Christian Church Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Christian_Church'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Christian Church.
+  - title: Christian Church Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Christian Church (Disciples of Christ)

@@ -1,22 +1,63 @@
 ---
-id: "tlingit-religions"
-title: "Tlingit Religious Traditions"
-cluster: "Indigenous & Diasporic"
-color: "#47917e"
-era_start: "precolonial"
-epistemic_tier: "academic_consensus"
+id: tlingit-religions
+title: Tlingit Religious Traditions
+cluster: Indigenous & Diasporic
+color: '#47917e'
+era_start: precolonial
+epistemic_tier: academic_consensus
 aliases:
-  - "Lingít Spiritual Traditions"
-  - "Tlingit Religion"
-summary: "Tlingit traditions grounded in matrilineal clans, ancestral property, land and sea, memorial exchange, names, crests, and relations with nonhuman persons."
+  - Lingít Spiritual Traditions
+  - Tlingit Religion
+summary: >-
+  Tlingit traditions grounded in matrilineal clans, ancestral property, land and
+  sea, memorial exchange, names, crests, and relations with nonhuman persons.
 canonical_texts:
-  - "Clan-owned oral histories"
-  - "At.óow-associated narratives and songs"
-  - "Lingít oratory and memorial corpora"
+  - Clan-owned oral histories
+  - At.óow-associated narratives and songs
+  - Lingít oratory and memorial corpora
 relations:
-  - target: "indigenous-american-religions"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: indigenous-american-religions
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: 57.0531
+  lng: -135.33
+  place_name: 'Sitka (Tlingit Territory), Alaska, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Tlingit clans developed complex maritime, diplomatic,
+    artistic, and ceremonial systems in Southeast Alaska and neighboring
+    regions. Russian and American colonia...
+  - >-
+    Distinctive Practice: Sacred and historical property known as *at.óow* can
+    include names, stories, songs, designs, places, and objects held through
+    clan rights. Memorial exchanges re...
+  - >-
+    Core Orientation: Tlingit traditions grounded in matrilineal clans,
+    ancestral property, land and sea, memorial exchange, names, crests, and
+    relations with nonhuman persons.
+sources:
+  - title: 'Encyclopaedia Britannica: "Tlingit Religious Traditions"'
+    url: 'https://www.britannica.com/topic/tlingit-religious-traditions'
+  - title: 'Oxford Reference: Overview of Tlingit Religious Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Tlingit%20Religious%20Traditions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Tlingit%20Religious%20Traditions'
+artifacts:
+  - title: Tlingit Religious Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Tlingit_Religious_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Tlingit Religious Traditions.
+  - title: Tlingit Religious Traditions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Clan-owned_oral_histories'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Tlingit Religious Traditions

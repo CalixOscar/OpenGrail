@@ -1,22 +1,63 @@
 ---
-id: "jodo-shu"
-title: "Jōdo-shū"
-cluster: "Dharmic"
-color: "#f0a145"
-era_start: "1175 CE"
-epistemic_tier: "academic_consensus"
+id: jodo-shu
+title: Jōdo-shū
+cluster: Dharmic
+color: '#f0a145'
+era_start: 1175 CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Jodo Shu"
-  - "Jōdo School"
-summary: "A Japanese Pure Land school founded by Hōnen that centers recitation of Amitābha Buddha’s name as the accessible path to birth in Sukhāvatī."
+  - Jodo Shu
+  - Jōdo School
+summary: >-
+  A Japanese Pure Land school founded by Hōnen that centers recitation of
+  Amitābha Buddha’s name as the accessible path to birth in Sukhāvatī.
 canonical_texts:
-  - "Three Pure Land Sūtras"
-  - "Senchakushū"
-  - "Ōjōyōshū"
+  - Three Pure Land Sūtras
+  - Senchakushū
+  - Ōjōyōshū
 relations:
-  - target: "pure-land-buddhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: pure-land-buddhism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1175
+origin_geo:
+  lat: 24.8529
+  lng: 82.4384
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Hōnen taught an independent Pure Land path in late
+    Heian and early Kamakura Japan, conventionally dating his school’s founding
+    to 1175. Drawing on Chinese Pure ...
+  - >-
+    Distinctive Practice: Jōdo-shū encourages trusting Amitābha’s vow and
+    reciting *Namu Amida Butsu*, alongside ethical conduct, liturgy, memorial
+    practice, and study. Hōnen emphasized ...
+  - >-
+    Core Orientation: A Japanese Pure Land school founded by Hōnen that centers
+    recitation of Amitābha Buddha’s name as the accessible path to birth in
+    Sukhāvatī.
+sources:
+  - title: 'Encyclopaedia Britannica: "Jōdo-shū"'
+    url: 'https://www.britannica.com/topic/j-do-sh-'
+  - title: 'Oxford Reference: Overview of Jōdo-shū'
+    url: 'https://www.oxfordreference.com/search?q=J%C5%8Ddo-sh%C5%AB'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=J%C5%8Ddo-sh%C5%AB'
+artifacts:
+  - title: Jōdo-shū Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/J%C5%8Ddo-sh%C5%AB'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Jōdo-shū.
+  - title: Jōdo-shū Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Three_Pure_Land_S%C5%ABtras'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Jōdo-shū

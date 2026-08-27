@@ -1,19 +1,61 @@
 ---
-id: "mandeanism"
-title: "Mandaeism"
-cluster: "Abrahamic"
-color: "#66b7ca"
-era_start: "c. 2nd–5th centuries CE"
-epistemic_tier: "academic_consensus"
-summary: "A living Gnostic religion from southern Mesopotamia centered on repeated baptism, revealed knowledge, and John the Baptist."
+id: mandeanism
+title: Mandaeism
+cluster: Abrahamic
+color: '#66b7ca'
+era_start: c. 2nd–5th centuries CE
+epistemic_tier: academic_consensus
+summary: >-
+  A living Gnostic religion from southern Mesopotamia centered on repeated
+  baptism, revealed knowledge, and John the Baptist.
 canonical_texts:
-  - "Ginza Rba"
-  - "Qolasta"
-  - "Mandaean Book of John"
+  - Ginza Rba
+  - Qolasta
+  - Mandaean Book of John
 relations:
-  - target: "gnosticism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: gnosticism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 150
+origin_geo:
+  lat: 32.5078
+  lng: 34.7167
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Mandaean communities are historically documented in
+    southern Iraq and southwestern Iran, though the precise formation and
+    earlier geography of the tradition rem...
+  - >-
+    Distinctive Practice: Mandaeans venerate John the Baptist and practice
+    repeated full immersion in flowing “living water,” alongside complex death
+    rites and priestly ceremonies. Texts...
+  - >-
+    Core Orientation: A living Gnostic religion from southern Mesopotamia
+    centered on repeated baptism, revealed knowledge, and John the Baptist.
+sources:
+  - title: 'Encyclopaedia Britannica: "Mandaeism"'
+    url: 'https://www.britannica.com/topic/mandaeism'
+  - title: 'Oxford Reference: Overview of Mandaeism'
+    url: 'https://www.oxfordreference.com/search?q=Mandaeism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Mandaeism'
+    url: 'https://www.cambridge.org/core/search?q=Mandaeism'
+artifacts:
+  - title: Persepolis Faravahar Bas-Relief
+    url: 'https://en.wikipedia.org/wiki/Faravahar'
+    provenance: 'Persepolis, Ancient Persia'
+    period: c. 515 BCE (Achaemenid Empire)
+    description: >-
+      Carved winged symbol of Good Thoughts, Good Words, and Good Deeds (Humata,
+      Hukhta, Hvarshta).
+  - title: Yazd Atash Behram Fire Temple
+    url: 'https://en.wikipedia.org/wiki/Yazd_Atash_Behram'
+    provenance: 'Yazd, Iran'
+    period: Fire burning continuously since 470 CE
+    description: >-
+      Sacred fire sanctuary housing the consecrated Atash Behram (Victorious
+      Fire) as symbol of divine Asha (Truth).
 ---
 
 # Mandaeism

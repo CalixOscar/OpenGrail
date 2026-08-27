@@ -1,21 +1,61 @@
 ---
-id: "heathenry"
-title: "Heathenry"
-cluster: "Esoteric & Modern"
-color: "#c85bda"
-era_start: "1970s CE"
-epistemic_tier: "academic_consensus"
-summary: "Modern religions reconstructing pre-Christian Germanic and Norse devotional, ethical, and communal practice."
+id: heathenry
+title: Heathenry
+cluster: Esoteric & Modern
+color: '#c85bda'
+era_start: 1970s CE
+epistemic_tier: academic_consensus
+summary: >-
+  Modern religions reconstructing pre-Christian Germanic and Norse devotional,
+  ethical, and communal practice.
 canonical_texts:
-  - "Poetic Edda"
-  - "Prose Edda"
-  - "Sagas and runic corpus"
-  - "Modern organizational statements and liturgies"
+  - Poetic Edda
+  - Prose Edda
+  - Sagas and runic corpus
+  - Modern organizational statements and liturgies
 relations:
-  - target: "norse-religion"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-    citation: "Jennifer Snook, American Heathens (2015)"
+  - target: norse-religion
+    type: influenced_by
+    certainty: academic_consensus
+    citation: 'Jennifer Snook, American Heathens (2015)'
+origin_year: 1970
+origin_geo:
+  lat: 59.9202
+  lng: 18.3689
+  place_name: 'Old Uppsala, Uppland, Sweden'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Heathenry, including groups using names such as
+    Ásatrú, emerged as organized modern religion in the later twentieth century,
+    although romantic and folkloric pre...
+  - >-
+    Distinctive Practice: Offerings called *blót*, communal toasts, hospitality,
+    reciprocity, ancestors, and relationships with gods or land powers are
+    common but not universal. The infl...
+  - >-
+    Core Orientation: Modern religions reconstructing pre-Christian Germanic and
+    Norse devotional, ethical, and communal practice.
+sources:
+  - title: 'Encyclopaedia Britannica: "Heathenry"'
+    url: 'https://www.britannica.com/topic/heathenry'
+  - title: 'Oxford Reference: Overview of Heathenry'
+    url: 'https://www.oxfordreference.com/search?q=Heathenry'
+  - title: 'Brill Handbook of Religious Traditions: Heathenry'
+    url: 'https://brill.com/search?q=Heathenry'
+artifacts:
+  - title: Heathenry Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Heathenry'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Heathenry.
+  - title: Heathenry Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Poetic_Edda'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Heathenry

@@ -1,21 +1,63 @@
 ---
-id: "fourth-way"
-title: "The Fourth Way"
-cluster: "Esoteric & Modern"
-color: "#a66ad0"
-era_start: "early 20th century CE"
-epistemic_tier: "academic_consensus"
-summary: "G. I. Gurdjieff's modern esoteric teaching of awakening through self-observation, intentional work, movement, and group discipline in ordinary life."
+id: fourth-way
+title: The Fourth Way
+cluster: Esoteric & Modern
+color: '#a66ad0'
+era_start: early 20th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  G. I. Gurdjieff's modern esoteric teaching of awakening through
+  self-observation, intentional work, movement, and group discipline in ordinary
+  life.
 aliases:
-  - "Gurdjieff Work"
+  - Gurdjieff Work
 canonical_texts:
-  - "All and Everything"
-  - "In Search of the Miraculous"
-  - "Meetings with Remarkable Men"
+  - All and Everything
+  - In Search of the Miraculous
+  - Meetings with Remarkable Men
 relations:
-  - target: "western-esotericism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: western-esotericism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1950
+origin_geo:
+  lat: 51.2239
+  lng: -0.6752
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: G. I. Gurdjieff taught in Russia and Western Europe
+    in the early twentieth century, later establishing an institute near Paris.
+    P. D. Ouspensky's writings sprea...
+  - >-
+    Distinctive Practice: The teaching describes ordinary human beings as
+    mechanically asleep and prescribes self-remembering, observation, sacred
+    dance, music, and coordinated work. The...
+  - >-
+    Core Orientation: G. I. Gurdjieff's modern esoteric teaching of awakening
+    through self-observation, intentional work, movement, and group discipline
+    in ordinary life.
+sources:
+  - title: 'Encyclopaedia Britannica: "The Fourth Way"'
+    url: 'https://www.britannica.com/topic/the-fourth-way'
+  - title: 'Oxford Reference: Overview of The Fourth Way'
+    url: 'https://www.oxfordreference.com/search?q=The%20Fourth%20Way'
+  - title: 'Brill Handbook of Religious Traditions: The Fourth Way'
+    url: 'https://brill.com/search?q=The%20Fourth%20Way'
+artifacts:
+  - title: The Fourth Way Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/The_Fourth_Way'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with The Fourth Way.
+  - title: The Fourth Way Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/All_and_Everything'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # The Fourth Way

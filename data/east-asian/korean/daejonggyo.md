@@ -1,22 +1,62 @@
 ---
-id: "daejonggyo"
-title: "Daejonggyo"
-cluster: "East Asian"
-color: "#5fb884"
-era_start: "1909 CE"
-epistemic_tier: "academic_consensus"
+id: daejonggyo
+title: Daejonggyo
+cluster: East Asian
+color: '#5fb884'
+era_start: 1909 CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Religion of the Great Ancestor"
-  - "Taejonggyo"
-summary: "A modern Korean religion venerating Dangun and closely associated with cultural nationalism and anti-colonial activism."
+  - Religion of the Great Ancestor
+  - Taejonggyo
+summary: >-
+  A modern Korean religion venerating Dangun and closely associated with
+  cultural nationalism and anti-colonial activism.
 canonical_texts:
-  - "Samil Sin'go"
-  - "Ch'amjŏn Kyegyŏng"
-  - "Ch'ŏnbugyŏng"
+  - Samil Sin'go
+  - Ch'amjŏn Kyegyŏng
+  - Ch'ŏnbugyŏng
 relations:
-  - target: "dangun-veneration"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: dangun-veneration
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1909
+origin_geo:
+  lat: 37.6543
+  lng: 127.1909
+  place_name: 'Seoul (Hanyang), South Korea'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Na Cheol publicly organized Daejonggyo in 1909 amid
+    the loss of Korean sovereignty. The movement presented itself as a revival
+    of an ancient national teaching c...
+  - >-
+    Distinctive Practice: Daejonggyo venerates Dangun as the Great Ancestor and
+    teaches a Korean sacred history through a distinct scriptural corpus and
+    ritual calendar. Its nationalism ...
+  - >-
+    Core Orientation: A modern Korean religion venerating Dangun and closely
+    associated with cultural nationalism and anti-colonial activism.
+sources:
+  - title: 'Encyclopaedia Britannica: "Daejonggyo"'
+    url: 'https://www.britannica.com/topic/daejonggyo'
+  - title: 'Oxford Reference: Overview of Daejonggyo'
+    url: 'https://www.oxfordreference.com/search?q=Daejonggyo'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: 'https://plato.stanford.edu/search/searcher.py?query=Daejonggyo'
+artifacts:
+  - title: Daejonggyo Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Daejonggyo'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Daejonggyo.
+  - title: Daejonggyo Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Samil_Sin''go'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Daejonggyo

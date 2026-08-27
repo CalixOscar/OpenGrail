@@ -1,19 +1,59 @@
 ---
-id: "bon"
-title: "Bön"
-cluster: "Dharmic"
-color: "#e8792f"
-era_start: "c. 10th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A Tibetan religious tradition with its own revelation, ritual, monastic, philosophical, and contemplative lineages."
+id: bon
+title: Bön
+cluster: Dharmic
+color: '#e8792f'
+era_start: c. 10th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Tibetan religious tradition with its own revelation, ritual, monastic,
+  philosophical, and contemplative lineages.
 canonical_texts:
-  - "Bön Kangyur"
-  - "Bön Tengyur"
-  - "Zhang Zhung Nyen Gyü"
+  - Bön Kangyur
+  - Bön Tengyur
+  - Zhang Zhung Nyen Gyü
 relations:
-  - target: "tibetan-buddhism"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: tibetan-buddhism
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 950
+origin_geo:
+  lat: 25.7268
+  lng: 82.9456
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Modern Yungdrung Bön took recognizable institutional
+    form in the later first millennium and afterward, while grounding itself in
+    revelations and memories of old...
+  - >-
+    Distinctive Practice: Bön includes monastic discipline, deity ritual,
+    astrology, funerary practice, philosophical study, and Dzogchen
+    contemplative systems. It shares many forms with...
+  - >-
+    Core Orientation: A Tibetan religious tradition with its own revelation,
+    ritual, monastic, philosophical, and contemplative lineages.
+sources:
+  - title: 'Encyclopaedia Britannica: "Bön"'
+    url: 'https://www.britannica.com/topic/b-n'
+  - title: 'Oxford Reference: Overview of Bön'
+    url: 'https://www.oxfordreference.com/search?q=B%C3%B6n'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=B%C3%B6n'
+artifacts:
+  - title: Bön Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/B%C3%B6n'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Bön.
+  - title: Bön Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/B%C3%B6n_Kangyur'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Bön

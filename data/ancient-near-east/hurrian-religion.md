@@ -1,17 +1,57 @@
 ---
-id: "hurrian-religion"
-title: "Hurrian Religion"
-cluster: "Ancient Near East"
-color: "#d09b68"
-era_start: "c. 2200 BCE"
-epistemic_tier: "academic_consensus"
-summary: "Religious traditions of Hurrian-speaking communities across northern Mesopotamia, Syria, and Anatolia."
+id: hurrian-religion
+title: Hurrian Religion
+cluster: Ancient Near East
+color: '#d09b68'
+era_start: c. 2200 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  Religious traditions of Hurrian-speaking communities across northern
+  Mesopotamia, Syria, and Anatolia.
 canonical_texts:
-  - "Song of Kumarbi"
-  - "Song of Release"
-  - "Hurrian ritual tablets from Hattusa"
-  - "Hurrian hymns from Ugarit"
+  - Song of Kumarbi
+  - Song of Release
+  - Hurrian ritual tablets from Hattusa
+  - Hurrian hymns from Ugarit
 relations: []
+origin_year: -2200
+origin_geo:
+  lat: 32.5678
+  lng: 43.875
+  place_name: 'Babylon, Mesopotamia'
+extinct_year: -1000
+key_tenets:
+  - >-
+    Foundational Doctrine: Hurrian-speaking peoples lived across a wide zone
+    from northern Mesopotamia to Syria and Anatolia during the third and second
+    millennia BCE. Their traditions ar...
+  - >-
+    Distinctive Practice: The storm god Teššub, Ḫebat, Šauška, Kumarbi, and
+    deities grouped as ancient “former gods” feature in surviving myth and
+    ritual. Offerings, purification, music,...
+  - >-
+    Core Orientation: Religious traditions of Hurrian-speaking communities
+    across northern Mesopotamia, Syria, and Anatolia.
+sources:
+  - title: 'Encyclopaedia Britannica: "Hurrian Religion"'
+    url: 'https://www.britannica.com/topic/hurrian-religion'
+  - title: 'Oxford Reference: Overview of Hurrian Religion'
+    url: 'https://www.oxfordreference.com/search?q=Hurrian%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Hurrian Religion'
+    url: 'https://brill.com/search?q=Hurrian%20Religion'
+artifacts:
+  - title: Hurrian Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Hurrian_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Hurrian Religion.
+  - title: Hurrian Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Song_of_Kumarbi'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Hurrian Religion

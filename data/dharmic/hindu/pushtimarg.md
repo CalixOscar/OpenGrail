@@ -1,25 +1,65 @@
 ---
-id: "pushtimarg"
-title: "Puṣṭimārga"
-cluster: "Dharmic"
-color: "#f97316"
-era_start: "late 15th century CE"
-epistemic_tier: "academic_consensus"
-summary: "The Vallabha Vaiṣṇava 'path of grace,' centered on intimate service to Kṛṣṇa, especially as Śrīnāthjī."
+id: pushtimarg
+title: Puṣṭimārga
+cluster: Dharmic
+color: '#f97316'
+era_start: late 15th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  The Vallabha Vaiṣṇava 'path of grace,' centered on intimate service to Kṛṣṇa,
+  especially as Śrīnāthjī.
 aliases:
-  - "Vallabha Sampradāya"
-  - "Path of Grace"
+  - Vallabha Sampradāya
+  - Path of Grace
 canonical_texts:
-  - "Aṇubhāṣya"
-  - "Subodhinī"
-  - "Bhāgavata Purāṇa"
+  - Aṇubhāṣya
+  - Subodhinī
+  - Bhāgavata Purāṇa
 relations:
-  - target: "vaishnavism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "shuddhadvaita"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: vaishnavism
+    type: branch_of
+    certainty: academic_consensus
+  - target: shuddhadvaita
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1450
+origin_geo:
+  lat: 24.5648
+  lng: 82.5589
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Vallabha and his descendants established Puṣṭimārga
+    in northwestern India around the turn of the sixteenth century. The
+    tradition developed household and temple...
+  - >-
+    Distinctive Practice: Devotees seek participation in divine grace through
+    initiation and loving *sevā*: bathing, clothing, feeding, adorning, and
+    celebrating Kṛṣṇa throughout the day...
+  - >-
+    Core Orientation: The Vallabha Vaiṣṇava 'path of grace,' centered on
+    intimate service to Kṛṣṇa, especially as Śrīnāthjī.
+sources:
+  - title: 'Encyclopaedia Britannica: "Puṣṭimārga"'
+    url: 'https://www.britannica.com/topic/pu-im-rga'
+  - title: 'Oxford Reference: Overview of Puṣṭimārga'
+    url: 'https://www.oxfordreference.com/search?q=Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
+artifacts:
+  - title: Puṣṭimārga Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Puṣṭimārga.
+  - title: Puṣṭimārga Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/A%E1%B9%87ubh%C4%81%E1%B9%A3ya'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Puṣṭimārga

@@ -1,23 +1,66 @@
 ---
-id: "burmese-buddhism"
-title: "Burmese Buddhism"
-cluster: "Dharmic"
-color: "#f39b18"
-era_start: "c. 11th century CE"
-epistemic_tier: "academic_consensus"
+id: burmese-buddhism
+title: Burmese Buddhism
+cluster: Dharmic
+color: '#f39b18'
+era_start: c. 11th century CE
+epistemic_tier: academic_consensus
 display_weight: 1.45
 aliases:
-  - "Myanmar Buddhism"
-  - "Burmese Theravāda"
-summary: "Myanmar’s diverse Theravāda traditions, shaped by royal patronage, village monasteries, scriptural learning, and influential meditation reforms."
+  - Myanmar Buddhism
+  - Burmese Theravāda
+summary: >-
+  Myanmar’s diverse Theravāda traditions, shaped by royal patronage, village
+  monasteries, scriptural learning, and influential meditation reforms.
 canonical_texts:
-  - "Pāli Tipiṭaka"
-  - "Kalyāṇī Inscriptions"
-  - "Burmese nissaya literature"
+  - Pāli Tipiṭaka
+  - Kalyāṇī Inscriptions
+  - Burmese nissaya literature
 relations:
-  - target: "theravada"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: theravada
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1050
+origin_geo:
+  lat: 8.1931
+  lng: 80.2535
+  place_name: 'Anuradhapura, North Central, Sri Lanka'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Buddhism was present in the region long before Pagan,
+    but royal support under Anawrahta and later dynasties made Theravāda
+    institutions increasingly prominent f...
+  - >-
+    Distinctive Practice: Burmese Buddhism combines Pāli scholarship, strict
+    Vinaya currents, merit-making, pagoda devotion, spirit-related practices,
+    and intensive meditation. Several s...
+  - >-
+    Core Orientation: Myanmar’s diverse Theravāda traditions, shaped by royal
+    patronage, village monasteries, scriptural learning, and influential
+    meditation reforms.
+sources:
+  - title: 'Encyclopaedia Britannica: "Burmese Buddhism"'
+    url: 'https://www.britannica.com/topic/burmese-buddhism'
+  - title: 'Oxford Reference: Overview of Burmese Buddhism'
+    url: 'https://www.oxfordreference.com/search?q=Burmese%20Buddhism'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Burmese%20Buddhism'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Burmese Buddhism

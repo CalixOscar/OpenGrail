@@ -1,22 +1,66 @@
 ---
-id: "coptic-catholic-church"
-title: "Coptic Catholic Church"
-cluster: "Abrahamic"
-color: "#d88f43"
-era_start: "1741 CE"
-epistemic_tier: "academic_consensus"
-summary: "An Alexandrian-rite Eastern Catholic patriarchal church based principally in Egypt and in communion with Rome."
+id: coptic-catholic-church
+title: Coptic Catholic Church
+cluster: Abrahamic
+color: '#d88f43'
+era_start: 1741 CE
+epistemic_tier: academic_consensus
+summary: >-
+  An Alexandrian-rite Eastern Catholic patriarchal church based principally in
+  Egypt and in communion with Rome.
 canonical_texts:
-  - "Bible"
-  - "Liturgy of Saint Basil"
-  - "Coptic liturgical books"
+  - Bible
+  - Liturgy of Saint Basil
+  - Coptic liturgical books
 relations:
-  - target: "eastern-catholic-churches"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "coptic-orthodoxy"
-    type: "diverged_from"
-    certainty: "academic_consensus"
+  - target: eastern-catholic-churches
+    type: branch_of
+    certainty: academic_consensus
+  - target: coptic-orthodoxy
+    type: diverged_from
+    certainty: academic_consensus
+origin_year: 1741
+origin_geo:
+  lat: 41.9275
+  lng: 12.8113
+  place_name: 'Rome, Latium, Italy'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Catholic missions and changing communities in Ottoman
+    Egypt led Rome to establish an apostolic vicariate for Coptic Catholics in
+    1741. A Catholic patriarchate o...
+  - >-
+    Distinctive Practice: The Coptic Catholic Church is a patriarchal *sui
+    iuris* church that celebrates the Alexandrian Coptic rite while accepting
+    communion with the bishop of Rome. It...
+  - >-
+    Core Orientation: An Alexandrian-rite Eastern Catholic patriarchal church
+    based principally in Egypt and in communion with Rome.
+sources:
+  - title: 'Encyclopaedia Britannica: "Coptic Catholic Church"'
+    url: 'https://www.britannica.com/topic/coptic-catholic-church'
+  - title: 'Oxford Reference: Overview of Coptic Catholic Church'
+    url: 'https://www.oxfordreference.com/search?q=Coptic%20Catholic%20Church'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Coptic Catholic
+      Church
+    url: 'https://www.cambridge.org/core/search?q=Coptic%20Catholic%20Church'
+artifacts:
+  - title: Saint Peter's Papal Basilica & Piazza
+    url: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
+    provenance: 'Vatican City, Rome'
+    period: 1506–1626 CE (Renaissance / Baroque)
+    description: >-
+      The Renaissance and Baroque episcopal center of the Roman Catholic Church,
+      designed by Michelangelo and Bernini.
+  - title: Codex Vaticanus Greek Bible Manuscript
+    url: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
+    provenance: Vatican Library Collection
+    period: c. 4th century CE
+    description: >-
+      One of the earliest extant uncial manuscripts of the Greek Old and New
+      Testaments.
 ---
 
 # Coptic Catholic Church

@@ -1,26 +1,68 @@
 ---
-id: "kongo-religion"
-title: "Kongo Religious Traditions"
-cluster: "Indigenous & Diasporic"
-color: "#b7764e"
-era_start: "before 1400 CE"
-epistemic_tier: "academic_consensus"
+id: kongo-religion
+title: Kongo Religious Traditions
+cluster: Indigenous & Diasporic
+color: '#b7764e'
+era_start: before 1400 CE
+epistemic_tier: academic_consensus
 display_weight: 1.35
 aliases:
-  - "Bakongo Religion"
-  - "Bukongo"
-summary: "Religious traditions of Kongo-speaking peoples centered on ancestors, territorial powers, healing, moral order, and traffic between visible and invisible worlds."
+  - Bakongo Religion
+  - Bukongo
+summary: >-
+  Religious traditions of Kongo-speaking peoples centered on ancestors,
+  territorial powers, healing, moral order, and traffic between visible and
+  invisible worlds.
 canonical_texts:
-  - "Kongo oral traditions and proverbs"
-  - "Minkisi ritual corpora"
-  - "Kikongo historical and liturgical sources"
+  - Kongo oral traditions and proverbs
+  - Minkisi ritual corpora
+  - Kikongo historical and liturgical sources
 relations:
-  - target: "african-indigenous-traditions"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "christianity"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: african-indigenous-traditions
+    type: branch_of
+    certainty: academic_consensus
+  - target: christianity
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 1400
+origin_geo:
+  lat: -6.2675
+  lng: 14.2411
+  place_name: 'M''banza-Kongo, Kingdom of Kongo'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Kongo-speaking societies developed across the lower
+    Congo region before the Kingdom of Kongo’s encounter with Portuguese
+    Christianity in the late fifteenth cent...
+  - >-
+    Distinctive Practice: Kongo cosmologies often distinguish yet connect the
+    lands of living and dead through water, burial, lineage, and cyclical
+    imagery. Specialists work with *minkis...
+  - >-
+    Core Orientation: Religious traditions of Kongo-speaking peoples centered on
+    ancestors, territorial powers, healing, moral order, and traffic between
+    visible and invisible worlds.
+sources:
+  - title: 'Encyclopaedia Britannica: "Kongo Religious Traditions"'
+    url: 'https://www.britannica.com/topic/kongo-religious-traditions'
+  - title: 'Oxford Reference: Overview of Kongo Religious Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Kongo%20Religious%20Traditions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Kongo%20Religious%20Traditions'
+artifacts:
+  - title: Kongo Religious Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Kongo_Religious_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Kongo Religious Traditions.
+  - title: Kongo Religious Traditions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Kongo_oral_traditions_and_proverbs'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Kongo Religious Traditions

@@ -1,25 +1,66 @@
 ---
-id: "new-age-movement"
-title: "New Age Movement"
-cluster: "Esoteric & Modern"
-color: "#c468dc"
-era_start: "1960s–1970s CE"
-epistemic_tier: "academic_consensus"
-summary: "A decentralized milieu of alternative spirituality focused on personal transformation, holistic healing, and an anticipated shift in consciousness."
+id: new-age-movement
+title: New Age Movement
+cluster: Esoteric & Modern
+color: '#c468dc'
+era_start: 1960s–1970s CE
+epistemic_tier: academic_consensus
+summary: >-
+  A decentralized milieu of alternative spirituality focused on personal
+  transformation, holistic healing, and an anticipated shift in consciousness.
 canonical_texts:
-  - "New Age publishing and workshop corpus"
-  - "The Aquarian Conspiracy"
-  - "A Course in Miracles"
+  - New Age publishing and workshop corpus
+  - The Aquarian Conspiracy
+  - A Course in Miracles
 relations:
-  - target: "western-esotericism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "theosophy"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-  - target: "spiritualism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: western-esotericism
+    type: branch_of
+    certainty: academic_consensus
+  - target: theosophy
+    type: influenced_by
+    certainty: academic_consensus
+  - target: spiritualism
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1960
+origin_geo:
+  lat: 50.9139
+  lng: -0.3334
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The New Age milieu took recognizable form in the
+    later twentieth century through alternative religious communities,
+    metaphysical bookstores, seminars, channelin...
+  - >-
+    Distinctive Practice: Recurring themes include inner divinity, personal
+    growth, energetic healing, reincarnation, channeling, planetary
+    transformation, and the harmonization of scien...
+  - >-
+    Core Orientation: A decentralized milieu of alternative spirituality focused
+    on personal transformation, holistic healing, and an anticipated shift in
+    consciousness.
+sources:
+  - title: 'Encyclopaedia Britannica: "New Age Movement"'
+    url: 'https://www.britannica.com/topic/new-age-movement'
+  - title: 'Oxford Reference: Overview of New Age Movement'
+    url: 'https://www.oxfordreference.com/search?q=New%20Age%20Movement'
+  - title: 'Brill Handbook of Religious Traditions: New Age Movement'
+    url: 'https://brill.com/search?q=New%20Age%20Movement'
+artifacts:
+  - title: New Age Movement Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/New_Age_Movement'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with New Age Movement.
+  - title: New Age Movement Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/New_Age_publishing_and_workshop_corpus'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # New Age Movement

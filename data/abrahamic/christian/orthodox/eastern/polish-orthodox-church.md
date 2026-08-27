@@ -1,22 +1,68 @@
 ---
-id: "polish-orthodox-church"
-title: "Polish Autocephalous Orthodox Church"
-cluster: "Abrahamic"
-color: "#3a82bf"
-era_start: "1924 CE"
-epistemic_tier: "academic_consensus"
-summary: "An autocephalous Eastern Orthodox church serving Orthodox communities in Poland and maintaining Byzantine-Slavic traditions."
+id: polish-orthodox-church
+title: Polish Autocephalous Orthodox Church
+cluster: Abrahamic
+color: '#3a82bf'
+era_start: 1924 CE
+epistemic_tier: academic_consensus
+summary: >-
+  An autocephalous Eastern Orthodox church serving Orthodox communities in
+  Poland and maintaining Byzantine-Slavic traditions.
 canonical_texts:
-  - "Bible"
-  - "Nicene-Constantinopolitan Creed"
-  - "Divine Liturgy of Saint John Chrysostom"
+  - Bible
+  - Nicene-Constantinopolitan Creed
+  - Divine Liturgy of Saint John Chrysostom
 relations:
-  - target: "eastern-orthodoxy"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "russian-orthodox-church"
-    type: "diverged_from"
-    certainty: "academic_consensus"
+  - target: eastern-orthodoxy
+    type: branch_of
+    certainty: academic_consensus
+  - target: russian-orthodox-church
+    type: diverged_from
+    certainty: academic_consensus
+origin_year: 1924
+origin_geo:
+  lat: 32.3502
+  lng: 35.9471
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: After an independent Polish state reappeared
+    following the First World War, Orthodox dioceses formerly linked to the
+    Russian church sought a new canonical settl...
+  - >-
+    Distinctive Practice: The metropolitan of Warsaw presides over a synodal
+    church that worships mainly in Church Slavonic and Polish, with Belarusian,
+    Ukrainian, and other local identi...
+  - >-
+    Core Orientation: An autocephalous Eastern Orthodox church serving Orthodox
+    communities in Poland and maintaining Byzantine-Slavic traditions.
+sources:
+  - title: 'Encyclopaedia Britannica: "Polish Autocephalous Orthodox Church"'
+    url: 'https://www.britannica.com/topic/polish-autocephalous-orthodox-church'
+  - title: 'Oxford Reference: Overview of Polish Autocephalous Orthodox Church'
+    url: >-
+      https://www.oxfordreference.com/search?q=Polish%20Autocephalous%20Orthodox%20Church
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Polish
+      Autocephalous Orthodox Church
+    url: >-
+      https://www.cambridge.org/core/search?q=Polish%20Autocephalous%20Orthodox%20Church
+artifacts:
+  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
+    url: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
+    provenance: Constantinople (Istanbul)
+    period: 537 CE (Byzantine Empire)
+    description: >-
+      Monumental domed cathedral of the Byzantine Empire and historical mother
+      church of Eastern Orthodoxy.
+  - title: Sinai Christ Pantocrator Encaustic Icon
+    url: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
+    provenance: 'Saint Catherine''s Monastery, Sinai'
+    period: c. 6th century CE
+    description: >-
+      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
+      embodying dual divine and human natures.
 ---
 
 # Polish Autocephalous Orthodox Church

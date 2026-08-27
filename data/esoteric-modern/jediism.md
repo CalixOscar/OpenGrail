@@ -1,29 +1,71 @@
 ---
-id: "jediism"
-title: "Jediism"
-cluster: "Esoteric & Modern"
-color: "#a66ad0"
+id: jediism
+title: Jediism
+cluster: Esoteric & Modern
+color: '#a66ad0'
 display_weight: 1.15
-era_start: "late 20th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A decentralized set of spiritual and ethical movements adapting Jedi imagery and the Force from Star Wars into lived practice."
+era_start: late 20th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A decentralized set of spiritual and ethical movements adapting Jedi imagery
+  and the Force from Star Wars into lived practice.
 aliases:
-  - "Jedi religion"
-  - "Jedi Realism"
+  - Jedi religion
+  - Jedi Realism
 canonical_texts:
-  - "Star Wars films and related media"
-  - "Jedi codes"
-  - "Temple of the Jedi Order doctrine"
+  - Star Wars films and related media
+  - Jedi codes
+  - Temple of the Jedi Order doctrine
 relations:
-  - target: "parody-fiction-religions"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "buddhism"
-    type: "influenced_by"
-    certainty: "minority_scholarly"
-  - target: "daoism"
-    type: "influenced_by"
-    certainty: "minority_scholarly"
+  - target: parody-fiction-religions
+    type: branch_of
+    certainty: academic_consensus
+  - target: buddhism
+    type: influenced_by
+    certainty: minority_scholarly
+  - target: daoism
+    type: influenced_by
+    certainty: minority_scholarly
+origin_year: 1950
+origin_geo:
+  lat: 50.9743
+  lng: -0.1628
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Jedi identification appeared among fans and online
+    communities in the late twentieth century, then gained visibility through
+    religion responses in several natio...
+  - >-
+    Distinctive Practice: Jediists commonly interpret the Force as a spiritual,
+    ethical, psychological, or metaphorical principle and cultivate service,
+    self-discipline, and emotional ba...
+  - >-
+    Core Orientation: A decentralized set of spiritual and ethical movements
+    adapting Jedi imagery and the Force from Star Wars into lived practice.
+sources:
+  - title: 'Encyclopaedia Britannica: "Jediism"'
+    url: 'https://www.britannica.com/topic/jediism'
+  - title: 'Oxford Reference: Overview of Jediism'
+    url: 'https://www.oxfordreference.com/search?q=Jediism'
+  - title: 'Brill Handbook of Religious Traditions: Jediism'
+    url: 'https://brill.com/search?q=Jediism'
+artifacts:
+  - title: Ceremonial Lightsaber Props & Jedi Codes
+    url: 'https://en.wikipedia.org/wiki/Jediism'
+    provenance: Global Contemporary Movement
+    period: Late 20th century CE to present
+    description: >-
+      Symbolic ceremonial meditation props and ethical precepts adapted from
+      mythic space opera into lived new religious practice.
+  - title: Temple of the Jedi Order Dokuments & Doctrine
+    url: 'https://en.wikipedia.org/wiki/Temple_of_the_Jedi_Order'
+    provenance: Online & Worldwide Communities
+    period: 2005 CE - Present
+    description: >-
+      Foundational institutional charter and 16 Teachings establishing Jedi
+      spiritual philosophy.
 ---
 
 # Jediism

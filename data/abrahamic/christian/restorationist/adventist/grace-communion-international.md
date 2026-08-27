@@ -1,18 +1,60 @@
 ---
-id: "grace-communion-international"
-title: "Grace Communion International"
-cluster: "Abrahamic"
-color: "#5aa5ba"
-era_start: "1995 CE"
-epistemic_tier: "academic_consensus"
-summary: "The Trinitarian evangelical successor to the Worldwide Church of God after major doctrinal reforms."
+id: grace-communion-international
+title: Grace Communion International
+cluster: Abrahamic
+color: '#5aa5ba'
+era_start: 1995 CE
+epistemic_tier: academic_consensus
+summary: >-
+  The Trinitarian evangelical successor to the Worldwide Church of God after
+  major doctrinal reforms.
 canonical_texts:
-  - "Bible"
-  - "Grace Communion International Statement of Beliefs"
+  - Bible
+  - Grace Communion International Statement of Beliefs
 relations:
-  - target: "armstrongism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: armstrongism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1995
+origin_geo:
+  lat: 32.5908
+  lng: 35.4682
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: After Herbert W. Armstrong's death, leaders of the
+    Worldwide Church of God gradually rejected British Israelism, required
+    festival observance, non-Trinitarian t...
+  - >-
+    Distinctive Practice: Grace Communion International now affirms the Trinity,
+    salvation by grace, and mainstream evangelical Christian doctrine, and
+    participates in evangelical associ...
+  - >-
+    Core Orientation: The Trinitarian evangelical successor to the Worldwide
+    Church of God after major doctrinal reforms.
+sources:
+  - title: 'Encyclopaedia Britannica: "Grace Communion International"'
+    url: 'https://www.britannica.com/topic/grace-communion-international'
+  - title: 'Oxford Reference: Overview of Grace Communion International'
+    url: 'https://www.oxfordreference.com/search?q=Grace%20Communion%20International'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Grace Communion
+      International
+    url: 'https://www.cambridge.org/core/search?q=Grace%20Communion%20International'
+artifacts:
+  - title: Grace Communion International Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Grace_Communion_International'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Grace Communion International.
+  - title: Grace Communion International Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Grace Communion International

@@ -1,23 +1,64 @@
 ---
-id: "eastern-orthodoxy"
-title: "Eastern Orthodoxy"
-cluster: "Abrahamic"
-color: "#5aa7e8"
+id: eastern-orthodoxy
+title: Eastern Orthodoxy
+cluster: Abrahamic
+color: '#5aa7e8'
 display_weight: 1.9
-era_start: "c. 1st century CE"
-epistemic_tier: "academic_consensus"
-summary: "A communion of self-governing churches shaped by Byzantine Christianity and the first seven ecumenical councils."
+era_start: c. 1st century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A communion of self-governing churches shaped by Byzantine Christianity and
+  the first seven ecumenical councils.
 canonical_texts:
-  - "Bible"
-  - "Nicene-Constantinopolitan Creed"
-  - "Divine Liturgy of Saint John Chrysostom"
+  - Bible
+  - Nicene-Constantinopolitan Creed
+  - Divine Liturgy of Saint John Chrysostom
 relations:
-  - target: "christianity"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "catholicism"
-    type: "schism"
-    certainty: "academic_consensus"
+  - target: christianity
+    type: branch_of
+    certainty: academic_consensus
+  - target: catholicism
+    type: schism
+    certainty: academic_consensus
+origin_year: 50
+origin_geo:
+  lat: 31.038
+  lng: 34.9087
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Theosis (Deification): Salvation understood as transformative participation
+    in the uncreated energies of God through ascetic and liturgical life.
+  - >-
+    Holy Tradition & Ecumenical Councils: Inviolable adherence to the seven
+    ecumenical councils and consensus of the Church Fathers without papal
+    supremacy.
+  - >-
+    Mystical Liturgy: Eucharistic celebration uniting the earthly church with
+    the heavenly hierarchy in timeless cosmic worship.
+sources:
+  - title: 'Encyclopaedia Britannica: "Eastern Orthodoxy"'
+    url: 'https://www.britannica.com/topic/eastern-orthodoxy'
+  - title: 'Oxford Reference: Overview of Eastern Orthodoxy'
+    url: 'https://www.oxfordreference.com/search?q=Eastern%20Orthodoxy'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Eastern Orthodoxy'
+    url: 'https://www.cambridge.org/core/search?q=Eastern%20Orthodoxy'
+artifacts:
+  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
+    url: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
+    provenance: Constantinople (Istanbul)
+    period: 537 CE (Byzantine Empire)
+    description: >-
+      Monumental domed cathedral of the Byzantine Empire and historical mother
+      church of Eastern Orthodoxy.
+  - title: Sinai Christ Pantocrator Encaustic Icon
+    url: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
+    provenance: 'Saint Catherine''s Monastery, Sinai'
+    period: c. 6th century CE
+    description: >-
+      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
+      embodying dual divine and human natures.
 ---
 
 # Eastern Orthodoxy

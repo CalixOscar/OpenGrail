@@ -1,19 +1,63 @@
 ---
-id: "armenian-apostolic-church"
-title: "Armenian Apostolic Church"
-cluster: "Abrahamic"
-color: "#48b7bf"
-era_start: "c. 4th century CE"
-epistemic_tier: "academic_consensus"
-summary: "The national church of historic Armenia and a major member of the Oriental Orthodox communion."
+id: armenian-apostolic-church
+title: Armenian Apostolic Church
+cluster: Abrahamic
+color: '#48b7bf'
+era_start: c. 4th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  The national church of historic Armenia and a major member of the Oriental
+  Orthodox communion.
 canonical_texts:
-  - "Armenian Bible"
-  - "Book of Lamentations"
-  - "Divine Liturgy of Saint Gregory"
+  - Armenian Bible
+  - Book of Lamentations
+  - Divine Liturgy of Saint Gregory
 relations:
-  - target: "oriental-orthodoxy"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: oriental-orthodoxy
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 350
+origin_geo:
+  lat: 31.9174
+  lng: 35.7074
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Armenian tradition associates national conversion
+    with Gregory the Illuminator and King Tiridates in the early fourth century.
+    The creation of the Armenian alph...
+  - >-
+    Distinctive Practice: The Armenian rite combines ancient local developments
+    with Syriac, Cappadocian, and later Latin contacts. The church receives the
+    first three ecumenical council...
+  - >-
+    Core Orientation: The national church of historic Armenia and a major member
+    of the Oriental Orthodox communion.
+sources:
+  - title: 'Encyclopaedia Britannica: "Armenian Apostolic Church"'
+    url: 'https://www.britannica.com/topic/armenian-apostolic-church'
+  - title: 'Oxford Reference: Overview of Armenian Apostolic Church'
+    url: 'https://www.oxfordreference.com/search?q=Armenian%20Apostolic%20Church'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Armenian Apostolic
+      Church
+    url: 'https://www.cambridge.org/core/search?q=Armenian%20Apostolic%20Church'
+artifacts:
+  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
+    url: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
+    provenance: Constantinople (Istanbul)
+    period: 537 CE (Byzantine Empire)
+    description: >-
+      Monumental domed cathedral of the Byzantine Empire and historical mother
+      church of Eastern Orthodoxy.
+  - title: Sinai Christ Pantocrator Encaustic Icon
+    url: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
+    provenance: 'Saint Catherine''s Monastery, Sinai'
+    period: c. 6th century CE
+    description: >-
+      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
+      embodying dual divine and human natures.
 ---
 
 # Armenian Apostolic Church

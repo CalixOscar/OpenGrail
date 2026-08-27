@@ -1,25 +1,64 @@
 ---
-id: "neo-confucianism"
-title: "Neo-Confucianism"
-cluster: "East Asian"
-color: "#4fc08a"
-era_start: "c. 11th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A major East Asian renewal of Confucian learning that developed systematic accounts of moral cultivation, principle, and cosmic order."
+id: neo-confucianism
+title: Neo-Confucianism
+cluster: East Asian
+color: '#4fc08a'
+era_start: c. 11th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A major East Asian renewal of Confucian learning that developed systematic
+  accounts of moral cultivation, principle, and cosmic order.
 canonical_texts:
-  - "Four Books"
-  - "Zhu Xi's commentaries"
-  - "Works of Cheng Yi and Cheng Hao"
+  - Four Books
+  - Zhu Xi's commentaries
+  - Works of Cheng Yi and Cheng Hao
 relations:
-  - target: "confucianism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "buddhism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-  - target: "daoism"
-    type: "influenced_by"
-    certainty: "minority_scholarly"
+  - target: confucianism
+    type: branch_of
+    certainty: academic_consensus
+  - target: buddhism
+    type: influenced_by
+    certainty: academic_consensus
+  - target: daoism
+    type: influenced_by
+    certainty: minority_scholarly
+origin_year: 1050
+origin_geo:
+  lat: 36.0236
+  lng: 117.0033
+  place_name: 'Qufu, Shandong, China'
+extinct_year: null
+key_tenets:
+  - >-
+    Ren (Benevolence) & Li (Ritual Propriety): Cultivation of supreme humaneness
+    through respectful observance of social roles and moral etiquette.
+  - >-
+    Five Cardinal Relationships: Ethical harmony structured through reciprocal
+    duties between ruler-subject, parent-child, spouse, siblings, and friends.
+  - >-
+    Self-Cultivation & Junzi: Lifelong moral education aiming to become an
+    exemplary person of integrity dedicated to public good and family piety
+    (Xiao).
+sources:
+  - title: 'Encyclopaedia Britannica: "Neo-Confucianism"'
+    url: 'https://www.britannica.com/topic/neo-confucianism'
+  - title: 'Oxford Reference: Overview of Neo-Confucianism'
+    url: 'https://www.oxfordreference.com/search?q=Neo-Confucianism'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: 'https://plato.stanford.edu/search/searcher.py?query=Neo-Confucianism'
+artifacts:
+  - title: Wudang Mountain Sacred Golden Hall Complex
+    url: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
+    provenance: 'Hubei, China'
+    period: 1416 CE
+    description: >-
+      Imperial architectural shrine of Daoist alchemy and philosophical
+      meditation.
+  - title: Mawangdui Silk Laozi Manuscripts
+    url: 'https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts'
+    provenance: 'Changsha, Hunan, China'
+    period: c. 168 BCE (Han Dynasty)
+    description: Ancient silk manuscripts preserving early versions of the Daodejing.
 ---
 
 # Neo-Confucianism

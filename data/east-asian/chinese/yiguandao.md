@@ -1,28 +1,69 @@
 ---
-id: "yiguandao"
-title: "Yiguandao"
-cluster: "East Asian"
-color: "#5acb8d"
-era_start: "early 20th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A Chinese salvationist religion teaching a universal Way, revelatory succession, moral cultivation, and return to the primordial mother."
+id: yiguandao
+title: Yiguandao
+cluster: East Asian
+color: '#5acb8d'
+era_start: early 20th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Chinese salvationist religion teaching a universal Way, revelatory
+  succession, moral cultivation, and return to the primordial mother.
 canonical_texts:
-  - "Yiguandao revealed texts"
-  - "Spirit-written morality books"
-  - "Ritual instruction corpus"
+  - Yiguandao revealed texts
+  - Spirit-written morality books
+  - Ritual instruction corpus
 relations:
-  - target: "xiantiandao"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "buddhism"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
-  - target: "daoism"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
-  - target: "confucianism"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: xiantiandao
+    type: branch_of
+    certainty: academic_consensus
+  - target: buddhism
+    type: syncretized_with
+    certainty: academic_consensus
+  - target: daoism
+    type: syncretized_with
+    certainty: academic_consensus
+  - target: confucianism
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 1950
+origin_geo:
+  lat: 32.0603
+  lng: 118.7969
+  place_name: 'Nanjing, Jiangsu, China'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Yiguandao developed from Chinese popular sectarian
+    and salvationist networks and expanded rapidly under Zhang Tianran and Sun
+    Suzhen during the Republican era. ...
+  - >-
+    Distinctive Practice: Teachings center on the Unborn or Eternal Mother, a
+    final age of cosmic crisis, initiation into the Dao, vegetarian ethics,
+    ancestor care, and missionary merit....
+  - >-
+    Core Orientation: A Chinese salvationist religion teaching a universal Way,
+    revelatory succession, moral cultivation, and return to the primordial
+    mother.
+sources:
+  - title: 'Encyclopaedia Britannica: "Yiguandao"'
+    url: 'https://www.britannica.com/topic/yiguandao'
+  - title: 'Oxford Reference: Overview of Yiguandao'
+    url: 'https://www.oxfordreference.com/search?q=Yiguandao'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: 'https://plato.stanford.edu/search/searcher.py?query=Yiguandao'
+artifacts:
+  - title: Wudang Mountain Sacred Golden Hall Complex
+    url: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
+    provenance: 'Hubei, China'
+    period: 1416 CE
+    description: >-
+      Imperial architectural shrine of Daoist alchemy and philosophical
+      meditation.
+  - title: Mawangdui Silk Laozi Manuscripts
+    url: 'https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts'
+    provenance: 'Changsha, Hunan, China'
+    period: c. 168 BCE (Han Dynasty)
+    description: Ancient silk manuscripts preserving early versions of the Daodejing.
 ---
 
 # Yiguandao

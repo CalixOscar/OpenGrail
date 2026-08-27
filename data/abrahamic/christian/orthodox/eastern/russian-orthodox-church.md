@@ -1,22 +1,66 @@
 ---
-id: "russian-orthodox-church"
-title: "Russian Orthodox Church"
-cluster: "Abrahamic"
-color: "#58a9e6"
-era_start: "988 CE"
-epistemic_tier: "academic_consensus"
-summary: "A major autocephalous Eastern Orthodox church shaped by the Christianization of Rus’ and centered in the Moscow Patriarchate."
+id: russian-orthodox-church
+title: Russian Orthodox Church
+cluster: Abrahamic
+color: '#58a9e6'
+era_start: 988 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A major autocephalous Eastern Orthodox church shaped by the Christianization
+  of Rus’ and centered in the Moscow Patriarchate.
 canonical_texts:
-  - "Bible"
-  - "Nicene-Constantinopolitan Creed"
-  - "Divine Liturgy of Saint John Chrysostom"
+  - Bible
+  - Nicene-Constantinopolitan Creed
+  - Divine Liturgy of Saint John Chrysostom
 relations:
-  - target: "eastern-orthodoxy"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "ecumenical-patriarchate-constantinople"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: eastern-orthodoxy
+    type: branch_of
+    certainty: academic_consensus
+  - target: ecumenical-patriarchate-constantinople
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 988
+origin_geo:
+  lat: 32.4753
+  lng: 35.773
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The baptism of Prince Vladimir and the
+    Christianization of Kyivan Rus’ in 988 linked the region to Byzantine
+    Christianity. Ecclesiastical leadership eventually ...
+  - >-
+    Distinctive Practice: The Moscow Patriarchate is one autocephalous church
+    within Eastern Orthodoxy, using Church Slavonic and vernacular languages in
+    Byzantine worship. Its claimed c...
+  - >-
+    Core Orientation: A major autocephalous Eastern Orthodox church shaped by
+    the Christianization of Rus’ and centered in the Moscow Patriarchate.
+sources:
+  - title: 'Encyclopaedia Britannica: "Russian Orthodox Church"'
+    url: 'https://www.britannica.com/topic/russian-orthodox-church'
+  - title: 'Oxford Reference: Overview of Russian Orthodox Church'
+    url: 'https://www.oxfordreference.com/search?q=Russian%20Orthodox%20Church'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Russian Orthodox
+      Church
+    url: 'https://www.cambridge.org/core/search?q=Russian%20Orthodox%20Church'
+artifacts:
+  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
+    url: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
+    provenance: Constantinople (Istanbul)
+    period: 537 CE (Byzantine Empire)
+    description: >-
+      Monumental domed cathedral of the Byzantine Empire and historical mother
+      church of Eastern Orthodoxy.
+  - title: Sinai Christ Pantocrator Encaustic Icon
+    url: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
+    provenance: 'Saint Catherine''s Monastery, Sinai'
+    period: c. 6th century CE
+    description: >-
+      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
+      embodying dual divine and human natures.
 ---
 
 # Russian Orthodox Church

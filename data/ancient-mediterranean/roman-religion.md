@@ -1,21 +1,61 @@
 ---
-id: "roman-religion"
-title: "Roman Religion"
-cluster: "Ancient Mediterranean"
-color: "#9d83eb"
-era_start: "c. 750 BCE"
-epistemic_tier: "academic_consensus"
-summary: "The civic, domestic, military, and imperial cults of Rome and the wider Roman world."
+id: roman-religion
+title: Roman Religion
+cluster: Ancient Mediterranean
+color: '#9d83eb'
+era_start: c. 750 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  The civic, domestic, military, and imperial cults of Rome and the wider Roman
+  world.
 canonical_texts:
-  - "Roman ritual calendars"
-  - "Sibylline tradition"
-  - "Ovid's Fasti"
-  - "Priestly and dedicatory inscriptions"
+  - Roman ritual calendars
+  - Sibylline tradition
+  - Ovid's Fasti
+  - Priestly and dedicatory inscriptions
 relations:
-  - target: "ancient-greek-religion"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-    citation: "Mary Beard, John North, and Simon Price, Religions of Rome (1998)"
+  - target: ancient-greek-religion
+    type: influenced_by
+    certainty: academic_consensus
+    citation: 'Mary Beard, John North, and Simon Price, Religions of Rome (1998)'
+origin_year: -750
+origin_geo:
+  lat: 38.2541
+  lng: 23.2776
+  place_name: 'Athens, Attica, Greece'
+extinct_year: 395
+key_tenets:
+  - >-
+    Foundational Doctrine: Roman religion developed through household rites,
+    neighborhood associations, civic priesthoods, military practice, and
+    relationships with communities across Ita...
+  - >-
+    Distinctive Practice: Correct performance, vows, auspices, sacrifice,
+    festival calendars, and negotiated peace with the gods mattered more than
+    assent to a universal creed. Lares, Pe...
+  - >-
+    Core Orientation: The civic, domestic, military, and imperial cults of Rome
+    and the wider Roman world.
+sources:
+  - title: 'Encyclopaedia Britannica: "Roman Religion"'
+    url: 'https://www.britannica.com/topic/roman-religion'
+  - title: 'Oxford Reference: Overview of Roman Religion'
+    url: 'https://www.oxfordreference.com/search?q=Roman%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Roman Religion'
+    url: 'https://brill.com/search?q=Roman%20Religion'
+artifacts:
+  - title: Roman Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Roman_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Roman Religion.
+  - title: Roman Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Roman_ritual_calendars'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Roman Religion

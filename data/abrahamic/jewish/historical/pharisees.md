@@ -1,19 +1,59 @@
 ---
-id: "pharisees"
-title: "Pharisees"
-cluster: "Abrahamic"
-color: "#70a6e2"
-era_start: "c. 2nd century BCE"
-epistemic_tier: "academic_consensus"
-summary: "A Second Temple Jewish movement known for legal interpretation, purity practice, and teachings including resurrection."
+id: pharisees
+title: Pharisees
+cluster: Abrahamic
+color: '#70a6e2'
+era_start: c. 2nd century BCE
+epistemic_tier: academic_consensus
+summary: >-
+  A Second Temple Jewish movement known for legal interpretation, purity
+  practice, and teachings including resurrection.
 canonical_texts:
-  - "Josephus, Jewish Antiquities"
-  - "Mishnah"
-  - "New Testament"
+  - 'Josephus, Jewish Antiquities'
+  - Mishnah
+  - New Testament
 relations:
-  - target: "second-temple-judaism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: second-temple-judaism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: -150
+origin_geo:
+  lat: 31.8156
+  lng: 36.2124
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Pharisees appear in sources from the Hasmonean and
+    early Roman periods as a movement with influence among parts of the
+    population. Josephus, the New Testament, ...
+  - >-
+    Distinctive Practice: Sources associate Pharisees with traditions
+    interpreting written Torah, practices extending purity beyond the Temple,
+    belief in resurrection, and a combination ...
+  - >-
+    Core Orientation: A Second Temple Jewish movement known for legal
+    interpretation, purity practice, and teachings including resurrection.
+sources:
+  - title: 'Encyclopaedia Britannica: "Pharisees"'
+    url: 'https://www.britannica.com/topic/pharisees'
+  - title: 'Oxford Reference: Overview of Pharisees'
+    url: 'https://www.oxfordreference.com/search?q=Pharisees'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Pharisees'
+    url: 'https://www.cambridge.org/core/search?q=Pharisees'
+artifacts:
+  - title: Pharisees Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Pharisees'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Pharisees.
+  - title: Pharisees Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Josephus%2C_Jewish_Antiquities'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Pharisees

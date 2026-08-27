@@ -1,24 +1,66 @@
 ---
-id: "mithraism"
-title: "Roman Mithraism"
-cluster: "Ancient Mediterranean"
-color: "#9673cf"
-era_start: "late 1st century CE"
-epistemic_tier: "academic_consensus"
-summary: "An initiatory cult of Mithras attested in small sanctuaries across the Roman Empire."
+id: mithraism
+title: Roman Mithraism
+cluster: Ancient Mediterranean
+color: '#9673cf'
+era_start: late 1st century CE
+epistemic_tier: academic_consensus
+summary: >-
+  An initiatory cult of Mithras attested in small sanctuaries across the Roman
+  Empire.
 canonical_texts:
-  - "Mithraic inscriptions"
-  - "Tauroctony iconographic corpus"
-  - "Ritual remains from mithraea"
+  - Mithraic inscriptions
+  - Tauroctony iconographic corpus
+  - Ritual remains from mithraea
 relations:
-  - target: "roman-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-    citation: "Roger Beck, The Religion of the Mithras Cult in the Roman Empire (2006)"
-  - target: "zoroastrianism"
-    type: "parallel_concept"
-    certainty: "minority_scholarly"
-    citation: "Manfred Clauss, The Roman Cult of Mithras (2000)"
+  - target: roman-religion
+    type: branch_of
+    certainty: academic_consensus
+    citation: 'Roger Beck, The Religion of the Mithras Cult in the Roman Empire (2006)'
+  - target: zoroastrianism
+    type: parallel_concept
+    certainty: minority_scholarly
+    citation: 'Manfred Clauss, The Roman Cult of Mithras (2000)'
+origin_year: 50
+origin_geo:
+  lat: 38.3332
+  lng: 23.7271
+  place_name: 'Athens, Attica, Greece'
+extinct_year: 400
+key_tenets:
+  - >-
+    Foundational Doctrine: Roman Mithraism appears archaeologically from the
+    late first century CE in purpose-built or adapted *mithraea*. Membership was
+    especially visible among soldiers...
+  - >-
+    Distinctive Practice: Initiatory grades, communal banquets, cosmic imagery,
+    and small male associations distinguished the cult within Roman religious
+    life. The name Mithras is relate...
+  - >-
+    Core Orientation: An initiatory cult of Mithras attested in small
+    sanctuaries across the Roman Empire.
+sources:
+  - title: 'Encyclopaedia Britannica: "Roman Mithraism"'
+    url: 'https://www.britannica.com/topic/roman-mithraism'
+  - title: 'Oxford Reference: Overview of Roman Mithraism'
+    url: 'https://www.oxfordreference.com/search?q=Roman%20Mithraism'
+  - title: 'Brill Handbook of Religious Traditions: Roman Mithraism'
+    url: 'https://brill.com/search?q=Roman%20Mithraism'
+artifacts:
+  - title: Persepolis Faravahar Bas-Relief
+    url: 'https://en.wikipedia.org/wiki/Faravahar'
+    provenance: 'Persepolis, Ancient Persia'
+    period: c. 515 BCE (Achaemenid Empire)
+    description: >-
+      Carved winged symbol of Good Thoughts, Good Words, and Good Deeds (Humata,
+      Hukhta, Hvarshta).
+  - title: Yazd Atash Behram Fire Temple
+    url: 'https://en.wikipedia.org/wiki/Yazd_Atash_Behram'
+    provenance: 'Yazd, Iran'
+    period: Fire burning continuously since 470 CE
+    description: >-
+      Sacred fire sanctuary housing the consecrated Atash Behram (Victorious
+      Fire) as symbol of divine Asha (Truth).
 ---
 
 # Roman Mithraism

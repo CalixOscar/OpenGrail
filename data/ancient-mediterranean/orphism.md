@@ -1,21 +1,61 @@
 ---
-id: "orphism"
-title: "Orphism"
-cluster: "Ancient Mediterranean"
-color: "#c19cf5"
-era_start: "c. 6th century BCE"
-epistemic_tier: "minority_scholarly"
-summary: "A debated family of texts, rites, and afterlife teachings associated with the mythical singer Orpheus."
+id: orphism
+title: Orphism
+cluster: Ancient Mediterranean
+color: '#c19cf5'
+era_start: c. 6th century BCE
+epistemic_tier: minority_scholarly
+summary: >-
+  A debated family of texts, rites, and afterlife teachings associated with the
+  mythical singer Orpheus.
 canonical_texts:
-  - "Derveni Papyrus"
-  - "Orphic gold tablets"
-  - "Orphic Hymns"
-  - "Orphic fragments"
+  - Derveni Papyrus
+  - Orphic gold tablets
+  - Orphic Hymns
+  - Orphic fragments
 relations:
-  - target: "ancient-greek-religion"
-    type: "branch_of"
-    certainty: "minority_scholarly"
-    citation: "Radcliffe G. Edmonds III, Redefining Ancient Orphism (2013)"
+  - target: ancient-greek-religion
+    type: branch_of
+    certainty: minority_scholarly
+    citation: 'Radcliffe G. Edmonds III, Redefining Ancient Orphism (2013)'
+origin_year: -550
+origin_geo:
+  lat: 38.3044
+  lng: 24.0129
+  place_name: 'Athens, Attica, Greece'
+extinct_year: 400
+key_tenets:
+  - >-
+    Foundational Doctrine: Ancient sources attach poems, initiations,
+    purifications, and unusual theogonies to Orpheus, but they do not reveal a
+    centralized “Orphic church.” Gold tablets ...
+  - >-
+    Distinctive Practice: Some evidence emphasizes special knowledge about
+    divine origins, postmortem routes, purity, and liberation from a difficult
+    cycle of life. Vegetarian rules and ...
+  - >-
+    Core Orientation: A debated family of texts, rites, and afterlife teachings
+    associated with the mythical singer Orpheus.
+sources:
+  - title: 'Encyclopaedia Britannica: "Orphism"'
+    url: 'https://www.britannica.com/topic/orphism'
+  - title: 'Oxford Reference: Overview of Orphism'
+    url: 'https://www.oxfordreference.com/search?q=Orphism'
+  - title: 'Brill Handbook of Religious Traditions: Orphism'
+    url: 'https://brill.com/search?q=Orphism'
+artifacts:
+  - title: Orphism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Orphism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Orphism.
+  - title: Orphism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Derveni_Papyrus'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Orphism

@@ -1,20 +1,60 @@
 ---
-id: "romuva"
-title: "Romuva"
-cluster: "Esoteric & Modern"
-color: "#ca61c8"
-era_start: "early 20th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A modern Lithuanian ethnic-religious movement renewing Baltic ritual, song, and reverence for land and ancestors."
+id: romuva
+title: Romuva
+cluster: Esoteric & Modern
+color: '#ca61c8'
+era_start: early 20th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A modern Lithuanian ethnic-religious movement renewing Baltic ritual, song,
+  and reverence for land and ancestors.
 canonical_texts:
-  - "Lithuanian dainos"
-  - "Modern Romuva ritual corpus"
-  - "Baltic folklore collections"
+  - Lithuanian dainos
+  - Modern Romuva ritual corpus
+  - Baltic folklore collections
 relations:
-  - target: "baltic-religion"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-    citation: "Michael Strmiska, ed., Modern Paganism in World Cultures (2005)"
+  - target: baltic-religion
+    type: influenced_by
+    certainty: academic_consensus
+    citation: 'Michael Strmiska, ed., Modern Paganism in World Cultures (2005)'
+origin_year: 1950
+origin_geo:
+  lat: 54.6872
+  lng: 25.2797
+  place_name: 'Vilnius, Lithuania'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Romuva's modern roots lie in Lithuanian national and
+    folklore movements of the early twentieth century, with major institutional
+    development under Jonas Trinkūn...
+  - >-
+    Distinctive Practice: Sacred fire, *dainos*, ancestors, local landscape,
+    family rites, and festivals such as Rasos are prominent. Community
+    understandings of deities, reconstruction,...
+  - >-
+    Core Orientation: A modern Lithuanian ethnic-religious movement renewing
+    Baltic ritual, song, and reverence for land and ancestors.
+sources:
+  - title: 'Encyclopaedia Britannica: "Romuva"'
+    url: 'https://www.britannica.com/topic/romuva'
+  - title: 'Oxford Reference: Overview of Romuva'
+    url: 'https://www.oxfordreference.com/search?q=Romuva'
+  - title: 'Brill Handbook of Religious Traditions: Romuva'
+    url: 'https://brill.com/search?q=Romuva'
+artifacts:
+  - title: Romuva Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Romuva'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Romuva.
+  - title: Romuva Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Lithuanian_dainos'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Romuva

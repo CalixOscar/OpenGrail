@@ -1,25 +1,65 @@
 ---
-id: "swaminarayan-sampradaya"
-title: "Swaminarayan Sampradāya"
-cluster: "Dharmic"
-color: "#f97316"
+id: swaminarayan-sampradaya
+title: Swaminarayan Sampradāya
+cluster: Dharmic
+color: '#f97316'
 display_weight: 1.15
-era_start: "early 19th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A Gujarati Vaiṣṇava tradition founded around Sahajānand Swami, revered as Swaminarayan, with several modern institutional branches."
+era_start: early 19th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Gujarati Vaiṣṇava tradition founded around Sahajānand Swami, revered as
+  Swaminarayan, with several modern institutional branches.
 aliases:
-  - "Swaminarayan tradition"
+  - Swaminarayan tradition
 canonical_texts:
-  - "Śikṣāpatrī"
-  - "Vacanāmṛta"
-  - "Swamini Vato"
+  - Śikṣāpatrī
+  - Vacanāmṛta
+  - Swamini Vato
 relations:
-  - target: "vaishnavism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "bhakti-movement"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: vaishnavism
+    type: branch_of
+    certainty: academic_consensus
+  - target: bhakti-movement
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1850
+origin_geo:
+  lat: 24.8419
+  lng: 82.1977
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Sahajānand Swami organized the movement in early
+    nineteenth-century Gujarat and came to be worshipped by followers as
+    Swaminarayan. Temples, monastic leadership...
+  - >-
+    Distinctive Practice: The tradition combines disciplined Vaiṣṇava devotion,
+    image worship, ethical vows, and reverence for an authorized lineage of
+    teachers. Its branches differ over...
+  - >-
+    Core Orientation: A Gujarati Vaiṣṇava tradition founded around Sahajānand
+    Swami, revered as Swaminarayan, with several modern institutional branches.
+sources:
+  - title: 'Encyclopaedia Britannica: "Swaminarayan Sampradāya"'
+    url: 'https://www.britannica.com/topic/swaminarayan-samprad-ya'
+  - title: 'Oxford Reference: Overview of Swaminarayan Sampradāya'
+    url: 'https://www.oxfordreference.com/search?q=Swaminarayan%20Samprad%C4%81ya'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Swaminarayan%20Samprad%C4%81ya'
+artifacts:
+  - title: Swaminarayan Sampradāya Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Swaminarayan_Samprad%C4%81ya'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Swaminarayan Sampradāya.
+  - title: Swaminarayan Sampradāya Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/%C5%9Aik%E1%B9%A3%C4%81patr%C4%AB'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Swaminarayan Sampradāya

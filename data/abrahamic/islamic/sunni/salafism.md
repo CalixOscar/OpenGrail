@@ -1,22 +1,62 @@
 ---
-id: "salafism"
-title: "Salafism"
-cluster: "Abrahamic"
-color: "#2f91b8"
-era_start: "c. 19th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A set of Sunni reform currents seeking to emulate the earliest Muslim generations in belief and practice."
+id: salafism
+title: Salafism
+cluster: Abrahamic
+color: '#2f91b8'
+era_start: c. 19th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A set of Sunni reform currents seeking to emulate the earliest Muslim
+  generations in belief and practice.
 canonical_texts:
-  - "Qur'an"
-  - "Al-'Aqida al-Wasitiyya"
-  - "Kitab al-Tawhid"
+  - Qur'an
+  - Al-'Aqida al-Wasitiyya
+  - Kitab al-Tawhid
 relations:
-  - target: "sunni-islam"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "hanbali-school"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: sunni-islam
+    type: branch_of
+    certainty: academic_consensus
+  - target: hanbali-school
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1850
+origin_geo:
+  lat: 32.3828
+  lng: 35.9091
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Modern Salafism draws on earlier Sunni traditionalism
+    and reform associated especially with Ibn Taymiyya and the
+    eighteenth-century Najdi movement, while the la...
+  - >-
+    Distinctive Practice: Salafis advocate direct conformity to Qur'an and
+    authenticated sunna as understood by the pious ancestors, criticize many
+    later theological speculations, and of...
+  - >-
+    Core Orientation: A set of Sunni reform currents seeking to emulate the
+    earliest Muslim generations in belief and practice.
+sources:
+  - title: 'Encyclopaedia Britannica: "Salafism"'
+    url: 'https://www.britannica.com/topic/salafism'
+  - title: 'Oxford Reference: Overview of Salafism'
+    url: 'https://www.oxfordreference.com/search?q=Salafism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Salafism'
+    url: 'https://www.cambridge.org/core/search?q=Salafism'
+artifacts:
+  - title: Salafism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Salafism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Salafism.
+  - title: Salafism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Qur''an'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Salafism

@@ -29,8 +29,25 @@ export const RELATION_TYPES = [
 
 export type RelationType = (typeof RELATION_TYPES)[number];
 
+/** Canonical relation types for synchronized atlas views. */
+export const CANONICAL_RELATION_TYPES = [
+  'direct_branch',
+  'schism',
+  'thematic_parallel',
+] as const;
+
+export type CanonicalRelationType = (typeof CANONICAL_RELATION_TYPES)[number];
+
+export type EdgeStyle = 'solid' | 'dotted';
+
 export type GraphNodeId = string;
 export type ClusterName = string;
+
+export interface OriginGeo {
+  lat: number;
+  lng: number;
+  place_name: string;
+}
 
 export interface EpistemicTierOption {
   value: EpistemicTier;
@@ -45,6 +62,8 @@ export interface RelationTypeOption {
   label: string;
   color: string;
   description: string;
+  canonicalType?: CanonicalRelationType;
+  style?: EdgeStyle;
 }
 
 export const EPISTEMIC_TIER_OPTIONS = [
@@ -84,42 +103,56 @@ export const RELATION_TYPE_OPTIONS = [
     label: 'Branch of',
     color: '#7dd3fc',
     description: 'A denomination, school, sect, or regional branch within a broader tradition.',
+    canonicalType: 'direct_branch',
+    style: 'solid',
   },
   {
     value: 'diverged_from',
     label: 'Diverged from',
     color: '#61a8ff',
     description: 'A historical lineage split or development.',
+    canonicalType: 'schism',
+    style: 'solid',
   },
   {
     value: 'influenced_by',
     label: 'Influenced by',
     color: '#f2c45e',
     description: 'An evidenced directional influence.',
+    canonicalType: 'thematic_parallel',
+    style: 'dotted',
   },
   {
     value: 'syncretized_with',
     label: 'Syncretized with',
     color: '#66ddb1',
     description: 'Traditions or practices blended through contact.',
+    canonicalType: 'thematic_parallel',
+    style: 'dotted',
   },
   {
     value: 'parallel_concept',
     label: 'Parallel concept',
     color: '#a88bff',
     description: 'A useful conceptual parallel without asserting lineage.',
+    canonicalType: 'thematic_parallel',
+    style: 'dotted',
   },
   {
     value: 'fringe_reinterpretation',
     label: 'Fringe reinterpretation',
     color: '#ff668c',
     description: 'A speculative reinterpretation of another tradition.',
+    canonicalType: 'thematic_parallel',
+    style: 'dotted',
   },
   {
     value: 'schism',
     label: 'Schism',
     color: '#ff8a5c',
     description: 'A historically identified internal break or schism.',
+    canonicalType: 'schism',
+    style: 'solid',
   },
 ] as const satisfies readonly RelationTypeOption[];
 
@@ -129,6 +162,11 @@ export interface RelationRef {
   title: string;
   type: RelationType;
   certainty: EpistemicTier;
+  relation_type?: CanonicalRelationType;
+  relationType?: CanonicalRelationType;
+  epistemic_tier?: EpistemicTier;
+  epistemicTier?: EpistemicTier;
+  style?: EdgeStyle;
   citation?: string;
 }
 
@@ -138,6 +176,16 @@ export interface Backlinks {
 }
 
 /** The normalized representation of one Markdown document. */
+export interface TraditionArtifact {
+  title: string;
+  url?: string;
+  imageUrl?: string;
+  image_url?: string;
+  provenance?: string;
+  period?: string;
+  description?: string;
+}
+
 export interface GraphNode {
   id: GraphNodeId;
   title: string;
@@ -150,6 +198,22 @@ export interface GraphNode {
   summary: string;
   aliases: string[];
   canonicalTexts: string[];
+  key_tenets?: string[];
+  keyTenets?: string[];
+  sources?: Array<string | { title: string; url?: string }>;
+  artifacts?: TraditionArtifact[];
+  origin_year?: number;
+  originYear?: number;
+  origin_geo?: OriginGeo;
+  originGeo?: OriginGeo;
+  extinct_year?: number | null;
+  extinctYear?: number | null;
+  origin_year_precision?: string;
+  originYearPrecision?: string;
+  origin_geo_precision?: string;
+  originGeoPrecision?: string;
+  origin_note?: string;
+  originNote?: string;
   content: string;
   sourcePath: string;
   backlinks: Backlinks;
@@ -168,6 +232,11 @@ export interface GraphLink {
   target: GraphNodeId;
   type: RelationType;
   certainty: EpistemicTier;
+  relation_type?: CanonicalRelationType;
+  relationType?: CanonicalRelationType;
+  epistemic_tier?: EpistemicTier;
+  epistemicTier?: EpistemicTier;
+  style?: EdgeStyle;
   citation?: string;
 }
 
@@ -223,7 +292,7 @@ export function scoreGraphNodeSearch(node: GraphNode, query: string): number {
 
   const title = normalizeSearchValue(node.title);
   const id = normalizeSearchValue(node.id);
-  const aliases = node.aliases.map(normalizeSearchValue);
+  const aliases = (node.aliases ?? []).map(normalizeSearchValue);
   const primaryValues = [title, id, ...aliases];
 
   if (primaryValues.includes(normalizedQuery)) return 100;
@@ -243,7 +312,7 @@ export function scoreGraphNodeSearch(node: GraphNode, query: string): number {
 
   if (normalizeSearchValue(node.cluster).includes(normalizedQuery)) return 35;
   const descriptiveText = normalizeSearchValue(
-    [node.summary, ...node.canonicalTexts].join(' '),
+    [node.summary, ...(node.canonicalTexts ?? [])].join(' '),
   );
   return descriptiveText.includes(normalizedQuery) ? 15 : 0;
 }
@@ -255,7 +324,15 @@ export function isRelationType(value: unknown): value is RelationType {
   );
 }
 
+export function isCanonicalRelationType(value: unknown): value is CanonicalRelationType {
+  return (
+    typeof value === 'string' &&
+    (CANONICAL_RELATION_TYPES as readonly string[]).includes(value)
+  );
+}
+
 export function formatTaxonomyLabel(value: string): string {
   const normalized = value.replaceAll('_', ' ');
   return normalized.charAt(0).toUpperCase() + normalized.slice(1);
 }
+

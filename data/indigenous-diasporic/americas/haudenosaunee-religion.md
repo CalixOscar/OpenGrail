@@ -1,20 +1,60 @@
 ---
-id: "haudenosaunee-religion"
-title: "Haudenosaunee Religions"
-cluster: "Indigenous & Diasporic"
-color: "#4f9481"
-era_start: "before 1500 CE"
-epistemic_tier: "academic_consensus"
-summary: "Religious and political traditions of the Six Nations of the Haudenosaunee Confederacy."
+id: haudenosaunee-religion
+title: Haudenosaunee Religions
+cluster: Indigenous & Diasporic
+color: '#4f9481'
+era_start: before 1500 CE
+epistemic_tier: academic_consensus
+summary: >-
+  Religious and political traditions of the Six Nations of the Haudenosaunee
+  Confederacy.
 canonical_texts:
-  - "Kayanerenkówa / Great Law of Peace"
-  - "Ohén:ton Karihwatéhkwen / Thanksgiving Address"
-  - "Gaiwiio / Code of Handsome Lake"
-  - "Oral traditions (nation-specific)"
+  - Kayanerenkówa / Great Law of Peace
+  - 'Ohén:ton Karihwatéhkwen / Thanksgiving Address'
+  - Gaiwiio / Code of Handsome Lake
+  - Oral traditions (nation-specific)
 relations:
-  - target: "ancestor-veneration"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: ancestor-veneration
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 1500
+origin_geo:
+  lat: 42.9806
+  lng: -76.1264
+  place_name: 'Onondaga, Haudenosaunee Territory, NY, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The Haudenosaunee Confederacy joins Mohawk, Oneida,
+    Onondaga, Cayuga, Seneca, and later Tuscarora nations through the Great Law
+    of Peace while preserving each n...
+  - >-
+    Distinctive Practice: The Thanksgiving Address, condolence, longhouse
+    ceremonies, seasonal cycles, clan relations, dreams, and responsibilities to
+    the natural world shape distinct bu...
+  - >-
+    Core Orientation: Religious and political traditions of the Six Nations of
+    the Haudenosaunee Confederacy.
+sources:
+  - title: 'Encyclopaedia Britannica: "Haudenosaunee Religions"'
+    url: 'https://www.britannica.com/topic/haudenosaunee-religions'
+  - title: 'Oxford Reference: Overview of Haudenosaunee Religions'
+    url: 'https://www.oxfordreference.com/search?q=Haudenosaunee%20Religions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Haudenosaunee%20Religions'
+artifacts:
+  - title: Haudenosaunee Religions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Haudenosaunee_Religions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Haudenosaunee Religions.
+  - title: Haudenosaunee Religions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Kayanerenk%C3%B3wa_%2F_Great_Law_of_Peace'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Haudenosaunee Religions

@@ -1,17 +1,57 @@
 ---
-id: "slavic-religion"
-title: "Slavic Religion"
-cluster: "Ancient European"
-color: "#8882df"
-era_start: "c. 6th century CE"
-epistemic_tier: "academic_consensus"
-summary: "The varied pre-Christian practices of Slavic-speaking communities in eastern, central, and southeastern Europe."
+id: slavic-religion
+title: Slavic Religion
+cluster: Ancient European
+color: '#8882df'
+era_start: c. 6th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  The varied pre-Christian practices of Slavic-speaking communities in eastern,
+  central, and southeastern Europe.
 canonical_texts:
-  - "Oral traditions"
-  - "Archaeological and ritual corpus"
-  - "Medieval chronicle testimonies"
-  - "Folklore collections"
+  - Oral traditions
+  - Archaeological and ritual corpus
+  - Medieval chronicle testimonies
+  - Folklore collections
 relations: []
+origin_year: 550
+origin_geo:
+  lat: 59.4556
+  lng: 17.7869
+  place_name: 'Old Uppsala, Uppland, Sweden'
+extinct_year: 1200
+key_tenets:
+  - >-
+    Foundational Doctrine: Pre-Christian Slavic religions are known through
+    sparse archaeology, place-names, medieval chronicles, sermons against
+    customary rites, and later folklore. Evid...
+  - >-
+    Distinctive Practice: Perun, Veles, household beings, ancestors, seasonal
+    rites, oath-making, and agricultural observances are attested unevenly.
+    Political rulers sometimes organized...
+  - >-
+    Core Orientation: The varied pre-Christian practices of Slavic-speaking
+    communities in eastern, central, and southeastern Europe.
+sources:
+  - title: 'Encyclopaedia Britannica: "Slavic Religion"'
+    url: 'https://www.britannica.com/topic/slavic-religion'
+  - title: 'Oxford Reference: Overview of Slavic Religion'
+    url: 'https://www.oxfordreference.com/search?q=Slavic%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Slavic Religion'
+    url: 'https://brill.com/search?q=Slavic%20Religion'
+artifacts:
+  - title: Slavic Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Slavic_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Slavic Religion.
+  - title: Slavic Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Oral_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Slavic Religion

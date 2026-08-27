@@ -1,20 +1,62 @@
 ---
-id: "oriental-orthodoxy"
-title: "Oriental Orthodoxy"
-cluster: "Abrahamic"
-color: "#43b8c7"
+id: oriental-orthodoxy
+title: Oriental Orthodoxy
+cluster: Abrahamic
+color: '#43b8c7'
 display_weight: 1.65
-era_start: "451 CE"
-epistemic_tier: "academic_consensus"
-summary: "A communion of ancient churches that receive the first three ecumenical councils and follow miaphysite Christology."
+era_start: 451 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A communion of ancient churches that receive the first three ecumenical
+  councils and follow miaphysite Christology.
 canonical_texts:
-  - "Bible"
-  - "Nicene-Constantinopolitan Creed"
-  - "Liturgy of Saint Basil"
+  - Bible
+  - Nicene-Constantinopolitan Creed
+  - Liturgy of Saint Basil
 relations:
-  - target: "christianity"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: christianity
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 451
+origin_geo:
+  lat: 32.0568
+  lng: 34.2703
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Oriental Orthodox churches rejected or did not
+    receive the Council of Chalcedon's 451 formula and developed enduring
+    communities in Egypt, Syria, Armenia, Ethio...
+  - >-
+    Distinctive Practice: These churches describe Christ as one incarnate nature
+    of the divine Word, a position called miaphysite rather than the polemical
+    label “monophysite.” They pres...
+  - >-
+    Core Orientation: A communion of ancient churches that receive the first
+    three ecumenical councils and follow miaphysite Christology.
+sources:
+  - title: 'Encyclopaedia Britannica: "Oriental Orthodoxy"'
+    url: 'https://www.britannica.com/topic/oriental-orthodoxy'
+  - title: 'Oxford Reference: Overview of Oriental Orthodoxy'
+    url: 'https://www.oxfordreference.com/search?q=Oriental%20Orthodoxy'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Oriental Orthodoxy'
+    url: 'https://www.cambridge.org/core/search?q=Oriental%20Orthodoxy'
+artifacts:
+  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
+    url: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
+    provenance: Constantinople (Istanbul)
+    period: 537 CE (Byzantine Empire)
+    description: >-
+      Monumental domed cathedral of the Byzantine Empire and historical mother
+      church of Eastern Orthodoxy.
+  - title: Sinai Christ Pantocrator Encaustic Icon
+    url: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
+    provenance: 'Saint Catherine''s Monastery, Sinai'
+    period: c. 6th century CE
+    description: >-
+      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
+      embodying dual divine and human natures.
 ---
 
 # Oriental Orthodoxy

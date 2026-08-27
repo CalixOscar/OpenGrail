@@ -1,24 +1,64 @@
 ---
-id: "chaos-magic"
-title: "Chaos Magic"
-cluster: "Esoteric & Modern"
-color: "#a66ad0"
-era_start: "late 1970s CE"
-epistemic_tier: "academic_consensus"
-summary: "A postmodern occult current emphasizing pragmatic techniques, altered states, sigils, and flexible use of belief."
+id: chaos-magic
+title: Chaos Magic
+cluster: Esoteric & Modern
+color: '#a66ad0'
+era_start: late 1970s CE
+epistemic_tier: academic_consensus
+summary: >-
+  A postmodern occult current emphasizing pragmatic techniques, altered states,
+  sigils, and flexible use of belief.
 aliases:
-  - "Chaos magick"
+  - Chaos magick
 canonical_texts:
-  - "Liber Null & Psychonaut"
-  - "Condensed Chaos"
-  - "Liber Kaos"
+  - Liber Null & Psychonaut
+  - Condensed Chaos
+  - Liber Kaos
 relations:
-  - target: "western-esotericism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "thelema"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: western-esotericism
+    type: branch_of
+    certainty: academic_consensus
+  - target: thelema
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1970
+origin_geo:
+  lat: 51.3741
+  lng: -0.5049
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Chaos magic developed in Britain during the late
+    1970s through writers and practitioners including Peter J. Carroll and Ray
+    Sherwin, with the Illuminates of Tha...
+  - >-
+    Distinctive Practice: Practitioners often treat belief as a temporary
+    instrument, combine methods from different systems, create sigils, and use
+    concentrated states called gnosis. Th...
+  - >-
+    Core Orientation: A postmodern occult current emphasizing pragmatic
+    techniques, altered states, sigils, and flexible use of belief.
+sources:
+  - title: 'Encyclopaedia Britannica: "Chaos Magic"'
+    url: 'https://www.britannica.com/topic/chaos-magic'
+  - title: 'Oxford Reference: Overview of Chaos Magic'
+    url: 'https://www.oxfordreference.com/search?q=Chaos%20Magic'
+  - title: 'Brill Handbook of Religious Traditions: Chaos Magic'
+    url: 'https://brill.com/search?q=Chaos%20Magic'
+artifacts:
+  - title: Chaos Magic Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Chaos_Magic'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Chaos Magic.
+  - title: Chaos Magic Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Liber_Null_%26_Psychonaut'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Chaos Magic

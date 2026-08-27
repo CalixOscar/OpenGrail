@@ -1,22 +1,64 @@
 ---
-id: "thien"
-title: "Thiền Buddhism"
-cluster: "Dharmic"
-color: "#f09a3e"
-era_start: "c. 6th century CE"
-epistemic_tier: "academic_consensus"
-summary: "Vietnamese forms of Chan Buddhism combining meditation lineages with devotional, ritual, and socially engaged practice."
+id: thien
+title: Thiền Buddhism
+cluster: Dharmic
+color: '#f09a3e'
+era_start: c. 6th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  Vietnamese forms of Chan Buddhism combining meditation lineages with
+  devotional, ritual, and socially engaged practice.
 canonical_texts:
-  - "Thiền uyển tập anh"
-  - "Platform Sūtra"
-  - "Trúc Lâm writings"
+  - Thiền uyển tập anh
+  - Platform Sūtra
+  - Trúc Lâm writings
 relations:
-  - target: "chan"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "vietnamese-folk-religion"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: chan
+    type: branch_of
+    certainty: academic_consensus
+  - target: vietnamese-folk-religion
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 550
+origin_geo:
+  lat: 26.057
+  lng: 82.5071
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Vietnamese chronicles describe several meditation
+    lineages arriving through Chinese and Indian-connected routes. The Trúc Lâm
+    school gained royal support under ...
+  - >-
+    Distinctive Practice: Thiền values meditative insight and teacher
+    transmission but is rarely isolated from chanting, merit-making, and
+    devotion to buddhas and bodhisattvas. Modern te...
+  - >-
+    Core Orientation: Vietnamese forms of Chan Buddhism combining meditation
+    lineages with devotional, ritual, and socially engaged practice.
+sources:
+  - title: 'Encyclopaedia Britannica: "Thiền Buddhism"'
+    url: 'https://www.britannica.com/topic/thi-n-buddhism'
+  - title: 'Oxford Reference: Overview of Thiền Buddhism'
+    url: 'https://www.oxfordreference.com/search?q=Thi%E1%BB%81n%20Buddhism'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Thi%E1%BB%81n%20Buddhism'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Thiền Buddhism

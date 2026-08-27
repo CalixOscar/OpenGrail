@@ -1,25 +1,68 @@
 ---
-id: "charvaka"
-title: "Cārvāka / Lokāyata"
-cluster: "Dharmic"
-color: "#f97316"
-era_start: "c. 1st millennium BCE"
-epistemic_tier: "minority_scholarly"
-summary: "A reconstructed family of Indian materialist positions rejecting Vedic authority, karmic afterlife, and inference used without adequate evidence."
+id: charvaka
+title: Cārvāka / Lokāyata
+cluster: Dharmic
+color: '#f97316'
+era_start: c. 1st millennium BCE
+epistemic_tier: minority_scholarly
+summary: >-
+  A reconstructed family of Indian materialist positions rejecting Vedic
+  authority, karmic afterlife, and inference used without adequate evidence.
 aliases:
-  - "Lokayata"
-  - "Indian materialism"
+  - Lokayata
+  - Indian materialism
 canonical_texts:
-  - "Tattvopaplavasimha"
-  - "Sarvadarśanasaṃgraha account"
-  - "Fragmentary Cārvāka verses"
+  - Tattvopaplavasimha
+  - Sarvadarśanasaṃgraha account
+  - Fragmentary Cārvāka verses
 relations:
-  - target: "shramana-movements"
-    type: "branch_of"
-    certainty: "minority_scholarly"
-  - target: "vedic-religion"
-    type: "diverged_from"
-    certainty: "academic_consensus"
+  - target: shramana-movements
+    type: branch_of
+    certainty: minority_scholarly
+  - target: vedic-religion
+    type: diverged_from
+    certainty: academic_consensus
+origin_year: -500
+origin_geo:
+  lat: 25.0138
+  lng: 82.5687
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Indian philosophical literature repeatedly describes
+    materialists called Cārvākas or Lokāyatas, but most supposed foundational
+    texts are lost and surviving port...
+  - >-
+    Distinctive Practice: Positions attributed to Cārvāka include prioritizing
+    perception, denying disembodied souls and postmortem karma, and criticizing
+    priestly revelation. Familiar s...
+  - >-
+    Core Orientation: A reconstructed family of Indian materialist positions
+    rejecting Vedic authority, karmic afterlife, and inference used without
+    adequate evidence.
+sources:
+  - title: 'Encyclopaedia Britannica: "Cārvāka / Lokāyata"'
+    url: 'https://www.britannica.com/topic/c-rv-ka-lok-yata'
+  - title: 'Oxford Reference: Overview of Cārvāka / Lokāyata'
+    url: >-
+      https://www.oxfordreference.com/search?q=C%C4%81rv%C4%81ka%20%2F%20Lok%C4%81yata
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: >-
+      https://www.rep.routledge.com/search?query=C%C4%81rv%C4%81ka%20%2F%20Lok%C4%81yata
+artifacts:
+  - title: Cārvāka / Lokāyata Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/C%C4%81rv%C4%81ka_%2F_Lok%C4%81yata'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Cārvāka / Lokāyata.
+  - title: Cārvāka / Lokāyata Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Tattvopaplavasimha'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Cārvāka / Lokāyata

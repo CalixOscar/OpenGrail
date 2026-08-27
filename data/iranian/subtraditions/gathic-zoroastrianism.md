@@ -1,26 +1,67 @@
 ---
-id: "gathic-zoroastrianism"
-title: "Gathic Zoroastrianism"
-cluster: "Iranian"
-color: "#f5c91b"
-era_start: "c. 1200–600 BCE"
-epistemic_tier: "academic_consensus"
-summary: "A scholarly designation for the earliest recoverable Zoroastrian religious outlook expressed in the Old Avestan Gāthās."
+id: gathic-zoroastrianism
+title: Gathic Zoroastrianism
+cluster: Iranian
+color: '#f5c91b'
+era_start: c. 1200–600 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  A scholarly designation for the earliest recoverable Zoroastrian religious
+  outlook expressed in the Old Avestan Gāthās.
 aliases:
-  - "Gathic tradition"
-  - "Old Avestan religion"
-  - "Zarathustra's Gathas"
+  - Gathic tradition
+  - Old Avestan religion
+  - Zarathustra's Gathas
 canonical_texts:
-  - "Gāthās"
-  - "Yasna Haptanghaiti"
-  - "Old Avestan Yasna"
+  - Gāthās
+  - Yasna Haptanghaiti
+  - Old Avestan Yasna
 relations:
-  - target: "zoroastrianism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "vedic-religion"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: zoroastrianism
+    type: branch_of
+    certainty: academic_consensus
+  - target: vedic-religion
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: -1200
+origin_geo:
+  lat: 32.6588
+  lng: 51.5731
+  place_name: 'Isfahan, Iran'
+extinct_year: null
+key_tenets:
+  - >-
+    Ahura Mazda & Cosmic Dualism: Absolute devotion to the Wise Lord Ahura Mazda
+    in cosmic opposition to Spenta Mainyu against Angra Mainyu.
+  - >-
+    Humata, Hukhta, Hvarshta: The threefold moral triad of Good Thoughts, Good
+    Words, and Good Deeds as active human responsibility.
+  - >-
+    Sacred Fire & Eschatological Renewal: Fire (Atar) as the radiant symbol of
+    divine truth (Asha), anticipating the ultimate cosmic restoration
+    (Frashokereti).
+sources:
+  - title: 'Encyclopaedia Britannica: "Gathic Zoroastrianism"'
+    url: 'https://www.britannica.com/topic/gathic-zoroastrianism'
+  - title: 'Oxford Reference: Overview of Gathic Zoroastrianism'
+    url: 'https://www.oxfordreference.com/search?q=Gathic%20Zoroastrianism'
+  - title: 'Brill Handbook of Religious Traditions: Gathic Zoroastrianism'
+    url: 'https://brill.com/search?q=Gathic%20Zoroastrianism'
+artifacts:
+  - title: Persepolis Faravahar Bas-Relief
+    url: 'https://en.wikipedia.org/wiki/Faravahar'
+    provenance: 'Persepolis, Ancient Persia'
+    period: c. 515 BCE (Achaemenid Empire)
+    description: >-
+      Carved winged symbol of Good Thoughts, Good Words, and Good Deeds (Humata,
+      Hukhta, Hvarshta).
+  - title: Yazd Atash Behram Fire Temple
+    url: 'https://en.wikipedia.org/wiki/Yazd_Atash_Behram'
+    provenance: 'Yazd, Iran'
+    period: Fire burning continuously since 470 CE
+    description: >-
+      Sacred fire sanctuary housing the consecrated Atash Behram (Victorious
+      Fire) as symbol of divine Asha (Truth).
 ---
 
 # Gathic Zoroastrianism

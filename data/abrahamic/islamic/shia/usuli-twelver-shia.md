@@ -1,23 +1,65 @@
 ---
-id: "usuli-twelver-shia"
-title: "Usuli Twelver Shiism"
-cluster: "Abrahamic"
-color: "#73a685"
-era_start: "17th–18th centuries CE"
-epistemic_tier: "academic_consensus"
-summary: "The predominant Twelver Shia legal tradition, authorizing qualified jurists to derive law and serve as guides during the imam's occultation."
+id: usuli-twelver-shia
+title: Usuli Twelver Shiism
+cluster: Abrahamic
+color: '#73a685'
+era_start: 17th–18th centuries CE
+epistemic_tier: academic_consensus
+summary: >-
+  The predominant Twelver Shia legal tradition, authorizing qualified jurists to
+  derive law and serve as guides during the imam's occultation.
 aliases:
-  - "Usulism"
-  - "Usuli School"
+  - Usulism
+  - Usuli School
 display_weight: 1.3
 canonical_texts:
-  - "Quran"
-  - "The Four Books"
-  - "Usuli works on principles of jurisprudence"
+  - Quran
+  - The Four Books
+  - Usuli works on principles of jurisprudence
 relations:
-  - target: "twelver-shia"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: twelver-shia
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1650
+origin_geo:
+  lat: 32.6065
+  lng: 35.381
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Imamate (Divine Leadership): Spiritual and political succession through the
+    divinely designated Ahl al-Bayt starting with Ali ibn Abi Talib.
+  - >-
+    The Mahdi & Occultation: Expectation of the Twelfth Imam who remains in
+    occultation (Ghaybah) and will return to restore global justice.
+  - >-
+    Adalah (Divine Justice) & Ashura: Deep commitment to divine justice and
+    devotion to the martyrdom of Imam Husayn at Karbala.
+sources:
+  - title: 'Encyclopaedia Britannica: "Usuli Twelver Shiism"'
+    url: 'https://www.britannica.com/topic/usuli-twelver-shiism'
+  - title: 'Oxford Reference: Overview of Usuli Twelver Shiism'
+    url: 'https://www.oxfordreference.com/search?q=Usuli%20Twelver%20Shiism'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Usuli Twelver
+      Shiism
+    url: 'https://www.cambridge.org/core/search?q=Usuli%20Twelver%20Shiism'
+artifacts:
+  - title: Dome of the Rock Sacred Umayyad Sanctuary
+    url: 'https://en.wikipedia.org/wiki/Dome_of_the_Rock'
+    provenance: Jerusalem
+    period: 691 CE (Umayyad Caliphate)
+    description: >-
+      Architectural masterpiece of early Islamic octagonal design with classical
+      Kufic Quranic inscriptions.
+  - title: Blue Quran Gold Kufic Manuscript Folio
+    url: 'https://en.wikipedia.org/wiki/Blue_Quran'
+    provenance: Kairouan / Great Mosque
+    period: c. 9th-10th century CE
+    description: >-
+      Indigo-dyed vellum parchment illuminated with gold Kufic script preserving
+      the Holy Quran.
 ---
 
 # Usuli Twelver Shiism

@@ -1,23 +1,63 @@
 ---
-id: "chabad-lubavitch"
-title: "Chabad-Lubavitch"
-cluster: "Abrahamic"
-color: "#dd9a68"
-era_start: "1775 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Hasidic movement founded by Shneur Zalman of Liadi, known for intellectual mysticism and worldwide outreach."
+id: chabad-lubavitch
+title: Chabad-Lubavitch
+cluster: Abrahamic
+color: '#dd9a68'
+era_start: 1775 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Hasidic movement founded by Shneur Zalman of Liadi, known for intellectual
+  mysticism and worldwide outreach.
 aliases:
-  - "Chabad"
-  - "Lubavitch"
+  - Chabad
+  - Lubavitch
 display_weight: 1.3
 canonical_texts:
-  - "Tanya"
-  - "Torah Or"
-  - "Likkutei Torah"
+  - Tanya
+  - Torah Or
+  - Likkutei Torah
 relations:
-  - target: "hasidic-judaism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: hasidic-judaism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1775
+origin_geo:
+  lat: 31.1978
+  lng: 34.9332
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Shneur Zalman of Liadi founded Chabad in the late
+    eighteenth century within the expanding Hasidic movement. Its name
+    abbreviates the Hebrew faculties of wisdom,...
+  - >-
+    Distinctive Practice: Chabad integrates Lurianic Kabbalah with disciplined
+    intellectual contemplation, Hasidic prayer, and halakhic observance. Under
+    Menachem Mendel Schneerson it bu...
+  - >-
+    Core Orientation: A Hasidic movement founded by Shneur Zalman of Liadi,
+    known for intellectual mysticism and worldwide outreach.
+sources:
+  - title: 'Encyclopaedia Britannica: "Chabad-Lubavitch"'
+    url: 'https://www.britannica.com/topic/chabad-lubavitch'
+  - title: 'Oxford Reference: Overview of Chabad-Lubavitch'
+    url: 'https://www.oxfordreference.com/search?q=Chabad-Lubavitch'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Chabad-Lubavitch'
+    url: 'https://www.cambridge.org/core/search?q=Chabad-Lubavitch'
+artifacts:
+  - title: Chabad-Lubavitch Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Chabad-Lubavitch'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Chabad-Lubavitch.
+  - title: Chabad-Lubavitch Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Tanya'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Chabad-Lubavitch

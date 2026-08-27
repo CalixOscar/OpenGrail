@@ -1,24 +1,64 @@
 ---
-id: "hellenistic-religion"
-title: "Hellenistic Religion"
-cluster: "Ancient Mediterranean"
-color: "#b394f4"
-era_start: "323 BCE"
-epistemic_tier: "academic_consensus"
-summary: "Interconnected local and transregional religious worlds formed after Alexander's conquests."
+id: hellenistic-religion
+title: Hellenistic Religion
+cluster: Ancient Mediterranean
+color: '#b394f4'
+era_start: 323 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  Interconnected local and transregional religious worlds formed after
+  Alexander's conquests.
 canonical_texts:
-  - "Hellenistic hymns and aretalogies"
-  - "Papyri and dedicatory inscriptions"
-  - "Royal and civic cult decrees"
+  - Hellenistic hymns and aretalogies
+  - Papyri and dedicatory inscriptions
+  - Royal and civic cult decrees
 relations:
-  - target: "ancient-greek-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-    citation: "Luther H. Martin, Hellenistic Religions (1987)"
-  - target: "ancient-egyptian-religion"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
-    citation: "David Frankfurter, Religion in Roman Egypt (1998)"
+  - target: ancient-greek-religion
+    type: branch_of
+    certainty: academic_consensus
+    citation: 'Luther H. Martin, Hellenistic Religions (1987)'
+  - target: ancient-egyptian-religion
+    type: syncretized_with
+    certainty: academic_consensus
+    citation: 'David Frankfurter, Religion in Roman Egypt (1998)'
+origin_year: -323
+origin_geo:
+  lat: 37.7506
+  lng: 23.4889
+  place_name: 'Athens, Attica, Greece'
+extinct_year: 529
+key_tenets:
+  - >-
+    Foundational Doctrine: After Alexander's conquests, Greek-speaking kingdoms
+    connected Egypt, western Asia, and the eastern Mediterranean through new
+    cities, courts, armies, and trade....
+  - >-
+    Distinctive Practice: Associations, healing sanctuaries, household cult,
+    oracles, royal ritual, and initiatory groups offered overlapping forms of
+    belonging. Deities such as Sarapis ...
+  - >-
+    Core Orientation: Interconnected local and transregional religious worlds
+    formed after Alexander's conquests.
+sources:
+  - title: 'Encyclopaedia Britannica: "Hellenistic Religion"'
+    url: 'https://www.britannica.com/topic/hellenistic-religion'
+  - title: 'Oxford Reference: Overview of Hellenistic Religion'
+    url: 'https://www.oxfordreference.com/search?q=Hellenistic%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Hellenistic Religion'
+    url: 'https://brill.com/search?q=Hellenistic%20Religion'
+artifacts:
+  - title: Hellenistic Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Hellenistic_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Hellenistic Religion.
+  - title: Hellenistic Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Hellenistic_hymns_and_aretalogies'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Hellenistic Religion

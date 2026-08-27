@@ -1,26 +1,66 @@
 ---
-id: "stoicism"
-title: "Stoicism"
-cluster: "Ancient Mediterranean"
-color: "#986cd8"
-era_start: "c. 300 BCE"
-epistemic_tier: "academic_consensus"
-summary: "A Hellenistic philosophical tradition teaching life according to reason and nature within a providentially ordered cosmos."
+id: stoicism
+title: Stoicism
+cluster: Ancient Mediterranean
+color: '#986cd8'
+era_start: c. 300 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  A Hellenistic philosophical tradition teaching life according to reason and
+  nature within a providentially ordered cosmos.
 aliases:
-  - "Stoic philosophy"
-  - "Stoa"
+  - Stoic philosophy
+  - Stoa
 canonical_texts:
-  - "Fragments of the Early Stoics"
-  - "Discourses of Epictetus"
-  - "Letters of Seneca"
-  - "Meditations of Marcus Aurelius"
+  - Fragments of the Early Stoics
+  - Discourses of Epictetus
+  - Letters of Seneca
+  - Meditations of Marcus Aurelius
 relations:
-  - target: "hellenistic-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "roman-religion"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: hellenistic-religion
+    type: branch_of
+    certainty: academic_consensus
+  - target: roman-religion
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: -300
+origin_geo:
+  lat: 37.7122
+  lng: 23.2566
+  place_name: 'Athens, Attica, Greece'
+extinct_year: 400
+key_tenets:
+  - >-
+    Foundational Doctrine: Zeno of Citium taught at the Painted Stoa in Athens
+    around 300 BCE. Cleanthes, Chrysippus, and later Greek and Roman thinkers
+    developed a systematic tradition o...
+  - >-
+    Distinctive Practice: Stoics described a rational, living cosmos pervaded by
+    divine *logos* or pneuma and emphasized virtue, disciplined judgment,
+    providence, and human kinship. They...
+  - >-
+    Core Orientation: A Hellenistic philosophical tradition teaching life
+    according to reason and nature within a providentially ordered cosmos.
+sources:
+  - title: 'Encyclopaedia Britannica: "Stoicism"'
+    url: 'https://www.britannica.com/topic/stoicism'
+  - title: 'Oxford Reference: Overview of Stoicism'
+    url: 'https://www.oxfordreference.com/search?q=Stoicism'
+  - title: 'Brill Handbook of Religious Traditions: Stoicism'
+    url: 'https://brill.com/search?q=Stoicism'
+artifacts:
+  - title: Stoicism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Stoicism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Stoicism.
+  - title: Stoicism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Fragments_of_the_Early_Stoics'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Stoicism

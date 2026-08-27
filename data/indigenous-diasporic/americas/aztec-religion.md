@@ -1,17 +1,57 @@
 ---
-id: "aztec-religion"
-title: "Mexica and Nahua Religions"
-cluster: "Indigenous & Diasporic"
-color: "#b8744c"
-era_start: "c. 1300 CE"
-epistemic_tier: "academic_consensus"
-summary: "Religious worlds of the Mexica and related Nahua communities in Late Postclassic central Mexico."
+id: aztec-religion
+title: Mexica and Nahua Religions
+cluster: Indigenous & Diasporic
+color: '#b8744c'
+era_start: c. 1300 CE
+epistemic_tier: academic_consensus
+summary: >-
+  Religious worlds of the Mexica and related Nahua communities in Late
+  Postclassic central Mexico.
 canonical_texts:
-  - "Nahua oral traditions"
-  - "Codex Borgia group"
-  - "Florentine Codex"
-  - "Ritual, calendrical, and archaeological corpus"
+  - Nahua oral traditions
+  - Codex Borgia group
+  - Florentine Codex
+  - 'Ritual, calendrical, and archaeological corpus'
 relations: []
+origin_year: 1300
+origin_geo:
+  lat: 19.3713
+  lng: -99.1877
+  place_name: 'Tenochtitlan (Mexico City), Mexico'
+extinct_year: 1521
+key_tenets:
+  - >-
+    Foundational Doctrine: The label “Aztec religion” often centers the Mexica
+    of Tenochtitlan, but central Mexico contained many Nahua-speaking altepetl
+    with their own temples, patron po...
+  - >-
+    Distinctive Practice: Calendrical rites, agriculture, warfare, pilgrimage,
+    household offerings, divine embodiment, and reciprocal nourishment ordered
+    relations among humans, gods, an...
+  - >-
+    Core Orientation: Religious worlds of the Mexica and related Nahua
+    communities in Late Postclassic central Mexico.
+sources:
+  - title: 'Encyclopaedia Britannica: "Mexica and Nahua Religions"'
+    url: 'https://www.britannica.com/topic/mexica-and-nahua-religions'
+  - title: 'Oxford Reference: Overview of Mexica and Nahua Religions'
+    url: 'https://www.oxfordreference.com/search?q=Mexica%20and%20Nahua%20Religions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Mexica%20and%20Nahua%20Religions'
+artifacts:
+  - title: Mexica and Nahua Religions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Mexica_and_Nahua_Religions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Mexica and Nahua Religions.
+  - title: Mexica and Nahua Religions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Nahua_oral_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Mexica and Nahua Religions

@@ -1,23 +1,65 @@
 ---
-id: "mahayana"
-title: "Mahāyāna Buddhism"
-cluster: "Dharmic"
-color: "#fb923c"
+id: mahayana
+title: Mahāyāna Buddhism
+cluster: Dharmic
+color: '#fb923c'
 display_weight: 1.85
-era_start: "c. 1st century BCE"
-epistemic_tier: "academic_consensus"
-summary: "A broad Buddhist movement centered on bodhisattva paths, expanding scripture, and diverse philosophies of wisdom and compassion."
+era_start: c. 1st century BCE
+epistemic_tier: academic_consensus
+summary: >-
+  A broad Buddhist movement centered on bodhisattva paths, expanding scripture,
+  and diverse philosophies of wisdom and compassion.
 canonical_texts:
-  - "Prajñāpāramitā sūtras"
-  - "Lotus Sūtra"
-  - "Avataṃsaka Sūtra"
+  - Prajñāpāramitā sūtras
+  - Lotus Sūtra
+  - Avataṃsaka Sūtra
 relations:
-  - target: "buddhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "early-buddhist-schools"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: buddhism
+    type: branch_of
+    certainty: academic_consensus
+  - target: early-buddhist-schools
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: -50
+origin_geo:
+  lat: 24.6869
+  lng: 82.5109
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Mahāyāna texts and communities became visible in
+    India around the beginning of the common era, developing within existing
+    monasteries rather than immediately fo...
+  - >-
+    Distinctive Practice: The bodhisattva vow joins liberation with commitment
+    to all beings. Emptiness, skillful means, buddha-fields, compassion, and
+    multiple celestial buddhas receive...
+  - >-
+    Core Orientation: A broad Buddhist movement centered on bodhisattva paths,
+    expanding scripture, and diverse philosophies of wisdom and compassion.
+sources:
+  - title: 'Encyclopaedia Britannica: "Mahāyāna Buddhism"'
+    url: 'https://www.britannica.com/topic/mah-y-na-buddhism'
+  - title: 'Oxford Reference: Overview of Mahāyāna Buddhism'
+    url: 'https://www.oxfordreference.com/search?q=Mah%C4%81y%C4%81na%20Buddhism'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Mah%C4%81y%C4%81na%20Buddhism'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Mahāyāna Buddhism

@@ -1,22 +1,68 @@
 ---
-id: "eritrean-orthodox-tewahedo-church"
-title: "Eritrean Orthodox Tewahedo Church"
-cluster: "Abrahamic"
-color: "#42b3c5"
-era_start: "1993 CE"
-epistemic_tier: "academic_consensus"
-summary: "An autocephalous Oriental Orthodox church in the Eritrean Tewahedo tradition, recognized after Eritrean independence."
+id: eritrean-orthodox-tewahedo-church
+title: Eritrean Orthodox Tewahedo Church
+cluster: Abrahamic
+color: '#42b3c5'
+era_start: 1993 CE
+epistemic_tier: academic_consensus
+summary: >-
+  An autocephalous Oriental Orthodox church in the Eritrean Tewahedo tradition,
+  recognized after Eritrean independence.
 canonical_texts:
-  - "Bible in the Ge'ez tradition"
-  - "Liturgy of the Apostles"
-  - "Ge'ez liturgical books"
+  - Bible in the Ge'ez tradition
+  - Liturgy of the Apostles
+  - Ge'ez liturgical books
 relations:
-  - target: "oriental-orthodoxy"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "ethiopian-orthodoxy"
-    type: "diverged_from"
-    certainty: "academic_consensus"
+  - target: oriental-orthodoxy
+    type: branch_of
+    certainty: academic_consensus
+  - target: ethiopian-orthodoxy
+    type: diverged_from
+    certainty: academic_consensus
+origin_year: 1993
+origin_geo:
+  lat: 32.557
+  lng: 35.3815
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Eritrean Orthodox communities share the ancient
+    Aksumite Christian inheritance historically administered within the
+    Ethiopian Orthodox Tewahedo Church. Followin...
+  - >-
+    Distinctive Practice: The church belongs to Oriental Orthodoxy and uses the
+    Alexandrian-derived Ge’ez rite, with fasting, sacred dance, chant,
+    monasticism, and devotion to the *tabot...
+  - >-
+    Core Orientation: An autocephalous Oriental Orthodox church in the Eritrean
+    Tewahedo tradition, recognized after Eritrean independence.
+sources:
+  - title: 'Encyclopaedia Britannica: "Eritrean Orthodox Tewahedo Church"'
+    url: 'https://www.britannica.com/topic/eritrean-orthodox-tewahedo-church'
+  - title: 'Oxford Reference: Overview of Eritrean Orthodox Tewahedo Church'
+    url: >-
+      https://www.oxfordreference.com/search?q=Eritrean%20Orthodox%20Tewahedo%20Church
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Eritrean Orthodox
+      Tewahedo Church
+    url: >-
+      https://www.cambridge.org/core/search?q=Eritrean%20Orthodox%20Tewahedo%20Church
+artifacts:
+  - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
+    url: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
+    provenance: Constantinople (Istanbul)
+    period: 537 CE (Byzantine Empire)
+    description: >-
+      Monumental domed cathedral of the Byzantine Empire and historical mother
+      church of Eastern Orthodoxy.
+  - title: Sinai Christ Pantocrator Encaustic Icon
+    url: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
+    provenance: 'Saint Catherine''s Monastery, Sinai'
+    period: c. 6th century CE
+    description: >-
+      The oldest known Byzantine encaustic panel icon of Christ Pantocrator
+      embodying dual divine and human natures.
 ---
 
 # Eritrean Orthodox Tewahedo Church

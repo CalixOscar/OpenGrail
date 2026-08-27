@@ -1,21 +1,63 @@
 ---
-id: "judaism"
-title: "Judaism"
-cluster: "Abrahamic"
-color: "#60a5fa"
+id: judaism
+title: Judaism
+cluster: Abrahamic
+color: '#60a5fa'
 display_weight: 2.15
-era_start: "c. 1200–500 BCE"
-epistemic_tier: "academic_consensus"
-summary: "An evolving monotheistic tradition rooted in ancient Israelite religion, covenantal law, textual interpretation, and communal practice."
+era_start: c. 1200–500 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  An evolving monotheistic tradition rooted in ancient Israelite religion,
+  covenantal law, textual interpretation, and communal practice.
 canonical_texts:
-  - "Tanakh (Hebrew Bible)"
-  - "Mishnah"
-  - "Babylonian Talmud"
+  - Tanakh (Hebrew Bible)
+  - Mishnah
+  - Babylonian Talmud
 relations:
-  - target: "zoroastrianism"
-    type: "influenced_by"
-    certainty: "minority_scholarly"
-    citation: "Mary Boyce, Zoroastrians: Their Religious Beliefs and Practices (1979), ch. 5"
+  - target: zoroastrianism
+    type: influenced_by
+    certainty: minority_scholarly
+    citation: >-
+      Mary Boyce, Zoroastrians: Their Religious Beliefs and Practices (1979),
+      ch. 5
+origin_year: -1200
+origin_geo:
+  lat: 31.6944
+  lng: 34.2185
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Covenant & Monotheism: Eternal reciprocal covenant between YHWH and the
+    Jewish people based on the divine command to be a holy nation.
+  - >-
+    Torah (Written and Oral): Comprehensive guidance for life encompassing the
+    Written Torah and Oral Torah (Mishnah and Talmud).
+  - >-
+    Halakha & Mitzvot: Observance of the 613 commandments structuring daily
+    life, ethics, prayer, dietary laws, and Shabbat sanctification.
+sources:
+  - title: 'Encyclopaedia Britannica: "Judaism"'
+    url: 'https://www.britannica.com/topic/judaism'
+  - title: 'Oxford Reference: Overview of Judaism'
+    url: 'https://www.oxfordreference.com/search?q=Judaism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Judaism'
+    url: 'https://www.cambridge.org/core/search?q=Judaism'
+artifacts:
+  - title: Western Wall & Second Temple Foundation
+    url: 'https://en.wikipedia.org/wiki/Western_Wall'
+    provenance: 'Old City, Jerusalem'
+    period: c. 19 BCE (Herodian Era)
+    description: >-
+      The holiest prayer site of Jewish tradition, surviving western retaining
+      wall of the Second Temple complex.
+  - title: Aleppo Codex Masoretic Hebrew Bible Manuscript
+    url: 'https://en.wikipedia.org/wiki/Aleppo_Codex'
+    provenance: Tiberias & Jerusalem
+    period: c. 920 CE
+    description: >-
+      Authoritative parchment manuscript of the Hebrew Bible with Masoretic
+      vocalization and cantillation marks.
 ---
 
 # Judaism

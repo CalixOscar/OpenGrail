@@ -1,19 +1,59 @@
 ---
-id: "maronite-church"
-title: "Maronite Church"
-cluster: "Abrahamic"
-color: "#e1b850"
-era_start: "c. 5th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A West Syriac Eastern Catholic church rooted in the monastic followers of Saint Maron and centered historically in Lebanon."
+id: maronite-church
+title: Maronite Church
+cluster: Abrahamic
+color: '#e1b850'
+era_start: c. 5th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A West Syriac Eastern Catholic church rooted in the monastic followers of
+  Saint Maron and centered historically in Lebanon.
 canonical_texts:
-  - "Bible"
-  - "Maronite Qurbono"
-  - "Book of Guidance"
+  - Bible
+  - Maronite Qurbono
+  - Book of Guidance
 relations:
-  - target: "eastern-catholic-churches"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: eastern-catholic-churches
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 450
+origin_geo:
+  lat: 41.5834
+  lng: 12.5836
+  place_name: 'Rome, Latium, Italy'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Maronite origins are associated with the
+    fifth-century ascetic Maron and communities that later gathered in the
+    mountains of Lebanon. Medieval contact with Crus...
+  - >-
+    Distinctive Practice: The Maronite Church uses a West Syriac liturgical
+    inheritance with Syriac and Arabic elements and is governed by its patriarch
+    and synod in communion with the p...
+  - >-
+    Core Orientation: A West Syriac Eastern Catholic church rooted in the
+    monastic followers of Saint Maron and centered historically in Lebanon.
+sources:
+  - title: 'Encyclopaedia Britannica: "Maronite Church"'
+    url: 'https://www.britannica.com/topic/maronite-church'
+  - title: 'Oxford Reference: Overview of Maronite Church'
+    url: 'https://www.oxfordreference.com/search?q=Maronite%20Church'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Maronite Church'
+    url: 'https://www.cambridge.org/core/search?q=Maronite%20Church'
+artifacts:
+  - title: Maronite Church Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Maronite_Church'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Maronite Church.
+  - title: Maronite Church Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Maronite Church

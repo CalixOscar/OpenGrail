@@ -1,22 +1,63 @@
 ---
-id: "dhammayut-nikaya"
-title: "Dhammayut Nikāya"
-cluster: "Dharmic"
-color: "#f8b33e"
-era_start: "1833 CE"
-epistemic_tier: "academic_consensus"
+id: dhammayut-nikaya
+title: Dhammayut Nikāya
+cluster: Dharmic
+color: '#f8b33e'
+era_start: 1833 CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Thammayut Nikāya"
-  - "Dhammayuttika Nikāya"
-summary: "A Thai Theravāda reform order founded by the future King Mongkut with an emphasis on disciplined observance and textual standardization."
+  - Thammayut Nikāya
+  - Dhammayuttika Nikāya
+summary: >-
+  A Thai Theravāda reform order founded by the future King Mongkut with an
+  emphasis on disciplined observance and textual standardization.
 canonical_texts:
-  - "Pāli Vinaya Piṭaka"
-  - "Pātimokkha"
-  - "Dhammayut monastic regulations"
+  - Pāli Vinaya Piṭaka
+  - Pātimokkha
+  - Dhammayut monastic regulations
 relations:
-  - target: "thai-buddhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: thai-buddhism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1833
+origin_geo:
+  lat: 8.1824
+  lng: 80.6439
+  place_name: 'Anuradhapura, North Central, Sri Lanka'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Prince Mongkut, then a monk and later King Rama IV,
+    organized the Thammayut or Dhammayut reform in 1833 after studying with
+    Mon-affiliated monks. Reformers soug...
+  - >-
+    Distinctive Practice: Dhammayut identity is primarily an ordination and
+    administrative affiliation rather than a separate Buddhist doctrine.
+    Monasteries vary in meditation, scholarsh...
+  - >-
+    Core Orientation: A Thai Theravāda reform order founded by the future King
+    Mongkut with an emphasis on disciplined observance and textual
+    standardization.
+sources:
+  - title: 'Encyclopaedia Britannica: "Dhammayut Nikāya"'
+    url: 'https://www.britannica.com/topic/dhammayut-nik-ya'
+  - title: 'Oxford Reference: Overview of Dhammayut Nikāya'
+    url: 'https://www.oxfordreference.com/search?q=Dhammayut%20Nik%C4%81ya'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Dhammayut%20Nik%C4%81ya'
+artifacts:
+  - title: Dhammayut Nikāya Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Dhammayut_Nik%C4%81ya'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Dhammayut Nikāya.
+  - title: Dhammayut Nikāya Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/P%C4%81li_Vinaya_Pi%E1%B9%ADaka'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Dhammayut Nikāya

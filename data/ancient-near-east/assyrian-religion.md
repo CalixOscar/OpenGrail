@@ -1,20 +1,60 @@
 ---
-id: "assyrian-religion"
-title: "Assyrian Religion"
-cluster: "Ancient Near East"
-color: "#ba8848"
-era_start: "c. 2000 BCE"
-epistemic_tier: "academic_consensus"
-summary: "Northern Mesopotamian religious traditions centered on Aššur and embedded in Assyrian civic and imperial life."
+id: assyrian-religion
+title: Assyrian Religion
+cluster: Ancient Near East
+color: '#ba8848'
+era_start: c. 2000 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  Northern Mesopotamian religious traditions centered on Aššur and embedded in
+  Assyrian civic and imperial life.
 canonical_texts:
-  - "Assyrian royal inscriptions"
-  - "State Archives of Assyria ritual texts"
-  - "Akkadian omen and incantation series"
+  - Assyrian royal inscriptions
+  - State Archives of Assyria ritual texts
+  - Akkadian omen and incantation series
 relations:
-  - target: "akkadian-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-    citation: "Simo Parpola and Robert M. Whiting, Assyria 1995 (1997)"
+  - target: akkadian-religion
+    type: branch_of
+    certainty: academic_consensus
+    citation: 'Simo Parpola and Robert M. Whiting, Assyria 1995 (1997)'
+origin_year: -2000
+origin_geo:
+  lat: 32.7807
+  lng: 44.6775
+  place_name: 'Babylon, Mesopotamia'
+extinct_year: -609
+key_tenets:
+  - >-
+    Foundational Doctrine: Assyrian religious life formed around the city of
+    Aššur and expanded with Old, Middle, and Neo-Assyrian political power. Its
+    archives share much Akkadian schola...
+  - >-
+    Distinctive Practice: Aššur's changing representation, Ishtar's major
+    sanctuaries, prophetic consultation, treaties, divination, purification, and
+    temple service structured state rel...
+  - >-
+    Core Orientation: Northern Mesopotamian religious traditions centered on
+    Aššur and embedded in Assyrian civic and imperial life.
+sources:
+  - title: 'Encyclopaedia Britannica: "Assyrian Religion"'
+    url: 'https://www.britannica.com/topic/assyrian-religion'
+  - title: 'Oxford Reference: Overview of Assyrian Religion'
+    url: 'https://www.oxfordreference.com/search?q=Assyrian%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Assyrian Religion'
+    url: 'https://brill.com/search?q=Assyrian%20Religion'
+artifacts:
+  - title: Assyrian Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Assyrian_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Assyrian Religion.
+  - title: Assyrian Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Assyrian_royal_inscriptions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Assyrian Religion

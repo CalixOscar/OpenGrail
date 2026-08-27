@@ -1,24 +1,66 @@
 ---
-id: "neoplatonism"
-title: "Neoplatonism"
-cluster: "Ancient Mediterranean"
-color: "#bd92f2"
-era_start: "3rd century CE"
-epistemic_tier: "academic_consensus"
-summary: "A modern label for late antique Platonic schools that joined metaphysics, ethics, contemplation, and ritual."
+id: neoplatonism
+title: Neoplatonism
+cluster: Ancient Mediterranean
+color: '#bd92f2'
+era_start: 3rd century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A modern label for late antique Platonic schools that joined metaphysics,
+  ethics, contemplation, and ritual.
 canonical_texts:
-  - "Plotinus's Enneads"
-  - "Iamblichus's On the Mysteries"
-  - "Proclus's Elements of Theology"
+  - Plotinus's Enneads
+  - Iamblichus's On the Mysteries
+  - Proclus's Elements of Theology
 relations:
-  - target: "ancient-greek-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-    citation: "Pauliina Remes, Neoplatonism (2008)"
-  - target: "gnosticism"
-    type: "parallel_concept"
-    certainty: "minority_scholarly"
-    citation: "John D. Turner and Ruth Majercik, eds., Gnosticism and Later Platonism (2000)"
+  - target: ancient-greek-religion
+    type: branch_of
+    certainty: academic_consensus
+    citation: 'Pauliina Remes, Neoplatonism (2008)'
+  - target: gnosticism
+    type: parallel_concept
+    certainty: minority_scholarly
+    citation: >-
+      John D. Turner and Ruth Majercik, eds., Gnosticism and Later Platonism
+      (2000)
+origin_year: 250
+origin_geo:
+  lat: 37.7793
+  lng: 24.1192
+  place_name: 'Athens, Attica, Greece'
+extinct_year: 529
+key_tenets:
+  - >-
+    Foundational Doctrine: “Neoplatonism” names several late antique
+    philosophical lineages beginning conventionally with Plotinus and continuing
+    through Porphyry, Iamblichus, Proclus, Da...
+  - >-
+    Distinctive Practice: Many systems trace all reality to a first principle,
+    often “the One,” through ordered levels of intellect and soul, with return
+    through virtue and contemplation...
+  - >-
+    Core Orientation: A modern label for late antique Platonic schools that
+    joined metaphysics, ethics, contemplation, and ritual.
+sources:
+  - title: 'Encyclopaedia Britannica: "Neoplatonism"'
+    url: 'https://www.britannica.com/topic/neoplatonism'
+  - title: 'Oxford Reference: Overview of Neoplatonism'
+    url: 'https://www.oxfordreference.com/search?q=Neoplatonism'
+  - title: 'Brill Handbook of Religious Traditions: Neoplatonism'
+    url: 'https://brill.com/search?q=Neoplatonism'
+artifacts:
+  - title: Neoplatonism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Neoplatonism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Neoplatonism.
+  - title: Neoplatonism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Plotinus''s_Enneads'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Neoplatonism

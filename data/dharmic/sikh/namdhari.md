@@ -1,19 +1,59 @@
 ---
-id: "namdhari"
-title: "Namdhari Sikhs"
-cluster: "Dharmic"
-color: "#f7953f"
-era_start: "1857 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Sikh reform community associated with Balak Singh and Ram Singh, marked by disciplined simplicity, devotional singing, and a living-guru lineage."
+id: namdhari
+title: Namdhari Sikhs
+cluster: Dharmic
+color: '#f7953f'
+era_start: 1857 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Sikh reform community associated with Balak Singh and Ram Singh, marked by
+  disciplined simplicity, devotional singing, and a living-guru lineage.
 canonical_texts:
-  - "Guru Granth Sahib"
-  - "Namdhari rahit literature"
-  - "Hukamnamas of Satguru Ram Singh"
+  - Guru Granth Sahib
+  - Namdhari rahit literature
+  - Hukamnamas of Satguru Ram Singh
 relations:
-  - target: "sikhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: sikhism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1857
+origin_geo:
+  lat: 31.5583
+  lng: 75.0768
+  place_name: 'Amritsar, Punjab, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Ik Onkar (One Creator): Devotion to the singular, formless, unmanifest and
+    manifest Supreme Being beyond gender and limitation.
+  - >-
+    Guru Granth Sahib: The eternal living spiritual sovereign and scripture
+    containing the revealed hymns (Gurbani) of the Gurus and Bhagats.
+  - >-
+    Three Pillars: Naam Japna (remembering God), Kirat Karo (honest labor), and
+    Vand Chhako (sharing with the needy in community langar).
+sources:
+  - title: 'Encyclopaedia Britannica: "Namdhari Sikhs"'
+    url: 'https://www.britannica.com/topic/namdhari-sikhs'
+  - title: 'Oxford Reference: Overview of Namdhari Sikhs'
+    url: 'https://www.oxfordreference.com/search?q=Namdhari%20Sikhs'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Namdhari%20Sikhs'
+artifacts:
+  - title: Harmandir Sahib (The Golden Temple)
+    url: 'https://en.wikipedia.org/wiki/Golden_Temple'
+    provenance: 'Amritsar, Punjab'
+    period: 1604 CE
+    description: >-
+      The spiritual and cultural center of Sikhism, designed with entrances on
+      four sides welcoming all humanity.
+  - title: Guru Granth Sahib Sacred Manuscript Illumination
+    url: 'https://en.wikipedia.org/wiki/Guru_Granth_Sahib'
+    provenance: Punjab
+    period: 17th century CE
+    description: >-
+      Illuminated sacred scripture and eternal living Guru containing hymns of
+      the Sikh Gurus and Bhagats.
 ---
 
 # Namdhari Sikhs

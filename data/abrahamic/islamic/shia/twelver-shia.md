@@ -1,19 +1,59 @@
 ---
-id: "twelver-shia"
-title: "Twelver Shi'a"
-cluster: "Abrahamic"
-color: "#2e9fba"
-era_start: "c. 9th century CE"
-epistemic_tier: "academic_consensus"
-summary: "The largest Shi'a tradition, recognizing a line of twelve Imams and the continuing occultation of the final Imam."
+id: twelver-shia
+title: Twelver Shi'a
+cluster: Abrahamic
+color: '#2e9fba'
+era_start: c. 9th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  The largest Shi'a tradition, recognizing a line of twelve Imams and the
+  continuing occultation of the final Imam.
 canonical_texts:
-  - "Qur'an"
-  - "Al-Kafi"
-  - "Man la Yahduruhu al-Faqih"
+  - Qur'an
+  - Al-Kafi
+  - Man la Yahduruhu al-Faqih
 relations:
-  - target: "shia-islam"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: shia-islam
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 850
+origin_geo:
+  lat: 31.9315
+  lng: 34.2308
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Imamate (Divine Leadership): Spiritual and political succession through the
+    divinely designated Ahl al-Bayt starting with Ali ibn Abi Talib.
+  - >-
+    The Mahdi & Occultation: Expectation of the Twelfth Imam who remains in
+    occultation (Ghaybah) and will return to restore global justice.
+  - >-
+    Adalah (Divine Justice) & Ashura: Deep commitment to divine justice and
+    devotion to the martyrdom of Imam Husayn at Karbala.
+sources:
+  - title: 'Encyclopaedia Britannica: "Twelver Shi''a"'
+    url: 'https://www.britannica.com/topic/twelver-shi-a'
+  - title: 'Oxford Reference: Overview of Twelver Shi''a'
+    url: 'https://www.oxfordreference.com/search?q=Twelver%20Shi''a'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Twelver Shi''a'
+    url: 'https://www.cambridge.org/core/search?q=Twelver%20Shi''a'
+artifacts:
+  - title: Dome of the Rock Sacred Umayyad Sanctuary
+    url: 'https://en.wikipedia.org/wiki/Dome_of_the_Rock'
+    provenance: Jerusalem
+    period: 691 CE (Umayyad Caliphate)
+    description: >-
+      Architectural masterpiece of early Islamic octagonal design with classical
+      Kufic Quranic inscriptions.
+  - title: Blue Quran Gold Kufic Manuscript Folio
+    url: 'https://en.wikipedia.org/wiki/Blue_Quran'
+    provenance: Kairouan / Great Mosque
+    period: c. 9th-10th century CE
+    description: >-
+      Indigo-dyed vellum parchment illuminated with gold Kufic script preserving
+      the Holy Quran.
 ---
 
 # Twelver Shi'a

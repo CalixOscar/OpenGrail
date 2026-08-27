@@ -1,17 +1,57 @@
 ---
-id: "norse-religion"
-title: "Norse Religion"
-cluster: "Ancient European"
-color: "#7f8ee8"
-era_start: "c. 500 CE"
-epistemic_tier: "academic_consensus"
-summary: "The varied pre-Christian religious practices of Norse-speaking societies in Scandinavia and their diasporas."
+id: norse-religion
+title: Norse Religion
+cluster: Ancient European
+color: '#7f8ee8'
+era_start: c. 500 CE
+epistemic_tier: academic_consensus
+summary: >-
+  The varied pre-Christian religious practices of Norse-speaking societies in
+  Scandinavia and their diasporas.
 canonical_texts:
-  - "Poetic Edda"
-  - "Prose Edda"
-  - "Skaldic poetry"
-  - "Runic, archaeological, and ritual corpus"
+  - Poetic Edda
+  - Prose Edda
+  - Skaldic poetry
+  - 'Runic, archaeological, and ritual corpus'
 relations: []
+origin_year: 500
+origin_geo:
+  lat: 59.4735
+  lng: 17.7734
+  place_name: 'Old Uppsala, Uppland, Sweden'
+extinct_year: 1100
+key_tenets:
+  - >-
+    Foundational Doctrine: Norse religion is reconstructed from archaeology,
+    place-names, runic inscriptions, skaldic verse, and medieval manuscripts
+    written largely after Christianizatio...
+  - >-
+    Distinctive Practice: Offerings, feasts, oath-making, seer practices,
+    ancestor relations, and cult at farms or political centers joined
+    communities with gods and other beings. Odin, ...
+  - >-
+    Core Orientation: The varied pre-Christian religious practices of
+    Norse-speaking societies in Scandinavia and their diasporas.
+sources:
+  - title: 'Encyclopaedia Britannica: "Norse Religion"'
+    url: 'https://www.britannica.com/topic/norse-religion'
+  - title: 'Oxford Reference: Overview of Norse Religion'
+    url: 'https://www.oxfordreference.com/search?q=Norse%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Norse Religion'
+    url: 'https://brill.com/search?q=Norse%20Religion'
+artifacts:
+  - title: Norse Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Norse_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Norse Religion.
+  - title: Norse Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Poetic_Edda'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Norse Religion

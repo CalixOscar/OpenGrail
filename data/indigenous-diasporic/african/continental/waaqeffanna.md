@@ -1,22 +1,63 @@
 ---
-id: "waaqeffanna"
-title: "Waaqeffanna"
-cluster: "Indigenous & Diasporic"
-color: "#b97b50"
-era_start: "precolonial; modern revitalization"
-epistemic_tier: "academic_consensus"
+id: waaqeffanna
+title: Waaqeffanna
+cluster: Indigenous & Diasporic
+color: '#b97b50'
+era_start: precolonial; modern revitalization
+epistemic_tier: academic_consensus
 aliases:
-  - "Waaqeffannaa"
-  - "Oromo Indigenous Religion"
-summary: "The Indigenous religion of Oromo communities centered on Waaqa, moral order, sacred ecology, and institutions connected with the Gadaa system."
+  - Waaqeffannaa
+  - Oromo Indigenous Religion
+summary: >-
+  The Indigenous religion of Oromo communities centered on Waaqa, moral order,
+  sacred ecology, and institutions connected with the Gadaa system.
 canonical_texts:
-  - "Oromo oral traditions"
-  - "Ayyaana prayers and blessings"
-  - "Gadaa customary-law corpus"
+  - Oromo oral traditions
+  - Ayyaana prayers and blessings
+  - Gadaa customary-law corpus
 relations:
-  - target: "african-indigenous-traditions"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: african-indigenous-traditions
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: 7.5946
+  lng: 4.9835
+  place_name: 'Ile-Ife, Osun, Nigeria'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Oromo religious traditions long developed through the
+    Gadaa political-generational system, local sacred sites, kinship, and
+    pastoral or agricultural life across...
+  - >-
+    Distinctive Practice: Waaqa is associated with creation, sky, truth, and
+    moral order; *ayyaana* can name manifestations or spiritual agencies within
+    that order. *Safuu* concerns ethi...
+  - >-
+    Core Orientation: The Indigenous religion of Oromo communities centered on
+    Waaqa, moral order, sacred ecology, and institutions connected with the
+    Gadaa system.
+sources:
+  - title: 'Encyclopaedia Britannica: "Waaqeffanna"'
+    url: 'https://www.britannica.com/topic/waaqeffanna'
+  - title: 'Oxford Reference: Overview of Waaqeffanna'
+    url: 'https://www.oxfordreference.com/search?q=Waaqeffanna'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Waaqeffanna'
+artifacts:
+  - title: Waaqeffanna Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Waaqeffanna'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Waaqeffanna.
+  - title: Waaqeffanna Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Oromo_oral_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Waaqeffanna

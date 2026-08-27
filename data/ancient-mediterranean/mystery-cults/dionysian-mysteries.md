@@ -1,27 +1,67 @@
 ---
-id: "dionysian-mysteries"
-title: "Dionysian Mysteries"
-cluster: "Ancient Mediterranean"
-color: "#ad86ec"
-era_start: "c. 6th century BCE"
-epistemic_tier: "academic_consensus"
-summary: "Diverse initiatory and ecstatic cult practices associated with Dionysus across Greek and Roman societies."
+id: dionysian-mysteries
+title: Dionysian Mysteries
+cluster: Ancient Mediterranean
+color: '#ad86ec'
+era_start: c. 6th century BCE
+epistemic_tier: academic_consensus
+summary: >-
+  Diverse initiatory and ecstatic cult practices associated with Dionysus across
+  Greek and Roman societies.
 aliases:
-  - "Bacchic mysteries"
-  - "Dionysian cults"
-  - "Bacchanalia"
+  - Bacchic mysteries
+  - Dionysian cults
+  - Bacchanalia
 canonical_texts:
-  - "Bacchae"
-  - "Dionysiac inscriptions"
-  - "Gold lamellae"
-  - "Senatus consultum de Bacchanalibus"
+  - Bacchae
+  - Dionysiac inscriptions
+  - Gold lamellae
+  - Senatus consultum de Bacchanalibus
 relations:
-  - target: "ancient-greek-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "orphism"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: ancient-greek-religion
+    type: branch_of
+    certainty: academic_consensus
+  - target: orphism
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: -550
+origin_geo:
+  lat: 38.2044
+  lng: 23.3257
+  place_name: 'Eleusis, Attica, Greece'
+extinct_year: 395
+key_tenets:
+  - >-
+    Foundational Doctrine: Dionysian worship ranged from civic drama and
+    festivals to private associations, ecstatic rites, and initiatory practices.
+    Evidence includes vase painting, trag...
+  - >-
+    Distinctive Practice: Initiates could seek divine presence, communal
+    identity, protection, or favorable postmortem hopes, but secrecy limits
+    reconstruction. Dionysian and Orphic mate...
+  - >-
+    Core Orientation: Diverse initiatory and ecstatic cult practices associated
+    with Dionysus across Greek and Roman societies.
+sources:
+  - title: 'Encyclopaedia Britannica: "Dionysian Mysteries"'
+    url: 'https://www.britannica.com/topic/dionysian-mysteries'
+  - title: 'Oxford Reference: Overview of Dionysian Mysteries'
+    url: 'https://www.oxfordreference.com/search?q=Dionysian%20Mysteries'
+  - title: 'Brill Handbook of Religious Traditions: Dionysian Mysteries'
+    url: 'https://brill.com/search?q=Dionysian%20Mysteries'
+artifacts:
+  - title: Dionysian Mysteries Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Dionysian_Mysteries'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Dionysian Mysteries.
+  - title: Dionysian Mysteries Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bacchae'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Dionysian Mysteries

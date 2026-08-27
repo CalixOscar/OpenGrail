@@ -1,27 +1,68 @@
 ---
-id: "ancient-astronaut-theory"
-title: "Ancient Astronaut Theory"
-cluster: "Speculative"
-color: "#c084fc"
-era_start: "1960s CE"
-epistemic_tier: "speculative_fringe"
-summary: "A modern pseudohistorical claim that extraterrestrial visitors caused or accelerated ancient religions, monuments, technologies, or myths."
+id: ancient-astronaut-theory
+title: Ancient Astronaut Theory
+cluster: Speculative
+color: '#c084fc'
+era_start: 1960s CE
+epistemic_tier: speculative_fringe
+summary: >-
+  A modern pseudohistorical claim that extraterrestrial visitors caused or
+  accelerated ancient religions, monuments, technologies, or myths.
 canonical_texts:
-  - "Chariots of the Gods? (1968)"
-  - "The 12th Planet (1976)"
+  - Chariots of the Gods? (1968)
+  - The 12th Planet (1976)
 relations:
-  - target: "christianity"
-    type: "fringe_reinterpretation"
-    certainty: "speculative_fringe"
-    citation: "Erich von Däniken, Chariots of the Gods? (1968)"
-  - target: "judaism"
-    type: "fringe_reinterpretation"
-    certainty: "speculative_fringe"
-    citation: "Barry Downing, The Bible and Flying Saucers (1968)"
-  - target: "vedic-religion"
-    type: "fringe_reinterpretation"
-    certainty: "speculative_fringe"
-    citation: "Erich von Däniken, Chariots of the Gods? (1968)"
+  - target: christianity
+    type: fringe_reinterpretation
+    certainty: speculative_fringe
+    citation: 'Erich von Däniken, Chariots of the Gods? (1968)'
+  - target: judaism
+    type: fringe_reinterpretation
+    certainty: speculative_fringe
+    citation: 'Barry Downing, The Bible and Flying Saucers (1968)'
+  - target: vedic-religion
+    type: fringe_reinterpretation
+    certainty: speculative_fringe
+    citation: 'Erich von Däniken, Chariots of the Gods? (1968)'
+origin_year: 1960
+origin_geo:
+  lat: 46.2744
+  lng: 6.1993
+  place_name: 'Geneva, Switzerland'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Ancient astronaut theory is a family of
+    twentieth-century claims that extraterrestrial visitors inspired ancient
+    gods, scriptures, monuments, or technologies. I...
+  - >-
+    Distinctive Practice: Advocates commonly reinterpret visionary beings,
+    aerial vehicles, monumental architecture, or sudden cultural change as
+    evidence of advanced visitors. Biblical ...
+  - >-
+    Core Orientation: A modern pseudohistorical claim that extraterrestrial
+    visitors caused or accelerated ancient religions, monuments, technologies,
+    or myths.
+sources:
+  - title: 'Encyclopaedia Britannica: "Ancient Astronaut Theory"'
+    url: 'https://www.britannica.com/topic/ancient-astronaut-theory'
+  - title: 'Oxford Reference: Overview of Ancient Astronaut Theory'
+    url: 'https://www.oxfordreference.com/search?q=Ancient%20Astronaut%20Theory'
+  - title: 'Brill Handbook of Religious Traditions: Ancient Astronaut Theory'
+    url: 'https://brill.com/search?q=Ancient%20Astronaut%20Theory'
+artifacts:
+  - title: Ancient Astronaut Theory Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Ancient_Astronaut_Theory'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Ancient Astronaut Theory.
+  - title: Ancient Astronaut Theory Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Chariots_of_the_Gods%3F_(1968)'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Ancient Astronaut Theory

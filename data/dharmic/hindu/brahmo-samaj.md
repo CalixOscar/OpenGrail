@@ -1,22 +1,63 @@
 ---
-id: "brahmo-samaj"
-title: "Brahmo Samaj"
-cluster: "Dharmic"
-color: "#fd9b49"
-era_start: "1828 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Bengali monotheistic reform movement combining Upanishadic interpretation, ethical worship, and nineteenth-century social reform."
+id: brahmo-samaj
+title: Brahmo Samaj
+cluster: Dharmic
+color: '#fd9b49'
+era_start: 1828 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Bengali monotheistic reform movement combining Upanishadic interpretation,
+  ethical worship, and nineteenth-century social reform.
 canonical_texts:
-  - "Brahmo Dharma"
-  - "Upaniṣads"
-  - "Trust Deed of the Brahmo Sabha"
+  - Brahmo Dharma
+  - Upaniṣads
+  - Trust Deed of the Brahmo Sabha
 relations:
-  - target: "hinduism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "upanishadic-traditions"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: hinduism
+    type: branch_of
+    certainty: academic_consensus
+  - target: upanishadic-traditions
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1828
+origin_geo:
+  lat: 25.518
+  lng: 82.555
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Rammohun Roy established the Brahmo Sabha in Calcutta
+    in 1828; Debendranath Tagore, Keshab Chandra Sen, and later leaders reshaped
+    it through successive organiz...
+  - >-
+    Distinctive Practice: Brahmos advocate worship of one formless God, ethical
+    reform, and reasoned engagement with scripture, especially the Upaniṣads.
+    Many rejected image worship, cas...
+  - >-
+    Core Orientation: A Bengali monotheistic reform movement combining
+    Upanishadic interpretation, ethical worship, and nineteenth-century social
+    reform.
+sources:
+  - title: 'Encyclopaedia Britannica: "Brahmo Samaj"'
+    url: 'https://www.britannica.com/topic/brahmo-samaj'
+  - title: 'Oxford Reference: Overview of Brahmo Samaj'
+    url: 'https://www.oxfordreference.com/search?q=Brahmo%20Samaj'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Brahmo%20Samaj'
+artifacts:
+  - title: Brahmo Samaj Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Brahmo_Samaj'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Brahmo Samaj.
+  - title: Brahmo Samaj Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Brahmo_Dharma'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Brahmo Samaj

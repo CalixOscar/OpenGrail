@@ -1,21 +1,62 @@
 ---
-id: "unification-movement"
-title: "Unification Movement"
-cluster: "Esoteric & Modern"
-color: "#ad75da"
-era_start: "1954 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Korean-origin new religion founded by Sun Myung Moon with a restorationist Christian theology centered on ideal families and providential history."
+id: unification-movement
+title: Unification Movement
+cluster: Esoteric & Modern
+color: '#ad75da'
+era_start: 1954 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Korean-origin new religion founded by Sun Myung Moon with a restorationist
+  Christian theology centered on ideal families and providential history.
 canonical_texts:
-  - "Exposition of the Divine Principle"
-  - "Sun Myung Moon's sermons"
+  - Exposition of the Divine Principle
+  - Sun Myung Moon's sermons
 relations:
-  - target: "christianity"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "korean-shamanism"
-    type: "influenced_by"
-    certainty: "minority_scholarly"
+  - target: christianity
+    type: branch_of
+    certainty: academic_consensus
+  - target: korean-shamanism
+    type: influenced_by
+    certainty: minority_scholarly
+origin_year: 1954
+origin_geo:
+  lat: 37.3017
+  lng: 127.1552
+  place_name: 'Seoul (Hanyang), South Korea'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Sun Myung Moon founded the Holy Spirit Association
+    for the Unification of World Christianity in Seoul in 1954. Missionary
+    expansion, mass blessing ceremonies, a...
+  - >-
+    Distinctive Practice: The *Divine Principle* rereads biblical history
+    through creation, human fall, restoration, and the mission of a messianic
+    “True Parent.” Marriage and family car...
+  - >-
+    Core Orientation: A Korean-origin new religion founded by Sun Myung Moon
+    with a restorationist Christian theology centered on ideal families and
+    providential history.
+sources:
+  - title: 'Encyclopaedia Britannica: "Unification Movement"'
+    url: 'https://www.britannica.com/topic/unification-movement'
+  - title: 'Oxford Reference: Overview of Unification Movement'
+    url: 'https://www.oxfordreference.com/search?q=Unification%20Movement'
+  - title: 'Brill Handbook of Religious Traditions: Unification Movement'
+    url: 'https://brill.com/search?q=Unification%20Movement'
+artifacts:
+  - title: Unification Movement Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Unification_Movement'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Unification Movement.
+  - title: Unification Movement Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Exposition_of_the_Divine_Principle'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Unification Movement

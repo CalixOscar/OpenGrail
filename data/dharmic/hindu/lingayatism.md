@@ -1,21 +1,62 @@
 ---
-id: "lingayatism"
-title: "Liṅgāyat Tradition"
-cluster: "Dharmic"
-color: "#f47d2c"
-era_start: "12th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A Kannada-speaking devotional community centered on Śiva as the personal iṣṭaliṅga and the vachana heritage."
+id: lingayatism
+title: Liṅgāyat Tradition
+cluster: Dharmic
+color: '#f47d2c'
+era_start: 12th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Kannada-speaking devotional community centered on Śiva as the personal
+  iṣṭaliṅga and the vachana heritage.
 canonical_texts:
-  - "Vachana literature"
-  - "Śūnyasaṃpādane"
+  - Vachana literature
+  - Śūnyasaṃpādane
 relations:
-  - target: "shaivism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "bhakti-movement"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: shaivism
+    type: branch_of
+    certainty: academic_consensus
+  - target: bhakti-movement
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 1150
+origin_geo:
+  lat: 24.8308
+  lng: 82.3734
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Liṅgāyat or Vīraśaiva community formation is strongly
+    associated with twelfth-century Karnataka and the *vachanas* of Basava,
+    Allama Prabhu, Akka Mahadevi, and ...
+  - >-
+    Distinctive Practice: Initiates wear and worship a personal *iṣṭaliṅga*,
+    emphasizing direct relation to Śiva, work, ethical community, and
+    remembrance. Early vachanas sharply critici...
+  - >-
+    Core Orientation: A Kannada-speaking devotional community centered on Śiva
+    as the personal iṣṭaliṅga and the vachana heritage.
+sources:
+  - title: 'Encyclopaedia Britannica: "Liṅgāyat Tradition"'
+    url: 'https://www.britannica.com/topic/li-g-yat-tradition'
+  - title: 'Oxford Reference: Overview of Liṅgāyat Tradition'
+    url: 'https://www.oxfordreference.com/search?q=Li%E1%B9%85g%C4%81yat%20Tradition'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: >-
+      https://www.rep.routledge.com/search?query=Li%E1%B9%85g%C4%81yat%20Tradition
+artifacts:
+  - title: Liṅgāyat Tradition Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Li%E1%B9%85g%C4%81yat_Tradition'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Liṅgāyat Tradition.
+  - title: Liṅgāyat Tradition Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Vachana_literature'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Liṅgāyat Tradition

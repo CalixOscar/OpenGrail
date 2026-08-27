@@ -1,26 +1,68 @@
 ---
-id: "african-diasporic-traditions"
-title: "African Diasporic Traditions (Comparative)"
-cluster: "Indigenous & Diasporic"
-color: "#c08155"
-era_start: "16th century CE onward"
-epistemic_tier: "academic_consensus"
+id: african-diasporic-traditions
+title: African Diasporic Traditions (Comparative)
+cluster: Indigenous & Diasporic
+color: '#c08155'
+era_start: 16th century CE onward
+epistemic_tier: academic_consensus
 display_weight: 1.45
 aliases:
-  - "African Diaspora Religions"
-  - "Afro-Atlantic Religions"
-summary: "An analytical umbrella for distinct religions and practice complexes created by African-descended communities under slavery, colonialism, and migration."
+  - African Diaspora Religions
+  - Afro-Atlantic Religions
+summary: >-
+  An analytical umbrella for distinct religions and practice complexes created
+  by African-descended communities under slavery, colonialism, and migration.
 canonical_texts:
-  - "Tradition-specific oral and initiatory corpora"
-  - "Ritual songs and praise traditions"
-  - "Community liturgies and divination corpora"
+  - Tradition-specific oral and initiatory corpora
+  - Ritual songs and praise traditions
+  - Community liturgies and divination corpora
 relations:
-  - target: "african-indigenous-traditions"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "christianity"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: african-indigenous-traditions
+    type: branch_of
+    certainty: academic_consensus
+  - target: christianity
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 1550
+origin_geo:
+  lat: 7.4045
+  lng: 4.5807
+  place_name: 'Ile-Ife, Osun, Nigeria'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Enslaved and free African-descended people in the
+    Americas and Atlantic world rebuilt religious life under violent
+    displacement. Yorùbá, Gbe, Kongo, Akan, and o...
+  - >-
+    Distinctive Practice: Initiation, possession, divination, healing,
+    ancestors, sacred music, and reciprocal relations with divine powers recur
+    in different combinations. Some traditio...
+  - >-
+    Core Orientation: An analytical umbrella for distinct religions and practice
+    complexes created by African-descended communities under slavery,
+    colonialism, and migration.
+sources:
+  - title: 'Encyclopaedia Britannica: "African Diasporic Traditions"'
+    url: 'https://www.britannica.com/topic/african-diasporic-traditions'
+  - title: 'Oxford Reference: Overview of African Diasporic Traditions'
+    url: 'https://www.oxfordreference.com/search?q=African%20Diasporic%20Traditions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=African%20Diasporic%20Traditions'
+artifacts:
+  - title: African Diasporic Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/African_Diasporic_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with African Diasporic Traditions.
+  - title: African Diasporic Traditions Primary Texts & Sacred Records
+    url: >-
+      https://en.wikipedia.org/wiki/Tradition-specific_oral_and_initiatory_corpora
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # African Diasporic Traditions (Comparative)

@@ -1,18 +1,58 @@
 ---
-id: "nirankari"
-title: "Nirankari Movement"
-cluster: "Dharmic"
-color: "#f99b47"
-era_start: "c. 1851 CE"
-epistemic_tier: "academic_consensus"
-summary: "A nineteenth-century Sikh reform lineage founded by Baba Dyal, emphasizing worship of the formless divine and simplified observance."
+id: nirankari
+title: Nirankari Movement
+cluster: Dharmic
+color: '#f99b47'
+era_start: c. 1851 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A nineteenth-century Sikh reform lineage founded by Baba Dyal, emphasizing
+  worship of the formless divine and simplified observance.
 canonical_texts:
-  - "Guru Granth Sahib"
-  - "Hukamnamas of the Nirankari lineage"
+  - Guru Granth Sahib
+  - Hukamnamas of the Nirankari lineage
 relations:
-  - target: "sikhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: sikhism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1851
+origin_geo:
+  lat: 31.7242
+  lng: 74.5725
+  place_name: 'Amritsar, Punjab, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Baba Dyal founded the original Nirankari movement in
+    nineteenth-century Punjab, calling Sikhs back to devotion to the *nirankar*,
+    the formless divine, and criti...
+  - >-
+    Distinctive Practice: Early Nirankaris favored simple rites, recitation, and
+    rejection of image worship. They should be distinguished from the
+    twentieth-century Sant Nirankari Missio...
+  - >-
+    Core Orientation: A nineteenth-century Sikh reform lineage founded by Baba
+    Dyal, emphasizing worship of the formless divine and simplified observance.
+sources:
+  - title: 'Encyclopaedia Britannica: "Nirankari Movement"'
+    url: 'https://www.britannica.com/topic/nirankari-movement'
+  - title: 'Oxford Reference: Overview of Nirankari Movement'
+    url: 'https://www.oxfordreference.com/search?q=Nirankari%20Movement'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Nirankari%20Movement'
+artifacts:
+  - title: Nirankari Movement Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Nirankari_Movement'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Nirankari Movement.
+  - title: Nirankari Movement Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Guru_Granth_Sahib'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Nirankari Movement

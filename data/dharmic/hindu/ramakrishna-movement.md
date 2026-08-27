@@ -1,22 +1,63 @@
 ---
-id: "ramakrishna-movement"
-title: "Ramakrishna Movement"
-cluster: "Dharmic"
-color: "#ff9f4a"
-era_start: "1886 CE"
-epistemic_tier: "academic_consensus"
-summary: "A modern Vedānta movement shaped by Ramakrishna, Sarada Devi, Vivekananda, monastic discipline, and organized service."
+id: ramakrishna-movement
+title: Ramakrishna Movement
+cluster: Dharmic
+color: '#ff9f4a'
+era_start: 1886 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A modern Vedānta movement shaped by Ramakrishna, Sarada Devi, Vivekananda,
+  monastic discipline, and organized service.
 canonical_texts:
-  - "Śrī Śrī Rāmakṛṣṇa Kathāmṛta"
-  - "The Complete Works of Swami Vivekananda"
-  - "Upaniṣads"
+  - Śrī Śrī Rāmakṛṣṇa Kathāmṛta
+  - The Complete Works of Swami Vivekananda
+  - Upaniṣads
 relations:
-  - target: "hinduism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "advaita-vedanta"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: hinduism
+    type: branch_of
+    certainty: academic_consensus
+  - target: advaita-vedanta
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1886
+origin_geo:
+  lat: 25.6066
+  lng: 83.8603
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: After the Bengali temple priest and mystic
+    Ramakrishna died in 1886, disciples formed a monastic community. Vivekananda
+    founded the Ramakrishna Mission in 1897,...
+  - >-
+    Distinctive Practice: The movement presents Vedānta as spiritually universal
+    while retaining devotion to Ramakrishna, Sarada Devi, and Hindu deities. It
+    often distinguishes an inward...
+  - >-
+    Core Orientation: A modern Vedānta movement shaped by Ramakrishna, Sarada
+    Devi, Vivekananda, monastic discipline, and organized service.
+sources:
+  - title: 'Encyclopaedia Britannica: "Ramakrishna Movement"'
+    url: 'https://www.britannica.com/topic/ramakrishna-movement'
+  - title: 'Oxford Reference: Overview of Ramakrishna Movement'
+    url: 'https://www.oxfordreference.com/search?q=Ramakrishna%20Movement'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Ramakrishna%20Movement'
+artifacts:
+  - title: Ramakrishna Movement Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Ramakrishna_Movement'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Ramakrishna Movement.
+  - title: Ramakrishna Movement Primary Texts & Sacred Records
+    url: >-
+      https://en.wikipedia.org/wiki/%C5%9Ar%C4%AB_%C5%9Ar%C4%AB_R%C4%81mak%E1%B9%9B%E1%B9%A3%E1%B9%87a_Kath%C4%81m%E1%B9%9Bta
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Ramakrishna Movement

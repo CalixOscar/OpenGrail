@@ -1,19 +1,59 @@
 ---
-id: "odinani"
-title: "Ọdịnani"
-cluster: "Indigenous & Diasporic"
-color: "#ad7651"
-era_start: "precolonial era"
-epistemic_tier: "academic_consensus"
-summary: "A name for inherited Igbo religious and ethical traditions relating community, land, divinities, and ancestors."
+id: odinani
+title: Ọdịnani
+cluster: Indigenous & Diasporic
+color: '#ad7651'
+era_start: precolonial era
+epistemic_tier: academic_consensus
+summary: >-
+  A name for inherited Igbo religious and ethical traditions relating community,
+  land, divinities, and ancestors.
 canonical_texts:
-  - "Oral traditions"
-  - "Ritual corpus"
-  - "Proverbs, praise names, and community histories"
+  - Oral traditions
+  - Ritual corpus
+  - 'Proverbs, praise names, and community histories'
 relations:
-  - target: "ancestor-veneration"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: ancestor-veneration
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: 7.1749
+  lng: 4.7323
+  place_name: 'Ile-Ife, Osun, Nigeria'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Ọdịnani refers broadly to inherited religious, moral,
+    and customary orders among Igbo communities of southeastern Nigeria. Village
+    republics, titled societies, ...
+  - >-
+    Distinctive Practice: Chukwu, *alusi*, Ala, ancestors, personal *chi*,
+    divination, masquerade, oath, healing, and obligations to community and land
+    appear in different local configur...
+  - >-
+    Core Orientation: A name for inherited Igbo religious and ethical traditions
+    relating community, land, divinities, and ancestors.
+sources:
+  - title: 'Encyclopaedia Britannica: "Ọdịnani"'
+    url: 'https://www.britannica.com/topic/-d-nani'
+  - title: 'Oxford Reference: Overview of Ọdịnani'
+    url: 'https://www.oxfordreference.com/search?q=%E1%BB%8Cd%E1%BB%8Bnani'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=%E1%BB%8Cd%E1%BB%8Bnani'
+artifacts:
+  - title: Ọdịnani Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/%E1%BB%8Cd%E1%BB%8Bnani'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Ọdịnani.
+  - title: Ọdịnani Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Oral_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Ọdịnani

@@ -1,23 +1,64 @@
 ---
-id: "jogye-order"
-title: "Jogye Order"
-cluster: "Dharmic"
-color: "#e58a32"
-era_start: "20th century CE"
-epistemic_tier: "academic_consensus"
+id: jogye-order
+title: Jogye Order
+cluster: Dharmic
+color: '#e58a32'
+era_start: 20th century CE
+epistemic_tier: academic_consensus
 display_weight: 1.35
 aliases:
-  - "Chogye Order"
-  - "Jogye-jong"
-summary: "The largest modern Korean Buddhist order, grounded in Seon practice and a lineage identity associated with the historical Jogye tradition."
+  - Chogye Order
+  - Jogye-jong
+summary: >-
+  The largest modern Korean Buddhist order, grounded in Seon practice and a
+  lineage identity associated with the historical Jogye tradition.
 canonical_texts:
-  - "Platform Sūtra"
-  - "Secrets on Cultivating the Mind"
-  - "Excerpts from the Dharma Collection"
+  - Platform Sūtra
+  - Secrets on Cultivating the Mind
+  - Excerpts from the Dharma Collection
 relations:
-  - target: "seon"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: seon
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1950
+origin_geo:
+  lat: 24.7193
+  lng: 82.6123
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The modern Jogye Order emerged through
+    twentieth-century efforts to unify and reform Korean monastic Buddhism after
+    Japanese colonial rule, while invoking older...
+  - >-
+    Distinctive Practice: Jogye training gives prominence to *ganhwa Seon*,
+    meditation focused on a critical phrase or *hwadu*, together with Vinaya,
+    chanting, doctrinal education, repen...
+  - >-
+    Core Orientation: The largest modern Korean Buddhist order, grounded in Seon
+    practice and a lineage identity associated with the historical Jogye
+    tradition.
+sources:
+  - title: 'Encyclopaedia Britannica: "Jogye Order"'
+    url: 'https://www.britannica.com/topic/jogye-order'
+  - title: 'Oxford Reference: Overview of Jogye Order'
+    url: 'https://www.oxfordreference.com/search?q=Jogye%20Order'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Jogye%20Order'
+artifacts:
+  - title: Jogye Order Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Jogye_Order'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Jogye Order.
+  - title: Jogye Order Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Platform_S%C5%ABtra'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Jogye Order

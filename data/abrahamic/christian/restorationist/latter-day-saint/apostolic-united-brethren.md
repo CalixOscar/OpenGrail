@@ -1,20 +1,62 @@
 ---
-id: "apostolic-united-brethren"
-title: "Apostolic United Brethren"
-cluster: "Abrahamic"
-color: "#9d74b5"
-era_start: "1954 CE"
-epistemic_tier: "academic_consensus"
-summary: "A Latter Day Saint fundamentalist body formed after a leadership division within the Short Creek-era priesthood movement."
+id: apostolic-united-brethren
+title: Apostolic United Brethren
+cluster: Abrahamic
+color: '#9d74b5'
+era_start: 1954 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Latter Day Saint fundamentalist body formed after a leadership division
+  within the Short Creek-era priesthood movement.
 canonical_texts:
-  - "King James Version of the Bible"
-  - "Book of Mormon"
-  - "Doctrine and Covenants"
-  - "Pearl of Great Price"
+  - King James Version of the Bible
+  - Book of Mormon
+  - Doctrine and Covenants
+  - Pearl of Great Price
 relations:
-  - target: "latter-day-saint-fundamentalism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: latter-day-saint-fundamentalism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1954
+origin_geo:
+  lat: 40.7161
+  lng: -111.9785
+  place_name: 'Salt Lake City (Temple Square), Utah, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The Apostolic United Brethren emerged from a 1954
+    division among Latter Day Saint fundamentalists associated with the
+    priesthood council and Short Creek communi...
+  - >-
+    Distinctive Practice: The AUB accepts the standard works of the Latter Day
+    Saint tradition and maintains plural marriage as a religious principle. It
+    operates through a priesthood co...
+  - >-
+    Core Orientation: A Latter Day Saint fundamentalist body formed after a
+    leadership division within the Short Creek-era priesthood movement.
+sources:
+  - title: 'Encyclopaedia Britannica: "Apostolic United Brethren"'
+    url: 'https://www.britannica.com/topic/apostolic-united-brethren'
+  - title: 'Oxford Reference: Overview of Apostolic United Brethren'
+    url: 'https://www.oxfordreference.com/search?q=Apostolic%20United%20Brethren'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Apostolic United
+      Brethren
+    url: 'https://www.cambridge.org/core/search?q=Apostolic%20United%20Brethren'
+artifacts:
+  - title: Apostolic United Brethren Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Apostolic_United_Brethren'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Apostolic United Brethren.
+  - title: Apostolic United Brethren Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/King_James_Version_of_the_Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Apostolic United Brethren

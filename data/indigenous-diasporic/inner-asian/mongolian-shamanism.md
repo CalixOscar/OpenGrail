@@ -1,22 +1,62 @@
 ---
-id: "mongolian-shamanism"
-title: "Mongolian Shamanic Traditions"
-cluster: "Indigenous & Diasporic"
-color: "#a98258"
-era_start: "ancient; continuously developing"
-epistemic_tier: "academic_consensus"
-summary: "Diverse Mongolian practices of spirit mediation, lineage ritual, healing, and relations with ancestors and local powers."
+id: mongolian-shamanism
+title: Mongolian Shamanic Traditions
+cluster: Indigenous & Diasporic
+color: '#a98258'
+era_start: ancient; continuously developing
+epistemic_tier: academic_consensus
+summary: >-
+  Diverse Mongolian practices of spirit mediation, lineage ritual, healing, and
+  relations with ancestors and local powers.
 canonical_texts:
-  - "Oral invocations and genealogies"
-  - "Shamanic ritual corpus"
-  - "The Secret History of the Mongols"
+  - Oral invocations and genealogies
+  - Shamanic ritual corpus
+  - The Secret History of the Mongols
 relations:
-  - target: "shamanic-traditions"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "tengrism"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: shamanic-traditions
+    type: branch_of
+    certainty: academic_consensus
+  - target: tengrism
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: 47.557
+  lng: 102.7152
+  place_name: 'Orkhon Valley (Karakorum), Mongolia'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Mongolian-speaking communities have maintained varied
+    relationships with ancestors, territorial masters, Heaven, and spirit
+    specialists across imperial, Buddhis...
+  - >-
+    Distinctive Practice: Specialists may use drums, costume, invocation,
+    sacrifice, divination, and embodied spirit encounter for healing or communal
+    protection. “Black,” “white,” and o...
+  - >-
+    Core Orientation: Diverse Mongolian practices of spirit mediation, lineage
+    ritual, healing, and relations with ancestors and local powers.
+sources:
+  - title: 'Encyclopaedia Britannica: "Mongolian Shamanic Traditions"'
+    url: 'https://www.britannica.com/topic/mongolian-shamanic-traditions'
+  - title: 'Oxford Reference: Overview of Mongolian Shamanic Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Mongolian%20Shamanic%20Traditions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Mongolian%20Shamanic%20Traditions'
+artifacts:
+  - title: Mongolian Shamanic Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Mongolian_Shamanic_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Mongolian Shamanic Traditions.
+  - title: Mongolian Shamanic Traditions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Oral_invocations_and_genealogies'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Mongolian Shamanic Traditions

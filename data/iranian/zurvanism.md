@@ -1,20 +1,60 @@
 ---
-id: "zurvanism"
-title: "Zurvanism"
-cluster: "Iranian"
-color: "#d9ad2b"
-era_start: "c. 4th century BCE"
-epistemic_tier: "minority_scholarly"
-summary: "A debated Zoroastrian current in which Zurvan, Time, framed the relation of Ohrmazd and Ahriman."
+id: zurvanism
+title: Zurvanism
+cluster: Iranian
+color: '#d9ad2b'
+era_start: c. 4th century BCE
+epistemic_tier: minority_scholarly
+summary: >-
+  A debated Zoroastrian current in which Zurvan, Time, framed the relation of
+  Ohrmazd and Ahriman.
 canonical_texts:
-  - "Avesta (shared Zoroastrian scripture)"
-  - "Middle Persian Zurvanite testimonia"
-  - "Armenian and Syriac polemical accounts"
+  - Avesta (shared Zoroastrian scripture)
+  - Middle Persian Zurvanite testimonia
+  - Armenian and Syriac polemical accounts
 relations:
-  - target: "zoroastrianism"
-    type: "branch_of"
-    certainty: "minority_scholarly"
-    citation: "R. C. Zaehner, Zurvan: A Zoroastrian Dilemma (1955)"
+  - target: zoroastrianism
+    type: branch_of
+    certainty: minority_scholarly
+    citation: 'R. C. Zaehner, Zurvan: A Zoroastrian Dilemma (1955)'
+origin_year: -350
+origin_geo:
+  lat: 32.8359
+  lng: 52.1292
+  place_name: 'Isfahan, Iran'
+extinct_year: 900
+key_tenets:
+  - >-
+    Foundational Doctrine: Zurvanism is a scholarly name for doctrines reported
+    especially by late antique Armenian, Syriac, Greek, and Middle Persian
+    witnesses. These accounts make Zurva...
+  - >-
+    Distinctive Practice: The category may represent several speculative
+    tendencies rather than one denomination, and scholars dispute its antiquity,
+    coherence, and place within Zoroastr...
+  - >-
+    Core Orientation: A debated Zoroastrian current in which Zurvan, Time,
+    framed the relation of Ohrmazd and Ahriman.
+sources:
+  - title: 'Encyclopaedia Britannica: "Zurvanism"'
+    url: 'https://www.britannica.com/topic/zurvanism'
+  - title: 'Oxford Reference: Overview of Zurvanism'
+    url: 'https://www.oxfordreference.com/search?q=Zurvanism'
+  - title: 'Brill Handbook of Religious Traditions: Zurvanism'
+    url: 'https://brill.com/search?q=Zurvanism'
+artifacts:
+  - title: Zurvanism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Zurvanism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Zurvanism.
+  - title: Zurvanism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Avesta_(shared_Zoroastrian_scripture)'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Zurvanism

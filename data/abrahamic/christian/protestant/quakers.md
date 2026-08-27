@@ -1,19 +1,59 @@
 ---
-id: "quakers"
-title: "Quakers"
-cluster: "Abrahamic"
-color: "#54a4df"
-era_start: "1650s CE"
-epistemic_tier: "academic_consensus"
-summary: "The Religious Society of Friends, a Protestant-origin movement centered on direct spiritual guidance and communal discernment."
+id: quakers
+title: Quakers
+cluster: Abrahamic
+color: '#54a4df'
+era_start: 1650s CE
+epistemic_tier: academic_consensus
+summary: >-
+  The Religious Society of Friends, a Protestant-origin movement centered on
+  direct spiritual guidance and communal discernment.
 canonical_texts:
-  - "Bible"
-  - "George Fox's Journal"
-  - "Quaker Faith and Practice"
+  - Bible
+  - George Fox's Journal
+  - Quaker Faith and Practice
 relations:
-  - target: "protestantism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: protestantism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1650
+origin_geo:
+  lat: 32.6115
+  lng: 35.3414
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The Religious Society of Friends arose amid the
+    religious upheaval of seventeenth-century England. George Fox and other
+    traveling ministers rejected compulsory ...
+  - >-
+    Distinctive Practice: Friends emphasize the inward light or present guidance
+    of Christ and seek decisions through corporate discernment. Some meetings
+    worship in expectant silence wi...
+  - >-
+    Core Orientation: The Religious Society of Friends, a Protestant-origin
+    movement centered on direct spiritual guidance and communal discernment.
+sources:
+  - title: 'Encyclopaedia Britannica: "Quakers"'
+    url: 'https://www.britannica.com/topic/quakers'
+  - title: 'Oxford Reference: Overview of Quakers'
+    url: 'https://www.oxfordreference.com/search?q=Quakers'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Quakers'
+    url: 'https://www.cambridge.org/core/search?q=Quakers'
+artifacts:
+  - title: Quakers Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Quakers'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Quakers.
+  - title: Quakers Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Quakers

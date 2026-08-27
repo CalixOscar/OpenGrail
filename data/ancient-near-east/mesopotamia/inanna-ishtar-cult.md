@@ -1,26 +1,66 @@
 ---
-id: "inanna-ishtar-cult"
-title: "Cult of Inanna–Ishtar"
-cluster: "Ancient Near East"
-color: "#dda653"
-era_start: "c. 3500 BCE"
-epistemic_tier: "academic_consensus"
-summary: "Mesopotamian cult traditions devoted to Sumerian Inanna and Akkadian Ishtar, especially at Uruk and later royal centers."
+id: inanna-ishtar-cult
+title: Cult of Inanna–Ishtar
+cluster: Ancient Near East
+color: '#dda653'
+era_start: c. 3500 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  Mesopotamian cult traditions devoted to Sumerian Inanna and Akkadian Ishtar,
+  especially at Uruk and later royal centers.
 aliases:
-  - "Cult of Inanna"
-  - "Cult of Ishtar"
-  - "Eanna cult"
+  - Cult of Inanna
+  - Cult of Ishtar
+  - Eanna cult
 canonical_texts:
-  - "Inanna's Descent"
-  - "Hymns of Enheduanna"
-  - "Epic of Gilgamesh"
+  - Inanna's Descent
+  - Hymns of Enheduanna
+  - Epic of Gilgamesh
 relations:
-  - target: "sumerian-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "akkadian-religion"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: sumerian-religion
+    type: branch_of
+    certainty: academic_consensus
+  - target: akkadian-religion
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: -3500
+origin_geo:
+  lat: 32.4163
+  lng: 43.8744
+  place_name: 'Babylon, Mesopotamia'
+extinct_year: 350
+key_tenets:
+  - >-
+    Foundational Doctrine: Inanna was central to the Eanna precinct at Uruk by
+    the late fourth millennium BCE. Akkadian-language traditions increasingly
+    identified her with Ishtar, whose ...
+  - >-
+    Distinctive Practice: Inanna and Ishtar were substantially identified, yet
+    local manifestations could retain different titles, rituals, and political
+    meanings. This node maps a distr...
+  - >-
+    Core Orientation: Mesopotamian cult traditions devoted to Sumerian Inanna
+    and Akkadian Ishtar, especially at Uruk and later royal centers.
+sources:
+  - title: 'Encyclopaedia Britannica: "Cult of Inanna–Ishtar"'
+    url: 'https://www.britannica.com/topic/cult-of-inanna-ishtar'
+  - title: 'Oxford Reference: Overview of Cult of Inanna–Ishtar'
+    url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Inanna%E2%80%93Ishtar'
+  - title: 'Brill Handbook of Religious Traditions: Cult of Inanna–Ishtar'
+    url: 'https://brill.com/search?q=Cult%20of%20Inanna%E2%80%93Ishtar'
+artifacts:
+  - title: Cult of Inanna–Ishtar Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Cult_of_Inanna%E2%80%93Ishtar'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Cult of Inanna–Ishtar.
+  - title: Cult of Inanna–Ishtar Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Inanna''s_Descent'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Cult of Inanna–Ishtar

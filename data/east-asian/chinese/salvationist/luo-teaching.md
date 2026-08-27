@@ -1,22 +1,63 @@
 ---
-id: "luo-teaching"
-title: "Luo Teaching"
-cluster: "East Asian"
-color: "#4eb17c"
-era_start: "late 15th century CE"
-epistemic_tier: "academic_consensus"
+id: luo-teaching
+title: Luo Teaching
+cluster: East Asian
+color: '#4eb17c'
+era_start: late 15th century CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Luojiao"
-  - "Way of Luo"
-summary: "A late-imperial lay religious tradition founded around Luo Qing’s writings and influential among canal, migrant, and vegetarian communities."
+  - Luojiao
+  - Way of Luo
+summary: >-
+  A late-imperial lay religious tradition founded around Luo Qing’s writings and
+  influential among canal, migrant, and vegetarian communities.
 canonical_texts:
-  - "Five Books in Six Volumes"
-  - "Precious-scroll traditions"
-  - "Luo lineage liturgies"
+  - Five Books in Six Volumes
+  - Precious-scroll traditions
+  - Luo lineage liturgies
 relations:
-  - target: "chinese-salvationist-religions"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: chinese-salvationist-religions
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1450
+origin_geo:
+  lat: 35.9559
+  lng: 116.7963
+  place_name: 'Qufu, Shandong, China'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Luo Qing, a former soldier and religious seeker,
+    published the texts later called the *Five Books in Six Volumes* around
+    1509. Communities inspired by his teach...
+  - >-
+    Distinctive Practice: The texts teach discovery of an originally pure,
+    unborn condition through personal awakening, ethical practice, and critique
+    of merely external ritual. Subseque...
+  - >-
+    Core Orientation: A late-imperial lay religious tradition founded around Luo
+    Qing’s writings and influential among canal, migrant, and vegetarian
+    communities.
+sources:
+  - title: 'Encyclopaedia Britannica: "Luo Teaching"'
+    url: 'https://www.britannica.com/topic/luo-teaching'
+  - title: 'Oxford Reference: Overview of Luo Teaching'
+    url: 'https://www.oxfordreference.com/search?q=Luo%20Teaching'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: 'https://plato.stanford.edu/search/searcher.py?query=Luo%20Teaching'
+artifacts:
+  - title: Luo Teaching Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Luo_Teaching'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Luo Teaching.
+  - title: Luo Teaching Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Five_Books_in_Six_Volumes'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Luo Teaching

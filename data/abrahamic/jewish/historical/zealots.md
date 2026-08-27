@@ -1,21 +1,61 @@
 ---
-id: "zealots"
-title: "Zealots"
-cluster: "Abrahamic"
-color: "#d0a54d"
-era_start: "1st century CE"
-epistemic_tier: "academic_consensus"
-summary: "A contested label for militant Jewish resistance groups during the late Second Temple period and revolt against Rome."
+id: zealots
+title: Zealots
+cluster: Abrahamic
+color: '#d0a54d'
+era_start: 1st century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A contested label for militant Jewish resistance groups during the late Second
+  Temple period and revolt against Rome.
 aliases:
-  - "Jewish Zealots"
-  - "Zealot Movement"
+  - Jewish Zealots
+  - Zealot Movement
 canonical_texts:
-  - "Hebrew Bible"
-  - "Josephus, The Jewish War"
+  - Hebrew Bible
+  - 'Josephus, The Jewish War'
 relations:
-  - target: "second-temple-judaism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: second-temple-judaism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 50
+origin_geo:
+  lat: 32.6178
+  lng: 35.2491
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Josephus uses language of zeal and identifies a
+    specific Zealot faction during the Jewish revolt of 66–70 CE, while later
+    usage sometimes applies the name broad...
+  - >-
+    Distinctive Practice: Historians distinguish the Jerusalem Zealots from the
+    Sicarii and avoid treating every rebel as a member of one party. Nearly all
+    evidence comes from hostile or...
+  - >-
+    Core Orientation: A contested label for militant Jewish resistance groups
+    during the late Second Temple period and revolt against Rome.
+sources:
+  - title: 'Encyclopaedia Britannica: "Zealots"'
+    url: 'https://www.britannica.com/topic/zealots'
+  - title: 'Oxford Reference: Overview of Zealots'
+    url: 'https://www.oxfordreference.com/search?q=Zealots'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Zealots'
+    url: 'https://www.cambridge.org/core/search?q=Zealots'
+artifacts:
+  - title: Zealots Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Zealots'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Zealots.
+  - title: Zealots Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Hebrew_Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Zealots

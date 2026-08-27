@@ -1,26 +1,66 @@
 ---
-id: "korean-confucianism"
-title: "Korean Confucian Traditions"
-cluster: "East Asian"
-color: "#55ae79"
-era_start: "c. 4th century CE"
-epistemic_tier: "academic_consensus"
+id: korean-confucianism
+title: Korean Confucian Traditions
+cluster: East Asian
+color: '#55ae79'
+era_start: c. 4th century CE
+epistemic_tier: academic_consensus
 display_weight: 1.4
 aliases:
-  - "Korean Confucianism"
-  - "Yugyo"
-summary: "Korean adaptations of Confucian ethics, ritual, statecraft, and Neo-Confucian philosophy, especially influential during the Joseon dynasty."
+  - Korean Confucianism
+  - Yugyo
+summary: >-
+  Korean adaptations of Confucian ethics, ritual, statecraft, and Neo-Confucian
+  philosophy, especially influential during the Joseon dynasty.
 canonical_texts:
-  - "Four Books and Five Classics"
-  - "Ten Diagrams on Sage Learning"
-  - "Essentials of the Learning of the Sages"
+  - Four Books and Five Classics
+  - Ten Diagrams on Sage Learning
+  - Essentials of the Learning of the Sages
 relations:
-  - target: "confucianism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "cheng-zhu-confucianism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: confucianism
+    type: branch_of
+    certainty: academic_consensus
+  - target: cheng-zhu-confucianism
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 350
+origin_geo:
+  lat: 35.8925
+  lng: 117.2139
+  place_name: 'Qufu, Shandong, China'
+extinct_year: null
+key_tenets:
+  - >-
+    Ren (Benevolence) & Li (Ritual Propriety): Cultivation of supreme humaneness
+    through respectful observance of social roles and moral etiquette.
+  - >-
+    Five Cardinal Relationships: Ethical harmony structured through reciprocal
+    duties between ruler-subject, parent-child, spouse, siblings, and friends.
+  - >-
+    Self-Cultivation & Junzi: Lifelong moral education aiming to become an
+    exemplary person of integrity dedicated to public good and family piety
+    (Xiao).
+sources:
+  - title: 'Encyclopaedia Britannica: "Korean Confucian Traditions"'
+    url: 'https://www.britannica.com/topic/korean-confucian-traditions'
+  - title: 'Oxford Reference: Overview of Korean Confucian Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Korean%20Confucian%20Traditions'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: >-
+      https://plato.stanford.edu/search/searcher.py?query=Korean%20Confucian%20Traditions
+artifacts:
+  - title: Wudang Mountain Sacred Golden Hall Complex
+    url: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
+    provenance: 'Hubei, China'
+    period: 1416 CE
+    description: >-
+      Imperial architectural shrine of Daoist alchemy and philosophical
+      meditation.
+  - title: Mawangdui Silk Laozi Manuscripts
+    url: 'https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts'
+    provenance: 'Changsha, Hunan, China'
+    period: c. 168 BCE (Han Dynasty)
+    description: Ancient silk manuscripts preserving early versions of the Daodejing.
 ---
 
 # Korean Confucian Traditions

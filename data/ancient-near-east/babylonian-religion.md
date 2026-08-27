@@ -1,21 +1,63 @@
 ---
-id: "babylonian-religion"
-title: "Babylonian Religion"
-cluster: "Ancient Near East"
-color: "#e0b35c"
-era_start: "c. 1900 BCE"
-epistemic_tier: "academic_consensus"
-summary: "The evolving cultic, scholarly, and domestic traditions of Babylonia in southern Mesopotamia."
+id: babylonian-religion
+title: Babylonian Religion
+cluster: Ancient Near East
+color: '#e0b35c'
+era_start: c. 1900 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  The evolving cultic, scholarly, and domestic traditions of Babylonia in
+  southern Mesopotamia.
 canonical_texts:
-  - "Enūma Eliš"
-  - "Epic of Gilgamesh"
-  - "Atrahasis"
-  - "Šumma ālu omen series"
+  - Enūma Eliš
+  - Epic of Gilgamesh
+  - Atrahasis
+  - Šumma ālu omen series
 relations:
-  - target: "akkadian-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-    citation: "Tammi J. Schneider, An Introduction to Ancient Mesopotamian Religion (2011)"
+  - target: akkadian-religion
+    type: branch_of
+    certainty: academic_consensus
+    citation: >-
+      Tammi J. Schneider, An Introduction to Ancient Mesopotamian Religion
+      (2011)
+origin_year: -1900
+origin_geo:
+  lat: 32.8228
+  lng: 44.659
+  place_name: 'Babylon, Mesopotamia'
+extinct_year: -100
+key_tenets:
+  - >-
+    Foundational Doctrine: Babylonian religion grew from the multilingual
+    religious worlds of southern Mesopotamia during the second and first
+    millennia BCE. Babylon's political prominenc...
+  - >-
+    Distinctive Practice: Festival processions, divination, exorcistic medicine,
+    prayer, sacrifice, and maintenance of cult statues linked human society with
+    a vulnerable cosmic order. E...
+  - >-
+    Core Orientation: The evolving cultic, scholarly, and domestic traditions of
+    Babylonia in southern Mesopotamia.
+sources:
+  - title: 'Encyclopaedia Britannica: "Babylonian Religion"'
+    url: 'https://www.britannica.com/topic/babylonian-religion'
+  - title: 'Oxford Reference: Overview of Babylonian Religion'
+    url: 'https://www.oxfordreference.com/search?q=Babylonian%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Babylonian Religion'
+    url: 'https://brill.com/search?q=Babylonian%20Religion'
+artifacts:
+  - title: Babylonian Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Babylonian_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Babylonian Religion.
+  - title: Babylonian Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Babylonian Religion

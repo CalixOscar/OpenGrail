@@ -1,23 +1,63 @@
 ---
-id: "ashkenazi-judaism"
-title: "Ashkenazi Judaism"
-cluster: "Abrahamic"
-color: "#cfb768"
-era_start: "c. 10th century CE"
-epistemic_tier: "academic_consensus"
-summary: "Rabbinic traditions shaped among Jewish communities of Central and Eastern Europe and their global diasporas."
+id: ashkenazi-judaism
+title: Ashkenazi Judaism
+cluster: Abrahamic
+color: '#cfb768'
+era_start: c. 10th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  Rabbinic traditions shaped among Jewish communities of Central and Eastern
+  Europe and their global diasporas.
 aliases:
-  - "Ashkenazi Jews"
-  - "Ashkenazim"
+  - Ashkenazi Jews
+  - Ashkenazim
 canonical_texts:
-  - "Hebrew Bible"
-  - "Babylonian Talmud"
-  - "Machzor Vitry"
-  - "Shulchan Aruch with Ashkenazi glosses"
+  - Hebrew Bible
+  - Babylonian Talmud
+  - Machzor Vitry
+  - Shulchan Aruch with Ashkenazi glosses
 relations:
-  - target: "rabbinic-judaism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: rabbinic-judaism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 950
+origin_geo:
+  lat: 32.1105
+  lng: 35.6304
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Covenant & Monotheism: Eternal reciprocal covenant between YHWH and the
+    Jewish people based on the divine command to be a holy nation.
+  - >-
+    Torah (Written and Oral): Comprehensive guidance for life encompassing the
+    Written Torah and Oral Torah (Mishnah and Talmud).
+  - >-
+    Halakha & Mitzvot: Observance of the 613 commandments structuring daily
+    life, ethics, prayer, dietary laws, and Shabbat sanctification.
+sources:
+  - title: 'Encyclopaedia Britannica: "Ashkenazi Judaism"'
+    url: 'https://www.britannica.com/topic/ashkenazi-judaism'
+  - title: 'Oxford Reference: Overview of Ashkenazi Judaism'
+    url: 'https://www.oxfordreference.com/search?q=Ashkenazi%20Judaism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Ashkenazi Judaism'
+    url: 'https://www.cambridge.org/core/search?q=Ashkenazi%20Judaism'
+artifacts:
+  - title: Western Wall & Second Temple Foundation
+    url: 'https://en.wikipedia.org/wiki/Western_Wall'
+    provenance: 'Old City, Jerusalem'
+    period: c. 19 BCE (Herodian Era)
+    description: >-
+      The holiest prayer site of Jewish tradition, surviving western retaining
+      wall of the Second Temple complex.
+  - title: Aleppo Codex Masoretic Hebrew Bible Manuscript
+    url: 'https://en.wikipedia.org/wiki/Aleppo_Codex'
+    provenance: Tiberias & Jerusalem
+    period: c. 920 CE
+    description: >-
+      Authoritative parchment manuscript of the Hebrew Bible with Masoretic
+      vocalization and cantillation marks.
 ---
 
 # Ashkenazi Judaism

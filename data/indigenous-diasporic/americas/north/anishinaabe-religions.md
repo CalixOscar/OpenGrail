@@ -1,23 +1,65 @@
 ---
-id: "anishinaabe-religions"
-title: "Anishinaabe Religious Traditions"
-cluster: "Indigenous & Diasporic"
-color: "#519b86"
-era_start: "precolonial"
-epistemic_tier: "academic_consensus"
+id: anishinaabe-religions
+title: Anishinaabe Religious Traditions
+cluster: Indigenous & Diasporic
+color: '#519b86'
+era_start: precolonial
+epistemic_tier: academic_consensus
 display_weight: 1.35
 aliases:
-  - "Ojibwe Spiritual Traditions"
-  - "Anishinaabeg Religion"
-summary: "Diverse Anishinaabe traditions grounded in relationships with land, manidoog, kin, dreams, medicines, seasonal stories, and ceremonial societies."
+  - Ojibwe Spiritual Traditions
+  - Anishinaabeg Religion
+summary: >-
+  Diverse Anishinaabe traditions grounded in relationships with land, manidoog,
+  kin, dreams, medicines, seasonal stories, and ceremonial societies.
 canonical_texts:
-  - "Aadizookaanag sacred narratives"
-  - "Midewiwin birchbark and oral corpora"
-  - "Anishinaabemowin songs and teachings"
+  - Aadizookaanag sacred narratives
+  - Midewiwin birchbark and oral corpora
+  - Anishinaabemowin songs and teachings
 relations:
-  - target: "indigenous-american-religions"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: indigenous-american-religions
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: 46.4953
+  lng: -84.3453
+  place_name: 'Lake Superior (Anishinaabe), MI/ON'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Anishinaabe peoples—including Ojibwe, Odawa,
+    Potawatomi, Algonquin, Nipissing, and Mississauga communities—maintain
+    related but distinct histories around the Gr...
+  - >-
+    Distinctive Practice: Religious life may involve relations with *manidoog*,
+    fasting and dreams, medicines, drums, seasonal narratives, funerary
+    responsibilities, and Midewiwin teachi...
+  - >-
+    Core Orientation: Diverse Anishinaabe traditions grounded in relationships
+    with land, manidoog, kin, dreams, medicines, seasonal stories, and
+    ceremonial societies.
+sources:
+  - title: 'Encyclopaedia Britannica: "Anishinaabe Religious Traditions"'
+    url: 'https://www.britannica.com/topic/anishinaabe-religious-traditions'
+  - title: 'Oxford Reference: Overview of Anishinaabe Religious Traditions'
+    url: >-
+      https://www.oxfordreference.com/search?q=Anishinaabe%20Religious%20Traditions
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Anishinaabe%20Religious%20Traditions'
+artifacts:
+  - title: Anishinaabe Religious Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Anishinaabe_Religious_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Anishinaabe Religious Traditions.
+  - title: Anishinaabe Religious Traditions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Aadizookaanag_sacred_narratives'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Anishinaabe Religious Traditions

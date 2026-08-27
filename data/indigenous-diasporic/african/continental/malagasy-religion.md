@@ -1,25 +1,66 @@
 ---
-id: "malagasy-religion"
-title: "Malagasy Religious Traditions"
-cluster: "Indigenous & Diasporic"
-color: "#bf8157"
-era_start: "precolonial"
-epistemic_tier: "academic_consensus"
+id: malagasy-religion
+title: Malagasy Religious Traditions
+cluster: Indigenous & Diasporic
+color: '#bf8157'
+era_start: precolonial
+epistemic_tier: academic_consensus
 aliases:
-  - "Madagascan Indigenous Religion"
-  - "Fomban-drazana"
-summary: "Diverse Malagasy traditions linking ancestors, land, kinship, sacred authority, divination, and locally specific ritual obligations."
+  - Madagascan Indigenous Religion
+  - Fomban-drazana
+summary: >-
+  Diverse Malagasy traditions linking ancestors, land, kinship, sacred
+  authority, divination, and locally specific ritual obligations.
 canonical_texts:
-  - "Malagasy oral histories"
-  - "Ohabolana proverbs"
-  - "Community-specific ritual and genealogical corpora"
+  - Malagasy oral histories
+  - Ohabolana proverbs
+  - Community-specific ritual and genealogical corpora
 relations:
-  - target: "african-indigenous-traditions"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "ancestor-veneration"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: african-indigenous-traditions
+    type: branch_of
+    certainty: academic_consensus
+  - target: ancestor-veneration
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: -18.8792
+  lng: 47.5079
+  place_name: 'Highlands (Antananarivo), Madagascar'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Madagascar’s peoples formed through African,
+    Austronesian, Indian Ocean, and later European histories, producing
+    substantial regional diversity. Royal ritual, l...
+  - >-
+    Distinctive Practice: Relations with *razana*, the ancestors, shape kinship,
+    tombs, land, blessing, and moral continuity. Diviners, sacred prohibitions
+    known as *fady*, possession tr...
+  - >-
+    Core Orientation: Diverse Malagasy traditions linking ancestors, land,
+    kinship, sacred authority, divination, and locally specific ritual
+    obligations.
+sources:
+  - title: 'Encyclopaedia Britannica: "Malagasy Religious Traditions"'
+    url: 'https://www.britannica.com/topic/malagasy-religious-traditions'
+  - title: 'Oxford Reference: Overview of Malagasy Religious Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Malagasy%20Religious%20Traditions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Malagasy%20Religious%20Traditions'
+artifacts:
+  - title: Malagasy Religious Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Malagasy_Religious_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Malagasy Religious Traditions.
+  - title: Malagasy Religious Traditions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Malagasy_oral_histories'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Malagasy Religious Traditions

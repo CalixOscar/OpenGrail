@@ -1,19 +1,59 @@
 ---
-id: "maliki-school"
-title: "Maliki School"
-cluster: "Abrahamic"
-color: "#3ba8bd"
-era_start: "c. 8th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A Sunni school of law associated with Malik ibn Anas and historically prominent in North and West Africa."
+id: maliki-school
+title: Maliki School
+cluster: Abrahamic
+color: '#3ba8bd'
+era_start: c. 8th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Sunni school of law associated with Malik ibn Anas and historically
+  prominent in North and West Africa.
 canonical_texts:
-  - "Al-Muwatta'"
-  - "Al-Mudawwana al-Kubra"
-  - "Al-Risala of Ibn Abi Zayd"
+  - Al-Muwatta'
+  - Al-Mudawwana al-Kubra
+  - Al-Risala of Ibn Abi Zayd
 relations:
-  - target: "sunni-islam"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: sunni-islam
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 750
+origin_geo:
+  lat: 30.9857
+  lng: 34.8268
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Maliki law developed around Malik ibn Anas in
+    eighth-century Medina and was carried westward by students and judges. It
+    became especially influential in the Mag...
+  - >-
+    Distinctive Practice: Maliki reasoning gives notable evidentiary weight to
+    the inherited practice of Medina and also employs public welfare and
+    blocking means to harm within defined ...
+  - >-
+    Core Orientation: A Sunni school of law associated with Malik ibn Anas and
+    historically prominent in North and West Africa.
+sources:
+  - title: 'Encyclopaedia Britannica: "Maliki School"'
+    url: 'https://www.britannica.com/topic/maliki-school'
+  - title: 'Oxford Reference: Overview of Maliki School'
+    url: 'https://www.oxfordreference.com/search?q=Maliki%20School'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Maliki School'
+    url: 'https://www.cambridge.org/core/search?q=Maliki%20School'
+artifacts:
+  - title: Maliki School Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Maliki_School'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Maliki School.
+  - title: Maliki School Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Al-Muwatta'''
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Maliki School

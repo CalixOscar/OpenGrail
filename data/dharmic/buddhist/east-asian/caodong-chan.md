@@ -1,22 +1,62 @@
 ---
-id: "caodong-chan"
-title: "Caodong Chan"
-cluster: "Dharmic"
-color: "#e99437"
-era_start: "9th century CE"
-epistemic_tier: "academic_consensus"
+id: caodong-chan
+title: Caodong Chan
+cluster: Dharmic
+color: '#e99437'
+era_start: 9th century CE
+epistemic_tier: academic_consensus
 aliases:
-  - "Tsao-tung Chan"
-  - "Caodong School"
-summary: "A Chinese Chan lineage associated with Dongshan Liangjie and Caoshan Benji, later central to Sōtō Zen transmission."
+  - Tsao-tung Chan
+  - Caodong School
+summary: >-
+  A Chinese Chan lineage associated with Dongshan Liangjie and Caoshan Benji,
+  later central to Sōtō Zen transmission.
 canonical_texts:
-  - "Record of Dongshan"
-  - "Song of the Precious Mirror Samādhi"
-  - "Book of Equanimity"
+  - Record of Dongshan
+  - Song of the Precious Mirror Samādhi
+  - Book of Equanimity
 relations:
-  - target: "chan"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: chan
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 850
+origin_geo:
+  lat: 25.1381
+  lng: 83.443
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Bodhisattva Ideal: Compassionate aspiration to attain complete Buddhahood
+    for the universal liberation of all sentient beings.
+  - >-
+    Shunyata (Emptiness): Radical insight that all phenomena are empty of
+    inherent, independent existence and interdependently originated.
+  - >-
+    Buddha-Nature (Tathagatagarbha): Innate potential for awakening present
+    within every conscious being.
+sources:
+  - title: 'Encyclopaedia Britannica: "Caodong Chan"'
+    url: 'https://www.britannica.com/topic/caodong-chan'
+  - title: 'Oxford Reference: Overview of Caodong Chan'
+    url: 'https://www.oxfordreference.com/search?q=Caodong%20Chan'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=Caodong%20Chan'
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Caodong Chan

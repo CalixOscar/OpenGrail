@@ -1,26 +1,66 @@
 ---
-id: "japanese-confucianism"
-title: "Japanese Confucian Traditions"
-cluster: "East Asian"
-color: "#4caf76"
-era_start: "c. 6th century CE"
-epistemic_tier: "academic_consensus"
+id: japanese-confucianism
+title: Japanese Confucian Traditions
+cluster: East Asian
+color: '#4caf76'
+era_start: c. 6th century CE
+epistemic_tier: academic_consensus
 display_weight: 1.35
 aliases:
-  - "Japanese Confucianism"
-  - "Jukyō"
-summary: "Japanese traditions of Confucian learning, ethics, ritual, and political thought, especially diverse and influential in the Tokugawa period."
+  - Japanese Confucianism
+  - Jukyō
+summary: >-
+  Japanese traditions of Confucian learning, ethics, ritual, and political
+  thought, especially diverse and influential in the Tokugawa period.
 canonical_texts:
-  - "Four Books and Five Classics"
-  - "Reflections on Things at Hand"
-  - "Tokugawa Confucian commentaries"
+  - Four Books and Five Classics
+  - Reflections on Things at Hand
+  - Tokugawa Confucian commentaries
 relations:
-  - target: "confucianism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "neo-confucianism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: confucianism
+    type: branch_of
+    certainty: academic_consensus
+  - target: neo-confucianism
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 550
+origin_geo:
+  lat: 35.352
+  lng: 117.2506
+  place_name: 'Qufu, Shandong, China'
+extinct_year: null
+key_tenets:
+  - >-
+    Ren (Benevolence) & Li (Ritual Propriety): Cultivation of supreme humaneness
+    through respectful observance of social roles and moral etiquette.
+  - >-
+    Five Cardinal Relationships: Ethical harmony structured through reciprocal
+    duties between ruler-subject, parent-child, spouse, siblings, and friends.
+  - >-
+    Self-Cultivation & Junzi: Lifelong moral education aiming to become an
+    exemplary person of integrity dedicated to public good and family piety
+    (Xiao).
+sources:
+  - title: 'Encyclopaedia Britannica: "Japanese Confucian Traditions"'
+    url: 'https://www.britannica.com/topic/japanese-confucian-traditions'
+  - title: 'Oxford Reference: Overview of Japanese Confucian Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Japanese%20Confucian%20Traditions'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: >-
+      https://plato.stanford.edu/search/searcher.py?query=Japanese%20Confucian%20Traditions
+artifacts:
+  - title: Wudang Mountain Sacred Golden Hall Complex
+    url: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
+    provenance: 'Hubei, China'
+    period: 1416 CE
+    description: >-
+      Imperial architectural shrine of Daoist alchemy and philosophical
+      meditation.
+  - title: Mawangdui Silk Laozi Manuscripts
+    url: 'https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts'
+    provenance: 'Changsha, Hunan, China'
+    period: c. 168 BCE (Han Dynasty)
+    description: Ancient silk manuscripts preserving early versions of the Daodejing.
 ---
 
 # Japanese Confucian Traditions

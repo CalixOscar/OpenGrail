@@ -1,19 +1,61 @@
 ---
-id: "svetambara"
-title: "Śvetāmbara Jainism"
-cluster: "Dharmic"
-color: "#fb923c"
-era_start: "c. 1st century CE"
-epistemic_tier: "academic_consensus"
-summary: "A major Jain tradition of white-robed mendicants preserving an Āgama canon and diverse temple and reform lineages."
+id: svetambara
+title: Śvetāmbara Jainism
+cluster: Dharmic
+color: '#fb923c'
+era_start: c. 1st century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A major Jain tradition of white-robed mendicants preserving an Āgama canon and
+  diverse temple and reform lineages.
 canonical_texts:
-  - "Śvetāmbara Āgamas"
-  - "Kalpa Sūtra"
-  - "Tattvārtha Sūtra"
+  - Śvetāmbara Āgamas
+  - Kalpa Sūtra
+  - Tattvārtha Sūtra
 relations:
-  - target: "jainism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: jainism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 50
+origin_geo:
+  lat: 25.5858
+  lng: 85.4989
+  place_name: 'Pataliputra (Patna), Bihar, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Śvetāmbara institutions developed principally in
+    western and northern India through mendicant orders, lay patronage,
+    pilgrimage centers, manuscript culture, and...
+  - >-
+    Distinctive Practice: Śvetāmbara monks and nuns wear white robes and the
+    tradition accepts that women can attain liberation. Image-worshiping temple
+    communities coexist with Sthānaka...
+  - >-
+    Core Orientation: A major Jain tradition of white-robed mendicants
+    preserving an Āgama canon and diverse temple and reform lineages.
+sources:
+  - title: 'Encyclopaedia Britannica: "Śvetāmbara Jainism"'
+    url: 'https://www.britannica.com/topic/-vet-mbara-jainism'
+  - title: 'Oxford Reference: Overview of Śvetāmbara Jainism'
+    url: 'https://www.oxfordreference.com/search?q=%C5%9Avet%C4%81mbara%20Jainism'
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: 'https://www.rep.routledge.com/search?query=%C5%9Avet%C4%81mbara%20Jainism'
+artifacts:
+  - title: Gommateshwara Bahubali Monolithic Statue
+    url: 'https://en.wikipedia.org/wiki/Gommateshwara_statue'
+    provenance: 'Shravanabelagola, Karnataka'
+    period: 981 CE
+    description: >-
+      A 57-foot monolithic granite statue commemorating the supreme detachment
+      and ahimsa of Lord Bahubali.
+  - title: Dilwara Marble Temple Carvings
+    url: 'https://en.wikipedia.org/wiki/Dilwara_Temples'
+    provenance: 'Mount Abu, Rajasthan'
+    period: 11th-13th century CE
+    description: >-
+      Intricately carved white marble ceilings depicting the spiritual
+      liberation of the Tirthankaras.
 ---
 
 # Śvetāmbara Jainism

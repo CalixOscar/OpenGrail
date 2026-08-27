@@ -1,25 +1,65 @@
 ---
-id: "memphite-theology"
-title: "Memphite Theology"
-cluster: "Ancient Near East"
-color: "#d5ac5d"
-era_start: "c. 1st millennium BCE"
-epistemic_tier: "academic_consensus"
-summary: "A learned Egyptian creation tradition centered on Ptah of Memphis, especially known from the Shabaka Stone."
+id: memphite-theology
+title: Memphite Theology
+cluster: Ancient Near East
+color: '#d5ac5d'
+era_start: c. 1st millennium BCE
+epistemic_tier: academic_consensus
+summary: >-
+  A learned Egyptian creation tradition centered on Ptah of Memphis, especially
+  known from the Shabaka Stone.
 aliases:
-  - "Memphite cosmogony"
-  - "Theology of Ptah"
+  - Memphite cosmogony
+  - Theology of Ptah
 canonical_texts:
-  - "Shabaka Stone"
-  - "Memphite temple inscriptions"
-  - "Hymns to Ptah"
+  - Shabaka Stone
+  - Memphite temple inscriptions
+  - Hymns to Ptah
 relations:
-  - target: "ancient-egyptian-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "heliopolitan-theology"
-    type: "parallel_concept"
-    certainty: "academic_consensus"
+  - target: ancient-egyptian-religion
+    type: branch_of
+    certainty: academic_consensus
+  - target: heliopolitan-theology
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: -500
+origin_geo:
+  lat: 25.4513
+  lng: 32.5819
+  place_name: 'Thebes (Luxor), Ancient Egypt'
+extinct_year: 390
+key_tenets:
+  - >-
+    Foundational Doctrine: Memphis was a royal and artisan center whose chief
+    god Ptah gained wide importance. The Shabaka Stone presents Ptah as creating
+    gods and the ordered world throu...
+  - >-
+    Distinctive Practice: The modern phrase “Memphite theology” identifies a
+    textual and priestly formulation rather than a separate religion. Its
+    language of thought and speech has prom...
+  - >-
+    Core Orientation: A learned Egyptian creation tradition centered on Ptah of
+    Memphis, especially known from the Shabaka Stone.
+sources:
+  - title: 'Encyclopaedia Britannica: "Memphite Theology"'
+    url: 'https://www.britannica.com/topic/memphite-theology'
+  - title: 'Oxford Reference: Overview of Memphite Theology'
+    url: 'https://www.oxfordreference.com/search?q=Memphite%20Theology'
+  - title: 'Brill Handbook of Religious Traditions: Memphite Theology'
+    url: 'https://brill.com/search?q=Memphite%20Theology'
+artifacts:
+  - title: Memphite Theology Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Memphite_Theology'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Memphite Theology.
+  - title: Memphite Theology Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Shabaka_Stone'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Memphite Theology

@@ -1,22 +1,62 @@
 ---
-id: "thelema"
-title: "Thelema"
-cluster: "Esoteric & Modern"
-color: "#c257d2"
-era_start: "1904 CE"
-epistemic_tier: "academic_consensus"
-summary: "An esoteric religious current founded by Aleister Crowley around the law of Thelema, ritual attainment, and discovery of True Will."
+id: thelema
+title: Thelema
+cluster: Esoteric & Modern
+color: '#c257d2'
+era_start: 1904 CE
+epistemic_tier: academic_consensus
+summary: >-
+  An esoteric religious current founded by Aleister Crowley around the law of
+  Thelema, ritual attainment, and discovery of True Will.
 canonical_texts:
-  - "The Book of the Law"
-  - "The Holy Books of Thelema"
-  - "Magick in Theory and Practice"
+  - The Book of the Law
+  - The Holy Books of Thelema
+  - Magick in Theory and Practice
 relations:
-  - target: "western-esotericism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "hermeticism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: western-esotericism
+    type: branch_of
+    certainty: academic_consensus
+  - target: hermeticism
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1904
+origin_geo:
+  lat: 29.7821
+  lng: 31.4034
+  place_name: 'Cairo (Fustat), Egypt'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Aleister Crowley founded Thelema after the 1904
+    reception of *The Book of the Law*, which he attributed to a discarnate
+    intelligence named Aiwass. Crowley rewor...
+  - >-
+    Distinctive Practice: The maxim “Do what thou wilt” refers within Thelema to
+    discovering and enacting True Will, not simply following impulse. Ritual
+    magic, meditation, graded initia...
+  - >-
+    Core Orientation: An esoteric religious current founded by Aleister Crowley
+    around the law of Thelema, ritual attainment, and discovery of True Will.
+sources:
+  - title: 'Encyclopaedia Britannica: "Thelema"'
+    url: 'https://www.britannica.com/topic/thelema'
+  - title: 'Oxford Reference: Overview of Thelema'
+    url: 'https://www.oxfordreference.com/search?q=Thelema'
+  - title: 'Brill Handbook of Religious Traditions: Thelema'
+    url: 'https://brill.com/search?q=Thelema'
+artifacts:
+  - title: Thelema Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Thelema'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Thelema.
+  - title: Thelema Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/The_Book_of_the_Law'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Thelema

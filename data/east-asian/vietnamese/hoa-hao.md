@@ -1,26 +1,70 @@
 ---
-id: "hoa-hao"
-title: "Hòa Hảo Buddhism"
-cluster: "East Asian"
-color: "#4fb47f"
-era_start: "1939 CE"
-epistemic_tier: "academic_consensus"
+id: hoa-hao
+title: Hòa Hảo Buddhism
+cluster: East Asian
+color: '#4fb47f'
+era_start: 1939 CE
+epistemic_tier: academic_consensus
 display_weight: 1.35
 aliases:
-  - "Phật giáo Hòa Hảo"
-  - "Hoa Hao"
-summary: "A Vietnamese Buddhist reform religion founded by Huỳnh Phú Sổ in the Mekong Delta, emphasizing accessible household practice and social ethics."
+  - Phật giáo Hòa Hảo
+  - Hoa Hao
+summary: >-
+  A Vietnamese Buddhist reform religion founded by Huỳnh Phú Sổ in the Mekong
+  Delta, emphasizing accessible household practice and social ethics.
 canonical_texts:
-  - "Sấm giảng"
-  - "Thi văn giáo lý"
-  - "Three Pure Land Sūtras"
+  - Sấm giảng
+  - Thi văn giáo lý
+  - Three Pure Land Sūtras
 relations:
-  - target: "buddhism"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "vietnamese-folk-religion"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: buddhism
+    type: branch_of
+    certainty: academic_consensus
+  - target: vietnamese-folk-religion
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1939
+origin_geo:
+  lat: 10.5333
+  lng: 105.3333
+  place_name: 'Chau Doc / An Giang, Mekong Delta, Vietnam'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Huỳnh Phú Sổ began preaching in 1939 in the western
+    Mekong Delta, building on the earlier Bửu Sơn Kỳ Hương reform environment.
+    The movement grew rapidly among r...
+  - >-
+    Distinctive Practice: Hòa Hảo teaching encourages Buddhist moral reform,
+    simple home altars, remembrance of ancestors, charity, and reduced
+    dependence on costly ceremonies or monasti...
+  - >-
+    Core Orientation: A Vietnamese Buddhist reform religion founded by Huỳnh Phú
+    Sổ in the Mekong Delta, emphasizing accessible household practice and social
+    ethics.
+sources:
+  - title: 'Encyclopaedia Britannica: "Hòa Hảo Buddhism"'
+    url: 'https://www.britannica.com/topic/h-a-h-o-buddhism'
+  - title: 'Oxford Reference: Overview of Hòa Hảo Buddhism'
+    url: 'https://www.oxfordreference.com/search?q=H%C3%B2a%20H%E1%BA%A3o%20Buddhism'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: >-
+      https://plato.stanford.edu/search/searcher.py?query=H%C3%B2a%20H%E1%BA%A3o%20Buddhism
+artifacts:
+  - title: Mahabodhi Temple Enlightenment Complex
+    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
+    description: >-
+      UNESCO World Heritage stone temple constructed around the sacred Bodhi
+      Tree where Siddhartha Gautama attained awakening.
+  - title: Sarnath Dharmachakra Buddha Stone Sculpture
+    url: 'https://en.wikipedia.org/wiki/Sarnath'
+    provenance: 'Sarnath, Varanasi, India'
+    period: c. 5th century CE (Gupta Period)
+    description: >-
+      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
+      the Law (Dharmachakra Pravartana).
 ---
 
 # Hòa Hảo Buddhism

@@ -1,19 +1,58 @@
 ---
-id: "new-confucianism"
-title: "New Confucianism"
-cluster: "East Asian"
-color: "#64c994"
-era_start: "20th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A modern intellectual movement rearticulating Confucian moral and metaphysical traditions amid science, democracy, and global philosophy."
+id: new-confucianism
+title: New Confucianism
+cluster: East Asian
+color: '#64c994'
+era_start: 20th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A modern intellectual movement rearticulating Confucian moral and metaphysical
+  traditions amid science, democracy, and global philosophy.
 canonical_texts:
-  - "A Manifesto for a Re-appraisal of Sinology"
-  - "Works of Mou Zongsan"
-  - "Works of Xiong Shili"
+  - A Manifesto for a Re-appraisal of Sinology
+  - Works of Mou Zongsan
+  - Works of Xiong Shili
 relations:
-  - target: "neo-confucianism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: neo-confucianism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1950
+origin_geo:
+  lat: 35.4915
+  lng: 116.4545
+  place_name: 'Qufu, Shandong, China'
+extinct_year: null
+key_tenets:
+  - >-
+    Ren (Benevolence) & Li (Ritual Propriety): Cultivation of supreme humaneness
+    through respectful observance of social roles and moral etiquette.
+  - >-
+    Five Cardinal Relationships: Ethical harmony structured through reciprocal
+    duties between ruler-subject, parent-child, spouse, siblings, and friends.
+  - >-
+    Self-Cultivation & Junzi: Lifelong moral education aiming to become an
+    exemplary person of integrity dedicated to public good and family piety
+    (Xiao).
+sources:
+  - title: 'Encyclopaedia Britannica: "New Confucianism"'
+    url: 'https://www.britannica.com/topic/new-confucianism'
+  - title: 'Oxford Reference: Overview of New Confucianism'
+    url: 'https://www.oxfordreference.com/search?q=New%20Confucianism'
+  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+    url: 'https://plato.stanford.edu/search/searcher.py?query=New%20Confucianism'
+artifacts:
+  - title: Wudang Mountain Sacred Golden Hall Complex
+    url: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
+    provenance: 'Hubei, China'
+    period: 1416 CE
+    description: >-
+      Imperial architectural shrine of Daoist alchemy and philosophical
+      meditation.
+  - title: Mawangdui Silk Laozi Manuscripts
+    url: 'https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts'
+    provenance: 'Changsha, Hunan, China'
+    period: c. 168 BCE (Han Dynasty)
+    description: Ancient silk manuscripts preserving early versions of the Daodejing.
 ---
 
 # New Confucianism

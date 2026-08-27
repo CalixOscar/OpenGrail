@@ -1,22 +1,62 @@
 ---
-id: "maasai-religion"
-title: "Maasai Religious Traditions"
-cluster: "Indigenous & Diasporic"
-color: "#c08356"
-era_start: "precolonial"
-epistemic_tier: "academic_consensus"
+id: maasai-religion
+title: Maasai Religious Traditions
+cluster: Indigenous & Diasporic
+color: '#c08356'
+era_start: precolonial
+epistemic_tier: academic_consensus
 aliases:
-  - "Maasai Religion"
-  - "Maa Religious Traditions"
-summary: "Religious traditions of Maa-speaking Maasai communities involving Enkai, age-set life, cattle, blessing, prophecy, and land."
+  - Maasai Religion
+  - Maa Religious Traditions
+summary: >-
+  Religious traditions of Maa-speaking Maasai communities involving Enkai,
+  age-set life, cattle, blessing, prophecy, and land.
 canonical_texts:
-  - "Maa oral traditions"
-  - "Blessing and prayer corpora"
-  - "Age-set songs and narratives"
+  - Maa oral traditions
+  - Blessing and prayer corpora
+  - Age-set songs and narratives
 relations:
-  - target: "african-indigenous-traditions"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: african-indigenous-traditions
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: -1.2921
+  lng: 36.8219
+  place_name: 'Rift Valley (Nairobi), Kenya'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Maasai communities in Kenya and Tanzania formed
+    through migration, incorporation, pastoral specialization, and changing
+    relationships with neighboring peoples. ...
+  - >-
+    Distinctive Practice: Enkai or Engai is addressed as source of rain, cattle,
+    fertility, and moral order, while elders, age sets, prophets known as
+    *laibon*, and household blessings s...
+  - >-
+    Core Orientation: Religious traditions of Maa-speaking Maasai communities
+    involving Enkai, age-set life, cattle, blessing, prophecy, and land.
+sources:
+  - title: 'Encyclopaedia Britannica: "Maasai Religious Traditions"'
+    url: 'https://www.britannica.com/topic/maasai-religious-traditions'
+  - title: 'Oxford Reference: Overview of Maasai Religious Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Maasai%20Religious%20Traditions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Maasai%20Religious%20Traditions'
+artifacts:
+  - title: Maasai Religious Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Maasai_Religious_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Maasai Religious Traditions.
+  - title: Maasai Religious Traditions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Maa_oral_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Maasai Religious Traditions

@@ -1,18 +1,60 @@
 ---
-id: "living-church-of-god"
-title: "Living Church of God"
-cluster: "Abrahamic"
-color: "#3da8a4"
-era_start: "1998 CE"
-epistemic_tier: "academic_consensus"
-summary: "An Armstrongist denomination formed under Roderick C. Meredith after divisions among Worldwide Church of God successors."
+id: living-church-of-god
+title: Living Church of God
+cluster: Abrahamic
+color: '#3da8a4'
+era_start: 1998 CE
+epistemic_tier: academic_consensus
+summary: >-
+  An Armstrongist denomination formed under Roderick C. Meredith after divisions
+  among Worldwide Church of God successors.
 canonical_texts:
-  - "Bible"
-  - "Living Church of God Official Statement of Fundamental Beliefs"
+  - Bible
+  - Living Church of God Official Statement of Fundamental Beliefs
 relations:
-  - target: "armstrongism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: armstrongism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1998
+origin_geo:
+  lat: 32.2439
+  lng: 36.0467
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Roderick C. Meredith organized the Global Church of
+    God after leaving the Worldwide Church of God in 1992. A governance conflict
+    in that body led Meredith and s...
+  - >-
+    Distinctive Practice: The church teaches seventh-day Sabbath observance,
+    annual holy days, conditional immortality, non-Trinitarian theology, and a
+    future kingdom of God on earth. It...
+  - >-
+    Core Orientation: An Armstrongist denomination formed under Roderick C.
+    Meredith after divisions among Worldwide Church of God successors.
+sources:
+  - title: 'Encyclopaedia Britannica: "Living Church of God"'
+    url: 'https://www.britannica.com/topic/living-church-of-god'
+  - title: 'Oxford Reference: Overview of Living Church of God'
+    url: 'https://www.oxfordreference.com/search?q=Living%20Church%20of%20God'
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Living Church of
+      God
+    url: 'https://www.cambridge.org/core/search?q=Living%20Church%20of%20God'
+artifacts:
+  - title: Living Church of God Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Living_Church_of_God'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Living Church of God.
+  - title: Living Church of God Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Living Church of God

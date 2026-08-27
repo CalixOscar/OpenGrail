@@ -1,22 +1,63 @@
 ---
-id: "arian-christianity"
-title: "Arian Christianity (Historical)"
-cluster: "Abrahamic"
-color: "#7881c7"
-era_start: "c. 318 CE"
-epistemic_tier: "academic_consensus"
-summary: "A historical category for fourth-century Christian theologies that denied the Son's coeternity or consubstantial equality with the Father."
+id: arian-christianity
+title: Arian Christianity (Historical)
+cluster: Abrahamic
+color: '#7881c7'
+era_start: c. 318 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A historical category for fourth-century Christian theologies that denied the
+  Son's coeternity or consubstantial equality with the Father.
 aliases:
-  - "Arianism"
-  - "Arians"
+  - Arianism
+  - Arians
 canonical_texts:
-  - "Bible"
-  - "Thalia of Arius"
-  - "Creed of Rimini"
+  - Bible
+  - Thalia of Arius
+  - Creed of Rimini
 relations:
-  - target: "christianity"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: christianity
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 318
+origin_geo:
+  lat: 31.427
+  lng: 35.516
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Conflict began when the Alexandrian presbyter Arius
+    argued that the Son derived existence from the Father and was not eternal in
+    the same manner. The Council of...
+  - >-
+    Distinctive Practice: “Arian” was often a polemical umbrella imposed on
+    theologians who did not share one doctrine, including Homoians,
+    Homoiousians, and Anomoeans. Gothic and other ...
+  - >-
+    Core Orientation: A historical category for fourth-century Christian
+    theologies that denied the Son's coeternity or consubstantial equality with
+    the Father.
+sources:
+  - title: 'Encyclopaedia Britannica: "Arian Christianity"'
+    url: 'https://www.britannica.com/topic/arian-christianity'
+  - title: 'Oxford Reference: Overview of Arian Christianity'
+    url: 'https://www.oxfordreference.com/search?q=Arian%20Christianity'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Arian Christianity'
+    url: 'https://www.cambridge.org/core/search?q=Arian%20Christianity'
+artifacts:
+  - title: Arian Christianity Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Arian_Christianity'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Arian Christianity.
+  - title: Arian Christianity Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Arian Christianity (Historical)

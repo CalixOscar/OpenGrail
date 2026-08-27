@@ -70,11 +70,14 @@ export interface GraphCanvasHandle {
 export interface GraphCanvasProps {
   graphData: GraphData;
   selectedNodeId: string | null;
+  selectedLinkId?: string | null;
   onSelectNode: (nodeId: string | null) => void;
+  onSelectLink?: (linkId: string | null) => void;
   activeTiers: ReadonlySet<EpistemicTier>;
   activeRelationTypes: ReadonlySet<RelationType>;
   searchQuery: string;
   clusterLayout: boolean;
+  currentYear?: number;
   className?: string;
 }
 
@@ -240,11 +243,14 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
     {
       graphData,
       selectedNodeId,
+      selectedLinkId,
       onSelectNode,
+      onSelectLink,
       activeTiers,
       activeRelationTypes,
       searchQuery,
       clusterLayout,
+      currentYear = new Date().getFullYear(),
       className = '',
     },
     forwardedRef,
@@ -276,6 +282,11 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
       observer.observe(container);
       return () => observer.disconnect();
     }, []);
+
+    const rawNodeById = useMemo(
+      () => new Map(graphData.nodes.map((node) => [node.id, node])),
+      [graphData.nodes],
+    );
 
     const visibleNodeIds = useMemo(
       () =>
@@ -360,13 +371,16 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         ));
 
       const links = graphData.links
-        .filter(
-          (link) =>
-            visibleNodeIds.has(link.source) &&
-            visibleNodeIds.has(link.target) &&
-            activeTiers.has(link.certainty) &&
-            activeRelationTypes.has(link.type),
-        )
+        .filter((link) => {
+          if (!visibleNodeIds.has(link.source) || !visibleNodeIds.has(link.target)) return false;
+          if (!activeTiers.has(link.certainty) || !activeRelationTypes.has(link.type)) return false;
+          const srcNode = rawNodeById.get(link.source);
+          const tgtNode = rawNodeById.get(link.target);
+          const srcYear = srcNode?.origin_year ?? srcNode?.originYear ?? 0;
+          const tgtYear = tgtNode?.origin_year ?? tgtNode?.originYear ?? 0;
+          const maxOriginYear = Math.max(srcYear, tgtYear);
+          return maxOriginYear <= currentYear;
+        })
         .map((link) => ({ ...link })) as CanvasLink[];
 
       return { nodes, links };
@@ -374,10 +388,12 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
       activeRelationTypes,
       activeTiers,
       clusterCenters,
-      clusterPlacement,
       clusterLayout,
+      clusterPlacement,
+      currentYear,
       graphData.links,
       graphData.nodes,
+      rawNodeById,
       visibleNodeIds,
     ]);
 
@@ -703,6 +719,11 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         globalScale: number,
       ) => {
         if (typeof node.x !== 'number' || typeof node.y !== 'number') return;
+        const originYear = node.origin_year ?? node.originYear ?? 0;
+        const isFuture = originYear > currentYear;
+        const extinctYear = node.extinct_year ?? node.extinctYear;
+        const isExtinct = extinctYear !== null && extinctYear !== undefined && currentYear >= extinctYear;
+
         const isSelected = node.id === selectedNodeId;
         const isHovered = node.id === hoveredNodeId;
         const isSearchMatch = searchMatchIds.has(node.id);
@@ -711,33 +732,37 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         const color = node.color || FALLBACK_NODE_COLOR;
         const radius = nodeRadius(node) + (isSelected ? 1.2 : 0);
         const displayWeight = clamp(node.displayWeight || 1, 0.75, 3);
-        let opacity = 0.96;
+        let opacity = isFuture ? 0.05 : isExtinct ? 0.45 : 0.96;
 
-        if (hasSelection && !isConnected) opacity *= 0.2;
-        if (normalizedQuery && !isSearchMatch) opacity *= 0.16;
+        if (!isFuture) {
+          if (hasSelection && !isConnected) opacity *= 0.68;
+          if (normalizedQuery && !isSearchMatch) opacity *= 0.35;
+        }
 
         context.save();
         context.globalAlpha = opacity;
 
-        const haloRadius = radius * (isSelected ? 3.2 : isHovered ? 2.8 : 2.25);
-        const halo = context.createRadialGradient(
-          node.x,
-          node.y,
-          radius * 0.35,
-          node.x,
-          node.y,
-          haloRadius,
-        );
-        halo.addColorStop(0, colorWithAlpha(color, isSelected ? 0.5 : 0.3));
-        halo.addColorStop(0.46, colorWithAlpha(color, isSelected ? 0.2 : 0.1));
-        halo.addColorStop(1, colorWithAlpha(color, 0));
-        context.fillStyle = halo;
-        context.beginPath();
-        context.arc(node.x, node.y, haloRadius, 0, Math.PI * 2);
-        context.fill();
+        if (!isFuture) {
+          const haloRadius = radius * (isSelected ? 3.2 : isHovered ? 2.8 : 2.25);
+          const halo = context.createRadialGradient(
+            node.x,
+            node.y,
+            radius * 0.35,
+            node.x,
+            node.y,
+            haloRadius,
+          );
+          halo.addColorStop(0, colorWithAlpha(color, isSelected ? 0.5 : 0.3));
+          halo.addColorStop(0.46, colorWithAlpha(color, isSelected ? 0.2 : 0.1));
+          halo.addColorStop(1, colorWithAlpha(color, 0));
+          context.fillStyle = halo;
+          context.beginPath();
+          context.arc(node.x, node.y, haloRadius, 0, Math.PI * 2);
+          context.fill();
+        }
 
         context.shadowColor = color;
-        context.shadowBlur = isSelected || isHovered ? 18 : 10;
+        context.shadowBlur = !isFuture && (isSelected || isHovered) ? 18 : 10;
         context.fillStyle = '#121722';
         context.beginPath();
         context.arc(node.x, node.y, radius, 0, Math.PI * 2);
@@ -747,10 +772,10 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         context.lineWidth = (
           isSelected ? 2.3 : 1.3 + Math.max(0, displayWeight - 1) * 0.32
         ) / globalScale;
-        context.strokeStyle = colorWithAlpha(color, isSelected ? 1 : 0.88);
+        context.strokeStyle = colorWithAlpha(color, isSelected ? 1 : isExtinct ? 0.5 : 0.88);
         context.stroke();
 
-        context.fillStyle = colorWithAlpha(color, isSelected ? 0.96 : 0.78);
+        context.fillStyle = colorWithAlpha(color, isSelected ? 0.96 : isExtinct ? 0.5 : 0.78);
         context.beginPath();
         context.arc(node.x, node.y, radius * 0.52, 0, Math.PI * 2);
         context.fill();
@@ -766,14 +791,15 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         }
 
         const showLabel =
-          isSelected ||
-          isHovered ||
-          isSearchMatch ||
-          globalScale >= 1.65 ||
-          (displayWeight >= 2.15 && globalScale >= 0.25) ||
-          (displayWeight >= 1.6 && globalScale >= 0.82) ||
-          (nodeDegree(node) >= 10 && globalScale >= 1) ||
-          (nodeDegree(node) >= 6 && globalScale >= 1.25);
+          !isFuture &&
+          (isSelected ||
+            isHovered ||
+            isSearchMatch ||
+            globalScale >= 1.65 ||
+            (displayWeight >= 2.15 && globalScale >= 0.25) ||
+            (displayWeight >= 1.6 && globalScale >= 0.82) ||
+            (nodeDegree(node) >= 10 && globalScale >= 1) ||
+            (nodeDegree(node) >= 6 && globalScale >= 1.25));
 
         if (showLabel) {
           const prominenceBoost = Math.max(0, displayWeight - 1) * 2.15;
@@ -823,6 +849,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         context.restore();
       },
       [
+        currentYear,
         hoveredNodeId,
         normalizedQuery,
         searchMatchIds,
@@ -839,6 +866,9 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         globalScale: number,
       ) => {
         if (typeof node.x !== 'number' || typeof node.y !== 'number') return;
+        const originYear = node.origin_year ?? node.originYear ?? 0;
+        if (originYear > currentYear) return; // Future nodes are non-interactive
+
         context.fillStyle = color;
         context.beginPath();
         context.arc(
@@ -850,11 +880,12 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         );
         context.fill();
       },
-      [],
+      [currentYear],
     );
 
     const isEmphasizedLink = useCallback(
       (link: CanvasLink) => {
+        if (selectedLinkId && link.id === selectedLinkId) return true;
         const source = endpointId(link.source);
         const target = endpointId(link.target);
         return Boolean(
@@ -862,7 +893,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
             (source === selectedNodeId || target === selectedNodeId),
         );
       },
-      [selectedNodeId],
+      [selectedLinkId, selectedNodeId],
     );
 
     const linkColor = useCallback(
@@ -876,17 +907,17 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
           (source && searchMatchIds.has(source)) ||
             (target && searchMatchIds.has(target)),
         );
-        let alpha = emphasized ? 0.9 : 0.36;
-        if (selectedNodeId && !emphasized) alpha *= 0.16;
-        if (normalizedQuery && !touchesSearch) alpha *= 0.14;
+        let alpha = emphasized ? 0.95 : 0.36;
+        if ((selectedNodeId || selectedLinkId) && !emphasized) alpha *= 0.45;
+        if (normalizedQuery && !touchesSearch) alpha *= 0.35;
         return colorWithAlpha(relationColor, alpha);
       },
-      [isEmphasizedLink, normalizedQuery, searchMatchIds, selectedNodeId],
+      [isEmphasizedLink, normalizedQuery, searchMatchIds, selectedLinkId, selectedNodeId],
     );
 
     const linkWidth = useCallback(
       (link: CanvasLink) => {
-        if (isEmphasizedLink(link)) return 1.75;
+        if (isEmphasizedLink(link)) return 2.2;
         if (link.type === 'branch_of') return 1.05;
         if (link.certainty === 'academic_consensus') return 0.82;
         if (link.certainty === 'speculative_fringe') return 0.52;
@@ -904,7 +935,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
     }, []);
 
     const linkLineDash = useCallback((link: CanvasLink): number[] => {
-      if (link.type === 'parallel_concept') return [3, 3];
+      if (link.style === 'dotted' || link.type === 'parallel_concept') return [3, 3];
       if (link.type === 'fringe_reinterpretation') return [1.5, 3.5];
       if (link.certainty === 'theological_claim') return [5, 2.5];
       return [];
@@ -912,10 +943,19 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
 
     const handleNodeClick = useCallback(
       (node: CanvasNode) => {
+        const originYear = node.origin_year ?? node.originYear ?? 0;
+        if (originYear > currentYear) return;
         onSelectNode(node.id);
         focusNode(node.id);
       },
-      [focusNode, onSelectNode],
+      [currentYear, focusNode, onSelectNode],
+    );
+
+    const handleLinkClick = useCallback(
+      (link: CanvasLink) => {
+        onSelectLink?.(link.id);
+      },
+      [onSelectLink],
     );
 
     const handleEngineStop = useCallback(() => {
@@ -1007,8 +1047,12 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
             }
             linkHoverPrecision={5}
             onNodeClick={handleNodeClick}
+            onLinkClick={handleLinkClick}
             onNodeHover={(node) => setHoveredNodeId(node?.id ?? null)}
-            onBackgroundClick={() => onSelectNode(null)}
+            onBackgroundClick={() => {
+              onSelectNode(null);
+              onSelectLink?.(null);
+            }}
             onZoom={({ k }) => {
               zoomLevelRef.current = k;
             }}

@@ -1,19 +1,61 @@
 ---
-id: "anglicanism"
-title: "Anglicanism"
-cluster: "Abrahamic"
-color: "#578cd8"
-era_start: "1530s CE"
-epistemic_tier: "academic_consensus"
-summary: "A worldwide Christian communion descended from the Church of England and shaped by Reformation and catholic inheritances."
+id: anglicanism
+title: Anglicanism
+cluster: Abrahamic
+color: '#578cd8'
+era_start: 1530s CE
+epistemic_tier: academic_consensus
+summary: >-
+  A worldwide Christian communion descended from the Church of England and
+  shaped by Reformation and catholic inheritances.
 canonical_texts:
-  - "Bible"
-  - "Book of Common Prayer"
-  - "Thirty-Nine Articles"
+  - Bible
+  - Book of Common Prayer
+  - Thirty-Nine Articles
 relations:
-  - target: "protestantism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: protestantism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1530
+origin_geo:
+  lat: 51.2012
+  lng: 1.0589
+  place_name: 'Canterbury, Kent, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Anglicanism took institutional form when the English
+    crown rejected papal jurisdiction, then underwent successive Protestant and
+    Catholicizing reforms. The Eliz...
+  - >-
+    Distinctive Practice: Anglicans commonly appeal to scripture, historic
+    creeds, episcopal order, and liturgical prayer, but they contain
+    evangelical, Anglo-Catholic, charismatic, and ...
+  - >-
+    Core Orientation: A worldwide Christian communion descended from the Church
+    of England and shaped by Reformation and catholic inheritances.
+sources:
+  - title: 'Encyclopaedia Britannica: "Anglicanism"'
+    url: 'https://www.britannica.com/topic/anglicanism'
+  - title: 'Oxford Reference: Overview of Anglicanism'
+    url: 'https://www.oxfordreference.com/search?q=Anglicanism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Anglicanism'
+    url: 'https://www.cambridge.org/core/search?q=Anglicanism'
+artifacts:
+  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
+    url: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
+    provenance: 'Wittenberg, Germany'
+    period: 1517 CE
+    description: >-
+      Historic church where Martin Luther posted his Ninety-five Theses,
+      initiating the Protestant Reformation.
+  - title: Luther 1534 German Bible Title Woodcut
+    url: 'https://en.wikipedia.org/wiki/Luther_Bible'
+    provenance: Wittenberg
+    period: 1534 CE
+    description: >-
+      Historic printed vernacular German translation democratizing direct
+      scriptural access for all believers.
 ---
 
 # Anglicanism

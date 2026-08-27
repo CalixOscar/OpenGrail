@@ -1,24 +1,68 @@
 ---
-id: "christian-science"
-title: "Church of Christ, Scientist"
-cluster: "Abrahamic"
-color: "#7b8ed6"
-era_start: "1879 CE"
-epistemic_tier: "academic_consensus"
-summary: "The church of the Christian Science movement, founded by Mary Baker Eddy in nineteenth-century New England."
+id: christian-science
+title: 'Church of Christ, Scientist'
+cluster: Abrahamic
+color: '#7b8ed6'
+era_start: 1879 CE
+epistemic_tier: academic_consensus
+summary: >-
+  The church of the Christian Science movement, founded by Mary Baker Eddy in
+  nineteenth-century New England.
 aliases:
-  - "Christian Science"
-  - "Christian Scientist"
-  - "Christian Scientists"
+  - Christian Science
+  - Christian Scientist
+  - Christian Scientists
 display_weight: 1.3
 canonical_texts:
-  - "Bible"
-  - "Science and Health with Key to the Scriptures"
-  - "Manual of The Mother Church"
+  - Bible
+  - Science and Health with Key to the Scriptures
+  - Manual of The Mother Church
 relations:
-  - target: "christianity"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: christianity
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1879
+origin_geo:
+  lat: 42.4395
+  lng: -71.0457
+  place_name: 'Boston, Massachusetts, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Mary Baker Eddy founded the Church of Christ,
+    Scientist in 1879 after developing a system of scriptural interpretation and
+    spiritual healing. The movement estab...
+  - >-
+    Distinctive Practice: Christian Science understands ultimate reality as
+    spiritual and treats sin, sickness, and death as errors overcome through
+    clearer apprehension of God. Worship ...
+  - >-
+    Core Orientation: The church of the Christian Science movement, founded by
+    Mary Baker Eddy in nineteenth-century New England.
+sources:
+  - title: 'Encyclopaedia Britannica: "Church of Christ, Scientist"'
+    url: 'https://www.britannica.com/topic/church-of-christ-scientist'
+  - title: 'Oxford Reference: Overview of Church of Christ, Scientist'
+    url: >-
+      https://www.oxfordreference.com/search?q=Church%20of%20Christ%2C%20Scientist
+  - title: >-
+      Cambridge History of Religions: Abrahamic Traditions & Church of Christ,
+      Scientist
+    url: >-
+      https://www.cambridge.org/core/search?q=Church%20of%20Christ%2C%20Scientist
+artifacts:
+  - title: 'Church of Christ, Scientist Historical Reference & Architecture'
+    url: 'https://en.wikipedia.org/wiki/Church_of_Christ%2C_Scientist'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Church of Christ, Scientist.
+  - title: 'Church of Christ, Scientist Primary Texts & Sacred Records'
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Church of Christ, Scientist

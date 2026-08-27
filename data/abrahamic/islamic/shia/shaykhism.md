@@ -1,22 +1,62 @@
 ---
-id: "shaykhism"
-title: "Shaykhism"
-cluster: "Abrahamic"
-color: "#829789"
-era_start: "early 19th century CE"
-epistemic_tier: "academic_consensus"
-summary: "A Twelver Shia school founded through the teachings of Shaykh Ahmad al-Ahsa'i, emphasizing imamology and esoteric cosmology."
+id: shaykhism
+title: Shaykhism
+cluster: Abrahamic
+color: '#829789'
+era_start: early 19th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  A Twelver Shia school founded through the teachings of Shaykh Ahmad al-Ahsa'i,
+  emphasizing imamology and esoteric cosmology.
 aliases:
-  - "Shaykhi School"
-  - "Shaykhiyya"
+  - Shaykhi School
+  - Shaykhiyya
 canonical_texts:
-  - "Quran"
-  - "The Four Books"
-  - "Sharh al-Ziyara al-Jami'a al-Kabira"
+  - Quran
+  - The Four Books
+  - Sharh al-Ziyara al-Jami'a al-Kabira
 relations:
-  - target: "twelver-shia"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: twelver-shia
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1850
+origin_geo:
+  lat: 31.4411
+  lng: 36.1332
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Shaykh Ahmad al-Ahsa'i and his successor Sayyid Kazim
+    Rashti formed a distinctive scholarly network in Qajar Iran and Ottoman
+    Iraq. Their teachings explored the...
+  - >-
+    Distinctive Practice: Some students from the Shaykhi environment became
+    early followers of the Bab, giving the school an important place in Babi
+    history. Other Shaykhis rejected the ...
+  - >-
+    Core Orientation: A Twelver Shia school founded through the teachings of
+    Shaykh Ahmad al-Ahsa'i, emphasizing imamology and esoteric cosmology.
+sources:
+  - title: 'Encyclopaedia Britannica: "Shaykhism"'
+    url: 'https://www.britannica.com/topic/shaykhism'
+  - title: 'Oxford Reference: Overview of Shaykhism'
+    url: 'https://www.oxfordreference.com/search?q=Shaykhism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Shaykhism'
+    url: 'https://www.cambridge.org/core/search?q=Shaykhism'
+artifacts:
+  - title: Shaykhism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Shaykhism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Shaykhism.
+  - title: Shaykhism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Quran'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Shaykhism

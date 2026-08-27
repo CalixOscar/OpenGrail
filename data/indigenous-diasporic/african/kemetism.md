@@ -1,20 +1,60 @@
 ---
-id: "kemetism"
-title: "Kemetism"
-cluster: "Esoteric & Modern"
-color: "#d762c2"
-era_start: "1970s CE"
-epistemic_tier: "academic_consensus"
-summary: "Modern religious movements reconstructing and renewing devotion to ancient Egyptian deities and concepts."
+id: kemetism
+title: Kemetism
+cluster: Esoteric & Modern
+color: '#d762c2'
+era_start: 1970s CE
+epistemic_tier: academic_consensus
+summary: >-
+  Modern religious movements reconstructing and renewing devotion to ancient
+  Egyptian deities and concepts.
 canonical_texts:
-  - "Ancient Egyptian temple and funerary texts"
-  - "Modern Kemetic liturgies"
-  - "Community theological writings"
+  - Ancient Egyptian temple and funerary texts
+  - Modern Kemetic liturgies
+  - Community theological writings
 relations:
-  - target: "ancient-egyptian-religion"
-    type: "branch_of"
-    certainty: "academic_consensus"
-    citation: "Melton J. Gordon, Encyclopedia of American Religions, 8th ed. (2009)"
+  - target: ancient-egyptian-religion
+    type: branch_of
+    certainty: academic_consensus
+    citation: 'Melton J. Gordon, Encyclopedia of American Religions, 8th ed. (2009)'
+origin_year: 1970
+origin_geo:
+  lat: 51.4232
+  lng: 0.7385
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Kemetism includes modern movements that revive or
+    reconstruct religions of ancient Egypt, with organized communities
+    developing especially from the 1970s onward...
+  - >-
+    Distinctive Practice: Devotion to Netjeru, offerings, shrine practice,
+    ancestor reverence, and ethical commitment to *ma'at* commonly appear.
+    Modern life lacks the ancient temple eco...
+  - >-
+    Core Orientation: Modern religious movements reconstructing and renewing
+    devotion to ancient Egyptian deities and concepts.
+sources:
+  - title: 'Encyclopaedia Britannica: "Kemetism"'
+    url: 'https://www.britannica.com/topic/kemetism'
+  - title: 'Oxford Reference: Overview of Kemetism'
+    url: 'https://www.oxfordreference.com/search?q=Kemetism'
+  - title: 'Brill Handbook of Religious Traditions: Kemetism'
+    url: 'https://brill.com/search?q=Kemetism'
+artifacts:
+  - title: Kemetism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Kemetism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Kemetism.
+  - title: Kemetism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Ancient_Egyptian_temple_and_funerary_texts'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Kemetism

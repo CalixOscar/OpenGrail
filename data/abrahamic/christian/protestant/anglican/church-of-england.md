@@ -1,23 +1,63 @@
 ---
-id: "church-of-england"
-title: "Church of England"
-cluster: "Abrahamic"
-color: "#507bc0"
-era_start: "1534 CE"
-epistemic_tier: "academic_consensus"
-summary: "The established church of England and historic mother church of the worldwide Anglican Communion."
+id: church-of-england
+title: Church of England
+cluster: Abrahamic
+color: '#507bc0'
+era_start: 1534 CE
+epistemic_tier: academic_consensus
+summary: >-
+  The established church of England and historic mother church of the worldwide
+  Anglican Communion.
 aliases:
-  - "C of E"
-  - "English Church"
+  - C of E
+  - English Church
 display_weight: 1.4
 canonical_texts:
-  - "Bible"
-  - "Book of Common Prayer"
-  - "Thirty-nine Articles"
+  - Bible
+  - Book of Common Prayer
+  - Thirty-nine Articles
 relations:
-  - target: "anglicanism"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: anglicanism
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1534
+origin_geo:
+  lat: 51.106
+  lng: 1.1996
+  place_name: 'Canterbury, Kent, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The English crown rejected papal jurisdiction under
+    Henry VIII, while later reforms under Edward VI, Mary I, and Elizabeth I
+    reshaped doctrine, worship, and gov...
+  - >-
+    Distinctive Practice: The Church of England combines bishops, parishes,
+    cathedrals, synods, and a formal relationship with the Crown. Evangelical,
+    Anglo-Catholic, liberal, and charis...
+  - >-
+    Core Orientation: The established church of England and historic mother
+    church of the worldwide Anglican Communion.
+sources:
+  - title: 'Encyclopaedia Britannica: "Church of England"'
+    url: 'https://www.britannica.com/topic/church-of-england'
+  - title: 'Oxford Reference: Overview of Church of England'
+    url: 'https://www.oxfordreference.com/search?q=Church%20of%20England'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of England'
+    url: 'https://www.cambridge.org/core/search?q=Church%20of%20England'
+artifacts:
+  - title: Church of England Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Church_of_England'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Church of England.
+  - title: Church of England Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Church of England

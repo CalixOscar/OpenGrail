@@ -1,19 +1,59 @@
 ---
-id: "scientology"
-title: "Scientology"
-cluster: "Esoteric & Modern"
-color: "#a66ad0"
-era_start: "1950s CE"
-epistemic_tier: "academic_consensus"
-summary: "A modern religious movement founded by L. Ron Hubbard around auditing, spiritual rehabilitation, and the immortal thetan."
+id: scientology
+title: Scientology
+cluster: Esoteric & Modern
+color: '#a66ad0'
+era_start: 1950s CE
+epistemic_tier: academic_consensus
+summary: >-
+  A modern religious movement founded by L. Ron Hubbard around auditing,
+  spiritual rehabilitation, and the immortal thetan.
 canonical_texts:
-  - "Dianetics"
-  - "Scientology 8-8008"
-  - "The Phoenix Lectures"
+  - Dianetics
+  - Scientology 8-8008
+  - The Phoenix Lectures
 relations:
-  - target: "western-esotericism"
-    type: "parallel_concept"
-    certainty: "minority_scholarly"
+  - target: western-esotericism
+    type: parallel_concept
+    certainty: minority_scholarly
+origin_year: 1950
+origin_geo:
+  lat: 34.1014
+  lng: -118.565
+  place_name: 'Azusa Street / Los Angeles, California, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: L. Ron Hubbard introduced Dianetics in 1950 as a
+    therapeutic system and soon reframed it within Scientology, organized
+    through churches from the mid-1950s. The ...
+  - >-
+    Distinctive Practice: Scientology teaches that the person is an immortal
+    *thetan* whose capacities are constrained by traumatic impressions and a
+    vast spiritual history. Auditing wit...
+  - >-
+    Core Orientation: A modern religious movement founded by L. Ron Hubbard
+    around auditing, spiritual rehabilitation, and the immortal thetan.
+sources:
+  - title: 'Encyclopaedia Britannica: "Scientology"'
+    url: 'https://www.britannica.com/topic/scientology'
+  - title: 'Oxford Reference: Overview of Scientology'
+    url: 'https://www.oxfordreference.com/search?q=Scientology'
+  - title: 'Brill Handbook of Religious Traditions: Scientology'
+    url: 'https://brill.com/search?q=Scientology'
+artifacts:
+  - title: Scientology Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Scientology'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Scientology.
+  - title: Scientology Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Dianetics'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Scientology

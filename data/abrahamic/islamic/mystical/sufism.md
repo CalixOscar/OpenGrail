@@ -1,20 +1,62 @@
 ---
-id: "sufism"
-title: "Sufism"
-cluster: "Abrahamic"
-color: "#4cb5cf"
-era_start: "c. 8th century CE"
-epistemic_tier: "academic_consensus"
-summary: "Islamic traditions of spiritual discipline and divine remembrance transmitted through teachers, texts, and devotional paths."
+id: sufism
+title: Sufism
+cluster: Abrahamic
+color: '#4cb5cf'
+era_start: c. 8th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  Islamic traditions of spiritual discipline and divine remembrance transmitted
+  through teachers, texts, and devotional paths.
 canonical_texts:
-  - "Qur'an"
-  - "Al-Risala al-Qushayriyya"
-  - "Masnavi"
-  - "Al-Futuhat al-Makkiyya"
+  - Qur'an
+  - Al-Risala al-Qushayriyya
+  - Masnavi
+  - Al-Futuhat al-Makkiyya
 relations:
-  - target: "islam"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: islam
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 750
+origin_geo:
+  lat: 32.0919
+  lng: 36.1415
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Sufism developed from early Muslim asceticism,
+    prayer, ethical self-examination, and reflection on intimacy with God. By
+    the medieval period, teaching lineages ...
+  - >-
+    Distinctive Practice: Sufi paths cultivate remembrance (*dhikr*), sincerity,
+    disciplined character, and awareness of God under a guide. Practices may
+    include silent or vocal recitati...
+  - >-
+    Core Orientation: Islamic traditions of spiritual discipline and divine
+    remembrance transmitted through teachers, texts, and devotional paths.
+sources:
+  - title: 'Encyclopaedia Britannica: "Sufism"'
+    url: 'https://www.britannica.com/topic/sufism'
+  - title: 'Oxford Reference: Overview of Sufism'
+    url: 'https://www.oxfordreference.com/search?q=Sufism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Sufism'
+    url: 'https://www.cambridge.org/core/search?q=Sufism'
+artifacts:
+  - title: Dome of the Rock Sacred Umayyad Sanctuary
+    url: 'https://en.wikipedia.org/wiki/Dome_of_the_Rock'
+    provenance: Jerusalem
+    period: 691 CE (Umayyad Caliphate)
+    description: >-
+      Architectural masterpiece of early Islamic octagonal design with classical
+      Kufic Quranic inscriptions.
+  - title: Blue Quran Gold Kufic Manuscript Folio
+    url: 'https://en.wikipedia.org/wiki/Blue_Quran'
+    provenance: Kairouan / Great Mosque
+    period: c. 9th-10th century CE
+    description: >-
+      Indigo-dyed vellum parchment illuminated with gold Kufic script preserving
+      the Holy Quran.
 ---
 
 # Sufism

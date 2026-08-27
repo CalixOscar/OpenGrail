@@ -1,23 +1,63 @@
 ---
-id: "protestantism"
-title: "Protestantism"
-cluster: "Abrahamic"
-color: "#3d8bea"
+id: protestantism
+title: Protestantism
+cluster: Abrahamic
+color: '#3d8bea'
 display_weight: 1.85
-era_start: "1517 CE"
-epistemic_tier: "academic_consensus"
-summary: "A broad family of Christian movements emerging from sixteenth-century reforms of Western Christianity."
+era_start: 1517 CE
+epistemic_tier: academic_consensus
+summary: >-
+  A broad family of Christian movements emerging from sixteenth-century reforms
+  of Western Christianity.
 canonical_texts:
-  - "Bible"
-  - "Augsburg Confession"
-  - "Heidelberg Catechism"
+  - Bible
+  - Augsburg Confession
+  - Heidelberg Catechism
 relations:
-  - target: "christianity"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "catholicism"
-    type: "schism"
-    certainty: "academic_consensus"
+  - target: christianity
+    type: branch_of
+    certainty: academic_consensus
+  - target: catholicism
+    type: schism
+    certainty: academic_consensus
+origin_year: 1517
+origin_geo:
+  lat: 31.0869
+  lng: 35.8071
+  place_name: 'Jerusalem, Southern Levant'
+extinct_year: null
+key_tenets:
+  - >-
+    Sola Fide & Sola Gratia: Justification by grace alone through faith in Jesus
+    Christ, distinct from human merit or sacramental works.
+  - >-
+    Sola Scriptura: The Bible as the primary, normative source of divine
+    authority for Christian faith and ecclesial practice.
+  - >-
+    Priesthood of All Believers: Direct access of every baptized Christian to
+    God without sacerdotal mediation of an earthly hierarchy.
+sources:
+  - title: 'Encyclopaedia Britannica: "Protestantism"'
+    url: 'https://www.britannica.com/topic/protestantism'
+  - title: 'Oxford Reference: Overview of Protestantism'
+    url: 'https://www.oxfordreference.com/search?q=Protestantism'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Protestantism'
+    url: 'https://www.cambridge.org/core/search?q=Protestantism'
+artifacts:
+  - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
+    url: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
+    provenance: 'Wittenberg, Germany'
+    period: 1517 CE
+    description: >-
+      Historic church where Martin Luther posted his Ninety-five Theses,
+      initiating the Protestant Reformation.
+  - title: Luther 1534 German Bible Title Woodcut
+    url: 'https://en.wikipedia.org/wiki/Luther_Bible'
+    provenance: Wittenberg
+    period: 1534 CE
+    description: >-
+      Historic printed vernacular German translation democratizing direct
+      scriptural access for all believers.
 ---
 
 # Protestantism

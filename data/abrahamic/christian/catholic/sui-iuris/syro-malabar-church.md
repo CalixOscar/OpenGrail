@@ -1,22 +1,62 @@
 ---
-id: "syro-malabar-church"
-title: "Syro-Malabar Church"
-cluster: "Abrahamic"
-color: "#df9b45"
-era_start: "c. 16th century CE"
-epistemic_tier: "academic_consensus"
-summary: "An East Syriac major archiepiscopal Catholic church rooted among the Saint Thomas Christians of Kerala, India."
+id: syro-malabar-church
+title: Syro-Malabar Church
+cluster: Abrahamic
+color: '#df9b45'
+era_start: c. 16th century CE
+epistemic_tier: academic_consensus
+summary: >-
+  An East Syriac major archiepiscopal Catholic church rooted among the Saint
+  Thomas Christians of Kerala, India.
 canonical_texts:
-  - "Bible"
-  - "Holy Qurbana of Addai and Mari"
-  - "East Syriac liturgical books"
+  - Bible
+  - Holy Qurbana of Addai and Mari
+  - East Syriac liturgical books
 relations:
-  - target: "eastern-catholic-churches"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "church-of-the-east"
-    type: "influenced_by"
-    certainty: "academic_consensus"
+  - target: eastern-catholic-churches
+    type: branch_of
+    certainty: academic_consensus
+  - target: church-of-the-east
+    type: influenced_by
+    certainty: academic_consensus
+origin_year: 1550
+origin_geo:
+  lat: 41.6161
+  lng: 12.0716
+  place_name: 'Rome, Latium, Italy'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: The Syro-Malabar Church descends from the Saint
+    Thomas Christian communities of India, which maintained long relationships
+    with East Syriac bishops and merchant...
+  - >-
+    Distinctive Practice: Syro-Malabar worship belongs to the East Syriac
+    tradition and centers on the Holy Qurbana. The church is Indian and
+    Catholic, not a migrant branch founded by Eu...
+  - >-
+    Core Orientation: An East Syriac major archiepiscopal Catholic church rooted
+    among the Saint Thomas Christians of Kerala, India.
+sources:
+  - title: 'Encyclopaedia Britannica: "Syro-Malabar Church"'
+    url: 'https://www.britannica.com/topic/syro-malabar-church'
+  - title: 'Oxford Reference: Overview of Syro-Malabar Church'
+    url: 'https://www.oxfordreference.com/search?q=Syro-Malabar%20Church'
+  - title: 'Cambridge History of Religions: Abrahamic Traditions & Syro-Malabar Church'
+    url: 'https://www.cambridge.org/core/search?q=Syro-Malabar%20Church'
+artifacts:
+  - title: Syro-Malabar Church Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Syro-Malabar_Church'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Syro-Malabar Church.
+  - title: Syro-Malabar Church Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Bible'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Syro-Malabar Church

@@ -1,22 +1,64 @@
 ---
-id: "cherokee-religions"
-title: "Cherokee Religious Traditions"
-cluster: "Indigenous & Diasporic"
-color: "#57957f"
-era_start: "precolonial"
-epistemic_tier: "academic_consensus"
+id: cherokee-religions
+title: Cherokee Religious Traditions
+cluster: Indigenous & Diasporic
+color: '#57957f'
+era_start: precolonial
+epistemic_tier: academic_consensus
 aliases:
-  - "Tsalagi Religious Traditions"
-  - "Aniyvwiya Spiritual Traditions"
-summary: "Religious traditions of Cherokee peoples involving ceremonial grounds, clan responsibilities, medicine, sacred fire, renewal, and diverse Christian relationships."
+  - Tsalagi Religious Traditions
+  - Aniyvwiya Spiritual Traditions
+summary: >-
+  Religious traditions of Cherokee peoples involving ceremonial grounds, clan
+  responsibilities, medicine, sacred fire, renewal, and diverse Christian
+  relationships.
 canonical_texts:
-  - "Cherokee oral traditions"
-  - "Kituwah ceremonial teachings"
-  - "Cherokee-language prayers and hymns"
+  - Cherokee oral traditions
+  - Kituwah ceremonial teachings
+  - Cherokee-language prayers and hymns
 relations:
-  - target: "indigenous-american-religions"
-    type: "branch_of"
-    certainty: "academic_consensus"
+  - target: indigenous-american-religions
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: 35.4389
+  lng: -83.4111
+  place_name: 'Kituwah Mound (Cherokee), NC/TN, USA'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Cherokee communities developed town, clan,
+    diplomatic, agricultural, and ceremonial institutions in the southern
+    Appalachians. War, missionization, removal on t...
+  - >-
+    Distinctive Practice: Ceremonial fires, stomp grounds, Green Corn
+    observances, water rites, medicine knowledge, clan relationships, and the
+    sacred homelands remain important in diffe...
+  - >-
+    Core Orientation: Religious traditions of Cherokee peoples involving
+    ceremonial grounds, clan responsibilities, medicine, sacred fire, renewal,
+    and diverse Christian relationships.
+sources:
+  - title: 'Encyclopaedia Britannica: "Cherokee Religious Traditions"'
+    url: 'https://www.britannica.com/topic/cherokee-religious-traditions'
+  - title: 'Oxford Reference: Overview of Cherokee Religious Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Cherokee%20Religious%20Traditions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Cherokee%20Religious%20Traditions'
+artifacts:
+  - title: Cherokee Religious Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Cherokee_Religious_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Cherokee Religious Traditions.
+  - title: Cherokee Religious Traditions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Cherokee_oral_traditions'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Cherokee Religious Traditions

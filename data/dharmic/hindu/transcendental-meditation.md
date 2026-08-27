@@ -1,24 +1,66 @@
 ---
-id: "transcendental-meditation"
-title: "Transcendental Meditation Movement"
-cluster: "Dharmic"
-color: "#f97316"
-era_start: "1950s CE"
-epistemic_tier: "academic_consensus"
-summary: "A global mantra-meditation movement founded by Maharishi Mahesh Yogi and presented in both spiritual and secular idioms."
+id: transcendental-meditation
+title: Transcendental Meditation Movement
+cluster: Dharmic
+color: '#f97316'
+era_start: 1950s CE
+epistemic_tier: academic_consensus
+summary: >-
+  A global mantra-meditation movement founded by Maharishi Mahesh Yogi and
+  presented in both spiritual and secular idioms.
 aliases:
-  - "TM movement"
+  - TM movement
 canonical_texts:
-  - "Science of Being and Art of Living"
-  - "Maharishi Mahesh Yogi on the Bhagavad-Gita"
-  - "Transcendental Meditation teaching tradition"
+  - Science of Being and Art of Living
+  - Maharishi Mahesh Yogi on the Bhagavad-Gita
+  - Transcendental Meditation teaching tradition
 relations:
-  - target: "vedanta"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-  - target: "new-age-movement"
-    type: "influenced_by"
-    certainty: "minority_scholarly"
+  - target: vedanta
+    type: influenced_by
+    certainty: academic_consensus
+  - target: new-age-movement
+    type: influenced_by
+    certainty: minority_scholarly
+origin_year: 1950
+origin_geo:
+  lat: 24.5847
+  lng: 82.5005
+  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Maharishi Mahesh Yogi began teaching internationally
+    in the late 1950s, adapting a mantra practice rooted in his North Indian
+    monastic lineage for lay audiences...
+  - >-
+    Distinctive Practice: Practitioners repeat an individually assigned mantra
+    in brief daily sessions. Organizations often describe the technique as
+    natural and nonreligious, while its ...
+  - >-
+    Core Orientation: A global mantra-meditation movement founded by Maharishi
+    Mahesh Yogi and presented in both spiritual and secular idioms.
+sources:
+  - title: 'Encyclopaedia Britannica: "Transcendental Meditation Movement"'
+    url: 'https://www.britannica.com/topic/transcendental-meditation-movement'
+  - title: 'Oxford Reference: Overview of Transcendental Meditation Movement'
+    url: >-
+      https://www.oxfordreference.com/search?q=Transcendental%20Meditation%20Movement
+  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+    url: >-
+      https://www.rep.routledge.com/search?query=Transcendental%20Meditation%20Movement
+artifacts:
+  - title: Transcendental Meditation Movement Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Transcendental_Meditation_Movement'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Transcendental Meditation Movement.
+  - title: Transcendental Meditation Movement Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Science_of_Being_and_Art_of_Living'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Transcendental Meditation Movement

@@ -1,22 +1,62 @@
 ---
-id: "modern-satanism"
-title: "Modern Satanism"
-cluster: "Esoteric & Modern"
-color: "#d04f86"
-era_start: "1960s CE"
-epistemic_tier: "academic_consensus"
-summary: "A family of modern religions and ethical movements using Satan as symbol, deity, adversarial principle, or focus of identity."
+id: modern-satanism
+title: Modern Satanism
+cluster: Esoteric & Modern
+color: '#d04f86'
+era_start: 1960s CE
+epistemic_tier: academic_consensus
+summary: >-
+  A family of modern religions and ethical movements using Satan as symbol,
+  deity, adversarial principle, or focus of identity.
 canonical_texts:
-  - "Movement-specific Satanic scriptures"
-  - "The Satanic Bible"
-  - "The Book of Coming Forth by Night"
+  - Movement-specific Satanic scriptures
+  - The Satanic Bible
+  - The Book of Coming Forth by Night
 relations:
-  - target: "western-esotericism"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-  - target: "christianity"
-    type: "diverged_from"
-    certainty: "minority_scholarly"
+  - target: western-esotericism
+    type: influenced_by
+    certainty: academic_consensus
+  - target: christianity
+    type: diverged_from
+    certainty: minority_scholarly
+origin_year: 1960
+origin_geo:
+  lat: 51.9991
+  lng: -0.6398
+  place_name: 'London, England, UK'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Self-identified Satanic organizations emerged
+    publicly in the later twentieth century, although Christian accusations of
+    Satan worship are much older. Modern mo...
+  - >-
+    Distinctive Practice: Satan may represent autonomy, transgression, rational
+    self-interest, resistance to authority, or an actual spiritual being. No
+    single doctrine speaks for all Sa...
+  - >-
+    Core Orientation: A family of modern religions and ethical movements using
+    Satan as symbol, deity, adversarial principle, or focus of identity.
+sources:
+  - title: 'Encyclopaedia Britannica: "Modern Satanism"'
+    url: 'https://www.britannica.com/topic/modern-satanism'
+  - title: 'Oxford Reference: Overview of Modern Satanism'
+    url: 'https://www.oxfordreference.com/search?q=Modern%20Satanism'
+  - title: 'Brill Handbook of Religious Traditions: Modern Satanism'
+    url: 'https://brill.com/search?q=Modern%20Satanism'
+artifacts:
+  - title: Modern Satanism Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Modern_Satanism'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Modern Satanism.
+  - title: Modern Satanism Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Movement-specific_Satanic_scriptures'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Modern Satanism

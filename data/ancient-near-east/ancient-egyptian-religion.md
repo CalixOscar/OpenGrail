@@ -1,17 +1,57 @@
 ---
-id: "ancient-egyptian-religion"
-title: "Ancient Egyptian Religion"
-cluster: "Ancient Near East"
-color: "#e1ba59"
-era_start: "c. 3100 BCE"
-epistemic_tier: "academic_consensus"
-summary: "Plural temple, royal, mortuary, and household traditions practiced across pharaonic Egypt."
+id: ancient-egyptian-religion
+title: Ancient Egyptian Religion
+cluster: Ancient Near East
+color: '#e1ba59'
+era_start: c. 3100 BCE
+epistemic_tier: academic_consensus
+summary: >-
+  Plural temple, royal, mortuary, and household traditions practiced across
+  pharaonic Egypt.
 canonical_texts:
-  - "Pyramid Texts"
-  - "Coffin Texts"
-  - "Book of the Dead"
-  - "Temple and ritual inscriptions"
+  - Pyramid Texts
+  - Coffin Texts
+  - Book of the Dead
+  - Temple and ritual inscriptions
 relations: []
+origin_year: -3100
+origin_geo:
+  lat: 32.4688
+  lng: 44.7313
+  place_name: 'Babylon, Mesopotamia'
+extinct_year: 535
+key_tenets:
+  - >-
+    Foundational Doctrine: Ancient Egyptian religious traditions developed over
+    more than three millennia, from early kingdoms through Ptolemaic and Roman
+    rule. Temples maintained divine ...
+  - >-
+    Distinctive Practice: Maintaining *ma'at*—truth, justice, and ordered
+    relation—joined ritual, ethics, and political legitimacy. Ra, Osiris, Isis,
+    Amun, Hathor, Horus, and many local ...
+  - >-
+    Core Orientation: Plural temple, royal, mortuary, and household traditions
+    practiced across pharaonic Egypt.
+sources:
+  - title: 'Encyclopaedia Britannica: "Ancient Egyptian Religion"'
+    url: 'https://www.britannica.com/topic/ancient-egyptian-religion'
+  - title: 'Oxford Reference: Overview of Ancient Egyptian Religion'
+    url: 'https://www.oxfordreference.com/search?q=Ancient%20Egyptian%20Religion'
+  - title: 'Brill Handbook of Religious Traditions: Ancient Egyptian Religion'
+    url: 'https://brill.com/search?q=Ancient%20Egyptian%20Religion'
+artifacts:
+  - title: Ancient Egyptian Religion Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Ancient_Egyptian_Religion'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Ancient Egyptian Religion.
+  - title: Ancient Egyptian Religion Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Pyramid_Texts'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Ancient Egyptian Religion

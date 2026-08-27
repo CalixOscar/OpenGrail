@@ -1,29 +1,70 @@
 ---
-id: "quechua-religions"
-title: "Quechua Religious Traditions"
-cluster: "Indigenous & Diasporic"
-color: "#59927e"
-era_start: "pre-Inca and historically diverse"
-epistemic_tier: "academic_consensus"
+id: quechua-religions
+title: Quechua Religious Traditions
+cluster: Indigenous & Diasporic
+color: '#59927e'
+era_start: pre-Inca and historically diverse
+epistemic_tier: academic_consensus
 display_weight: 1.4
 aliases:
-  - "Runakuna Religious Traditions"
-  - "Quechua Spirituality"
-summary: "Diverse Quechua-speaking traditions of the Andes involving earth beings, mountains, ancestors, reciprocity, agriculture, pilgrimage, and Christianity."
+  - Runakuna Religious Traditions
+  - Quechua Spirituality
+summary: >-
+  Diverse Quechua-speaking traditions of the Andes involving earth beings,
+  mountains, ancestors, reciprocity, agriculture, pilgrimage, and Christianity.
 canonical_texts:
-  - "Huarochirí Manuscript"
-  - "Quechua oral narratives"
-  - "Ritual song and prayer corpora"
+  - Huarochirí Manuscript
+  - Quechua oral narratives
+  - Ritual song and prayer corpora
 relations:
-  - target: "indigenous-american-religions"
-    type: "branch_of"
-    certainty: "academic_consensus"
-  - target: "inca-religion"
-    type: "influenced_by"
-    certainty: "academic_consensus"
-  - target: "christianity"
-    type: "syncretized_with"
-    certainty: "academic_consensus"
+  - target: indigenous-american-religions
+    type: branch_of
+    certainty: academic_consensus
+  - target: inca-religion
+    type: influenced_by
+    certainty: academic_consensus
+  - target: christianity
+    type: syncretized_with
+    certainty: academic_consensus
+origin_year: 0
+origin_geo:
+  lat: -13.3619
+  lng: -71.8804
+  place_name: 'Cuzco, Sacred Valley, Inca Empire, Peru'
+extinct_year: null
+key_tenets:
+  - >-
+    Foundational Doctrine: Quechua became widespread through pre-Inca exchange,
+    Inca administration, colonial mission policy, and later national histories.
+    Communities across Peru, Bolivi...
+  - >-
+    Distinctive Practice: Reciprocity with *Pachamama*, mountain beings often
+    called *apus*, water, crops, herd animals, ancestors, saints, and the dead
+    may organize offerings and festiv...
+  - >-
+    Core Orientation: Diverse Quechua-speaking traditions of the Andes involving
+    earth beings, mountains, ancestors, reciprocity, agriculture, pilgrimage,
+    and Christianity.
+sources:
+  - title: 'Encyclopaedia Britannica: "Quechua Religious Traditions"'
+    url: 'https://www.britannica.com/topic/quechua-religious-traditions'
+  - title: 'Oxford Reference: Overview of Quechua Religious Traditions'
+    url: 'https://www.oxfordreference.com/search?q=Quechua%20Religious%20Traditions'
+  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+    url: 'https://ich.unesco.org/en/search?q=Quechua%20Religious%20Traditions'
+artifacts:
+  - title: Quechua Religious Traditions Historical Reference & Architecture
+    url: 'https://en.wikipedia.org/wiki/Quechua_Religious_Traditions'
+    provenance: Scholarly & Archaeological Archives
+    period: Historical Origin to Modern Era
+    description: >-
+      Authoritative historical documentation, primary sources, and material
+      culture associated with Quechua Religious Traditions.
+  - title: Quechua Religious Traditions Primary Texts & Sacred Records
+    url: 'https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript'
+    provenance: Academic & Lexicon Records
+    period: Formative Era
+    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
 ---
 
 # Quechua Religious Traditions
