@@ -46,20 +46,29 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vai%E1%B9%A3%E1%B9%87avism'
 artifacts:
-  - title: Vaiṣṇavism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vai%E1%B9%A3%E1%B9%87avism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century BCE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/vaishnavism-1.jpg
+  - title: >-
+      BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter 1.20.21 Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter_1.20.21.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Vaiṣṇavism.
-  - title: Vaiṣṇavism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vai%E1%B9%A3%E1%B9%87avism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Vaiṣṇavism.
+      This folio samples a part of verse 20, and the beginning of verse 21 from
+      the opening chapter of the Bhagavad Gita, which is on the topic of
+      Arjuna's distress.
+
+      प्रवृत्ते शस्त्रसम्प...
+    imageUrl: /artifacts/vaishnavism-2.jpg
 ---
 
 # Vaiṣṇavism

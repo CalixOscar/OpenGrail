@@ -46,8 +46,8 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Arian Christianity'
     url: 'https://www.cambridge.org/core/search?q=Arian%20Christianity'
 artifacts:
-  - title: Arian Christianity (Historical) Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Arian_Christianity_(Historical)'
+  - title: Arian Christianity (Historical) Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Arian_Christianity'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 318 CE
     description: >-
@@ -55,7 +55,7 @@ artifacts:
       associated with Arian Christianity (Historical).
     imageUrl: /artifacts/arian-christianity-1.jpg
   - title: Arian Christianity (Historical) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Arian_Christianity_(Historical)'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Arian_Christianity'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 318 CE
     description: >-

@@ -46,13 +46,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nichiren%20Buddhism'
 artifacts:
-  - title: Nichiren Buddhism Historical Sanctuary & Relics
+  - title: Nichiren Buddhism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Nichiren_Buddhism'
     provenance: 'Kamakura, Kanagawa, Japan'
     period: c. 13th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Nichiren Buddhism.
+      Nichiren Buddhism (Japanese: 日蓮仏教, romanized: Nichiren bukkyō), also known
+      as Hokkeshū (Japanese: 法華宗, meaning Lotus Sect), is a branch of Mahayana
+      Buddhism based on the teachings...
+    imageUrl: /artifacts/nichiren-buddhism-1.jpg
   - title: Nichiren Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Nichiren_Buddhism'
     provenance: 'Kamakura, Kanagawa, Japan'
@@ -60,6 +62,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Nichiren Buddhism.
+    imageUrl: /artifacts/nichiren-buddhism-2.jpg
 ---
 
 # Nichiren Buddhism

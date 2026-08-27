@@ -47,20 +47,27 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Muscogee%20Ceremonial%20Traditions'
 artifacts:
-  - title: Muscogee Ceremonial Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Muscogee_Ceremonial_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Cahokia Mounds, Mississippi River, IL, USA'
+    period: c. precolonial
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/muscogee-religions-1.jpg
+  - title: >-
+      Public Lands Institute - Ocmulgee Mounds National Historical Park - 001
+      Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Public_Lands_Institute_-_Ocmulgee_Mounds_National_Historical_Park_-_001.tif
     provenance: 'Cahokia Mounds, Mississippi River, IL, USA'
     period: c. precolonial
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Muscogee Ceremonial Traditions.
-  - title: Muscogee Ceremonial Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Muscogee_Ceremonial_Traditions'
-    provenance: 'Cahokia Mounds, Mississippi River, IL, USA'
-    period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Muscogee Ceremonial Traditions.
+      Photograph by the Public Lands Institute. Site: Ocmulgee Mounds National
+      Historical Park, Georgia. Managed by National Park Service. Geological
+      age: ~85 Mya Late Cretaceous Ripley...
+    imageUrl: /artifacts/muscogee-religions-1.jpg
 ---
 
 # Muscogee Ceremonial Traditions

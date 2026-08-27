@@ -52,20 +52,21 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Spiritism'
     url: 'https://brill.com/search?q=Spiritism'
 artifacts:
-  - title: Spiritism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Spiritism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'London, England, UK'
     period: c. 1857 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Spiritism.
-  - title: Spiritism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Spiritism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/spiritism-1.jpg
+  - title: Le Livre des Esprits 2 Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Le_Livre_des_Esprits_2.jpg'
     provenance: 'London, England, UK'
     period: c. 1857 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Spiritism.
+    description: 'Page de garde du Livre des Esprits, édition de 1860....'
+    imageUrl: /artifacts/spiritism-1.jpg
 ---
 
 # Spiritism

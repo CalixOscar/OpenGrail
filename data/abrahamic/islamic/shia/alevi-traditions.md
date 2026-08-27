@@ -48,13 +48,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Alevi Traditions'
     url: 'https://www.cambridge.org/core/search?q=Alevi%20Traditions'
 artifacts:
-  - title: Alevi Traditions Historical Sanctuary & Relics
+  - title: Alevi Traditions Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Alevi_Traditions'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 13th–16th centuries CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Alevi Traditions.
+    imageUrl: /artifacts/alevi-traditions-1.jpg
   - title: Alevi Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Alevi_Traditions'
     provenance: 'Jerusalem, Southern Levant'
@@ -62,6 +63,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Alevi Traditions.
+    imageUrl: /artifacts/alevi-traditions-2.jpg
 ---
 
 # Alevi Traditions

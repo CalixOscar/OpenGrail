@@ -40,20 +40,26 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Slavic Religion'
     url: 'https://brill.com/search?q=Slavic%20Religion'
 artifacts:
-  - title: Slavic Religion Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Slavic_Religion'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. c. 6th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/slavic-religion-1.jpg
+  - title: >-
+      Filming of the Yoruba oral traditions project Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 6th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Slavic Religion.
-  - title: Slavic Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Slavic_Religion'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 6th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Slavic Religion.
+      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
+      Ṣànpọ̀ná...
+    imageUrl: /artifacts/slavic-religion-1.jpg
 ---
 
 # Slavic Religion

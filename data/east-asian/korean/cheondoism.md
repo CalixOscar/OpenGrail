@@ -48,13 +48,15 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Cheondoism'
 artifacts:
-  - title: Cheondoism Historical Sanctuary & Relics
+  - title: Cheondoism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Cheondoism'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. 1860 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Cheondoism.
+      Cheondoism (spelled Chondoism in North Korea; Korean: 천도교) is a
+      20th-century Korean panentheistic religion, based on the 19th-century
+      Donghak religious movement founded by Choe Je-...
+    imageUrl: /artifacts/cheondoism-1.jpg
   - title: Cheondoism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cheondoism'
     provenance: 'Seoul (Hanyang), South Korea'
@@ -62,6 +64,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Cheondoism.
+    imageUrl: /artifacts/cheondoism-1.jpg
 ---
 
 # Cheondoism

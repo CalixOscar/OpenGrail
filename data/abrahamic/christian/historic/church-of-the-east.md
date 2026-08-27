@@ -42,13 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of the East'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20the%20East'
 artifacts:
-  - title: Church of the East Historical Sanctuary & Relics
+  - title: Church of the East Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_the_East'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Church of the East.
+      The Church of the East (Classical Syriac: ܥܕܬܐ ܕܡܕܢܚܐ ʿĒḏtā d-Maḏenḥā) or
+      the East Syriac Church, (also called the Church of Seleucia-Ctesiphon, the
+      Persian Church, the Assyrian Ch...
     imageUrl: /artifacts/church-of-the-east-1.jpg
   - title: Church of the East Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_the_East'

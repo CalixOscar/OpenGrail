@@ -46,7 +46,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Adventism'
     url: 'https://www.cambridge.org/core/search?q=Adventism'
 artifacts:
-  - title: Adventism Historical Sanctuary & Relics
+  - title: Adventism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Adventism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1830s CE

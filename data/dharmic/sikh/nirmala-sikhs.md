@@ -45,20 +45,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nirmal%C4%81%20Sikhs'
 artifacts:
-  - title: Nirmalā Sikhs Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nirmal%C4%81_Sikhs'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Amritsar, Punjab, India'
+    period: c. c. 18th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/nirmala-sikhs-1.jpg
+  - title: Sri Guru Granth Sahib Nishan Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sri_Guru_Granth_Sahib_Nishan.jpg'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 18th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Nirmalā Sikhs.
-  - title: Nirmalā Sikhs Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nirmal%C4%81_Sikhs'
-    provenance: 'Amritsar, Punjab, India'
-    period: c. c. 18th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Nirmalā Sikhs.
+      Illuminated Adi Granth folio with nisan of Guru Gobind Singh. The
+      manuscript is of the Lahore recension, late 17th to early 18th century.
+      Gold and colours on paper; folio size 360...
+    imageUrl: /artifacts/nirmala-sikhs-2.jpg
 ---
 
 # Nirmalā Sikhs

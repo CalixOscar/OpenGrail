@@ -46,20 +46,29 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9Aaivism'
 artifacts:
-  - title: Śaivism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Aaivism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century BCE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/shaivism-1.jpg
+  - title: >-
+      A collage of Shaivism Shiva Siwa Hindu icons and temples in Southeast Asia
+      Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:A_collage_of_Shaivism_Shiva_Siwa_Hindu_icons_and_temples_in_Southeast_Asia.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Śaivism.
-  - title: Śaivism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Aaivism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Śaivism.
+      A derivative work on the following images on ancient and medieval Shiva /
+      Siwa / Siva / Shaivism tradition in southeast Asia, available on
+      wikimedia:
+
+      071 Siva Mahadeva, Dieng, Cent...
+    imageUrl: /artifacts/shaivism-1.jpg
 ---
 
 # Śaivism

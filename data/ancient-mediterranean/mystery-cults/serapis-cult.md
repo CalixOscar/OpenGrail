@@ -51,13 +51,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Serapis'
     url: 'https://brill.com/search?q=Cult%20of%20Serapis'
 artifacts:
-  - title: Cult of Serapis Historical Sanctuary & Relics
+  - title: Cult of Serapis Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Serapis'
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 3rd century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cult of Serapis.
+    imageUrl: /artifacts/serapis-cult-1.jpg
   - title: Cult of Serapis Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Serapis'
     provenance: 'Eleusis, Attica, Greece'
@@ -65,6 +66,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Cult of Serapis.
+    imageUrl: /artifacts/serapis-cult-2.jpg
 ---
 
 # Cult of Serapis

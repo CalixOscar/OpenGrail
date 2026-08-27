@@ -53,20 +53,25 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Quechua%20Religious%20Traditions'
 artifacts:
-  - title: Quechua Religious Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Quechua_Religious_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
     period: c. pre-Inca and historically diverse
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Quechua Religious Traditions.
-  - title: Quechua Religious Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Quechua_Religious_Traditions'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/quechua-religions-1.jpg
+  - title: >-
+      Huarochiri Capitulo 7 ymanam chay curapacuna chay chuquisuso niscacta
+      canancamapas yupaychan Capitulo 8 ymanam pariacaca vichaycorcan Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Huarochiri_Capitulo_7_ymanam_chay_curapacuna_chay_chuquisuso_niscacta_canancamapas_yupaychan_Capitulo_8_ymanam_pariacaca_vichaycorcan.png
     provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
     period: c. pre-Inca and historically diverse
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Quechua Religious Traditions.
+    description: 'Huarochirí Manuscript, Chapters 7 and 8, in Classical Quechua:...'
+    imageUrl: /artifacts/quechua-religions-1.jpg
 ---
 
 # Quechua Religious Traditions

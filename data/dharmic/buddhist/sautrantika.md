@@ -46,20 +46,23 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sautr%C4%81ntika'
 artifacts:
-  - title: Sautrāntika Historical Sanctuary & Relics
+  - title: Sautrāntika Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Sautr%C4%81ntika'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE–2nd century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sautrāntika.
-  - title: Sautrāntika Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sautr%C4%81ntika'
+    imageUrl: /artifacts/sautrantika-1.jpg
+  - title: Seshin Vasubandhu Kofukuji Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Seshin_Vasubandhu_Kofukuji.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE–2nd century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Sautrāntika.
+      Seshin (Vasubandhu)(indian buddhist 4-5th century), Wood, 186cm height, 
+      about ACE1208,The Northern Octagonal Hall of Kofukuji Temple, Nara,
+      Japan...
+    imageUrl: /artifacts/sautrantika-2.jpg
 ---
 
 # Sautrāntika

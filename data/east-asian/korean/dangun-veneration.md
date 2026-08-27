@@ -48,20 +48,26 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Dangun%20Veneration'
 artifacts:
-  - title: Dangun Veneration (Comparative) Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dangun_Veneration_(Comparative)'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Seoul (Hanyang), South Korea'
+    period: c. medieval roots; modern revival
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/dangun-veneration-1.jpg
+  - title: >-
+      Memorabilia of the Three Kingdoms in museum Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Memorabilia_of_the_Three_Kingdoms_in_museum.jpg
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. medieval roots; modern revival
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Dangun Veneration (Comparative).
-  - title: Dangun Veneration (Comparative) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dangun_Veneration_(Comparative)'
-    provenance: 'Seoul (Hanyang), South Korea'
-    period: c. medieval roots; modern revival
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Dangun Veneration (Comparative).
+      Memorabilia of the Three Kingdoms displayed in Seoul National University
+      Kyujanggak Institute for Koreanology Studies...
+    imageUrl: /artifacts/dangun-veneration-2.jpg
 ---
 
 # Dangun Veneration (Comparative)

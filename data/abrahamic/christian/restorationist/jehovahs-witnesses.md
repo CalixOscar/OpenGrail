@@ -45,22 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Jehovah''s Witnesses'
     url: 'https://www.cambridge.org/core/search?q=Jehovah''s%20Witnesses'
 artifacts:
-  - title: Jehovah's Witnesses Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jehovah''s_Witnesses'
-    provenance: 'Allegheny (Pittsburgh), Pennsylvania, USA'
-    period: c. 1870s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Jehovah's Witnesses.
+  - title: Kingdom Hall Worship Sanctuary
     imageUrl: /artifacts/jehovahs-witnesses-1.jpg
-  - title: Jehovah's Witnesses Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jehovah''s_Witnesses'
-    provenance: 'Allegheny (Pittsburgh), Pennsylvania, USA'
-    period: c. 1870s CE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hall'
+    provenance: Worldwide Jehovah's Witnesses Congregations
+    period: Modern Era
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Jehovah's Witnesses.
+      A Kingdom Hall is a place of worship used by Jehovah's Witnesses for
+      weekly congregation meetings and Bible education.
+  - title: Watch Tower Society Publications & Literature Carts
     imageUrl: /artifacts/jehovahs-witnesses-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/The_Watchtower'
+    provenance: Watch Tower Bible and Tract Society
+    period: 1879 CE to present
+    description: >-
+      Official published study literature and public Bible dissemination carts
+      used in global ministry.
 ---
 
 # Jehovah's Witnesses

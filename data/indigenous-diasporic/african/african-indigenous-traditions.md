@@ -46,20 +46,28 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=African%20Indigenous%20Traditions'
 artifacts:
-  - title: African Indigenous Traditions (Comparative) Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/African_Indigenous_Traditions_(Comparative)'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Ile-Ife, Osun, Nigeria'
+    period: c. prehistoric and historically diverse
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/african-indigenous-traditions-1.jpg
+  - title: >-
+      Dr. Sharon W Weiss Oral History Interview (IA WeissSharon) Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Dr._Sharon_W_Weiss_Oral_History_Interview_(IA_WeissSharon).pdf
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. prehistoric and historically diverse
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with African Indigenous Traditions (Comparative).
-  - title: African Indigenous Traditions (Comparative) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/African_Indigenous_Traditions_(Comparative)'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. prehistoric and historically diverse
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of African Indigenous Traditions (Comparative).
+      ARMED FORCES INSTITUTE OF PATHOLOGYORAL HISTORY PROGRAMSUBJECT: Dr. Sharon
+      W. WeissINTERVIEWER: Charles Stuart KennedyDATE: March 16, 1992
+
+      Subjects: Armed Forces Institute of Path...
+    imageUrl: /artifacts/african-indigenous-traditions-2.jpg
 ---
 
 # African Indigenous Traditions (Comparative)

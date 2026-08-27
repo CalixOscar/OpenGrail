@@ -42,13 +42,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nyingma'
 artifacts:
-  - title: Nyingma Historical Sanctuary & Relics
+  - title: Nyingma Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Nyingma'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 8th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Nyingma.
+      Nyingma (Tibetan: རྙིང་མ་, Wylie: rnying ma, Lhasa dialect: [ɲ̟iŋ˥˥.ma˥˥],
+      lit. 'old school'), also referred to as Ngagyur (Tibetan:
+      སྔ་འགྱུར་རྙིང་མ།, Wylie: snga 'gyur rnying ma,...
+    imageUrl: /artifacts/nyingma-1.jpg
   - title: Nyingma Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Nyingma'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -56,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Nyingma.
+    imageUrl: /artifacts/nyingma-2.jpg
 ---
 
 # Nyingma

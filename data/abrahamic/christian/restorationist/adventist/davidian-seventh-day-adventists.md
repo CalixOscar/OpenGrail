@@ -46,7 +46,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Davidian%20Seventh-day%20Adventists
 artifacts:
-  - title: Davidian Seventh-day Adventists Historical Sanctuary & Relics
+  - title: Davidian Seventh-day Adventists Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Davidian_Seventh-day_Adventists'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1929 CE

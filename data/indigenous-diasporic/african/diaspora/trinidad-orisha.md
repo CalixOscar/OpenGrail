@@ -49,13 +49,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Trinidad%20Orisha'
 artifacts:
-  - title: Trinidad Orisha Historical Sanctuary & Relics
+  - title: Trinidad Orisha Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Trinidad_Orisha'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. 19th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Trinidad Orisha.
+      Trinidad Orisha, also known as Orisha religion and Shango, is a syncretic
+      religion in Trinidad and Tobago and the Caribbean, originally from West
+      Africa (Yoruba religion). Trinidad...
   - title: Trinidad Orisha Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Trinidad_Orisha'
     provenance: 'Ile-Ife, Osun, Nigeria'

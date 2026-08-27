@@ -41,13 +41,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Druze Faith'
     url: 'https://www.cambridge.org/core/search?q=Druze%20Faith'
 artifacts:
-  - title: Druze Faith Historical Sanctuary & Relics
+  - title: Druze Faith Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Druze_Faith'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1017 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Druze Faith.
+    imageUrl: /artifacts/druze-faith-1.jpg
   - title: Druze Faith Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Druze_Faith'
     provenance: 'Jerusalem, Southern Levant'
@@ -55,6 +56,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Druze Faith.
+    imageUrl: /artifacts/druze-faith-2.jpg
 ---
 
 # Druze Faith

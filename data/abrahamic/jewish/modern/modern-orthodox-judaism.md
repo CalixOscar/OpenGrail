@@ -46,13 +46,15 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Modern%20Orthodox%20Judaism'
 artifacts:
-  - title: Modern Orthodox Judaism Historical Sanctuary & Relics
+  - title: Modern Orthodox Judaism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Orthodox_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 19th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Modern Orthodox Judaism.
+      Modern Orthodox Judaism (also Modern Orthodox or Modern Orthodoxy) is a
+      movement within Orthodox Judaism that attempts to synthesize Jewish values
+      and the observance of Jewish law...
+    imageUrl: /artifacts/modern-orthodox-judaism-1.jpg
   - title: Modern Orthodox Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Orthodox_Judaism'
     provenance: 'Jerusalem, Southern Levant'
@@ -60,6 +62,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Modern Orthodox Judaism.
+    imageUrl: /artifacts/modern-orthodox-judaism-2.jpg
 ---
 
 # Modern Orthodox Judaism

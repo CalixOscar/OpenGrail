@@ -45,13 +45,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Eastern Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Eastern%20Orthodoxy'
 artifacts:
-  - title: Eastern Orthodoxy Historical Sanctuary & Relics
+  - title: Eastern Orthodoxy Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Eastern_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Eastern Orthodoxy.
+      Eastern Orthodoxy, otherwise known as Eastern Orthodox Christianity or
+      Byzantine Christianity, is one of the three main branches of Chalcedonian
+      Christianity, alongside Catholicism...
     imageUrl: /artifacts/eastern-orthodoxy-1.jpg
   - title: Eastern Orthodoxy Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Eastern_Orthodoxy'

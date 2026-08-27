@@ -50,13 +50,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Islam'
     url: 'https://www.cambridge.org/core/search?q=Islam'
 artifacts:
-  - title: Islam Historical Sanctuary & Relics
+  - title: Islam Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Islam'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 610 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Islam.
+      Islam is an Abrahamic religion based on the Quran and the teachings of
+      Muhammad. The monotheistic religion has an estimated 2 billion worldwide
+      adherents, called Muslims. Islam is...
+    imageUrl: /artifacts/islam-1.jpg
   - title: Islam Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Islam'
     provenance: 'Jerusalem, Southern Levant'
@@ -64,6 +66,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Islam.
+    imageUrl: /artifacts/islam-2.jpg
 ---
 
 # Islam

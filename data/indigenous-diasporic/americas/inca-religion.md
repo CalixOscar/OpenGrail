@@ -42,20 +42,34 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Inca%20Imperial%20Religion'
 artifacts:
-  - title: Inca Imperial Religion Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Inca_Imperial_Religion'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
+    period: c. c. 1400 CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/inca-religion-1.jpg
+  - title: >-
+      Government of Canada (IA recommendationsr00onta 5) Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Government_of_Canada_(IA_recommendationsr00onta_5).pdf
     provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
     period: c. c. 1400 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Inca Imperial Religion.
-  - title: Inca Imperial Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Inca_Imperial_Religion'
-    provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
-    period: c. c. 1400 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Inca Imperial Religion.
+      v
+
+      Decription based on 1924
+
+      Inventory of serials: 1907, 1915, 1924 (2c), 1943
+
+      No more published
+
+      Subjects: Agricultural education -- Ontario; Agriculture -- Ontario --
+      Study and tea...
+    imageUrl: /artifacts/inca-religion-1.jpg
 ---
 
 # Inca Imperial Religion

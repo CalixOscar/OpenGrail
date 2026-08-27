@@ -46,13 +46,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Zahiri School'
     url: 'https://www.cambridge.org/core/search?q=Zahiri%20School'
 artifacts:
-  - title: Zahiri School Historical Sanctuary & Relics
+  - title: Zahiri School Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Zahiri_School'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 9th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Zahiri School.
+    imageUrl: /artifacts/zahiri-school-1.jpg
   - title: Zahiri School Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Zahiri_School'
     provenance: 'Jerusalem, Southern Levant'
@@ -60,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Zahiri School.
+    imageUrl: /artifacts/zahiri-school-2.jpg
 ---
 
 # Zahiri School

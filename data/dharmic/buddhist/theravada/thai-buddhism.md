@@ -49,20 +49,23 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Thai%20Buddhism'
 artifacts:
-  - title: Thai Buddhism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Thai_Buddhism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 13th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Thai Buddhism.
-  - title: Thai Buddhism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Thai_Buddhism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/thai-buddhism-1.jpg
+  - title: Tipitaka1 Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 13th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Thai Buddhism.
+    imageUrl: /artifacts/thai-buddhism-2.jpg
 ---
 
 # Thai Buddhism

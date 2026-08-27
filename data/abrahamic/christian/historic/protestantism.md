@@ -44,7 +44,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Protestantism'
     url: 'https://www.cambridge.org/core/search?q=Protestantism'
 artifacts:
-  - title: Protestantism Historical Sanctuary & Relics
+  - title: Protestantism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Protestantism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1517 CE

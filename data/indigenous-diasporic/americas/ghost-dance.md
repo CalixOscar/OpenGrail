@@ -43,20 +43,29 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Ghost%20Dance%20Movements'
 artifacts:
-  - title: Ghost Dance Movements Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ghost_Dance_Movements'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Wounded Knee / Pine Ridge, SD, USA'
     period: c. 1870 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ghost Dance Movements.
-  - title: Ghost Dance Movements Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ghost_Dance_Movements'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/ghost-dance-1.jpg
+  - title: >-
+      Annual report of the Bureau of Ethnology to the Secretary of the
+      Smithsonian Institution (IA annualreportofbu14218921893smit) Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Annual_report_of_the_Bureau_of_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_(IA_annualreportofbu14218921893smit).pdf
     provenance: 'Wounded Knee / Pine Ridge, SD, USA'
     period: c. 1870 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ghost Dance Movements.
+    description: |-
+      Includes accompanying papers
+      Report year ends June 30
+      Vol. 1 (1879/80)-v. 15 (1893/94), in vol. 48 of later title
+      ANTHREF 2nd (1880/81) 39088009435397 and (5th, 1883/84) 390880093...
+    imageUrl: /artifacts/ghost-dance-1.jpg
 ---
 
 # Ghost Dance Movements

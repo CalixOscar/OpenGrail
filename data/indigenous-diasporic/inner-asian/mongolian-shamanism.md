@@ -45,20 +45,25 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Mongolian%20Shamanic%20Traditions'
 artifacts:
-  - title: Mongolian Shamanic Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mongolian_Shamanic_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. ancient; continuously developing
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Mongolian Shamanic Traditions.
-  - title: Mongolian Shamanic Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mongolian_Shamanic_Traditions'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/mongolian-shamanism-1.jpg
+  - title: >-
+      History of Acworth, with the proceedings of the centennial anniversary,
+      genealogical records, and register of farms (IA historyofacwor00merr)
+      Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:History_of_Acworth,_with_the_proceedings_of_the_centennial_anniversary,_genealogical_records,_and_register_of_farms_(IA_historyofacwor00merr).pdf
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. ancient; continuously developing
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Mongolian Shamanic Traditions.
+    description: 'Subjects: Acworth (N.H.) -- History; Acworth (N.H.) -- Genealogy...'
+    imageUrl: /artifacts/mongolian-shamanism-1.jpg
 ---
 
 # Mongolian Shamanic Traditions

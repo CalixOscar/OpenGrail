@@ -43,20 +43,21 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Tengrism'
 artifacts:
-  - title: Tengrism Historical Sanctuary & Relics
+  - title: Tengrism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Tengrism'
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. at least 6th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Tengrism.
-  - title: Tengrism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tengrism'
+      Tengrism (also known as Tengriism, Tengerism, or Tengrianism) is a belief
+      system originating in the Eurasian steppes, based on shamanism and
+      animism, and commonly centered on the t...
+    imageUrl: /artifacts/tengrism-1.jpg
+  - title: Kyzyl orkhon inscription Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kyzyl_orkhon_inscription.jpg'
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. at least 6th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Tengrism.
+    description: Inscription in Kyzyl using Turkic script...
+    imageUrl: /artifacts/tengrism-2.jpg
 ---
 
 # Tengrism

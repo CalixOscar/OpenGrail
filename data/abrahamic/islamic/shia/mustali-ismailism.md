@@ -46,13 +46,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Musta''li Ismailism'
     url: 'https://www.cambridge.org/core/search?q=Musta''li%20Ismailism'
 artifacts:
-  - title: Musta'li Ismailism Historical Sanctuary & Relics
+  - title: Musta'li Ismailism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Musta''li_Ismailism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1094 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Musta'li Ismailism.
+    imageUrl: /artifacts/mustali-ismailism-1.jpg
   - title: Musta'li Ismailism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Musta''li_Ismailism'
     provenance: 'Jerusalem, Southern Levant'
@@ -60,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Musta'li Ismailism.
+    imageUrl: /artifacts/mustali-ismailism-2.jpg
 ---
 
 # Musta'li Ismailism

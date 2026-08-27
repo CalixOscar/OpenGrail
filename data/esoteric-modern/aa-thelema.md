@@ -48,20 +48,25 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: A∴A∴'
     url: 'https://brill.com/search?q=A%E2%88%B4A%E2%88%B4'
 artifacts:
-  - title: A∴A∴ Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/A%E2%88%B4A%E2%88%B4'
+  - title: Eldridge Street Synagogue (42773) Historical Sanctuary & Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Eldridge_Street_Synagogue_(42773).jpg
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1907 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with A∴A∴.
-  - title: A∴A∴ Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/A%E2%88%B4A%E2%88%B4'
+      Eldridge Street Synagogue, located in Chinatown, Manhattan, New York,
+      during Open House New York Weekend 2018. It opened in 1887 as one of the
+      first synagogues founded in the Unite...
+    imageUrl: /artifacts/aa-thelema-1.jpg
+  - title: EQUINOX (4) 20180508 EuroVisionary Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:EQUINOX_(4)_20180508_EuroVisionary.jpg
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1907 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of A∴A∴.
+      Press conference after the first Semi-Final of the 2018 Eurovision Song
+      Contest...
+    imageUrl: /artifacts/aa-thelema-1.jpg
 ---
 
 # A∴A∴

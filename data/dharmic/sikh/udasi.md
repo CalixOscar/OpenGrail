@@ -48,20 +48,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ud%C4%81s%C4%AB%20Tradition'
 artifacts:
-  - title: Udāsī Tradition Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ud%C4%81s%C4%AB_Tradition'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Amritsar, Punjab, India'
+    period: c. c. 16th–17th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/udasi-1.jpg
+  - title: Sri Guru Granth Sahib Nishan Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sri_Guru_Granth_Sahib_Nishan.jpg'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 16th–17th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Udāsī Tradition.
-  - title: Udāsī Tradition Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ud%C4%81s%C4%AB_Tradition'
-    provenance: 'Amritsar, Punjab, India'
-    period: c. c. 16th–17th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Udāsī Tradition.
+      Illuminated Adi Granth folio with nisan of Guru Gobind Singh. The
+      manuscript is of the Lahore recension, late 17th to early 18th century.
+      Gold and colours on paper; folio size 360...
+    imageUrl: /artifacts/udasi-2.jpg
 ---
 
 # Udāsī Tradition

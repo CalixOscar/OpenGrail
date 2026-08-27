@@ -42,13 +42,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Zaydism'
     url: 'https://www.cambridge.org/core/search?q=Zaydism'
 artifacts:
-  - title: Zaydism Historical Sanctuary & Relics
+  - title: Zaydism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Zaydism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 740 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Zaydism.
+      Zaydism (Arabic: الزَّيْدِيَّة, romanized: az-Zaydiyya), also referred to
+      as Fiver Shi'ism, is a denomination of Shia Islam, and sometimes
+      considered the fifth school of Sunni law...
+    imageUrl: /artifacts/zaydism-1.jpg
   - title: Zaydism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Zaydism'
     provenance: 'Jerusalem, Southern Levant'
@@ -56,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Zaydism.
+    imageUrl: /artifacts/zaydism-2.jpg
 ---
 
 # Zaydism

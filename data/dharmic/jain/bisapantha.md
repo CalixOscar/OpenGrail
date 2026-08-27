@@ -42,20 +42,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=B%C4%ABsapantha'
 artifacts:
-  - title: Bīsapantha Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/B%C4%ABsapantha'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. early modern period
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Bīsapantha.
-  - title: Bīsapantha Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/B%C4%ABsapantha'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/bisapantha-1.jpg
+  - title: >-
+      Encyclopedia of Religion and Ethics Volume 4 Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Encyclopedia_of_Religion_and_Ethics_Volume_4.pdf
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. early modern period
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Bīsapantha.
+    description: Volume 4 of the Hastings Encyclopedia of Religion and Ethics...
+    imageUrl: /artifacts/bisapantha-2.jpg
 ---
 
 # Bīsapantha

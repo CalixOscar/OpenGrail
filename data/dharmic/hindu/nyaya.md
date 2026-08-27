@@ -45,20 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ny%C4%81ya'
 artifacts:
-  - title: Nyāya Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ny%C4%81ya'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Nyāya.
-  - title: Nyāya Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ny%C4%81ya'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/nyaya-1.jpg
+  - title: 'Hu, Feer - Dhammapada et Sutra Canonical Scripture & Iconography'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Hu,_Feer_-_Dhammapada_et_Sutra.djvu
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Nyāya.
+    description: "Le Dhammapada, avec introduction et notes, par Fernand Hû\_; suivi du Sûtra en 42 articles, traduit du tibétain, avec introduction et notes, par Léon Fëer. Bibliothèque orientale el..."
+    imageUrl: /artifacts/nyaya-2.jpg
 ---
 
 # Nyāya

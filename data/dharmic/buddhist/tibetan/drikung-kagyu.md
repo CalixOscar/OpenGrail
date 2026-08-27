@@ -44,20 +44,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Drikung%20Kagyu'
 artifacts:
-  - title: Drikung Kagyu Historical Sanctuary & Relics
+  - title: Drikung Kagyu Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Drikung_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 1179 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Drikung Kagyu.
-  - title: Drikung Kagyu Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Drikung_Kagyu'
+      Drikung Kagyü or Drigung Kagyü (Wylie: 'bri-gung bka'-brgyud) is one of
+      the eight "minor" lineages of the Kagyu school of Tibetan Buddhism.
+      "Major" here refers to those Kagyü linea...
+    imageUrl: /artifacts/drikung-kagyu-1.jpg
+  - title: Kanjur Tenjur Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kanjur_Tenjur.jpg'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 1179 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Drikung Kagyu.
+    description: Monastic library with Kanjur and Tanjur on the bookshelves (Riwoche)...
+    imageUrl: /artifacts/drikung-kagyu-2.jpg
 ---
 
 # Drikung Kagyu

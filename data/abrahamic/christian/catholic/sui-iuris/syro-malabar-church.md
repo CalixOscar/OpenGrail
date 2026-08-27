@@ -45,7 +45,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Syro-Malabar Church'
     url: 'https://www.cambridge.org/core/search?q=Syro-Malabar%20Church'
 artifacts:
-  - title: Syro-Malabar Church Historical Sanctuary & Relics
+  - title: Syro-Malabar Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malabar_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 16th century CE

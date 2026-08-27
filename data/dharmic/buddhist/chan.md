@@ -44,13 +44,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Chan%20Buddhism'
 artifacts:
-  - title: Chan Buddhism Historical Sanctuary & Relics
+  - title: Chan Buddhism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Chan_Buddhism'
     provenance: 'Luoyang, Henan, China'
     period: c. c. 6th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Chan Buddhism.
+      Chan (traditional Chinese: 禪; simplified Chinese: 禅; pinyin: Chán; abbr.
+      of Chinese: 禪那; pinyin: chánnà), from Sanskrit dhyāna (meaning
+      "meditation" or "meditative state" in Buddhi...
+    imageUrl: /artifacts/chan-1.jpg
   - title: Chan Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Chan_Buddhism'
     provenance: 'Luoyang, Henan, China'
@@ -58,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Chan Buddhism.
+    imageUrl: /artifacts/chan-2.jpg
 ---
 
 # Chan Buddhism

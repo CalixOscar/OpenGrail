@@ -44,7 +44,7 @@ sources:
       of God
     url: 'https://www.cambridge.org/core/search?q=Philadelphia%20Church%20of%20God'
 artifacts:
-  - title: Philadelphia Church of God Historical Sanctuary & Relics
+  - title: Philadelphia Church of God Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Philadelphia_Church_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1989 CE

@@ -50,20 +50,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Forn Siðr'
     url: 'https://brill.com/search?q=Forn%20Si%C3%B0r'
 artifacts:
-  - title: Forn Siðr Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Forn_Si%C3%B0r'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. 1970s CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/forn-sidr-1.jpg
+  - title: 'Brate, Sämunds Edda (1913) Omslag Canonical Scripture & Iconography'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Brate,_S%C3%A4munds_Edda_(1913)_Omslag.jpg
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Forn Siðr.
-  - title: Forn Siðr Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Forn_Si%C3%B0r'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. 1970s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Forn Siðr.
+      Sämunds Edda (1913), the first edition of Erik Brate's translation from
+      Icelandic to Swedish of the Poetic Edda (also known as the Elder Edda)....
+    imageUrl: /artifacts/forn-sidr-1.jpg
 ---
 
 # Forn Siðr

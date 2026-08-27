@@ -45,20 +45,28 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Wicca'
     url: 'https://brill.com/search?q=Wicca'
 artifacts:
-  - title: Wicca Historical Sanctuary & Relics
+  - title: Wicca Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. mid-20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Wicca.
-  - title: Wicca Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Wicca'
+    imageUrl: /artifacts/wicca-1.jpg
+  - title: >-
+      What Men Want - Initial Thoughts on the Male Goddess Movement Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:What_Men_Want_-_Initial_Thoughts_on_the_Male_Goddess_Movement.pdf
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. mid-20th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Wicca.
+      Dave Green. 2012. "What Men Want? Initial Thoughts on the Male Goddess
+      Movement". Religion and Gender 2(2) 305–327. Utrecht, Utrecht Province,
+      Netherlands: Igitur Publishing.
+
+      Senio...
+    imageUrl: /artifacts/wicca-1.jpg
 ---
 
 # Wicca

@@ -43,20 +43,23 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Maya%20Religions'
 artifacts:
-  - title: Maya Religions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maya_Religions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Tikal, Petén Basin, Maya Lowlands'
+    period: c. c. 2000 BCE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/maya-religion-1.jpg
+  - title: Popol vuh Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Popol_vuh.jpg'
     provenance: 'Tikal, Petén Basin, Maya Lowlands'
     period: c. c. 2000 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Maya Religions.
-  - title: Maya Religions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maya_Religions'
-    provenance: 'Tikal, Petén Basin, Maya Lowlands'
-    period: c. c. 2000 BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Maya Religions.
+      First page of the Popol Vuh manuscript, Saved at Newberry Library,
+      Chicago, Yesterday Collection...
+    imageUrl: /artifacts/maya-religion-2.jpg
 ---
 
 # Maya Religions

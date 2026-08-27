@@ -49,13 +49,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=J%C5%8Ddo%20Shinsh%C5%AB'
 artifacts:
-  - title: Jōdo Shinshū Historical Sanctuary & Relics
+  - title: Jōdo Shinshū Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 13th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Jōdo Shinshū.
+      Jōdo Shinshū (浄土真宗, "The True Essence of the Pure Land Teaching"), also
+      known as Shin Buddhism or True Pure Land Buddhism, is a Japanese tradition
+      of Pure Land Buddhism founded by...
+    imageUrl: /artifacts/jodo-shinshu-1.jpg
   - title: Jōdo Shinshū Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -63,6 +65,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Jōdo Shinshū.
+    imageUrl: /artifacts/jodo-shinshu-2.jpg
 ---
 
 # Jōdo Shinshū

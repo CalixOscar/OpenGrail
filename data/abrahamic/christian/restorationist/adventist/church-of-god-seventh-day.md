@@ -41,8 +41,8 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of God'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20God'
 artifacts:
-  - title: Church of God (Seventh Day) Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_God_(Seventh_Day)'
+  - title: Church of God (Seventh Day) Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1863 CE
     description: >-
@@ -50,7 +50,7 @@ artifacts:
       associated with Church of God (Seventh Day).
     imageUrl: /artifacts/church-of-god-seventh-day-1.jpg
   - title: Church of God (Seventh Day) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_God_(Seventh_Day)'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1863 CE
     description: >-

@@ -45,20 +45,23 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Jainism'
 artifacts:
-  - title: Jainism Historical Sanctuary & Relics
+  - title: Jainism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 6th century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Jainism.
-  - title: Jainism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jainism'
+      Jainism ( JAY-niz-əm, JYE-niz-əm), also known as Jain Dharma, is an Indian
+      religion that teaches a path toward spiritual purity and enlightenment
+      through disciplined nonviolence (a...
+    imageUrl: /artifacts/jainism-1.jpg
+  - title: Red-headed Rock Agama Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Red-headed_Rock_Agama.jpg'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 6th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Jainism.
+      Male, Kenyan Rock Agama (Agama lionotus) taken in August 2005, in Lake
+      Nakuru National Park, Kenya...
+    imageUrl: /artifacts/jainism-2.jpg
 ---
 
 # Jainism

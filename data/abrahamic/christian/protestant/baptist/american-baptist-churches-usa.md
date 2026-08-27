@@ -49,7 +49,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=American%20Baptist%20Churches%20USA
 artifacts:
-  - title: American Baptist Churches USA Historical Sanctuary & Relics
+  - title: American Baptist Churches USA Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/American_Baptist_Churches_USA'
     provenance: 'London, England, UK'
     period: c. 1907 CE

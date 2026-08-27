@@ -45,7 +45,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Azali Babism'
     url: 'https://www.cambridge.org/core/search?q=Azali%20Babism'
 artifacts:
-  - title: Azali Babism Historical Sanctuary & Relics
+  - title: Azali Babism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Azali_Babism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1860s CE

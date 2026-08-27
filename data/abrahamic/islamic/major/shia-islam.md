@@ -46,13 +46,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Shi''a Islam'
     url: 'https://www.cambridge.org/core/search?q=Shi''a%20Islam'
 artifacts:
-  - title: Shi'a Islam Historical Sanctuary & Relics
+  - title: Shi'a Islam Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Shi''a_Islam'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 7th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Shi'a Islam.
+    imageUrl: /artifacts/shia-islam-1.jpg
   - title: Shi'a Islam Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Shi''a_Islam'
     provenance: 'Jerusalem, Southern Levant'
@@ -60,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Shi'a Islam.
+    imageUrl: /artifacts/shia-islam-2.jpg
 ---
 
 # Shi'a Islam

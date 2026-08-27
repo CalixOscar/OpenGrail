@@ -44,20 +44,27 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Rastafari'
 artifacts:
-  - title: Rastafari Historical Sanctuary & Relics
+  - title: Rastafari Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Rastafari'
     provenance: 'Kingston, Jamaica'
     period: c. 1930s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Rastafari.
-  - title: Rastafari Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rastafari'
+      Rastafari is an Abrahamic religion that developed in Jamaica during the
+      1930s. It is classified as both a new religious movement and a social
+      movement by scholars of religion. Ther...
+    imageUrl: /artifacts/rastafari-1.jpg
+  - title: >-
+      Gustave Doré - The Holy Bible - Plate I, The Deluge Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_The_Holy_Bible_-_Plate_I,_The_Deluge.jpg
     provenance: 'Kingston, Jamaica'
     period: c. 1930s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Rastafari.
+      "The Deluge", Frontispiece to Doré's illustrated edition of the Bible.
+      Based on the story of Noah's Ark, this shows humans and a tiger doomed by
+      the flood futilely attempting to sa...
+    imageUrl: /artifacts/rastafari-2.jpg
 ---
 
 # Rastafari

@@ -45,13 +45,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Pre-exilic Yahwism'
     url: 'https://www.cambridge.org/core/search?q=Pre-exilic%20Yahwism'
 artifacts:
-  - title: Pre-exilic Yahwism Historical Sanctuary & Relics
+  - title: Pre-exilic Yahwism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Pre-exilic_Yahwism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1000 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Pre-exilic Yahwism.
+    imageUrl: /artifacts/yahwism-1.jpg
   - title: Pre-exilic Yahwism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Pre-exilic_Yahwism'
     provenance: 'Jerusalem, Southern Levant'
@@ -59,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Pre-exilic Yahwism.
+    imageUrl: /artifacts/yahwism-2.jpg
 ---
 
 # Pre-exilic Yahwism

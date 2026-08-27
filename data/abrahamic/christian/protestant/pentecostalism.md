@@ -45,7 +45,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Pentecostalism'
     url: 'https://www.cambridge.org/core/search?q=Pentecostalism'
 artifacts:
-  - title: Pentecostalism Historical Sanctuary & Relics
+  - title: Pentecostalism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Pentecostalism'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. c. 1901 CE

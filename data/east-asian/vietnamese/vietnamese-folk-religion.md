@@ -49,20 +49,26 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Vietnamese%20Folk%20Religion
 artifacts:
-  - title: Vietnamese Folk Religion Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vietnamese_Folk_Religion'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Hanoi (Thang Long), Vietnam'
+    period: c. ancient; continuously developing
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/vietnamese-folk-religion-1.jpg
+  - title: >-
+      Filming of the Yoruba oral traditions project Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
     provenance: 'Hanoi (Thang Long), Vietnam'
     period: c. ancient; continuously developing
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Vietnamese Folk Religion.
-  - title: Vietnamese Folk Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vietnamese_Folk_Religion'
-    provenance: 'Hanoi (Thang Long), Vietnam'
-    period: c. ancient; continuously developing
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Vietnamese Folk Religion.
+      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
+      Ṣànpọ̀ná...
+    imageUrl: /artifacts/vietnamese-folk-religion-1.jpg
 ---
 
 # Vietnamese Folk Religion

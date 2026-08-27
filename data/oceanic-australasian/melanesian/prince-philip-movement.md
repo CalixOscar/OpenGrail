@@ -49,15 +49,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Prince%20Philip%20Movement'
 artifacts:
-  - title: Prince Philip Movement Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Prince_Philip_Movement'
+  - title: Prince Philip movement Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Prince_Philip_movement'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. mid-20th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Prince Philip Movement.
+      The Prince Philip movement is a religious sect followed by the Kastom
+      people around the villages of Yaohnanen and Yakel on the southern Tanna
+      Island in Vanuatu. It is a cargo cult...
   - title: Prince Philip Movement Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Prince_Philip_Movement'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Prince_Philip_movement'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. mid-20th century CE
     description: >-

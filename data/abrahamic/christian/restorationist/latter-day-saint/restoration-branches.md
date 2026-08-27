@@ -45,8 +45,8 @@ sources:
       Branches
     url: 'https://www.cambridge.org/core/search?q=Restoration%20Branches'
 artifacts:
-  - title: Restoration Branches Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Branches'
+  - title: Restoration branches Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_branches'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1984 CE
     description: >-
@@ -54,7 +54,7 @@ artifacts:
       associated with Restoration Branches.
     imageUrl: /artifacts/restoration-branches-1.jpg
   - title: Restoration Branches Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Branches'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_branches'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1984 CE
     description: >-

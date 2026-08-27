@@ -47,7 +47,7 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Catholic%20Church'
 artifacts:
-  - title: Syriac Catholic Church Historical Sanctuary & Relics
+  - title: Syriac Catholic Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1782 CE

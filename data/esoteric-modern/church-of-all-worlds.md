@@ -47,20 +47,20 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Church of All Worlds'
     url: 'https://brill.com/search?q=Church%20of%20All%20Worlds'
 artifacts:
-  - title: Church of All Worlds Historical Sanctuary & Relics
+  - title: Church of All Worlds Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_All_Worlds'
     provenance: 'London, England, UK'
     period: c. 1962 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Church of All Worlds.
-  - title: Church of All Worlds Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_All_Worlds'
+      The Church of All Worlds (CAW) is an American Neopagan group whose stated
+      mission is to evolve a network of information, mythology, and experience
+      that provides a context and stimu...
+  - title: 'Teal, pink and green egg, april 2011 Canonical Scripture & Iconography'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Teal,_pink_and_green_egg,_april_2011.jpg
     provenance: 'London, England, UK'
     period: c. 1962 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Church of All Worlds.
+    description: 'Teal, pink and green egg....'
 ---
 
 # Church of All Worlds

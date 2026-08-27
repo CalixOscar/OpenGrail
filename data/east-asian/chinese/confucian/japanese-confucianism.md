@@ -49,20 +49,27 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Japanese%20Confucian%20Traditions
 artifacts:
-  - title: Japanese Confucian Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Japanese_Confucian_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 6th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/japanese-confucianism-1.jpg
+  - title: >-
+      The Chinese Classics - Legge - 2nd ed - 1893 - Vol 1 Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Chinese_Classics_-_Legge_-_2nd_ed_-_1893_-_Vol_1.djvu
     provenance: 'Qufu, Shandong, China'
     period: c. c. 6th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Japanese Confucian Traditions.
-  - title: Japanese Confucian Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Japanese_Confucian_Traditions'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 6th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Japanese Confucian Traditions.
+      Vols. 1-2, 2d edition revised, 1893-95, printed at the Clarendon press,
+      Oxford; v. 3-5, printed at the London missionary society's printing
+      office, Hongkong, are a reissue of the...
+    imageUrl: /artifacts/japanese-confucianism-2.jpg
 ---
 
 # Japanese Confucian Traditions

@@ -50,7 +50,7 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=The%20Episcopal%20Church'
 artifacts:
-  - title: The Episcopal Church Historical Sanctuary & Relics
+  - title: The Episcopal Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/The_Episcopal_Church'
     provenance: 'Canterbury, Kent, England, UK'
     period: c. 1789 CE

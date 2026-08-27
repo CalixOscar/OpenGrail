@@ -45,13 +45,15 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=International%20Churches%20of%20Christ
 artifacts:
-  - title: International Churches of Christ Historical Sanctuary & Relics
+  - title: International Churches of Christ Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/International_Churches_of_Christ'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1979 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with International Churches of Christ.
+      The International Churches of Christ (ICOC) is a decentralized fellowship
+      of cooperating, religiously conservative, and racially integrated
+      Christian congregations. With its origin...
+    imageUrl: /artifacts/international-churches-of-christ-1.jpg
   - title: International Churches of Christ Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/International_Churches_of_Christ'
     provenance: 'Jerusalem, Southern Levant'
@@ -59,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of International Churches of Christ.
+    imageUrl: /artifacts/international-churches-of-christ-2.jpg
 ---
 
 # International Churches of Christ

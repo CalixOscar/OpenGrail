@@ -46,13 +46,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hittite Religion'
     url: 'https://brill.com/search?q=Hittite%20Religion'
 artifacts:
-  - title: Hittite Religion Historical Sanctuary & Relics
+  - title: Hittite Religion Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Hittite_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1650 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hittite Religion.
+    imageUrl: /artifacts/hittite-religion-1.jpg
   - title: Hittite Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Hittite_Religion'
     provenance: 'Babylon, Mesopotamia'
@@ -60,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Hittite Religion.
+    imageUrl: /artifacts/hittite-religion-1.jpg
 ---
 
 # Hittite Religion

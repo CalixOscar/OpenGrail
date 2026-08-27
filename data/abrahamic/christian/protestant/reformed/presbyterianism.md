@@ -45,7 +45,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Presbyterianism'
     url: 'https://www.cambridge.org/core/search?q=Presbyterianism'
 artifacts:
-  - title: Presbyterianism Historical Sanctuary & Relics
+  - title: Presbyterianism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Presbyterianism'
     provenance: 'Geneva, Switzerland'
     period: c. c. 1560 CE

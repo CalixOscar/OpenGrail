@@ -44,20 +44,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=T%C4%81ra%E1%B9%87apantha'
 artifacts:
-  - title: Tāraṇapantha Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/T%C4%81ra%E1%B9%87apantha'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. late 15th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Tāraṇapantha.
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/taranapantha-1.jpg
   - title: Tāraṇapantha Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/T%C4%81ra%E1%B9%87apantha'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. late 15th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Tāraṇapantha.
+    imageUrl: /artifacts/taranapantha-1.jpg
 ---
 
 # Tāraṇapantha

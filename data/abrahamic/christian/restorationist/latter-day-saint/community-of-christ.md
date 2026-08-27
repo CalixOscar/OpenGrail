@@ -46,7 +46,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Community of Christ'
     url: 'https://www.cambridge.org/core/search?q=Community%20of%20Christ'
 artifacts:
-  - title: Community of Christ Historical Sanctuary & Relics
+  - title: Community of Christ Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Community_of_Christ'
     provenance: 'Independence, Jackson County, Missouri, USA'
     period: c. 1860 CE

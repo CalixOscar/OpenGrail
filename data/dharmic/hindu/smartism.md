@@ -45,20 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sm%C4%81rta%20Tradition'
 artifacts:
-  - title: Smārta Tradition Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sm%C4%81rta_Tradition'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Smārta Tradition.
-  - title: Smārta Tradition Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sm%C4%81rta_Tradition'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/smartism-1.jpg
+  - title: LibriVox - The Masque of the Red Death Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:LibriVox_-_The_Masque_of_the_Red_Death.ogg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Smārta Tradition.
+    description: '"The Masque of the Red Death" read aloud...'
+    imageUrl: /artifacts/smartism-2.jpg
 ---
 
 # Smārta Tradition

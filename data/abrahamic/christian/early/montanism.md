@@ -47,8 +47,8 @@ sources:
       Movement
     url: 'https://www.cambridge.org/core/search?q=New%20Prophecy%20Movement'
 artifacts:
-  - title: New Prophecy Movement (Montanism) Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/New_Prophecy_Movement_(Montanism)'
+  - title: New Prophecy Movement (Montanism) Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/New_Prophecy_Movement'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 160 CE
     description: >-
@@ -56,7 +56,7 @@ artifacts:
       associated with New Prophecy Movement (Montanism).
     imageUrl: /artifacts/montanism-1.jpg
   - title: New Prophecy Movement (Montanism) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/New_Prophecy_Movement_(Montanism)'
+    sourceUrl: 'https://en.wikipedia.org/wiki/New_Prophecy_Movement'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 160 CE
     description: >-

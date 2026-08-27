@@ -45,20 +45,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ramakrishna%20Movement'
 artifacts:
-  - title: Ramakrishna Movement Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ramakrishna_Movement'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1886 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ramakrishna Movement.
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/ramakrishna-movement-1.jpg
   - title: Ramakrishna Movement Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ramakrishna_Movement'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1886 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Ramakrishna Movement.
+    imageUrl: /artifacts/ramakrishna-movement-1.jpg
 ---
 
 # Ramakrishna Movement

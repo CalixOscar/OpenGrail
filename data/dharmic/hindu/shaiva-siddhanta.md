@@ -45,20 +45,27 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9Aaiva%20Siddh%C4%81nta'
 artifacts:
-  - title: Śaiva Siddhānta Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Aaiva_Siddh%C4%81nta'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 6th–8th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/shaiva-siddhanta-1.jpg
+  - title: >-
+      13th century Nandi mandapa, Ramappa temples complex, Palampet Telangana
+      India - 33 Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:13th_century_Nandi_mandapa,_Ramappa_temples_complex,_Palampet_Telangana_India_-_33.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th–8th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Śaiva Siddhānta.
-  - title: Śaiva Siddhānta Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Aaiva_Siddh%C4%81nta'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th–8th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Śaiva Siddhānta.
+      The Ramappa temples complex is located about 65 kilometers northeast of
+      Warangal (NH 163) and about 2 kilometers south of Palampet village near
+      the 12th-century man made Ramappa la...
+    imageUrl: /artifacts/shaiva-siddhanta-1.jpg
 ---
 
 # Śaiva Siddhānta

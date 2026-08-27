@@ -42,13 +42,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sakya'
 artifacts:
-  - title: Sakya Historical Sanctuary & Relics
+  - title: Sakya Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Sakya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 11th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Sakya.
+      The Sakya (Tibetan: ས་སྐྱ་, Wylie: sa skya, 'pale earth') school is one of
+      four major schools of Tibetan Buddhism, the others being the Nyingma,
+      Kagyu, and Gelug. It is one of the...
+    imageUrl: /artifacts/sakya-1.jpg
   - title: Sakya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sakya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -56,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Sakya.
+    imageUrl: /artifacts/sakya-2.jpg
 ---
 
 # Sakya

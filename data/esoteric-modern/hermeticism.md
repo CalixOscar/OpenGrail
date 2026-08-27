@@ -46,20 +46,23 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hermeticism'
     url: 'https://brill.com/search?q=Hermeticism'
 artifacts:
-  - title: Hermeticism Historical Sanctuary & Relics
+  - title: Hermeticism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Hermeticism'
     provenance: 'London, England, UK'
     period: c. c. 1st–3rd centuries CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Hermeticism.
-  - title: Hermeticism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hermeticism'
+      Hermeticism, or Hermetism, is a philosophical and religious tradition
+      rooted in the teachings attributed to Hermes Trismegistus, a syncretic
+      figure combining elements of the Greek...
+    imageUrl: /artifacts/hermeticism-1.jpg
+  - title: Corpus Hermeticum 1643 Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Corpus_Hermeticum_1643.gif'
     provenance: 'London, England, UK'
     period: c. c. 1st–3rd centuries CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Hermeticism.
+      Corpus Hermeticum, niederländische Ausgabe von 1643. Deckblatt Corpus
+      Hermeticum 1643 (Ausg. F. Patricius)....
+    imageUrl: /artifacts/hermeticism-1.jpg
 ---
 
 # Hermeticism

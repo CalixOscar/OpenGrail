@@ -52,20 +52,29 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Hindu%20Traditions'
 artifacts:
-  - title: Hindu Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hindu_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 500 BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Hindu Traditions.
-  - title: Hindu Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hindu_Traditions'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/hinduism-1.jpg
+  - title: >-
+      MS Indic 37, Isa upanisad. Wellcome L0027330 Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:MS_Indic_37,_Isa_upanisad._Wellcome_L0027330.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 500 BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Hindu Traditions.
+    description: |-
+      MS Indic 37, Isa upanisad.
+      Folio 1r.
+
+      Wellcome Images
+      Keywords: isa upanisad; ms indic 37...
+    imageUrl: /artifacts/hinduism-2.jpg
 ---
 
 # Hindu Traditions

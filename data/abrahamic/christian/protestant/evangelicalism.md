@@ -42,7 +42,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Evangelicalism'
     url: 'https://www.cambridge.org/core/search?q=Evangelicalism'
 artifacts:
-  - title: Evangelicalism Historical Sanctuary & Relics
+  - title: Evangelicalism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Evangelicalism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1730s CE

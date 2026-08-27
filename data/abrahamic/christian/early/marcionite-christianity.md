@@ -48,7 +48,7 @@ sources:
       Christianity
     url: 'https://www.cambridge.org/core/search?q=Marcionite%20Christianity'
 artifacts:
-  - title: Marcionite Christianity Historical Sanctuary & Relics
+  - title: Marcionite Christianity Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Marcionite_Christianity'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 140 CE

@@ -48,20 +48,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Unarius Academy of Science'
     url: 'https://brill.com/search?q=Unarius%20Academy%20of%20Science'
 artifacts:
-  - title: Unarius Academy of Science Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Unarius_Academy_of_Science'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'London, England, UK'
+    period: c. 1954 CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/unarius-academy-1.jpg
+  - title: Venus globe Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Venus_globe.jpg'
     provenance: 'London, England, UK'
     period: c. 1954 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Unarius Academy of Science.
-  - title: Unarius Academy of Science Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Unarius_Academy_of_Science'
-    provenance: 'London, England, UK'
-    period: c. 1954 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Unarius Academy of Science.
+      This global view of the surface of Venus is centered at 180 degrees east
+      longitude. Magellan synthetic aperture radar mosaics from the first cycle
+      of Magellan mapping are mapped on...
+    imageUrl: /artifacts/unarius-academy-2.jpg
 ---
 
 # Unarius Academy of Science

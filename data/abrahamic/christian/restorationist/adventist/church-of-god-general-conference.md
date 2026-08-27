@@ -46,7 +46,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Church%20of%20God%20General%20Conference
 artifacts:
-  - title: Church of God General Conference Historical Sanctuary & Relics
+  - title: Church of God General Conference Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_God_General_Conference'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1921 CE

@@ -50,7 +50,7 @@ sources:
       Adventist Church
     url: 'https://www.cambridge.org/core/search?q=Seventh-day%20Adventist%20Church'
 artifacts:
-  - title: Seventh-day Adventist Church Historical Sanctuary & Relics
+  - title: Seventh-day Adventist Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Seventh-day_Adventist_Church'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1863 CE

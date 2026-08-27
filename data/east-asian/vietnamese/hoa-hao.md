@@ -51,20 +51,21 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=H%C3%B2a%20H%E1%BA%A3o%20Buddhism
 artifacts:
-  - title: Hòa Hảo Buddhism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/H%C3%B2a_H%E1%BA%A3o_Buddhism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Chau Doc / An Giang, Mekong Delta, Vietnam'
     period: c. 1939 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Hòa Hảo Buddhism.
-  - title: Hòa Hảo Buddhism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/H%C3%B2a_H%E1%BA%A3o_Buddhism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/hoa-hao-1.jpg
+  - title: Sấm giảng PGHH Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:S%E1%BA%A5m_gi%E1%BA%A3ng_PGHH.jpg'
     provenance: 'Chau Doc / An Giang, Mekong Delta, Vietnam'
     period: c. 1939 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Hòa Hảo Buddhism.
+    description: Sấm giảng Phật Giáo Hoà Hảo....
+    imageUrl: /artifacts/hoa-hao-1.jpg
 ---
 
 # Hòa Hảo Buddhism

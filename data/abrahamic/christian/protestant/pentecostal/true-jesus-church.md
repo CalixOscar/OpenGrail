@@ -45,7 +45,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & True Jesus Church'
     url: 'https://www.cambridge.org/core/search?q=True%20Jesus%20Church'
 artifacts:
-  - title: True Jesus Church Historical Sanctuary & Relics
+  - title: True Jesus Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/True_Jesus_Church'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1917 CE

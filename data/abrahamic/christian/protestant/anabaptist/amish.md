@@ -45,7 +45,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Amish Traditions'
     url: 'https://www.cambridge.org/core/search?q=Amish%20Traditions'
 artifacts:
-  - title: Amish Traditions Historical Sanctuary & Relics
+  - title: Amish Traditions Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Amish_Traditions'
     provenance: 'Zurich, Switzerland'
     period: c. 1693 CE

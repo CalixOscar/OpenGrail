@@ -46,20 +46,27 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gaelic Polytheism'
     url: 'https://brill.com/search?q=Gaelic%20Polytheism'
 artifacts:
-  - title: Gaelic Polytheism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gaelic_Polytheism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. c. 1st millennium BCE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/gaelic-polytheism-1.jpg
+  - title: >-
+      Ireland-stamp-1922-sword-of-light-5p detail Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Ireland-stamp-1922-sword-of-light-5p_detail.jpg
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Gaelic Polytheism.
-  - title: Gaelic Polytheism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gaelic_Polytheism'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 1st millennium BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Gaelic Polytheism.
+      Detail of 1922/3 Ireland definitive 5p postage stamp making better legible
+      the label An Claiḋeaṁ Soluis (An Claidheamh Soluis , "The Sword of
+      Light")....
+    imageUrl: /artifacts/gaelic-polytheism-1.jpg
 ---
 
 # Gaelic Polytheism

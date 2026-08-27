@@ -39,20 +39,26 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Zoroastrianism'
     url: 'https://brill.com/search?q=Zoroastrianism'
 artifacts:
-  - title: Zoroastrianism Historical Sanctuary & Relics
+  - title: Zoroastrianism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. c. 1200–600 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Zoroastrianism.
-  - title: Zoroastrianism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zoroastrianism'
+      Zoroastrianism, also called Mazdayasna and Behdin, is an Iranian religion
+      centred on the Avesta and the teachings of Zarathushtra Spitama, who is
+      more commonly referred to by the G...
+    imageUrl: /artifacts/zoroastrianism-1.jpg
+  - title: >-
+      Avesta, translated by Ignacy Pietraszewski Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Avesta,_translated_by_Ignacy_Pietraszewski.jpg
     provenance: 'Isfahan, Iran'
     period: c. c. 1200–600 BCE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Zoroastrianism.
+    imageUrl: /artifacts/zoroastrianism-2.jpg
 ---
 
 # Zoroastrianism

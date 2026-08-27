@@ -45,13 +45,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Shaykhism'
     url: 'https://www.cambridge.org/core/search?q=Shaykhism'
 artifacts:
-  - title: Shaykhism Historical Sanctuary & Relics
+  - title: Shaykhism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Shaykhism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. early 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Shaykhism.
+    imageUrl: /artifacts/shaykhism-1.jpg
   - title: Shaykhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Shaykhism'
     provenance: 'Jerusalem, Southern Levant'
@@ -59,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Shaykhism.
+    imageUrl: /artifacts/shaykhism-2.jpg
 ---
 
 # Shaykhism

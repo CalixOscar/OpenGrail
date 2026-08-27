@@ -49,13 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Amun at Thebes'
     url: 'https://brill.com/search?q=Cult%20of%20Amun%20at%20Thebes'
 artifacts:
-  - title: Cult of Amun at Thebes Historical Sanctuary & Relics
+  - title: Cult of Amun at Thebes Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Amun_at_Thebes'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 2000 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cult of Amun at Thebes.
+    imageUrl: /artifacts/amun-cult-thebes-1.jpg
   - title: Cult of Amun at Thebes Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Amun_at_Thebes'
     provenance: 'Thebes (Luxor), Ancient Egypt'
@@ -63,6 +64,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Cult of Amun at Thebes.
+    imageUrl: /artifacts/amun-cult-thebes-2.jpg
 ---
 
 # Cult of Amun at Thebes

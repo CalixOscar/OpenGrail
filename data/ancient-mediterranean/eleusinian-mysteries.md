@@ -45,13 +45,15 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Eleusinian Mysteries'
     url: 'https://brill.com/search?q=Eleusinian%20Mysteries'
 artifacts:
-  - title: Eleusinian Mysteries Historical Sanctuary & Relics
+  - title: Eleusinian Mysteries Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Eleusinian_Mysteries'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 8th century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Eleusinian Mysteries.
+      The Eleusinian Mysteries (Greek: Ἐλευσίνια Μυστήρια, romanized: Eleusínia
+      Mystḗria) were initiations held every year for the cult of Demeter and
+      Persephone based at the Panhellenic...
+    imageUrl: /artifacts/eleusinian-mysteries-1.jpg
   - title: Eleusinian Mysteries Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Eleusinian_Mysteries'
     provenance: 'Athens, Attica, Greece'
@@ -59,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Eleusinian Mysteries.
+    imageUrl: /artifacts/eleusinian-mysteries-2.jpg
 ---
 
 # Eleusinian Mysteries

@@ -46,13 +46,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of England'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20England'
 artifacts:
-  - title: Church of England Historical Sanctuary & Relics
+  - title: Church of England Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_England'
     provenance: 'Canterbury, Kent, England, UK'
     period: c. 1534 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Church of England.
+      The Church of England (C of E) is the established Christian church in
+      England and the Crown Dependencies. It was the initial church of the
+      Anglican tradition. The church traces its...
     imageUrl: /artifacts/church-of-england-1.jpg
   - title: Church of England Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_England'

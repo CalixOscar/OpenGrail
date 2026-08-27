@@ -45,13 +45,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Lurianic Kabbalah'
     url: 'https://www.cambridge.org/core/search?q=Lurianic%20Kabbalah'
 artifacts:
-  - title: Lurianic Kabbalah Historical Sanctuary & Relics
+  - title: Lurianic Kabbalah Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Lurianic_Kabbalah'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1570 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Lurianic Kabbalah.
+    imageUrl: /artifacts/lurianic-kabbalah-1.jpg
   - title: Lurianic Kabbalah Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Lurianic_Kabbalah'
     provenance: 'Jerusalem, Southern Levant'
@@ -59,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Lurianic Kabbalah.
+    imageUrl: /artifacts/lurianic-kabbalah-2.jpg
 ---
 
 # Lurianic Kabbalah

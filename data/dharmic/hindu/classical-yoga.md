@@ -44,20 +44,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Classical%20Yoga'
 artifacts:
-  - title: Classical Yoga Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Classical_Yoga'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 4th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/classical-yoga-1.jpg
+  - title: Ashtanga Yoga - Patanjali Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ashtanga_Yoga_-_Patanjali.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Classical Yoga.
-  - title: Classical Yoga Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Classical_Yoga'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 4th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Classical Yoga.
+      Esta imagem ilustra o Yoga de Patanjali, da obra Yoga Sutras, em que um
+      dos destaques é a descrição de 8 membros de Yoga que devem estar presentes
+      no interessado em espiritualidade...
+    imageUrl: /artifacts/classical-yoga-2.jpg
 ---
 
 # Classical Yoga

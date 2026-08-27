@@ -47,13 +47,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Jogye%20Order'
 artifacts:
-  - title: Jogye Order Historical Sanctuary & Relics
+  - title: Jogye Order Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Jogye_Order'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Jogye Order.
+      The Jogye Order (Korean: 조계종), officially the Jogye Order of Korean
+      Buddhism (대한불교조계종), is a sect of Korean Buddhism. It is the largest
+      Buddhist sect in South Korea as of 2018. It...
+    imageUrl: /artifacts/jogye-order-1.jpg
   - title: Jogye Order Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Jogye_Order'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -61,6 +63,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Jogye Order.
+    imageUrl: /artifacts/jogye-order-2.jpg
 ---
 
 # Jogye Order

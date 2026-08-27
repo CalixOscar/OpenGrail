@@ -43,7 +43,7 @@ sources:
       God
     url: 'https://www.cambridge.org/core/search?q=Living%20Church%20of%20God'
 artifacts:
-  - title: Living Church of God Historical Sanctuary & Relics
+  - title: Living Church of God Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Living_Church_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1998 CE

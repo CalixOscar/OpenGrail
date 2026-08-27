@@ -46,7 +46,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Baha''i Faith'
     url: 'https://www.cambridge.org/core/search?q=Baha''i%20Faith'
 artifacts:
-  - title: Baha'i Faith Historical Sanctuary & Relics
+  - title: Baha'i Faith Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Baha''i_Faith'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1863 CE

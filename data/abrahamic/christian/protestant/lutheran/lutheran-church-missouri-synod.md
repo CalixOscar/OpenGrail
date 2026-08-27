@@ -49,7 +49,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Lutheran%20Church%E2%80%94Missouri%20Synod
 artifacts:
-  - title: Lutheran Church—Missouri Synod Historical Sanctuary & Relics
+  - title: Lutheran Church—Missouri Synod Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Lutheran_Church%E2%80%94Missouri_Synod'
     provenance: 'Wittenberg, Saxony, Germany'
     period: c. 1847 CE

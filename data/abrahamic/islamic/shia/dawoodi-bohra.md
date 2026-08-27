@@ -44,13 +44,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Dawoodi Bohra'
     url: 'https://www.cambridge.org/core/search?q=Dawoodi%20Bohra'
 artifacts:
-  - title: Dawoodi Bohra Historical Sanctuary & Relics
+  - title: Dawoodi Bohra Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Dawoodi_Bohra'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1592 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Dawoodi Bohra.
+      The Dawoodi Bohras are a religious denomination within the Ismā'īlī branch
+      of Shia Islam. They number approximately one million worldwide and have
+      settled in over 40 countries arou...
+    imageUrl: /artifacts/dawoodi-bohra-1.jpg
   - title: Dawoodi Bohra Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Dawoodi_Bohra'
     provenance: 'Jerusalem, Southern Levant'
@@ -58,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Dawoodi Bohra.
+    imageUrl: /artifacts/dawoodi-bohra-2.jpg
 ---
 
 # Dawoodi Bohra

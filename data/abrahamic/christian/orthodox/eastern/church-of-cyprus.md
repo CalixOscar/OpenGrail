@@ -42,13 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Cyprus'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Cyprus'
 artifacts:
-  - title: Church of Cyprus Historical Sanctuary & Relics
+  - title: Church of Cyprus Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Cyprus'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 431 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Church of Cyprus.
+      The Church of Cyprus (Greek: Ἐκκλησία τῆς Κύπρου, romanized: Ekklisia tis
+      Kyprou), is an autocephalous Greek Orthodox church and one of the churches
+      within the communion of the Eas...
     imageUrl: /artifacts/church-of-cyprus-1.jpg
   - title: Church of Cyprus Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Cyprus'

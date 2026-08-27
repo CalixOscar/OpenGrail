@@ -48,20 +48,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Siyam%20Nik%C4%81ya'
 artifacts:
-  - title: Siyam Nikāya Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Siyam_Nik%C4%81ya'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1753 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Siyam Nikāya.
-  - title: Siyam Nikāya Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Siyam_Nik%C4%81ya'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/siyam-nikaya-1.jpg
+  - title: The Pali literature of Burma (1909) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Pali_literature_of_Burma_(1909).djvu
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1753 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Siyam Nikāya.
+    imageUrl: /artifacts/siyam-nikaya-2.jpg
 ---
 
 # Siyam Nikāya

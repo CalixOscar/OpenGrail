@@ -47,13 +47,14 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Armenian%20Catholic%20Church'
 artifacts:
-  - title: Armenian Catholic Church Historical Sanctuary & Relics
+  - title: Armenian Catholic Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1742 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Armenian Catholic Church.
+      The Armenian Catholic Church is an Eastern Catholic particular church sui
+      iuris of the Catholic Church. It accepts the leadership of the bishop of
+      Rome, and is therefore in full co...
     imageUrl: /artifacts/armenian-catholic-church-1.jpg
   - title: Armenian Catholic Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Catholic_Church'

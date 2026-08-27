@@ -45,20 +45,23 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Konk%C5%8Dky%C5%8D'
 artifacts:
-  - title: Konkōkyō Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Konk%C5%8Dky%C5%8D'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Ise Grand Shrine, Mie, Japan'
+    period: c. 1859 CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/konkokyo-1.jpg
+  - title: Konkokyo scriptures Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Konkokyo_scriptures.jpg'
     provenance: 'Ise Grand Shrine, Mie, Japan'
     period: c. 1859 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Konkōkyō.
-  - title: Konkōkyō Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Konk%C5%8Dky%C5%8D'
-    provenance: 'Ise Grand Shrine, Mie, Japan'
-    period: c. 1859 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Konkōkyō.
+      Konkokyo Kyoten - Konkokyo's scriptures sold at the Konkokyo Headquarters'
+      official bookstore...
+    imageUrl: /artifacts/konkokyo-2.jpg
 ---
 
 # Konkōkyō

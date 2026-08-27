@@ -44,7 +44,7 @@ sources:
       Christianity
     url: 'https://www.cambridge.org/core/search?q=Reformed%20Christianity'
 artifacts:
-  - title: Reformed Christianity Historical Sanctuary & Relics
+  - title: Reformed Christianity Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Reformed_Christianity'
     provenance: 'Geneva, Switzerland'
     period: c. 1520s CE

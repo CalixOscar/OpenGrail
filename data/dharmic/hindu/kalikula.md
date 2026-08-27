@@ -44,20 +44,30 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=K%C4%81l%C4%ABkula'
 artifacts:
-  - title: Kālīkula Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/K%C4%81l%C4%ABkula'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Kālīkula.
-  - title: Kālīkula Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/K%C4%81l%C4%ABkula'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/kalikula-1.jpg
+  - title: >-
+      A Tantric Form of the Hindu Goddess Kali (Recto), Horse (Verso), Folio
+      from a Book of Iconography LACMA M.81.206.9 Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:A_Tantric_Form_of_the_Hindu_Goddess_Kali_(Recto),_Horse_(Verso),_Folio_from_a_Book_of_Iconography_LACMA_M.81.206.9.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Kālīkula.
+    description: |-
+      Nepal, 17th century
+      Drawings
+      Ink and opaque watercolor on paper
+      Gift of Dr. and Mrs. Robert S. Coles (M.81.206.9)
+      South and Southeast Asian Art...
+    imageUrl: /artifacts/kalikula-2.jpg
 ---
 
 # Kālīkula

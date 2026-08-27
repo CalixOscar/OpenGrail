@@ -44,13 +44,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Judaism'
     url: 'https://www.cambridge.org/core/search?q=Judaism'
 artifacts:
-  - title: Judaism Historical Sanctuary & Relics
+  - title: Judaism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1200–500 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Judaism.
+      Judaism (Hebrew: יַהֲדוּת, romanized: Yahăḏūṯ) is an Abrahamic,
+      monotheistic, ethnic religion that comprises the collective spiritual,
+      cultural, and legal traditions of the Jewish...
+    imageUrl: /artifacts/judaism-1.jpg
   - title: Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Judaism'
     provenance: 'Jerusalem, Southern Levant'
@@ -58,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Judaism.
+    imageUrl: /artifacts/judaism-2.jpg
 ---
 
 # Judaism

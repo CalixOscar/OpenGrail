@@ -42,7 +42,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Anabaptism'
     url: 'https://www.cambridge.org/core/search?q=Anabaptism'
 artifacts:
-  - title: Anabaptism Historical Sanctuary & Relics
+  - title: Anabaptism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Anabaptism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1525 CE

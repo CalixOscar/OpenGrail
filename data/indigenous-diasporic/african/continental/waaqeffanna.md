@@ -46,20 +46,24 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Waaqeffanna'
 artifacts:
-  - title: Waaqeffanna Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Waaqeffanna'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial; modern revitalization
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Waaqeffanna.
-  - title: Waaqeffanna Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Waaqeffanna'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/waaqeffanna-1.jpg
+  - title: >-
+      Literacy in Multilingual and Multicultural Contexts Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Literacy_in_Multilingual_and_Multicultural_Contexts.pdf
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial; modern revitalization
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Waaqeffanna.
+    description: Publication by UNESCO...
+    imageUrl: /artifacts/waaqeffanna-1.jpg
 ---
 
 # Waaqeffanna

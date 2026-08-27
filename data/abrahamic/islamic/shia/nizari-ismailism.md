@@ -42,13 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Nizari Ismailism'
     url: 'https://www.cambridge.org/core/search?q=Nizari%20Ismailism'
 artifacts:
-  - title: Nizari Ismailism Historical Sanctuary & Relics
+  - title: Nizari Ismailism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Nizari_Ismailism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1094 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Nizari Ismailism.
+    imageUrl: /artifacts/nizari-ismailism-1.jpg
   - title: Nizari Ismailism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Nizari_Ismailism'
     provenance: 'Jerusalem, Southern Levant'
@@ -56,6 +57,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Nizari Ismailism.
+    imageUrl: /artifacts/nizari-ismailism-2.jpg
 ---
 
 # Nizari Ismailism

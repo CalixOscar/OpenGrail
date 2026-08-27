@@ -42,7 +42,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Maronite Church'
     url: 'https://www.cambridge.org/core/search?q=Maronite%20Church'
 artifacts:
-  - title: Maronite Church Historical Sanctuary & Relics
+  - title: Maronite Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Maronite_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 5th century CE

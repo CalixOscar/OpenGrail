@@ -43,20 +43,21 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Tenrikyo'
 artifacts:
-  - title: Tenrikyo Historical Sanctuary & Relics
+  - title: Tenrikyo Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Tenrikyo'
     provenance: 'Tenri, Nara Prefecture, Japan'
     period: c. 1838 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Tenrikyo.
-  - title: Tenrikyo Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tenrikyo'
+      Tenrikyo (天理教, Tenrikyō) is a Japanese new religion which is neither
+      strictly monotheistic nor pantheistic, originating from the teachings of a
+      19th-century woman named Nakayama Mi...
+    imageUrl: /artifacts/tenrikyo-1.jpg
+  - title: Ofudesaki (English) Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ofudesaki_(English).jpg'
     provenance: 'Tenri, Nara Prefecture, Japan'
     period: c. 1838 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Tenrikyo.
+    description: 'Cover of Ofudesaki, published by Tenrikyo Church Headquarters....'
+    imageUrl: /artifacts/tenrikyo-2.jpg
 ---
 
 # Tenrikyo

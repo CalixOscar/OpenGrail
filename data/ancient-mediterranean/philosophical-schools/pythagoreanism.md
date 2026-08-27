@@ -50,13 +50,15 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Pythagoreanism'
     url: 'https://brill.com/search?q=Pythagoreanism'
 artifacts:
-  - title: Pythagoreanism Historical Sanctuary & Relics
+  - title: Pythagoreanism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Pythagoreanism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 530 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Pythagoreanism.
+      Pythagoreanism originated in the 6th century BC, based on and around the
+      teachings and beliefs held by Pythagoras and his followers, the
+      Pythagoreans. Pythagoras established the fi...
+    imageUrl: /artifacts/pythagoreanism-1.jpg
   - title: Pythagoreanism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Pythagoreanism'
     provenance: 'Athens, Attica, Greece'
@@ -64,6 +66,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Pythagoreanism.
+    imageUrl: /artifacts/pythagoreanism-1.jpg
 ---
 
 # Pythagoreanism

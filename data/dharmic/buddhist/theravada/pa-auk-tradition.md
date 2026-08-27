@@ -46,20 +46,23 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pa-Auk%20Tradition'
 artifacts:
-  - title: Pa-Auk Tradition Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pa-Auk_Tradition'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 1980s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Pa-Auk Tradition.
-  - title: Pa-Auk Tradition Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pa-Auk_Tradition'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/pa-auk-tradition-1.jpg
+  - title: Tipitaka1 Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 1980s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Pa-Auk Tradition.
+    imageUrl: /artifacts/pa-auk-tradition-2.jpg
 ---
 
 # Pa-Auk Tradition

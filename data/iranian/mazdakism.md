@@ -43,20 +43,29 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Mazdakism'
     url: 'https://brill.com/search?q=Mazdakism'
 artifacts:
-  - title: Mazdakism Historical Sanctuary & Relics
+  - title: Mazdakism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Mazdakism'
     provenance: 'Isfahan, Iran'
     period: c. late 5th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Mazdakism.
-  - title: Mazdakism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mazdakism'
+      Mazdakism (Persian: مزدکیه, romanized: mazdakīye) was an Iranian offshoot
+      of Zoroastrianism.
+
+      The religion was founded in the early Sasanian Empire by Zaradust-e
+      Khuragen, a Zoroast...
+    imageUrl: /artifacts/mazdakism-1.jpg
+  - title: >-
+      Epistolae Ho-Elianae- the familiar letters of James Howell (IA
+      epistolaehoelian02howeiala) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Epistolae_Ho-Elianae-_the_familiar_letters_of_James_Howell_(IA_epistolaehoelian02howeiala).pdf
     provenance: 'Isfahan, Iran'
     period: c. late 5th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Mazdakism.
+      [v.1] Epistolae Ho-Elianae: Books I-IV. Supplement I: Documents of and
+      about Howell.- [v.2] Testimonia. Introduction. Appendix: Bibliography of
+      Howell's works. Supplement II: Docu...
+    imageUrl: /artifacts/mazdakism-1.jpg
 ---
 
 # Mazdakism

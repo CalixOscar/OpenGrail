@@ -45,20 +45,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ved%C4%81nta'
 artifacts:
-  - title: Vedānta Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ved%C4%81nta'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Kanchipuram, Tamil Nadu, India'
+    period: c. c. 2nd century BCE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/vedanta-1.jpg
+  - title: Bhagavata Precepts Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bhagavata_Precepts.pdf'
     provenance: 'Kanchipuram, Tamil Nadu, India'
     period: c. c. 2nd century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Vedānta.
-  - title: Vedānta Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ved%C4%81nta'
-    provenance: 'Kanchipuram, Tamil Nadu, India'
-    period: c. c. 2nd century BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Vedānta.
+      The Bhagavata: Its Philosophy, Its Ethics, and Its Theology (1869) and
+      Life and Precepts of Sri Caitanya Mahaprabhu(1896) by Bhaktivinoda
+      Thakur...
+    imageUrl: /artifacts/vedanta-1.jpg
 ---
 
 # Vedānta

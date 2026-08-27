@@ -43,13 +43,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Mizrahi Judaism'
     url: 'https://www.cambridge.org/core/search?q=Mizrahi%20Judaism'
 artifacts:
-  - title: Mizrahi Judaism Historical Sanctuary & Relics
+  - title: Mizrahi Judaism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Mizrahi_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. Ancient–modern
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mizrahi Judaism.
+    imageUrl: /artifacts/mizrahi-judaism-1.jpg
   - title: Mizrahi Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Mizrahi_Judaism'
     provenance: 'Jerusalem, Southern Levant'
@@ -57,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Mizrahi Judaism.
+    imageUrl: /artifacts/mizrahi-judaism-2.jpg
 ---
 
 # Mizrahi Judaism

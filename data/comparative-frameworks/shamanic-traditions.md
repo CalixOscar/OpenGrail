@@ -42,13 +42,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Shamanic%20Traditions'
 artifacts:
-  - title: Shamanic Traditions Historical Sanctuary & Relics
+  - title: Shamanic Traditions Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Shamanic_Traditions'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. ancient practices; modern comparative category
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Shamanic Traditions.
+    imageUrl: /artifacts/shamanic-traditions-1.jpg
   - title: Shamanic Traditions Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Shamanic_Traditions'
     provenance: 'Ile-Ife, Osun, Nigeria'
@@ -56,6 +57,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Shamanic Traditions.
+    imageUrl: /artifacts/shamanic-traditions-2.jpg
 ---
 
 # Shamanic Traditions

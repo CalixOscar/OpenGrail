@@ -42,20 +42,23 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Early%20Buddhist%20Schools'
 artifacts:
-  - title: Early Buddhist Schools Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Early_Buddhist_Schools'
+  - title: Early Buddhist schools Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Early_Buddhist_schools'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Early Buddhist Schools.
+      The early Buddhist schools refers to the Indian Buddhist "doctrinal
+      schools" or "schools of thought" (Sanskrit: vāda) which arose out of the
+      early unified Buddhist monastic communi...
+    imageUrl: /artifacts/early-buddhist-schools-1.jpg
   - title: Early Buddhist Schools Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Early_Buddhist_Schools'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Early_Buddhist_schools'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century BCE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Early Buddhist Schools.
+    imageUrl: /artifacts/early-buddhist-schools-2.jpg
 ---
 
 # Early Buddhist Schools

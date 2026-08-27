@@ -51,20 +51,21 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Astronaut Theory'
     url: 'https://brill.com/search?q=Ancient%20Astronaut%20Theory'
 artifacts:
-  - title: Ancient Astronaut Theory Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Astronaut_Theory'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Geneva, Switzerland'
     period: c. 1960s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ancient Astronaut Theory.
-  - title: Ancient Astronaut Theory Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Astronaut_Theory'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/ancient-astronaut-theory-1.jpg
+  - title: Gods-kkm Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Gods-kkm.jpg'
     provenance: 'Geneva, Switzerland'
     period: c. 1960s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ancient Astronaut Theory.
+    description: This media file was uploaded as a part of the TamilWiki Media Contest....
+    imageUrl: /artifacts/ancient-astronaut-theory-1.jpg
 ---
 
 # Ancient Astronaut Theory

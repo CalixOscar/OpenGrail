@@ -46,20 +46,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & The New Church'
     url: 'https://www.cambridge.org/core/search?q=The%20New%20Church'
 artifacts:
-  - title: The New Church (Swedenborgianism) Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/The_New_Church_(Swedenborgianism)'
+  - title: The New Church (Swedenborgianism) Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/The_New_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1787 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with The New Church (Swedenborgianism).
+    imageUrl: /artifacts/swedenborgianism-1.jpg
   - title: The New Church (Swedenborgianism) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/The_New_Church_(Swedenborgianism)'
+    sourceUrl: 'https://en.wikipedia.org/wiki/The_New_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1787 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of The New Church (Swedenborgianism).
+    imageUrl: /artifacts/swedenborgianism-2.jpg
 ---
 
 # The New Church (Swedenborgianism)

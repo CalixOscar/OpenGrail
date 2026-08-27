@@ -45,13 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Rinzai%20Zen'
 artifacts:
-  - title: Rinzai Zen Historical Sanctuary & Relics
+  - title: Rinzai Zen Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Rinzai_Zen'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 12th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Rinzai Zen.
+    imageUrl: /artifacts/rinzai-zen-1.jpg
   - title: Rinzai Zen Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Rinzai_Zen'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -59,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Rinzai Zen.
+    imageUrl: /artifacts/rinzai-zen-2.jpg
 ---
 
 # Rinzai Zen

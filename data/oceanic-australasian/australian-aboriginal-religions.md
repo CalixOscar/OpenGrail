@@ -43,20 +43,26 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Australian%20Aboriginal%20Religions'
 artifacts:
-  - title: Australian Aboriginal Religions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Australian_Aboriginal_Religions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
+    period: c. ancestral era
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/australian-aboriginal-religions-1.jpg
+  - title: >-
+      Filming of the Yoruba oral traditions project Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
     provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
     period: c. ancestral era
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Australian Aboriginal Religions.
-  - title: Australian Aboriginal Religions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Australian_Aboriginal_Religions'
-    provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
-    period: c. ancestral era
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Australian Aboriginal Religions.
+      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
+      Ṣànpọ̀ná...
+    imageUrl: /artifacts/australian-aboriginal-religions-2.jpg
 ---
 
 # Australian Aboriginal Religions

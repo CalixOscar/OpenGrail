@@ -59,15 +59,15 @@ sources:
 artifacts:
   - title: >-
       Fundamentalist Church of Jesus Christ of Latter-Day Saints Historical
-      Sanctuary & Relics
+      Sanctuary & Records
     sourceUrl: >-
       https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. c. 1954 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Fundamentalist Church of Jesus Christ of Latter-Day
-      Saints.
+      The Fundamentalist Church of Jesus Christ of Latter-Day Saints
+      (abbreviated to FLDS Church or FLDS) is a Mormon fundamentalist group
+      whose members practice polygamy. It is variousl...
     imageUrl: /artifacts/fundamentalist-church-jesus-christ-latter-day-saints-1.jpg
   - title: >-
       Fundamentalist Church of Jesus Christ of Latter-Day Saints Sacred

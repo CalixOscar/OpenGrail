@@ -44,13 +44,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Shadhiliyya'
     url: 'https://www.cambridge.org/core/search?q=Shadhiliyya'
 artifacts:
-  - title: Shadhiliyya Historical Sanctuary & Relics
+  - title: Shadhiliyya Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Shadhiliyya'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 13th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Shadhiliyya.
+    imageUrl: /artifacts/shadhiliyya-1.jpg
   - title: Shadhiliyya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Shadhiliyya'
     provenance: 'Jerusalem, Southern Levant'
@@ -58,6 +59,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Shadhiliyya.
+    imageUrl: /artifacts/shadhiliyya-2.jpg
 ---
 
 # Shadhiliyya

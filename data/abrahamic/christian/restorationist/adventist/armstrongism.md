@@ -49,7 +49,7 @@ sources:
       Churches of God
     url: 'https://www.cambridge.org/core/search?q=Armstrongist%20Churches%20of%20God'
 artifacts:
-  - title: Armstrongist Churches of God Historical Sanctuary & Relics
+  - title: Armstrongist Churches of God Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Armstrongist_Churches_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1934 CE

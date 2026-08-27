@@ -53,23 +53,28 @@ sources:
       https://www.rep.routledge.com/search?query=International%20Society%20for%20Krishna%20Consciousness
 artifacts:
   - title: >-
-      International Society for Krishna Consciousness Historical Sanctuary &
-      Relics
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
     sourceUrl: >-
-      https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 1966 CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/iskcon-1.jpg
+  - title: >-
+      BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter 1.20.21 Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter_1.20.21.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1966 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with International Society for Krishna Consciousness.
-  - title: International Society for Krishna Consciousness Sacred Scripture & Art
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1966 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of International Society for Krishna Consciousness.
+      This folio samples a part of verse 20, and the beginning of verse 21 from
+      the opening chapter of the Bhagavad Gita, which is on the topic of
+      Arjuna's distress.
+
+      प्रवृत्ते शस्त्रसम्प...
+    imageUrl: /artifacts/iskcon-2.jpg
 ---
 
 # International Society for Krishna Consciousness

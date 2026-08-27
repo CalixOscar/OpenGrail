@@ -48,20 +48,26 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Self-Realization%20Fellowship'
 artifacts:
-  - title: Self-Realization Fellowship Historical Sanctuary & Relics
+  - title: Self-Realization Fellowship Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Self-Realization_Fellowship'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1920 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Self-Realization Fellowship.
-  - title: Self-Realization Fellowship Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Self-Realization_Fellowship'
+      Self-Realization Fellowship (SRF) is a worldwide religious organization
+      founded in 1920 by Paramahansa Yogananda, the Indian guru who authored
+      Autobiography of a Yogi. Before movin...
+    imageUrl: /artifacts/self-realization-fellowship-1.jpg
+  - title: >-
+      Copyright-page-of-Autobiography-of-a-Yogi1952 Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Copyright-page-of-Autobiography-of-a-Yogi1952.png
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1920 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Self-Realization Fellowship.
+      Scan of the copyright 1952 edition page of the book Autobiography of a
+      Yogi, which is in public domain....
+    imageUrl: /artifacts/self-realization-fellowship-1.jpg
 ---
 
 # Self-Realization Fellowship

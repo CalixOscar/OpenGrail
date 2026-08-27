@@ -47,20 +47,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=V%C4%81rkar%C4%AB%20Tradition'
 artifacts:
-  - title: Vārkarī Tradition Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/V%C4%81rkar%C4%AB_Tradition'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Vārkarī Tradition.
-  - title: Vārkarī Tradition Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/V%C4%81rkar%C4%AB_Tradition'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/varkari-tradition-1.jpg
+  - title: JnaneshvarTempleAlandiIndia Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:JnaneshvarTempleAlandiIndia.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Vārkarī Tradition.
+    description: 'Wejście do świątyni pl:Dźńaneśwara. Alandi. Maharasztra. Indie...'
+    imageUrl: /artifacts/varkari-tradition-2.jpg
 ---
 
 # Vārkarī Tradition

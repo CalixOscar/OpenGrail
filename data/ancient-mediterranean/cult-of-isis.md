@@ -48,13 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Isis'
     url: 'https://brill.com/search?q=Cult%20of%20Isis'
 artifacts:
-  - title: Cult of Isis Historical Sanctuary & Relics
+  - title: Cult of Isis Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Isis'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 4th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cult of Isis.
+    imageUrl: /artifacts/cult-of-isis-1.jpg
   - title: Cult of Isis Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Isis'
     provenance: 'Athens, Attica, Greece'
@@ -62,6 +63,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Cult of Isis.
+    imageUrl: /artifacts/cult-of-isis-1.jpg
 ---
 
 # Cult of Isis

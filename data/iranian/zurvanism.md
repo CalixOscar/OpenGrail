@@ -43,20 +43,26 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Zurvanism'
     url: 'https://brill.com/search?q=Zurvanism'
 artifacts:
-  - title: Zurvanism Historical Sanctuary & Relics
+  - title: Zurvanism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Zurvanism'
     provenance: 'Isfahan, Iran'
     period: c. c. 4th century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Zurvanism.
-  - title: Zurvanism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zurvanism'
+      Zurvanism was a fatalistic religious movement of Zoroastrianism in which
+      the divinity Zurvan is a first principle (primordial creator deity) who
+      engendered equal-but-opposite twins...
+    imageUrl: /artifacts/zurvanism-1.jpg
+  - title: >-
+      Avesta, translated by Ignacy Pietraszewski Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Avesta,_translated_by_Ignacy_Pietraszewski.jpg
     provenance: 'Isfahan, Iran'
     period: c. c. 4th century BCE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Zurvanism.
+    imageUrl: /artifacts/zurvanism-2.jpg
 ---
 
 # Zurvanism

@@ -42,20 +42,27 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Soka%20Gakkai'
 artifacts:
-  - title: Soka Gakkai Historical Sanctuary & Relics
+  - title: Soka Gakkai Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Soka_Gakkai'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1930 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Soka Gakkai.
-  - title: Soka Gakkai Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Soka_Gakkai'
+      Soka Gakkai (Japanese: 創価学会, Hepburn: Sōka Gakkai; "creating value study
+      group") is a Japanese new religion founded in 1930 based on the teachings
+      of the 13th-century Japanese Budd...
+    imageUrl: /artifacts/soka-gakkai-2.jpg
+  - title: >-
+      Goryeo-Illustrated manuscript of the Lotus Sutra c.1340 Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Goryeo-Illustrated_manuscript_of_the_Lotus_Sutra_c.1340.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1930 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Soka Gakkai.
+      Illustrated Korean manuscript of the Lotus Sutra, Koryô (Goryeo) Dynasty
+      (918–1392), ca. 1340, Folding book, gold and silver on indigo-dyed
+      mulberry paper; 106 pages; each 33 x 11...
+    imageUrl: /artifacts/soka-gakkai-2.jpg
 ---
 
 # Soka Gakkai

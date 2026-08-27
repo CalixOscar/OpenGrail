@@ -62,7 +62,7 @@ sources:
 artifacts:
   - title: >-
       The Church of Jesus Christ of Latter-day Saints Historical Sanctuary &
-      Relics
+      Records
     sourceUrl: >-
       https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints
     provenance: 'Salt Lake City (Temple Square), Utah, USA'

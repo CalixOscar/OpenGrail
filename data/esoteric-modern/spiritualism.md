@@ -45,20 +45,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Spiritualism'
     url: 'https://brill.com/search?q=Modern%20Spiritualism'
 artifacts:
-  - title: Modern Spiritualism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Spiritualism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'London, England, UK'
     period: c. 1848 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Modern Spiritualism.
-  - title: Modern Spiritualism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Spiritualism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/spiritualism-1.jpg
+  - title: >-
+      Was Abraham Lincoln a spiritualist? (IA wasabraham00mayn) Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Was_Abraham_Lincoln_a_spiritualist%3F_(IA_wasabraham00mayn).pdf
     provenance: 'London, England, UK'
     period: c. 1848 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Modern Spiritualism.
+    description: 'Subjects: Lincoln, Abraham, 1809-1865; Spiritualism...'
+    imageUrl: /artifacts/spiritualism-1.jpg
 ---
 
 # Modern Spiritualism

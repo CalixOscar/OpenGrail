@@ -45,13 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Missionary Church of Kopimism'
     url: 'https://brill.com/search?q=Missionary%20Church%20of%20Kopimism'
 artifacts:
-  - title: Missionary Church of Kopimism Historical Sanctuary & Relics
+  - title: Missionary Church of Kopimism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Missionary_Church_of_Kopimism'
     provenance: 'London, England, UK'
     period: c. 2010 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Missionary Church of Kopimism.
+      The Missionary Church of Kopimism (in Swedish Missionerande
+      Kopimistsamfundet) is a congregation of file sharers who believe that
+      copying information is a sacred virtue; it was fou...
   - title: Missionary Church of Kopimism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Missionary_Church_of_Kopimism'
     provenance: 'London, England, UK'

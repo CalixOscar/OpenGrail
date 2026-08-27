@@ -49,20 +49,26 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Sasanian Zoroastrianism'
     url: 'https://brill.com/search?q=Sasanian%20Zoroastrianism'
 artifacts:
-  - title: Sasanian Zoroastrianism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sasanian_Zoroastrianism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Isfahan, Iran'
     period: c. 224 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Sasanian Zoroastrianism.
-  - title: Sasanian Zoroastrianism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sasanian_Zoroastrianism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/sasanian-zoroastrianism-1.jpg
+  - title: >-
+      Avesta, translated by Ignacy Pietraszewski Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Avesta,_translated_by_Ignacy_Pietraszewski.jpg
     provenance: 'Isfahan, Iran'
     period: c. 224 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Sasanian Zoroastrianism.
+    imageUrl: /artifacts/sasanian-zoroastrianism-2.jpg
 ---
 
 # Sasanian Zoroastrianism

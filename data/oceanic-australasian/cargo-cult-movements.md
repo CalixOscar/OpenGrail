@@ -44,20 +44,27 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=So-Called%20Cargo%20Cult%20Movements'
 artifacts:
-  - title: So-Called Cargo Cult Movements Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/So-Called_Cargo_Cult_Movements'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
+    period: c. late 19th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/cargo-cult-movements-1.jpg
+  - title: >-
+      IMPACT OF THE BOYCOTT, DIVESTMENT, AND SANCTIONS MOVEMENT (IA
+      gov.gpo.fdsys.CHRG-114hhrg96874) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:IMPACT_OF_THE_BOYCOTT,_DIVESTMENT,_AND_SANCTIONS_MOVEMENT_(IA_gov.gpo.fdsys.CHRG-114hhrg96874).pdf
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. late 19th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with So-Called Cargo Cult Movements.
-  - title: So-Called Cargo Cult Movements Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/So-Called_Cargo_Cult_Movements'
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. late 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of So-Called Cargo Cult Movements.
+      Government Publishing OfficeU.S. CongressHouse of RepresentativesCommittee
+      on Oversight and Government ReformIMPACT OF THE BOYCOTT, DIVESTMENT, AND
+      SANCTIONS MOVEMENTDate(s) Held:...
+    imageUrl: /artifacts/cargo-cult-movements-1.jpg
 ---
 
 # So-Called Cargo Cult Movements

@@ -47,20 +47,28 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=P%C5%ABrva%20M%C4%ABm%C4%81%E1%B9%83s%C4%81
 artifacts:
-  - title: Pūrva Mīmāṃsā Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/P%C5%ABrva_M%C4%ABm%C4%81%E1%B9%83s%C4%81'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Pūrva Mīmāṃsā.
-  - title: Pūrva Mīmāṃsā Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/P%C5%ABrva_M%C4%ABm%C4%81%E1%B9%83s%C4%81'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/purva-mimamsa-1.jpg
+  - title: >-
+      The Vedanta-Sutras, transl. George Thibaut, 1890 Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Vedanta-Sutras,_transl._George_Thibaut,_1890.djvu
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Pūrva Mīmāṃsā.
+    description: |-
+      The Vedanta-Sutras, with the Shankara-Bhasya translated by George Thibaut.
+      Both Volumes (1 &amp; 2) (1890-1896)
+      Part 1 - (Sacred Books of the East - Volume 34)
+      Part 2 - (Sacred Bo...
+    imageUrl: /artifacts/purva-mimamsa-2.jpg
 ---
 
 # Pūrva Mīmāṃsā

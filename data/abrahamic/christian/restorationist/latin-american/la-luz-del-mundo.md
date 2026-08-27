@@ -43,13 +43,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & La Luz del Mundo'
     url: 'https://www.cambridge.org/core/search?q=La%20Luz%20del%20Mundo'
 artifacts:
-  - title: La Luz del Mundo Historical Sanctuary & Relics
+  - title: La Luz del Mundo Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/La_Luz_del_Mundo'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1926 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with La Luz del Mundo.
+      The Iglesia del Dios Vivo, Columna y Apoyo de la Verdad, La Luz del Mundo
+      (Spanish: [iˈɣlesja ðel ˈdjos ˈβiβo koˈlumnaj aˈpoʝo ðe la βeɾˈðað la ˈlus
+      ðel ˈmundo] ; English: "Church...
     imageUrl: /artifacts/la-luz-del-mundo-1.jpg
   - title: La Luz del Mundo Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/La_Luz_del_Mundo'

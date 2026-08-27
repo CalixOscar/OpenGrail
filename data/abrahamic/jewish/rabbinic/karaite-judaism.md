@@ -40,13 +40,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Karaite Judaism'
     url: 'https://www.cambridge.org/core/search?q=Karaite%20Judaism'
 artifacts:
-  - title: Karaite Judaism Historical Sanctuary & Relics
+  - title: Karaite Judaism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Karaite_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Karaite Judaism.
+      Karaite Judaism or Karaism is a Jewish sect characterized by the
+      recognition of the written Tanakh alone as its supreme authority in
+      halakha (religious law) and theology, and rejec...
+    imageUrl: /artifacts/karaite-judaism-1.jpg
   - title: Karaite Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Karaite_Judaism'
     provenance: 'Jerusalem, Southern Levant'
@@ -54,6 +56,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Karaite Judaism.
+    imageUrl: /artifacts/karaite-judaism-2.jpg
 ---
 
 # Karaite Judaism

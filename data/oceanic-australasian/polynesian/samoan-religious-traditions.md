@@ -49,20 +49,24 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Samoan%20Religious%20Traditions'
 artifacts:
-  - title: Samoan Religious Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Samoan_Religious_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Upolu (Apia), Samoa'
     period: c. precolonial
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Samoan Religious Traditions.
-  - title: Samoan Religious Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Samoan_Religious_Traditions'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/samoan-religious-traditions-1.jpg
+  - title: Jataka tales (IA jatakatalesfranc00fran) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Jataka_tales_(IA_jatakatalesfranc00fran).pdf
     provenance: 'Upolu (Apia), Samoa'
     period: c. precolonial
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Samoan Religious Traditions.
+    imageUrl: /artifacts/samoan-religious-traditions-1.jpg
 ---
 
 # Samoan Religious Traditions

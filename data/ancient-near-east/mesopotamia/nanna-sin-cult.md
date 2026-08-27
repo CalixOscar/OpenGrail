@@ -50,13 +50,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Nanna–Sîn'
     url: 'https://brill.com/search?q=Cult%20of%20Nanna%E2%80%93S%C3%AEn'
 artifacts:
-  - title: Cult of Nanna–Sîn Historical Sanctuary & Relics
+  - title: Cult of Nanna–Sîn Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Nanna%E2%80%93S%C3%AEn'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3000 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cult of Nanna–Sîn.
+    imageUrl: /artifacts/nanna-sin-cult-1.jpg
   - title: Cult of Nanna–Sîn Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Nanna%E2%80%93S%C3%AEn'
     provenance: 'Babylon, Mesopotamia'
@@ -64,6 +65,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Cult of Nanna–Sîn.
+    imageUrl: /artifacts/nanna-sin-cult-2.jpg
 ---
 
 # Cult of Nanna–Sîn

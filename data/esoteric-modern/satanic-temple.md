@@ -48,20 +48,25 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: The Satanic Temple'
     url: 'https://brill.com/search?q=The%20Satanic%20Temple'
 artifacts:
-  - title: The Satanic Temple Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/The_Satanic_Temple'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Boston, Massachusetts, USA'
     period: c. 2013 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with The Satanic Temple.
-  - title: The Satanic Temple Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/The_Satanic_Temple'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/satanic-temple-1.jpg
+  - title: >-
+      Campbellism exposed - or, Strictures on the peculiar tenets of Alexander
+      Campbell - by William Phillips (IA campbellismexpos01phil) Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Campbellism_exposed_-_or,_Strictures_on_the_peculiar_tenets_of_Alexander_Campbell_-_by_William_Phillips_(IA_campbellismexpos01phil).pdf
     provenance: 'Boston, Massachusetts, USA'
     period: c. 2013 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of The Satanic Temple.
+    description: 'Subjects: Campbell, Alexander, 1788-1866...'
+    imageUrl: /artifacts/satanic-temple-1.jpg
 ---
 
 # The Satanic Temple

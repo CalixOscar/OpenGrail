@@ -40,20 +40,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Namdhari%20Sikhs'
 artifacts:
-  - title: Namdhari Sikhs Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Namdhari_Sikhs'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Amritsar, Punjab, India'
+    period: c. 1857 CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/namdhari-1.jpg
+  - title: Sri Guru Granth Sahib Nishan Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sri_Guru_Granth_Sahib_Nishan.jpg'
     provenance: 'Amritsar, Punjab, India'
     period: c. 1857 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Namdhari Sikhs.
-  - title: Namdhari Sikhs Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Namdhari_Sikhs'
-    provenance: 'Amritsar, Punjab, India'
-    period: c. 1857 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Namdhari Sikhs.
+      Illuminated Adi Granth folio with nisan of Guru Gobind Singh. The
+      manuscript is of the Lahore recension, late 17th to early 18th century.
+      Gold and colours on paper; folio size 360...
+    imageUrl: /artifacts/namdhari-2.jpg
 ---
 
 # Namdhari Sikhs

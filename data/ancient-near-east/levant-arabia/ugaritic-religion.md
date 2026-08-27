@@ -46,13 +46,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ugaritic Religion'
     url: 'https://brill.com/search?q=Ugaritic%20Religion'
 artifacts:
-  - title: Ugaritic Religion Historical Sanctuary & Relics
+  - title: Ugaritic Religion Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Ugaritic_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1500 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ugaritic Religion.
+    imageUrl: /artifacts/ugaritic-religion-1.jpg
   - title: Ugaritic Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ugaritic_Religion'
     provenance: 'Babylon, Mesopotamia'
@@ -60,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Ugaritic Religion.
+    imageUrl: /artifacts/ugaritic-religion-2.jpg
 ---
 
 # Ugaritic Religion

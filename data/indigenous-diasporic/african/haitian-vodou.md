@@ -47,20 +47,23 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Haitian%20Vodou'
 artifacts:
-  - title: Haitian Vodou Historical Sanctuary & Relics
+  - title: Haitian Vodou Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Haitian_Vodou'
     provenance: 'Port-au-Prince, Haiti'
     period: c. 17th–18th centuries CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Haitian Vodou.
-  - title: Haitian Vodou Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Haitian_Vodou'
+      Haitian Vodou () is an African diasporic religion that developed in Haiti
+      between the 16th and 19th centuries. It arose through a process of
+      syncretism between several traditional...
+  - title: >-
+      Singers and songs of the liberal faith; being selections of hymns and
+      other sacred poems of the liberal church in America (IA
+      singerssongsofl00putn) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Singers_and_songs_of_the_liberal_faith;_being_selections_of_hymns_and_other_sacred_poems_of_the_liberal_church_in_America_(IA_singerssongsofl00putn).pdf
     provenance: 'Port-au-Prince, Haiti'
     period: c. 17th–18th centuries CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Haitian Vodou.
+    description: 'Subjects: Religious poetry, American...'
 ---
 
 # Haitian Vodou

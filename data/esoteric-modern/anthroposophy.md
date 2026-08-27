@@ -48,20 +48,26 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Anthroposophy'
     url: 'https://brill.com/search?q=Anthroposophy'
 artifacts:
-  - title: Anthroposophy Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Anthroposophy'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Dornach, Solothurn, Switzerland'
+    period: c. 1912–1913 CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/anthroposophy-1.jpg
+  - title: >-
+      Portrait von Rudolf Steiner 1892 von Otto Fröhlich in Weimar gemalt
+      Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Portrait_von_Rudolf_Steiner_1892_von_Otto_Fr%C3%B6hlich_in_Weimar_gemalt.jpg
     provenance: 'Dornach, Solothurn, Switzerland'
     period: c. 1912–1913 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Anthroposophy.
-  - title: Anthroposophy Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Anthroposophy'
-    provenance: 'Dornach, Solothurn, Switzerland'
-    period: c. 1912–1913 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Anthroposophy.
+      Portrait des Philosophen und Schriftstellers Rudolf Steiner aus dem Jahre
+      1892...
+    imageUrl: /artifacts/anthroposophy-1.jpg
 ---
 
 # Anthroposophy

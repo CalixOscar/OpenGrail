@@ -44,20 +44,23 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Zen%20Buddhism'
 artifacts:
-  - title: Zen Buddhism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zen_Buddhism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Kyoto (Heian-kyo), Japan'
+    period: c. 12th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/zen-1.jpg
+  - title: Sadguru Appayya Swamigalu Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sadguru_Appayya_Swamigalu.JPG'
     provenance: 'Kyoto (Heian-kyo), Japan'
     period: c. 12th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Zen Buddhism.
-  - title: Zen Buddhism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zen_Buddhism'
-    provenance: 'Kyoto (Heian-kyo), Japan'
-    period: c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Zen Buddhism.
+      Sri Appaya Swamiji, a very great soul, a real devotee with great
+      realizations. From the year 1885, and left his body in the year 1956....
+    imageUrl: /artifacts/zen-2.jpg
 ---
 
 # Zen Buddhism

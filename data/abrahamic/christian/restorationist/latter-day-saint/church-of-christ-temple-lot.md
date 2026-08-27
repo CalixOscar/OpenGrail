@@ -42,8 +42,8 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Christ'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Christ'
 artifacts:
-  - title: Church of Christ (Temple Lot) Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Christ_(Temple_Lot)'
+  - title: Church of Christ (Temple Lot) Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Christ'
     provenance: 'Independence, Jackson County, Missouri, USA'
     period: c. 1863 CE
     description: >-
@@ -51,7 +51,7 @@ artifacts:
       associated with Church of Christ (Temple Lot).
     imageUrl: /artifacts/church-of-christ-temple-lot-1.jpg
   - title: Church of Christ (Temple Lot) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Christ_(Temple_Lot)'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Christ'
     provenance: 'Independence, Jackson County, Missouri, USA'
     period: c. 1863 CE
     description: >-

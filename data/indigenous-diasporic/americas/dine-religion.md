@@ -42,20 +42,26 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Din%C3%A9%20Religion'
 artifacts:
-  - title: Diné Religion Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Din%C3%A9_Religion'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Dinétah (Navajo Nation), Four Corners, USA'
+    period: c. ancestral era
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/dine-religion-1.jpg
+  - title: >-
+      Filming of the Yoruba oral traditions project Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
     provenance: 'Dinétah (Navajo Nation), Four Corners, USA'
     period: c. ancestral era
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Diné Religion.
-  - title: Diné Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Din%C3%A9_Religion'
-    provenance: 'Dinétah (Navajo Nation), Four Corners, USA'
-    period: c. ancestral era
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Diné Religion.
+      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
+      Ṣànpọ̀ná...
+    imageUrl: /artifacts/dine-religion-2.jpg
 ---
 
 # Diné Religion

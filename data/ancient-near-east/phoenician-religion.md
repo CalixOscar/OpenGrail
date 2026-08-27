@@ -43,13 +43,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Phoenician Religion'
     url: 'https://brill.com/search?q=Phoenician%20Religion'
 artifacts:
-  - title: Phoenician Religion Historical Sanctuary & Relics
+  - title: Phoenician Religion Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Phoenician_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1200 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Phoenician Religion.
+    imageUrl: /artifacts/phoenician-religion-1.jpg
   - title: Phoenician Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Phoenician_Religion'
     provenance: 'Babylon, Mesopotamia'
@@ -57,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Phoenician Religion.
+    imageUrl: /artifacts/phoenician-religion-2.jpg
 ---
 
 # Phoenician Religion

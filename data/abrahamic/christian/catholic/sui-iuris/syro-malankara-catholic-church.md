@@ -48,7 +48,7 @@ sources:
       Catholic Church
     url: 'https://www.cambridge.org/core/search?q=Syro-Malankara%20Catholic%20Church'
 artifacts:
-  - title: Syro-Malankara Catholic Church Historical Sanctuary & Relics
+  - title: Syro-Malankara Catholic Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malankara_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1930 CE

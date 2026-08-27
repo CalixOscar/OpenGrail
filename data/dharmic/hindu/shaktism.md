@@ -46,20 +46,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9A%C4%81ktism'
 artifacts:
-  - title: Śāktism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81ktism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 5th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/shaktism-1.jpg
+  - title: Ashta-Matrika Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ashta-Matrika.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Śāktism.
-  - title: Śāktism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81ktism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 5th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Śāktism.
+      The Goddess Ambika Leading the Eight Mother Goddesses in Battle Against
+      the Demon Raktabija, Folio from a Devimahatmya (Glory of the Goddess),
+      early 18th century...
+    imageUrl: /artifacts/shaktism-2.jpg
 ---
 
 # Śāktism

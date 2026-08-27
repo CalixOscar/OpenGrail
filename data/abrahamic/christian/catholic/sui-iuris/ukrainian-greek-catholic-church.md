@@ -46,7 +46,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Ukrainian%20Greek%20Catholic%20Church
 artifacts:
-  - title: Ukrainian Greek Catholic Church Historical Sanctuary & Relics
+  - title: Ukrainian Greek Catholic Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Ukrainian_Greek_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1596 CE

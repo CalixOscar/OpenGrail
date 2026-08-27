@@ -44,13 +44,14 @@ sources:
       Christian Church
     url: 'https://www.cambridge.org/core/search?q=International%20Christian%20Church'
 artifacts:
-  - title: International Christian Church Historical Sanctuary & Relics
+  - title: International Christian Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/International_Christian_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 2006 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with International Christian Church.
+    imageUrl: /artifacts/international-christian-church-1.jpg
   - title: International Christian Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/International_Christian_Church'
     provenance: 'Jerusalem, Southern Levant'
@@ -58,6 +59,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of International Christian Church.
+    imageUrl: /artifacts/international-christian-church-2.jpg
 ---
 
 # International Christian Church

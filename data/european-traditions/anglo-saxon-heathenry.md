@@ -50,20 +50,26 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Anglo-Saxon Heathenry'
     url: 'https://brill.com/search?q=Anglo-Saxon%20Heathenry'
 artifacts:
-  - title: Anglo-Saxon Heathenry Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Anglo-Saxon_Heathenry'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. 1970s CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/anglo-saxon-heathenry-1.jpg
+  - title: >-
+      The Elder or Poetic Edda (IA elderorpoeticedd01brayuoft) Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Elder_or_Poetic_Edda_(IA_elderorpoeticedd01brayuoft).djvu
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Anglo-Saxon Heathenry.
-  - title: Anglo-Saxon Heathenry Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Anglo-Saxon_Heathenry'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. 1970s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Anglo-Saxon Heathenry.
+      Edited and translated with introduction and notes by Olive Bray.
+      Illustrated by W. G. Collingwood...
+    imageUrl: /artifacts/anglo-saxon-heathenry-1.jpg
 ---
 
 # Anglo-Saxon Heathenry

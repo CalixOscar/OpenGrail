@@ -42,7 +42,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Quakers'
     url: 'https://www.cambridge.org/core/search?q=Quakers'
 artifacts:
-  - title: Quakers Historical Sanctuary & Relics
+  - title: Quakers Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Quakers'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1650s CE

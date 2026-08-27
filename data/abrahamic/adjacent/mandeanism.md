@@ -42,7 +42,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Mandaeism'
     url: 'https://www.cambridge.org/core/search?q=Mandaeism'
 artifacts:
-  - title: Mandaeism Historical Sanctuary & Relics
+  - title: Mandaeism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Mandaeism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd–5th centuries CE

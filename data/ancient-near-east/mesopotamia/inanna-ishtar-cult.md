@@ -49,13 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Inanna–Ishtar'
     url: 'https://brill.com/search?q=Cult%20of%20Inanna%E2%80%93Ishtar'
 artifacts:
-  - title: Cult of Inanna–Ishtar Historical Sanctuary & Relics
+  - title: Cult of Inanna–Ishtar Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Inanna%E2%80%93Ishtar'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3500 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cult of Inanna–Ishtar.
+    imageUrl: /artifacts/inanna-ishtar-cult-1.jpg
   - title: Cult of Inanna–Ishtar Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Inanna%E2%80%93Ishtar'
     provenance: 'Babylon, Mesopotamia'
@@ -63,6 +64,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Cult of Inanna–Ishtar.
+    imageUrl: /artifacts/inanna-ishtar-cult-2.jpg
 ---
 
 # Cult of Inanna–Ishtar

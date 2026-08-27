@@ -45,13 +45,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Breslov Hasidism'
     url: 'https://www.cambridge.org/core/search?q=Breslov%20Hasidism'
 artifacts:
-  - title: Breslov Hasidism Historical Sanctuary & Relics
+  - title: Breslov Hasidism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Breslov_Hasidism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1802 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Breslov Hasidism.
+    imageUrl: /artifacts/breslov-hasidism-1.jpg
   - title: Breslov Hasidism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Breslov_Hasidism'
     provenance: 'Jerusalem, Southern Levant'
@@ -59,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Breslov Hasidism.
+    imageUrl: /artifacts/breslov-hasidism-2.jpg
 ---
 
 # Breslov Hasidism

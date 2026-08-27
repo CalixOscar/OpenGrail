@@ -44,20 +44,27 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Won%20Buddhism'
 artifacts:
-  - title: Won Buddhism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Won_Buddhism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Iksan, North Jeolla, South Korea'
     period: c. 1916 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Won Buddhism.
-  - title: Won Buddhism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Won_Buddhism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/won-buddhism-1.jpg
+  - title: >-
+      Early Buddhism (IA earlybuddhism00davirich) Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Early_Buddhism_(IA_earlybuddhism00davirich).pdf
     provenance: 'Iksan, North Jeolla, South Korea'
     period: c. 1916 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Won Buddhism.
+    description: |-
+      Includes bibliographical references (p. 91-[92])
+
+      Subjects: Buddhism; Buddhism -- History...
+    imageUrl: /artifacts/won-buddhism-2.jpg
 ---
 
 # Won Buddhism

@@ -45,20 +45,27 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Maasai%20Religious%20Traditions'
 artifacts:
-  - title: Maasai Religious Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maasai_Religious_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Rift Valley (Nairobi), Kenya'
     period: c. precolonial
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Maasai Religious Traditions.
-  - title: Maasai Religious Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maasai_Religious_Traditions'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/maasai-religion-1.jpg
+  - title: >-
+      History of the Catholic Church, for Catholic parochial and high schools
+      (IA historyofcatholi00mari) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:History_of_the_Catholic_Church,_for_Catholic_parochial_and_high_schools_(IA_historyofcatholi00mari).pdf
     provenance: 'Rift Valley (Nairobi), Kenya'
     period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Maasai Religious Traditions.
+    description: |-
+      "References for reading" at end of each chapter
+
+      Subjects: Catholic Church...
+    imageUrl: /artifacts/maasai-religion-1.jpg
 ---
 
 # Maasai Religious Traditions

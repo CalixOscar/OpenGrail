@@ -43,13 +43,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pure%20Land%20Buddhism'
 artifacts:
-  - title: Pure Land Buddhism Historical Sanctuary & Relics
+  - title: Pure Land Buddhism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Pure_Land_Buddhism'
     provenance: 'Luoyang, Henan, China'
     period: c. c. 2nd century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Pure Land Buddhism.
+      Pure Land Buddhism or the Pure Land School  (Chinese: 淨土宗; pinyin:
+      Jìngtǔzōng) is a broad branch of Mahayana Buddhism focused on achieving
+      rebirth in a Pure Land. It is one of the...
+    imageUrl: /artifacts/pure-land-buddhism-1.jpg
   - title: Pure Land Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Pure_Land_Buddhism'
     provenance: 'Luoyang, Henan, China'
@@ -57,6 +59,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Pure Land Buddhism.
+    imageUrl: /artifacts/pure-land-buddhism-2.jpg
 ---
 
 # Pure Land Buddhism

@@ -45,13 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Heliopolitan Theology'
     url: 'https://brill.com/search?q=Heliopolitan%20Theology'
 artifacts:
-  - title: Heliopolitan Theology Historical Sanctuary & Relics
+  - title: Heliopolitan Theology Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Heliopolitan_Theology'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 2400 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Heliopolitan Theology.
+    imageUrl: /artifacts/heliopolitan-theology-1.jpg
   - title: Heliopolitan Theology Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Heliopolitan_Theology'
     provenance: 'Thebes (Luxor), Ancient Egypt'
@@ -59,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Heliopolitan Theology.
+    imageUrl: /artifacts/heliopolitan-theology-2.jpg
 ---
 
 # Heliopolitan Theology

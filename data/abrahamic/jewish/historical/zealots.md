@@ -44,13 +44,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Zealots'
     url: 'https://www.cambridge.org/core/search?q=Zealots'
 artifacts:
-  - title: Zealots Historical Sanctuary & Relics
+  - title: Zealots Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Zealots'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1st century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Zealots.
+    imageUrl: /artifacts/zealots-1.jpg
   - title: Zealots Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Zealots'
     provenance: 'Jerusalem, Southern Levant'
@@ -58,6 +59,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Zealots.
+    imageUrl: /artifacts/zealots-2.jpg
 ---
 
 # Zealots

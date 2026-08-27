@@ -48,7 +48,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Babism'
     url: 'https://www.cambridge.org/core/search?q=Babism'
 artifacts:
-  - title: Babism Historical Sanctuary & Relics
+  - title: Babism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Babism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1844 CE

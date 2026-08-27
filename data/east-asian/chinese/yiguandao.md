@@ -52,13 +52,14 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Yiguandao'
 artifacts:
-  - title: Yiguandao Historical Sanctuary & Relics
+  - title: Yiguandao Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Yiguandao'
     provenance: 'Nanjing, Jiangsu, China'
     period: c. early 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Yiguandao.
+    imageUrl: /artifacts/yiguandao-1.jpg
   - title: Yiguandao Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Yiguandao'
     provenance: 'Nanjing, Jiangsu, China'
@@ -66,6 +67,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Yiguandao.
+    imageUrl: /artifacts/yiguandao-1.jpg
 ---
 
 # Yiguandao

@@ -42,20 +42,27 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Tiantai%20Buddhism'
 artifacts:
-  - title: Tiantai Buddhism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tiantai_Buddhism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 6th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/tiantai-1.jpg
+  - title: >-
+      Goryeo-Illustrated manuscript of the Lotus Sutra c.1340 Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Goryeo-Illustrated_manuscript_of_the_Lotus_Sutra_c.1340.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 6th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Tiantai Buddhism.
-  - title: Tiantai Buddhism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tiantai_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 6th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Tiantai Buddhism.
+      Illustrated Korean manuscript of the Lotus Sutra, Koryô (Goryeo) Dynasty
+      (918–1392), ca. 1340, Folding book, gold and silver on indigo-dyed
+      mulberry paper; 106 pages; each 33 x 11...
+    imageUrl: /artifacts/tiantai-2.jpg
 ---
 
 # Tiantai Buddhism

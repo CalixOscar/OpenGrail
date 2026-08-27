@@ -54,20 +54,23 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Arama%E1%B9%87a%20Movements
 artifacts:
-  - title: Śramaṇa Movements Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a_Movements'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 6th century BCE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/shramana-movements-1.jpg
+  - title: Rana clamitans MN Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Rana_clamitans_MN.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Śramaṇa Movements.
-  - title: Śramaṇa Movements Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a_Movements'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Śramaṇa Movements.
+      Female Green frog (Rana clamitans melanota) at Réserve naturelle des
+      Marais-du-Nord, Quebec, Canada....
+    imageUrl: /artifacts/shramana-movements-1.jpg
 ---
 
 # Śramaṇa Movements

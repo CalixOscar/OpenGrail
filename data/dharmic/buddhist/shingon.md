@@ -46,20 +46,23 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Shingon%20Buddhism'
 artifacts:
-  - title: Shingon Buddhism Historical Sanctuary & Relics
+  - title: Shingon Buddhism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Shingon_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 9th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Shingon Buddhism.
-  - title: Shingon Buddhism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shingon_Buddhism'
+      Shingon (真言宗, Shingon-shū; "True Word/Mantra School") is one of the major
+      schools of Buddhism in Japan and one of the few surviving Vajrayana
+      lineages in East Asian Buddhism. It is...
+    imageUrl: /artifacts/shingon-1.jpg
+  - title: Mahavairocana Sutra Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mahavairocana_Sutra.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 9th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Shingon Buddhism.
+      Mahavairocana Sutra (大毘盧遮那成仏神変加持経, Daibirushana jōbutsu jinpen kajikyō).
+      Part of seven handscrolls. Located at Saidai-ji, Nara....
+    imageUrl: /artifacts/shingon-2.jpg
 ---
 
 # Shingon Buddhism

@@ -42,13 +42,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ahmadiyya'
     url: 'https://www.cambridge.org/core/search?q=Ahmadiyya'
 artifacts:
-  - title: Ahmadiyya Historical Sanctuary & Relics
+  - title: Ahmadiyya Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Ahmadiyya'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1889 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ahmadiyya.
+      Ahmadiyya (), officially the Ahmadiyya Muslim Jama'at (Arabic: الجماعة
+      الإسلامية الأحمدية, romanized: al-Jamāʿah al-Islāmīyyah al-Aḥmadīyyah;
+      Urdu: جماعتِ احمدیہ مسلمہ, romanized:...
+    imageUrl: /artifacts/ahmadiyya-1.jpg
   - title: Ahmadiyya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ahmadiyya'
     provenance: 'Jerusalem, Southern Levant'
@@ -56,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Ahmadiyya.
+    imageUrl: /artifacts/ahmadiyya-2.jpg
 ---
 
 # Ahmadiyya

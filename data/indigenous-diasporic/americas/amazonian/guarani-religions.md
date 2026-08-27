@@ -51,20 +51,27 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Guaran%C3%AD%20Religious%20Traditions'
 artifacts:
-  - title: Guaraní Religious Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Guaran%C3%AD_Religious_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Paraná Basin (Asunción), Paraguay'
+    period: c. precolonial
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/guarani-religions-1.jpg
+  - title: >-
+      Eichhoff - Parallèles des langues de l’Europe et de l’Inde Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Eichhoff_-_Parall%C3%A8les_des_langues_de_l%E2%80%99Europe_et_de_l%E2%80%99Inde.djvu
     provenance: 'Paraná Basin (Asunción), Paraguay'
     period: c. precolonial
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Guaraní Religious Traditions.
-  - title: Guaraní Religious Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Guaran%C3%AD_Religious_Traditions'
-    provenance: 'Paraná Basin (Asunción), Paraguay'
-    period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Guaraní Religious Traditions.
+      Parallèles des langues de l’Europe et de l’Inde, ou Étude des principales
+      langues romanes germaniques, slavonnes et celtiques comparées entre elles
+      et a la langue sanscrite, avec u...
+    imageUrl: /artifacts/guarani-religions-1.jpg
 ---
 
 # Guaraní Religious Traditions

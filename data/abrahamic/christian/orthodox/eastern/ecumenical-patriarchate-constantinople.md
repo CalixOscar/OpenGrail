@@ -46,13 +46,14 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Ecumenical%20Patriarchate%20of%20Constantinople
 artifacts:
-  - title: Ecumenical Patriarchate of Constantinople Historical Sanctuary & Relics
+  - title: Ecumenical Patriarchate of Constantinople Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Ecumenical_Patriarchate_of_Constantinople'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 330 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ecumenical Patriarchate of Constantinople.
+      The Ecumenical Patriarchate of Constantinople (Greek: Οἰκουμενικὸν
+      Πατριαρχεῖον Κωνσταντινουπόλεως, romanized: Oikoumenikón Patriarkhíon
+      Konstantinoupóleos) is one of the autocepha...
     imageUrl: /artifacts/ecumenical-patriarchate-constantinople-1.jpg
   - title: Ecumenical Patriarchate of Constantinople Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ecumenical_Patriarchate_of_Constantinople'

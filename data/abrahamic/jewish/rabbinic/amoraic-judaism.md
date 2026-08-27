@@ -46,13 +46,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Amoraic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Amoraic%20Judaism'
 artifacts:
-  - title: Amoraic Judaism Historical Sanctuary & Relics
+  - title: Amoraic Judaism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Amoraic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 220 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Amoraic Judaism.
+    imageUrl: /artifacts/amoraic-judaism-1.jpg
   - title: Amoraic Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Amoraic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
@@ -60,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Amoraic Judaism.
+    imageUrl: /artifacts/amoraic-judaism-2.jpg
 ---
 
 # Amoraic Judaism

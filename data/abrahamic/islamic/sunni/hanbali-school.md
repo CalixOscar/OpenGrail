@@ -42,13 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Hanbali School'
     url: 'https://www.cambridge.org/core/search?q=Hanbali%20School'
 artifacts:
-  - title: Hanbali School Historical Sanctuary & Relics
+  - title: Hanbali School Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Hanbali_School'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hanbali School.
+    imageUrl: /artifacts/hanbali-school-1.jpg
   - title: Hanbali School Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Hanbali_School'
     provenance: 'Jerusalem, Southern Levant'
@@ -56,6 +57,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Hanbali School.
+    imageUrl: /artifacts/hanbali-school-2.jpg
 ---
 
 # Hanbali School

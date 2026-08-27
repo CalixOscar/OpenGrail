@@ -43,13 +43,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Caodong%20Chan'
 artifacts:
-  - title: Caodong Chan Historical Sanctuary & Relics
+  - title: Caodong Chan Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Caodong_Chan'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 9th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Caodong Chan.
+    imageUrl: /artifacts/caodong-chan-1.jpg
   - title: Caodong Chan Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Caodong_Chan'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -57,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Caodong Chan.
+    imageUrl: /artifacts/caodong-chan-2.jpg
 ---
 
 # Caodong Chan

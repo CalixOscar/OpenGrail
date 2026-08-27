@@ -47,20 +47,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vedic%20Religion'
 artifacts:
-  - title: Vedic Religion Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vedic_Religion'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 1500 BCE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/vedic-religion-1.jpg
+  - title: Rigveda MS2097 Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Rigveda_MS2097.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1500 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Vedic Religion.
-  - title: Vedic Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vedic_Religion'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 1500 BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Vedic Religion.
+      Rigveda MS in Sanskrit on paper, India, early 19th c., 4 vols., 795 ff.
+      (complete), 10x20 cm, single column, (7x17 cm), 10 lines in Devanagari
+      script with deletions in yellow, Vedi...
+    imageUrl: /artifacts/vedic-religion-2.jpg
 ---
 
 # Vedic Religion

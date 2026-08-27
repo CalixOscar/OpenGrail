@@ -50,20 +50,23 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Lao%20Buddhism'
 artifacts:
-  - title: Lao Buddhism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lao_Buddhism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 14th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Lao Buddhism.
-  - title: Lao Buddhism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lao_Buddhism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/lao-buddhism-1.jpg
+  - title: Tipitaka1 Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 14th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Lao Buddhism.
+    imageUrl: /artifacts/lao-buddhism-2.jpg
 ---
 
 # Lao Buddhism

@@ -50,20 +50,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=San%20Religious%20Traditions'
 artifacts:
-  - title: San Religious Traditions (Comparative) Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/San_Religious_Traditions_(Comparative)'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Kalahari Desert, Botswana/Namibia'
     period: c. prehistoric continuity and change
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with San Religious Traditions (Comparative).
-  - title: San Religious Traditions (Comparative) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/San_Religious_Traditions_(Comparative)'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/san-religious-traditions-1.jpg
+  - title: Oral English (IA oralenglish00newy) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Oral_English_(IA_oralenglish00newy).pdf
     provenance: 'Kalahari Desert, Botswana/Namibia'
     period: c. prehistoric continuity and change
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of San Religious Traditions (Comparative).
+    description: 'Subjects: English language...'
+    imageUrl: /artifacts/san-religious-traditions-1.jpg
 ---
 
 # San Religious Traditions (Comparative)

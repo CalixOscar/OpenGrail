@@ -51,20 +51,24 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=C%C4%81rv%C4%81ka%20%2F%20Lok%C4%81yata
 artifacts:
-  - title: Cārvāka / Lokāyata Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/C%C4%81rv%C4%81ka_%2F_Lok%C4%81yata'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1st millennium BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Cārvāka / Lokāyata.
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/charvaka-1.jpg
   - title: Cārvāka / Lokāyata Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/C%C4%81rv%C4%81ka_%2F_Lok%C4%81yata'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1st millennium BCE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Cārvāka / Lokāyata.
+    imageUrl: /artifacts/charvaka-1.jpg
 ---
 
 # Cārvāka / Lokāyata

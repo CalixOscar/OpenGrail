@@ -49,20 +49,21 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Transcendental%20Meditation%20Movement
 artifacts:
-  - title: Transcendental Meditation Movement Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Transcendental_Meditation_Movement'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1950s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Transcendental Meditation Movement.
-  - title: Transcendental Meditation Movement Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Transcendental_Meditation_Movement'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/transcendental-meditation-1.jpg
+  - title: MaharishiMaheshYogi-01 Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:MaharishiMaheshYogi-01.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1950s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Transcendental Meditation Movement.
+    description: Maharishi Mahesh Yogi (2007)...
+    imageUrl: /artifacts/transcendental-meditation-1.jpg
 ---
 
 # Transcendental Meditation Movement

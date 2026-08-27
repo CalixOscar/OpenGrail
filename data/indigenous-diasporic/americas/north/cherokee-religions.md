@@ -47,20 +47,26 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Cherokee%20Religious%20Traditions'
 artifacts:
-  - title: Cherokee Religious Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cherokee_Religious_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Kituwah Mound (Cherokee), NC/TN, USA'
     period: c. precolonial
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Cherokee Religious Traditions.
-  - title: Cherokee Religious Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cherokee_Religious_Traditions'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/cherokee-religions-1.jpg
+  - title: >-
+      The Cherokee nation of Indians .. (IA cherokeenationof00king) Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Cherokee_nation_of_Indians_.._(IA_cherokeenationof00king).pdf
     provenance: 'Kituwah Mound (Cherokee), NC/TN, USA'
     period: c. precolonial
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Cherokee Religious Traditions.
+    imageUrl: /artifacts/cherokee-religions-1.jpg
 ---
 
 # Cherokee Religious Traditions

@@ -43,7 +43,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Old Catholicism'
     url: 'https://www.cambridge.org/core/search?q=Old%20Catholicism'
 artifacts:
-  - title: Old Catholicism Historical Sanctuary & Relics
+  - title: Old Catholicism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Old_Catholicism'
     provenance: 'Rome, Latium, Italy'
     period: c. 1870s CE

@@ -49,13 +49,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Roman Imperial Cult'
     url: 'https://brill.com/search?q=Roman%20Imperial%20Cult'
 artifacts:
-  - title: Roman Imperial Cult Historical Sanctuary & Relics
+  - title: Roman Imperial Cult Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Imperial_Cult'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 27 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Roman Imperial Cult.
+    imageUrl: /artifacts/roman-imperial-cult-1.jpg
   - title: Roman Imperial Cult Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Imperial_Cult'
     provenance: 'Athens, Attica, Greece'
@@ -63,6 +64,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Roman Imperial Cult.
+    imageUrl: /artifacts/roman-imperial-cult-2.jpg
 ---
 
 # Roman Imperial Cult

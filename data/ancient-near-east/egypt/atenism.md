@@ -49,13 +49,15 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Atenism'
     url: 'https://brill.com/search?q=Atenism'
 artifacts:
-  - title: Atenism Historical Sanctuary & Relics
+  - title: Atenism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Atenism'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 1353 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Atenism.
+      Atenism, also known as the Aten religion, the Amarna religion, and the
+      Amarna heresy, was a religion in ancient Egypt. It was founded by
+      Akhenaten, a pharaoh who ruled the New King...
+    imageUrl: /artifacts/atenism-1.jpg
   - title: Atenism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Atenism'
     provenance: 'Thebes (Luxor), Ancient Egypt'
@@ -63,6 +65,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Atenism.
+    imageUrl: /artifacts/atenism-2.jpg
 ---
 
 # Atenism

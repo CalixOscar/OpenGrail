@@ -40,7 +40,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Lutheranism'
     url: 'https://www.cambridge.org/core/search?q=Lutheranism'
 artifacts:
-  - title: Lutheranism Historical Sanctuary & Relics
+  - title: Lutheranism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Lutheranism'
     provenance: 'Wittenberg, Saxony, Germany'
     period: c. 1517 CE

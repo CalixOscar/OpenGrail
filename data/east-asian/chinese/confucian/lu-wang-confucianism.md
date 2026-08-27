@@ -45,20 +45,29 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Lu%E2%80%93Wang%20Confucianism
 artifacts:
-  - title: Lu–Wang Confucianism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lu%E2%80%93Wang_Confucianism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Qufu, Shandong, China'
+    period: c. 12th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/lu-wang-confucianism-1.jpg
+  - title: >-
+      Cosmography in four books Fleuron T107951-4 Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Cosmography_in_four_books_Fleuron_T107951-4.png
     provenance: 'Qufu, Shandong, China'
     period: c. 12th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Lu–Wang Confucianism.
-  - title: Lu–Wang Confucianism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lu%E2%80%93Wang_Confucianism'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Lu–Wang Confucianism.
+      Fleuron from book:
+
+      Cosmography in four books. Containing the chorography and history of the
+      whole world: and all the principal kingdoms, provinces, seas, and the
+      isles thereof. By...
+    imageUrl: /artifacts/lu-wang-confucianism-2.jpg
 ---
 
 # Lu–Wang Confucianism

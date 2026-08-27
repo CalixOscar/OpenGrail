@@ -46,13 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=S%C5%8Dt%C5%8D%20Zen'
 artifacts:
-  - title: Sōtō Zen Historical Sanctuary & Relics
+  - title: Sōtō Zen Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/S%C5%8Dt%C5%8D_Zen'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 13th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sōtō Zen.
+    imageUrl: /artifacts/soto-zen-1.jpg
   - title: Sōtō Zen Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/S%C5%8Dt%C5%8D_Zen'
     provenance: 'Cairo (Fustat), Egypt'
@@ -60,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Sōtō Zen.
+    imageUrl: /artifacts/soto-zen-2.jpg
 ---
 
 # Sōtō Zen

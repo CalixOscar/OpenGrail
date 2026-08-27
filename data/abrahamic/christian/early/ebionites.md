@@ -47,7 +47,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ebionites'
     url: 'https://www.cambridge.org/core/search?q=Ebionites'
 artifacts:
-  - title: Ebionites Historical Sanctuary & Relics
+  - title: Ebionites Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Ebionites'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1st–2nd centuries CE

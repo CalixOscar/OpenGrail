@@ -42,7 +42,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ethiopian Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Ethiopian%20Orthodoxy'
 artifacts:
-  - title: Ethiopian Orthodoxy Historical Sanctuary & Relics
+  - title: Ethiopian Orthodoxy Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Ethiopian_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE

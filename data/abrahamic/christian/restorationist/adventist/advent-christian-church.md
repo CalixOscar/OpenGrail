@@ -43,7 +43,7 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Advent%20Christian%20Church'
 artifacts:
-  - title: Advent Christian Church Historical Sanctuary & Relics
+  - title: Advent Christian Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Advent_Christian_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1860 CE

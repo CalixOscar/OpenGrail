@@ -47,20 +47,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hellenistic Religion'
     url: 'https://brill.com/search?q=Hellenistic%20Religion'
 artifacts:
-  - title: Hellenistic Religion Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hellenistic_Religion'
+  - title: Hellenistic religion Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hellenistic_religion'
     provenance: 'Athens, Attica, Greece'
     period: c. 323 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Hellenistic Religion.
+    imageUrl: /artifacts/hellenistic-religion-1.jpg
   - title: Hellenistic Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hellenistic_Religion'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hellenistic_religion'
     provenance: 'Athens, Attica, Greece'
     period: c. 323 BCE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Hellenistic Religion.
+    imageUrl: /artifacts/hellenistic-religion-1.jpg
 ---
 
 # Hellenistic Religion

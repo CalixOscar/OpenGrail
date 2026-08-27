@@ -50,20 +50,32 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Khurramism'
     url: 'https://brill.com/search?q=Khurramism'
 artifacts:
-  - title: Khurramism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Khurramism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Isfahan, Iran'
+    period: c. c. 8th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/khurramism-1.jpg
+  - title: >-
+      A letter to Major-General John Briggs, Honorary Secretary to the Royal
+      Asiatic Society, on the discovery of part of the second volume of the Jámi
+      al Tawáríkh of Rashíd al Dín (IA b22390923) Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:A_letter_to_Major-General_John_Briggs,_Honorary_Secretary_to_the_Royal_Asiatic_Society,_on_the_discovery_of_part_of_the_second_volume_of_the_J%C3%A1mi_al_Taw%C3%A1r%C3%ADkh_of_Rash%C3%ADd_al_D%C3%ADn_(IA_b22390923).pdf
     provenance: 'Isfahan, Iran'
     period: c. c. 8th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Khurramism.
-  - title: Khurramism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Khurramism'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 8th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Khurramism.
+      The Royal College of Surgeons of England
+
+      'Extracted from the Journal of the Royal Asiatic Society, No. XI' - t.p.
+      verso
+
+      This material has been provided by The Royal College of Sur...
+    imageUrl: /artifacts/khurramism-1.jpg
 ---
 
 # Khurramism

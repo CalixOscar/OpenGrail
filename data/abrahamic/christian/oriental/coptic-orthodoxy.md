@@ -42,7 +42,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Coptic Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Coptic%20Orthodoxy'
 artifacts:
-  - title: Coptic Orthodoxy Historical Sanctuary & Relics
+  - title: Coptic Orthodoxy Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE

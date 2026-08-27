@@ -42,20 +42,28 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Advaita%20Ved%C4%81nta'
 artifacts:
-  - title: Advaita Vedānta Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Advaita_Ved%C4%81nta'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Advaita Vedānta.
-  - title: Advaita Vedānta Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Advaita_Ved%C4%81nta'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/advaita-vedanta-1.jpg
+  - title: >-
+      The Vedanta-Sutras, transl. George Thibaut, 1890 Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Vedanta-Sutras,_transl._George_Thibaut,_1890.djvu
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Advaita Vedānta.
+    description: |-
+      The Vedanta-Sutras, with the Shankara-Bhasya translated by George Thibaut.
+      Both Volumes (1 &amp; 2) (1890-1896)
+      Part 1 - (Sacred Books of the East - Volume 34)
+      Part 2 - (Sacred Bo...
+    imageUrl: /artifacts/advaita-vedanta-2.jpg
 ---
 
 # Advaita Vedānta
