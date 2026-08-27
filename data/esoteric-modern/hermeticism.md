@@ -51,18 +51,16 @@ artifacts:
     provenance: 'London, England, UK'
     period: c. c. 1st–3rd centuries CE
     description: >-
-      Hermeticism, or Hermetism, is a philosophical and religious tradition
-      rooted in the teachings attributed to Hermes Trismegistus, a syncretic
-      figure combining elements of the Greek...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Hermeticism.
     imageUrl: /artifacts/hermeticism-1.jpg
-  - title: Corpus Hermeticum 1643 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Corpus_Hermeticum_1643.gif'
+  - title: Hermeticism Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hermeticism'
     provenance: 'London, England, UK'
     period: c. c. 1st–3rd centuries CE
     description: >-
-      Corpus Hermeticum, niederländische Ausgabe von 1643. Deckblatt Corpus
-      Hermeticum 1643 (Ausg. F. Patricius)....
-    imageUrl: /artifacts/hermeticism-1.jpg
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Hermeticism.
 ---
 
 # Hermeticism

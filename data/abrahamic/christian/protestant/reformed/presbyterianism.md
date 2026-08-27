@@ -53,13 +53,11 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Presbyterianism.
     imageUrl: /artifacts/presbyterianism-1.jpg
-  - title: Presbyterianism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Presbyterianism'
+  - title: Scots Confession Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Scots_Confession.jpg'
     provenance: 'Geneva, Switzerland'
     period: c. c. 1560 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Presbyterianism.
+    description: Title of Scots Confession...
     imageUrl: /artifacts/presbyterianism-2.jpg
 ---
 

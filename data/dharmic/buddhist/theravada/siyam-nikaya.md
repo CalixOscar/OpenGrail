@@ -49,22 +49,25 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Siyam%20Nik%C4%81ya'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Kitab Primbon Atassadhur Adammakna (Sambetanipun Betaljemur) Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Kitab_Primbon_Atassadhur_Adammakna_(Sambetanipun_Betaljemur).pdf
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1753 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Kitab Primbon Atassadhur Adammakna (Sambetanipun Betaljemur)...
     imageUrl: /artifacts/siyam-nikaya-1.jpg
-  - title: The Pali literature of Burma (1909) Canonical Scripture & Iconography
+  - title: >-
+      Handbook of Pali. Being an elementary grammar, a chrestomathy, and a
+      glossary (IA handbookofpalibe00fran) Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Pali_literature_of_Burma_(1909).djvu
+      https://commons.wikimedia.org/wiki/File:Handbook_of_Pali._Being_an_elementary_grammar,_a_chrestomathy,_and_a_glossary_(IA_handbookofpalibe00fran).pdf
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1753 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Siyam Nikāya.
+    description: |-
+      Pali bibliography: p. [xv]-xxi
+
+      Subjects:...
     imageUrl: /artifacts/siyam-nikaya-2.jpg
 ---
 

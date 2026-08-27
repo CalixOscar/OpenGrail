@@ -45,27 +45,26 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Siberian%20Shamanic%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Lake Baikal (Ulan-Ude), Buryatia, Siberia'
-    period: c. ancient; continuously developing
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/siberian-shamanism-1.jpg
-  - title: >-
-      Dr. Sharon W Weiss Oral History Interview (IA WeissSharon) Canonical
-      Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Dr._Sharon_W_Weiss_Oral_History_Interview_(IA_WeissSharon).pdf
+  - title: SB - Altay shaman with drum Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:SB_-_Altay_shaman_with_drum.jpg'
     provenance: 'Lake Baikal (Ulan-Ude), Buryatia, Siberia'
     period: c. ancient; continuously developing
     description: >-
-      ARMED FORCES INSTITUTE OF PATHOLOGYORAL HISTORY PROGRAMSUBJECT: Dr. Sharon
-      W. WeissINTERVIEWER: Charles Stuart KennedyDATE: March 16, 1992
-
-      Subjects: Armed Forces Institute of Path...
+      A postcard made in the Russian Empire, early 20th century. Its French
+      caption means "An Altai shaman (sorcerer)". It can be found at a Tomsk
+      museum. The ethnographer Hoppál identif...
+    imageUrl: /artifacts/siberian-shamanism-1.jpg
+  - title: >-
+      NRHP-08001186 (Preston Community Clubhouse), forms Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:NRHP-08001186_(Preston_Community_Clubhouse),_forms.pdf
+    provenance: 'Lake Baikal (Ulan-Ude), Buryatia, Siberia'
+    period: c. ancient; continuously developing
+    description: >-
+      This is an image of a place or building that is listed on the National
+      Register of Historic Places in the United States of America. Its reference
+      number is 08001186 (Wikidata)...
     imageUrl: /artifacts/siberian-shamanism-2.jpg
 ---
 

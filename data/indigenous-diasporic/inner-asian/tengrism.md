@@ -48,15 +48,16 @@ artifacts:
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. at least 6th century CE
     description: >-
-      Tengrism (also known as Tengriism, Tengerism, or Tengrianism) is a belief
-      system originating in the Eurasian steppes, based on shamanism and
-      animism, and commonly centered on the t...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Tengrism.
     imageUrl: /artifacts/tengrism-1.jpg
-  - title: Kyzyl orkhon inscription Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kyzyl_orkhon_inscription.jpg'
+  - title: Tengrism Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Tengrism'
     provenance: 'Orkhon Valley (Karakorum), Mongolia'
     period: c. at least 6th century CE
-    description: Inscription in Kyzyl using Turkic script...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Tengrism.
     imageUrl: /artifacts/tengrism-2.jpg
 ---
 

@@ -50,13 +50,10 @@ artifacts:
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1954 CE
     description: >-
-      The Apostolic United Brethren (AUB) is a Mormon fundamentalist group that
-      practices polygamy.
-
-      The AUB has older roots, but became a distinct organization in the 1950s.
-      The group ha...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Apostolic United Brethren.
     imageUrl: /artifacts/apostolic-united-brethren-1.jpg
-  - title: Apostolic United Brethren Sacred Scripture & Art
+  - title: Apostolic United Brethren Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Apostolic_United_Brethren'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1954 CE

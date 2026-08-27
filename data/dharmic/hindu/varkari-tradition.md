@@ -47,20 +47,28 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=V%C4%81rkar%C4%AB%20Tradition'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: A Warkari boy by Ashish Upadhyay Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:A_Warkari_boy_by_Ashish_Upadhyay.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Shot in the morning procession on day 1 of the 45th Nirankari Sant Samagam
+      of Maharashtra.
+
+      Location: Airoli, Navi Mumbai, Maharashtra
+
+
+      Date: January 20, 2012...
     imageUrl: /artifacts/varkari-tradition-1.jpg
-  - title: JnaneshvarTempleAlandiIndia Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:JnaneshvarTempleAlandiIndia.jpg'
+  - title: Vārkarī Tradition Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:A_Warkari_boy_by_Ashish_Upadhyay.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE
-    description: 'Wejście do świątyni pl:Dźńaneśwara. Alandi. Maharasztra. Indie...'
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Vārkarī Tradition.
     imageUrl: /artifacts/varkari-tradition-2.jpg
 ---
 

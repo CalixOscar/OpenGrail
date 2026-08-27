@@ -46,16 +46,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & The New Church'
     url: 'https://www.cambridge.org/core/search?q=The%20New%20Church'
 artifacts:
-  - title: The New Church (Swedenborgianism) Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/The_New_Church'
+  - title: Swedenborgian cross Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Swedenborgian_cross.PNG'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1787 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with The New Church (Swedenborgianism).
+    description: Cross of Swedenborgianism and The New Church...
     imageUrl: /artifacts/swedenborgianism-1.jpg
-  - title: The New Church (Swedenborgianism) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/The_New_Church'
+  - title: Arcana Caelestia 0001 Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Arcana_Caelestia_0001.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1787 CE
     description: >-

@@ -49,11 +49,10 @@ artifacts:
     provenance: 'Athens, Attica, Greece'
     period: c. c. 6th century BCE
     description: >-
-      Orphism is the name given to a set of religious beliefs and practices
-      originating in the ancient Greek and Hellenistic world, associated with
-      literature ascribed to the mythical po...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Orphism.
     imageUrl: /artifacts/orphism-1.jpg
-  - title: Orphism Sacred Scripture & Art
+  - title: Orphism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Orphism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 6th century BCE

@@ -52,17 +52,17 @@ artifacts:
     provenance: 'Rome, Latium, Italy'
     period: c. 1742 CE
     description: >-
-      The Armenian Catholic Church is an Eastern Catholic particular church sui
-      iuris of the Catholic Church. It accepts the leadership of the bishop of
-      Rome, and is therefore in full co...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Armenian Catholic Church.
     imageUrl: /artifacts/armenian-catholic-church-1.jpg
-  - title: Armenian Catholic Church Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Catholic_Church'
+  - title: >-
+      Gutenberg Bible, New York Public Library, USA. Pic 01 Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg
     provenance: 'Rome, Latium, Italy'
     period: c. 1742 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Armenian Catholic Church.
+    description: Gutenberg Bible on display at the New York Public Library...
     imageUrl: /artifacts/armenian-catholic-church-2.jpg
 ---
 

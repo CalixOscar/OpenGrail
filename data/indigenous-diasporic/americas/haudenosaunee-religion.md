@@ -44,23 +44,36 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Haudenosaunee%20Religions'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Who are the soldiers of the revolution? (IA whoaresoldiersof00hans)
+      Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Onondaga, Haudenosaunee Territory, NY, USA'
-    period: c. before 1500 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/haudenosaunee-religion-1.jpg
-  - title: Haudenosaunee Religions Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Who_are_the_soldiers_of_the_revolution%3F_(IA_whoaresoldiersof00hans).pdf
     provenance: 'Onondaga, Haudenosaunee Territory, NY, USA'
     period: c. before 1500 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Haudenosaunee Religions.
+      Thesis advisor, Roman Laba
+
+      "September 1996."
+
+      Thesis (M.A. in National Security Affairs) Naval Postgraduate School,
+      September 1996
+
+      Bibliography: p. 85-91
+
+      This thesis records the re...
     imageUrl: /artifacts/haudenosaunee-religion-1.jpg
+  - title: >-
+      The league of the Iroquois and other legends - from the Indian muse (IA
+      cu31924079618462) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_league_of_the_Iroquois_and_other_legends_-_from_the_Indian_muse_(IA_cu31924079618462).pdf
+    provenance: 'Onondaga, Haudenosaunee Territory, NY, USA'
+    period: c. before 1500 CE
+    description: >-
+      The metadata below describe the original scanning. Follow the "All Files:
+      HTTP" link in the "View the book" box to the left to find XML files that
+      contain more metadata about the...
+    imageUrl: /artifacts/haudenosaunee-religion-2.jpg
 ---
 
 # Haudenosaunee Religions

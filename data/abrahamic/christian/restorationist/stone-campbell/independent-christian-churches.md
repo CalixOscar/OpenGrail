@@ -52,26 +52,31 @@ sources:
       https://www.cambridge.org/core/search?q=Independent%20Christian%20Churches%20and%20Churches%20of%20Christ
 artifacts:
   - title: >-
-      Independent Christian Churches and Churches of Christ Historical Sanctuary
-      & Records
+      Constantinople - and the scenery of the seven churches of Asia Minor (IA
+      constantinoplesc01allo) Historical Sanctuary
     sourceUrl: >-
-      https://en.wikipedia.org/wiki/Independent_Christian_Churches_and_Churches_of_Christ
+      https://commons.wikimedia.org/wiki/File:Constantinople_-_and_the_scenery_of_the_seven_churches_of_Asia_Minor_(IA_constantinoplesc01allo).pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1920s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Independent Christian Churches and Churches of Christ.
+      Added engraved t.p.: Fisher's illustrations of Constantinople and its
+      environs
+
+      Includes bibliographical references and index
+
+      Preface signed Robert Walsh
+
+      Subjects:...
     imageUrl: /artifacts/independent-christian-churches-1.jpg
   - title: >-
-      Independent Christian Churches and Churches of Christ Sacred Scripture &
-      Art
+      The address of the Hon. Wm. A. Graham on the Mecklenburg declaration of
+      independence of the 20th of May, 1775 (IA addressofhonwmag00grah) Sacred
+      Relics & Scripture
     sourceUrl: >-
-      https://en.wikipedia.org/wiki/Independent_Christian_Churches_and_Churches_of_Christ
+      https://commons.wikimedia.org/wiki/File:The_address_of_the_Hon._Wm._A._Graham_on_the_Mecklenburg_declaration_of_independence_of_the_20th_of_May,_1775_(IA_addressofhonwmag00grah).pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1920s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Independent Christian Churches and Churches of Christ.
+    description: 'Subjects: Mecklenburg Declaration of Independence...'
     imageUrl: /artifacts/independent-christian-churches-2.jpg
 ---
 

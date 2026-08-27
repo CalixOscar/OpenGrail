@@ -56,14 +56,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ruthenian Greek Catholic Church.
     imageUrl: /artifacts/ruthenian-greek-catholic-church-1.jpg
-  - title: Ruthenian Greek Catholic Church Sacred Scripture & Art
+  - title: Ruthenian Greek Catholic Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Ruthenian_Greek_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1646 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Ruthenian Greek Catholic Church.
-    imageUrl: /artifacts/ruthenian-greek-catholic-church-2.jpg
 ---
 
 # Ruthenian Greek Catholic Church

@@ -42,22 +42,23 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Methodism'
     url: 'https://www.cambridge.org/core/search?q=Methodism'
 artifacts:
-  - title: Methodism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Methodism'
+  - title: >-
+      Manchester Cathedral, Chancel and Altar - geograph.org.uk - 5699119
+      Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Manchester_Cathedral,_Chancel_and_Altar_-_geograph.org.uk_-_5699119.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1730s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Methodism.
+    description: 'Manchester Cathedral, Chancel and Altar...'
     imageUrl: /artifacts/methodism-1.jpg
-  - title: Methodism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Methodism'
+  - title: Methodism Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Manchester_Cathedral,_Chancel_and_Altar_-_geograph.org.uk_-_5699119.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1730s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Methodism.
-    imageUrl: /artifacts/methodism-2.jpg
 ---
 
 # Methodism

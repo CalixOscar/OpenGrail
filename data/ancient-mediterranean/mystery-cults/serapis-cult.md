@@ -51,16 +51,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Serapis'
     url: 'https://brill.com/search?q=Cult%20of%20Serapis'
 artifacts:
-  - title: Cult of Serapis Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Serapis'
+  - title: >-
+      0235 Altes Museum High Clerk in the Cult of Serapis anagoria Historical
+      Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:0235_Altes_Museum_High_Clerk_in_the_Cult_of_Serapis_anagoria.JPG
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 3rd century BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Cult of Serapis.
+    description: "Altes Museum\n\_\_\n\n\n\n\n\nNative name\nAltes Museum\n\nParent institution\nStaatliche Museen zu Berlin\_\n\nLocation\nBerlin\n\nCoordinates\n52°\_31′\_10″\_N, 13°\_23′\_56″\_E  \_\n\nEstablished\n1828\n\nW..."
     imageUrl: /artifacts/serapis-cult-1.jpg
-  - title: Cult of Serapis Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Serapis'
+  - title: Cult of Serapis Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:0235_Altes_Museum_High_Clerk_in_the_Cult_of_Serapis_anagoria.JPG
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 3rd century BCE
     description: >-

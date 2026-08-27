@@ -44,21 +44,24 @@ sources:
       Christian Church
     url: 'https://www.cambridge.org/core/search?q=International%20Christian%20Church'
 artifacts:
-  - title: International Christian Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/International_Christian_Church'
+  - title: Former Kingsway International Christian Centre Church Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Former_Kingsway_International_Christian_Centre_Church.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 2006 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with International Christian Church.
+      Former Kingsway International Christian Centre Church, in Waterden Lane,
+      until 2007. The building was sold in 2007 to house the Queen Elizabeth
+      Olympic Park for the 2012 Olympic Ga...
     imageUrl: /artifacts/international-christian-church-1.jpg
-  - title: International Christian Church Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/International_Christian_Church'
+  - title: Ritual Tatung Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ritual_Tatung.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 2006 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of International Christian Church.
+      Masyarakat Tionghua dari suku Tiuchio yang beragama Konghucu, menjalani
+      prosesi ritual Tatung pada perayaan Cap Go Meh. Tujuan daripada ritual
+      Tatung adalah upaya mencapai keselama...
     imageUrl: /artifacts/international-christian-church-2.jpg
 ---
 

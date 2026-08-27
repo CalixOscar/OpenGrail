@@ -44,16 +44,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81s%C4%81%E1%B9%83ghika'
 artifacts:
-  - title: Mahāsāṃghika Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%81%E1%B9%83ghika'
+  - title: Lion Capital of Ashoka 2 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lion_Capital_of_Ashoka_2.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Mahāsāṃghika.
+    description: 'Lion Capital of Ashoka, Sanchi, M. P., India....'
     imageUrl: /artifacts/mahasanghika-1.jpg
-  - title: Mahāsāṃghika Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%81%E1%B9%83ghika'
+  - title: Mahāsāṃghika Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lion_Capital_of_Ashoka_2.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century BCE
     description: >-

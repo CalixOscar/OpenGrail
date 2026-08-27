@@ -55,13 +55,14 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Pentecostal Assemblies of the World.
     imageUrl: /artifacts/pentecostal-assemblies-of-the-world-1.jpg
-  - title: Pentecostal Assemblies of the World Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pentecostal_Assemblies_of_the_World'
+  - title: >-
+      Notes on the constitution of the Reformed (Dutch) church in America (IA
+      notesonconstitut00dema) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Notes_on_the_constitution_of_the_Reformed_(Dutch)_church_in_America_(IA_notesonconstitut00dema).pdf
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1906 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Pentecostal Assemblies of the World.
+    description: 'Subjects: Reformed church in America; Reformed church in America...'
     imageUrl: /artifacts/pentecostal-assemblies-of-the-world-2.jpg
 ---
 

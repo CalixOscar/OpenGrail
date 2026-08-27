@@ -45,16 +45,20 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Ancestor%20Veneration'
 artifacts:
-  - title: Ancestor Veneration Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancestor_Veneration'
+  - title: Korean ancestor veneration-Jesa-01 Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Korean_ancestor_veneration-Jesa-01.jpg
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. prehistoric; globally recurrent
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ancestor Veneration.
+      Jesa, a type of Korean ancestor veneration held on Chuseok (Korean
+      mid-autumn festival)....
     imageUrl: /artifacts/ancestor-veneration-1.jpg
-  - title: Ancestor Veneration Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancestor_Veneration'
+  - title: >-
+      Oral history transcript of Charles Francis Adams interview (IA
+      oralhistorytrans00adam) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Oral_history_transcript_of_Charles_Francis_Adams_interview_(IA_oralhistorytrans00adam).pdf
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. prehistoric; globally recurrent
     description: >-

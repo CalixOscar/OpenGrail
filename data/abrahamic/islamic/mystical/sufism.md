@@ -43,21 +43,26 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sufism'
     url: 'https://www.cambridge.org/core/search?q=Sufism'
 artifacts:
-  - title: Sufism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sufism'
+  - title: >-
+      Portrait of Hazrat Inayat Khan taken at Taber Stanford studios in San
+      Francisco, 1911 Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Portrait_of_Hazrat_Inayat_Khan_taken_at_Taber_Stanford_studios_in_San_Francisco,_1911.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Sufism.
+      Portrait of Sufi mystic Hazrat Inayat Khan, one of the first teachers of
+      Sufism in the West, and founder of the Sufi Movement and affiliated
+      tariqa.  The portrait was taken at Tabe...
     imageUrl: /artifacts/sufism-1.jpg
-  - title: Sufism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sufism'
+  - title: >-
+      Title Rooh e Tasawwuf Urdu Translation of Risalah Qushairiyah Sacred
+      Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Title_Rooh_e_Tasawwuf_Urdu_Translation_of_Risalah_Qushairiyah.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Sufism.
+    description: سرورق کتاب روح تصوف اردو ترجمہ الرسالۃ القشیریۃ...
     imageUrl: /artifacts/sufism-2.jpg
 ---
 

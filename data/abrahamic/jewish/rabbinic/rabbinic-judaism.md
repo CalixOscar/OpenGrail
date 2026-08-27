@@ -50,17 +50,19 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century CE
     description: >-
-      Rabbinic Judaism (Hebrew: יהדות רבנית, romanized: Yahadut Rabanit), also
-      called Rabbinism, Rabbinicism, or Rabbanite Judaism, is rooted in the many
-      forms of Judaism that coexisted...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Rabbinic Judaism.
     imageUrl: /artifacts/rabbinic-judaism-1.jpg
-  - title: Rabbinic Judaism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rabbinic_Judaism'
+  - title: >-
+      Litoměřice - Mírové náměstí - Renaissance Sgraffito - Hebrew Bible Imagery
+      04 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Litom%C4%9B%C5%99ice_-_M%C3%ADrov%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_-_Renaissance_Sgraffito_-_Hebrew_Bible_Imagery_04.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Rabbinic Judaism.
+      Litoměřice - Mírové náměstí - Renaissance Sgraffito - Hebrew Bible
+      Imagery...
     imageUrl: /artifacts/rabbinic-judaism-2.jpg
 ---
 

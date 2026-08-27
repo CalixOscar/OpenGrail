@@ -43,18 +43,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Rodnovery'
     url: 'https://brill.com/search?q=Rodnovery'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Svetoary community celebrating Mokosh 2016 Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Svetoary_community_celebrating_Mokosh_2016.jpg
     provenance: 'Kraków, Lesser Poland'
     period: c. late 20th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Mokosh 2016 celebrated by the Svetoary community, of the Union of Slavic
+      Rodnover Communities...
     imageUrl: /artifacts/rodnovery-1.jpg
   - title: >-
-      Christianity and modern infidelity.. (IA christianitymode00morg) Canonical
-      Scripture & Iconography
+      Christianity and modern infidelity.. (IA christianitymode00morg) Sacred
+      Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Christianity_and_modern_infidelity.._(IA_christianitymode00morg).pdf
     provenance: 'Kraków, Lesser Poland'
@@ -62,7 +62,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Rodnovery.
-    imageUrl: /artifacts/rodnovery-1.jpg
+    imageUrl: /artifacts/rodnovery-2.jpg
 ---
 
 # Rodnovery

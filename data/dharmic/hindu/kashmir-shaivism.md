@@ -49,20 +49,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Kashmir%20%C5%9Aaivism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Madhubani Mahavidyas Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Madhubani_Mahavidyas.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Mithila Painting with the Ten Mahavidyas,Siva and Sakti, with Serpent
+      Coiled Shri Yantra painted in Nepal...
     imageUrl: /artifacts/kashmir-shaivism-1.jpg
-  - title: Lamairesse - Kama Sutra Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lamairesse_-_Kama_Sutra.djvu'
+  - title: Kashmir Śaivism Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Madhubani_Mahavidyas.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
-    description: 'Kama Sutra, règles de l''amour de Vatsyayana....'
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Kashmir Śaivism.
     imageUrl: /artifacts/kashmir-shaivism-2.jpg
 ---
 

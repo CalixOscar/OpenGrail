@@ -55,11 +55,10 @@ artifacts:
     provenance: 'Athens, Attica, Greece'
     period: c. 306 BCE
     description: >-
-      Epicureanism, less commonly Epicurism, is a school of philosophy founded
-      in 307 BCE and based upon the teachings of Epicurus, an ancient Greek
-      philosopher. Epicurus was an atomist...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Epicureanism.
     imageUrl: /artifacts/epicureanism-1.jpg
-  - title: Epicureanism Sacred Scripture & Art
+  - title: Epicureanism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Epicureanism'
     provenance: 'Athens, Attica, Greece'
     period: c. 306 BCE

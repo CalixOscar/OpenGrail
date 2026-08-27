@@ -51,25 +51,23 @@ sources:
     url: 'https://brill.com/search?q=Anglo-Saxon%20Heathenry'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Select Essays in Anglo-American Legal History, Volume 1 Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. 1970s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/anglo-saxon-heathenry-1.jpg
-  - title: >-
-      The Elder or Poetic Edda (IA elderorpoeticedd01brayuoft) Canonical
-      Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Elder_or_Poetic_Edda_(IA_elderorpoeticedd01brayuoft).djvu
+      https://commons.wikimedia.org/wiki/File:Select_Essays_in_Anglo-American_Legal_History,_Volume_1.djvu
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE
     description: >-
-      Edited and translated with introduction and notes by Olive Bray.
-      Illustrated by W. G. Collingwood...
+      Book: Volume 1: Select Essays in Anglo-American Legal History, Compiled
+      and Edited by a Committee of the Association of American Law Schools In
+      Three Volumes.  Boston: Little, Brow...
     imageUrl: /artifacts/anglo-saxon-heathenry-1.jpg
+  - title: Devonshire Devil Prints 1855 Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Devonshire_Devil_Prints_1855.jpg'
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. 1970s CE
+    description: English papers prints in 1855...
+    imageUrl: /artifacts/anglo-saxon-heathenry-2.jpg
 ---
 
 # Anglo-Saxon Heathenry

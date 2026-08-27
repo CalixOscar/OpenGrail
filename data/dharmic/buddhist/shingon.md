@@ -51,17 +51,16 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 9th century CE
     description: >-
-      Shingon (真言宗, Shingon-shū; "True Word/Mantra School") is one of the major
-      schools of Buddhism in Japan and one of the few surviving Vajrayana
-      lineages in East Asian Buddhism. It is...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Shingon Buddhism.
     imageUrl: /artifacts/shingon-1.jpg
-  - title: Mahavairocana Sutra Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mahavairocana_Sutra.jpg'
+  - title: Shingon Buddhism Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shingon_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 9th century CE
     description: >-
-      Mahavairocana Sutra (大毘盧遮那成仏神変加持経, Daibirushana jōbutsu jinpen kajikyō).
-      Part of seven handscrolls. Located at Saidai-ji, Nara....
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Shingon Buddhism.
     imageUrl: /artifacts/shingon-2.jpg
 ---
 

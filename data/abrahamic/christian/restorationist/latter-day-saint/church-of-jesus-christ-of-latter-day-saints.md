@@ -61,24 +61,25 @@ sources:
       https://www.cambridge.org/core/search?q=The%20Church%20of%20Jesus%20Christ%20of%20Latter-day%20Saints
 artifacts:
   - title: >-
-      The Church of Jesus Christ of Latter-day Saints Historical Sanctuary &
-      Records
+      Trascoro, Catedral de Sevilla, Sevilla, España, 2015-12-06, DD 109-111 HDR
+      Historical Sanctuary
     sourceUrl: >-
-      https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints
+      https://commons.wikimedia.org/wiki/File:Trascoro,_Catedral_de_Sevilla,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_109-111_HDR.JPG
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1844 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with The Church of Jesus Christ of Latter-day Saints.
+      Retrochoir of the Roman Catholic cathedral of Seville, Seville, Spain.
+      This wonderful Baroque style retrochoir is work of Miguel de Zumárraga and
+      was finalized in 1635. It was cons...
     imageUrl: /artifacts/church-of-jesus-christ-of-latter-day-saints-1.jpg
-  - title: The Church of Jesus Christ of Latter-day Saints Sacred Scripture & Art
+  - title: >-
+      The One Year Bible New Testament, King James Bible with concordance, and
+      The One Year Chronological Bible NIV Sacred Relics & Scripture
     sourceUrl: >-
-      https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints
+      https://commons.wikimedia.org/wiki/File:The_One_Year_Bible_New_Testament,_King_James_Bible_with_concordance,_and_The_One_Year_Chronological_Bible_NIV.jpg
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1844 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of The Church of Jesus Christ of Latter-day Saints.
+    description: Four bibles in a stack....
     imageUrl: /artifacts/church-of-jesus-christ-of-latter-day-saints-2.jpg
 ---
 

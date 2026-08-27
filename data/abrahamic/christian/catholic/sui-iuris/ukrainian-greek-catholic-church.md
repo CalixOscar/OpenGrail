@@ -54,13 +54,16 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ukrainian Greek Catholic Church.
     imageUrl: /artifacts/ukrainian-greek-catholic-church-1.jpg
-  - title: Ukrainian Greek Catholic Church Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ukrainian_Greek_Catholic_Church'
+  - title: >-
+      Holy Bible The Improved Domestic Bible London Schuyler Smith & Co 1880
+      Maps Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Holy_Bible_The_Improved_Domestic_Bible_London_Schuyler_Smith_%26_Co_1880_Maps.jpg
     provenance: 'Rome, Latium, Italy'
     period: c. 1596 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ukrainian Greek Catholic Church.
+      Holy Bible The Improved Domestic Bible London Schuyler Smith &amp; Co 1880
+      Maps And leather bound...
     imageUrl: /artifacts/ukrainian-greek-catholic-church-2.jpg
 ---
 

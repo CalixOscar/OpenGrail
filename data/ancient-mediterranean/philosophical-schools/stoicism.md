@@ -57,7 +57,7 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Stoicism.
     imageUrl: /artifacts/stoicism-1.jpg
-  - title: Stoicism Sacred Scripture & Art
+  - title: Stoicism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Stoicism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 300 BCE

@@ -50,18 +50,18 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
-      Balinese Hinduism (Balinese: ᬳᬶᬦ᭄ᬤᬸᬩᬮᬶ; Indonesian: Hindu Bali or Agama
-      Hindu Dharma) is a distinct form of Hinduism practised primarily on the
-      island of Bali, Indonesia. It develo...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Balinese Hinduism.
     imageUrl: /artifacts/balinese-hinduism-1.jpg
-  - title: Balinese Hinduism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Balinese_Hinduism'
+  - title: Katalog WikiLontar 2021 v2 Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Katalog_WikiLontar_2021_v2.pdf'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Balinese Hinduism.
-    imageUrl: /artifacts/balinese-hinduism-1.jpg
+      Balinese WikiLontar is a program to collect metadata and cataloging
+      balinese palm-leaf manuscript in Bali to added more reference for
+      Wikipedia, specially Wikidata. The metadata ca...
+    imageUrl: /artifacts/balinese-hinduism-2.jpg
 ---
 
 # Balinese Hinduism

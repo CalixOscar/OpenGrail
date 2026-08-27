@@ -53,14 +53,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with True Jesus Church.
     imageUrl: /artifacts/true-jesus-church-1.jpg
-  - title: True Jesus Church Sacred Scripture & Art
+  - title: True Jesus Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/True_Jesus_Church'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1917 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of True Jesus Church.
-    imageUrl: /artifacts/true-jesus-church-2.jpg
 ---
 
 # True Jesus Church

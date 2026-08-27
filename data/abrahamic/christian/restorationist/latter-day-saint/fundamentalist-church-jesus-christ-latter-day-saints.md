@@ -65,20 +65,16 @@ artifacts:
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. c. 1954 CE
     description: >-
-      The Fundamentalist Church of Jesus Christ of Latter-Day Saints
-      (abbreviated to FLDS Church or FLDS) is a Mormon fundamentalist group
-      whose members practice polygamy. It is variousl...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Fundamentalist Church of Jesus Christ of Latter-Day
+      Saints.
     imageUrl: /artifacts/fundamentalist-church-jesus-christ-latter-day-saints-1.jpg
-  - title: >-
-      Fundamentalist Church of Jesus Christ of Latter-Day Saints Sacred
-      Scripture & Art
+  - title: King James Bible 1772 - Psalm 90 Sacred Relics & Scripture
     sourceUrl: >-
-      https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints
+      https://commons.wikimedia.org/wiki/File:King_James_Bible_1772_-_Psalm_90.jpg
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. c. 1954 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Fundamentalist Church of Jesus Christ of Latter-Day Saints.
+    description: 'Psalm 90 and 91 of The Holy Bible, King James version, 1772....'
     imageUrl: /artifacts/fundamentalist-church-jesus-christ-latter-day-saints-2.jpg
 ---
 

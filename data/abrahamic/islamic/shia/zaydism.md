@@ -47,17 +47,20 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. 740 CE
     description: >-
-      Zaydism (Arabic: الزَّيْدِيَّة, romanized: az-Zaydiyya), also referred to
-      as Fiver Shi'ism, is a denomination of Shia Islam, and sometimes
-      considered the fifth school of Sunni law...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Zaydism.
     imageUrl: /artifacts/zaydism-1.jpg
-  - title: Zaydism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zaydism'
+  - title: >-
+      Reconstruction of Tajkiah Al-Nafs by Abul Hasan Ali Hasani Nadwi Sacred
+      Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Reconstruction_of_Tajkiah_Al-Nafs_by_Abul_Hasan_Ali_Hasani_Nadwi.pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. 740 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Zaydism.
+      This article raises the issue of tazkiyah al-nafs or known as the method
+      of cleansing the soul as one of the ways to shape one's morality through
+      the study of a 20th-century contem...
     imageUrl: /artifacts/zaydism-2.jpg
 ---
 

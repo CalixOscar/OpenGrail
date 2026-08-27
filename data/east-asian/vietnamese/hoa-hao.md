@@ -52,20 +52,22 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=H%C3%B2a%20H%E1%BA%A3o%20Buddhism
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Hòa Hảo leaders at rites marking the founding of the sect Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:H%C3%B2a_H%E1%BA%A3o_leaders_at_rites_marking_the_founding_of_the_sect.jpg
     provenance: 'Chau Doc / An Giang, Mekong Delta, Vietnam'
     period: c. 1939 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Hòa Hảo leaders at rites marking the founding of the sect. Photo is Huỳnh
+      Phú Sổ, founder....
     imageUrl: /artifacts/hoa-hao-1.jpg
-  - title: Sấm giảng PGHH Canonical Scripture & Iconography
+  - title: Sấm giảng PGHH Sacred Relics & Scripture
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:S%E1%BA%A5m_gi%E1%BA%A3ng_PGHH.jpg'
     provenance: 'Chau Doc / An Giang, Mekong Delta, Vietnam'
     period: c. 1939 CE
     description: Sấm giảng Phật Giáo Hoà Hảo....
-    imageUrl: /artifacts/hoa-hao-1.jpg
+    imageUrl: /artifacts/hoa-hao-2.jpg
 ---
 
 # Hòa Hảo Buddhism

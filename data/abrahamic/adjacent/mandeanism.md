@@ -50,7 +50,7 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mandaeism.
     imageUrl: /artifacts/mandeanism-1.jpg
-  - title: Mandaeism Sacred Scripture & Art
+  - title: Mandaeism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Mandaeism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd–5th centuries CE

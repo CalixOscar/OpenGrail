@@ -52,13 +52,17 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Protestantism.
     imageUrl: /artifacts/protestantism-1.jpg
-  - title: Protestantism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Protestantism'
+  - title: AugsburgConfessionArticle18FreeWill Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:AugsburgConfessionArticle18FreeWill.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1517 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Protestantism.
+      Cropped image of the 28 articles of Augsburg Confession by Wenceslas
+      Hollar.
+
+      Illustration of each of the 28 articles of the Augsburg Confession by
+      Wenceslas Hollar....
     imageUrl: /artifacts/protestantism-2.jpg
 ---
 

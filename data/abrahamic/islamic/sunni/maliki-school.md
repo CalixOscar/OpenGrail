@@ -42,16 +42,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Maliki School'
     url: 'https://www.cambridge.org/core/search?q=Maliki%20School'
 artifacts:
-  - title: Maliki School Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maliki_School'
+  - title: MuslimDistribution3b Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:MuslimDistribution3b.JPG'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Maliki School.
     imageUrl: /artifacts/maliki-school-1.jpg
-  - title: Maliki School Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maliki_School'
+  - title: Maliki School Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:MuslimDistribution3b.JPG'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-

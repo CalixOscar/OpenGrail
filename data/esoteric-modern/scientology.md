@@ -42,15 +42,13 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Scientology'
     url: 'https://brill.com/search?q=Scientology'
 artifacts:
-  - title: Scientology Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Scientology'
+  - title: Berlin Scientology Church Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Berlin_Scientology_Church.jpg'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1950s CE
-    description: >-
-      Scientology is a set of beliefs and practices created by the American
-      author L. Ron Hubbard. Hubbard initially presented his ideas in 1950 as a
-      form of talk therapy called Dianetic...
-  - title: Trudeau-Dianetics Canonical Scripture & Iconography
+    description: '"Church of Scientology": German head office in Berlin...'
+    imageUrl: /artifacts/scientology-1.jpg
+  - title: Trudeau-Dianetics Sacred Relics & Scripture
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Trudeau-Dianetics.png'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1950s CE
@@ -58,6 +56,7 @@ artifacts:
       Mention of Dianetics in Kevin Trudeau book. A photocopied page from a book
       by Kevin Trudeau included in a public court record by the Federal Trade
       Commission....
+    imageUrl: /artifacts/scientology-2.jpg
 ---
 
 # Scientology

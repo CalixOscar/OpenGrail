@@ -50,17 +50,16 @@ artifacts:
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 6th century BCE
     description: >-
-      Jainism ( JAY-niz-əm, JYE-niz-əm), also known as Jain Dharma, is an Indian
-      religion that teaches a path toward spiritual purity and enlightenment
-      through disciplined nonviolence (a...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Jainism.
     imageUrl: /artifacts/jainism-1.jpg
-  - title: Red-headed Rock Agama Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Red-headed_Rock_Agama.jpg'
+  - title: Jainism Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 6th century BCE
     description: >-
-      Male, Kenyan Rock Agama (Agama lionotus) taken in August 2005, in Lake
-      Nakuru National Park, Kenya...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Jainism.
     imageUrl: /artifacts/jainism-2.jpg
 ---
 

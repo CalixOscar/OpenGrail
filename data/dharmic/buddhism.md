@@ -59,11 +59,10 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century BCE
     description: >-
-      Buddhism, also known as Buddhadharma and Dharmavinaya (transl. "doctrines
-      and disciplines"), is an Indian religion and philosophy based on teachings
-      attributed to the Buddha, a śra...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Buddhism.
     imageUrl: /artifacts/buddhism-1.jpg
-  - title: Buddhism Sacred Scripture & Art
+  - title: Buddhism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century BCE

@@ -50,16 +50,17 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Umbanda'
 artifacts:
-  - title: Umbanda Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Umbanda'
+  - title: Bandeira da Umbanda Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bandeira_da_Umbanda.jpg'
     provenance: 'Rio de Janeiro, Brazil'
     period: c. early 20th century CE
     description: >-
-      Umbanda (Portuguese pronunciation: [ũˈbɐ̃dɐ]) is a religion that emerged
-      in Brazil during the 1920s. Deriving largely from Afro-Brazilian
-      traditions like Candomblé , it also combin...
-  - title: Umbanda Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Umbanda'
+      Símbolo criado pela Associação de Umbanda Caxias (AUC) para representar a
+      Bandeira Nacional da Umbanda. É formado por um sol que representa a Luz
+      Divina e um espectro humano saindo...
+    imageUrl: /artifacts/umbanda-1.jpg
+  - title: Umbanda Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bandeira_da_Umbanda.jpg'
     provenance: 'Rio de Janeiro, Brazil'
     period: c. early 20th century CE
     description: >-

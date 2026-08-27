@@ -42,26 +42,32 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Tiantai%20Buddhism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 6th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/tiantai-1.jpg
-  - title: >-
-      Goryeo-Illustrated manuscript of the Lotus Sutra c.1340 Canonical
-      Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Goryeo-Illustrated_manuscript_of_the_Lotus_Sutra_c.1340.jpg
+  - title: 'Guoqing Temple, 2014-12-27 23 Historical Sanctuary'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Guoqing_Temple,_2014-12-27_23.JPG'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 6th century CE
     description: >-
-      Illustrated Korean manuscript of the Lotus Sutra, Koryô (Goryeo) Dynasty
-      (918–1392), ca. 1340, Folding book, gold and silver on indigo-dyed
-      mulberry paper; 106 pages; each 33 x 11...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Tiantai Buddhism.
+    imageUrl: /artifacts/tiantai-1.jpg
+  - title: 法華経要品訓読 目次 Lotus Sutra Digest Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:%E6%B3%95%E8%8F%AF%E7%B5%8C%E8%A6%81%E5%93%81%E8%A8%93%E8%AA%AD_%E7%9B%AE%E6%AC%A1_Lotus_Sutra_Digest.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 6th century CE
+    description: >-
+      『(改正略解)法華経要品訓読』明治20年9月20日御届/同21年6月再版/同37年9月譲受、元版人・須原屋茂兵衛、譲受発行人・鈴木荘次郎、印刷人・三功舎　鈴木耕太郎。
+
+
+
+      Public domainPublic domainfalsefalse
+
+
+
+
+
+
+      I, the copyright holder of this work, release this w...
     imageUrl: /artifacts/tiantai-2.jpg
 ---
 

@@ -40,16 +40,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Greek Religion'
     url: 'https://brill.com/search?q=Ancient%20Greek%20Religion'
 artifacts:
-  - title: Ancient Greek religion Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Greek_religion'
+  - title: Ancient Greek Religion Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Greek_Religion'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 1200 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ancient Greek Religion.
     imageUrl: /artifacts/ancient-greek-religion-1.jpg
-  - title: Ancient Greek Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Greek_religion'
+  - title: Ancient Greek Religion Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Greek_Religion'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 1200 BCE
     description: >-

@@ -54,11 +54,10 @@ artifacts:
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 1353 BCE
     description: >-
-      Atenism, also known as the Aten religion, the Amarna religion, and the
-      Amarna heresy, was a religion in ancient Egypt. It was founded by
-      Akhenaten, a pharaoh who ruled the New King...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Atenism.
     imageUrl: /artifacts/atenism-1.jpg
-  - title: Atenism Sacred Scripture & Art
+  - title: Atenism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Atenism'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 1353 BCE

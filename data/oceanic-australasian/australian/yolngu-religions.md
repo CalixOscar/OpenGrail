@@ -48,24 +48,24 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Yol%C5%8Bu%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: To Guard the Stars and the Sea Together (ann22042l) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:To_Guard_the_Stars_and_the_Sea_Together_(ann22042l).jpg
     provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
     period: c. ancient and continuing
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Image title: To Guard the Stars and the Sea TogetherAuthor: Likai
+      LinCountry: China, NanjingThis image composition is amazing. In the far
+      background of the landscape we see a chain...
     imageUrl: /artifacts/yolngu-religions-1.jpg
-  - title: Yolŋu Religious Traditions Sacred Scripture & Art
+  - title: Yolŋu Religious Traditions Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:To_Guard_the_Stars_and_the_Sea_Together_(ann22042l).jpg
     provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
     period: c. ancient and continuing
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Yolŋu Religious Traditions.
-    imageUrl: /artifacts/yolngu-religions-1.jpg
 ---
 
 # Yolŋu Religious Traditions

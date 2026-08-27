@@ -46,25 +46,23 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Xiantiandao'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 先天道坤儀堂 (3)神桌 Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:%E5%85%88%E5%A4%A9%E9%81%93%E5%9D%A4%E5%84%80%E5%A0%82_(3)%E7%A5%9E%E6%A1%8C.jpg
     provenance: 'Qufu, Shandong, China'
     period: c. 18th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: ​台灣澎湖縣馬公市長安里中正路93巷11號...
     imageUrl: /artifacts/xiantiandao-1.jpg
   - title: >-
-      菊花-金書寶卷 Chrysanthemum morifolium 'Gold Book Precious Scroll' -香港圓玄學院 Hong
-      Kong Yuen Yuen Institute- (12084953135) Canonical Scripture & Iconography
+      History and mystery of precious stones (IA b24868929) Sacred Relics &
+      Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%E8%8F%8A%E8%8A%B1-%E9%87%91%E6%9B%B8%E5%AF%B6%E5%8D%B7_Chrysanthemum_morifolium_%27Gold_Book_Precious_Scroll%27_-%E9%A6%99%E6%B8%AF%E5%9C%93%E7%8E%84%E5%AD%B8%E9%99%A2_Hong_Kong_Yuen_Yuen_Institute-_(12084953135).jpg
+      https://commons.wikimedia.org/wiki/File:History_and_mystery_of_precious_stones_(IA_b24868929).pdf
     provenance: 'Qufu, Shandong, China'
     period: c. 18th century CE
     description: >-
-      菊花-金書寶卷 Chrysanthemum morifolium 'Gold Book Precious Scroll'  [香港圓玄學院 Hong
-      Kong Yuen Yuen Institute]...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Xiantiandao.
     imageUrl: /artifacts/xiantiandao-2.jpg
 ---
 

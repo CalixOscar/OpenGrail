@@ -52,17 +52,20 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Guaran%C3%AD%20Religious%20Traditions'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      The Indian races of North and South America (Bronwell, 1853) (IA
+      indianracesofnor00brow 0) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:The_Indian_races_of_North_and_South_America_(Bronwell,_1853)_(IA_indianracesofnor00brow_0).pdf
     provenance: 'Paraná Basin (Asunción), Paraguay'
     period: c. precolonial
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: |-
+      p. 24 col. pl., 15 port. (part col.) 23 cm
+
+      Subjects: Indians...
     imageUrl: /artifacts/guarani-religions-1.jpg
   - title: >-
-      Eichhoff - Parallèles des langues de l’Europe et de l’Inde Canonical
-      Scripture & Iconography
+      Eichhoff - Parallèles des langues de l’Europe et de l’Inde Sacred Relics &
+      Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Eichhoff_-_Parall%C3%A8les_des_langues_de_l%E2%80%99Europe_et_de_l%E2%80%99Inde.djvu
     provenance: 'Paraná Basin (Asunción), Paraguay'
@@ -71,7 +74,7 @@ artifacts:
       Parallèles des langues de l’Europe et de l’Inde, ou Étude des principales
       langues romanes germaniques, slavonnes et celtiques comparées entre elles
       et a la langue sanscrite, avec u...
-    imageUrl: /artifacts/guarani-religions-1.jpg
+    imageUrl: /artifacts/guarani-religions-2.jpg
 ---
 
 # Guaraní Religious Traditions

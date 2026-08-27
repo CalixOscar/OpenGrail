@@ -49,22 +49,23 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Athari Theology'
     url: 'https://www.cambridge.org/core/search?q=Athari%20Theology'
 artifacts:
-  - title: Athari Theology Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Athari_Theology'
+  - title: 'Atari E.T. Dig- Alamogordo, New Mexico (14036097792) Historical Sanctuary'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Atari_E.T._Dig-_Alamogordo,_New_Mexico_(14036097792).jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 8th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Athari Theology.
+      E.T. and Centipede games packaging from the excavation of the landfill
+      site of the 1983 Atari video game burial...
     imageUrl: /artifacts/athari-theology-1.jpg
-  - title: Athari Theology Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Athari_Theology'
+  - title: Athari Theology Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Atari_E.T._Dig-_Alamogordo,_New_Mexico_(14036097792).jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 8th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Athari Theology.
-    imageUrl: /artifacts/athari-theology-2.jpg
 ---
 
 # Athari Theology

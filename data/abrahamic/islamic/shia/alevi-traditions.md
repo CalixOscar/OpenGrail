@@ -48,16 +48,17 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Alevi Traditions'
     url: 'https://www.cambridge.org/core/search?q=Alevi%20Traditions'
 artifacts:
-  - title: Alevi Traditions Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Alevi_Traditions'
+  - title: Veli baba Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Veli_baba.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 13th–16th centuries CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Alevi Traditions.
+      Veli Baba Lodge is located in Uluğbey town of Senarkent district of
+      Isparta. It is one of the respected Alevi-Bektashi hearths and convents of
+      the region. It is believed that Veli...
     imageUrl: /artifacts/alevi-traditions-1.jpg
-  - title: Alevi Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Alevi_Traditions'
+  - title: Alevi Traditions Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Veli_baba.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 13th–16th centuries CE
     description: >-

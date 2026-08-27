@@ -44,29 +44,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=K%C4%81l%C4%ABkula'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Schillingi (Kaliküla) suguvõsa aadlivapp Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Schillingi_(Kalik%C3%BCla)_suguv%C3%B5sa_aadlivapp.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Schillingi (Kaliküla) suguvõsa aadlivapp...
     imageUrl: /artifacts/kalikula-1.jpg
-  - title: >-
-      A Tantric Form of the Hindu Goddess Kali (Recto), Horse (Verso), Folio
-      from a Book of Iconography LACMA M.81.206.9 Canonical Scripture &
-      Iconography
+  - title: Kālīkula Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_Tantric_Form_of_the_Hindu_Goddess_Kali_(Recto),_Horse_(Verso),_Folio_from_a_Book_of_Iconography_LACMA_M.81.206.9.jpg
+      https://commons.wikimedia.org/wiki/File:Schillingi_(Kalik%C3%BCla)_suguv%C3%B5sa_aadlivapp.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
-    description: |-
-      Nepal, 17th century
-      Drawings
-      Ink and opaque watercolor on paper
-      Gift of Dr. and Mrs. Robert S. Coles (M.81.206.9)
-      South and Southeast Asian Art...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Kālīkula.
     imageUrl: /artifacts/kalikula-2.jpg
 ---
 

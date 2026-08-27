@@ -52,15 +52,12 @@ artifacts:
     provenance: 'Qufu, Shandong, China'
     period: c. c. 11th century CE
     description: >-
-      Neo-Confucianism (Chinese: 宋明理學; pinyin: Sòng-Míng lǐxué, often shortened
-      to lǐxué 理學, literally "School of Principle") is the cultural revival of
-      Confucianism as an ethical, socia...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Neo-Confucianism.
     imageUrl: /artifacts/neo-confucianism-1.jpg
-  - title: >-
-      Cosmography in four books Fleuron T107951-4 Canonical Scripture &
-      Iconography
+  - title: Cosmography in four books Fleuron T107951-19 Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Cosmography_in_four_books_Fleuron_T107951-4.png
+      https://commons.wikimedia.org/wiki/File:Cosmography_in_four_books_Fleuron_T107951-19.png
     provenance: 'Qufu, Shandong, China'
     period: c. c. 11th century CE
     description: >-

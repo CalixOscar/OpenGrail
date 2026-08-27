@@ -50,7 +50,7 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Samaritanism.
     imageUrl: /artifacts/samaritanism-1.jpg
-  - title: Samaritanism Sacred Scripture & Art
+  - title: Samaritanism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Samaritanism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 5th century BCE

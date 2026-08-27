@@ -46,16 +46,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Chabad-Lubavitch'
     url: 'https://www.cambridge.org/core/search?q=Chabad-Lubavitch'
 artifacts:
-  - title: Chabad-Lubavitch Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chabad-Lubavitch'
+  - title: Chabad-Lubavitch Map - 2020 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Chabad-Lubavitch_Map_-_2020.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1775 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Chabad-Lubavitch.
+    description: Sourced from Chabad.org...
     imageUrl: /artifacts/chabad-lubavitch-1.jpg
-  - title: Chabad-Lubavitch Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chabad-Lubavitch'
+  - title: Chabad-Lubavitch Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Chabad-Lubavitch_Map_-_2020.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1775 CE
     description: >-

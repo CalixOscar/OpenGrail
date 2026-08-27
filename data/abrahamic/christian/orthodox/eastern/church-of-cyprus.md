@@ -47,18 +47,16 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. 431 CE
     description: >-
-      The Church of Cyprus (Greek: Ἐκκλησία τῆς Κύπρου, romanized: Ekklisia tis
-      Kyprou), is an autocephalous Greek Orthodox church and one of the churches
-      within the communion of the Eas...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Church of Cyprus.
     imageUrl: /artifacts/church-of-cyprus-1.jpg
-  - title: Church of Cyprus Sacred Scripture & Art
+  - title: Church of Cyprus Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Cyprus'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 431 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Church of Cyprus.
-    imageUrl: /artifacts/church-of-cyprus-2.jpg
 ---
 
 # Church of Cyprus

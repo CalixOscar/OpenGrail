@@ -48,24 +48,23 @@ artifacts:
     provenance: 'Isfahan, Iran'
     period: c. late 5th century CE
     description: >-
-      Mazdakism (Persian: مزدکیه, romanized: mazdakīye) was an Iranian offshoot
-      of Zoroastrianism.
-
-      The religion was founded in the early Sasanian Empire by Zaradust-e
-      Khuragen, a Zoroast...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Mazdakism.
     imageUrl: /artifacts/mazdakism-1.jpg
   - title: >-
-      Epistolae Ho-Elianae- the familiar letters of James Howell (IA
-      epistolaehoelian02howeiala) Canonical Scripture & Iconography
+      Symbolae physicae, volume 2 (IA SymbolaephysicaMammEhreA) Sacred Relics &
+      Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Epistolae_Ho-Elianae-_the_familiar_letters_of_James_Howell_(IA_epistolaehoelian02howeiala).pdf
+      https://commons.wikimedia.org/wiki/File:Symbolae_physicae,_volume_2_(IA_SymbolaephysicaMammEhreA).pdf
     provenance: 'Isfahan, Iran'
     period: c. late 5th century CE
     description: >-
-      [v.1] Epistolae Ho-Elianae: Books I-IV. Supplement I: Documents of and
-      about Howell.- [v.2] Testimonia. Introduction. Appendix: Bibliography of
-      Howell's works. Supplement II: Docu...
-    imageUrl: /artifacts/mazdakism-1.jpg
+      statement of responsibility: regis iussu et impensis publico usui obtulit
+      superstes C.G. Ehrenberg
+
+      The naturalists Ehrenberg and Hemprich collected their specimens of the
+      fauna an...
+    imageUrl: /artifacts/mazdakism-2.jpg
 ---
 
 # Mazdakism

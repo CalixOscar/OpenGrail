@@ -48,22 +48,22 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Vedic%20Religion'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      The Rig-Veda and Vedic religion - with readings from the Vedas (IA
+      rigvedavedicreli00clayiala) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:The_Rig-Veda_and_Vedic_religion_-_with_readings_from_the_Vedas_(IA_rigvedavedicreli00clayiala).pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1500 BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: "Bibliography\_: p. [276]-278\n\nSubjects: Vedas; Hinduism..."
     imageUrl: /artifacts/vedic-religion-1.jpg
-  - title: Rigveda MS2097 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Rigveda_MS2097.jpg'
+  - title: Vedic Religion Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Rig-Veda_and_Vedic_religion_-_with_readings_from_the_Vedas_(IA_rigvedavedicreli00clayiala).pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1500 BCE
     description: >-
-      Rigveda MS in Sanskrit on paper, India, early 19th c., 4 vols., 795 ff.
-      (complete), 10x20 cm, single column, (7x17 cm), 10 lines in Devanagari
-      script with deletions in yellow, Vedi...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Vedic Religion.
     imageUrl: /artifacts/vedic-religion-2.jpg
 ---
 

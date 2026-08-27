@@ -52,28 +52,23 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=International%20Society%20for%20Krishna%20Consciousness
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 'Conch Building, Iskcon, Mayapur 07102013 Historical Sanctuary'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Conch_Building,_Iskcon,_Mayapur_07102013.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1966 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Conch Building at ISKCON Temple, Mayapur, West Bengal, India....'
     imageUrl: /artifacts/iskcon-1.jpg
   - title: >-
-      BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter 1.20.21 Canonical
-      Scripture & Iconography
+      International Society for Krishna Consciousness Canonical Scripture &
+      Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter_1.20.21.jpg
+      https://commons.wikimedia.org/wiki/File:Conch_Building,_Iskcon,_Mayapur_07102013.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1966 CE
     description: >-
-      This folio samples a part of verse 20, and the beginning of verse 21 from
-      the opening chapter of the Bhagavad Gita, which is on the topic of
-      Arjuna's distress.
-
-      प्रवृत्ते शस्त्रसम्प...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of International Society for Krishna Consciousness.
     imageUrl: /artifacts/iskcon-2.jpg
 ---
 

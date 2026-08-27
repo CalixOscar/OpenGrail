@@ -51,14 +51,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Grace Communion International.
     imageUrl: /artifacts/grace-communion-international-1.jpg
-  - title: Grace Communion International Sacred Scripture & Art
+  - title: Grace Communion International Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Grace_Communion_International'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1995 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Grace Communion International.
-    imageUrl: /artifacts/grace-communion-international-2.jpg
 ---
 
 # Grace Communion International

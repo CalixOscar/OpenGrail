@@ -62,7 +62,9 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Remnant Church of Jesus Christ of Latter Day Saints.
     imageUrl: /artifacts/remnant-church-jesus-christ-latter-day-saints-1.jpg
-  - title: Remnant Church of Jesus Christ of Latter Day Saints Sacred Scripture & Art
+  - title: >-
+      Remnant Church of Jesus Christ of Latter Day Saints Canonical Scripture &
+      Iconography
     sourceUrl: >-
       https://en.wikipedia.org/wiki/Remnant_Church_of_Jesus_Christ_of_Latter_Day_Saints
     provenance: 'Salt Lake City (Temple Square), Utah, USA'

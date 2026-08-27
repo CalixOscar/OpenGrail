@@ -44,18 +44,24 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Ghost%20Dance%20Movements'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      The ghost of the Belle-Alliance Plantation - and other stories (IA
+      ghostofbellealli00giff) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:The_ghost_of_the_Belle-Alliance_Plantation_-_and_other_stories_(IA_ghostofbellealli00giff).pdf
     provenance: 'Wounded Knee / Pine Ridge, SD, USA'
     period: c. 1870 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Photographic frontispiece
+
+      The ghost of the Belle-Alliance Plantation -- The fortunes of war -- A
+      meeting of nations -- Her people
+
+      Subjects:...
     imageUrl: /artifacts/ghost-dance-1.jpg
   - title: >-
       Annual report of the Bureau of Ethnology to the Secretary of the
-      Smithsonian Institution (IA annualreportofbu14218921893smit) Canonical
-      Scripture & Iconography
+      Smithsonian Institution (IA annualreportofbu14218921893smit) Sacred Relics
+      & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Annual_report_of_the_Bureau_of_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_(IA_annualreportofbu14218921893smit).pdf
     provenance: 'Wounded Knee / Pine Ridge, SD, USA'
@@ -65,7 +71,7 @@ artifacts:
       Report year ends June 30
       Vol. 1 (1879/80)-v. 15 (1893/94), in vol. 48 of later title
       ANTHREF 2nd (1880/81) 39088009435397 and (5th, 1883/84) 390880093...
-    imageUrl: /artifacts/ghost-dance-1.jpg
+    imageUrl: /artifacts/ghost-dance-2.jpg
 ---
 
 # Ghost Dance Movements

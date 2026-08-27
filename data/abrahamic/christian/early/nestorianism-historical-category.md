@@ -58,13 +58,17 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with “Nestorianism” (Historical Category).
     imageUrl: /artifacts/nestorianism-historical-category-1.jpg
-  - title: “Nestorianism” (Historical Category) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/%E2%80%9CNestorianism%E2%80%9D'
+  - title: >-
+      Palm Sunday (probably), Khocho, Nestorian Temple, 683-770 AD, wall
+      painting - Ethnological Museum, Berlin - DSC01741 Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Palm_Sunday_(probably),_Khocho,_Nestorian_Temple,_683-770_AD,_wall_painting_-_Ethnological_Museum,_Berlin_-_DSC01741.JPG
     provenance: 'Jerusalem, Southern Levant'
     period: c. 5th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of “Nestorianism” (Historical Category).
+      Exhibit in the Ethnological Museum, Berlin, Germany. Photography was
+      permitted in the museum without restriction....
     imageUrl: /artifacts/nestorianism-historical-category-2.jpg
 ---
 

@@ -45,26 +45,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Upanishadic%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 'Neuf Upanishads, la théosophie des Védas Historical Sanctuary'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Neuf_Upanishads,_la_th%C3%A9osophie_des_V%C3%A9das.djvu
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 700 BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: "Neuf Upanishads\_: la théosophie des Védas...."
     imageUrl: /artifacts/upanishadic-traditions-1.jpg
-  - title: >-
-      Brihadaranyaka Upanishad verses 1.3.1 to 1.3.4, Shatapatha Brahmana,
-      Shukla Yajurveda, Sanskrit, Devanagari Canonical Scripture & Iconography
+  - title: Upanishadic Traditions Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Brihadaranyaka_Upanishad_verses_1.3.1_to_1.3.4,_Shatapatha_Brahmana,_Shukla_Yajurveda,_Sanskrit,_Devanagari.jpg
+      https://commons.wikimedia.org/wiki/File:Neuf_Upanishads,_la_th%C3%A9osophie_des_V%C3%A9das.djvu
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 700 BCE
     description: >-
-      The early Upanishads (Upanisad, Upanisat) are scriptures of Hinduism.
-      Variously dated by scholars to have been composed between 900 BCE to about
-      200 BCE, these texts are in Sanskri...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Upanishadic Traditions.
     imageUrl: /artifacts/upanishadic-traditions-2.jpg
 ---
 

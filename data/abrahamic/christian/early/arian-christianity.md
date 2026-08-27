@@ -46,21 +46,25 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Arian Christianity'
     url: 'https://www.cambridge.org/core/search?q=Arian%20Christianity'
 artifacts:
-  - title: Arian Christianity (Historical) Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Arian_Christianity'
+  - title: >-
+      Portsmouth Cathedral Choir, Portsmouth, Hampshire, UK - Diliff Historical
+      Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Portsmouth_Cathedral_Choir,_Portsmouth,_Hampshire,_UK_-_Diliff.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 318 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Arian Christianity (Historical).
+      The choir of Portsmouth Cathedral looking towards the north east in
+      Hampshire, England....
     imageUrl: /artifacts/arian-christianity-1.jpg
-  - title: Arian Christianity (Historical) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Arian_Christianity'
+  - title: Silver crystal Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Silver_crystal.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 318 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Arian Christianity (Historical).
+      A pure (&gt;99.95%) silver crystal, synthetic electrolytic made with
+      visible dendritic structures. Weight ≈11g. this image was made from 12
+      single pictures via focus stacking...
     imageUrl: /artifacts/arian-christianity-2.jpg
 ---
 

@@ -49,21 +49,28 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Prince%20Philip%20Movement'
 artifacts:
-  - title: Prince Philip movement Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Prince_Philip_movement'
+  - title: >-
+      Yaohnanen Tribesmen Show Pictures of 2007 Visit with Prince Philip
+      Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Yaohnanen_Tribesmen_Show_Pictures_of_2007_Visit_with_Prince_Philip.jpg
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. mid-20th century CE
     description: >-
-      The Prince Philip movement is a religious sect followed by the Kastom
-      people around the villages of Yaohnanen and Yakel on the southern Tanna
-      Island in Vanuatu. It is a cargo cult...
-  - title: Prince Philip Movement Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Prince_Philip_movement'
+      Two Yaohnanen tribesmens show framed pictures of their 2007 visit with
+      Prince Philip, Duke of Edinburgh....
+    imageUrl: /artifacts/prince-philip-movement-1.jpg
+  - title: >-
+      Narrative of the circumnavigation of the Globe by the Austrian frigate
+      Novara, (Volume 1). Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Narrative_of_the_circumnavigation_of_the_Globe_by_the_Austrian_frigate_Novara,_(Volume_1)..pdf
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. mid-20th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Prince Philip Movement.
+    imageUrl: /artifacts/prince-philip-movement-2.jpg
 ---
 
 # Prince Philip Movement

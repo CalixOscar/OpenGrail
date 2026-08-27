@@ -49,17 +49,14 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1592 CE
     description: >-
-      The Dawoodi Bohras are a religious denomination within the Ismā'īlī branch
-      of Shia Islam. They number approximately one million worldwide and have
-      settled in over 40 countries arou...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Dawoodi Bohra.
     imageUrl: /artifacts/dawoodi-bohra-1.jpg
-  - title: Dawoodi Bohra Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dawoodi_Bohra'
+  - title: AndalusQuran Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:AndalusQuran.JPG'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1592 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Dawoodi Bohra.
+    description: "Page from a manuscript from Al-Andalus, 12 cent. Sura 15\_: Al-Hijr. The thicker strokes in the center of the page are in the Kufic style of calligraphy...."
     imageUrl: /artifacts/dawoodi-bohra-2.jpg
 ---
 

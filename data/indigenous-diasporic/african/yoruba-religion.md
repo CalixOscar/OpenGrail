@@ -40,25 +40,20 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Yor%C3%B9b%C3%A1%20Religion'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Obatala Priester im Tempel Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Obatala_Priester_im_Tempel.jpg'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. before 1000 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Obatala priests in their temple in Ife...
     imageUrl: /artifacts/yoruba-religion-1.jpg
   - title: >-
-      Filming of the Yoruba oral traditions project Canonical Scripture &
-      Iconography
+      Folktales & Oral Traditions Archive - (Ogoni Language) Sacred Relics &
+      Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
+      https://commons.wikimedia.org/wiki/File:Folktales_%26_Oral_Traditions_Archive_-_(Ogoni_Language).webm
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. before 1000 CE
-    description: >-
-      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
-      Ṣànpọ̀ná...
+    description: Folktales and Oral Traditions Archives...
     imageUrl: /artifacts/yoruba-religion-2.jpg
 ---
 

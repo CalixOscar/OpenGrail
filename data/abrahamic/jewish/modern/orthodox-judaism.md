@@ -45,17 +45,19 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 19th century CE
     description: >-
-      Orthodox Judaism is a collective term for the traditionalist branches of
-      contemporary Judaism. Theologically, it is chiefly defined by regarding
-      the Torah, both Written and Oral, a...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Orthodox Judaism.
     imageUrl: /artifacts/orthodox-judaism-1.jpg
-  - title: Orthodox Judaism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Judaism'
+  - title: >-
+      Litoměřice - Mírové náměstí - Renaissance Sgraffito - Hebrew Bible Imagery
+      03 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Litom%C4%9B%C5%99ice_-_M%C3%ADrov%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_-_Renaissance_Sgraffito_-_Hebrew_Bible_Imagery_03.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 19th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Orthodox Judaism.
+      Litoměřice - Mírové náměstí - Renaissance Sgraffito - Hebrew Bible
+      Imagery...
     imageUrl: /artifacts/orthodox-judaism-2.jpg
 ---
 

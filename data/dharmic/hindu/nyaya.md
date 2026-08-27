@@ -45,21 +45,30 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ny%C4%81ya'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 'John Opie - Winter''s Tale, Act II. Scene III Historical Sanctuary'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:John_Opie_-_Winter%27s_Tale,_Act_II._Scene_III.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      An illustration by John Opie, engraved by Jean Pierre Simon, for Act II,
+      Scene III of Shakespeare's [The] Winter's Tale
+
+      LEONTES:
+
+
+      [To ANTIGONUS.] You, sir, come you hither:
+
+      You tha...
     imageUrl: /artifacts/nyaya-1.jpg
-  - title: 'Hu, Feer - Dhammapada et Sutra Canonical Scripture & Iconography'
+  - title: Nyāya Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Hu,_Feer_-_Dhammapada_et_Sutra.djvu
+      https://commons.wikimedia.org/wiki/File:John_Opie_-_Winter%27s_Tale,_Act_II._Scene_III.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century CE
-    description: "Le Dhammapada, avec introduction et notes, par Fernand Hû\_; suivi du Sûtra en 42 articles, traduit du tibétain, avec introduction et notes, par Léon Fëer. Bibliothèque orientale el..."
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Nyāya.
     imageUrl: /artifacts/nyaya-2.jpg
 ---
 

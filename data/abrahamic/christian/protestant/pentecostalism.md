@@ -45,21 +45,19 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Pentecostalism'
     url: 'https://www.cambridge.org/core/search?q=Pentecostalism'
 artifacts:
-  - title: Pentecostalism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pentecostalism'
+  - title: Dream City Church worship2 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dream_City_Church_worship2.jpg'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. c. 1901 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Pentecostalism.
+      Worship service at Phoenix First Assembly of God, facing the stage (2nd
+      picture)...
     imageUrl: /artifacts/pentecostalism-1.jpg
-  - title: Pentecostalism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pentecostalism'
+  - title: 031 apostolic faith Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:031_apostolic_faith.gif'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. c. 1901 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Pentecostalism.
+    description: 'Front page of The Apostolic Faith''s first issue, September 1906....'
     imageUrl: /artifacts/pentecostalism-2.jpg
 ---
 

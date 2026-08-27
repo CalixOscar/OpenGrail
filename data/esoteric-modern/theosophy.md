@@ -49,16 +49,15 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Theosophy'
     url: 'https://brill.com/search?q=Theosophy'
 artifacts:
-  - title: Theosophy Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Theosophy'
+  - title: Emb logo Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Emb_logo.png'
     provenance: 'New York City, New York, USA'
     period: c. 1875 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Theosophy.
+    description: AdyarEmblem of the International Theosophical Society (Adyar)...
+    imageUrl: /artifacts/theosophy-1.jpg
   - title: >-
       Isis very much unveiled - being the story of the great Mahatma hoax (IA
-      b24884273) Canonical Scripture & Iconography
+      b24884273) Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Isis_very_much_unveiled_-_being_the_story_of_the_great_Mahatma_hoax_(IA_b24884273).pdf
     provenance: 'New York City, New York, USA'
@@ -67,6 +66,7 @@ artifacts:
       Includes index
 
       Subjects: Theosophists...
+    imageUrl: /artifacts/theosophy-2.jpg
 ---
 
 # Theosophy

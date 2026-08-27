@@ -50,11 +50,10 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
     description: >-
-      Newar Buddhism is a form of Vajrayana Buddhism practiced by the Newar
-      people of the Kathmandu Valley, Nepal. It has developed unique
-      socio-religious elements, which include a non-m...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Newar Buddhism.
     imageUrl: /artifacts/newar-buddhism-1.jpg
-  - title: Newar Buddhism Sacred Scripture & Art
+  - title: Newar Buddhism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Newar_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE

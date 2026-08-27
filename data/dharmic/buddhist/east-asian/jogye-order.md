@@ -52,17 +52,19 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-
-      The Jogye Order (Korean: 조계종), officially the Jogye Order of Korean
-      Buddhism (대한불교조계종), is a sect of Korean Buddhism. It is the largest
-      Buddhist sect in South Korea as of 2018. It...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Jogye Order.
     imageUrl: /artifacts/jogye-order-1.jpg
-  - title: Jogye Order Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jogye_Order'
+  - title: >-
+      Viewing Platform for the Heart Sutra Wood Inscription (Ngong Ping ) Sacred
+      Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Viewing_Platform_for_the_Heart_Sutra_Wood_Inscription_(Ngong_Ping_).jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Jogye Order.
+      Layout Plan of the Wisdom Path (located on the viewing platform), Ngong
+      Ping, Lantau Island, Hong Kong....
     imageUrl: /artifacts/jogye-order-2.jpg
 ---
 

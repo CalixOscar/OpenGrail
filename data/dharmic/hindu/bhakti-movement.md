@@ -49,17 +49,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Bhakti%20Movements'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: The Religions of the World Vol 2 Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:The_Religions_of_the_World_Vol_2.djvu
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Conference proceedings on religion....
     imageUrl: /artifacts/bhakti-movement-1.jpg
-  - title: Manavala mamunigal 03 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Manavala_mamunigal_03.jpg'
+  - title: Bhakti Movements Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Religions_of_the_World_Vol_2.djvu
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE
     description: >-

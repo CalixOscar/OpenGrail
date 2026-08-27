@@ -64,11 +64,10 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 30 CE
     description: >-
-      Christianity is an Abrahamic monotheistic religion based on the Bible and
-      the teachings of Jesus. The Gospels state that Jesus is the Son of God and
-      rose from the dead after his cr...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Christianity.
     imageUrl: /artifacts/christianity-1.jpg
-  - title: Christianity Sacred Scripture & Art
+  - title: Christianity Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Christianity'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 30 CE

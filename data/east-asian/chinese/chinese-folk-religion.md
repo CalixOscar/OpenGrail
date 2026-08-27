@@ -47,24 +47,25 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=Chinese%20Folk%20Religion
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Chinese Folk Religion by country (Pew Research Center) Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Chinese_Folk_Religion_by_country_(Pew_Research_Center).png
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      A map showing the followers of Chinese folk religion (or Shenism) by
+      percentage in each country. Note that the Chinese folk religion includes
+      Taoism, so statistics for Taoism are a...
     imageUrl: /artifacts/chinese-folk-religion-1.jpg
-  - title: >-
-      The liturgy used in the churches of the Principality of Neufchatel
-      (compiled by J.F. Osterwald)- with a letter from the learned Dr.
-      Jablonski, concerning the nature of liturgies (IA b30544786) Canonical
-      Scripture & Iconography
+  - title: Chinese Folk Religion Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_liturgy_used_in_the_churches_of_the_Principality_of_Neufchatel_(compiled_by_J.F._Osterwald)-_with_a_letter_from_the_learned_Dr._Jablonski,_concerning_the_nature_of_liturgies_(IA_b30544786).pdf
+      https://commons.wikimedia.org/wiki/File:Chinese_Folk_Religion_by_country_(Pew_Research_Center).png
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
-    description: "xii, 116 pages, 2 unnumbered leaves\_; (4to)\nThe part pertaining to Neuchâtel compiled originally by J. F. Osterwald.--cf. Brit. mus. cat\nSubjects: Jablonski, Dr; Church of Geneva;..."
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Chinese Folk Religion.
     imageUrl: /artifacts/chinese-folk-religion-2.jpg
 ---
 

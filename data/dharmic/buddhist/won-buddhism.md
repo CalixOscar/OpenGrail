@@ -44,26 +44,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Won%20Buddhism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Changnyeong wonbulgyo Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Changnyeong_wonbulgyo.jpg'
     provenance: 'Iksan, North Jeolla, South Korea'
     period: c. 1916 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Wonbuddhism hall of worship in Changnyeong, Gyeongsangnam-do, South
+      Korea....
     imageUrl: /artifacts/won-buddhism-1.jpg
-  - title: >-
-      Early Buddhism (IA earlybuddhism00davirich) Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Early_Buddhism_(IA_earlybuddhism00davirich).pdf
+  - title: Won Buddhism Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Changnyeong_wonbulgyo.jpg'
     provenance: 'Iksan, North Jeolla, South Korea'
     period: c. 1916 CE
-    description: |-
-      Includes bibliographical references (p. 91-[92])
-
-      Subjects: Buddhism; Buddhism -- History...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Won Buddhism.
     imageUrl: /artifacts/won-buddhism-2.jpg
 ---
 

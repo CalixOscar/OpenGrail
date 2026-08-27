@@ -47,16 +47,14 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Vi%C5%9Bi%E1%B9%A3%E1%B9%AD%C4%81dvaita%20Ved%C4%81nta
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Ramanujacharya Idol in a temple Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Ramanujacharya_Idol_in_a_temple.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 11th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: sage Ramanujacharya's statue...
     imageUrl: /artifacts/vishishtadvaita-1.jpg
-  - title: पातञ्जलयोगसूत्रभाष्यविवरणम् Canonical Scripture & Iconography
+  - title: पातञ्जलयोगसूत्रभाष्यविवरणम् Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:%E0%A4%AA%E0%A4%BE%E0%A4%A4%E0%A4%9E%E0%A5%8D%E0%A4%9C%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D.pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -64,7 +62,7 @@ artifacts:
     description: >-
       The Vivaraṇa commentary on the Yogasūtra and bhāṣya, ascribed to
       Śaṅkara....
-    imageUrl: /artifacts/vishishtadvaita-1.jpg
+    imageUrl: /artifacts/vishishtadvaita-2.jpg
 ---
 
 # Viśiṣṭādvaita Vedānta

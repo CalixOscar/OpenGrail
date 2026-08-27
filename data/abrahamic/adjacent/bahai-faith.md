@@ -54,7 +54,7 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Baha'i Faith.
     imageUrl: /artifacts/bahai-faith-1.jpg
-  - title: Baha'i Faith Sacred Scripture & Art
+  - title: Baha'i Faith Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Baha''i_Faith'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1863 CE

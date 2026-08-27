@@ -40,16 +40,17 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hurrian Religion'
     url: 'https://brill.com/search?q=Hurrian%20Religion'
 artifacts:
-  - title: Hurrian Religion Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hurrian_Religion'
+  - title: Hurrian incense container Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hurrian_incense_container.JPG'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2200 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Hurrian Religion.
+      A pottery incense container which was found at layer 5 of the altar
+      platform of the central temple of Tell-Basmosian. Hurrian period, 2nd
+      millennium BCE. The Sulaymaniyah Museum, I...
     imageUrl: /artifacts/hurrian-religion-1.jpg
-  - title: Hurrian Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hurrian_Religion'
+  - title: Hurrian Religion Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hurrian_incense_container.JPG'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2200 BCE
     description: >-

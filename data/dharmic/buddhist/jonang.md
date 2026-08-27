@@ -50,11 +50,10 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 13th century CE
     description: >-
-      The Jonang (Tibetan: ཇོ་ནང་, Wylie: Jo-nang) is a school of Indo-Tibetan
-      Buddhism. Its origins in Tibet can be traced to the early 12th century
-      master Yumo Mikyo Dorje. It became w...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Jonang.
     imageUrl: /artifacts/jonang-1.jpg
-  - title: Jonang Sacred Scripture & Art
+  - title: Jonang Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Jonang'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 13th century CE

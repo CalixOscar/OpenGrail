@@ -50,8 +50,9 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Yazidism.
     imageUrl: /artifacts/yazidism-1.jpg
-  - title: Yazidism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Yazidism'
+  - title: Bloy - Le Désespéré Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Bloy_-_Le_D%C3%A9sesp%C3%A9r%C3%A9.djvu
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 12th century CE
     description: >-

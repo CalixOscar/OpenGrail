@@ -51,16 +51,16 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Members%20Church%20of%20God%20International
 artifacts:
-  - title: Members Church of God International Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Members_Church_of_God_International'
+  - title: 'MCGI Dunedin, 1 Apr 2026 Historical Sanctuary'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:MCGI_Dunedin,_1_Apr_2026.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1977 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Members Church of God International.
+      A Members Church of God International Church on Hillside Road, Dunedin.
+      Next to Cargill Enterprise....
     imageUrl: /artifacts/members-church-of-god-international-1.jpg
-  - title: Members Church of God International Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Members_Church_of_God_International'
+  - title: Membaca ayat Qursi Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Membaca_ayat_Qursi.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1977 CE
     description: >-

@@ -50,17 +50,18 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. 13th century CE
     description: >-
-      The Mevlevi Order or Mawlawiyya (Turkish: Mevlevilik; Persian: طریقت
-      مولویه) is a Sufi order that originated in Konya, Turkey (formerly capital
-      of the Sultanate of Rum) and which w...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Mevlevi Order.
     imageUrl: /artifacts/mevlevi-order-1.jpg
-  - title: Mevlevi Order Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mevlevi_Order'
+  - title: Birmingham Quran manuscript full Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Birmingham_Quran_manuscript_full.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 13th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Mevlevi Order.
+      Seventh-century Quran manuscript held by the University of Birmingham.
+      Folio 2 recto (left) and folio 1 verso (right). Folio 2 (left) from the
+      end of Chapter 19 to the beginning of...
     imageUrl: /artifacts/mevlevi-order-2.jpg
 ---
 

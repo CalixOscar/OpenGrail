@@ -41,16 +41,23 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Animist%20Frameworks'
 artifacts:
-  - title: Animist Frameworks Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Animist_Frameworks'
+  - title: >-
+      ACCESSION OF CHINA TO THE WTO (IA gov.gpo.fdsys.CHRG-106hhrg67832)
+      Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:ACCESSION_OF_CHINA_TO_THE_WTO_(IA_gov.gpo.fdsys.CHRG-106hhrg67832).pdf
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. ancient practices; 19th-century category
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Animist Frameworks.
+      Government Publishing OfficeU.S. CongressHouse of RepresentativesCommittee
+      on Ways and MeansACCESSION OF CHINA TO THE WTODate(s) Held: 2000-05-03
+      106th Congress, 2nd SessionGPO Do...
     imageUrl: /artifacts/animist-frameworks-1.jpg
-  - title: Animist Frameworks Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Animist_Frameworks'
+  - title: >-
+      Oral history interview with Mary R. Howard (IA oralhistoryinter00howa)
+      Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Oral_history_interview_with_Mary_R._Howard_(IA_oralhistoryinter00howa).pdf
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. ancient practices; 19th-century category
     description: >-

@@ -47,11 +47,10 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1889 CE
     description: >-
-      Ahmadiyya (), officially the Ahmadiyya Muslim Jama'at (Arabic: الجماعة
-      الإسلامية الأحمدية, romanized: al-Jamāʿah al-Islāmīyyah al-Aḥmadīyyah;
-      Urdu: جماعتِ احمدیہ مسلمہ, romanized:...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Ahmadiyya.
     imageUrl: /artifacts/ahmadiyya-1.jpg
-  - title: Ahmadiyya Sacred Scripture & Art
+  - title: Ahmadiyya Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Ahmadiyya'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1889 CE

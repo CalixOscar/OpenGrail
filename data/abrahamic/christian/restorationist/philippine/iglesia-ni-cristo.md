@@ -56,13 +56,14 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Iglesia ni Cristo.
     imageUrl: /artifacts/iglesia-ni-cristo-1.jpg
-  - title: Iglesia ni Cristo Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Iglesia_ni_Cristo'
+  - title: 'Young Asclepius, statue, AM Epidauros, Epim13 Sacred Relics & Scripture'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Young_Asclepius,_statue,_AM_Epidauros,_Epim13.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1914 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Iglesia ni Cristo.
+      Young Asclepius, marble statue. Archaeological Museum of Epidaurus, no
+      277....
     imageUrl: /artifacts/iglesia-ni-cristo-2.jpg
 ---
 

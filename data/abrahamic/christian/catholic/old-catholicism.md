@@ -51,13 +51,16 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Old Catholicism.
     imageUrl: /artifacts/old-catholicism-1.jpg
-  - title: Old Catholicism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Old_Catholicism'
+  - title: >-
+      Crucifix, Rosary and Holy Bible with Apocrypha NRSV Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Crucifix,_Rosary_and_Holy_Bible_with_Apocrypha_NRSV.png
     provenance: 'Rome, Latium, Italy'
     period: c. 1870s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Old Catholicism.
+      A small wooden crucifix (repaired using string) with a base, a plastic
+      rosary and a Holy Bible with Apocrypha, New Revised Standard Version...
     imageUrl: /artifacts/old-catholicism-2.jpg
 ---
 

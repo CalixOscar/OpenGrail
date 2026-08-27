@@ -50,22 +50,17 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Cambodian%20Buddhism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Buddhism 13 Naga Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddhism_13_Naga.jpg'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 14th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'The term Naga in Hinduism, Buddhism and Jainism denotes divine....'
     imageUrl: /artifacts/cambodian-buddhism-1.jpg
-  - title: Tipitaka1 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg'
+  - title: Pali Canon Structure Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Pali_Canon_Structure.png'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 14th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cambodian Buddhism.
+    description: 'Tree structure of the Pali Canon, the Tipiṭaka of Theravāda Buddhism....'
     imageUrl: /artifacts/cambodian-buddhism-2.jpg
 ---
 

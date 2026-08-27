@@ -50,18 +50,16 @@ artifacts:
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE
     description: >-
-      Onmyōdō (陰陽道; also In'yōdō, lit. 'The Way of Yin and Yang') is a technique
-      that uses knowledge of astronomy and calendars to divine good fortune in
-      terms of date, time, direction a...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Onmyōdō.
     imageUrl: /artifacts/onmyodo-1.jpg
-  - title: Onmyōdō Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Onmy%C5%8Dd%C5%8D'
+  - title: De la navigation (IA delanavigation00unse) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:De_la_navigation_(IA_delanavigation00unse).pdf
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Onmyōdō.
-    imageUrl: /artifacts/onmyodo-1.jpg
+    description: "192 leaves\_: 24 cm (4to)\nMs. codex\nCaption title\nComposed in multiple hands\nPlace of production suggested by bookseller, who notes that the anonymous author could have come from t..."
+    imageUrl: /artifacts/onmyodo-2.jpg
 ---
 
 # Onmyōdō

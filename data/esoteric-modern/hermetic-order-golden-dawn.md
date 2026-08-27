@@ -57,15 +57,16 @@ artifacts:
     provenance: 'London, England, UK'
     period: c. 1888 CE
     description: >-
-      The Hermetic Order of the Golden Dawn (Latin: Ordo Hermeticus Aurorae
-      Aureae), more commonly the Golden Dawn (Aurora Aurea), was a secret
-      society from the Western esoteric traditio...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Hermetic Order of the Golden Dawn.
     imageUrl: /artifacts/hermetic-order-golden-dawn-1.jpg
-  - title: Cipher Manuscripts Folio 13 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Cipher_Manuscripts_Folio_13.gif'
+  - title: Hermetic Order of the Golden Dawn Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn'
     provenance: 'London, England, UK'
     period: c. 1888 CE
-    description: Folio 13 of the Cipher Manuscripts...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Hermetic Order of the Golden Dawn.
     imageUrl: /artifacts/hermetic-order-golden-dawn-2.jpg
 ---
 

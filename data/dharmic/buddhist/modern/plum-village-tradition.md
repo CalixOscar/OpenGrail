@@ -54,11 +54,10 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1982 CE
     description: >-
-      The Plum Village Tradition is a school of Buddhism named after the Plum
-      Village Monastery in France, the first monastic practice center founded by
-      Thích Nhất Hạnh, Chân Không, and...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Plum Village Tradition.
     imageUrl: /artifacts/plum-village-tradition-1.jpg
-  - title: Plum Village Tradition Sacred Scripture & Art
+  - title: Plum Village Tradition Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Plum_Village_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1982 CE

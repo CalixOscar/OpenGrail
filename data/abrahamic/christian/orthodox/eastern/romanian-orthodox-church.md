@@ -52,14 +52,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Romanian Orthodox Church.
     imageUrl: /artifacts/romanian-orthodox-church-1.jpg
-  - title: Romanian Orthodox Church Sacred Scripture & Art
+  - title: Romanian Orthodox Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Romanian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1872 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Romanian Orthodox Church.
-    imageUrl: /artifacts/romanian-orthodox-church-2.jpg
 ---
 
 # Romanian Orthodox Church

@@ -40,26 +40,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Slavic Religion'
     url: 'https://brill.com/search?q=Slavic%20Religion'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 6th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/slavic-religion-1.jpg
-  - title: >-
-      Filming of the Yoruba oral traditions project Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
+  - title: Slavic Ritual Angle Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Slavic_Ritual_Angle.PNG'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 6th century CE
     description: >-
-      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
-      Ṣànpọ̀ná...
+      One of the basic Slavic ritual triangles, found in acheology of Slavic
+      cult objects. Described in Pleterski, Andrej (1996). Strukture tridelne
+      ideologije v prostoru pri Slovanih....
     imageUrl: /artifacts/slavic-religion-1.jpg
+  - title: Yoruba oral traditions projects Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Yoruba_oral_traditions_projects.jpg
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. c. 6th century CE
+    description: Filming of the Yoruba oral traditions projects....
+    imageUrl: /artifacts/slavic-religion-2.jpg
 ---
 
 # Slavic Religion

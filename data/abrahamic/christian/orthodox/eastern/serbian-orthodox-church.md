@@ -55,14 +55,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Serbian Orthodox Church.
     imageUrl: /artifacts/serbian-orthodox-church-1.jpg
-  - title: Serbian Orthodox Church Sacred Scripture & Art
+  - title: Serbian Orthodox Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Serbian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1219 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Serbian Orthodox Church.
-    imageUrl: /artifacts/serbian-orthodox-church-2.jpg
 ---
 
 # Serbian Orthodox Church

@@ -43,17 +43,17 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Inca%20Imperial%20Religion'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      The Incas - the children of the sun (IA incaschildrenofs00groe) Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:The_Incas_-_the_children_of_the_sun_(IA_incaschildrenofs00groe).pdf
     provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
     period: c. c. 1400 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Subjects: Incas; Indians of South America...'
     imageUrl: /artifacts/inca-religion-1.jpg
   - title: >-
-      Government of Canada (IA recommendationsr00onta 5) Canonical Scripture &
-      Iconography
+      Government of Canada (IA recommendationsr00onta 5) Sacred Relics &
+      Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Government_of_Canada_(IA_recommendationsr00onta_5).pdf
     provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
@@ -69,7 +69,7 @@ artifacts:
 
       Subjects: Agricultural education -- Ontario; Agriculture -- Ontario --
       Study and tea...
-    imageUrl: /artifacts/inca-religion-1.jpg
+    imageUrl: /artifacts/inca-religion-2.jpg
 ---
 
 # Inca Imperial Religion

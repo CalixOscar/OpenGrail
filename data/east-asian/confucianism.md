@@ -44,20 +44,24 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Confucian%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Qufu 2009 1230 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Qufu_2009_1230.jpg'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 5th century BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Dacheng Men. Confucius Temple, Qufu
+
+      The imposing Dacheng Men, or Great Achievement Gate, leads into the
+      courtyard that houses the main hall (Dacheng Dian). The gate's plain
+      octagon...
     imageUrl: /artifacts/confucianism-1.jpg
-  - title: Rongo Analects 02 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Rongo_Analects_02.jpg'
+  - title: Confucian Traditions Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Qufu_2009_1230.jpg'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 5th century BCE
-    description: The Analects (of Confucius) vol.2 Hachi-itsu....
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Confucian Traditions.
     imageUrl: /artifacts/confucianism-2.jpg
 ---
 

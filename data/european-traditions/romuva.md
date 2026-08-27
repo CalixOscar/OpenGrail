@@ -43,21 +43,23 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Romuva'
     url: 'https://brill.com/search?q=Romuva'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Schloss Rennhof in Hüttenfeld Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Schloss_Rennhof_in_H%C3%BCttenfeld.jpg
     provenance: 'Vilnius, Lithuania'
     period: c. early 20th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Schloss Rennhof in Hüttenfeld. Sitz der Litauischen Gemeinschaft in
+      Deutschland e.V....
     imageUrl: /artifacts/romuva-1.jpg
-  - title: Geriausios dainos 1991-1997 SKYLĖ Canonical Scripture & Iconography
+  - title: Romuva Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Geriausios_dainos_1991-1997_SKYL%C4%96.jpg
+      https://commons.wikimedia.org/wiki/File:Schloss_Rennhof_in_H%C3%BCttenfeld.jpg
     provenance: 'Vilnius, Lithuania'
     period: c. early 20th century CE
-    description: Rock band SKYLE album "Geriausios dainos 1991-1997" cover...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Romuva.
     imageUrl: /artifacts/romuva-2.jpg
 ---
 

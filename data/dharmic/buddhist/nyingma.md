@@ -47,11 +47,10 @@ artifacts:
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 8th century CE
     description: >-
-      Nyingma (Tibetan: རྙིང་མ་, Wylie: rnying ma, Lhasa dialect: [ɲ̟iŋ˥˥.ma˥˥],
-      lit. 'old school'), also referred to as Ngagyur (Tibetan:
-      སྔ་འགྱུར་རྙིང་མ།, Wylie: snga 'gyur rnying ma,...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Nyingma.
     imageUrl: /artifacts/nyingma-1.jpg
-  - title: Nyingma Sacred Scripture & Art
+  - title: Nyingma Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Nyingma'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 8th century CE

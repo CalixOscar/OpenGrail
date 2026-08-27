@@ -46,16 +46,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Tayyibi Ismailism'
     url: 'https://www.cambridge.org/core/search?q=Tayyibi%20Ismailism'
 artifacts:
-  - title: Tayyibi Ismailism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tayyibi_Ismailism'
+  - title: Division of Bohras latest Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Division_of_Bohras_latest.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1130 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Tayyibi Ismailism.
+    description: Divisions of Bohras in tabular form...
     imageUrl: /artifacts/tayyibi-ismailism-1.jpg
-  - title: Tayyibi Ismailism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tayyibi_Ismailism'
+  - title: Irakischer Maler von 1287 001 Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Irakischer_Maler_von_1287_001.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1130 CE
     description: >-

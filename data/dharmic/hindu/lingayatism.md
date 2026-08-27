@@ -46,24 +46,25 @@ sources:
       https://www.rep.routledge.com/search?query=Li%E1%B9%85g%C4%81yat%20Tradition
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      11th 12th century Virupaksha temple, Lakkundi, Karnataka India - 12
+      Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 12th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/lingayatism-1.jpg
-  - title: >-
-      Plam leaf of 11th and 12th Century with Vachanas Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Plam_leaf_of_11th_and_12th_Century_with_Vachanas.jpg
+      https://commons.wikimedia.org/wiki/File:11th_12th_century_Virupaksha_temple,_Lakkundi,_Karnataka_India_-_12.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 12th century CE
     description: >-
-      Plam leaf of 11th and 12th Century with Vachana poems in Kannada
-      language...
+      *The Virupaksha temple – also referred to as Virupaksheshvara temple,
+      Virupaksheshwar temple or Virupaksesvara temple – is a Hindu temple of
+      Shaivism tradition in the eastern side...
+    imageUrl: /artifacts/lingayatism-1.jpg
+  - title: Liṅgāyat Tradition Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:11th_12th_century_Virupaksha_temple,_Lakkundi,_Karnataka_India_-_12.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 12th century CE
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Liṅgāyat Tradition.
     imageUrl: /artifacts/lingayatism-2.jpg
 ---
 

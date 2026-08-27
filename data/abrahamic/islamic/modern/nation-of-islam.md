@@ -42,21 +42,23 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Nation of Islam'
     url: 'https://www.cambridge.org/core/search?q=Nation%20of%20Islam'
 artifacts:
-  - title: Nation of Islam Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nation_of_Islam'
+  - title: Elijah Muhammad and Cassius Clay NYWTS Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Elijah_Muhammad_and_Cassius_Clay_NYWTS.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1930 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Nation of Islam.
+      Elijah Muhammad addresses followers including Muhammad Ali  / World
+      Telegram &amp; Sun photo by Stanley Wolfson....
     imageUrl: /artifacts/nation-of-islam-1.jpg
-  - title: Nation of Islam Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nation_of_Islam'
+  - title: Safavid Qur'an (TIEM 531) Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Safavid_Qur%27an_(TIEM_531).jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1930 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Nation of Islam.
+      Single-volume Qur’an. Copied by Khan Ahmad Sayri. Iran, Shiraz, Safavid
+      period, dated June 1599. Ink, color, and gold on paper. Museum of Turkish
+      and Islamic Arts, Istanbul, TIEM 5...
     imageUrl: /artifacts/nation-of-islam-2.jpg
 ---
 

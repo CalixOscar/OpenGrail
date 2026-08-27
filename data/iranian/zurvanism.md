@@ -43,25 +43,25 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Zurvanism'
     url: 'https://brill.com/search?q=Zurvanism'
 artifacts:
-  - title: Zurvanism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zurvanism'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 4th century BCE
-    description: >-
-      Zurvanism was a fatalistic religious movement of Zoroastrianism in which
-      the divinity Zurvan is a first principle (primordial creator deity) who
-      engendered equal-but-opposite twins...
-    imageUrl: /artifacts/zurvanism-1.jpg
   - title: >-
-      Avesta, translated by Ignacy Pietraszewski Canonical Scripture &
-      Iconography
+      Egyptian - Statue of a Vizier, Usurped by Pa-di-iset - Walters 22203
+      Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Avesta,_translated_by_Ignacy_Pietraszewski.jpg
+      https://commons.wikimedia.org/wiki/File:Egyptian_-_Statue_of_a_Vizier,_Usurped_by_Pa-di-iset_-_Walters_22203.jpg
     provenance: 'Isfahan, Iran'
     period: c. c. 4th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Zurvanism.
+      A remarkable example of the re-use of a work of art, reflecting the course
+      of Egypt's long history, this statue was originally carved to commemorate
+      a powerful government official....
+    imageUrl: /artifacts/zurvanism-1.jpg
+  - title: Dieselpump Preem Avesta Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dieselpump_Preem_Avesta.jpg'
+    provenance: 'Isfahan, Iran'
+    period: c. c. 4th century BCE
+    description: >-
+      A self-service pump for diesel fuel. To the right, a credit card payment
+      terminal. At a  Preem petrol station in Avesta, Dalarna, Sweden....
     imageUrl: /artifacts/zurvanism-2.jpg
 ---
 

@@ -40,21 +40,20 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Twelver Shi''a'
     url: 'https://www.cambridge.org/core/search?q=Twelver%20Shi''a'
 artifacts:
-  - title: Twelver Shi'a Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Twelver_Shi''a'
+  - title: عزاداری شیعیان در ماه محرم 02 Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:%D8%B9%D8%B2%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C_%D8%B4%DB%8C%D8%B9%DB%8C%D8%A7%D9%86_%D8%AF%D8%B1_%D9%85%D8%A7%D9%87_%D9%85%D8%AD%D8%B1%D9%85_02.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Twelver Shi'a.
     imageUrl: /artifacts/twelver-shia-1.jpg
-  - title: Twelver Shi'a Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Twelver_Shi''a'
+  - title: Al-Kafi-first Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Al-Kafi-first.png'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Twelver Shi'a.
+    description: First page from al-kafi manuscript...
     imageUrl: /artifacts/twelver-shia-2.jpg
 ---
 

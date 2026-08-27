@@ -52,11 +52,10 @@ artifacts:
     provenance: 'Rome, Latium, Italy'
     period: c. 1553 CE
     description: >-
-      The Chaldean Catholic Church (Classical Syriac: ܥܕܬܐ ܟܠܕܝܬܐ ܩܬܘܠܝܩܝܬܐ,
-      ʿĒdtā Kalḏāytā Qāṯōlīqāytā; Arabic: الكنيسة الكلدانية, al-Kanīsa
-      al-Kaldāniyya; Latin: Ecclesia Chaldaeorum C...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Chaldean Catholic Church.
     imageUrl: /artifacts/chaldean-catholic-church-1.jpg
-  - title: Chaldean Catholic Church Sacred Scripture & Art
+  - title: Chaldean Catholic Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Chaldean_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1553 CE

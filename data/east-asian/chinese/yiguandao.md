@@ -60,14 +60,17 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Yiguandao.
     imageUrl: /artifacts/yiguandao-1.jpg
-  - title: Yiguandao Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Yiguandao'
+  - title: >-
+      The spirit of humanity, and essence of morality; (IA
+      spiritofhumanity00alba) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_spirit_of_humanity,_and_essence_of_morality;_(IA_spiritofhumanity00alba).pdf
     provenance: 'Nanjing, Jiangsu, China'
     period: c. early 20th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Yiguandao.
-    imageUrl: /artifacts/yiguandao-1.jpg
+    imageUrl: /artifacts/yiguandao-2.jpg
 ---
 
 # Yiguandao

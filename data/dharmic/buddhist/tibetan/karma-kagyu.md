@@ -51,15 +51,17 @@ artifacts:
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
     description: >-
-      Karma Kagyu (Tibetan: ཀརྨ་བཀའ་བརྒྱུད, Wylie: karma bka'-brgyud), or
-      Kamtsang Kagyu (Tibetan: ཀརྨ་ཀཾ་ཚང་, Wylie: kar+ma kaM tshang), is a
-      widely practiced and probably the second-la...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Karma Kagyu.
     imageUrl: /artifacts/karma-kagyu-1.jpg
-  - title: Kanjur Tenjur Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kanjur_Tenjur.jpg'
+  - title: Calligrapher writing Gold Kangyur Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Calligrapher_writing_Gold_Kangyur.jpg
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
-    description: Monastic library with Kanjur and Tanjur on the bookshelves (Riwoche)...
+    description: >-
+      A Bhutanese calligrapher writing Kangyur (Buddhist canon) with gold ink.
+      Thimphu....
     imageUrl: /artifacts/karma-kagyu-2.jpg
 ---
 

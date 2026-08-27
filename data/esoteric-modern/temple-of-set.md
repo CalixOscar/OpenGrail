@@ -45,25 +45,25 @@ sources:
     url: 'https://brill.com/search?q=Temple%20of%20Set'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Ephesus, and the temple of Diana (IA ephesustempleofd00falk) Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Ephesus,_and_the_temple_of_Diana_(IA_ephesustempleofd00falk).pdf
     provenance: 'San Francisco, California, USA'
     period: c. 1975 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Subjects: Temple of Artemis (Ephesus); Temples...'
     imageUrl: /artifacts/temple-of-set-1.jpg
   - title: >-
-      The Book of the Thousand Nights and One Night, Vol 2 Canonical Scripture &
-      Iconography
+      The Book of the Thousand Nights and a Night - Volume 6 Sacred Relics &
+      Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Book_of_the_Thousand_Nights_and_One_Night,_Vol_2.djvu
+      https://commons.wikimedia.org/wiki/File:The_Book_of_the_Thousand_Nights_and_a_Night_-_Volume_6.djvu
     provenance: 'San Francisco, California, USA'
     period: c. 1975 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Temple of Set.
-    imageUrl: /artifacts/temple-of-set-1.jpg
+      Private edition of The Book of the Thousand Nights and a Night - Volume 6
+      corresponding to the Gutenberg edition on English Wikisource...
+    imageUrl: /artifacts/temple-of-set-2.jpg
 ---
 
 # Temple of Set

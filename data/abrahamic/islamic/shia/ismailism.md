@@ -47,17 +47,19 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-
-      Ismailism, known historically and among practitioners as Batiniyya
-      (lit. 'esotericism'), is a denomination of Shia Islam. Like all Shia, the
-      Ismailis emphasize a distinction betwee...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Ismailism.
     imageUrl: /artifacts/ismailism-1.jpg
-  - title: Ismailism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ismailism'
+  - title: Binding of the Qur'an manuscript Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Binding_of_the_Qur%27an_manuscript.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ismailism.
+      Binding of the Qur'an manuscript copied by Şeyh Hamdullah.
+
+      The leather binding is dark-red on the outside and dark-green on the
+      inside. The symmetrical layout on both the inner (do...
     imageUrl: /artifacts/ismailism-2.jpg
 ---
 

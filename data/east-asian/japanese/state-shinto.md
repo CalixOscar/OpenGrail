@@ -46,18 +46,16 @@ artifacts:
     provenance: 'Qufu, Shandong, China'
     period: c. 1868 CE
     description: >-
-      State Shintō (国家神道 or 國家神道, Kokka Shintō) was Imperial Japan's ideological
-      use of the Japanese folk religion and traditions of Shinto. The state
-      exercised control of shrine finance...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with State Shinto.
     imageUrl: /artifacts/state-shinto-1.jpg
-  - title: >-
-      50th Anniv.of Imperial Rescript on Education Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:50th_Anniv.of_Imperial_Rescript_on_Education.jpg
+  - title: State Shinto Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/State_Shinto'
     provenance: 'Qufu, Shandong, China'
     period: c. 1868 CE
-    description: 教育ニ関スル勅語（教育勅語50年）渙発50周年の日本の記念切手...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of State Shinto.
     imageUrl: /artifacts/state-shinto-2.jpg
 ---
 

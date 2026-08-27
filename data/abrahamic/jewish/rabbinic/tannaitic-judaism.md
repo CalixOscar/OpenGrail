@@ -43,16 +43,21 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Tannaitic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Tannaitic%20Judaism'
 artifacts:
-  - title: Tannaitic Judaism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tannaitic_Judaism'
+  - title: >-
+      Capital punishment among the Jews - a paper read before the New York Board
+      of Jewish Ministers (IA capitalpunishmen00pooliala) Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Capital_punishment_among_the_Jews_-_a_paper_read_before_the_New_York_Board_of_Jewish_Ministers_(IA_capitalpunishmen00pooliala).pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 70 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Tannaitic Judaism.
+    description: |-
+      Bibliographical footnotes
+
+      Subjects: Capital punishment (Jewish law)...
     imageUrl: /artifacts/tannaitic-judaism-1.jpg
-  - title: Tannaitic Judaism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tannaitic_Judaism'
+  - title: Tannaitic Judaism Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Capital_punishment_among_the_Jews_-_a_paper_read_before_the_New_York_Board_of_Jewish_Ministers_(IA_capitalpunishmen00pooliala).pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 70 CE
     description: >-

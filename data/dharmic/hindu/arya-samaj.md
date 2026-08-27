@@ -45,21 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Arya%20Samaj'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Arya Samaj R.V. Russell 1916 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Arya_Samaj_R.V._Russell_1916.PNG'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1875 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      "A meeting of the Arya Samāj for investing boys with the sacred thread"
+      from R. V. Russell's 1916 "The Tribes and Castes of the Central Provinces
+      of India--Volume I"....
     imageUrl: /artifacts/arya-samaj-1.jpg
-  - title: Allopanishad in Satyarth Prakash Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Allopanishad_in_Satyarth_Prakash.pdf
+  - title: Arya Samaj Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Arya_Samaj_R.V._Russell_1916.PNG'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1875 CE
-    description: The Variant texts of Allopanishad in Satyarth Prakash...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Arya Samaj.
     imageUrl: /artifacts/arya-samaj-2.jpg
 ---
 

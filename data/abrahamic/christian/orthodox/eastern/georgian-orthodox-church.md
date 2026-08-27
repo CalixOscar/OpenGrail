@@ -49,17 +49,14 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE
     description: >-
-      The Apostolic Autocephalous Orthodox Church of Georgia (Georgian:
-      საქართველოს სამოციქულო ავტოკეფალური მართლმადიდებელი ეკლესია, romanized:
-      sakartvelos samotsikulo avt'ok'epaluri mar...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Georgian Orthodox Church.
     imageUrl: /artifacts/georgian-orthodox-church-1.jpg
-  - title: Georgian Orthodox Church Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Georgian_Orthodox_Church'
+  - title: Nicene latcreed Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Nicene_latcreed.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 4th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Georgian Orthodox Church.
+    description: Nicene Creed in Codex Vat....
     imageUrl: /artifacts/georgian-orthodox-church-2.jpg
 ---
 

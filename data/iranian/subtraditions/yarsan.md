@@ -52,26 +52,24 @@ sources:
     url: 'https://brill.com/search?q=Yarsan'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Views around the Kakaii shrine of Shah Hayas in the village Wardik, with a
+      jamkhana, cemetery, and auxiliary shrines attached 24 Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Views_around_the_Kakaii_shrine_of_Shah_Hayas_in_the_village_Wardik,_with_a_jamkhana,_cemetery,_and_auxiliary_shrines_attached_24.jpg
     provenance: 'Isfahan, Iran'
     period: c. c. 14th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Views around the Kakaii shrine of Shah Hayas in the village Wardik, with a
+      jamkhana, cemetery, and auxiliary shrines attached...
     imageUrl: /artifacts/yarsan-1.jpg
-  - title: >-
-      Poona in bygone days (IA poonainbygoneday00pararich) Canonical Scripture &
-      Iconography
+  - title: Yarsan Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Poona_in_bygone_days_(IA_poonainbygoneday00pararich).pdf
+      https://commons.wikimedia.org/wiki/File:Views_around_the_Kakaii_shrine_of_Shah_Hayas_in_the_village_Wardik,_with_a_jamkhana,_cemetery,_and_auxiliary_shrines_attached_24.jpg
     provenance: 'Isfahan, Iran'
     period: c. c. 14th century CE
-    description: |-
-      Microfilm
-
-      Subjects: Poona (India) -- History...
-    imageUrl: /artifacts/yarsan-1.jpg
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Yarsan.
 ---
 
 # Yarsan

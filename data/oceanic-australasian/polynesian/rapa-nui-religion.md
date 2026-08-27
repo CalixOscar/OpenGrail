@@ -47,18 +47,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Rapa%20Nui%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Routledge-The Mystery of Easter Island-1920-txt Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Routledge-The_Mystery_of_Easter_Island-1920-txt.pdf
     provenance: Rano Raraku (Rapa Nui / Easter Island)
     period: c. c. 1200 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Zweite Ausgabe des Buches von 1919 über die Osterinsel...
     imageUrl: /artifacts/rapa-nui-religion-1.jpg
   - title: >-
       Appendix E- Draft American Samoa watershed plan, cultural resource
-      analysis - USACE-p16021coll7-20227 Canonical Scripture & Iconography
+      analysis - USACE-p16021coll7-20227 Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Appendix_E-_Draft_American_Samoa_watershed_plan,_cultural_resource_analysis_-_USACE-p16021coll7-20227.pdf
     provenance: Rano Raraku (Rapa Nui / Easter Island)
@@ -66,7 +64,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Rapa Nui Religious Traditions.
-    imageUrl: /artifacts/rapa-nui-religion-1.jpg
+    imageUrl: /artifacts/rapa-nui-religion-2.jpg
 ---
 
 # Rapa Nui Religious Traditions

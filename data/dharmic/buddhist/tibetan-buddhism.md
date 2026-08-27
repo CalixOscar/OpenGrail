@@ -47,19 +47,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Tibetan%20Buddhism'
 artifacts:
-  - title: Tibetan Buddhism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tibetan_Buddhism'
+  - title: Tibetan Buddhism- Young Monk Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tibetan_Buddhism-_Young_Monk.jpg'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 7th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Tibetan Buddhism.
     imageUrl: /artifacts/tibetan-buddhism-1.jpg
-  - title: Kanjur Tenjur Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kanjur_Tenjur.jpg'
+  - title: Bhutanese calligrapher writing gold Kangyur Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Bhutanese_calligrapher_writing_gold_Kangyur.jpg
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 7th century CE
-    description: Monastic library with Kanjur and Tanjur on the bookshelves (Riwoche)...
+    description: >-
+      A Bhutanese calligrapher writing Kangyur (Buddhist canon) with ink made
+      from pure gold....
     imageUrl: /artifacts/tibetan-buddhism-2.jpg
 ---
 

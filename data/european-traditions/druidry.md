@@ -43,18 +43,19 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Druidry'
     url: 'https://brill.com/search?q=Modern%20Druidry'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 'Druids, in the early morning glow of the sun Historical Sanctuary'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Druids,_in_the_early_morning_glow_of_the_sun.jpg
     provenance: 'Glastonbury, Somerset, England, UK'
     period: c. 18th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      A group of druids of the Order of Bards Ovates and Druids in the early
+      morning glow of the sun, shortly after having welcomed the sunrise at
+      Stonehenge on the morning of the summer...
     imageUrl: /artifacts/druidry-1.jpg
   - title: >-
       Ancient Britain in the light of modern archæological discoveries (IA
-      ancientbritainin01delm) Canonical Scripture & Iconography
+      ancientbritainin01delm) Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Ancient_Britain_in_the_light_of_modern_arch%C3%A6ological_discoveries_(IA_ancientbritainin01delm).pdf
     provenance: 'Glastonbury, Somerset, England, UK'
@@ -62,7 +63,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Modern Druidry.
-    imageUrl: /artifacts/druidry-1.jpg
+    imageUrl: /artifacts/druidry-2.jpg
 ---
 
 # Modern Druidry

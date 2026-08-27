@@ -45,21 +45,23 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sm%C4%81rta%20Tradition'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Smarth Brahmins (9969593914) Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Smarth_Brahmins_(9969593914).jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: |-
+      Title: Smarth Brahmins
+      Alternative Title: [Smartha Brahmins]
+      Creator: Johnson, William
+      Date: ca. 1855-1862
+      Part Of: Photographs of Western India
+      Series: Photographs of Western Indi...
     imageUrl: /artifacts/smartism-1.jpg
-  - title: LibriVox - The Masque of the Red Death Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:LibriVox_-_The_Masque_of_the_Red_Death.ogg
+  - title: Poe red death byam shaw Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Poe_red_death_byam_shaw.JPG'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
-    description: '"The Masque of the Red Death" read aloud...'
+    description: "Byam Shaw's illustration for Poe's The Masque of the Red Death in \"Selected Tales of Mystery\" (London\_: Sidgwick &amp; Jackson, 1909) on the page to face p. 152 with caption \"Darkn..."
     imageUrl: /artifacts/smartism-2.jpg
 ---
 

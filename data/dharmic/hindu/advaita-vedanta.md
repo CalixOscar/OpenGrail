@@ -42,27 +42,19 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Advaita%20Ved%C4%81nta'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: SwansCygnus olor Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:SwansCygnus_olor.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Cygnus olor (Mute swan) swimming pair in June...
     imageUrl: /artifacts/advaita-vedanta-1.jpg
-  - title: >-
-      The Vedanta-Sutras, transl. George Thibaut, 1890 Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Vedanta-Sutras,_transl._George_Thibaut,_1890.djvu
+  - title: Advaita Vedānta Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:SwansCygnus_olor.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
-    description: |-
-      The Vedanta-Sutras, with the Shankara-Bhasya translated by George Thibaut.
-      Both Volumes (1 &amp; 2) (1890-1896)
-      Part 1 - (Sacred Books of the East - Volume 34)
-      Part 2 - (Sacred Bo...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Advaita Vedānta.
     imageUrl: /artifacts/advaita-vedanta-2.jpg
 ---
 

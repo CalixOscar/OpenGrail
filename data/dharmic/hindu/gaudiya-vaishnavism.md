@@ -51,23 +51,23 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Gau%E1%B8%8D%C4%ABya%20Vai%E1%B9%A3%E1%B9%87avism
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Gaurakisora dasa Babaji ca.1900 Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Gaurakisora_dasa_Babaji_ca.1900.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. early 16th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Gaurakisora Dasa Babaji, a renowned ascetic and saint in Gaudiya
+      Vaisnavism and the guru of Bhaktisiddhanta Sarasvati. Circa 1900....
     imageUrl: /artifacts/gaudiya-vaishnavism-1.jpg
-  - title: >-
-      An illustration from the Bhagavata Purana. Canonical Scripture &
-      Iconography
+  - title: Gauḍīya Vaiṣṇavism Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:An_illustration_from_the_Bhagavata_Purana..jpg
+      https://commons.wikimedia.org/wiki/File:Gaurakisora_dasa_Babaji_ca.1900.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. early 16th century CE
-    description: An illustration from the Bhagavata Purana....
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Gauḍīya Vaiṣṇavism.
     imageUrl: /artifacts/gaudiya-vaishnavism-2.jpg
 ---
 

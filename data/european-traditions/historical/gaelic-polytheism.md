@@ -46,18 +46,15 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gaelic Polytheism'
     url: 'https://brill.com/search?q=Gaelic%20Polytheism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Lady of Cornwall Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lady_of_Cornwall.jpg'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      The Lady of Cornwall Rebecca Gibson (Penzance Gorseth Picture Gallery
+      2007)...
     imageUrl: /artifacts/gaelic-polytheism-1.jpg
-  - title: >-
-      Ireland-stamp-1922-sword-of-light-5p detail Canonical Scripture &
-      Iconography
+  - title: Ireland-stamp-1922-sword-of-light-5p detail Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Ireland-stamp-1922-sword-of-light-5p_detail.jpg
     provenance: 'Old Uppsala, Uppland, Sweden'
@@ -66,7 +63,7 @@ artifacts:
       Detail of 1922/3 Ireland definitive 5p postage stamp making better legible
       the label An Claiḋeaṁ Soluis (An Claidheamh Soluis , "The Sword of
       Light")....
-    imageUrl: /artifacts/gaelic-polytheism-1.jpg
+    imageUrl: /artifacts/gaelic-polytheism-2.jpg
 ---
 
 # Gaelic Polytheism

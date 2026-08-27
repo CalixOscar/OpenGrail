@@ -52,26 +52,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Iranian Zoroastrianism'
     url: 'https://brill.com/search?q=Iranian%20Zoroastrianism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: BehistunRoute Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:BehistunRoute.jpg'
     provenance: 'Isfahan, Iran'
     period: c. c. 7th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      I am visible at lower left, making my way up a chimney. From the top of
+      the chimney the route follows a slight ledge on the rock face up to the
+      right and reaches the ledge below th...
     imageUrl: /artifacts/iranian-zoroastrianism-1.jpg
-  - title: >-
-      Avesta, translated by Ignacy Pietraszewski Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Avesta,_translated_by_Ignacy_Pietraszewski.jpg
+  - title: Iranian Zoroastrianism Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:BehistunRoute.jpg'
     provenance: 'Isfahan, Iran'
     period: c. c. 7th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Iranian Zoroastrianism.
-    imageUrl: /artifacts/iranian-zoroastrianism-1.jpg
 ---
 
 # Iranian Zoroastrianism

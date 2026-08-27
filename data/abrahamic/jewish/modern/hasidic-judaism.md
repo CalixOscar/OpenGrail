@@ -48,12 +48,11 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1740s CE
     description: >-
-      Hasidism (Hebrew: חסידות, romanized: Ḥăsīdūt) or Hasidic Judaism is a
-      religious movement within Judaism that arose in the 18th century as a
-      spiritual revival movement in contempora...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Hasidic Judaism.
     imageUrl: /artifacts/hasidic-judaism-1.jpg
-  - title: Hasidic Judaism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hasidic_Judaism'
+  - title: 20100910bm0031 Tanya Tate Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:20100910bm0031_Tanya_Tate.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1740s CE
     description: >-

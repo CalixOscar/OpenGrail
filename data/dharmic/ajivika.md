@@ -42,16 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C4%80j%C4%ABvika%20Tradition'
 artifacts:
-  - title: Ājīvika Tradition Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika_Tradition'
+  - title: >-
+      Barabar Hill Cave inscription, 6th century Maukhari Anantavarman, 3rd
+      century BCE Ajivika Lomas Rishi Cave, Krishna murti, Vaishnavism Sanskrit
+      Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Barabar_Hill_Cave_inscription,_6th_century_Maukhari_Anantavarman,_3rd_century_BCE_Ajivika_Lomas_Rishi_Cave,_Krishna_murti,_Vaishnavism_Sanskrit.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ājīvika Tradition.
+      An early Gupta era inscription from ancient India, before the Gupta Empire
+      expanded from central India to include northern territories (now Uttar
+      Pradesh, parts of Bihar), previous...
     imageUrl: /artifacts/ajivika-1.jpg
-  - title: Ājīvika Tradition Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika_Tradition'
+  - title: Ājīvika Tradition Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Barabar_Hill_Cave_inscription,_6th_century_Maukhari_Anantavarman,_3rd_century_BCE_Ajivika_Lomas_Rishi_Cave,_Krishna_murti,_Vaishnavism_Sanskrit.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century BCE
     description: >-

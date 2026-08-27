@@ -48,23 +48,19 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=N%C4%81th%20Tradition'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Kindari Jogi 02 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kindari_Jogi_02.JPG'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 11th–12th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Kindari Jogi, a kind of folk performance from Karnataka, India...'
     imageUrl: /artifacts/nath-tradition-1.jpg
-  - title: Goraksha Shataka last folio Thanjavur MS Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Goraksha_Shataka_last_folio_Thanjavur_MS.jpg
+  - title: Nāth Tradition Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kindari_Jogi_02.JPG'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 11th–12th century CE
     description: >-
-      The last folio of the Thanjavur manuscript of the 13th century Hatha yoga
-      text, Goraksha Shataka....
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Nāth Tradition.
     imageUrl: /artifacts/nath-tradition-2.jpg
 ---
 

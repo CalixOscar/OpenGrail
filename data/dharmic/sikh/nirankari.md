@@ -42,22 +42,27 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Nirankari%20Movement'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      The role of moderate Muslims in combating violent Jihad (IA
+      theroleofmoderat109453018) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Amritsar, Punjab, India'
-    period: c. c. 1851 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/nirankari-1.jpg
-  - title: Sri Guru Granth Sahib Nishan Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sri_Guru_Granth_Sahib_Nishan.jpg'
+      https://commons.wikimedia.org/wiki/File:The_role_of_moderate_Muslims_in_combating_violent_Jihad_(IA_theroleofmoderat109453018).pdf
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 1851 CE
     description: >-
-      Illuminated Adi Granth folio with nisan of Guru Gobind Singh. The
-      manuscript is of the Lahore recension, late 17th to early 18th century.
-      Gold and colours on paper; folio size 360...
+      s can play their most useful role only after  the state is able to contain
+      the radicals and secure conditions that are congenial for views different
+      from those of  radicals to be...
+    imageUrl: /artifacts/nirankari-1.jpg
+  - title: Guru Granth Sahib and Dasam Granth together Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Guru_Granth_Sahib_and_Dasam_Granth_together.jpg
+    provenance: 'Amritsar, Punjab, India'
+    period: c. c. 1851 CE
+    description: >-
+      Guru Granth Sahib and Dasam Granth together. Sikh fresco artwork.
+
+      Detailed description: "A Fresco Painting , 1800 CE in Gurdwara Ramsar
+      Sahib that illustrates the Perkash of Sri Da...
     imageUrl: /artifacts/nirankari-2.jpg
 ---
 

@@ -50,16 +50,19 @@ artifacts:
     provenance: 'London, England, UK'
     period: c. 1965 CE
     description: >-
-      Eckankar ( EK-ən-kar) is an American new religious movement founded by
-      Paul Twitchell in 1965. The group’s spiritual home is the Temple of ECK in
-      Chanhassen, Minnesota. Eckankar is...
-  - title: 2013-0718-TempleofEck Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:2013-0718-TempleofEck.jpg'
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Eckankar.
+  - title: >-
+      Bengal tiger in Sanjay Dubri Tiger Reserve December 2024 by Tisha
+      Mukherjee 11 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg
     provenance: 'London, England, UK'
     period: c. 1965 CE
     description: >-
-      Temple of ECK at Eckankar's international headquarters are in Chanhassen,
-      Minnesota, USA....
+      Bengal tiger (Panthera tigris tigris, Felidae, Carnivora) in Sanjay Dubri
+      Tiger Reserve, Madhya Pradesh, India....
+    imageUrl: /artifacts/ekankar-2.jpg
 ---
 
 # Eckankar

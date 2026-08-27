@@ -45,24 +45,23 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Spiritualism'
     url: 'https://brill.com/search?q=Modern%20Spiritualism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Allal-Ming by N Roerich automatic writing 1920 Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Allal-Ming_by_N_Roerich_automatic_writing_1920.jpg
     provenance: 'London, England, UK'
     period: c. 1848 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: |-
+      Н.К.Рерих. Аллал-Минг. 1920.
+      Рисунок, сделанный способом автоматического письма...
     imageUrl: /artifacts/spiritualism-1.jpg
-  - title: >-
-      Was Abraham Lincoln a spiritualist? (IA wasabraham00mayn) Canonical
-      Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Was_Abraham_Lincoln_a_spiritualist%3F_(IA_wasabraham00mayn).pdf
+  - title: Spiritualism Unmasked Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Spiritualism_Unmasked.pdf'
     provenance: 'London, England, UK'
     period: c. 1848 CE
-    description: 'Subjects: Lincoln, Abraham, 1809-1865; Spiritualism...'
-    imageUrl: /artifacts/spiritualism-1.jpg
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Modern Spiritualism.
+    imageUrl: /artifacts/spiritualism-2.jpg
 ---
 
 # Modern Spiritualism

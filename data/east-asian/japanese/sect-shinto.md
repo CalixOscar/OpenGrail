@@ -41,25 +41,27 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Sect%20Shinto'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Primitive religions - being an introduction to the study of religions,
+      with an account of the religious beliefs of uncivilised peoples,
+      Confucianism, Taoism (China), and Shintoism (Japan) (IA b24885903)
+      Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Qufu, Shandong, China'
-    period: c. 19th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/sect-shinto-1.jpg
-  - title: >-
-      A study of the sects (IA studyofsect00lyon) Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_study_of_the_sects_(IA_studyofsect00lyon).pdf
+      https://commons.wikimedia.org/wiki/File:Primitive_religions_-_being_an_introduction_to_the_study_of_religions,_with_an_account_of_the_religious_beliefs_of_uncivilised_peoples,_Confucianism,_Taoism_(China),_and_Shintoism_(Japan)_(IA_b24885903).pdf
     provenance: 'Qufu, Shandong, China'
     period: c. 19th century CE
     description: |-
-      Includes "References"
+      Includes index
 
-      Subjects: Sects; Jews...
+      Subjects: Religions...
+    imageUrl: /artifacts/sect-shinto-1.jpg
+  - title: Sect Shinto Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Primitive_religions_-_being_an_introduction_to_the_study_of_religions,_with_an_account_of_the_religious_beliefs_of_uncivilised_peoples,_Confucianism,_Taoism_(China),_and_Shintoism_(Japan)_(IA_b24885903).pdf
+    provenance: 'Qufu, Shandong, China'
+    period: c. 19th century CE
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Sect Shinto.
     imageUrl: /artifacts/sect-shinto-2.jpg
 ---
 

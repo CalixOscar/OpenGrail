@@ -47,27 +47,23 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=P%C5%ABrva%20M%C4%ABm%C4%81%E1%B9%83s%C4%81
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Vidyashankara Temple at Shringeri Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Vidyashankara_Temple_at_Shringeri.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Vidyasankara temple, Sringeri....'
     imageUrl: /artifacts/purva-mimamsa-1.jpg
   - title: >-
-      The Vedanta-Sutras, transl. George Thibaut, 1890 Canonical Scripture &
-      Iconography
+      The Vedanta-sutras, with the Sri-bhashya of Ramanujacharya Sacred Relics &
+      Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Vedanta-Sutras,_transl._George_Thibaut,_1890.djvu
+      https://commons.wikimedia.org/wiki/File:The_Vedanta-sutras,_with_the_Sri-bhashya_of_Ramanujacharya.djvu
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
-    description: |-
-      The Vedanta-Sutras, with the Shankara-Bhasya translated by George Thibaut.
-      Both Volumes (1 &amp; 2) (1890-1896)
-      Part 1 - (Sacred Books of the East - Volume 34)
-      Part 2 - (Sacred Bo...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Pūrva Mīmāṃsā.
     imageUrl: /artifacts/purva-mimamsa-2.jpg
 ---
 

@@ -55,18 +55,21 @@ artifacts:
     provenance: 'Athens, Attica, Greece'
     period: c. c. 530 BCE
     description: >-
-      Pythagoreanism originated in the 6th century BC, based on and around the
-      teachings and beliefs held by Pythagoras and his followers, the
-      Pythagoreans. Pythagoras established the fi...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Pythagoreanism.
     imageUrl: /artifacts/pythagoreanism-1.jpg
-  - title: Pythagoreanism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pythagoreanism'
+  - title: >-
+      Handbook of the history of philosophy; (IA handbookofhistor00sch) Sacred
+      Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Handbook_of_the_history_of_philosophy;_(IA_handbookofhistor00sch).pdf
     provenance: 'Athens, Attica, Greece'
     period: c. c. 530 BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Pythagoreanism.
-    imageUrl: /artifacts/pythagoreanism-1.jpg
+    description: |-
+      Half-title: Schwegler's history of philosophy
+
+      Subjects: Philosophy...
+    imageUrl: /artifacts/pythagoreanism-2.jpg
 ---
 
 # Pythagoreanism

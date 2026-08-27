@@ -49,31 +49,28 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gaulish Religions'
     url: 'https://brill.com/search?q=Gaulish%20Religions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Origin and Growth of Religion (Rhys) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 600 BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/gaulish-religion-1.jpg
-  - title: >-
-      Catalogue of early-printed, and other interesting books, manuscripts and
-      fine bindings - offered for sale by J. & J. Leighton (IA
-      catalogueofearly00jjle) Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Catalogue_of_early-printed,_and_other_interesting_books,_manuscripts_and_fine_bindings_-_offered_for_sale_by_J._%26_J._Leighton_(IA_catalogueofearly00jjle).pdf
+      https://commons.wikimedia.org/wiki/File:Origin_and_Growth_of_Religion_(Rhys).djvu
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 600 BCE
     description: >-
-      Pt. 10- called also supplement
-
-      Latest issue consulted: Pt. 10
-
-      pt. I. A-B -- pt. II. C -- pt. III. D-F -- pt. IV. G-H -- pt. V. I-M --
-      pt. VI. N-Q -- pt. VII. R-Sh -- pt. VIII. Si-...
+      Lecture of the Origin and Growth of Religion As Illustrated by Celtic
+      Heathendom...
     imageUrl: /artifacts/gaulish-religion-1.jpg
+  - title: >-
+      Greece and the Levant; or, Diary of a summer's excursion in 1834- with
+      epistolary supplements (IA adm1452.0001.001.umich.edu) Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Greece_and_the_Levant;_or,_Diary_of_a_summer%27s_excursion_in_1834-_with_epistolary_supplements_(IA_adm1452.0001.001.umich.edu).pdf
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. c. 600 BCE
+    description: |-
+      Mode of access: Internet
+
+      Subjects:...
+    imageUrl: /artifacts/gaulish-religion-2.jpg
 ---
 
 # Gaulish Religions

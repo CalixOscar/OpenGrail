@@ -46,20 +46,19 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Ryukyuan%20Religion'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Miyako harimizu utaki Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Miyako_harimizu_utaki.jpg'
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Harimizu Utaki, Miyakojima, Okinawa, Japan...'
     imageUrl: /artifacts/ryukyuan-religion-1.jpg
-  - title: Langues japoniques Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Langues_japoniques.png'
+  - title: Ryukyuan Religion Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Miyako_harimizu_utaki.jpg'
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
-    description: "Sources\_:\nAleksandra Jarosz (2017), Japonic languages an overview Jarosz\nAleksandra Jarosz (2019), Non-Core Vocabulary Cognates in Ryukyuan and Kyushu\nAlexander K. Makiyama (2015),..."
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Ryukyuan Religion.
     imageUrl: /artifacts/ryukyuan-religion-2.jpg
 ---
 

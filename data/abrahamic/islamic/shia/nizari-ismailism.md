@@ -42,21 +42,26 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Nizari Ismailism'
     url: 'https://www.cambridge.org/core/search?q=Nizari%20Ismailism'
 artifacts:
-  - title: Nizari Ismailism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nizari_Ismailism'
+  - title: >-
+      Coin of 'Ala' al-Din Muhammad III, Nizari Ismaili Imam Historical
+      Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Coin_of_%27Ala%27_al-Din_Muhammad_III,_Nizari_Ismaili_Imam.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1094 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Nizari Ismailism.
+      ISLAMIC, Persia (Post-Seljuk). Nizari Isma'ilis (Assassins in Persia).
+      'Ala' al-Din Muhammad III. AH 618-653 / AD 1221-1255. AR Fractional Dirham
+      (13mm, 1.78 g, 9h). Album 1921A. V...
     imageUrl: /artifacts/nizari-ismailism-1.jpg
-  - title: Nizari Ismailism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nizari_Ismailism'
+  - title: Holy Quran at the Hazratbal shrine Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Holy_Quran_at_the_Hazratbal_shrine.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1094 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Nizari Ismailism.
+      A copy of the ancient Holy Quran written by Mughal Emperor, Aurangzeb at
+      the Hazratbal shrine in Srinagar...
     imageUrl: /artifacts/nizari-ismailism-2.jpg
 ---
 

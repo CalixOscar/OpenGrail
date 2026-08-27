@@ -43,22 +43,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Western Esotericism'
     url: 'https://brill.com/search?q=Western%20Esotericism'
 artifacts:
-  - title: Western esotericism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_esotericism'
+  - title: Western Esotericism Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Esotericism'
     provenance: 'London, England, UK'
     period: c. late antiquity; modern category
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Western Esotericism.
     imageUrl: /artifacts/western-esotericism-1.jpg
-  - title: Corpus Hermeticum 1643 Canonical Scripture & Iconography
+  - title: Corpus Hermeticum 1643 Sacred Relics & Scripture
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Corpus_Hermeticum_1643.gif'
     provenance: 'London, England, UK'
     period: c. late antiquity; modern category
     description: >-
       Corpus Hermeticum, niederländische Ausgabe von 1643. Deckblatt Corpus
       Hermeticum 1643 (Ausg. F. Patricius)....
-    imageUrl: /artifacts/western-esotericism-1.jpg
+    imageUrl: /artifacts/western-esotericism-2.jpg
 ---
 
 # Western Esotericism

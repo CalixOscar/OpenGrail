@@ -48,24 +48,19 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9A%C4%81kta%20Tantra'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Elements of Hindu Iconography Vol. 1 Part 1 Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Elements_of_Hindu_Iconography_Vol._1_Part_1.pdf
     provenance: 'Kamakhya (Guwahati), Assam, India'
     period: c. c. 6th–8th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: published 1914 in India...
     imageUrl: /artifacts/shakta-tantra-1.jpg
-  - title: Śākta Tantra Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Mukteswar temple Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mukteswar_temple.jpg'
     provenance: 'Kamakhya (Guwahati), Assam, India'
     period: c. c. 6th–8th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Śākta Tantra.
-    imageUrl: /artifacts/shakta-tantra-1.jpg
+    description: A Sculpture showing sexual pose in Mukteswar Temple in odissa...
+    imageUrl: /artifacts/shakta-tantra-2.jpg
 ---
 
 # Śākta Tantra

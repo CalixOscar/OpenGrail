@@ -49,11 +49,10 @@ artifacts:
     provenance: 'Luoyang, Henan, China'
     period: c. c. 6th century CE
     description: >-
-      Chan (traditional Chinese: 禪; simplified Chinese: 禅; pinyin: Chán; abbr.
-      of Chinese: 禪那; pinyin: chánnà), from Sanskrit dhyāna (meaning
-      "meditation" or "meditative state" in Buddhi...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Chan Buddhism.
     imageUrl: /artifacts/chan-1.jpg
-  - title: Chan Buddhism Sacred Scripture & Art
+  - title: Chan Buddhism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Chan_Buddhism'
     provenance: 'Luoyang, Henan, China'
     period: c. c. 6th century CE

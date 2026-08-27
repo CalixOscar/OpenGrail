@@ -50,22 +50,20 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Lao%20Buddhism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Buddha in reclining posture Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddha_in_reclining_posture.jpg'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 14th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: Buddha in Reclining Posture...
     imageUrl: /artifacts/lao-buddhism-1.jpg
-  - title: Tipitaka1 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg'
+  - title: Tripitaka Koreana Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tripitaka_Koreana.jpg'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 14th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Lao Buddhism.
+      The Tripitaka Koreana (lit. Goryeo Tripitaka) or Palman Daejanggyeong
+      ("Eighty-Thousand Tripitaka") is a Korean collection of the Tripitaka
+      (Buddhist scriptures, and the Sanskrit w...
     imageUrl: /artifacts/lao-buddhism-2.jpg
 ---
 

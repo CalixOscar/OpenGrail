@@ -43,16 +43,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Finnic Religions'
     url: 'https://brill.com/search?q=Finnic%20Religions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Gallen-Kallela The defence of the Sampo Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Gallen-Kallela_The_defence_of_the_Sampo.png
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Finnic Religions.
     imageUrl: /artifacts/finnish-religion-1.jpg
-  - title: Indigenous Knowledge for Wikipedia Canonical Scripture & Iconography
+  - title: Indigenous Knowledge for Wikipedia Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Indigenous_Knowledge_for_Wikipedia.pdf
     provenance: 'Old Uppsala, Uppland, Sweden'
@@ -61,7 +61,7 @@ artifacts:
       Pre-release of a book chapter on the conflict of Indigenous knowledge and
       Wikipedia due to the requirement of reliable, published, independent
       sources...
-    imageUrl: /artifacts/finnish-religion-1.jpg
+    imageUrl: /artifacts/finnish-religion-2.jpg
 ---
 
 # Finnic Religions

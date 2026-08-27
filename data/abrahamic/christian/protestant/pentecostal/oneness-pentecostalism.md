@@ -46,22 +46,19 @@ sources:
       Pentecostalism
     url: 'https://www.cambridge.org/core/search?q=Oneness%20Pentecostalism'
 artifacts:
-  - title: Oneness Pentecostalism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Oneness_Pentecostalism'
+  - title: Pentecostals Praising Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Pentecostals_Praising.jpg'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1913 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Oneness Pentecostalism.
+    description: 'Members of the Pentecostal church praising the Lord. Chicago, Illinois...'
     imageUrl: /artifacts/oneness-pentecostalism-1.jpg
-  - title: Oneness Pentecostalism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Oneness_Pentecostalism'
+  - title: Oneness Pentecostalism Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Pentecostals_Praising.jpg'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1913 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Oneness Pentecostalism.
-    imageUrl: /artifacts/oneness-pentecostalism-2.jpg
 ---
 
 # Oneness Pentecostalism

@@ -45,21 +45,17 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Qadiriyya'
     url: 'https://www.cambridge.org/core/search?q=Qadiriyya'
 artifacts:
-  - title: Qadiriyya Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Qadiriyya'
+  - title: Kasnazani Order(Tareeqah) Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kasnazani_Order(Tareeqah).png'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 12th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Qadiriyya.
+    description: Tareeqah Al Aliyyah Al Qadiriyyah Al Kasnazaniyyah...
     imageUrl: /artifacts/qadiriyya-1.jpg
-  - title: Qadiriyya Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Qadiriyya'
+  - title: Hadith1 Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hadith1.png'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Qadiriyya.
+    description: Hatith logo without background....
     imageUrl: /artifacts/qadiriyya-2.jpg
 ---
 

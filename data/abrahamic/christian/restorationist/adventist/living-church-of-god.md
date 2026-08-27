@@ -43,21 +43,23 @@ sources:
       God
     url: 'https://www.cambridge.org/core/search?q=Living%20Church%20of%20God'
 artifacts:
-  - title: Living Church of God Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Living_Church_of_God'
+  - title: >-
+      2008-07-14 The New Free Will Church of the Living God in Durham (front)
+      Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:2008-07-14_The_New_Free_Will_Church_of_the_Living_God_in_Durham_(front).jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1998 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Living Church of God.
+      The New Free Will Church of the Living God on N Mangum St in Durham, North
+      Carolina....
     imageUrl: /artifacts/living-church-of-god-1.jpg
-  - title: Living Church of God Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Living_Church_of_God'
+  - title: 'The Kingdom of God is within you, by Leo Tolstoy Sacred Relics & Scripture'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Kingdom_of_God_is_within_you,_by_Leo_Tolstoy.pdf
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1998 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Living Church of God.
+    description: 'The Kingdom of God is within you, by Leo Tolstoy...'
     imageUrl: /artifacts/living-church-of-god-2.jpg
 ---
 

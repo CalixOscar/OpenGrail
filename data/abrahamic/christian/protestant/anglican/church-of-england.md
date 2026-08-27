@@ -51,12 +51,11 @@ artifacts:
     provenance: 'Canterbury, Kent, England, UK'
     period: c. 1534 CE
     description: >-
-      The Church of England (C of E) is the established Christian church in
-      England and the Crown Dependencies. It was the initial church of the
-      Anglican tradition. The church traces its...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Church of England.
     imageUrl: /artifacts/church-of-england-1.jpg
-  - title: Church of England Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_England'
+  - title: Book of common prayer 1596 Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Book_of_common_prayer_1596.jpg'
     provenance: 'Canterbury, Kent, England, UK'
     period: c. 1534 CE
     description: >-

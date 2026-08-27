@@ -50,14 +50,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Anglicanism.
     imageUrl: /artifacts/anglicanism-1.jpg
-  - title: Anglicanism Sacred Scripture & Art
+  - title: Anglicanism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Anglicanism'
     provenance: 'Canterbury, Kent, England, UK'
     period: c. 1530s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Anglicanism.
-    imageUrl: /artifacts/anglicanism-2.jpg
 ---
 
 # Anglicanism

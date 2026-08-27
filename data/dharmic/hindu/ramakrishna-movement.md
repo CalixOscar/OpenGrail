@@ -45,24 +45,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ramakrishna%20Movement'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Shankarajayanti at shankaracharya hill Srinagar Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1886 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/ramakrishna-movement-1.jpg
-  - title: Ramakrishna Movement Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Shankarajayanti_at_shankaracharya_hill_Srinagar.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1886 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ramakrishna Movement.
+      Book stall by ramakrishna mission Srinagar at shankaracharya hill Srinagar
+      during shankarajayanti...
     imageUrl: /artifacts/ramakrishna-movement-1.jpg
+  - title: Swami Vivekananda Jaipur Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Swami_Vivekananda_Jaipur.jpg'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 1886 CE
+    description: Photo of Swami Vivekananda at Jaipur ( between 1885 - 1895 )...
+    imageUrl: /artifacts/ramakrishna-movement-2.jpg
 ---
 
 # Ramakrishna Movement

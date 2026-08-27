@@ -45,24 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ved%C4%81nta'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: BAPS Detroit Canton 2019 10 10 19 01 26 Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:BAPS_Detroit_Canton_2019_10_10_19_01_26.jpg
     provenance: 'Kanchipuram, Tamil Nadu, India'
     period: c. c. 2nd century BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Front side of BAPS Detroit (Canton), on October 10, 2019, at 19:01:26....'
     imageUrl: /artifacts/vedanta-1.jpg
-  - title: Bhagavata Precepts Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bhagavata_Precepts.pdf'
+  - title: Sanskrit Grammar by Whitney p1 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Sanskrit_Grammar_by_Whitney_p1.djvu
     provenance: 'Kanchipuram, Tamil Nadu, India'
     period: c. c. 2nd century BCE
     description: >-
-      The Bhagavata: Its Philosophy, Its Ethics, and Its Theology (1869) and
-      Life and Precepts of Sri Caitanya Mahaprabhu(1896) by Bhaktivinoda
-      Thakur...
-    imageUrl: /artifacts/vedanta-1.jpg
+      A grammar of the Sanskrit language (part 1 of 2, divided for upload onto
+      Commons)...
+    imageUrl: /artifacts/vedanta-2.jpg
 ---
 
 # Vedānta

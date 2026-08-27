@@ -53,13 +53,14 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Akhbari Twelver Shiism.
     imageUrl: /artifacts/akhbari-twelver-shia-1.jpg
-  - title: Akhbari Twelver Shiism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Akhbari_Twelver_Shiism'
+  - title: Birmingham Quran manuscript Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Birmingham_Quran_manuscript.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 17th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Akhbari Twelver Shiism.
+      Seventh-century Quran manuscript held by the University of Birmingham.
+      Folio 2 recto (left) and folio 1 verso (right). Folio 2 (left) from the
+      end of Chapter 19 to the beginning of...
     imageUrl: /artifacts/akhbari-twelver-shia-2.jpg
 ---
 

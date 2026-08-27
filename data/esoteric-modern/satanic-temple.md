@@ -48,25 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: The Satanic Temple'
     url: 'https://brill.com/search?q=The%20Satanic%20Temple'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: LucienGreavesSASHAcon2016 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:LucienGreavesSASHAcon2016.jpg'
     provenance: 'Boston, Massachusetts, USA'
     period: c. 2013 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: The Satanic Temple co-founder Lucien Greaves speaks at SASHAcon 2016....
     imageUrl: /artifacts/satanic-temple-1.jpg
   - title: >-
       Campbellism exposed - or, Strictures on the peculiar tenets of Alexander
-      Campbell - by William Phillips (IA campbellismexpos01phil) Canonical
-      Scripture & Iconography
+      Campbell - by William Phillips (IA campbellismexpos01phil) Sacred Relics &
+      Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Campbellism_exposed_-_or,_Strictures_on_the_peculiar_tenets_of_Alexander_Campbell_-_by_William_Phillips_(IA_campbellismexpos01phil).pdf
     provenance: 'Boston, Massachusetts, USA'
     period: c. 2013 CE
     description: 'Subjects: Campbell, Alexander, 1788-1866...'
-    imageUrl: /artifacts/satanic-temple-1.jpg
+    imageUrl: /artifacts/satanic-temple-2.jpg
 ---
 
 # The Satanic Temple

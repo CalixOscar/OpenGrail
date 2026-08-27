@@ -46,29 +46,26 @@ sources:
     url: 'https://brill.com/search?q=Alexandrian%20Wicca'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      The Myth of the Burning Times and the Politics of Resistance in
+      Contemporary American Wicca Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'New Forest, Hampshire, England, UK'
-    period: c. 1960s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/alexandrian-wicca-1.jpg
-  - title: >-
-      Philo Judaeus; or, The Jewish-Alexandrian philosophy in its development
-      and completion (IA philojudaeusorje02drum) Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Philo_Judaeus;_or,_The_Jewish-Alexandrian_philosophy_in_its_development_and_completion_(IA_philojudaeusorje02drum).pdf
+      https://commons.wikimedia.org/wiki/File:The_Myth_of_the_Burning_Times_and_the_Politics_of_Resistance_in_Contemporary_American_Wicca.pdf
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1960s CE
     description: >-
-      "The introduction was published, substantially, in 1877 in the form of a
-      college address."
-
-
-      Subjects: Philo, of Alexandria...
+      Omaha: Creighton University, 2000. Glenn Wm. Shuck. “The Myth of the
+      Burning Times and the Politics of Resistance in Contemporary American
+      Wicca.” Journal of Religion &amp; Society...
     imageUrl: /artifacts/alexandrian-wicca-1.jpg
+  - title: >-
+      Books from the Library of Congress (IA compendiumofastr00olms) Sacred
+      Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Books_from_the_Library_of_Congress_(IA_compendiumofastr00olms).pdf
+    provenance: 'New Forest, Hampshire, England, UK'
+    period: c. 1960s CE
+    description: 'Subjects: Astronomy...'
+    imageUrl: /artifacts/alexandrian-wicca-2.jpg
 ---
 
 # Alexandrian Wicca

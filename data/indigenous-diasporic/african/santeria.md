@@ -48,24 +48,20 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Lucum%C3%AD%20%2F%20Regla%20de%20Ocha'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Lucumí / Regla de Ocha Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lucum%C3%AD_%2F_Regla_de_Ocha'
     provenance: 'Havana, Cuba'
     period: c. 19th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/santeria-1.jpg
-  - title: Lucumí / Regla de Ocha Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Lucumí / Regla de Ocha.
+  - title: Lucumí / Regla de Ocha Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lucum%C3%AD_%2F_Regla_de_Ocha'
     provenance: 'Havana, Cuba'
     period: c. 19th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Lucumí / Regla de Ocha.
-    imageUrl: /artifacts/santeria-1.jpg
 ---
 
 # Lucumí / Regla de Ocha

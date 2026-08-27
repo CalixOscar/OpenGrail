@@ -52,17 +52,15 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. 870 CE
     description: >-
-      The Bulgarian Orthodox Church (Bulgarian: Българска православна църква,
-      romanized: Bûlgarska pravoslavna cûrkva), legally the Patriarchate of
-      Bulgaria (Bulgarian: Българска патриар...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Bulgarian Orthodox Church.
     imageUrl: /artifacts/bulgarian-orthodox-church-1.jpg
-  - title: Bulgarian Orthodox Church Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bulgarian_Orthodox_Church'
+  - title: Nicene Creed in cyrillic writing Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Nicene_Creed_in_cyrillic_writing.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 870 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Bulgarian Orthodox Church.
+    description: Nicene Creed in cyrillic writing...
     imageUrl: /artifacts/bulgarian-orthodox-church-2.jpg
 ---
 

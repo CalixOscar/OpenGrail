@@ -54,13 +54,14 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Community of Christ.
     imageUrl: /artifacts/community-of-christ-1.jpg
-  - title: Community of Christ Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Community_of_Christ'
+  - title: 1841 Book of Mormon open to title page Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:1841_Book_of_Mormon_open_to_title_page.jpg
     provenance: 'Independence, Jackson County, Missouri, USA'
     period: c. 1860 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Community of Christ.
+      A photograph of the 1841 First European (London) edition of the Book of
+      Mormon, at the Springs Preserve museum, Las Vegas, Nevada....
     imageUrl: /artifacts/community-of-christ-2.jpg
 ---
 

@@ -52,22 +52,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Jediism'
     url: 'https://brill.com/search?q=Jediism'
 artifacts:
-  - title: Ceremonial Lightsaber Prop & Meditation Focus
-    imageUrl: /artifacts/jediism-lightsaber.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lightsaber'
-    provenance: Modern Popular Mythos & Contemporary Practice
-    period: Late 20th century CE to present
+  - title: Yoda loves me Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Yoda_loves_me.jpg'
+    provenance: 'London, England, UK'
+    period: c. late 20th century CE
+    description: Yoda loves me - a Jedi sticker....
+    imageUrl: /artifacts/jediism-1.jpg
+  - title: North American Domestic Box Office Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:North_American_Domestic_Box_Office.png
+    provenance: 'London, England, UK'
+    period: c. late 20th century CE
     description: >-
-      Iconic symbolic focus device adapted from cinematic mythos into
-      contemporary ethical and meditative ritual.
-  - title: Temple of the Jedi Order Dokuments & Teachings
+      A chart depicting the cumulative domestic box office gross of Avatar
+      (2009), Avengers: Endgame (2019), Avengers: Infinity War (2018), Black
+      Panther (2018), and Star Wars: The Force...
     imageUrl: /artifacts/jediism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jediism'
-    provenance: Worldwide Online Communities
-    period: 2005 CE - Present
-    description: >-
-      Documented 16 Teachings and 21 Maxims establishing philosophical Jediism
-      as a lived ethical discipline.
 ---
 
 # Jediism

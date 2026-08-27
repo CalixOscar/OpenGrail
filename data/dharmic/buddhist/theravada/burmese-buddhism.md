@@ -47,22 +47,23 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Burmese%20Buddhism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 11th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/burmese-buddhism-1.jpg
-  - title: Tipitaka1 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg'
+  - title: Buddhism Myanmar 1 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddhism_Myanmar_1.jpg'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 11th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Burmese Buddhism.
+      Shwedagon in Yangon is the most sacred Buddhist pagoda in Myanmar.
+      Buddhists pray at the pagoda to remember the Buddha’s teachings and share
+      their good deeds with all living things...
+    imageUrl: /artifacts/burmese-buddhism-1.jpg
+  - title: TipitakaGoldPlates Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:TipitakaGoldPlates.jpg'
+    provenance: 'Anuradhapura, North Central, Sri Lanka'
+    period: c. c. 11th century CE
+    description: >-
+      Text fragments from the Tipiṭaka in Pāḷi , written in Pyu script, on gold
+      plates which were excavated at Maunggan, Burma. Pyu kingdoms, 5th century.
+      British Library, Or.5340/A–B...
     imageUrl: /artifacts/burmese-buddhism-2.jpg
 ---
 

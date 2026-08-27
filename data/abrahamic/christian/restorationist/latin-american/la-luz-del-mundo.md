@@ -48,17 +48,19 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1926 CE
     description: >-
-      The Iglesia del Dios Vivo, Columna y Apoyo de la Verdad, La Luz del Mundo
-      (Spanish: [iˈɣlesja ðel ˈdjos ˈβiβo koˈlumnaj aˈpoʝo ðe la βeɾˈðað la ˈlus
-      ðel ˈmundo] ; English: "Church...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with La Luz del Mundo.
     imageUrl: /artifacts/la-luz-del-mundo-1.jpg
-  - title: La Luz del Mundo Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/La_Luz_del_Mundo'
+  - title: >-
+      Basel Museum der Kulturen Statue funéraire Indonésie 25102013 1 Sacred
+      Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Basel_Museum_der_Kulturen_Statue_fun%C3%A9raire_Indon%C3%A9sie_25102013_1.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1926 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of La Luz del Mundo.
+      Grave figure, marlstone, Indonesia. Alfred Bühler expedition in 1949.
+      Museum der Kulturen in Basel....
     imageUrl: /artifacts/la-luz-del-mundo-2.jpg
 ---
 

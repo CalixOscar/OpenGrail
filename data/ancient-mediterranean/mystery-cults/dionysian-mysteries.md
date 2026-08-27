@@ -58,7 +58,7 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Dionysian Mysteries.
     imageUrl: /artifacts/dionysian-mysteries-1.jpg
-  - title: Dionysian Mysteries Sacred Scripture & Art
+  - title: Dionysian Mysteries Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Dionysian_Mysteries'
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 6th century BCE

@@ -56,17 +56,18 @@ artifacts:
     provenance: 'Boston, Massachusetts, USA'
     period: c. 1879 CE
     description: >-
-      The Church of Christ, Scientist is a Christian new religious movement
-      founded in 1879 in Boston, Massachusetts, by Mary Baker Eddy, the author
-      of Science and Health with Key to the...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Church of Christ, Scientist.
     imageUrl: /artifacts/christian-science-1.jpg
-  - title: 'Church of Christ, Scientist Sacred Scripture & Art'
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Christ%2C_Scientist'
+  - title: 'Science and Health, 1875, cover page Sacred Relics & Scripture'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Science_and_Health,_1875,_cover_page.jpg
     provenance: 'Boston, Massachusetts, USA'
     period: c. 1879 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Church of Christ, Scientist.
+      Science and Health (1875) by Mary Baker Eddy, probably the first edition.
+      It uses her surname (Glover) from her first husband, and therefore was
+      before her marriage to her third hu...
     imageUrl: /artifacts/christian-science-2.jpg
 ---
 

@@ -50,24 +50,30 @@ sources:
     url: >-
       https://ich.unesco.org/en/search?q=Hoodoo%20%2F%20African%20American%20Conjure
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Salvador da Bahia, Brazil'
-    period: c. 18th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/hoodoo-1.jpg
-  - title: 'Brer Bear and Brer Fox, 1881 Canonical Scripture & Iconography'
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Brer_Bear_and_Brer_Fox,_1881.jpg'
+  - title: Kongo Cosmogram 3 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kongo_Cosmogram_3.png'
     provenance: 'Salvador da Bahia, Brazil'
     period: c. 18th century CE
     description: >-
-      Br'er Fox and Br'er Bear from Uncle Remus, His Songs and His Sayings: The
-      Folk-Lore of the Old Plantation, by Joel Chandler Harris, p. 101.
-      Illustrations by Frederick S. Church and...
+      The Yowa, or Dikenga Cross, is a symbol in Bakongo spirituality that
+      depicts the physical world, the spiritual (ancestral) world, the Kalûnga
+      river (line) that runs between the two...
     imageUrl: /artifacts/hoodoo-1.jpg
+  - title: >-
+      African Repository (IA africanreposito3610amer 1) Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:African_Repository_(IA_africanreposito3610amer_1).pdf
+    provenance: 'Salvador da Bahia, Brazil'
+    period: c. 18th century CE
+    description: >-
+      Paper holdings: v.26, no. 9-v. 32, 35-52, 54-68 (1850-1892) in Luce
+      Special Collections SCC #8629
+
+      Microform holdings: v26 no 9-v68 no 1; 1850-92 Microfilm no.3003:5-9
+
+      Subjects:...
+    imageUrl: /artifacts/hoodoo-2.jpg
 ---
 
 # Hoodoo / African American Conjure

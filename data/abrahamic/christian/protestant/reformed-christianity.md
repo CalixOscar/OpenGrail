@@ -52,14 +52,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Reformed Christianity.
     imageUrl: /artifacts/reformed-christianity-1.jpg
-  - title: Reformed Christianity Sacred Scripture & Art
+  - title: Reformed Christianity Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Reformed_Christianity'
     provenance: 'Geneva, Switzerland'
     period: c. 1520s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Reformed Christianity.
-    imageUrl: /artifacts/reformed-christianity-2.jpg
 ---
 
 # Reformed Christianity

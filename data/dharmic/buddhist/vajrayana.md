@@ -46,25 +46,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vajray%C4%81na%20Buddhism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/vajrayana-1.jpg
-  - title: >-
-      17th century Central Tibeten thanka of Guhyasamaja Akshobhyavajra, Rubin
-      Museum of Art Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:17th_century_Central_Tibeten_thanka_of_Guhyasamaja_Akshobhyavajra,_Rubin_Museum_of_Art.jpg
+  - title: Buddhist sects Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddhist_sects.png'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE
     description: >-
-      17th century Central Tibetan thanka of Guhyasamaja Akshobhyavajra, Rubin
-      Museum of Art...
+      Map of the main modern Buddhist sects, source is Rupert Gethin's the
+      Foundations of Buddhism, pg xvi...
+    imageUrl: /artifacts/vajrayana-1.jpg
+  - title: Vajrayāna Buddhism Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddhist_sects.png'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 6th century CE
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Vajrayāna Buddhism.
     imageUrl: /artifacts/vajrayana-2.jpg
 ---
 

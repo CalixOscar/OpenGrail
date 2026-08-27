@@ -50,24 +50,26 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Forn Siðr'
     url: 'https://brill.com/search?q=Forn%20Si%C3%B0r'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. 1970s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/forn-sidr-1.jpg
-  - title: 'Brate, Sämunds Edda (1913) Omslag Canonical Scripture & Iconography'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Brate,_S%C3%A4munds_Edda_(1913)_Omslag.jpg
+  - title: Runestone Forn Sidr Jelling 01 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Runestone_Forn_Sidr_Jelling_01.JPG'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE
     description: >-
-      Sämunds Edda (1913), the first edition of Erik Brate's translation from
-      Icelandic to Swedish of the Poetic Edda (also known as the Elder Edda)....
+      Runestone from the danish pagan society Forn Siðr, the official stone
+      setting was in november 2006 near Jelling....
     imageUrl: /artifacts/forn-sidr-1.jpg
+  - title: >-
+      Afzelius, Edda Sæmundar hinns Fróda (1818) titelblad Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Afzelius,_Edda_S%C3%A6mundar_hinns_Fr%C3%B3da_(1818)_titelblad.jpg
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. 1970s CE
+    description: >-
+      The title-page of Edda Sæmundar hins fróda published by Arvid August
+      Afzelius in the year 1818. Printed in Stockholm in the year 1818. Edda
+      Sæmundar is also called the Elder Edda o...
+    imageUrl: /artifacts/forn-sidr-2.jpg
 ---
 
 # Forn Siðr

@@ -43,25 +43,24 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Akan%20Religion'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      COLLECTIE TROPENMUSEUM Aardewerken pot met deksel versierd met slangen en
+      schorpioenen TMnr 4918-36a Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Kumasi, Ashanti Empire, Ghana'
-    period: c. precolonial era
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/akan-religion-1.jpg
-  - title: >-
-      Filming of the Yoruba oral traditions project Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
+      https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Aardewerken_pot_met_deksel_versierd_met_slangen_en_schorpioenen_TMnr_4918-36a.jpg
     provenance: 'Kumasi, Ashanti Empire, Ghana'
     period: c. precolonial era
     description: >-
-      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
-      Ṣànpọ̀ná...
+      De pot wordt volgens Cole (1977: 119) gebruikt bij begrafenissen. Zulke
+      potten worden 'abusua kuruwa' genoemd oftewel 'clan' of 'familie' potten.
+      Ze worden vaak aangetroffen in de...
     imageUrl: /artifacts/akan-religion-1.jpg
+  - title: Filming of the Yoruba oral traditions projects Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_projects.jpg
+    provenance: 'Kumasi, Ashanti Empire, Ghana'
+    period: c. precolonial era
+    description: Filming of the Yoruba oral traditions projects....
+    imageUrl: /artifacts/akan-religion-2.jpg
 ---
 
 # Akan Religion

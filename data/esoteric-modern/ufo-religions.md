@@ -50,23 +50,30 @@ sources:
     url: 'https://brill.com/search?q=UFO%20Religions'
 artifacts:
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      Cosmic Circle Fellowship advertisement, April 16, 1972 Historical
+      Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'London, England, UK'
-    period: c. mid-20th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/ufo-religions-1.jpg
-  - title: UFO Religions Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Cosmic_Circle_Fellowship_advertisement,_April_16,_1972.png
     provenance: 'London, England, UK'
     period: c. mid-20th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of UFO Religions.
+      Newspaper advertisement for the Cosmic Circle of Fellowship UFO
+      religion....
     imageUrl: /artifacts/ufo-religions-1.jpg
+  - title: >-
+      The microscope and its revelations (1856) (14776099884) Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_microscope_and_its_revelations_(1856)_(14776099884).jpg
+    provenance: 'London, England, UK'
+    period: c. mid-20th century CE
+    description: |-
+      Identifier: microscopeitsrev1856carp (find matches)
+      Title: The microscope and its revelations
+      Year: 1856 (1850s)
+      Authors:  Carpenter, William Benjamin, 1813-1885
+      Subjects:  Micros...
+    imageUrl: /artifacts/ufo-religions-2.jpg
 ---
 
 # UFO Religions

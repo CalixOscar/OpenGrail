@@ -42,21 +42,23 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Second%20Temple%20Judaism'
 artifacts:
-  - title: Second Temple Judaism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Second_Temple_Judaism'
+  - title: Jews and Judaism in America (Ezra) Historical Sanctuary
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Jews_and_Judaism_in_America_(Ezra).djvu
     provenance: 'Jerusalem, Southern Levant'
     period: c. 516 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Second Temple Judaism.
+      Lecture Delivered Before a Meeting of the Literary Circle of the Shanghai
+      Zionist Association...
     imageUrl: /artifacts/second-temple-judaism-1.jpg
-  - title: Second Temple Judaism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Second_Temple_Judaism'
+  - title: >-
+      Hebrew Bible, Vetus Testamentum, Brescia 1494 - 01 Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Hebrew_Bible,_Vetus_Testamentum,_Brescia_1494_-_01.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 516 BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Second Temple Judaism.
+    description: 'Illuminated page from a Hebrew Bible, Vetus Testamentum, Brescia 1494....'
     imageUrl: /artifacts/second-temple-judaism-2.jpg
 ---
 

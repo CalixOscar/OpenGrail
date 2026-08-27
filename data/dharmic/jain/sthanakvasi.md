@@ -43,24 +43,27 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Sth%C4%81nakav%C4%81s%C4%AB%20Jainism
 artifacts:
+  - title: Jain Sthanakvasi monk Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Jain_Sthanakvasi_monk.jpg'
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. 15th century CE
+    description: Jain Sthanakvasi monk in Meditation...
+    imageUrl: /artifacts/sthanakvasi-1.jpg
   - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+      A King and a Monk (recto); Text (verso); Folio from an Uttaradhyayanasutra
+      LACMA AC1993.225.1 Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:A_King_and_a_Monk_(recto);_Text_(verso);_Folio_from_an_Uttaradhyayanasutra_LACMA_AC1993.225.1.jpg
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. 15th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/sthanakvasi-1.jpg
-  - title: Sthānakavāsī Jainism Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. 15th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Sthānakavāsī Jainism.
-    imageUrl: /artifacts/sthanakvasi-1.jpg
+    description: |-
+      India, Gujarat, circa 1450
+      Manuscripts
+      Ink and opaque watercolor with mica on paper
+      4 1/4 x 10 1/4 in. (10.8 x 26.04 cm)
+      Gift of Gursharan and Elvira Sidhu (AC1993.225.1)
+      South an...
+    imageUrl: /artifacts/sthanakvasi-2.jpg
 ---
 
 # Sthānakavāsī Jainism

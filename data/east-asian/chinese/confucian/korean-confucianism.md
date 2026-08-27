@@ -49,26 +49,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Korean%20Confucian%20Traditions
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 4th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/korean-confucianism-1.jpg
-  - title: >-
-      The Chinese Classics - Legge - 2nd ed - 1893 - Vol 1 Canonical Scripture &
-      Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Chinese_Classics_-_Legge_-_2nd_ed_-_1893_-_Vol_1.djvu
+  - title: Portrait of Han Wonjin Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Portrait_of_Han_Wonjin.jpg'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 4th century CE
     description: >-
-      Vols. 1-2, 2d edition revised, 1893-95, printed at the Clarendon press,
-      Oxford; v. 3-5, printed at the London missionary society's printing
-      office, Hongkong, are a reissue of the...
+      Portrait of Han Wonjin, Chungcheongbuk-do Tangible Cultural Property No.
+      334...
+    imageUrl: /artifacts/korean-confucianism-1.jpg
+  - title: >-
+      The teaching of reading- a manual to accompany Everyday classics, books
+      seven and eight (IA teachingofreadin00bake) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_teaching_of_reading-_a_manual_to_accompany_Everyday_classics,_books_seven_and_eight_(IA_teachingofreadin00bake).pdf
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 4th century CE
+    description: 'Subjects: Reading (Elementary)...'
     imageUrl: /artifacts/korean-confucianism-2.jpg
 ---
 

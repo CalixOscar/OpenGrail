@@ -55,7 +55,7 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with New Prophecy Movement (Montanism).
     imageUrl: /artifacts/montanism-1.jpg
-  - title: New Prophecy Movement (Montanism) Sacred Scripture & Art
+  - title: New Prophecy Movement (Montanism) Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/New_Prophecy_Movement'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 160 CE

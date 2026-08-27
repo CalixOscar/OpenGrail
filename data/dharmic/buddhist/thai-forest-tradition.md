@@ -51,13 +51,15 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Thai Forest Tradition.
     imageUrl: /artifacts/thai-forest-tradition-1.jpg
-  - title: Tipitaka1 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg'
+  - title: Tripiṭaka in Ubosot of Wat Kungtaphao Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Tripi%E1%B9%ADaka_in_Ubosot_of_Wat_Kungtaphao.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1900 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Thai Forest Tradition.
+      Pāli Canon (Tripiṭaka)in Ubosot of Wat Kungtaphao Location: Wat Khung
+      Taphao Ban Khung Taphao, Khung Taphao subdistrict, Mueang Uttaradit,
+      Uttaradit Province, Thailand....
     imageUrl: /artifacts/thai-forest-tradition-2.jpg
 ---
 

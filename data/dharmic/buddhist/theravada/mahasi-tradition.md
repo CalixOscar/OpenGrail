@@ -48,16 +48,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81s%C4%AB%20Tradition'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: 10.11648.j.ijalt.20160201.11 Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:10.11648.j.ijalt.20160201.11.pdf'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 1930s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      The Endangerment of the Nubiin Language: Sociolinguistics, Language Policy
+      and Literacy Perspectives...
     imageUrl: /artifacts/mahasi-tradition-1.jpg
-  - title: Meopta MN 10 (5726) Canonical Scripture & Iconography
+  - title: Meopta MN 10 (5726) Sacred Relics & Scripture
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Meopta_MN_10_(5726).jpg'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 1930s CE

@@ -46,22 +46,25 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sri%20Lankan%20Buddhism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 3rd century BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/sri-lankan-buddhism-1.jpg
-  - title: Tipitaka1 Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg'
+  - title: Buddhism sri-lanka Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddhism_sri-lanka.jpg'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 3rd century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Sri Lankan Buddhism.
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Sri Lankan Buddhism.
+    imageUrl: /artifacts/sri-lankan-buddhism-1.jpg
+  - title: >-
+      Fragment of "Extracts from the Pali canon (Tipitaka) and Story of Phra
+      Malai" (CBL Thi 1312) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Fragment_of_%22Extracts_from_the_Pali_canon_(Tipitaka)_and_Story_of_Phra_Malai%22_(CBL_Thi_1312).jpg
+    provenance: 'Anuradhapura, North Central, Sri Lanka'
+    period: c. c. 3rd century BCE
+    description: >-
+      Fragment of Thai folding book (samut khoi) containing extracts from the
+      Pali canon (Tipitaka) and Story of Phra Malai, the text illustrated with
+      scenes from the jataka tales and th...
     imageUrl: /artifacts/sri-lankan-buddhism-2.jpg
 ---
 

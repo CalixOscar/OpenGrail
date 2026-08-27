@@ -46,18 +46,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Tlingit%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Image from page 538 of "Bulletin" (1901) Historical Sanctuary
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Image_from_page_538_of_%22Bulletin%22_(1901).jpg
     provenance: 'Sitka (Tlingit Territory), Alaska, USA'
     period: c. precolonial
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: "Title: Bulletin\nIdentifier: bulletin3011907smit\nYear: 1901 (1900s)\nAuthors: Smithsonian Institution. Bureau of American Ethnology\nSubjects: Ethnology\nPublisher: Washington\_: G. P...."
     imageUrl: /artifacts/tlingit-religions-1.jpg
   - title: >-
       Ancient oral records of the Cimri, or Britons, in Asia and Europe (IA
-      ancientoralrecor00beau) Canonical Scripture & Iconography
+      ancientoralrecor00beau) Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Ancient_oral_records_of_the_Cimri,_or_Britons,_in_Asia_and_Europe_(IA_ancientoralrecor00beau).pdf
     provenance: 'Sitka (Tlingit Territory), Alaska, USA'
@@ -65,7 +63,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Tlingit Religious Traditions.
-    imageUrl: /artifacts/tlingit-religions-1.jpg
+    imageUrl: /artifacts/tlingit-religions-2.jpg
 ---
 
 # Tlingit Religious Traditions

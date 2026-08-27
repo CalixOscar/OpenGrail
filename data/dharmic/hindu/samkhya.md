@@ -44,16 +44,13 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=S%C4%81%E1%B9%83khya'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Evolution in Samkhya Japanese Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Evolution_in_Samkhya_Japanese.png'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: ​サーンキヤ哲学における世界展開（二十五諦）...
     imageUrl: /artifacts/samkhya-1.jpg
-  - title: गौडपादकारिका Canonical Scripture & Iconography
+  - title: गौडपादकारिका Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:%E0%A4%97%E0%A5%8C%E0%A4%A1%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE.pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -62,7 +59,7 @@ artifacts:
       Gaudapada-Karika in Sanskrit, Edited With A Complete Translation Into
       English, Notes, Introduction and Appendices - By Raghunath Damodar
       Karmarkar...
-    imageUrl: /artifacts/samkhya-1.jpg
+    imageUrl: /artifacts/samkhya-2.jpg
 ---
 
 # Sāṃkhya

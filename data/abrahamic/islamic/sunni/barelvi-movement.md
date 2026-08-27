@@ -52,21 +52,21 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Barelvi Movement'
     url: 'https://www.cambridge.org/core/search?q=Barelvi%20Movement'
 artifacts:
-  - title: Barelvi movement Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Barelvi_movement'
+  - title: Barelvi Movement Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Barelvi_Movement'
     provenance: 'Jerusalem, Southern Levant'
     period: c. late 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Barelvi Movement.
     imageUrl: /artifacts/barelvi-movement-1.jpg
-  - title: Barelvi Movement Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Barelvi_movement'
+  - title: DargahAlahazrat Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:DargahAlahazrat.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. late 19th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Barelvi Movement.
+      A back view of Dargah Aala Hazrat which is situated in Soudagaran Baraily
+      in India...
     imageUrl: /artifacts/barelvi-movement-2.jpg
 ---
 

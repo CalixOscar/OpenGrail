@@ -54,8 +54,8 @@ artifacts:
       associated with Wicca.
     imageUrl: /artifacts/wicca-1.jpg
   - title: >-
-      What Men Want - Initial Thoughts on the Male Goddess Movement Canonical
-      Scripture & Iconography
+      What Men Want - Initial Thoughts on the Male Goddess Movement Sacred
+      Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:What_Men_Want_-_Initial_Thoughts_on_the_Male_Goddess_Movement.pdf
     provenance: 'New Forest, Hampshire, England, UK'
@@ -66,7 +66,7 @@ artifacts:
       Netherlands: Igitur Publishing.
 
       Senio...
-    imageUrl: /artifacts/wicca-1.jpg
+    imageUrl: /artifacts/wicca-2.jpg
 ---
 
 # Wicca

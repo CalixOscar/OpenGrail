@@ -42,21 +42,23 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ibadi Islam'
     url: 'https://www.cambridge.org/core/search?q=Ibadi%20Islam'
 artifacts:
-  - title: Ibadi Islam Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ibadi_Islam'
+  - title: Ghardaia Hochzeit Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ghardaia_Hochzeit.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 7th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ibadi Islam.
+    description: 'Presentation of the Berber Cavalry, wedding ceremony, Ghardaia, Algeria...'
     imageUrl: /artifacts/ibadi-islam-1.jpg
-  - title: Ibadi Islam Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ibadi_Islam'
+  - title: >-
+      Page from the Qur'an manuscript (TIEM 402, f. 1b) Sacred Relics &
+      Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Page_from_the_Qur%27an_manuscript_(TIEM_402,_f._1b).jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 7th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ibadi Islam.
+      Page from the Qur'an manuscript copied by Şeyh Hamdullah. Finished
+      (aharlı) paper, ink, watercolour, gilding. 33.5 x 23.5 cm. Naskh script.
+      Istanbul, April 1494. Turkish and Islami...
     imageUrl: /artifacts/ibadi-islam-2.jpg
 ---
 

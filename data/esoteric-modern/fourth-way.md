@@ -46,25 +46,25 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: The Fourth Way'
     url: 'https://brill.com/search?q=The%20Fourth%20Way'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 'Gyumri, lugar donde vivió Gurdjieff (barrio griego) Historical Sanctuary'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Gyumri,_lugar_donde_vivi%C3%B3_Gurdjieff_(barrio_griego).JPG
     provenance: 'London, England, UK'
     period: c. early 20th century CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Gyumri, lugar donde nació Gurdjieff (Jorge Sanchez)...'
     imageUrl: /artifacts/fourth-way-1.jpg
-  - title: Georges Gurdjieff dead Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Georges_Gurdjieff_dead.JPG'
+  - title: Georges Gurdjieff Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Georges_Gurdjieff.jpg'
     provenance: 'London, England, UK'
     period: c. early 20th century CE
-    description: >-
-      Gurdjieff, Georges Ivanovitch, 1872-1949--Death &amp;
-      burial--France--Paris.
+    description: |-
+      Georges Gurdjieff, head-and-shoulders portrait, facing front
+      CALL NUMBER:LOT 13259, v. 21 no. 88c [P&amp;P]
+      DIGITAL ID:(b&amp;w film copy neg.) cph 3e02223
+      CARD #:95510885
 
-      Lying in state--1940-1950...
-    imageUrl: /artifacts/fourth-way-1.jpg
+      REPRODU...
+    imageUrl: /artifacts/fourth-way-2.jpg
 ---
 
 # The Fourth Way

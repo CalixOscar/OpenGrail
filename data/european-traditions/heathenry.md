@@ -44,16 +44,15 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Heathenry'
     url: 'https://brill.com/search?q=Heathenry'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Walpurgisnacht Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Walpurgisnacht.jpg'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      Kupferstich von W. Jury nach Johann Heinrich Ramberg - Walpurgisnachtszene
+      aus Faust 1...
     imageUrl: /artifacts/heathenry-1.jpg
-  - title: 'Brate, Sämunds Edda (1913) Omslag Canonical Scripture & Iconography'
+  - title: 'Brate, Sämunds Edda (1913) Omslag Sacred Relics & Scripture'
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Brate,_S%C3%A4munds_Edda_(1913)_Omslag.jpg
     provenance: 'Old Uppsala, Uppland, Sweden'
@@ -61,7 +60,7 @@ artifacts:
     description: >-
       Sämunds Edda (1913), the first edition of Erik Brate's translation from
       Icelandic to Swedish of the Poetic Edda (also known as the Elder Edda)....
-    imageUrl: /artifacts/heathenry-1.jpg
+    imageUrl: /artifacts/heathenry-2.jpg
 ---
 
 # Heathenry

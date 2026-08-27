@@ -43,27 +43,20 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Kemetism'
     url: 'https://brill.com/search?q=Kemetism'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Kemetism Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Kemetism'
     provenance: 'London, England, UK'
     period: c. 1970s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/kemetism-1.jpg
-  - title: >-
-      A history of art in ancient Egypt (1883) (14770323374) Canonical Scripture
-      & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_history_of_art_in_ancient_Egypt_(1883)_(14770323374).jpg
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Kemetism.
+  - title: Kemetism Canonical Scripture & Iconography
+    sourceUrl: 'https://en.wikipedia.org/wiki/Kemetism'
     provenance: 'London, England, UK'
     period: c. 1970s CE
-    description: |-
-      Identifier: historyofartinan01perruoft (find matches)
-      Title: A history of art in ancient Egypt
-      Year: 1883 (1880s)
-      Authors:  Perrot, Georges, 1832-1914 Chipiez, Charles, 1835-1901...
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Kemetism.
     imageUrl: /artifacts/kemetism-2.jpg
 ---
 

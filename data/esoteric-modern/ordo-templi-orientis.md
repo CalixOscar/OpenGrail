@@ -49,21 +49,21 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ordo Templi Orientis'
     url: 'https://brill.com/search?q=Ordo%20Templi%20Orientis'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Ordo Templi Orientis Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ordo_Templi_Orientis'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. c. 1902 CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/ordo-templi-orientis-1.jpg
-  - title: Liber AL Front Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Liber_AL_Front.jpg'
+    description: >-
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Ordo Templi Orientis.
+  - title: (Ordo Templi Orientis Mundi) Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:(Ordo_Templi_Orientis_Mundi).JPG'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. c. 1902 CE
-    description: Frontpage from a published versions of Liber AL vel Legis...
-    imageUrl: /artifacts/ordo-templi-orientis-1.jpg
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Ordo Templi Orientis.
+    imageUrl: /artifacts/ordo-templi-orientis-2.jpg
 ---
 
 # Ordo Templi Orientis

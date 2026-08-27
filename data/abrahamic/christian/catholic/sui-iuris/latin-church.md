@@ -48,17 +48,14 @@ artifacts:
     provenance: 'Rome, Latium, Italy'
     period: c. c. 1st century CE
     description: >-
-      The Latin Church (Latin: Ecclesia Latina) is the largest autonomous (sui
-      iuris) particular church within the Catholic Church, whose members
-      constitute the vast majority of the 1.3...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Latin Church.
     imageUrl: /artifacts/latin-church-1.jpg
-  - title: Latin Church Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Latin_Church'
+  - title: Catholic Holy bible Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Catholic_Holy_bible.png'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 1st century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Latin Church.
+    description: Catholic Holy bible...
     imageUrl: /artifacts/latin-church-2.jpg
 ---
 

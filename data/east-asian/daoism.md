@@ -49,21 +49,24 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Daoist%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: 'Daoist Figures, attributed to Liu Jun Historical Sanctuary'
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Daoist_Figures,_attributed_to_Liu_Jun.jpg
     provenance: 'Qufu, Shandong, China'
     period: c. c. 4th century BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: >-
+      "Three figures stand in a mountainous landscape and bid farewell to each
+      other. Their attributes identify them as three of the Eight Immortals from
+      the Daoist tradition. The Eight...
     imageUrl: /artifacts/daoism-1.jpg
-  - title: 'Lao-tseu - Tao Te King, Chapitre 30 Canonical Scripture & Iconography'
+  - title: 石濤 tao te ching Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Lao-tseu_-_Tao_Te_King,_Chapitre_30.ogg
+      https://commons.wikimedia.org/wiki/File:%E7%9F%B3%E6%BF%A4_tao_te_ching.jpeg
     provenance: 'Qufu, Shandong, China'
     period: c. c. 4th century BCE
-    description: 'Lao-tseu - Tao Te King, Chapitre 30...'
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Daoist Traditions.
     imageUrl: /artifacts/daoism-2.jpg
 ---
 

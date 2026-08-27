@@ -55,13 +55,12 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Syriac Catholic Church.
     imageUrl: /artifacts/syriac-catholic-church-1.jpg
-  - title: Syriac Catholic Church Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Catholic_Church'
+  - title: A Dictionary of the Bible Volume 1 Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:A_Dictionary_of_the_Bible_Volume_1.pdf
     provenance: 'Rome, Latium, Italy'
     period: c. 1782 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Syriac Catholic Church.
+    description: first published 1898...
     imageUrl: /artifacts/syriac-catholic-church-2.jpg
 ---
 

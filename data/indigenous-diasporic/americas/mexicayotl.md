@@ -43,17 +43,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Mexicayotl'
     url: 'https://brill.com/search?q=Mexicayotl'
 artifacts:
-  - title: Mexicayotl Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mexicayotl'
+  - title: Mexicayotl Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mexicayotl.jpg'
     provenance: 'Tenochtitlan (Mexico City), Mexico'
     period: c. 1950s CE
     description: >-
-      Mexicayotl (Nahuatl word meaning "Essence of the Mexican", "Mexicanity";
-      Spanish: Mexicanidad; see -yotl) is a movement that aims to revive the
-      Indigenous religion, philosophy and...
+      Reported flag displayed by Mexicans of indigenous descent. Often used
+      symbolically as a part of the Mexicayotl movement. Features seal of Mexico
+      inside of Nahua sun symbol. Colors...
+    imageUrl: /artifacts/mexicayotl-1.jpg
   - title: >-
       Chronicles of the builders of the commonwealth - historical character
-      study (IA chroniclesofbuil00bancrich) Canonical Scripture & Iconography
+      study (IA chroniclesofbuil00bancrich) Sacred Relics & Scripture
     sourceUrl: >-
       https://commons.wikimedia.org/wiki/File:Chronicles_of_the_builders_of_the_commonwealth_-_historical_character_study_(IA_chroniclesofbuil00bancrich).pdf
     provenance: 'Tenochtitlan (Mexico City), Mexico'
@@ -61,6 +62,7 @@ artifacts:
     description: >-
       Subjects: Pacific States -- Biography; California -- Biography; Mexico --
       Biography...
+    imageUrl: /artifacts/mexicayotl-2.jpg
 ---
 
 # Mexicayotl

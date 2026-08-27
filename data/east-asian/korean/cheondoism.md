@@ -53,18 +53,16 @@ artifacts:
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. 1860 CE
     description: >-
-      Cheondoism (spelled Chondoism in North Korea; Korean: 천도교) is a
-      20th-century Korean panentheistic religion, based on the 19th-century
-      Donghak religious movement founded by Choe Je-...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Cheondoism.
     imageUrl: /artifacts/cheondoism-1.jpg
-  - title: Cheondoism Sacred Scripture & Art
+  - title: Cheondoism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Cheondoism'
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. 1860 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Cheondoism.
-    imageUrl: /artifacts/cheondoism-1.jpg
 ---
 
 # Cheondoism

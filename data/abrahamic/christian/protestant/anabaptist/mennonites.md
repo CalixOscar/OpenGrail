@@ -56,14 +56,13 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mennonite Traditions.
     imageUrl: /artifacts/mennonites-1.jpg
-  - title: Mennonite Traditions Sacred Scripture & Art
+  - title: Mennonite Traditions Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Mennonite_Traditions'
     provenance: 'Zurich, Switzerland'
     period: c. 1520s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Mennonite Traditions.
-    imageUrl: /artifacts/mennonites-2.jpg
 ---
 
 # Mennonite Traditions

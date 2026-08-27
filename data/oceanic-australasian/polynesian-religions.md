@@ -39,25 +39,20 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Polynesian%20Religions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Maori Religion and Mythology Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Maori_Religion_and_Mythology.djvu'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. c. 1000 BCE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: A discussion of Māori religion in the mid-19th Century...
     imageUrl: /artifacts/polynesian-religions-1.jpg
-  - title: >-
-      Filming of the Yoruba oral traditions project Canonical Scripture &
-      Iconography
+  - title: Sacred Books of the East - Volume 32 Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
+      https://commons.wikimedia.org/wiki/File:Sacred_Books_of_the_East_-_Volume_32.djvu
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. c. 1000 BCE
     description: >-
-      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
-      Ṣànpọ̀ná...
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Polynesian Religions.
     imageUrl: /artifacts/polynesian-religions-2.jpg
 ---
 

@@ -45,24 +45,19 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Ainu%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Aino folk-tales Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Aino_folk-tales.djvu'
     provenance: 'Hokkaido (Ainu Mosir), Japan'
     period: c. ancient; continuously developing
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    description: 'Folk-tales of the Aino people, collected in the 19th century....'
     imageUrl: /artifacts/ainu-religion-1.jpg
-  - title: Ainu Religious Traditions Sacred Scripture & Art
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+  - title: Ainu Religious Traditions Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Aino_folk-tales.djvu'
     provenance: 'Hokkaido (Ainu Mosir), Japan'
     period: c. ancient; continuously developing
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Ainu Religious Traditions.
-    imageUrl: /artifacts/ainu-religion-1.jpg
 ---
 
 # Ainu Religious Traditions

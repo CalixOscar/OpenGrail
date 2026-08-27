@@ -51,21 +51,21 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Astronaut Theory'
     url: 'https://brill.com/search?q=Ancient%20Astronaut%20Theory'
 artifacts:
-  - title: >-
-      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
-      Records
+  - title: Telamones Tula Historical Sanctuary
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Telamones_Tula.jpg'
+    provenance: 'Geneva, Switzerland'
+    period: c. 1960s CE
+    description: 'Telamones, Tula, Mexico...'
+    imageUrl: /artifacts/ancient-astronaut-theory-1.jpg
+  - title: Wenceslas Hollar - The Greek gods. Saturn Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+      https://commons.wikimedia.org/wiki/File:Wenceslas_Hollar_-_The_Greek_gods._Saturn.jpg
     provenance: 'Geneva, Switzerland'
     period: c. 1960s CE
-    description: The High Altar of St Paul's Cathedral as viewed from the choir....
-    imageUrl: /artifacts/ancient-astronaut-theory-1.jpg
-  - title: Gods-kkm Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Gods-kkm.jpg'
-    provenance: 'Geneva, Switzerland'
-    period: c. 1960s CE
-    description: This media file was uploaded as a part of the TamilWiki Media Contest....
-    imageUrl: /artifacts/ancient-astronaut-theory-1.jpg
+    description: >-
+      Preserved liturgical manuscripts, sacred epigraphy, and canonical
+      teachings of Ancient Astronaut Theory.
+    imageUrl: /artifacts/ancient-astronaut-theory-2.jpg
 ---
 
 # Ancient Astronaut Theory

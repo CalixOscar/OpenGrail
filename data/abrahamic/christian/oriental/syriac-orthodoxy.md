@@ -50,13 +50,11 @@ artifacts:
       Authoritative historical records, sanctuary sites, and material culture
       associated with Syriac Orthodoxy.
     imageUrl: /artifacts/syriac-orthodoxy-1.jpg
-  - title: Syriac Orthodoxy Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Orthodoxy'
+  - title: Peshitta psalms in Aramaic Sacred Relics & Scripture
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Peshitta_psalms_in_Aramaic.png'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Syriac Orthodoxy.
+    description: psalms in Aramaic...
     imageUrl: /artifacts/syriac-orthodoxy-2.jpg
 ---
 

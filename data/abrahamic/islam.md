@@ -55,17 +55,18 @@ artifacts:
     provenance: 'Jerusalem, Southern Levant'
     period: c. 610 CE
     description: >-
-      Islam is an Abrahamic religion based on the Quran and the teachings of
-      Muhammad. The monotheistic religion has an estimated 2 billion worldwide
-      adherents, called Muslims. Islam is...
+      Authoritative historical records, sanctuary sites, and material culture
+      associated with Islam.
     imageUrl: /artifacts/islam-1.jpg
-  - title: Islam Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Islam'
+  - title: Qur'an manuscript Surat al-Nisa'. (1) Sacred Relics & Scripture
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Qur%27an_manuscript_Surat_al-Nisa%27._(1).tif
     provenance: 'Jerusalem, Southern Levant'
     period: c. 610 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Islam.
+      The recto of this Qur'an fragment contains parts of the first three verses
+      of the fourth chapter of the Qur'an, Surat al-Nisa' (Chapter of the
+      women). At the top left side of the f...
     imageUrl: /artifacts/islam-2.jpg
 ---
 
