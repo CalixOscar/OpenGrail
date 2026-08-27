@@ -46,18 +46,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Chabad-Lubavitch'
     url: 'https://www.cambridge.org/core/search?q=Chabad-Lubavitch'
 artifacts:
-  - title: Chabad-Lubavitch Historical Reference & Architecture
-    url: 'https://en.wikipedia.org/wiki/Chabad-Lubavitch'
-    provenance: Scholarly & Archaeological Archives
-    period: Historical Origin to Modern Era
+  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
+    provenance: Near East / Mediterranean
+    period: Classical to Medieval Era
     description: >-
-      Authoritative historical documentation, primary sources, and material
-      culture associated with Chabad-Lubavitch.
-  - title: Chabad-Lubavitch Primary Texts & Sacred Records
-    url: 'https://en.wikipedia.org/wiki/Tanya'
-    provenance: Academic & Lexicon Records
-    period: Formative Era
-    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
+      Parchment uncial manuscript preserving ancient canonical scripture and
+      liturgical traditions.
+  - title: Historical Sanctuary Architecture & Sacred Epigraphy
+    imageUrl: /artifacts/judaism-western-wall.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
+    provenance: Jerusalem & Levant
+    period: Ancient to Medieval Era
+    description: >-
+      Monumental stone masonry and sacred sanctuary foundations central to
+      Abrahamic pilgrimage.
 ---
 
 # Chabad-Lubavitch

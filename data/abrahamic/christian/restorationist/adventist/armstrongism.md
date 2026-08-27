@@ -49,18 +49,22 @@ sources:
       Churches of God
     url: 'https://www.cambridge.org/core/search?q=Armstrongist%20Churches%20of%20God'
 artifacts:
-  - title: Armstrongist Churches of God Historical Reference & Architecture
-    url: 'https://en.wikipedia.org/wiki/Armstrongist_Churches_of_God'
-    provenance: Scholarly & Archaeological Archives
-    period: Historical Origin to Modern Era
+  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
+    provenance: Near East / Mediterranean
+    period: Classical to Medieval Era
     description: >-
-      Authoritative historical documentation, primary sources, and material
-      culture associated with Armstrongist Churches of God.
-  - title: Armstrongist Churches of God Primary Texts & Sacred Records
-    url: 'https://en.wikipedia.org/wiki/Bible'
-    provenance: Academic & Lexicon Records
-    period: Formative Era
-    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
+      Parchment uncial manuscript preserving ancient canonical scripture and
+      liturgical traditions.
+  - title: Historical Sanctuary Architecture & Sacred Epigraphy
+    imageUrl: /artifacts/judaism-western-wall.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
+    provenance: Jerusalem & Levant
+    period: Ancient to Medieval Era
+    description: >-
+      Monumental stone masonry and sacred sanctuary foundations central to
+      Abrahamic pilgrimage.
 ---
 
 # Armstrongist Churches of God

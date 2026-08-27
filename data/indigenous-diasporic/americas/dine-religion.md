@@ -42,18 +42,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Din%C3%A9%20Religion'
 artifacts:
-  - title: Diné Religion Historical Reference & Architecture
-    url: 'https://en.wikipedia.org/wiki/Din%C3%A9_Religion'
-    provenance: Scholarly & Archaeological Archives
-    period: Historical Origin to Modern Era
+  - title: Chichen Itza Pyramid of Kukulcan (El Castillo)
+    imageUrl: /artifacts/mesoamerican-pyramid.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/El_Castillo,_Chichen_Itza'
+    provenance: 'Yucatán, Mexico'
+    period: c. 900 CE
     description: >-
-      Authoritative historical documentation, primary sources, and material
-      culture associated with Diné Religion.
-  - title: Diné Religion Primary Texts & Sacred Records
-    url: 'https://en.wikipedia.org/wiki/Oral_traditions_(community-governed)'
-    provenance: Academic & Lexicon Records
-    period: Formative Era
-    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
+      Monumental step-pyramid temple aligned with celestial equinox solar
+      serpent alignments.
+  - title: Ife Kingdom Bronze Royal Ancestor Sculpture
+    imageUrl: /artifacts/african-ife-bronze.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bronze_Head_from_Ife'
+    provenance: 'Ife Kingdom, West Africa'
+    period: c. 12th-14th century CE
+    description: >-
+      Masterwork lost-wax bronze portrait embodying divine kingship and sacred
+      ancestral connection.
 ---
 
 # Diné Religion

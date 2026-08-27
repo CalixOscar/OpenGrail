@@ -50,14 +50,16 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Kashmir%20%C5%9Aaivism'
 artifacts:
   - title: Brihadisvara Temple (Peruvudaiyar Kovil)
-    url: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
+    imageUrl: /artifacts/hinduism-brihadisvara.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
     provenance: 'Thanjavur, Tamil Nadu'
     period: 1010 CE (Chola Dynasty)
     description: >-
       Towering granite rock architecture exemplifying Tamil Dravidian temple
       design and Shaivite sacred geometry.
   - title: Chola Nataraja (Cosmic Dance of Shiva) Bronze
-    url: 'https://en.wikipedia.org/wiki/Nataraja'
+    imageUrl: /artifacts/hinduism-nataraja.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Nataraja'
     provenance: Southern India
     period: c. 10th-11th century CE
     description: >-

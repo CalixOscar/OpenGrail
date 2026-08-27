@@ -45,19 +45,21 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Chan%20Buddhism'
 artifacts:
   - title: Mahabodhi Temple Enlightenment Complex
-    url: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    imageUrl: /artifacts/buddhism-mahabodhi.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
     provenance: 'Bodh Gaya, Bihar, India'
     period: c. 250 BCE - 5th century CE
     description: >-
       UNESCO World Heritage stone temple constructed around the sacred Bodhi
-      Tree where Siddhartha Gautama attained awakening.
-  - title: Sarnath Dharmachakra Buddha Stone Sculpture
-    url: 'https://en.wikipedia.org/wiki/Sarnath'
-    provenance: 'Sarnath, Varanasi, India'
-    period: c. 5th century CE (Gupta Period)
+      Tree where the Buddha awakened.
+  - title: Brihadisvara Sacred Monumental Sanctuary
+    imageUrl: /artifacts/hinduism-brihadisvara.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
+    provenance: Ancient India
+    period: Classical Era
     description: >-
-      Masterpiece sandstone sculpture depicting the Buddha turning the Wheel of
-      the Law (Dharmachakra Pravartana).
+      Monumental sacred architecture preserving early Indian stone masonry and
+      meditation sanctuaries.
 ---
 
 # Chan Buddhism

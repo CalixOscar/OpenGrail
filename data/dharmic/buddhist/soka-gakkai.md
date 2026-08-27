@@ -42,18 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Soka%20Gakkai'
 artifacts:
-  - title: Soka Gakkai Historical Reference & Architecture
-    url: 'https://en.wikipedia.org/wiki/Soka_Gakkai'
-    provenance: Scholarly & Archaeological Archives
-    period: Historical Origin to Modern Era
+  - title: Mahabodhi Temple Enlightenment Sanctuary
+    imageUrl: /artifacts/buddhism-mahabodhi.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
     description: >-
-      Authoritative historical documentation, primary sources, and material
-      culture associated with Soka Gakkai.
-  - title: Soka Gakkai Primary Texts & Sacred Records
-    url: 'https://en.wikipedia.org/wiki/Lotus_S%C5%ABtra'
-    provenance: Academic & Lexicon Records
-    period: Formative Era
-    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
+      UNESCO World Heritage monumental stone temple marking the spot of
+      Siddhartha Gautama's enlightenment.
+  - title: Brihadisvara Monumental Dravidian Temple Gopuram
+    imageUrl: /artifacts/hinduism-brihadisvara.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
+    provenance: 'Thanjavur, Tamil Nadu'
+    period: 1010 CE
+    description: >-
+      Grand granite rock-cut temple dedicated to cosmic balance and sacred
+      ritual architecture.
 ---
 
 # Soka Gakkai

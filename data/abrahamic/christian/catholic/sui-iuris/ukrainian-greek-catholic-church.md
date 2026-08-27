@@ -47,14 +47,16 @@ sources:
       https://www.cambridge.org/core/search?q=Ukrainian%20Greek%20Catholic%20Church
 artifacts:
   - title: Saint Peter's Papal Basilica & Piazza
-    url: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
+    imageUrl: /artifacts/christianity-basilica.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/St._Peter%27s_Basilica'
     provenance: 'Vatican City, Rome'
-    period: 1506–1626 CE (Renaissance / Baroque)
+    period: 1506–1626 CE
     description: >-
       The Renaissance and Baroque episcopal center of the Roman Catholic Church,
       designed by Michelangelo and Bernini.
   - title: Codex Vaticanus Greek Bible Manuscript
-    url: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
     provenance: Vatican Library Collection
     period: c. 4th century CE
     description: >-

@@ -46,14 +46,16 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Lurianic%20Kabbalah'
 artifacts:
   - title: Western Wall & Second Temple Foundation
-    url: 'https://en.wikipedia.org/wiki/Western_Wall'
+    imageUrl: /artifacts/judaism-western-wall.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
     provenance: 'Old City, Jerusalem'
     period: c. 19 BCE (Herodian Era)
     description: >-
       The holiest prayer site of Jewish tradition, surviving western retaining
       wall of the Second Temple complex.
   - title: Aleppo Codex Masoretic Hebrew Bible Manuscript
-    url: 'https://en.wikipedia.org/wiki/Aleppo_Codex'
+    imageUrl: /artifacts/judaism-torah-scroll.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Aleppo_Codex'
     provenance: Tiberias & Jerusalem
     period: c. 920 CE
     description: >-

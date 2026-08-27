@@ -43,14 +43,16 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Anglicanism'
 artifacts:
   - title: Wittenberg All Saints' Church (Reformation 95 Theses Site)
-    url: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
+    imageUrl: /artifacts/protestantism-wittenberg.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg'
     provenance: 'Wittenberg, Germany'
     period: 1517 CE
     description: >-
       Historic church where Martin Luther posted his Ninety-five Theses,
       initiating the Protestant Reformation.
   - title: Luther 1534 German Bible Title Woodcut
-    url: 'https://en.wikipedia.org/wiki/Luther_Bible'
+    imageUrl: /artifacts/protestantism-luther-bible.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Luther_Bible'
     provenance: Wittenberg
     period: 1534 CE
     description: >-

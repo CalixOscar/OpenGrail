@@ -39,18 +39,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Celtic Religions'
     url: 'https://brill.com/search?q=Ancient%20Celtic%20Religions'
 artifacts:
-  - title: Ancient Celtic Religions Historical Reference & Architecture
-    url: 'https://en.wikipedia.org/wiki/Ancient_Celtic_Religions'
-    provenance: Scholarly & Archaeological Archives
-    period: Historical Origin to Modern Era
+  - title: The Parthenon Classical Sanctuary of Athena
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
+    provenance: 'Acropolis of Athens, Greece'
+    period: 447–432 BCE
     description: >-
-      Authoritative historical documentation, primary sources, and material
-      culture associated with Ancient Celtic Religions.
-  - title: Ancient Celtic Religions Primary Texts & Sacred Records
-    url: 'https://en.wikipedia.org/wiki/Ritual_and_archaeological_corpus'
-    provenance: Academic & Lexicon Records
-    period: Formative Era
-    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
+      Pinnacle of Classical Greek sacred temple architecture honoring the civic
+      and divine order.
+  - title: Persepolis Monumental Faravahar Stone Relief
+    imageUrl: /artifacts/zoroastrian-faravahar.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
+    provenance: 'Persepolis, Ancient Persia'
+    period: c. 515 BCE
+    description: >-
+      Achaemenid royal carving representing divine grace (Khvarenah) and moral
+      responsibility in Zoroastrianism.
 ---
 
 # Ancient Celtic Religions

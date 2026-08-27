@@ -599,7 +599,8 @@ export default function DocumentPane({
               </div>
               <div className="artifacts-grid">
                 {selectedNode.artifacts.map((art, idx) => {
-                  const isFailed = !art.url || (art.url && failedImages[art.url]);
+                  const imgPath = art.imageUrl || art.url;
+                  const isFailed = !imgPath || failedImages[imgPath];
                   return (
                     <button
                       key={idx}
@@ -608,14 +609,14 @@ export default function DocumentPane({
                       onClick={() => setActiveArtifact(art)}
                       title={`Inspect ${art.title}`}
                     >
-                      {art.url && !isFailed ? (
+                      {imgPath && !isFailed ? (
                         <div className="artifact-thumb-wrap">
                           <img
-                            src={art.url}
+                            src={imgPath}
                             alt={art.title}
                             className="artifact-thumb"
                             loading="lazy"
-                            onError={() => art.url && setFailedImages((prev) => ({ ...prev, [art.url!]: true }))}
+                            onError={() => imgPath && setFailedImages((prev) => ({ ...prev, [imgPath]: true }))}
                           />
                           <div className="artifact-thumb-overlay">
                             <span>🔍 Inspect</span>
@@ -747,49 +748,59 @@ export default function DocumentPane({
             >
               <CloseIcon className="icon-button__icon" />
             </button>
-            {activeArtifact.url && !failedImages[activeArtifact.url] ? (
-              <div className="artifact-lightbox-img-wrap">
-                <img
-                  src={activeArtifact.url}
-                  alt={activeArtifact.title}
-                  className="artifact-lightbox-img"
-                  onError={() => activeArtifact.url && setFailedImages((prev) => ({ ...prev, [activeArtifact.url!]: true }))}
-                />
-              </div>
-            ) : (
-              <div className="artifact-lightbox-img-wrap" style={{ padding: '2.5rem', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '10px' }}>
-                <LandmarkIcon style={{ width: 44, height: 44, color: selectedNode.color, opacity: 0.85 }} />
-                <span style={{ fontSize: '0.82rem', color: '#94a3b8' }}>Archival artifact representation</span>
-              </div>
-            )}
-            <div className="artifact-lightbox-content">
-              <h3 className="artifact-lightbox-title">{activeArtifact.title}</h3>
-              <div className="artifact-lightbox-badges">
-                {activeArtifact.provenance && (
-                  <span className="document-badge">📍 {activeArtifact.provenance}</span>
-                )}
-                {activeArtifact.period && (
-                  <span className="document-badge document-badge--era">⏳ {activeArtifact.period}</span>
-                )}
-              </div>
-              {activeArtifact.description && (
-                <p className="artifact-lightbox-desc">{activeArtifact.description}</p>
-              )}
-              {activeArtifact.url && (
-                <div style={{ marginTop: '14px' }}>
-                  <a
-                    href={activeArtifact.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="source-link"
-                    style={{ display: 'inline-flex', fontSize: '0.85rem', color: '#93c5fd' }}
-                  >
-                    <span>Verify entry on Wikipedia / Archive</span>
-                    <ExternalLinkIcon className="source-link__icon" />
-                  </a>
-                </div>
-              )}
-            </div>
+            {(() => {
+              const imgPath = activeArtifact.imageUrl || activeArtifact.url;
+              const isFailed = !imgPath || failedImages[imgPath];
+              const sourceLink = activeArtifact.sourceUrl || (activeArtifact.url?.startsWith('http') ? activeArtifact.url : undefined);
+
+              return (
+                <>
+                  {imgPath && !isFailed ? (
+                    <div className="artifact-lightbox-img-wrap">
+                      <img
+                        src={imgPath}
+                        alt={activeArtifact.title}
+                        className="artifact-lightbox-img"
+                        onError={() => imgPath && setFailedImages((prev) => ({ ...prev, [imgPath]: true }))}
+                      />
+                    </div>
+                  ) : (
+                    <div className="artifact-lightbox-img-wrap" style={{ padding: '2.5rem', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '10px' }}>
+                      <LandmarkIcon style={{ width: 44, height: 44, color: selectedNode.color, opacity: 0.85 }} />
+                      <span style={{ fontSize: '0.82rem', color: '#94a3b8' }}>Archival artifact representation</span>
+                    </div>
+                  )}
+                  <div className="artifact-lightbox-content">
+                    <h3 className="artifact-lightbox-title">{activeArtifact.title}</h3>
+                    <div className="artifact-lightbox-badges">
+                      {activeArtifact.provenance && (
+                        <span className="document-badge">📍 {activeArtifact.provenance}</span>
+                      )}
+                      {activeArtifact.period && (
+                        <span className="document-badge document-badge--era">⏳ {activeArtifact.period}</span>
+                      )}
+                    </div>
+                    {activeArtifact.description && (
+                      <p className="artifact-lightbox-desc">{activeArtifact.description}</p>
+                    )}
+                    {sourceLink && (
+                      <div style={{ marginTop: '14px' }}>
+                        <a
+                          href={sourceLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="source-link"
+                          style={{ display: 'inline-flex', fontSize: '0.85rem', color: '#93c5fd' }}
+                        >
+                          <span>Verify entry on Wikipedia / Archive</span>
+                          <ExternalLinkIcon className="source-link__icon" />
+                        </a>
+                      </div>
+                    )}
+                  </div>
+                </>
+              );
+            })()}
           </div>
         </div>
       )}

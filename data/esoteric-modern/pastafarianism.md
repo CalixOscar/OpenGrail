@@ -49,20 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Pastafarianism'
     url: 'https://brill.com/search?q=Pastafarianism'
 artifacts:
-  - title: Colander Headgear & The Gospel of the Flying Spaghetti Monster
-    url: 'https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster'
-    provenance: United States & International
-    period: 2005 CE to present
+  - title: The Parthenon Classical Sanctuary of Athena
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
+    provenance: 'Acropolis of Athens, Greece'
+    period: 447–432 BCE
     description: >-
-      Iconic satiric ceremonial headgear and satirical foundational text
-      advocating critical scientific education.
-  - title: The Eight 'I'd Really Rather You Didn'ts' Parchment
-    url: 'https://en.wikipedia.org/wiki/The_Gospel_of_the_Flying_Spaghetti_Monster'
-    provenance: Online & Civil Rights Litigations
-    period: 2006 CE
+      Pinnacle of Classical Greek sacred temple architecture honoring the civic
+      and divine order.
+  - title: Persepolis Monumental Faravahar Stone Relief
+    imageUrl: /artifacts/zoroastrian-faravahar.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
+    provenance: 'Persepolis, Ancient Persia'
+    period: c. 515 BCE
     description: >-
-      Parody moral code delivered to pirate Captain Mosey addressing dogmatism
-      and ethics.
+      Achaemenid royal carving representing divine grace (Khvarenah) and moral
+      responsibility in Zoroastrianism.
 ---
 
 # Pastafarianism

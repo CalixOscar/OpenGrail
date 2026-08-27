@@ -45,18 +45,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Moabite Religion'
     url: 'https://brill.com/search?q=Moabite%20Religion'
 artifacts:
-  - title: Moabite Religion Historical Reference & Architecture
-    url: 'https://en.wikipedia.org/wiki/Moabite_Religion'
-    provenance: Scholarly & Archaeological Archives
-    period: Historical Origin to Modern Era
+  - title: The Parthenon Classical Sanctuary of Athena
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
+    provenance: 'Acropolis of Athens, Greece'
+    period: 447–432 BCE
     description: >-
-      Authoritative historical documentation, primary sources, and material
-      culture associated with Moabite Religion.
-  - title: Moabite Religion Primary Texts & Sacred Records
-    url: 'https://en.wikipedia.org/wiki/Mesha_Stele'
-    provenance: Academic & Lexicon Records
-    period: Formative Era
-    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
+      Pinnacle of Classical Greek sacred temple architecture honoring the civic
+      and divine order.
+  - title: Persepolis Monumental Faravahar Stone Relief
+    imageUrl: /artifacts/zoroastrian-faravahar.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
+    provenance: 'Persepolis, Ancient Persia'
+    period: c. 515 BCE
+    description: >-
+      Achaemenid royal carving representing divine grace (Khvarenah) and moral
+      responsibility in Zoroastrianism.
 ---
 
 # Moabite Religion

@@ -49,14 +49,16 @@ sources:
       https://www.rep.routledge.com/search?query=M%C5%ABrtip%C5%ABjaka%20%C5%9Avet%C4%81mbara%20Jainism
 artifacts:
   - title: Gommateshwara Bahubali Monolithic Statue
-    url: 'https://en.wikipedia.org/wiki/Gommateshwara_statue'
+    imageUrl: /artifacts/jainism-gommateshwara.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Gommateshwara_statue'
     provenance: 'Shravanabelagola, Karnataka'
     period: 981 CE
     description: >-
       A 57-foot monolithic granite statue commemorating the supreme detachment
       and ahimsa of Lord Bahubali.
   - title: Dilwara Marble Temple Carvings
-    url: 'https://en.wikipedia.org/wiki/Dilwara_Temples'
+    imageUrl: /artifacts/jainism-dilwara-temple.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dilwara_Temples'
     provenance: 'Mount Abu, Rajasthan'
     period: 11th-13th century CE
     description: >-
