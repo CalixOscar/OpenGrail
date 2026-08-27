@@ -45,22 +45,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Aj%C3%B1%C4%81na%20Skeptics'
 artifacts:
-  - title: Ajñāna Skeptics Historical Sanctuary & Iconography
+  - title: Ancient Magadha Barabar Caves (Lomas Rishi & Sudama)
     imageUrl: /artifacts/ajnana-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Aj%C3%B1%C4%81na_Skeptics'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 5th century BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Barabar_Caves'
+    provenance: 'Magadha (Bihar), Ancient India'
+    period: c. 5th–3rd century BCE
     description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ajñāna Skeptics.
-  - title: Sāmaññaphala Sutta account & Sacred Relics
+      Historic rock-cut sanctuaries in ancient Magadha, central to the
+      5th-century BCE Śramaṇa philosophical debates between Ajñāna skeptics,
+      Ājīvikas, and early Buddhists.
+  - title: Sāmaññaphala Sutta Canonical Pali Palm-Leaf Manuscript
     imageUrl: /artifacts/ajnana-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Aj%C3%B1%C4%81na_Skeptics'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 5th century BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sama%C3%B1%C3%B1aphala_Sutta'
+    provenance: Tipitaka Historical Preservation (British Library)
+    period: Classical Pali Tradition
     description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ajñāna Skeptics.
+      Preserved canonical Pali manuscript of the Dīgha Nikāya, containing the
+      primary historical record of Sañjaya Belaṭṭhaputta and the Ajñāna school's
+      suspension of judgment.
 ---
 
 # Ajñāna Skeptics

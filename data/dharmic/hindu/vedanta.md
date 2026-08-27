@@ -45,22 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ved%C4%81nta'
 artifacts:
-  - title: Vedānta Historical Sanctuary & Iconography
+  - title: Adi Śaṅkarācārya and Classical Vedānta Lineage
     imageUrl: /artifacts/vedanta-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ved%C4%81nta'
-    provenance: 'Kanchipuram, Tamil Nadu, India'
-    period: c. c. 2nd century BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vedanta'
+    provenance: 'Kanchipuram & Sringeri Sharada Peetham, India'
+    period: Classical Era
     description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Vedānta.
-  - title: Principal Upaniṣads & Sacred Relics
+      Historic portrait of Adi Śaṅkara, foundational commentator whose Brahma
+      Sūtra Bhāṣya defined classical Vedānta epistemology across India.
+  - title: Brahma Sūtras & Principal Upaniṣads Sanskrit Manuscript Folio
     imageUrl: /artifacts/vedanta-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ved%C4%81nta'
-    provenance: 'Kanchipuram, Tamil Nadu, India'
-    period: c. c. 2nd century BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/Brahma_Sutras'
+    provenance: South Indian Matha Archives
+    period: c. 8th–12th century CE
     description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Vedānta.
+      Preserved 8th-century Brahma Sūtra commentary manuscript on birch bark and
+      palm leaf, articulating the unified metaphysics of the Upaniṣads.
 ---
 
 # Vedānta

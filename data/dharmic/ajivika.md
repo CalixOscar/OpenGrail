@@ -42,22 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C4%80j%C4%ABvika%20Tradition'
 artifacts:
-  - title: Ājīvika Tradition Historical Sanctuary & Iconography
+  - title: Ajivika Ascetic in Gandharan Schist Relief
     imageUrl: /artifacts/ajivika-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 5th century BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika'
+    provenance: 'Gandhara, Ancient Northwest India'
+    period: c. 2nd century CE
     description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ājīvika Tradition.
-  - title: Buddhist Nikāya accounts & Sacred Relics
+      Schist relief depicting a wandering naked Ājīvika ascetic holding a staff,
+      illustrating the severe renunciant discipline taught by Makkhali Gosala.
+  - title: Ashokan Dedicatory Inscription for Ājīvikas at Barabar
     imageUrl: /artifacts/ajivika-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 5th century BCE
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika'
+    provenance: 'Visvakarma Cave, Barabar Hills, Bihar, India'
+    period: c. 250 BCE
     description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ājīvika Tradition.
+      Brahmi script rock inscription commissioned by Emperor Ashoka formally
+      dedicating the rock-cut hermitage to the venerable Ājīvika community.
 ---
 
 # Ājīvika Tradition
