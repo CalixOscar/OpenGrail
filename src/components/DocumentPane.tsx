@@ -305,6 +305,16 @@ function RelationList({ direction, relations, nodeById, onSelectNode }: Relation
   );
 }
 
+function resolveAssetPath(url?: string): string | undefined {
+  if (!url) return undefined;
+  if (url.startsWith('/artifacts/')) {
+    const base = import.meta.env.BASE_URL || '/';
+    const cleanBase = base.endsWith('/') ? base : `${base}/`;
+    return `${cleanBase}${url.slice(1)}`;
+  }
+  return url;
+}
+
 export default function DocumentPane({
   selectedNode,
   selectedLink,
@@ -599,7 +609,7 @@ export default function DocumentPane({
               </div>
               <div className="artifacts-grid">
                 {selectedNode.artifacts.map((art, idx) => {
-                  const imgPath = art.imageUrl || art.url;
+                  const imgPath = resolveAssetPath(art.imageUrl || art.url);
                   const isFailed = !imgPath || failedImages[imgPath];
                   return (
                     <button
@@ -749,7 +759,7 @@ export default function DocumentPane({
               <CloseIcon className="icon-button__icon" />
             </button>
             {(() => {
-              const imgPath = activeArtifact.imageUrl || activeArtifact.url;
+              const imgPath = resolveAssetPath(activeArtifact.imageUrl || activeArtifact.url);
               const isFailed = !imgPath || failedImages[imgPath];
               const sourceLink = activeArtifact.sourceUrl || (activeArtifact.url?.startsWith('http') ? activeArtifact.url : undefined);
 
