@@ -44,20 +44,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vai%C5%9Be%E1%B9%A3ika'
 artifacts:
-  - title: Vaiśeṣika Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Vaiśeṣika.
-  - title: Vaiśeṣika Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/vaisheshika-1.jpg
+  - title: Vaisesika-philosophy-12-728 Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Vaisesika-philosophy-12-728.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Vaiśeṣika.
+    description: Vaisesika category...
+    imageUrl: /artifacts/vaisheshika-2.jpg
 ---
 
 # Vaiśeṣika

@@ -48,7 +48,7 @@ sources:
       America
     url: 'https://www.cambridge.org/core/search?q=Orthodox%20Church%20in%20America'
 artifacts:
-  - title: Orthodox Church in America Historical Sanctuary & Relics
+  - title: Orthodox Church in America Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Church_in_America'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1970 CE

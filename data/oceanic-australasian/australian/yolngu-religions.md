@@ -48,20 +48,24 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Yol%C5%8Bu%20Religious%20Traditions'
 artifacts:
-  - title: Yolŋu Religious Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Yol%C5%8Bu_Religious_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
     period: c. ancient and continuing
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Yolŋu Religious Traditions.
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/yolngu-religions-1.jpg
   - title: Yolŋu Religious Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Yol%C5%8Bu_Religious_Traditions'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
     period: c. ancient and continuing
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Yolŋu Religious Traditions.
+    imageUrl: /artifacts/yolngu-religions-1.jpg
 ---
 
 # Yolŋu Religious Traditions

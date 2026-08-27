@@ -45,13 +45,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Qadiriyya'
     url: 'https://www.cambridge.org/core/search?q=Qadiriyya'
 artifacts:
-  - title: Qadiriyya Historical Sanctuary & Relics
+  - title: Qadiriyya Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Qadiriyya'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 12th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Qadiriyya.
+    imageUrl: /artifacts/qadiriyya-1.jpg
   - title: Qadiriyya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Qadiriyya'
     provenance: 'Jerusalem, Southern Levant'
@@ -59,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Qadiriyya.
+    imageUrl: /artifacts/qadiriyya-2.jpg
 ---
 
 # Qadiriyya

@@ -45,13 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Engaged%20Buddhism'
 artifacts:
-  - title: Engaged Buddhism Historical Sanctuary & Relics
+  - title: Engaged Buddhism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Engaged_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Engaged Buddhism.
+    imageUrl: /artifacts/engaged-buddhism-1.jpg
   - title: Engaged Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Engaged_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -59,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Engaged Buddhism.
+    imageUrl: /artifacts/engaged-buddhism-1.jpg
 ---
 
 # Engaged Buddhism

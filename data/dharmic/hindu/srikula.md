@@ -47,22 +47,24 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%ABkula%20%2F%20%C5%9Ar%C4%ABvidy%C4%81
 artifacts:
-  - title: Śrīkula / Śrīvidyā Historical Sanctuary & Relics
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
     sourceUrl: >-
-      https://en.wikipedia.org/wiki/%C5%9Ar%C4%ABkula_%2F_%C5%9Ar%C4%ABvidy%C4%81
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 9th–11th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Śrīkula / Śrīvidyā.
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/srikula-1.jpg
   - title: Śrīkula / Śrīvidyā Sacred Scripture & Art
     sourceUrl: >-
-      https://en.wikipedia.org/wiki/%C5%9Ar%C4%ABkula_%2F_%C5%9Ar%C4%ABvidy%C4%81
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 9th–11th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Śrīkula / Śrīvidyā.
+    imageUrl: /artifacts/srikula-1.jpg
 ---
 
 # Śrīkula / Śrīvidyā

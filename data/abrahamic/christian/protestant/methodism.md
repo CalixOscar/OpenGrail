@@ -42,7 +42,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Methodism'
     url: 'https://www.cambridge.org/core/search?q=Methodism'
 artifacts:
-  - title: Methodism Historical Sanctuary & Relics
+  - title: Methodism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Methodism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1730s CE

@@ -42,13 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ibadi Islam'
     url: 'https://www.cambridge.org/core/search?q=Ibadi%20Islam'
 artifacts:
-  - title: Ibadi Islam Historical Sanctuary & Relics
+  - title: Ibadi Islam Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Ibadi_Islam'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 7th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ibadi Islam.
+    imageUrl: /artifacts/ibadi-islam-1.jpg
   - title: Ibadi Islam Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ibadi_Islam'
     provenance: 'Jerusalem, Southern Levant'
@@ -56,6 +57,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Ibadi Islam.
+    imageUrl: /artifacts/ibadi-islam-2.jpg
 ---
 
 # Ibadi Islam

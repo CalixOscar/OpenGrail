@@ -51,13 +51,14 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Church%20of%20Christ%2C%20Scientist
 artifacts:
-  - title: 'Church of Christ, Scientist Historical Sanctuary & Relics'
+  - title: 'Church of Christ, Scientist Historical Sanctuary & Records'
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Christ%2C_Scientist'
     provenance: 'Boston, Massachusetts, USA'
     period: c. 1879 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Church of Christ, Scientist.
+      The Church of Christ, Scientist is a Christian new religious movement
+      founded in 1879 in Boston, Massachusetts, by Mary Baker Eddy, the author
+      of Science and Health with Key to the...
     imageUrl: /artifacts/christian-science-1.jpg
   - title: 'Church of Christ, Scientist Sacred Scripture & Art'
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Christ%2C_Scientist'

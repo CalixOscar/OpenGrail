@@ -48,7 +48,7 @@ sources:
       Convention
     url: 'https://www.cambridge.org/core/search?q=Southern%20Baptist%20Convention'
 artifacts:
-  - title: Southern Baptist Convention Historical Sanctuary & Relics
+  - title: Southern Baptist Convention Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Southern_Baptist_Convention'
     provenance: 'London, England, UK'
     period: c. 1845 CE

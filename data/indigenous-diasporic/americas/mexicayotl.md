@@ -43,20 +43,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Mexicayotl'
     url: 'https://brill.com/search?q=Mexicayotl'
 artifacts:
-  - title: Mexicayotl Historical Sanctuary & Relics
+  - title: Mexicayotl Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Mexicayotl'
     provenance: 'Tenochtitlan (Mexico City), Mexico'
     period: c. 1950s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Mexicayotl.
-  - title: Mexicayotl Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mexicayotl'
+      Mexicayotl (Nahuatl word meaning "Essence of the Mexican", "Mexicanity";
+      Spanish: Mexicanidad; see -yotl) is a movement that aims to revive the
+      Indigenous religion, philosophy and...
+  - title: >-
+      Chronicles of the builders of the commonwealth - historical character
+      study (IA chroniclesofbuil00bancrich) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Chronicles_of_the_builders_of_the_commonwealth_-_historical_character_study_(IA_chroniclesofbuil00bancrich).pdf
     provenance: 'Tenochtitlan (Mexico City), Mexico'
     period: c. 1950s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Mexicayotl.
+      Subjects: Pacific States -- Biography; California -- Biography; Mexico --
+      Biography...
 ---
 
 # Mexicayotl

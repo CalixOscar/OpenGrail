@@ -46,20 +46,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Secular%20Buddhism'
 artifacts:
-  - title: Secular Buddhism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Secular_Buddhism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 20th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Secular Buddhism.
-  - title: Secular Buddhism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Secular_Buddhism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/secular-buddhism-1.jpg
+  - title: Buddhist Parables Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddhist_Parables.djvu'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 20th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Secular Buddhism.
+    description: 'xxix, 348 p., 1 l. front. (port.) 25 cm....'
+    imageUrl: /artifacts/secular-buddhism-2.jpg
 ---
 
 # Secular Buddhism

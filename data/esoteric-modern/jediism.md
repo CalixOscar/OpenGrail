@@ -52,20 +52,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Jediism'
     url: 'https://brill.com/search?q=Jediism'
 artifacts:
-  - title: Jediism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jediism'
-    provenance: 'London, England, UK'
-    period: c. late 20th century CE
+  - title: Ceremonial Lightsaber Prop & Meditation Focus
+    imageUrl: /artifacts/jediism-lightsaber.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lightsaber'
+    provenance: Modern Popular Mythos & Contemporary Practice
+    period: Late 20th century CE to present
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Jediism.
-  - title: Jediism Sacred Scripture & Art
+      Iconic symbolic focus device adapted from cinematic mythos into
+      contemporary ethical and meditative ritual.
+  - title: Temple of the Jedi Order Dokuments & Teachings
+    imageUrl: /artifacts/jediism-2.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Jediism'
-    provenance: 'London, England, UK'
-    period: c. late 20th century CE
+    provenance: Worldwide Online Communities
+    period: 2005 CE - Present
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Jediism.
+      Documented 16 Teachings and 21 Maxims establishing philosophical Jediism
+      as a lived ethical discipline.
 ---
 
 # Jediism

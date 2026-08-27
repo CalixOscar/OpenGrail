@@ -43,20 +43,24 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Haudenosaunee%20Religions'
 artifacts:
-  - title: Haudenosaunee Religions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Haudenosaunee_Religions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Onondaga, Haudenosaunee Territory, NY, USA'
     period: c. before 1500 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Haudenosaunee Religions.
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/haudenosaunee-religion-1.jpg
   - title: Haudenosaunee Religions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Haudenosaunee_Religions'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Onondaga, Haudenosaunee Territory, NY, USA'
     period: c. before 1500 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Haudenosaunee Religions.
+    imageUrl: /artifacts/haudenosaunee-religion-1.jpg
 ---
 
 # Haudenosaunee Religions

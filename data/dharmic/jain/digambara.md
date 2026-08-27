@@ -43,20 +43,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Digambara%20Jainism'
 artifacts:
-  - title: Digambara Jainism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Digambara_Jainism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 1st century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Digambara Jainism.
-  - title: Digambara Jainism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Digambara_Jainism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/digambara-1.jpg
+  - title: Dhavala Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dhavala.jpg'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 1st century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Digambara Jainism.
+    description: Ṣaṭkhaṅḍāgama (Hindi) with commentary Dhavalā of Acharya Virasena...
+    imageUrl: /artifacts/digambara-2.jpg
 ---
 
 # Digambara Jainism

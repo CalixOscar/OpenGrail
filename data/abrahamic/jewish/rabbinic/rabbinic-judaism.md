@@ -45,13 +45,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Rabbinic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Rabbinic%20Judaism'
 artifacts:
-  - title: Rabbinic Judaism Historical Sanctuary & Relics
+  - title: Rabbinic Judaism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Rabbinic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Rabbinic Judaism.
+      Rabbinic Judaism (Hebrew: יהדות רבנית, romanized: Yahadut Rabanit), also
+      called Rabbinism, Rabbinicism, or Rabbanite Judaism, is rooted in the many
+      forms of Judaism that coexisted...
+    imageUrl: /artifacts/rabbinic-judaism-1.jpg
   - title: Rabbinic Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Rabbinic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
@@ -59,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Rabbinic Judaism.
+    imageUrl: /artifacts/rabbinic-judaism-2.jpg
 ---
 
 # Rabbinic Judaism

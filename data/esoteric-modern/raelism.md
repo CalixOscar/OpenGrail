@@ -44,20 +44,29 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Raëlism'
     url: 'https://brill.com/search?q=Ra%C3%ABlism'
 artifacts:
-  - title: Raëlism Historical Sanctuary & Relics
+  - title: Raëlism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Ra%C3%ABlism'
     provenance: 'London, England, UK'
     period: c. 1974 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Raëlism.
-  - title: Raëlism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ra%C3%ABlism'
+      Raëlism, also known as Raëlianism, is a UFO religion founded in the 1970s
+      in France by Claude Vorilhon, now known as Raël. Scholars of religion
+      classify Raëlism as a new religious...
+  - title: >-
+      Olds' 1917 catalog. 30th season - "Olds' catalog tells the truth" - L.L.
+      Olds Seed Company. (IA CAT31300001) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Olds%27_1917_catalog._30th_season_-_%22Olds%27_catalog_tells_the_truth%22_-_L.L._Olds_Seed_Company._(IA_CAT31300001).pdf
     provenance: 'London, England, UK'
     period: c. 1974 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Raëlism.
+      Cover title
+
+      Includes index
+
+      Subjects: Nursery stock Wisconsin Clinton Catalogs; Vegetables Seeds
+      Catalogs; Grasses Seeds Catalogs; Flowers Seeds Catalogs; Agricultural
+      implements C...
 ---
 
 # Raëlism

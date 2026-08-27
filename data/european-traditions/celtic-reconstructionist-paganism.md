@@ -55,20 +55,23 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Celtic Reconstructionist Paganism'
     url: 'https://brill.com/search?q=Celtic%20Reconstructionist%20Paganism'
 artifacts:
-  - title: Celtic Reconstructionist Paganism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Celtic_Reconstructionist_Paganism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Glastonbury, Somerset, England, UK'
+    period: c. 1980s CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/celtic-reconstructionist-paganism-1.jpg
+  - title: Welsh Medieval Law Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Welsh_Medieval_Law.djvu'
     provenance: 'Glastonbury, Somerset, England, UK'
     period: c. 1980s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Celtic Reconstructionist Paganism.
-  - title: Celtic Reconstructionist Paganism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Celtic_Reconstructionist_Paganism'
-    provenance: 'Glastonbury, Somerset, England, UK'
-    period: c. 1980s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Celtic Reconstructionist Paganism.
+      Translation and reprint of the British Museum Harlein MS. 4353 of 13th
+      Century; or, Llyfr Cyfnerf...
+    imageUrl: /artifacts/celtic-reconstructionist-paganism-1.jpg
 ---
 
 # Celtic Reconstructionist Paganism

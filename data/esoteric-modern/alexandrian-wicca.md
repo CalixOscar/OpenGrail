@@ -45,20 +45,30 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Alexandrian Wicca'
     url: 'https://brill.com/search?q=Alexandrian%20Wicca'
 artifacts:
-  - title: Alexandrian Wicca Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Alexandrian_Wicca'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'New Forest, Hampshire, England, UK'
+    period: c. 1960s CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/alexandrian-wicca-1.jpg
+  - title: >-
+      Philo Judaeus; or, The Jewish-Alexandrian philosophy in its development
+      and completion (IA philojudaeusorje02drum) Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Philo_Judaeus;_or,_The_Jewish-Alexandrian_philosophy_in_its_development_and_completion_(IA_philojudaeusorje02drum).pdf
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1960s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Alexandrian Wicca.
-  - title: Alexandrian Wicca Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Alexandrian_Wicca'
-    provenance: 'New Forest, Hampshire, England, UK'
-    period: c. 1960s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Alexandrian Wicca.
+      "The introduction was published, substantially, in 1877 in the form of a
+      college address."
+
+
+      Subjects: Philo, of Alexandria...
+    imageUrl: /artifacts/alexandrian-wicca-1.jpg
 ---
 
 # Alexandrian Wicca

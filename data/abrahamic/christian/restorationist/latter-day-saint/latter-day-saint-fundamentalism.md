@@ -57,7 +57,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Latter%20Day%20Saint%20Fundamentalism
 artifacts:
-  - title: Latter Day Saint Fundamentalism Historical Sanctuary & Relics
+  - title: Latter Day Saint Fundamentalism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_Fundamentalism'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1890s CE

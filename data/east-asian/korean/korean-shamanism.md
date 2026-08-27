@@ -46,20 +46,24 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Korean%20Shamanic%20Traditions
 artifacts:
-  - title: Korean Shamanic Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Shamanic_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. ancient
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Korean Shamanic Traditions.
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/korean-shamanism-1.jpg
   - title: Korean Shamanic Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Shamanic_Traditions'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Seoul (Hanyang), South Korea'
     period: c. ancient
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Korean Shamanic Traditions.
+    imageUrl: /artifacts/korean-shamanism-1.jpg
 ---
 
 # Korean Shamanic Traditions

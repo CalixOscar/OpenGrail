@@ -49,13 +49,14 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Eritrean%20Orthodox%20Tewahedo%20Church
 artifacts:
-  - title: Eritrean Orthodox Tewahedo Church Historical Sanctuary & Relics
+  - title: Eritrean Orthodox Tewahedo Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Eritrean_Orthodox_Tewahedo_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1993 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Eritrean Orthodox Tewahedo Church.
+      The Eritrean Orthodox Tewahedo Church (Tigrinya: ናይ ኦርቶዶክስ ተዋሕዶ ኤርትራ,
+      romanized: beta krstyan tawahdo ertra) is one of the Oriental Orthodox
+      Churches with its headquarters in Asmar...
     imageUrl: /artifacts/eritrean-orthodox-tewahedo-church-1.jpg
   - title: Eritrean Orthodox Tewahedo Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Eritrean_Orthodox_Tewahedo_Church'

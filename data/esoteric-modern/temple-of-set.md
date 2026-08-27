@@ -44,20 +44,26 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Temple of Set'
     url: 'https://brill.com/search?q=Temple%20of%20Set'
 artifacts:
-  - title: Temple of Set Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Temple_of_Set'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'San Francisco, California, USA'
     period: c. 1975 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Temple of Set.
-  - title: Temple of Set Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Temple_of_Set'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/temple-of-set-1.jpg
+  - title: >-
+      The Book of the Thousand Nights and One Night, Vol 2 Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Book_of_the_Thousand_Nights_and_One_Night,_Vol_2.djvu
     provenance: 'San Francisco, California, USA'
     period: c. 1975 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Temple of Set.
+    imageUrl: /artifacts/temple-of-set-1.jpg
 ---
 
 # Temple of Set

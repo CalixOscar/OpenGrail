@@ -48,20 +48,27 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Reclaiming Tradition'
     url: 'https://brill.com/search?q=Reclaiming%20Tradition'
 artifacts:
-  - title: Reclaiming Tradition Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Reclaiming_Tradition'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'London, England, UK'
+    period: c. 1979 CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/reclaiming-tradition-1.jpg
+  - title: >-
+      A wanderer dancing the dance of stars and space Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:A_wanderer_dancing_the_dance_of_stars_and_space.jpg
     provenance: 'London, England, UK'
     period: c. 1979 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Reclaiming Tradition.
-  - title: Reclaiming Tradition Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Reclaiming_Tradition'
-    provenance: 'London, England, UK'
-    period: c. 1979 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Reclaiming Tradition.
+      The NASA/ESA Hubble Space Telescope provides us this week with a
+      spectacular image of the bright star-forming ring that surrounds the heart
+      of the barred spiral galaxy NGC 1097. In...
+    imageUrl: /artifacts/reclaiming-tradition-1.jpg
 ---
 
 # Reclaiming Tradition

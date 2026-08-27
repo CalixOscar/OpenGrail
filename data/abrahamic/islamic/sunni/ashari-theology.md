@@ -42,13 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ash''ari Theology'
     url: 'https://www.cambridge.org/core/search?q=Ash''ari%20Theology'
 artifacts:
-  - title: Ash'ari Theology Historical Sanctuary & Relics
+  - title: Ash'ari Theology Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Ash''ari_Theology'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 10th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ash'ari Theology.
+    imageUrl: /artifacts/ashari-theology-1.jpg
   - title: Ash'ari Theology Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ash''ari_Theology'
     provenance: 'Jerusalem, Southern Levant'
@@ -56,6 +57,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Ash'ari Theology.
+    imageUrl: /artifacts/ashari-theology-2.jpg
 ---
 
 # Ash'ari Theology

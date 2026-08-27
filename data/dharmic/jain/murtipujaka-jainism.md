@@ -48,22 +48,24 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=M%C5%ABrtip%C5%ABjaka%20%C5%9Avet%C4%81mbara%20Jainism
 artifacts:
-  - title: Mūrtipūjaka Śvetāmbara Jainism Historical Sanctuary & Relics
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
     sourceUrl: >-
-      https://en.wikipedia.org/wiki/M%C5%ABrtip%C5%ABjaka_%C5%9Avet%C4%81mbara_Jainism
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. medieval period
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Mūrtipūjaka Śvetāmbara Jainism.
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/murtipujaka-jainism-1.jpg
   - title: Mūrtipūjaka Śvetāmbara Jainism Sacred Scripture & Art
     sourceUrl: >-
-      https://en.wikipedia.org/wiki/M%C5%ABrtip%C5%ABjaka_%C5%9Avet%C4%81mbara_Jainism
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. medieval period
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Mūrtipūjaka Śvetāmbara Jainism.
+    imageUrl: /artifacts/murtipujaka-jainism-1.jpg
 ---
 
 # Mūrtipūjaka Śvetāmbara Jainism

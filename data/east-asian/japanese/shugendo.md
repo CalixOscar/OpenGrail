@@ -45,13 +45,15 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shugend%C5%8D'
 artifacts:
-  - title: Shugendō Historical Sanctuary & Relics
+  - title: Shugendō Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Shugend%C5%8D'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Shugendō.
+      Shugendō (修験道, lit. 'the "Way [of] Trial [and] Practice", the "Way of
+      Shugen, or Gen-practice"') is an Esoteric Buddhist religion, associated
+      with a body of ascetic practices that...
+    imageUrl: /artifacts/shugendo-1.jpg
   - title: Shugendō Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Shugend%C5%8D'
     provenance: 'Qufu, Shandong, China'
@@ -59,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Shugendō.
+    imageUrl: /artifacts/shugendo-1.jpg
 ---
 
 # Shugendō

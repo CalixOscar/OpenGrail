@@ -54,20 +54,26 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Rim%C3%A9%20Movement'
 artifacts:
-  - title: Rimé Movement Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rim%C3%A9_Movement'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Lhasa (Potala), U-Tsang, Tibet'
+    period: c. 19th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/rime-movement-1.jpg
+  - title: >-
+      Golden Treasury of English Songs and Lyrics Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Golden_Treasury_of_English_Songs_and_Lyrics.djvu
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 19th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Rimé Movement.
-  - title: Rimé Movement Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rim%C3%A9_Movement'
-    provenance: 'Lhasa (Potala), U-Tsang, Tibet'
-    period: c. 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Rimé Movement.
+      The Golden treasury of the best songs and lyrical poems in the English
+      language...
+    imageUrl: /artifacts/rime-movement-2.jpg
 ---
 
 # Rimé Movement

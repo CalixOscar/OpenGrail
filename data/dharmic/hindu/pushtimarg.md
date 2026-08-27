@@ -48,20 +48,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
 artifacts:
-  - title: Puṣṭimārga Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 15th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Puṣṭimārga.
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/pushtimarg-1.jpg
   - title: Puṣṭimārga Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. late 15th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Puṣṭimārga.
+    imageUrl: /artifacts/pushtimarg-1.jpg
 ---
 
 # Puṣṭimārga

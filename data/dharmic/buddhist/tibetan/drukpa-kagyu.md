@@ -45,20 +45,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Drukpa%20Kagyu'
 artifacts:
-  - title: Drukpa Kagyu Historical Sanctuary & Relics
+  - title: Drukpa Kagyu Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Drukpa_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Drukpa Kagyu.
-  - title: Drukpa Kagyu Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Drukpa_Kagyu'
+      The Drukpa or Drukpa Kagyu (Dzongkha: འབྲུག་པ་བཀའ་བརྒྱུད) lineage,
+      sometimes called Dugpa in older sources, is a branch of the Kagyu school
+      of Tibetan Buddhism. The Kagyu school is...
+    imageUrl: /artifacts/drukpa-kagyu-1.jpg
+  - title: Kanjur Tenjur Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kanjur_Tenjur.jpg'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Drukpa Kagyu.
+    description: Monastic library with Kanjur and Tanjur on the bookshelves (Riwoche)...
+    imageUrl: /artifacts/drukpa-kagyu-2.jpg
 ---
 
 # Drukpa Kagyu

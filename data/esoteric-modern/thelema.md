@@ -45,20 +45,25 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Thelema'
     url: 'https://brill.com/search?q=Thelema'
 artifacts:
-  - title: Thelema Historical Sanctuary & Relics
+  - title: Thelema Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Thelema'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1904 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Thelema.
-  - title: Thelema Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Thelema'
+    imageUrl: /artifacts/thelema-1.jpg
+  - title: >-
+      Joseph Martin Kronheim - Foxe's Book of Martyrs Plate VIII - Prest's Wife
+      and the Stonemason Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Joseph_Martin_Kronheim_-_Foxe%27s_Book_of_Martyrs_Plate_VIII_-_Prest%27s_Wife_and_the_Stonemason.jpg
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1904 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Thelema.
+      "Prest's Wife and the Stonemason", from an 1887 copy of Foxe's Book of
+      Martyrs illustrated by Kronheim....
+    imageUrl: /artifacts/thelema-1.jpg
 ---
 
 # Thelema

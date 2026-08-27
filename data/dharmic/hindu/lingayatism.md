@@ -45,20 +45,26 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Li%E1%B9%85g%C4%81yat%20Tradition
 artifacts:
-  - title: Liṅgāyat Tradition Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Li%E1%B9%85g%C4%81yat_Tradition'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 12th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/lingayatism-1.jpg
+  - title: >-
+      Plam leaf of 11th and 12th Century with Vachanas Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Plam_leaf_of_11th_and_12th_Century_with_Vachanas.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 12th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Liṅgāyat Tradition.
-  - title: Liṅgāyat Tradition Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Li%E1%B9%85g%C4%81yat_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Liṅgāyat Tradition.
+      Plam leaf of 11th and 12th Century with Vachana poems in Kannada
+      language...
+    imageUrl: /artifacts/lingayatism-2.jpg
 ---
 
 # Liṅgāyat Tradition

@@ -56,20 +56,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Manichaeism'
     url: 'https://brill.com/search?q=Manichaeism'
 artifacts:
-  - title: Manichaeism Historical Sanctuary & Relics
+  - title: Manichaeism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Manichaeism'
     provenance: 'Isfahan, Iran'
     period: c. c. 240 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Manichaeism.
-  - title: Manichaeism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Manichaeism'
+      Manichaeism (; Persian: آئین مانی, romanized: Āʾīn-i Mānī; Chinese: 摩尼教;
+      pinyin: Móníjiào) was a major world religion founded in the third century
+      CE by the Parthian Iranian prophe...
+    imageUrl: /artifacts/manichaeism-1.jpg
+  - title: M0497bplus recto - Copy Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:M0497bplus_recto_-_Copy.jpg'
     provenance: 'Isfahan, Iran'
     period: c. c. 240 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Manichaeism.
+      شاپورگان مانی، به زبان فارسی میانه و به خط مانوی، نوشته شده در سال 240
+      میلادی، برگی از دستنویسی از حدود سده هشتم میلادی، کشف شده در تورفان چین و
+      محفوظ در موزه برلین (M0497)...
+    imageUrl: /artifacts/manichaeism-1.jpg
 ---
 
 # Manichaeism

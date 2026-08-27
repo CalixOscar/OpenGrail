@@ -39,20 +39,32 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Celtic Religions'
     url: 'https://brill.com/search?q=Ancient%20Celtic%20Religions'
 artifacts:
-  - title: Ancient Celtic Religions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Celtic_Religions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. c. 800 BCE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/celtic-religion-1.jpg
+  - title: >-
+      The Archaeological journal (IA archaeologicaljo50brit) Canonical Scripture
+      & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Archaeological_journal_(IA_archaeologicaljo50brit).pdf
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 800 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ancient Celtic Religions.
-  - title: Ancient Celtic Religions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Celtic_Religions'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 800 BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ancient Celtic Religions.
+      Avery index to architectural periodicals. Second edition. Revised and
+      enlarged. Supplement
+
+      Art index
+
+      Architectural periodicals index
+
+      RILA. Répertoire international de la littératu...
+    imageUrl: /artifacts/celtic-religion-1.jpg
 ---
 
 # Ancient Celtic Religions

@@ -50,9 +50,8 @@ sources:
 artifacts:
   - title: >-
       Church of Jesus Christ of Latter Day Saints (Strangite) Historical
-      Sanctuary & Relics
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/Church_of_Jesus_Christ_of_Latter_Day_Saints_(Strangite)
+      Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Jesus_Christ_of_Latter_Day_Saints'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1844 CE
     description: >-
@@ -62,8 +61,7 @@ artifacts:
   - title: >-
       Church of Jesus Christ of Latter Day Saints (Strangite) Sacred Scripture &
       Art
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/Church_of_Jesus_Christ_of_Latter_Day_Saints_(Strangite)
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Jesus_Christ_of_Latter_Day_Saints'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1844 CE
     description: >-

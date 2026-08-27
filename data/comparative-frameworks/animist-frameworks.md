@@ -41,13 +41,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Animist%20Frameworks'
 artifacts:
-  - title: Animist Frameworks Historical Sanctuary & Relics
+  - title: Animist Frameworks Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Animist_Frameworks'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. ancient practices; 19th-century category
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Animist Frameworks.
+    imageUrl: /artifacts/animist-frameworks-1.jpg
   - title: Animist Frameworks Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Animist_Frameworks'
     provenance: 'Ile-Ife, Osun, Nigeria'
@@ -55,6 +56,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Animist Frameworks.
+    imageUrl: /artifacts/animist-frameworks-2.jpg
 ---
 
 # Animist Frameworks

@@ -45,13 +45,16 @@ sources:
       Brethren
     url: 'https://www.cambridge.org/core/search?q=Apostolic%20United%20Brethren'
 artifacts:
-  - title: Apostolic United Brethren Historical Sanctuary & Relics
+  - title: Apostolic United Brethren Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Apostolic_United_Brethren'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1954 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Apostolic United Brethren.
+      The Apostolic United Brethren (AUB) is a Mormon fundamentalist group that
+      practices polygamy.
+
+      The AUB has older roots, but became a distinct organization in the 1950s.
+      The group ha...
     imageUrl: /artifacts/apostolic-united-brethren-1.jpg
   - title: Apostolic United Brethren Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Apostolic_United_Brethren'

@@ -45,20 +45,21 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Eckankar'
     url: 'https://brill.com/search?q=Eckankar'
 artifacts:
-  - title: Eckankar Historical Sanctuary & Relics
+  - title: Eckankar Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Eckankar'
     provenance: 'London, England, UK'
     period: c. 1965 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Eckankar.
-  - title: Eckankar Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Eckankar'
+      Eckankar ( EK-ən-kar) is an American new religious movement founded by
+      Paul Twitchell in 1965. The group’s spiritual home is the Temple of ECK in
+      Chanhassen, Minnesota. Eckankar is...
+  - title: 2013-0718-TempleofEck Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:2013-0718-TempleofEck.jpg'
     provenance: 'London, England, UK'
     period: c. 1965 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Eckankar.
+      Temple of ECK at Eckankar's international headquarters are in Chanhassen,
+      Minnesota, USA....
 ---
 
 # Eckankar

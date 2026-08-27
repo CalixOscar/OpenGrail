@@ -40,20 +40,28 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Zhengyi%20Daoism'
 artifacts:
-  - title: Zhengyi Daoism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zhengyi_Daoism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Qufu, Shandong, China'
+    period: c. 2nd century CE; later Zhengyi formation
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/zhengyi-daoism-1.jpg
+  - title: >-
+      Grand Temple, Freemasons' Hall, London 2017-09-17-4 Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Grand_Temple,_Freemasons%27_Hall,_London_2017-09-17-4.jpg
     provenance: 'Qufu, Shandong, China'
     period: c. 2nd century CE; later Zhengyi formation
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Zhengyi Daoism.
-  - title: Zhengyi Daoism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zhengyi_Daoism'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 2nd century CE; later Zhengyi formation
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Zhengyi Daoism.
+      Ceiling of the Grand Temple, Freemasons' Hall.
+
+      In the centre is the celestial sky. The border has the arms of the United
+      Grand Lodge of England at each corner. Surrounding this is...
+    imageUrl: /artifacts/zhengyi-daoism-2.jpg
 ---
 
 # Zhengyi Daoism

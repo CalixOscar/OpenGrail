@@ -45,13 +45,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Moabite Religion'
     url: 'https://brill.com/search?q=Moabite%20Religion'
 artifacts:
-  - title: Moabite Religion Historical Sanctuary & Relics
+  - title: Moabite Religion Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Moabite_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1000 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Moabite Religion.
+    imageUrl: /artifacts/moabite-religion-1.jpg
   - title: Moabite Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Moabite_Religion'
     provenance: 'Babylon, Mesopotamia'
@@ -59,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Moabite Religion.
+    imageUrl: /artifacts/moabite-religion-2.jpg
 ---
 
 # Moabite Religion

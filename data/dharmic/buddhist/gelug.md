@@ -43,13 +43,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Gelug'
 artifacts:
-  - title: Gelug Historical Sanctuary & Relics
+  - title: Gelug Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Gelug'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 15th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Gelug.
+      The Gelug (, also Geluk; lit. 'virtuous') is the youngest of the four
+      major schools of Tibetan Buddhism. It was founded by Je Tsongkhapa
+      (1357–1419), a Tibetan philosopher, tantric...
+    imageUrl: /artifacts/gelug-1.jpg
   - title: Gelug Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Gelug'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -57,6 +59,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Gelug.
+    imageUrl: /artifacts/gelug-1.jpg
 ---
 
 # Gelug

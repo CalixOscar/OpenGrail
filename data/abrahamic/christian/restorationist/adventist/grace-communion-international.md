@@ -43,7 +43,7 @@ sources:
       International
     url: 'https://www.cambridge.org/core/search?q=Grace%20Communion%20International'
 artifacts:
-  - title: Grace Communion International Historical Sanctuary & Relics
+  - title: Grace Communion International Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Grace_Communion_International'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1995 CE

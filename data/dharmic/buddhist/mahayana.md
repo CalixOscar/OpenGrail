@@ -46,13 +46,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81y%C4%81na%20Buddhism'
 artifacts:
-  - title: Mahāyāna Buddhism Historical Sanctuary & Relics
+  - title: Mahāyāna Buddhism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81y%C4%81na_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1st century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Mahāyāna Buddhism.
+    imageUrl: /artifacts/mahayana-1.jpg
   - title: Mahāyāna Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81y%C4%81na_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -60,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Mahāyāna Buddhism.
+    imageUrl: /artifacts/mahayana-2.jpg
 ---
 
 # Mahāyāna Buddhism

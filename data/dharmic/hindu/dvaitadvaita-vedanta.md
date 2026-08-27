@@ -48,20 +48,24 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Dvait%C4%81dvaita%20Ved%C4%81nta
 artifacts:
-  - title: Dvaitādvaita Vedānta Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dvait%C4%81dvaita_Ved%C4%81nta'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 12th–13th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Dvaitādvaita Vedānta.
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/dvaitadvaita-vedanta-1.jpg
   - title: Dvaitādvaita Vedānta Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dvait%C4%81dvaita_Ved%C4%81nta'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 12th–13th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Dvaitādvaita Vedānta.
+    imageUrl: /artifacts/dvaitadvaita-vedanta-1.jpg
 ---
 
 # Dvaitādvaita Vedānta

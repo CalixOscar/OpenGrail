@@ -50,13 +50,15 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Epicureanism'
     url: 'https://brill.com/search?q=Epicureanism'
 artifacts:
-  - title: Epicureanism Historical Sanctuary & Relics
+  - title: Epicureanism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Epicureanism'
     provenance: 'Athens, Attica, Greece'
     period: c. 306 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Epicureanism.
+      Epicureanism, less commonly Epicurism, is a school of philosophy founded
+      in 307 BCE and based upon the teachings of Epicurus, an ancient Greek
+      philosopher. Epicurus was an atomist...
+    imageUrl: /artifacts/epicureanism-1.jpg
   - title: Epicureanism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Epicureanism'
     provenance: 'Athens, Attica, Greece'
@@ -64,6 +66,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Epicureanism.
+    imageUrl: /artifacts/epicureanism-2.jpg
 ---
 
 # Epicureanism

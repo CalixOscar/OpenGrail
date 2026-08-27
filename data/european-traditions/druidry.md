@@ -43,20 +43,26 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Druidry'
     url: 'https://brill.com/search?q=Modern%20Druidry'
 artifacts:
-  - title: Modern Druidry Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Druidry'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Glastonbury, Somerset, England, UK'
     period: c. 18th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Modern Druidry.
-  - title: Modern Druidry Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Druidry'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/druidry-1.jpg
+  - title: >-
+      Ancient Britain in the light of modern archæological discoveries (IA
+      ancientbritainin01delm) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Ancient_Britain_in_the_light_of_modern_arch%C3%A6ological_discoveries_(IA_ancientbritainin01delm).pdf
     provenance: 'Glastonbury, Somerset, England, UK'
     period: c. 18th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Modern Druidry.
+    imageUrl: /artifacts/druidry-1.jpg
 ---
 
 # Modern Druidry

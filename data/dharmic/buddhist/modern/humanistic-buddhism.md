@@ -50,13 +50,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Humanistic%20Buddhism'
 artifacts:
-  - title: Humanistic Buddhism Historical Sanctuary & Relics
+  - title: Humanistic Buddhism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Humanistic_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Humanistic Buddhism.
+    imageUrl: /artifacts/humanistic-buddhism-1.jpg
   - title: Humanistic Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Humanistic_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -64,6 +65,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Humanistic Buddhism.
+    imageUrl: /artifacts/humanistic-buddhism-1.jpg
 ---
 
 # Humanistic Buddhism

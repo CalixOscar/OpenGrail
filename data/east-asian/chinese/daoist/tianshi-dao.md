@@ -48,20 +48,27 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Way%20of%20the%20Celestial%20Masters
 artifacts:
-  - title: Way of the Celestial Masters Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Way_of_the_Celestial_Masters'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Luoyang, Henan, China'
     period: c. 142 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Way of the Celestial Masters.
-  - title: Way of the Celestial Masters Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Way_of_the_Celestial_Masters'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/tianshi-dao-1.jpg
+  - title: >-
+      Zhu yi xiang - (er juan) (IA gri 33125008260248) Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Zhu_yi_xiang_-_(er_juan)_(IA_gri_33125008260248).pdf
     provenance: 'Luoyang, Henan, China'
     period: c. 142 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Way of the Celestial Masters.
+    description: |-
+      Butterfly binding, red-and-gold silk brocade covers
+      Copy of Yi xiang tu with Latin title page
+      Subjects: Astronomical instruments; Astronomical instruments...
+    imageUrl: /artifacts/tianshi-dao-2.jpg
 ---
 
 # Way of the Celestial Masters

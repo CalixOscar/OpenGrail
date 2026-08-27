@@ -45,13 +45,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Balinese%20Hinduism'
 artifacts:
-  - title: Balinese Hinduism Historical Sanctuary & Relics
+  - title: Balinese Hinduism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Balinese_Hinduism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Balinese Hinduism.
+      Balinese Hinduism (Balinese: ᬳᬶᬦ᭄ᬤᬸᬩᬮᬶ; Indonesian: Hindu Bali or Agama
+      Hindu Dharma) is a distinct form of Hinduism practised primarily on the
+      island of Bali, Indonesia. It develo...
+    imageUrl: /artifacts/balinese-hinduism-1.jpg
   - title: Balinese Hinduism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Balinese_Hinduism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -59,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Balinese Hinduism.
+    imageUrl: /artifacts/balinese-hinduism-1.jpg
 ---
 
 # Balinese Hinduism

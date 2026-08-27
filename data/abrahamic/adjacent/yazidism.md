@@ -42,7 +42,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Yazidism'
     url: 'https://www.cambridge.org/core/search?q=Yazidism'
 artifacts:
-  - title: Yazidism Historical Sanctuary & Relics
+  - title: Yazidism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Yazidism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 12th century CE

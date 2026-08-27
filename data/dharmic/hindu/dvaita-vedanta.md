@@ -45,20 +45,27 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Dvaita%20Ved%C4%81nta'
 artifacts:
-  - title: Dvaita Vedānta Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dvaita_Ved%C4%81nta'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Dvaita Vedānta.
-  - title: Dvaita Vedānta Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dvaita_Ved%C4%81nta'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/dvaita-vedanta-1.jpg
+  - title: >-
+      The teachings of Vedanta according to Ramanuja (IA
+      teachingsofvedan00sukhrich) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_teachings_of_Vedanta_according_to_Ramanuja_(IA_teachingsofvedan00sukhrich).pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 13th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Dvaita Vedānta.
+    description: |-
+      Thesis--Bonn
+      Includes bibliographical references
+      Subjects: Ramanuja, 1017-1137; Vedanta...
+    imageUrl: /artifacts/dvaita-vedanta-2.jpg
 ---
 
 # Dvaita Vedānta

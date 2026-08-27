@@ -45,20 +45,27 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Falun%20Gong'
 artifacts:
-  - title: Falun Gong Historical Sanctuary & Relics
+  - title: Falun Gong Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Falun_Gong'
     provenance: 'Beijing (Forbidden City), China'
     period: c. 1992 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Falun Gong.
-  - title: Falun Gong Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Falun_Gong'
+      Falun Gong, also called Falun Dafa, is a new religious movement founded by
+      Li Hongzhi in China in the early 1990s. The movement was built on interest
+      in qigong with additional reli...
+    imageUrl: /artifacts/falun-gong-1.jpg
+  - title: >-
+      FALUN GONG AND CHINA'S CONTINUING WAR ON HUMAN RIGHTS (IA
+      gov.gpo.fdsys.CHRG-109hhrg22579) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:FALUN_GONG_AND_CHINA%27S_CONTINUING_WAR_ON_HUMAN_RIGHTS_(IA_gov.gpo.fdsys.CHRG-109hhrg22579).pdf
     provenance: 'Beijing (Forbidden City), China'
     period: c. 1992 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Falun Gong.
+      Government Publishing OfficeU.S. CongressHouse of RepresentativesCommittee
+      on Foreign AffairsFALUN GONG AND CHINA'S CONTINUING WAR ON HUMAN
+      RIGHTSDate(s) Held: 2005-07-21 109th Co...
+    imageUrl: /artifacts/falun-gong-2.jpg
 ---
 
 # Falun Gong

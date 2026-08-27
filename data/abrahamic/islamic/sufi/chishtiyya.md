@@ -44,13 +44,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Chishtiyya'
     url: 'https://www.cambridge.org/core/search?q=Chishtiyya'
 artifacts:
-  - title: Chishtiyya Historical Sanctuary & Relics
+  - title: Chishtiyya Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Chishtiyya'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 12th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Chishtiyya.
+    imageUrl: /artifacts/chishtiyya-1.jpg
   - title: Chishtiyya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Chishtiyya'
     provenance: 'Jerusalem, Southern Levant'
@@ -58,6 +59,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Chishtiyya.
+    imageUrl: /artifacts/chishtiyya-2.jpg
 ---
 
 # Chishtiyya

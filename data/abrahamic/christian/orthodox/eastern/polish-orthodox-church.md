@@ -49,7 +49,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Polish%20Autocephalous%20Orthodox%20Church
 artifacts:
-  - title: Polish Autocephalous Orthodox Church Historical Sanctuary & Relics
+  - title: Polish Autocephalous Orthodox Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Polish_Autocephalous_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1924 CE

@@ -51,8 +51,8 @@ sources:
       Movement
     url: 'https://www.cambridge.org/core/search?q=Latter%20Day%20Saint%20Movement'
 artifacts:
-  - title: Latter Day Saint Movement Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_Movement'
+  - title: Latter Day Saint movement Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_movement'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1830 CE
     description: >-
@@ -60,7 +60,7 @@ artifacts:
       associated with Latter Day Saint Movement.
     imageUrl: /artifacts/latter-day-saint-movement-1.jpg
   - title: Latter Day Saint Movement Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_Movement'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_movement'
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1830 CE
     description: >-

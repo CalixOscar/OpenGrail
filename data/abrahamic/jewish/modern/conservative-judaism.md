@@ -42,13 +42,15 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Conservative%20Judaism'
 artifacts:
-  - title: Conservative Judaism Historical Sanctuary & Relics
+  - title: Conservative Judaism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Conservative_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 19th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Conservative Judaism.
+      Conservative Judaism, also known as Masorti Judaism, is a Jewish religious
+      movement that regards the authority of Jewish law and tradition as
+      emanating primarily from the assent of...
+    imageUrl: /artifacts/conservative-judaism-1.jpg
   - title: Conservative Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Conservative_Judaism'
     provenance: 'Jerusalem, Southern Levant'
@@ -56,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Conservative Judaism.
+    imageUrl: /artifacts/conservative-judaism-2.jpg
 ---
 
 # Conservative Judaism

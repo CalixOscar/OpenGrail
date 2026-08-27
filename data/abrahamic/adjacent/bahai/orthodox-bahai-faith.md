@@ -47,7 +47,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Orthodox%20Bah%C3%A1'%C3%AD%20Faith
 artifacts:
-  - title: Orthodox Bahá'í Faith Historical Sanctuary & Relics
+  - title: Orthodox Bahá'í Faith Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Bah%C3%A1''%C3%AD_Faith'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1960 CE

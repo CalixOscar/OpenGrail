@@ -42,7 +42,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Anglicanism'
     url: 'https://www.cambridge.org/core/search?q=Anglicanism'
 artifacts:
-  - title: Anglicanism Historical Sanctuary & Relics
+  - title: Anglicanism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Anglicanism'
     provenance: 'Canterbury, Kent, England, UK'
     period: c. 1530s CE

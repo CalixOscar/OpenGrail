@@ -46,7 +46,7 @@ sources:
       Pentecostalism
     url: 'https://www.cambridge.org/core/search?q=Oneness%20Pentecostalism'
 artifacts:
-  - title: Oneness Pentecostalism Historical Sanctuary & Relics
+  - title: Oneness Pentecostalism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Oneness_Pentecostalism'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1913 CE

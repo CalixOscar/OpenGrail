@@ -49,7 +49,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=African%20Methodist%20Episcopal%20Church
 artifacts:
-  - title: African Methodist Episcopal Church Historical Sanctuary & Relics
+  - title: African Methodist Episcopal Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/African_Methodist_Episcopal_Church'
     provenance: 'Oxford, Oxfordshire, England, UK'
     period: c. 1816 CE

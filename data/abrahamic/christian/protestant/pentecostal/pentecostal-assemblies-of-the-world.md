@@ -47,7 +47,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Pentecostal%20Assemblies%20of%20the%20World
 artifacts:
-  - title: Pentecostal Assemblies of the World Historical Sanctuary & Relics
+  - title: Pentecostal Assemblies of the World Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Pentecostal_Assemblies_of_the_World'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1906 CE

@@ -48,20 +48,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=N%C4%81th%20Tradition'
 artifacts:
-  - title: Nāth Tradition Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/N%C4%81th_Tradition'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 11th–12th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/nath-tradition-1.jpg
+  - title: Goraksha Shataka last folio Thanjavur MS Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Goraksha_Shataka_last_folio_Thanjavur_MS.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 11th–12th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Nāth Tradition.
-  - title: Nāth Tradition Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/N%C4%81th_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 11th–12th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Nāth Tradition.
+      The last folio of the Thanjavur manuscript of the 13th century Hatha yoga
+      text, Goraksha Shataka....
+    imageUrl: /artifacts/nath-tradition-2.jpg
 ---
 
 # Nāth Tradition

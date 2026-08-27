@@ -42,7 +42,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Syriac Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Orthodoxy'
 artifacts:
-  - title: Syriac Orthodoxy Historical Sanctuary & Relics
+  - title: Syriac Orthodoxy Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE

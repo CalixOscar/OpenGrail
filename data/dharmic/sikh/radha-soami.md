@@ -46,20 +46,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Radha%20Soami%20Tradition'
 artifacts:
-  - title: Radha Soami Tradition Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Radha_Soami_Tradition'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Amritsar, Punjab, India'
     period: c. 1861 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Radha Soami Tradition.
-  - title: Radha Soami Tradition Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Radha_Soami_Tradition'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/radha-soami-1.jpg
+  - title: The Indian Antiquary Vol 2 Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:The_Indian_Antiquary_Vol_2.pdf'
     provenance: 'Amritsar, Punjab, India'
     period: c. 1861 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Radha Soami Tradition.
+    description: The Indian Antiquary Vol 2...
+    imageUrl: /artifacts/radha-soami-1.jpg
 ---
 
 # Radha Soami Tradition

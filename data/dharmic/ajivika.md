@@ -42,13 +42,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C4%80j%C4%ABvika%20Tradition'
 artifacts:
-  - title: Ājīvika Tradition Historical Sanctuary & Relics
+  - title: Ājīvika Tradition Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ājīvika Tradition.
+    imageUrl: /artifacts/ajivika-1.jpg
   - title: Ājīvika Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -56,6 +57,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Ājīvika Tradition.
+    imageUrl: /artifacts/ajivika-2.jpg
 ---
 
 # Ājīvika Tradition

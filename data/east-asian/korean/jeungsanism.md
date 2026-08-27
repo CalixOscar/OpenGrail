@@ -45,20 +45,24 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Jeungsanism'
 artifacts:
-  - title: Jeungsanism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jeungsanism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Jeongeup / Moaksan, Jeonbuk, South Korea'
     period: c. early 20th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Jeungsanism.
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/jeungsanism-1.jpg
   - title: Jeungsanism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jeungsanism'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Jeongeup / Moaksan, Jeonbuk, South Korea'
     period: c. early 20th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Jeungsanism.
+    imageUrl: /artifacts/jeungsanism-1.jpg
 ---
 
 # Jeungsanism

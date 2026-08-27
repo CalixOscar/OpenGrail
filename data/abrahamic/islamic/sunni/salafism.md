@@ -45,13 +45,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Salafism'
     url: 'https://www.cambridge.org/core/search?q=Salafism'
 artifacts:
-  - title: Salafism Historical Sanctuary & Relics
+  - title: Salafism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Salafism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Salafism.
+    imageUrl: /artifacts/salafism-1.jpg
   - title: Salafism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Salafism'
     provenance: 'Jerusalem, Southern Levant'
@@ -59,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Salafism.
+    imageUrl: /artifacts/salafism-2.jpg
 ---
 
 # Salafism

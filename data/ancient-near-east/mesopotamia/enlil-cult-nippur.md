@@ -48,13 +48,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Enlil at Nippur'
     url: 'https://brill.com/search?q=Cult%20of%20Enlil%20at%20Nippur'
 artifacts:
-  - title: Cult of Enlil at Nippur Historical Sanctuary & Relics
+  - title: Cult of Enlil at Nippur Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Enlil_at_Nippur'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3000 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Cult of Enlil at Nippur.
+    imageUrl: /artifacts/enlil-cult-nippur-1.jpg
   - title: Cult of Enlil at Nippur Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Enlil_at_Nippur'
     provenance: 'Babylon, Mesopotamia'
@@ -62,6 +63,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Cult of Enlil at Nippur.
+    imageUrl: /artifacts/enlil-cult-nippur-2.jpg
 ---
 
 # Cult of Enlil at Nippur

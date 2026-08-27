@@ -43,7 +43,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Oriental Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Oriental%20Orthodoxy'
 artifacts:
-  - title: Oriental Orthodoxy Historical Sanctuary & Relics
+  - title: Oriental Orthodoxy Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Oriental_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 451 CE

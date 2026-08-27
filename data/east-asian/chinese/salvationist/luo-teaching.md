@@ -46,20 +46,27 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Luo%20Teaching'
 artifacts:
-  - title: Luo Teaching Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Luo_Teaching'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Qufu, Shandong, China'
+    period: c. late 15th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/luo-teaching-1.jpg
+  - title: >-
+      The dramatick works of John Dryden, Esq. In six volumes (IA
+      dramatickworksof03drydiala) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_dramatick_works_of_John_Dryden,_Esq._In_six_volumes_(IA_dramatickworksof03drydiala).pdf
     provenance: 'Qufu, Shandong, China'
     period: c. late 15th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Luo Teaching.
-  - title: Luo Teaching Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Luo_Teaching'
-    provenance: 'Qufu, Shandong, China'
-    period: c. late 15th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Luo Teaching.
+      Signatures: v. 1. A, a¹, A, B-M¹, N, NO¹, N , O-P¹, Q (A, frontispiece);
+      v. 2. A-S¹, T (A, frontispiece); v. 3. A-G¹, H, 1HI, 2HI², H, I-S¹ (A,
+      frontispiece); v. 4. A-T¹ (A, front...
+    imageUrl: /artifacts/luo-teaching-2.jpg
 ---
 
 # Luo Teaching

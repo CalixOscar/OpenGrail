@@ -44,20 +44,25 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=S%C4%81%E1%B9%83khya'
 artifacts:
-  - title: Sāṃkhya Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/S%C4%81%E1%B9%83khya'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 4th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/samkhya-1.jpg
+  - title: गौडपादकारिका Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:%E0%A4%97%E0%A5%8C%E0%A4%A1%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE.pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 4th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Sāṃkhya.
-  - title: Sāṃkhya Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/S%C4%81%E1%B9%83khya'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 4th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Sāṃkhya.
+      Gaudapada-Karika in Sanskrit, Edited With A Complete Translation Into
+      English, Notes, Introduction and Appendices - By Raghunath Damodar
+      Karmarkar...
+    imageUrl: /artifacts/samkhya-1.jpg
 ---
 
 # Sāṃkhya

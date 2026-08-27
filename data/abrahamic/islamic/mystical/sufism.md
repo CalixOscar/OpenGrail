@@ -43,13 +43,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sufism'
     url: 'https://www.cambridge.org/core/search?q=Sufism'
 artifacts:
-  - title: Sufism Historical Sanctuary & Relics
+  - title: Sufism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Sufism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sufism.
+    imageUrl: /artifacts/sufism-1.jpg
   - title: Sufism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sufism'
     provenance: 'Jerusalem, Southern Levant'
@@ -57,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Sufism.
+    imageUrl: /artifacts/sufism-2.jpg
 ---
 
 # Sufism

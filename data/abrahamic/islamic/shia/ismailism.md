@@ -42,13 +42,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ismailism'
     url: 'https://www.cambridge.org/core/search?q=Ismailism'
 artifacts:
-  - title: Ismailism Historical Sanctuary & Relics
+  - title: Ismailism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Ismailism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ismailism.
+      Ismailism, known historically and among practitioners as Batiniyya
+      (lit. 'esotericism'), is a denomination of Shia Islam. Like all Shia, the
+      Ismailis emphasize a distinction betwee...
+    imageUrl: /artifacts/ismailism-1.jpg
   - title: Ismailism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Ismailism'
     provenance: 'Jerusalem, Southern Levant'
@@ -56,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Ismailism.
+    imageUrl: /artifacts/ismailism-2.jpg
 ---
 
 # Ismailism

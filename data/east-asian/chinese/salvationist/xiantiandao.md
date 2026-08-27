@@ -46,20 +46,26 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Xiantiandao'
 artifacts:
-  - title: Xiantiandao Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Xiantiandao'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Qufu, Shandong, China'
+    period: c. 18th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/xiantiandao-1.jpg
+  - title: >-
+      菊花-金書寶卷 Chrysanthemum morifolium 'Gold Book Precious Scroll' -香港圓玄學院 Hong
+      Kong Yuen Yuen Institute- (12084953135) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:%E8%8F%8A%E8%8A%B1-%E9%87%91%E6%9B%B8%E5%AF%B6%E5%8D%B7_Chrysanthemum_morifolium_%27Gold_Book_Precious_Scroll%27_-%E9%A6%99%E6%B8%AF%E5%9C%93%E7%8E%84%E5%AD%B8%E9%99%A2_Hong_Kong_Yuen_Yuen_Institute-_(12084953135).jpg
     provenance: 'Qufu, Shandong, China'
     period: c. 18th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Xiantiandao.
-  - title: Xiantiandao Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Xiantiandao'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 18th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Xiantiandao.
+      菊花-金書寶卷 Chrysanthemum morifolium 'Gold Book Precious Scroll'  [香港圓玄學院 Hong
+      Kong Yuen Yuen Institute]...
+    imageUrl: /artifacts/xiantiandao-2.jpg
 ---
 
 # Xiantiandao

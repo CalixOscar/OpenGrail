@@ -47,7 +47,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=United%20Pentecostal%20Church%20International
 artifacts:
-  - title: United Pentecostal Church International Historical Sanctuary & Relics
+  - title: United Pentecostal Church International Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/United_Pentecostal_Church_International'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1945 CE

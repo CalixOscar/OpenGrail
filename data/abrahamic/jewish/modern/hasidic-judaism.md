@@ -43,13 +43,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Hasidic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Hasidic%20Judaism'
 artifacts:
-  - title: Hasidic Judaism Historical Sanctuary & Relics
+  - title: Hasidic Judaism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Hasidic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1740s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Hasidic Judaism.
+      Hasidism (Hebrew: חסידות, romanized: Ḥăsīdūt) or Hasidic Judaism is a
+      religious movement within Judaism that arose in the 18th century as a
+      spiritual revival movement in contempora...
+    imageUrl: /artifacts/hasidic-judaism-1.jpg
   - title: Hasidic Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Hasidic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
@@ -57,6 +59,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Hasidic Judaism.
+    imageUrl: /artifacts/hasidic-judaism-2.jpg
 ---
 
 # Hasidic Judaism

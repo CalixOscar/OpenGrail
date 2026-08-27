@@ -49,7 +49,7 @@ sources:
       Reformed Churches
     url: 'https://www.cambridge.org/core/search?q=Continental%20Reformed%20Churches'
 artifacts:
-  - title: Continental Reformed Churches Historical Sanctuary & Relics
+  - title: Continental Reformed Churches Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Continental_Reformed_Churches'
     provenance: 'Geneva, Switzerland'
     period: c. 1520s CE

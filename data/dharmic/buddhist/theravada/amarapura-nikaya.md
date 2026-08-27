@@ -48,20 +48,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Amarapura%20Nik%C4%81ya'
 artifacts:
-  - title: Amarapura Nikāya Historical Sanctuary & Relics
+  - title: Amarapura Nikāya Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Amarapura_Nik%C4%81ya'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1803 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Amarapura Nikāya.
-  - title: Amarapura Nikāya Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Amarapura_Nik%C4%81ya'
+      The Amarapura Nikāya (Sinhala: අමරපුර මහ නිකාය) was a Sri Lankan monastic
+      fraternity (gaṇa or nikāya) founded in 1800. It is named after the city of
+      Amarapura, Burma, the capital o...
+    imageUrl: /artifacts/amarapura-nikaya-1.jpg
+  - title: The Pali literature of Burma (1909) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Pali_literature_of_Burma_(1909).djvu
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1803 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Amarapura Nikāya.
+    imageUrl: /artifacts/amarapura-nikaya-2.jpg
 ---
 
 # Amarapura Nikāya

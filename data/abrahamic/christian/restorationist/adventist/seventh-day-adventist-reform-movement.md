@@ -46,7 +46,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Seventh%20Day%20Adventist%20Reform%20Movement
 artifacts:
-  - title: Seventh Day Adventist Reform Movement Historical Sanctuary & Relics
+  - title: Seventh Day Adventist Reform Movement Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Seventh_Day_Adventist_Reform_Movement'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1914 CE

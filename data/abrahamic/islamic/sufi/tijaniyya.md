@@ -44,13 +44,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Tijaniyya'
     url: 'https://www.cambridge.org/core/search?q=Tijaniyya'
 artifacts:
-  - title: Tijaniyya Historical Sanctuary & Relics
+  - title: Tijaniyya Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Tijaniyya'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1780s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Tijaniyya.
+    imageUrl: /artifacts/tijaniyya-1.jpg
   - title: Tijaniyya Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Tijaniyya'
     provenance: 'Jerusalem, Southern Levant'
@@ -58,6 +59,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Tijaniyya.
+    imageUrl: /artifacts/tijaniyya-2.jpg
 ---
 
 # Tijaniyya

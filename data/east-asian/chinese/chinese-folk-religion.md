@@ -46,20 +46,26 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Chinese%20Folk%20Religion
 artifacts:
-  - title: Chinese Folk Religion Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Folk_Religion'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Chinese Folk Religion.
-  - title: Chinese Folk Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Folk_Religion'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/chinese-folk-religion-1.jpg
+  - title: >-
+      The liturgy used in the churches of the Principality of Neufchatel
+      (compiled by J.F. Osterwald)- with a letter from the learned Dr.
+      Jablonski, concerning the nature of liturgies (IA b30544786) Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_liturgy_used_in_the_churches_of_the_Principality_of_Neufchatel_(compiled_by_J.F._Osterwald)-_with_a_letter_from_the_learned_Dr._Jablonski,_concerning_the_nature_of_liturgies_(IA_b30544786).pdf
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Chinese Folk Religion.
+    description: "xii, 116 pages, 2 unnumbered leaves\_; (4to)\nThe part pertaining to Neuchâtel compiled originally by J. F. Osterwald.--cf. Brit. mus. cat\nSubjects: Jablonski, Dr; Church of Geneva;..."
+    imageUrl: /artifacts/chinese-folk-religion-2.jpg
 ---
 
 # Chinese Folk Religion

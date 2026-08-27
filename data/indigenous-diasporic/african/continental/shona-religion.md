@@ -46,20 +46,24 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Shona%20Religious%20Traditions'
 artifacts:
-  - title: Shona Religious Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shona_Religious_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Great Zimbabwe / Harare, Zimbabwe'
     period: c. precolonial
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Shona Religious Traditions.
-  - title: Shona Religious Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shona_Religious_Traditions'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/shona-religion-1.jpg
+  - title: >-
+      Address of the Honorable Abram P. Maury, on the life and character of Hugh
+      Lawson White (IA addressofhonorab00maur) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Address_of_the_Honorable_Abram_P._Maury,_on_the_life_and_character_of_Hugh_Lawson_White_(IA_addressofhonorab00maur).pdf
     provenance: 'Great Zimbabwe / Harare, Zimbabwe'
     period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Shona Religious Traditions.
+    description: 'Subjects: White, Hugh Lawson, 1773-1840. [from old catalog]...'
+    imageUrl: /artifacts/shona-religion-1.jpg
 ---
 
 # Shona Religious Traditions

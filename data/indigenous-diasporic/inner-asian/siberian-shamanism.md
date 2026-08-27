@@ -45,20 +45,28 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Siberian%20Shamanic%20Traditions'
 artifacts:
-  - title: Siberian Shamanic Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Siberian_Shamanic_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Lake Baikal (Ulan-Ude), Buryatia, Siberia'
+    period: c. ancient; continuously developing
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/siberian-shamanism-1.jpg
+  - title: >-
+      Dr. Sharon W Weiss Oral History Interview (IA WeissSharon) Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Dr._Sharon_W_Weiss_Oral_History_Interview_(IA_WeissSharon).pdf
     provenance: 'Lake Baikal (Ulan-Ude), Buryatia, Siberia'
     period: c. ancient; continuously developing
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Siberian Shamanic Traditions.
-  - title: Siberian Shamanic Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Siberian_Shamanic_Traditions'
-    provenance: 'Lake Baikal (Ulan-Ude), Buryatia, Siberia'
-    period: c. ancient; continuously developing
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Siberian Shamanic Traditions.
+      ARMED FORCES INSTITUTE OF PATHOLOGYORAL HISTORY PROGRAMSUBJECT: Dr. Sharon
+      W. WeissINTERVIEWER: Charles Stuart KennedyDATE: March 16, 1992
+
+      Subjects: Armed Forces Institute of Path...
+    imageUrl: /artifacts/siberian-shamanism-2.jpg
 ---
 
 # Siberian Shamanic Traditions

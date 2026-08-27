@@ -44,13 +44,14 @@ sources:
       Christianity
     url: 'https://www.cambridge.org/core/search?q=Unitarian%20Christianity'
 artifacts:
-  - title: Unitarian Christianity Historical Sanctuary & Relics
+  - title: Unitarian Christianity Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Unitarian_Christianity'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1560s CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Unitarian Christianity.
+    imageUrl: /artifacts/unitarian-christianity-1.jpg
   - title: Unitarian Christianity Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Unitarian_Christianity'
     provenance: 'Jerusalem, Southern Levant'
@@ -58,6 +59,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Unitarian Christianity.
+    imageUrl: /artifacts/unitarian-christianity-2.jpg
 ---
 
 # Unitarian Christianity

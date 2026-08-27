@@ -43,13 +43,15 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=If%C3%A1'
 artifacts:
-  - title: Ifá Historical Sanctuary & Relics
+  - title: Ifá Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/If%C3%A1'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial era
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ifá.
+      Ifá or Fá is a geomantic system originating from Yorubaland in West
+      Africa. It originates within the traditional religion of the Yoruba
+      people. It is also practiced by followers of...
+    imageUrl: /artifacts/ifa-1.jpg
   - title: Ifá Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/If%C3%A1'
     provenance: 'Ile-Ife, Osun, Nigeria'
@@ -57,6 +59,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Ifá.
+    imageUrl: /artifacts/ifa-1.jpg
 ---
 
 # Ifá

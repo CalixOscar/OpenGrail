@@ -49,20 +49,24 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Malagasy%20Religious%20Traditions'
 artifacts:
-  - title: Malagasy Religious Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Malagasy_Religious_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Highlands (Antananarivo), Madagascar'
     period: c. precolonial
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Malagasy Religious Traditions.
-  - title: Malagasy Religious Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Malagasy_Religious_Traditions'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/malagasy-religion-1.jpg
+  - title: >-
+      The Kafir language- comprising a sketch of its history; (IA
+      kafirlanguagecom00appl) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Kafir_language-_comprising_a_sketch_of_its_history;_(IA_kafirlanguagecom00appl).pdf
     provenance: 'Highlands (Antananarivo), Madagascar'
     period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Malagasy Religious Traditions.
+    description: 'Subjects: Xhosa language...'
+    imageUrl: /artifacts/malagasy-religion-1.jpg
 ---
 
 # Malagasy Religious Traditions

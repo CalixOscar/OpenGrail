@@ -49,13 +49,14 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Malankara%20Orthodox%20Syrian%20Church
 artifacts:
-  - title: Malankara Orthodox Syrian Church Historical Sanctuary & Relics
+  - title: Malankara Orthodox Syrian Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Malankara_Orthodox_Syrian_Church'
     provenance: 'Kottayam / Malabar Coast, Kerala, India'
     period: c. 1912 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Malankara Orthodox Syrian Church.
+      The Malankara Orthodox Syrian Church (MOSC), (Syriac: ܥܕܬܐ ܡܠܢܟܪܝܬܐ
+      ܣܘܪܝܝܬܐ ܐܘܪܬܘܕܟܣܝܬܐ ܕܗܢܕܘ) also known as the Indian Orthodox Church (IOC)
+      or simply as the Malankara Church, is...
     imageUrl: /artifacts/malankara-orthodox-syrian-church-1.jpg
   - title: Malankara Orthodox Syrian Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Malankara_Orthodox_Syrian_Church'

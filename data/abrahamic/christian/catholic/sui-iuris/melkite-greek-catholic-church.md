@@ -46,7 +46,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Melkite%20Greek%20Catholic%20Church
 artifacts:
-  - title: Melkite Greek Catholic Church Historical Sanctuary & Relics
+  - title: Melkite Greek Catholic Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Melkite_Greek_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1724 CE

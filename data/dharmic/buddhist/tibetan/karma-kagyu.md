@@ -46,20 +46,21 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Karma%20Kagyu'
 artifacts:
-  - title: Karma Kagyu Historical Sanctuary & Relics
+  - title: Karma Kagyu Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Karma_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Karma Kagyu.
-  - title: Karma Kagyu Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Karma_Kagyu'
+      Karma Kagyu (Tibetan: ཀརྨ་བཀའ་བརྒྱུད, Wylie: karma bka'-brgyud), or
+      Kamtsang Kagyu (Tibetan: ཀརྨ་ཀཾ་ཚང་, Wylie: kar+ma kaM tshang), is a
+      widely practiced and probably the second-la...
+    imageUrl: /artifacts/karma-kagyu-1.jpg
+  - title: Kanjur Tenjur Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kanjur_Tenjur.jpg'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Karma Kagyu.
+    description: Monastic library with Kanjur and Tanjur on the bookshelves (Riwoche)...
+    imageUrl: /artifacts/karma-kagyu-2.jpg
 ---
 
 # Karma Kagyu

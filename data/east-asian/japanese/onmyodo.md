@@ -45,13 +45,15 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Onmy%C5%8Dd%C5%8D'
 artifacts:
-  - title: Onmyōdō Historical Sanctuary & Relics
+  - title: Onmyōdō Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Onmy%C5%8Dd%C5%8D'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Onmyōdō.
+      Onmyōdō (陰陽道; also In'yōdō, lit. 'The Way of Yin and Yang') is a technique
+      that uses knowledge of astronomy and calendars to divine good fortune in
+      terms of date, time, direction a...
+    imageUrl: /artifacts/onmyodo-1.jpg
   - title: Onmyōdō Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Onmy%C5%8Dd%C5%8D'
     provenance: 'Qufu, Shandong, China'
@@ -59,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Onmyōdō.
+    imageUrl: /artifacts/onmyodo-1.jpg
 ---
 
 # Onmyōdō

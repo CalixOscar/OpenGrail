@@ -46,13 +46,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Churches of Christ'
     url: 'https://www.cambridge.org/core/search?q=Churches%20of%20Christ'
 artifacts:
-  - title: Churches of Christ Historical Sanctuary & Relics
+  - title: Churches of Christ Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Churches_of_Christ'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1906 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Churches of Christ.
+      The Churches of Christ, also commonly known as the Church of Christ, is a
+      loose association of autonomous Christian congregations located around the
+      world. Typically, their disting...
+    imageUrl: /artifacts/churches-of-christ-1.jpg
   - title: Churches of Christ Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Churches_of_Christ'
     provenance: 'Jerusalem, Southern Levant'
@@ -60,6 +62,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Churches of Christ.
+    imageUrl: /artifacts/churches-of-christ-2.jpg
 ---
 
 # Churches of Christ

@@ -46,20 +46,26 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vajray%C4%81na%20Buddhism'
 artifacts:
-  - title: Vajrayāna Buddhism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vajray%C4%81na_Buddhism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 6th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/vajrayana-1.jpg
+  - title: >-
+      17th century Central Tibeten thanka of Guhyasamaja Akshobhyavajra, Rubin
+      Museum of Art Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:17th_century_Central_Tibeten_thanka_of_Guhyasamaja_Akshobhyavajra,_Rubin_Museum_of_Art.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Vajrayāna Buddhism.
-  - title: Vajrayāna Buddhism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vajray%C4%81na_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Vajrayāna Buddhism.
+      17th century Central Tibetan thanka of Guhyasamaja Akshobhyavajra, Rubin
+      Museum of Art...
+    imageUrl: /artifacts/vajrayana-2.jpg
 ---
 
 # Vajrayāna Buddhism

@@ -44,13 +44,15 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Orphism'
     url: 'https://brill.com/search?q=Orphism'
 artifacts:
-  - title: Orphism Historical Sanctuary & Relics
+  - title: Orphism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Orphism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 6th century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Orphism.
+      Orphism is the name given to a set of religious beliefs and practices
+      originating in the ancient Greek and Hellenistic world, associated with
+      literature ascribed to the mythical po...
+    imageUrl: /artifacts/orphism-1.jpg
   - title: Orphism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Orphism'
     provenance: 'Athens, Attica, Greece'
@@ -58,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Orphism.
+    imageUrl: /artifacts/orphism-2.jpg
 ---
 
 # Orphism

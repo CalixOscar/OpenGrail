@@ -42,7 +42,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Baptist Traditions'
     url: 'https://www.cambridge.org/core/search?q=Baptist%20Traditions'
 artifacts:
-  - title: Baptist Traditions Historical Sanctuary & Relics
+  - title: Baptist Traditions Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Baptist_Traditions'
     provenance: 'London, England, UK'
     period: c. 1609 CE

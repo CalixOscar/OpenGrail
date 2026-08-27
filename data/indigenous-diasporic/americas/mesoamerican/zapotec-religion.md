@@ -49,20 +49,24 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Zapotec%20Religious%20Traditions'
 artifacts:
-  - title: Zapotec Religious Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zapotec_Religious_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Monte Albán / Oaxaca Valley, Mexico'
     period: c. c. 500 BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Zapotec Religious Traditions.
-  - title: Zapotec Religious Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zapotec_Religious_Traditions'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/zapotec-religion-1.jpg
+  - title: >-
+      PSM V73 D396 Some bear pictorial inscriptions Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:PSM_V73_D396_Some_bear_pictorial_inscriptions.png
     provenance: 'Monte Albán / Oaxaca Valley, Mexico'
     period: c. c. 500 BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Zapotec Religious Traditions.
+    description: Some bear pictorial inscriptions...
+    imageUrl: /artifacts/zapotec-religion-1.jpg
 ---
 
 # Zapotec Religious Traditions

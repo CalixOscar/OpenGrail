@@ -47,20 +47,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Chaos Magic'
     url: 'https://brill.com/search?q=Chaos%20Magic'
 artifacts:
-  - title: Chaos Magic Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chaos_Magic'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'London, England, UK'
     period: c. late 1970s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Chaos Magic.
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/chaos-magic-1.jpg
   - title: Chaos Magic Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chaos_Magic'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'London, England, UK'
     period: c. late 1970s CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Chaos Magic.
+    imageUrl: /artifacts/chaos-magic-1.jpg
 ---
 
 # Chaos Magic

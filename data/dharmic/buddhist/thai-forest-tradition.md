@@ -43,20 +43,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Thai%20Forest%20Tradition'
 artifacts:
-  - title: Thai Forest Tradition Historical Sanctuary & Relics
+  - title: Thai Forest Tradition Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Thai_Forest_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1900 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Thai Forest Tradition.
-  - title: Thai Forest Tradition Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Thai_Forest_Tradition'
+    imageUrl: /artifacts/thai-forest-tradition-1.jpg
+  - title: Tipitaka1 Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1900 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Thai Forest Tradition.
+    imageUrl: /artifacts/thai-forest-tradition-2.jpg
 ---
 
 # Thai Forest Tradition

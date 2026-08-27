@@ -42,13 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sadducees'
     url: 'https://www.cambridge.org/core/search?q=Sadducees'
 artifacts:
-  - title: Sadducees Historical Sanctuary & Relics
+  - title: Sadducees Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Sadducees'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sadducees.
+    imageUrl: /artifacts/sadducees-1.jpg
   - title: Sadducees Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sadducees'
     provenance: 'Jerusalem, Southern Levant'
@@ -56,6 +57,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Sadducees.
+    imageUrl: /artifacts/sadducees-2.jpg
 ---
 
 # Sadducees

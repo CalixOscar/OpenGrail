@@ -51,20 +51,24 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Pur%C3%A9pecha%20Religious%20Traditions'
 artifacts:
-  - title: Purépecha Religious Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pur%C3%A9pecha_Religious_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Tzintzuntzan, Lake Pátzcuaro, Michoacán'
+    period: c. precolonial
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/purepecha-religion-1.jpg
+  - title: Relación de Michoacán Lámina 1 Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Relaci%C3%B3n_de_Michoac%C3%A1n_L%C3%A1mina_1.JPG
     provenance: 'Tzintzuntzan, Lake Pátzcuaro, Michoacán'
     period: c. precolonial
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Purépecha Religious Traditions.
-  - title: Purépecha Religious Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pur%C3%A9pecha_Religious_Traditions'
-    provenance: 'Tzintzuntzan, Lake Pátzcuaro, Michoacán'
-    period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Purépecha Religious Traditions.
+      Delivery of the Relación to the Viceroy Antonio de Mendoza by Fray
+      Jerónimo de Alcalá...
+    imageUrl: /artifacts/purepecha-religion-2.jpg
 ---
 
 # Purépecha Religious Traditions

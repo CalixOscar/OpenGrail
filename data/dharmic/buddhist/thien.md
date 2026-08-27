@@ -45,20 +45,26 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Thi%E1%BB%81n%20Buddhism'
 artifacts:
-  - title: Thiền Buddhism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Thi%E1%BB%81n_Buddhism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Thiền Buddhism.
-  - title: Thiền Buddhism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Thi%E1%BB%81n_Buddhism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/thien-1.jpg
+  - title: Quy-pháp vựng-tập Q. XIII Tập. 1 Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Quy-ph%C3%A1p_v%E1%BB%B1ng-t%E1%BA%ADp_Q._XIII_T%E1%BA%ADp._1.pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Thiền Buddhism.
+    description: |-
+      Quy-pháp vựng-tập (Recueil des Lois et Règlements)
+      Quyển XIII (từ 1-1-1970 đến 31-12-1970)
+
+      Tập 1...
+    imageUrl: /artifacts/thien-2.jpg
 ---
 
 # Thiền Buddhism

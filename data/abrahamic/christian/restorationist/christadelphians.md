@@ -42,7 +42,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Christadelphians'
     url: 'https://www.cambridge.org/core/search?q=Christadelphians'
 artifacts:
-  - title: Christadelphians Historical Sanctuary & Relics
+  - title: Christadelphians Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Christadelphians'
     provenance: 'London, England, UK'
     period: c. 1848 CE

@@ -45,13 +45,14 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Aj%C3%B1%C4%81na%20Skeptics'
 artifacts:
-  - title: Ajñāna Skeptics Historical Sanctuary & Relics
+  - title: Ajñāna Skeptics Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Aj%C3%B1%C4%81na_Skeptics'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Ajñāna Skeptics.
+    imageUrl: /artifacts/ajnana-1.jpg
   - title: Ajñāna Skeptics Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Aj%C3%B1%C4%81na_Skeptics'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -59,6 +60,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Ajñāna Skeptics.
+    imageUrl: /artifacts/ajnana-2.jpg
 ---
 
 # Ajñāna Skeptics

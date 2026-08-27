@@ -44,8 +44,8 @@ sources:
       Christ
     url: 'https://www.cambridge.org/core/search?q=The%20Church%20of%20Jesus%20Christ'
 artifacts:
-  - title: The Church of Jesus Christ (Bickertonite) Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_(Bickertonite)'
+  - title: The Church of Jesus Christ (Bickertonite) Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ'
     provenance: 'Kirtland, Lake County, Ohio, USA'
     period: c. 1862 CE
     description: >-
@@ -53,7 +53,7 @@ artifacts:
       associated with The Church of Jesus Christ (Bickertonite).
     imageUrl: /artifacts/church-of-jesus-christ-bickertonite-1.jpg
   - title: The Church of Jesus Christ (Bickertonite) Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_(Bickertonite)'
+    sourceUrl: 'https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ'
     provenance: 'Kirtland, Lake County, Ohio, USA'
     period: c. 1862 CE
     description: >-

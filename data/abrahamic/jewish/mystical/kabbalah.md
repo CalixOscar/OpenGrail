@@ -42,13 +42,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Kabbalah'
     url: 'https://www.cambridge.org/core/search?q=Kabbalah'
 artifacts:
-  - title: Kabbalah Historical Sanctuary & Relics
+  - title: Kabbalah Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Kabbalah'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 12th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Kabbalah.
+      Kabbalah or Qabalah ( kə-BAH-lə, KAB-ə-lə; Hebrew: קַבָּלָה, romanized:
+      Qabbālā, pronounced [kabaˈla] ; lit. 'act of receiving'  or 'acceptation')
+      is an esoteric method, discipline...
+    imageUrl: /artifacts/kabbalah-1.jpg
   - title: Kabbalah Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Kabbalah'
     provenance: 'Jerusalem, Southern Levant'
@@ -56,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Kabbalah.
+    imageUrl: /artifacts/kabbalah-2.jpg
 ---
 
 # Kabbalah

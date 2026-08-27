@@ -49,20 +49,31 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gaulish Religions'
     url: 'https://brill.com/search?q=Gaulish%20Religions'
 artifacts:
-  - title: Gaulish Religions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gaulish_Religions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. c. 600 BCE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/gaulish-religion-1.jpg
+  - title: >-
+      Catalogue of early-printed, and other interesting books, manuscripts and
+      fine bindings - offered for sale by J. & J. Leighton (IA
+      catalogueofearly00jjle) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Catalogue_of_early-printed,_and_other_interesting_books,_manuscripts_and_fine_bindings_-_offered_for_sale_by_J._%26_J._Leighton_(IA_catalogueofearly00jjle).pdf
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 600 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Gaulish Religions.
-  - title: Gaulish Religions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gaulish_Religions'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 600 BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Gaulish Religions.
+      Pt. 10- called also supplement
+
+      Latest issue consulted: Pt. 10
+
+      pt. I. A-B -- pt. II. C -- pt. III. D-F -- pt. IV. G-H -- pt. V. I-M --
+      pt. VI. N-Q -- pt. VII. R-Sh -- pt. VIII. Si-...
+    imageUrl: /artifacts/gaulish-religion-1.jpg
 ---
 
 # Gaulish Religions

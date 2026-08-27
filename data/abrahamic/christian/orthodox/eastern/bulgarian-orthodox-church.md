@@ -47,13 +47,14 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Bulgarian%20Orthodox%20Church'
 artifacts:
-  - title: Bulgarian Orthodox Church Historical Sanctuary & Relics
+  - title: Bulgarian Orthodox Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Bulgarian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 870 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Bulgarian Orthodox Church.
+      The Bulgarian Orthodox Church (Bulgarian: Българска православна църква,
+      romanized: Bûlgarska pravoslavna cûrkva), legally the Patriarchate of
+      Bulgaria (Bulgarian: Българска патриар...
     imageUrl: /artifacts/bulgarian-orthodox-church-1.jpg
   - title: Bulgarian Orthodox Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Bulgarian_Orthodox_Church'

@@ -59,13 +59,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Christianity'
     url: 'https://www.cambridge.org/core/search?q=Christianity'
 artifacts:
-  - title: Christianity Historical Sanctuary & Relics
+  - title: Christianity Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Christianity'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 30 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Christianity.
+      Christianity is an Abrahamic monotheistic religion based on the Bible and
+      the teachings of Jesus. The Gospels state that Jesus is the Son of God and
+      rose from the dead after his cr...
+    imageUrl: /artifacts/christianity-1.jpg
   - title: Christianity Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Christianity'
     provenance: 'Jerusalem, Southern Levant'
@@ -73,6 +75,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Christianity.
+    imageUrl: /artifacts/christianity-2.jpg
 ---
 
 # Christianity

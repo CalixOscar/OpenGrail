@@ -51,13 +51,14 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Members%20Church%20of%20God%20International
 artifacts:
-  - title: Members Church of God International Historical Sanctuary & Relics
+  - title: Members Church of God International Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Members_Church_of_God_International'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1977 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Members Church of God International.
+    imageUrl: /artifacts/members-church-of-god-international-1.jpg
   - title: Members Church of God International Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Members_Church_of_God_International'
     provenance: 'Jerusalem, Southern Levant'
@@ -65,6 +66,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Members Church of God International.
+    imageUrl: /artifacts/members-church-of-god-international-2.jpg
 ---
 
 # Members Church of God International

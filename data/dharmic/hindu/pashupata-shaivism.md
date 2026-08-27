@@ -45,20 +45,24 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=P%C4%81%C5%9Bupata%20%C5%9Aaivism
 artifacts:
-  - title: Pāśupata Śaivism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/P%C4%81%C5%9Bupata_%C5%9Aaivism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Pāśupata Śaivism.
-  - title: Pāśupata Śaivism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/P%C4%81%C5%9Bupata_%C5%9Aaivism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/pashupata-shaivism-1.jpg
+  - title: >-
+      Elements of Hindu Iconography Vol. 2 Part 1 Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Elements_of_Hindu_Iconography_Vol._2_Part_1.pdf
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Pāśupata Śaivism.
+    description: first published 1916 in India...
+    imageUrl: /artifacts/pashupata-shaivism-1.jpg
 ---
 
 # Pāśupata Śaivism

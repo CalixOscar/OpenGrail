@@ -50,20 +50,23 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Dievturība'
     url: 'https://brill.com/search?q=Dievtur%C4%ABba'
 artifacts:
-  - title: Dievturība Historical Sanctuary & Relics
+  - title: Dievturība Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Dievtur%C4%ABba'
     provenance: 'Riga, Vidzeme, Latvia'
     period: c. 1920s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Dievturība.
-  - title: Dievturība Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dievtur%C4%ABba'
+      Dievturība is a contemporary continuation of the ethnic religion of the
+      Latvians from what it was before Christianization in the 13th century.
+      Adherents call themselves Dievturi (s...
+    imageUrl: /artifacts/dievturiba-2.jpg
+  - title: Daina Taimina Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Daina_Taimina.jpg'
     provenance: 'Riga, Vidzeme, Latvia'
     period: c. 1920s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Dievturība.
+      Picture of latvian mathematician Daina Taimina, her husband geometer David
+      W. Henderson and crocheted hyperbolic plane...
+    imageUrl: /artifacts/dievturiba-2.jpg
 ---
 
 # Dievturība

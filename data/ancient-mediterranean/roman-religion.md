@@ -44,13 +44,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Roman Religion'
     url: 'https://brill.com/search?q=Roman%20Religion'
 artifacts:
-  - title: Roman Religion Historical Sanctuary & Relics
+  - title: Roman Religion Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Religion'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 750 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Roman Religion.
+    imageUrl: /artifacts/roman-religion-1.jpg
   - title: Roman Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Religion'
     provenance: 'Athens, Attica, Greece'
@@ -58,6 +59,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Roman Religion.
+    imageUrl: /artifacts/roman-religion-2.jpg
 ---
 
 # Roman Religion

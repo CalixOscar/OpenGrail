@@ -46,20 +46,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Dhammayut%20Nik%C4%81ya'
 artifacts:
-  - title: Dhammayut Nikāya Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dhammayut_Nik%C4%81ya'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1833 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Dhammayut Nikāya.
-  - title: Dhammayut Nikāya Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dhammayut_Nik%C4%81ya'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/dhammayut-nikaya-1.jpg
+  - title: The Pali literature of Burma (1909) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Pali_literature_of_Burma_(1909).djvu
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1833 CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Dhammayut Nikāya.
+    imageUrl: /artifacts/dhammayut-nikaya-2.jpg
 ---
 
 # Dhammayut Nikāya

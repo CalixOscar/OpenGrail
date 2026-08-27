@@ -54,13 +54,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Buddhism'
 artifacts:
-  - title: Buddhism Historical Sanctuary & Relics
+  - title: Buddhism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 5th century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Buddhism.
+      Buddhism, also known as Buddhadharma and Dharmavinaya (transl. "doctrines
+      and disciplines"), is an Indian religion and philosophy based on teachings
+      attributed to the Buddha, a śra...
+    imageUrl: /artifacts/buddhism-1.jpg
   - title: Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -68,6 +70,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Buddhism.
+    imageUrl: /artifacts/buddhism-2.jpg
 ---
 
 # Buddhism

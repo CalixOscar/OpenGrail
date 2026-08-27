@@ -48,7 +48,7 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=United%20Methodist%20Church'
 artifacts:
-  - title: United Methodist Church Historical Sanctuary & Relics
+  - title: United Methodist Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/United_Methodist_Church'
     provenance: 'Oxford, Oxfordshire, England, UK'
     period: c. 1968 CE

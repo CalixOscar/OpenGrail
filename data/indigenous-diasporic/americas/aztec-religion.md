@@ -40,20 +40,29 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Mexica%20and%20Nahua%20Religions'
 artifacts:
-  - title: Mexica and Nahua Religions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mexica_and_Nahua_Religions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Tenochtitlan (Mexico City), Mexico'
+    period: c. c. 1300 CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/aztec-religion-1.jpg
+  - title: >-
+      The history of the world; a survey of a man's record (IA
+      historyofworldsu01helm) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_history_of_the_world;_a_survey_of_a_man%27s_record_(IA_historyofworldsu01helm).pdf
     provenance: 'Tenochtitlan (Mexico City), Mexico'
     period: c. c. 1300 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Mexica and Nahua Religions.
-  - title: Mexica and Nahua Religions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mexica_and_Nahua_Religions'
-    provenance: 'Tenochtitlan (Mexico City), Mexico'
-    period: c. c. 1300 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Mexica and Nahua Religions.
+      "Published simultaneously in Germany, England and the United
+      States."--Pref. note
+
+      I. Pre-history. America and the Pacific Ocean.--II. Eastern Asia and
+      Oceania--The Indian Ocean.--...
+    imageUrl: /artifacts/aztec-religion-1.jpg
 ---
 
 # Mexica and Nahua Religions

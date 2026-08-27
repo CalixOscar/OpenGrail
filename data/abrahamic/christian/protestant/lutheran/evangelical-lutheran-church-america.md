@@ -48,7 +48,7 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Evangelical%20Lutheran%20Church%20in%20America
 artifacts:
-  - title: Evangelical Lutheran Church in America Historical Sanctuary & Relics
+  - title: Evangelical Lutheran Church in America Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Evangelical_Lutheran_Church_in_America'
     provenance: 'Wittenberg, Saxony, Germany'
     period: c. 1988 CE

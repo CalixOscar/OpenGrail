@@ -48,20 +48,29 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=%C4%90%E1%BA%A1o%20M%E1%BA%ABu
 artifacts:
-  - title: Đạo Mẫu Historical Sanctuary & Relics
+  - title: Đạo Mẫu Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu'
     provenance: 'Hanoi (Thang Long), Vietnam'
     period: c. early modern roots
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Đạo Mẫu.
-  - title: Đạo Mẫu Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu'
+    imageUrl: /artifacts/dao-mau-1.jpg
+  - title: >-
+      Essays by Leigh Hunt. The Indicator. The Seer (IA essaysbyleighhun00hun)
+      Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Essays_by_Leigh_Hunt._The_Indicator._The_Seer_(IA_essaysbyleighhun00hun).pdf
     provenance: 'Hanoi (Thang Long), Vietnam'
     period: c. early modern roots
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Đạo Mẫu.
+      The Seer has special t.-p., dated 1840
+
+      The Indicator and the Companion. pt. I-II.--The Seer; or, Common-places
+      refreshed. pt. I-!!
+
+      Subjects:...
+    imageUrl: /artifacts/dao-mau-2.jpg
 ---
 
 # Đạo Mẫu

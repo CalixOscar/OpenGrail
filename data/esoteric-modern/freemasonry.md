@@ -45,20 +45,29 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Freemasonry'
     url: 'https://brill.com/search?q=Freemasonry'
 artifacts:
-  - title: Freemasonry Historical Sanctuary & Relics
+  - title: Freemasonry Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Freemasonry'
     provenance: 'London, England, UK'
     period: c. early 18th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Freemasonry.
-  - title: Freemasonry Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Freemasonry'
+      Freemasonry (sometimes spelled Free-Masonry) consists of fraternal groups
+      that trace their origins to medieval guilds of stonemasons. Freemasonry is
+      considered the oldest existing...
+    imageUrl: /artifacts/freemasonry-1.jpg
+  - title: >-
+      The constitutions of the free-masons Fleuron T086287-6 Canonical Scripture
+      & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_constitutions_of_the_free-masons_Fleuron_T086287-6.png
     provenance: 'London, England, UK'
     period: c. early 18th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Freemasonry.
+      Fleuron from book:
+
+      The constitutions of the free-masons. Containing the history, charges,
+      regulations, &amp;c. of that most ancient and right worshipful fraternity.
+      For the use of...
+    imageUrl: /artifacts/freemasonry-1.jpg
 ---
 
 # Freemasonry

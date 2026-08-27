@@ -46,20 +46,24 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Dinka%20Religious%20Traditions'
 artifacts:
-  - title: Dinka Religious Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dinka_Religious_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Bahr el Ghazal (Juba), South Sudan'
     period: c. precolonial
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Dinka Religious Traditions.
-  - title: Dinka Religious Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dinka_Religious_Traditions'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/dinka-religion-1.jpg
+  - title: 'Encyclopédie moderne - 1861, T22 Canonical Scripture & Iconography'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Encyclop%C3%A9die_moderne_-_1861,_T22.djvu
     provenance: 'Bahr el Ghazal (Juba), South Sudan'
     period: c. precolonial
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Dinka Religious Traditions.
+    imageUrl: /artifacts/dinka-religion-1.jpg
 ---
 
 # Dinka Religious Traditions

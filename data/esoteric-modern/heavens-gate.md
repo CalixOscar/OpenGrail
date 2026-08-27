@@ -48,20 +48,30 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Heaven''s Gate'
     url: 'https://brill.com/search?q=Heaven''s%20Gate'
 artifacts:
-  - title: Heaven's Gate Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Heaven''s_Gate'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'London, England, UK'
+    period: c. 1970s CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/heavens-gate-1.jpg
+  - title: >-
+      De Curaçaosche courant 01-12-1821 (IA ddd 010334217 mpeg21) Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:De_Cura%C3%A7aosche_courant_01-12-1821_(IA_ddd_010334217_mpeg21).pdf
     provenance: 'London, England, UK'
     period: c. 1970s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Heaven's Gate.
-  - title: Heaven's Gate Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Heaven''s_Gate'
-    provenance: 'London, England, UK'
-    period: c. 1970s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Heaven's Gate.
+      Title: De Curaçaosche courantDatum: 01-12-1821Editie: DagPlaats van
+      uitgave: [Willemstad]Uitgever: William LeeVerspreidingsgebied: Nederlandse
+      AntillenNummer: 48Jaargang: 9
+
+
+      Subje...
+    imageUrl: /artifacts/heavens-gate-1.jpg
 ---
 
 # Heaven's Gate

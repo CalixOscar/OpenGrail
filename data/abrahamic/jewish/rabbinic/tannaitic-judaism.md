@@ -43,13 +43,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Tannaitic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Tannaitic%20Judaism'
 artifacts:
-  - title: Tannaitic Judaism Historical Sanctuary & Relics
+  - title: Tannaitic Judaism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Tannaitic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 70 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Tannaitic Judaism.
+    imageUrl: /artifacts/tannaitic-judaism-1.jpg
   - title: Tannaitic Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Tannaitic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
@@ -57,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Tannaitic Judaism.
+    imageUrl: /artifacts/tannaitic-judaism-2.jpg
 ---
 
 # Tannaitic Judaism

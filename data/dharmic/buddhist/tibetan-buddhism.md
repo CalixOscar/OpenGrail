@@ -47,20 +47,20 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Tibetan%20Buddhism'
 artifacts:
-  - title: Tibetan Buddhism Historical Sanctuary & Relics
+  - title: Tibetan Buddhism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Tibetan_Buddhism'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 7th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Tibetan Buddhism.
-  - title: Tibetan Buddhism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tibetan_Buddhism'
+    imageUrl: /artifacts/tibetan-buddhism-1.jpg
+  - title: Kanjur Tenjur Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kanjur_Tenjur.jpg'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 7th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Tibetan Buddhism.
+    description: Monastic library with Kanjur and Tanjur on the bookshelves (Riwoche)...
+    imageUrl: /artifacts/tibetan-buddhism-2.jpg
 ---
 
 # Tibetan Buddhism

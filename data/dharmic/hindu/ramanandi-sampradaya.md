@@ -50,20 +50,21 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=R%C4%81m%C4%81nand%C4%AB%20Samprad%C4%81ya
 artifacts:
-  - title: Rāmānandī Sampradāya Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/R%C4%81m%C4%81nand%C4%AB_Samprad%C4%81ya'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 14th–15th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Rāmānandī Sampradāya.
-  - title: Rāmānandī Sampradāya Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/R%C4%81m%C4%81nand%C4%AB_Samprad%C4%81ya'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/ramanandi-sampradaya-1.jpg
+  - title: Older Durga Temple - Banaras Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Older_Durga_Temple_-_Banaras.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 14th–15th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Rāmānandī Sampradāya.
+    description: 'This is the 500 years old Durga Temple, situated in Ramnagar, Varanasi....'
+    imageUrl: /artifacts/ramanandi-sampradaya-1.jpg
 ---
 
 # Rāmānandī Sampradāya

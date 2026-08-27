@@ -44,20 +44,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hellenic Polytheism'
     url: 'https://brill.com/search?q=Hellenic%20Polytheism'
 artifacts:
-  - title: Hellenic Polytheism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hellenic_Polytheism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'London, England, UK'
     period: c. late 20th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Hellenic Polytheism.
-  - title: Hellenic Polytheism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hellenic_Polytheism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/hellenic-polytheism-1.jpg
+  - title: >-
+      Homeric Hymns 16 eis Dioskourous by Hélène Kémiktsi Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Homeric_Hymns_16_eis_Dioskourous_by_H%C3%A9l%C3%A8ne_K%C3%A9miktsi.ogg
     provenance: 'London, England, UK'
     period: c. late 20th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Hellenic Polytheism.
+    description: Ηχογράφηση του ομηρικού ύμνου «Εἰς Διοσκούρους»...
+    imageUrl: /artifacts/hellenic-polytheism-2.jpg
 ---
 
 # Hellenic Polytheism

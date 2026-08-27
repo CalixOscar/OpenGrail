@@ -40,20 +40,29 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=John%20Frum%20Movement'
 artifacts:
-  - title: John Frum Movement Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/John_Frum_Movement'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
+    period: c. 1930s CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/john-frum-movement-1.jpg
+  - title: >-
+      Dr. F.K. Mostofi Oral History Interview (IA Mostofi) Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Dr._F.K._Mostofi_Oral_History_Interview_(IA_Mostofi).pdf
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. 1930s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with John Frum Movement.
-  - title: John Frum Movement Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/John_Frum_Movement'
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. 1930s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of John Frum Movement.
+      ARMED FORCES INSTITUTE OF PATHOLOGYORAL HISTORY PROGRAMSUBJECT: Dr. F. K.
+      MostofiINTERVIEWER: Charles Stuart KennedyDATES: January 22 and April 28,
+      1992
+
+      Subjects: oral history; Ar...
+    imageUrl: /artifacts/john-frum-movement-1.jpg
 ---
 
 # John Frum Movement

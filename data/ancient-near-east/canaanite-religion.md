@@ -44,20 +44,23 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Canaanite Religion'
     url: 'https://brill.com/search?q=Canaanite%20Religion'
 artifacts:
-  - title: Canaanite Religion Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Canaanite_Religion'
+  - title: Canaanite religion Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Canaanite_religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2000 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Canaanite Religion.
+      The religion and mythic beliefs of the people in the land of Canaan in the
+      southern Levant during approximately the first three millennia BCE were
+      polytheistic and in some cases mo...
+    imageUrl: /artifacts/canaanite-religion-1.jpg
   - title: Canaanite Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Canaanite_Religion'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Canaanite_religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2000 BCE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Canaanite Religion.
+    imageUrl: /artifacts/canaanite-religion-2.jpg
 ---
 
 # Canaanite Religion

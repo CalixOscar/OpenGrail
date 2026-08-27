@@ -42,13 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Branch Davidians'
     url: 'https://www.cambridge.org/core/search?q=Branch%20Davidians'
 artifacts:
-  - title: Branch Davidians Historical Sanctuary & Relics
+  - title: Branch Davidians Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Branch_Davidians'
     provenance: 'Mount Carmel (Waco), Texas, USA'
     period: c. 1955 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Branch Davidians.
+      The Branch Davidians (or the General Association of Branch Davidian
+      Seventh-day Adventists, or the Branch Seventh-day Adventists) are a
+      religious group founded in 1955 by Benjamin...
     imageUrl: /artifacts/branch-davidians-1.jpg
   - title: Branch Davidians Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Branch_Davidians'

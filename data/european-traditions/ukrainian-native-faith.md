@@ -49,20 +49,26 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ukrainian Native Faith'
     url: 'https://brill.com/search?q=Ukrainian%20Native%20Faith'
 artifacts:
-  - title: Ukrainian Native Faith Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ukrainian_Native_Faith'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Kyiv, Dnipro Region, Ukraine'
+    period: c. 1930s CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/ukrainian-native-faith-1.jpg
+  - title: >-
+      Church-slavonic and Ugric-russian authentic folklore reader 1251 Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Church-slavonic_and_Ugric-russian_authentic_folklore_reader_1251.jpg
     provenance: 'Kyiv, Dnipro Region, Ukraine'
     period: c. 1930s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ukrainian Native Faith.
-  - title: Ukrainian Native Faith Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ukrainian_Native_Faith'
-    provenance: 'Kyiv, Dnipro Region, Ukraine'
-    period: c. 1930s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ukrainian Native Faith.
+      Church-slavonic and Urgic-russian folklore reader with authentic tales.
+      Uzhhorod, 1893.Page VIII From I.Franko personal Library...
+    imageUrl: /artifacts/ukrainian-native-faith-1.jpg
 ---
 
 # Ukrainian Native Faith

@@ -48,20 +48,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Dudeism'
     url: 'https://brill.com/search?q=Dudeism'
 artifacts:
-  - title: Dudeism Historical Sanctuary & Relics
+  - title: Dudeism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Dudeism'
     provenance: 'London, England, UK'
     period: c. 2005 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Dudeism.
-  - title: Dudeism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dudeism'
+      Dudeism (/ˈduːdɪzəm/ ) is a religion, philosophy, or lifestyle inspired by
+      "The Dude", the protagonist of the Coen Brothers' 1998 film The Big
+      Lebowski.
+
+      Dudeism's stated primary ob...
+  - title: Berlin wall Big Lebowski graffiti Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Berlin_wall_Big_Lebowski_graffiti.jpg
     provenance: 'London, England, UK'
     period: c. 2005 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Dudeism.
+      Graffiti of Walter Sobchak (John Goodman) from the Big Lebowski on the
+      East Side Gallery of the Berlin Wall....
 ---
 
 # Dudeism

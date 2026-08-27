@@ -50,20 +50,23 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%AB%20Vai%E1%B9%A3%E1%B9%87avism
 artifacts:
-  - title: Śrī Vaiṣṇavism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Ar%C4%AB_Vai%E1%B9%A3%E1%B9%87avism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Śrī Vaiṣṇavism.
-  - title: Śrī Vaiṣṇavism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Ar%C4%AB_Vai%E1%B9%A3%E1%B9%87avism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/sri-vaishnavism-1.jpg
+  - title: Manavala mamunigal 03 Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Manavala_mamunigal_03.jpg'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Śrī Vaiṣṇavism.
+    imageUrl: /artifacts/sri-vaishnavism-1.jpg
 ---
 
 # Śrī Vaiṣṇavism

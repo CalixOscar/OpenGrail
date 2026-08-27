@@ -49,13 +49,15 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Neoplatonism'
     url: 'https://brill.com/search?q=Neoplatonism'
 artifacts:
-  - title: Neoplatonism Historical Sanctuary & Relics
+  - title: Neoplatonism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Neoplatonism'
     provenance: 'Athens, Attica, Greece'
     period: c. 3rd century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Neoplatonism.
+      Neoplatonism is a version of Platonic philosophy that emerged in the 3rd
+      century AD against the background of Hellenistic philosophy and religion.
+      The term does not encapsulate a s...
+    imageUrl: /artifacts/neoplatonism-1.jpg
   - title: Neoplatonism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Neoplatonism'
     provenance: 'Athens, Attica, Greece'
@@ -63,6 +65,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Neoplatonism.
+    imageUrl: /artifacts/neoplatonism-2.jpg
 ---
 
 # Neoplatonism

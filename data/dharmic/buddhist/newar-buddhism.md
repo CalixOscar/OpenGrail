@@ -45,13 +45,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Newar%20Buddhism'
 artifacts:
-  - title: Newar Buddhism Historical Sanctuary & Relics
+  - title: Newar Buddhism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Newar_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Newar Buddhism.
+      Newar Buddhism is a form of Vajrayana Buddhism practiced by the Newar
+      people of the Kathmandu Valley, Nepal. It has developed unique
+      socio-religious elements, which include a non-m...
+    imageUrl: /artifacts/newar-buddhism-1.jpg
   - title: Newar Buddhism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Newar_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -59,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Newar Buddhism.
+    imageUrl: /artifacts/newar-buddhism-2.jpg
 ---
 
 # Newar Buddhism

@@ -45,13 +45,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Dharmaguptaka'
 artifacts:
-  - title: Dharmaguptaka Historical Sanctuary & Relics
+  - title: Dharmaguptaka Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Dharmaguptaka'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 3rd century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Dharmaguptaka.
+      The Dharmaguptaka (Sanskrit: धर्मगुप्तक; Chinese: 法藏部; pinyin: Fǎzàng Bù;
+      Vietnamese: Pháp Tạng bộ) is one of the eighteen or twenty early Buddhist
+      schools, depending on the source...
+    imageUrl: /artifacts/dharmaguptaka-1.jpg
   - title: Dharmaguptaka Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Dharmaguptaka'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -59,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Dharmaguptaka.
+    imageUrl: /artifacts/dharmaguptaka-2.jpg
 ---
 
 # Dharmaguptaka

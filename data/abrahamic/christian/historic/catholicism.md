@@ -45,7 +45,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Catholicism'
     url: 'https://www.cambridge.org/core/search?q=Catholicism'
 artifacts:
-  - title: Catholicism Historical Sanctuary & Relics
+  - title: Catholicism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Catholicism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE

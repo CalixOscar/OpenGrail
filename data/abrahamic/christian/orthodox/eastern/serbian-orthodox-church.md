@@ -47,7 +47,7 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Serbian%20Orthodox%20Church'
 artifacts:
-  - title: Serbian Orthodox Church Historical Sanctuary & Relics
+  - title: Serbian Orthodox Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Serbian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1219 CE

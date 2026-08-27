@@ -49,20 +49,24 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Zulu%20Religious%20Traditions'
 artifacts:
-  - title: Zulu Religious Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zulu_Religious_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'KwaZulu (Ulundi), South Africa'
     period: c. precolonial
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Zulu Religious Traditions.
-  - title: Zulu Religious Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zulu_Religious_Traditions'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/zulu-religion-1.jpg
+  - title: >-
+      The principle of oral English (IA principleoforale00palmrich) Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_principle_of_oral_English_(IA_principleoforale00palmrich).pdf
     provenance: 'KwaZulu (Ulundi), South Africa'
     period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Zulu Religious Traditions.
+    description: 'Subjects: Elocution...'
+    imageUrl: /artifacts/zulu-religion-1.jpg
 ---
 
 # Zulu Religious Traditions

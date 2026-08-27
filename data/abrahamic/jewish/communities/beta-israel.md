@@ -42,13 +42,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Beta Israel'
     url: 'https://www.cambridge.org/core/search?q=Beta%20Israel'
 artifacts:
-  - title: Beta Israel Historical Sanctuary & Relics
+  - title: Beta Israel Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Beta_Israel'
     provenance: 'Jerusalem, Southern Levant'
     period: c. before 15th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Beta Israel.
+      The Beta Israel, or Ethiopian Jews, are a Jewish group originating in the
+      Amhara and Tigray regions of northern Ethiopia, where they historically
+      inhabited more than 500 small vill...
+    imageUrl: /artifacts/beta-israel-1.jpg
   - title: Beta Israel Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Beta_Israel'
     provenance: 'Jerusalem, Southern Levant'
@@ -56,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Beta Israel.
+    imageUrl: /artifacts/beta-israel-2.jpg
 ---
 
 # Beta Israel

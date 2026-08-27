@@ -41,13 +41,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sunni Islam'
     url: 'https://www.cambridge.org/core/search?q=Sunni%20Islam'
 artifacts:
-  - title: Sunni Islam Historical Sanctuary & Relics
+  - title: Sunni Islam Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Sunni_Islam'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 7th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Sunni Islam.
+    imageUrl: /artifacts/sunni-islam-1.jpg
   - title: Sunni Islam Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Sunni_Islam'
     provenance: 'Jerusalem, Southern Levant'
@@ -55,6 +56,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Sunni Islam.
+    imageUrl: /artifacts/sunni-islam-2.jpg
 ---
 
 # Sunni Islam

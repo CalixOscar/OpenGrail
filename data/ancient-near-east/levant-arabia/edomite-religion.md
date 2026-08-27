@@ -46,13 +46,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Edomite Religion'
     url: 'https://brill.com/search?q=Edomite%20Religion'
 artifacts:
-  - title: Edomite Religion Historical Sanctuary & Relics
+  - title: Edomite Religion Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Edomite_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 900 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Edomite Religion.
+    imageUrl: /artifacts/edomite-religion-1.jpg
   - title: Edomite Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Edomite_Religion'
     provenance: 'Babylon, Mesopotamia'
@@ -60,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Edomite Religion.
+    imageUrl: /artifacts/edomite-religion-2.jpg
 ---
 
 # Edomite Religion

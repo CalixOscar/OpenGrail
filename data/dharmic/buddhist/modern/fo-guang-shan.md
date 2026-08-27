@@ -48,13 +48,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Fo%20Guang%20Shan'
 artifacts:
-  - title: Fo Guang Shan Historical Sanctuary & Relics
+  - title: Fo Guang Shan Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Fo_Guang_Shan'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1967 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Fo Guang Shan.
+      Fo Guang Shan (FGS; Chinese: 佛光山; pinyin: Fó guāng shān; lit. 'Buddha's
+      Light Mountain') is an international Chinese Mahāyāna Buddhist
+      organization and monastic order based in Taiw...
+    imageUrl: /artifacts/fo-guang-shan-1.jpg
   - title: Fo Guang Shan Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Fo_Guang_Shan'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -62,6 +64,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Fo Guang Shan.
+    imageUrl: /artifacts/fo-guang-shan-2.jpg
 ---
 
 # Fo Guang Shan

@@ -43,13 +43,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Geonic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Geonic%20Judaism'
 artifacts:
-  - title: Geonic Judaism Historical Sanctuary & Relics
+  - title: Geonic Judaism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Geonic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 600 CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Geonic Judaism.
+    imageUrl: /artifacts/geonic-judaism-1.jpg
   - title: Geonic Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Geonic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
@@ -57,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Geonic Judaism.
+    imageUrl: /artifacts/geonic-judaism-2.jpg
 ---
 
 # Geonic Judaism

@@ -49,13 +49,15 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Plum%20Village%20Tradition'
 artifacts:
-  - title: Plum Village Tradition Historical Sanctuary & Relics
+  - title: Plum Village Tradition Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Plum_Village_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1982 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Plum Village Tradition.
+      The Plum Village Tradition is a school of Buddhism named after the Plum
+      Village Monastery in France, the first monastic practice center founded by
+      Thích Nhất Hạnh, Chân Không, and...
+    imageUrl: /artifacts/plum-village-tradition-1.jpg
   - title: Plum Village Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Plum_Village_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
@@ -63,6 +65,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Plum Village Tradition.
+    imageUrl: /artifacts/plum-village-tradition-2.jpg
 ---
 
 # Plum Village Tradition

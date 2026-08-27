@@ -48,20 +48,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gathic Zoroastrianism'
     url: 'https://brill.com/search?q=Gathic%20Zoroastrianism'
 artifacts:
-  - title: Gathic Zoroastrianism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gathic_Zoroastrianism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Isfahan, Iran'
     period: c. c. 1200–600 BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Gathic Zoroastrianism.
-  - title: Gathic Zoroastrianism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gathic_Zoroastrianism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/gathic-zoroastrianism-1.jpg
+  - title: >-
+      The hymns of Zoroaster, usually called the Gathas (IA
+      hymnsofzoroaster00guth) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_hymns_of_Zoroaster,_usually_called_the_Gathas_(IA_hymnsofzoroaster00guth).pdf
     provenance: 'Isfahan, Iran'
     period: c. c. 1200–600 BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Gathic Zoroastrianism.
+    description: 'Subjects: Avestan language; Avestan language...'
+    imageUrl: /artifacts/gathic-zoroastrianism-1.jpg
 ---
 
 # Gathic Zoroastrianism

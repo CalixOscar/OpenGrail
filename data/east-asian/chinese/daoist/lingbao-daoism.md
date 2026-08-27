@@ -46,20 +46,21 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Lingbao%20Daoism'
 artifacts:
-  - title: Lingbao Daoism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lingbao_Daoism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Luoyang, Henan, China'
     period: c. late 4th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Lingbao Daoism.
-  - title: Lingbao Daoism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lingbao_Daoism'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/lingbao-daoism-1.jpg
+  - title: Lingbao Talisman Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lingbao_Talisman.gif'
     provenance: 'Luoyang, Henan, China'
     period: c. late 4th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Lingbao Daoism.
+    description: A talisman from one of the Lingbao Scriptures....
+    imageUrl: /artifacts/lingbao-daoism-2.jpg
 ---
 
 # Lingbao Daoism

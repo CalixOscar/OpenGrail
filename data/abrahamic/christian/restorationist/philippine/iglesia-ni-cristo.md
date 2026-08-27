@@ -48,7 +48,7 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Iglesia ni Cristo'
     url: 'https://www.cambridge.org/core/search?q=Iglesia%20ni%20Cristo'
 artifacts:
-  - title: Iglesia ni Cristo Historical Sanctuary & Relics
+  - title: Iglesia ni Cristo Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Iglesia_ni_Cristo'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1914 CE
@@ -63,7 +63,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Iglesia ni Cristo.
-    imageUrl: /artifacts/iglesia-ni-cristo-1.jpg
+    imageUrl: /artifacts/iglesia-ni-cristo-2.jpg
 ---
 
 # Iglesia ni Cristo

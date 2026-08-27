@@ -50,13 +50,14 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Umbanda'
 artifacts:
-  - title: Umbanda Historical Sanctuary & Relics
+  - title: Umbanda Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Umbanda'
     provenance: 'Rio de Janeiro, Brazil'
     period: c. early 20th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Umbanda.
+      Umbanda (Portuguese pronunciation: [ũˈbɐ̃dɐ]) is a religion that emerged
+      in Brazil during the 1920s. Deriving largely from Afro-Brazilian
+      traditions like Candomblé , it also combin...
   - title: Umbanda Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Umbanda'
     provenance: 'Rio de Janeiro, Brazil'

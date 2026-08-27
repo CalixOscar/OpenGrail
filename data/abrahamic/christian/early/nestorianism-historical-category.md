@@ -50,9 +50,8 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & “Nestorianism”'
     url: 'https://www.cambridge.org/core/search?q=%E2%80%9CNestorianism%E2%80%9D'
 artifacts:
-  - title: “Nestorianism” (Historical Category) Historical Sanctuary & Relics
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/%E2%80%9CNestorianism%E2%80%9D_(Historical_Category)
+  - title: “Nestorianism” (Historical Category) Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/%E2%80%9CNestorianism%E2%80%9D'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 5th century CE
     description: >-
@@ -60,8 +59,7 @@ artifacts:
       associated with “Nestorianism” (Historical Category).
     imageUrl: /artifacts/nestorianism-historical-category-1.jpg
   - title: “Nestorianism” (Historical Category) Sacred Scripture & Art
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/%E2%80%9CNestorianism%E2%80%9D_(Historical_Category)
+    sourceUrl: 'https://en.wikipedia.org/wiki/%E2%80%9CNestorianism%E2%80%9D'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 5th century CE
     description: >-

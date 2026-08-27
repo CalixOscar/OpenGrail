@@ -43,20 +43,25 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Finnic Religions'
     url: 'https://brill.com/search?q=Finnic%20Religions'
 artifacts:
-  - title: Finnic Religions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Finnic_Religions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. c. 1st millennium CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/finnish-religion-1.jpg
+  - title: Indigenous Knowledge for Wikipedia Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Indigenous_Knowledge_for_Wikipedia.pdf
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Finnic Religions.
-  - title: Finnic Religions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Finnic_Religions'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 1st millennium CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Finnic Religions.
+      Pre-release of a book chapter on the conflict of Indigenous knowledge and
+      Wikipedia due to the requirement of reliable, published, independent
+      sources...
+    imageUrl: /artifacts/finnish-religion-1.jpg
 ---
 
 # Finnic Religions

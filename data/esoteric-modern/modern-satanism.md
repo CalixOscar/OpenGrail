@@ -45,20 +45,29 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Satanism'
     url: 'https://brill.com/search?q=Modern%20Satanism'
 artifacts:
-  - title: Modern Satanism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Satanism'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'London, England, UK'
+    period: c. 1960s CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/modern-satanism-1.jpg
+  - title: >-
+      The believer's victory over Satan's devices (IA believersvictory00pars)
+      Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_believer%27s_victory_over_Satan%27s_devices_(IA_believersvictory00pars).pdf
     provenance: 'London, England, UK'
     period: c. 1960s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Modern Satanism.
-  - title: Modern Satanism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Satanism'
-    provenance: 'London, England, UK'
-    period: c. 1960s CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Modern Satanism.
+      Previously published under title: Satan's devices and the believer's
+      victory
+
+
+      Subjects: Conversion; Devil; Sanctification...
+    imageUrl: /artifacts/modern-satanism-1.jpg
 ---
 
 # Modern Satanism

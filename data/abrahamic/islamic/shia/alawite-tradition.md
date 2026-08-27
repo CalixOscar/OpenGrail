@@ -42,13 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Alawite Tradition'
     url: 'https://www.cambridge.org/core/search?q=Alawite%20Tradition'
 artifacts:
-  - title: Alawite Tradition Historical Sanctuary & Relics
+  - title: Alawite Tradition Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Alawite_Tradition'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 9th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Alawite Tradition.
+    imageUrl: /artifacts/alawite-tradition-1.jpg
   - title: Alawite Tradition Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Alawite_Tradition'
     provenance: 'Jerusalem, Southern Levant'
@@ -56,6 +57,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Alawite Tradition.
+    imageUrl: /artifacts/alawite-tradition-2.jpg
 ---
 
 # Alawite Tradition

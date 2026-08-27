@@ -42,13 +42,14 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Second%20Temple%20Judaism'
 artifacts:
-  - title: Second Temple Judaism Historical Sanctuary & Relics
+  - title: Second Temple Judaism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Second_Temple_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 516 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Second Temple Judaism.
+    imageUrl: /artifacts/second-temple-judaism-1.jpg
   - title: Second Temple Judaism Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Second_Temple_Judaism'
     provenance: 'Jerusalem, Southern Levant'
@@ -56,6 +57,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Second Temple Judaism.
+    imageUrl: /artifacts/second-temple-judaism-2.jpg
 ---
 
 # Second Temple Judaism

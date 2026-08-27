@@ -48,13 +48,14 @@ sources:
       Movement
     url: 'https://www.cambridge.org/core/search?q=Restoration%20Movement'
 artifacts:
-  - title: Restoration Movement Historical Sanctuary & Relics
+  - title: Restoration Movement Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Movement'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1800 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Restoration Movement.
+      The Restoration Movement (also known as the American Restoration Movement
+      or the Stone–Campbell Movement, and pejoratively as Campbellism) is a
+      Christian movement that began on the...
     imageUrl: /artifacts/restoration-movement-1.jpg
   - title: Restoration Movement Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Movement'

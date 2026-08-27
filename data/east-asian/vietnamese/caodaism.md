@@ -51,20 +51,26 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Cao%20%C4%90%C3%A0i'
 artifacts:
-  - title: Cao Đài Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cao_%C4%90%C3%A0i'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Holy See of Tay Ninh, Vietnam'
+    period: c. 1926 CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/caodaism-1.jpg
+  - title: >-
+      Ho Chi Minh reading the Proclamation of Independence of the Democratic
+      Republic of Vietnam on 2 September 1945 Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_reading_the_Proclamation_of_Independence_of_the_Democratic_Republic_of_Vietnam_on_2_September_1945.wav
     provenance: 'Holy See of Tay Ninh, Vietnam'
     period: c. 1926 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Cao Đài.
-  - title: Cao Đài Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cao_%C4%90%C3%A0i'
-    provenance: 'Holy See of Tay Ninh, Vietnam'
-    period: c. 1926 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cao Đài.
+      Post-1954 recording of a recreation of Ho Chi Minh reading the
+      Proclamation of Independence of the Democratic Republic of Vietnam....
+    imageUrl: /artifacts/caodaism-2.jpg
 ---
 
 # Cao Đài

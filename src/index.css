@@ -2870,6 +2870,215 @@ button,
   to { opacity: 1; }
 }
 
+/* Mobile Navigation & Dual Popout Drawers */
+.topbar__mobile-header {
+  display: none;
+}
+
+.mobile-bottom-nav {
+  display: none;
+}
+
+.sidebar-backdrop {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .app-shell {
+    flex-direction: column;
+    height: 100vh;
+    height: 100dvh;
+    overflow: hidden;
+  }
+
+  /* Left Sidebar Off-Canvas Drawer */
+  .sidebar-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1000;
+    width: min(85vw, 340px);
+    transform: translateX(-100%);
+    transition: transform 260ms cubic-bezier(.22, .8, .25, 1);
+    box-shadow: 20px 0 50px rgba(0, 0, 0, 0.75);
+  }
+
+  .sidebar-wrapper--mobile-open {
+    transform: translateX(0);
+  }
+
+  .sidebar-wrapper .sidebar {
+    width: 100% !important;
+    height: 100%;
+    border-right: 1px solid var(--line-strong);
+  }
+
+  .sidebar-backdrop {
+    display: block;
+    position: fixed;
+    inset: 0;
+    z-index: 950;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(5px);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 220ms ease;
+  }
+
+  .sidebar-backdrop--visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  /* Right Drawer: Document Pane */
+  .document-pane {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100vw;
+    max-width: 100vw;
+    z-index: 1100;
+    transform: translateX(100%);
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.85);
+    background: #0f131a;
+  }
+
+  .document-pane--open {
+    transform: translateX(0);
+  }
+
+  /* Top Bar */
+  .topbar {
+    display: flex;
+    flex-direction: column;
+    padding: 8px 12px;
+    min-height: auto;
+    gap: 8px;
+    background: rgba(13, 17, 23, 0.95);
+    backdrop-filter: blur(16px);
+  }
+
+  .topbar__mobile-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    gap: 10px;
+  }
+
+  .mobile-menu-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    color: var(--text);
+    cursor: pointer;
+  }
+
+  .mobile-app-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    color: #edf3f5;
+  }
+
+  .topbar__context {
+    display: none;
+  }
+
+  .topbar__tools {
+    width: 100%;
+    justify-content: space-between;
+    gap: 6px;
+  }
+
+  .topbar__tools .tool-group {
+    display: none;
+  }
+
+  .graph-search {
+    width: 100%;
+  }
+
+  .graph-search__field {
+    width: 100%;
+  }
+
+  /* Workspace & Stage padding for bottom nav */
+  .atlas-workspace {
+    padding-bottom: calc(56px + env(safe-area-inset-bottom, 0px));
+  }
+
+  /* Timeline Scrubber as popout drawer */
+  .timeline-wrapper {
+    position: fixed;
+    bottom: calc(56px + env(safe-area-inset-bottom, 0px));
+    left: 0;
+    right: 0;
+    z-index: 900;
+    background: rgba(13, 17, 23, 0.96);
+    backdrop-filter: blur(14px);
+    border-top: 1px solid var(--line);
+    transform: translateY(120%);
+    transition: transform 240ms cubic-bezier(.22, .8, .25, 1);
+    box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.6);
+  }
+
+  .timeline-wrapper--open {
+    transform: translateY(0);
+  }
+
+  /* Bottom Mobile Navigation Menu Bar */
+  .mobile-bottom-nav {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 850;
+    height: 56px;
+    padding-bottom: env(safe-area-inset-bottom, 0);
+    background: rgba(10, 13, 18, 0.96);
+    backdrop-filter: blur(20px);
+    border-top: 1px solid var(--line-strong);
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0 -4px 25px rgba(0, 0, 0, 0.6);
+  }
+
+  .mobile-nav-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    background: none;
+    border: none;
+    color: var(--muted);
+    font-size: 10px;
+    font-weight: 600;
+    padding: 6px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: color 140ms ease, transform 120ms ease;
+  }
+
+  .mobile-nav-item--active {
+    color: #64d8c0;
+  }
+
+  .mobile-nav-item:active {
+    transform: scale(0.92);
+    color: var(--text);
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

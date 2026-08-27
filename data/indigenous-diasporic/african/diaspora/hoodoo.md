@@ -50,20 +50,24 @@ sources:
     url: >-
       https://ich.unesco.org/en/search?q=Hoodoo%20%2F%20African%20American%20Conjure
 artifacts:
-  - title: Hoodoo / African American Conjure Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hoodoo_%2F_African_American_Conjure'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Salvador da Bahia, Brazil'
+    period: c. 18th century CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/hoodoo-1.jpg
+  - title: 'Brer Bear and Brer Fox, 1881 Canonical Scripture & Iconography'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Brer_Bear_and_Brer_Fox,_1881.jpg'
     provenance: 'Salvador da Bahia, Brazil'
     period: c. 18th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Hoodoo / African American Conjure.
-  - title: Hoodoo / African American Conjure Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hoodoo_%2F_African_American_Conjure'
-    provenance: 'Salvador da Bahia, Brazil'
-    period: c. 18th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Hoodoo / African American Conjure.
+      Br'er Fox and Br'er Bear from Uncle Remus, His Songs and His Sayings: The
+      Folk-Lore of the Old Plantation, by Joel Chandler Harris, p. 101.
+      Illustrations by Frederick S. Church and...
+    imageUrl: /artifacts/hoodoo-1.jpg
 ---
 
 # Hoodoo / African American Conjure

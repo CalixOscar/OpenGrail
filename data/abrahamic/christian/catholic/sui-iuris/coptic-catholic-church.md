@@ -47,13 +47,14 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Coptic%20Catholic%20Church'
 artifacts:
-  - title: Coptic Catholic Church Historical Sanctuary & Relics
+  - title: Coptic Catholic Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1741 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Coptic Catholic Church.
+      The Coptic Catholic Church, also known as the Coptic Catholic Church of
+      Alexandria, is an Eastern Catholic particular church in full communion
+      with the Catholic Church. Along with...
     imageUrl: /artifacts/coptic-catholic-church-1.jpg
   - title: Coptic Catholic Church Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Coptic_Catholic_Church'

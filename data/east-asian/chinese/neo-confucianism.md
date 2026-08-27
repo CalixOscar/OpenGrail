@@ -47,20 +47,29 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Neo-Confucianism'
 artifacts:
-  - title: Neo-Confucianism Historical Sanctuary & Relics
+  - title: Neo-Confucianism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Neo-Confucianism'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 11th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Neo-Confucianism.
-  - title: Neo-Confucianism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Neo-Confucianism'
+      Neo-Confucianism (Chinese: 宋明理學; pinyin: Sòng-Míng lǐxué, often shortened
+      to lǐxué 理學, literally "School of Principle") is the cultural revival of
+      Confucianism as an ethical, socia...
+    imageUrl: /artifacts/neo-confucianism-1.jpg
+  - title: >-
+      Cosmography in four books Fleuron T107951-4 Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Cosmography_in_four_books_Fleuron_T107951-4.png
     provenance: 'Qufu, Shandong, China'
     period: c. c. 11th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Neo-Confucianism.
+      Fleuron from book:
+
+      Cosmography in four books. Containing the chorography and history of the
+      whole world: and all the principal kingdoms, provinces, seas, and the
+      isles thereof. By...
+    imageUrl: /artifacts/neo-confucianism-2.jpg
 ---
 
 # Neo-Confucianism

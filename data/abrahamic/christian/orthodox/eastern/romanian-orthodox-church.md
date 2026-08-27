@@ -44,7 +44,7 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Romanian%20Orthodox%20Church'
 artifacts:
-  - title: Romanian Orthodox Church Historical Sanctuary & Relics
+  - title: Romanian Orthodox Church Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Romanian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1872 CE

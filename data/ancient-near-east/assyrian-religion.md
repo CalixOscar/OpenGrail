@@ -43,13 +43,14 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Assyrian Religion'
     url: 'https://brill.com/search?q=Assyrian%20Religion'
 artifacts:
-  - title: Assyrian Religion Historical Sanctuary & Relics
+  - title: Assyrian Religion Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Assyrian_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2000 BCE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Assyrian Religion.
+    imageUrl: /artifacts/assyrian-religion-1.jpg
   - title: Assyrian Religion Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Assyrian_Religion'
     provenance: 'Babylon, Mesopotamia'
@@ -57,6 +58,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Assyrian Religion.
+    imageUrl: /artifacts/assyrian-religion-2.jpg
 ---
 
 # Assyrian Religion

@@ -2,7 +2,10 @@
 /* See LICENSE and LICENSE-COMMERCIAL.md for the applicable terms. */
 
 import {
+  BookOpen,
+  Calendar,
   LocateFixed,
+  Menu,
   Minus,
   Move,
   Network,
@@ -54,6 +57,8 @@ function AppContent() {
   const [loadError, setLoadError] = useState('');
   const [documentOpen, setDocumentOpen] = useState(false);
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
+  const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
+  const [mobileTimelineOpen, setMobileTimelineOpen] = useState(false);
   const [clusterLayout, setClusterLayout] = useState(true);
   const [searchFocused, setSearchFocused] = useState(false);
 
@@ -171,17 +176,42 @@ function AppContent() {
 
   return (
     <div className="app-shell">
-      <Sidebar
-        nodes={graphData.nodes}
-        clusters={graphData.clusters}
-        selectedNodeId={selectedNodeId}
-        onSelectNode={(id) => selectNode(id)}
-        collapsed={sidebarCollapsed}
-        onToggleCollapsed={() => setSidebarCollapsed((value) => !value)}
-      />
+      <div className={`sidebar-wrapper ${mobileSidebarOpen ? 'sidebar-wrapper--mobile-open' : ''}`}>
+        <Sidebar
+          nodes={graphData.nodes}
+          clusters={graphData.clusters}
+          selectedNodeId={selectedNodeId}
+          onSelectNode={(id) => {
+            selectNode(id);
+            setMobileSidebarOpen(false);
+          }}
+          collapsed={sidebarCollapsed}
+          onToggleCollapsed={() => setSidebarCollapsed((value) => !value)}
+        />
+      </div>
+
+      {mobileSidebarOpen && (
+        <div
+          className="sidebar-backdrop sidebar-backdrop--visible"
+          onClick={() => setMobileSidebarOpen(false)}
+          aria-label="Close navigation menu"
+        />
+      )}
 
       <main className="atlas-workspace">
         <header className="topbar">
+          <div className="topbar__mobile-header">
+            <button
+              type="button"
+              className="icon-button mobile-menu-btn"
+              onClick={() => setMobileSidebarOpen((v) => !v)}
+              aria-label="Toggle traditions menu"
+            >
+              <Menu size={18} />
+            </button>
+            <span className="mobile-app-title">OpenGrail</span>
+          </div>
+
           <div className="topbar__context">
             <span className="topbar__eyebrow">
               <Network size={13} aria-hidden="true" />
@@ -379,7 +409,57 @@ function AppContent() {
           />
         </section>
 
-        <TimelineScrubber />
+        <div className={`timeline-wrapper ${mobileTimelineOpen ? 'timeline-wrapper--open' : ''}`}>
+          <TimelineScrubber />
+        </div>
+
+        {/* Mobile Bottom Navigation Menu Bar */}
+        <nav className="mobile-bottom-nav" aria-label="Mobile Navigation">
+          <button
+            type="button"
+            className={`mobile-nav-item ${mobileSidebarOpen ? 'mobile-nav-item--active' : ''}`}
+            onClick={() => setMobileSidebarOpen((v) => !v)}
+          >
+            <Menu size={18} />
+            <span>Browse</span>
+          </button>
+
+          <button
+            type="button"
+            className="mobile-nav-item"
+            onClick={() => {
+              const input = document.getElementById('graph-search-input') as HTMLInputElement | null;
+              input?.focus();
+            }}
+          >
+            <Search size={18} />
+            <span>Search</span>
+          </button>
+
+          <button
+            type="button"
+            className={`mobile-nav-item ${mobileTimelineOpen ? 'mobile-nav-item--active' : ''}`}
+            onClick={() => setMobileTimelineOpen((v) => !v)}
+          >
+            <Calendar size={18} />
+            <span>Timeline</span>
+          </button>
+
+          <button
+            type="button"
+            className={`mobile-nav-item ${documentOpen ? 'mobile-nav-item--active' : ''}`}
+            onClick={() => {
+              if (selectedNode || selectedLink) {
+                setDocumentOpen((v) => !v);
+              } else if (graphData.nodes.length > 0) {
+                selectNode(graphData.nodes[0].id);
+              }
+            }}
+          >
+            <BookOpen size={18} />
+            <span>Details</span>
+          </button>
+        </nav>
       </main>
     </div>
   );

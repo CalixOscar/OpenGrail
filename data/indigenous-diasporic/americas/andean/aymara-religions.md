@@ -54,20 +54,27 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Aymara%20Religious%20Traditions'
 artifacts:
-  - title: Aymara Religious Traditions Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Aymara_Religious_Traditions'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
     provenance: 'Tiwanaku, Lake Titicaca, Bolivia'
     period: c. pre-Inca and historically diverse
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Aymara Religious Traditions.
-  - title: Aymara Religious Traditions Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Aymara_Religious_Traditions'
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/aymara-religions-1.jpg
+  - title: >-
+      The Indian races of North and South America (Bronwell, 1853) (IA
+      indianracesofnor00brow 0) Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_Indian_races_of_North_and_South_America_(Bronwell,_1853)_(IA_indianracesofnor00brow_0).pdf
     provenance: 'Tiwanaku, Lake Titicaca, Bolivia'
     period: c. pre-Inca and historically diverse
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Aymara Religious Traditions.
+    description: |-
+      p. 24 col. pl., 15 port. (part col.) 23 cm
+
+      Subjects: Indians...
+    imageUrl: /artifacts/aymara-religions-1.jpg
 ---
 
 # Aymara Religious Traditions

@@ -44,20 +44,25 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ayyavazhi'
 artifacts:
-  - title: Ayyavazhi Historical Sanctuary & Relics
+  - title: Ayyavazhi Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Ayyavazhi'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1830s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ayyavazhi.
-  - title: Ayyavazhi Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ayyavazhi'
+      Ayyavazhi (Tamil: அய்யாவழி, Malayalam: അയ്യാവഴി Ayyāvaḻi [əjːaːvəɻi] ,
+      lit. 'Path of the Master') is a Hindu denomination that originated in
+      South India during the 19th century.
+
+      Ay...
+    imageUrl: /artifacts/ayyavazhi-1.jpg
+  - title: Thamarai-Namam2 Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Thamarai-Namam2.png'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1830s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ayyavazhi.
+      This is the religious symbol of Ayyavazhi, an Indian Dharmic belief
+      system....
+    imageUrl: /artifacts/ayyavazhi-2.jpg
 ---
 
 # Ayyavazhi

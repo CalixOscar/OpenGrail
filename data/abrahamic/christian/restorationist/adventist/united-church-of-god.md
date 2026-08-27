@@ -52,7 +52,7 @@ sources:
 artifacts:
   - title: >-
       United Church of God, an International Association Historical Sanctuary &
-      Relics
+      Records
     sourceUrl: >-
       https://en.wikipedia.org/wiki/United_Church_of_God%2C_an_International_Association
     provenance: 'Jerusalem, Southern Levant'

@@ -45,13 +45,15 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Mevlevi Order'
     url: 'https://www.cambridge.org/core/search?q=Mevlevi%20Order'
 artifacts:
-  - title: Mevlevi Order Historical Sanctuary & Relics
+  - title: Mevlevi Order Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Mevlevi_Order'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 13th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Mevlevi Order.
+      The Mevlevi Order or Mawlawiyya (Turkish: Mevlevilik; Persian: طریقت
+      مولویه) is a Sufi order that originated in Konya, Turkey (formerly capital
+      of the Sultanate of Rum) and which w...
+    imageUrl: /artifacts/mevlevi-order-1.jpg
   - title: Mevlevi Order Sacred Scripture & Art
     sourceUrl: 'https://en.wikipedia.org/wiki/Mevlevi_Order'
     provenance: 'Jerusalem, Southern Levant'
@@ -59,6 +61,7 @@ artifacts:
     description: >-
       Preserved liturgical manuscripts, sacred epigraphy, and canonical
       teachings of Mevlevi Order.
+    imageUrl: /artifacts/mevlevi-order-2.jpg
 ---
 
 # Mevlevi Order

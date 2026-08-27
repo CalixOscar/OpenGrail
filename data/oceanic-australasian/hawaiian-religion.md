@@ -43,20 +43,26 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Hawaiian%20Religion'
 artifacts:
-  - title: Hawaiian Religion Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hawaiian_Religion'
+  - title: Hawaiian religion Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hawaiian_religion'
     provenance: 'Oahu (Honolulu / Heiau), Hawaii, USA'
     period: c. c. 1000 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Hawaiian Religion.
-  - title: Hawaiian Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hawaiian_Religion'
+      The Hawaiian religion comprises the Indigenous religious beliefs and
+      practices of Native Hawaiians, also known as the kapu system. Hawaiian
+      religion was based partly on the tapu sy...
+    imageUrl: /artifacts/hawaiian-religion-1.jpg
+  - title: >-
+      Ethnologisches Museum Dahlem Berlin Mai 2006 009 Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Ethnologisches_Museum_Dahlem_Berlin_Mai_2006_009.jpg
     provenance: 'Oahu (Honolulu / Heiau), Hawaii, USA'
     period: c. c. 1000 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Hawaiian Religion.
+      Figure, probably the God of canoe carvers. From Hawaii, Collection Arning,
+      1887. Located in the Ethnologisches Museum, Berlin-Dahlem....
+    imageUrl: /artifacts/hawaiian-religion-1.jpg
 ---
 
 # Hawaiian Religion

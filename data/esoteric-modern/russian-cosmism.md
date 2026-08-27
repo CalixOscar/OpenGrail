@@ -49,20 +49,24 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Russian Cosmism'
     url: 'https://brill.com/search?q=Russian%20Cosmism'
 artifacts:
-  - title: Russian Cosmism Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Russian_Cosmism'
+  - title: Russian cosmism Historical Sanctuary & Records
+    sourceUrl: 'https://en.wikipedia.org/wiki/Russian_cosmism'
     provenance: 'London, England, UK'
     period: c. late 19th century CE
     description: >-
       Authoritative historical records, sanctuary sites, and material culture
       associated with Russian Cosmism.
-  - title: Russian Cosmism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Russian_Cosmism'
+  - title: >-
+      The American philosophy of government; (IA americanphilosop00snowrich)
+      Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:The_American_philosophy_of_government;_(IA_americanphilosop00snowrich).pdf
     provenance: 'London, England, UK'
     period: c. late 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Russian Cosmism.
+    description: |-
+      "List of references": p. 473
+
+      Subjects: League of nations; United States -- Politics and government...
 ---
 
 # Russian Cosmism

@@ -46,20 +46,24 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Brahmo%20Samaj'
 artifacts:
-  - title: Brahmo Samaj Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brahmo_Samaj'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 1828 CE
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/brahmo-samaj-1.jpg
+  - title: BCN - Brahmo Cemetery Nabodebalya 01 Canonical Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:BCN_-_Brahmo_Cemetery_Nabodebalya_01.jpg
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1828 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Brahmo Samaj.
-  - title: Brahmo Samaj Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brahmo_Samaj'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1828 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Brahmo Samaj.
+      This photograph has been taken during Wikimedia Documenting Brahmo Samaj
+      Cemetery-Nabodebalay project....
+    imageUrl: /artifacts/brahmo-samaj-2.jpg
 ---
 
 # Brahmo Samaj

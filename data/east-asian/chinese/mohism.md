@@ -41,20 +41,21 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Mohism'
 artifacts:
-  - title: Mohism Historical Sanctuary & Relics
+  - title: Mohism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Mohism'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 5th century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Mohism.
-  - title: Mohism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mohism'
+      Mohism or Moism (, Chinese: 墨家; pinyin: Mòjiā; lit. 'School of Mo') was an
+      ancient Chinese philosophy of ethics and logic, rational thought, and
+      scientific technology developed by...
+    imageUrl: /artifacts/mohism-1.jpg
+  - title: Mozi Canonical Scripture & Iconography
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mozi.jpg'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 5th century BCE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Mohism.
+    description: 'Text of 7th volume of Mozi (墨子卷之七), as wrote at upper-right...'
+    imageUrl: /artifacts/mohism-2.jpg
 ---
 
 # Mohism

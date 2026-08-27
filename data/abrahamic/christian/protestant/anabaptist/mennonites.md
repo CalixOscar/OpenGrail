@@ -48,7 +48,7 @@ sources:
       Traditions
     url: 'https://www.cambridge.org/core/search?q=Mennonite%20Traditions'
 artifacts:
-  - title: Mennonite Traditions Historical Sanctuary & Relics
+  - title: Mennonite Traditions Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Mennonite_Traditions'
     provenance: 'Zurich, Switzerland'
     period: c. 1520s CE

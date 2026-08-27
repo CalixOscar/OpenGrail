@@ -41,20 +41,24 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=State%20Shinto'
 artifacts:
-  - title: State Shinto Historical Sanctuary & Relics
+  - title: State Shinto Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/State_Shinto'
     provenance: 'Qufu, Shandong, China'
     period: c. 1868 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with State Shinto.
-  - title: State Shinto Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/State_Shinto'
+      State Shintō (国家神道 or 國家神道, Kokka Shintō) was Imperial Japan's ideological
+      use of the Japanese folk religion and traditions of Shinto. The state
+      exercised control of shrine finance...
+    imageUrl: /artifacts/state-shinto-1.jpg
+  - title: >-
+      50th Anniv.of Imperial Rescript on Education Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:50th_Anniv.of_Imperial_Rescript_on_Education.jpg
     provenance: 'Qufu, Shandong, China'
     period: c. 1868 CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of State Shinto.
+    description: 教育ニ関スル勅語（教育勅語50年）渙発50周年の日本の記念切手...
+    imageUrl: /artifacts/state-shinto-2.jpg
 ---
 
 # State Shinto

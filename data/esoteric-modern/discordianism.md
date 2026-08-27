@@ -47,20 +47,27 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Discordianism'
     url: 'https://brill.com/search?q=Discordianism'
 artifacts:
-  - title: Discordianism Historical Sanctuary & Relics
+  - title: Discordianism Historical Sanctuary & Records
     sourceUrl: 'https://en.wikipedia.org/wiki/Discordianism'
     provenance: 'London, England, UK'
     period: c. late 1950s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Discordianism.
-  - title: Discordianism Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Discordianism'
+      Discordianism is a belief system based around Eris, the Greek goddess of
+      strife and discord, and variously defined as a religion, new religious
+      movement, virtual religion, or somew...
+    imageUrl: /artifacts/discordianism-1.jpg
+  - title: >-
+      Principia Discordia page00043 mandala subset-not-Borromean Canonical
+      Scripture & Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Principia_Discordia_page00043_mandala_subset-not-Borromean.gif
     provenance: 'London, England, UK'
     period: c. late 1950s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Discordianism.
+      Modified version of image File:Principia Discordia page00043 mandala
+      (Brunnian link).svg, showing that if you choose three non-adjacent
+      nonagons (here the red, green, and blue), th...
+    imageUrl: /artifacts/discordianism-1.jpg
 ---
 
 # Discordianism

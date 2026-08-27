@@ -42,20 +42,26 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Akan%20Religion'
 artifacts:
-  - title: Akan Religion Historical Sanctuary & Relics
-    sourceUrl: 'https://en.wikipedia.org/wiki/Akan_Religion'
+  - title: >-
+      St Paul's Cathedral High Altar, London, UK - Diliff Historical Sanctuary &
+      Records
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg
+    provenance: 'Kumasi, Ashanti Empire, Ghana'
+    period: c. precolonial era
+    description: The High Altar of St Paul's Cathedral as viewed from the choir....
+    imageUrl: /artifacts/akan-religion-1.jpg
+  - title: >-
+      Filming of the Yoruba oral traditions project Canonical Scripture &
+      Iconography
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_project.jpg
     provenance: 'Kumasi, Ashanti Empire, Ghana'
     period: c. precolonial era
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Akan Religion.
-  - title: Akan Religion Sacred Scripture & Art
-    sourceUrl: 'https://en.wikipedia.org/wiki/Akan_Religion'
-    provenance: 'Kumasi, Ashanti Empire, Ghana'
-    period: c. precolonial era
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Akan Religion.
+      Filming of the Yoruba oral traditions projects. Interviewing Olorìṣà
+      Ṣànpọ̀ná...
+    imageUrl: /artifacts/akan-religion-1.jpg
 ---
 
 # Akan Religion
