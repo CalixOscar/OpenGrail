@@ -1,0 +1,28 @@
+---
+id: "pure-land-buddhism"
+title: "Pure Land Buddhism"
+cluster: "Dharmic"
+color: "#f6a23d"
+display_weight: 1.45
+era_start: "c. 2nd century CE"
+epistemic_tier: "academic_consensus"
+summary: "Mahāyāna traditions devoted to Amitābha Buddha and aspiration for rebirth in his Pure Land."
+canonical_texts:
+  - "Larger Sukhāvatīvyūha Sūtra"
+  - "Smaller Sukhāvatīvyūha Sūtra"
+  - "Contemplation Sūtra"
+relations:
+  - target: "mahayana"
+    type: "branch_of"
+    certainty: "academic_consensus"
+---
+
+# Pure Land Buddhism
+
+## Historical context
+
+Indian scriptures describing Amitābha and Sukhāvatī entered China through early translations and inspired devotional societies, commentaries, and recitation practices. Pure Land subsequently became pervasive across East Asian Buddhism and developed distinct Japanese institutions including Jōdo-shū and Jōdo Shinshū, while often remaining integrated with Chan, Tiantai, and temple ritual elsewhere.
+
+## Distinctives and comparative notes
+
+Practitioners recollect or recite Amitābha’s name, cultivate trust and aspiration, and dedicate merit toward birth in a realm especially conducive to awakening. Traditions differ over self-power, other-power, visualization, and whether Pure Land is cosmological or also realized in mind. Describing the practice as mere petitionary faith misses its ethical, meditative, and Mahāyāna bodhisattva dimensions.

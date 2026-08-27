@@ -1,0 +1,31 @@
+---
+id: "jehovahs-witnesses"
+title: "Jehovah's Witnesses"
+cluster: "Abrahamic"
+color: "#658bd5"
+era_start: "1870s CE"
+epistemic_tier: "academic_consensus"
+summary: "A millenarian Christian-origin movement descending from Charles Taze Russell's Bible Student networks."
+canonical_texts:
+  - "New World Translation of the Holy Scriptures"
+  - "The Watchtower"
+  - "Studies in the Scriptures"
+relations:
+  - target: "christianity"
+    type: "branch_of"
+    certainty: "academic_consensus"
+  - target: "adventism"
+    type: "influenced_by"
+    certainty: "minority_scholarly"
+---
+
+# Jehovah's Witnesses
+
+## Historical context
+
+Charles Taze Russell organized Bible study circles in the 1870s within a wider American millenarian environment. The Watch Tower Society coordinated publishing and preaching, while leadership under Joseph Rutherford reshaped organization and adopted the name Jehovah's Witnesses in 1931. The movement expanded globally despite bans, imprisonment, and legal disputes over conscientious objection and public evangelism.
+
+## Distinctives and comparative notes
+
+Witnesses worship Jehovah as the one God, reject the Trinity, understand Jesus as God's first creation, and expect divine rule to replace present political systems. They avoid blood transfusions, military service, partisan politics, and many holidays, and practice intensive door-to-door or public witnessing. Their Adventist influence was indirect rather than simple denominational descent. Most Nicene churches reject Witness theology, while historical classification recognizes its Christian and Biblical genealogy.
+

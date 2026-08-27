@@ -1,0 +1,26 @@
+---
+id: "churches-of-christ-australia"
+title: "Churches of Christ in Australia"
+cluster: "Abrahamic"
+color: "#6ebde1"
+era_start: "1840s CE"
+epistemic_tier: "academic_consensus"
+summary: "Australian Stone-Campbell churches organized through state conferences while retaining congregational autonomy."
+canonical_texts:
+  - "Bible"
+  - "Declaration and Address"
+relations:
+  - target: "restoration-movement"
+    type: "branch_of"
+    certainty: "academic_consensus"
+---
+
+# Churches of Christ in Australia
+
+## Historical development
+
+Stone-Campbell congregations appeared in the Australian colonies in the nineteenth century through migration and local evangelism. State conferences developed to coordinate mission, education, and social services without erasing congregational autonomy. Their history followed an Australian path and should not be equated automatically with the predominantly a cappella Churches of Christ in the United States.
+
+## Organization and practice
+
+Australian Churches of Christ commonly emphasize believer's baptism, regular Communion, biblical preaching, and local congregational responsibility. Most use instruments in worship and cooperate through state- or territory-based bodies and national agencies. Their theological range includes evangelical, charismatic, and ecumenical expressions, illustrating how Stone-Campbell identity developed differently across national settings.

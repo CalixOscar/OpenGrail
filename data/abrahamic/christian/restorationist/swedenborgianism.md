@@ -1,0 +1,31 @@
+---
+id: "swedenborgianism"
+title: "The New Church (Swedenborgianism)"
+cluster: "Abrahamic"
+color: "#7f83c8"
+era_start: "1787 CE"
+epistemic_tier: "academic_consensus"
+summary: "Christian churches inspired by Emanuel Swedenborg's visionary biblical theology, collectively known as the New Church."
+aliases:
+  - "Swedenborgianism"
+  - "New Church"
+canonical_texts:
+  - "Bible"
+  - "Arcana Coelestia"
+  - "Heaven and Hell"
+  - "True Christian Religion"
+relations:
+  - target: "christianity"
+    type: "branch_of"
+    certainty: "academic_consensus"
+---
+
+# The New Church (Swedenborgianism)
+
+## Historical development
+
+Emanuel Swedenborg published extensive accounts of visions and a spiritual interpretation of Christianity in the eighteenth century but did not found a denomination. Readers organized the first New Church body in London in 1787, followed by congregations in Europe and North America. Later divisions produced several Swedenborgian denominations with differing liturgies and institutional styles.
+
+## Belief and practice
+
+New Church theology understands the Trinity as united in the one person of Jesus Christ and interprets scripture through correspondences between natural and spiritual realities. It teaches continuing spiritual development, a freely chosen heaven or hell, and a new Christian age signified by the New Jerusalem. Worship and sacramental practice vary across Swedenborgian organizations, all of which regard Swedenborg's works as interpretive rather than an additional biblical canon.

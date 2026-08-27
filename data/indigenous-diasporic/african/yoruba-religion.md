@@ -1,0 +1,25 @@
+---
+id: "yoruba-religion"
+title: "Yorùbá Religion"
+cluster: "Indigenous & Diasporic"
+color: "#c47d54"
+era_start: "before 1000 CE"
+epistemic_tier: "academic_consensus"
+summary: "Interrelated religious traditions of Yorùbá communities centered on divinity, ancestors, character, and reciprocal ritual."
+canonical_texts:
+  - "Oral traditions"
+  - "Ifá literary corpus"
+  - "Oríkì praise poetry"
+  - "Ritual and festival corpus"
+relations: []
+---
+
+# Yorùbá Religion
+
+## Historical context
+
+Yorùbá religious traditions developed among communities in present-day southwestern Nigeria and neighboring Benin and Togo, with major centers such as Ilé-Ifẹ̀ and Ọ̀yọ́. Political change, Islam, Christianity, colonial rule, urbanization, and Atlantic diaspora have continually reshaped practice. There is no single central authority, and regional lineages may narrate deities and origins differently.
+
+## Distinctives and comparative notes
+
+Olódùmarè, the òrìṣà, ancestors, personal destiny, morally cultivated character, divination, healing, sacrifice, music, and festival create a relational religious world. Priesthoods transmit specialized knowledge through initiation and apprenticeship. Diaspora traditions such as Lucumí and Candomblé preserve and transform particular Yorùbá inheritances alongside other African and colonial-era sources; they are not interchangeable replicas of present-day Yorùbá practice.

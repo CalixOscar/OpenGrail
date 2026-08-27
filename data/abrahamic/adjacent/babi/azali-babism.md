@@ -1,0 +1,30 @@
+---
+id: "azali-babism"
+title: "Azali Babism"
+cluster: "Abrahamic"
+color: "#8797ba"
+era_start: "1860s CE"
+epistemic_tier: "academic_consensus"
+summary: "A small Babi continuation associated with Subh-i Azal that did not accept Baha'u'llah's prophetic claim."
+aliases:
+  - "Azali Faith"
+  - "Bayani Faith"
+canonical_texts:
+  - "Persian Bayan"
+  - "Arabic Bayan"
+  - "Writings of Subh-i Azal"
+relations:
+  - target: "babism"
+    type: "branch_of"
+    certainty: "academic_consensus"
+---
+
+# Azali Babism
+
+## Historical development
+
+After the Bab's execution, leadership claims and the later announcement of Baha'u'llah divided the Babi community. Followers of Mirza Yahya Subh-i Azal rejected Baha'u'llah's claim to be the promised figure announced by the Bab and maintained allegiance to the Babi Bayan. The community became known as Azali or Bayani.
+
+## Identity and survival
+
+Azalis emphasized preservation and interpretation of the Bab's laws and writings while often practicing concealment in a hostile environment. Their numbers declined and reliable demographic information remains difficult to establish. The tradition is historically related to the Bahá'í Faith through common Babi origins but is not a Bahá'í denomination.

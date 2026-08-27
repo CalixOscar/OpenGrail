@@ -1,0 +1,26 @@
+---
+id: "church-of-jesus-christ-bickertonite"
+title: "The Church of Jesus Christ (Bickertonite)"
+cluster: "Abrahamic"
+color: "#7898d4"
+era_start: "1862 CE"
+epistemic_tier: "academic_consensus"
+summary: "A Latter Day Saint church descending from Sidney Rigdon and William Bickerton, with headquarters in Pennsylvania."
+canonical_texts:
+  - "Bible"
+  - "Book of Mormon"
+relations:
+  - target: "latter-day-saint-movement"
+    type: "branch_of"
+    certainty: "academic_consensus"
+---
+
+# The Church of Jesus Christ (Bickertonite)
+
+## Historical development
+
+This church traces its succession through Sidney Rigdon's post-1844 claim and the ministry of William Bickerton in western Pennsylvania. Bickerton organized the body in 1862 after Rigdon's organization had fragmented. The parenthetical scholarly label “Bickertonite” distinguishes it from other churches with the same official name but is not normally part of the church's self-designation.
+
+## Belief and practice
+
+The church accepts the Bible and Book of Mormon while rejecting the Doctrine and Covenants and Pearl of Great Price as standards of scripture. It practices baptism by immersion, foot washing, Communion with bread and wine, and leadership by apostles and elders. It rejects plural marriage and several distinctive doctrines associated with the Utah-based Latter-day Saint tradition.

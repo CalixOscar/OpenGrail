@@ -1,0 +1,33 @@
+---
+id: "cult-of-isis"
+title: "Cult of Isis"
+cluster: "Ancient Mediterranean"
+color: "#b986e8"
+era_start: "c. 4th century BCE"
+epistemic_tier: "academic_consensus"
+summary: "Mediterranean cults of the Egyptian goddess Isis adapted through Hellenistic and Roman institutions."
+canonical_texts:
+  - "Isis aretalogies"
+  - "Plutarch's On Isis and Osiris"
+  - "Apuleius's Metamorphoses, Book 11"
+  - "Temple and dedicatory inscriptions"
+relations:
+  - target: "ancient-egyptian-religion"
+    type: "branch_of"
+    certainty: "academic_consensus"
+    citation: "J. Gwyn Griffiths, Apuleius of Madauros: The Isis-Book (1975)"
+  - target: "hellenistic-religion"
+    type: "syncretized_with"
+    certainty: "academic_consensus"
+    citation: "Laurent Bricault, Isis Pelagia (2020)"
+---
+
+# Cult of Isis
+
+## Historical context
+
+Isis was rooted in Egyptian temple and royal traditions, but her cult acquired new languages, images, associations, and sanctuaries across the Hellenistic and Roman Mediterranean. Sailors, officials, enslaved people, freedpersons, and elites all appear among devotees. Evidence ranges from Egyptian temples to Greek aretalogies, Roman processions, dedications, and Apuleius's literary initiation narrative.
+
+## Distinctives and comparative notes
+
+Mediterranean Isis could be healer, protector at sea, mourning mother, cosmic sovereign, and guarantor of initiated devotion. These forms did not replace Egyptian practice or become identical everywhere. Ancient comparisons with Demeter, Aphrodite, or other goddesses were strategic identifications, not proof of a universal goddess religion. Similarities to later Marian devotion are historically interesting, but direct descent is too simple without specific evidence.

@@ -1,0 +1,30 @@
+---
+id: "thien"
+title: "Thiền Buddhism"
+cluster: "Dharmic"
+color: "#f09a3e"
+era_start: "c. 6th century CE"
+epistemic_tier: "academic_consensus"
+summary: "Vietnamese forms of Chan Buddhism combining meditation lineages with devotional, ritual, and socially engaged practice."
+canonical_texts:
+  - "Thiền uyển tập anh"
+  - "Platform Sūtra"
+  - "Trúc Lâm writings"
+relations:
+  - target: "chan"
+    type: "branch_of"
+    certainty: "academic_consensus"
+  - target: "vietnamese-folk-religion"
+    type: "syncretized_with"
+    certainty: "academic_consensus"
+---
+
+# Thiền Buddhism
+
+## Historical context
+
+Vietnamese chronicles describe several meditation lineages arriving through Chinese and Indian-connected routes. The Trúc Lâm school gained royal support under the Trần dynasty and became an enduring emblem of Vietnamese Buddhism. Later temple life integrated Thiền with Pure Land devotion, funerary ritual, moral instruction, and village patronage.
+
+## Distinctives and comparative notes
+
+Thiền values meditative insight and teacher transmission but is rarely isolated from chanting, merit-making, and devotion to buddhas and bodhisattvas. Modern teachers, especially Thích Nhất Hạnh, made Vietnamese meditation and engaged Buddhism globally influential. Interaction with ancestor and local spirit rites is historically documented; practitioners may interpret those practices through several religious frames rather than a single blended creed.

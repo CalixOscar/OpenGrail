@@ -1,0 +1,42 @@
+---
+id: "ancient-astronaut-theory"
+title: "Ancient Astronaut Theory"
+cluster: "Speculative"
+color: "#c084fc"
+era_start: "1960s CE"
+epistemic_tier: "speculative_fringe"
+summary: "A modern pseudohistorical claim that extraterrestrial visitors caused or accelerated ancient religions, monuments, technologies, or myths."
+canonical_texts:
+  - "Chariots of the Gods? (1968)"
+  - "The 12th Planet (1976)"
+relations:
+  - target: "christianity"
+    type: "fringe_reinterpretation"
+    certainty: "speculative_fringe"
+    citation: "Erich von Däniken, Chariots of the Gods? (1968)"
+  - target: "judaism"
+    type: "fringe_reinterpretation"
+    certainty: "speculative_fringe"
+    citation: "Barry Downing, The Bible and Flying Saucers (1968)"
+  - target: "vedic-religion"
+    type: "fringe_reinterpretation"
+    certainty: "speculative_fringe"
+    citation: "Erich von Däniken, Chariots of the Gods? (1968)"
+---
+
+# Ancient Astronaut Theory
+
+## Modern origin
+
+Ancient astronaut theory is a family of twentieth-century claims that extraterrestrial visitors inspired ancient gods, scriptures, monuments, or technologies. It became internationally popular through Erich von Däniken's *Chariots of the Gods?* and later television, while related UFO-religious and speculative works supplied variants. The label describes a modern reception phenomenon, not an ancient religious lineage.
+
+Advocates commonly reinterpret visionary beings, aerial vehicles, monumental architecture, or sudden cultural change as evidence of advanced visitors. Biblical wheels and “sons of God,” Indian *vimānas*, Egyptian pyramids, and Mesoamerican art are frequent examples. These arguments usually detach objects or passages from their language, genre, archaeological sequence, and ritual setting, then treat superficial visual resemblance as technical description.
+
+## Epistemic status
+
+Archaeology, ancient history, philology, and the history of technology do not accept extraterrestrial intervention as an explanation for ancient cultures. No verified material evidence requires that hypothesis, and well-supported human construction sequences exist for monuments invoked by proponents. Claims also often underestimate ancient engineering and shift credit away from Indigenous or non-European societies, a pattern scholars have criticized as culturally distorting.
+
+## Comparative notes
+
+The graph includes this node to make epistemic boundaries visible. Its links mean **modern fringe reinterpretation of source traditions**, not historical influence upon Christianity, Judaism, or Vedic religion. Keeping the node filterable allows users to study contemporary mythmaking and reception history without granting pseudohistorical claims parity with evidence-based historical reconstruction.
+

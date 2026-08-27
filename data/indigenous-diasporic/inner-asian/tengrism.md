@@ -1,0 +1,27 @@
+---
+id: "tengrism"
+title: "Tengrism"
+cluster: "Indigenous & Diasporic"
+color: "#b98b54"
+era_start: "at least 6th century CE"
+epistemic_tier: "academic_consensus"
+summary: "Inner Asian religious traditions centered on Heaven or Tengri, land-and-water powers, ancestors, sovereignty, and ritual specialists."
+canonical_texts:
+  - "Orkhon inscriptions"
+  - "The Secret History of the Mongols"
+  - "Oral epic and ritual traditions"
+relations:
+  - target: "shamanic-traditions"
+    type: "parallel_concept"
+    certainty: "academic_consensus"
+---
+
+# Tengrism
+
+## Historical context
+
+Turkic and Mongolic polities of Inner Asia invoked Tengri, often translated as Eternal Heaven, in inscriptions and accounts of legitimate rule. Practices also concerned earth-water powers, ancestors, sacred mountains, fire, and divination. Islam, Buddhism, Christianity, imperial politics, and local traditions interacted with these complexes over many centuries.
+
+## Distinctives and comparative notes
+
+Tengrism is a modern umbrella whose historical referents were diverse and rarely constituted a centralized creed. Contemporary revival movements reconstruct identity from inscriptions, folklore, and living customs and should be distinguished from early imperial religion. “Sky god” comparisons can be useful, but they do not prove that Tengri is simply another culture's deity under a different name.

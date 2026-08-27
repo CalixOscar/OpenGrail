@@ -1,0 +1,33 @@
+---
+id: "iglesia-ni-cristo"
+title: "Iglesia ni Cristo"
+cluster: "Abrahamic"
+color: "#58a7db"
+era_start: "1914 CE"
+epistemic_tier: "academic_consensus"
+summary: "A Filipino Christian restorationist church founded by Felix Y. Manalo and known internationally by its Tagalog name."
+aliases:
+  - "INC"
+  - "Iglesia de Cristo"
+  - "Church of Christ"
+display_weight: 1.35
+canonical_texts:
+  - "Bible"
+relations:
+  - target: "christianity"
+    type: "branch_of"
+    certainty: "academic_consensus"
+  - target: "adventism"
+    type: "influenced_by"
+    certainty: "minority_scholarly"
+---
+
+# Iglesia ni Cristo
+
+## Historical development
+
+Felix Y. Manalo registered Iglesia ni Cristo with the Philippine government in 1914 after engagement with several Protestant and restorationist currents. The church expanded from Manila through centralized administration, purpose-built congregations, disciplined lay participation, and overseas communities serving the Filipino diaspora. Leadership has remained in the Manalo family through successive executive ministers.
+
+## Belief and practice
+
+Iglesia ni Cristo teaches that the one God is the Father, that Jesus is the uniquely appointed human Son and Savior, and that the church represents a restoration of the true church. It rejects the Trinity, practices baptism by immersion, and places strong emphasis on worship attendance, unity, evangelism, and centralized authority. Its Tagalog name means “Church of Christ”; it is unrelated institutionally to the Stone-Campbell Churches of Christ.

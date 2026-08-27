@@ -1,0 +1,36 @@
+---
+id: "vedic-religion"
+title: "Vedic Religion"
+cluster: "Dharmic"
+color: "#fb923c"
+era_start: "c. 1500 BCE"
+epistemic_tier: "academic_consensus"
+summary: "The sacrificial and poetic religious culture preserved in the Vedas, formed among Indo-Aryan communities of the late second and first millennia BCE."
+canonical_texts:
+  - "Rigveda"
+  - "Sāmaveda"
+  - "Yajurveda"
+  - "Atharvaveda"
+relations:
+  - target: "zoroastrianism"
+    type: "parallel_concept"
+    certainty: "academic_consensus"
+    citation: "Michael Witzel, Early Sanskritization, Electronic Journal of Vedic Studies 1.4 (1995)"
+---
+
+# Vedic Religion
+
+## Historical genesis
+
+Vedic religion is reconstructed primarily from Sanskrit compositions transmitted orally with extraordinary precision. The oldest layer, the *Rigveda*, is usually situated in the late second millennium BCE among Indo-Aryan-speaking communities in northwestern South Asia. Later Vedic prose texts reflect movement eastward, more elaborate ritual systems, and changing forms of kingship and social organization. “Vedic religion” is therefore a historical range, not a timeless or internally uniform creed.
+
+Fire sacrifice (*yajña*) linked patrons, specialist priests, deities, ancestors, and cosmic order. Hymns praise figures such as Agni, Indra, Soma, Uṣas, and Varuṇa, but their importance changes between texts. The efficacy of precisely performed speech and action became an intense subject of ritual speculation. Late Vedic Āraṇyakas and Upaniṣads increasingly examined breath, consciousness, self, rebirth, and the underlying ground of reality.
+
+## Ideas and practice
+
+The concept of *ṛta* names an ordered pattern joining truth, ritual regularity, and the cosmos. Sacrifice was not merely an offering “to a god”; it could be understood as a technique that assembled correspondences among body, society, and universe. Karma and rebirth only acquire their better-known forms in later strata, which warns against projecting classical Hindu doctrines back into the earliest hymns.
+
+## Comparative notes
+
+Vedic Sanskrit and Avestan are closely related languages, and the Vedic and early Iranian traditions preserve cognate ritual terms, divine names, poetic formulas, and fire-centered practices. The relationship is best modeled as inheritance from a shared Indo-Iranian background followed by differentiation, not as one historical religion simply borrowing from the other. Later Hindu traditions receive and reinterpret Vedic revelation, while Buddhist and Jain communities emerge within the wider northern Indian world that Vedic institutions helped shape.
+

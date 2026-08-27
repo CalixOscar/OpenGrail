@@ -1,0 +1,30 @@
+---
+id: "southern-baptist-convention"
+title: "Southern Baptist Convention"
+cluster: "Abrahamic"
+color: "#487fc4"
+era_start: "1845 CE"
+epistemic_tier: "academic_consensus"
+summary: "A large United States Baptist convention founded in a sectional dispute over slaveholding missionaries and later shaped by evangelical conservatism."
+aliases:
+  - "SBC"
+  - "Southern Baptists"
+display_weight: 1.35
+canonical_texts:
+  - "Bible"
+  - "Baptist Faith and Message"
+relations:
+  - target: "baptist-traditions"
+    type: "branch_of"
+    certainty: "academic_consensus"
+---
+
+# Southern Baptist Convention
+
+## Historical development
+
+White Baptist churches organized the Southern Baptist Convention in 1845 after a national missionary body declined to appoint slaveholders as missionaries. Following the Civil War, the convention built mission boards, seminaries, and publishing institutions while African American Baptists formed independent conventions. Twentieth-century growth made it the largest Protestant denomination in the United States.
+
+## Theology and structure
+
+SBC congregations are autonomous but cooperate in conventions and support shared missions and education. The Baptist Faith and Message expresses conservative evangelical positions on scripture, baptism, Communion, and ministry, though it is not a binding creed over each church. The denomination has formally repudiated its defense of slavery while continuing to debate race, gender, abuse accountability, and political engagement.

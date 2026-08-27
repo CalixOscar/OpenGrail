@@ -1,0 +1,33 @@
+---
+id: "theodism"
+title: "Theodism"
+cluster: "Esoteric & Modern"
+color: "#be57d0"
+era_start: "1970s CE"
+epistemic_tier: "academic_consensus"
+summary: "A small modern Heathen current reconstructing Germanic sacral kingship, oath-bound community, and hierarchical customary relationships."
+aliases:
+  - "Théodism"
+  - "Theodish Belief"
+canonical_texts:
+  - "Old English source corpus"
+  - "Germanic legal and heroic literature"
+  - "Modern Theodish community texts"
+relations:
+  - target: "heathenry"
+    type: "branch_of"
+    certainty: "academic_consensus"
+  - target: "anglo-saxon-heathenry"
+    type: "parallel_concept"
+    certainty: "academic_consensus"
+---
+
+# Theodism
+
+## Modern formation
+
+Theodism emerged in the United States during the 1970s as a distinctive current of Germanic neopaganism. Groups attempted to reconstruct an oath-bound *théod*, or people, using interpretations of Anglo-Saxon lordship, gift exchange, household cult, and sacral authority. Its history includes multiple organizations, schisms, and changes in self-description.
+
+## Scope and distinction
+
+Theodism is much smaller and more hierarchically structured than most Heathen organizations. Its reconstructed social order is a modern religious project, not the transparent continuation of a documented ancient institution. Not all Anglo-Saxon Heathens are Theodish, and many Heathens reject its hierarchy while sharing some source materials or divine names.

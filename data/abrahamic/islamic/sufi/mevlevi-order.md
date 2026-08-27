@@ -1,0 +1,30 @@
+---
+id: "mevlevi-order"
+title: "Mevlevi Order"
+cluster: "Abrahamic"
+color: "#6bb887"
+era_start: "13th century CE"
+epistemic_tier: "academic_consensus"
+summary: "A Sufi order formed around the legacy of Jalal al-Din Rumi and known for its disciplined turning ceremony."
+aliases:
+  - "Mevleviyya"
+  - "Whirling Dervishes"
+canonical_texts:
+  - "Quran"
+  - "Masnavi"
+  - "Divan-e Shams-e Tabrizi"
+relations:
+  - target: "sufism"
+    type: "branch_of"
+    certainty: "academic_consensus"
+---
+
+# Mevlevi Order
+
+## Historical development
+
+Followers and descendants of the Persian-language poet and teacher Jalal al-Din Rumi organized the Mevlevi path in Konya after his death in 1273. Lodges across the Ottoman Empire became centers of spiritual training, music, poetry, and elite culture. The Turkish republic closed Sufi lodges in 1925, but Mevlevi practice continued privately and later through cultural institutions.
+
+## Practice and legacy
+
+The *sema* ceremony joins recited poetry, reed flute, music, and measured turning as a disciplined remembrance of God. Mevlevi formation historically required extensive ethical and artistic training, not merely public performance. Modern presentations range from initiatic religious practice to state-sponsored heritage and commercial spectacle.

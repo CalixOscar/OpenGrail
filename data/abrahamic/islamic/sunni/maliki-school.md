@@ -1,0 +1,28 @@
+---
+id: "maliki-school"
+title: "Maliki School"
+cluster: "Abrahamic"
+color: "#3ba8bd"
+era_start: "c. 8th century CE"
+epistemic_tier: "academic_consensus"
+summary: "A Sunni school of law associated with Malik ibn Anas and historically prominent in North and West Africa."
+canonical_texts:
+  - "Al-Muwatta'"
+  - "Al-Mudawwana al-Kubra"
+  - "Al-Risala of Ibn Abi Zayd"
+relations:
+  - target: "sunni-islam"
+    type: "branch_of"
+    certainty: "academic_consensus"
+---
+
+# Maliki School
+
+## Historical context
+
+Maliki law developed around Malik ibn Anas in eighth-century Medina and was carried westward by students and judges. It became especially influential in the Maghreb, al-Andalus, Saharan networks, and West Africa, while remaining present in parts of the Gulf. Courts, mosques, scholarly travel, and concise teaching manuals sustained its regional traditions.
+
+## Distinctives and comparative notes
+
+Maliki reasoning gives notable evidentiary weight to the inherited practice of Medina and also employs public welfare and blocking means to harm within defined legal methods. It draws deeply on hadith, including Malik's *Muwatta'*. These emphases do not make every Maliki ruling uniform across time. Like other Sunni legal schools, it is a method of jurisprudence rather than a separate creed or ethnicity, and scholars can share theology across school boundaries.
+
