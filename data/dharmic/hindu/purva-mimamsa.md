@@ -47,24 +47,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=P%C5%ABrva%20M%C4%ABm%C4%81%E1%B9%83s%C4%81
 artifacts:
-  - title: Vidyashankara Temple at Shringeri Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Vidyashankara_Temple_at_Shringeri.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE
-    description: 'Vidyasankara temple, Sringeri....'
+  - title: Pūrva Mīmāṃsā Historical Sanctuary & Iconography
     imageUrl: /artifacts/purva-mimamsa-1.jpg
-  - title: >-
-      The Vedanta-sutras, with the Sri-bhashya of Ramanujacharya Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Vedanta-sutras,_with_the_Sri-bhashya_of_Ramanujacharya.djvu
+    sourceUrl: 'https://en.wikipedia.org/wiki/P%C5%ABrva_M%C4%ABm%C4%81%E1%B9%83s%C4%81'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Pūrva Mīmāṃsā.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Pūrva Mīmāṃsā.
+  - title: Mīmāṃsā Sūtra & Sacred Relics
     imageUrl: /artifacts/purva-mimamsa-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/P%C5%ABrva_M%C4%ABm%C4%81%E1%B9%83s%C4%81'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Pūrva
+      Mīmāṃsā.
 ---
 
 # Pūrva Mīmāṃsā

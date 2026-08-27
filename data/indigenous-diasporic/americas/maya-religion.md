@@ -43,22 +43,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Maya%20Religions'
 artifacts:
-  - title: 'Playa Maya, Ko Phi Phi, Tailandia, 2013-08-19, DD 13 Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Playa_Maya,_Ko_Phi_Phi,_Tailandia,_2013-08-19,_DD_13.JPG
-    provenance: 'Tikal, Petén Basin, Maya Lowlands'
-    period: c. c. 2000 BCE
-    description: 'Long-tail boats in Maya Beach, Ko Phi Phi Lee, Thailand....'
+  - title: Maya Religions Historical Sanctuary & Iconography
     imageUrl: /artifacts/maya-religion-1.jpg
-  - title: Maya Religions Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Playa_Maya,_Ko_Phi_Phi,_Tailandia,_2013-08-19,_DD_13.JPG
+    sourceUrl: 'https://en.wikipedia.org/wiki/Maya_Religions'
     provenance: 'Tikal, Petén Basin, Maya Lowlands'
     period: c. c. 2000 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Maya Religions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Maya Religions.
+  - title: Popol Wuj & Sacred Relics
     imageUrl: /artifacts/maya-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Maya_Religions'
+    provenance: 'Tikal, Petén Basin, Maya Lowlands'
+    period: c. c. 2000 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Maya
+      Religions.
 ---
 
 # Maya Religions

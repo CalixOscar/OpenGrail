@@ -42,26 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9Avet%C4%81mbara%20Jainism'
 artifacts:
-  - title: Pavagadh Śvetāmbara Idol 3 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Pavagadh_%C5%9Avet%C4%81mbara_Idol_3.jpg
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. c. 1st century CE
-    description: >-
-      An idol depicting Śvetāmbara iconography (with a waistband carved over it)
-      on the outer walls of a Jain temple at Pavagadh Hill...
+  - title: Śvetāmbara Jainism Historical Sanctuary & Iconography
     imageUrl: /artifacts/svetambara-1.jpg
-  - title: >-
-      Unknown (Indian) - Kalpa Sutra - 73.292.57A - Detroit Institute of Arts
-      Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Unknown_(Indian)_-_Kalpa_Sutra_-_73.292.57A_-_Detroit_Institute_of_Arts.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 1st century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Śvetāmbara Jainism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Śvetāmbara Jainism.
+  - title: Śvetāmbara Āgamas & Sacred Relics
     imageUrl: /artifacts/svetambara-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Jainism'
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. c. 1st century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Śvetāmbara Jainism.
 ---
 
 # Śvetāmbara Jainism

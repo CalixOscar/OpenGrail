@@ -46,20 +46,23 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Adventism'
     url: 'https://www.cambridge.org/core/search?q=Adventism'
 artifacts:
-  - title: Adventism Historical Sanctuary & Records
+  - title: Adventism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/adventism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Adventism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1830s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Adventism.
-    imageUrl: /artifacts/adventism-1.jpg
-  - title: Christos Acheiropoietos Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Christos_Acheiropoietos.jpg'
+  - title: Bible.malmesbury.arp
+    imageUrl: /artifacts/adventism-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bible.malmesbury.arp.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1830s CE
-    description: Christ Acheiropoietos (Made without hands)...
-    imageUrl: /artifacts/adventism-2.jpg
+    description: >-
+      A Bible handwritten in Latin, on display in Malmesbury Abbey, Wiltshire,
+      England. This Bible was written in Belgium in 1407 AD, for reading aloud
+      in a monastery....
 ---
 
 # Adventism

@@ -44,23 +44,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hellenic Polytheism'
     url: 'https://brill.com/search?q=Hellenic%20Polytheism'
 artifacts:
-  - title: Hellen ritual (7) Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hellen_ritual_(7).jpg'
-    provenance: 'London, England, UK'
-    period: c. late 20th century CE
-    description: >-
-      Hellen ritual performed by members of the YSEE, Supreme Council of
-      Ethnikoi Hellenes....
+  - title: Hellenic Polytheism Historical Sanctuary & Iconography
     imageUrl: /artifacts/hellenic-polytheism-1.jpg
-  - title: Werke und Tage Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Werke_und_Tage.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hellenic_Polytheism'
     provenance: 'London, England, UK'
     period: c. late 20th century CE
     description: >-
-      Initial page of Hesiod’s poem Works and Days, with the Greek original text
-      on the left side, and a Latin translation on the right side. From the 1539
-      edition Hesiodi Ascraei opuscu...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Hellenic Polytheism.
+  - title: Homeric Hymns & Sacred Relics
     imageUrl: /artifacts/hellenic-polytheism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hellenic_Polytheism'
+    provenance: 'London, England, UK'
+    period: c. late 20th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Hellenic Polytheism.
 ---
 
 # Hellenic Polytheism

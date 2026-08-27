@@ -48,24 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Arabian Religions'
     url: 'https://brill.com/search?q=Ancient%20Arabian%20Religions'
 artifacts:
-  - title: >-
-      Zeus - a study in ancient religion (1914) (14802485143) Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Zeus_-_a_study_in_ancient_religion_(1914)_(14802485143).jpg
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1st millennium BCE
-    description: "Identifier: zeusstudyinancie02cook (find matches)\nTitle: Zeus\_: a study in ancient religion\nYear: 1914 (1910s)\nAuthors:  Cook, Arthur Bernard, 1868-1952\nSubjects:  Zeus (Greek dei..."
+  - title: Ancient Arabian Religions Historical Sanctuary & Iconography
     imageUrl: /artifacts/ancient-arabian-religions-1.jpg
-  - title: Ancient Arabian Religions Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Zeus_-_a_study_in_ancient_religion_(1914)_(14802485143).jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Arabian_Religions'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1st millennium BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ancient Arabian Religions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ancient Arabian Religions.
+  - title: Safaitic and Hismaic inscriptions & Sacred Relics
     imageUrl: /artifacts/ancient-arabian-religions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Arabian_Religions'
+    provenance: 'Babylon, Mesopotamia'
+    period: c. c. 1st millennium BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ancient Arabian Religions.
 ---
 
 # Ancient Arabian Religions

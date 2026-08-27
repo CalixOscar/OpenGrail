@@ -48,24 +48,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Way%20of%20the%20Celestial%20Masters
 artifacts:
-  - title: The celestial comforter.. (IA celestialcomfort00bran) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_celestial_comforter.._(IA_celestialcomfort00bran).pdf
-    provenance: 'Luoyang, Henan, China'
-    period: c. 142 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Way of the Celestial Masters.
+  - title: Way of the Celestial Masters Historical Sanctuary & Iconography
     imageUrl: /artifacts/tianshi-dao-1.jpg
-  - title: Way of the Celestial Masters Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_celestial_comforter.._(IA_celestialcomfort00bran).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Way_of_the_Celestial_Masters'
     provenance: 'Luoyang, Henan, China'
     period: c. 142 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Way of the Celestial Masters.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Way of the Celestial Masters.
+  - title: Xiang'er Commentary & Sacred Relics
     imageUrl: /artifacts/tianshi-dao-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Way_of_the_Celestial_Masters'
+    provenance: 'Luoyang, Henan, China'
+    period: c. 142 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Way
+      of the Celestial Masters.
 ---
 
 # Way of the Celestial Masters

@@ -42,20 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Advaita%20Ved%C4%81nta'
 artifacts:
-  - title: SwansCygnus olor Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:SwansCygnus_olor.jpg'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 8th century CE
-    description: Cygnus olor (Mute swan) swimming pair in June...
+  - title: Advaita Vedānta Historical Sanctuary & Iconography
     imageUrl: /artifacts/advaita-vedanta-1.jpg
-  - title: Advaita Vedānta Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:SwansCygnus_olor.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Advaita_Ved%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Advaita Vedānta.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Advaita Vedānta.
+  - title: Śaṅkara's Brahma Sūtra Bhāṣya & Sacred Relics
     imageUrl: /artifacts/advaita-vedanta-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Advaita_Ved%C4%81nta'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 8th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Advaita Vedānta.
 ---
 
 # Advaita Vedānta

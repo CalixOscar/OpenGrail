@@ -43,21 +43,20 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=If%C3%A1'
 artifacts:
-  - title: Ifá Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/If%C3%A1'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. precolonial era
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ifá.
+  - title: Ifá Historical Sanctuary & Iconography
     imageUrl: /artifacts/ifa-1.jpg
-  - title: Ifá Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/If%C3%A1'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. precolonial era
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ifá.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ifá.
+  - title: Odù Ifá oral literary corpus & Sacred Relics
+    imageUrl: /artifacts/ifa-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/If%C3%A1'
+    provenance: 'Ile-Ife, Osun, Nigeria'
+    period: c. precolonial era
+    description: 'Preserved liturgical manuscripts, canonical texts, and sacred art of Ifá.'
 ---
 
 # Ifá

@@ -42,23 +42,19 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Yazidism'
     url: 'https://www.cambridge.org/core/search?q=Yazidism'
 artifacts:
-  - title: Yazidism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Yazidism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 12th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Yazidism.
+  - title: A Yazidi ceremony called Tawwaf in the town of Baashiqa in Iraq
     imageUrl: /artifacts/yazidism-1.jpg
-  - title: Bloy - Le Désespéré Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Bloy_-_Le_D%C3%A9sesp%C3%A9r%C3%A9.djvu
+      https://commons.wikimedia.org/wiki/File:A_Yazidi_ceremony_called_Tawwaf_in_the_town_of_Baashiqa_in_Iraq.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Yazidism.
+    description: 'This photo has been taken in the country: Iraq...'
+  - title: Baptîzma êzidiyan
     imageUrl: /artifacts/yazidism-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bapt%C3%AEzma_%C3%AAzidiyan.jpg'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 12th century CE
+    description: Baptism at Kanîya Spî ("White Spring") in Lalish....
 ---
 
 # Yazidism

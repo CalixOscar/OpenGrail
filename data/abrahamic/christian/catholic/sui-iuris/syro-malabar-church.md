@@ -45,23 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Syro-Malabar Church'
     url: 'https://www.cambridge.org/core/search?q=Syro-Malabar%20Church'
 artifacts:
-  - title: Syro-Malabar Church Historical Sanctuary & Records
+  - title: Syro-Malabar Church Historical Sanctuary & Iconography
+    imageUrl: /artifacts/syro-malabar-church-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malabar_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 16th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Syro-Malabar Church.
-    imageUrl: /artifacts/syro-malabar-church-1.jpg
-  - title: Icon of Mar Addai and Mari Apostles of the East Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Icon_of_Mar_Addai_and_Mari_Apostles_of_the_East.jpg
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/syro-malabar-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malabar_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 16th century CE
     description: >-
-      Saint Addai and Mari Apostles as depicted on the cover of a missal of the
-      Liturgy of Addai and Mari...
-    imageUrl: /artifacts/syro-malabar-church-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Syro-Malabar Church.
 ---
 
 # Syro-Malabar Church

@@ -47,21 +47,20 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Catholic%20Church'
 artifacts:
-  - title: Syriac Catholic Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Catholic_Church'
+  - title: 046CupolaSPietro
+    imageUrl: /artifacts/syriac-catholic-church-1.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1782 CE
+    description: Città del Vaticano - Cupola della Basilica di S. Pietro...
+  - title: Bible in the Syriac tradition & Sacred Relics
+    imageUrl: /artifacts/syriac-catholic-church-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg'
     provenance: 'Rome, Latium, Italy'
     period: c. 1782 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Syriac Catholic Church.
-    imageUrl: /artifacts/syriac-catholic-church-1.jpg
-  - title: A Dictionary of the Bible Volume 1 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_Dictionary_of_the_Bible_Volume_1.pdf
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1782 CE
-    description: first published 1898...
-    imageUrl: /artifacts/syriac-catholic-church-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Syriac Catholic Church.
 ---
 
 # Syriac Catholic Church

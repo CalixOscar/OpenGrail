@@ -44,22 +44,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ayyavazhi'
 artifacts:
-  - title: Ayyavazhi Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ayyavazhi'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 1830s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ayyavazhi.
+  - title: Ayyavazhi Historical Sanctuary & Iconography
     imageUrl: /artifacts/ayyavazhi-1.jpg
-  - title: Ayyavazhi Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Ayyavazhi'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1830s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ayyavazhi.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ayyavazhi.
+  - title: Akilattirattu Ammanai & Sacred Relics
     imageUrl: /artifacts/ayyavazhi-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ayyavazhi'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 1830s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ayyavazhi.
 ---
 
 # Ayyavazhi

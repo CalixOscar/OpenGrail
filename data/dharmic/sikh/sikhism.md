@@ -44,28 +44,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sikh%20Tradition'
 artifacts:
-  - title: >-
-      Sikh painting of a marriage procession, circa 19th century Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Sikh_painting_of_a_marriage_procession,_circa_19th_century.jpg
-    provenance: 'Amritsar, Punjab, India'
-    period: c. c. 1500 CE
-    description: >-
-      Sikh painting of a marriage procession, circa 1850-1900. Opaque
-      watercolors on paper, 31.8 × 54.6 cm, Asian Art Museum of San Francisco,
-      Gift of the Kapany Collection, 1998.70....
+  - title: Sikh Tradition Historical Sanctuary & Iconography
     imageUrl: /artifacts/sikhism-1.jpg
-  - title: The Cosmic Lotus Mahakala and the Ten Sikh Gurus Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Cosmic_Lotus_Mahakala_and_the_Ten_Sikh_Gurus.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sikh_Tradition'
     provenance: 'Amritsar, Punjab, India'
     period: c. c. 1500 CE
     description: >-
-      This is one of the folios of Sri Guru Granth Sahib, it is a visual
-      representation of the text written in the Guru Granth Sahib. The painting
-      represents the Universe, divided into t...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sikh Tradition.
+  - title: Guru Granth Sahib & Sacred Relics
     imageUrl: /artifacts/sikhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sikh_Tradition'
+    provenance: 'Amritsar, Punjab, India'
+    period: c. c. 1500 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Sikh
+      Tradition.
 ---
 
 # Sikh Tradition

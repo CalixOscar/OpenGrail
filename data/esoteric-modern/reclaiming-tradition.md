@@ -48,25 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Reclaiming Tradition'
     url: 'https://brill.com/search?q=Reclaiming%20Tradition'
 artifacts:
-  - title: >-
-      The church-the faith-tradition (IA churchthefaithtr00onde) Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_church-the_faith-tradition_(IA_churchthefaithtr00onde).pdf
-    provenance: 'London, England, UK'
-    period: c. 1979 CE
-    description: 'Subjects: Episcopal Church; Sermons, American...'
+  - title: Reclaiming Tradition Historical Sanctuary & Iconography
     imageUrl: /artifacts/reclaiming-tradition-1.jpg
-  - title: A wanderer dancing the dance of stars and space Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_wanderer_dancing_the_dance_of_stars_and_space.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Reclaiming_Tradition'
     provenance: 'London, England, UK'
     period: c. 1979 CE
     description: >-
-      The NASA/ESA Hubble Space Telescope provides us this week with a
-      spectacular image of the bright star-forming ring that surrounds the heart
-      of the barred spiral galaxy NGC 1097. In...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Reclaiming Tradition.
+  - title: The Spiral Dance & Sacred Relics
     imageUrl: /artifacts/reclaiming-tradition-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Reclaiming_Tradition'
+    provenance: 'London, England, UK'
+    period: c. 1979 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Reclaiming Tradition.
 ---
 
 # Reclaiming Tradition

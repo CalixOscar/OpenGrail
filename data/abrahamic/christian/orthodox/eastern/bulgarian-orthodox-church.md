@@ -47,21 +47,22 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Bulgarian%20Orthodox%20Church'
 artifacts:
-  - title: Bulgarian Orthodox Church Historical Sanctuary & Records
+  - title: Bulgarian Orthodox Church Historical Sanctuary & Iconography
+    imageUrl: /artifacts/bulgarian-orthodox-church-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Bulgarian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 870 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Bulgarian Orthodox Church.
-    imageUrl: /artifacts/bulgarian-orthodox-church-1.jpg
-  - title: Nicene Creed in cyrillic writing Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Nicene_Creed_in_cyrillic_writing.jpg
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/bulgarian-orthodox-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bulgarian_Orthodox_Church'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 870 CE
-    description: Nicene Creed in cyrillic writing...
-    imageUrl: /artifacts/bulgarian-orthodox-church-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Bulgarian Orthodox Church.
 ---
 
 # Bulgarian Orthodox Church

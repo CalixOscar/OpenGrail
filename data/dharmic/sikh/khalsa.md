@@ -43,22 +43,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Khalsa'
 artifacts:
-  - title: Khalsa Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Khalsa'
-    provenance: 'Amritsar, Punjab, India'
-    period: c. 1699 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Khalsa.
+  - title: Khalsa Historical Sanctuary & Iconography
     imageUrl: /artifacts/khalsa-1.jpg
-  - title: Khalsa Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Khalsa'
     provenance: 'Amritsar, Punjab, India'
     period: c. 1699 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Khalsa.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Khalsa.
+  - title: Guru Granth Sahib & Sacred Relics
     imageUrl: /artifacts/khalsa-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Khalsa'
+    provenance: 'Amritsar, Punjab, India'
+    period: c. 1699 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Khalsa.
 ---
 
 # Khalsa

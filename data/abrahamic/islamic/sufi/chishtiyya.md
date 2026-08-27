@@ -44,19 +44,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Chishtiyya'
     url: 'https://www.cambridge.org/core/search?q=Chishtiyya'
 artifacts:
-  - title: Dargah of Sufi saint Moinuddin Chishti Ajmer India Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Dargah_of_Sufi_saint_Moinuddin_Chishti_Ajmer_India.JPG
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 12th century CE
-    description: Dargah of Sufi saint Moinuddin Chishti Ajmer India...
+  - title: Chishtiyya Historical Sanctuary & Iconography
     imageUrl: /artifacts/chishtiyya-1.jpg
-  - title: Hadith Books Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hadith_Books.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chishtiyya'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 12th century CE
-    description: 'تصنيف:كتب أهل السنة والجماعة...'
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Chishtiyya.
+  - title: Quran & Sacred Relics
     imageUrl: /artifacts/chishtiyya-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chishtiyya'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 12th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Chishtiyya.
 ---
 
 # Chishtiyya

@@ -50,22 +50,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Umbanda'
 artifacts:
-  - title: Bandeira da Umbanda Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bandeira_da_Umbanda.jpg'
-    provenance: 'Rio de Janeiro, Brazil'
-    period: c. early 20th century CE
-    description: >-
-      Símbolo criado pela Associação de Umbanda Caxias (AUC) para representar a
-      Bandeira Nacional da Umbanda. É formado por um sol que representa a Luz
-      Divina e um espectro humano saindo...
+  - title: Umbanda Historical Sanctuary & Iconography
     imageUrl: /artifacts/umbanda-1.jpg
-  - title: Umbanda Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bandeira_da_Umbanda.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Umbanda'
     provenance: 'Rio de Janeiro, Brazil'
     period: c. early 20th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Umbanda.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Umbanda.
+  - title: Oral liturgies and pontos cantados & Sacred Relics
+    imageUrl: /artifacts/umbanda-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Umbanda'
+    provenance: 'Rio de Janeiro, Brazil'
+    period: c. early 20th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Umbanda.
 ---
 
 # Umbanda

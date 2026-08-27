@@ -50,25 +50,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Dievturība'
     url: 'https://brill.com/search?q=Dievtur%C4%ABba'
 artifacts:
-  - title: Māra – Zemes Māte 2 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:M%C4%81ra_%E2%80%93_Zemes_M%C4%81te_2.jpg
-    provenance: 'Riga, Vidzeme, Latvia'
-    period: c. 1920s CE
-    description: >-
-      Dievturi pielūdz Dievieti Māru kā nāves un dzīvības Dievieti. Zemes Mātes
-      veidolā Dieviete Māra pilda dzīvības Dievietes funkciju. Dieviete Māra
-      uztur dabā līdzsvaru starp dzīvību...
+  - title: Dievturība Historical Sanctuary & Iconography
     imageUrl: /artifacts/dievturiba-1.jpg
-  - title: Dievturība Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:M%C4%81ra_%E2%80%93_Zemes_M%C4%81te_2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dievtur%C4%ABba'
     provenance: 'Riga, Vidzeme, Latvia'
     period: c. 1920s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Dievturība.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Dievturība.
+  - title: Latvian dainas & Sacred Relics
     imageUrl: /artifacts/dievturiba-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dievtur%C4%ABba'
+    provenance: 'Riga, Vidzeme, Latvia'
+    period: c. 1920s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Dievturība.
 ---
 
 # Dievturība

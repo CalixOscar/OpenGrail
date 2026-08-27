@@ -46,26 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sri%20Lankan%20Buddhism'
 artifacts:
-  - title: Buddhism sri-lanka Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddhism_sri-lanka.jpg'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 3rd century BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Sri Lankan Buddhism.
+  - title: Sri Lankan Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/sri-lankan-buddhism-1.jpg
-  - title: >-
-      Fragment of "Extracts from the Pali canon (Tipitaka) and Story of Phra
-      Malai" (CBL Thi 1312) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Fragment_of_%22Extracts_from_the_Pali_canon_(Tipitaka)_and_Story_of_Phra_Malai%22_(CBL_Thi_1312).jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sri_Lankan_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 3rd century BCE
     description: >-
-      Fragment of Thai folding book (samut khoi) containing extracts from the
-      Pali canon (Tipitaka) and Story of Phra Malai, the text illustrated with
-      scenes from the jataka tales and th...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sri Lankan Buddhism.
+  - title: Pāli Tipiṭaka & Sacred Relics
     imageUrl: /artifacts/sri-lankan-buddhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sri_Lankan_Buddhism'
+    provenance: 'Anuradhapura, North Central, Sri Lanka'
+    period: c. c. 3rd century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Sri
+      Lankan Buddhism.
 ---
 
 # Sri Lankan Buddhism

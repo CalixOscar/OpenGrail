@@ -45,27 +45,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Li%E1%B9%85g%C4%81yat%20Tradition
 artifacts:
-  - title: >-
-      11th 12th century Virupaksha temple, Lakkundi, Karnataka India - 12
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:11th_12th_century_Virupaksha_temple,_Lakkundi,_Karnataka_India_-_12.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 12th century CE
-    description: >-
-      *The Virupaksha temple – also referred to as Virupaksheshvara temple,
-      Virupaksheshwar temple or Virupaksesvara temple – is a Hindu temple of
-      Shaivism tradition in the eastern side...
+  - title: Liṅgāyat Tradition Historical Sanctuary & Iconography
     imageUrl: /artifacts/lingayatism-1.jpg
-  - title: Liṅgāyat Tradition Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:11th_12th_century_Virupaksha_temple,_Lakkundi,_Karnataka_India_-_12.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Li%E1%B9%85g%C4%81yat_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 12th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Liṅgāyat Tradition.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Liṅgāyat Tradition.
+  - title: Vachana literature & Sacred Relics
     imageUrl: /artifacts/lingayatism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Li%E1%B9%85g%C4%81yat_Tradition'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 12th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Liṅgāyat Tradition.
 ---
 
 # Liṅgāyat Tradition

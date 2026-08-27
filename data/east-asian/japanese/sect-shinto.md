@@ -40,29 +40,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Sect%20Shinto'
 artifacts:
-  - title: >-
-      Primitive religions - being an introduction to the study of religions,
-      with an account of the religious beliefs of uncivilised peoples,
-      Confucianism, Taoism (China), and Shintoism (Japan) (IA b24885903)
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Primitive_religions_-_being_an_introduction_to_the_study_of_religions,_with_an_account_of_the_religious_beliefs_of_uncivilised_peoples,_Confucianism,_Taoism_(China),_and_Shintoism_(Japan)_(IA_b24885903).pdf
-    provenance: 'Qufu, Shandong, China'
-    period: c. 19th century CE
-    description: |-
-      Includes index
-
-      Subjects: Religions...
+  - title: Sect Shinto Historical Sanctuary & Iconography
     imageUrl: /artifacts/sect-shinto-1.jpg
-  - title: Sect Shinto Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Primitive_religions_-_being_an_introduction_to_the_study_of_religions,_with_an_account_of_the_religious_beliefs_of_uncivilised_peoples,_Confucianism,_Taoism_(China),_and_Shintoism_(Japan)_(IA_b24885903).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sect_Shinto'
     provenance: 'Qufu, Shandong, China'
     period: c. 19th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Sect Shinto.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sect Shinto.
+  - title: Founders' teachings of the thirteen recognized sects & Sacred Relics
     imageUrl: /artifacts/sect-shinto-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sect_Shinto'
+    provenance: 'Qufu, Shandong, China'
+    period: c. 19th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Sect
+      Shinto.
 ---
 
 # Sect Shinto

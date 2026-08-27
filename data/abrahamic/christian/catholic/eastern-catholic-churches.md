@@ -44,26 +44,19 @@ sources:
       Churches
     url: 'https://www.cambridge.org/core/search?q=Eastern%20Catholic%20Churches'
 artifacts:
-  - title: Eastern Catholic Churches Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Eastern_Catholic_Churches'
-    provenance: 'Rome, Latium, Italy'
-    period: c. c. 16th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Eastern Catholic Churches.
+  - title: Béchara-Raï
     imageUrl: /artifacts/eastern-catholic-churches-1.jpg
-  - title: >-
-      Heiligengrabe, Kloster Stift zum Heiligengrabe, Stiftskirche -- 2017 --
-      9969 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Stiftskirche_--_2017_--_9969.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:B%C3%A9chara-Ra%C3%AF.jpg'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 16th century CE
-    description: >-
-      Altar in the Collegiate church, Monastery Endowment of the Holy Grave,
-      Heiligengrabe, Brandenburg, GermanyThe monastery was founded in 1287 by
-      the Ascanian Margrave Otto IV as a Ci...
+    description: 'Cardinal Mar Bechara Boutros al-Rahi, Maronite Patriarch of Antioch...'
+  - title: Catholic priest with his Family
     imageUrl: /artifacts/eastern-catholic-churches-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Catholic_priest_with_his_Family.jpg
+    provenance: 'Rome, Latium, Italy'
+    period: c. c. 16th century CE
+    description: Eastern catholic priest from Romania with his Family....
 ---
 
 # Eastern Catholic Churches

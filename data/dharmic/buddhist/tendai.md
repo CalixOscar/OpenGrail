@@ -46,28 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Tendai%20Buddhism'
 artifacts:
-  - title: 'Bundesarchiv Bild 146-2006-0064, Bruno Petzold Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-2006-0064,_Bruno_Petzold.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 9th century CE
-    description: >-
-      For documentary purposes the German Federal Archive often retained the
-      original image captions, which may be erroneous, biased, obsolete or
-      politically extreme. Auszeichnung eines...
+  - title: Tendai Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/tendai-1.jpg
-  - title: >-
-      A Sanskrit manuscript of Lotus Sutra in South Turkestan Brahmi script
-      Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_Sanskrit_manuscript_of_Lotus_Sutra_in_South_Turkestan_Brahmi_script.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Tendai_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 9th century CE
     description: >-
-      This folio of the popular Saddharmapuṇḍarīkasūtra (Lotus Sutra) is written
-      in Sanskrit in an early form of South Turkestan Brahmi script. The
-      manuscript originally comprised more t...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Tendai Buddhism.
+  - title: Lotus Sūtra & Sacred Relics
     imageUrl: /artifacts/tendai-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Tendai_Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 9th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Tendai Buddhism.
 ---
 
 # Tendai Buddhism

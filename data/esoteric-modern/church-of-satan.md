@@ -42,26 +42,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Church of Satan'
     url: 'https://brill.com/search?q=Church%20of%20Satan'
 artifacts:
-  - title: >-
-      Detail of statue in the North End with Archangel Michael's spear at
-      Satan's throat Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Detail_of_statue_in_the_North_End_with_Archangel_Michael%27s_spear_at_Satan%27s_throat.jpg
+  - title: Church of Satan Historical Sanctuary & Iconography
+    imageUrl: /artifacts/church-of-satan-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Satan'
     provenance: 'San Francisco, California, USA'
     period: c. 1966 CE
     description: >-
-      Detail of statue in the North End with Archangel Michael's spear at
-      Satan's throat.  January 2009 photo by John Stephen Dwyer...
-    imageUrl: /artifacts/church-of-satan-1.jpg
-  - title: >-
-      Spiritualism, a satanic delusion and a sign of the times (IA
-      spiritualismsa00rams) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Spiritualism,_a_satanic_delusion_and_a_sign_of_the_times_(IA_spiritualismsa00rams).pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Church of Satan.
+  - title: The Satanic Bible & Sacred Relics
+    imageUrl: /artifacts/church-of-satan-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Satan'
     provenance: 'San Francisco, California, USA'
     period: c. 1966 CE
-    description: 'Subjects: Spiritualism; Bible and spiritualism...'
-    imageUrl: /artifacts/church-of-satan-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Church of Satan.
 ---
 
 # Church of Satan

@@ -48,25 +48,20 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: A∴A∴'
     url: 'https://brill.com/search?q=A%E2%88%B4A%E2%88%B4'
 artifacts:
-  - title: A∴A∴ Historical Sanctuary & Records
+  - title: A∴A∴ Historical Sanctuary & Iconography
+    imageUrl: /artifacts/aa-thelema-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/A%E2%88%B4A%E2%88%B4'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1907 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with A∴A∴.
-    imageUrl: /artifacts/aa-thelema-1.jpg
-  - title: Earth-lighting-equinox EN Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Earth-lighting-equinox_EN.png'
+  - title: The Equinox & Sacred Relics
+    imageUrl: /artifacts/aa-thelema-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/A%E2%88%B4A%E2%88%B4'
     provenance: 'Cairo (Fustat), Egypt'
     period: c. 1907 CE
-    description: >-
-      Illumination of Earth by the Sun on the day of the equinox (vernal and
-      autumnal).
-
-      A view of the eastern hemisphere showing noon in Central European time
-      zone (ignoring DST) on the...
-    imageUrl: /artifacts/aa-thelema-2.jpg
+    description: 'Preserved liturgical manuscripts, canonical texts, and sacred art of A∴A∴.'
 ---
 
 # A∴A∴

@@ -42,25 +42,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Akan%20Religion'
 artifacts:
-  - title: >-
-      COLLECTIE TROPENMUSEUM Aardewerken pot met deksel versierd met slangen en
-      schorpioenen TMnr 4918-36a Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Aardewerken_pot_met_deksel_versierd_met_slangen_en_schorpioenen_TMnr_4918-36a.jpg
+  - title: Akan Religion Historical Sanctuary & Iconography
+    imageUrl: /artifacts/akan-religion-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Akan_Religion'
     provenance: 'Kumasi, Ashanti Empire, Ghana'
     period: c. precolonial era
     description: >-
-      De pot wordt volgens Cole (1977: 119) gebruikt bij begrafenissen. Zulke
-      potten worden 'abusua kuruwa' genoemd oftewel 'clan' of 'familie' potten.
-      Ze worden vaak aangetroffen in de...
-    imageUrl: /artifacts/akan-religion-1.jpg
-  - title: Filming of the Yoruba oral traditions projects Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Filming_of_the_Yoruba_oral_traditions_projects.jpg
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Akan Religion.
+  - title: Oral traditions & Sacred Relics
+    imageUrl: /artifacts/akan-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Akan_Religion'
     provenance: 'Kumasi, Ashanti Empire, Ghana'
     period: c. precolonial era
-    description: Filming of the Yoruba oral traditions projects....
-    imageUrl: /artifacts/akan-religion-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Akan
+      Religion.
 ---
 
 # Akan Religion

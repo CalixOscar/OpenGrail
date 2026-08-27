@@ -49,22 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Theodism'
     url: 'https://brill.com/search?q=Theodism'
 artifacts:
-  - title: Підгорянський монастир Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80.jpg
-    provenance: 'London, England, UK'
-    period: c. 1970s CE
-    description: 'Pidhora Monastery, Terebovlia Raion, Ternopil Oblast, Ukraine....'
+  - title: Theodism Historical Sanctuary & Iconography
     imageUrl: /artifacts/theodism-1.jpg
-  - title: Old map-Corpus Christi-1887 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Old_map-Corpus_Christi-1887.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Theodism'
     provenance: 'London, England, UK'
     period: c. 1970s CE
     description: >-
-      Corpus Christi, Texas in 1887. Bird's Eye View of Corpus Christi. Nueces
-      County, Texas. 1887, 1887. Lithograph, 21 x 28 in. Lithographer unknown.
-      Corpus Christi Public Library....
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Theodism.
+  - title: Old English source corpus & Sacred Relics
     imageUrl: /artifacts/theodism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Theodism'
+    provenance: 'London, England, UK'
+    period: c. 1970s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Theodism.
 ---
 
 # Theodism

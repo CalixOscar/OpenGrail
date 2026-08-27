@@ -52,32 +52,25 @@ sources:
       https://www.cambridge.org/core/search?q=Independent%20Christian%20Churches%20and%20Churches%20of%20Christ
 artifacts:
   - title: >-
-      Constantinople - and the scenery of the seven churches of Asia Minor (IA
-      constantinoplesc01allo) Historical Sanctuary
+      Independent Christian Churches and Churches of Christ Historical Sanctuary
+      & Iconography
+    imageUrl: /artifacts/independent-christian-churches-1.jpg
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Constantinople_-_and_the_scenery_of_the_seven_churches_of_Asia_Minor_(IA_constantinoplesc01allo).pdf
+      https://en.wikipedia.org/wiki/Independent_Christian_Churches_and_Churches_of_Christ
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1920s CE
     description: >-
-      Added engraved t.p.: Fisher's illustrations of Constantinople and its
-      environs
-
-      Includes bibliographical references and index
-
-      Preface signed Robert Walsh
-
-      Subjects:...
-    imageUrl: /artifacts/independent-christian-churches-1.jpg
-  - title: >-
-      The address of the Hon. Wm. A. Graham on the Mecklenburg declaration of
-      independence of the 20th of May, 1775 (IA addressofhonwmag00grah) Sacred
-      Relics & Scripture
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Independent Christian Churches and Churches of Christ.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/independent-christian-churches-2.jpg
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_address_of_the_Hon._Wm._A._Graham_on_the_Mecklenburg_declaration_of_independence_of_the_20th_of_May,_1775_(IA_addressofhonwmag00grah).pdf
+      https://en.wikipedia.org/wiki/Independent_Christian_Churches_and_Churches_of_Christ
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1920s CE
-    description: 'Subjects: Mecklenburg Declaration of Independence...'
-    imageUrl: /artifacts/independent-christian-churches-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Independent Christian Churches and Churches of Christ.
 ---
 
 # Independent Christian Churches and Churches of Christ

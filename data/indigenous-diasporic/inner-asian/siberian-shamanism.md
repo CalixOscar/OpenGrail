@@ -45,27 +45,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Siberian%20Shamanic%20Traditions'
 artifacts:
-  - title: SB - Altay shaman with drum Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:SB_-_Altay_shaman_with_drum.jpg'
-    provenance: 'Lake Baikal (Ulan-Ude), Buryatia, Siberia'
-    period: c. ancient; continuously developing
-    description: >-
-      A postcard made in the Russian Empire, early 20th century. Its French
-      caption means "An Altai shaman (sorcerer)". It can be found at a Tomsk
-      museum. The ethnographer Hoppál identif...
+  - title: Siberian Shamanic Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/siberian-shamanism-1.jpg
-  - title: >-
-      NRHP-08001186 (Preston Community Clubhouse), forms Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:NRHP-08001186_(Preston_Community_Clubhouse),_forms.pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Siberian_Shamanic_Traditions'
     provenance: 'Lake Baikal (Ulan-Ude), Buryatia, Siberia'
     period: c. ancient; continuously developing
     description: >-
-      This is an image of a place or building that is listed on the National
-      Register of Historic Places in the United States of America. Its reference
-      number is 08001186 (Wikidata)...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Siberian Shamanic Traditions.
+  - title: Community-specific oral traditions & Sacred Relics
     imageUrl: /artifacts/siberian-shamanism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Siberian_Shamanic_Traditions'
+    provenance: 'Lake Baikal (Ulan-Ude), Buryatia, Siberia'
+    period: c. ancient; continuously developing
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Siberian Shamanic Traditions.
 ---
 
 # Siberian Shamanic Traditions

@@ -44,29 +44,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=So-Called%20Cargo%20Cult%20Movements'
 artifacts:
-  - title: >-
-      Victory at Sea - William Sowden Sims and Burton J. Hendrick Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Victory_at_Sea_-_William_Sowden_Sims_and_Burton_J._Hendrick.djvu
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. late 19th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with So-Called Cargo Cult Movements.
+  - title: So-Called Cargo Cult Movements Historical Sanctuary & Iconography
     imageUrl: /artifacts/cargo-cult-movements-1.jpg
-  - title: >-
-      IMPACT OF THE BOYCOTT, DIVESTMENT, AND SANCTIONS MOVEMENT (IA
-      gov.gpo.fdsys.CHRG-114hhrg96874) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:IMPACT_OF_THE_BOYCOTT,_DIVESTMENT,_AND_SANCTIONS_MOVEMENT_(IA_gov.gpo.fdsys.CHRG-114hhrg96874).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/So-Called_Cargo_Cult_Movements'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. late 19th century CE
     description: >-
-      Government Publishing OfficeU.S. CongressHouse of RepresentativesCommittee
-      on Oversight and Government ReformIMPACT OF THE BOYCOTT, DIVESTMENT, AND
-      SANCTIONS MOVEMENTDate(s) Held:...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with So-Called Cargo Cult Movements.
+  - title: Movement-specific oral traditions & Sacred Relics
     imageUrl: /artifacts/cargo-cult-movements-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/So-Called_Cargo_Cult_Movements'
+    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
+    period: c. late 19th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      So-Called Cargo Cult Movements.
 ---
 
 # So-Called Cargo Cult Movements

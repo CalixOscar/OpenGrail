@@ -40,21 +40,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Yor%C3%B9b%C3%A1%20Religion'
 artifacts:
-  - title: Obatala Priester im Tempel Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Obatala_Priester_im_Tempel.jpg'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. before 1000 CE
-    description: Obatala priests in their temple in Ife...
+  - title: Yorùbá Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/yoruba-religion-1.jpg
-  - title: >-
-      Folktales & Oral Traditions Archive - (Ogoni Language) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Folktales_%26_Oral_Traditions_Archive_-_(Ogoni_Language).webm
+    sourceUrl: 'https://en.wikipedia.org/wiki/Yor%C3%B9b%C3%A1_Religion'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. before 1000 CE
-    description: Folktales and Oral Traditions Archives...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Yorùbá Religion.
+  - title: Oral traditions & Sacred Relics
     imageUrl: /artifacts/yoruba-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Yor%C3%B9b%C3%A1_Religion'
+    provenance: 'Ile-Ife, Osun, Nigeria'
+    period: c. before 1000 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Yorùbá Religion.
 ---
 
 # Yorùbá Religion

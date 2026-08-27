@@ -43,25 +43,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Old Catholicism'
     url: 'https://www.cambridge.org/core/search?q=Old%20Catholicism'
 artifacts:
-  - title: Old Catholicism Historical Sanctuary & Records
+  - title: Old Catholicism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/old-catholicism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Old_Catholicism'
     provenance: 'Rome, Latium, Italy'
     period: c. 1870s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Old Catholicism.
-    imageUrl: /artifacts/old-catholicism-1.jpg
-  - title: >-
-      Crucifix, Rosary and Holy Bible with Apocrypha NRSV Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Crucifix,_Rosary_and_Holy_Bible_with_Apocrypha_NRSV.png
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/old-catholicism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Old_Catholicism'
     provenance: 'Rome, Latium, Italy'
     period: c. 1870s CE
     description: >-
-      A small wooden crucifix (repaired using string) with a base, a plastic
-      rosary and a Holy Bible with Apocrypha, New Revised Standard Version...
-    imageUrl: /artifacts/old-catholicism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Old
+      Catholicism.
 ---
 
 # Old Catholicism

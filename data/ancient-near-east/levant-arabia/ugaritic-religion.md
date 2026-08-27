@@ -46,20 +46,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ugaritic Religion'
     url: 'https://brill.com/search?q=Ugaritic%20Religion'
 artifacts:
-  - title: Ugarit 02 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ugarit_02.jpg'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1500 BCE
-    description: Fossil ruins in Ras Shamra in Syria....
+  - title: Ugaritic Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/ugaritic-religion-1.jpg
-  - title: Ugaritic Religion Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ugarit_02.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ugaritic_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1500 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ugaritic Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ugaritic Religion.
+  - title: Baal Cycle & Sacred Relics
     imageUrl: /artifacts/ugaritic-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ugaritic_Religion'
+    provenance: 'Babylon, Mesopotamia'
+    period: c. c. 1500 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ugaritic Religion.
 ---
 
 # Ugaritic Religion

@@ -49,22 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Stoicism'
     url: 'https://brill.com/search?q=Stoicism'
 artifacts:
-  - title: Stoicism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Stoicism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 300 BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Stoicism.
+  - title: Stoicism Historical Sanctuary & Iconography
     imageUrl: /artifacts/stoicism-1.jpg
-  - title: Stoicism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Stoicism'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 300 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Stoicism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Stoicism.
+  - title: Fragments of the Early Stoics & Sacred Relics
     imageUrl: /artifacts/stoicism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Stoicism'
+    provenance: 'Athens, Attica, Greece'
+    period: c. c. 300 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Stoicism.
 ---
 
 # Stoicism

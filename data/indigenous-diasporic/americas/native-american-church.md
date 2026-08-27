@@ -44,21 +44,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Native%20American%20Church'
 artifacts:
-  - title: John-wilson Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:John-wilson.jpg'
-    provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
-    period: c. late 19th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Native American Church.
+  - title: Native American Church Historical Sanctuary & Iconography
     imageUrl: /artifacts/native-american-church-1.jpg
-  - title: Native American Church Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:John-wilson.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Native_American_Church'
     provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
     period: c. late 19th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Native American Church.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Native American Church.
+  - title: Peyote meeting prayer and song corpus & Sacred Relics
+    imageUrl: /artifacts/native-american-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Native_American_Church'
+    provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
+    period: c. late 19th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Native American Church.
 ---
 
 # Native American Church

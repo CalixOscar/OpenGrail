@@ -43,25 +43,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Finnic Religions'
     url: 'https://brill.com/search?q=Finnic%20Religions'
 artifacts:
-  - title: Gallen-Kallela The defence of the Sampo Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Gallen-Kallela_The_defence_of_the_Sampo.png
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 1st millennium CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Finnic Religions.
+  - title: Finnic Religions Historical Sanctuary & Iconography
     imageUrl: /artifacts/finnish-religion-1.jpg
-  - title: Indigenous Knowledge for Wikipedia Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Indigenous_Knowledge_for_Wikipedia.pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Finnic_Religions'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 1st millennium CE
     description: >-
-      Pre-release of a book chapter on the conflict of Indigenous knowledge and
-      Wikipedia due to the requirement of reliable, published, independent
-      sources...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Finnic Religions.
+  - title: Oral rune-song traditions & Sacred Relics
     imageUrl: /artifacts/finnish-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Finnic_Religions'
+    provenance: 'Old Uppsala, Uppland, Sweden'
+    period: c. c. 1st millennium CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Finnic Religions.
 ---
 
 # Finnic Religions

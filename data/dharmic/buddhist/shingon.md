@@ -46,22 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Shingon%20Buddhism'
 artifacts:
-  - title: Shingon Buddhism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shingon_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 9th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Shingon Buddhism.
+  - title: Shingon Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/shingon-1.jpg
-  - title: Shingon Buddhism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Shingon_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 9th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Shingon Buddhism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Shingon Buddhism.
+  - title: Mahāvairocana Sūtra & Sacred Relics
     imageUrl: /artifacts/shingon-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shingon_Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 9th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Shingon Buddhism.
 ---
 
 # Shingon Buddhism

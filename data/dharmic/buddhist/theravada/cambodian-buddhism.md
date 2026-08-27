@@ -50,18 +50,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Cambodian%20Buddhism'
 artifacts:
-  - title: Buddhism 13 Naga Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddhism_13_Naga.jpg'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 14th century CE
-    description: 'The term Naga in Hinduism, Buddhism and Jainism denotes divine....'
+  - title: Cambodian Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/cambodian-buddhism-1.jpg
-  - title: Pali Canon Structure Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Pali_Canon_Structure.png'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cambodian_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 14th century CE
-    description: 'Tree structure of the Pali Canon, the Tipiṭaka of Theravāda Buddhism....'
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cambodian Buddhism.
+  - title: Pāli Tipiṭaka & Sacred Relics
     imageUrl: /artifacts/cambodian-buddhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cambodian_Buddhism'
+    provenance: 'Anuradhapura, North Central, Sri Lanka'
+    period: c. c. 14th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Cambodian Buddhism.
 ---
 
 # Cambodian Buddhism

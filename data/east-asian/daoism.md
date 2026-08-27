@@ -49,25 +49,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Daoist%20Traditions'
 artifacts:
-  - title: 'Daoist Figures, attributed to Liu Jun Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Daoist_Figures,_attributed_to_Liu_Jun.jpg
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 4th century BCE
-    description: >-
-      "Three figures stand in a mountainous landscape and bid farewell to each
-      other. Their attributes identify them as three of the Eight Immortals from
-      the Daoist tradition. The Eight...
+  - title: Daoist Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/daoism-1.jpg
-  - title: 石濤 tao te ching Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%E7%9F%B3%E6%BF%A4_tao_te_ching.jpeg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Daoist_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 4th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Daoist Traditions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Daoist Traditions.
+  - title: Daodejing & Sacred Relics
     imageUrl: /artifacts/daoism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Daoist_Traditions'
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 4th century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Daoist Traditions.
 ---
 
 # Daoist Traditions

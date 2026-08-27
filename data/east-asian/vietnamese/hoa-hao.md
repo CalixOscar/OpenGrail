@@ -51,23 +51,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=H%C3%B2a%20H%E1%BA%A3o%20Buddhism
 artifacts:
-  - title: >-
-      Hòa Hảo leaders at rites marking the founding of the sect Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:H%C3%B2a_H%E1%BA%A3o_leaders_at_rites_marking_the_founding_of_the_sect.jpg
+  - title: Hòa Hảo Buddhism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/hoa-hao-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/H%C3%B2a_H%E1%BA%A3o_Buddhism'
     provenance: 'Chau Doc / An Giang, Mekong Delta, Vietnam'
     period: c. 1939 CE
     description: >-
-      Hòa Hảo leaders at rites marking the founding of the sect. Photo is Huỳnh
-      Phú Sổ, founder....
-    imageUrl: /artifacts/hoa-hao-1.jpg
-  - title: Sấm giảng PGHH Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:S%E1%BA%A5m_gi%E1%BA%A3ng_PGHH.jpg'
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Hòa Hảo Buddhism.
+  - title: Sấm giảng & Sacred Relics
+    imageUrl: /artifacts/hoa-hao-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/H%C3%B2a_H%E1%BA%A3o_Buddhism'
     provenance: 'Chau Doc / An Giang, Mekong Delta, Vietnam'
     period: c. 1939 CE
-    description: Sấm giảng Phật Giáo Hoà Hảo....
-    imageUrl: /artifacts/hoa-hao-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Hòa
+      Hảo Buddhism.
 ---
 
 # Hòa Hảo Buddhism

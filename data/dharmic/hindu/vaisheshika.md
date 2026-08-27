@@ -44,28 +44,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vai%C5%9Be%E1%B9%A3ika'
 artifacts:
-  - title: >-
-      12th-century Belur Vaishnavism Hindu temples complex, Brahma Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:12th-century_Belur_Vaishnavism_Hindu_temples_complex,_Brahma.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE
-    description: >-
-      The Chennakeshava Temple is an early 12th-century Vaishnavism Hindu temple
-      in the Hassan district of Karnataka state, India.
-
-      Featuring intricate Hoysala artwork and squares-circles...
+  - title: Vaiśeṣika Historical Sanctuary & Iconography
     imageUrl: /artifacts/vaisheshika-1.jpg
-  - title: Vaiśeṣika Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:12th-century_Belur_Vaishnavism_Hindu_temples_complex,_Brahma.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Vaiśeṣika.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Vaiśeṣika.
+  - title: Vaiśeṣika Sūtra & Sacred Relics
     imageUrl: /artifacts/vaisheshika-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Vaiśeṣika.
 ---
 
 # Vaiśeṣika

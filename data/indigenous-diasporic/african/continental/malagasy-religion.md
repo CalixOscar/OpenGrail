@@ -49,25 +49,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Malagasy%20Religious%20Traditions'
 artifacts:
-  - title: 'Münster, Observantenkirche -- 2014 -- 6891 Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Observantenkirche_--_2014_--_6891.jpg
+  - title: Malagasy Religious Traditions Historical Sanctuary & Iconography
+    imageUrl: /artifacts/malagasy-religion-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Malagasy_Religious_Traditions'
     provenance: 'Highlands (Antananarivo), Madagascar'
     period: c. precolonial
     description: >-
-      Observantenkirche, Münster, North Rhine-Westphalia, GermanyThe Observant
-      Church in Münster was built in the 17th century as a monastery church for
-      the Franciscan Observants. The or...
-    imageUrl: /artifacts/malagasy-religion-1.jpg
-  - title: >-
-      The Kafir language- comprising a sketch of its history; (IA
-      kafirlanguagecom00appl) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Kafir_language-_comprising_a_sketch_of_its_history;_(IA_kafirlanguagecom00appl).pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Malagasy Religious Traditions.
+  - title: Malagasy oral histories & Sacred Relics
+    imageUrl: /artifacts/malagasy-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Malagasy_Religious_Traditions'
     provenance: 'Highlands (Antananarivo), Madagascar'
     period: c. precolonial
-    description: 'Subjects: Xhosa language...'
-    imageUrl: /artifacts/malagasy-religion-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Malagasy Religious Traditions.
 ---
 
 # Malagasy Religious Traditions

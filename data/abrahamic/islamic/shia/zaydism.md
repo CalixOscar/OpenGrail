@@ -42,26 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Zaydism'
     url: 'https://www.cambridge.org/core/search?q=Zaydism'
 artifacts:
-  - title: Zaydism Historical Sanctuary & Records
+  - title: Zaydism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/zaydism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Zaydism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 740 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Zaydism.
-    imageUrl: /artifacts/zaydism-1.jpg
-  - title: >-
-      Reconstruction of Tajkiah Al-Nafs by Abul Hasan Ali Hasani Nadwi Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Reconstruction_of_Tajkiah_Al-Nafs_by_Abul_Hasan_Ali_Hasani_Nadwi.pdf
+  - title: Qur'an & Sacred Relics
+    imageUrl: /artifacts/zaydism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Zaydism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 740 CE
     description: >-
-      This article raises the issue of tazkiyah al-nafs or known as the method
-      of cleansing the soul as one of the ways to shape one's morality through
-      the study of a 20th-century contem...
-    imageUrl: /artifacts/zaydism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Zaydism.
 ---
 
 # Zaydism

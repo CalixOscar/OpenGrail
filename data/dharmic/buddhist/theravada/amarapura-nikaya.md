@@ -48,22 +48,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Amarapura%20Nik%C4%81ya'
 artifacts:
-  - title: Amarapura Nikāya Historical Sanctuary & Records
+  - title: Amarapura Nikāya Historical Sanctuary & Iconography
+    imageUrl: /artifacts/amarapura-nikaya-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Amarapura_Nik%C4%81ya'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1803 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Amarapura Nikāya.
-    imageUrl: /artifacts/amarapura-nikaya-1.jpg
-  - title: Tipitaka Vinaya Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tipitaka_Vinaya.gif'
+  - title: Pāli Vinaya Piṭaka & Sacred Relics
+    imageUrl: /artifacts/amarapura-nikaya-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Amarapura_Nik%C4%81ya'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1803 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Amarapura Nikāya.
-    imageUrl: /artifacts/amarapura-nikaya-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Amarapura Nikāya.
 ---
 
 # Amarapura Nikāya

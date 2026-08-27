@@ -52,24 +52,26 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=International%20Society%20for%20Krishna%20Consciousness
 artifacts:
-  - title: 'Conch Building, Iskcon, Mayapur 07102013 Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Conch_Building,_Iskcon,_Mayapur_07102013.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1966 CE
-    description: 'Conch Building at ISKCON Temple, Mayapur, West Bengal, India....'
-    imageUrl: /artifacts/iskcon-1.jpg
   - title: >-
-      International Society for Krishna Consciousness Canonical Scripture &
+      International Society for Krishna Consciousness Historical Sanctuary &
       Iconography
+    imageUrl: /artifacts/iskcon-1.jpg
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Conch_Building,_Iskcon,_Mayapur_07102013.jpg
+      https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1966 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of International Society for Krishna Consciousness.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with International Society for Krishna Consciousness.
+  - title: Bhagavad-gītā As It Is & Sacred Relics
     imageUrl: /artifacts/iskcon-2.jpg
+    sourceUrl: >-
+      https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 1966 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      International Society for Krishna Consciousness.
 ---
 
 # International Society for Krishna Consciousness

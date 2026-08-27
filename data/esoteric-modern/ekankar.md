@@ -45,24 +45,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Eckankar'
     url: 'https://brill.com/search?q=Eckankar'
 artifacts:
-  - title: Eckankar Historical Sanctuary & Records
+  - title: Eckankar Historical Sanctuary & Iconography
+    imageUrl: /artifacts/ekankar-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Eckankar'
     provenance: 'London, England, UK'
     period: c. 1965 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Eckankar.
-  - title: >-
-      Bengal tiger in Sanjay Dubri Tiger Reserve December 2024 by Tisha
-      Mukherjee 11 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg
+  - title: Shariyat-Ki-Sugmad & Sacred Relics
+    imageUrl: /artifacts/ekankar-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Eckankar'
     provenance: 'London, England, UK'
     period: c. 1965 CE
     description: >-
-      Bengal tiger (Panthera tigris tigris, Felidae, Carnivora) in Sanjay Dubri
-      Tiger Reserve, Madhya Pradesh, India....
-    imageUrl: /artifacts/ekankar-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Eckankar.
 ---
 
 # Eckankar

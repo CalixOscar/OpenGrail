@@ -44,26 +44,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Temple of Set'
     url: 'https://brill.com/search?q=Temple%20of%20Set'
 artifacts:
-  - title: >-
-      Ephesus, and the temple of Diana (IA ephesustempleofd00falk) Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Ephesus,_and_the_temple_of_Diana_(IA_ephesustempleofd00falk).pdf
-    provenance: 'San Francisco, California, USA'
-    period: c. 1975 CE
-    description: 'Subjects: Temple of Artemis (Ephesus); Temples...'
+  - title: Temple of Set Historical Sanctuary & Iconography
     imageUrl: /artifacts/temple-of-set-1.jpg
-  - title: >-
-      The Book of the Thousand Nights and a Night - Volume 6 Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Book_of_the_Thousand_Nights_and_a_Night_-_Volume_6.djvu
+    sourceUrl: 'https://en.wikipedia.org/wiki/Temple_of_Set'
     provenance: 'San Francisco, California, USA'
     period: c. 1975 CE
     description: >-
-      Private edition of The Book of the Thousand Nights and a Night - Volume 6
-      corresponding to the Gutenberg edition on English Wikisource...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Temple of Set.
+  - title: The Book of Coming Forth by Night & Sacred Relics
     imageUrl: /artifacts/temple-of-set-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Temple_of_Set'
+    provenance: 'San Francisco, California, USA'
+    period: c. 1975 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Temple of Set.
 ---
 
 # Temple of Set

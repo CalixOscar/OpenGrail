@@ -49,22 +49,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Bhakti%20Movements'
 artifacts:
-  - title: The Religions of the World Vol 2 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Religions_of_the_World_Vol_2.djvu
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century CE
-    description: Conference proceedings on religion....
+  - title: Bhakti Movements Historical Sanctuary & Iconography
     imageUrl: /artifacts/bhakti-movement-1.jpg
-  - title: Bhakti Movements Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Religions_of_the_World_Vol_2.djvu
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bhakti_Movements'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Bhakti Movements.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Bhakti Movements.
+  - title: Nālāyira Divya Prabandham & Sacred Relics
     imageUrl: /artifacts/bhakti-movement-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Bhakti_Movements'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 6th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Bhakti Movements.
 ---
 
 # Bhakti Movements

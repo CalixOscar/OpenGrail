@@ -48,23 +48,20 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Iglesia ni Cristo'
     url: 'https://www.cambridge.org/core/search?q=Iglesia%20ni%20Cristo'
 artifacts:
-  - title: Iglesia ni Cristo Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Iglesia_ni_Cristo'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1914 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Iglesia ni Cristo.
+  - title: EDSA III Aerial View
     imageUrl: /artifacts/iglesia-ni-cristo-1.jpg
-  - title: 'Young Asclepius, statue, AM Epidauros, Epim13 Sacred Relics & Scripture'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Young_Asclepius,_statue,_AM_Epidauros,_Epim13.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:EDSA_III_Aerial_View.jpg'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1914 CE
+    description: Aerial view of EDSA III pro Erap rallyists (April 25 - May 1 2001)...
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/iglesia-ni-cristo-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:EDSA_III_Aerial_View.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1914 CE
     description: >-
-      Young Asclepius, marble statue. Archaeological Museum of Epidaurus, no
-      277....
-    imageUrl: /artifacts/iglesia-ni-cristo-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Iglesia ni Cristo.
 ---
 
 # Iglesia ni Cristo

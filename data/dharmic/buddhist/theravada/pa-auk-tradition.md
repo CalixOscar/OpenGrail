@@ -46,24 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pa-Auk%20Tradition'
 artifacts:
-  - title: Science (IA science21895mich) Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Science_(IA_science21895mich).pdf'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 1980s CE
-    description: "\"A weekly record of scientific progress.\"\nEdited by J. Michels\nPublished: Cambridge, Mass.\_: Science Company, Moses King, 1883-\_; Lancaster, Pa.\_: Science Press, -1944; Lancaster,..."
+  - title: Pa-Auk Tradition Historical Sanctuary & Iconography
     imageUrl: /artifacts/pa-auk-tradition-1.jpg
-  - title: >-
-      Fragment of the "Extracts from the Pali canon (Tipitaka) and Qualities of
-      the Buddha (Mahabuddhaguna)" (CBL Thi 1341) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Fragment_of_the_%22Extracts_from_the_Pali_canon_(Tipitaka)_and_Qualities_of_the_Buddha_(Mahabuddhaguna)%22_(CBL_Thi_1341).jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pa-Auk_Tradition'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 1980s CE
     description: >-
-      Fragment of the Thai folding book (samut khoi) containing extracts from
-      the Pali canon (Tipitaka) and Qualities of the Buddha (Mahabuddhaguna),
-      the text illustrated with scenes fro...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Pa-Auk Tradition.
+  - title: Pāli Tipiṭaka & Sacred Relics
     imageUrl: /artifacts/pa-auk-tradition-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pa-Auk_Tradition'
+    provenance: 'Anuradhapura, North Central, Sri Lanka'
+    period: c. c. 1980s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Pa-Auk Tradition.
 ---
 
 # Pa-Auk Tradition

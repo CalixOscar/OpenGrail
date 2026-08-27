@@ -44,28 +44,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Raëlism'
     url: 'https://brill.com/search?q=Ra%C3%ABlism'
 artifacts:
-  - title: Rael Artel Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Rael_Artel.jpg'
-    provenance: 'London, England, UK'
-    period: c. 1974 CE
-    description: 'Rael Artel, director of Tartu Art Museum....'
+  - title: Raëlism Historical Sanctuary & Iconography
     imageUrl: /artifacts/raelism-1.jpg
-  - title: >-
-      Olds' 1917 catalog. 30th season - "Olds' catalog tells the truth" - L.L.
-      Olds Seed Company. (IA CAT31300001) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Olds%27_1917_catalog._30th_season_-_%22Olds%27_catalog_tells_the_truth%22_-_L.L._Olds_Seed_Company._(IA_CAT31300001).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ra%C3%ABlism'
     provenance: 'London, England, UK'
     period: c. 1974 CE
     description: >-
-      Cover title
-
-      Includes index
-
-      Subjects: Nursery stock Wisconsin Clinton Catalogs; Vegetables Seeds
-      Catalogs; Grasses Seeds Catalogs; Flowers Seeds Catalogs; Agricultural
-      implements C...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Raëlism.
+  - title: The Book Which Tells the Truth & Sacred Relics
     imageUrl: /artifacts/raelism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ra%C3%ABlism'
+    provenance: 'London, England, UK'
+    period: c. 1974 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Raëlism.
 ---
 
 # Raëlism

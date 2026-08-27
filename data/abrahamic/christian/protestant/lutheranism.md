@@ -40,26 +40,24 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Lutheranism'
     url: 'https://www.cambridge.org/core/search?q=Lutheranism'
 artifacts:
-  - title: Lutheranism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lutheranism'
-    provenance: 'Wittenberg, Saxony, Germany'
-    period: c. 1517 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Lutheranism.
+  - title: A Tidemand-Haugianerne
     imageUrl: /artifacts/lutheranism-1.jpg
-  - title: Augsburger-Reichstag Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Augsburger-Reichstag.jpg'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:A_Tidemand-Haugianerne.jpg'
     provenance: 'Wittenberg, Saxony, Germany'
     period: c. 1517 CE
     description: >-
-      Diet of Augsburg by Christian Beyer
-
-
-      Augsburger Reichstag gemeinfrei Holzschnitt aus dem 16.Jahrhundert in
-      Nürnberg: Kanzler Dr.Christian Beyer verliest vor Karl V die "Confessio
-      A...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Lutheranism.
+  - title: ArticleXIOfConfession
     imageUrl: /artifacts/lutheranism-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:ArticleXIOfConfession.JPG'
+    provenance: 'Wittenberg, Saxony, Germany'
+    period: c. 1517 CE
+    description: >-
+      I cropped this from the image to the right. I release any rights I gained
+      from cropping it into the public domain.
+
+      Illustration of each of the 28 articles of the Augsburg Confessio...
 ---
 
 # Lutheranism

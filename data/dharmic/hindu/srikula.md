@@ -47,25 +47,24 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%ABkula%20%2F%20%C5%9Ar%C4%ABvidy%C4%81
 artifacts:
-  - title: >-
-      Marian shrine at Saint Patrick Catholic Church in Silverton Colorado
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Marian_shrine_at_Saint_Patrick_Catholic_Church_in_Silverton_Colorado.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 9th–11th century CE
-    description: Marian shrine at Saint Patrick Catholic Church in Silverton Colorado...
+  - title: Śrīkula / Śrīvidyā Historical Sanctuary & Iconography
     imageUrl: /artifacts/srikula-1.jpg
-  - title: Administrative Building (Tripura University) Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Administrative_Building_(Tripura_University).jpg
+      https://en.wikipedia.org/wiki/%C5%9Ar%C4%ABkula_%2F_%C5%9Ar%C4%ABvidy%C4%81
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 9th–11th century CE
     description: >-
-      From a humble beginning as the Post-Graduate Wing of Calcutta University
-      in 1976 to a state university in 1987 and eventually a central university
-      in 2007, Tripura University has t...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Śrīkula / Śrīvidyā.
+  - title: Vāmakeśvarīmata & Sacred Relics
     imageUrl: /artifacts/srikula-2.jpg
+    sourceUrl: >-
+      https://en.wikipedia.org/wiki/%C5%9Ar%C4%ABkula_%2F_%C5%9Ar%C4%ABvidy%C4%81
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 9th–11th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Śrīkula / Śrīvidyā.
 ---
 
 # Śrīkula / Śrīvidyā

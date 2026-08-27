@@ -42,24 +42,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Lakota%20Religion'
 artifacts:
-  - title: Blackhawk-spiritbeing Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Blackhawk-spiritbeing.jpg'
+  - title: Lakota Religion Historical Sanctuary & Iconography
+    imageUrl: /artifacts/lakota-religion-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lakota_Religion'
     provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
     period: c. ancestral era
     description: >-
-      A ledger drawing by Lakota Sioux Chief Black Hawk, depicting a horned 
-      Thunder Being (Haokah) on a horse-like creature with eagle talons and
-      buffalo horns. The creature's tail form...
-    imageUrl: /artifacts/lakota-religion-1.jpg
-  - title: >-
-      Folktales & Oral Traditions Archive - (Ibibio Language) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Folktales_%26_Oral_Traditions_Archive_-_(Ibibio_Language).webm
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Lakota Religion.
+  - title: Oral traditions (community-governed) & Sacred Relics
+    imageUrl: /artifacts/lakota-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lakota_Religion'
     provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
     period: c. ancestral era
-    description: Folktales and Oral Traditions Archives...
-    imageUrl: /artifacts/lakota-religion-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Lakota Religion.
 ---
 
 # Lakota Religion

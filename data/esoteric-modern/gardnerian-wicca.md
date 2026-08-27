@@ -43,19 +43,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gardnerian Wicca'
     url: 'https://brill.com/search?q=Gardnerian%20Wicca'
 artifacts:
-  - title: Gardnerian Wicca Historical Sanctuary & Records
+  - title: Gardnerian Wicca Historical Sanctuary & Iconography
+    imageUrl: /artifacts/gardnerian-wicca-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Gardnerian_Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1950s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Gardnerian Wicca.
-  - title: Hokusai Sangoku Yoko-den Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hokusai_Sangoku_Yoko-den.jpg'
+  - title: Gardnerian Book of Shadows & Sacred Relics
+    imageUrl: /artifacts/gardnerian-wicca-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Gardnerian_Wicca'
     provenance: 'New Forest, Hampshire, England, UK'
     period: c. 1950s CE
-    description: Sangoku Yōko-den (三国妖狐伝)...
-    imageUrl: /artifacts/gardnerian-wicca-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Gardnerian Wicca.
 ---
 
 # Gardnerian Wicca

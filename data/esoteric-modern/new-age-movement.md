@@ -49,20 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: New Age Movement'
     url: 'https://brill.com/search?q=New%20Age%20Movement'
 artifacts:
-  - title: New Age Movement Historical Sanctuary & Records
+  - title: New Age Movement Historical Sanctuary & Iconography
+    imageUrl: /artifacts/new-age-movement-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/New_Age_Movement'
     provenance: 'London, England, UK'
     period: c. 1960s–1970s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with New Age Movement.
-  - title: New Age Movement Canonical Scripture & Iconography
+  - title: New Age publishing and workshop corpus & Sacred Relics
+    imageUrl: /artifacts/new-age-movement-2.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/New_Age_Movement'
     provenance: 'London, England, UK'
     period: c. 1960s–1970s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of New Age Movement.
+      Preserved liturgical manuscripts, canonical texts, and sacred art of New
+      Age Movement.
 ---
 
 # New Age Movement

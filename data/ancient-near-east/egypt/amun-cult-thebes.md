@@ -49,20 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Amun at Thebes'
     url: 'https://brill.com/search?q=Cult%20of%20Amun%20at%20Thebes'
 artifacts:
-  - title: Karomama Louvre 02 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Karomama_Louvre_02.JPG'
-    provenance: 'Thebes (Luxor), Ancient Egypt'
-    period: c. c. 2000 BCE
-    description: تمثال زوجة آمون كارو ماما...
+  - title: Cult of Amun at Thebes Historical Sanctuary & Iconography
     imageUrl: /artifacts/amun-cult-thebes-1.jpg
-  - title: Cult of Amun at Thebes Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Karomama_Louvre_02.JPG'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Amun_at_Thebes'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 2000 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cult of Amun at Thebes.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cult of Amun at Thebes.
+  - title: Hymns to Amun & Sacred Relics
     imageUrl: /artifacts/amun-cult-thebes-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Amun_at_Thebes'
+    provenance: 'Thebes (Luxor), Ancient Egypt'
+    period: c. c. 2000 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
+      of Amun at Thebes.
 ---
 
 # Cult of Amun at Thebes

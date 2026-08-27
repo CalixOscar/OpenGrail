@@ -48,25 +48,24 @@ sources:
       Movement
     url: 'https://www.cambridge.org/core/search?q=Restoration%20Movement'
 artifacts:
-  - title: Restoration Movement Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Movement'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1800 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Restoration Movement.
+  - title: SMITH Raccoon John
     imageUrl: /artifacts/restoration-movement-1.jpg
-  - title: >-
-      Declaration and Address Christian Assoc of Washington (Cover) 1809 Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Declaration_and_Address_Christian_Assoc_of_Washington_(Cover)_1809.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/File:SMITH_Raccoon_John.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1800 CE
     description: >-
-      "This is the front cover from the book Declaration and Address of the
-      Christian Association of Washington"...
+      https://www.mun.ca/rels/restmov/texts/jchallen/lcab/SMITHJ2.GIF
+
+      "Raccoon John" Smith, (1784–1868) Minister of the Campbell wing of the
+      Campbell/ Stone movement of American Protesta...
+  - title: 1839-meth
     imageUrl: /artifacts/restoration-movement-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:1839-meth.jpg'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1800 CE
+    description: >-
+      Religious revival in USA 1839, watercolor from 1839 Second Great
+      Awakening. The print was made in the USA in the 1840s....
 ---
 
 # Restoration Movement

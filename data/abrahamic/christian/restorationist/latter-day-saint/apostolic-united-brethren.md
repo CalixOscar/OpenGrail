@@ -45,22 +45,23 @@ sources:
       Brethren
     url: 'https://www.cambridge.org/core/search?q=Apostolic%20United%20Brethren'
 artifacts:
-  - title: Apostolic United Brethren Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Apostolic_United_Brethren'
-    provenance: 'Salt Lake City (Temple Square), Utah, USA'
-    period: c. 1954 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Apostolic United Brethren.
+  - title: 1612 First Quarto of King James Bible
     imageUrl: /artifacts/apostolic-united-brethren-1.jpg
-  - title: Apostolic United Brethren Canonical Scripture & Iconography
-    sourceUrl: 'https://en.wikipedia.org/wiki/Apostolic_United_Brethren'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:1612_First_Quarto_of_King_James_Bible.jpg
+    provenance: 'Salt Lake City (Temple Square), Utah, USA'
+    period: c. 1954 CE
+    description: Only second to the 1611 folio King Jame Bible...
+  - title: KJV-King-James-Version-Bible-first-edition-title-page-1611
+    imageUrl: /artifacts/apostolic-united-brethren-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:KJV-King-James-Version-Bible-first-edition-title-page-1611.jpg
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 1954 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Apostolic United Brethren.
-    imageUrl: /artifacts/apostolic-united-brethren-2.jpg
+      Frontispiece to the King James' Bible, 1611, shows the Twelve Apostles at
+      the top. Moses and Aaron flank the central text. In the four corners sit
+      Matthew, Mark, Luke, and John, au...
 ---
 
 # Apostolic United Brethren

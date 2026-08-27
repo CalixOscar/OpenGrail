@@ -44,20 +44,22 @@ sources:
       of God
     url: 'https://www.cambridge.org/core/search?q=Philadelphia%20Church%20of%20God'
 artifacts:
-  - title: Philadelphia Church of God Historical Sanctuary & Records
+  - title: Philadelphia Church of God Historical Sanctuary & Iconography
+    imageUrl: /artifacts/philadelphia-church-of-god-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Philadelphia_Church_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1989 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Philadelphia Church of God.
-    imageUrl: /artifacts/philadelphia-church-of-god-1.jpg
-  - title: The Mystery of the Sea Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:The_Mystery_of_the_Sea.djvu'
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/philadelphia-church-of-god-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Philadelphia_Church_of_God'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1989 CE
-    description: This is the scanned DjVu book The Mystery of the Sea by Bram Stoker....
-    imageUrl: /artifacts/philadelphia-church-of-god-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Philadelphia Church of God.
 ---
 
 # Philadelphia Church of God

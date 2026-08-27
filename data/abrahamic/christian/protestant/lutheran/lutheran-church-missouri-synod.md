@@ -49,23 +49,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Lutheran%20Church%E2%80%94Missouri%20Synod
 artifacts:
-  - title: Lutheran Church—Missouri Synod Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lutheran_Church%E2%80%94Missouri_Synod'
-    provenance: 'Wittenberg, Saxony, Germany'
-    period: c. 1847 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Lutheran Church—Missouri Synod.
+  - title: Blue LCMS Logo 2012
     imageUrl: /artifacts/lutheran-church-missouri-synod-1.jpg
-  - title: Bookofconcord Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bookofconcord.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/File:Blue_LCMS_Logo_2012.png'
     provenance: 'Wittenberg, Saxony, Germany'
     period: c. 1847 CE
     description: >-
-      Title Page from 1580 German Edition of the en:Book of Concord. (Image
-      privately held by Paul T. McCain. Digital photo taken by Paul McCain. Made
-      available to public domain.)...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Lutheran Church—Missouri Synod.
+  - title: Bible & Sacred Relics
     imageUrl: /artifacts/lutheran-church-missouri-synod-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/File:Blue_LCMS_Logo_2012.png'
+    provenance: 'Wittenberg, Saxony, Germany'
+    period: c. 1847 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Lutheran Church—Missouri Synod.
 ---
 
 # Lutheran Church—Missouri Synod

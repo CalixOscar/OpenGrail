@@ -46,25 +46,25 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Shi''a Islam'
     url: 'https://www.cambridge.org/core/search?q=Shi''a%20Islam'
 artifacts:
-  - title: Arba'een Pilgrimage - Iranian People- Shia Muslim 05 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Arba%27een_Pilgrimage_-_Iranian_People-_Shia_Muslim_05.jpg
+  - title: Bagh Toti 8167
+    imageUrl: /artifacts/shia-islam-1.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bagh_Toti_8167.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 7th century CE
     description: >-
-      During the pilgrimage "copious supplies of food, small clinics and even
-      dentists are available for pilgrims and they all work for free. "The care
-      of pilgrims is regarded as a relig...
-    imageUrl: /artifacts/shia-islam-1.jpg
-  - title: >-
-      Quran page - Al-Baqara Sura - Egyptian National Library Sacred Relics &
-      Scripture
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Shi'a Islam.
+  - title: Brooklyn Museum - Battle of Karbala - Abbas Al-Musavi - overall
+    imageUrl: /artifacts/shia-islam-2.jpg
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Quran_page_-_Al-Baqara_Sura_-_Egyptian_National_Library.jpg
+      https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Battle_of_Karbala_-_Abbas_Al-Musavi_-_overall.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 7th century CE
-    description: صفحة من القرآن مكتوبة بخط النسخ...
-    imageUrl: /artifacts/shia-islam-2.jpg
+    description: >-
+      Ghahvehkhaneh or "coffeehouse" painting genre.
+
+      Religious narrative painting depicting scenes from the Battle of Karbala
+      which commemorates the martyrdom of Imam Husayn. This trage...
 ---
 
 # Shi'a Islam

@@ -43,20 +43,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Latin Church'
     url: 'https://www.cambridge.org/core/search?q=Latin%20Church'
 artifacts:
-  - title: Latin Church Historical Sanctuary & Records
+  - title: Latin Church Historical Sanctuary & Iconography
+    imageUrl: /artifacts/latin-church-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Latin_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 1st century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Latin Church.
-    imageUrl: /artifacts/latin-church-1.jpg
-  - title: Catholic Holy bible Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Catholic_Holy_bible.png'
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/latin-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Latin_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 1st century CE
-    description: Catholic Holy bible...
-    imageUrl: /artifacts/latin-church-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Latin
+      Church.
 ---
 
 # Latin Church

@@ -39,23 +39,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Zoroastrianism'
     url: 'https://brill.com/search?q=Zoroastrianism'
 artifacts:
-  - title: Zoroastrianism Historical Sanctuary & Records
+  - title: Zoroastrianism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/zoroastrianism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. c. 1200–600 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Zoroastrianism.
-    imageUrl: /artifacts/zoroastrianism-1.jpg
-  - title: Stainless visent Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Stainless_visent.jpg'
+  - title: Avesta & Sacred Relics
+    imageUrl: /artifacts/zoroastrianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. c. 1200–600 BCE
     description: >-
-      Visent statue made of stainless steel. Visent was the symbol of the local
-      steel mills, former Avesta Jernverk. This statue can be seen in the city
-      park in front of the Star hotel,...
-    imageUrl: /artifacts/zoroastrianism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Zoroastrianism.
 ---
 
 # Zoroastrianism

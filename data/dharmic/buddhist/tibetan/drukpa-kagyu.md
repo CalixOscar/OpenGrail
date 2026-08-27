@@ -45,21 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Drukpa%20Kagyu'
 artifacts:
-  - title: Drukpa Kagyu Historical Sanctuary & Records
+  - title: Drukpa Kagyu Historical Sanctuary & Iconography
+    imageUrl: /artifacts/drukpa-kagyu-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Drukpa_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Drukpa Kagyu.
-    imageUrl: /artifacts/drukpa-kagyu-1.jpg
-  - title: Bhutanese Gold Kangyur page detail Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Bhutanese_Gold_Kangyur_page_detail.jpg
+  - title: Kangyur & Sacred Relics
+    imageUrl: /artifacts/drukpa-kagyu-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Drukpa_Kagyu'
     provenance: 'Lhasa (Potala), U-Tsang, Tibet'
     period: c. 12th century CE
-    description: Detail from a page of gold Kangyur manuscript being written in Bhutan...
-    imageUrl: /artifacts/drukpa-kagyu-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Drukpa Kagyu.
 ---
 
 # Drukpa Kagyu

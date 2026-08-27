@@ -49,20 +49,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Trinidad%20Orisha'
 artifacts:
-  - title: Trinidad Orisha Historical Sanctuary & Records
+  - title: Trinidad Orisha Historical Sanctuary & Iconography
+    imageUrl: /artifacts/trinidad-orisha-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Trinidad_Orisha'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. 19th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Trinidad Orisha.
-  - title: Trinidad Orisha Canonical Scripture & Iconography
+  - title: Orisha praise-song corpus & Sacred Relics
+    imageUrl: /artifacts/trinidad-orisha-2.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Trinidad_Orisha'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. 19th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Trinidad Orisha.
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Trinidad Orisha.
 ---
 
 # Trinidad Orisha

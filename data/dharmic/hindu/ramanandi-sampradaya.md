@@ -50,26 +50,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=R%C4%81m%C4%81nand%C4%AB%20Samprad%C4%81ya
 artifacts:
-  - title: >-
-      Galtaji the monkey God temple The Temple of Galtaji is famous for its
-      natural water springs. Set a midst the beautiful landscape, Galtaji Temple
-      offers a picturesque view of the city. Natural water springs dr -
-      panoramio Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Galtaji_the_monkey_God_temple_The_Temple_of_Galtaji_is_famous_for_its_natural_water_springs._Set_a_midst_the_beautiful_landscape,_Galtaji_Temple_offers_a_picturesque_view_of_the_city._Natural_water_springs_dr_-_panoramio.jpg
+  - title: Rāmānandī Sampradāya Historical Sanctuary & Iconography
+    imageUrl: /artifacts/ramanandi-sampradaya-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/R%C4%81m%C4%81nand%C4%AB_Samprad%C4%81ya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 14th–15th century CE
     description: >-
-      Galtaji the monkey God temple The Temple of Galtaji is famous for its
-      natural water springs. Set a midst the beautiful landscape, Galtaji Temple
-      offers a picturesque view of the ci...
-    imageUrl: /artifacts/ramanandi-sampradaya-1.jpg
-  - title: Older Durga Temple - Banaras Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Older_Durga_Temple_-_Banaras.jpg'
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Rāmānandī Sampradāya.
+  - title: Rāmcaritmānas & Sacred Relics
+    imageUrl: /artifacts/ramanandi-sampradaya-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/R%C4%81m%C4%81nand%C4%AB_Samprad%C4%81ya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 14th–15th century CE
-    description: 'This is the 500 years old Durga Temple, situated in Ramnagar, Varanasi....'
-    imageUrl: /artifacts/ramanandi-sampradaya-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Rāmānandī Sampradāya.
 ---
 
 # Rāmānandī Sampradāya

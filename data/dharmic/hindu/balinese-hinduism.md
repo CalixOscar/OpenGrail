@@ -45,23 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Balinese%20Hinduism'
 artifacts:
-  - title: Balinese Hinduism Historical Sanctuary & Records
+  - title: Balinese Hinduism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/balinese-hinduism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Balinese_Hinduism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Balinese Hinduism.
-    imageUrl: /artifacts/balinese-hinduism-1.jpg
-  - title: Katalog WikiLontar 2021 v2 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Katalog_WikiLontar_2021_v2.pdf'
+  - title: Veda recitations in Balinese liturgy & Sacred Relics
+    imageUrl: /artifacts/balinese-hinduism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Balinese_Hinduism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 10th century CE
     description: >-
-      Balinese WikiLontar is a program to collect metadata and cataloging
-      balinese palm-leaf manuscript in Bali to added more reference for
-      Wikipedia, specially Wikidata. The metadata ca...
-    imageUrl: /artifacts/balinese-hinduism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Balinese Hinduism.
 ---
 
 # Balinese Hinduism

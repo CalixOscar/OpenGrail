@@ -40,25 +40,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=John%20Frum%20Movement'
 artifacts:
-  - title: John Frum flag raising Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:John_Frum_flag_raising.jpg'
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. 1930s CE
-    description: John Frum "cargo" cult and their ceremonial flag raising...
+  - title: John Frum Movement Historical Sanctuary & Iconography
     imageUrl: /artifacts/john-frum-movement-1.jpg
-  - title: >-
-      Colonel Kenton Hartman, USAF, Oral History Interview (IA Hartman) Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Colonel_Kenton_Hartman,_USAF,_Oral_History_Interview_(IA_Hartman).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/John_Frum_Movement'
     provenance: 'Tanna Island (Mount Yasur), Vanuatu'
     period: c. 1930s CE
     description: >-
-      COLONEL KENTON HARTMAN, USAFARMED FORCES INSTITUTE OF PATHOLOGYORAL
-      HISTORY PROGRAMINTERVIEWER: Charles Stuart KennedyDATE: July 13, 1993
-
-      Subjects: oral history; Armed Forces Inst...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with John Frum Movement.
+  - title: Oral teachings and community histories & Sacred Relics
     imageUrl: /artifacts/john-frum-movement-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/John_Frum_Movement'
+    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
+    period: c. 1930s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of John
+      Frum Movement.
 ---
 
 # John Frum Movement

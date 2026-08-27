@@ -48,27 +48,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Siyam%20Nik%C4%81ya'
 artifacts:
-  - title: >-
-      Kitab Primbon Atassadhur Adammakna (Sambetanipun Betaljemur) Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Kitab_Primbon_Atassadhur_Adammakna_(Sambetanipun_Betaljemur).pdf
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. 1753 CE
-    description: Kitab Primbon Atassadhur Adammakna (Sambetanipun Betaljemur)...
+  - title: Siyam Nikāya Historical Sanctuary & Iconography
     imageUrl: /artifacts/siyam-nikaya-1.jpg
-  - title: >-
-      Handbook of Pali. Being an elementary grammar, a chrestomathy, and a
-      glossary (IA handbookofpalibe00fran) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Handbook_of_Pali._Being_an_elementary_grammar,_a_chrestomathy,_and_a_glossary_(IA_handbookofpalibe00fran).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Siyam_Nik%C4%81ya'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. 1753 CE
-    description: |-
-      Pali bibliography: p. [xv]-xxi
-
-      Subjects:...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Siyam Nikāya.
+  - title: Pāli Vinaya Piṭaka & Sacred Relics
     imageUrl: /artifacts/siyam-nikaya-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Siyam_Nik%C4%81ya'
+    provenance: 'Anuradhapura, North Central, Sri Lanka'
+    period: c. 1753 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Siyam
+      Nikāya.
 ---
 
 # Siyam Nikāya

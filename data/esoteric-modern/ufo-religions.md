@@ -49,31 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: UFO Religions'
     url: 'https://brill.com/search?q=UFO%20Religions'
 artifacts:
-  - title: >-
-      Cosmic Circle Fellowship advertisement, April 16, 1972 Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Cosmic_Circle_Fellowship_advertisement,_April_16,_1972.png
+  - title: UFO Religions Historical Sanctuary & Iconography
+    imageUrl: /artifacts/ufo-religions-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/UFO_Religions'
     provenance: 'London, England, UK'
     period: c. mid-20th century CE
     description: >-
-      Newspaper advertisement for the Cosmic Circle of Fellowship UFO
-      religion....
-    imageUrl: /artifacts/ufo-religions-1.jpg
-  - title: >-
-      The microscope and its revelations (1856) (14776099884) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_microscope_and_its_revelations_(1856)_(14776099884).jpg
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with UFO Religions.
+  - title: Contactee narratives & Sacred Relics
+    imageUrl: /artifacts/ufo-religions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/UFO_Religions'
     provenance: 'London, England, UK'
     period: c. mid-20th century CE
-    description: |-
-      Identifier: microscopeitsrev1856carp (find matches)
-      Title: The microscope and its revelations
-      Year: 1856 (1850s)
-      Authors:  Carpenter, William Benjamin, 1813-1885
-      Subjects:  Micros...
-    imageUrl: /artifacts/ufo-religions-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of UFO
+      Religions.
 ---
 
 # UFO Religions

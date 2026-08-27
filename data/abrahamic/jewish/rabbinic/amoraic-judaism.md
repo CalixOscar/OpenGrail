@@ -46,28 +46,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Amoraic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Amoraic%20Judaism'
 artifacts:
-  - title: >-
-      New edition of the Babylonian Talmud (IA babyloniantalmud01rodk)
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:New_edition_of_the_Babylonian_Talmud_(IA_babyloniantalmud01rodk).pdf
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 220 CE
-    description: >-
-      Vols. 1-2, 11-12, 13-14, 15-16 paged continuously
-
-      Vol. 1: First ed., rev. and cor. by Rev. Dr. Isaac M. Wise ... Second ed.,
-      re-edited, rev. and enl.; v. 2: Rev. by Rev. Dr. Isaac...
+  - title: Amoraic Judaism Historical Sanctuary & Iconography
     imageUrl: /artifacts/amoraic-judaism-1.jpg
-  - title: Amoraic Judaism Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:New_edition_of_the_Babylonian_Talmud_(IA_babyloniantalmud01rodk).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Amoraic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 220 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Amoraic Judaism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Amoraic Judaism.
+  - title: Jerusalem Talmud & Sacred Relics
     imageUrl: /artifacts/amoraic-judaism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Amoraic_Judaism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 220 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Amoraic Judaism.
 ---
 
 # Amoraic Judaism

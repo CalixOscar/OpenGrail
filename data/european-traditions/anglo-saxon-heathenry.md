@@ -50,24 +50,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Anglo-Saxon Heathenry'
     url: 'https://brill.com/search?q=Anglo-Saxon%20Heathenry'
 artifacts:
-  - title: >-
-      Select Essays in Anglo-American Legal History, Volume 1 Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Select_Essays_in_Anglo-American_Legal_History,_Volume_1.djvu
+  - title: Anglo-Saxon Heathenry Historical Sanctuary & Iconography
+    imageUrl: /artifacts/anglo-saxon-heathenry-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Anglo-Saxon_Heathenry'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE
     description: >-
-      Book: Volume 1: Select Essays in Anglo-American Legal History, Compiled
-      and Edited by a Committee of the Association of American Law Schools In
-      Three Volumes.  Boston: Little, Brow...
-    imageUrl: /artifacts/anglo-saxon-heathenry-1.jpg
-  - title: Devonshire Devil Prints 1855 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Devonshire_Devil_Prints_1855.jpg'
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Anglo-Saxon Heathenry.
+  - title: Old English poetic corpus & Sacred Relics
+    imageUrl: /artifacts/anglo-saxon-heathenry-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Anglo-Saxon_Heathenry'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. 1970s CE
-    description: English papers prints in 1855...
-    imageUrl: /artifacts/anglo-saxon-heathenry-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Anglo-Saxon Heathenry.
 ---
 
 # Anglo-Saxon Heathenry

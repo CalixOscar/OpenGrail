@@ -46,22 +46,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Christian Church'
     url: 'https://www.cambridge.org/core/search?q=Christian%20Church'
 artifacts:
-  - title: Christian Church (Disciples of Christ) Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christian_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1968 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Christian Church (Disciples of Christ).
+  - title: AugsburgConfessionArticle7OftheChurch
     imageUrl: /artifacts/christian-church-disciples-of-christ-1.jpg
-  - title: Christian Church (Disciples of Christ) Canonical Scripture & Iconography
-    sourceUrl: 'https://en.wikipedia.org/wiki/Christian_Church'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:AugsburgConfessionArticle7OftheChurch.jpg
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1968 CE
+    description: 'Woodcut of the Augsburg Confession, Article VII, "Of the Church"....'
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/christian-church-disciples-of-christ-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:AugsburgConfessionArticle7OftheChurch.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1968 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Christian Church (Disciples of Christ).
-    imageUrl: /artifacts/christian-church-disciples-of-christ-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Christian Church (Disciples of Christ).
 ---
 
 # Christian Church (Disciples of Christ)

@@ -42,21 +42,21 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Anglicanism'
     url: 'https://www.cambridge.org/core/search?q=Anglicanism'
 artifacts:
-  - title: Anglicanism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Anglicanism'
-    provenance: 'Canterbury, Kent, England, UK'
-    period: c. 1530s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Anglicanism.
+  - title: Darnley stage 3
     imageUrl: /artifacts/anglicanism-1.jpg
-  - title: Anglicanism Canonical Scripture & Iconography
-    sourceUrl: 'https://en.wikipedia.org/wiki/Anglicanism'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Darnley_stage_3.jpg'
     provenance: 'Canterbury, Kent, England, UK'
     period: c. 1530s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Anglicanism.
+      The "Darnley Portrait" of Elizabeth I of England. It was named after a
+      previous owner. Probably painted from life, this portrait is the source of
+      the face pattern called "The Mask...
+  - title: Augustinus von Canterbury
+    imageUrl: /artifacts/anglicanism-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Augustinus_von_Canterbury.jpg'
+    provenance: 'Canterbury, Kent, England, UK'
+    period: c. 1530s CE
+    description: Augustinus von Canterbury...
 ---
 
 # Anglicanism

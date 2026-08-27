@@ -49,26 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Inanna–Ishtar'
     url: 'https://brill.com/search?q=Cult%20of%20Inanna%E2%80%93Ishtar'
 artifacts:
-  - title: >-
-      Achaemenid court eunuchs in their Near Eastern context - images in the
-      longue durée, Anais do Museu Paulista Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Achaemenid_court_eunuchs_in_their_Near_Eastern_context_-_images_in_the_longue_dur%C3%A9e,_Anais_do_Museu_Paulista.pdf
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3500 BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Cult of Inanna–Ishtar.
+  - title: Cult of Inanna–Ishtar Historical Sanctuary & Iconography
     imageUrl: /artifacts/inanna-ishtar-cult-1.jpg
-  - title: Cult of Inanna–Ishtar Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Achaemenid_court_eunuchs_in_their_Near_Eastern_context_-_images_in_the_longue_dur%C3%A9e,_Anais_do_Museu_Paulista.pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Inanna%E2%80%93Ishtar'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3500 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cult of Inanna–Ishtar.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cult of Inanna–Ishtar.
+  - title: Inanna's Descent & Sacred Relics
     imageUrl: /artifacts/inanna-ishtar-cult-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Inanna%E2%80%93Ishtar'
+    provenance: 'Babylon, Mesopotamia'
+    period: c. c. 3500 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
+      of Inanna–Ishtar.
 ---
 
 # Cult of Inanna–Ishtar

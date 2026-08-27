@@ -48,20 +48,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=N%C4%81th%20Tradition'
 artifacts:
-  - title: Kindari Jogi 02 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kindari_Jogi_02.JPG'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 11th–12th century CE
-    description: 'Kindari Jogi, a kind of folk performance from Karnataka, India...'
+  - title: Nāth Tradition Historical Sanctuary & Iconography
     imageUrl: /artifacts/nath-tradition-1.jpg
-  - title: Nāth Tradition Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kindari_Jogi_02.JPG'
+    sourceUrl: 'https://en.wikipedia.org/wiki/N%C4%81th_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 11th–12th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Nāth Tradition.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Nāth Tradition.
+  - title: Gorakṣaśataka & Sacred Relics
     imageUrl: /artifacts/nath-tradition-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/N%C4%81th_Tradition'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 11th–12th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Nāth
+      Tradition.
 ---
 
 # Nāth Tradition

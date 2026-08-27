@@ -46,22 +46,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Lingbao%20Daoism'
 artifacts:
-  - title: LingbaoTianzun Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:LingbaoTianzun.jpg'
-    provenance: 'Luoyang, Henan, China'
-    period: c. late 4th century CE
-    description: >-
-      A painting of the Lingbao Tianzun ('the Heavenly Lord of the Numinous
-      Treasure'), one of the supreme divinities of Daoism....
+  - title: Lingbao Daoism Historical Sanctuary & Iconography
     imageUrl: /artifacts/lingbao-daoism-1.jpg
-  - title: Lingbao Daoism Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:LingbaoTianzun.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lingbao_Daoism'
     provenance: 'Luoyang, Henan, China'
     period: c. late 4th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Lingbao Daoism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Lingbao Daoism.
+  - title: Five Talismans of the Numinous Treasure & Sacred Relics
     imageUrl: /artifacts/lingbao-daoism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lingbao_Daoism'
+    provenance: 'Luoyang, Henan, China'
+    period: c. late 4th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Lingbao Daoism.
 ---
 
 # Lingbao Daoism

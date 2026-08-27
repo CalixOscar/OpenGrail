@@ -45,21 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ramakrishna%20Movement'
 artifacts:
-  - title: Shankarajayanti at shankaracharya hill Srinagar Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Shankarajayanti_at_shankaracharya_hill_Srinagar.jpg
+  - title: Ramakrishna Movement Historical Sanctuary & Iconography
+    imageUrl: /artifacts/ramakrishna-movement-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ramakrishna_Movement'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1886 CE
     description: >-
-      Book stall by ramakrishna mission Srinagar at shankaracharya hill Srinagar
-      during shankarajayanti...
-    imageUrl: /artifacts/ramakrishna-movement-1.jpg
-  - title: Swami Vivekananda Jaipur Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Swami_Vivekananda_Jaipur.jpg'
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ramakrishna Movement.
+  - title: Śrī Śrī Rāmakṛṣṇa Kathāmṛta & Sacred Relics
+    imageUrl: /artifacts/ramakrishna-movement-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ramakrishna_Movement'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 1886 CE
-    description: Photo of Swami Vivekananda at Jaipur ( between 1885 - 1895 )...
-    imageUrl: /artifacts/ramakrishna-movement-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ramakrishna Movement.
 ---
 
 # Ramakrishna Movement

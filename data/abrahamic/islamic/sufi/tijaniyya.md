@@ -44,24 +44,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Tijaniyya'
     url: 'https://www.cambridge.org/core/search?q=Tijaniyya'
 artifacts:
-  - title: صلاة الفاتح Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%D8%B5%D9%84%D8%A7%D8%A9_%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD.jpg
+  - title: Tijaniyya Historical Sanctuary & Iconography
+    imageUrl: /artifacts/tijaniyya-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Tijaniyya'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1780s CE
     description: >-
-      اللهم صل على سيدنا محمد الفاتح لما أغلق والخاتم لما سبق ناصر الحق بالحق
-      والهادي إلى صراطك المستقيم وعلى آله حق قدره ومقداره العظيم...
-    imageUrl: /artifacts/tijaniyya-1.jpg
-  - title: >-
-      Stone statue of Buddha 1st-2nd century CE Pakistan Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Stone_statue_of_Buddha_1st-2nd_century_CE_Pakistan.jpg
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Tijaniyya.
+  - title: Quran & Sacred Relics
+    imageUrl: /artifacts/tijaniyya-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Tijaniyya'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1780s CE
-    description: Stone statue of Buddha 1st-2nd century CE Pakistan...
-    imageUrl: /artifacts/tijaniyya-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Tijaniyya.
 ---
 
 # Tijaniyya

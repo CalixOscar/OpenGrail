@@ -48,25 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Osiris'
     url: 'https://brill.com/search?q=Cult%20of%20Osiris'
 artifacts:
-  - title: >-
-      Egyptian - Priest Holding the Figure of Osiris - Walters 22174 - Back
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Egyptian_-_Priest_Holding_the_Figure_of_Osiris_-_Walters_22174_-_Back.jpg
+  - title: Cult of Osiris Historical Sanctuary & Iconography
+    imageUrl: /artifacts/osiris-cult-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Osiris'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 2400 BCE
     description: >-
-      Statues such as this were placed in temples and show the owner presenting
-      a divine image to his god. This statue represents Djed-khonsu-iuef-ankh, a
-      priest of the god Montu of Theb...
-    imageUrl: /artifacts/osiris-cult-1.jpg
-  - title: Pyramid text utterance 260 to 254 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Pyramid_text_utterance_260_to_254.jpg
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cult of Osiris.
+  - title: Pyramid Texts & Sacred Relics
+    imageUrl: /artifacts/osiris-cult-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Osiris'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 2400 BCE
-    description: Pyramid text utterance 260 to 254 from Unas pyramid....
-    imageUrl: /artifacts/osiris-cult-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
+      of Osiris.
 ---
 
 # Cult of Osiris

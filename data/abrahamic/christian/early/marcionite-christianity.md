@@ -48,29 +48,22 @@ sources:
       Christianity
     url: 'https://www.cambridge.org/core/search?q=Marcionite%20Christianity'
 artifacts:
-  - title: >-
-      Apostle John and Marcion of Sinope, from JPM LIbrary MS 748, 11th c
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Apostle_John_and_Marcion_of_Sinope,_from_JPM_LIbrary_MS_748,_11th_c.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 140 CE
-    description: >-
-      Content: the Apostle John and Marcion of Sinope (according to R. Eisler,
-      The Enigma of the Fourth Gospel, Methuen &amp; Co., 1938, p. 158, plate
-      XIII).
-
-      Source: J. Pierpoint Morgan...
+  - title: M.Sander - Marcion õpetamas
     imageUrl: /artifacts/marcionite-christianity-1.jpg
-  - title: Marcionite Christianity Canonical Scripture & Iconography
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Apostle_John_and_Marcion_of_Sinope,_from_JPM_LIbrary_MS_748,_11th_c.jpg
+      https://commons.wikimedia.org/wiki/File:M.Sander_-_Marcion_%C3%B5petamas.jpg
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 140 CE
+    description: Wikimediasse laetud autori ja autoriõiguste valdaja Mart Sanderi poolt....
+  - title: Evangelion & Sacred Relics
+    imageUrl: /artifacts/marcionite-christianity-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:M.Sander_-_Marcion_%C3%B5petamas.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 140 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Marcionite Christianity.
-    imageUrl: /artifacts/marcionite-christianity-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Marcionite Christianity.
 ---
 
 # Marcionite Christianity

@@ -45,20 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Pre-exilic Yahwism'
     url: 'https://www.cambridge.org/core/search?q=Pre-exilic%20Yahwism'
 artifacts:
-  - title: Kluizenarij Warfhuizen kapel Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kluizenarij_Warfhuizen_kapel.jpg'
+  - title: Pre-exilic Yahwism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/yahwism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pre-exilic_Yahwism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1000 BCE
     description: >-
-      The interior of the shrine of Our Lady the Garden Enclosed, which serves
-      simultaneously as the chapel of the local hermitage....
-    imageUrl: /artifacts/yahwism-1.jpg
-  - title: Hebrew Bible MET LC 2018 59s12 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hebrew_Bible_MET_LC_2018_59s12.jpg'
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Pre-exilic Yahwism.
+  - title: Hebrew Bible & Sacred Relics
+    imageUrl: /artifacts/yahwism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pre-exilic_Yahwism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1000 BCE
-    description: Spanish; Manuscripts and Illuminations;...
-    imageUrl: /artifacts/yahwism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Pre-exilic Yahwism.
 ---
 
 # Pre-exilic Yahwism

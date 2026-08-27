@@ -45,31 +45,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Lu%E2%80%93Wang%20Confucianism
 artifacts:
-  - title: Wang Shou-Ren Calligraphy Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Wang_Shou-Ren_Calligraphy.jpg'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 12th century CE
-    description: |-
-      ​[明]  王守仁《与郑邦瑞尺牍》
-      纸本，行草。
-      纵24厘米，横392.8厘米。
-      墨 
-      来自：中国书法网
-
-      原作为二维平面艺术（书法作品），作者逝世已逾百年，无特殊版权要求。...
+  - title: Lu–Wang Confucianism Historical Sanctuary & Iconography
     imageUrl: /artifacts/lu-wang-confucianism-1.jpg
-  - title: Cosmography in four books Fleuron T107951-13 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Cosmography_in_four_books_Fleuron_T107951-13.png
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lu%E2%80%93Wang_Confucianism'
     provenance: 'Qufu, Shandong, China'
     period: c. 12th century CE
     description: >-
-      Fleuron from book:
-
-      Cosmography in four books. Containing the chorography and history of the
-      whole world: and all the principal kingdoms, provinces, seas, and the
-      isles thereof. By...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Lu–Wang Confucianism.
+  - title: Four Books & Sacred Relics
     imageUrl: /artifacts/lu-wang-confucianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lu%E2%80%93Wang_Confucianism'
+    provenance: 'Qufu, Shandong, China'
+    period: c. 12th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Lu–Wang Confucianism.
 ---
 
 # Lu–Wang Confucianism

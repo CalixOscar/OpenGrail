@@ -40,25 +40,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nihang%20Sikhs'
 artifacts:
-  - title: 'Nihang and Nihangni, by Kehar Singh Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Nihang_and_Nihangni,_by_Kehar_Singh.jpg
-    provenance: 'Amritsar, Punjab, India'
-    period: c. 18th century CE
-    description: >-
-      Nihang and Nihangni (female Nihang). The Nihangni appears to have her hair
-      in top knot (maybe a keski). She wears a salwar and kameez (or possibly
-      ghagra and suthan) and carries a...
+  - title: Nihang Sikhs Historical Sanctuary & Iconography
     imageUrl: /artifacts/nihang-1.jpg
-  - title: Illuminated Guru Granth Sahib manuscript 02 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Illuminated_Guru_Granth_Sahib_manuscript_02.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Nihang_Sikhs'
     provenance: 'Amritsar, Punjab, India'
     period: c. 18th century CE
     description: >-
-      Illuminated Guru Granth Sahib manuscript from the Dr. Gurpal Singh Bhuller
-      collection....
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Nihang Sikhs.
+  - title: Guru Granth Sahib & Sacred Relics
     imageUrl: /artifacts/nihang-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Nihang_Sikhs'
+    provenance: 'Amritsar, Punjab, India'
+    period: c. 18th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Nihang Sikhs.
 ---
 
 # Nihang Sikhs

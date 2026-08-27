@@ -44,20 +44,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Judaism'
     url: 'https://www.cambridge.org/core/search?q=Judaism'
 artifacts:
-  - title: Judaism Historical Sanctuary & Records
+  - title: Judaism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/judaism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1200–500 BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Judaism.
-    imageUrl: /artifacts/judaism-1.jpg
-  - title: Siyum Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Siyum.jpg'
+  - title: Tanakh (Hebrew Bible) & Sacred Relics
+    imageUrl: /artifacts/judaism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1200–500 BCE
-    description: 'end page of w:Mishna...'
-    imageUrl: /artifacts/judaism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Judaism.
 ---
 
 # Judaism

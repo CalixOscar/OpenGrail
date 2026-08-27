@@ -45,26 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Lurianic Kabbalah'
     url: 'https://www.cambridge.org/core/search?q=Lurianic%20Kabbalah'
 artifacts:
-  - title: Dante Gabriel Rossetti - Lady Lilith (Detail) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Lady_Lilith_(Detail).jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1570 CE
-    description: >-
-      Cropped version of File:Dante Gabriel Rossetti - Lady Lilith.jpg showing
-      head, hair, neck, etc.
-
-      of the Rossetti paining completed in 1872...
+  - title: Lurianic Kabbalah Historical Sanctuary & Iconography
     imageUrl: /artifacts/lurianic-kabbalah-1.jpg
-  - title: Lurianic Kabbalah Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Lady_Lilith_(Detail).jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lurianic_Kabbalah'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1570 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Lurianic Kabbalah.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Lurianic Kabbalah.
+  - title: Zohar & Sacred Relics
     imageUrl: /artifacts/lurianic-kabbalah-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lurianic_Kabbalah'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1570 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Lurianic Kabbalah.
 ---
 
 # Lurianic Kabbalah

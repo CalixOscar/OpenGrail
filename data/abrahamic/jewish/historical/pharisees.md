@@ -42,26 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Pharisees'
     url: 'https://www.cambridge.org/core/search?q=Pharisees'
 artifacts:
-  - title: >-
-      Duccio di Buoninsegna - Christ Accused by the Pharisees (detail) -
-      WGA06802 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Duccio_di_Buoninsegna_-_Christ_Accused_by_the_Pharisees_(detail)_-_WGA06802.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 2nd century BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Pharisees.
+  - title: Pharisees Historical Sanctuary & Iconography
     imageUrl: /artifacts/pharisees-1.jpg
-  - title: Pharisees Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Duccio_di_Buoninsegna_-_Christ_Accused_by_the_Pharisees_(detail)_-_WGA06802.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pharisees'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Pharisees.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Pharisees.
+  - title: 'Josephus, Jewish Antiquities & Sacred Relics'
     imageUrl: /artifacts/pharisees-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pharisees'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 2nd century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Pharisees.
 ---
 
 # Pharisees

@@ -42,20 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ash''ari Theology'
     url: 'https://www.cambridge.org/core/search?q=Ash''ari%20Theology'
 artifacts:
-  - title: Monastery Ravanica Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Monastery_Ravanica.JPG'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 10th century CE
-    description: 'Serbian Orthodox monastery of Ravanica, near Ćuprija, Serbia....'
+  - title: Ash'ari Theology Historical Sanctuary & Iconography
     imageUrl: /artifacts/ashari-theology-1.jpg
-  - title: Ash'ari Theology Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Monastery_Ravanica.JPG'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ash''ari_Theology'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 10th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ash'ari Theology.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ash'ari Theology.
+  - title: Kitab al-Luma' & Sacred Relics
     imageUrl: /artifacts/ashari-theology-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ash''ari_Theology'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 10th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ash'ari Theology.
 ---
 
 # Ash'ari Theology

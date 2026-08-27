@@ -43,24 +43,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Thai%20Forest%20Tradition'
 artifacts:
-  - title: Thai Forest Tradition Historical Sanctuary & Records
+  - title: Thai Forest Tradition Historical Sanctuary & Iconography
+    imageUrl: /artifacts/thai-forest-tradition-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Thai_Forest_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1900 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Thai Forest Tradition.
-    imageUrl: /artifacts/thai-forest-tradition-1.jpg
-  - title: Tripiṭaka in Ubosot of Wat Kungtaphao Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Tripi%E1%B9%ADaka_in_Ubosot_of_Wat_Kungtaphao.jpg
+  - title: Pāli Tipiṭaka & Sacred Relics
+    imageUrl: /artifacts/thai-forest-tradition-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Thai_Forest_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 1900 CE
     description: >-
-      Pāli Canon (Tripiṭaka)in Ubosot of Wat Kungtaphao Location: Wat Khung
-      Taphao Ban Khung Taphao, Khung Taphao subdistrict, Mueang Uttaradit,
-      Uttaradit Province, Thailand....
-    imageUrl: /artifacts/thai-forest-tradition-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Thai
+      Forest Tradition.
 ---
 
 # Thai Forest Tradition

@@ -50,21 +50,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Lao%20Buddhism'
 artifacts:
-  - title: Buddha in reclining posture Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddha_in_reclining_posture.jpg'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 14th century CE
-    description: Buddha in Reclining Posture...
+  - title: Lao Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/lao-buddhism-1.jpg
-  - title: Tripitaka Koreana Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tripitaka_Koreana.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lao_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 14th century CE
     description: >-
-      The Tripitaka Koreana (lit. Goryeo Tripitaka) or Palman Daejanggyeong
-      ("Eighty-Thousand Tripitaka") is a Korean collection of the Tripitaka
-      (Buddhist scriptures, and the Sanskrit w...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Lao Buddhism.
+  - title: Pāli Tipiṭaka & Sacred Relics
     imageUrl: /artifacts/lao-buddhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lao_Buddhism'
+    provenance: 'Anuradhapura, North Central, Sri Lanka'
+    period: c. c. 14th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Lao
+      Buddhism.
 ---
 
 # Lao Buddhism

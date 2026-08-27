@@ -49,27 +49,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Sikh%20Dharma%20International%20%2F%203HO
 artifacts:
-  - title: >-
-      RIO ARRIBA COUNTY STRATEGY TO COMBAT HEROIN ADDICTION (IA
-      gov.gpo.fdsys.CHRG-106shrg57116) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:RIO_ARRIBA_COUNTY_STRATEGY_TO_COMBAT_HEROIN_ADDICTION_(IA_gov.gpo.fdsys.CHRG-106shrg57116).pdf
-    provenance: 'Amritsar, Punjab, India'
-    period: c. late 1960s CE
-    description: >-
-      Government Publishing OfficeU.S. CongressSenateCommittee on
-      AppropriationsRIO ARRIBA COUNTY STRATEGY TO COMBAT HEROIN ADDICTIONDate(s)
-      Held: 1999-03-23, 1999-03-30 106th Congress,...
+  - title: Sikh Dharma International / 3HO Historical Sanctuary & Iconography
     imageUrl: /artifacts/sikh-dharma-international-1.jpg
-  - title: Illuminated Guru Granth Sahib manuscript 05 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Illuminated_Guru_Granth_Sahib_manuscript_05.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sikh_Dharma_International_%2F_3HO'
     provenance: 'Amritsar, Punjab, India'
     period: c. late 1960s CE
     description: >-
-      Illuminated Guru Granth Sahib manuscript from the Dr. Gurpal Singh Bhuller
-      collection....
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sikh Dharma International / 3HO.
+  - title: Guru Granth Sahib & Sacred Relics
     imageUrl: /artifacts/sikh-dharma-international-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sikh_Dharma_International_%2F_3HO'
+    provenance: 'Amritsar, Punjab, India'
+    period: c. late 1960s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Sikh
+      Dharma International / 3HO.
 ---
 
 # Sikh Dharma International / 3HO

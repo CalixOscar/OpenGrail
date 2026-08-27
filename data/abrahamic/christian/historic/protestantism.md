@@ -44,26 +44,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Protestantism'
     url: 'https://www.cambridge.org/core/search?q=Protestantism'
 artifacts:
-  - title: Protestantism Historical Sanctuary & Records
+  - title: Protestantism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/protestantism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Protestantism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1517 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Protestantism.
-    imageUrl: /artifacts/protestantism-1.jpg
-  - title: AugsburgConfessionArticle18FreeWill Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:AugsburgConfessionArticle18FreeWill.jpg
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/protestantism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Protestantism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1517 CE
     description: >-
-      Cropped image of the 28 articles of Augsburg Confession by Wenceslas
-      Hollar.
-
-      Illustration of each of the 28 articles of the Augsburg Confession by
-      Wenceslas Hollar....
-    imageUrl: /artifacts/protestantism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Protestantism.
 ---
 
 # Protestantism

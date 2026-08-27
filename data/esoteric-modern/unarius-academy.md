@@ -48,20 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Unarius Academy of Science'
     url: 'https://brill.com/search?q=Unarius%20Academy%20of%20Science'
 artifacts:
-  - title: Unariusmap Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Unariusmap.png'
-    provenance: 'London, England, UK'
-    period: c. 1954 CE
-    description: Map of centres of the Unarius new religious movement worldwide....
+  - title: Unarius Academy of Science Historical Sanctuary & Iconography
     imageUrl: /artifacts/unarius-academy-1.jpg
-  - title: Unarius Academy of Science Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Unariusmap.png'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Unarius_Academy_of_Science'
     provenance: 'London, England, UK'
     period: c. 1954 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Unarius Academy of Science.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Unarius Academy of Science.
+  - title: The Voice of Venus & Sacred Relics
     imageUrl: /artifacts/unarius-academy-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Unarius_Academy_of_Science'
+    provenance: 'London, England, UK'
+    period: c. 1954 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Unarius Academy of Science.
 ---
 
 # Unarius Academy of Science

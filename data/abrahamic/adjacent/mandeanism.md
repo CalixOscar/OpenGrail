@@ -42,22 +42,28 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Mandaeism'
     url: 'https://www.cambridge.org/core/search?q=Mandaeism'
 artifacts:
-  - title: Mandaeism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mandaeism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 2nd–5th centuries CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Mandaeism.
+  - title: >-
+      Bowl with incantation for Buktuya and household, Mandean in Mandaic
+      language and script, Southern Mesopotamia, c. 200-600 AD - Royal Ontario
+      Museum - DSC09714
     imageUrl: /artifacts/mandeanism-1.jpg
-  - title: Mandaeism Canonical Scripture & Iconography
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mandaeism'
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Bowl_with_incantation_for_Buktuya_and_household,_Mandean_in_Mandaic_language_and_script,_Southern_Mesopotamia,_c._200-600_AD_-_Royal_Ontario_Museum_-_DSC09714.JPG
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd–5th centuries CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Mandaeism.
+      Exhibit in the Royal Ontario Museum, Toronto, Ontario, Canada. This
+      exhibit is old enough so that it is in the public domain, and photography
+      was permitted in the museum. I took th...
+  - title: Ginza Rba & Sacred Relics
     imageUrl: /artifacts/mandeanism-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Bowl_with_incantation_for_Buktuya_and_household,_Mandean_in_Mandaic_language_and_script,_Southern_Mesopotamia,_c._200-600_AD_-_Royal_Ontario_Museum_-_DSC09714.JPG
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 2nd–5th centuries CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Mandaeism.
 ---
 
 # Mandaeism

@@ -47,19 +47,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Orthodox%20Bah%C3%A1'%C3%AD%20Faith
 artifacts:
-  - title: 'Exeter Cathedral Lady Chapel, Exeter, UK - Diliff Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Exeter_Cathedral_Lady_Chapel,_Exeter,_UK_-_Diliff.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1960 CE
-    description: The Lady Chapel of Exeter Cathedral....
+  - title: Orthodox Bahá'í Faith Historical Sanctuary & Iconography
     imageUrl: /artifacts/orthodox-bahai-faith-1.jpg
-  - title: Bahá'í holy books Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bah%C3%A1%27%C3%AD_holy_books.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Bah%C3%A1''%C3%AD_Faith'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1960 CE
-    description: 'Covers of the Aqdas, the Iqan and other holy books of the Bahá''í Faith....'
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Orthodox Bahá'í Faith.
+  - title: Kitab-i-Aqdas & Sacred Relics
     imageUrl: /artifacts/orthodox-bahai-faith-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Bah%C3%A1''%C3%AD_Faith'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1960 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Orthodox Bahá'í Faith.
 ---
 
 # Orthodox Bahá'í Faith

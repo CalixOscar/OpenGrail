@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Evangelicalism'
     url: 'https://www.cambridge.org/core/search?q=Evangelicalism'
 artifacts:
-  - title: Evangelicalism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Evangelicalism'
+  - title: AFM Word And Life Boksburg worship
+    imageUrl: /artifacts/evangelicalism-1.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:AFM_Word_And_Life_Boksburg_worship.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1730s CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Evangelicalism.
-    imageUrl: /artifacts/evangelicalism-1.jpg
-  - title: Fundamentals of Transportation Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Fundamentals_of_Transportation.pdf'
+      Worship service at the Word and Life Church in Boksburg, South Africa
+      (AFM)....
+  - title: Auto de Páscoa - IgrejaDaCidade (crop)
+    imageUrl: /artifacts/evangelicalism-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:Auto_de_P%C3%A1scoa_-_IgrejaDaCidade_(crop).jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1730s CE
-    description: |-
-      Fundamentals of Transportation wikibook combined into a single .pdf.
-      Created using Mediawiki2pdf online system by Dash-of-Pepper....
-    imageUrl: /artifacts/evangelicalism-2.jpg
+    description: Auto de Páscoa - Igreja da Cidade...
 ---
 
 # Evangelicalism

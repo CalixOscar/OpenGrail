@@ -46,27 +46,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Chinese%20Folk%20Religion
 artifacts:
-  - title: >-
-      Chinese Folk Religion by country (Pew Research Center) Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Chinese_Folk_Religion_by_country_(Pew_Research_Center).png
-    provenance: 'Qufu, Shandong, China'
-    period: c. ancient
-    description: >-
-      A map showing the followers of Chinese folk religion (or Shenism) by
-      percentage in each country. Note that the Chinese folk religion includes
-      Taoism, so statistics for Taoism are a...
+  - title: Chinese Folk Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/chinese-folk-religion-1.jpg
-  - title: Chinese Folk Religion Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Chinese_Folk_Religion_by_country_(Pew_Research_Center).png
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Folk_Religion'
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Chinese Folk Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Chinese Folk Religion.
+  - title: Temple liturgies and local scriptures & Sacred Relics
     imageUrl: /artifacts/chinese-folk-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Folk_Religion'
+    provenance: 'Qufu, Shandong, China'
+    period: c. ancient
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Chinese Folk Religion.
 ---
 
 # Chinese Folk Religion

@@ -53,20 +53,20 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Gnostic Traditions'
     url: 'https://www.cambridge.org/core/search?q=Gnostic%20Traditions'
 artifacts:
-  - title: Pleroma-Logo Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Pleroma-Logo.png'
+  - title: Codex Tchacos p33
+    imageUrl: /artifacts/gnosticism-1.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Codex_Tchacos_p33.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 100 CE
-    description: 'Logo of Pleroma, an implementation of w:federated social network...'
-    imageUrl: /artifacts/gnosticism-1.jpg
-  - title: Gnostic Traditions Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Pleroma-Logo.png'
+    description: Page from Codex Tchacos....
+  - title: Apocryphon of John & Sacred Relics
+    imageUrl: /artifacts/gnosticism-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Codex_Tchacos_p33.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 100 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Gnostic Traditions.
-    imageUrl: /artifacts/gnosticism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Gnostic Traditions.
 ---
 
 # Gnostic Traditions

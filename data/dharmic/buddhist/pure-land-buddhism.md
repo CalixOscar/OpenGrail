@@ -43,22 +43,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pure%20Land%20Buddhism'
 artifacts:
-  - title: Pure Land Buddhism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pure_Land_Buddhism'
-    provenance: 'Luoyang, Henan, China'
-    period: c. c. 2nd century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Pure Land Buddhism.
+  - title: Pure Land Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/pure-land-buddhism-1.jpg
-  - title: Pure Land Buddhism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Pure_Land_Buddhism'
     provenance: 'Luoyang, Henan, China'
     period: c. c. 2nd century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Pure Land Buddhism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Pure Land Buddhism.
+  - title: Larger Sukhāvatīvyūha Sūtra & Sacred Relics
     imageUrl: /artifacts/pure-land-buddhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pure_Land_Buddhism'
+    provenance: 'Luoyang, Henan, China'
+    period: c. c. 2nd century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Pure
+      Land Buddhism.
 ---
 
 # Pure Land Buddhism

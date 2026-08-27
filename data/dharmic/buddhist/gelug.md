@@ -43,28 +43,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Gelug'
 artifacts:
-  - title: Gelug Historical Sanctuary & Records
+  - title: Gelug Historical Sanctuary & Iconography
+    imageUrl: /artifacts/gelug-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Gelug'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 15th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Gelug.
-    imageUrl: /artifacts/gelug-1.jpg
-  - title: >-
-      Eloquence a virtue; or, Outlines of a systematic rhetoric (IA
-      eloquencevirtueo00ther) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Eloquence_a_virtue;_or,_Outlines_of_a_systematic_rhetoric_(IA_eloquencevirtueo00ther).pdf
+  - title: Tsongkhapa's Great Treatise on the Stages of the Path & Sacred Relics
+    imageUrl: /artifacts/gelug-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Gelug'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 15th century CE
     description: >-
-      A translation of "Die beredsamkeit eine tugend; oder, Grundlinien einer
-      systematischen rhetoric."
-
-
-      Subjects: Eloquence; Oratory...
-    imageUrl: /artifacts/gelug-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Gelug.
 ---
 
 # Gelug

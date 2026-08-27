@@ -43,25 +43,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Therav%C4%81da%20Buddhism'
 artifacts:
-  - title: 'Münster, St.-Paulus-Dom, Altarinsel -- 2019 -- 3815-9 Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_St.-Paulus-Dom,_Altarinsel_--_2019_--_3815-9.jpg
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 3rd century BCE
-    description: >-
-      Altar island in the St Paul’s Cathedral in Münster, North
-      Rhine-Westphalia, GermanySt. Paul’s Cathedral is the cathedral of the
-      Diocese of Münster and is dedicated to St. Paul the...
+  - title: Theravāda Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/theravada-1.jpg
-  - title: Mahajula Tripiṭaka Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mahajula_Tripi%E1%B9%ADaka.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Therav%C4%81da_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 3rd century BCE
     description: >-
-      Pāli Canon (Tripiṭaka)in Ubosot of Wat Kungtaphao Location: Wat Khung
-      Taphao Ban Khung Taphao, Khung Taphao subdistrict, Mueang Uttaradit,
-      Uttaradit Province, Thailand....
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Theravāda Buddhism.
+  - title: Tipiṭaka & Sacred Relics
     imageUrl: /artifacts/theravada-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Therav%C4%81da_Buddhism'
+    provenance: 'Anuradhapura, North Central, Sri Lanka'
+    period: c. c. 3rd century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Theravāda Buddhism.
 ---
 
 # Theravāda Buddhism

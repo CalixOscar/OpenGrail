@@ -42,22 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sakya'
 artifacts:
-  - title: Sakya Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sakya'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 11th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Sakya.
+  - title: Sakya Historical Sanctuary & Iconography
     imageUrl: /artifacts/sakya-1.jpg
-  - title: Sakya Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Sakya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 11th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Sakya.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sakya.
+  - title: Hevajra Tantra & Sacred Relics
     imageUrl: /artifacts/sakya-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sakya'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 11th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Sakya.
 ---
 
 # Sakya

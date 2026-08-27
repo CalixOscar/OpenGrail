@@ -42,26 +42,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Shamanic%20Traditions'
 artifacts:
-  - title: Yupik shaman Nushagak Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Yupik_shaman_Nushagak.jpg'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. ancient practices; modern comparative category
-    description: >-
-      Yup'ik shaman exorcising evil spirits from a sick boy, Nushagak, Alaska,
-      1890s....
+  - title: Shamanic Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/shamanic-traditions-1.jpg
-  - title: >-
-      The traditions of European literature, from Homer to Dante (IA
-      cu31924027096126) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_traditions_of_European_literature,_from_Homer_to_Dante_(IA_cu31924027096126).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shamanic_Traditions'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. ancient practices; modern comparative category
     description: >-
-      The metadata below describe the original scanning. Follow the "All Files:
-      HTTP" link in the "View the book" box to the left to find XML files that
-      contain more metadata about the...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Shamanic Traditions.
+  - title: Community-specific oral traditions & Sacred Relics
     imageUrl: /artifacts/shamanic-traditions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shamanic_Traditions'
+    provenance: 'Ile-Ife, Osun, Nigeria'
+    period: c. ancient practices; modern comparative category
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Shamanic Traditions.
 ---
 
 # Shamanic Traditions

@@ -50,26 +50,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Shabak Religious Tradition'
     url: 'https://brill.com/search?q=Shabak%20Religious%20Tradition'
 artifacts:
-  - title: >-
-      THE GLOBAL CRISIS OF RELIGIOUS FREEDOM (IA
-      gov.gpo.fdsys.CHRG-114hhrg97331) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:THE_GLOBAL_CRISIS_OF_RELIGIOUS_FREEDOM_(IA_gov.gpo.fdsys.CHRG-114hhrg97331).pdf
-    provenance: 'Isfahan, Iran'
-    period: c. c. 16th century CE
-    description: >-
-      Government Publishing OfficeU.S. CongressHouse of RepresentativesCommittee
-      on Foreign AffairsTHE GLOBAL CRISIS OF RELIGIOUS FREEDOMDate(s) Held:
-      2015-10-27 114th Congress, 1st Ses...
+  - title: Shabak Religious Tradition Historical Sanctuary & Iconography
     imageUrl: /artifacts/shabak-tradition-1.jpg
-  - title: Shabak Religious Tradition Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:THE_GLOBAL_CRISIS_OF_RELIGIOUS_FREEDOM_(IA_gov.gpo.fdsys.CHRG-114hhrg97331).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shabak_Religious_Tradition'
     provenance: 'Isfahan, Iran'
     period: c. c. 16th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Shabak Religious Tradition.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Shabak Religious Tradition.
+  - title: Buyruk manuscripts & Sacred Relics
+    imageUrl: /artifacts/shabak-tradition-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shabak_Religious_Tradition'
+    provenance: 'Isfahan, Iran'
+    period: c. c. 16th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Shabak Religious Tradition.
 ---
 
 # Shabak Religious Tradition

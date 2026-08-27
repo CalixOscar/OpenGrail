@@ -45,22 +45,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Jinja%20Shinto'
 artifacts:
-  - title: Jinja Shinto Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jinja_Shinto'
-    provenance: 'Ise Grand Shrine, Mie, Japan'
-    period: c. 1945 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Jinja Shinto.
+  - title: Jinja Shinto Historical Sanctuary & Iconography
     imageUrl: /artifacts/jinja-shinto-1.jpg
-  - title: Jinja Shinto Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Jinja_Shinto'
     provenance: 'Ise Grand Shrine, Mie, Japan'
     period: c. 1945 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Jinja Shinto.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Jinja Shinto.
+  - title: Kojiki & Sacred Relics
     imageUrl: /artifacts/jinja-shinto-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Jinja_Shinto'
+    provenance: 'Ise Grand Shrine, Mie, Japan'
+    period: c. 1945 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Jinja
+      Shinto.
 ---
 
 # Jinja Shinto

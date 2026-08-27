@@ -44,22 +44,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Canaanite Religion'
     url: 'https://brill.com/search?q=Canaanite%20Religion'
 artifacts:
-  - title: Canaanite Religion Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Canaanite_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2000 BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Canaanite Religion.
+  - title: Canaanite Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/canaanite-religion-1.jpg
-  - title: Canaanite Religion Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Canaanite_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2000 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Canaanite Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Canaanite Religion.
+  - title: Ugaritic Baal Cycle & Sacred Relics
     imageUrl: /artifacts/canaanite-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Canaanite_Religion'
+    provenance: 'Babylon, Mesopotamia'
+    period: c. c. 2000 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Canaanite Religion.
 ---
 
 # Canaanite Religion

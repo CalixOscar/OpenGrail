@@ -42,21 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of the East'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20the%20East'
 artifacts:
-  - title: Church of the East Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_the_East'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 2nd century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Church of the East.
+  - title: Church of the East Historical Sanctuary & Iconography
     imageUrl: /artifacts/church-of-the-east-1.jpg
-  - title: Church of the East Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_the_East'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 2nd century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Church of the East.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Church of the East.
+  - title: Peshitta & Sacred Relics
+    imageUrl: /artifacts/church-of-the-east-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_the_East'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 2nd century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Church of the East.
 ---
 
 # Church of the East

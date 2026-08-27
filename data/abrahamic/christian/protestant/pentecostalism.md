@@ -45,20 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Pentecostalism'
     url: 'https://www.cambridge.org/core/search?q=Pentecostalism'
 artifacts:
-  - title: Dream City Church worship2 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dream_City_Church_worship2.jpg'
+  - title: AFM on azusa street
+    imageUrl: /artifacts/pentecostalism-1.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:AFM_on_azusa_street.jpg'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. c. 1901 CE
     description: >-
-      Worship service at Phoenix First Assembly of God, facing the stage (2nd
-      picture)...
-    imageUrl: /artifacts/pentecostalism-1.jpg
-  - title: 031 apostolic faith Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:031_apostolic_faith.gif'
+      The AFM on Azusa Street in 1907.  Image obtained from
+      http://speakingoffaith.publicradio.org/programs/azusarevival/particulars.shtml,
+      and is in the public domain....
+  - title: CCB - Foto histórica em Guaianases
+    imageUrl: /artifacts/pentecostalism-2.jpg
+    sourceUrl: >-
+      https://commons.wikimedia.org/wiki/File:CCB_-_Foto_hist%C3%B3rica_em_Guaianases.jpg
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. c. 1901 CE
-    description: 'Front page of The Apostolic Faith''s first issue, September 1906....'
-    imageUrl: /artifacts/pentecostalism-2.jpg
+    description: Central de Guaianases (1950)...
 ---
 
 # Pentecostalism

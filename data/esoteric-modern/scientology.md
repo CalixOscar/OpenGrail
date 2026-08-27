@@ -42,21 +42,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Scientology'
     url: 'https://brill.com/search?q=Scientology'
 artifacts:
-  - title: Berlin Scientology Church Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Berlin_Scientology_Church.jpg'
-    provenance: 'Azusa Street / Los Angeles, California, USA'
-    period: c. 1950s CE
-    description: '"Church of Scientology": German head office in Berlin...'
+  - title: Scientology Historical Sanctuary & Iconography
     imageUrl: /artifacts/scientology-1.jpg
-  - title: Trudeau-Dianetics Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Trudeau-Dianetics.png'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Scientology'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1950s CE
     description: >-
-      Mention of Dianetics in Kevin Trudeau book. A photocopied page from a book
-      by Kevin Trudeau included in a public court record by the Federal Trade
-      Commission....
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Scientology.
+  - title: Dianetics & Sacred Relics
     imageUrl: /artifacts/scientology-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Scientology'
+    provenance: 'Azusa Street / Los Angeles, California, USA'
+    period: c. 1950s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Scientology.
 ---
 
 # Scientology

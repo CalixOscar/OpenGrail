@@ -46,31 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vai%E1%B9%A3%E1%B9%87avism'
 artifacts:
-  - title: Vishnu Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Vishnu.jpg'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE
-    description: >-
-      Closeup of Vishnu, seated in the lotus position on a lotus. From depiction
-      of the poet Jayadeva bowing to Vishnu, Gouache on paper 
-
-      Pahari,  
-
-
-      The very picture of devotion, bare-bo...
+  - title: Vaiṣṇavism Historical Sanctuary & Iconography
     imageUrl: /artifacts/vaishnavism-1.jpg
-  - title: >-
-      6th Chapter, verse 1, Bhagavad Gita, Sanskrit, Devanagari script Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:6th_Chapter,_verse_1,_Bhagavad_Gita,_Sanskrit,_Devanagari_script.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vai%E1%B9%A3%E1%B9%87avism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century BCE
     description: >-
-      Bhagavad Gita is one of the scriptures of Hinduism, its best known. It has
-      been widely translated in Indian languages as well as numerous non-Indian
-      languages. Over 200 translation...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Vaiṣṇavism.
+  - title: Bhagavad Gītā & Sacred Relics
     imageUrl: /artifacts/vaishnavism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vai%E1%B9%A3%E1%B9%87avism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Vaiṣṇavism.
 ---
 
 # Vaiṣṇavism

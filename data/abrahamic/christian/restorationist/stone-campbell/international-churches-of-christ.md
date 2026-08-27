@@ -45,23 +45,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=International%20Churches%20of%20Christ
 artifacts:
-  - title: International Churches of Christ Historical Sanctuary & Records
+  - title: International Churches of Christ Historical Sanctuary & Iconography
+    imageUrl: /artifacts/international-churches-of-christ-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/International_Churches_of_Christ'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1979 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with International Churches of Christ.
-    imageUrl: /artifacts/international-churches-of-christ-1.jpg
-  - title: Unity and Rome (IA unityrome01midd) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Unity_and_Rome_(IA_unityrome01midd).pdf
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/international-churches-of-christ-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/International_Churches_of_Christ'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1979 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of International Churches of Christ.
-    imageUrl: /artifacts/international-churches-of-christ-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      International Churches of Christ.
 ---
 
 # International Churches of Christ

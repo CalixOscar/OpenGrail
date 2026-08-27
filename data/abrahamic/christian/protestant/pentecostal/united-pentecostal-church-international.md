@@ -47,23 +47,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=United%20Pentecostal%20Church%20International
 artifacts:
-  - title: United Pentecostal Church International Historical Sanctuary & Records
+  - title: United Pentecostal Church International Historical Sanctuary & Iconography
+    imageUrl: /artifacts/united-pentecostal-church-international-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/United_Pentecostal_Church_International'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1945 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with United Pentecostal Church International.
-    imageUrl: /artifacts/united-pentecostal-church-international-1.jpg
-  - title: Dictionary of the Apostolic Church Volume 2 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Dictionary_of_the_Apostolic_Church_Volume_2.pdf
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/united-pentecostal-church-international-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/United_Pentecostal_Church_International'
     provenance: 'Azusa Street / Los Angeles, California, USA'
     period: c. 1945 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of United Pentecostal Church International.
-    imageUrl: /artifacts/united-pentecostal-church-international-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      United Pentecostal Church International.
 ---
 
 # United Pentecostal Church International

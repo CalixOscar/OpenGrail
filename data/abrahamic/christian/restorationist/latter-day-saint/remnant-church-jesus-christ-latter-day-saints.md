@@ -53,26 +53,24 @@ sources:
 artifacts:
   - title: >-
       Remnant Church of Jesus Christ of Latter Day Saints Historical Sanctuary &
-      Records
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/Remnant_Church_of_Jesus_Christ_of_Latter_Day_Saints
-    provenance: 'Salt Lake City (Temple Square), Utah, USA'
-    period: c. 2000 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Remnant Church of Jesus Christ of Latter Day Saints.
-    imageUrl: /artifacts/remnant-church-jesus-christ-latter-day-saints-1.jpg
-  - title: >-
-      Remnant Church of Jesus Christ of Latter Day Saints Canonical Scripture &
       Iconography
+    imageUrl: /artifacts/remnant-church-jesus-christ-latter-day-saints-1.jpg
     sourceUrl: >-
       https://en.wikipedia.org/wiki/Remnant_Church_of_Jesus_Christ_of_Latter_Day_Saints
     provenance: 'Salt Lake City (Temple Square), Utah, USA'
     period: c. 2000 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Remnant Church of Jesus Christ of Latter Day Saints.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Remnant Church of Jesus Christ of Latter Day Saints.
+  - title: Inspired Version of the Bible & Sacred Relics
     imageUrl: /artifacts/remnant-church-jesus-christ-latter-day-saints-2.jpg
+    sourceUrl: >-
+      https://en.wikipedia.org/wiki/Remnant_Church_of_Jesus_Christ_of_Latter_Day_Saints
+    provenance: 'Salt Lake City (Temple Square), Utah, USA'
+    period: c. 2000 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Remnant Church of Jesus Christ of Latter Day Saints.
 ---
 
 # Remnant Church of Jesus Christ of Latter Day Saints

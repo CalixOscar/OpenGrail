@@ -43,26 +43,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Digambara%20Jainism'
 artifacts:
-  - title: >-
-      'Digambara Yaksha Sarvahna' from Karnataka, India, c. 900, Norton Simon
-      Museum Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%27Digambara_Yaksha_Sarvahna%27_from_Karnataka,_India,_c._900,_Norton_Simon_Museum.JPG
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. c. 1st century CE
-    description: >-
-      Digambara Yaksha Sarvahna from Karnataka, India, c. 900 CE, schist, Norton
-      Simon Museum...
+  - title: Digambara Jainism Historical Sanctuary & Iconography
     imageUrl: /artifacts/digambara-1.jpg
-  - title: Digambara Jainism Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%27Digambara_Yaksha_Sarvahna%27_from_Karnataka,_India,_c._900,_Norton_Simon_Museum.JPG
+    sourceUrl: 'https://en.wikipedia.org/wiki/Digambara_Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. c. 1st century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Digambara Jainism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Digambara Jainism.
+  - title: Ṣaṭkhaṇḍāgama & Sacred Relics
     imageUrl: /artifacts/digambara-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Digambara_Jainism'
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. c. 1st century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Digambara Jainism.
 ---
 
 # Digambara Jainism

@@ -49,23 +49,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Korean%20Confucian%20Traditions
 artifacts:
-  - title: Portrait of Han Wonjin Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Portrait_of_Han_Wonjin.jpg'
+  - title: Korean Confucian Traditions Historical Sanctuary & Iconography
+    imageUrl: /artifacts/korean-confucianism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Confucian_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 4th century CE
     description: >-
-      Portrait of Han Wonjin, Chungcheongbuk-do Tangible Cultural Property No.
-      334...
-    imageUrl: /artifacts/korean-confucianism-1.jpg
-  - title: >-
-      The teaching of reading- a manual to accompany Everyday classics, books
-      seven and eight (IA teachingofreadin00bake) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_teaching_of_reading-_a_manual_to_accompany_Everyday_classics,_books_seven_and_eight_(IA_teachingofreadin00bake).pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Korean Confucian Traditions.
+  - title: Four Books and Five Classics & Sacred Relics
+    imageUrl: /artifacts/korean-confucianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Confucian_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 4th century CE
-    description: 'Subjects: Reading (Elementary)...'
-    imageUrl: /artifacts/korean-confucianism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Korean Confucian Traditions.
 ---
 
 # Korean Confucian Traditions

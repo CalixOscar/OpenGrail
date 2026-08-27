@@ -45,23 +45,22 @@ sources:
       Shiism
     url: 'https://www.cambridge.org/core/search?q=Akhbari%20Twelver%20Shiism'
 artifacts:
-  - title: Akhbari Twelver Shiism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Akhbari_Twelver_Shiism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 17th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Akhbari Twelver Shiism.
+  - title: Birmingham mushaf Bismillah
     imageUrl: /artifacts/akhbari-twelver-shia-1.jpg
-  - title: Birmingham Quran manuscript Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Birmingham_Quran_manuscript.jpg'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Birmingham_mushaf_Bismillah.png'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 17th century CE
     description: >-
-      Seventh-century Quran manuscript held by the University of Birmingham.
-      Folio 2 recto (left) and folio 1 verso (right). Folio 2 (left) from the
-      end of Chapter 19 to the beginning of...
+      Edited version of folio 2 recto of the Birmingham manuscript, all
+      ornamentations and words unrelated to the bismillah were edited out....
+  - title: Quran & Sacred Relics
     imageUrl: /artifacts/akhbari-twelver-shia-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Birmingham_mushaf_Bismillah.png'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 17th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Akhbari Twelver Shiism.
 ---
 
 # Akhbari Twelver Shiism

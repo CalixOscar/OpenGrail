@@ -46,22 +46,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Aetherius Society'
     url: 'https://brill.com/search?q=Aetherius%20Society'
 artifacts:
-  - title: Aetherius Society Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Aetherius_Society'
-    provenance: 'London, England, UK'
-    period: c. 1955 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Aetherius Society.
+  - title: Aetherius Society Historical Sanctuary & Iconography
     imageUrl: /artifacts/aetherius-society-1.jpg
-  - title: Aetherius Society Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Aetherius_Society'
     provenance: 'London, England, UK'
     period: c. 1955 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Aetherius Society.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Aetherius Society.
+  - title: The Twelve Blessings & Sacred Relics
     imageUrl: /artifacts/aetherius-society-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Aetherius_Society'
+    provenance: 'London, England, UK'
+    period: c. 1955 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Aetherius Society.
 ---
 
 # Aetherius Society

@@ -50,31 +50,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Vietnamese%20Confucian%20Traditions
 artifacts:
-  - title: >-
-      Your health is golden heart health promotion activities for Vietnamese
-      communities (IA CAT31311113) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Your_health_is_golden_heart_health_promotion_activities_for_Vietnamese_communities_(IA_CAT31311113).pdf
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 1st century CE
-    description: >-
-      Subjects: Heart Diseases United States Prevention; Vietnamese Americans
-      Health and hygiene...
+  - title: Vietnamese Confucian Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/vietnamese-confucianism-1.jpg
-  - title: >-
-      The Chinese classics (IA chineseclassics00confiala) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Chinese_classics_(IA_chineseclassics00confiala).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vietnamese_Confucian_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 1st century CE
     description: >-
-      pt. l. Confucius. Analects. Great learning. Doctrine of the mean.--pt. 2.
-      Works of Mencius
-
-
-      Subjects: Chinese literature; English literature...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Vietnamese Confucian Traditions.
+  - title: Four Books and Five Classics & Sacred Relics
     imageUrl: /artifacts/vietnamese-confucianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Vietnamese_Confucian_Traditions'
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 1st century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Vietnamese Confucian Traditions.
 ---
 
 # Vietnamese Confucian Traditions

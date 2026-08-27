@@ -45,21 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Eastern Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Eastern%20Orthodoxy'
 artifacts:
-  - title: Eastern Orthodoxy Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Eastern_Orthodoxy'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1st century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Eastern Orthodoxy.
+  - title: Eastern Orthodoxy Historical Sanctuary & Iconography
     imageUrl: /artifacts/eastern-orthodoxy-1.jpg
-  - title: Eastern Orthodoxy Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Eastern_Orthodoxy'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 1st century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Eastern Orthodoxy.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Eastern Orthodoxy.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/eastern-orthodoxy-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Eastern_Orthodoxy'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 1st century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Eastern Orthodoxy.
 ---
 
 # Eastern Orthodoxy

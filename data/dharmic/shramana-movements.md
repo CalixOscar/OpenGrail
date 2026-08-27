@@ -54,26 +54,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Arama%E1%B9%87a%20Movements
 artifacts:
-  - title: >-
-      The Indian saint, or, Buddha and Buddhism - a sketch, historical and
-      critical (IA indiansaintorbud00mill) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Indian_saint,_or,_Buddha_and_Buddhism_-_a_sketch,_historical_and_critical_(IA_indiansaintorbud00mill).pdf
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century BCE
-    description: |-
-      Includes index
-
-      Subjects: Buddhism...
+  - title: Śramaṇa Movements Historical Sanctuary & Iconography
     imageUrl: /artifacts/shramana-movements-1.jpg
-  - title: Rana clamitans MN Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Rana_clamitans_MN.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a_Movements'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century BCE
     description: >-
-      Female Green frog (Rana clamitans melanota) at Réserve naturelle des
-      Marais-du-Nord, Quebec, Canada....
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Śramaṇa Movements.
+  - title: Early Buddhist Nikāyas and Āgamas & Sacred Relics
     imageUrl: /artifacts/shramana-movements-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a_Movements'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 6th century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Śramaṇa Movements.
 ---
 
 # Śramaṇa Movements

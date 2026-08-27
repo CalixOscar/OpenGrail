@@ -49,28 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Enki–Ea'
     url: 'https://brill.com/search?q=Cult%20of%20Enki%E2%80%93Ea'
 artifacts:
-  - title: >-
-      God Ea (Sumerian Enki), flanked by fish-cloaked apkallus, part of a basalt
-      water basin from Assur, Iraq. Reign of Sennacherib, 7th century BCE.
-      Pergamon Museum Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:God_Ea_(Sumerian_Enki),_flanked_by_fish-cloaked_apkallus,_part_of_a_basalt_water_basin_from_Assur,_Iraq._Reign_of_Sennacherib,_7th_century_BCE._Pergamon_Museum.jpg
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3000 BCE
-    description: >-
-      Detail; water god Ea (Sumerian Enki), flanked by priests wearing fish
-      cloaks, water basin from Assur. When discovered, this water basin was
-      completely shattered. It was cut origina...
+  - title: Cult of Enki–Ea Historical Sanctuary & Iconography
     imageUrl: /artifacts/enki-ea-cult-1.jpg
-  - title: Cult of Enki–Ea Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:God_Ea_(Sumerian_Enki),_flanked_by_fish-cloaked_apkallus,_part_of_a_basalt_water_basin_from_Assur,_Iraq._Reign_of_Sennacherib,_7th_century_BCE._Pergamon_Museum.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Enki%E2%80%93Ea'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3000 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cult of Enki–Ea.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cult of Enki–Ea.
+  - title: Enki and the World Order & Sacred Relics
     imageUrl: /artifacts/enki-ea-cult-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Enki%E2%80%93Ea'
+    provenance: 'Babylon, Mesopotamia'
+    period: c. c. 3000 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
+      of Enki–Ea.
 ---
 
 # Cult of Enki–Ea

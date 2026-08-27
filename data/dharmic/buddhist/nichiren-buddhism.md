@@ -46,22 +46,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nichiren%20Buddhism'
 artifacts:
-  - title: Nichiren Buddhism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nichiren_Buddhism'
-    provenance: 'Kamakura, Kanagawa, Japan'
-    period: c. 13th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Nichiren Buddhism.
+  - title: Nichiren Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/nichiren-buddhism-1.jpg
-  - title: Nichiren Buddhism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Nichiren_Buddhism'
     provenance: 'Kamakura, Kanagawa, Japan'
     period: c. 13th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Nichiren Buddhism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Nichiren Buddhism.
+  - title: Lotus Sūtra & Sacred Relics
     imageUrl: /artifacts/nichiren-buddhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Nichiren_Buddhism'
+    provenance: 'Kamakura, Kanagawa, Japan'
+    period: c. 13th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Nichiren Buddhism.
 ---
 
 # Nichiren Buddhism

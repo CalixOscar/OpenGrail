@@ -51,29 +51,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Pur%C3%A9pecha%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      The history of ancient Mexico - from the foundation of that empire to its
-      destruction by the Spaniards (IA ancientmexicofro02gord) Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_history_of_ancient_Mexico_-_from_the_foundation_of_that_empire_to_its_destruction_by_the_Spaniards_(IA_ancientmexicofro02gord).pdf
-    provenance: 'Tzintzuntzan, Lake Pátzcuaro, Michoacán'
-    period: c. precolonial
-    description: |-
-      Chiefly drawn from the History of Mexico, by F.X. Clavigero. cf. Pref
-      Contains numerous lithographed plates
-      Some plates in library's copy are hand-colored
-      Subjects: Indians of Mex...
+  - title: Purépecha Religious Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/purepecha-religion-1.jpg
-  - title: Purépecha Religious Traditions Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_history_of_ancient_Mexico_-_from_the_foundation_of_that_empire_to_its_destruction_by_the_Spaniards_(IA_ancientmexicofro02gord).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pur%C3%A9pecha_Religious_Traditions'
     provenance: 'Tzintzuntzan, Lake Pátzcuaro, Michoacán'
     period: c. precolonial
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Purépecha Religious Traditions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Purépecha Religious Traditions.
+  - title: Relación de Michoacán & Sacred Relics
     imageUrl: /artifacts/purepecha-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pur%C3%A9pecha_Religious_Traditions'
+    provenance: 'Tzintzuntzan, Lake Pátzcuaro, Michoacán'
+    period: c. precolonial
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Purépecha Religious Traditions.
 ---
 
 # Purépecha Religious Traditions

@@ -46,21 +46,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Gbe%20Vodun%20Traditions'
 artifacts:
-  - title: Vodun Voodoo Shrine - Abomey - Benin - 01 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Vodun_Voodoo_Shrine_-_Abomey_-_Benin_-_01.jpg
-    provenance: 'Ouidah, Kingdom of Dahomey, Benin'
-    period: c. precolonial
-    description: Vodun  Voodoo  Shrine - Abomey - Benin - 01...
+  - title: Gbe Vodun Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/gbe-vodun-1.jpg
-  - title: Gbe Vodun Traditions Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Vodun_Voodoo_Shrine_-_Abomey_-_Benin_-_01.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Gbe_Vodun_Traditions'
     provenance: 'Ouidah, Kingdom of Dahomey, Benin'
     period: c. precolonial
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Gbe Vodun Traditions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Gbe Vodun Traditions.
+  - title: Fon and Ewe oral traditions & Sacred Relics
+    imageUrl: /artifacts/gbe-vodun-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Gbe_Vodun_Traditions'
+    provenance: 'Ouidah, Kingdom of Dahomey, Benin'
+    period: c. precolonial
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Gbe
+      Vodun Traditions.
 ---
 
 # Gbe Vodun Traditions

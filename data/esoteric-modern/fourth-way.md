@@ -46,25 +46,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: The Fourth Way'
     url: 'https://brill.com/search?q=The%20Fourth%20Way'
 artifacts:
-  - title: 'Gyumri, lugar donde vivió Gurdjieff (barrio griego) Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Gyumri,_lugar_donde_vivi%C3%B3_Gurdjieff_(barrio_griego).JPG
-    provenance: 'London, England, UK'
-    period: c. early 20th century CE
-    description: 'Gyumri, lugar donde nació Gurdjieff (Jorge Sanchez)...'
+  - title: The Fourth Way Historical Sanctuary & Iconography
     imageUrl: /artifacts/fourth-way-1.jpg
-  - title: Georges Gurdjieff Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Georges_Gurdjieff.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/The_Fourth_Way'
     provenance: 'London, England, UK'
     period: c. early 20th century CE
-    description: |-
-      Georges Gurdjieff, head-and-shoulders portrait, facing front
-      CALL NUMBER:LOT 13259, v. 21 no. 88c [P&amp;P]
-      DIGITAL ID:(b&amp;w film copy neg.) cph 3e02223
-      CARD #:95510885
-
-      REPRODU...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with The Fourth Way.
+  - title: All and Everything & Sacred Relics
     imageUrl: /artifacts/fourth-way-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/The_Fourth_Way'
+    provenance: 'London, England, UK'
+    period: c. early 20th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of The
+      Fourth Way.
 ---
 
 # The Fourth Way

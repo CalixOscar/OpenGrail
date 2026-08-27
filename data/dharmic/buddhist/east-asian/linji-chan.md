@@ -43,24 +43,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Linji%20Chan'
 artifacts:
-  - title: >-
-      Huguo Chan Buddhist Temple of The Linji School 20140717 Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Huguo_Chan_Buddhist_Temple_of_The_Linji_School_20140717.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 9th century CE
-    description: ​臺北市中山區臨濟護國禪寺，無住生心石碑與于右任題字牌樓。...
+  - title: Linji Chan Historical Sanctuary & Iconography
     imageUrl: /artifacts/linji-chan-1.jpg
-  - title: Linji Chan Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Huguo_Chan_Buddhist_Temple_of_The_Linji_School_20140717.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Linji_Chan'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 9th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Linji Chan.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Linji Chan.
+  - title: Record of Linji & Sacred Relics
     imageUrl: /artifacts/linji-chan-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Linji_Chan'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 9th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Linji
+      Chan.
 ---
 
 # Linji Chan

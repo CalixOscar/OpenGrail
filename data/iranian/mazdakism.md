@@ -43,28 +43,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Mazdakism'
     url: 'https://brill.com/search?q=Mazdakism'
 artifacts:
-  - title: Mazdakism Historical Sanctuary & Records
+  - title: Mazdakism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/mazdakism-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Mazdakism'
     provenance: 'Isfahan, Iran'
     period: c. late 5th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Mazdakism.
-    imageUrl: /artifacts/mazdakism-1.jpg
-  - title: >-
-      Symbolae physicae, volume 2 (IA SymbolaephysicaMammEhreA) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Symbolae_physicae,_volume_2_(IA_SymbolaephysicaMammEhreA).pdf
+  - title: Middle Persian testimonia & Sacred Relics
+    imageUrl: /artifacts/mazdakism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mazdakism'
     provenance: 'Isfahan, Iran'
     period: c. late 5th century CE
     description: >-
-      statement of responsibility: regis iussu et impensis publico usui obtulit
-      superstes C.G. Ehrenberg
-
-      The naturalists Ehrenberg and Hemprich collected their specimens of the
-      fauna an...
-    imageUrl: /artifacts/mazdakism-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Mazdakism.
 ---
 
 # Mazdakism

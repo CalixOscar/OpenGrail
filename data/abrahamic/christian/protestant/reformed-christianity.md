@@ -44,21 +44,20 @@ sources:
       Christianity
     url: 'https://www.cambridge.org/core/search?q=Reformed%20Christianity'
 artifacts:
-  - title: Reformed Christianity Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Reformed_Christianity'
-    provenance: 'Geneva, Switzerland'
-    period: c. 1520s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Reformed Christianity.
+  - title: Abraham Kuyper 1905 (1)
     imageUrl: /artifacts/reformed-christianity-1.jpg
-  - title: Reformed Christianity Canonical Scripture & Iconography
-    sourceUrl: 'https://en.wikipedia.org/wiki/Reformed_Christianity'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Abraham_Kuyper_1905_(1).jpg'
+    provenance: 'Geneva, Switzerland'
+    period: c. 1520s CE
+    description: Abraham Kuyper - Voorzitter van de Ministerraad (1901-1905)...
+  - title: Geneva Cathedral
+    imageUrl: /artifacts/reformed-christianity-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Geneva_Cathedral.jpg'
     provenance: 'Geneva, Switzerland'
     period: c. 1520s CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Reformed Christianity.
+      Cathedral St.-Pierre in Geneva.  Taken Sept 30 2005. -- SCZenz 07:00, 3
+      October 2005 (UTC)...
 ---
 
 # Reformed Christianity

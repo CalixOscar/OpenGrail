@@ -42,27 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=B%C4%ABsapantha'
 artifacts:
-  - title: >-
-      Iglesia de San Francisco, Quito, Ecuador, 2015-07-22, DD 217-219 HDR
-      Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Francisco,_Quito,_Ecuador,_2015-07-22,_DD_217-219_HDR.JPG
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. early modern period
-    description: >-
-      Exterior view of the church and Monastery of St. Francis, Quito, Ecuador.
-      The Roman Catholic temple, completed in the 16th century, is the largest
-      architectural ensemble among the...
+  - title: Bīsapantha Historical Sanctuary & Iconography
     imageUrl: /artifacts/bisapantha-1.jpg
-  - title: Bīsapantha Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Francisco,_Quito,_Ecuador,_2015-07-22,_DD_217-219_HDR.JPG
+    sourceUrl: 'https://en.wikipedia.org/wiki/B%C4%ABsapantha'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. early modern period
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Bīsapantha.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Bīsapantha.
+  - title: Digambara ritual manuals & Sacred Relics
     imageUrl: /artifacts/bisapantha-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/B%C4%ABsapantha'
+    provenance: 'Pataliputra (Patna), Bihar, India'
+    period: c. early modern period
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Bīsapantha.
 ---
 
 # Bīsapantha

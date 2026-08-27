@@ -48,26 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Heaven''s Gate'
     url: 'https://brill.com/search?q=Heaven''s%20Gate'
 artifacts:
-  - title: HeavensGateRecruitmentMeetingFlyer (cropped) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:HeavensGateRecruitmentMeetingFlyer_(cropped).jpg
-    provenance: 'London, England, UK'
-    period: c. 1970s CE
-    description: >-
-      This flyer was distributed in Berkeley, CA in May, 1993 for a recruitment
-      meeting by Heaven's Gate recruiters....
+  - title: Heaven's Gate Historical Sanctuary & Iconography
     imageUrl: /artifacts/heavens-gate-1.jpg
-  - title: >-
-      Heaven's Gate member lays on a bed in Rancho Santa Fe Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Heaven%27s_Gate_member_lays_on_a_bed_in_Rancho_Santa_Fe.png
+    sourceUrl: 'https://en.wikipedia.org/wiki/Heaven''s_Gate'
     provenance: 'London, England, UK'
     period: c. 1970s CE
     description: >-
-      Heaven's Gate member lays on a bed in Rancho Santa Fe after the 1997 mass
-      suicide...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Heaven's Gate.
+  - title: Heaven's Gate website and exit statements & Sacred Relics
     imageUrl: /artifacts/heavens-gate-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Heaven''s_Gate'
+    provenance: 'London, England, UK'
+    period: c. 1970s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Heaven's Gate.
 ---
 
 # Heaven's Gate

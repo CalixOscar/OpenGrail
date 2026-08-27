@@ -48,29 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Marduk'
     url: 'https://brill.com/search?q=Cult%20of%20Marduk'
 artifacts:
-  - title: >-
-      The laws of Moses and the Code of Hammurabi (IA
-      lawsofmosescodeo00cookrich) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_laws_of_Moses_and_the_Code_of_Hammurabi_(IA_lawsofmosescodeo00cookrich).pdf
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2000 BCE
-    description: >-
-      "List of principal authorities and abbreviations": p. xvii-xviii
-
-
-      Subjects: Hammurabi, King of Babylonia; Law -- Iraq Babylonia; Jewish law;
-      Assyro-Babylonian literature -- Relati...
+  - title: Cult of Marduk Historical Sanctuary & Iconography
     imageUrl: /artifacts/marduk-cult-1.jpg
-  - title: Cult of Marduk Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_laws_of_Moses_and_the_Code_of_Hammurabi_(IA_lawsofmosescodeo00cookrich).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Marduk'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 2000 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cult of Marduk.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cult of Marduk.
+  - title: Enūma Eliš & Sacred Relics
     imageUrl: /artifacts/marduk-cult-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Marduk'
+    provenance: 'Babylon, Mesopotamia'
+    period: c. c. 2000 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
+      of Marduk.
 ---
 
 # Cult of Marduk

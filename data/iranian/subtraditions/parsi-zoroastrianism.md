@@ -49,24 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Parsi Zoroastrianism'
     url: 'https://brill.com/search?q=Parsi%20Zoroastrianism'
 artifacts:
-  - title: Parsi wedding portrait with Dastur MN Dhalla Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Parsi_wedding_portrait_with_Dastur_MN_Dhalla.jpg
-    provenance: 'Isfahan, Iran'
-    period: c. c. 8th–10th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Parsi Zoroastrianism.
+  - title: Parsi Zoroastrianism Historical Sanctuary & Iconography
     imageUrl: /artifacts/parsi-zoroastrianism-1.jpg
-  - title: Erinaceus europaeus in Avesta 04 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Erinaceus_europaeus_in_Avesta_04.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Parsi_Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. c. 8th–10th century CE
     description: >-
-      European hedgehog (Erinaceus europaeus). Avesta, Sweden. 1997 Opel Vectra
-      in background....
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Parsi Zoroastrianism.
+  - title: Avesta & Sacred Relics
     imageUrl: /artifacts/parsi-zoroastrianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Parsi_Zoroastrianism'
+    provenance: 'Isfahan, Iran'
+    period: c. c. 8th–10th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Parsi
+      Zoroastrianism.
 ---
 
 # Parsi Zoroastrianism

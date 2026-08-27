@@ -45,20 +45,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shugend%C5%8D'
 artifacts:
-  - title: Shugendō Historical Sanctuary & Records
+  - title: Shugendō Historical Sanctuary & Iconography
+    imageUrl: /artifacts/shugendo-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Shugend%C5%8D'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Shugendō.
-    imageUrl: /artifacts/shugendo-1.jpg
-  - title: Gyoja-gaeshi Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Gyoja-gaeshi.JPG'
+  - title: Shugendō ritual manuals & Sacred Relics
+    imageUrl: /artifacts/shugendo-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shugend%C5%8D'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE
-    description: 'In the legend, En no Gyōja was returned by this mountain god from here....'
-    imageUrl: /artifacts/shugendo-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Shugendō.
 ---
 
 # Shugendō

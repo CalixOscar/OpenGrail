@@ -50,27 +50,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Humanistic%20Buddhism'
 artifacts:
-  - title: Fo Guang Shan Monastery 13 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Fo_Guang_Shan_Monastery_13.jpg'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 20th century CE
-    description: >-
-      Buddha statues inside the main sanctuary of Fo Guang Shan Monastery,
-      Taiwan...
+  - title: Humanistic Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/humanistic-buddhism-1.jpg
-  - title: >-
-      A syllabic dictionary of the Chinese language - arranged according to the
-      Wu-Fang Yuen Yin, with the pronounciation of the characters as heard in
-      Peking, Canton, Amoy, and Shanghai (IA chinesediction00willrich) Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_syllabic_dictionary_of_the_Chinese_language_-_arranged_according_to_the_Wu-Fang_Yuen_Yin,_with_the_pronounciation_of_the_characters_as_heard_in_Peking,_Canton,_Amoy,_and_Shanghai_(IA_chinesediction00willrich).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Humanistic_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 20th century CE
     description: >-
-      Subjects: Chinese language -- Dictionaries English; English language --
-      Dictionaries Chinese...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Humanistic Buddhism.
+  - title: Humanistic Buddhism writings of Taixu & Sacred Relics
     imageUrl: /artifacts/humanistic-buddhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Humanistic_Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 20th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Humanistic Buddhism.
 ---
 
 # Humanistic Buddhism

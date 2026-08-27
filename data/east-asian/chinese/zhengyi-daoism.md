@@ -40,23 +40,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Zhengyi%20Daoism'
 artifacts:
-  - title: 張道陵 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:%E5%BC%B5%E9%81%93%E9%99%B5.jpg'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 2nd century CE; later Zhengyi formation
-    description: >-
-      Zhang Daoling （張道陵), also commonly called Zhang Ling, was an Eastern Han
-      dynasty (2nd Century CE) Taoist hermit who founded the Zhengyi Mengwei
-      Tianshi Dao．This portraiture was car...
+  - title: Zhengyi Daoism Historical Sanctuary & Iconography
     imageUrl: /artifacts/zhengyi-daoism-1.jpg
-  - title: Zhengyi Daoism Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:%E5%BC%B5%E9%81%93%E9%99%B5.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Zhengyi_Daoism'
     provenance: 'Qufu, Shandong, China'
     period: c. 2nd century CE; later Zhengyi formation
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Zhengyi Daoism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Zhengyi Daoism.
+  - title: Celestial Masters covenant texts & Sacred Relics
     imageUrl: /artifacts/zhengyi-daoism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Zhengyi_Daoism'
+    provenance: 'Qufu, Shandong, China'
+    period: c. 2nd century CE; later Zhengyi formation
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Zhengyi Daoism.
 ---
 
 # Zhengyi Daoism

@@ -42,33 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Tiantai%20Buddhism'
 artifacts:
-  - title: 'Guoqing Temple, 2014-12-27 23 Historical Sanctuary'
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Guoqing_Temple,_2014-12-27_23.JPG'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 6th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Tiantai Buddhism.
+  - title: Tiantai Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/tiantai-1.jpg
-  - title: 法華経要品訓読 目次 Lotus Sutra Digest Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%E6%B3%95%E8%8F%AF%E7%B5%8C%E8%A6%81%E5%93%81%E8%A8%93%E8%AA%AD_%E7%9B%AE%E6%AC%A1_Lotus_Sutra_Digest.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Tiantai_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 6th century CE
     description: >-
-      『(改正略解)法華経要品訓読』明治20年9月20日御届/同21年6月再版/同37年9月譲受、元版人・須原屋茂兵衛、譲受発行人・鈴木荘次郎、印刷人・三功舎　鈴木耕太郎。
-
-
-
-      Public domainPublic domainfalsefalse
-
-
-
-
-
-
-      I, the copyright holder of this work, release this w...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Tiantai Buddhism.
+  - title: Lotus Sūtra & Sacred Relics
     imageUrl: /artifacts/tiantai-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Tiantai_Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 6th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Tiantai Buddhism.
 ---
 
 # Tiantai Buddhism

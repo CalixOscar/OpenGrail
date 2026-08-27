@@ -49,27 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Pastafarianism'
     url: 'https://brill.com/search?q=Pastafarianism'
 artifacts:
-  - title: Flying Spaghetti Monster (yarncraft) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Flying_Spaghetti_Monster_(yarncraft).jpg
-    provenance: 'London, England, UK'
-    period: c. 2005 CE
-    description: A sewn Flying Spaghetti Monster craft....
+  - title: Pastafarianism Historical Sanctuary & Iconography
     imageUrl: /artifacts/pastafarianism-1.jpg
-  - title: >-
-      Catalog of Copyright Entries 1942 Books New Series Vol 39 Pt 1 For the
-      Year 1942 (IA catalogofcopyrig391li) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Catalog_of_Copyright_Entries_1942_Books_New_Series_Vol_39_Pt_1_For_the_Year_1942_(IA_catalogofcopyrig391li).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pastafarianism'
     provenance: 'London, England, UK'
     period: c. 2005 CE
     description: >-
-      :Title: Catalog of Copyright Entries 1942 Books New Series Vol 39 Pt 1 For
-      the Year 1942
-
-      Description: The Catalogs of Copyright Entries (CCEs) are published
-      compilations of copyri...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Pastafarianism.
+  - title: Bobby Henderson's Kansas school-board letter & Sacred Relics
     imageUrl: /artifacts/pastafarianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Pastafarianism'
+    provenance: 'London, England, UK'
+    period: c. 2005 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Pastafarianism.
 ---
 
 # Pastafarianism

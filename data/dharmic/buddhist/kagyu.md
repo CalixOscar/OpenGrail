@@ -43,22 +43,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Kagyu'
 artifacts:
-  - title: Kagyu Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Kagyu'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 11th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Kagyu.
+  - title: Kagyu Historical Sanctuary & Iconography
     imageUrl: /artifacts/kagyu-1.jpg
-  - title: Kagyu Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Kagyu'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. 11th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Kagyu.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Kagyu.
+  - title: Life of Milarepa & Sacred Relics
     imageUrl: /artifacts/kagyu-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Kagyu'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. 11th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Kagyu.
 ---
 
 # Kagyu

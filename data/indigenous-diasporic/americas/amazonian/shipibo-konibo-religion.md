@@ -51,20 +51,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Shipibo-Konibo%20Religious%20Traditions'
 artifacts:
-  - title: Shipibo-Konibo Religious Traditions Historical Sanctuary & Records
+  - title: Shipibo-Konibo Religious Traditions Historical Sanctuary & Iconography
+    imageUrl: /artifacts/shipibo-konibo-religion-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Shipibo-Konibo_Religious_Traditions'
     provenance: 'Ucayali River (Pucallpa), Peruvian Amazon'
     period: c. precolonial
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Shipibo-Konibo Religious Traditions.
-  - title: Shipibo-Konibo Religious Traditions Canonical Scripture & Iconography
+  - title: Shipibo-Konibo oral narratives & Sacred Relics
+    imageUrl: /artifacts/shipibo-konibo-religion-2.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Shipibo-Konibo_Religious_Traditions'
     provenance: 'Ucayali River (Pucallpa), Peruvian Amazon'
     period: c. precolonial
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Shipibo-Konibo Religious Traditions.
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Shipibo-Konibo Religious Traditions.
 ---
 
 # Shipibo-Konibo Religious Traditions

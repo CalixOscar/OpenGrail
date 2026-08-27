@@ -43,19 +43,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Mizrahi Judaism'
     url: 'https://www.cambridge.org/core/search?q=Mizrahi%20Judaism'
 artifacts:
-  - title: Ashkenazi and mizrahi male and female Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Ashkenazi_and_mizrahi_male_and_female.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. Ancient–modern
-    description: The difference of looks between Ashkenazi and Non-Ashkenazi Jews....
+  - title: Mizrahi Judaism Historical Sanctuary & Iconography
     imageUrl: /artifacts/mizrahi-judaism-1.jpg
-  - title: View into a Talmud page Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:View_into_a_Talmud_page.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mizrahi_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. Ancient–modern
-    description: Einblick in eine Talmud-Seite (Detail)...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Mizrahi Judaism.
+  - title: Hebrew Bible & Sacred Relics
     imageUrl: /artifacts/mizrahi-judaism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mizrahi_Judaism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. Ancient–modern
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Mizrahi Judaism.
 ---
 
 # Mizrahi Judaism

@@ -42,25 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Christ'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Christ'
 artifacts:
-  - title: Church of Christ (Temple Lot) Historical Sanctuary & Records
+  - title: Church of Christ (Temple Lot) Historical Sanctuary & Iconography
+    imageUrl: /artifacts/church-of-christ-temple-lot-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Christ'
     provenance: 'Independence, Jackson County, Missouri, USA'
     period: c. 1863 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Church of Christ (Temple Lot).
-    imageUrl: /artifacts/church-of-christ-temple-lot-1.jpg
-  - title: >-
-      The Book of Mormon- An Account Written by the Hand of Mormon upon Plates
-      Taken from the Plates of Nephi Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Book_of_Mormon-_An_Account_Written_by_the_Hand_of_Mormon_upon_Plates_Taken_from_the_Plates_of_Nephi.jpg
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/church-of-christ-temple-lot-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Christ'
     provenance: 'Independence, Jackson County, Missouri, USA'
     period: c. 1863 CE
     description: >-
-      Title page of a 1830 copy of The Book of Mormon: An Account Written by the
-      Hand of Mormon upon Plates Taken from the Plates of Nephi...
-    imageUrl: /artifacts/church-of-christ-temple-lot-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Church of Christ (Temple Lot).
 ---
 
 # Church of Christ (Temple Lot)

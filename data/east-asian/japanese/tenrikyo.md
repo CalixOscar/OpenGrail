@@ -43,22 +43,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Tenrikyo'
 artifacts:
-  - title: Tenrikyo Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tenrikyo'
-    provenance: 'Tenri, Nara Prefecture, Japan'
-    period: c. 1838 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Tenrikyo.
+  - title: Tenrikyo Historical Sanctuary & Iconography
     imageUrl: /artifacts/tenrikyo-1.jpg
-  - title: Tenrikyo Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Tenrikyo'
     provenance: 'Tenri, Nara Prefecture, Japan'
     period: c. 1838 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Tenrikyo.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Tenrikyo.
+  - title: Ofudesaki & Sacred Relics
     imageUrl: /artifacts/tenrikyo-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Tenrikyo'
+    provenance: 'Tenri, Nara Prefecture, Japan'
+    period: c. 1838 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Tenrikyo.
 ---
 
 # Tenrikyo

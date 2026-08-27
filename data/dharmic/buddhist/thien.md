@@ -45,20 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Thi%E1%BB%81n%20Buddhism'
 artifacts:
-  - title: Altar thien Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Altar_thien.jpg'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century CE
-    description: 'Vietnamese chancel, thien....'
+  - title: Thiền Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/thien-1.jpg
-  - title: Thiền Buddhism Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Altar_thien.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Thi%E1%BB%81n_Buddhism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 6th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Thiền Buddhism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Thiền Buddhism.
+  - title: Thiền uyển tập anh & Sacred Relics
     imageUrl: /artifacts/thien-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Thi%E1%BB%81n_Buddhism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 6th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Thiền
+      Buddhism.
 ---
 
 # Thiền Buddhism

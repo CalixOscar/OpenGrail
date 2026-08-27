@@ -40,27 +40,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Mexica%20and%20Nahua%20Religions'
 artifacts:
-  - title: Historia Verdadera del Mexico profundo Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Historia_Verdadera_del_Mexico_profundo.djvu
-    provenance: 'Tenochtitlan (Mexico City), Mexico'
-    period: c. c. 1300 CE
-    description: 'djvu of Pedagogía Tolteca. (ISBN: 968-73-8-05-9)...'
+  - title: Mexica and Nahua Religions Historical Sanctuary & Iconography
     imageUrl: /artifacts/aztec-religion-1.jpg
-  - title: >-
-      The history of the world; a survey of a man's record (IA
-      historyofworldsu01helm) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_history_of_the_world;_a_survey_of_a_man%27s_record_(IA_historyofworldsu01helm).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mexica_and_Nahua_Religions'
     provenance: 'Tenochtitlan (Mexico City), Mexico'
     period: c. c. 1300 CE
     description: >-
-      "Published simultaneously in Germany, England and the United
-      States."--Pref. note
-
-      I. Pre-history. America and the Pacific Ocean.--II. Eastern Asia and
-      Oceania--The Indian Ocean.--...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Mexica and Nahua Religions.
+  - title: Nahua oral traditions & Sacred Relics
     imageUrl: /artifacts/aztec-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mexica_and_Nahua_Religions'
+    provenance: 'Tenochtitlan (Mexico City), Mexico'
+    period: c. c. 1300 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Mexica and Nahua Religions.
 ---
 
 # Mexica and Nahua Religions

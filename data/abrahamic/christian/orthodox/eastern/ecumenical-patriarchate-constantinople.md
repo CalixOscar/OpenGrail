@@ -46,23 +46,24 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Ecumenical%20Patriarchate%20of%20Constantinople
 artifacts:
-  - title: Ecumenical Patriarchate of Constantinople Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ecumenical_Patriarchate_of_Constantinople'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 330 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Ecumenical Patriarchate of Constantinople.
-    imageUrl: /artifacts/ecumenical-patriarchate-constantinople-1.jpg
   - title: >-
-      Ecumenical Patriarchate of Constantinople Canonical Scripture &
+      Ecumenical Patriarchate of Constantinople Historical Sanctuary &
       Iconography
+    imageUrl: /artifacts/ecumenical-patriarchate-constantinople-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Ecumenical_Patriarchate_of_Constantinople'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 330 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Ecumenical Patriarchate of Constantinople.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Ecumenical Patriarchate of Constantinople.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/ecumenical-patriarchate-constantinople-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ecumenical_Patriarchate_of_Constantinople'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 330 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Ecumenical Patriarchate of Constantinople.
 ---
 
 # Ecumenical Patriarchate of Constantinople

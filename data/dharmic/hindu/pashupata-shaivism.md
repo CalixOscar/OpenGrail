@@ -45,23 +45,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=P%C4%81%C5%9Bupata%20%C5%9Aaivism
 artifacts:
-  - title: Elements of Hindu Iconography Vol. 2 Part 1 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Elements_of_Hindu_Iconography_Vol._2_Part_1.pdf
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century CE
-    description: first published 1916 in India...
+  - title: Pāśupata Śaivism Historical Sanctuary & Iconography
     imageUrl: /artifacts/pashupata-shaivism-1.jpg
-  - title: Samkhya und Yoga (IA samkhyaundyoga00garb) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Samkhya_und_Yoga_(IA_samkhyaundyoga00garb).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/P%C4%81%C5%9Bupata_%C5%9Aaivism'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century CE
-    description: |-
-      Includes bibliographical references and indexes
-      LC copy 2: Weber Collection 771
-      Subjects: Sankhya; Yoga...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Pāśupata Śaivism.
+  - title: Pāśupata Sūtra & Sacred Relics
     imageUrl: /artifacts/pashupata-shaivism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/P%C4%81%C5%9Bupata_%C5%9Aaivism'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Pāśupata Śaivism.
 ---
 
 # Pāśupata Śaivism

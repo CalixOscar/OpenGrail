@@ -47,24 +47,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Rapa%20Nui%20Religious%20Traditions'
 artifacts:
-  - title: Routledge-The Mystery of Easter Island-1920-txt Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Routledge-The_Mystery_of_Easter_Island-1920-txt.pdf
-    provenance: Rano Raraku (Rapa Nui / Easter Island)
-    period: c. c. 1200 CE
-    description: Zweite Ausgabe des Buches von 1919 über die Osterinsel...
+  - title: Rapa Nui Religious Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/rapa-nui-religion-1.jpg
-  - title: >-
-      Appendix E- Draft American Samoa watershed plan, cultural resource
-      analysis - USACE-p16021coll7-20227 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Appendix_E-_Draft_American_Samoa_watershed_plan,_cultural_resource_analysis_-_USACE-p16021coll7-20227.pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Rapa_Nui_Religious_Traditions'
     provenance: Rano Raraku (Rapa Nui / Easter Island)
     period: c. c. 1200 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Rapa Nui Religious Traditions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Rapa Nui Religious Traditions.
+  - title: Rapa Nui oral traditions & Sacred Relics
     imageUrl: /artifacts/rapa-nui-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Rapa_Nui_Religious_Traditions'
+    provenance: Rano Raraku (Rapa Nui / Easter Island)
+    period: c. c. 1200 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Rapa
+      Nui Religious Traditions.
 ---
 
 # Rapa Nui Religious Traditions

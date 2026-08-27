@@ -51,21 +51,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Kongo%20Religious%20Traditions'
 artifacts:
-  - title: Cinq nô Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Cinq_n%C3%B4.djvu'
-    provenance: 'M''banza-Kongo, Kingdom of Kongo'
-    period: c. before 1400 CE
-    description: "Cinq nô\_: drames lyriques japonais..."
+  - title: Kongo Religious Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/kongo-religion-1.jpg
-  - title: >-
-      The ancient history of the Maori, his mythology and traditions .. (IA
-      ancienthistoryof01whit) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_ancient_history_of_the_Maori,_his_mythology_and_traditions_.._(IA_ancienthistoryof01whit).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Kongo_Religious_Traditions'
     provenance: 'M''banza-Kongo, Kingdom of Kongo'
     period: c. before 1400 CE
-    description: 'Subjects: Maori (New Zealand people)...'
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Kongo Religious Traditions.
+  - title: Kongo oral traditions and proverbs & Sacred Relics
     imageUrl: /artifacts/kongo-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Kongo_Religious_Traditions'
+    provenance: 'M''banza-Kongo, Kingdom of Kongo'
+    period: c. before 1400 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Kongo
+      Religious Traditions.
 ---
 
 # Kongo Religious Traditions

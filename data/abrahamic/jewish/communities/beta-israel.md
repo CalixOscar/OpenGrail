@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Beta Israel'
     url: 'https://www.cambridge.org/core/search?q=Beta%20Israel'
 artifacts:
-  - title: Beta Israel Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Beta_Israel'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. before 15th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Beta Israel.
+  - title: Beta Israel Historical Sanctuary & Iconography
     imageUrl: /artifacts/beta-israel-1.jpg
-  - title: Beta Israel Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Beta_Israel'
     provenance: 'Jerusalem, Southern Levant'
     period: c. before 15th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Beta Israel.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Beta Israel.
+  - title: Orit (Octateuch) & Sacred Relics
     imageUrl: /artifacts/beta-israel-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Beta_Israel'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. before 15th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Beta
+      Israel.
 ---
 
 # Beta Israel

@@ -49,25 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Sasanian Zoroastrianism'
     url: 'https://brill.com/search?q=Sasanian%20Zoroastrianism'
 artifacts:
-  - title: Sasanian plate (4496695466) Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sasanian_plate_(4496695466).jpg'
-    provenance: 'Isfahan, Iran'
-    period: c. 224 CE
-    description: >-
-      Sasanian era silver &amp; gold dish showing a griffin. Taken at the
-      British museum, London, United kingdom, December 2009. 
-
-
-      Plat en or et argent d’époque Sasanide montrant un grif...
+  - title: Sasanian Zoroastrianism Historical Sanctuary & Iconography
     imageUrl: /artifacts/sasanian-zoroastrianism-1.jpg
-  - title: Sasanian Zoroastrianism Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sasanian_plate_(4496695466).jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sasanian_Zoroastrianism'
     provenance: 'Isfahan, Iran'
     period: c. 224 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Sasanian Zoroastrianism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sasanian Zoroastrianism.
+  - title: Avesta & Sacred Relics
     imageUrl: /artifacts/sasanian-zoroastrianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sasanian_Zoroastrianism'
+    provenance: 'Isfahan, Iran'
+    period: c. 224 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Sasanian Zoroastrianism.
 ---
 
 # Sasanian Zoroastrianism

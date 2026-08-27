@@ -42,23 +42,20 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Baptist Traditions'
     url: 'https://www.cambridge.org/core/search?q=Baptist%20Traditions'
 artifacts:
-  - title: Leonardo da Vinci - St John the Baptist - WGA12723 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_St_John_the_Baptist_-_WGA12723.jpg
-    provenance: 'London, England, UK'
-    period: c. 1609 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Baptist Traditions.
+  - title: Aleppo Codex Joshua 1 1
     imageUrl: /artifacts/baptist-traditions-1.jpg
-  - title: Baptist Traditions Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_St_John_the_Baptist_-_WGA12723.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Aleppo_Codex_Joshua_1_1.jpg'
+    provenance: 'London, England, UK'
+    period: c. 1609 CE
+    description: 'Joshua 1:1 in the Aleppo Codex....'
+  - title: Bhs psalm1
+    imageUrl: /artifacts/baptist-traditions-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bhs_psalm1.png'
     provenance: 'London, England, UK'
     period: c. 1609 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Baptist Traditions.
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Baptist Traditions.
 ---
 
 # Baptist Traditions

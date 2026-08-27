@@ -45,20 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Maturidi Theology'
     url: 'https://www.cambridge.org/core/search?q=Maturidi%20Theology'
 artifacts:
-  - title: Imammaturidi cropped Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Imammaturidi_cropped.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 10th century CE
-    description: Abu Mansur al-Maturidi Türbe...
+  - title: Maturidi Theology Historical Sanctuary & Iconography
     imageUrl: /artifacts/maturidi-theology-1.jpg
-  - title: Maturidi Theology Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Imammaturidi_cropped.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Maturidi_Theology'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 10th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Maturidi Theology.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Maturidi Theology.
+  - title: Kitab al-Tawhid & Sacred Relics
     imageUrl: /artifacts/maturidi-theology-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Maturidi_Theology'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 10th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Maturidi Theology.
 ---
 
 # Maturidi Theology

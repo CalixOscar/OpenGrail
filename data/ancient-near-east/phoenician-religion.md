@@ -43,24 +43,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Phoenician Religion'
     url: 'https://brill.com/search?q=Phoenician%20Religion'
 artifacts:
-  - title: Karthago Tophet Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Karthago_Tophet.JPG'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1200 BCE
-    description: |-
-      Stele on the Tophet of Carthage.
-      Source: Self-made, October 2004
-
-      Author: BishkekRocks...
+  - title: Phoenician Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/phoenician-religion-1.jpg
-  - title: Phoenician Religion Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Karthago_Tophet.JPG'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Phoenician_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 1200 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Phoenician Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Phoenician Religion.
+  - title: Phoenician and Punic dedicatory inscriptions & Sacred Relics
     imageUrl: /artifacts/phoenician-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Phoenician_Religion'
+    provenance: 'Babylon, Mesopotamia'
+    period: c. c. 1200 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Phoenician Religion.
 ---
 
 # Phoenician Religion

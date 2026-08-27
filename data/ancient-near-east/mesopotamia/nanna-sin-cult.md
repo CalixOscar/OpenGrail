@@ -50,22 +50,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Nanna–Sîn'
     url: 'https://brill.com/search?q=Cult%20of%20Nanna%E2%80%93S%C3%AEn'
 artifacts:
-  - title: 'Laws of Hammurabi, King of Babylonia Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Laws_of_Hammurabi,_King_of_Babylonia.djvu
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3000 BCE
-    description: 'djvu of Code of Hammurabi, King of Babylon....'
+  - title: Cult of Nanna–Sîn Historical Sanctuary & Iconography
     imageUrl: /artifacts/nanna-sin-cult-1.jpg
-  - title: Cult of Nanna–Sîn Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Laws_of_Hammurabi,_King_of_Babylonia.djvu
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Nanna%E2%80%93S%C3%AEn'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3000 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Cult of Nanna–Sîn.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cult of Nanna–Sîn.
+  - title: Hymns to Nanna & Sacred Relics
     imageUrl: /artifacts/nanna-sin-cult-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Nanna%E2%80%93S%C3%AEn'
+    provenance: 'Babylon, Mesopotamia'
+    period: c. c. 3000 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
+      of Nanna–Sîn.
 ---
 
 # Cult of Nanna–Sîn

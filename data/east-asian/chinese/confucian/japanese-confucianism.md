@@ -49,34 +49,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Japanese%20Confucian%20Traditions
 artifacts:
-  - title: >-
-      Japanese national interests and the Sino-Japanese peace and friendship
-      treaty (IA japanesenational00mazz) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Japanese_national_interests_and_the_Sino-Japanese_peace_and_friendship_treaty_(IA_japanesenational00mazz).pdf
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 6th century CE
-    description: >-
-      Thesis Advisor(s): Boyd Huff
-
-      "March 1979."
-
-      Thesis (M.A. in National Security Affairs)--Naval Postgraduate School,
-      March 1979
-
-      Includes bibliographical references (p. 158-192)
-
-      "The...
+  - title: Japanese Confucian Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/japanese-confucianism-1.jpg
-  - title: Japanese Confucian Traditions Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Japanese_national_interests_and_the_Sino-Japanese_peace_and_friendship_treaty_(IA_japanesenational00mazz).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Japanese_Confucian_Traditions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 6th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Japanese Confucian Traditions.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Japanese Confucian Traditions.
+  - title: Four Books and Five Classics & Sacred Relics
     imageUrl: /artifacts/japanese-confucianism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Japanese_Confucian_Traditions'
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 6th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Japanese Confucian Traditions.
 ---
 
 # Japanese Confucian Traditions

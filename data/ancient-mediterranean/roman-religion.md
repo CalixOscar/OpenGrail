@@ -44,26 +44,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Roman Religion'
     url: 'https://brill.com/search?q=Roman%20Religion'
 artifacts:
-  - title: >-
-      Ancient Roman sarcophagus, Saint Petersburg - Саркофаг Церемония
-      бракосочетания Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Ancient_Roman_sarcophagus,_Saint_Petersburg_-_%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%84%D0%B0%D0%B3_%D0%A6%D0%B5%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F_%D0%B1%D1%80%D0%B0%D0%BA%D0%BE%D1%81%D0%BE%D1%87%D0%B5%D1%82%D0%B0%D0%BD%D0%B8%D1%8F.jpg
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 750 BCE
-    description: >-
-      Саркофаг "Церемония бракосочетания" III в. Мрамор, А433. Эрмитаж, зал
-      Юпитера. Санкт-Петербург, Россия....
+  - title: Roman Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/roman-religion-1.jpg
-  - title: Roman Religion Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Ancient_Roman_sarcophagus,_Saint_Petersburg_-_%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%84%D0%B0%D0%B3_%D0%A6%D0%B5%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F_%D0%B1%D1%80%D0%B0%D0%BA%D0%BE%D1%81%D0%BE%D1%87%D0%B5%D1%82%D0%B0%D0%BD%D0%B8%D1%8F.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Religion'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 750 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Roman Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Roman Religion.
+  - title: Roman ritual calendars & Sacred Relics
     imageUrl: /artifacts/roman-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Religion'
+    provenance: 'Athens, Attica, Greece'
+    period: c. c. 750 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Roman
+      Religion.
 ---
 
 # Roman Religion

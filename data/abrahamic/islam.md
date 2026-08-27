@@ -50,24 +50,23 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Islam'
     url: 'https://www.cambridge.org/core/search?q=Islam'
 artifacts:
-  - title: Islam Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Islam'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 610 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Islam.
+  - title: 13. Session of the Islamic Summit Conference
     imageUrl: /artifacts/islam-1.jpg
-  - title: Qur'an manuscript Surat al-Nisa'. (1) Sacred Relics & Scripture
     sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Qur%27an_manuscript_Surat_al-Nisa%27._(1).tif
+      https://commons.wikimedia.org/wiki/File:13._Session_of_the_Islamic_Summit_Conference.jpg
     provenance: 'Jerusalem, Southern Levant'
     period: c. 610 CE
     description: >-
-      The recto of this Qur'an fragment contains parts of the first three verses
-      of the fourth chapter of the Qur'an, Surat al-Nisa' (Chapter of the
-      women). At the top left side of the f...
+      Family photo of 13. Session of the Islamic Summit Conference in Istanbul,
+      Turkey....
+  - title: Cheshm manuscript
     imageUrl: /artifacts/islam-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Cheshm_manuscript.jpg'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 610 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Islam.
 ---
 
 # Islam

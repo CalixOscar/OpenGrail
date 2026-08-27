@@ -40,22 +40,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Sumerian Religion'
     url: 'https://brill.com/search?q=Sumerian%20Religion'
 artifacts:
-  - title: Sumerian Religion Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sumerian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3500 BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Sumerian Religion.
+  - title: Sumerian Religion Historical Sanctuary & Iconography
     imageUrl: /artifacts/sumerian-religion-1.jpg
-  - title: Sumerian Religion Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Sumerian_Religion'
     provenance: 'Babylon, Mesopotamia'
     period: c. c. 3500 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Sumerian Religion.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sumerian Religion.
+  - title: Sumerian temple hymns & Sacred Relics
     imageUrl: /artifacts/sumerian-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sumerian_Religion'
+    provenance: 'Babylon, Mesopotamia'
+    period: c. c. 3500 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Sumerian Religion.
 ---
 
 # Sumerian Religion

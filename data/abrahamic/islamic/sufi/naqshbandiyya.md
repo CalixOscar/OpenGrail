@@ -45,21 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Naqshbandiyya'
     url: 'https://www.cambridge.org/core/search?q=Naqshbandiyya'
 artifacts:
-  - title: Naqshbandi bukhara Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Naqshbandi_bukhara.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 14th century CE
-    description: 'See: &lt;http://www.sacredsites.com/asia/uzbekistan/bukhara.htm&gt;...'
+  - title: 5741-Linxia-Huasi-Gongbei
     imageUrl: /artifacts/naqshbandiyya-1.jpg
-  - title: Hadith Al-Nabawi Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hadith_Al-Nabawi.jpg'
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:5741-Linxia-Huasi-Gongbei.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 14th century CE
     description: >-
-      ManuScript in Arabic on paper, Mecca, Saudi Arabia, 1329, 251 ff.
-      (complete), 32x23 cm, single column, (main text: 21x16 cm, including
-      gloss: 30x23 cm ), 21 lines in Arabic Naskhi...
+      Huasi Gongbei in Linxia City. Includes Ma Laichi's Mausoleum, a mosque, an
+      ablutions block, etc...
+  - title: Quran & Sacred Relics
     imageUrl: /artifacts/naqshbandiyya-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:5741-Linxia-Huasi-Gongbei.jpg'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 14th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Naqshbandiyya.
 ---
 
 # Naqshbandiyya

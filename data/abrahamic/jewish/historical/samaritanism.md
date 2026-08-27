@@ -42,22 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Samaritanism'
     url: 'https://www.cambridge.org/core/search?q=Samaritanism'
 artifacts:
-  - title: Samaritanism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Samaritanism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 5th century BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Samaritanism.
+  - title: Samaritanism Historical Sanctuary & Iconography
     imageUrl: /artifacts/samaritanism-1.jpg
-  - title: Samaritanism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Samaritanism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 5th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Samaritanism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Samaritanism.
+  - title: Samaritan Pentateuch & Sacred Relics
     imageUrl: /artifacts/samaritanism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Samaritanism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 5th century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Samaritanism.
 ---
 
 # Samaritanism

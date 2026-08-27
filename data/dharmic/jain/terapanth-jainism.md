@@ -42,38 +42,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ter%C4%81panth%20Jainism'
 artifacts:
-  - title: Acharya Mahapragya Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Acharya_Mahapragya.jpg'
+  - title: Terāpanth Jainism Historical Sanctuary & Iconography
+    imageUrl: /artifacts/terapanth-jainism-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ter%C4%81panth_Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. 1760 CE
     description: >-
-      Acharya Mahapragya is the 10th Head of the Jain Shwetamber Terapanth sect.
-      He is great philosopher, author and social reformer...
-    imageUrl: /artifacts/terapanth-jainism-1.jpg
-  - title: Shrimad Jayacharya Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Shrimad_Jayacharya.jpg'
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Terāpanth Jainism.
+  - title: Śvetāmbara Āgamas & Sacred Relics
+    imageUrl: /artifacts/terapanth-jainism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ter%C4%81panth_Jainism'
     provenance: 'Pataliputra (Patna), Bihar, India'
     period: c. 1760 CE
-    description: |-
-      ACHARYA SHRI JEETMAL
-      Category: Acharya  
-
-            Name
-
-      Acharya Shri Jeetmal
-         Original Name
-
-      Jayacharya
-          Date of Birth
-
-
-      29th September 1803
-
-          Place of Birth
-
-
-      Royat (Rajasth...
-    imageUrl: /artifacts/terapanth-jainism-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Terāpanth Jainism.
 ---
 
 # Terāpanth Jainism

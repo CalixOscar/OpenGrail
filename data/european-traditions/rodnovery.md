@@ -43,26 +43,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Rodnovery'
     url: 'https://brill.com/search?q=Rodnovery'
 artifacts:
-  - title: Svetoary community celebrating Mokosh 2016 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Svetoary_community_celebrating_Mokosh_2016.jpg
-    provenance: 'Kraków, Lesser Poland'
-    period: c. late 20th century CE
-    description: >-
-      Mokosh 2016 celebrated by the Svetoary community, of the Union of Slavic
-      Rodnover Communities...
+  - title: Rodnovery Historical Sanctuary & Iconography
     imageUrl: /artifacts/rodnovery-1.jpg
-  - title: >-
-      Christianity and modern infidelity.. (IA christianitymode00morg) Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Christianity_and_modern_infidelity.._(IA_christianitymode00morg).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Rodnovery'
     provenance: 'Kraków, Lesser Poland'
     period: c. late 20th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Rodnovery.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Rodnovery.
+  - title: Modern community liturgies & Sacred Relics
     imageUrl: /artifacts/rodnovery-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Rodnovery'
+    provenance: 'Kraków, Lesser Poland'
+    period: c. late 20th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Rodnovery.
 ---
 
 # Rodnovery

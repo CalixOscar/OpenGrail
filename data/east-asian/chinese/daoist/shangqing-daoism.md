@@ -46,20 +46,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shangqing%20Daoism'
 artifacts:
-  - title: Liu Shangqing Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Liu_Shangqing.jpg'
-    provenance: 'Luoyang, Henan, China'
-    period: c. 4th century CE
-    description: Liu Shangqing (Liu Shang-ch'ing) (1868 - 1947)...
+  - title: Shangqing Daoism Historical Sanctuary & Iconography
     imageUrl: /artifacts/shangqing-daoism-1.jpg
-  - title: Shangqing Daoism Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Liu_Shangqing.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shangqing_Daoism'
     provenance: 'Luoyang, Henan, China'
     period: c. 4th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Shangqing Daoism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Shangqing Daoism.
+  - title: Declarations of the Perfected & Sacred Relics
     imageUrl: /artifacts/shangqing-daoism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shangqing_Daoism'
+    provenance: 'Luoyang, Henan, China'
+    period: c. 4th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Shangqing Daoism.
 ---
 
 # Shangqing Daoism

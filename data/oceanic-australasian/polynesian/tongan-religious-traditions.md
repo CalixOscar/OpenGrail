@@ -50,26 +50,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Tongan%20Religious%20Traditions'
 artifacts:
-  - title: 'Folk-lore - A Quarterly Review. Volume 15, 1904 Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Folk-lore_-_A_Quarterly_Review._Volume_15,_1904.djvu
-    provenance: 'Tongatapu (Nuku''alofa), Kingdom of Tonga'
-    period: c. precolonial
-    description: Scan of collected volume of journals...
+  - title: Tongan Religious Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/tongan-religious-traditions-1.jpg
-  - title: >-
-      CSAP Communications Technical Assistance Bulletin- Communicating
-      Appropriately with Asian and Pacific Islander Audiences (IA
-      csapcomm00cent) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:CSAP_Communications_Technical_Assistance_Bulletin-_Communicating_Appropriately_with_Asian_and_Pacific_Islander_Audiences_(IA_csapcomm00cent).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Tongan_Religious_Traditions'
     provenance: 'Tongatapu (Nuku''alofa), Kingdom of Tonga'
     period: c. precolonial
     description: >-
-      Subjects: COMMUNICATION STRATEGIES; SUBSTANCE ABUSE; ASIANS; PACIFIC
-      ISLANDERS; ETHNOCULTURAL FACTORS; CHINESE; JAPANESE; KOREANS; FILIPINOS;
-      VIETNAMESE; CAMBODIANS; LAOTIANS; HMO...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Tongan Religious Traditions.
+  - title: Tongan oral genealogies & Sacred Relics
     imageUrl: /artifacts/tongan-religious-traditions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Tongan_Religious_Traditions'
+    provenance: 'Tongatapu (Nuku''alofa), Kingdom of Tonga'
+    period: c. precolonial
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Tongan Religious Traditions.
 ---
 
 # Tongan Religious Traditions

@@ -45,19 +45,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Salafism'
     url: 'https://www.cambridge.org/core/search?q=Salafism'
 artifacts:
-  - title: Sab'u Masajid Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sab%27u_Masajid.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 19th century CE
-    description: This place is the battle ground of Khandaq...
+  - title: Salafism Historical Sanctuary & Iconography
     imageUrl: /artifacts/salafism-1.jpg
-  - title: Salafism Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sab%27u_Masajid.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Salafism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 19th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Salafism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Salafism.
+  - title: Qur'an & Sacred Relics
+    imageUrl: /artifacts/salafism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Salafism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 19th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Salafism.
 ---
 
 # Salafism

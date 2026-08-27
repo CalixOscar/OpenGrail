@@ -56,28 +56,23 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=Chinese%20Salvationist%20Religions
 artifacts:
   - title: >-
-      Chinese ancestor-gods belief by province of China (Chinese Spiritual Life
-      Survey 2010) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Chinese_ancestor-gods_belief_by_province_of_China_(Chinese_Spiritual_Life_Survey_2010).png
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 12th century CE
-    description: >-
-      Distribution of believers in Chinese ancestorism, or worship of
-      ancestor-gods (the worship of a kin's ancestor-gods in the system of
-      lineage societies and ancestral shrines), by pr...
-    imageUrl: /artifacts/chinese-salvationist-religions-1.jpg
-  - title: >-
-      Chinese Salvationist Religions (Comparative) Canonical Scripture &
+      Chinese Salvationist Religions (Comparative) Historical Sanctuary &
       Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Chinese_ancestor-gods_belief_by_province_of_China_(Chinese_Spiritual_Life_Survey_2010).png
+    imageUrl: /artifacts/chinese-salvationist-religions-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Salvationist_Religions'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 12th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Chinese Salvationist Religions (Comparative).
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Chinese Salvationist Religions (Comparative).
+  - title: Precious scrolls (baojuan) & Sacred Relics
     imageUrl: /artifacts/chinese-salvationist-religions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Chinese_Salvationist_Religions'
+    provenance: 'Qufu, Shandong, China'
+    period: c. c. 12th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Chinese Salvationist Religions (Comparative).
 ---
 
 # Chinese Salvationist Religions (Comparative)

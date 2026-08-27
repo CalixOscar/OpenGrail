@@ -46,26 +46,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Seventh%20Day%20Adventist%20Reform%20Movement
 artifacts:
-  - title: Seventh Day Adventist Reform Movement Historical Sanctuary & Records
+  - title: Seventh Day Adventist Reform Movement Historical Sanctuary & Iconography
+    imageUrl: /artifacts/seventh-day-adventist-reform-movement-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Seventh_Day_Adventist_Reform_Movement'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1914 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Seventh Day Adventist Reform Movement.
-    imageUrl: /artifacts/seventh-day-adventist-reform-movement-1.jpg
-  - title: >-
-      Christian experience & teachings of Ellen G. White ... (IA
-      christianexperie00whit) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Christian_experience_%26_teachings_of_Ellen_G._White_..._(IA_christianexperie00whit).pdf
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/seventh-day-adventist-reform-movement-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Seventh_Day_Adventist_Reform_Movement'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1914 CE
-    description: |-
-      1 p. 19 cm
-
-      Subjects:...
-    imageUrl: /artifacts/seventh-day-adventist-reform-movement-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Seventh Day Adventist Reform Movement.
 ---
 
 # Seventh Day Adventist Reform Movement

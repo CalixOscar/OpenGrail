@@ -52,22 +52,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hermetic Order of the Golden Dawn'
     url: 'https://brill.com/search?q=Hermetic%20Order%20of%20the%20Golden%20Dawn'
 artifacts:
-  - title: Hermetic Order of the Golden Dawn Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn'
-    provenance: 'London, England, UK'
-    period: c. 1888 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Hermetic Order of the Golden Dawn.
+  - title: Hermetic Order of the Golden Dawn Historical Sanctuary & Iconography
     imageUrl: /artifacts/hermetic-order-golden-dawn-1.jpg
-  - title: Hermetic Order of the Golden Dawn Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn'
     provenance: 'London, England, UK'
     period: c. 1888 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Hermetic Order of the Golden Dawn.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Hermetic Order of the Golden Dawn.
+  - title: Golden Dawn Cipher Manuscripts & Sacred Relics
     imageUrl: /artifacts/hermetic-order-golden-dawn-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn'
+    provenance: 'London, England, UK'
+    period: c. 1888 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Hermetic Order of the Golden Dawn.
 ---
 
 # Hermetic Order of the Golden Dawn

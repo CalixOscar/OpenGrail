@@ -48,21 +48,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Dvait%C4%81dvaita%20Ved%C4%81nta
 artifacts:
-  - title: నింబాచార్యుడు ప్రేమమందిరం Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%E0%B0%A8%E0%B0%BF%E0%B0%82%E0%B0%AC%E0%B0%BE%E0%B0%9A%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%AF%E0%B1%81%E0%B0%A1%E0%B1%81_%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B1%87%E0%B0%AE%E0%B0%AE%E0%B0%82%E0%B0%A6%E0%B0%BF%E0%B0%B0%E0%B0%82.jpg
+  - title: Dvaitādvaita Vedānta Historical Sanctuary & Iconography
+    imageUrl: /artifacts/dvaitadvaita-vedanta-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dvait%C4%81dvaita_Ved%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 12th–13th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Dvaitādvaita Vedānta.
-    imageUrl: /artifacts/dvaitadvaita-vedanta-1.jpg
-  - title: A Bajju artifact 02 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:A_Bajju_artifact_02.jpg'
+  - title: Vedānta Pārijāta Saurabha & Sacred Relics
+    imageUrl: /artifacts/dvaitadvaita-vedanta-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dvait%C4%81dvaita_Ved%C4%81nta'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 12th–13th century CE
-    description: 'This is an image with the theme "Rites and Rituals" from:...'
-    imageUrl: /artifacts/dvaitadvaita-vedanta-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Dvaitādvaita Vedānta.
 ---
 
 # Dvaitādvaita Vedānta

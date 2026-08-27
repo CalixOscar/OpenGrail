@@ -49,19 +49,20 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Palo'
 artifacts:
-  - title: Palo Historical Sanctuary & Records
+  - title: Palo Historical Sanctuary & Iconography
+    imageUrl: /artifacts/palo-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Palo'
     provenance: 'Havana, Cuba'
     period: c. 19th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Palo.
-  - title: Altar de palo mayombe Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Altar_de_palo_mayombe.jpg'
+  - title: Kikongo- and Spanish-language ritual songs & Sacred Relics
+    imageUrl: /artifacts/palo-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Palo'
     provenance: 'Havana, Cuba'
     period: c. 19th century CE
-    description: Altar de ceremonia a los antepasados...
-    imageUrl: /artifacts/palo-2.jpg
+    description: 'Preserved liturgical manuscripts, canonical texts, and sacred art of Palo.'
 ---
 
 # Palo

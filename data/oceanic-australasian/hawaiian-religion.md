@@ -43,23 +43,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Hawaiian%20Religion'
 artifacts:
-  - title: Hawaiian Religion Historical Sanctuary & Records
+  - title: Hawaiian Religion Historical Sanctuary & Iconography
+    imageUrl: /artifacts/hawaiian-religion-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Hawaiian_Religion'
     provenance: 'Oahu (Honolulu / Heiau), Hawaii, USA'
     period: c. c. 1000 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Hawaiian Religion.
-    imageUrl: /artifacts/hawaiian-religion-1.jpg
-  - title: Ethnologisches Museum Dahlem Berlin Mai 2006 009 Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Ethnologisches_Museum_Dahlem_Berlin_Mai_2006_009.jpg
+  - title: Kumulipo & Sacred Relics
+    imageUrl: /artifacts/hawaiian-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hawaiian_Religion'
     provenance: 'Oahu (Honolulu / Heiau), Hawaii, USA'
     period: c. c. 1000 CE
     description: >-
-      Figure, probably the God of canoe carvers. From Hawaii, Collection Arning,
-      1887. Located in the Ethnologisches Museum, Berlin-Dahlem....
-    imageUrl: /artifacts/hawaiian-religion-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Hawaiian Religion.
 ---
 
 # Hawaiian Religion

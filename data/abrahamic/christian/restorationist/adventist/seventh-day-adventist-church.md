@@ -50,25 +50,20 @@ sources:
       Adventist Church
     url: 'https://www.cambridge.org/core/search?q=Seventh-day%20Adventist%20Church'
 artifacts:
-  - title: Seventh-day Adventist Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Seventh-day_Adventist_Church'
-    provenance: 'Battle Creek, Calhoun County, Michigan, USA'
-    period: c. 1863 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Seventh-day Adventist Church.
+  - title: Hope-logo
     imageUrl: /artifacts/seventh-day-adventist-church-1.jpg
-  - title: >-
-      Sabbath or Lord's day? Which? (IA sabbathorlordsda00dung) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Sabbath_or_Lord%27s_day%3F_Which%3F_(IA_sabbathorlordsda00dung).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/File:Hope-logo.jpg'
     provenance: 'Battle Creek, Calhoun County, Michigan, USA'
     period: c. 1863 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Seventh-day Adventist Church.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Seventh-day Adventist Church.
+  - title: CornFlakesPackage1906
     imageUrl: /artifacts/seventh-day-adventist-church-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:CornFlakesPackage1906.jpg'
+    provenance: 'Battle Creek, Calhoun County, Michigan, USA'
+    period: c. 1863 CE
+    description: Very first corn flakes package from 1906...
 ---
 
 # Seventh-day Adventist Church

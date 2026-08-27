@@ -48,22 +48,22 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=%C4%90%E1%BA%A1o%20M%E1%BA%ABu
 artifacts:
-  - title: Đạo Mẫu Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu'
-    provenance: 'Hanoi (Thang Long), Vietnam'
-    period: c. early modern roots
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Đạo Mẫu.
+  - title: Đạo Mẫu Historical Sanctuary & Iconography
     imageUrl: /artifacts/dao-mau-1.jpg
-  - title: Đạo Mẫu Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu'
     provenance: 'Hanoi (Thang Long), Vietnam'
     period: c. early modern roots
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Đạo Mẫu.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Đạo Mẫu.
+  - title: Chầu văn song corpus & Sacred Relics
     imageUrl: /artifacts/dao-mau-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu'
+    provenance: 'Hanoi (Thang Long), Vietnam'
+    period: c. early modern roots
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Đạo
+      Mẫu.
 ---
 
 # Đạo Mẫu

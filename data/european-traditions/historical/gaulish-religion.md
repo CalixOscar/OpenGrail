@@ -49,28 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gaulish Religions'
     url: 'https://brill.com/search?q=Gaulish%20Religions'
 artifacts:
-  - title: Origin and Growth of Religion (Rhys) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Origin_and_Growth_of_Religion_(Rhys).djvu
+  - title: Gaulish Religions Historical Sanctuary & Iconography
+    imageUrl: /artifacts/gaulish-religion-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Gaulish_Religions'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 600 BCE
     description: >-
-      Lecture of the Origin and Growth of Religion As Illustrated by Celtic
-      Heathendom...
-    imageUrl: /artifacts/gaulish-religion-1.jpg
-  - title: >-
-      Greece and the Levant; or, Diary of a summer's excursion in 1834- with
-      epistolary supplements (IA adm1452.0001.001.umich.edu) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Greece_and_the_Levant;_or,_Diary_of_a_summer%27s_excursion_in_1834-_with_epistolary_supplements_(IA_adm1452.0001.001.umich.edu).pdf
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Gaulish Religions.
+  - title: Gallo-Roman dedicatory inscriptions & Sacred Relics
+    imageUrl: /artifacts/gaulish-religion-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Gaulish_Religions'
     provenance: 'Old Uppsala, Uppland, Sweden'
     period: c. c. 600 BCE
-    description: |-
-      Mode of access: Internet
-
-      Subjects:...
-    imageUrl: /artifacts/gaulish-religion-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Gaulish Religions.
 ---
 
 # Gaulish Religions

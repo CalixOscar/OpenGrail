@@ -45,24 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sm%C4%81rta%20Tradition'
 artifacts:
-  - title: Smarth Brahmins (9969593914) Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Smarth_Brahmins_(9969593914).jpg'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 8th century CE
-    description: |-
-      Title: Smarth Brahmins
-      Alternative Title: [Smartha Brahmins]
-      Creator: Johnson, William
-      Date: ca. 1855-1862
-      Part Of: Photographs of Western India
-      Series: Photographs of Western Indi...
+  - title: Smārta Tradition Historical Sanctuary & Iconography
     imageUrl: /artifacts/smartism-1.jpg
-  - title: Poe red death byam shaw Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Poe_red_death_byam_shaw.JPG'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sm%C4%81rta_Tradition'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 8th century CE
-    description: "Byam Shaw's illustration for Poe's The Masque of the Red Death in \"Selected Tales of Mystery\" (London\_: Sidgwick &amp; Jackson, 1909) on the page to face p. 152 with caption \"Darkn..."
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Smārta Tradition.
+  - title: Smṛti literature & Sacred Relics
     imageUrl: /artifacts/smartism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sm%C4%81rta_Tradition'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 8th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Smārta Tradition.
 ---
 
 # Smārta Tradition

@@ -49,31 +49,22 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Samoan%20Religious%20Traditions'
 artifacts:
-  - title: >-
-      THE PLIGHT OF RELIGIOUS MINORITIES- CAN RELIGIOUS PLURALISM SURVIVE? (IA
-      gov.gpo.fdsys.CHRG-109hhrg28430) Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:THE_PLIGHT_OF_RELIGIOUS_MINORITIES-_CAN_RELIGIOUS_PLURALISM_SURVIVE%3F_(IA_gov.gpo.fdsys.CHRG-109hhrg28430).pdf
-    provenance: 'Upolu (Apia), Samoa'
-    period: c. precolonial
-    description: >-
-      Government Publishing OfficeU.S. CongressHouse of RepresentativesCommittee
-      on Foreign AffairsTHE PLIGHT OF RELIGIOUS MINORITIES: CAN RELIGIOUS
-      PLURALISM SURVIVE?Date(s) Held: 2006...
+  - title: Samoan Religious Traditions Historical Sanctuary & Iconography
     imageUrl: /artifacts/samoan-religious-traditions-1.jpg
-  - title: >-
-      Annual report of the Hawaiian Historical Society (IA
-      acd2499.0020.001.umich.edu) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Annual_report_of_the_Hawaiian_Historical_Society_(IA_acd2499.0020.001.umich.edu).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Samoan_Religious_Traditions'
     provenance: 'Upolu (Apia), Samoa'
     period: c. precolonial
     description: >-
-      Report year ends in Nov., 1893-1900; Dec. 31st, 1901-
-
-      The reports are irregularly numbered: 1st, 1892 (t.-p. reads 1893); 2d
-      (not issued), 3d, 1894 (t.-p. reads 1895), 4th, 1895 (...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Samoan Religious Traditions.
+  - title: Samoan oral genealogies & Sacred Relics
     imageUrl: /artifacts/samoan-religious-traditions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Samoan_Religious_Traditions'
+    provenance: 'Upolu (Apia), Samoa'
+    period: c. precolonial
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Samoan Religious Traditions.
 ---
 
 # Samoan Religious Traditions

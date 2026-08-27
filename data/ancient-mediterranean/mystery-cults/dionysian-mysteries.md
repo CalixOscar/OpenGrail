@@ -50,22 +50,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Dionysian Mysteries'
     url: 'https://brill.com/search?q=Dionysian%20Mysteries'
 artifacts:
-  - title: Dionysian Mysteries Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dionysian_Mysteries'
-    provenance: 'Eleusis, Attica, Greece'
-    period: c. c. 6th century BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Dionysian Mysteries.
+  - title: Dionysian Mysteries Historical Sanctuary & Iconography
     imageUrl: /artifacts/dionysian-mysteries-1.jpg
-  - title: Dionysian Mysteries Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Dionysian_Mysteries'
     provenance: 'Eleusis, Attica, Greece'
     period: c. c. 6th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Dionysian Mysteries.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Dionysian Mysteries.
+  - title: Bacchae & Sacred Relics
     imageUrl: /artifacts/dionysian-mysteries-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Dionysian_Mysteries'
+    provenance: 'Eleusis, Attica, Greece'
+    period: c. c. 6th century BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Dionysian Mysteries.
 ---
 
 # Dionysian Mysteries

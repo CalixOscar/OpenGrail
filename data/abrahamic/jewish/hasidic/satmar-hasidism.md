@@ -44,18 +44,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Satmar Hasidism'
     url: 'https://www.cambridge.org/core/search?q=Satmar%20Hasidism'
 artifacts:
-  - title: Satmar Talmud Torah Jeruzalem Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Satmar_Talmud_Torah_Jeruzalem.JPG'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1905 CE
-    description: 'Talmud Torah Satmar in Jerusalem, 18 Givat Moshe street....'
+  - title: Satmar Hasidism Historical Sanctuary & Iconography
     imageUrl: /artifacts/satmar-hasidism-1.jpg
-  - title: Hebrew Bible MET DP-15507-001 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hebrew_Bible_MET_DP-15507-001.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Satmar_Hasidism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1905 CE
-    description: Spanish; Manuscripts and Illuminations;...
+    description: >-
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Satmar Hasidism.
+  - title: Hebrew Bible & Sacred Relics
     imageUrl: /artifacts/satmar-hasidism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Satmar_Hasidism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. 1905 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Satmar Hasidism.
 ---
 
 # Satmar Hasidism

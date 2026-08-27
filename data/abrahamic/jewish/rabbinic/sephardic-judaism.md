@@ -44,21 +44,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sephardic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Sephardic%20Judaism'
 artifacts:
-  - title: 'Sephardic family in Bosnia, 19th century Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Sephardic_family_in_Bosnia,_19th_century.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 10th century CE
-    description: Sephardic Family of Bosnia...
+  - title: Sephardic Judaism Historical Sanctuary & Iconography
     imageUrl: /artifacts/sephardic-judaism-1.jpg
-  - title: Babylonian Talmud Lwow 1864 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Babylonian_Talmud_Lwow_1864.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sephardic_Judaism'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 10th century CE
     description: >-
-      Babylonian Talmud, vol XXII, Masechet Sanhedrin, Edit. &amp; Print  A.J.
-      Menkes &amp; S. Sprechner, Lwow (Lemberg) 1864...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sephardic Judaism.
+  - title: Hebrew Bible & Sacred Relics
     imageUrl: /artifacts/sephardic-judaism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sephardic_Judaism'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 10th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Sephardic Judaism.
 ---
 
 # Sephardic Judaism

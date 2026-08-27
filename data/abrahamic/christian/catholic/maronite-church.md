@@ -42,25 +42,22 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Maronite Church'
     url: 'https://www.cambridge.org/core/search?q=Maronite%20Church'
 artifacts:
-  - title: Maronite Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maronite_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. c. 5th century CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Maronite Church.
+  - title: MaronitePastoralCenter
     imageUrl: /artifacts/maronite-church-1.jpg
-  - title: >-
-      Gustave Doré - The Holy Bible - Plate CXLI, The Judas Kiss Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_The_Holy_Bible_-_Plate_CXLI,_The_Judas_Kiss.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/File:MaronitePastoralCenter.jpg'
     provenance: 'Rome, Latium, Italy'
     period: c. c. 5th century CE
     description: >-
-      "The Judas Kiss", (Mark 14:45) by Gustave Doré. Judas kisses Jesus in
-      order to betray him to the guards....
+      Maronite Church Pastoral Center, adjacent to St. Raymond's Cathedral, in
+      St. Louis, Missouri, United States...
+  - title: Bible & Sacred Relics
     imageUrl: /artifacts/maronite-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/File:MaronitePastoralCenter.jpg'
+    provenance: 'Rome, Latium, Italy'
+    period: c. c. 5th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Maronite Church.
 ---
 
 # Maronite Church

@@ -49,27 +49,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Thai%20Buddhism'
 artifacts:
-  - title: 'Buddhism in Thailand ,Ban Pa Cha Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Buddhism_in_Thailand_,Ban_Pa_Cha.jpg
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 13th century CE
-    description: >-
-      Buddhist images in Thailand,Youth's activism,Buddhist Education in
-      Thailand...
+  - title: Thai Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/thai-buddhism-1.jpg
-  - title: >-
-      Fragment of "Extracts from the Pali canon (Tipitaka) and Story of Phra
-      Malai" (CBL Thi 1319) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Fragment_of_%22Extracts_from_the_Pali_canon_(Tipitaka)_and_Story_of_Phra_Malai%22_(CBL_Thi_1319).jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Thai_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 13th century CE
     description: >-
-      Fragment from the Thai folding book (samut khoi) containing extracts from
-      the Pali canon (Tipitaka) and Story of Phra Malai, the text illustrated
-      with scenes from the Phra Malai st...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Thai Buddhism.
+  - title: Pāli Tipiṭaka & Sacred Relics
     imageUrl: /artifacts/thai-buddhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Thai_Buddhism'
+    provenance: 'Anuradhapura, North Central, Sri Lanka'
+    period: c. c. 13th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Thai
+      Buddhism.
 ---
 
 # Thai Buddhism

@@ -51,27 +51,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Cao%20%C4%90%C3%A0i'
 artifacts:
-  - title: >-
-      Auge der Cao Dai Detailansicht des Tempels Tay Ninh Vietnam Historical
-      Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Auge_der_Cao_Dai_Detailansicht_des_Tempels_Tay_Ninh_Vietnam.JPG
-    provenance: 'Holy See of Tay Ninh, Vietnam'
-    period: c. 1926 CE
-    description: Auge der Cao Dai Detailansicht des Tempels Tay Ninh Vietnam...
+  - title: Cao Đài Historical Sanctuary & Iconography
     imageUrl: /artifacts/caodaism-1.jpg
-  - title: GIA PHA HO BACH VAN Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:GIA_PHA_HO_BACH_VAN.pdf'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cao_%C4%90%C3%A0i'
     provenance: 'Holy See of Tay Ninh, Vietnam'
     period: c. 1926 CE
     description: >-
-      “Làm người phải biết tổ tông.
-
-      Như cây có cội, như sông có nguồn”.
-
-      Mỗi người sinh ra đều có tổ tiên, ông bà, cha mẹ, cũng như một dòng sông
-      một con suối đều có ngọn nguồn của nó. Vì...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Cao Đài.
+  - title: Thánh Ngôn Hiệp Tuyển & Sacred Relics
     imageUrl: /artifacts/caodaism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Cao_%C4%90%C3%A0i'
+    provenance: 'Holy See of Tay Ninh, Vietnam'
+    period: c. 1926 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Cao
+      Đài.
 ---
 
 # Cao Đài

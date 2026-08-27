@@ -50,26 +50,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Polish Rodzimowierstwo'
     url: 'https://brill.com/search?q=Polish%20Rodzimowierstwo'
 artifacts:
-  - title: 'Shrine of Saint Guillaume Courtet, Sérignan Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Shrine_of_Saint_Guillaume_Courtet,_S%C3%A9rignan.jpg
-    provenance: 'London, England, UK'
-    period: c. 1990s CE
-    description: >-
-      Shrine of Saint Guillaume Courtet in the Collegiate Church of
-      Notra-Dame-de-Grâce, Sérignan...
+  - title: Polish Rodzimowierstwo Historical Sanctuary & Iconography
     imageUrl: /artifacts/polish-rodzimowierstwo-1.jpg
-  - title: >-
-      The Soviet Union 1969 CPA 3768 stamp (Polish Map, Flag and Arms) Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_Soviet_Union_1969_CPA_3768_stamp_(Polish_Map,_Flag_and_Arms).png
+    sourceUrl: 'https://en.wikipedia.org/wiki/Polish_Rodzimowierstwo'
     provenance: 'London, England, UK'
     period: c. 1990s CE
     description: >-
-      USSR stampː Polish Map, Flag and Arms. Seriesː 25th Anniversary of the
-      Polish People's Republic (1944, July)...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Polish Rodzimowierstwo.
+  - title: Polish folklore collections & Sacred Relics
     imageUrl: /artifacts/polish-rodzimowierstwo-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Polish_Rodzimowierstwo'
+    provenance: 'London, England, UK'
+    period: c. 1990s CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Polish Rodzimowierstwo.
 ---
 
 # Polish Rodzimowierstwo

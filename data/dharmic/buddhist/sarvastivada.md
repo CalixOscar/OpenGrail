@@ -45,21 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sarv%C4%81stiv%C4%81da'
 artifacts:
-  - title: 'Sakya Monastery, Tibet, 2006 Historical Sanctuary'
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sakya_Monastery,_Tibet,_2006.jpg'
+  - title: Sarvāstivāda Historical Sanctuary & Iconography
+    imageUrl: /artifacts/sarvastivada-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sarv%C4%81stiv%C4%81da'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 3rd century BCE
     description: >-
-      Sakya Monastery, Tibet. Sakya Monastery was founded in 1073, by Konchok
-      Gyelpo and is situated about 130 km west of Shigatse on the road to
-      Tingri.The monastery is the seat of the...
-    imageUrl: /artifacts/sarvastivada-1.jpg
-  - title: A Bajju artifact 01 Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:A_Bajju_artifact_01.jpg'
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Sarvāstivāda.
+  - title: Jñānaprasthāna & Sacred Relics
+    imageUrl: /artifacts/sarvastivada-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Sarv%C4%81stiv%C4%81da'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 3rd century BCE
-    description: 'This is an image with the theme "Rites and Rituals" from:...'
-    imageUrl: /artifacts/sarvastivada-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Sarvāstivāda.
 ---
 
 # Sarvāstivāda

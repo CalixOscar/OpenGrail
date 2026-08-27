@@ -45,20 +45,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shinto'
 artifacts:
-  - title: Shinto Historical Sanctuary & Records
+  - title: Shinto Historical Sanctuary & Iconography
+    imageUrl: /artifacts/shinto-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Shinto'
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Shinto.
-    imageUrl: /artifacts/shinto-1.jpg
-  - title: Kojiki French edition Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kojiki_French_edition.JPG'
+  - title: Kojiki & Sacred Relics
+    imageUrl: /artifacts/shinto-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Shinto'
     provenance: 'Qufu, Shandong, China'
     period: c. ancient
-    description: Edition française du Kojiki...
-    imageUrl: /artifacts/shinto-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Shinto.
 ---
 
 # Shinto

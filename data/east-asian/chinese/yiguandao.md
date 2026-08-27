@@ -52,25 +52,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Yiguandao'
 artifacts:
-  - title: Yiguandao Historical Sanctuary & Records
+  - title: Yiguandao Historical Sanctuary & Iconography
+    imageUrl: /artifacts/yiguandao-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Yiguandao'
     provenance: 'Nanjing, Jiangsu, China'
     period: c. early 20th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Yiguandao.
-    imageUrl: /artifacts/yiguandao-1.jpg
-  - title: >-
-      The spirit of humanity, and essence of morality; (IA
-      spiritofhumanity00alba) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:The_spirit_of_humanity,_and_essence_of_morality;_(IA_spiritofhumanity00alba).pdf
+  - title: Yiguandao revealed texts & Sacred Relics
+    imageUrl: /artifacts/yiguandao-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Yiguandao'
     provenance: 'Nanjing, Jiangsu, China'
     period: c. early 20th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Yiguandao.
-    imageUrl: /artifacts/yiguandao-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Yiguandao.
 ---
 
 # Yiguandao

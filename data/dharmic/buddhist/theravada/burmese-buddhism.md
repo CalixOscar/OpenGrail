@@ -47,24 +47,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Burmese%20Buddhism'
 artifacts:
-  - title: Buddhism Myanmar 1 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Buddhism_Myanmar_1.jpg'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 11th century CE
-    description: >-
-      Shwedagon in Yangon is the most sacred Buddhist pagoda in Myanmar.
-      Buddhists pray at the pagoda to remember the Buddha’s teachings and share
-      their good deeds with all living things...
+  - title: Burmese Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/burmese-buddhism-1.jpg
-  - title: TipitakaGoldPlates Sacred Relics & Scripture
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:TipitakaGoldPlates.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Burmese_Buddhism'
     provenance: 'Anuradhapura, North Central, Sri Lanka'
     period: c. c. 11th century CE
     description: >-
-      Text fragments from the Tipiṭaka in Pāḷi , written in Pyu script, on gold
-      plates which were excavated at Maunggan, Burma. Pyu kingdoms, 5th century.
-      British Library, Or.5340/A–B...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Burmese Buddhism.
+  - title: Pāli Tipiṭaka & Sacred Relics
     imageUrl: /artifacts/burmese-buddhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Burmese_Buddhism'
+    provenance: 'Anuradhapura, North Central, Sri Lanka'
+    period: c. c. 11th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Burmese Buddhism.
 ---
 
 # Burmese Buddhism

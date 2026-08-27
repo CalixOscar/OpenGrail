@@ -44,22 +44,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Won%20Buddhism'
 artifacts:
-  - title: Changnyeong wonbulgyo Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Changnyeong_wonbulgyo.jpg'
-    provenance: 'Iksan, North Jeolla, South Korea'
-    period: c. 1916 CE
-    description: >-
-      Wonbuddhism hall of worship in Changnyeong, Gyeongsangnam-do, South
-      Korea....
+  - title: Won Buddhism Historical Sanctuary & Iconography
     imageUrl: /artifacts/won-buddhism-1.jpg
-  - title: Won Buddhism Canonical Scripture & Iconography
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Changnyeong_wonbulgyo.jpg'
+    sourceUrl: 'https://en.wikipedia.org/wiki/Won_Buddhism'
     provenance: 'Iksan, North Jeolla, South Korea'
     period: c. 1916 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Won Buddhism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Won Buddhism.
+  - title: The Principal Book of Won-Buddhism & Sacred Relics
     imageUrl: /artifacts/won-buddhism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Won_Buddhism'
+    provenance: 'Iksan, North Jeolla, South Korea'
+    period: c. 1916 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Won
+      Buddhism.
 ---
 
 # Won Buddhism

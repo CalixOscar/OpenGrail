@@ -44,22 +44,24 @@ sources:
       Christ
     url: 'https://www.cambridge.org/core/search?q=The%20Church%20of%20Jesus%20Christ'
 artifacts:
-  - title: The Church of Jesus Christ (Bickertonite) Historical Sanctuary & Records
+  - title: >-
+      The Church of Jesus Christ (Bickertonite) Historical Sanctuary &
+      Iconography
+    imageUrl: /artifacts/church-of-jesus-christ-bickertonite-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ'
     provenance: 'Kirtland, Lake County, Ohio, USA'
     period: c. 1862 CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with The Church of Jesus Christ (Bickertonite).
-    imageUrl: /artifacts/church-of-jesus-christ-bickertonite-1.jpg
-  - title: 'Book of Mormon 2 Nephi 30,5-6 Sacred Relics & Scripture'
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Book_of_Mormon_2_Nephi_30,5-6.jpg'
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/church-of-jesus-christ-bickertonite-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ'
     provenance: 'Kirtland, Lake County, Ohio, USA'
     period: c. 1862 CE
     description: >-
-      The Book of Mormon: An Account Written by the Hand of Mormon, Upon Plates
-      Taken from the Plates of Nephi, 2 Nephi 30:5-6, from the 1830 version....
-    imageUrl: /artifacts/church-of-jesus-christ-bickertonite-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of The
+      Church of Jesus Christ (Bickertonite).
 ---
 
 # The Church of Jesus Christ (Bickertonite)

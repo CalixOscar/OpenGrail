@@ -49,22 +49,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Atenism'
     url: 'https://brill.com/search?q=Atenism'
 artifacts:
-  - title: Atenism Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Atenism'
-    provenance: 'Thebes (Luxor), Ancient Egypt'
-    period: c. c. 1353 BCE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Atenism.
+  - title: Atenism Historical Sanctuary & Iconography
     imageUrl: /artifacts/atenism-1.jpg
-  - title: Atenism Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Atenism'
     provenance: 'Thebes (Luxor), Ancient Egypt'
     period: c. c. 1353 BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Atenism.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Atenism.
+  - title: Great Hymn to the Aten & Sacred Relics
     imageUrl: /artifacts/atenism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Atenism'
+    provenance: 'Thebes (Luxor), Ancient Egypt'
+    period: c. c. 1353 BCE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Atenism.
 ---
 
 # Atenism

@@ -45,31 +45,22 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ny%C4%81ya'
 artifacts:
-  - title: 'John Opie - Winter''s Tale, Act II. Scene III Historical Sanctuary'
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:John_Opie_-_Winter%27s_Tale,_Act_II._Scene_III.jpg
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century CE
-    description: >-
-      An illustration by John Opie, engraved by Jean Pierre Simon, for Act II,
-      Scene III of Shakespeare's [The] Winter's Tale
-
-      LEONTES:
-
-
-      [To ANTIGONUS.] You, sir, come you hither:
-
-      You tha...
+  - title: Nyāya Historical Sanctuary & Iconography
     imageUrl: /artifacts/nyaya-1.jpg
-  - title: Nyāya Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:John_Opie_-_Winter%27s_Tale,_Act_II._Scene_III.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ny%C4%81ya'
     provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
     period: c. c. 2nd century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Nyāya.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Nyāya.
+  - title: Nyāya Sūtra & Sacred Relics
     imageUrl: /artifacts/nyaya-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Ny%C4%81ya'
+    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
+    period: c. c. 2nd century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Nyāya.
 ---
 
 # Nyāya

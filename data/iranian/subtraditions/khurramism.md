@@ -50,30 +50,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Khurramism'
     url: 'https://brill.com/search?q=Khurramism'
 artifacts:
-  - title: Shah Jahan 0338 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Shah_Jahan_0338.JPG'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 8th century CE
-    description: >-
-      Cameo of mughal emperor Shah Jahan probably made by europeans at the
-      mughal court 1630-1640. Victoria and Albert Museum....
+  - title: Khurramism Historical Sanctuary & Iconography
     imageUrl: /artifacts/khurramism-1.jpg
-  - title: >-
-      A letter to Major-General John Briggs, Honorary Secretary to the Royal
-      Asiatic Society, on the discovery of part of the second volume of the Jámi
-      al Tawáríkh of Rashíd al Dín (IA b22390923) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_letter_to_Major-General_John_Briggs,_Honorary_Secretary_to_the_Royal_Asiatic_Society,_on_the_discovery_of_part_of_the_second_volume_of_the_J%C3%A1mi_al_Taw%C3%A1r%C3%ADkh_of_Rash%C3%ADd_al_D%C3%ADn_(IA_b22390923).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Khurramism'
     provenance: 'Isfahan, Iran'
     period: c. c. 8th century CE
     description: >-
-      The Royal College of Surgeons of England
-
-      'Extracted from the Journal of the Royal Asiatic Society, No. XI' - t.p.
-      verso
-
-      This material has been provided by The Royal College of Sur...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Khurramism.
+  - title: Accounts of al-Tabari & Sacred Relics
     imageUrl: /artifacts/khurramism-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Khurramism'
+    provenance: 'Isfahan, Iran'
+    period: c. c. 8th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Khurramism.
 ---
 
 # Khurramism

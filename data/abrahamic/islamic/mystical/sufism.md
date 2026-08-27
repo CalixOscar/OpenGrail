@@ -43,27 +43,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sufism'
     url: 'https://www.cambridge.org/core/search?q=Sufism'
 artifacts:
-  - title: >-
-      Portrait of Hazrat Inayat Khan taken at Taber Stanford studios in San
-      Francisco, 1911 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Portrait_of_Hazrat_Inayat_Khan_taken_at_Taber_Stanford_studios_in_San_Francisco,_1911.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 8th century CE
-    description: >-
-      Portrait of Sufi mystic Hazrat Inayat Khan, one of the first teachers of
-      Sufism in the West, and founder of the Sufi Movement and affiliated
-      tariqa.  The portrait was taken at Tabe...
+  - title: Dhikr Rifa-iyya
     imageUrl: /artifacts/sufism-1.jpg
-  - title: >-
-      Title Rooh e Tasawwuf Urdu Translation of Risalah Qushairiyah Sacred
-      Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Title_Rooh_e_Tasawwuf_Urdu_Translation_of_Risalah_Qushairiyah.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dhikr_Rifa-iyya.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. c. 8th century CE
-    description: سرورق کتاب روح تصوف اردو ترجمہ الرسالۃ القشیریۃ...
+    description: Dhikr of Rifa'iyya Brotherhood...
+  - title: Isma allah zat-new
     imageUrl: /artifacts/sufism-2.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Isma_allah_zat-new.png'
+    provenance: 'Jerusalem, Southern Levant'
+    period: c. c. 8th century CE
+    description: 'OTRS # is Ticket#2013062010002201...'
 ---
 
 # Sufism

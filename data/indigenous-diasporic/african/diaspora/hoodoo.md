@@ -50,30 +50,22 @@ sources:
     url: >-
       https://ich.unesco.org/en/search?q=Hoodoo%20%2F%20African%20American%20Conjure
 artifacts:
-  - title: Kongo Cosmogram 3 Historical Sanctuary
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kongo_Cosmogram_3.png'
-    provenance: 'Salvador da Bahia, Brazil'
-    period: c. 18th century CE
-    description: >-
-      The Yowa, or Dikenga Cross, is a symbol in Bakongo spirituality that
-      depicts the physical world, the spiritual (ancestral) world, the Kalûnga
-      river (line) that runs between the two...
+  - title: Hoodoo / African American Conjure Historical Sanctuary & Iconography
     imageUrl: /artifacts/hoodoo-1.jpg
-  - title: >-
-      African Repository (IA africanreposito3610amer 1) Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:African_Repository_(IA_africanreposito3610amer_1).pdf
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hoodoo_%2F_African_American_Conjure'
     provenance: 'Salvador da Bahia, Brazil'
     period: c. 18th century CE
     description: >-
-      Paper holdings: v.26, no. 9-v. 32, 35-52, 54-68 (1850-1892) in Luce
-      Special Collections SCC #8629
-
-      Microform holdings: v26 no 9-v68 no 1; 1850-92 Microfilm no.3003:5-9
-
-      Subjects:...
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Hoodoo / African American Conjure.
+  - title: African American oral traditions & Sacred Relics
     imageUrl: /artifacts/hoodoo-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hoodoo_%2F_African_American_Conjure'
+    provenance: 'Salvador da Bahia, Brazil'
+    period: c. 18th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Hoodoo / African American Conjure.
 ---
 
 # Hoodoo / African American Conjure

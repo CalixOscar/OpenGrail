@@ -42,15 +42,14 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Quakers'
     url: 'https://www.cambridge.org/core/search?q=Quakers'
 artifacts:
-  - title: Quakers Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Quakers'
+  - title: Fox by Lely 2
+    imageUrl: /artifacts/quakers-1.jpg
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Fox_by_Lely_2.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1650s CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Quakers.
-    imageUrl: /artifacts/quakers-1.jpg
-  - title: George Fox Sacred Relics & Scripture
+    description: Portrait of George Fox...
+  - title: George Fox
+    imageUrl: /artifacts/quakers-2.jpg
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:George_Fox.jpg'
     provenance: 'Jerusalem, Southern Levant'
     period: c. 1650s CE
@@ -61,7 +60,6 @@ artifacts:
       This image shows part of an engraving by "S. Allen" (published 1838) of a
       painting by "S. Chinn". The provenance of the original painting is
       unknown....
-    imageUrl: /artifacts/quakers-2.jpg
 ---
 
 # Quakers

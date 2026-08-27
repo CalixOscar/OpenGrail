@@ -45,25 +45,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Eleusinian Mysteries'
     url: 'https://brill.com/search?q=Eleusinian%20Mysteries'
 artifacts:
-  - title: Eleusinian Mysteries Historical Sanctuary & Records
+  - title: Eleusinian Mysteries Historical Sanctuary & Iconography
+    imageUrl: /artifacts/eleusinian-mysteries-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Eleusinian_Mysteries'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 8th century BCE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Eleusinian Mysteries.
-    imageUrl: /artifacts/eleusinian-mysteries-1.jpg
-  - title: >-
-      Leiden BPG 33 H fol 33r - Homeric Hymn to Demeter 187-236 Sacred Relics &
-      Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Leiden_BPG_33_H_fol_33r_-_Homeric_Hymn_to_Demeter_187-236.jpg
+  - title: Homeric Hymn to Demeter & Sacred Relics
+    imageUrl: /artifacts/eleusinian-mysteries-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Eleusinian_Mysteries'
     provenance: 'Athens, Attica, Greece'
     period: c. c. 8th century BCE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Eleusinian Mysteries.
-    imageUrl: /artifacts/eleusinian-mysteries-2.jpg
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Eleusinian Mysteries.
 ---
 
 # Eleusinian Mysteries

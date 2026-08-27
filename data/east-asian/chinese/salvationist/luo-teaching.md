@@ -46,24 +46,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Luo%20Teaching'
 artifacts:
-  - title: >-
-      Women of the Ochuna Craft Cooperative teaching and reviving traditional
-      Luo crafts for market 04 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Women_of_the_Ochuna_Craft_Cooperative_teaching_and_reviving_traditional_Luo_crafts_for_market_04.jpg
-    provenance: 'Qufu, Shandong, China'
-    period: c. late 15th century CE
-    description: Beginning a small sisal basket...
+  - title: Luo Teaching Historical Sanctuary & Iconography
     imageUrl: /artifacts/luo-teaching-1.jpg
-  - title: Luo Teaching Canonical Scripture & Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Women_of_the_Ochuna_Craft_Cooperative_teaching_and_reviving_traditional_Luo_crafts_for_market_04.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Luo_Teaching'
     provenance: 'Qufu, Shandong, China'
     period: c. late 15th century CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Luo Teaching.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Luo Teaching.
+  - title: Five Books in Six Volumes & Sacred Relics
     imageUrl: /artifacts/luo-teaching-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Luo_Teaching'
+    provenance: 'Qufu, Shandong, China'
+    period: c. late 15th century CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of Luo
+      Teaching.
 ---
 
 # Luo Teaching

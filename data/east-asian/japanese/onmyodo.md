@@ -45,21 +45,22 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Onmy%C5%8Dd%C5%8D'
 artifacts:
-  - title: Onmyōdō Historical Sanctuary & Records
+  - title: Onmyōdō Historical Sanctuary & Iconography
+    imageUrl: /artifacts/onmyodo-1.jpg
     sourceUrl: 'https://en.wikipedia.org/wiki/Onmy%C5%8Dd%C5%8D'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE
     description: >-
-      Authoritative historical records, sanctuary sites, and material culture
+      Authoritative historical artifact, sanctuary site, and iconography
       associated with Onmyōdō.
-    imageUrl: /artifacts/onmyodo-1.jpg
-  - title: De la navigation (IA delanavigation00unse) Sacred Relics & Scripture
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:De_la_navigation_(IA_delanavigation00unse).pdf
+  - title: Senji Ryakketsu & Sacred Relics
+    imageUrl: /artifacts/onmyodo-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Onmy%C5%8Dd%C5%8D'
     provenance: 'Qufu, Shandong, China'
     period: c. c. 7th century CE
-    description: "192 leaves\_: 24 cm (4to)\nMs. codex\nCaption title\nComposed in multiple hands\nPlace of production suggested by bookseller, who notes that the anonymous author could have come from t..."
-    imageUrl: /artifacts/onmyodo-2.jpg
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Onmyōdō.
 ---
 
 # Onmyōdō

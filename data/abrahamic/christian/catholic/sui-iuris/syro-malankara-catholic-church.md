@@ -48,21 +48,22 @@ sources:
       Catholic Church
     url: 'https://www.cambridge.org/core/search?q=Syro-Malankara%20Catholic%20Church'
 artifacts:
-  - title: Syro-Malankara Catholic Church Historical Sanctuary & Records
-    sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malankara_Catholic_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1930 CE
-    description: >-
-      Authoritative historical records, sanctuary sites, and material culture
-      associated with Syro-Malankara Catholic Church.
+  - title: Syro-Malankara Catholic Church Historical Sanctuary & Iconography
     imageUrl: /artifacts/syro-malankara-catholic-church-1.jpg
-  - title: Syro-Malankara Catholic Church Canonical Scripture & Iconography
     sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malankara_Catholic_Church'
     provenance: 'Rome, Latium, Italy'
     period: c. 1930 CE
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of Syro-Malankara Catholic Church.
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with Syro-Malankara Catholic Church.
+  - title: Bible & Sacred Relics
+    imageUrl: /artifacts/syro-malankara-catholic-church-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malankara_Catholic_Church'
+    provenance: 'Rome, Latium, Italy'
+    period: c. 1930 CE
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      Syro-Malankara Catholic Church.
 ---
 
 # Syro-Malankara Catholic Church

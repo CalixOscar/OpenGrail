@@ -46,28 +46,24 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=African%20Indigenous%20Traditions'
 artifacts:
-  - title: Halcyonair ATR 42 Cape Verde 2011 Historical Sanctuary
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Halcyonair_ATR_42_Cape_Verde_2011.jpg
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. prehistoric and historically diverse
-    description: >-
-      An ATR of the Cape Verdian airline Halcyonair at Amílcar Cabral
-      International Airport in en:Espargos, Sal, Cape Verde.
-
-      The name of the airline is derived from Halcyon, a genus of k...
-    imageUrl: /artifacts/african-indigenous-traditions-1.jpg
   - title: >-
-      African Indigenous Traditions (Comparative) Canonical Scripture &
+      African Indigenous Traditions (Comparative) Historical Sanctuary &
       Iconography
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Halcyonair_ATR_42_Cape_Verde_2011.jpg
+    imageUrl: /artifacts/african-indigenous-traditions-1.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/African_Indigenous_Traditions'
     provenance: 'Ile-Ife, Osun, Nigeria'
     period: c. prehistoric and historically diverse
     description: >-
-      Preserved liturgical manuscripts, sacred epigraphy, and canonical
-      teachings of African Indigenous Traditions (Comparative).
+      Authoritative historical artifact, sanctuary site, and iconography
+      associated with African Indigenous Traditions (Comparative).
+  - title: Community-specific oral traditions & Sacred Relics
     imageUrl: /artifacts/african-indigenous-traditions-2.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/African_Indigenous_Traditions'
+    provenance: 'Ile-Ife, Osun, Nigeria'
+    period: c. prehistoric and historically diverse
+    description: >-
+      Preserved liturgical manuscripts, canonical texts, and sacred art of
+      African Indigenous Traditions (Comparative).
 ---
 
 # African Indigenous Traditions (Comparative)
