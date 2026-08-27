@@ -52,20 +52,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Jediism'
     url: 'https://brill.com/search?q=Jediism'
 artifacts:
-  - title: Ceremonial Lightsaber Props & Jedi Codes
-    url: 'https://en.wikipedia.org/wiki/Jediism'
-    provenance: Global Contemporary Movement
+  - title: Ceremonial Lightsaber Prop & Meditation Focus
+    imageUrl: /artifacts/jediism-lightsaber.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Lightsaber'
+    provenance: Modern Popular Mythos & Contemporary Practice
     period: Late 20th century CE to present
     description: >-
-      Symbolic ceremonial meditation props and ethical precepts adapted from
-      mythic space opera into lived new religious practice.
-  - title: Temple of the Jedi Order Dokuments & Doctrine
-    url: 'https://en.wikipedia.org/wiki/Temple_of_the_Jedi_Order'
-    provenance: Online & Worldwide Communities
+      Iconic symbolic focus device adapted from cinematic mythos into
+      contemporary ethical and meditative ritual.
+  - title: Temple of the Jedi Order Dokuments & Teachings
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Jediism'
+    provenance: Worldwide Online Communities
     period: 2005 CE - Present
     description: >-
-      Foundational institutional charter and 16 Teachings establishing Jedi
-      spiritual philosophy.
+      Documented 16 Teachings and 21 Maxims establishing philosophical Jediism
+      as a lived ethical discipline.
 ---
 
 # Jediism

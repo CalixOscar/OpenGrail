@@ -45,14 +45,16 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Armenian%20Apostolic%20Church'
 artifacts:
   - title: Hagia Sophia Imperial Cathedral of Holy Wisdom
-    url: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
+    imageUrl: /artifacts/orthodoxy-hagia-sophia.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Hagia_Sophia'
     provenance: Constantinople (Istanbul)
-    period: 537 CE (Byzantine Empire)
+    period: 537 CE
     description: >-
       Monumental domed cathedral of the Byzantine Empire and historical mother
       church of Eastern Orthodoxy.
   - title: Sinai Christ Pantocrator Encaustic Icon
-    url: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
+    imageUrl: /artifacts/orthodoxy-icon-pantocrator.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Christ_Pantocrator_(Sinai)'
     provenance: 'Saint Catherine''s Monastery, Sinai'
     period: c. 6th century CE
     description: >-

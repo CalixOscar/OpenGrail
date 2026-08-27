@@ -174,14 +174,16 @@ function normalizeArtifacts(value, filePath) {
       fail(filePath, `artifacts[${index}] must be an object`);
     }
     const title = requiredString(item.title, `artifacts[${index}].title`, filePath);
-    const url = optionalString(item.url || item.imageUrl || item.image_url, `artifacts[${index}].url`, filePath);
+    const imageUrl = optionalString(item.imageUrl || item.image_url || item.url, `artifacts[${index}].imageUrl`, filePath);
+    const sourceUrl = optionalString(item.sourceUrl || item.source_url || item.link, `artifacts[${index}].sourceUrl`, filePath);
     const provenance = optionalString(item.provenance, `artifacts[${index}].provenance`, filePath);
     const period = optionalString(item.period, `artifacts[${index}].period`, filePath);
     const description = optionalString(item.description, `artifacts[${index}].description`, filePath);
 
     return {
       title,
-      ...(url ? { url, imageUrl: url } : {}),
+      ...(imageUrl ? { imageUrl, url: imageUrl } : {}),
+      ...(sourceUrl ? { sourceUrl } : {}),
       ...(provenance ? { provenance } : {}),
       ...(period ? { period } : {}),
       ...(description ? { description } : {}),

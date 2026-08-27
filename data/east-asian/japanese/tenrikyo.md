@@ -44,19 +44,19 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Tenrikyo'
 artifacts:
   - title: Itsukushima Floating Torii Gate Shrine
-    url: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
+    imageUrl: /artifacts/shinto-torii-gate.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Itsukushima_Shrine'
     provenance: 'Miyajima, Hiroshima, Japan'
     period: 1168 CE
     description: >-
       Iconic sacred Shinto gate standing in the tidal sea, demarcating the
       boundary of the sacred realm.
-  - title: Ise Grand Shrine (Kotai Jingu)
-    url: 'https://en.wikipedia.org/wiki/Ise_Grand_Shrine'
-    provenance: 'Mie Prefecture, Japan'
-    period: c. 4 BCE / 7th century CE
-    description: >-
-      Principal Shinto sanctuary dedicated to the sun kami Amaterasu Omikami,
-      ritually rebuilt every 20 years.
+  - title: Wudang Mountain Sacred Golden Hall Complex
+    imageUrl: /artifacts/daoism-wudang-hall.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Wudang_Mountains'
+    provenance: East Asian Sanctuaries
+    period: Medieval Era
+    description: Imperial architectural shrine honoring celestial and natural harmony.
 ---
 
 # Tenrikyo

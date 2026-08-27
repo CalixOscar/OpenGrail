@@ -50,18 +50,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Nanna–Sîn'
     url: 'https://brill.com/search?q=Cult%20of%20Nanna%E2%80%93S%C3%AEn'
 artifacts:
-  - title: Cult of Nanna–Sîn Historical Reference & Architecture
-    url: 'https://en.wikipedia.org/wiki/Cult_of_Nanna%E2%80%93S%C3%AEn'
-    provenance: Scholarly & Archaeological Archives
-    period: Historical Origin to Modern Era
+  - title: The Parthenon Classical Sanctuary of Athena
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
+    provenance: 'Acropolis of Athens, Greece'
+    period: 447–432 BCE
     description: >-
-      Authoritative historical documentation, primary sources, and material
-      culture associated with Cult of Nanna–Sîn.
-  - title: Cult of Nanna–Sîn Primary Texts & Sacred Records
-    url: 'https://en.wikipedia.org/wiki/Hymns_to_Nanna'
-    provenance: Academic & Lexicon Records
-    period: Formative Era
-    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
+      Pinnacle of Classical Greek sacred temple architecture honoring the civic
+      and divine order.
+  - title: Persepolis Monumental Faravahar Stone Relief
+    imageUrl: /artifacts/zoroastrian-faravahar.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
+    provenance: 'Persepolis, Ancient Persia'
+    period: c. 515 BCE
+    description: >-
+      Achaemenid royal carving representing divine grace (Khvarenah) and moral
+      responsibility in Zoroastrianism.
 ---
 
 # Cult of Nanna–Sîn

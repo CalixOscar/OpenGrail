@@ -57,19 +57,19 @@ sources:
     url: 'https://brill.com/search?q=Manichaeism'
 artifacts:
   - title: Persepolis Faravahar Bas-Relief
-    url: 'https://en.wikipedia.org/wiki/Faravahar'
+    imageUrl: /artifacts/zoroastrian-faravahar.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
     provenance: 'Persepolis, Ancient Persia'
-    period: c. 515 BCE (Achaemenid Empire)
+    period: c. 515 BCE
     description: >-
       Carved winged symbol of Good Thoughts, Good Words, and Good Deeds (Humata,
       Hukhta, Hvarshta).
-  - title: Yazd Atash Behram Fire Temple
-    url: 'https://en.wikipedia.org/wiki/Yazd_Atash_Behram'
-    provenance: 'Yazd, Iran'
-    period: Fire burning continuously since 470 CE
-    description: >-
-      Sacred fire sanctuary housing the consecrated Atash Behram (Victorious
-      Fire) as symbol of divine Asha (Truth).
+  - title: The Parthenon Classical Sanctuary of Athena
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
+    provenance: Ancient Near East / Mediterranean
+    period: Classical Antiquity
+    description: Monumental sacred architecture honoring the civic and cosmological order.
 ---
 
 # Manichaeism

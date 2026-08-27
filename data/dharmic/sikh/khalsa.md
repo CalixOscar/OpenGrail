@@ -44,14 +44,16 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Khalsa'
 artifacts:
   - title: Harmandir Sahib (The Golden Temple)
-    url: 'https://en.wikipedia.org/wiki/Golden_Temple'
+    imageUrl: /artifacts/sikhism-golden-temple.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Golden_Temple'
     provenance: 'Amritsar, Punjab'
     period: 1604 CE
     description: >-
       The spiritual and cultural center of Sikhism, designed with entrances on
       four sides welcoming all humanity.
-  - title: Guru Granth Sahib Sacred Manuscript Illumination
-    url: 'https://en.wikipedia.org/wiki/Guru_Granth_Sahib'
+  - title: Guru Granth Sahib Sacred Illumination
+    imageUrl: /artifacts/sikhism-guru-granth.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Guru_Granth_Sahib'
     provenance: Punjab
     period: 17th century CE
     description: >-

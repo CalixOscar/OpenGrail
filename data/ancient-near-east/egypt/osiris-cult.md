@@ -48,18 +48,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Osiris'
     url: 'https://brill.com/search?q=Cult%20of%20Osiris'
 artifacts:
-  - title: Cult of Osiris Historical Reference & Architecture
-    url: 'https://en.wikipedia.org/wiki/Cult_of_Osiris'
-    provenance: Scholarly & Archaeological Archives
-    period: Historical Origin to Modern Era
+  - title: The Parthenon Classical Sanctuary of Athena
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
+    provenance: 'Acropolis of Athens, Greece'
+    period: 447–432 BCE
     description: >-
-      Authoritative historical documentation, primary sources, and material
-      culture associated with Cult of Osiris.
-  - title: Cult of Osiris Primary Texts & Sacred Records
-    url: 'https://en.wikipedia.org/wiki/Pyramid_Texts'
-    provenance: Academic & Lexicon Records
-    period: Formative Era
-    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
+      Pinnacle of Classical Greek sacred temple architecture honoring the civic
+      and divine order.
+  - title: Persepolis Monumental Faravahar Stone Relief
+    imageUrl: /artifacts/zoroastrian-faravahar.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
+    provenance: 'Persepolis, Ancient Persia'
+    period: c. 515 BCE
+    description: >-
+      Achaemenid royal carving representing divine grace (Khvarenah) and moral
+      responsibility in Zoroastrianism.
 ---
 
 # Cult of Osiris

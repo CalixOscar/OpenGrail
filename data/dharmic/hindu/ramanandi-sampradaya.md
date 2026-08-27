@@ -50,18 +50,22 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=R%C4%81m%C4%81nand%C4%AB%20Samprad%C4%81ya
 artifacts:
-  - title: Rāmānandī Sampradāya Historical Reference & Architecture
-    url: 'https://en.wikipedia.org/wiki/R%C4%81m%C4%81nand%C4%AB_Samprad%C4%81ya'
-    provenance: Scholarly & Archaeological Archives
-    period: Historical Origin to Modern Era
+  - title: Mahabodhi Temple Enlightenment Sanctuary
+    imageUrl: /artifacts/buddhism-mahabodhi.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Mahabodhi_Temple'
+    provenance: 'Bodh Gaya, Bihar, India'
+    period: c. 250 BCE - 5th century CE
     description: >-
-      Authoritative historical documentation, primary sources, and material
-      culture associated with Rāmānandī Sampradāya.
-  - title: Rāmānandī Sampradāya Primary Texts & Sacred Records
-    url: 'https://en.wikipedia.org/wiki/R%C4%81mcaritm%C4%81nas'
-    provenance: Academic & Lexicon Records
-    period: Formative Era
-    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
+      UNESCO World Heritage monumental stone temple marking the spot of
+      Siddhartha Gautama's enlightenment.
+  - title: Brihadisvara Monumental Dravidian Temple Gopuram
+    imageUrl: /artifacts/hinduism-brihadisvara.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Brihadisvara_Temple'
+    provenance: 'Thanjavur, Tamil Nadu'
+    period: 1010 CE
+    description: >-
+      Grand granite rock-cut temple dedicated to cosmic balance and sacred
+      ritual architecture.
 ---
 
 # Rāmānandī Sampradāya

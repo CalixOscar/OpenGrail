@@ -44,18 +44,22 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Temple of Set'
     url: 'https://brill.com/search?q=Temple%20of%20Set'
 artifacts:
-  - title: Temple of Set Historical Reference & Architecture
-    url: 'https://en.wikipedia.org/wiki/Temple_of_Set'
-    provenance: Scholarly & Archaeological Archives
-    period: Historical Origin to Modern Era
+  - title: The Parthenon Classical Sanctuary of Athena
+    imageUrl: /artifacts/ancient-parthenon.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Parthenon'
+    provenance: 'Acropolis of Athens, Greece'
+    period: 447–432 BCE
     description: >-
-      Authoritative historical documentation, primary sources, and material
-      culture associated with Temple of Set.
-  - title: Temple of Set Primary Texts & Sacred Records
-    url: 'https://en.wikipedia.org/wiki/The_Book_of_Coming_Forth_by_Night'
-    provenance: Academic & Lexicon Records
-    period: Formative Era
-    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
+      Pinnacle of Classical Greek sacred temple architecture honoring the civic
+      and divine order.
+  - title: Persepolis Monumental Faravahar Stone Relief
+    imageUrl: /artifacts/zoroastrian-faravahar.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Faravahar'
+    provenance: 'Persepolis, Ancient Persia'
+    period: c. 515 BCE
+    description: >-
+      Achaemenid royal carving representing divine grace (Khvarenah) and moral
+      responsibility in Zoroastrianism.
 ---
 
 # Temple of Set

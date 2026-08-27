@@ -181,6 +181,8 @@ export interface TraditionArtifact {
   url?: string;
   imageUrl?: string;
   image_url?: string;
+  sourceUrl?: string;
+  source_url?: string;
   provenance?: string;
   period?: string;
   description?: string;

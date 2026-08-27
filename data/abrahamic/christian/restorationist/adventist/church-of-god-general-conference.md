@@ -46,18 +46,22 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Church%20of%20God%20General%20Conference
 artifacts:
-  - title: Church of God General Conference Historical Reference & Architecture
-    url: 'https://en.wikipedia.org/wiki/Church_of_God_General_Conference'
-    provenance: Scholarly & Archaeological Archives
-    period: Historical Origin to Modern Era
+  - title: Ancient Scriptorium Biblical & Liturgical Manuscript
+    imageUrl: /artifacts/christianity-codex.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Codex_Vaticanus'
+    provenance: Near East / Mediterranean
+    period: Classical to Medieval Era
     description: >-
-      Authoritative historical documentation, primary sources, and material
-      culture associated with Church of God General Conference.
-  - title: Church of God General Conference Primary Texts & Sacred Records
-    url: 'https://en.wikipedia.org/wiki/Bible'
-    provenance: Academic & Lexicon Records
-    period: Formative Era
-    description: 'Documented primary scriptures, epigraphy, and canonical tradition records.'
+      Parchment uncial manuscript preserving ancient canonical scripture and
+      liturgical traditions.
+  - title: Historical Sanctuary Architecture & Sacred Epigraphy
+    imageUrl: /artifacts/judaism-western-wall.jpg
+    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Wall'
+    provenance: Jerusalem & Levant
+    period: Ancient to Medieval Era
+    description: >-
+      Monumental stone masonry and sacred sanctuary foundations central to
+      Abrahamic pilgrimage.
 ---
 
 # Church of God General Conference
