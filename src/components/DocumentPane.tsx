@@ -26,6 +26,15 @@ export interface DocumentPaneProps {
   open: boolean;
   onClose: () => void;
   onSelectNode: (nodeId: string) => void;
+  onCompare?: (nodeId: string) => void;
+}
+
+function CompareIcon(props: SVGProps<SVGSVGElement>) {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" aria-hidden="true" {...props}>
+      <path d="m16 3 4 4-4 4M20 7H4M8 21l-4-4 4-4M4 17h16" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
 }
 
 function CloseIcon(props: SVGProps<SVGSVGElement>) {
@@ -322,6 +331,7 @@ export default function DocumentPane({
   open,
   onClose,
   onSelectNode,
+  onCompare,
 }: DocumentPaneProps) {
   const nodeById = useMemo(() => new Map(nodes.map((node) => [node.id, node])), [nodes]);
   const inertWhenClosed = open ? {} : ({ inert: "" } as Record<string, string>);
@@ -529,16 +539,31 @@ export default function DocumentPane({
             <h2 className="document-pane__title">{selectedNode.title}</h2>
           </div>
         </div>
-        <button
-          className="document-pane__close icon-button"
-          type="button"
-          onClick={onClose}
-          aria-label={`Close ${selectedNode.title}`}
-          title="Close document"
-          tabIndex={open ? 0 : -1}
-        >
-          <CloseIcon className="icon-button__icon" />
-        </button>
+        <div className="document-pane__header-actions">
+          {onCompare && (
+            <button
+              className="document-pane__compare-btn"
+              type="button"
+              onClick={() => onCompare(selectedNode.id)}
+              aria-label={`Compare ${selectedNode.title} with another tradition`}
+              title="Compare side-by-side with another tradition"
+              tabIndex={open ? 0 : -1}
+            >
+              <CompareIcon className="document-pane__compare-icon" />
+              <span>Compare</span>
+            </button>
+          )}
+          <button
+            className="document-pane__close icon-button"
+            type="button"
+            onClick={onClose}
+            aria-label={`Close ${selectedNode.title}`}
+            title="Close document"
+            tabIndex={open ? 0 : -1}
+          >
+            <CloseIcon className="icon-button__icon" />
+          </button>
+        </div>
       </header>
 
       <div className="document-pane__scroll">
