@@ -1166,7 +1166,7 @@ button,
   position: absolute;
   top: clamp(16px, 2.4vw, 34px);
   left: clamp(20px, 2.8vw, 40px);
-  font-size: clamp(125px, 16vw, 225px);
+  font-size: clamp(88px, 11.2vw, 158px);
   font-weight: 900;
   line-height: 0.82;
   letter-spacing: -0.04em;
