@@ -3418,6 +3418,177 @@ button,
   cursor: pointer;
 }
 
+/* Background Archival Seal Watermark on Document Reader */
+.document-pane {
+  position: relative;
+}
+
+.document-pane::before {
+  content: "";
+  position: absolute;
+  top: 60px;
+  right: -80px;
+  width: 520px;
+  height: 520px;
+  background-image: url("/assets/watermark-seal.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  opacity: 0.032;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Professional Print & PDF Export Styling with Watermark */
+@media print {
+  /* Hide all interactive UI and navigation chrome */
+  .topbar,
+  .sidebar,
+  .filter-bar,
+  .timeline-scrubber,
+  .view-switcher,
+  .document-pane__close,
+  .document-feedback,
+  .mobile-nav-bar,
+  .map-hud,
+  .graph-legend,
+  .graph-minimap,
+  .graph-controls,
+  .atlas-workspace > .graph-stage {
+    display: none !important;
+  }
+
+  body,
+  #root,
+  .app-container,
+  .atlas-workspace,
+  .document-pane {
+    background: #ffffff !important;
+    color: #0f172a !important;
+    overflow: visible !important;
+    position: static !important;
+    height: auto !important;
+    width: 100% !important;
+    box-shadow: none !important;
+    border: none !important;
+    transform: none !important;
+  }
+
+  /* Centered Watermark Seal on Every Printed Page */
+  .document-pane::before {
+    content: "";
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 620px;
+    height: 620px;
+    background-image: url("/assets/watermark-seal.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    opacity: 0.055 !important;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .document-pane__body {
+    position: relative;
+    z-index: 1;
+    padding: 0 !important;
+    color: #0f172a !important;
+    max-width: 100% !important;
+  }
+
+  .document-hero__title {
+    color: #0f172a !important;
+    font-size: 26pt !important;
+    border-bottom: 2px solid #e2e8f0 !important;
+    padding-bottom: 8px !important;
+    margin-bottom: 12px !important;
+  }
+
+  .document-hero__eyebrow {
+    color: #64748b !important;
+  }
+
+  .document-summary {
+    color: #334155 !important;
+    font-size: 12pt !important;
+    border-left: 3px solid #0284c7 !important;
+    background: #f8fafc !important;
+    padding: 10px 14px !important;
+  }
+
+  .document-content {
+    color: #1e293b !important;
+    font-size: 11pt !important;
+    line-height: 1.65 !important;
+  }
+
+  .document-content h1,
+  .document-content h2,
+  .document-content h3 {
+    color: #0f172a !important;
+    page-break-after: avoid;
+  }
+
+  .artifact-card {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    border: 1px solid #cbd5e1 !important;
+    background: #f8fafc !important;
+    color: #0f172a !important;
+    box-shadow: none !important;
+  }
+
+  .artifact-card__image {
+    max-height: 240px !important;
+    object-fit: contain !important;
+  }
+
+  .sources-section {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    border: 1px solid #e2e8f0 !important;
+    background: #f8fafc !important;
+    color: #0f172a !important;
+  }
+
+  .source-link {
+    color: #0369a1 !important;
+  }
+
+  .canonical-texts {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    border: 1px solid #e2e8f0 !important;
+    background: #f8fafc !important;
+    color: #0f172a !important;
+  }
+
+  .backlinks {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    border-top: 1px solid #cbd5e1 !important;
+  }
+
+  /* Academic Citation Print Header & Footer */
+  @page {
+    margin: 1.8cm 1.5cm;
+    @top-right {
+      content: "OpenGrail • Comparative Religion Atlas";
+      font-size: 8pt;
+      color: #64748b;
+    }
+    @bottom-center {
+      content: "https://calmdownoscar.com/opengrail";
+      font-size: 8pt;
+      color: #64748b;
+    }
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

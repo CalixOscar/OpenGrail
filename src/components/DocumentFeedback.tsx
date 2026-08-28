@@ -22,7 +22,7 @@ export interface DocumentFeedbackProps {
 export function DocumentFeedback({ node }: DocumentFeedbackProps) {
   const storageKey = `opengrail_vote_${node.id}`;
   const [userVote, setUserVote] = useState<'up' | 'down' | null>(null);
-  const [upCount, setUpCount] = useState(12 + (node.displayWeight > 1.5 ? 18 : 6));
+  const [upCount, setUpCount] = useState(0);
   const [downCount, setDownCount] = useState(0);
   const [showSuggestModal, setShowSuggestModal] = useState(false);
   const [issueType, setIssueType] = useState('Factual Error');
@@ -35,8 +35,14 @@ export function DocumentFeedback({ node }: DocumentFeedbackProps) {
     const saved = localStorage.getItem(storageKey);
     if (saved === 'up') {
       setUserVote('up');
+      setUpCount(1);
     } else if (saved === 'down') {
       setUserVote('down');
+      setDownCount(1);
+    } else {
+      setUserVote(null);
+      setUpCount(0);
+      setDownCount(0);
     }
   }, [storageKey]);
 
@@ -92,7 +98,7 @@ export function DocumentFeedback({ node }: DocumentFeedbackProps) {
     e.preventDefault();
     const subject = encodeURIComponent(`OpenGrail Correction: ${node.title} (${issueType})`);
     const body = encodeURIComponent(generateReportText());
-    window.location.href = `mailto:calix@calmdownoscar.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:peter@calmdownoscar.com?subject=${subject}&body=${body}`;
     setSubmitted(true);
   };
 
@@ -109,7 +115,7 @@ export function DocumentFeedback({ node }: DocumentFeedbackProps) {
             aria-label="Upvote tradition information"
           >
             <ThumbsUp size={13} />
-            <span>{upCount}</span>
+            {upCount > 0 && <span>{upCount}</span>}
           </button>
           <button
             type="button"
