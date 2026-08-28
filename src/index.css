@@ -1523,6 +1523,7 @@ button,
 }
 
 .document-pane__scroll {
+  flex: 1;
   min-height: 0;
   overflow-x: hidden;
   overflow-y: auto;
@@ -3419,9 +3420,8 @@ button,
 }
 
 /* Background Archival Seal Watermark on Document Reader */
-.document-pane {
-  position: relative;
-}
+/* Note: .document-pane already has position: absolute (line ~1425);
+   do NOT override it here or the pane drifts left of the viewport. */
 
 .document-pane::before {
   content: "";
