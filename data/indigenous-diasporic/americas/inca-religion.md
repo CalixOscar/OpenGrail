@@ -1,71 +1,62 @@
 ---
 id: inca-religion
-title: Inca Imperial Religion
+title: Inca Imperial Religion & Pachamama Cult
 cluster: Indigenous & Diasporic
-color: '#c3894d'
-era_start: c. 1400 CE
+color: '#b48655'
+era_start: c. 1438 CE
 epistemic_tier: academic_consensus
 summary: >-
-  The state cults and negotiated local religious worlds of Tawantinsuyu in the
-  Andes.
+  The state theology and cosmological system of the Inca Empire (Tawantinsuyu),
+  centered on the Sun God Inti, sacred landscape huacas, and Mother Earth (Pachamama).
 canonical_texts:
-  - Andean oral traditions
-  - Khipu and archaeological corpus
-  - Quechua ritual hymns in colonial records
+  - Ceque system cosmological alignments and ritual calendars
+  - Quipu administration and Garcilaso de la Vega chronicles
 relations:
-  - target: aztec-religion
-    type: parallel_concept
+  - target: chavin-culture
+    type: influenced_by
     certainty: academic_consensus
-origin_year: 1400
+  - target: animist-frameworks
+    type: branch_of
+    certainty: academic_consensus
+  - target: ancestor-veneration
+    type: branch_of
+    certainty: academic_consensus
+origin_year: 1438
 origin_geo:
-  lat: -13.4613
-  lng: -72.0061
-  place_name: 'Cuzco, Sacred Valley, Inca Empire, Peru'
+  lat: -13.5167
+  lng: -71.9789
+  place_name: 'Qorikancha (Temple of the Sun), Cusco, Peru'
 extinct_year: 1572
 key_tenets:
   - >-
-    Foundational Doctrine: The Inca state expanded rapidly across Tawantinsuyu
-    during the fifteenth and early sixteenth centuries, organizing royal
-    ancestor cults, solar institutions, pil...
+    Foundational Doctrine: Inti (the Sun) as divine progenitor of the Sapa Inca dynasty; Viracocha as the primordial creator of the cosmos; Pachamama (Mother Earth) as the sustainer of agricultural and biological life.
   - >-
-    Distinctive Practice: Inti, Viracocha, royal mummies, *huacas*, mountain
-    beings, reciprocal labor, divination, and offerings connected kin groups
-    with state and landscape. The capaco...
+    Distinctive Practice: Veneration of *huacas* (sacred mountain peaks, springs, rock outcrops) along the 42 radial *Ceque* lines radiating from Cusco; Inti Raymi winter solstice festivals; Capacocha ceremonial summit offerings.
   - >-
-    Core Orientation: The state cults and negotiated local religious worlds of
-    Tawantinsuyu in the Andes.
+    Core Orientation: Sacred imperial landscape geometry, solar communion, and reciprocity with Mother Earth.
 sources:
-  - title: 'Encyclopaedia Britannica: "Inca Imperial Religion"'
-    url: 'https://www.britannica.com/topic/inca-imperial-religion'
-  - title: 'Oxford Reference: Overview of Inca Imperial Religion'
-    url: 'https://www.oxfordreference.com/search?q=Inca%20Imperial%20Religion'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
-    url: 'https://ich.unesco.org/en/search?q=Inca%20Imperial%20Religion'
+  - title: 'Brian S. Bauer: "The Sacred Landscape of the Inca: The Cusco Ceque System"'
+    url: 'https://utpress.utexas.edu/'
+  - title: 'UNESCO World Heritage: City of Cuzco'
+    url: 'https://whc.unesco.org/en/list/273/'
 artifacts:
-  - title: Inca Imperial Religion Historical Sanctuary & Iconography
+  - title: Machu Picchu Sacred Intihuatana Solar Alignment Sanctuary
     imageUrl: /artifacts/inca-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Inca_Imperial_Religion'
-    provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
-    period: c. c. 1400 CE
+    sourceUrl: https://en.wikipedia.org/wiki/Machu_Picchu
+    provenance: Urubamba Province, Cusco Region, Peru
+    period: c. 1450 CE
     description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Inca Imperial Religion.
-  - title: Andean oral traditions & Sacred Relics
+      Masterpiece Inca royal estate and sanctuary featuring the Intihuatana ritual hitching post of the sun, engineered to align with sacred mountain peaks (Apus) and solstices.
+  - title: Qorikancha (Golden Temple of the Sun) Curved Ashlar Masonry
     imageUrl: /artifacts/inca-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Inca_Imperial_Religion'
-    provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
-    period: c. c. 1400 CE
+    sourceUrl: https://en.wikipedia.org/wiki/Qorikancha
+    provenance: Cusco, Peru
+    period: c. 1438 CE (Reign of Pachacuti)
     description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Inca
-      Imperial Religion.
+      The focal sanctuary of the entire Inca Empire, whose walls were once sheeted in solid gold plates, acting as the navel of the Ceque ritual radial line system.
 ---
 
-# Inca Imperial Religion
+# Inca Imperial Religion & Pachamama Cult
 
 ## Historical context
-
-The Inca state expanded rapidly across Tawantinsuyu during the fifteenth and early sixteenth centuries, organizing royal ancestor cults, solar institutions, pilgrimage centers, estates, and a calendrical ritual economy. It incorporated rather than erased many local Andean powers and sacred places. Most written descriptions date after Spanish invasion and must be read alongside archaeology, Indigenous-language testimony, and colonial political pressures.
-
-## Distinctives and comparative notes
-
-Inti, Viracocha, royal mummies, *huacas*, mountain beings, reciprocal labor, divination, and offerings connected kin groups with state and landscape. The capacocha sacrifices were exceptional high-level rites, not a summary of daily religion. “Inca religion” should not absorb all Quechua, Aymara, or Andean practice. Contemporary Andean communities sustain distinct relationships with earth, saints, ancestors, and mountains through histories that include but exceed the empire.
+Under Emperor Pachacuti in the 15th century, the Inca transformed the ancestral Andean cosmology into a continental state religion that integrated hundreds of ethnic deities into a unified solar and agricultural network across the Andes.

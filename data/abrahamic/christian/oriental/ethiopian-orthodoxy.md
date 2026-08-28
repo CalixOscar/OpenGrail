@@ -18,46 +18,37 @@ relations:
     certainty: academic_consensus
 origin_year: 350
 origin_geo:
-  lat: 31.1915
-  lng: 34.5358
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 12.0322
+  lng: 39.0433
+  place_name: 'Bete Giyorgis, Lalibela & Axum, Ethiopia'
 extinct_year: null
 key_tenets:
   - >-
-    Foundational Doctrine: The kingdom of Aksum adopted Christianity in the
-    fourth century through links with Alexandria. For centuries Ethiopian
-    bishops were appointed from Egypt, while ...
+    Foundational Doctrine: The kingdom of Aksum adopted Christianity in the fourth century through links with Alexandria. For centuries Ethiopian bishops were appointed from Egypt, while local monasteries developed a rich Ge'ez scriptural, liturgical, and historical literature.
   - >-
-    Distinctive Practice: Ethiopian Orthodoxy follows the Alexandrian family of
-    rites while preserving distinctive music, dance, fasting, sacred art, and
-    tabot-centered church practice. ...
+    Distinctive Practice: Ethiopian Orthodoxy follows the Alexandrian family of rites while preserving distinctive music, sacred dance, fasting, sacred art, and tabot-centered church practice.
   - >-
-    Core Orientation: An Oriental Orthodox tradition rooted in the
-    Christianization of Aksum and Ethiopia's Ge'ez literary culture.
+    Core Orientation: An Oriental Orthodox tradition rooted in the Christianization of Aksum and Ethiopia's Ge'ez literary culture.
 sources:
   - title: 'Encyclopaedia Britannica: "Ethiopian Orthodoxy"'
     url: 'https://www.britannica.com/topic/ethiopian-orthodoxy'
-  - title: 'Oxford Reference: Overview of Ethiopian Orthodoxy'
-    url: 'https://www.oxfordreference.com/search?q=Ethiopian%20Orthodoxy'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Ethiopian Orthodoxy'
-    url: 'https://www.cambridge.org/core/search?q=Ethiopian%20Orthodoxy'
+  - title: 'UNESCO World Heritage: Rock-Hewn Churches, Lalibela'
+    url: 'https://whc.unesco.org/en/list/18/'
 artifacts:
-  - title: Ethiopian Orthodoxy Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ethiopian-orthodoxy-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ethiopian_Orthodoxy'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 4th century CE
+  - title: Bete Giyorgis (Church of St. George) Monolithic Rock Cross
+    imageUrl: /artifacts/ethiopian-orthodox-tewahedo-1.jpg
+    sourceUrl: https://en.wikipedia.org/wiki/Church_of_Saint_George,_Lalibela
+    provenance: Lalibela, Amhara Region, Ethiopia
+    period: c. 12th–13th century CE (Reign of King Lalibela)
     description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ethiopian Orthodoxy.
-  - title: Ethiopian Orthodox biblical canon & Sacred Relics
-    imageUrl: /artifacts/ethiopian-orthodoxy-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ethiopian_Orthodoxy'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 4th century CE
+      World-famous Greek-cross shaped church carved downward 30 feet directly into solid red volcanic tuff, engineered as an earthly New Jerusalem.
+  - title: Monumental Stela of King Ezana at Axum
+    imageUrl: /artifacts/ethiopian-orthodox-tewahedo-2.jpg
+    sourceUrl: https://en.wikipedia.org/wiki/Kingdom_of_Aksum
+    provenance: Axum, Tigray Region, Ethiopia
+    period: c. 4th century CE
     description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ethiopian Orthodoxy.
+      24-meter-tall granite monolithic obelisk carved to represent a multi-story palace, marking the capital where Christianity was adopted as state religion under King Ezana in 330 CE.
 ---
 
 # Ethiopian Orthodoxy
