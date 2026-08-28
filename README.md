@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 OpenGrail
+# OpenGrail
 
 **An interactive 3D atlas and force-graph mapping the genealogical tree, theological evolution, and cross-cultural links of world religions, mythologies, and ethical philosophies.**
 
@@ -15,9 +15,9 @@
 
 <h3>
   <a href="https://www.calmdownoscar.com/opengrail/">Live Interactive Atlas</a>
-  <span> · </span>
+  <span> &middot; </span>
   <a href="#quick-start">Quick Start</a>
-  <span> · </span>
+  <span> &middot; </span>
   <a href="CONTRIBUTING.md">Contribute a Tradition</a>
 </h3>
 
@@ -25,19 +25,19 @@
 
 ---
 
-## ✨ Features
+## Features
 
-- 🧠 **Force-Directed Conceptual Graph**: Dynamic physics engine visually clustering traditions by philosophical affinity, nested denominations, and cross-faith influences.
-- 🌍 **3D Interactive Orthographic Globe**: Geographic coordinate projection with great-circle relationship arcs tracking historical origins across continents and eras.
-- ⏳ **Chronological Timeline Scrubber**: Filter traditions and historical splits dynamically from ancient antiquity through modern movements.
-- 🔍 **Fuzzy Search & Deep Linking**: Instant keyboard search across traditions, aliases, and canonical texts. Every tradition and view mode has a unique, shareable URL hash (e.g. `#tradition=stoicism&view=map`).
-- 🎓 **Epistemic Rigor**: Explicitly distinguishes between `academic_consensus`, `minority_scholarly`, `theological_claim`, and `speculative_fringe` so historical facts and devotional traditions remain clear.
-- 🖼️ **Museum-Grade Visual Artifacts**: Over 1,100 curated public-domain historical images, manuscripts, symbols, and architectural icons.
-- 📝 **Markdown-as-Database**: 100% static, fast, and git-native. Every tradition is a standalone Markdown file with validated YAML frontmatter compiled deterministically into `graph.json`.
+- **Force-Directed Conceptual Graph**: Dynamic physics engine visually clustering traditions by philosophical affinity, nested denominations, and cross-faith influences.
+- **3D Interactive Orthographic Globe**: Geographic coordinate projection with great-circle relationship arcs tracking historical origins across continents and eras.
+- **Chronological Timeline Scrubber**: Filter traditions and historical splits dynamically from ancient antiquity through modern movements.
+- **Fuzzy Search & Deep Linking**: Instant keyboard search across traditions, aliases, and canonical texts. Every tradition and view mode has a unique, shareable URL hash (e.g. `#tradition=stoicism&view=map`).
+- **Epistemic Rigor**: Explicitly distinguishes between `academic_consensus`, `minority_scholarly`, `theological_claim`, and `speculative_fringe` so historical facts and devotional traditions remain clear.
+- **Museum-Grade Visual Artifacts**: Over 1,100 curated public-domain historical images, manuscripts, symbols, and architectural icons.
+- **Markdown-as-Database**: 100% static, fast, and git-native. Every tradition is a standalone Markdown file with validated YAML frontmatter compiled deterministically into `graph.json`.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 18+
@@ -68,7 +68,7 @@ npm run preview
 
 ---
 
-## 🗺️ Content Model
+## Content Model
 
 Each file under `data/` serves as the single source of truth for one tradition. Frontmatter defines graph metadata, geographic coordinates, and outgoing lineage relations, while the Markdown body provides a scholarly summary.
 
@@ -93,7 +93,7 @@ data/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome community contributions! Whether you want to add an obscure regional philosophy, refine historical dates, or fix relationship connections:
 
@@ -104,7 +104,7 @@ We welcome community contributions! Whether you want to add an obscure regional 
 
 ---
 
-## 🙏 Acknowledgements & Inspirations
+## Acknowledgements & Inspirations
 
 - **[Simon E. Davies / Mythopia](https://www.youtube.com/@mythopia1)** — The foundational genealogical structure of the tradition tree was inspired by Simon Davies' pioneering visual research on *The Great Tree of Religion* (*Faithscape*). Support his work on [Patreon](https://www.patreon.com/Mythopia).
 - **Wikimedia Commons** — Photographic and manuscript provenance for public-domain artifacts.
@@ -112,6 +112,6 @@ We welcome community contributions! Whether you want to add an obscure regional 
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE) — free and open for educational, academic, and personal use.
