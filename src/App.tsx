@@ -231,6 +231,32 @@ function AppContent() {
           </div>
 
           <div className="topbar__tools">
+            <div className="tool-group tool-group--layers" aria-label="Layers and visibility toggles">
+              <span className="tool-group__label">Layers</span>
+              <div className="tool-group__buttons layer-buttons">
+                <button
+                  className={`layer-toggle-btn${showFilters ? ' layer-toggle-btn--active' : ''}`}
+                  type="button"
+                  onClick={() => setShowFilters((value) => !value)}
+                  aria-pressed={showFilters}
+                  title="Toggle filter bar"
+                >
+                  <SlidersHorizontal size={15} />
+                  <span>Filters</span>
+                </button>
+                <button
+                  className={`layer-toggle-btn${showTimeline ? ' layer-toggle-btn--active' : ''}`}
+                  type="button"
+                  onClick={() => setShowTimeline((value) => !value)}
+                  aria-pressed={showTimeline}
+                  title="Toggle timeline scrubber"
+                >
+                  <Calendar size={15} />
+                  <span>Timeline</span>
+                </button>
+              </div>
+            </div>
+
             <ViewSwitcher />
 
             {viewMode === 'brain' && (
@@ -278,32 +304,6 @@ function AppContent() {
                 </div>
               </>
             )}
-
-            <div className="tool-group" aria-label="Layers and views">
-              <span className="tool-group__label">Layers</span>
-              <div className="tool-group__buttons">
-                <button
-                  className={`cluster-toggle${showFilters ? ' cluster-toggle--active' : ''}`}
-                  type="button"
-                  onClick={() => setShowFilters((value) => !value)}
-                  aria-pressed={showFilters}
-                  title="Toggle filter bar"
-                >
-                  <SlidersHorizontal size={14} />
-                  Filters
-                </button>
-                <button
-                  className={`cluster-toggle${showTimeline ? ' cluster-toggle--active' : ''}`}
-                  type="button"
-                  onClick={() => setShowTimeline((value) => !value)}
-                  aria-pressed={showTimeline}
-                  title="Toggle timeline scrubber"
-                >
-                  <Calendar size={14} />
-                  Timeline
-                </button>
-              </div>
-            </div>
 
             <form className="graph-search" role="search" onSubmit={submitSearch}>
               <label htmlFor="graph-search-input">Search atlas</label>

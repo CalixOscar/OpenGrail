@@ -745,6 +745,46 @@ button,
   background: #151a23;
 }
 
+.layer-buttons {
+  border-radius: 7px;
+  background: #131720;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.layer-toggle-btn {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: auto !important;
+  height: 32px !important;
+  padding: 0 12px !important;
+  gap: 7px !important;
+  border-right: 1px solid var(--line) !important;
+  background: transparent !important;
+  color: #94a3b8 !important;
+  font-size: 11.5px !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+  white-space: nowrap !important;
+  transition: all 140ms ease !important;
+}
+
+.layer-toggle-btn:last-child {
+  border-right: 0 !important;
+}
+
+.layer-toggle-btn:hover {
+  background: rgba(255, 255, 255, 0.06) !important;
+  color: #ffffff !important;
+}
+
+.layer-toggle-btn--active {
+  background: rgba(100, 216, 192, 0.16) !important;
+  color: #64d8c0 !important;
+  box-shadow: inset 0 0 12px rgba(100, 216, 192, 0.2) !important;
+}
+
 .tool-group__buttons button {
   display: grid;
   width: 29px;
