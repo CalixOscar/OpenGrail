@@ -3,7 +3,7 @@ id: shamanic-traditions
 title: Shamanic Traditions
 cluster: Indigenous & Diasporic
 color: '#ad8050'
-era_start: ancient practices; modern comparative category
+era_start: 'c. 40,000 BCE to present'
 epistemic_tier: minority_scholarly
 summary: >-
   A comparative umbrella for specialized ritual mediation, healing, and spirit
@@ -12,10 +12,13 @@ canonical_texts:
   - Community-specific oral traditions
   - Healing and initiatory ritual corpora
 relations:
+  - target: upper-paleolithic-shamanism
+    type: branch_of
+    certainty: academic_consensus
   - target: animist-frameworks
     type: parallel_concept
     certainty: academic_consensus
-origin_year: 0
+origin_year: -40000
 origin_geo:
   lat: 7.1133
   lng: 4.4388

@@ -3,7 +3,7 @@ id: ancestor-veneration
 title: Ancestor Veneration
 cluster: Indigenous & Diasporic
 color: '#c09258'
-era_start: prehistoric; globally recurrent
+era_start: 'c. 100,000 BCE to present'
 epistemic_tier: academic_consensus
 summary: >-
   A cross-cultural family of practices sustaining reciprocal, moral, and ritual
@@ -12,13 +12,16 @@ canonical_texts:
   - Community-specific oral traditions
   - 'Genealogies, memorial texts, and ritual corpora'
 relations:
-  - target: confucianism
+  - target: paleolithic-mortuary-cult
+    type: branch_of
+    certainty: academic_consensus
+  - target: animist-frameworks
     type: parallel_concept
     certainty: academic_consensus
-  - target: yoruba-religion
+  - target: catalhoyuk-cult
     type: parallel_concept
     certainty: academic_consensus
-origin_year: 0
+origin_year: -100000
 origin_geo:
   lat: 7.3619
   lng: 4.3631

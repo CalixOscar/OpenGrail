@@ -13,7 +13,13 @@ canonical_texts:
   - The Descent of Inanna
   - Eridu Genesis
   - Ritual and administrative tablets
-relations: []
+relations:
+  - target: gobekli-tepe-sanctuary
+    type: influenced_by
+    certainty: minority_scholarly
+  - target: catalhoyuk-cult
+    type: influenced_by
+    certainty: minority_scholarly
 origin_year: -3500
 origin_geo:
   lat: 32.9691
