@@ -22,12 +22,12 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** None — clean state. AGPL/commercial licensing transition verified and published.
-**Task:**
-**Files touched:** `LICENSE`, `LICENSE-COMMERCIAL.md`, `LICENSE-CONTENT-MIT.md`, `LICENSING.md`, `README.md`, application source headers, `package.json`, and this note.
-**Next step:** Continue feature work from `main`; use a written Commercial Agreement for any proprietary deployment.
-**Gotchas:** The published history through commit `007686a` remains MIT and cannot be relicensed retroactively. `public/graph.json` is generated but intentionally tracked; `node_modules/` and `dist/` are ignored. Do not overwrite the existing mockup image.
-**Left by:** Codex (2026-08-27)
+**Status:** None — clean state. Expanded to 573 traditions across 11 clusters, with full-corpus search, community accuracy verification, print watermarking, and Philosophical & Ethical Systems cluster.
+**Task:** Global coverage expansion & community feedback mechanisms complete and deployed.
+**Files touched:** `src/components/DocumentFeedback.tsx`, `src/components/DocumentPane.tsx`, `src/types/graph.ts`, `src/index.css`, `public/assets/watermark-seal.svg`, `data/philosophical-ethical/*.md`, `data/ancient-americas/*.md`, `data/african-traditions/*.md`, `data/central-asian-siberian/*.md`, `data/southeast-asian-mainland/*.md`.
+**Next step:** Expand deep theological and mythological lore across remaining regional clusters.
+**Gotchas:** Maintain zero server dependency. All community feedback utilizes static-compatible GitHub Issue generators, mailto links, and persistent localStorage state.
+**Left by:** Antigravity (2026-08-28)
 
 ## Decisions Log
 <!-- Append dated decisions below. Keep entries short; put detailed plans in repo docs. -->
@@ -96,3 +96,22 @@ authored app/build sources, a separate OpenGrail Commercial License, and an MIT 
 license for the authored atlas data and documentation. Updated the README and package
 metadata, verified `npm run build`, and pushed commit `b3b53f5` to `main`. Historical MIT
 permissions through `007686a` remain explicitly preserved.
+
+### 2026-08-28 — Philosophical & Ethical Systems cluster
+Added the 11th cluster (`Philosophical & Ethical Systems`, `#38bdf8`) to model the evolution
+of human moral philosophy (Ma'at, Hammurabi, Ubuntu, Ahimsa, Confucianism, Aristotle, Stoicism,
+Islamic Akhlaq, Kantian Deontology, Utilitarianism, Universal Human Rights).
+
+### 2026-08-28 — Full-corpus search & community feedback
+Upgraded search ranking from simple title match to an 8-tier weighted index covering scriptures,
+theological tenets, places, artifacts, and full markdown content. Added static-compatible community
+accuracy voting (localStorage) and correction drawer with GitHub Issue and mailto integration.
+Added archival watermark seal for screen reading and high-resolution print/PDF exports.
+
+### 2026-08-28 — Global regional pillars and ethical expansion
+Integrated 19 regional pillars across the Ancient Americas, Africa, Sahara, Central Asia,
+Siberia, and Mainland Southeast Asia with verified coordinates, texts, and 38 authentic artifacts.
+Corrected coordinates for Lalibela (Ethiopian Orthodoxy) and Mount Kailash (Bön). Built the
+complete Philosophical & Ethical Systems cluster with 11 foundational moral philosophy pillars.
+Production build verified at 573 nodes and 903 links, and deployed live to `calmdownoscar.com/opengrail`.
+
