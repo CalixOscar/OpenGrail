@@ -21,46 +21,35 @@ relations:
     certainty: academic_consensus
 origin_year: 950
 origin_geo:
-  lat: 25.5727
-  lng: 82.6753
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: -8.3739
+  lng: 115.4509
+  place_name: 'Pura Besakih, Mount Agung, Bali, Indonesia'
 extinct_year: null
 key_tenets:
   - >-
-    Foundational Doctrine: Balinese religion developed through long interaction
-    among Austronesian ancestral practice, Indic court culture, Śaiva and
-    Buddhist ritual, and the legacy of Ja...
+    Foundational Doctrine: Balinese religion developed through long interaction among Austronesian ancestral practice, Indic court culture, Śaiva and Buddhist ritual, and the legacy of Java's Majapahit world.
   - >-
-    Distinctive Practice: Practice coordinates household shrines, temples,
-    priestly rites, offerings, calendrical festivals, irrigation associations,
-    and obligations among gods, humans, ...
+    Distinctive Practice: Tri Hita Karana (harmony between humans, nature, and the divine), Subak communal water irrigation temple networks (Tirtha), Galungan and Kuningan festivals, and elaborate cremation rites (Ngaben).
   - >-
-    Core Orientation: Balinese ritual and social traditions integrating Śaiva,
-    Buddhist, ancestral, and local cosmological inheritances.
+    Core Orientation: Balinese ritual and social traditions integrating Śaiva, Buddhist, ancestral, and local cosmological inheritances.
 sources:
   - title: 'Encyclopaedia Britannica: "Balinese Hinduism"'
-    url: 'https://www.britannica.com/topic/balinese-hinduism'
-  - title: 'Oxford Reference: Overview of Balinese Hinduism'
-    url: 'https://www.oxfordreference.com/search?q=Balinese%20Hinduism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
-    url: 'https://www.rep.routledge.com/search?query=Balinese%20Hinduism'
+    url: 'https://www.britannica.com/topic/Balinese-religion'
+  - title: 'UNESCO World Heritage: Cultural Landscape of Bali Province: the Subak System'
+    url: 'https://whc.unesco.org/en/list/1194/'
 artifacts:
-  - title: Balinese Hinduism Historical Sanctuary & Iconography
+  - title: Pura Besakih (The Mother Temple of Bali) on Mount Agung
     imageUrl: /artifacts/balinese-hinduism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Balinese_Hinduism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 10th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Balinese Hinduism.
-  - title: Veda recitations in Balinese liturgy & Sacred Relics
+    sourceUrl: https://en.wikipedia.org/wiki/Pura_Besakih
+    provenance: Mount Agung, Karangasem, Bali, Indonesia
+    period: c. 10th century CE to Present
+    description: The grandest and holiest sanctuary complex in Bali, built across terraced slopes with multi-tiered thatched Meru shrines dedicated to Shiva, Vishnu, and Brahma.
+  - title: Pura Ulun Danu Bratan Water Temple Sanctuary
     imageUrl: /artifacts/balinese-hinduism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Balinese_Hinduism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 10th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Balinese Hinduism.
+    sourceUrl: https://en.wikipedia.org/wiki/Pura_Ulun_Danu_Bratan
+    provenance: Lake Bratan, Bedugul, Bali, Indonesia
+    period: c. 1633 CE
+    description: Sacred lakeside water temple dedicated to Dewi Danu, goddess of rivers and lakes, central to Bali's ancient Subak agricultural irrigation network.
 ---
 
 # Balinese Hinduism
