@@ -35,6 +35,7 @@ import {
 
 export interface WorldMapViewProps {
   graphData: GraphData;
+  onSelectNode?: (nodeId: string | null) => void;
   className?: string;
 }
 
@@ -70,7 +71,7 @@ function colorWithAlpha(color: string, alpha: number): string {
   return normalized;
 }
 
-export function WorldMapView({ graphData, className = '' }: WorldMapViewProps) {
+export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldMapViewProps) {
   const {
     currentYear,
     selectedNodeId,
@@ -567,10 +568,15 @@ export function WorldMapView({ graphData, className = '' }: WorldMapViewProps) {
 
   const handleCanvasClick = () => {
     if (hoveredNodeId) {
-      selectNode(hoveredNodeId);
+      if (onSelectNode) {
+        onSelectNode(hoveredNodeId);
+      } else {
+        selectNode(hoveredNodeId);
+      }
       const node = nodeMap.get(hoveredNodeId);
-      if (node && node.origin_geo) {
-        targetRotationRef.current = [-node.origin_geo.lng, -node.origin_geo.lat, 0];
+      const geo = node?.origin_geo || (node as any)?.originGeo;
+      if (geo) {
+        targetRotationRef.current = [-geo.lng, -geo.lat, 0];
       }
     }
   };

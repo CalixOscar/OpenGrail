@@ -169,6 +169,12 @@ function AppContent() {
     }
   }, [contextSelectLink]);
 
+  useEffect(() => {
+    if (selectedNodeId || selectedLinkId) {
+      setDocumentOpen(true);
+    }
+  }, [selectedNodeId, selectedLinkId]);
+
   const submitSearch = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     const match = searchMatches[0];
@@ -385,7 +391,10 @@ function AppContent() {
           )}
 
           {loadState === 'ready' && viewMode === 'map' && (
-            <WorldMapView graphData={graphData} />
+            <WorldMapView
+              graphData={graphData}
+              onSelectNode={(nodeId) => selectNode(nodeId)}
+            />
           )}
 
           {loadState === 'loading' && (
