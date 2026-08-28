@@ -107,8 +107,8 @@ button,
 }
 
 .atlas-workspace {
-  display: grid;
-  grid-template-rows: auto auto minmax(0, 1fr) auto;
+  display: flex;
+  flex-direction: column;
   min-width: 0;
   height: 100%;
   flex: 1;
@@ -116,6 +116,19 @@ button,
   background:
     radial-gradient(circle at 50% 45%, rgba(46, 74, 88, 0.08), transparent 44%),
     #10131a;
+  overflow: hidden;
+}
+
+.filter-bar-wrapper {
+  flex-shrink: 0;
+  position: relative;
+  z-index: 15;
+}
+
+.timeline-wrapper {
+  flex-shrink: 0;
+  position: relative;
+  z-index: 25;
 }
 
 .icon-button {
@@ -1076,6 +1089,7 @@ button,
 /* Graph */
 
 .graph-stage {
+  flex: 1;
   position: relative;
   min-width: 0;
   min-height: 0;
