@@ -45,22 +45,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Thelema'
     url: 'https://brill.com/search?q=Thelema'
 artifacts:
-  - title: Thelema Historical Sanctuary & Iconography
-    imageUrl: /artifacts/thelema-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Thelema'
-    provenance: 'Cairo (Fustat), Egypt'
-    period: c. 1904 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Thelema.
-  - title: The Book of the Law & Sacred Relics
-    imageUrl: /artifacts/thelema-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Thelema'
-    provenance: 'Cairo (Fustat), Egypt'
-    period: c. 1904 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Thelema.
+  - title: "Thelemic Stele of Revealing"
+    imageUrl: "/artifacts/thelema-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:666-Stele_of_revealing-_tag_from_Cairo_Museum.jpg"
+    provenance: "Metadromos963; CC BY-SA 4.0"
+    period: "Image dated 1998"
+    description: "This image shows Thelemic Stele of Revealing, selected as a defining visual reference for Thelema."
+  - title: "Abbey of Thelema"
+    imageUrl: "/artifacts/thelema-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Abbey_of_Thelema_03.jpg"
+    provenance: "Erik Albers; CC0"
+    period: "Image dated 2017"
+    description: "This image shows Abbey of Thelema, selected as a defining visual reference for Thelema."
 ---
 
 # Thelema

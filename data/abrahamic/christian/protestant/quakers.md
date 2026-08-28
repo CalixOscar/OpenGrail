@@ -42,24 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Quakers'
     url: 'https://www.cambridge.org/core/search?q=Quakers'
 artifacts:
-  - title: Fox by Lely 2
-    imageUrl: /artifacts/quakers-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Fox_by_Lely_2.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1650s CE
-    description: Portrait of George Fox...
-  - title: George Fox
-    imageUrl: /artifacts/quakers-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:George_Fox.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1650s CE
-    description: >-
-      George Fox.
-
-
-      This image shows part of an engraving by "S. Allen" (published 1838) of a
-      painting by "S. Chinn". The provenance of the original painting is
-      unknown....
+  - title: "Portrait of George Fox, founder of the Religious Society of Friends"
+    imageUrl: "/artifacts/quakers-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Anti-Slavery_Society_Convention,_1840_by_Benjamin_Robert_Haydon.jpg"
+    provenance: "Benjamin Haydon; Public domain"
+    period: "Image dated 1841"
+    description: "This image shows Portrait of George Fox, founder of the Religious Society of Friends, selected as a defining visual reference for Quakers."
+  - title: "Plain interior of historic Jordans Friends Meeting House"
+    imageUrl: "/artifacts/quakers-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jordans_Youth_Hostel_-_geograph.org.uk_-_87759.jpg"
+    provenance: "David Squire; CC BY-SA 2.0"
+    period: "Image dated 2005"
+    description: "This image shows Plain interior of historic Jordans Friends Meeting House, selected as a defining visual reference for Quakers."
 ---
 
 # Quakers

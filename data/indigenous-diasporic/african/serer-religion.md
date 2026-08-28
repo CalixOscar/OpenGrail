@@ -40,22 +40,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Serer%20Religion'
 artifacts:
-  - title: Serer Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/serer-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Serer_Religion'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. precolonial era
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Serer Religion.
-  - title: Oral traditions & Sacred Relics
-    imageUrl: /artifacts/serer-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Serer_Religion'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. precolonial era
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Serer
-      Religion.
+  - title: "Sine Ngayene megalithic stone circles associated with ancient Serer burial"
+    imageUrl: "/artifacts/serer-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:M%C3%A9galitheS%C3%A9n%C3%A9gal.jpg"
+    provenance: "John Atherton; CC BY-SA 2.0"
+    period: "Image dated 1967"
+    description: "This image shows Sine Ngayene megalithic stone circles associated with ancient Serer burial, selected as a defining visual reference for Serer Religion."
+  - title: "Xooy traditional divination ceremony performed by Serer Saltigue"
+    imageUrl: "/artifacts/serer-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Early_20th_century_Yoruba_divination_board.jpg"
+    provenance: "Tamsier; CC BY-SA 3.0"
+    period: "20th century"
+    description: "This image shows Xooy traditional divination ceremony performed by Serer Saltigue, selected as a defining visual reference for Serer Religion."
 ---
 
 # Serer Religion

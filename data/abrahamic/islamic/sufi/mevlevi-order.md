@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Mevlevi Order'
     url: 'https://www.cambridge.org/core/search?q=Mevlevi%20Order'
 artifacts:
-  - title: Mustafa Kemal and Mevlevi Order March 1923
-    imageUrl: /artifacts/mevlevi-order-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_and_Mevlevi_Order_March_1923.png
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 13th century CE
-    description: Mustafa Kemal with sufies from Mevlevi order while visiting Konya...
-  - title: Quran & Sacred Relics
-    imageUrl: /artifacts/mevlevi-order-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_and_Mevlevi_Order_March_1923.png
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 13th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Mevlevi Order.
+  - title: "Mevlevi dervishes performing the disciplined sema"
+    imageUrl: "/artifacts/mevlevi-order-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:TFF.Rudolstadt_2007_Galata_Mevlevi_Ensemble.jpg"
+    provenance: "Johannes Rohr; CC BY-SA 3.0"
+    period: "Image dated 2007"
+    description: "This image shows Mevlevi dervishes performing the disciplined sema, selected as a defining visual reference for Mevlevi Order."
+  - title: "Rumi's mausoleum and Mevlana Museum in Konya"
+    imageUrl: "/artifacts/mevlevi-order-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mevlana_Museum_(Green_Mausoleum)_in_Konya_Turkey_By_Mardetanha_(10).JPG"
+    provenance: "Mardetanha; CC BY-SA 3.0"
+    period: "Image dated 2015"
+    description: "This image shows Rumi's mausoleum and Mevlana Museum in Konya, selected as a defining visual reference for Mevlevi Order."
 ---
 
 # Mevlevi Order

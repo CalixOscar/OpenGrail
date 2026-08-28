@@ -48,22 +48,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Ancestor%20Veneration'
 artifacts:
-  - title: Ancestor Veneration Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ancestor-veneration-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancestor_Veneration'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. prehistoric; globally recurrent
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ancestor Veneration.
-  - title: Community-specific oral traditions & Sacred Relics
-    imageUrl: /artifacts/ancestor-veneration-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancestor_Veneration'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. prehistoric; globally recurrent
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ancestor Veneration.
+  - title: "Ancestral tablets arranged on a traditional lineage hall altar"
+    imageUrl: "/artifacts/ancestor-veneration-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:THE_CONFUCIAN_TABLET_IN_THE_GREAT_HALL_OF_THE_SAGE,_PEKING.jpg"
+    provenance: "John Thomson; Public domain"
+    period: "Image dated 1898"
+    description: "This image shows Ancestral tablets arranged on a traditional lineage hall altar, selected as a defining visual reference for Ancestor Veneration."
+  - title: "Torajan tau-tau ancestor effigies"
+    imageUrl: "/artifacts/ancestor-veneration-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Houten_dodenpoppen_van_Toradja-groep_TMnr_60028789.jpg"
+    provenance: "Unknown author Unknown author; CC BY-SA 3.0"
+    period: "Image dated 1925"
+    description: "This image shows Torajan tau-tau ancestor effigies, selected as a defining visual reference for Ancestor Veneration."
 ---
 
 # Ancestor Veneration

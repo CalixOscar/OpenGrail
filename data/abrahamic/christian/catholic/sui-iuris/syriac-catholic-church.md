@@ -47,20 +47,18 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Catholic%20Church'
 artifacts:
-  - title: 046CupolaSPietro
-    imageUrl: /artifacts/syriac-catholic-church-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1782 CE
-    description: Città del Vaticano - Cupola della Basilica di S. Pietro...
-  - title: Bible in the Syriac tradition & Sacred Relics
-    imageUrl: /artifacts/syriac-catholic-church-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1782 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Syriac Catholic Church.
+  - title: "West Syriac Catholic liturgy of Saint James"
+    imageUrl: "/artifacts/syriac-catholic-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Syriac_Catholic_Cathedral,_Damascus_(2).jpg"
+    provenance: "Bernard Gagnon; CC BY-SA 4.0"
+    period: "Image dated 2010"
+    description: "This image shows West Syriac Catholic liturgy of Saint James, selected as a defining visual reference for Syriac Catholic Church."
+  - title: "Syriac Catholic patriarchal Cathedral of the Annunciation in Beirut"
+    imageUrl: "/artifacts/syriac-catholic-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:OurLadyofAnnunciationParishjf9625_04.JPG"
+    provenance: "Ramon FVelasquez; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Syriac Catholic patriarchal Cathedral of the Annunciation in Beirut, selected as a defining visual reference for Syriac Catholic Church."
 ---
 
 # Syriac Catholic Church

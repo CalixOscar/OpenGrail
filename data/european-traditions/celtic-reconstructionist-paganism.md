@@ -55,22 +55,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Celtic Reconstructionist Paganism'
     url: 'https://brill.com/search?q=Celtic%20Reconstructionist%20Paganism'
 artifacts:
-  - title: Celtic Reconstructionist Paganism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/celtic-reconstructionist-paganism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Celtic_Reconstructionist_Paganism'
-    provenance: 'Glastonbury, Somerset, England, UK'
-    period: c. 1980s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Celtic Reconstructionist Paganism.
-  - title: Medieval Irish and Welsh source literature & Sacred Relics
-    imageUrl: /artifacts/celtic-reconstructionist-paganism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Celtic_Reconstructionist_Paganism'
-    provenance: 'Glastonbury, Somerset, England, UK'
-    period: c. 1980s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Celtic Reconstructionist Paganism.
+  - title: "Celtic Reconstructionist devotional altar"
+    imageUrl: "/artifacts/celtic-reconstructionist-paganism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Druids,_in_the_early_morning_glow_of_the_sun.jpg"
+    provenance: "Andrew Dunn; CC BY-SA 2.0"
+    period: "Image dated 2005"
+    description: "This image shows Celtic Reconstructionist devotional altar, selected as a defining visual reference for Celtic Reconstructionist Paganism."
+  - title: "The Turoe Stone, iconic Iron Age Celtic ceremonial monolith"
+    imageUrl: "/artifacts/celtic-reconstructionist-paganism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Stone_of_Turoe.JPG"
+    provenance: "Dirk Huth; CC BY-SA 3.0"
+    period: "Image dated 2006"
+    description: "This image shows The Turoe Stone, iconic Iron Age Celtic ceremonial monolith, selected as a defining visual reference for Celtic Reconstructionist Paganism."
 ---
 
 # Celtic Reconstructionist Paganism

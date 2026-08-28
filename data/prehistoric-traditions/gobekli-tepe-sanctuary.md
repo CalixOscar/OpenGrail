@@ -47,24 +47,18 @@ sources:
   - title: 'UNESCO World Heritage Centre: Göbekli Tepe'
     url: 'https://whc.unesco.org/en/list/1572/'
 artifacts:
-  - title: Göbekli Tepe Enclosure C Megalithic T-Pillar Sanctuary
-    imageUrl: /artifacts/gobekli-tepe-sanctuary-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe'
-    provenance: 'Şanlıurfa, Southeastern Anatolia, Turkey'
-    period: 'c. 9,500–8,000 BCE (Pre-Pottery Neolithic A/B)'
-    description: >-
-      Circular monumental sanctuary enclosure featuring central monolithic
-      T-pillars up to 5.5 meters tall, representing stylized anthropomorphic
-      beings surrounded by animal guardian reliefs.
-  - title: High-Relief Monolith Carving of Predator and Vulture
-    imageUrl: /artifacts/gobekli-tepe-sanctuary-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe'
-    provenance: Göbekli Tepe Pillar 43 ("Vulture Stone")
-    period: 'c. 9,000 BCE'
-    description: >-
-      Intricate low- and high-relief carving depicting a vulture balancing a
-      sphere (symbol of the soul or cosmos) above snakes and predatory beasts,
-      reflecting Neolithic mortuary cosmology.
+  - title: "Vulture Stone sacred relief"
+    imageUrl: "/artifacts/gobekli-tepe-sanctuary-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Urfa_museum_Totem_sept_2019_4807.jpg"
+    provenance: "Dosseman; CC BY-SA 4.0"
+    period: "8000 BCE"
+    description: "This image shows Vulture Stone sacred relief, selected as a defining visual reference for Göbekli Tepe Megalithic Sanctuary Tradition."
+  - title: "Enclosure D megalithic sanctuary"
+    imageUrl: "/artifacts/gobekli-tepe-sanctuary-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Gobekli_Tepe,_enclosure_D_stela._%C5%9Eanl%C4%B1urfa_Museum.jpg"
+    provenance: "Dosseman; CC BY-SA 4.0"
+    period: "Image dated 2025"
+    description: "This image shows Enclosure D megalithic sanctuary, selected as a defining visual reference for Göbekli Tepe Megalithic Sanctuary Tradition."
 ---
 
 # Göbekli Tepe Megalithic Sanctuary Tradition

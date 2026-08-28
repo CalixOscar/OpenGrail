@@ -47,22 +47,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Neo-Confucianism'
 artifacts:
-  - title: Neo-Confucianism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/neo-confucianism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Neo-Confucianism'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 11th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Neo-Confucianism.
-  - title: Four Books & Sacred Relics
-    imageUrl: /artifacts/neo-confucianism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Neo-Confucianism'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 11th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Neo-Confucianism.
+  - title: "Diagram of the Supreme Ultimate"
+    imageUrl: "/artifacts/neo-confucianism-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Taijitu_de_Zhou_Dunyi.png"
+    provenance: "No machine-readable author provided. Edescas2 assumed (based on copyright claims).; Public domain"
+    period: "Image dated 2006"
+    description: "This image shows Diagram of the Supreme Ultimate, selected as a defining visual reference for Neo-Confucianism."
+  - title: "Neo-Confucian academy at Lushan"
+    imageUrl: "/artifacts/neo-confucianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Lushan_White_Lotus_Grotto_Academy.JPG"
+    provenance: "Gisling; CC BY 3.0"
+    period: "Image dated 2010"
+    description: "This image shows Neo-Confucian academy at Lushan, selected as a defining visual reference for Neo-Confucianism."
 ---
 
 # Neo-Confucianism

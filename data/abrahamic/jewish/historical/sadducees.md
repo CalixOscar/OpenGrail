@@ -42,22 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sadducees'
     url: 'https://www.cambridge.org/core/search?q=Sadducees'
 artifacts:
-  - title: Sadducees Historical Sanctuary & Iconography
-    imageUrl: /artifacts/sadducees-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sadducees'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 2nd century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Sadducees.
-  - title: 'Josephus, Jewish Antiquities & Sacred Relics'
-    imageUrl: /artifacts/sadducees-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sadducees'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 2nd century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Sadducees.
+  - title: "Ornate ossuary associated with the high-priestly family of Caiaphas"
+    imageUrl: "/artifacts/sadducees-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ossuary_of_the_high_priest_Caiaphas_P1180853.jpg"
+    provenance: "deror_avi; CC BY-SA 3.0"
+    period: "Image dated 2012"
+    description: "This image shows Ornate ossuary associated with the high-priestly family of Caiaphas, selected as a defining visual reference for Sadducees."
+  - title: "Reconstruction of the Temple institution central to Sadducean authority"
+    imageUrl: "/artifacts/sadducees-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jerusalem_second_temple.jpg"
+    provenance: "Midiman . Imported by Christophe cage 07:59, 12 November 2006 (UTC); CC BY 2.0"
+    period: "Image dated 2006"
+    description: "This image shows Reconstruction of the Temple institution central to Sadducean authority, selected as a defining visual reference for Sadducees."
 ---
 
 # Sadducees

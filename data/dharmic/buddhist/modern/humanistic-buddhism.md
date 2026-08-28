@@ -50,22 +50,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Humanistic%20Buddhism'
 artifacts:
-  - title: Humanistic Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/humanistic-buddhism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Humanistic_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 20th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Humanistic Buddhism.
-  - title: Humanistic Buddhism writings of Taixu & Sacred Relics
-    imageUrl: /artifacts/humanistic-buddhism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Humanistic_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 20th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Humanistic Buddhism.
+  - title: "Taixu, foundational advocate of modern Humanistic Buddhism"
+    imageUrl: "/artifacts/humanistic-buddhism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%E7%84%A6%E5%B1%B1%E4%BD%9B%E5%AD%A6%E9%99%A2%E8%AE%AD%E7%BB%83%E7%8F%AD%E8%AE%B00743.jpg"
+    provenance: "Cangminzho; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Taixu, foundational advocate of modern Humanistic Buddhism, selected as a defining visual reference for Humanistic Buddhism."
+  - title: "Dharma Drum Mountain World Center, a major Humanistic Buddhist institution"
+    imageUrl: "/artifacts/humanistic-buddhism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dharma_Drum_Mountain_Entrance_Road_Sign_20110206.jpg"
+    provenance: "玄史生; CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Dharma Drum Mountain World Center, a major Humanistic Buddhist institution, selected as a defining visual reference for Humanistic Buddhism."
 ---
 
 # Humanistic Buddhism

@@ -49,22 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Theosophy'
     url: 'https://brill.com/search?q=Theosophy'
 artifacts:
-  - title: Theosophy Historical Sanctuary & Iconography
-    imageUrl: /artifacts/theosophy-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Theosophy'
-    provenance: 'New York City, New York, USA'
-    period: c. 1875 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Theosophy.
-  - title: Isis Unveiled & Sacred Relics
-    imageUrl: /artifacts/theosophy-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Theosophy'
-    provenance: 'New York City, New York, USA'
-    period: c. 1875 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Theosophy.
+  - title: "Theosophy founder Helena Blavatsky"
+    imageUrl: "/artifacts/theosophy-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Blavatsky.006.jpg"
+    provenance: "unklar; Public domain"
+    period: "Image dated 1889"
+    description: "This image shows Theosophy founder Helena Blavatsky, selected as a defining visual reference for Theosophy."
+  - title: "Adyar Theosophical headquarters"
+    imageUrl: "/artifacts/theosophy-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Adyar_TG.jpg"
+    provenance: "unklar; Public domain"
+    period: "Image dated 2007"
+    description: "This image shows Adyar Theosophical headquarters, selected as a defining visual reference for Theosophy."
 ---
 
 # Theosophy

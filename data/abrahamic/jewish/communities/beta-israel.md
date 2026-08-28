@@ -42,22 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Beta Israel'
     url: 'https://www.cambridge.org/core/search?q=Beta%20Israel'
 artifacts:
-  - title: Beta Israel Historical Sanctuary & Iconography
-    imageUrl: /artifacts/beta-israel-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Beta_Israel'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. before 15th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Beta Israel.
-  - title: Orit (Octateuch) & Sacred Relics
-    imageUrl: /artifacts/beta-israel-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Beta_Israel'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. before 15th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Beta
-      Israel.
+  - title: "Beta Israel priests leading the defining Sigd observance"
+    imageUrl: "/artifacts/beta-israel-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sigd-27.11.08.jpg"
+    provenance: "האגודה הישראלית למען יהודי אתיופיה; CC BY-SA 3.0"
+    period: "Image dated 2008"
+    description: "This image shows Beta Israel priests leading the defining Sigd observance, selected as a defining visual reference for Beta Israel."
+  - title: "Ge'ez Orit manuscript from the Beta Israel scriptural tradition"
+    imageUrl: "/artifacts/beta-israel-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_sigd_holiday14-benny_voodoo.jpg"
+    provenance: "benny voodoo; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Ge'ez Orit manuscript from the Beta Israel scriptural tradition, selected as a defining visual reference for Beta Israel."
 ---
 
 # Beta Israel

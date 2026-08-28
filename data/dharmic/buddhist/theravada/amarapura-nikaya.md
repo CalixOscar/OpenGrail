@@ -48,22 +48,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Amarapura%20Nik%C4%81ya'
 artifacts:
-  - title: Amarapura Nikāya Historical Sanctuary & Iconography
-    imageUrl: /artifacts/amarapura-nikaya-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Amarapura_Nik%C4%81ya'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. 1803 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Amarapura Nikāya.
-  - title: Pāli Vinaya Piṭaka & Sacred Relics
-    imageUrl: /artifacts/amarapura-nikaya-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Amarapura_Nik%C4%81ya'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. 1803 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Amarapura Nikāya.
+  - title: "Portrait of Walitota Sri Gnanawimalatissa, founder of Amarapura Nikaya"
+    imageUrl: "/artifacts/amarapura-nikaya-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Most_Venerable_Walitota_Sri_Gnanawimalatisssa_Maha_Thera_(1766-1833).jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1806"
+    description: "This image shows Portrait of Walitota Sri Gnanawimalatissa, founder of Amarapura Nikaya, selected as a defining visual reference for Amarapura Nikāya."
+  - title: "Sri Lankan monastery of the Amarapura ordination lineage"
+    imageUrl: "/artifacts/amarapura-nikaya-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Sri_Lankan_Temple.png"
+    provenance: "Monsieurupanshu; CC BY-SA 4.0"
+    period: "Image dated 2020"
+    description: "This image shows Sri Lankan monastery of the Amarapura ordination lineage, selected as a defining visual reference for Amarapura Nikāya."
 ---
 
 # Amarapura Nikāya

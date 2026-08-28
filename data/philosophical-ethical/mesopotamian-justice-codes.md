@@ -38,20 +38,18 @@ sources:
   - title: 'Louvre Museum: The Stele of the Law Code of Hammurabi'
     url: 'https://www.louvre.fr/'
 artifacts:
-  - title: Basalt Stele of the Law Code of Hammurabi
-    imageUrl: /artifacts/hammurabi-code-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Code_of_Hammurabi
-    provenance: Susa / Babylon (Musée du Louvre, Paris)
-    period: c. 1754 BCE
-    description: >-
-      2.25-meter-tall black diorite stele inscribed with 282 legal statutes in cuneiform, crowned with Hammurabi receiving the laws from sun god Shamash.
-  - title: "Upper Relief: King Hammurabi and Sun God Shamash"
-    imageUrl: /artifacts/hammurabi-code-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Code_of_Hammurabi
-    provenance: Babylon (Louvre Museum)
-    period: c. 1750 BCE
-    description: >-
-      Detailed bas-relief showing Shamash seated on his celestial throne with rays emanating from his shoulders, bestowing the measuring rod of justice upon the king.
+  - title: "Upper relief of the Hammurabi Stele showing Shamash and Hammurabi"
+    imageUrl: "/artifacts/mesopotamian-justice-codes-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Code-de-Hammurabi-1.jpg"
+    provenance: "Rama; CC BY-SA 3.0 fr"
+    period: "Digital file published 2005"
+    description: "This image shows Upper relief of the Hammurabi Stele showing Shamash and Hammurabi, selected as a defining visual reference for Mesopotamian Justice Codes & Divine Jurisprudence."
+  - title: "Stele of the Vultures cuneiform monument"
+    imageUrl: "/artifacts/mesopotamian-justice-codes-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Stele_of_Vultures_detail_01.jpg"
+    provenance: "Unknown artist Unknown artist; CC BY-SA 3.0"
+    period: "Digital file published 2017"
+    description: "This image shows Stele of the Vultures cuneiform monument, selected as a defining visual reference for Mesopotamian Justice Codes & Divine Jurisprudence."
 ---
 
 # Mesopotamian Justice Codes & Divine Jurisprudence

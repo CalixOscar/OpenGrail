@@ -52,22 +52,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Hindu%20Traditions'
 artifacts:
-  - title: Hindu Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/hinduism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hindu_Traditions'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 500 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Hindu Traditions.
-  - title: Upaniṣads & Sacred Relics
-    imageUrl: /artifacts/hinduism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hindu_Traditions'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 500 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Hindu
-      Traditions.
+  - title: "Monumental Trimurti-Sadasiva at Elephanta"
+    imageUrl: "/artifacts/hinduism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Elephanta_Caves_entrance.jpg"
+    provenance: "Elidioo; CC BY-SA 4.0"
+    period: "19th century"
+    description: "This image shows Monumental Trimurti-Sadasiva at Elephanta, selected as a defining visual reference for Hindu Traditions."
+  - title: "Ganga arati at Varanasi, an iconic living Hindu ritual"
+    imageUrl: "/artifacts/hinduism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ganga_Aarti_in_evening_at_Dashashwamedh_ghat,_Varanasi.jpg"
+    provenance: "Sujay25; CC BY-SA 4.0"
+    period: "Image dated 2013"
+    description: "This image shows Ganga arati at Varanasi, an iconic living Hindu ritual, selected as a defining visual reference for Hindu Traditions."
 ---
 
 # Hindu Traditions

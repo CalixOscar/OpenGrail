@@ -45,22 +45,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Missionary Church of Kopimism'
     url: 'https://brill.com/search?q=Missionary%20Church%20of%20Kopimism'
 artifacts:
-  - title: Missionary Church of Kopimism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/kopimism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Missionary_Church_of_Kopimism'
-    provenance: 'London, England, UK'
-    period: c. 2010 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Missionary Church of Kopimism.
-  - title: Kopimist Constitution & Sacred Relics
-    imageUrl: /artifacts/kopimism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Missionary_Church_of_Kopimism'
-    provenance: 'London, England, UK'
-    period: c. 2010 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Missionary Church of Kopimism.
+  - title: "Kopimi sacred emblem"
+    imageUrl: "/artifacts/kopimism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kopimist_Wedding.jpg"
+    provenance: "Share Conference (The source not share the specific author(s) for this file); CC BY-SA 2.0"
+    period: "Image dated 2012"
+    description: "This image shows Kopimi sacred emblem, selected as a defining visual reference for Missionary Church of Kopimism."
+  - title: "Kopimist sacred symbol and ritual altar"
+    imageUrl: "/artifacts/kopimism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Marikinajf9328_34.JPG"
+    provenance: "Ramon FVelasquez; CC BY-SA 3.0"
+    period: "Image dated 2014"
+    description: "This image shows Kopimist sacred symbol and ritual altar, selected as a defining visual reference for Missionary Church of Kopimism."
 ---
 
 # Missionary Church of Kopimism

@@ -47,24 +47,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Vi%C5%9Bi%E1%B9%A3%E1%B9%AD%C4%81dvaita%20Ved%C4%81nta
 artifacts:
-  - title: Viśiṣṭādvaita Vedānta Historical Sanctuary & Iconography
-    imageUrl: /artifacts/vishishtadvaita-1.jpg
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/Vi%C5%9Bi%E1%B9%A3%E1%B9%AD%C4%81dvaita_Ved%C4%81nta
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 11th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Viśiṣṭādvaita Vedānta.
-  - title: Rāmānuja's Śrī Bhāṣya & Sacred Relics
-    imageUrl: /artifacts/vishishtadvaita-2.jpg
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/Vi%C5%9Bi%E1%B9%A3%E1%B9%AD%C4%81dvaita_Ved%C4%81nta
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 11th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Viśiṣṭādvaita Vedānta.
+  - title: "Ramanuja, founder-systematizer of Visistadvaita"
+    imageUrl: "/artifacts/vishishtadvaita-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ramanujacharya_Idol_in_a_temple.jpg"
+    provenance: "Nvvchar; CC BY-SA 3.0"
+    period: "Digital file published 2008"
+    description: "This image shows Ramanuja, founder-systematizer of Visistadvaita, selected as a defining visual reference for Viśiṣṭādvaita Vedānta."
+  - title: "Melkote temple, a principal sanctuary in Ramanuja's lineage"
+    imageUrl: "/artifacts/vishishtadvaita-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cheluvanarayana_Swamy_Temple,_Melkote_-_during_PHMSTBGP-2020_(1).jpg"
+    provenance: "Vinayaraj; CC BY-SA 4.0"
+    period: "Image dated 2020"
+    description: "This image shows Melkote temple, a principal sanctuary in Ramanuja's lineage, selected as a defining visual reference for Viśiṣṭādvaita Vedānta."
 ---
 
 # Viśiṣṭādvaita Vedānta

@@ -47,22 +47,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Church of All Worlds'
     url: 'https://brill.com/search?q=Church%20of%20All%20Worlds'
 artifacts:
-  - title: Church of All Worlds Historical Sanctuary & Iconography
-    imageUrl: /artifacts/church-of-all-worlds-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_All_Worlds'
-    provenance: 'London, England, UK'
-    period: c. 1962 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Church of All Worlds.
-  - title: Green Egg magazine & Sacred Relics
-    imageUrl: /artifacts/church-of-all-worlds-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_All_Worlds'
-    provenance: 'London, England, UK'
-    period: c. 1962 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Church of All Worlds.
+  - title: "Sacred Earth Mother Gaia iconography of the Church of All Worlds"
+    imageUrl: "/artifacts/church-of-all-worlds-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Venus_von_Willendorf_01.jpg"
+    provenance: "User:MatthiasKabel; CC BY 2.5"
+    period: "Image dated 2007"
+    description: "This image shows Sacred Earth Mother Gaia iconography of the Church of All Worlds, selected as a defining visual reference for Church of All Worlds."
+  - title: "Water-sharing ritual"
+    imageUrl: "/artifacts/church-of-all-worlds-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ritual_water_vessel_with_elephant._Gandhara.Met.jpg"
+    provenance: "Ismoon ( talk ); CC BY-SA 4.0"
+    period: "1st century"
+    description: "This image shows Water-sharing ritual, selected as a defining visual reference for Church of All Worlds."
 ---
 
 # Church of All Worlds

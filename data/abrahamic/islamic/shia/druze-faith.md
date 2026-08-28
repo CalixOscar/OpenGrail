@@ -41,25 +41,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Druze Faith'
     url: 'https://www.cambridge.org/core/search?q=Druze%20Faith'
 artifacts:
-  - title: DruzeOttomanHakim
-    imageUrl: /artifacts/druze-faith-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:DruzeOttomanHakim.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1017 CE
-    description: >-
-      Meeting of Druze and Ottoman leaders in Damascus, about the control of
-      Jebel Druze....
-  - title: Druze man
-    imageUrl: /artifacts/druze-faith-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Druze_man.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1017 CE
-    description: >-
-      Druze Man of Lebanon
-
-      This striking Druze is a sheikh of a village in the mountains near
-      Beit-Eddine. The clothes he wears today are similar in many ways to those
-      worn by his ancest...
+  - title: "Five-colored Druze star representing the cosmic principles"
+    imageUrl: "/artifacts/druze-faith-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hurfeish_Nabi_Sablan_Avney_Moreshet_caedf640.jpg"
+    provenance: "Jamal Ali (ג'מאל עלי); CC BY 2.5"
+    period: "Image dated 2026"
+    description: "This image shows Five-colored Druze star representing the cosmic principles, selected as a defining visual reference for Druze Faith."
+  - title: "Shrine of Nabi Shu'ayb, principal Druze pilgrimage sanctuary"
+    imageUrl: "/artifacts/druze-faith-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_29544_Nabi_Shuayb_Shrine.JPG"
+    provenance: "אמיר אבו גוש; CC BY 2.5"
+    period: "Image dated 2012"
+    description: "This image shows Shrine of Nabi Shu'ayb, principal Druze pilgrimage sanctuary, selected as a defining visual reference for Druze Faith."
 ---
 
 # Druze Faith

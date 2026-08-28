@@ -48,22 +48,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Anishinaabe%20Religious%20Traditions'
 artifacts:
-  - title: Anishinaabe Religious Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/anishinaabe-religions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Anishinaabe_Religious_Traditions'
-    provenance: 'Lake Superior (Anishinaabe), MI/ON'
-    period: c. precolonial
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Anishinaabe Religious Traditions.
-  - title: Aadizookaanag sacred narratives & Sacred Relics
-    imageUrl: /artifacts/anishinaabe-religions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Anishinaabe_Religious_Traditions'
-    provenance: 'Lake Superior (Anishinaabe), MI/ON'
-    period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Anishinaabe Religious Traditions.
+  - title: "Traditional Anishinaabe Ojibwe beaded bandolier ceremonial bag"
+    imageUrl: "/artifacts/anishinaabe-religions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bandolier_bag,_Ojibwe_People,_Honolulu_Museum_of_Art.jpg"
+    provenance: "Hiart; CC0"
+    period: "Image dated 2023"
+    description: "This image shows Traditional Anishinaabe Ojibwe beaded bandolier ceremonial bag, selected as a defining visual reference for Anishinaabe Religious Traditions."
+  - title: "Agawa Rock sacred pictographs on Lake Superior"
+    imageUrl: "/artifacts/anishinaabe-religions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Indian_Pictograms_-_Agawa_Rock,_Lake_Superior_Provincial_Park,_Ontario,_Canada_-_August_1987.jpg"
+    provenance: "Giorgio Galeotti; CC BY 4.0"
+    period: "Image dated 1986"
+    description: "This image shows Agawa Rock sacred pictographs on Lake Superior, selected as a defining visual reference for Anishinaabe Religious Traditions."
 ---
 
 # Anishinaabe Religious Traditions

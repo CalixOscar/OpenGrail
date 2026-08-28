@@ -44,22 +44,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Akkadian Religion'
     url: 'https://brill.com/search?q=Akkadian%20Religion'
 artifacts:
-  - title: Akkadian Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/akkadian-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Akkadian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2400 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Akkadian Religion.
-  - title: Akkadian incantation series & Sacred Relics
-    imageUrl: /artifacts/akkadian-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Akkadian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2400 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Akkadian Religion.
+  - title: "Akkadian Adda cylinder seal"
+    imageUrl: "/artifacts/akkadian-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Adda_Seal_Akkadian_Empire_2300_BC.jpg"
+    provenance: "Nic McPhee from Morris, Minnesota, USA; CC BY-SA 2.0"
+    period: "2300 BC"
+    description: "This image shows Akkadian Adda cylinder seal, selected as a defining visual reference for Akkadian Religion."
+  - title: "Divinized Naram-Sin victory stele"
+    imageUrl: "/artifacts/akkadian-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Stele_Naram_Sim_Louvre_Sb4.jpg"
+    provenance: "Unknown artist Unknown artist; Public domain"
+    period: "12th century BCE"
+    description: "This image shows Divinized Naram-Sin victory stele, selected as a defining visual reference for Akkadian Religion."
 ---
 
 # Akkadian Religion

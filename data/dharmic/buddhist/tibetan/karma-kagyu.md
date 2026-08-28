@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Karma%20Kagyu'
 artifacts:
-  - title: Karma Kagyu Historical Sanctuary & Iconography
-    imageUrl: /artifacts/karma-kagyu-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Karma_Kagyu'
-    provenance: 'Lhasa (Potala), U-Tsang, Tibet'
-    period: c. 12th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Karma Kagyu.
-  - title: Kangyur & Sacred Relics
-    imageUrl: /artifacts/karma-kagyu-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Karma_Kagyu'
-    provenance: 'Lhasa (Potala), U-Tsang, Tibet'
-    period: c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Karma
-      Kagyu.
+  - title: "The Karmapa's Black Crown ceremony, defining Karma Kagyu iconography"
+    imageUrl: "/artifacts/karma-kagyu-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:16_Karmapa_Statue_cf_09.jpg"
+    provenance: "Secretlondon; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows The Karmapa's Black Crown ceremony, defining Karma Kagyu iconography, selected as a defining visual reference for Karma Kagyu."
+  - title: "Rumtek Monastery, a principal modern Karma Kagyu seat"
+    imageUrl: "/artifacts/karma-kagyu-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Rumtek_Monastery_-_Sikkim_-_Wikipedia_(1).jpg"
+    provenance: "RajashreeTalukdar; CC BY-SA 3.0"
+    period: "Image dated 2000"
+    description: "This image shows Rumtek Monastery, a principal modern Karma Kagyu seat, selected as a defining visual reference for Karma Kagyu."
 ---
 
 # Karma Kagyu

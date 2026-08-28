@@ -47,22 +47,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Burmese%20Buddhism'
 artifacts:
-  - title: Burmese Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/burmese-buddhism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Burmese_Buddhism'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 11th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Burmese Buddhism.
-  - title: Pāli Tipiṭaka & Sacred Relics
-    imageUrl: /artifacts/burmese-buddhism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Burmese_Buddhism'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 11th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Burmese Buddhism.
+  - title: "Mahamuni Buddha image, a supreme devotional icon of Myanmar"
+    imageUrl: "/artifacts/burmese-buddhism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mahamuni_Buddha_temple,_Mandalay,_Myanmar_01.jpg"
+    provenance: "Sgroey; CC BY-SA 4.0"
+    period: "Image dated 2016"
+    description: "This image shows Mahamuni Buddha image, a supreme devotional icon of Myanmar, selected as a defining visual reference for Burmese Buddhism."
+  - title: "Shwedagon Pagoda, Myanmar's preeminent Buddhist shrine"
+    imageUrl: "/artifacts/burmese-buddhism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:20160813_-_Shwedagon_Pagoda_in_Yangon,_Myanmar_-_9998.jpg"
+    provenance: "Jakub Hałun; CC BY-SA 4.0"
+    period: "Image dated 2016"
+    description: "This image shows Shwedagon Pagoda, Myanmar's preeminent Buddhist shrine, selected as a defining visual reference for Burmese Buddhism."
 ---
 
 # Burmese Buddhism

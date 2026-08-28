@@ -48,24 +48,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Evangelical%20Lutheran%20Church%20in%20America
 artifacts:
-  - title: The Logo of the Evangelical Lutheran Church in America
-    imageUrl: /artifacts/evangelical-lutheran-church-america-1.jpg
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/File:The_Logo_of_the_Evangelical_Lutheran_Church_in_America.png
-    provenance: 'Wittenberg, Saxony, Germany'
-    period: c. 1988 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Evangelical Lutheran Church in America.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/evangelical-lutheran-church-america-2.jpg
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/File:The_Logo_of_the_Evangelical_Lutheran_Church_in_America.png
-    provenance: 'Wittenberg, Saxony, Germany'
-    period: c. 1988 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Evangelical Lutheran Church in America.
+  - title: "Worship at an Evangelical Lutheran Church in America assembly"
+    imageUrl: "/artifacts/evangelical-lutheran-church-america-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:ELCA_Churchwide_Assembly_(9519011418).jpg"
+    provenance: "roanokecollege; CC BY 2.0"
+    period: "Image dated 2013"
+    description: "This image shows Worship at an Evangelical Lutheran Church in America assembly, selected as a defining visual reference for Evangelical Lutheran Church in America."
+  - title: "The Lutheran Center in Chicago, ELCA churchwide offices"
+    imageUrl: "/artifacts/evangelical-lutheran-church-america-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:John_J._Kinsella_Resurrection_Window_at_St._James_Ev._Lutheran_Church.jpg"
+    provenance: "OliviaBecker11; CC BY-SA 4.0"
+    period: "Image dated 2021"
+    description: "This image shows The Lutheran Center in Chicago, ELCA churchwide offices, selected as a defining visual reference for Evangelical Lutheran Church in America."
 ---
 
 # Evangelical Lutheran Church in America

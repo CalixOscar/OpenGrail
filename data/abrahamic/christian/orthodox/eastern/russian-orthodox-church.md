@@ -47,22 +47,18 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Russian%20Orthodox%20Church'
 artifacts:
-  - title: Russian Orthodox Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/russian-orthodox-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Russian_Orthodox_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 988 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Russian Orthodox Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/russian-orthodox-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Russian_Orthodox_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 988 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Russian Orthodox Church.
+  - title: "Rublev's Trinity, the preeminent Russian Orthodox icon"
+    imageUrl: "/artifacts/russian-orthodox-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Andrey_Rublev_-_%D0%A1%D0%B2._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg"
+    provenance: "Andrei Rublev; Public domain"
+    period: "Image dated 1425"
+    description: "This image shows Rublev's Trinity, the preeminent Russian Orthodox icon, selected as a defining visual reference for Russian Orthodox Church."
+  - title: "Cathedral of Christ the Saviour, major Moscow patriarchal sanctuary"
+    imageUrl: "/artifacts/russian-orthodox-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Klages_-_Interior_of_Cathedral_of_Christ_Saviour_in_Moscow.jpg"
+    provenance: "Fyodor Klages; Public domain"
+    period: "Image dated 2007"
+    description: "This image shows Cathedral of Christ the Saviour, major Moscow patriarchal sanctuary, selected as a defining visual reference for Russian Orthodox Church."
 ---
 
 # Russian Orthodox Church

@@ -49,22 +49,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Prince%20Philip%20Movement'
 artifacts:
-  - title: Prince Philip Movement Historical Sanctuary & Iconography
-    imageUrl: /artifacts/prince-philip-movement-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Prince_Philip_Movement'
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. mid-20th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Prince Philip Movement.
-  - title: Yaohnanen oral histories & Sacred Relics
-    imageUrl: /artifacts/prince-philip-movement-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Prince_Philip_Movement'
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. mid-20th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Prince Philip Movement.
+  - title: "Yaohnanen elders presenting ceremonial portraits on Tanna"
+    imageUrl: "/artifacts/prince-philip-movement-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Yaohnanen_Tribesmen_Show_Pictures_of_2007_Visit_with_Prince_Philip.jpg"
+    provenance: "Christopher Hogue Thompson; CC BY-SA 3.0"
+    period: "Image dated 2012"
+    description: "This image shows Yaohnanen elders presenting ceremonial portraits on Tanna, selected as a defining visual reference for Prince Philip Movement."
+  - title: "Traditional nakamal sacred meeting ground on Tanna"
+    imageUrl: "/artifacts/prince-philip-movement-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kastom_Lives_On_(117492817).jpeg"
+    provenance: "Graham Crumb; CC BY-SA 3.0"
+    period: "Image dated 2015"
+    description: "This image shows Traditional nakamal sacred meeting ground on Tanna, selected as a defining visual reference for Prince Philip Movement."
 ---
 
 # Prince Philip Movement

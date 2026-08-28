@@ -49,22 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Stoicism'
     url: 'https://brill.com/search?q=Stoicism'
 artifacts:
-  - title: Stoicism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/stoicism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Stoicism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 300 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Stoicism.
-  - title: Fragments of the Early Stoics & Sacred Relics
-    imageUrl: /artifacts/stoicism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Stoicism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 300 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Stoicism.
+  - title: "Portrait bust of Zeno"
+    imageUrl: "/artifacts/stoicism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Zeno_of_Citium2.jpg"
+    provenance: "user:shakko; CC BY-SA 3.0"
+    period: "Image dated 2008"
+    description: "This image shows Portrait bust of Zeno, selected as a defining visual reference for Stoicism."
+  - title: "Painted Stoa philosophical site"
+    imageUrl: "/artifacts/stoicism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_excavated_area_of_the_North_side_of_the_Ancient_Agora_of_Athens_on_August_13,_2020.jpg"
+    provenance: "George E. Koronaios; CC0"
+    period: "5th century"
+    description: "This image shows Painted Stoa philosophical site, selected as a defining visual reference for Stoicism."
 ---
 
 # Stoicism

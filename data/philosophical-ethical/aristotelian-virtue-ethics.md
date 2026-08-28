@@ -43,20 +43,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: "Virtue Ethics"'
     url: 'https://plato.stanford.edu/entries/ethics-virtue/'
 artifacts:
-  - title: Roman Bust Portrait of Aristotle
-    imageUrl: /artifacts/aristotelian-ethics-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Aristotle
-    provenance: Roman copy of Greek bronze original (Palazzo Altemps, Rome)
-    period: c. 330 BCE Original
-    description: >-
-      Marble portrait bust of the philosopher Aristotle whose Nicomachean Ethics founded systematic Western character philosophy.
-  - title: The School of Athens Fresco by Raphael
-    imageUrl: /artifacts/aristotelian-ethics-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/The_School_of_Athens
-    provenance: Apostolic Palace, Vatican City
-    period: c. 1509–1511 CE
-    description: >-
-      Renaissance fresco depicting Plato pointing toward the celestial forms while Aristotle gestures horizontally toward empirical earthly ethics.
+  - title: "Roman marble portrait bust of Aristotle"
+    imageUrl: "/artifacts/aristotelian-virtue-ethics-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Aristoteles_Louvre.jpg"
+    provenance: "Eric Gaba ( User:Sting ); CC BY-SA 2.5"
+    period: "2nd century AD"
+    description: "This image shows Roman marble portrait bust of Aristotle, selected as a defining visual reference for Aristotelian & Classical Virtue Ethics."
+  - title: "Greek manuscript leaf of Aristotle's Nicomachean Ethics"
+    imageUrl: "/artifacts/aristotelian-virtue-ethics-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Aristotle,_Nicomachean_Ethics,_Book_6.jpg"
+    provenance: "Aristotle; Public domain"
+    period: "Late 15th century"
+    description: "This image shows Greek manuscript leaf of Aristotle's Nicomachean Ethics, selected as a defining visual reference for Aristotelian & Classical Virtue Ethics."
 ---
 
 # Aristotelian & Classical Virtue Ethics

@@ -45,22 +45,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Rinzai%20Zen'
 artifacts:
-  - title: Rinzai Zen Historical Sanctuary & Iconography
-    imageUrl: /artifacts/rinzai-zen-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rinzai_Zen'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 12th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Rinzai Zen.
-  - title: Record of Linji & Sacred Relics
-    imageUrl: /artifacts/rinzai-zen-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rinzai_Zen'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Rinzai Zen.
+  - title: "Portrait of Eisai, a founding transmitter of Rinzai Zen in Japan"
+    imageUrl: "/artifacts/rinzai-zen-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Myoan-Eisai-Kennin-ji-Portrait.png"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "12 th century"
+    description: "This image shows Portrait of Eisai, a founding transmitter of Rinzai Zen in Japan, selected as a defining visual reference for Rinzai Zen."
+  - title: "Kennin-ji, Japan's oldest Zen temple and an early Rinzai center"
+    imageUrl: "/artifacts/rinzai-zen-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Young_Women_at_Kennin-ji_Zen_Temple_-_Kyoto_-_Japan_(47929430671).jpg"
+    provenance: "Adam Jones from Kelowna, BC, Canada; CC BY-SA 2.0"
+    period: "Image dated 2019"
+    description: "This image shows Kennin-ji, Japan's oldest Zen temple and an early Rinzai center, selected as a defining visual reference for Rinzai Zen."
 ---
 
 # Rinzai Zen

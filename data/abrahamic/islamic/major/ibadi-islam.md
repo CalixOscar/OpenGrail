@@ -42,21 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ibadi Islam'
     url: 'https://www.cambridge.org/core/search?q=Ibadi%20Islam'
 artifacts:
-  - title: Branches of Ibadism (Islamic branch)
-    imageUrl: /artifacts/ibadi-islam-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Branches_of_Ibadism_(Islamic_branch).jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 7th century CE
-    description: >-
-      Branches of Ibadi Islam: Omani Ibadism (Eastern Ibadism) and Maghrebi
-      Ibadism (North African Ibadism)....
-  - title: Ghardaia01
-    imageUrl: /artifacts/ibadi-islam-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ghardaia01.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 7th century CE
-    description: 'Ghardaia, Algeria self-made, October 1970...'
+  - title: "Nizwa mosque in Oman's historic Ibadi scholarly center"
+    imageUrl: "/artifacts/ibadi-islam-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sultan_Qaboos_Mosque_1.jpg"
+    provenance: "https://www.flickr.com/photos/130649623@N05/; CC BY-SA 2.0"
+    period: "Image dated 2013"
+    description: "This image shows Nizwa mosque in Oman's historic Ibadi scholarly center, selected as a defining visual reference for Ibadi Islam."
+  - title: "Sultan Qaboos Grand Mosque in Muscat, Oman"
+    imageUrl: "/artifacts/ibadi-islam-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sultan_Qaboos_Grand_Mosque_(1).jpg"
+    provenance: "Mostafameraji; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Sultan Qaboos Grand Mosque in Muscat, Oman, selected as a defining visual reference for Ibadi Islam."
 ---
 
 # Ibadi Islam

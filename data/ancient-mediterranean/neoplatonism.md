@@ -49,22 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Neoplatonism'
     url: 'https://brill.com/search?q=Neoplatonism'
 artifacts:
-  - title: Neoplatonism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/neoplatonism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Neoplatonism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. 3rd century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Neoplatonism.
-  - title: Plotinus's Enneads & Sacred Relics
-    imageUrl: /artifacts/neoplatonism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Neoplatonism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. 3rd century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Neoplatonism.
+  - title: "Ancient portrait associated with Plotinus"
+    imageUrl: "/artifacts/neoplatonism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_of_a_philosopher,_maybe_Plutarch,_2nd_century_BC,_AM_Delphi,_0135.jpg"
+    provenance: "Zde; CC BY-SA 4.0"
+    period: "2nd century BC"
+    description: "This image shows Ancient portrait associated with Plotinus, selected as a defining visual reference for Neoplatonism."
+  - title: "Manuscript of Proclus's theology"
+    imageUrl: "/artifacts/neoplatonism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Proclus,_Venice,_Gr._547,_fol._1r.jpg"
+    provenance: "Proclus; Public domain"
+    period: "Digital file published 2015"
+    description: "This image shows Manuscript of Proclus's theology, selected as a defining visual reference for Neoplatonism."
 ---
 
 # Neoplatonism

@@ -48,22 +48,18 @@ sources:
       Christianity
     url: 'https://www.cambridge.org/core/search?q=Marcionite%20Christianity'
 artifacts:
-  - title: M.Sander - Marcion õpetamas
-    imageUrl: /artifacts/marcionite-christianity-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:M.Sander_-_Marcion_%C3%B5petamas.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 140 CE
-    description: Wikimediasse laetud autori ja autoriõiguste valdaja Mart Sanderi poolt....
-  - title: Evangelion & Sacred Relics
-    imageUrl: /artifacts/marcionite-christianity-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:M.Sander_-_Marcion_%C3%B5petamas.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 140 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Marcionite Christianity.
+  - title: "Historical portrait engraving of Marcion of Sinope"
+    imageUrl: "/artifacts/marcionite-christianity-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Apostle_John_and_Marcion_of_Sinope,_from_JPM_LIbrary_MS_748,_11th_c.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "11th century"
+    description: "This image shows Historical portrait engraving of Marcion of Sinope, selected as a defining visual reference for Marcionite Christianity."
+  - title: "Manuscript of the principal ancient textual witness to Marcionite teaching"
+    imageUrl: "/artifacts/marcionite-christianity-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tertullian.jpg"
+    provenance: "Wikimedia Commons; Public domain"
+    period: "Digital file published 2011"
+    description: "This image shows Manuscript of the principal ancient textual witness to Marcionite teaching, selected as a defining visual reference for Marcionite Christianity."
 ---
 
 # Marcionite Christianity

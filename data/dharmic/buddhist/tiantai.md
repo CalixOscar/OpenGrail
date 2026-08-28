@@ -42,22 +42,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Tiantai%20Buddhism'
 artifacts:
-  - title: Tiantai Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/tiantai-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tiantai_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 6th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Tiantai Buddhism.
-  - title: Lotus Sūtra & Sacred Relics
-    imageUrl: /artifacts/tiantai-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tiantai_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 6th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Tiantai Buddhism.
+  - title: "Zhiyi, principal systematizer of Tiantai Buddhism"
+    imageUrl: "/artifacts/tiantai-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sramana_Zhiyi.jpeg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Before the 20th century"
+    description: "This image shows Zhiyi, principal systematizer of Tiantai Buddhism, selected as a defining visual reference for Tiantai Buddhism."
+  - title: "Guoqing Temple on Mount Tiantai, ancestral seat of the school"
+    imageUrl: "/artifacts/tiantai-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Guoqingsi001r.jpg"
+    provenance: "me, Joshtinho; Public domain"
+    period: "Image dated 2006"
+    description: "This image shows Guoqing Temple on Mount Tiantai, ancestral seat of the school, selected as a defining visual reference for Tiantai Buddhism."
 ---
 
 # Tiantai Buddhism

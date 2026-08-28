@@ -45,22 +45,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Eleusinian Mysteries'
     url: 'https://brill.com/search?q=Eleusinian%20Mysteries'
 artifacts:
-  - title: Eleusinian Mysteries Historical Sanctuary & Iconography
-    imageUrl: /artifacts/eleusinian-mysteries-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Eleusinian_Mysteries'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 8th century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Eleusinian Mysteries.
-  - title: Homeric Hymn to Demeter & Sacred Relics
-    imageUrl: /artifacts/eleusinian-mysteries-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Eleusinian_Mysteries'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 8th century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Eleusinian Mysteries.
+  - title: "Ninnion initiation tablet from Eleusis"
+    imageUrl: "/artifacts/eleusinian-mysteries-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:NAMA_Myst%C3%A8res_d%27Eleusis.jpg"
+    provenance: "No machine-readable author provided. Marsyas assumed (based on copyright claims).; Public domain"
+    period: "Image dated 2005"
+    description: "This image shows Ninnion initiation tablet from Eleusis, selected as a defining visual reference for Eleusinian Mysteries."
+  - title: "Eleusinian Telesterion"
+    imageUrl: "/artifacts/eleusinian-mysteries-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_ruins_of_the_Telesterion_at_the_Sanctuary_of_Demeter_in_Eleusis_on_5_April_2019.jpg"
+    provenance: "George E. Koronaios; CC0"
+    period: "Image dated 2019"
+    description: "This image shows Eleusinian Telesterion, selected as a defining visual reference for Eleusinian Mysteries."
 ---
 
 # Eleusinian Mysteries

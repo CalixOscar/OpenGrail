@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81y%C4%81na%20Buddhism'
 artifacts:
-  - title: Mahāyāna Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/mahayana-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81y%C4%81na_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 1st century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Mahāyāna Buddhism.
-  - title: Prajñāpāramitā sūtras & Sacred Relics
-    imageUrl: /artifacts/mahayana-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81y%C4%81na_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 1st century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Mahāyāna Buddhism.
+  - title: "Avalokitesvara image expressing the Mahayana bodhisattva ideal"
+    imageUrl: "/artifacts/mahayana-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:India,_madhya_pradesh_(sanch),_bodhisattva_avalokiteshvara_(torso_sanchi)_900_ca_03.JPG"
+    provenance: "sailko; CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Avalokitesvara image expressing the Mahayana bodhisattva ideal, selected as a defining visual reference for Mahāyāna Buddhism."
+  - title: "Illustrated Prajnaparamita manuscript of Mahayana wisdom literature"
+    imageUrl: "/artifacts/mahayana-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Three_Illustrated_Palm_leaves_from_a_Prajnaparamita.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1000"
+    description: "This image shows Illustrated Prajnaparamita manuscript of Mahayana wisdom literature, selected as a defining visual reference for Mahāyāna Buddhism."
 ---
 
 # Mahāyāna Buddhism

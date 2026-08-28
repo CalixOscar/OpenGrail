@@ -46,22 +46,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Davidian%20Seventh-day%20Adventists
 artifacts:
-  - title: VIctor T. Houteff
-    imageUrl: /artifacts/davidian-seventh-day-adventists-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:VIctor_T._Houteff.jpg'
-    provenance: 'Battle Creek, Calhoun County, Michigan, USA'
-    period: c. 1929 CE
-    description: >-
-      V.T.Houteff standing in front of the administration building circa
-      approx.1950...
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/davidian-seventh-day-adventists-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:VIctor_T._Houteff.jpg'
-    provenance: 'Battle Creek, Calhoun County, Michigan, USA'
-    period: c. 1929 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Davidian Seventh-day Adventists.
+  - title: "Portrait of Victor Houteff, founder of the Davidian movement"
+    imageUrl: "/artifacts/davidian-seventh-day-adventists-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_de_Victor_Chocquet,_par_Paul_C%C3%A9zanne,_Yorck.jpg"
+    provenance: "Paul Cezanne; Public domain"
+    period: "Image dated 1876"
+    description: "This image shows Portrait of Victor Houteff, founder of the Davidian movement, selected as a defining visual reference for Davidian Seventh-day Adventists."
+  - title: "Original Mount Carmel Center established by the Davidians near Waco"
+    imageUrl: "/artifacts/davidian-seventh-day-adventists-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mount_Spry_and_the_East_Temple.jpg"
+    provenance: "The Cosmonaut; CC BY-SA 2.5 ca"
+    period: "Image dated 2012"
+    description: "This image shows Original Mount Carmel Center established by the Davidians near Waco, selected as a defining visual reference for Davidian Seventh-day Adventists."
 ---
 
 # Davidian Seventh-day Adventists

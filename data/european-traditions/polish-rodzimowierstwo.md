@@ -50,22 +50,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Polish Rodzimowierstwo'
     url: 'https://brill.com/search?q=Polish%20Rodzimowierstwo'
 artifacts:
-  - title: Polish Rodzimowierstwo Historical Sanctuary & Iconography
-    imageUrl: /artifacts/polish-rodzimowierstwo-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Polish_Rodzimowierstwo'
-    provenance: 'London, England, UK'
-    period: c. 1990s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Polish Rodzimowierstwo.
-  - title: Polish folklore collections & Sacred Relics
-    imageUrl: /artifacts/polish-rodzimowierstwo-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Polish_Rodzimowierstwo'
-    provenance: 'London, England, UK'
-    period: c. 1990s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Polish Rodzimowierstwo.
+  - title: "Polish Native Faith Perun shrine"
+    imageUrl: "/artifacts/polish-rodzimowierstwo-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Szczodre_Gody_MIR_4.jpg"
+    provenance: "Pola lilla; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Polish Native Faith Perun shrine, selected as a defining visual reference for Polish Rodzimowierstwo."
+  - title: "Rekawka Slavic pagan festival at Krakus Mound in Krakow"
+    imageUrl: "/artifacts/polish-rodzimowierstwo-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:KopiecKraka-DekoracjaNaSzczycieWDniuR%C4%99kawki-POL,_Krak%C3%B3w.jpg"
+    provenance: "Mach240390; CC BY 3.0"
+    period: "Image dated 2016"
+    description: "This image shows Rekawka Slavic pagan festival at Krakus Mound in Krakow, selected as a defining visual reference for Polish Rodzimowierstwo."
 ---
 
 # Polish Rodzimowierstwo

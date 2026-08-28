@@ -45,22 +45,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shugend%C5%8D'
 artifacts:
-  - title: Shugendō Historical Sanctuary & Iconography
-    imageUrl: /artifacts/shugendo-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shugend%C5%8D'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 7th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Shugendō.
-  - title: Shugendō ritual manuals & Sacred Relics
-    imageUrl: /artifacts/shugendo-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shugend%C5%8D'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 7th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Shugendō.
+  - title: "Image of En no Gyoja"
+    imageUrl: "/artifacts/shugendo-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hirashimizu_Gyoja-yama_En-no-gyoja_stone_statue_03.jpg"
+    provenance: "MirokunomichiProject; CC0"
+    period: "Image dated 2022"
+    description: "This image shows Image of En no Gyoja, selected as a defining visual reference for Shugendō."
+  - title: "Omine yamabushi pilgrimage"
+    imageUrl: "/artifacts/shugendo-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Oominesan_sign_202705708_a9923100e1_o.jpg"
+    provenance: "Tim Notari, Flickr user tastefulTN; CC BY-SA 2.0"
+    period: "Image dated 2006"
+    description: "This image shows Omine yamabushi pilgrimage, selected as a defining visual reference for Shugendō."
 ---
 
 # Shugendō

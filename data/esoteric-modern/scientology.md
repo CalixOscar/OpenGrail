@@ -42,22 +42,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Scientology'
     url: 'https://brill.com/search?q=Scientology'
 artifacts:
-  - title: Scientology Historical Sanctuary & Iconography
-    imageUrl: /artifacts/scientology-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Scientology'
-    provenance: 'Azusa Street / Los Angeles, California, USA'
-    period: c. 1950s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Scientology.
-  - title: Dianetics & Sacred Relics
-    imageUrl: /artifacts/scientology-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Scientology'
-    provenance: 'Azusa Street / Los Angeles, California, USA'
-    period: c. 1950s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Scientology.
+  - title: "Scientology founder L. Ron Hubbard"
+    imageUrl: "/artifacts/scientology-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:L._RON_HUBBARD_RESIDENCE_AT_BAY_HEAD,_OCEAN_COUNTY,_NJ.jpg"
+    provenance: "JERRYE & ROY KLOTZ, M.D.; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Scientology founder L. Ron Hubbard, selected as a defining visual reference for Scientology."
+  - title: "Scientology Flag Building"
+    imageUrl: "/artifacts/scientology-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:2008_06_Clearwater,_Florida_-_Operation_Sea_Arrgh_406.jpg"
+    provenance: "Anonymous9000; CC BY 2.0"
+    period: "Image dated 2008"
+    description: "This image shows Scientology Flag Building, selected as a defining visual reference for Scientology."
 ---
 
 # Scientology

@@ -46,22 +46,18 @@ sources:
       Pentecostalism
     url: 'https://www.cambridge.org/core/search?q=Oneness%20Pentecostalism'
 artifacts:
-  - title: Oneness Pentecostalism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/oneness-pentecostalism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Oneness_Pentecostalism'
-    provenance: 'Azusa Street / Los Angeles, California, USA'
-    period: c. 1913 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Oneness Pentecostalism.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/oneness-pentecostalism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Oneness_Pentecostalism'
-    provenance: 'Azusa Street / Los Angeles, California, USA'
-    period: c. 1913 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Oneness Pentecostalism.
+  - title: "William J. Seymour, leader of the Azusa Street Revival foundational to Pentecostalism"
+    imageUrl: "/artifacts/oneness-pentecostalism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_of_Lieutenant_David_Thompson_Seymour,_first_Police_Commissioner.jpg"
+    provenance: "Queensland State Archives; Public domain"
+    period: "Image dated 1916"
+    description: "This image shows William J. Seymour, leader of the Azusa Street Revival foundational to Pentecostalism, selected as a defining visual reference for Oneness Pentecostalism."
+  - title: "Historical site and sanctuary marker of the Azusa Street Mission"
+    imageUrl: "/artifacts/oneness-pentecostalism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Azusa-Street-Historical-Sign.jpg"
+    provenance: "Callsignpink; CC BY-SA 4.0"
+    period: "Image dated 2014"
+    description: "This image shows Historical site and sanctuary marker of the Azusa Street Mission, selected as a defining visual reference for Oneness Pentecostalism."
 ---
 
 # Oneness Pentecostalism

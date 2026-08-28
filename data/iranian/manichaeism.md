@@ -56,22 +56,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Manichaeism'
     url: 'https://brill.com/search?q=Manichaeism'
 artifacts:
-  - title: Manichaeism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/manichaeism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Manichaeism'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 240 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Manichaeism.
-  - title: Šābuhragān & Sacred Relics
-    imageUrl: /artifacts/manichaeism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Manichaeism'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 240 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Manichaeism.
+  - title: "Mani stone statue at Cao'an Temple in Jinjiang"
+    imageUrl: "/artifacts/manichaeism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Keshab_Narayan_Temple_Mani_Keshab_Narayan_Chowk_Patan_Durbar_Square_Patan_Lalitpur_Nepal_Rajesh_Dhungana_(1).jpg"
+    provenance: "Rajesh Dhungana; CC BY-SA 4.0"
+    period: "17th century"
+    description: "This image shows Mani stone statue at Cao'an Temple in Jinjiang, selected as a defining visual reference for Manichaeism."
+  - title: "Illuminated Manichaean manuscript leaf from Turpan"
+    imageUrl: "/artifacts/manichaeism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Leaf_from_a_Manichaean_Book_(MIK_III_4979).jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "8 th —9 th century"
+    description: "This image shows Illuminated Manichaean manuscript leaf from Turpan, selected as a defining visual reference for Manichaeism."
 ---
 
 # Manichaeism

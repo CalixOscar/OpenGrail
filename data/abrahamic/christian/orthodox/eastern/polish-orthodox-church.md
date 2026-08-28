@@ -49,22 +49,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Polish%20Autocephalous%20Orthodox%20Church
 artifacts:
-  - title: Polish Autocephalous Orthodox Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/polish-orthodox-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Polish_Autocephalous_Orthodox_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1924 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Polish Autocephalous Orthodox Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/polish-orthodox-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Polish_Autocephalous_Orthodox_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1924 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Polish Autocephalous Orthodox Church.
+  - title: "Pilgrims and votive crosses at Poland's Holy Mountain Grabarka"
+    imageUrl: "/artifacts/polish-orthodox-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sw_Gora_Grabarka_schody.jpg"
+    provenance: "Pawel Ryszawa; CC BY 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Pilgrims and votive crosses at Poland's Holy Mountain Grabarka, selected as a defining visual reference for Polish Autocephalous Orthodox Church."
+  - title: "Metropolitan Cathedral of Saint Mary Magdalene in Warsaw"
+    imageUrl: "/artifacts/polish-orthodox-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Saint_Mary_Magdalene_Orthodox_church_(8121510654).jpg"
+    provenance: "Guillaume Speurt from Vilnius, Lithuania; CC BY-SA 2.0"
+    period: "Image dated 2012"
+    description: "This image shows Metropolitan Cathedral of Saint Mary Magdalene in Warsaw, selected as a defining visual reference for Polish Autocephalous Orthodox Church."
 ---
 
 # Polish Autocephalous Orthodox Church

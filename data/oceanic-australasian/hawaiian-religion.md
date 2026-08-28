@@ -43,22 +43,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Hawaiian%20Religion'
 artifacts:
-  - title: Hawaiian Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/hawaiian-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hawaiian_Religion'
-    provenance: 'Oahu (Honolulu / Heiau), Hawaii, USA'
-    period: c. c. 1000 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Hawaiian Religion.
-  - title: Kumulipo & Sacred Relics
-    imageUrl: /artifacts/hawaiian-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hawaiian_Religion'
-    provenance: 'Oahu (Honolulu / Heiau), Hawaii, USA'
-    period: c. c. 1000 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Hawaiian Religion.
+  - title: "Carved wooden Kiʻi temple image of the war god Ku"
+    imageUrl: "/artifacts/hawaiian-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ku,_God_of_Prosperity_and_War.jpg"
+    provenance: "Cliff; CC BY 2.0"
+    period: "Image dated 2007"
+    description: "This image shows Carved wooden Kiʻi temple image of the war god Ku, selected as a defining visual reference for Hawaiian Religion."
+  - title: "Puʻuhonua o Honaunau sacred royal sanctuary and place of refuge"
+    imageUrl: "/artifacts/hawaiian-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pu%27uhonua_o_Honaunau_National_Historical_Park,_Honaunau,_Hawaii_(9)_(4529029015).jpg"
+    provenance: "Ken Lund from Reno, Nevada, USA; CC BY-SA 2.0"
+    period: "19th century"
+    description: "This image shows Puʻuhonua o Honaunau sacred royal sanctuary and place of refuge, selected as a defining visual reference for Hawaiian Religion."
 ---
 
 # Hawaiian Religion

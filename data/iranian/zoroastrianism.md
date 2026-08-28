@@ -39,22 +39,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Zoroastrianism'
     url: 'https://brill.com/search?q=Zoroastrianism'
 artifacts:
-  - title: Zoroastrianism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/zoroastrianism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zoroastrianism'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 1200–600 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Zoroastrianism.
-  - title: Avesta & Sacred Relics
-    imageUrl: /artifacts/zoroastrianism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zoroastrianism'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 1200–600 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Zoroastrianism.
+  - title: "Faravahar relief carved into the stone of Persepolis"
+    imageUrl: "/artifacts/zoroastrianism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Persepolis_-_carved_Faravahar.JPG"
+    provenance: "Napishtim; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Faravahar relief carved into the stone of Persepolis, selected as a defining visual reference for Zoroastrianism."
+  - title: "Sacred consecrated fire urn inside a Zoroastrian Atashkadeh"
+    imageUrl: "/artifacts/zoroastrianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sacred_Eternal_Flame_(8906006775).jpg"
+    provenance: "David Stanley from Nanaimo, Canada; CC BY 2.0"
+    period: "470 AD"
+    description: "This image shows Sacred consecrated fire urn inside a Zoroastrian Atashkadeh, selected as a defining visual reference for Zoroastrianism."
 ---
 
 # Zoroastrianism

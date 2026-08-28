@@ -37,20 +37,18 @@ sources:
   - title: 'UNESCO World Heritage: Chaco Culture'
     url: 'https://whc.unesco.org/en/list/353/'
 artifacts:
-  - title: Cliff Palace Monumental Masonry Sanctuary at Mesa Verde
-    imageUrl: /artifacts/ancestral-puebloan-religion-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Mesa_Verde_National_Park
-    provenance: Montezuma County, Colorado, USA
-    period: c. 1190–1260 CE
-    description: >-
-      Spectacular multi-story stone cliff dwelling sheltering over 150 rooms and 23 circular subterranean kivas constructed beneath a towering sandstone alcove.
-  - title: Chetro Ketl Great Kiva Subterranean Stone Sanctuary
-    imageUrl: /artifacts/ancestral-puebloan-religion-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park
-    provenance: Chaco Canyon, New Mexico, USA
-    period: c. 1000–1120 CE
-    description: >-
-      Monumental circular subterranean sanctuary featuring a central firebox, masonry seating benches, and sealed turquoise crypts where regional clans conducted sacred kachina rituals.
+  - title: "Casa Rinconada Great Kiva at Chaco Canyon"
+    imageUrl: "/artifacts/ancestral-puebloan-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:GreatKiva.jpg"
+    provenance: "Conrad Dunkerson ( CBDunkerson ); Public domain"
+    period: "Image dated 1988"
+    description: "This image shows Casa Rinconada Great Kiva at Chaco Canyon, selected as a defining visual reference for Ancestral Puebloan & Chacoan Kiva Traditions."
+  - title: "Chacoan black-on-white ritual cylinder jar"
+    imageUrl: "/artifacts/ancestral-puebloan-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Chaco_Anasazi_bowl,_NPS.jpg"
+    provenance: "NPS; Public domain"
+    period: "Object or image dated 1150"
+    description: "This image shows Chacoan black-on-white ritual cylinder jar, selected as a defining visual reference for Ancestral Puebloan & Chacoan Kiva Traditions."
 ---
 
 # Ancestral Puebloan & Chacoan Kiva Traditions

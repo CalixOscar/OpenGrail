@@ -45,22 +45,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ved%C4%81nta'
 artifacts:
-  - title: Adi Śaṅkarācārya and Classical Vedānta Lineage
-    imageUrl: /artifacts/vedanta-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vedanta'
-    provenance: 'Kanchipuram & Sringeri Sharada Peetham, India'
-    period: Classical Era
-    description: >-
-      Historic portrait of Adi Śaṅkara, foundational commentator whose Brahma
-      Sūtra Bhāṣya defined classical Vedānta epistemology across India.
-  - title: Brahma Sūtras & Principal Upaniṣads Sanskrit Manuscript Folio
-    imageUrl: /artifacts/vedanta-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brahma_Sutras'
-    provenance: South Indian Matha Archives
-    period: c. 8th–12th century CE
-    description: >-
-      Preserved 8th-century Brahma Sūtra commentary manuscript on birch bark and
-      palm leaf, articulating the unified metaphysics of the Upaniṣads.
+  - title: "Badarayana-Vyasa, traditional author of the Brahma Sutras"
+    imageUrl: "/artifacts/vedanta-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:AdiShankara1.jpg"
+    provenance: "User:Sarvagnya; CC BY 2.5"
+    period: "Digital file published 2007"
+    description: "This image shows Badarayana-Vyasa, traditional author of the Brahma Sutras, selected as a defining visual reference for Vedānta."
+  - title: "Sanskrit manuscript of the Brahma Sutras, common Vedanta source text"
+    imageUrl: "/artifacts/vedanta-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:K.V._Haridasan_-_1985_Brahmasutra_oil_on_canvas_46.5x63inch.jpg"
+    provenance: "K.V. Haridasan's artwork.; CC BY 4.0"
+    period: "Image dated 1985"
+    description: "This image shows Sanskrit manuscript of the Brahma Sutras, common Vedanta source text, selected as a defining visual reference for Vedānta."
 ---
 
 # Vedānta

@@ -47,24 +47,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%ABkula%20%2F%20%C5%9Ar%C4%ABvidy%C4%81
 artifacts:
-  - title: Śrīkula / Śrīvidyā Historical Sanctuary & Iconography
-    imageUrl: /artifacts/srikula-1.jpg
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/%C5%9Ar%C4%ABkula_%2F_%C5%9Ar%C4%ABvidy%C4%81
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 9th–11th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Śrīkula / Śrīvidyā.
-  - title: Vāmakeśvarīmata & Sacred Relics
-    imageUrl: /artifacts/srikula-2.jpg
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/%C5%9Ar%C4%ABkula_%2F_%C5%9Ar%C4%ABvidy%C4%81
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 9th–11th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Śrīkula / Śrīvidyā.
+  - title: "Sricakra, central ritual diagram of Srividya"
+    imageUrl: "/artifacts/srikula-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sree_Chakram.JPG"
+    provenance: "Ranjithsiji; CC BY-SA 3.0"
+    period: "Image dated 2010"
+    description: "This image shows Sricakra, central ritual diagram of Srividya, selected as a defining visual reference for Śrīkula / Śrīvidyā."
+  - title: "Kamaksi Temple at Kanchipuram, a major Srikula sanctuary"
+    imageUrl: "/artifacts/srikula-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kanchipuram_Kamakshi_Amman_Temple.jpg"
+    provenance: "Jbuchholz; CC BY-SA 4.0"
+    period: "Image dated 2014"
+    description: "This image shows Kamaksi Temple at Kanchipuram, a major Srikula sanctuary, selected as a defining visual reference for Śrīkula / Śrīvidyā."
 ---
 
 # Śrīkula / Śrīvidyā

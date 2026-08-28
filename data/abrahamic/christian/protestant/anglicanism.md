@@ -42,21 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Anglicanism'
     url: 'https://www.cambridge.org/core/search?q=Anglicanism'
 artifacts:
-  - title: Darnley stage 3
-    imageUrl: /artifacts/anglicanism-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Darnley_stage_3.jpg'
-    provenance: 'Canterbury, Kent, England, UK'
-    period: c. 1530s CE
-    description: >-
-      The "Darnley Portrait" of Elizabeth I of England. It was named after a
-      previous owner. Probably painted from life, this portrait is the source of
-      the face pattern called "The Mask...
-  - title: Augustinus von Canterbury
-    imageUrl: /artifacts/anglicanism-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Augustinus_von_Canterbury.jpg'
-    provenance: 'Canterbury, Kent, England, UK'
-    period: c. 1530s CE
-    description: Augustinus von Canterbury...
+  - title: "Compass Rose emblem of the worldwide Anglican Communion"
+    imageUrl: "/artifacts/anglicanism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:CompAss_Rows.jpg"
+    provenance: "Bridgman; Public domain"
+    period: "Image dated 2007"
+    description: "This image shows Compass Rose emblem of the worldwide Anglican Communion, selected as a defining visual reference for Anglicanism."
+  - title: "Canterbury Cathedral, historic center of Anglican communion"
+    imageUrl: "/artifacts/anglicanism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Interior_of_Canterbury_Cathedral_JC_09.JPG"
+    provenance: "Jonathan Cardy; CC BY-SA 3.0"
+    period: "Image dated 2015"
+    description: "This image shows Canterbury Cathedral, historic center of Anglican communion, selected as a defining visual reference for Anglicanism."
 ---
 
 # Anglicanism

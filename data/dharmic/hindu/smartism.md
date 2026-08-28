@@ -45,22 +45,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sm%C4%81rta%20Tradition'
 artifacts:
-  - title: Smārta Tradition Historical Sanctuary & Iconography
-    imageUrl: /artifacts/smartism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sm%C4%81rta_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 8th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Smārta Tradition.
-  - title: Smṛti literature & Sacred Relics
-    imageUrl: /artifacts/smartism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sm%C4%81rta_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 8th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Smārta Tradition.
+  - title: "Pancayatana layout temple uniting five principal Hindu deities"
+    imageUrl: "/artifacts/smartism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:0121821_Vishvanath_temple,_Khajuraho_Madhya_Pradesh_057.jpg"
+    provenance: "Ms Sarah Welch; CC0"
+    period: "10th-century"
+    description: "This image shows Pancayatana layout temple uniting five principal Hindu deities, selected as a defining visual reference for Smārta Tradition."
+  - title: "Kanchi Kamakoti Pitha, a prominent Smarta-Advaita monastic seat"
+    imageUrl: "/artifacts/smartism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nandi_mandapa_of_Kamakshi_Amman_Temple,_Kanchipuram.jpg"
+    provenance: "Ms Sarah Welch; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Kanchi Kamakoti Pitha, a prominent Smarta-Advaita monastic seat, selected as a defining visual reference for Smārta Tradition."
 ---
 
 # Smārta Tradition

@@ -53,20 +53,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Gnostic Traditions'
     url: 'https://www.cambridge.org/core/search?q=Gnostic%20Traditions'
 artifacts:
-  - title: Codex Tchacos p33
-    imageUrl: /artifacts/gnosticism-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Codex_Tchacos_p33.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 100 CE
-    description: Page from Codex Tchacos....
-  - title: Apocryphon of John & Sacred Relics
-    imageUrl: /artifacts/gnosticism-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Codex_Tchacos_p33.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 100 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Gnostic Traditions.
+  - title: "Roman amulet depicting the Gnostic deity Abraxas"
+    imageUrl: "/artifacts/gnosticism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Roman_-_Amulet_of_Mithras_Slaying_the_Bull,_and_the_God_Abraxas_-_Walters_42868_-_Reverse.jpg"
+    provenance: "Anonymous ( Category:Roman Empire ) Unknown author; Public domain"
+    period: "3 rd century"
+    description: "This image shows Roman amulet depicting the Gnostic deity Abraxas, selected as a defining visual reference for Gnostic Traditions."
+  - title: "Coptic Nag Hammadi codex preserving Gnostic texts"
+    imageUrl: "/artifacts/gnosticism-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 2011"
+    description: "This image shows Coptic Nag Hammadi codex preserving Gnostic texts, selected as a defining visual reference for Gnostic Traditions."
 ---
 
 # Gnostic Traditions

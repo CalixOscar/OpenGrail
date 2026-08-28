@@ -40,22 +40,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Sect%20Shinto'
 artifacts:
-  - title: Sect Shinto Historical Sanctuary & Iconography
-    imageUrl: /artifacts/sect-shinto-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sect_Shinto'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Sect Shinto.
-  - title: Founders' teachings of the thirteen recognized sects & Sacred Relics
-    imageUrl: /artifacts/sect-shinto-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sect_Shinto'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Sect
-      Shinto.
+  - title: "Founders of the recognized Shinto sects"
+    imageUrl: "/artifacts/sect-shinto-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kurozumikyo_at_Taipei_Bao-an_Temple_Parade_2018.jpg"
+    provenance: "Taiwankengo; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Founders of the recognized Shinto sects, selected as a defining visual reference for Sect Shinto."
+  - title: "Sect Shinto headquarters sanctuary"
+    imageUrl: "/artifacts/sect-shinto-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:DaehanCheolligyoKanrodaiModelSideFacingSouth.png"
+    provenance: "Komitsuki; CC0"
+    period: "Image dated 2024"
+    description: "This image shows Sect Shinto headquarters sanctuary, selected as a defining visual reference for Sect Shinto."
 ---
 
 # Sect Shinto

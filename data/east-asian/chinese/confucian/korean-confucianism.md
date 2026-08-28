@@ -49,22 +49,18 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Korean%20Confucian%20Traditions
 artifacts:
-  - title: Korean Confucian Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/korean-confucianism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Confucian_Traditions'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 4th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Korean Confucian Traditions.
-  - title: Four Books and Five Classics & Sacred Relics
-    imageUrl: /artifacts/korean-confucianism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Confucian_Traditions'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 4th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Korean Confucian Traditions.
+  - title: "Portrait of Yi Hwang"
+    imageUrl: "/artifacts/korean-confucianism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Statue_of_Yi_Hwang.jpg"
+    provenance: "Integral; CC BY-SA 2.0 kr"
+    period: "Image dated 2006"
+    description: "This image shows Portrait of Yi Hwang, selected as a defining visual reference for Korean Confucian Traditions."
+  - title: "Dosan Seowon academy"
+    imageUrl: "/artifacts/korean-confucianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Korea-Andog-Dosan_Seowon_2987-06.JPG"
+    provenance: "Steve46814; CC BY-SA 3.0"
+    period: "Image dated 2006"
+    description: "This image shows Dosan Seowon academy, selected as a defining visual reference for Korean Confucian Traditions."
 ---
 
 # Korean Confucian Traditions

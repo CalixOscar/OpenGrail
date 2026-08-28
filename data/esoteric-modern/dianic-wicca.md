@@ -43,22 +43,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Dianic Wicca'
     url: 'https://brill.com/search?q=Dianic%20Wicca'
 artifacts:
-  - title: Dianic Wicca Historical Sanctuary & Iconography
-    imageUrl: /artifacts/dianic-wicca-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dianic_Wicca'
-    provenance: 'New Forest, Hampshire, England, UK'
-    period: c. 1970s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Dianic Wicca.
-  - title: The Feminist Book of Lights and Shadows & Sacred Relics
-    imageUrl: /artifacts/dianic-wicca-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dianic_Wicca'
-    provenance: 'New Forest, Hampshire, England, UK'
-    period: c. 1970s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Dianic Wicca.
+  - title: "Zsuzsanna Budapest, pioneer of Dianic feminist Wicca"
+    imageUrl: "/artifacts/dianic-wicca-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:A_Haz%C3%A1%C3%A9rt_h%C5%91si_hal%C3%A1lt_halt_testv%C3%A9reink_a_Farkasr%C3%A9ti_zsid%C3%B3_temet%C5%91ben._(K-Z)_-_Budapest.JPG"
+    provenance: "Globetrotter19; CC BY-SA 3.0"
+    period: "Image dated 2016"
+    description: "This image shows Zsuzsanna Budapest, pioneer of Dianic feminist Wicca, selected as a defining visual reference for Dianic Wicca."
+  - title: "Triple Goddess statue on a Dianic Wiccan altar"
+    imageUrl: "/artifacts/dianic-wicca-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hekate_Kharites_Glyptothek_Munich_60.jpg"
+    provenance: "Unknown artist Unknown artist; Public domain"
+    period: "3rd century BC"
+    description: "This image shows Triple Goddess statue on a Dianic Wiccan altar, selected as a defining visual reference for Dianic Wicca."
 ---
 
 # Dianic Wicca

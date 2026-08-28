@@ -43,22 +43,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Druidry'
     url: 'https://brill.com/search?q=Modern%20Druidry'
 artifacts:
-  - title: Modern Druidry Historical Sanctuary & Iconography
-    imageUrl: /artifacts/druidry-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Druidry'
-    provenance: 'Glastonbury, Somerset, England, UK'
-    period: c. 18th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Modern Druidry.
-  - title: Modern Druid liturgies & Sacred Relics
-    imageUrl: /artifacts/druidry-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Druidry'
-    provenance: 'Glastonbury, Somerset, England, UK'
-    period: c. 18th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Modern Druidry.
+  - title: "Modern Archdruid ceremonial regalia"
+    imageUrl: "/artifacts/druidry-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Gravestones_at_St_Tysilio%27s_Cemetery_-_geograph.org.uk_-_381640.jpg"
+    provenance: "Eric Jones; CC BY-SA 2.0"
+    period: "Image dated 2007"
+    description: "This image shows Modern Archdruid ceremonial regalia, selected as a defining visual reference for Modern Druidry."
+  - title: "Modern Druid Stonehenge rite"
+    imageUrl: "/artifacts/druidry-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Stonehenge,_druids_and_setting_moon.jpg"
+    provenance: "Andrew Dunn; CC BY-SA 2.0"
+    period: "Image dated 2005"
+    description: "This image shows Modern Druid Stonehenge rite, selected as a defining visual reference for Modern Druidry."
 ---
 
 # Modern Druidry

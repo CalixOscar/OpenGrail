@@ -45,22 +45,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Jeungsanism'
 artifacts:
-  - title: Jeungsanism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/jeungsanism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jeungsanism'
-    provenance: 'Jeongeup / Moaksan, Jeonbuk, South Korea'
-    period: c. early 20th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Jeungsanism.
-  - title: Jeungsanist movement scriptures & Sacred Relics
-    imageUrl: /artifacts/jeungsanism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jeungsanism'
-    provenance: 'Jeongeup / Moaksan, Jeonbuk, South Korea'
-    period: c. early 20th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Jeungsanism.
+  - title: "Portrait of Kang Jeungsan"
+    imageUrl: "/artifacts/jeungsanism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Korea-Self_portrait_of_Kang_Sehwang-01.jpg"
+    provenance: "Kang Sehwang; Public domain"
+    period: "Digital file published 2021"
+    description: "This image shows Portrait of Kang Jeungsan, selected as a defining visual reference for Jeungsanism."
+  - title: "Jeungsanist cosmological diagram of the Cosmic Year"
+    imageUrl: "/artifacts/jeungsanism-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jeung_San_Do_Cosmic_Year_en.png"
+    provenance: "Taeulju50000; CC BY 3.0"
+    period: "Image dated 2014"
+    description: "This image shows Jeungsanist cosmological diagram of the Cosmic Year, selected as a defining visual reference for Jeungsanism."
 ---
 
 # Jeungsanism

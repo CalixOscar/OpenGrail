@@ -54,22 +54,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Aymara%20Religious%20Traditions'
 artifacts:
-  - title: Aymara Religious Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/aymara-religions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Aymara_Religious_Traditions'
-    provenance: 'Tiwanaku, Lake Titicaca, Bolivia'
-    period: c. pre-Inca and historically diverse
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Aymara Religious Traditions.
-  - title: Aymara oral narratives & Sacred Relics
-    imageUrl: /artifacts/aymara-religions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Aymara_Religious_Traditions'
-    provenance: 'Tiwanaku, Lake Titicaca, Bolivia'
-    period: c. pre-Inca and historically diverse
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Aymara Religious Traditions.
+  - title: "Gate of the Sun with the Staff Deity relief at Tiwanaku"
+    imageUrl: "/artifacts/aymara-religions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bolivia-72_-_Back_view_-_Gate_of_the_Sun_(2217309605).jpg"
+    provenance: "Dennis G. Jarvis; CC BY-SA 2.0"
+    period: "Image dated 2010"
+    description: "This image shows Gate of the Sun with the Staff Deity relief at Tiwanaku, selected as a defining visual reference for Aymara Religious Traditions."
+  - title: "Aymara Yatiri ritual mesa offering"
+    imageUrl: "/artifacts/aymara-religions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Aymara_man_and_Lake_Titicaca.jpg"
+    provenance: "EEJCC; CC BY-SA 4.0"
+    period: "Image dated 2021"
+    description: "This image shows Aymara Yatiri ritual mesa offering, selected as a defining visual reference for Aymara Religious Traditions."
 ---
 
 # Aymara Religious Traditions

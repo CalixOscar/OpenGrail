@@ -44,22 +44,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Haredi Judaism'
     url: 'https://www.cambridge.org/core/search?q=Haredi%20Judaism'
 artifacts:
-  - title: Haredi Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/haredi-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Haredi_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Haredi Judaism.
-  - title: Hebrew Bible & Sacred Relics
-    imageUrl: /artifacts/haredi-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Haredi_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Haredi Judaism.
+  - title: "Haredi men in traditional dress at prayer"
+    imageUrl: "/artifacts/haredi-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:MORNING_TORA_READING.jpg"
+    provenance: "ELIEL JOSEPH SCHAFLER; CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Haredi men in traditional dress at prayer, selected as a defining visual reference for Haredi Judaism."
+  - title: "Ponevezh Yeshiva, emblematic Haredi center of Torah study"
+    imageUrl: "/artifacts/haredi-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bnei_Brak_IMG_5874.JPG"
+    provenance: "deror_avi; CC BY-SA 3.0"
+    period: "Image dated 2010"
+    description: "This image shows Ponevezh Yeshiva, emblematic Haredi center of Torah study, selected as a defining visual reference for Haredi Judaism."
 ---
 
 # Haredi Judaism

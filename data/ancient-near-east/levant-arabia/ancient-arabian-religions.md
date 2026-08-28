@@ -48,22 +48,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Arabian Religions'
     url: 'https://brill.com/search?q=Ancient%20Arabian%20Religions'
 artifacts:
-  - title: Ancient Arabian Religions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ancient-arabian-religions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Arabian_Religions'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1st millennium BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ancient Arabian Religions.
-  - title: Safaitic and Hismaic inscriptions & Sacred Relics
-    imageUrl: /artifacts/ancient-arabian-religions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Arabian_Religions'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1st millennium BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ancient Arabian Religions.
+  - title: "South Arabian image of Almaqah"
+    imageUrl: "/artifacts/ancient-arabian-religions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Panel_Almaqah_Louvre_DAO18.jpg"
+    provenance: "Unknown artist Unknown artist; Public domain"
+    period: "700 BC"
+    description: "This image shows South Arabian image of Almaqah, selected as a defining visual reference for Ancient Arabian Religions."
+  - title: "Awwam sanctuary at Marib"
+    imageUrl: "/artifacts/ancient-arabian-religions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bar%27an_temple_1986-1.jpg"
+    provenance: "Bernard Gagnon; CC BY-SA 3.0"
+    period: "Image dated 1986"
+    description: "This image shows Awwam sanctuary at Marib, selected as a defining visual reference for Ancient Arabian Religions."
 ---
 
 # Ancient Arabian Religions

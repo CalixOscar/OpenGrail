@@ -42,22 +42,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Church of Satan'
     url: 'https://brill.com/search?q=Church%20of%20Satan'
 artifacts:
-  - title: Church of Satan Historical Sanctuary & Iconography
-    imageUrl: /artifacts/church-of-satan-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Satan'
-    provenance: 'San Francisco, California, USA'
-    period: c. 1966 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Church of Satan.
-  - title: The Satanic Bible & Sacred Relics
-    imageUrl: /artifacts/church-of-satan-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Satan'
-    provenance: 'San Francisco, California, USA'
-    period: c. 1966 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Church of Satan.
+  - title: "Founder Anton LaVey"
+    imageUrl: "/artifacts/church-of-satan-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:LaVey_officiated_Satanic_wedding,_1967.jpg"
+    provenance: "Associated Press; Public domain"
+    period: "Image dated 1967"
+    description: "This image shows Founder Anton LaVey, selected as a defining visual reference for Church of Satan."
+  - title: "Church of Satan's Black House"
+    imageUrl: "/artifacts/church-of-satan-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Black_House_On_The_Corner_(2014975957).jpg"
+    provenance: "Helgi Halldorsson from Reykjavik, Iceland; CC BY-SA 2.0"
+    period: "Image dated 2007"
+    description: "This image shows Church of Satan's Black House, selected as a defining visual reference for Church of Satan."
 ---
 
 # Church of Satan

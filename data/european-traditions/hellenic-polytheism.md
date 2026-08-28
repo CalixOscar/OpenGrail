@@ -44,22 +44,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hellenic Polytheism'
     url: 'https://brill.com/search?q=Hellenic%20Polytheism'
 artifacts:
-  - title: Hellenic Polytheism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/hellenic-polytheism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hellenic_Polytheism'
-    provenance: 'London, England, UK'
-    period: c. late 20th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Hellenic Polytheism.
-  - title: Homeric Hymns & Sacred Relics
-    imageUrl: /artifacts/hellenic-polytheism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hellenic_Polytheism'
-    provenance: 'London, England, UK'
-    period: c. late 20th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Hellenic Polytheism.
+  - title: "Contemporary Hellenic worship rite"
+    imageUrl: "/artifacts/hellenic-polytheism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Temple_Of_Olympian_Zeus_-_Olympieion_(retouched).jpg"
+    provenance: "No machine-readable author provided. Chrisfl assumed (based on copyright claims). Retouched by AM; CC BY-SA 2.5"
+    period: "Image dated 2006"
+    description: "This image shows Contemporary Hellenic worship rite, selected as a defining visual reference for Hellenic Polytheism."
+  - title: "Prometheia public ritual"
+    imageUrl: "/artifacts/hellenic-polytheism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:YSEE_Hellenic_people.jpg"
+    provenance: "YSEE , Supreme Council of Ethnikoi Hellenes.; CC BY 2.0"
+    period: "Digital file published 2009"
+    description: "This image shows Prometheia public ritual, selected as a defining visual reference for Hellenic Polytheism."
 ---
 
 # Hellenic Polytheism

@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9Aaivism'
 artifacts:
-  - title: Śaivism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/shaivism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Aaivism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Śaivism.
-  - title: Śaiva Āgamas & Sacred Relics
-    imageUrl: /artifacts/shaivism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Aaivism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Śaivism.
+  - title: "Ardhanarisvara sculpture expressing Siva's integrated divine power"
+    imageUrl: "/artifacts/shaivism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Elephanta,_grotta_1,_rilievi_riferibili_al_400-550_dc_ca.,_parete_sud_con_Ardhanarishvara,_trimurti_e_gangadhara_01.jpg"
+    provenance: "Sailko; CC BY 3.0"
+    period: "Image dated 2019"
+    description: "This image shows Ardhanarisvara sculpture expressing Siva's integrated divine power, selected as a defining visual reference for Śaivism."
+  - title: "Kashi Vishwanath, one of Saivism's foremost jyotirlinga temples"
+    imageUrl: "/artifacts/shaivism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kashi_Vishwanath_Temple_food-1.jpg"
+    provenance: "Immanuelle; CC BY 4.0"
+    period: "Image dated 2024"
+    description: "This image shows Kashi Vishwanath, one of Saivism's foremost jyotirlinga temples, selected as a defining visual reference for Śaivism."
 ---
 
 # Śaivism

@@ -5,6 +5,9 @@
   "license": "AGPL-3.0-or-later OR LicenseRef-OpenGrail-Commercial",
   "type": "module",
   "scripts": {
+    "curate:artifacts": "node scripts/curate-iconic-artifacts.js discover",
+    "apply:artifacts": "node scripts/curate-iconic-artifacts.js apply",
+    "audit:artifacts": "node scripts/audit-artifacts.js",
     "build:graph": "node scripts/build-graph.js",
     "dev": "npm run build:graph && vite",
     "build": "npm run build:graph && tsc -b && vite build",

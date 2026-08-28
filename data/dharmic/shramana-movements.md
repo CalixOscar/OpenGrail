@@ -54,22 +54,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Arama%E1%B9%87a%20Movements
 artifacts:
-  - title: Śramaṇa Movements Historical Sanctuary & Iconography
-    imageUrl: /artifacts/shramana-movements-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a_Movements'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Śramaṇa Movements.
-  - title: Early Buddhist Nikāyas and Āgamas & Sacred Relics
-    imageUrl: /artifacts/shramana-movements-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a_Movements'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Śramaṇa Movements.
+  - title: "Gandharan Great Departure relief symbolizing renunciant life"
+    imageUrl: "/artifacts/shramana-movements-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Gandhara_element_with_scenes_from_Buddha%27s_life_side_4_Asian_Art_Museum_SF_B84S1.JPG"
+    provenance: "BrokenSphere; CC BY-SA 3.0"
+    period: "Image dated 2008"
+    description: "This image shows Gandharan Great Departure relief symbolizing renunciant life, selected as a defining visual reference for Śramaṇa Movements."
+  - title: "Lomas Rishi Cave, an early monumental sanctuary for sramana ascetics"
+    imageUrl: "/artifacts/shramana-movements-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg"
+    provenance: "Photo Dharma from Penang, Malaysia; CC BY 2.0"
+    period: "Image dated 2013"
+    description: "This image shows Lomas Rishi Cave, an early monumental sanctuary for sramana ascetics, selected as a defining visual reference for Śramaṇa Movements."
 ---
 
 # Śramaṇa Movements

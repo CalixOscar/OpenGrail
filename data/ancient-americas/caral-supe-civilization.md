@@ -37,19 +37,18 @@ sources:
   - title: 'UNESCO World Heritage: Sacred City of Caral-Supe'
     url: 'https://whc.unesco.org/en/list/1269/'
 artifacts:
-  - title: Pirámide Mayor (Main Pyramid Complex) of Caral
-    imageUrl: /artifacts/caral-supe-civilization-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Caral
-    provenance: Supe Valley, Central Coast, Peru
-    period: c. 3000–2600 BCE (Contemporary with Giza Pyramids)
-    description: Colossal terraced stone platform pyramid measuring over 150 meters long and 30 meters high, serving as the civic and spiritual nexus of the Americas' oldest metropolis.
-  - title: Sunken Circular Amphitheater Plaza
-    imageUrl: /artifacts/caral-supe-civilization-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Caral
-    provenance: Sacred City of Caral, Peru
-    period: c. 2800 BCE
-    description: >-
-      Circular subterranean ceremonial courtyard designed with acoustic resonance where dozens of carved condor-bone flutes and deer-bone horns were discovered.
+  - title: "Caral-Supe monumental stepped pyramid and sunken plaza"
+    imageUrl: "/artifacts/caral-supe-civilization-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pir%C3%A1mide_en_Caral_04.jpg"
+    provenance: "Johnattan Rupire; CC BY-SA 4.0"
+    period: "Image dated 2020"
+    description: "This image shows Caral-Supe monumental stepped pyramid and sunken plaza, selected as a defining visual reference for Caral-Supe Sacred Urban Complex."
+  - title: "Monumental stepped pyramid and circular amphitheater at Caral"
+    imageUrl: "/artifacts/caral-supe-civilization-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Caral_1.JPG"
+    provenance: "KyleThayer; CC BY-SA 3.0"
+    period: "Image dated 2007"
+    description: "This image shows Monumental stepped pyramid and circular amphitheater at Caral, selected as a defining visual reference for Caral-Supe Sacred Urban Complex."
 ---
 
 # Caral-Supe Sacred Urban Complex

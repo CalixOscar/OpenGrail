@@ -46,20 +46,18 @@ sources:
   - title: 'A. A. Long: "Stoic Studies"'
     url: 'https://www.cambridge.org/'
 artifacts:
-  - title: Equestrian Statue of Philosopher-Emperor Marcus Aurelius
-    imageUrl: /artifacts/stoic-ethics-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Equestrian_Statue_of_Marcus_Aurelius
-    provenance: Capitoline Hill, Rome, Italy
-    period: c. 175 CE
-    description: >-
-      Gilded bronze monument of the Stoic emperor whose private diary (Meditations) became one of the greatest moral documents in human history.
-  - title: Bust Portrait of Zeno of Citium (Founder of Stoicism)
-    imageUrl: /artifacts/stoic-ethics-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Zeno_of_Citium
-    provenance: Athens (Pushkin Museum Collection)
-    period: c. 3rd century BCE Original
-    description: >-
-      Sculpted portrait of Zeno who began teaching ethics on the Painted Stoa (Stoa Poikile) in the Athenian Agora around 300 BCE.
+  - title: "Bronze Equestrian Statue of Emperor Marcus Aurelius"
+    imageUrl: "/artifacts/stoic-cosmopolitanism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Marcus.aurelius.horse.statue.rome.arp.jpg"
+    provenance: "Adrian Pingstone ( Arpingstone ); Public domain"
+    period: "Image dated 2007"
+    description: "This image shows Bronze Equestrian Statue of Emperor Marcus Aurelius, selected as a defining visual reference for Stoic Cosmopolitanism & Universal Natural Law."
+  - title: "Manuscript leaf containing the Meditations of Marcus Aurelius"
+    imageUrl: "/artifacts/stoic-cosmopolitanism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Marcus_Aurelius._De_seipso,_seu_vita_sua_(Xylander,_1558).jpg"
+    provenance: "Marcus Aurelius; Public domain"
+    period: "Object or image dated 1558"
+    description: "This image shows Manuscript leaf containing the Meditations of Marcus Aurelius, selected as a defining visual reference for Stoic Cosmopolitanism & Universal Natural Law."
 ---
 
 # Stoic Cosmopolitanism & Universal Natural Law

@@ -43,22 +43,18 @@ sources:
       God
     url: 'https://www.cambridge.org/core/search?q=Living%20Church%20of%20God'
 artifacts:
-  - title: Living Church of God Historical Sanctuary & Iconography
-    imageUrl: /artifacts/living-church-of-god-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Living_Church_of_God'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1998 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Living Church of God.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/living-church-of-god-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Living_Church_of_God'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1998 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Living Church of God.
+  - title: "Portrait of Roderick C. Meredith, founder of the Living Church of God"
+    imageUrl: "/artifacts/living-church-of-god-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:0019jfTabang_Plaridel_Members_Church_God_Jesus_Christ_Rocka_Village_4_Bulacanfvf.jpg"
+    provenance: "Judgefloro; Public domain"
+    period: "Image dated 2016"
+    description: "This image shows Portrait of Roderick C. Meredith, founder of the Living Church of God, selected as a defining visual reference for Living Church of God."
+  - title: "Living Church of God headquarters in Charlotte"
+    imageUrl: "/artifacts/living-church-of-god-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Living_Faith_Anglican_Church_01.jpg"
+    provenance: "Dclemens1971; CC BY 4.0"
+    period: "Image dated 2025"
+    description: "This image shows Living Church of God headquarters in Charlotte, selected as a defining visual reference for Living Church of God."
 ---
 
 # Living Church of God

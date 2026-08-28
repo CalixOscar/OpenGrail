@@ -51,22 +51,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Cao%20%C4%90%C3%A0i'
 artifacts:
-  - title: Cao Đài Historical Sanctuary & Iconography
-    imageUrl: /artifacts/caodaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cao_%C4%90%C3%A0i'
-    provenance: 'Holy See of Tay Ninh, Vietnam'
-    period: c. 1926 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Cao Đài.
-  - title: Thánh Ngôn Hiệp Tuyển & Sacred Relics
-    imageUrl: /artifacts/caodaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cao_%C4%90%C3%A0i'
-    provenance: 'Holy See of Tay Ninh, Vietnam'
-    period: c. 1926 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Cao
-      Đài.
+  - title: "Divine Eye altar"
+    imageUrl: "/artifacts/caodaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cao_Dai_Temple_01.jpg"
+    provenance: "Peter Beardsley from Kittery, ME, USA; CC BY 2.0"
+    period: "Image dated 2004"
+    description: "This image shows Divine Eye altar, selected as a defining visual reference for Cao Đài."
+  - title: "Tay Ninh Holy See"
+    imageUrl: "/artifacts/caodaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Cao_%C4%90%C3%A0i_T%C3%A2y_Ninh_Holy_See_(12162576046).jpg"
+    provenance: "Clay Gilliland; CC BY-SA 2.0"
+    period: "Image dated 2013"
+    description: "This image shows Tay Ninh Holy See, selected as a defining visual reference for Cao Đài."
 ---
 
 # Cao Đài

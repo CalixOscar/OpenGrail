@@ -46,22 +46,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Waaqeffanna'
 artifacts:
-  - title: Waaqeffanna Historical Sanctuary & Iconography
-    imageUrl: /artifacts/waaqeffanna-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Waaqeffanna'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. precolonial; modern revitalization
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Waaqeffanna.
-  - title: Oromo oral traditions & Sacred Relics
-    imageUrl: /artifacts/waaqeffanna-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Waaqeffanna'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. precolonial; modern revitalization
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Waaqeffanna.
+  - title: "Irreecha thanksgiving ceremony at Lake Hora"
+    imageUrl: "/artifacts/waaqeffanna-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Irreecha_Festival.jpg"
+    provenance: "Mohammed Kassahun; CC BY-SA 4.0"
+    period: "Image dated 2019"
+    description: "This image shows Irreecha thanksgiving ceremony at Lake Hora, selected as a defining visual reference for Waaqeffanna."
+  - title: "Abbaa Gadaa spiritual and moral leader of the Oromo"
+    imageUrl: "/artifacts/waaqeffanna-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jaarraa_Abbaa_Gadaa2.jpg"
+    provenance: "Oromo and proud; CC BY-SA 4.0"
+    period: "Image dated 2008"
+    description: "This image shows Abbaa Gadaa spiritual and moral leader of the Oromo, selected as a defining visual reference for Waaqeffanna."
 ---
 
 # Waaqeffanna

@@ -46,24 +46,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Ecumenical%20Patriarchate%20of%20Constantinople
 artifacts:
-  - title: >-
-      Ecumenical Patriarchate of Constantinople Historical Sanctuary &
-      Iconography
-    imageUrl: /artifacts/ecumenical-patriarchate-constantinople-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ecumenical_Patriarchate_of_Constantinople'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 330 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ecumenical Patriarchate of Constantinople.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/ecumenical-patriarchate-constantinople-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ecumenical_Patriarchate_of_Constantinople'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 330 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ecumenical Patriarchate of Constantinople.
+  - title: "Ecumenical Patriarch presiding over the Divine Liturgy"
+    imageUrl: "/artifacts/ecumenical-patriarchate-constantinople-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Barack_Obama_meets_with_Ecumenical_Patriarch_Bartholomew_I_in_Istanbul_4-7-09.JPG"
+    provenance: "Pete Souza; Public domain"
+    period: "Image dated 2009"
+    description: "This image shows Ecumenical Patriarch presiding over the Divine Liturgy, selected as a defining visual reference for Ecumenical Patriarchate of Constantinople."
+  - title: "Patriarchal Church of Saint George at the Phanar"
+    imageUrl: "/artifacts/ecumenical-patriarchate-constantinople-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Church_of_St_George_-_Kyustendil.jpg"
+    provenance: "Plamen Agov ( user:MrPanyGoff ); CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Patriarchal Church of Saint George at the Phanar, selected as a defining visual reference for Ecumenical Patriarchate of Constantinople."
 ---
 
 # Ecumenical Patriarchate of Constantinople

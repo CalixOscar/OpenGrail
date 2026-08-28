@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Catholicism'
     url: 'https://www.cambridge.org/core/search?q=Catholicism'
 artifacts:
-  - title: Catholicism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/catholicism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Catholicism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1st century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Catholicism.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/catholicism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Catholicism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1st century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Catholicism.
+  - title: "The pope presiding at Mass in Saint Peter's Basilica"
+    imageUrl: "/artifacts/catholicism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:St._Peter%27s_Basilica_(Basilica_Sancti_Petri)_seen_from_St._Angelo.jpg"
+    provenance: "JanST; CC BY-SA 4.0"
+    period: "Image dated 2016"
+    description: "This image shows The pope presiding at Mass in Saint Peter's Basilica, selected as a defining visual reference for Catholicism."
+  - title: "Raphael's Disputation, monumental art centered on Eucharistic theology"
+    imageUrl: "/artifacts/catholicism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dispute.jpg"
+    provenance: "Raphael; Public domain"
+    period: "Image dated 1508"
+    description: "This image shows Raphael's Disputation, monumental art centered on Eucharistic theology, selected as a defining visual reference for Catholicism."
 ---
 
 # Catholicism

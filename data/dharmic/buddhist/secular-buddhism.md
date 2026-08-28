@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Secular%20Buddhism'
 artifacts:
-  - title: Secular Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/secular-buddhism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Secular_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. late 20th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Secular Buddhism.
-  - title: Early Buddhist discourses & Sacred Relics
-    imageUrl: /artifacts/secular-buddhism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Secular_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. late 20th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Secular Buddhism.
+  - title: "Stephen Batchelor, a prominent interpreter of Secular Buddhism"
+    imageUrl: "/artifacts/secular-buddhism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Stephen_Batchelor.jpg"
+    provenance: "ottmarliebert.com; CC BY-SA 2.0"
+    period: "Image dated 2006"
+    description: "This image shows Stephen Batchelor, a prominent interpreter of Secular Buddhism, selected as a defining visual reference for Secular Buddhism."
+  - title: "Gaia House, a retreat center associated with modern secular insight practice"
+    imageUrl: "/artifacts/secular-buddhism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Gaia_House_-_South_Devon_-_geograph.org.uk_-_82120.jpg"
+    provenance: "Richard Knights; CC BY-SA 2.0"
+    period: "Image dated 2005"
+    description: "This image shows Gaia House, a retreat center associated with modern secular insight practice, selected as a defining visual reference for Secular Buddhism."
 ---
 
 # Secular Buddhism

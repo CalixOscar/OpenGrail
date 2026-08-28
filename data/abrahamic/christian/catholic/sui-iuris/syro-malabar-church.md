@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Syro-Malabar Church'
     url: 'https://www.cambridge.org/core/search?q=Syro-Malabar%20Church'
 artifacts:
-  - title: Syro-Malabar Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/syro-malabar-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malabar_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. c. 16th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Syro-Malabar Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/syro-malabar-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Syro-Malabar_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. c. 16th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Syro-Malabar Church.
+  - title: "Ancient Persian or Saint Thomas cross emblematic of Syro-Malabar heritage"
+    imageUrl: "/artifacts/syro-malabar-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kottayam_Persian_Cross2.jpg"
+    provenance: "Unknown author Unknown author; CC0"
+    period: "Digital file published 2022"
+    description: "This image shows Ancient Persian or Saint Thomas cross emblematic of Syro-Malabar heritage, selected as a defining visual reference for Syro-Malabar Church."
+  - title: "Saint Mary's Cathedral Basilica in Ernakulam, major Syro-Malabar sanctuary"
+    imageUrl: "/artifacts/syro-malabar-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Saint_Mary%27s_Cathedral_Basilica_(Halifax).jpg"
+    provenance: "baekken; CC BY 2.0"
+    period: "Digital file published 2010"
+    description: "This image shows Saint Mary's Cathedral Basilica in Ernakulam, major Syro-Malabar sanctuary, selected as a defining visual reference for Syro-Malabar Church."
 ---
 
 # Syro-Malabar Church

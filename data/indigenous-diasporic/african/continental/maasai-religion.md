@@ -45,22 +45,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Maasai%20Religious%20Traditions'
 artifacts:
-  - title: Maasai Religious Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/maasai-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maasai_Religious_Traditions'
-    provenance: 'Rift Valley (Nairobi), Kenya'
-    period: c. precolonial
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Maasai Religious Traditions.
-  - title: Maa oral traditions & Sacred Relics
-    imageUrl: /artifacts/maasai-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maasai_Religious_Traditions'
-    provenance: 'Rift Valley (Nairobi), Kenya'
-    period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Maasai Religious Traditions.
+  - title: "Ol Doinyo Lengai, the sacred Mountain of God"
+    imageUrl: "/artifacts/maasai-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ol_Doinyo_Lengai_and_Lake_Empakaai.jpg"
+    provenance: "Daniel Msirikale; CC BY-SA 4.0"
+    period: "Image dated 2019"
+    description: "This image shows Ol Doinyo Lengai, the sacred Mountain of God, selected as a defining visual reference for Maasai Religious Traditions."
+  - title: "Maasai Eunoto ritual transition ceremony"
+    imageUrl: "/artifacts/maasai-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Massai-001.jpg"
+    provenance: "Willy Horsch; CC BY 2.5"
+    period: "Image dated 1989"
+    description: "This image shows Maasai Eunoto ritual transition ceremony, selected as a defining visual reference for Maasai Religious Traditions."
 ---
 
 # Maasai Religious Traditions

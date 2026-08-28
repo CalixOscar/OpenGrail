@@ -43,22 +43,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Old Catholicism'
     url: 'https://www.cambridge.org/core/search?q=Old%20Catholicism'
 artifacts:
-  - title: Old Catholicism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/old-catholicism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Old_Catholicism'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1870s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Old Catholicism.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/old-catholicism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Old_Catholicism'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1870s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Old
-      Catholicism.
+  - title: "Old Catholic Eucharistic worship at Saint Gertrude Cathedral"
+    imageUrl: "/artifacts/old-catholicism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Catholic_mass_on_Marienplatz.jpg"
+    provenance: "Bartholomaus Kilian; Public domain"
+    period: "17 th century"
+    description: "This image shows Old Catholic Eucharistic worship at Saint Gertrude Cathedral, selected as a defining visual reference for Old Catholicism."
+  - title: "The Declaration of Utrecht defining the Union of Utrecht"
+    imageUrl: "/artifacts/old-catholicism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Old_Catholic_Church_in_Lubawka_001.jpg"
+    provenance: "Ks. Stanisław Bedzieszak for Michcik; CC BY-SA 4.0"
+    period: "Image dated 2011"
+    description: "This image shows The Declaration of Utrecht defining the Union of Utrecht, selected as a defining visual reference for Old Catholicism."
 ---
 
 # Old Catholicism

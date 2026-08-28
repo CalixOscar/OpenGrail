@@ -50,22 +50,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Cambodian%20Buddhism'
 artifacts:
-  - title: Cambodian Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/cambodian-buddhism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cambodian_Buddhism'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 14th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Cambodian Buddhism.
-  - title: Pāli Tipiṭaka & Sacred Relics
-    imageUrl: /artifacts/cambodian-buddhism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cambodian_Buddhism'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 14th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Cambodian Buddhism.
+  - title: "Khmer Theravada Buddha image at Wat Phnom"
+    imageUrl: "/artifacts/cambodian-buddhism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Lascar_Wat_Phra_Kaew_behind_defensive_wall_(4509108065).jpg"
+    provenance: "Jorge Lascar from Australia; CC BY 2.0"
+    period: "15th century"
+    description: "This image shows Khmer Theravada Buddha image at Wat Phnom, selected as a defining visual reference for Cambodian Buddhism."
+  - title: "Silver Pagoda, Cambodia's royal Buddhist sanctuary"
+    imageUrl: "/artifacts/cambodian-buddhism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:2016_Phnom_Penh,_Pa%C5%82ac_Kr%C3%B3lewski,_Srebrna_Pagoda_(02).jpg"
+    provenance: "Marcin Konsek; CC BY-SA 4.0"
+    period: "Image dated 2016"
+    description: "This image shows Silver Pagoda, Cambodia's royal Buddhist sanctuary, selected as a defining visual reference for Cambodian Buddhism."
 ---
 
 # Cambodian Buddhism

@@ -47,22 +47,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=V%C4%81rkar%C4%AB%20Tradition'
 artifacts:
-  - title: Vārkarī Tradition Historical Sanctuary & Iconography
-    imageUrl: /artifacts/varkari-tradition-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/V%C4%81rkar%C4%AB_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 13th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Vārkarī Tradition.
-  - title: Jñāneśvarī & Sacred Relics
-    imageUrl: /artifacts/varkari-tradition-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/V%C4%81rkar%C4%AB_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 13th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Vārkarī Tradition.
+  - title: "Vithoba with Rakhumai, central deities of Varkari devotion"
+    imageUrl: "/artifacts/varkari-tradition-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sacred_Serenity_in_a_Vitthal-Rakhumai_Temple.jpg"
+    provenance: "Annni07; CC BY-SA 4.0"
+    period: "Image dated 2024"
+    description: "This image shows Vithoba with Rakhumai, central deities of Varkari devotion, selected as a defining visual reference for Vārkarī Tradition."
+  - title: "Vari pilgrimage procession carrying Tukaram's palkhi to Pandharpur"
+    imageUrl: "/artifacts/varkari-tradition-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:A_procession_Palkhi_festival_Hindu_culture_religion_rites_rituals_sights.jpg"
+    provenance: "Shubhi Shrivastava from Pune, India; CC BY 2.0"
+    period: "Image dated 2012"
+    description: "This image shows Vari pilgrimage procession carrying Tukaram's palkhi to Pandharpur, selected as a defining visual reference for Vārkarī Tradition."
 ---
 
 # Vārkarī Tradition

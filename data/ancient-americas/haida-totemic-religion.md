@@ -37,20 +37,18 @@ sources:
   - title: 'Bill Reid & Robert Bringhurst: "The Raven Steals the Light"'
     url: 'https://www.douglas-mcintyre.com/'
 artifacts:
-  - title: SGang Gwaay Ancient Red Cedar Mortuary Totem Poles
-    imageUrl: /artifacts/haida-totemic-religion-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/SGang_Gwaay
-    provenance: Haida Gwaii archipelago, British Columbia, Canada
-    period: Traditional Horizon (UNESCO World Heritage Site)
-    description: >-
-      Weathered 19th-century carved red cedar mortuary poles standing amidst the Pacific rainforest, preserving clan crests in their original coastal village setting.
-  - title: Monumental Haida Gwaii Clan Crest Totem Pole
-    imageUrl: /artifacts/haida-totemic-religion-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Totem_pole
-    provenance: Haida Heritage Centre, Kay Llnagaay, British Columbia
-    period: Classical & Contemporary Horizon
-    description: >-
-      Masterpiece towering cedar crest pole intricately sculpted with stacked ancestral beings—Eagle, Bear Mother, and Raven—commemorating clan lineage and sovereign territory.
+  - title: "Haida totem poles at SGang Gwaay"
+    imageUrl: "/artifacts/haida-totemic-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:MOA_-_Haida_1_House_front_pole.jpg"
+    provenance: "Wolfgang Sauber; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Haida totem poles at SGang Gwaay, selected as a defining visual reference for Haida & Pacific Northwest Totemic Traditions."
+  - title: "Haida carved and painted cedar bentwood box"
+    imageUrl: "/artifacts/haida-totemic-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bentwood_chest,_Haida,_Old_Massett,_Haida_Gwaii,_British_Columbia,_c._1870,_yellow_and_red_cedar_-_Museum_of_Anthropology,_University_of_British_Columbia_-_DSC08727.jpg"
+    provenance: "Daderot; Public domain"
+    period: "Image dated 2015"
+    description: "This image shows Haida carved and painted cedar bentwood box, selected as a defining visual reference for Haida & Pacific Northwest Totemic Traditions."
 ---
 
 # Haida & Pacific Northwest Totemic Traditions

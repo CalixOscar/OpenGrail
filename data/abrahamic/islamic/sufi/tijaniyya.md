@@ -44,22 +44,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Tijaniyya'
     url: 'https://www.cambridge.org/core/search?q=Tijaniyya'
 artifacts:
-  - title: Tijaniyya Historical Sanctuary & Iconography
-    imageUrl: /artifacts/tijaniyya-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tijaniyya'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1780s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Tijaniyya.
-  - title: Quran & Sacred Relics
-    imageUrl: /artifacts/tijaniyya-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tijaniyya'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1780s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Tijaniyya.
+  - title: "Mausoleum and zawiya of Ahmad al-Tijani in Fez"
+    imageUrl: "/artifacts/tijaniyya-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cheikh_Ahmad_Kane_Al_Tijani.jpg"
+    provenance: "Radzitouni; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Mausoleum and zawiya of Ahmad al-Tijani in Fez, selected as a defining visual reference for Tijaniyya."
+  - title: "Zawiya of Sidi Ahmed al-Tijani in Fez, Morocco"
+    imageUrl: "/artifacts/tijaniyya-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Inside_of_a_mosque_in_Fes_(5365055406).jpg"
+    provenance: "Michal Osmenda from Brussels, Belgium; CC BY-SA 2.0"
+    period: "Image dated 2011"
+    description: "This image shows Zawiya of Sidi Ahmed al-Tijani in Fez, Morocco, selected as a defining visual reference for Tijaniyya."
 ---
 
 # Tijaniyya

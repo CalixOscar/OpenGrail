@@ -46,22 +46,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Babylonian Religion'
     url: 'https://brill.com/search?q=Babylonian%20Religion'
 artifacts:
-  - title: Babylonian Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/babylonian-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Babylonian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1900 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Babylonian Religion.
-  - title: Enūma Eliš & Sacred Relics
-    imageUrl: /artifacts/babylonian-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Babylonian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1900 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Babylonian Religion.
+  - title: "Marduk and mushussu image"
+    imageUrl: "/artifacts/babylonian-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ishtar_Gate_Dragon.JPG"
+    provenance: "The original uploader was Lostinafrica at English Wikipedia .; CC BY-SA 3.0"
+    period: "Image dated 2007"
+    description: "This image shows Marduk and mushussu image, selected as a defining visual reference for Babylonian Religion."
+  - title: "Ishtar Gate of Babylon"
+    imageUrl: "/artifacts/babylonian-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ishtar_gate_in_Pergamon_museum_in_Berlin..jpg"
+    provenance: "Radomir Vrbovsky; CC BY-SA 4.0"
+    period: "Image dated 2014"
+    description: "This image shows Ishtar Gate of Babylon, selected as a defining visual reference for Babylonian Religion."
 ---
 
 # Babylonian Religion

@@ -46,22 +46,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Community of Christ'
     url: 'https://www.cambridge.org/core/search?q=Community%20of%20Christ'
 artifacts:
-  - title: Community of Christ Historical Sanctuary & Iconography
-    imageUrl: /artifacts/community-of-christ-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Community_of_Christ'
-    provenance: 'Independence, Jackson County, Missouri, USA'
-    period: c. 1860 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Community of Christ.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/community-of-christ-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Community_of_Christ'
-    provenance: 'Independence, Jackson County, Missouri, USA'
-    period: c. 1860 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Community of Christ.
+  - title: "Spiral-shaped Community of Christ Temple in Independence"
+    imageUrl: "/artifacts/community-of-christ-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:HedrickiteTempleLotWithCofChristBuildingsNearby.jpg"
+    provenance: "EGDJ; CC BY 3.0"
+    period: "Image dated 2010"
+    description: "This image shows Spiral-shaped Community of Christ Temple in Independence, selected as a defining visual reference for Community of Christ."
+  - title: "The Auditorium, historic world headquarters and worship space"
+    imageUrl: "/artifacts/community-of-christ-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Temple-lot2.jpg"
+    provenance: "Americasroof ( talk ); CC BY 3.0"
+    period: "Image dated 2008"
+    description: "This image shows The Auditorium, historic world headquarters and worship space, selected as a defining visual reference for Community of Christ."
 ---
 
 # Community of Christ

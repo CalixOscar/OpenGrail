@@ -46,22 +46,18 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Korean%20Shamanic%20Traditions
 artifacts:
-  - title: Korean Shamanic Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/korean-shamanism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Shamanic_Traditions'
-    provenance: 'Seoul (Hanyang), South Korea'
-    period: c. ancient
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Korean Shamanic Traditions.
-  - title: Mudang oral ritual corpora & Sacred Relics
-    imageUrl: /artifacts/korean-shamanism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Korean_Shamanic_Traditions'
-    provenance: 'Seoul (Hanyang), South Korea'
-    period: c. ancient
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Korean Shamanic Traditions.
+  - title: "Sanshin sacred painting"
+    imageUrl: "/artifacts/korean-shamanism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Korea-Saseongam_11-08080_Sanshingak.JPG"
+    provenance: "Steve46814; CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Sanshin sacred painting, selected as a defining visual reference for Korean Shamanic Traditions."
+  - title: "Public Korean gut ceremony"
+    imageUrl: "/artifacts/korean-shamanism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Korea-Mudang_performing_gut-01.jpg"
+    provenance: "ReSearcher at English Wikipedia; CC BY-SA 3.0"
+    period: "Image dated 2007"
+    description: "This image shows Public Korean gut ceremony, selected as a defining visual reference for Korean Shamanic Traditions."
 ---
 
 # Korean Shamanic Traditions

@@ -45,22 +45,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=P%C4%81%C5%9Bupata%20%C5%9Aaivism
 artifacts:
-  - title: Pāśupata Śaivism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/pashupata-shaivism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/P%C4%81%C5%9Bupata_%C5%9Aaivism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Pāśupata Śaivism.
-  - title: Pāśupata Sūtra & Sacred Relics
-    imageUrl: /artifacts/pashupata-shaivism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/P%C4%81%C5%9Bupata_%C5%9Aaivism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Pāśupata Śaivism.
+  - title: "Lakulisa sculpture, iconic teacher-deity of Pasupata Saivism"
+    imageUrl: "/artifacts/pashupata-shaivism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Lakulisa,_maestro_di_shiva,_forse_deccan,_VII-VIII_sec.JPG"
+    provenance: "sailko; CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Lakulisa sculpture, iconic teacher-deity of Pasupata Saivism, selected as a defining visual reference for Pāśupata Śaivism."
+  - title: "Kayavarohana temple, principal pilgrimage center of the Lakulisa lineage"
+    imageUrl: "/artifacts/pashupata-shaivism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Lakulish_Shiv_Temple_-_Kayavarohan_-_Gujarat_-_DSC001.jpg"
+    provenance: "Snehrashmi; CC BY-SA 4.0"
+    period: "Image dated 2021"
+    description: "This image shows Kayavarohana temple, principal pilgrimage center of the Lakulisa lineage, selected as a defining visual reference for Pāśupata Śaivism."
 ---
 
 # Pāśupata Śaivism

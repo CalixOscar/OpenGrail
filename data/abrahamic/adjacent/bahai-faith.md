@@ -46,24 +46,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Baha''i Faith'
     url: 'https://www.cambridge.org/core/search?q=Baha''i%20Faith'
 artifacts:
-  - title: 051907 Wilmette IMG 1404 The Greatest Name
-    imageUrl: /artifacts/bahai-faith-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:051907_Wilmette_IMG_1404_The_Greatest_Name.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1863 CE
-    description: >-
-      Photograph of the Greatest Name at the top of the interior of the Baha'i
-      House of Worship in Wilmette, Illinois....
-  - title: Kitab-i-Aqdas & Sacred Relics
-    imageUrl: /artifacts/bahai-faith-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:051907_Wilmette_IMG_1404_The_Greatest_Name.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1863 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Baha'i Faith.
+  - title: "The Greatest Name and ringstone, defining Bahai sacred calligraphy"
+    imageUrl: "/artifacts/bahai-faith-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:An_Exceptional_Lady_in_Britford_churchyard.jpg"
+    provenance: "Richard Avery; CC BY-SA 4.0"
+    period: "Image dated 2020"
+    description: "This image shows The Greatest Name and ringstone, defining Bahai sacred calligraphy, selected as a defining visual reference for Baha'i Faith."
+  - title: "Shrine of Bahaullah at Bahji, the Bahai point of pilgrimage"
+    imageUrl: "/artifacts/bahai-faith-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shrine-of-Bahaullah.jpg"
+    provenance: "Marco Abrar; CC BY-SA 3.0"
+    period: "Image dated 2007"
+    description: "This image shows Shrine of Bahaullah at Bahji, the Bahai point of pilgrimage, selected as a defining visual reference for Baha'i Faith."
 ---
 
 # Baha'i Faith

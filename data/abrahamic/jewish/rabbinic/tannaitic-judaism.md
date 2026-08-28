@@ -43,22 +43,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Tannaitic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Tannaitic%20Judaism'
 artifacts:
-  - title: Tannaitic Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/tannaitic-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tannaitic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 70 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Tannaitic Judaism.
-  - title: Mishnah & Sacred Relics
-    imageUrl: /artifacts/tannaitic-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tannaitic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 70 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Tannaitic Judaism.
+  - title: "Burial complex associated with Rabbi Judah ha-Nasi, compiler of the Mishnah"
+    imageUrl: "/artifacts/tannaitic-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Burial_Cave_of_Rabbi_Yehuda_HaNassi_P1030777.JPG"
+    provenance: "Deror_avi; CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Burial complex associated with Rabbi Judah ha-Nasi, compiler of the Mishnah, selected as a defining visual reference for Tannaitic Judaism."
+  - title: "Kaufmann Mishnah, principal manuscript witness to tannaitic law"
+    imageUrl: "/artifacts/tannaitic-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:KaufmannManuscript.jpg"
+    provenance: "kaufmann.mtak.hu; Public domain"
+    period: "12th century"
+    description: "This image shows Kaufmann Mishnah, principal manuscript witness to tannaitic law, selected as a defining visual reference for Tannaitic Judaism."
 ---
 
 # Tannaitic Judaism

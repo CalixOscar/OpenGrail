@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=J%C5%8Ddo-sh%C5%AB'
 artifacts:
-  - title: Jōdo-shū Historical Sanctuary & Iconography
-    imageUrl: /artifacts/jodo-shu-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/J%C5%8Ddo-sh%C5%AB'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1175 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Jōdo-shū.
-  - title: Three Pure Land Sūtras & Sacred Relics
-    imageUrl: /artifacts/jodo-shu-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/J%C5%8Ddo-sh%C5%AB'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1175 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Jōdo-shū.
+  - title: "Traditional portrait of Honen, founder of Jodo-shu"
+    imageUrl: "/artifacts/jodo-shu-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nakamura_Utaemon_III_als_Asahina_Sabur%C3%B4_in_het_toneelstuk_%E2%80%98H%C3%B4nen_uruoi_Soga%E2%80%99,_Kado_Theater,_RP-P-2010-253.jpg"
+    provenance: "Rijksmuseum; CC0"
+    period: "Image dated 1832"
+    description: "This image shows Traditional portrait of Honen, founder of Jodo-shu, selected as a defining visual reference for Jōdo-shū."
+  - title: "Chion-in, head temple of Jodo-shu"
+    imageUrl: "/artifacts/jodo-shu-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Chion-in_(7151259687).jpg"
+    provenance: "BriYYZ from Toronto, Canada; CC BY-SA 2.0"
+    period: "Image dated 2012"
+    description: "This image shows Chion-in, head temple of Jodo-shu, selected as a defining visual reference for Jōdo-shū."
 ---
 
 # Jōdo-shū

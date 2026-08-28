@@ -46,24 +46,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=African%20Indigenous%20Traditions'
 artifacts:
-  - title: >-
-      African Indigenous Traditions (Comparative) Historical Sanctuary &
-      Iconography
-    imageUrl: /artifacts/african-indigenous-traditions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/African_Indigenous_Traditions'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. prehistoric and historically diverse
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with African Indigenous Traditions (Comparative).
-  - title: Community-specific oral traditions & Sacred Relics
-    imageUrl: /artifacts/african-indigenous-traditions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/African_Indigenous_Traditions'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. prehistoric and historically diverse
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      African Indigenous Traditions (Comparative).
+  - title: "Great Zimbabwe carved soapstone ritual bird"
+    imageUrl: "/artifacts/african-indigenous-traditions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Figure,_Possibly_Shona_peoples,_possibly_Zimbabwe,_Date_unknown,_Stone_(2923620556).jpg"
+    provenance: "Cliff from Arlington, Virginia, USA; CC BY 2.0"
+    period: "Image dated 2008"
+    description: "This image shows Great Zimbabwe carved soapstone ritual bird, selected as a defining visual reference for African Indigenous Traditions (Comparative)."
+  - title: "The Great Enclosure of Great Zimbabwe"
+    imageUrl: "/artifacts/african-indigenous-traditions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Wall_of_the_great_enclosure,_Great_Zimbabwe.JPG"
+    provenance: "Jens Klinzing; CC BY 3.0"
+    period: "Image dated 2010"
+    description: "This image shows The Great Enclosure of Great Zimbabwe, selected as a defining visual reference for African Indigenous Traditions (Comparative)."
 ---
 
 # African Indigenous Traditions (Comparative)

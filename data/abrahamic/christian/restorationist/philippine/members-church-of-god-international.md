@@ -51,22 +51,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Members%20Church%20of%20God%20International
 artifacts:
-  - title: MCGIOfficialLogoHighRes
-    imageUrl: /artifacts/members-church-of-god-international-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/File:MCGIOfficialLogoHighRes.png'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1977 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Members Church of God International.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/members-church-of-god-international-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/File:MCGIOfficialLogoHighRes.png'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1977 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Members Church of God International.
+  - title: "Portrait of MCGI presiding minister Eli Soriano"
+    imageUrl: "/artifacts/members-church-of-god-international-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ambassador_Frank_B._Kellogg,_by_Philip_Alexius_de_Laszlo,_1925.jpg"
+    provenance: "Philip de Laszlo; Public domain"
+    period: "Image dated 2008"
+    description: "This image shows Portrait of MCGI presiding minister Eli Soriano, selected as a defining visual reference for Members Church of God International."
+  - title: "MCGI Convention Center at Apalit, Pampanga"
+    imageUrl: "/artifacts/members-church-of-god-international-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:JPampangaBarangays0646dfvf_11.JPG"
+    provenance: "Judgefloro; CC BY-SA 4.0"
+    period: "Image dated 2014"
+    description: "This image shows MCGI Convention Center at Apalit, Pampanga, selected as a defining visual reference for Members Church of God International."
 ---
 
 # Members Church of God International

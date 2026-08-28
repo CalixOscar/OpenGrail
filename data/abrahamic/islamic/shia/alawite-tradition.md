@@ -42,27 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Alawite Tradition'
     url: 'https://www.cambridge.org/core/search?q=Alawite%20Tradition'
 artifacts:
-  - title: >-
-      'The Visit of the Queen of Sheba to King Solomon', oil on canvas painting
-      by Edward Poynter, 1890, Art Gallery of New South Wales
-    imageUrl: /artifacts/alawite-tradition-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:%27The_Visit_of_the_Queen_of_Sheba_to_King_Solomon%27,_oil_on_canvas_painting_by_Edward_Poynter,_1890,_Art_Gallery_of_New_South_Wales.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 9th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Alawite Tradition.
-  - title: Birmingham Quran manuscript full
-    imageUrl: /artifacts/alawite-tradition-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Birmingham_Quran_manuscript_full.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 9th century CE
-    description: >-
-      Seventh-century Quran manuscript held by the University of Birmingham.
-      Folio 2 recto (left) and folio 1 verso (right). Folio 2 (left) from the
-      end of Chapter 19 to the beginning of...
+  - title: "A documented Alawite saint's shrine in western Syria"
+    imageUrl: "/artifacts/alawite-tradition-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%D9%85%D9%82%D8%A7%D9%85_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B9%D8%AC%D9%85%D9%8A_%D8%A7%D9%85_%D8%AD%D8%A7%D8%B1%D8%AA%D9%8A%D9%86_%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9_%D8%AD%D8%AF%D9%8A%D8%AF%D8%A9_%D8%AD%D9%85%D8%B5.jpg"
+    provenance: "Hayan Alhasan; CC BY-SA 4.0"
+    period: "Image dated 2024"
+    description: "This image shows A documented Alawite saint's shrine in western Syria, selected as a defining visual reference for Alawite Tradition."
+  - title: "Rural ziyara shrine in the Latakia coastal mountains"
+    imageUrl: "/artifacts/alawite-tradition-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%D9%85%D9%82%D8%A7%D9%85_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D8%B3%D8%A8%D8%A3_-_Makam_abdulla_bin_sabaa.jpg"
+    provenance: "facebook; Public domain"
+    period: "Image dated 2017"
+    description: "This image shows Rural ziyara shrine in the Latakia coastal mountains, selected as a defining visual reference for Alawite Tradition."
 ---
 
 # Alawite Tradition

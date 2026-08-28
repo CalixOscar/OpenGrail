@@ -42,22 +42,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C4%80j%C4%ABvika%20Tradition'
 artifacts:
-  - title: Ajivika Ascetic in Gandharan Schist Relief
-    imageUrl: /artifacts/ajivika-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika'
-    provenance: 'Gandhara, Ancient Northwest India'
-    period: c. 2nd century CE
-    description: >-
-      Schist relief depicting a wandering naked Ājīvika ascetic holding a staff,
-      illustrating the severe renunciant discipline taught by Makkhali Gosala.
-  - title: Ashokan Dedicatory Inscription for Ājīvikas at Barabar
-    imageUrl: /artifacts/ajivika-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika'
-    provenance: 'Visvakarma Cave, Barabar Hills, Bihar, India'
-    period: c. 250 BCE
-    description: >-
-      Brahmi script rock inscription commissioned by Emperor Ashoka formally
-      dedicating the rock-cut hermitage to the venerable Ājīvika community.
+  - title: "Makkhali Gosala, teacher associated with the Ajivika movement"
+    imageUrl: "/artifacts/ajivika-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Barabar_Caves_-_Silhouette_(9227630484).jpg"
+    provenance: "Photo Dharma from Penang, Malaysia; CC BY 2.0"
+    period: "Image dated 2013"
+    description: "This image shows Makkhali Gosala, teacher associated with the Ajivika movement, selected as a defining visual reference for Ājīvika Tradition."
+  - title: "Lomas Rishi Cave, an Asokan-period sanctuary donated to Ajivikas"
+    imageUrl: "/artifacts/ajivika-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:3rd_century_BCE_Barabar_caves,_Bihar,_plans_and_sections,_1847_sketch.jpg"
+    provenance: "Ms Sarah Welch; CC BY-SA 4.0"
+    period: "3rd century BCE"
+    description: "This image shows Lomas Rishi Cave, an Asokan-period sanctuary donated to Ajivikas, selected as a defining visual reference for Ājīvika Tradition."
 ---
 
 # Ājīvika Tradition

@@ -43,22 +43,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Phoenician Religion'
     url: 'https://brill.com/search?q=Phoenician%20Religion'
 artifacts:
-  - title: Phoenician Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/phoenician-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Phoenician_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1200 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Phoenician Religion.
-  - title: Phoenician and Punic dedicatory inscriptions & Sacred Relics
-    imageUrl: /artifacts/phoenician-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Phoenician_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1200 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Phoenician Religion.
+  - title: "Phoenician image of Astarte"
+    imageUrl: "/artifacts/phoenician-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Phoenician_Naiskos_with_a_Throne_of_Astarte_from_Sidon_at_the_Louvre_AO_2060.jpg"
+    provenance: "Noel Aime-Giron (1884‒1941); Public domain"
+    period: "Digital file published 2020"
+    description: "This image shows Phoenician image of Astarte, selected as a defining visual reference for Phoenician Religion."
+  - title: "Eshmun sanctuary near Sidon"
+    imageUrl: "/artifacts/phoenician-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Votive_statue_from_eshmun.jpg"
+    provenance: "Eli +; Public domain"
+    period: "Image dated 2009"
+    description: "This image shows Eshmun sanctuary near Sidon, selected as a defining visual reference for Phoenician Religion."
 ---
 
 # Phoenician Religion

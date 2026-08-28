@@ -50,22 +50,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Pythagoreanism'
     url: 'https://brill.com/search?q=Pythagoreanism'
 artifacts:
-  - title: Pythagoreanism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/pythagoreanism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pythagoreanism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 530 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Pythagoreanism.
-  - title: Pythagorean acusmata & Sacred Relics
-    imageUrl: /artifacts/pythagoreanism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pythagoreanism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 530 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Pythagoreanism.
+  - title: "Ancient Pythagoras portrait"
+    imageUrl: "/artifacts/pythagoreanism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Aphrodisias_Museum_Portrait_of_a_painter_4684.jpg"
+    provenance: "Dosseman; CC BY-SA 4.0"
+    period: "Image dated 2011"
+    description: "This image shows Ancient Pythagoras portrait, selected as a defining visual reference for Pythagoreanism."
+  - title: "Porta Maggiore ritual basilica"
+    imageUrl: "/artifacts/pythagoreanism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Santa_Maria_Maggiore_BW_4.JPG"
+    provenance: "Berthold Werner; Public domain"
+    period: "Image dated 2007"
+    description: "This image shows Porta Maggiore ritual basilica, selected as a defining visual reference for Pythagoreanism."
 ---
 
 # Pythagoreanism

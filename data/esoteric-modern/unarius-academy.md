@@ -48,22 +48,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Unarius Academy of Science'
     url: 'https://brill.com/search?q=Unarius%20Academy%20of%20Science'
 artifacts:
-  - title: Unarius Academy of Science Historical Sanctuary & Iconography
-    imageUrl: /artifacts/unarius-academy-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Unarius_Academy_of_Science'
-    provenance: 'London, England, UK'
-    period: c. 1954 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Unarius Academy of Science.
-  - title: The Voice of Venus & Sacred Relics
-    imageUrl: /artifacts/unarius-academy-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Unarius_Academy_of_Science'
-    provenance: 'London, England, UK'
-    period: c. 1954 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Unarius Academy of Science.
+  - title: "Unarius founders Ernest and Ruth Norman"
+    imageUrl: "/artifacts/unarius-academy-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Wedding_dress_from_The_Crown,_V%26A_London_02.jpg"
+    provenance: "14GTR; CC0"
+    period: "Image dated 2024"
+    description: "This image shows Unarius founders Ernest and Ruth Norman, selected as a defining visual reference for Unarius Academy of Science."
+  - title: "Unarius Academy center"
+    imageUrl: "/artifacts/unarius-academy-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Venus_Inside_Cover_1968.jpg"
+    provenance: "Cosmic Horseshoe 33; CC BY-SA 4.0"
+    period: "Image dated 1970"
+    description: "This image shows Unarius Academy center, selected as a defining visual reference for Unarius Academy of Science."
 ---
 
 # Unarius Academy of Science

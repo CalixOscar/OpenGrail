@@ -47,22 +47,18 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Bulgarian%20Orthodox%20Church'
 artifacts:
-  - title: Bulgarian Orthodox Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/bulgarian-orthodox-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bulgarian_Orthodox_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 870 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Bulgarian Orthodox Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/bulgarian-orthodox-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bulgarian_Orthodox_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 870 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Bulgarian Orthodox Church.
+  - title: "Frescoed Rila Monastery, center of Bulgarian Orthodox sacred culture"
+    imageUrl: "/artifacts/bulgarian-orthodox-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bulgaria_Bulgaria-0644_-_Frescoes_Everywhere................._(7409422142).jpg"
+    provenance: "Dennis G. Jarvis; CC BY-SA 2.0"
+    period: "10th century"
+    description: "This image shows Frescoed Rila Monastery, center of Bulgarian Orthodox sacred culture, selected as a defining visual reference for Bulgarian Orthodox Church."
+  - title: "Patriarchal Alexander Nevsky Cathedral in Sofia"
+    imageUrl: "/artifacts/bulgarian-orthodox-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:AlexanderNevskyCathedral-Sofia-6.jpg"
+    provenance: "Plamen Agov ( user:MrPanyGoff ); CC BY-SA 4.0"
+    period: "Image dated 2010"
+    description: "This image shows Patriarchal Alexander Nevsky Cathedral in Sofia, selected as a defining visual reference for Bulgarian Orthodox Church."
 ---
 
 # Bulgarian Orthodox Church

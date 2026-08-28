@@ -46,22 +46,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hermeticism'
     url: 'https://brill.com/search?q=Hermeticism'
 artifacts:
-  - title: Hermeticism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/hermeticism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hermeticism'
-    provenance: 'London, England, UK'
-    period: c. c. 1st–3rd centuries CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Hermeticism.
-  - title: Corpus Hermeticum & Sacred Relics
-    imageUrl: /artifacts/hermeticism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hermeticism'
-    provenance: 'London, England, UK'
-    period: c. c. 1st–3rd centuries CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Hermeticism.
+  - title: "Hermes Trismegistus mosaic"
+    imageUrl: "/artifacts/hermeticism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hermes_Trismegistus_Sienna_Cathedral_Mosaic.jpg"
+    provenance: "Giovanni di Stefano; Public domain"
+    period: "Digital file published 2025"
+    description: "This image shows Hermes Trismegistus mosaic, selected as a defining visual reference for Hermeticism."
+  - title: "Corpus Hermeticum manuscript"
+    imageUrl: "/artifacts/hermeticism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Asclepius_1469.jpg"
+    provenance: "unknown medieval author; Public domain"
+    period: "Image dated 1469"
+    description: "This image shows Corpus Hermeticum manuscript, selected as a defining visual reference for Hermeticism."
 ---
 
 # Hermeticism

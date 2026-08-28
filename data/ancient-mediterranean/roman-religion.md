@@ -44,22 +44,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Roman Religion'
     url: 'https://brill.com/search?q=Roman%20Religion'
 artifacts:
-  - title: Roman Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/roman-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Religion'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 750 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Roman Religion.
-  - title: Roman ritual calendars & Sacred Relics
-    imageUrl: /artifacts/roman-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Religion'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 750 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Roman
-      Religion.
+  - title: "Capitoline Triad sacred art"
+    imageUrl: "/artifacts/roman-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Staatliche_Antikensammlungen_M%C3%BCnchen_885.JPG"
+    provenance: "Picture taken by Marcus Cyron; CC BY-SA 3.0"
+    period: "1st century AD"
+    description: "This image shows Capitoline Triad sacred art, selected as a defining visual reference for Roman Religion."
+  - title: "Temple of Vesta"
+    imageUrl: "/artifacts/roman-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Temple_of_Vesta_(Rome).jpg"
+    provenance: "Wknight94; CC BY-SA 3.0"
+    period: "Image dated 2008"
+    description: "This image shows Temple of Vesta, selected as a defining visual reference for Roman Religion."
 ---
 
 # Roman Religion

@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Eastern Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Eastern%20Orthodoxy'
 artifacts:
-  - title: Eastern Orthodoxy Historical Sanctuary & Iconography
-    imageUrl: /artifacts/eastern-orthodoxy-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Eastern_Orthodoxy'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1st century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Eastern Orthodoxy.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/eastern-orthodoxy-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Eastern_Orthodoxy'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1st century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Eastern Orthodoxy.
+  - title: "Sixth-century Christ Pantocrator icon, supreme Orthodox sacred image"
+    imageUrl: "/artifacts/eastern-orthodoxy-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay_(cropped).jpg"
+    provenance: "Anonymous Unknown author; Public domain"
+    period: "6th-century"
+    description: "This image shows Sixth-century Christ Pantocrator icon, supreme Orthodox sacred image, selected as a defining visual reference for Eastern Orthodoxy."
+  - title: "The Deesis mosaic of Hagia Sophia, monumental Byzantine sacred art"
+    imageUrl: "/artifacts/eastern-orthodoxy-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Deesis_mosaic_(1).JPG"
+    provenance: "Gryffindor; Public domain"
+    period: "Image dated 2007"
+    description: "This image shows The Deesis mosaic of Hagia Sophia, monumental Byzantine sacred art, selected as a defining visual reference for Eastern Orthodoxy."
 ---
 
 # Eastern Orthodoxy

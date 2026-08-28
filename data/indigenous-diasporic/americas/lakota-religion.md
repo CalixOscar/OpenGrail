@@ -42,22 +42,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Lakota%20Religion'
 artifacts:
-  - title: Lakota Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/lakota-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lakota_Religion'
-    provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
-    period: c. ancestral era
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Lakota Religion.
-  - title: Oral traditions (community-governed) & Sacred Relics
-    imageUrl: /artifacts/lakota-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lakota_Religion'
-    provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
-    period: c. ancestral era
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Lakota Religion.
+  - title: "Lakota sacred Chaŋnuŋpa pipe bowl"
+    imageUrl: "/artifacts/lakota-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pipestone_National_Monument_PIPE0125.jpg"
+    provenance: "National Park Service Digital Image Archives; Public domain"
+    period: "Object or image dated 1937"
+    description: "This image shows Lakota sacred Chaŋnuŋpa pipe bowl, selected as a defining visual reference for Lakota Religion."
+  - title: "Matho Thipila (Devils Tower), sacred Lakota ceremonial site"
+    imageUrl: "/artifacts/lakota-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bear_Lodge_Butte_(Devil%E2%80%99s_Tower),_Devils_Tower_National_Monument,_Devils_Tower,_WY.jpg"
+    provenance: "w_lemay; CC BY-SA 2.0"
+    period: "Image dated 2023"
+    description: "This image shows Matho Thipila (Devils Tower), sacred Lakota ceremonial site, selected as a defining visual reference for Lakota Religion."
 ---
 
 # Lakota Religion

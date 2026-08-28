@@ -45,22 +45,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Jinja%20Shinto'
 artifacts:
-  - title: Jinja Shinto Historical Sanctuary & Iconography
-    imageUrl: /artifacts/jinja-shinto-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jinja_Shinto'
-    provenance: 'Ise Grand Shrine, Mie, Japan'
-    period: c. 1945 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Jinja Shinto.
-  - title: Kojiki & Sacred Relics
-    imageUrl: /artifacts/jinja-shinto-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jinja_Shinto'
-    provenance: 'Ise Grand Shrine, Mie, Japan'
-    period: c. 1945 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Jinja
-      Shinto.
+  - title: "Itsukushima torii"
+    imageUrl: "/artifacts/jinja-shinto-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Itsukushima_Shrine_Torii_seen_from_the_east_corridor_at_low_tide_-_spring_2019.jpg"
+    provenance: "shankar s.; CC BY 2.0"
+    period: "Image dated 2019"
+    description: "This image shows Itsukushima torii, selected as a defining visual reference for Jinja Shinto."
+  - title: "Inner Shrine at Ise"
+    imageUrl: "/artifacts/jinja-shinto-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Statue_at_the_wagashi_shop_in_Ise_by_hiromama.jpg"
+    provenance: "hiromama from Ise, Mie; CC BY 2.0"
+    period: "Image dated 2005"
+    description: "This image shows Inner Shrine at Ise, selected as a defining visual reference for Jinja Shinto."
 ---
 
 # Jinja Shinto

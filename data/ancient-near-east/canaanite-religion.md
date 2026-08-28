@@ -44,22 +44,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Canaanite Religion'
     url: 'https://brill.com/search?q=Canaanite%20Religion'
 artifacts:
-  - title: Canaanite Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/canaanite-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Canaanite_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2000 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Canaanite Religion.
-  - title: Ugaritic Baal Cycle & Sacred Relics
-    imageUrl: /artifacts/canaanite-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Canaanite_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2000 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Canaanite Religion.
+  - title: "Baal storm-god stele"
+    imageUrl: "/artifacts/canaanite-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Louvre_-_Ugaritic_stelae.jpg"
+    provenance: "Rama; CC BY-SA 3.0 fr"
+    period: "Digital file published 2006"
+    description: "This image shows Baal storm-god stele, selected as a defining visual reference for Canaanite Religion."
+  - title: "Hazor Canaanite sanctuary"
+    imageUrl: "/artifacts/canaanite-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hatzor_-_Temple_dvir_area_8-%D7%97.JPG"
+    provenance: "Hanay; CC BY-SA 3.0"
+    period: "Image dated 2003"
+    description: "This image shows Hazor Canaanite sanctuary, selected as a defining visual reference for Canaanite Religion."
 ---
 
 # Canaanite Religion

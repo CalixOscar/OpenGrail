@@ -50,24 +50,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=African%20Diasporic%20Traditions'
 artifacts:
-  - title: >-
-      African Diasporic Traditions (Comparative) Historical Sanctuary &
-      Iconography
-    imageUrl: /artifacts/african-diasporic-traditions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/African_Diasporic_Traditions'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. 16th century CE onward
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with African Diasporic Traditions (Comparative).
-  - title: Tradition-specific oral and initiatory corpora & Sacred Relics
-    imageUrl: /artifacts/african-diasporic-traditions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/African_Diasporic_Traditions'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. 16th century CE onward
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      African Diasporic Traditions (Comparative).
+  - title: "Sacred Bata drums of Afro-Atlantic ritual liturgy"
+    imageUrl: "/artifacts/african-diasporic-traditions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bata_Drum_2.jpg"
+    provenance: "Agbebiyi Adekunle Tadek; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Sacred Bata drums of Afro-Atlantic ritual liturgy, selected as a defining visual reference for African Diasporic Traditions (Comparative)."
+  - title: "Terreiro Ile Axe Opo Afonja sacred sanctuary"
+    imageUrl: "/artifacts/african-diasporic-traditions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Il%C3%AA_Ax%C3%A9_Op%C3%B4_Afonj%C3%A1_Salvador_Bahia_Casa_do_Alak%C3%A1_2019-0961.jpg"
+    provenance: "Paul R. Burley; CC BY-SA 4.0"
+    period: "Image dated 2019"
+    description: "This image shows Terreiro Ile Axe Opo Afonja sacred sanctuary, selected as a defining visual reference for African Diasporic Traditions (Comparative)."
 ---
 
 # African Diasporic Traditions (Comparative)

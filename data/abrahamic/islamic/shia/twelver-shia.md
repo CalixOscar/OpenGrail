@@ -40,28 +40,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Twelver Shi''a'
     url: 'https://www.cambridge.org/core/search?q=Twelver%20Shi''a'
 artifacts:
-  - title: Mirror writing2
-    imageUrl: /artifacts/twelver-shia-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mirror_writing2.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 9th century CE
-    description: >-
-      Example of mirror writing in Islamic calligraphy.  18th-century Ottoman
-      levha, or calligraphic panel, which depicts the Shi'i phrase 'Ali is the
-      vicegerent of God' (Arabic: علي ولي...
-  - title: >-
-      Fonds Christian Bromberger - Affiches de la période de la Révolution
-      islamique (Iran, 1978-1979) - Ali ibn Abi Talib entouré des onze imams
-      chiites (MédiHAL 1791970)
-    imageUrl: /artifacts/twelver-shia-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Fonds_Christian_Bromberger_-_Affiches_de_la_p%C3%A9riode_de_la_R%C3%A9volution_islamique_(Iran,_1978-1979)_-_Ali_ibn_Abi_Talib_entour%C3%A9_des_onze_imams_chiites_(M%C3%A9diHAL_1791970).jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 9th century CE
-    description: >-
-      In the centre the first Shia Imam, Ali ibn Abi Talib, holds his sword
-      Zulfiqar and surrounded by his eleven successors. To his left is sitting
-      Husayn ibn Ali, the third Shia Imam a...
+  - title: "Shrine of Imam Husayn at Karbala, central Twelver sanctuary"
+    imageUrl: "/artifacts/twelver-shia-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Imam_Husayn_Shrine_in_Karbala_(1).jpg"
+    provenance: "قسم الإعلام في العتبة الحسينية المقدسة شعبة الإنترنت - وحدة البرمجة والتصميم; Public domain"
+    period: "Image dated 1928"
+    description: "This image shows Shrine of Imam Husayn at Karbala, central Twelver sanctuary, selected as a defining visual reference for Twelver Shi'a."
+  - title: "Ashura procession with Zuljanah, ritual memory of Karbala"
+    imageUrl: "/artifacts/twelver-shia-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_clergymen_on_the_arbane_hike_%D8%B1%D9%88%D8%AD%D8%A7%D9%86%DB%8C%D8%AA_%D8%AF%D8%B1_%D9%BE%DB%8C%D8%A7%D8%AF%D9%87_%D8%B1%D9%88%DB%8C_%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86_01.jpg"
+    provenance: "Mostafameraji; CC BY-SA 4.0"
+    period: "Image dated 2016"
+    description: "This image shows Ashura procession with Zuljanah, ritual memory of Karbala, selected as a defining visual reference for Twelver Shi'a."
 ---
 
 # Twelver Shi'a

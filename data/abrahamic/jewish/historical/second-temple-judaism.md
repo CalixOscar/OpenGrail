@@ -42,22 +42,18 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Second%20Temple%20Judaism'
 artifacts:
-  - title: Second Temple Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/second-temple-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Second_Temple_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 516 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Second Temple Judaism.
-  - title: Hebrew Bible & Sacred Relics
-    imageUrl: /artifacts/second-temple-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Second_Temple_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 516 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Second Temple Judaism.
+  - title: "Detailed model of the Jerusalem Temple before 70 CE"
+    imageUrl: "/artifacts/second-temple-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jerusalem_Modell_BW_2.JPG"
+    provenance: "Berthold Werner; Public domain"
+    period: "Image dated 2008"
+    description: "This image shows Detailed model of the Jerusalem Temple before 70 CE, selected as a defining visual reference for Second Temple Judaism."
+  - title: "Dead Sea Scroll manuscript from the Second Temple period"
+    imageUrl: "/artifacts/second-temple-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dead_Sea_Scrolls_01.jpg"
+    provenance: "Mohammad hajeer; CC BY-SA 4.0"
+    period: "1st century CE"
+    description: "This image shows Dead Sea Scroll manuscript from the Second Temple period, selected as a defining visual reference for Second Temple Judaism."
 ---
 
 # Second Temple Judaism

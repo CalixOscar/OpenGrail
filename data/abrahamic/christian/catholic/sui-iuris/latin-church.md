@@ -43,22 +43,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Latin Church'
     url: 'https://www.cambridge.org/core/search?q=Latin%20Church'
 artifacts:
-  - title: Latin Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/latin-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Latin_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. c. 1st century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Latin Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/latin-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Latin_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. c. 1st century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Latin
-      Church.
+  - title: "A papal Roman-rite Mass in Saint Peter's Basilica"
+    imageUrl: "/artifacts/latin-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Medieval_Papal_Bulla_of_Pope_Urban_III_(probably)_(front,_reverse)_(FindID_241754).jpg"
+    provenance: "Birmingham Museums Trust, Duncan, 2008-12-21 09:00:43; CC BY-SA 2.0"
+    period: "Image dated 1185"
+    description: "This image shows A papal Roman-rite Mass in Saint Peter's Basilica, selected as a defining visual reference for Latin Church."
+  - title: "Saint John Lateran, cathedral of Rome and principal Latin Church basilica"
+    imageUrl: "/artifacts/latin-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Papal_Cathedra,_Basilica_San_Giovanni_in_Laterano_(45603162864).jpg"
+    provenance: "Sonse; CC BY 2.0"
+    period: "Image dated 2018"
+    description: "This image shows Saint John Lateran, cathedral of Rome and principal Latin Church basilica, selected as a defining visual reference for Latin Church."
 ---
 
 # Latin Church

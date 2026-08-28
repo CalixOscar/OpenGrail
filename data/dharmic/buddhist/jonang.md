@@ -45,22 +45,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Jonang'
 artifacts:
-  - title: Jonang Historical Sanctuary & Iconography
-    imageUrl: /artifacts/jonang-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jonang'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 13th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Jonang.
-  - title: Kālacakra Tantra & Sacred Relics
-    imageUrl: /artifacts/jonang-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jonang'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 13th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Jonang.
+  - title: "Dolpopa Sherab Gyaltsen, the defining Jonang theologian"
+    imageUrl: "/artifacts/jonang-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dolpopa.jpg"
+    provenance: "Anonymous Unknown author; Public domain"
+    period: "18 th century"
+    description: "This image shows Dolpopa Sherab Gyaltsen, the defining Jonang theologian, selected as a defining visual reference for Jonang."
+  - title: "Lineage image of Taranatha, great master of Jonang"
+    imageUrl: "/artifacts/jonang-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bogd_Khan_Winter_Palace_22.jpg"
+    provenance: "Brucke-Osteuropa; Public domain"
+    period: "17th century"
+    description: "This image shows Lineage image of Taranatha, great master of Jonang, selected as a defining visual reference for Jonang."
 ---
 
 # Jonang

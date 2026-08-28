@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Rabbinic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Rabbinic%20Judaism'
 artifacts:
-  - title: Rabbinic Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/rabbinic-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rabbinic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 2nd century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Rabbinic Judaism.
-  - title: Tanakh & Sacred Relics
-    imageUrl: /artifacts/rabbinic-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rabbinic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 2nd century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Rabbinic Judaism.
+  - title: "Manuscript page of the Talmud Yerushalmi"
+    imageUrl: "/artifacts/rabbinic-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Yerushalmi_Talmud.jpg"
+    provenance: "Wikimedia Commons; Public domain"
+    period: "Object or image dated 1901"
+    description: "This image shows Manuscript page of the Talmud Yerushalmi, selected as a defining visual reference for Rabbinic Judaism."
+  - title: "Kaufmann manuscript of the Mishnah, foundational rabbinic text"
+    imageUrl: "/artifacts/rabbinic-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:KaufmannManuscript.jpg"
+    provenance: "kaufmann.mtak.hu; Public domain"
+    period: "12th century"
+    description: "This image shows Kaufmann manuscript of the Mishnah, foundational rabbinic text, selected as a defining visual reference for Rabbinic Judaism."
 ---
 
 # Rabbinic Judaism

@@ -41,18 +41,18 @@ sources:
   - title: 'Niels Mulder: "Mysticism and Everyday Life in Contemporary Java"'
     url: 'https://brill.com/'
 artifacts:
-  - title: Prambanan Shiva-Trimurti Temple Complex
-    imageUrl: /artifacts/kejawen-javanese-mysticism-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Prambanan
-    provenance: Special Region of Yogyakarta, Java, Indonesia
-    period: c. 850 CE (Mataram Kingdom)
-    description: 9th-century monumental Hindu temple compound dedicated to the Trimurti, illustrating the classical Javanese cosmological synthesis that informed Kejawen philosophy.
-  - title: Wayang Kulit Sacred Shadow Puppetry & Gunungan (Tree of Life)
-    imageUrl: /artifacts/kejawen-javanese-mysticism-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Wayang
-    provenance: Surakarta & Yogyakarta Sultanate Courts, Java, Indonesia
-    period: Classical Horizon (UNESCO Intangible Cultural Heritage)
-    description: Masterpiece buffalo-hide shadow puppet representing the Gunungan (Cosmic Mountain / Tree of Life) used by Dalang puppeteers to open and close philosophical epics.
+  - title: "Wayang Kulit leather puppet of Semar, divine clown-deity"
+    imageUrl: "/artifacts/kejawen-javanese-mysticism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_giant_of_wayang_....._(3189800981).jpg"
+    provenance: "micro.cosmic; CC BY-SA 2.0"
+    period: "Image dated 2009"
+    description: "This image shows Wayang Kulit leather puppet of Semar, divine clown-deity, selected as a defining visual reference for Kejawen & Javanese Mystical Philosophy (Kebatinan)."
+  - title: "Bangsal Kencono pavilion at the Keraton Yogyakarta royal palace"
+    imageUrl: "/artifacts/kejawen-javanese-mysticism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Yogyakarta_King_Palace_1.jpg"
+    provenance: "user:Kirjapan; CC BY 3.0"
+    period: "Image dated 2007"
+    description: "This image shows Bangsal Kencono pavilion at the Keraton Yogyakarta royal palace, selected as a defining visual reference for Kejawen & Javanese Mystical Philosophy (Kebatinan)."
 ---
 
 # Kejawen & Javanese Mystical Philosophy (Kebatinan)

@@ -46,22 +46,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Gbe%20Vodun%20Traditions'
 artifacts:
-  - title: Gbe Vodun Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/gbe-vodun-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gbe_Vodun_Traditions'
-    provenance: 'Ouidah, Kingdom of Dahomey, Benin'
-    period: c. precolonial
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Gbe Vodun Traditions.
-  - title: Fon and Ewe oral traditions & Sacred Relics
-    imageUrl: /artifacts/gbe-vodun-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gbe_Vodun_Traditions'
-    provenance: 'Ouidah, Kingdom of Dahomey, Benin'
-    period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Gbe
-      Vodun Traditions.
+  - title: "Temple of Pythons sacred sanctuary in Ouidah"
+    imageUrl: "/artifacts/gbe-vodun-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Entr%C3%A9e_du_Temple_des_Pythons_(Ouidah).jpg"
+    provenance: "Ji-Elle; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Temple of Pythons sacred sanctuary in Ouidah, selected as a defining visual reference for Gbe Vodun Traditions."
+  - title: "Fon Vodun bocio carved wooden ritual power figure"
+    imageUrl: "/artifacts/gbe-vodun-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Statuette_magique_Bocio-Mus%C3%A9e_Vodou.jpg"
+    provenance: "Ji-Elle; CC BY-SA 3.0"
+    period: "Image dated 2014"
+    description: "This image shows Fon Vodun bocio carved wooden ritual power figure, selected as a defining visual reference for Gbe Vodun Traditions."
 ---
 
 # Gbe Vodun Traditions

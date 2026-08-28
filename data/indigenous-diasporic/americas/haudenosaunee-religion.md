@@ -43,22 +43,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Haudenosaunee%20Religions'
 artifacts:
-  - title: Haudenosaunee Religions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/haudenosaunee-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Haudenosaunee_Religions'
-    provenance: 'Onondaga, Haudenosaunee Territory, NY, USA'
-    period: c. before 1500 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Haudenosaunee Religions.
-  - title: Kayanerenkówa / Great Law of Peace & Sacred Relics
-    imageUrl: /artifacts/haudenosaunee-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Haudenosaunee_Religions'
-    provenance: 'Onondaga, Haudenosaunee Territory, NY, USA'
-    period: c. before 1500 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Haudenosaunee Religions.
+  - title: "Hiawatha Wampum Belt of the Iroquois Confederacy"
+    imageUrl: "/artifacts/haudenosaunee-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:PSM_V28_D311_Wampum_belt_commemorating_the_iroquois_confederacy.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1885"
+    description: "This image shows Hiawatha Wampum Belt of the Iroquois Confederacy, selected as a defining visual reference for Haudenosaunee Religions."
+  - title: "Traditional Haudenosaunee bark longhouse sanctuary"
+    imageUrl: "/artifacts/haudenosaunee-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Iroquoian_Village,_Ontario,_Canada28.JPG"
+    provenance: "Laslovarga; CC BY-SA 3.0"
+    period: "15th century"
+    description: "This image shows Traditional Haudenosaunee bark longhouse sanctuary, selected as a defining visual reference for Haudenosaunee Religions."
 ---
 
 # Haudenosaunee Religions

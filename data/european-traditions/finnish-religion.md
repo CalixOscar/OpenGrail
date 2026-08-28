@@ -43,22 +43,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Finnic Religions'
     url: 'https://brill.com/search?q=Finnic%20Religions'
 artifacts:
-  - title: Finnic Religions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/finnish-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Finnic_Religions'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 1st millennium CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Finnic Religions.
-  - title: Oral rune-song traditions & Sacred Relics
-    imageUrl: /artifacts/finnish-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Finnic_Religions'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 1st millennium CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Finnic Religions.
+  - title: "Ukko hammer amulet"
+    imageUrl: "/artifacts/finnish-religion-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pagan_religions_symbols_-_4_rows.png"
+    provenance: "Wewelsburger; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Ukko hammer amulet, selected as a defining visual reference for Finnic Religions."
+  - title: "Karelian rune-singing tradition"
+    imageUrl: "/artifacts/finnish-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Timo-Lipitsa.jpg"
+    provenance: "Armas Otto Vaisanen; Public domain"
+    period: "Image dated 1917"
+    description: "This image shows Karelian rune-singing tradition, selected as a defining visual reference for Finnic Religions."
 ---
 
 # Finnic Religions

@@ -46,22 +46,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hittite Religion'
     url: 'https://brill.com/search?q=Hittite%20Religion'
 artifacts:
-  - title: Hittite Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/hittite-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hittite_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1650 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Hittite Religion.
-  - title: Kumarbi Cycle & Sacred Relics
-    imageUrl: /artifacts/hittite-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hittite_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1650 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Hittite Religion.
+  - title: "Yazılıkaya divine procession"
+    imageUrl: "/artifacts/hittite-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Yazilikaya_B_12erGruppe.jpg"
+    provenance: "Klaus-Peter Simon; CC BY 3.0"
+    period: "Image dated 2002"
+    description: "This image shows Yazılıkaya divine procession, selected as a defining visual reference for Hittite Religion."
+  - title: "Great Temple of Hattusa"
+    imageUrl: "/artifacts/hittite-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hattusa-Lower_City_05.jpg"
+    provenance: "Bernard Gagnon; CC BY-SA 3.0"
+    period: "Image dated 2014"
+    description: "This image shows Great Temple of Hattusa, selected as a defining visual reference for Hittite Religion."
 ---
 
 # Hittite Religion

@@ -48,22 +48,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81s%C4%AB%20Tradition'
 artifacts:
-  - title: Mahāsī Tradition Historical Sanctuary & Iconography
-    imageUrl: /artifacts/mahasi-tradition-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%AB_Tradition'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 1930s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Mahāsī Tradition.
-  - title: Satipaṭṭhāna Sutta & Sacred Relics
-    imageUrl: /artifacts/mahasi-tradition-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mah%C4%81s%C4%AB_Tradition'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 1930s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Mahāsī Tradition.
+  - title: "Mahasi Sayadaw, founder of the modern noting lineage"
+    imageUrl: "/artifacts/mahasi-tradition-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mahasi_Sayadaw.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1949"
+    description: "This image shows Mahasi Sayadaw, founder of the modern noting lineage, selected as a defining visual reference for Mahāsī Tradition."
+  - title: "Mahasi Sasana Yeiktha, the lineage's principal meditation center"
+    imageUrl: "/artifacts/mahasi-tradition-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mahasi4.JPG"
+    provenance: "Kwantonge|Rockrangoon; CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Mahasi Sasana Yeiktha, the lineage's principal meditation center, selected as a defining visual reference for Mahāsī Tradition."
 ---
 
 # Mahāsī Tradition

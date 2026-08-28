@@ -49,22 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: UFO Religions'
     url: 'https://brill.com/search?q=UFO%20Religions'
 artifacts:
-  - title: UFO Religions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ufo-religions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/UFO_Religions'
-    provenance: 'London, England, UK'
-    period: c. mid-20th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with UFO Religions.
-  - title: Contactee narratives & Sacred Relics
-    imageUrl: /artifacts/ufo-religions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/UFO_Religions'
-    provenance: 'London, England, UK'
-    period: c. mid-20th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of UFO
-      Religions.
+  - title: "George Adamski with telescope at the Temple of Scientific Philosophy"
+    imageUrl: "/artifacts/ufo-religions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:George_Adamski.jpg"
+    provenance: "Los Angeles Times; CC BY 4.0"
+    period: "Image dated 1938"
+    description: "This image shows George Adamski with telescope at the Temple of Scientific Philosophy, selected as a defining visual reference for UFO Religions."
+  - title: "Integratron contactee sanctuary"
+    imageUrl: "/artifacts/ufo-religions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Integratron4.JPG"
+    provenance: "User:Model Citizen; Public domain"
+    period: "Image dated 2006"
+    description: "This image shows Integratron contactee sanctuary, selected as a defining visual reference for UFO Religions."
 ---
 
 # UFO Religions

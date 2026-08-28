@@ -49,22 +49,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Samoan%20Religious%20Traditions'
 artifacts:
-  - title: Samoan Religious Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/samoan-religious-traditions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Samoan_Religious_Traditions'
-    provenance: 'Upolu (Apia), Samoa'
-    period: c. precolonial
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Samoan Religious Traditions.
-  - title: Samoan oral genealogies & Sacred Relics
-    imageUrl: /artifacts/samoan-religious-traditions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Samoan_Religious_Traditions'
-    provenance: 'Upolu (Apia), Samoa'
-    period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Samoan Religious Traditions.
+  - title: "Samoan ʻava (kava) ritual ceremony and tanoa bowl"
+    imageUrl: "/artifacts/samoan-religious-traditions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Samoan_%27ava_ceremony,_c._1900-1930_unknown_photographer.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1900"
+    description: "This image shows Samoan ʻava (kava) ritual ceremony and tanoa bowl, selected as a defining visual reference for Samoan Religious Traditions."
+  - title: "Pulemelei Mound monumental stone pyramid on Savaiʻi"
+    imageUrl: "/artifacts/samoan-religious-traditions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pulemelei_Mound_(2).jpg"
+    provenance: "Виктор Пинчук; CC BY-SA 4.0"
+    period: "Image dated 2019"
+    description: "This image shows Pulemelei Mound monumental stone pyramid on Savaiʻi, selected as a defining visual reference for Samoan Religious Traditions."
 ---
 
 # Samoan Religious Traditions

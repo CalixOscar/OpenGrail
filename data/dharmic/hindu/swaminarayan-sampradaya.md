@@ -48,22 +48,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Swaminarayan%20Samprad%C4%81ya'
 artifacts:
-  - title: Swaminarayan Sampradāya Historical Sanctuary & Iconography
-    imageUrl: /artifacts/swaminarayan-sampradaya-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Swaminarayan_Samprad%C4%81ya'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. early 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Swaminarayan Sampradāya.
-  - title: Śikṣāpatrī & Sacred Relics
-    imageUrl: /artifacts/swaminarayan-sampradaya-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Swaminarayan_Samprad%C4%81ya'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. early 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Swaminarayan Sampradāya.
+  - title: "Sahajanand Swami portrayed as Swaminarayan"
+    imageUrl: "/artifacts/swaminarayan-sampradaya-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shri_Swaminarayan_Mandir,_Bhavnagar_01.jpg"
+    provenance: "Bernard Gagnon; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Sahajanand Swami portrayed as Swaminarayan, selected as a defining visual reference for Swaminarayan Sampradāya."
+  - title: "Original Swaminarayan Mandir at Kalupur, Ahmedabad"
+    imageUrl: "/artifacts/swaminarayan-sampradaya-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kalupur_Swaminarayan_mandir.JPG"
+    provenance: "Rajani; CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Original Swaminarayan Mandir at Kalupur, Ahmedabad, selected as a defining visual reference for Swaminarayan Sampradāya."
 ---
 
 # Swaminarayan Sampradāya

@@ -43,22 +43,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Geonic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Geonic%20Judaism'
 artifacts:
-  - title: Geonic Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/geonic-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Geonic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 600 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Geonic Judaism.
-  - title: Babylonian Talmud & Sacred Relics
-    imageUrl: /artifacts/geonic-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Geonic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 600 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Geonic Judaism.
+  - title: "Historical depiction of Saadia Gaon, foremost geonic scholar"
+    imageUrl: "/artifacts/geonic-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Se%E2%80%99adya_Ga%E2%80%99on_and_HaHashmona%E2%80%99im_intersection_sign.JPG"
+    provenance: "Enoshd; CC BY-SA 4.0"
+    period: "Image dated 2015"
+    description: "This image shows Historical depiction of Saadia Gaon, foremost geonic scholar, selected as a defining visual reference for Geonic Judaism."
+  - title: "Cairo Genizah manuscript fragment preserving Geonic responsa"
+    imageUrl: "/artifacts/geonic-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cairo_Genizah_Fragment.jpg"
+    provenance: "Wikimedia Commons; Public domain"
+    period: "Digital file published 2005"
+    description: "This image shows Cairo Genizah manuscript fragment preserving Geonic responsa, selected as a defining visual reference for Geonic Judaism."
 ---
 
 # Geonic Judaism

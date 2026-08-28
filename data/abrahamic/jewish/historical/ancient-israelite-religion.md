@@ -47,22 +47,18 @@ sources:
       Religion
     url: 'https://www.cambridge.org/core/search?q=Ancient%20Israelite%20Religion'
 artifacts:
-  - title: Ancient Israelite Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ancient-israelite-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Israelite_Religion'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1200 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ancient Israelite Religion.
-  - title: Hebrew Bible & Sacred Relics
-    imageUrl: /artifacts/ancient-israelite-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Israelite_Religion'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1200 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ancient Israelite Religion.
+  - title: "Kuntillet Ajrud inscription and sacred drawings"
+    imageUrl: "/artifacts/ancient-israelite-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ajrud.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "8 th century BC"
+    description: "This image shows Kuntillet Ajrud inscription and sacred drawings, selected as a defining visual reference for Ancient Israelite Religion."
+  - title: "Altars and standing stones from the Israelite sanctuary at Tel Arad"
+    imageUrl: "/artifacts/ancient-israelite-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tel_Arad_-_Israelite_shrine.JPG"
+    provenance: "Chamberi; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Altars and standing stones from the Israelite sanctuary at Tel Arad, selected as a defining visual reference for Ancient Israelite Religion."
 ---
 
 # Ancient Israelite Religion

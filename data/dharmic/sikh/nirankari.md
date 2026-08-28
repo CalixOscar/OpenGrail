@@ -41,22 +41,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nirankari%20Movement'
 artifacts:
-  - title: Nirankari Movement Historical Sanctuary & Iconography
-    imageUrl: /artifacts/nirankari-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nirankari_Movement'
-    provenance: 'Amritsar, Punjab, India'
-    period: c. c. 1851 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Nirankari Movement.
-  - title: Guru Granth Sahib & Sacred Relics
-    imageUrl: /artifacts/nirankari-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nirankari_Movement'
-    provenance: 'Amritsar, Punjab, India'
-    period: c. c. 1851 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Nirankari Movement.
+  - title: "Baba Dyal Singh, founder of the original Nirankari movement"
+    imageUrl: "/artifacts/nirankari-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Miniature_painting_thought_to_depict_Baba_Dyal_Singh,_founder_of_the_Nirankari_sect_of_Sikhism_in_1851,_circa_19th_century.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "19th century"
+    description: "This image shows Baba Dyal Singh, founder of the original Nirankari movement, selected as a defining visual reference for Nirankari Movement."
+  - title: "Sant Nirankari Samagam spiritual assembly in Delhi"
+    imageUrl: "/artifacts/nirankari-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sant_Nirankari_Samagam.jpg"
+    provenance: "Nitin.i.azam; CC BY-SA 4.0"
+    period: "Image dated 2014"
+    description: "This image shows Sant Nirankari Samagam spiritual assembly in Delhi, selected as a defining visual reference for Nirankari Movement."
 ---
 
 # Nirankari Movement

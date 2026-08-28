@@ -47,22 +47,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hellenistic Religion'
     url: 'https://brill.com/search?q=Hellenistic%20Religion'
 artifacts:
-  - title: Hellenistic Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/hellenistic-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hellenistic_Religion'
-    provenance: 'Athens, Attica, Greece'
-    period: c. 323 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Hellenistic Religion.
-  - title: Hellenistic hymns and aretalogies & Sacred Relics
-    imageUrl: /artifacts/hellenistic-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hellenistic_Religion'
-    provenance: 'Athens, Attica, Greece'
-    period: c. 323 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Hellenistic Religion.
+  - title: "Alexander as Zeus-Ammon"
+    imageUrl: "/artifacts/hellenistic-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Alexander_coin,_British_Museum.jpg"
+    provenance: "Photograph by Mike Peel ( www.mikepeel.net ).; CC BY-SA 4.0"
+    period: "281BC"
+    description: "This image shows Alexander as Zeus-Ammon, selected as a defining visual reference for Hellenistic Religion."
+  - title: "Pergamon Altar sacred relief"
+    imageUrl: "/artifacts/hellenistic-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pergamonaltarathena.jpg"
+    provenance: "Ealdgyth; CC BY-SA 3.0"
+    period: "Image dated 2010"
+    description: "This image shows Pergamon Altar sacred relief, selected as a defining visual reference for Hellenistic Religion."
 ---
 
 # Hellenistic Religion

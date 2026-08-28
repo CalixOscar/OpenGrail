@@ -49,22 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Atenism'
     url: 'https://brill.com/search?q=Atenism'
 artifacts:
-  - title: Atenism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/atenism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Atenism'
-    provenance: 'Thebes (Luxor), Ancient Egypt'
-    period: c. c. 1353 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Atenism.
-  - title: Great Hymn to the Aten & Sacred Relics
-    imageUrl: /artifacts/atenism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Atenism'
-    provenance: 'Thebes (Luxor), Ancient Egypt'
-    period: c. c. 1353 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Atenism.
+  - title: "Amarna royal family beneath Aten"
+    imageUrl: "/artifacts/atenism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Panehesy%E2%80%99s_EA.6_tomb_(Kairoinfo4u).jpg"
+    provenance: "kairoinfo4u: Mutnedjmet; CC BY-SA 2.0"
+    period: "Image dated 2009"
+    description: "This image shows Amarna royal family beneath Aten, selected as a defining visual reference for Atenism."
+  - title: "Great Aten Temple at Akhetaten"
+    imageUrl: "/artifacts/atenism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Stela_of_the_Great_temple_of_Aten_at_Akhetaten2008.jpg"
+    provenance: "Jean-Pierre Dalbera; CC BY 2.0"
+    period: "Image dated 2008"
+    description: "This image shows Great Aten Temple at Akhetaten, selected as a defining visual reference for Atenism."
 ---
 
 # Atenism

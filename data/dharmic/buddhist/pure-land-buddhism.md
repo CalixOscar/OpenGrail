@@ -43,22 +43,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pure%20Land%20Buddhism'
 artifacts:
-  - title: Pure Land Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/pure-land-buddhism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pure_Land_Buddhism'
-    provenance: 'Luoyang, Henan, China'
-    period: c. c. 2nd century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Pure Land Buddhism.
-  - title: Larger Sukhāvatīvyūha Sūtra & Sacred Relics
-    imageUrl: /artifacts/pure-land-buddhism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pure_Land_Buddhism'
-    provenance: 'Luoyang, Henan, China'
-    period: c. c. 2nd century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Pure
-      Land Buddhism.
+  - title: "Raigo painting of Amitabha welcoming devotees to the Pure Land"
+    imageUrl: "/artifacts/pure-land-buddhism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Japanese_-_The_Buddha_Amida%27s_Descent_-_Walters_3568.jpg"
+    provenance: "Anonymous ( Japan ) Unknown author; Public domain"
+    period: "Image dated 1300"
+    description: "This image shows Raigo painting of Amitabha welcoming devotees to the Pure Land, selected as a defining visual reference for Pure Land Buddhism."
+  - title: "Byodo-in Phoenix Hall, an architectural vision of Sukhavati"
+    imageUrl: "/artifacts/pure-land-buddhism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Byodo-in_Uji03bs2640.jpg"
+    provenance: "663highland; CC BY 2.5"
+    period: "Image dated 2010"
+    description: "This image shows Byodo-in Phoenix Hall, an architectural vision of Sukhavati, selected as a defining visual reference for Pure Land Buddhism."
 ---
 
 # Pure Land Buddhism

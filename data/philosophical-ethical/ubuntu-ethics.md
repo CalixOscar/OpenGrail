@@ -43,20 +43,18 @@ sources:
   - title: 'Kwasi Wiredu: "Cultural Universals and Particulars: An African Perspective"'
     url: 'https://iupress.org/'
 artifacts:
-  - title: Archbishop Desmond Tutu at the Truth and Reconciliation Commission
-    imageUrl: /artifacts/ubuntu-ethics-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Desmond_Tutu
-    provenance: Cape Town, South Africa
-    period: c. 1995–1998 CE
-    description: >-
-      Nobel Peace laureate Desmond Tutu who pioneered Ubuntu as the constitutional and moral foundation for post-apartheid national reconciliation.
-  - title: Nelson Mandela (Embodiment of Ubuntu Statesmanship)
-    imageUrl: /artifacts/ubuntu-ethics-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Nelson_Mandela
-    provenance: Pretoria, South Africa
-    period: c. 1994 CE
-    description: >-
-      First democratically elected President of South Africa whose leadership exemplified Ubuntu forgiveness and multi-racial constitutional democracy.
+  - title: "Nelson Mandela and Archbishop Desmond Tutu, icons of Ubuntu reconciliation"
+    imageUrl: "/artifacts/ubuntu-ethics-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kitchen_at_Nelson_Mandela_Museum,_Soweto.jpg"
+    provenance: "Fihliwe; CC BY-SA 2.0"
+    period: "Image dated 2006"
+    description: "This image shows Nelson Mandela and Archbishop Desmond Tutu, icons of Ubuntu reconciliation, selected as a defining visual reference for Ubuntu Philosophy & Communal Interdependence."
+  - title: "The Golden Rhinoceros of Mapungubwe royal treasure"
+    imageUrl: "/artifacts/ubuntu-ethics-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mapungubwe,_Limpopo,_South_Africa_(20356187550).jpg"
+    provenance: "South African Tourism from South Africa; CC BY 2.0"
+    period: "Image dated 2015"
+    description: "This image shows The Golden Rhinoceros of Mapungubwe royal treasure, selected as a defining visual reference for Ubuntu Philosophy & Communal Interdependence."
 ---
 
 # Ubuntu Philosophy & Communal Interdependence

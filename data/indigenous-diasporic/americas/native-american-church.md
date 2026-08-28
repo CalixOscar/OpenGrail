@@ -44,22 +44,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Native%20American%20Church'
 artifacts:
-  - title: Native American Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/native-american-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Native_American_Church'
-    provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
-    period: c. late 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Native American Church.
-  - title: Peyote meeting prayer and song corpus & Sacred Relics
-    imageUrl: /artifacts/native-american-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Native_American_Church'
-    provenance: 'Paha Sapa (Black Hills), SD/WY, USA'
-    period: c. late 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Native American Church.
+  - title: "Ritual peyote water drum, beaded gourd rattle, and feather fan"
+    imageUrl: "/artifacts/native-american-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Looking_from_the_Metlakatla_Christian_Mission_church_toward_the_water,_ca_1914_(CURTIS_1925).jpeg"
+    provenance: "Asahel Curtis; Public domain"
+    period: "Image dated 1914"
+    description: "This image shows Ritual peyote water drum, beaded gourd rattle, and feather fan, selected as a defining visual reference for Native American Church."
+  - title: "Crescent moon earth altar inside a ceremonial peyote tipi"
+    imageUrl: "/artifacts/native-american-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Carl_Sweezy_-_NAME_Buffalo_Hunt_MEDIUM_oil_on_canvas.jpg"
+    provenance: "Carl Sweezy; Public domain"
+    period: "20th century"
+    description: "This image shows Crescent moon earth altar inside a ceremonial peyote tipi, selected as a defining visual reference for Native American Church."
 ---
 
 # Native American Church

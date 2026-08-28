@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Lurianic Kabbalah'
     url: 'https://www.cambridge.org/core/search?q=Lurianic%20Kabbalah'
 artifacts:
-  - title: Lurianic Kabbalah Historical Sanctuary & Iconography
-    imageUrl: /artifacts/lurianic-kabbalah-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lurianic_Kabbalah'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1570 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Lurianic Kabbalah.
-  - title: Zohar & Sacred Relics
-    imageUrl: /artifacts/lurianic-kabbalah-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lurianic_Kabbalah'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1570 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Lurianic Kabbalah.
+  - title: "Ari Synagogue in Safed associated with Isaac Luria"
+    imageUrl: "/artifacts/lurianic-kabbalah-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ari_Ashkenazi_Synagogue,_shiviti.jpg"
+    provenance: "( Roylindman at en.wikipedia at 14:48, on 15 December 2010. File name: File:RoyLindmanAriAshkenaziSynagogue 002.jpg); CC BY-SA 3.0"
+    period: "Image dated 2010"
+    description: "This image shows Ari Synagogue in Safed associated with Isaac Luria, selected as a defining visual reference for Lurianic Kabbalah."
+  - title: "Manuscript of Etz Chaim transmitting Lurianic cosmology"
+    imageUrl: "/artifacts/lurianic-kabbalah-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:EtzChaimLS17.jpg"
+    provenance: "Chemical Engineer; Public domain"
+    period: "Image dated 2009"
+    description: "This image shows Manuscript of Etz Chaim transmitting Lurianic cosmology, selected as a defining visual reference for Lurianic Kabbalah."
 ---
 
 # Lurianic Kabbalah

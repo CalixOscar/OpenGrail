@@ -44,22 +44,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Zealots'
     url: 'https://www.cambridge.org/core/search?q=Zealots'
 artifacts:
-  - title: Zealots Historical Sanctuary & Iconography
-    imageUrl: /artifacts/zealots-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zealots'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1st century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Zealots.
-  - title: Hebrew Bible & Sacred Relics
-    imageUrl: /artifacts/zealots-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zealots'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1st century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Zealots.
+  - title: "Masada, iconic final stronghold of revolt against Rome"
+    imageUrl: "/artifacts/zealots-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Israel-2013-Aerial_21-Masada.jpg"
+    provenance: "Godot13; CC BY-SA 4.0"
+    period: "Image dated 2013"
+    description: "This image shows Masada, iconic final stronghold of revolt against Rome, selected as a defining visual reference for Zealots."
+  - title: "Silver revolt shekel carrying symbols of Jewish resistance"
+    imageUrl: "/artifacts/zealots-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bronze_prutah,_Hendin_1360_The_First_Jewish_Revolt,_66_-_70_A.D.jpg"
+    provenance: "Brocken Inaglory; CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Silver revolt shekel carrying symbols of Jewish resistance, selected as a defining visual reference for Zealots."
 ---
 
 # Zealots

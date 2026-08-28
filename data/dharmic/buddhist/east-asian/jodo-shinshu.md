@@ -49,22 +49,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=J%C5%8Ddo%20Shinsh%C5%AB'
 artifacts:
-  - title: Jōdo Shinshū Historical Sanctuary & Iconography
-    imageUrl: /artifacts/jodo-shinshu-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 13th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Jōdo Shinshū.
-  - title: Three Pure Land Sūtras & Sacred Relics
-    imageUrl: /artifacts/jodo-shinshu-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 13th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Jōdo
-      Shinshū.
+  - title: "Historic portrait of Shinran, founder of Jodo Shinshu"
+    imageUrl: "/artifacts/jodo-shinshu-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Zephyrhills_Downtown_Historic_District_2.jpg"
+    provenance: "User:Wknight94; CC BY-SA 3.0"
+    period: "Image dated 2006"
+    description: "This image shows Historic portrait of Shinran, founder of Jodo Shinshu, selected as a defining visual reference for Jōdo Shinshū."
+  - title: "Nishi Hongan-ji, a principal Jodo Shinshu temple"
+    imageUrl: "/artifacts/jodo-shinshu-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:170128_Nishi_Honganji_Kyoto_Japan07n.jpg"
+    provenance: "663highland; CC BY 2.5"
+    period: "Image dated 2017"
+    description: "This image shows Nishi Hongan-ji, a principal Jodo Shinshu temple, selected as a defining visual reference for Jōdo Shinshū."
 ---
 
 # Jōdo Shinshū

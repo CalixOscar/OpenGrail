@@ -47,22 +47,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Aghori%20Tradition'
 artifacts:
-  - title: Aghori Tradition Historical Sanctuary & Iconography
-    imageUrl: /artifacts/aghori-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Aghori_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 17th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Aghori Tradition.
-  - title: Aghor oral teachings & Sacred Relics
-    imageUrl: /artifacts/aghori-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Aghori_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 17th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Aghori Tradition.
+  - title: "Aghori practitioner in Varanasi"
+    imageUrl: "/artifacts/aghori-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:A_Sadhu_in_Varanasi.jpg"
+    provenance: "KundenduK; CC BY-SA 4.0"
+    period: "Image dated 2022"
+    description: "This image shows Aghori practitioner in Varanasi, selected as a defining visual reference for Aghori Tradition."
+  - title: "Manikarnika Ghat sacred cremation ground in Varanasi"
+    imageUrl: "/artifacts/aghori-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:-Cremation_Ground_at_Manikarnika_Ghat,_Varanasi,_India-_MET_DP71252.jpg"
+    provenance: "Unknown author Unknown author; CC0"
+    period: "Digital file published 2017"
+    description: "This image shows Manikarnika Ghat sacred cremation ground in Varanasi, selected as a defining visual reference for Aghori Tradition."
 ---
 
 # Aghori Tradition

@@ -40,18 +40,18 @@ sources:
   - title: 'Griffith University Archaeology: Sulawesi Cave Discoveries'
     url: 'https://www.griffith.edu.au/'
 artifacts:
-  - title: Leang Tedongnge Warty Pig & Therianthrope Mural
-    imageUrl: /artifacts/maros-sulawesi-cave-art-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Rock_art_of_South_Sulawesi
-    provenance: Maros-Pangkep Karst, South Sulawesi, Indonesia
-    period: c. 45,500 BCE (Uranium-series dated)
-    description: The world's oldest known figurative painting of an animal, depicting a Sulawesi warty pig rendered in red ochre with anatomical precision.
-  - title: Leang Timpuseng Sacred Hand Stencils
-    imageUrl: /artifacts/maros-sulawesi-cave-art-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Rock_art_of_South_Sulawesi
-    provenance: Leang Timpuseng Cave, South Sulawesi, Indonesia
-    period: c. 39,900 BCE
-    description: Prehistoric hand stencils created by blowing pulverized ochre over human hands against limestone walls, marking ritual presence in the sanctuary.
+  - title: "Maros-Pangkep cave painting of a Sulawesi warty pig"
+    imageUrl: "/artifacts/maros-sulawesi-cave-art-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Leang_Tedongnge_rock_art_panel_credit_Basran_Burhan.jpg"
+    provenance: "Basran Burhan; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Maros-Pangkep cave painting of a Sulawesi warty pig, selected as a defining visual reference for Sulawesi & Maros-Pangkep Paleolithic Sanctuaries."
+  - title: "Prehistoric negative hand stencils at Leang-Leang cave"
+    imageUrl: "/artifacts/maros-sulawesi-cave-art-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Taman_Prasejarah_Leang-leang_view_2.jpg"
+    provenance: "Nurulrahayu09; CC BY-SA 4.0"
+    period: "Image dated 2019"
+    description: "This image shows Prehistoric negative hand stencils at Leang-Leang cave, selected as a defining visual reference for Sulawesi & Maros-Pangkep Paleolithic Sanctuaries."
 ---
 
 # Sulawesi & Maros-Pangkep Paleolithic Sanctuaries

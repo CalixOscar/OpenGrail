@@ -41,24 +41,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sunni Islam'
     url: 'https://www.cambridge.org/core/search?q=Sunni%20Islam'
 artifacts:
-  - title: Al-Azhar (inside) 2006
-    imageUrl: /artifacts/sunni-islam-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Al-Azhar_(inside)_2006.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 7th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Sunni Islam.
-  - title: Great Mosque of Kairouan Panorama - Grande Mosquée de Kairouan Panorama
-    imageUrl: /artifacts/sunni-islam-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosqu%C3%A9e_de_Kairouan_Panorama.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 7th century CE
-    description: >-
-      Stitched Panorama of the Great Mosque of Kairouan, in Tunisia. This
-      mosque, also called the Mosque of Uqba, extends over a surface area of
-      9,000 square metres. Founded in 670 AD by...
+  - title: "Al-Azhar Mosque, historic center of Sunni worship and learning"
+    imageUrl: "/artifacts/sunni-islam-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG"
+    provenance: "Daniel Mayer; CC BY-SA 4.0"
+    period: "Image dated 2008"
+    description: "This image shows Al-Azhar Mosque, historic center of Sunni worship and learning, selected as a defining visual reference for Sunni Islam."
+  - title: "Illuminated manuscript of the preeminent Sunni hadith collection"
+    imageUrl: "/artifacts/sunni-islam-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:A_religious_treatise_by_Muhammad_bin_Muhammad_bin_Muhammad_al-Jazari_(d._1429);_al-Husn_al-Hasin_signed_%27Ali,_Ottoman_Turkey,_dated_1761-2.jpg"
+    provenance: "Christies.com; Public domain"
+    period: "1429 AD"
+    description: "This image shows Illuminated manuscript of the preeminent Sunni hadith collection, selected as a defining visual reference for Sunni Islam."
 ---
 
 # Sunni Islam

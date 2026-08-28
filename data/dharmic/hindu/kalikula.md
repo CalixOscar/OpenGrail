@@ -44,22 +44,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=K%C4%81l%C4%ABkula'
 artifacts:
-  - title: Kālīkula Historical Sanctuary & Iconography
-    imageUrl: /artifacts/kalikula-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/K%C4%81l%C4%ABkula'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 10th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Kālīkula.
-  - title: Kālī Tantra & Sacred Relics
-    imageUrl: /artifacts/kalikula-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/K%C4%81l%C4%ABkula'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 10th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Kālīkula.
+  - title: "Daksina Kali in the eastern Indian Kalikula iconographic form"
+    imageUrl: "/artifacts/kalikula-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kalighat_temple_with_bazzar.JPG"
+    provenance: "Balajijagadesh; CC BY-SA 3.0"
+    period: "Image dated 2012"
+    description: "This image shows Daksina Kali in the eastern Indian Kalikula iconographic form, selected as a defining visual reference for Kālīkula."
+  - title: "Kalighat Temple, a principal Kalikula sanctuary"
+    imageUrl: "/artifacts/kalikula-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kalighater_Kali.JPG"
+    provenance: "Jonoikobangali; CC BY-SA 3.0"
+    period: "Digital file published 2008"
+    description: "This image shows Kalighat Temple, a principal Kalikula sanctuary, selected as a defining visual reference for Kālīkula."
 ---
 
 # Kālīkula

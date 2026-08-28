@@ -44,22 +44,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Shadhiliyya'
     url: 'https://www.cambridge.org/core/search?q=Shadhiliyya'
 artifacts:
-  - title: Shadhiliyya Historical Sanctuary & Iconography
-    imageUrl: /artifacts/shadhiliyya-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shadhiliyya'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 13th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Shadhiliyya.
-  - title: Quran & Sacred Relics
-    imageUrl: /artifacts/shadhiliyya-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shadhiliyya'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 13th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Shadhiliyya.
+  - title: "Desert shrine of Abu al-Hasan al-Shadhili at Humaithara"
+    imageUrl: "/artifacts/shadhiliyya-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:SheikhShazlyShrineAndMosque.jpg"
+    provenance: "Roland Unger; CC BY-SA 4.0"
+    period: "Image dated 2015"
+    description: "This image shows Desert shrine of Abu al-Hasan al-Shadhili at Humaithara, selected as a defining visual reference for Shadhiliyya."
+  - title: "Manuscript of the Shadhili litany Hizb al-Bahr"
+    imageUrl: "/artifacts/shadhiliyya-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Century_-_Manuscript_of_Kitab_Hizb_al-Bahr_-_Google_Art_Project.jpg"
+    provenance: "Unknown, Egypt or Syria, 14th Century (Egypt or Syria); Public domain"
+    period: "Image dated 1300"
+    description: "This image shows Manuscript of the Shadhili litany Hizb al-Bahr, selected as a defining visual reference for Shadhiliyya."
 ---
 
 # Shadhiliyya

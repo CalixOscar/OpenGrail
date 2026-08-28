@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Pre-exilic Yahwism'
     url: 'https://www.cambridge.org/core/search?q=Pre-exilic%20Yahwism'
 artifacts:
-  - title: Pre-exilic Yahwism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/yahwism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pre-exilic_Yahwism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1000 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Pre-exilic Yahwism.
-  - title: Hebrew Bible & Sacred Relics
-    imageUrl: /artifacts/yahwism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pre-exilic_Yahwism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1000 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Pre-exilic Yahwism.
+  - title: "Kuntillet Ajrud inscription naming YHWH in a pre-exilic setting"
+    imageUrl: "/artifacts/yahwism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Horvat_Teman%27s_couple_and_%27Yahweh_and_his_Asherah%27_inscription.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "8 th century BC"
+    description: "This image shows Kuntillet Ajrud inscription naming YHWH in a pre-exilic setting, selected as a defining visual reference for Pre-exilic Yahwism."
+  - title: "Ketef Hinnom silver amulets bearing an early priestly blessing"
+    imageUrl: "/artifacts/yahwism-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tetragrammaton_benediction.png"
+    provenance: "pvasiliadis; Public domain"
+    period: "Image dated 2008"
+    description: "This image shows Ketef Hinnom silver amulets bearing an early priestly blessing, selected as a defining visual reference for Pre-exilic Yahwism."
 ---
 
 # Pre-exilic Yahwism

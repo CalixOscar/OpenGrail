@@ -49,22 +49,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Zapotec%20Religious%20Traditions'
 artifacts:
-  - title: Zapotec Religious Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/zapotec-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zapotec_Religious_Traditions'
-    provenance: 'Monte Albán / Oaxaca Valley, Mexico'
-    period: c. c. 500 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Zapotec Religious Traditions.
-  - title: Monte Albán inscriptions & Sacred Relics
-    imageUrl: /artifacts/zapotec-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zapotec_Religious_Traditions'
-    provenance: 'Monte Albán / Oaxaca Valley, Mexico'
-    period: c. c. 500 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Zapotec Religious Traditions.
+  - title: "Monte Alban sacred acropolis and ceremonial plaza"
+    imageUrl: "/artifacts/zapotec-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Monte_Alban,_Main_Plaza,_Building_J,_and_the_North_Platform_(20498776500).jpg"
+    provenance: "Arian Zwegers from Brussels, Belgium; CC BY 2.0"
+    period: "500 BC"
+    description: "This image shows Monte Alban sacred acropolis and ceremonial plaza, selected as a defining visual reference for Zapotec Religious Traditions."
+  - title: "Zapotec ceramic funerary urn depicting Cocijo"
+    imageUrl: "/artifacts/zapotec-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Funerary_Urn_from_Oaxaca.jpg"
+    provenance: "No machine-readable author provided. Madman2001 assumed (based on copyright claims).; CC BY-SA 2.5"
+    period: "Image dated 2007"
+    description: "This image shows Zapotec ceramic funerary urn depicting Cocijo, selected as a defining visual reference for Zapotec Religious Traditions."
 ---
 
 # Zapotec Religious Traditions

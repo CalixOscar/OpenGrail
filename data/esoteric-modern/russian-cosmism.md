@@ -49,22 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Russian Cosmism'
     url: 'https://brill.com/search?q=Russian%20Cosmism'
 artifacts:
-  - title: Russian Cosmism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/russian-cosmism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Russian_Cosmism'
-    provenance: 'London, England, UK'
-    period: c. late 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Russian Cosmism.
-  - title: Philosophy of the Common Task & Sacred Relics
-    imageUrl: /artifacts/russian-cosmism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Russian_Cosmism'
-    provenance: 'London, England, UK'
-    period: c. late 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Russian Cosmism.
+  - title: "Portrait drawing of Cosmist philosopher Nikolai Fyodorov"
+    imageUrl: "/artifacts/russian-cosmism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:0NevrevNV_Oprichniki_BISHFXD.jpg"
+    provenance: "Nikolai Nevrev; Public domain"
+    period: "Digital file published 2023"
+    description: "This image shows Portrait drawing of Cosmist philosopher Nikolai Fyodorov, selected as a defining visual reference for Russian Cosmism."
+  - title: "Tsiolkovsky cosmological manuscript"
+    imageUrl: "/artifacts/russian-cosmism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tsiolkovsky_Album_11.jpg"
+    provenance: "Konstantin Tsiolkovsky (1857–1935); Public domain"
+    period: "Image dated 1933"
+    description: "This image shows Tsiolkovsky cosmological manuscript, selected as a defining visual reference for Russian Cosmism."
 ---
 
 # Russian Cosmism

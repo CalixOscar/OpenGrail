@@ -48,24 +48,18 @@ sources:
       Movement
     url: 'https://www.cambridge.org/core/search?q=Restoration%20Movement'
 artifacts:
-  - title: SMITH Raccoon John
-    imageUrl: /artifacts/restoration-movement-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/File:SMITH_Raccoon_John.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1800 CE
-    description: >-
-      https://www.mun.ca/rels/restmov/texts/jchallen/lcab/SMITHJ2.GIF
-
-      "Raccoon John" Smith, (1784–1868) Minister of the Campbell wing of the
-      Campbell/ Stone movement of American Protesta...
-  - title: 1839-meth
-    imageUrl: /artifacts/restoration-movement-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:1839-meth.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1800 CE
-    description: >-
-      Religious revival in USA 1839, watercolor from 1839 Second Great
-      Awakening. The print was made in the USA in the 1840s....
+  - title: "Portrait of Alexander Campbell, formative Stone-Campbell leader"
+    imageUrl: "/artifacts/restoration-movement-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Alexander_Campbell,_founder_of_the_Disciples_of_Christ,_head-and-shoulders_portrait.jpg"
+    provenance: "Colton, Zahm & Roberts, N.Y.; Public domain"
+    period: "Image dated 1872"
+    description: "This image shows Portrait of Alexander Campbell, formative Stone-Campbell leader, selected as a defining visual reference for Restoration Movement."
+  - title: "Cane Ridge Meeting House, landmark of the Restoration Movement"
+    imageUrl: "/artifacts/restoration-movement-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tombstone_of_William_Rogers,_located_in_the_old_cemetery_at_Cane_Ridge_Meeting_House_near_Paris,_Kentucky.jpg"
+    provenance: "Scott Harp; Public domain"
+    period: "Image dated 2013"
+    description: "This image shows Cane Ridge Meeting House, landmark of the Restoration Movement, selected as a defining visual reference for Restoration Movement."
 ---
 
 # Restoration Movement

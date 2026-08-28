@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Breslov Hasidism'
     url: 'https://www.cambridge.org/core/search?q=Breslov%20Hasidism'
 artifacts:
-  - title: Breslov Hasidism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/breslov-hasidism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Breslov_Hasidism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1802 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Breslov Hasidism.
-  - title: Likutey Moharan & Sacred Relics
-    imageUrl: /artifacts/breslov-hasidism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Breslov_Hasidism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1802 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Breslov Hasidism.
+  - title: "Breslov pilgrims at Rebbe Nachman's grave in Uman"
+    imageUrl: "/artifacts/breslov-hasidism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hasidi_Uman_3.JPG"
+    provenance: "Uk-Kamelot; CC BY-SA 3.0"
+    period: "Image dated 2007"
+    description: "This image shows Breslov pilgrims at Rebbe Nachman's grave in Uman, selected as a defining visual reference for Breslov Hasidism."
+  - title: "Early edition of Rebbe Nachman's Likutey Moharan"
+    imageUrl: "/artifacts/breslov-hasidism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hay_Festival_Early_Edition_2008.jpg"
+    provenance: "Debs from England; CC BY 2.0"
+    period: "Object or image dated 2008"
+    description: "This image shows Early edition of Rebbe Nachman's Likutey Moharan, selected as a defining visual reference for Breslov Hasidism."
 ---
 
 # Breslov Hasidism

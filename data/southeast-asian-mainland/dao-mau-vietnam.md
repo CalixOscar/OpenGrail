@@ -37,20 +37,18 @@ sources:
   - title: 'Philip Taylor: "Goddess on the Rise: Pilgrimage and Popular Religion in Vietnam"'
     url: 'https://uhpress.hawaii.edu/'
 artifacts:
-  - title: Lên Đồng Spirit Medium Possession Ceremony in Red Robes
-    imageUrl: /artifacts/dao-mau-vietnam-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu
-    provenance: Hanoi, Red River Delta, Vietnam (UNESCO Inscribed)
-    period: Living Heritage Horizon
-    description: >-
-      Spirit medium channeling the Mother Goddess of the Sky in ceremonial red robes and headdress, surrounded by ritual musicians and disciples during a seasonal festival.
-  - title: Phủ Tây Hồ Mother Goddess Sanctuary on West Lake
-    imageUrl: /artifacts/dao-mau-vietnam-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Ph%E1%BB%A7_T%C3%A2y_H%E1%BB%93
-    provenance: West Lake, Hanoi, Vietnam
-    period: c. 16th century CE to Present
-    description: >-
-      Sacred temple sanctuary on the peninsula of West Lake dedicated to Princess Liễu Hạnh, one of the Four Immortals of Vietnamese mythology.
+  - title: "Four Palaces Mother Goddess altar"
+    imageUrl: "/artifacts/dao-mau-vietnam-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%C3%94ng_Ho%C3%A0ng_B%E1%BA%A3y_B%E1%BA%A3o_H%C3%A0_-_Seventh_Prince_of_B%E1%BA%A3o_H%C3%A0.png"
+    provenance: "Rio Lam; CC BY-SA 4.0"
+    period: "Image dated 2022"
+    description: "This image shows Four Palaces Mother Goddess altar, selected as a defining visual reference for Đạo Mẫu & Vietnamese Mother Goddess Religion."
+  - title: "Phu Giay len đong ceremony"
+    imageUrl: "/artifacts/dao-mau-vietnam-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:2017_11_19_102349_Vietnam_SaPa_Museum_overview.jpg"
+    provenance: "Diggers2004; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Phu Giay len đong ceremony, selected as a defining visual reference for Đạo Mẫu & Vietnamese Mother Goddess Religion."
 ---
 
 # Đạo Mẫu & Vietnamese Mother Goddess Religion

@@ -47,22 +47,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ebionites'
     url: 'https://www.cambridge.org/core/search?q=Ebionites'
 artifacts:
-  - title: Ebionites Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ebionites-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ebionites'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1st–2nd centuries CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ebionites.
-  - title: Hebrew Bible & Sacred Relics
-    imageUrl: /artifacts/ebionites-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ebionites'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1st–2nd centuries CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ebionites.
+  - title: "Traditional icon of James the Just, a key figure for Jewish Christians"
+    imageUrl: "/artifacts/ebionites-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Consecration_of_S._James_the_Less_as_the_bishop_of_Jerusalem.jpg"
+    provenance: "shakko; Public domain"
+    period: "Image dated 2010"
+    description: "This image shows Traditional icon of James the Just, a key figure for Jewish Christians, selected as a defining visual reference for Ebionites."
+  - title: "Greek manuscript witness preserving ancient reports about the Ebionites"
+    imageUrl: "/artifacts/ebionites-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BE%D0%BD.PNG"
+    provenance: "https://archive.org/stream/bub_gb_LyGIxzzZmcUC#page/n3/mode/2up; Public domain"
+    period: "Image dated 2015"
+    description: "This image shows Greek manuscript witness preserving ancient reports about the Ebionites, selected as a defining visual reference for Ebionites."
 ---
 
 # Ebionites

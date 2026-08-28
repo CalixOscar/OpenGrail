@@ -44,22 +44,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sephardic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Sephardic%20Judaism'
 artifacts:
-  - title: Sephardic Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/sephardic-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sephardic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 10th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Sephardic Judaism.
-  - title: Hebrew Bible & Sacred Relics
-    imageUrl: /artifacts/sephardic-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sephardic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 10th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Sephardic Judaism.
+  - title: "Traditional portrait of Maimonides, preeminent Sephardic authority"
+    imageUrl: "/artifacts/sephardic-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Inscription_in_the_Maimonides_Memorial.JPG"
+    provenance: "Americo Toledano; CC BY-SA 3.0"
+    period: "Image dated 2008"
+    description: "This image shows Traditional portrait of Maimonides, preeminent Sephardic authority, selected as a defining visual reference for Sephardic Judaism."
+  - title: "Illuminated Sarajevo Haggadah, masterpiece of Sephardic art"
+    imageUrl: "/artifacts/sephardic-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sarajevo_Haggadah_Ma_Nishtana.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "1350 ce"
+    description: "This image shows Illuminated Sarajevo Haggadah, masterpiece of Sephardic art, selected as a defining visual reference for Sephardic Judaism."
 ---
 
 # Sephardic Judaism

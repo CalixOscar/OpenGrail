@@ -44,22 +44,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Raëlism'
     url: 'https://brill.com/search?q=Ra%C3%ABlism'
 artifacts:
-  - title: Raëlism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/raelism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ra%C3%ABlism'
-    provenance: 'London, England, UK'
-    period: c. 1974 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Raëlism.
-  - title: The Book Which Tells the Truth & Sacred Relics
-    imageUrl: /artifacts/raelism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ra%C3%ABlism'
-    provenance: 'London, England, UK'
-    period: c. 1974 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Raëlism.
+  - title: "Raelian Elohim emblem"
+    imageUrl: "/artifacts/raelism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tent_version_of_Embassy_for_Extraterrestrial_Elohim_for_Ra%C3%ABlian_seminar_in_Columbia,_South_America.jpg"
+    provenance: "The original uploader was Kmarinas86 at English Wikipedia .; Public domain"
+    period: "Image dated 2007"
+    description: "This image shows Raelian Elohim emblem, selected as a defining visual reference for Raëlism."
+  - title: "UFOland Raelian exhibition pavilion in Maricourt"
+    imageUrl: "/artifacts/raelism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ra%C3%ABlians_at_UFOland.jpg"
+    provenance: "The original uploader was Kmarinas86 at English Wikipedia .; Public domain"
+    period: "Image dated 2007"
+    description: "This image shows UFOland Raelian exhibition pavilion in Maricourt, selected as a defining visual reference for Raëlism."
 ---
 
 # Raëlism

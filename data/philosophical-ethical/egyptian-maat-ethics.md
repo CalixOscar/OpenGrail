@@ -38,20 +38,18 @@ sources:
   - title: 'Miriam Lichtheim: "Ancient Egyptian Literature: The Old and Middle Kingdoms"'
     url: 'https://www.ucpress.edu/'
 artifacts:
-  - title: The Weighing of the Heart in the Papyrus of Ani
-    imageUrl: /artifacts/egyptian-maat-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Papyrus_of_Ani
-    provenance: Thebes, Egypt (British Museum)
-    period: c. 1250 BCE (19th Dynasty)
-    description: >-
-      Masterpiece papyrus painting depicting the jackal god Anubis weighing the scribe Ani's heart against the feather of Ma'at before Thoth and Osiris.
-  - title: Relief of Winged Goddess Ma'at Bestowing Life
-    imageUrl: /artifacts/egyptian-maat-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Maat
-    provenance: Tomb of Horemheb, Valley of the Kings, Luxor, Egypt
-    period: c. 1320 BCE
-    description: >-
-      Polychrome wall relief of Ma'at with outspread protective wings and the sacred ostrich plume upon her head.
+  - title: "The Weighing of the Heart against the Feather of Ma'at"
+    imageUrl: "/artifacts/egyptian-maat-ethics-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Djerba_Weighing_scale_02.JPG"
+    provenance: "Ad Meskens; CC BY-SA 4.0"
+    period: "13th century"
+    description: "This image shows The Weighing of the Heart against the Feather of Ma'at, selected as a defining visual reference for Ma'at & Ancient Nilotic Moral Order."
+  - title: "Relief of the goddess Ma'at at Abydos"
+    imageUrl: "/artifacts/egyptian-maat-ethics-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Egyptian_-_Fragment_in_Sunk_Relief_of_Female_Deity_Bearing_Offerings_-_Walters_2293.jpg"
+    provenance: "Anonymous ( Egypt ) Unknown author; Public domain"
+    period: "Image dated 1270"
+    description: "This image shows Relief of the goddess Ma'at at Abydos, selected as a defining visual reference for Ma'at & Ancient Nilotic Moral Order."
 ---
 
 # Ma'at & Ancient Nilotic Moral Order

@@ -48,23 +48,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Babism'
     url: 'https://www.cambridge.org/core/search?q=Babism'
 artifacts:
-  - title: Room-bab
-    imageUrl: /artifacts/babism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/File:Room-bab.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1844 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Babism.
-  - title: Bab-Star-Tablet-Haykal
-    imageUrl: /artifacts/babism-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bab-Star-Tablet-Haykal.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1844 CE
-    description: >-
-      Haykal by the Bab written in his own hand. See also details:
-      File:Bab-Star-Tablet-Haykal-detail.jpg and
-      File:Bab-Star-Tablet-Haykal-detail-2.jpg...
+  - title: "Shrine of the Bab, the movement's prophetic founder"
+    imageUrl: "/artifacts/babism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Yefe_Nof_-_Bahai_terraces,_followed_by_the_German_Colony_(Ben_Gourion_av)_and_in_the_far_end_on_the_right_the_Dagon_silo.JPG"
+    provenance: "FLLL; CC BY-SA 4.0"
+    period: "Image dated 2013"
+    description: "This image shows Shrine of the Bab, the movement's prophetic founder, selected as a defining visual reference for Babism."
+  - title: "Historical manuscript of the Bab's Persian Bayan"
+    imageUrl: "/artifacts/babism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bab-Star-Tablet-Haykal.jpg"
+    provenance: "The Bab, founder of Babism; Public domain"
+    period: "Mid-19th century"
+    description: "This image shows Historical manuscript of the Bab's Persian Bayan, selected as a defining visual reference for Babism."
 ---
 
 # Babism

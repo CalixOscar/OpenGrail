@@ -40,22 +40,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Reform Judaism'
     url: 'https://www.cambridge.org/core/search?q=Reform%20Judaism'
 artifacts:
-  - title: Reform Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/reform-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Reform_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. early 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Reform Judaism.
-  - title: Tanakh & Sacred Relics
-    imageUrl: /artifacts/reform-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Reform_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. early 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Reform Judaism.
+  - title: "Portrait of Abraham Geiger, leading founder of Reform Judaism"
+    imageUrl: "/artifacts/reform-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Abraham_Geiger_by_Lesser_Ury.jpg"
+    provenance: "Lesser Ury; Public domain"
+    period: "Image dated 1905"
+    description: "This image shows Portrait of Abraham Geiger, leading founder of Reform Judaism, selected as a defining visual reference for Reform Judaism."
+  - title: "Berlin's New Synagogue, monumental center of liberal Judaism"
+    imageUrl: "/artifacts/reform-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Berlin_Neue_Synagoge_Innenansicht_BusB.jpg"
+    provenance: "Berlin und seine Bauten, Verlag Wilhelm Ernst & Sohn 1896; Public domain"
+    period: "Image dated 1896"
+    description: "This image shows Berlin's New Synagogue, monumental center of liberal Judaism, selected as a defining visual reference for Reform Judaism."
 ---
 
 # Reform Judaism

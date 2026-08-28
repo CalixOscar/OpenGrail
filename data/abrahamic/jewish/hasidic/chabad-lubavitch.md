@@ -46,22 +46,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Chabad-Lubavitch'
     url: 'https://www.cambridge.org/core/search?q=Chabad-Lubavitch'
 artifacts:
-  - title: Chabad-Lubavitch Historical Sanctuary & Iconography
-    imageUrl: /artifacts/chabad-lubavitch-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chabad-Lubavitch'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1775 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Chabad-Lubavitch.
-  - title: Tanya & Sacred Relics
-    imageUrl: /artifacts/chabad-lubavitch-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chabad-Lubavitch'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1775 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Chabad-Lubavitch.
+  - title: "Portrait of the Lubavitcher Rebbe Menachem Mendel Schneerson"
+    imageUrl: "/artifacts/chabad-lubavitch-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Alleged_Messiah.jpg"
+    provenance: "Eran Menashri; CC BY-SA 2.0"
+    period: "Image dated 2013"
+    description: "This image shows Portrait of the Lubavitcher Rebbe Menachem Mendel Schneerson, selected as a defining visual reference for Chabad-Lubavitch."
+  - title: "770 Eastern Parkway, iconic world headquarters of Chabad"
+    imageUrl: "/artifacts/chabad-lubavitch-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:770_Eastern_Parkway_entrance.jpg"
+    provenance: "ArnoldReinhold; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows 770 Eastern Parkway, iconic world headquarters of Chabad, selected as a defining visual reference for Chabad-Lubavitch."
 ---
 
 # Chabad-Lubavitch

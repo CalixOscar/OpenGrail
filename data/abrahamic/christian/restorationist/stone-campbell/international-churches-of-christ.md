@@ -45,22 +45,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=International%20Churches%20of%20Christ
 artifacts:
-  - title: International Churches of Christ Historical Sanctuary & Iconography
-    imageUrl: /artifacts/international-churches-of-christ-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/International_Churches_of_Christ'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1979 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with International Churches of Christ.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/international-churches-of-christ-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/International_Churches_of_Christ'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1979 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      International Churches of Christ.
+  - title: "Discipling-movement baptism in an ICOC congregation"
+    imageUrl: "/artifacts/international-churches-of-christ-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:St._Wolfgang_kath._Pfarrkirche_Pacher-Altar_Taufe_01.jpg"
+    provenance: "Michael Pacher; CC BY-SA 4.0"
+    period: "Image dated 2019"
+    description: "This image shows Discipling-movement baptism in an ICOC congregation, selected as a defining visual reference for International Churches of Christ."
+  - title: "Boston Church of Christ, institutional origin of the ICOC"
+    imageUrl: "/artifacts/international-churches-of-christ-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Faith_United_Church_of_Christ,_Boston,_New_York_-_20230111.jpg"
+    provenance: "Andre Carrotflower; CC BY-SA 4.0"
+    period: "Image dated 2023"
+    description: "This image shows Boston Church of Christ, institutional origin of the ICOC, selected as a defining visual reference for International Churches of Christ."
 ---
 
 # International Churches of Christ

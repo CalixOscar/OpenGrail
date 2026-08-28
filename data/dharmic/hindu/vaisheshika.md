@@ -44,22 +44,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vai%C5%9Be%E1%B9%A3ika'
 artifacts:
-  - title: Vaiśeṣika Historical Sanctuary & Iconography
-    imageUrl: /artifacts/vaisheshika-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Vaiśeṣika.
-  - title: Vaiśeṣika Sūtra & Sacred Relics
-    imageUrl: /artifacts/vaisheshika-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Vaiśeṣika.
+  - title: "Kanada, traditional founder of Vaisesika atomism"
+    imageUrl: "/artifacts/vaisheshika-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kanada_(p%C5%99%C3%ADrodn%C3%AD_rezervace),_stul%C3%ADky_4.jpg"
+    provenance: "palickap; CC BY 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Kanada, traditional founder of Vaisesika atomism, selected as a defining visual reference for Vaiśeṣika."
+  - title: "Classical text on the Vaisesika philosophical system"
+    imageUrl: "/artifacts/vaisheshika-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:12th-century_Ablur_Shiva_temple_Kodiya_matha_stone_inscription,_Sanskrit_Kannada.jpg"
+    provenance: "Ms Sarah Welch; CC BY-SA 4.0"
+    period: "12th-century"
+    description: "This image shows Classical text on the Vaisesika philosophical system, selected as a defining visual reference for Vaiśeṣika."
 ---
 
 # Vaiśeṣika

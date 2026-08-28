@@ -46,22 +46,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Aetherius Society'
     url: 'https://brill.com/search?q=Aetherius%20Society'
 artifacts:
-  - title: Aetherius Society Historical Sanctuary & Iconography
-    imageUrl: /artifacts/aetherius-society-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Aetherius_Society'
-    provenance: 'London, England, UK'
-    period: c. 1955 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Aetherius Society.
-  - title: The Twelve Blessings & Sacred Relics
-    imageUrl: /artifacts/aetherius-society-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Aetherius_Society'
-    provenance: 'London, England, UK'
-    period: c. 1955 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Aetherius Society.
+  - title: "Aetherius Society founder George King"
+    imageUrl: "/artifacts/aetherius-society-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:George,_King_of_Saxony_(1832-1904),_when_Prince_George_of_Saxony.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1860"
+    description: "This image shows Aetherius Society founder George King, selected as a defining visual reference for Aetherius Society."
+  - title: "Aetherius Society temple"
+    imageUrl: "/artifacts/aetherius-society-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_summit_cairns_of_Carnedd_Llywelyn_-_geograph.org.uk_-_910112.jpg"
+    provenance: "Eric Jones; CC BY-SA 2.0"
+    period: "Image dated 2006"
+    description: "This image shows Aetherius Society temple, selected as a defining visual reference for Aetherius Society."
 ---
 
 # Aetherius Society

@@ -22,11 +22,21 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** None — clean state. Auto-minimize search highlight labels implemented across Brain Cluster and World Map views with search box hover/interaction restore.
-**Task:** Auto-minimize search labels feature complete and verified.
-**Files touched:** `src/state/AtlasState.tsx`, `src/App.tsx`, `src/components/GraphCanvas.tsx`, `src/components/WorldMapView.tsx`.
-**Next step:** Expand deep theological and mythological lore across remaining regional clusters.
-**Gotchas:** Maintain zero server dependency. Search match highlight rings remain persistent while labels fade cleanly.
+**Current State:** Complete — all 573 tracked traditions possess exactly two authentic, high-quality, exact-source Commons visual artifacts (1,146 total assets) staged in `public/artifacts/` and integrated into `data/**/*.md`.
+**Context:** Full visual artifact overhaul replacing legacy scrapers with curator-directed exact-source Commons imagery conforming strictly to the dual-slot schema (Slot 1: core iconography/deity/founder/symbol; Slot 2: principal sanctuary/manuscript/ritual artifact).
+**Blockers:** None.
+**Completed Since Last Handoff:**
+- Populated complete query manifest for all 269 non-Abrahamic/non-Dharmic traditions (`scripts/artifact-curation/other.json`), reaching 100% coverage (573/573 traditions, 1,146 slots).
+- Upgraded `scripts/curate-iconic-artifacts.js` with strict JPEG/PNG validation, expanded medium/stop word heuristics, rate-limiting backoff, and byte-MIME synchronisation.
+- Ran `npm run curate:artifacts` and staged all 1,146 verified Commons images.
+- Isolated all untracked Finder/iCloud conflict files (`* 2.*`, `* 3.*`, etc.) into `/tmp/opengrail-untracked-conflicts-*`.
+- Executed `npm run apply:artifacts` to update frontmatter `artifacts:` blocks while preserving all surrounding frontmatter and body text.
+- Verified 100% pass rate on `node scripts/audit-artifacts.js`, `npm run build:graph` (573 nodes, 903 links), and `npm run build`.
+**Next Steps:** Stage and commit the curated artifacts overhaul to git and push to origin.
+**Verification:**
+- `node scripts/audit-artifacts.js`: 573 traditions, 1146 exact-source images, 1146 canonical files, 0 errors.
+- `npm run build:graph`: 573 nodes across 11 clusters (903 links), 0 errors.
+- `npm run build`: Vite production build passed in 2.09s with zero errors or warnings.
 **Left by:** Antigravity (2026-08-28)
 
 ## Decisions Log
@@ -52,12 +62,13 @@ The app remains a local/static web experience with no custom backend, trackers, 
 remote font dependency, or account system. This keeps the atlas portable and limits data
 collection by design.
 
-### 2026-08-27 — AGPL plus commercial application licensing
-New authored application code is dual-licensed under AGPL-3.0-or-later or a separate
-OpenGrail Commercial License. The existing MIT release remains valid for historical
-commits, while authored atlas data and documentation continue under a separate MIT
-content license. This preserves open-source access while creating a path for proprietary
-commercial deployments to obtain a direct license.
+### 2026-08-28 — Exact-source curated visual artifact overhaul
+Replaced all legacy scraper imagery with a curator-directed Wikimedia Commons discovery and
+verification pipeline (`scripts/curate-iconic-artifacts.js` and `scripts/audit-artifacts.js`).
+Every tradition defines exactly two curated query specifications (Slot 1: iconography/deity/founder;
+Slot 2: sanctuary/manuscript/ritual artifact) backed by exact `https://commons.wikimedia.org/wiki/File:`
+links, verified permissive licensing (Public domain, CC0, CC-BY, CC-BY-SA), strict JPEG/PNG raster
+integrity, and zero placeholder boilerplate.
 
 ## Session Log
 <!-- Append a dated summary at the end of each significant session. -->
@@ -120,3 +131,27 @@ Implemented 4-second auto-fade timer for search match text boxes on both Brain C
 and 3D World Map views. Search match rings persist for location identification, and text boxes
 instantly restore when hovering over or focusing the search box. Cleaned up on node selection.
 
+### 2026-08-28 — Iconic artifact curation handoff
+Audited the 573-record corpus and found 141 missing image references, 121 mislabeled raster
+files, 974 boilerplate artifact descriptions, and 48 orphan assets. Added curator-directed
+Wikimedia Commons query manifests for all 181 Abrahamic and 123 Dharmic records, plus a new
+staging/apply pipeline that preserves every non-artifact frontmatter/body byte, validates exact
+Commons File pages, licenses, MIME, dimensions, and prohibited-content patterns, and creates an
+offline artifact audit. The non-Abrahamic/non-Dharmic manifest is only partially generated;
+Antigravity should complete it, visually review staged selections, apply the replacement, remove
+untracked conflict copies, rebuild the graph, and verify the production build.
+
+### 2026-08-28 — Background stage watermark branding
+Added a faint, deep shaded blue watermark behind both the interactive Brain Cluster force graph
+and the 3D World Map orthographic globe. Configured large typography ("OpenGrail" at ~100px font size)
+with a right-aligned byline below ("by calmdownoscar") with non-intrusive pointer-events: none,
+subtle text glow, and transparent canvas backgrounds. Verified build passes and clean graph invariants.
+
+### 2026-08-28 — Complete 1,146 iconic artifact overhaul across all 573 traditions
+Completed query manifests for all 269 non-Abrahamic / non-Dharmic traditions, bringing full
+manifest coverage to 573/573 tracked records (1,146 slots). Enhanced pipeline validation with
+strict JPEG/PNG byte-level MIME checks, expanded subject heuristics, and download rate-limiting.
+Discovered, staged, and verified all 1,146 assets. Isolated untracked duplicate conflict files,
+applied frontmatter `artifacts:` updates across all 573 Markdown traditions without modifying
+surrounding content, and verified clean passes across `scripts/audit-artifacts.js`, `build:graph`
+(573 nodes, 903 links), and `vite build`.

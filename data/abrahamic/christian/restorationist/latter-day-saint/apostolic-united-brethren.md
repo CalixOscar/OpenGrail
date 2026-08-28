@@ -45,23 +45,18 @@ sources:
       Brethren
     url: 'https://www.cambridge.org/core/search?q=Apostolic%20United%20Brethren'
 artifacts:
-  - title: 1612 First Quarto of King James Bible
-    imageUrl: /artifacts/apostolic-united-brethren-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:1612_First_Quarto_of_King_James_Bible.jpg
-    provenance: 'Salt Lake City (Temple Square), Utah, USA'
-    period: c. 1954 CE
-    description: Only second to the 1611 folio King Jame Bible...
-  - title: KJV-King-James-Version-Bible-first-edition-title-page-1611
-    imageUrl: /artifacts/apostolic-united-brethren-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:KJV-King-James-Version-Bible-first-edition-title-page-1611.jpg
-    provenance: 'Salt Lake City (Temple Square), Utah, USA'
-    period: c. 1954 CE
-    description: >-
-      Frontispiece to the King James' Bible, 1611, shows the Twelve Apostles at
-      the top. Moses and Aaron flank the central text. In the four corners sit
-      Matthew, Mark, Luke, and John, au...
+  - title: "Apostolic United Brethren headquarters compound in Bluffdale, Utah"
+    imageUrl: "/artifacts/apostolic-united-brethren-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Headquarters_of_the_Apostolic_United_Brethren_compound_in_Bluffdale,_Utah.jpg"
+    provenance: "Swilsonmc; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Apostolic United Brethren headquarters compound in Bluffdale, Utah, selected as a defining visual reference for Apostolic United Brethren."
+  - title: "Historic Salt Lake City Temple and sanctuary grounds of the Mormon movement"
+    imageUrl: "/artifacts/apostolic-united-brethren-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mormon_Temple_and_Tabernacle,_Salt_Lake_City,_June_3rd,_1888,_by_W._C._Jackson.png"
+    provenance: "Jackson, W. C. -- Photographer; Public domain"
+    period: "Image dated 1865"
+    description: "This image shows Historic Salt Lake City Temple and sanctuary grounds of the Mormon movement, selected as a defining visual reference for Apostolic United Brethren."
 ---
 
 # Apostolic United Brethren

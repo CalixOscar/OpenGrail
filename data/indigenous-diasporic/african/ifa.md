@@ -43,20 +43,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=If%C3%A1'
 artifacts:
-  - title: Ifá Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ifa-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/If%C3%A1'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. precolonial era
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ifá.
-  - title: Odù Ifá oral literary corpus & Sacred Relics
-    imageUrl: /artifacts/ifa-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/If%C3%A1'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. precolonial era
-    description: 'Preserved liturgical manuscripts, canonical texts, and sacred art of Ifá.'
+  - title: "Carved wooden Opon Ifa divination tray"
+    imageUrl: "/artifacts/ifa-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Buzios_antiq_somb_cor.jpg"
+    provenance: "Andre Koehne; CC BY-SA 3.0"
+    period: "17th century"
+    description: "This image shows Carved wooden Opon Ifa divination tray, selected as a defining visual reference for Ifá."
+  - title: "Osun-Osogbo Sacred Grove sanctuary"
+    imageUrl: "/artifacts/ifa-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Suspension_Bridge_at_Osun_Sacred_Grove_in_Osogbo,_Nigeria.jpg"
+    provenance: "4toscenethesis; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Osun-Osogbo Sacred Grove sanctuary, selected as a defining visual reference for Ifá."
 ---
 
 # Ifá

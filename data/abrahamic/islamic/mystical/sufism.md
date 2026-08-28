@@ -43,18 +43,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sufism'
     url: 'https://www.cambridge.org/core/search?q=Sufism'
 artifacts:
-  - title: Dhikr Rifa-iyya
-    imageUrl: /artifacts/sufism-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dhikr_Rifa-iyya.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 8th century CE
-    description: Dhikr of Rifa'iyya Brotherhood...
-  - title: Isma allah zat-new
-    imageUrl: /artifacts/sufism-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Isma_allah_zat-new.png'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 8th century CE
-    description: 'OTRS # is Ticket#2013062010002201...'
+  - title: "Communal dhikr, the defining Sufi practice of divine remembrance"
+    imageUrl: "/artifacts/sufism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%22Baugnies_Dhikr%22_(The_Dhikr)_%E2%80%93_Eug%C3%A8ne_Baugnies_(1841%E2%80%931891).jpg"
+    provenance: "Eugene Baugnies; Public domain"
+    period: "Image dated 1841"
+    description: "This image shows Communal dhikr, the defining Sufi practice of divine remembrance, selected as a defining visual reference for Sufism."
+  - title: "Mevlevi sema as iconic Sufi ritual art"
+    imageUrl: "/artifacts/sufism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mevlevi_Dervishes_Perform..._(469777809).jpg"
+    provenance: "K?vanc from ?stanbul, Turkey; CC BY 2.0"
+    period: "Image dated 2007"
+    description: "This image shows Mevlevi sema as iconic Sufi ritual art, selected as a defining visual reference for Sufism."
 ---
 
 # Sufism

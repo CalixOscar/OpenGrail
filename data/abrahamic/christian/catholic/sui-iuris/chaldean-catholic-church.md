@@ -47,22 +47,18 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Chaldean%20Catholic%20Church'
 artifacts:
-  - title: Chaldean Catholic Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/chaldean-catholic-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chaldean_Catholic_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1553 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Chaldean Catholic Church.
-  - title: Bible in the Syriac tradition & Sacred Relics
-    imageUrl: /artifacts/chaldean-catholic-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chaldean_Catholic_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1553 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Chaldean Catholic Church.
+  - title: "East Syriac Holy Qurbana in the Chaldean Catholic tradition"
+    imageUrl: "/artifacts/chaldean-catholic-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Diyarbak%C4%B1r_Mar_Petyun_Chaldean_Church_1143.jpg"
+    provenance: "Dosseman; CC BY-SA 4.0"
+    period: "5th century"
+    description: "This image shows East Syriac Holy Qurbana in the Chaldean Catholic tradition, selected as a defining visual reference for Chaldean Catholic Church."
+  - title: "Chaldean Cathedral of Our Lady of Sorrows in Baghdad"
+    imageUrl: "/artifacts/chaldean-catholic-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cathedral_of_Our_Lady_of_Sorrows_in_Baghdad.jpg"
+    provenance: "Christian World; CC BY 2.0"
+    period: "Image dated 2020"
+    description: "This image shows Chaldean Cathedral of Our Lady of Sorrows in Baghdad, selected as a defining visual reference for Chaldean Catholic Church."
 ---
 
 # Chaldean Catholic Church

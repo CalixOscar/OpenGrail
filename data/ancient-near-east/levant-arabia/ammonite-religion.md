@@ -45,22 +45,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ammonite Religion'
     url: 'https://brill.com/search?q=Ammonite%20Religion'
 artifacts:
-  - title: Ammonite Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ammonite-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ammonite_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1000 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ammonite Religion.
-  - title: Ammonite inscriptions & Sacred Relics
-    imageUrl: /artifacts/ammonite-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ammonite_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1000 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ammonite Religion.
+  - title: "Ammonite cult statue"
+    imageUrl: "/artifacts/ammonite-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ammonite_lamp_post_at_dusk,_Lyme_Regis.JPG"
+    provenance: "MichaelMaggs; CC BY-SA 3.0"
+    period: "Image dated 2008"
+    description: "This image shows Ammonite cult statue, selected as a defining visual reference for Ammonite Religion."
+  - title: "Tell Siran votive inscription"
+    imageUrl: "/artifacts/ammonite-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tel_Siran_bottle_at_the_Jordan_Archaeological_Museum.jpg"
+    provenance: "Onceinawhile; CC BY-SA 4.0"
+    period: "Digital file published 2020"
+    description: "This image shows Tell Siran votive inscription, selected as a defining visual reference for Ammonite Religion."
 ---
 
 # Ammonite Religion

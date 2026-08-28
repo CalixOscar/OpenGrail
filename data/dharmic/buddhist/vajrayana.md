@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vajray%C4%81na%20Buddhism'
 artifacts:
-  - title: Vajrayāna Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/vajrayana-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vajray%C4%81na_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Vajrayāna Buddhism.
-  - title: Guhyasamāja Tantra & Sacred Relics
-    imageUrl: /artifacts/vajrayana-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vajray%C4%81na_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Vajrayāna Buddhism.
+  - title: "Guhyasamaja mandala representing Vajrayana deity-yoga practice"
+    imageUrl: "/artifacts/vajrayana-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Manjuvajramandala_con_43_divinit%C3%A0_-_Unknown_-_Google_Cultural_Institute.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1400"
+    description: "This image shows Guhyasamaja mandala representing Vajrayana deity-yoga practice, selected as a defining visual reference for Vajrayāna Buddhism."
+  - title: "Tantric Buddhist murals inside Tabo Monastery"
+    imageUrl: "/artifacts/vajrayana-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Adobe_monuments_in_the_Tabo_Buddhist_monastery_and_temples_complex,_Himachal_Pradesh.jpg"
+    provenance: "Nivedita Ravishankar; CC BY 2.0"
+    period: "10th-century"
+    description: "This image shows Tantric Buddhist murals inside Tabo Monastery, selected as a defining visual reference for Vajrayāna Buddhism."
 ---
 
 # Vajrayāna Buddhism

@@ -48,22 +48,18 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=United%20Methodist%20Church'
 artifacts:
-  - title: United Methodist Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/united-methodist-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/United_Methodist_Church'
-    provenance: 'Oxford, Oxfordshire, England, UK'
-    period: c. 1968 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with United Methodist Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/united-methodist-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/United_Methodist_Church'
-    provenance: 'Oxford, Oxfordshire, England, UK'
-    period: c. 1968 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      United Methodist Church.
+  - title: "United Methodist worship at General Conference"
+    imageUrl: "/artifacts/united-methodist-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Opening_Worship_GC2008.jpg"
+    provenance: "BDB; Public domain"
+    period: "Image dated 2008"
+    description: "This image shows United Methodist worship at General Conference, selected as a defining visual reference for United Methodist Church."
+  - title: "Historic United Methodist Building on Capitol Hill"
+    imageUrl: "/artifacts/united-methodist-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Asbury_United_Methodist_Church_-_Washington,_D.C..jpg"
+    provenance: "AgnosticPreachersKid; CC BY-SA 3.0"
+    period: "Image dated 2008"
+    description: "This image shows Historic United Methodist Building on Capitol Hill, selected as a defining visual reference for United Methodist Church."
 ---
 
 # United Methodist Church

@@ -43,22 +43,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & La Luz del Mundo'
     url: 'https://www.cambridge.org/core/search?q=La%20Luz%20del%20Mundo'
 artifacts:
-  - title: Templolldm02
-    imageUrl: /artifacts/la-luz-del-mundo-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Templolldm02.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1926 CE
-    description: >-
-      Flagship temple of La Luz del Mundo at Glorieta Central No. 1, Hermosa
-      Provincia, Guadalajara, Jalisco, México....
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/la-luz-del-mundo-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Templolldm02.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1926 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of La
-      Luz del Mundo.
+  - title: "Distinctive flagship La Luz del Mundo temple in Guadalajara"
+    imageUrl: "/artifacts/la-luz-del-mundo-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:La_Luz_del_Mundo_Aaron%27s_Rod.jpg"
+    provenance: "immobilized enzyme reactor; CC BY-SA 2.0"
+    period: "Image dated 2013"
+    description: "This image shows Distinctive flagship La Luz del Mundo temple in Guadalajara, selected as a defining visual reference for La Luz del Mundo."
+  - title: "The denomination's defining Holy Supper gathering"
+    imageUrl: "/artifacts/la-luz-del-mundo-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Templo_La_Luz_de_Mundo.JPG"
+    provenance: "Axel mora; CC BY-SA 4.0"
+    period: "Digital file published 2010"
+    description: "This image shows The denomination's defining Holy Supper gathering, selected as a defining visual reference for La Luz del Mundo."
 ---
 
 # La Luz del Mundo

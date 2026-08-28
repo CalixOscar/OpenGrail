@@ -37,20 +37,18 @@ sources:
   - title: 'National Geographic: "The Olmecs and the Origins of Mesoamerican Civilization"'
     url: 'https://www.nationalgeographic.com/'
 artifacts:
-  - title: Colossal Basalt Reruler Head No. 1 (El Rey)
-    imageUrl: /artifacts/olmec-religion-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Olmec_colossal_heads
-    provenance: San Lorenzo Tenochtitlán, Veracruz, Mexico (Xalapa Anthropology Museum)
-    period: c. 1200–900 BCE
-    description: >-
-      2.9-meter-tall monolithic carved basalt head wearing a ceremonial jaguar-pelt helmet, representing a sacred ruler endowed with supernatural shamanic authority.
-  - title: La Venta Altar 4 (Shaman Ruler Emerging from Underworld Cave)
-    imageUrl: /artifacts/olmec-religion-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/La_Venta
-    provenance: La Venta, Tabasco, Mexico
-    period: c. 800 BCE
-    description: >-
-      Monumental carved throne depicting a seated ruler emerging from the stylized maw of the earth monster/jaguar cave, holding a rope connected to ancestral lineage captives.
+  - title: "Olmec colossal head from San Lorenzo"
+    imageUrl: "/artifacts/olmec-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Olmec_Head_from_San_Lorenzo,_Veracruz.jpg"
+    provenance: "https://www.flickr.com/photos/rosemania/; CC BY 2.0"
+    period: "Image dated 2006"
+    description: "This image shows Olmec colossal head from San Lorenzo, selected as a defining visual reference for Olmec Sacred Horizon & Were-Jaguar Cult."
+  - title: "La Venta basalt offering altar"
+    imageUrl: "/artifacts/olmec-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Altar_4_La_Venta_(Ruben_Charles).jpg"
+    provenance: "Ruben Charles, ( http://www.rubencharles.com ); CC BY 2.0"
+    period: "Image dated 2007"
+    description: "This image shows La Venta basalt offering altar, selected as a defining visual reference for Olmec Sacred Horizon & Were-Jaguar Cult."
 ---
 
 # Olmec Sacred Horizon & Were-Jaguar Cult

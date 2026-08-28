@@ -43,22 +43,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Ghost%20Dance%20Movements'
 artifacts:
-  - title: Ghost Dance Movements Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ghost-dance-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ghost_Dance_Movements'
-    provenance: 'Wounded Knee / Pine Ridge, SD, USA'
-    period: c. 1870 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ghost Dance Movements.
-  - title: Wovoka's teachings and letters & Sacred Relics
-    imageUrl: /artifacts/ghost-dance-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ghost_Dance_Movements'
-    provenance: 'Wounded Knee / Pine Ridge, SD, USA'
-    period: c. 1870 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Ghost
-      Dance Movements.
+  - title: "Painted Ghost Dance sacred buckskin shirt"
+    imageUrl: "/artifacts/ghost-dance-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ghost_Dance_shirt.jpg"
+    provenance: "Cullen328; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Painted Ghost Dance sacred buckskin shirt, selected as a defining visual reference for Ghost Dance Movements."
+  - title: "Portrait photograph of the prophet Wovoka (Jack Wilson)"
+    imageUrl: "/artifacts/ghost-dance-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jack_Wilson_%26_the_Wife_Stealers_01.jpg"
+    provenance: "Joe Mabel; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Portrait photograph of the prophet Wovoka (Jack Wilson), selected as a defining visual reference for Ghost Dance Movements."
 ---
 
 # Ghost Dance Movements

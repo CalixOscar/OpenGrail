@@ -45,22 +45,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sarv%C4%81stiv%C4%81da'
 artifacts:
-  - title: Sarvāstivāda Historical Sanctuary & Iconography
-    imageUrl: /artifacts/sarvastivada-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sarv%C4%81stiv%C4%81da'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 3rd century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Sarvāstivāda.
-  - title: Jñānaprasthāna & Sacred Relics
-    imageUrl: /artifacts/sarvastivada-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sarv%C4%81stiv%C4%81da'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 3rd century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Sarvāstivāda.
+  - title: "Kanishka reliquary from the Kushan milieu that patronized Sarvastivada"
+    imageUrl: "/artifacts/sarvastivada-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Buddha_relics.JPG"
+    provenance: "Teresa Merrigan; CC BY-SA 3.0"
+    period: "2nd century"
+    description: "This image shows Kanishka reliquary from the Kushan milieu that patronized Sarvastivada, selected as a defining visual reference for Sarvāstivāda."
+  - title: "Central Asian manuscript witness to Sarvastivada scholastic literature"
+    imageUrl: "/artifacts/sarvastivada-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Destruction_of_Daksha%27s_sacrifice,_from_an_illustrated_manuscript_of_the_Razmnama.jpg"
+    provenance: "Jamshed; CC0"
+    period: "Image dated 1598"
+    description: "This image shows Central Asian manuscript witness to Sarvastivada scholastic literature, selected as a defining visual reference for Sarvāstivāda."
 ---
 
 # Sarvāstivāda

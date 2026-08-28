@@ -45,22 +45,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Satanism'
     url: 'https://brill.com/search?q=Modern%20Satanism'
 artifacts:
-  - title: Modern Satanism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/modern-satanism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Satanism'
-    provenance: 'London, England, UK'
-    period: c. 1960s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Modern Satanism.
-  - title: Movement-specific Satanic scriptures & Sacred Relics
-    imageUrl: /artifacts/modern-satanism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Modern_Satanism'
-    provenance: 'London, England, UK'
-    period: c. 1960s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Modern Satanism.
+  - title: "Baphomet image adopted by modern Satanism"
+    imageUrl: "/artifacts/modern-satanism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:ColorBaphomet.jpg"
+    provenance: "Art by Eliphas Levi. Color by David B. Pearson; Public domain"
+    period: "Image dated 2009"
+    description: "This image shows Baphomet image adopted by modern Satanism, selected as a defining visual reference for Modern Satanism."
+  - title: "Monumental bronze Baphomet statue of modern Satanism"
+    imageUrl: "/artifacts/modern-satanism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:TST_Erfurt_2024.jpg"
+    provenance: "Montgomery82; CC0"
+    period: "Image dated 2024"
+    description: "This image shows Monumental bronze Baphomet statue of modern Satanism, selected as a defining visual reference for Modern Satanism."
 ---
 
 # Modern Satanism

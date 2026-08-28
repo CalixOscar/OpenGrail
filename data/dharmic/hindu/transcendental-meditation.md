@@ -49,22 +49,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Transcendental%20Meditation%20Movement
 artifacts:
-  - title: Transcendental Meditation Movement Historical Sanctuary & Iconography
-    imageUrl: /artifacts/transcendental-meditation-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Transcendental_Meditation_Movement'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1950s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Transcendental Meditation Movement.
-  - title: Science of Being and Art of Living & Sacred Relics
-    imageUrl: /artifacts/transcendental-meditation-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Transcendental_Meditation_Movement'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1950s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Transcendental Meditation Movement.
+  - title: "Maharishi Mahesh Yogi, founder of Transcendental Meditation"
+    imageUrl: "/artifacts/transcendental-meditation-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dr_Tony_Nader.jpg"
+    provenance: "Davram; CC BY-SA 3.0"
+    period: "Image dated 2012"
+    description: "This image shows Maharishi Mahesh Yogi, founder of Transcendental Meditation, selected as a defining visual reference for Transcendental Meditation Movement."
+  - title: "Maharishi's Rishikesh ashram, iconic early center of the movement"
+    imageUrl: "/artifacts/transcendental-meditation-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Meditation_chambers_at_the_old_Maharishi_Mahesh_Yogi_Ashram,_now_in_ruins,_Muni_Ki_Reti.jpg"
+    provenance: "https://www.flickr.com/photos/ogimogi/; CC BY 2.0"
+    period: "Image dated 2006"
+    description: "This image shows Maharishi's Rishikesh ashram, iconic early center of the movement, selected as a defining visual reference for Transcendental Meditation Movement."
 ---
 
 # Transcendental Meditation Movement

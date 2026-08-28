@@ -48,22 +48,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=N%C4%81th%20Tradition'
 artifacts:
-  - title: Nāth Tradition Historical Sanctuary & Iconography
-    imageUrl: /artifacts/nath-tradition-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/N%C4%81th_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 11th–12th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Nāth Tradition.
-  - title: Gorakṣaśataka & Sacred Relics
-    imageUrl: /artifacts/nath-tradition-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/N%C4%81th_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 11th–12th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Nāth
-      Tradition.
+  - title: "Gorakhnath, paradigmatic guru of the Nath yogis"
+    imageUrl: "/artifacts/nath-tradition-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Janamsakhi_mural_painting_depicting_a_scene_from_Guru_Nanak%27s_life,_possibly_the_discussion_he_held_with_Gorakhnath,_from_the_Ram_Rai_Darbar_complex_at_Dehradun.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "19th century"
+    description: "This image shows Gorakhnath, paradigmatic guru of the Nath yogis, selected as a defining visual reference for Nāth Tradition."
+  - title: "Gorakhnath Temple, a principal Nath monastic seat"
+    imageUrl: "/artifacts/nath-tradition-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Gategorakhnath.jpg"
+    provenance: "Rkmishr15; CC BY-SA 4.0"
+    period: "Image dated 2013"
+    description: "This image shows Gorakhnath Temple, a principal Nath monastic seat, selected as a defining visual reference for Nāth Tradition."
 ---
 
 # Nāth Tradition

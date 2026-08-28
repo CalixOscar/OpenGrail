@@ -46,22 +46,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Zahiri School'
     url: 'https://www.cambridge.org/core/search?q=Zahiri%20School'
 artifacts:
-  - title: Zahiri School Historical Sanctuary & Iconography
-    imageUrl: /artifacts/zahiri-school-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zahiri_School'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 9th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Zahiri School.
-  - title: Quran & Sacred Relics
-    imageUrl: /artifacts/zahiri-school-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zahiri_School'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 9th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Zahiri School.
+  - title: "Monument to Ibn Hazm, the foremost Zahiri jurist"
+    imageUrl: "/artifacts/zahiri-school-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Puerta_de_Sevilla._C%C3%B3rdoba..JPG"
+    provenance: "Roberto Chamoso G; CC BY-SA 3.0 es"
+    period: "Image dated 2011"
+    description: "This image shows Monument to Ibn Hazm, the foremost Zahiri jurist, selected as a defining visual reference for Zahiri School."
+  - title: "Manuscript of Ibn Hazm's Zahiri legal compendium al-Muhalla"
+    imageUrl: "/artifacts/zahiri-school-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Badi%27_al_Zaman_ibn_al_Razzaz_al_Jazari_-_Manuscript_of_Automata_-_Google_Art_Project.jpg"
+    provenance: "Badi' al Zaman ibn al Razzaz al Jazari; Public domain"
+    period: "Digital file published 2013"
+    description: "This image shows Manuscript of Ibn Hazm's Zahiri legal compendium al-Muhalla, selected as a defining visual reference for Zahiri School."
 ---
 
 # Zahiri School

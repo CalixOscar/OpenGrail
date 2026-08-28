@@ -50,22 +50,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Lao%20Buddhism'
 artifacts:
-  - title: Lao Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/lao-buddhism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lao_Buddhism'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 14th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Lao Buddhism.
-  - title: Pāli Tipiṭaka & Sacred Relics
-    imageUrl: /artifacts/lao-buddhism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lao_Buddhism'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 14th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Lao
-      Buddhism.
+  - title: "Phra Bang palladium Buddha, namesake icon of Luang Prabang"
+    imageUrl: "/artifacts/lao-buddhism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Phra_Bang_Budhhalawan.jpg"
+    provenance: "Tmd; Public domain"
+    period: "Image dated 1972"
+    description: "This image shows Phra Bang palladium Buddha, namesake icon of Luang Prabang, selected as a defining visual reference for Lao Buddhism."
+  - title: "Pha That Luang, Laos's national Buddhist reliquary"
+    imageUrl: "/artifacts/lao-buddhism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pha_That_Luang_Vientiane_Laos_Wikimedia_Commons.jpg"
+    provenance: "Benh LIEU SONG; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Pha That Luang, Laos's national Buddhist reliquary, selected as a defining visual reference for Lao Buddhism."
 ---
 
 # Lao Buddhism

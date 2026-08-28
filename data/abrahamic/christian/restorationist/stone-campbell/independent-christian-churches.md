@@ -51,26 +51,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Independent%20Christian%20Churches%20and%20Churches%20of%20Christ
 artifacts:
-  - title: >-
-      Independent Christian Churches and Churches of Christ Historical Sanctuary
-      & Iconography
-    imageUrl: /artifacts/independent-christian-churches-1.jpg
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/Independent_Christian_Churches_and_Churches_of_Christ
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1920s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Independent Christian Churches and Churches of Christ.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/independent-christian-churches-2.jpg
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/Independent_Christian_Churches_and_Churches_of_Christ
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1920s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Independent Christian Churches and Churches of Christ.
+  - title: "Worship at the historic gathering of independent Christian churches"
+    imageUrl: "/artifacts/independent-christian-churches-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cedar_Bayou_United_Methodist_Church_--_Baytown,_Texas.jpg"
+    provenance: "Jim Evans; CC BY-SA 4.0"
+    period: "Image dated 2020"
+    description: "This image shows Worship at the historic gathering of independent Christian churches, selected as a defining visual reference for Independent Christian Churches and Churches of Christ."
+  - title: "Large sanctuary of Southeast Christian Church in Louisville"
+    imageUrl: "/artifacts/independent-christian-churches-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Southeast_Christian_Church.jpg"
+    provenance: "local louisville; CC BY 2.0"
+    period: "Image dated 2010"
+    description: "This image shows Large sanctuary of Southeast Christian Church in Louisville, selected as a defining visual reference for Independent Christian Churches and Churches of Christ."
 ---
 
 # Independent Christian Churches and Churches of Christ

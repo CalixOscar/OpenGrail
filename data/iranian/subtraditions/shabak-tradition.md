@@ -50,22 +50,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Shabak Religious Tradition'
     url: 'https://brill.com/search?q=Shabak%20Religious%20Tradition'
 artifacts:
-  - title: Shabak Religious Tradition Historical Sanctuary & Iconography
-    imageUrl: /artifacts/shabak-tradition-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shabak_Religious_Tradition'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 16th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Shabak Religious Tradition.
-  - title: Buyruk manuscripts & Sacred Relics
-    imageUrl: /artifacts/shabak-tradition-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shabak_Religious_Tradition'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 16th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Shabak Religious Tradition.
+  - title: "Shabak pilgrimage sanctuary on the Nineveh Plains"
+    imageUrl: "/artifacts/shabak-tradition-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Chidr_Elias_Plan.jpg"
+    provenance: "scan from Conrad Preusser Nordmesopotamische Baudenkmaler altchristlicher und islamischer Zeit. Leipzig 1911, plate 1; Public domain"
+    period: "Image dated 1911"
+    description: "This image shows Shabak pilgrimage sanctuary on the Nineveh Plains, selected as a defining visual reference for Shabak Religious Tradition."
+  - title: "Sacred shrine on the Nineveh Plains"
+    imageUrl: "/artifacts/shabak-tradition-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:ProphetNahum.JPG"
+    provenance: "Chaldean; CC BY-SA 4.0"
+    period: "Image dated 2014"
+    description: "This image shows Sacred shrine on the Nineveh Plains, selected as a defining visual reference for Shabak Religious Tradition."
 ---
 
 # Shabak Religious Tradition

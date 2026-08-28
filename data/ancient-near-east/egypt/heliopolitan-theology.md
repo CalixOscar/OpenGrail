@@ -45,22 +45,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Heliopolitan Theology'
     url: 'https://brill.com/search?q=Heliopolitan%20Theology'
 artifacts:
-  - title: Heliopolitan Theology Historical Sanctuary & Iconography
-    imageUrl: /artifacts/heliopolitan-theology-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Heliopolitan_Theology'
-    provenance: 'Thebes (Luxor), Ancient Egypt'
-    period: c. c. 2400 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Heliopolitan Theology.
-  - title: Pyramid Texts & Sacred Relics
-    imageUrl: /artifacts/heliopolitan-theology-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Heliopolitan_Theology'
-    provenance: 'Thebes (Luxor), Ancient Egypt'
-    period: c. c. 2400 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Heliopolitan Theology.
+  - title: "Ra-Horakhty cult image"
+    imageUrl: "/artifacts/heliopolitan-theology-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Inlay_depicting_the_squatting_god_Re_MET_DP239682.jpg"
+    provenance: "Wikimedia Commons; CC0"
+    period: "4th century B.C. Period: Late Period–Ptolemaic Period"
+    description: "This image shows Ra-Horakhty cult image, selected as a defining visual reference for Heliopolitan Theology."
+  - title: "Heliopolitan solar-temple obelisk"
+    imageUrl: "/artifacts/heliopolitan-theology-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Heliopolis._Obelisk_van_Sesostris_I_Man_poseert_voor_de_obelisk,_GDE002226.jpg"
+    provenance: "Unknown; Public domain"
+    period: "Digital file published 2025"
+    description: "This image shows Heliopolitan solar-temple obelisk, selected as a defining visual reference for Heliopolitan Theology."
 ---
 
 # Heliopolitan Theology

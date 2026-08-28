@@ -43,22 +43,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Romuva'
     url: 'https://brill.com/search?q=Romuva'
 artifacts:
-  - title: Romuva Historical Sanctuary & Iconography
-    imageUrl: /artifacts/romuva-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Romuva'
-    provenance: 'Vilnius, Lithuania'
-    period: c. early 20th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Romuva.
-  - title: Lithuanian dainos & Sacred Relics
-    imageUrl: /artifacts/romuva-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Romuva'
-    provenance: 'Vilnius, Lithuania'
-    period: c. early 20th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Romuva.
+  - title: "Perkunas shrine site in Kaunas, Lithuania"
+    imageUrl: "/artifacts/romuva-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:House_of_Perk%C5%ABnas,_Kaunas.jpg"
+    provenance: "Wojsyl; CC BY-SA 3.0"
+    period: "Image dated 2005"
+    description: "This image shows Perkunas shrine site in Kaunas, Lithuania, selected as a defining visual reference for Romuva."
+  - title: "Romuva sacred-fire rite"
+    imageUrl: "/artifacts/romuva-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Romuvan_ritual_fire.png"
+    provenance: "Wikimedia Commons; CC BY 2.0"
+    period: "Digital file published 2009"
+    description: "This image shows Romuva sacred-fire rite, selected as a defining visual reference for Romuva."
 ---
 
 # Romuva

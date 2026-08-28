@@ -44,22 +44,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Chishtiyya'
     url: 'https://www.cambridge.org/core/search?q=Chishtiyya'
 artifacts:
-  - title: Chishtiyya Historical Sanctuary & Iconography
-    imageUrl: /artifacts/chishtiyya-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chishtiyya'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 12th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Chishtiyya.
-  - title: Quran & Sacred Relics
-    imageUrl: /artifacts/chishtiyya-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chishtiyya'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Chishtiyya.
+  - title: "Dargah of Mu'in al-Din Chishti at Ajmer"
+    imageUrl: "/artifacts/chishtiyya-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dargah_of_Sufi_saint_Moinuddin_Chishti_Ajmer_India.JPG"
+    provenance: "Shahnoor Habib Munmun; CC BY 3.0"
+    period: "Digital file published 2010"
+    description: "This image shows Dargah of Mu'in al-Din Chishti at Ajmer, selected as a defining visual reference for Chishtiyya."
+  - title: "Devotional qawwali at the Chishti shrine of Nizamuddin Auliya"
+    imageUrl: "/artifacts/chishtiyya-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nizamuddin_Dargah_-Delhi_-Delhi_-DSC_0001.jpg"
+    provenance: "Tushark18; CC BY-SA 4.0"
+    period: "Image dated 2019"
+    description: "This image shows Devotional qawwali at the Chishti shrine of Nizamuddin Auliya, selected as a defining visual reference for Chishtiyya."
 ---
 
 # Chishtiyya

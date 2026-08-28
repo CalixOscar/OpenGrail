@@ -51,22 +51,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Pur%C3%A9pecha%20Religious%20Traditions'
 artifacts:
-  - title: Purépecha Religious Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/purepecha-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pur%C3%A9pecha_Religious_Traditions'
-    provenance: 'Tzintzuntzan, Lake Pátzcuaro, Michoacán'
-    period: c. precolonial
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Purépecha Religious Traditions.
-  - title: Relación de Michoacán & Sacred Relics
-    imageUrl: /artifacts/purepecha-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pur%C3%A9pecha_Religious_Traditions'
-    provenance: 'Tzintzuntzan, Lake Pátzcuaro, Michoacán'
-    period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Purépecha Religious Traditions.
+  - title: "Yacatas stepped ceremonial pyramids at Tzintzuntzan"
+    imageUrl: "/artifacts/purepecha-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:GrPlattztztzSign.JPG"
+    provenance: "Thelmadatter; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Yacatas stepped ceremonial pyramids at Tzintzuntzan, selected as a defining visual reference for Purépecha Religious Traditions."
+  - title: "Purepecha carved stone chacmool offering sculpture"
+    imageUrl: "/artifacts/purepecha-religion-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Manual_de_los_santos_sacramentos_en_el_idioma_de_Michuacan.png"
+    provenance: "Juan de Martinez de Araujo; Public domain"
+    period: "Image dated 1690"
+    description: "This image shows Purepecha carved stone chacmool offering sculpture, selected as a defining visual reference for Purépecha Religious Traditions."
 ---
 
 # Purépecha Religious Traditions

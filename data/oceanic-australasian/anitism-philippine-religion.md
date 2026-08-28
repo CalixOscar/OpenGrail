@@ -40,18 +40,18 @@ sources:
   - title: 'F. Landa Jocano: "Philippine Prehistory and Mythology"'
     url: 'https://en.wikipedia.org/wiki/Indigenous_Philippine_folk_religions'
 artifacts:
-  - title: Manunggul Secondary Burial Jar (Spirit Boat to Afterlife)
-    imageUrl: /artifacts/anitism-philippine-religion-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Manunggul_Jar
-    provenance: Manunggul Cave, Palawan, Philippines (National Museum Manila)
-    period: c. 890–710 BCE (Neolithic)
-    description: Masterpiece Neolithic secondary burial jar whose lid features two carved boatmen navigating a spirit canoe with carved prow to the ancestral afterlife.
-  - title: Carved Wooden Bulul & Likha Ancestor Effigies
-    imageUrl: /artifacts/anitism-philippine-religion-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Bulul
-    provenance: Northern Luzon, Philippines
-    period: Traditional Pre-Colonial Horizon
-    description: Sacred carved wooden anthropomorphic figures representing guardian ancestors and rice deities, anointed with sacred oil during communal rituals.
+  - title: "Carved wooden seated Bulul rice guardian figure"
+    imageUrl: "/artifacts/anitism-philippine-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Seated_Bulul_from_Ifugao,_narra_wood,_Honolulu_Museum_of_Art.jpg"
+    provenance: "Hiart; CC0"
+    period: "Image dated 2016"
+    description: "This image shows Carved wooden seated Bulul rice guardian figure, selected as a defining visual reference for Anitism & Philippine Indigenous Traditions."
+  - title: "The Manunggul Jar with boat of the dead lid"
+    imageUrl: "/artifacts/anitism-philippine-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Manunggul_Jar.jpg"
+    provenance: "Philip Maise; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows The Manunggul Jar with boat of the dead lid, selected as a defining visual reference for Anitism & Philippine Indigenous Traditions."
 ---
 
 # Anitism & Philippine Indigenous Traditions

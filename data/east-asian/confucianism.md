@@ -44,22 +44,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Confucian%20Traditions'
 artifacts:
-  - title: Confucian Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/confucianism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Confucian_Traditions'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 5th century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Confucian Traditions.
-  - title: Analects & Sacred Relics
-    imageUrl: /artifacts/confucianism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Confucian_Traditions'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 5th century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Confucian Traditions.
+  - title: "Traditional portrait of Confucius"
+    imageUrl: "/artifacts/confucianism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty,_black_print.jpg"
+    provenance: "Wu Daozi , 685-758, Tang Dynasty.; Public domain"
+    period: "8 th century"
+    description: "This image shows Traditional portrait of Confucius, selected as a defining visual reference for Confucian Traditions."
+  - title: "Qufu Temple of Confucius"
+    imageUrl: "/artifacts/confucianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kong_Miao_-_Dacheng_Dian_-_P1050686.JPG"
+    provenance: "User:Vmenkov; CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Qufu Temple of Confucius, selected as a defining visual reference for Confucian Traditions."
 ---
 
 # Confucian Traditions

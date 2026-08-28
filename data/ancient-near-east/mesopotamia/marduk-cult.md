@@ -48,22 +48,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Marduk'
     url: 'https://brill.com/search?q=Cult%20of%20Marduk'
 artifacts:
-  - title: Cult of Marduk Historical Sanctuary & Iconography
-    imageUrl: /artifacts/marduk-cult-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Marduk'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2000 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Cult of Marduk.
-  - title: Enūma Eliš & Sacred Relics
-    imageUrl: /artifacts/marduk-cult-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Marduk'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2000 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
-      of Marduk.
+  - title: "Marduk with mushussu dragon"
+    imageUrl: "/artifacts/marduk-cult-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ishtar_Gate_Dragon.JPG"
+    provenance: "The original uploader was Lostinafrica at English Wikipedia .; CC BY-SA 3.0"
+    period: "Image dated 2007"
+    description: "This image shows Marduk with mushussu dragon, selected as a defining visual reference for Cult of Marduk."
+  - title: "Esagila sanctuary"
+    imageUrl: "/artifacts/marduk-cult-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Babylonian_-_Boundary_Stone_-_Walters_2110.jpg"
+    provenance: "Anonymous ( Babylon ) Unknown author; Public domain"
+    period: "Image dated 1099"
+    description: "This image shows Esagila sanctuary, selected as a defining visual reference for Cult of Marduk."
 ---
 
 # Cult of Marduk

@@ -48,22 +48,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Ruthenian%20Greek%20Catholic%20Church
 artifacts:
-  - title: Ruthenian Greek Catholic Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ruthenian-greek-catholic-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ruthenian_Greek_Catholic_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1646 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ruthenian Greek Catholic Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/ruthenian-greek-catholic-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ruthenian_Greek_Catholic_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1646 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ruthenian Greek Catholic Church.
+  - title: "Ruthenian Byzantine Catholic liturgical worship"
+    imageUrl: "/artifacts/ruthenian-greek-catholic-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Byzantine_Catholic_Church.jpg"
+    provenance: "Jay Galvin; CC BY 2.0"
+    period: "Image dated 2010"
+    description: "This image shows Ruthenian Byzantine Catholic liturgical worship, selected as a defining visual reference for Ruthenian Greek Catholic Church."
+  - title: "Historic Rusyn Greek Catholic wooden church and iconostasis at Bodruzal"
+    imageUrl: "/artifacts/ruthenian-greek-catholic-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bodruzal_-_Saint_Nicholas_Church.jpg"
+    provenance: "Ingo Mehling; CC BY-SA 4.0"
+    period: "Image dated 2019"
+    description: "This image shows Historic Rusyn Greek Catholic wooden church and iconostasis at Bodruzal, selected as a defining visual reference for Ruthenian Greek Catholic Church."
 ---
 
 # Ruthenian Greek Catholic Church

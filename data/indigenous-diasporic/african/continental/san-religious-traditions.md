@@ -50,22 +50,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=San%20Religious%20Traditions'
 artifacts:
-  - title: San Religious Traditions (Comparative) Historical Sanctuary & Iconography
-    imageUrl: /artifacts/san-religious-traditions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/San_Religious_Traditions'
-    provenance: 'Kalahari Desert, Botswana/Namibia'
-    period: c. prehistoric continuity and change
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with San Religious Traditions (Comparative).
-  - title: Community-specific oral narratives & Sacred Relics
-    imageUrl: /artifacts/san-religious-traditions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/San_Religious_Traditions'
-    provenance: 'Kalahari Desert, Botswana/Namibia'
-    period: c. prehistoric continuity and change
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of San
-      Religious Traditions (Comparative).
+  - title: "The White Lady rock painting at Brandberg Mountain"
+    imageUrl: "/artifacts/san-religious-traditions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Malby_k%C5%99ov%C3%A1k%C5%AF_White_Lady_-_Namibie_-_panoramio.jpg"
+    provenance: "Pavel Spindler; CC BY 3.0"
+    period: "Image dated 2014"
+    description: "This image shows The White Lady rock painting at Brandberg Mountain, selected as a defining visual reference for San Religious Traditions (Comparative)."
+  - title: "San polychrome rock art in the Cederberg mountains"
+    imageUrl: "/artifacts/san-religious-traditions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:San_cave_painting_-_Phoenicean_ship.jpg"
+    provenance: "Photographer: David K. Edwards; Public domain"
+    period: "Digital file published 2019"
+    description: "This image shows San polychrome rock art in the Cederberg mountains, selected as a defining visual reference for San Religious Traditions (Comparative)."
 ---
 
 # San Religious Traditions (Comparative)

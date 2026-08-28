@@ -46,20 +46,18 @@ sources:
   - title: 'Hans Küng: "A Global Ethic for Global Politics and Economics"'
     url: 'https://www.oxfordreference.com/'
 artifacts:
-  - title: Eleanor Roosevelt Holding the Universal Declaration of Human Rights
-    imageUrl: /artifacts/human-rights-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights
-    provenance: Lake Success / Paris (UN Photo Archive)
-    period: November 1949
-    description: >-
-      Iconic photograph of Eleanor Roosevelt holding the Spanish text of the UDHR, which she described as the 'international Magna Carta of all mankind.'
-  - title: Preamble of the Universal Declaration of Human Rights Inscription
-    imageUrl: /artifacts/human-rights-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights
-    provenance: Palais de Chaillot, Paris, France
-    period: Adopted 10 December 1948
-    description: >-
-      Monumental historical document adopted without dissent by the UN General Assembly in Paris following the catastrophic horrors of World War II.
+  - title: "Eleanor Roosevelt with the Universal Declaration of Human Rights"
+    imageUrl: "/artifacts/human-rights-ethics-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Eleanor_Roosevelt_UDHR.jpg"
+    provenance: "FDR Presidential Library & Museum; CC BY 2.0"
+    period: "Image dated 2008"
+    description: "This image shows Eleanor Roosevelt with the Universal Declaration of Human Rights, selected as a defining visual reference for Universal Human Rights & Global Ethical Horizons."
+  - title: "The Cyrus Cylinder ancient proclamation of religious freedom"
+    imageUrl: "/artifacts/human-rights-ethics-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cyrus_Cylinder_2.jpg"
+    provenance: "Photograph by Mike Peel ( www.mikepeel.net ).; CC BY-SA 4.0"
+    period: "Image dated 2010"
+    description: "This image shows The Cyrus Cylinder ancient proclamation of religious freedom, selected as a defining visual reference for Universal Human Rights & Global Ethical Horizons."
 ---
 
 # Universal Human Rights & Global Ethical Horizons

@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Greece'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Greece'
 artifacts:
-  - title: Church of Greece Historical Sanctuary & Iconography
-    imageUrl: /artifacts/church-of-greece-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Greece'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1833 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Church of Greece.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/church-of-greece-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Greece'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1833 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Church of Greece.
+  - title: "Divine Liturgy in the Metropolitan Cathedral of Athens"
+    imageUrl: "/artifacts/church-of-greece-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Metropolitan_Cathedral_of_Athens_2016.jpg"
+    provenance: "Dimitris Kamaras; CC BY 2.0"
+    period: "Image dated 2016"
+    description: "This image shows Divine Liturgy in the Metropolitan Cathedral of Athens, selected as a defining visual reference for Church of Greece."
+  - title: "Middle Byzantine mosaics of Hosios Loukas monastery"
+    imageUrl: "/artifacts/church-of-greece-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hosios_Loukas_(narthex)_-_East_wall,_central_(Pantocrator)_detail_01.jpg"
+    provenance: "BishkekRocks; CC BY-SA 3.0"
+    period: "11th century"
+    description: "This image shows Middle Byzantine mosaics of Hosios Loukas monastery, selected as a defining visual reference for Church of Greece."
 ---
 
 # Church of Greece

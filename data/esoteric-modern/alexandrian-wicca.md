@@ -45,22 +45,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Alexandrian Wicca'
     url: 'https://brill.com/search?q=Alexandrian%20Wicca'
 artifacts:
-  - title: Alexandrian Wicca Historical Sanctuary & Iconography
-    imageUrl: /artifacts/alexandrian-wicca-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Alexandrian_Wicca'
-    provenance: 'New Forest, Hampshire, England, UK'
-    period: c. 1960s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Alexandrian Wicca.
-  - title: Alexandrian Books of Shadows & Sacred Relics
-    imageUrl: /artifacts/alexandrian-wicca-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Alexandrian_Wicca'
-    provenance: 'New Forest, Hampshire, England, UK'
-    period: c. 1960s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Alexandrian Wicca.
+  - title: "Alex Sanders, prominent Alexandrian Wiccan high priest"
+    imageUrl: "/artifacts/alexandrian-wicca-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:15_Clanricarde_Gardens.jpg"
+    provenance: "Ethan Doyle White; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Alex Sanders, prominent Alexandrian Wiccan high priest, selected as a defining visual reference for Alexandrian Wicca."
+  - title: "Alexandrian Wiccan altar with ritual blade and chalice"
+    imageUrl: "/artifacts/alexandrian-wicca-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Wiccan_altar_(1).PNG"
+    provenance: "RaeVynn Sands, Flickr user cronewynd; CC BY 2.0"
+    period: "Image dated 2006"
+    description: "This image shows Alexandrian Wiccan altar with ritual blade and chalice, selected as a defining visual reference for Alexandrian Wicca."
 ---
 
 # Alexandrian Wicca

@@ -48,22 +48,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Enlil at Nippur'
     url: 'https://brill.com/search?q=Cult%20of%20Enlil%20at%20Nippur'
 artifacts:
-  - title: Cult of Enlil at Nippur Historical Sanctuary & Iconography
-    imageUrl: /artifacts/enlil-cult-nippur-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Enlil_at_Nippur'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3000 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Cult of Enlil at Nippur.
-  - title: Hymns to Enlil & Sacred Relics
-    imageUrl: /artifacts/enlil-cult-nippur-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Enlil_at_Nippur'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3000 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
-      of Enlil at Nippur.
+  - title: "Cult image of Enlil"
+    imageUrl: "/artifacts/enlil-cult-nippur-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Standing_Male_Worshiper.jpg"
+    provenance: "Metropolitan Museum of Art; CC0"
+    period: "Object or image dated 1940"
+    description: "This image shows Cult image of Enlil, selected as a defining visual reference for Cult of Enlil at Nippur."
+  - title: "Ekur sanctuary at Nippur"
+    imageUrl: "/artifacts/enlil-cult-nippur-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ruins_from_a_temple_in_Naffur.jpg"
+    provenance: "Jasmine N. Walthall, U.S. Army; Public domain"
+    period: "Image dated 2009"
+    description: "This image shows Ekur sanctuary at Nippur, selected as a defining visual reference for Cult of Enlil at Nippur."
 ---
 
 # Cult of Enlil at Nippur

@@ -45,22 +45,18 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Lu%E2%80%93Wang%20Confucianism
 artifacts:
-  - title: Lu–Wang Confucianism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/lu-wang-confucianism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lu%E2%80%93Wang_Confucianism'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 12th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Lu–Wang Confucianism.
-  - title: Four Books & Sacred Relics
-    imageUrl: /artifacts/lu-wang-confucianism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lu%E2%80%93Wang_Confucianism'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Lu–Wang Confucianism.
+  - title: "Portrait of Wang Yangming"
+    imageUrl: "/artifacts/lu-wang-confucianism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%E7%8E%8B%E5%AE%88%E4%BB%81.jpg"
+    provenance: "Shen Junhui (沈俊繪); Public domain"
+    period: "Digital file published 2019"
+    description: "This image shows Portrait of Wang Yangming, selected as a defining visual reference for Lu–Wang Confucianism."
+  - title: "Wang Yangming memorial academy"
+    imageUrl: "/artifacts/lu-wang-confucianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:20240524_Former_residence_of_Wang_Yangming.jpg"
+    provenance: "Yumeto; CC BY-SA 4.0"
+    period: "Image dated 2024"
+    description: "This image shows Wang Yangming memorial academy, selected as a defining visual reference for Lu–Wang Confucianism."
 ---
 
 # Lu–Wang Confucianism

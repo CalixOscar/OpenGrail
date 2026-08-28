@@ -40,24 +40,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Lutheranism'
     url: 'https://www.cambridge.org/core/search?q=Lutheranism'
 artifacts:
-  - title: A Tidemand-Haugianerne
-    imageUrl: /artifacts/lutheranism-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:A_Tidemand-Haugianerne.jpg'
-    provenance: 'Wittenberg, Saxony, Germany'
-    period: c. 1517 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Lutheranism.
-  - title: ArticleXIOfConfession
-    imageUrl: /artifacts/lutheranism-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:ArticleXIOfConfession.JPG'
-    provenance: 'Wittenberg, Saxony, Germany'
-    period: c. 1517 CE
-    description: >-
-      I cropped this from the image to the right. I release any rights I gained
-      from cropping it into the public domain.
-
-      Illustration of each of the 28 articles of the Augsburg Confessio...
+  - title: "Cranach portrait of Martin Luther"
+    imageUrl: "/artifacts/lutheranism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hans_and_Margarethe_Luther,_by_Lucas_Cranach_the_Elder.jpg"
+    provenance: "Lucas Cranach the Elder; Public domain"
+    period: "Image dated 1527"
+    description: "This image shows Cranach portrait of Martin Luther, selected as a defining visual reference for Lutheranism."
+  - title: "Historical manuscript of the Augsburg Confession"
+    imageUrl: "/artifacts/lutheranism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Confessio_Augustana_Speyer.jpg"
+    provenance: "Immanuel Giel; Public domain"
+    period: "Image dated 2005"
+    description: "This image shows Historical manuscript of the Augsburg Confession, selected as a defining visual reference for Lutheranism."
 ---
 
 # Lutheranism

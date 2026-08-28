@@ -43,23 +43,18 @@ sources:
   - title: 'Marija Gimbutas: "The Language of the Goddess"'
     url: 'https://en.wikipedia.org/wiki/Marija_Gimbutas'
 artifacts:
-  - title: Venus of Willendorf Oolitic Limestone Sacred Figurine
-    imageUrl: /artifacts/venus-mother-cults-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Venus_of_Willendorf'
-    provenance: 'Willendorf, Lower Austria (Natural History Museum Vienna)'
-    period: 'c. 30,000–25,000 BCE (Gravettian)'
-    description: >-
-      11-cm carved oolitic limestone figurine tinted with red ochre, emphasizing
-      maternal fecundity, abdominal fullness, and intricate braided head
-      covering, embodying Paleolithic fertility cosmology.
-  - title: Venus of Hohle Fels Mammoth Ivory Figurine
-    imageUrl: /artifacts/venus-mother-cults-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Venus_of_Hohle_Fels'
-    provenance: 'Hohle Fels Cave, Schelklingen, Germany'
-    period: 'c. 40,000–35,000 BCE'
-    description: >-
-      The oldest undisputed depiction of a human female figure, carved from
-      mammoth ivory with an upper perforation worn as an amuletic talisman.
+  - title: "The Venus of Willendorf carved limestone figurine"
+    imageUrl: "/artifacts/venus-mother-cults-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:A_female_Paleolithic_figurine,_Venus_of_Willendorf_Wellcome_M0000440.jpg"
+    provenance: "Wikimedia Commons; CC BY 4.0"
+    period: "Digital file published 2014"
+    description: "This image shows The Venus of Willendorf carved limestone figurine, selected as a defining visual reference for Paleolithic Mother Goddess & Fertility Cults."
+  - title: "The Venus of Laussel rock relief holding a horned cornucopia"
+    imageUrl: "/artifacts/venus-mother-cults-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Female_figure_sculpted_relief_in_limestone_block_from_Laussel,_France_(reproduction),_c._23000_BCE.jpg"
+    provenance: "Hiart; CC0"
+    period: "Image dated 2023"
+    description: "This image shows The Venus of Laussel rock relief holding a horned cornucopia, selected as a defining visual reference for Paleolithic Mother Goddess & Fertility Cults."
 ---
 
 # Paleolithic Mother Goddess & Fertility Cults

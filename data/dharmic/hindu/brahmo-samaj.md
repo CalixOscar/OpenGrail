@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Brahmo%20Samaj'
 artifacts:
-  - title: Brahmo Samaj Historical Sanctuary & Iconography
-    imageUrl: /artifacts/brahmo-samaj-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brahmo_Samaj'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1828 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Brahmo Samaj.
-  - title: Brahmo Dharma & Sacred Relics
-    imageUrl: /artifacts/brahmo-samaj-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Brahmo_Samaj'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1828 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Brahmo Samaj.
+  - title: "Rammohun Roy, founder of the Brahmo Sabha"
+    imageUrl: "/artifacts/brahmo-samaj-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bust_portrait_of_the_Hindu_reformer_Ram_Mohan_Roy..jpg"
+    provenance: "anonymous; Public domain"
+    period: "Image dated 1820"
+    description: "This image shows Rammohun Roy, founder of the Brahmo Sabha, selected as a defining visual reference for Brahmo Samaj."
+  - title: "Historic Brahmo Samaj Mandir in Kolkata"
+    imageUrl: "/artifacts/brahmo-samaj-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Brahmo_Mandir,_Cooch_Behar_Town,_West_Bengal,_India_02.jpg"
+    provenance: "Amitabha Gupta; CC BY 4.0"
+    period: "Image dated 2024"
+    description: "This image shows Historic Brahmo Samaj Mandir in Kolkata, selected as a defining visual reference for Brahmo Samaj."
 ---
 
 # Brahmo Samaj

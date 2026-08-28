@@ -59,22 +59,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Christianity'
     url: 'https://www.cambridge.org/core/search?q=Christianity'
 artifacts:
-  - title: 'Addis abeba, chiesa della trinità, esterno 02'
-    imageUrl: /artifacts/christianity-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Addis_abeba,_chiesa_della_trinit%C3%A0,_esterno_02.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 30 CE
-    description: 'Holy Trinity Cathedral, Addis Ababa...'
-  - title: >-
-      Ann Arbor, University of Michigan P.Mich.inv. 6238 (Papyrus 46) fol. 142r
-      - 2 Corinthians 11,33-12,9
-    imageUrl: /artifacts/christianity-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Ann_Arbor,_University_of_Michigan_P.Mich.inv._6238_(Papyrus_46)_fol._142r_-_2_Corinthians_11,33-12,9.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 30 CE
-    description: 'Papyrus 46 section containing  2 Corinthians 11,33-12,9...'
+  - title: "The Last Supper, iconic sacred art of Jesus and the apostles"
+    imageUrl: "/artifacts/christianity-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Postcard_of_Last_Supper_by_Da_Vinci_published_in_or_before_1904.jpg"
+    provenance: "Anonymous Unknown author; Public domain"
+    period: "Image dated 2012"
+    description: "This image shows The Last Supper, iconic sacred art of Jesus and the apostles, selected as a defining visual reference for Christianity."
+  - title: "Edicule of the Holy Sepulchre, Christianity's central resurrection shrine"
+    imageUrl: "/artifacts/christianity-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:101_0123.JPG"
+    provenance: "Talmoryair; CC BY 2.5"
+    period: "Image dated 2004"
+    description: "This image shows Edicule of the Holy Sepulchre, Christianity's central resurrection shrine, selected as a defining visual reference for Christianity."
 ---
 
 # Christianity

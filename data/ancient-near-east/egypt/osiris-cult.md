@@ -48,22 +48,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Osiris'
     url: 'https://brill.com/search?q=Cult%20of%20Osiris'
 artifacts:
-  - title: Cult of Osiris Historical Sanctuary & Iconography
-    imageUrl: /artifacts/osiris-cult-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Osiris'
-    provenance: 'Thebes (Luxor), Ancient Egypt'
-    period: c. c. 2400 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Cult of Osiris.
-  - title: Pyramid Texts & Sacred Relics
-    imageUrl: /artifacts/osiris-cult-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Osiris'
-    provenance: 'Thebes (Luxor), Ancient Egypt'
-    period: c. c. 2400 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
-      of Osiris.
+  - title: "Cult image of Osiris"
+    imageUrl: "/artifacts/osiris-cult-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Egyptian_-_Statue_of_Osiris_-_Walters_54551_-_Back.jpg"
+    provenance: "Anonymous ( Egypt ) Unknown author; Public domain"
+    period: "Digital file published 2012"
+    description: "This image shows Cult image of Osiris, selected as a defining visual reference for Cult of Osiris."
+  - title: "Osireion sanctuary at Abydos"
+    imageUrl: "/artifacts/osiris-cult-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:AbydosOsireionNorthWest.jpg"
+    provenance: "Roland Unger; CC BY-SA 3.0"
+    period: "Image dated 2000"
+    description: "This image shows Osireion sanctuary at Abydos, selected as a defining visual reference for Cult of Osiris."
 ---
 
 # Cult of Osiris

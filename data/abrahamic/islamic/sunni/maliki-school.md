@@ -42,22 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Maliki School'
     url: 'https://www.cambridge.org/core/search?q=Maliki%20School'
 artifacts:
-  - title: Maliki School Historical Sanctuary & Iconography
-    imageUrl: /artifacts/maliki-school-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maliki_School'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 8th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Maliki School.
-  - title: Al-Muwatta' & Sacred Relics
-    imageUrl: /artifacts/maliki-school-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maliki_School'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 8th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Maliki School.
+  - title: "Great Mosque of Kairouan, historic center of Maliki learning"
+    imageUrl: "/artifacts/maliki-school-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Kairouan_courtyard.jpg"
+    provenance: "ovancantfort; CC BY-SA 2.0"
+    period: "Image dated 2009"
+    description: "This image shows Great Mosque of Kairouan, historic center of Maliki learning, selected as a defining visual reference for Maliki School."
+  - title: "Historical manuscript of Malik's Muwatta"
+    imageUrl: "/artifacts/maliki-school-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Muw.Ibn_Tashfin.JPG"
+    provenance: "de:Benutzer:Orientalist . Photograph taken at the Fes library; Public domain"
+    period: "Image dated 2003"
+    description: "This image shows Historical manuscript of Malik's Muwatta, selected as a defining visual reference for Maliki School."
 ---
 
 # Maliki School

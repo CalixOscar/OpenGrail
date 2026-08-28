@@ -46,29 +46,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of England'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20England'
 artifacts:
-  - title: Thomas Cranmer by Gerlach Flicke
-    imageUrl: /artifacts/church-of-england-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Thomas_Cranmer_by_Gerlach_Flicke.jpg
-    provenance: 'Canterbury, Kent, England, UK'
-    period: c. 1534 CE
-    description: >-
-      This is part of a set of images gathered by User:Dcoetzee from the
-      National Portrait Gallery, London website using a special tool. All images
-      in this batch have a known author, an...
-  - title: Hooker-Statue
-    imageUrl: /artifacts/church-of-england-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hooker-Statue.jpeg'
-    provenance: 'Canterbury, Kent, England, UK'
-    period: c. 1534 CE
-    description: >-
-      5164561521564897== Summary ==
-
-      Taken by me (ryan grenzow and released now by me under the GFDL.  Richard
-      Hooker statue in grounds of Exeter Cathedral
-
-
-      Logan Wenger &amp; Paige...
+  - title: "Archbishop of Canterbury officiating in the Church of England"
+    imageUrl: "/artifacts/church-of-england-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Frederick_Temple_1900_Bradford.JPG"
+    provenance: "Commonwealth of Massachusetts; Public domain"
+    period: "Image dated 1900"
+    description: "This image shows Archbishop of Canterbury officiating in the Church of England, selected as a defining visual reference for Church of England."
+  - title: "1662 Book of Common Prayer, defining Anglican liturgical book"
+    imageUrl: "/artifacts/church-of-england-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Common_Prayer_French_language_Liturgie.jpg"
+    provenance: "Wikimedia Commons; Public domain"
+    period: "Digital file published 2006"
+    description: "This image shows 1662 Book of Common Prayer, defining Anglican liturgical book, selected as a defining visual reference for Church of England."
 ---
 
 # Church of England

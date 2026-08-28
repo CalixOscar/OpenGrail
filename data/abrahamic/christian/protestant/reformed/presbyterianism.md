@@ -45,19 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Presbyterianism'
     url: 'https://www.cambridge.org/core/search?q=Presbyterianism'
 artifacts:
-  - title: Celtic cross draped for Easter
-    imageUrl: /artifacts/presbyterianism-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Celtic_cross_draped_for_Easter.jpg'
-    provenance: 'Geneva, Switzerland'
-    period: c. c. 1560 CE
-    description: Celtic cross draped for Easter...
-  - title: First Presbyterian Church of Pittsburgh
-    imageUrl: /artifacts/presbyterianism-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:First_Presbyterian_Church_of_Pittsburgh.png
-    provenance: 'Geneva, Switzerland'
-    period: c. c. 1560 CE
-    description: First Presbyterian Church of Pittsburgh...
+  - title: "Portrait of John Knox, formative Presbyterian reformer"
+    imageUrl: "/artifacts/presbyterianism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Leading_Theologians_of_the_Middle_Ages.jpg"
+    provenance: "unknown, published by John Garrett; Public domain"
+    period: "17th century"
+    description: "This image shows Portrait of John Knox, formative Presbyterian reformer, selected as a defining visual reference for Presbyterianism."
+  - title: "Saint Giles' Cathedral, historic center of Scottish Presbyterianism"
+    imageUrl: "/artifacts/presbyterianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Edinburgh,_Saint_Giles_Cathedral_(38617314741).jpg"
+    provenance: "Herbert Frank from Wien (Vienna), AT; CC BY 2.0"
+    period: "Image dated 2015"
+    description: "This image shows Saint Giles' Cathedral, historic center of Scottish Presbyterianism, selected as a defining visual reference for Presbyterianism."
 ---
 
 # Presbyterianism

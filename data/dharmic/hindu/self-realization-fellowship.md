@@ -48,22 +48,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Self-Realization%20Fellowship'
 artifacts:
-  - title: Self-Realization Fellowship Historical Sanctuary & Iconography
-    imageUrl: /artifacts/self-realization-fellowship-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Self-Realization_Fellowship'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1920 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Self-Realization Fellowship.
-  - title: Autobiography of a Yogi & Sacred Relics
-    imageUrl: /artifacts/self-realization-fellowship-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Self-Realization_Fellowship'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1920 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Self-Realization Fellowship.
+  - title: "Paramahansa Yogananda, founder of Self-Realization Fellowship"
+    imageUrl: "/artifacts/self-realization-fellowship-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ulric_Dunbar_(sculpteur),_Swami_Yogananda_(Pacific)_-_btv1b53173631n.jpg"
+    provenance: "Agence Rol. Agence photographique (commanditaire); Public domain"
+    period: "Image dated 1927"
+    description: "This image shows Paramahansa Yogananda, founder of Self-Realization Fellowship, selected as a defining visual reference for Self-Realization Fellowship."
+  - title: "SRF Lake Shrine in Los Angeles"
+    imageUrl: "/artifacts/self-realization-fellowship-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Lake_shrine,_LA,_05.JPG"
+    provenance: "sailko; CC BY-SA 3.0"
+    period: "Image dated 2010"
+    description: "This image shows SRF Lake Shrine in Los Angeles, selected as a defining visual reference for Self-Realization Fellowship."
 ---
 
 # Self-Realization Fellowship

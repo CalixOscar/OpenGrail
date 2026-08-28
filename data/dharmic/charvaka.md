@@ -51,24 +51,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=C%C4%81rv%C4%81ka%20%2F%20Lok%C4%81yata
 artifacts:
-  - title: Ancient Indian Classical Epigraphy & Debates
-    imageUrl: /artifacts/charvaka-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Charvaka'
-    provenance: 'Ancient Gujarat / Magadha, India'
-    period: c. 3rd century BCE
-    description: >-
-      Ancient Brahmi stone edict reflecting the rigorous philosophical pluralism
-      and public debates of 1st-millennium BCE India, where Cārvāka materialists
-      vigorously challenged metaphysical orthodoxies.
-  - title: Tattvopaplavasimha Philosophical Treatise Manuscript
-    imageUrl: /artifacts/charvaka-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Charvaka'
-    provenance: Patan Jain Bhandar Manuscript Collection
-    period: c. 8th century CE
-    description: >-
-      Historical Sanskrit palm-leaf manuscript of Jayarāśi Bhaṭṭa's
-      Tattvopaplavasiṃha, the only surviving direct philosophical text
-      representing the radical skeptical and materialist Lokāyata school.
+  - title: "Ancient Indian philosophical tradition of Carvaka and Lokayata"
+    imageUrl: "/artifacts/charvaka-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Entrance_of_Charvaka_Asramam.jpg"
+    provenance: "Saiphani02; CC BY 4.0"
+    period: "Image dated 2024"
+    description: "This image shows Ancient Indian philosophical tradition of Carvaka and Lokayata, selected as a defining visual reference for Cārvāka / Lokāyata."
+  - title: "Classical palm-leaf manuscript preserving Indian philosophical schools"
+    imageUrl: "/artifacts/charvaka-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:1500-1200_BCE,_Rigveda_manuscript_page_sample_iii,_Sanskrit,_Devanagari.jpg"
+    provenance: "Ms Sarah Welch; CC BY-SA 4.0"
+    period: "14th century"
+    description: "This image shows Classical palm-leaf manuscript preserving Indian philosophical schools, selected as a defining visual reference for Cārvāka / Lokāyata."
 ---
 
 # Cārvāka / Lokāyata

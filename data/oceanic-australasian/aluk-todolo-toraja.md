@@ -37,18 +37,18 @@ sources:
   - title: 'Kathleen Adams: "Art as Politics: Re-crafting Identities, Tourism, and Power in Tana Toraja"'
     url: 'https://en.wikipedia.org/wiki/Toraja'
 artifacts:
-  - title: Kete Kesu Tongkonan Ancestral Clan Houses & Grain Sanctuaries
-    imageUrl: /artifacts/aluk-todolo-toraja-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Kete_Kesu
-    provenance: Tana Toraja, South Sulawesi, Indonesia
-    period: Classical Horizon
-    description: Sacred ancestral Tongkonan clan houses featuring sweeping boat-shaped saddleback roofs adorned with buffalo horns representing nobility and spiritual rank.
-  - title: Tau-Tau Ancestral Wooden Effigies on Cliff Balconies
-    imageUrl: /artifacts/aluk-todolo-toraja-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Tau_tau
-    provenance: Londa & Kete Kesu Rock Cliffs, Tana Toraja, Indonesia
-    period: Traditional Mortuary Horizon
-    description: Carved wooden effigies of deceased elders dressed in traditional ceremonial attire, gazing out from cliffside rock balconies to protect living descendants.
+  - title: "Carved saddle-roofed Tongkonan ancestral house"
+    imageUrl: "/artifacts/aluk-todolo-toraja-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Rumah_Adat_Tongkonan_(Toraja)_2.jpg"
+    provenance: "Ribkha Tandepadang; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Carved saddle-roofed Tongkonan ancestral house, selected as a defining visual reference for Aluk Todolo & Torajan Mortuary Religion."
+  - title: "Toraja rock cliff graves and effigy balconies"
+    imageUrl: "/artifacts/aluk-todolo-toraja-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Toraja_tumbs.jpg"
+    provenance: "Dominique Kirsner; CC BY-SA 2.5"
+    period: "Image dated 1976"
+    description: "This image shows Toraja rock cliff graves and effigy balconies, selected as a defining visual reference for Aluk Todolo & Torajan Mortuary Religion."
 ---
 
 # Aluk Todolo & Torajan Mortuary Religion

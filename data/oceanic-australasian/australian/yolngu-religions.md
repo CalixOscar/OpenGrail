@@ -48,22 +48,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Yol%C5%8Bu%20Religious%20Traditions'
 artifacts:
-  - title: Yolŋu Religious Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/yolngu-religions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Yol%C5%8Bu_Religious_Traditions'
-    provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
-    period: c. ancient and continuing
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Yolŋu Religious Traditions.
-  - title: Manikay song cycles & Sacred Relics
-    imageUrl: /artifacts/yolngu-religions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Yol%C5%8Bu_Religious_Traditions'
-    provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
-    period: c. ancient and continuing
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Yolŋu
-      Religious Traditions.
+  - title: "Traditional Yolŋu bark painting with rarrk cross-hatching"
+    imageUrl: "/artifacts/yolngu-religions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Sea_and_the_Sky_1948.jpg"
+    provenance: "Laterthanyouthink; CC BY-SA 4.0"
+    period: "Image dated 2020"
+    description: "This image shows Traditional Yolŋu bark painting with rarrk cross-hatching, selected as a defining visual reference for Yolŋu Religious Traditions."
+  - title: "Authentic Yolŋu ceremonial Yidaki (didgeridoo)"
+    imageUrl: "/artifacts/yolngu-religions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Australiandidgeridoos.jpg"
+    provenance: "Hmarin; Public domain"
+    period: "Image dated 2012"
+    description: "This image shows Authentic Yolŋu ceremonial Yidaki (didgeridoo), selected as a defining visual reference for Yolŋu Religious Traditions."
 ---
 
 # Yolŋu Religious Traditions

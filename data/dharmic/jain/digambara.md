@@ -43,22 +43,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Digambara%20Jainism'
 artifacts:
-  - title: Digambara Jainism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/digambara-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Digambara_Jainism'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. c. 1st century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Digambara Jainism.
-  - title: Ṣaṭkhaṇḍāgama & Sacred Relics
-    imageUrl: /artifacts/digambara-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Digambara_Jainism'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. c. 1st century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Digambara Jainism.
+  - title: "Gommatesvara Bahubali, supreme monumental Digambara icon"
+    imageUrl: "/artifacts/digambara-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Archival_smaller_statue_of_Gommateshwara_Bahubali_at_Jain_Vindhyagiri_pilgrimage_site_Shravanabelagola_Karnataka.jpg"
+    provenance: "Ms Sarah Welch; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Gommatesvara Bahubali, supreme monumental Digambara icon, selected as a defining visual reference for Digambara Jainism."
+  - title: "Dhavala palm-leaf manuscript of the Digambara Jain tradition"
+    imageUrl: "/artifacts/digambara-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dhavala.jpg"
+    provenance: "Hiralal Jain; Public domain"
+    period: "Image dated 2016"
+    description: "This image shows Dhavala palm-leaf manuscript of the Digambara Jain tradition, selected as a defining visual reference for Digambara Jainism."
 ---
 
 # Digambara Jainism

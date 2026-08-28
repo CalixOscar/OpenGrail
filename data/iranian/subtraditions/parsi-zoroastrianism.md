@@ -49,22 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Parsi Zoroastrianism'
     url: 'https://brill.com/search?q=Parsi%20Zoroastrianism'
 artifacts:
-  - title: Parsi Zoroastrianism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/parsi-zoroastrianism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parsi_Zoroastrianism'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 8th–10th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Parsi Zoroastrianism.
-  - title: Avesta & Sacred Relics
-    imageUrl: /artifacts/parsi-zoroastrianism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Parsi_Zoroastrianism'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 8th–10th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Parsi
-      Zoroastrianism.
+  - title: "Udvada Atash Behram, the oldest continuous Parsi fire temple in India"
+    imageUrl: "/artifacts/parsi-zoroastrianism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pundole_Agiary_Udvada.jpg"
+    provenance: "Rayo~enwiki at English Wikipedia; CC BY-SA 3.0"
+    period: "Image dated 2005"
+    description: "This image shows Udvada Atash Behram, the oldest continuous Parsi fire temple in India, selected as a defining visual reference for Parsi Zoroastrianism."
+  - title: "Parsi child undergoing the sacred Navjote investiture ceremony"
+    imageUrl: "/artifacts/parsi-zoroastrianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Parsi-navjote-sitting.jpg"
+    provenance: "use 'send mail to this user' for further info.; CC BY-SA 3.0"
+    period: "Image dated 2006"
+    description: "This image shows Parsi child undergoing the sacred Navjote investiture ceremony, selected as a defining visual reference for Parsi Zoroastrianism."
 ---
 
 # Parsi Zoroastrianism

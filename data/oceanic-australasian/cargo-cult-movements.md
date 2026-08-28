@@ -44,22 +44,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=So-Called%20Cargo%20Cult%20Movements'
 artifacts:
-  - title: So-Called Cargo Cult Movements Historical Sanctuary & Iconography
-    imageUrl: /artifacts/cargo-cult-movements-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/So-Called_Cargo_Cult_Movements'
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. late 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with So-Called Cargo Cult Movements.
-  - title: Movement-specific oral traditions & Sacred Relics
-    imageUrl: /artifacts/cargo-cult-movements-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/So-Called_Cargo_Cult_Movements'
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. late 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      So-Called Cargo Cult Movements.
+  - title: "John Frum ritual red cross shrine at Sulphur Bay, Tanna"
+    imageUrl: "/artifacts/cargo-cult-movements-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:JohnFrumCrossTanna1967.jpg"
+    provenance: "Tim Ross; CC BY 3.0"
+    period: "Image dated 1967"
+    description: "This image shows John Frum ritual red cross shrine at Sulphur Bay, Tanna, selected as a defining visual reference for So-Called Cargo Cult Movements."
+  - title: "John Frum ceremonial flag-raising ritual on Tanna"
+    imageUrl: "/artifacts/cargo-cult-movements-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:John_Frum_effigy_1960.jpg"
+    provenance: "David Attenborough; Public domain"
+    period: "Image dated 1960"
+    description: "This image shows John Frum ceremonial flag-raising ritual on Tanna, selected as a defining visual reference for So-Called Cargo Cult Movements."
 ---
 
 # So-Called Cargo Cult Movements

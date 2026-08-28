@@ -42,18 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ismailism'
     url: 'https://www.cambridge.org/core/search?q=Ismailism'
 artifacts:
-  - title: A28alamut
-    imageUrl: /artifacts/ismailism-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:A28alamut.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 8th century CE
-    description: View of Alamut besieged....
-  - title: BohrasDiv01
-    imageUrl: /artifacts/ismailism-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:BohrasDiv01.JPG'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 8th century CE
-    description: 'The divisions of the Mustaali, sometimes referred to as Bohras....'
+  - title: "Fatimid Mosque of al-Hakim, monumental Ismaili architectural legacy"
+    imageUrl: "/artifacts/ismailism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Al-Hakim_Mosque.jpg"
+    provenance: "Mohammed Moussa; CC BY-SA 3.0"
+    period: "Image dated 2014"
+    description: "This image shows Fatimid Mosque of al-Hakim, monumental Ismaili architectural legacy, selected as a defining visual reference for Ismailism."
+  - title: "Manuscript of Qadi al-Nu'man's foundational Ismaili legal text"
+    imageUrl: "/artifacts/ismailism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Frontispiece_from_the_Thirteenth_Section_of_the_Fatawi_(Legal_Opinions)_of_Qadi_Khan_LACMA_M.73.5.22.jpg"
+    provenance: "Wikimedia Commons; Public domain"
+    period: "15th century"
+    description: "This image shows Manuscript of Qadi al-Nu'man's foundational Ismaili legal text, selected as a defining visual reference for Ismailism."
 ---
 
 # Ismailism

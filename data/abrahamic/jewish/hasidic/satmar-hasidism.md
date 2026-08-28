@@ -44,22 +44,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Satmar Hasidism'
     url: 'https://www.cambridge.org/core/search?q=Satmar%20Hasidism'
 artifacts:
-  - title: Satmar Hasidism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/satmar-hasidism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Satmar_Hasidism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1905 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Satmar Hasidism.
-  - title: Hebrew Bible & Sacred Relics
-    imageUrl: /artifacts/satmar-hasidism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Satmar_Hasidism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1905 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Satmar Hasidism.
+  - title: "Portrait of Joel Teitelbaum, founding Satmar rebbe"
+    imageUrl: "/artifacts/satmar-hasidism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:SatmarRebbe36.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1936"
+    description: "This image shows Portrait of Joel Teitelbaum, founding Satmar rebbe, selected as a defining visual reference for Satmar Hasidism."
+  - title: "Main Satmar synagogue on Rodney Street in Williamsburg, Brooklyn"
+    imageUrl: "/artifacts/satmar-hasidism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Squirrels_0006.jpg"
+    provenance: "This photo was taken by participant/team The Squirrels as part of the Commons:Wikis Take Manhattan project on October 4, 2008. This file is ; CC BY-SA 3.0"
+    period: "Image dated 2008"
+    description: "This image shows Main Satmar synagogue on Rodney Street in Williamsburg, Brooklyn, selected as a defining visual reference for Satmar Hasidism."
 ---
 
 # Satmar Hasidism

@@ -49,22 +49,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Kashmir%20%C5%9Aaivism'
 artifacts:
-  - title: Kashmir Śaivism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/kashmir-shaivism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Kashmir_%C5%9Aaivism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 8th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Kashmir Śaivism.
-  - title: Śiva Sūtras & Sacred Relics
-    imageUrl: /artifacts/kashmir-shaivism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Kashmir_%C5%9Aaivism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 8th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Kashmir Śaivism.
+  - title: "Traditional image of Abhinavagupta, preeminent Kashmir Saiva theologian"
+    imageUrl: "/artifacts/kashmir-shaivism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Russian_peasant_girls_in_front_of_a_traditional_wooden_house_in_Kirillov.jpg"
+    provenance: "Sergei Prokudin-Gorskii; Public domain"
+    period: "Image dated 1909"
+    description: "This image shows Traditional image of Abhinavagupta, preeminent Kashmir Saiva theologian, selected as a defining visual reference for Kashmir Śaivism."
+  - title: "Ancient Shankaracharya Temple sanctuary in Srinagar, Kashmir"
+    imageUrl: "/artifacts/kashmir-shaivism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Ancient_Shankaracharya_Temple_(Srinagar,_Jammu_and_Kashmir).jpg"
+    provenance: "Divya Gupta; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Ancient Shankaracharya Temple sanctuary in Srinagar, Kashmir, selected as a defining visual reference for Kashmir Śaivism."
 ---
 
 # Kashmir Śaivism

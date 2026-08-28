@@ -44,22 +44,18 @@ sources:
       Christian Church
     url: 'https://www.cambridge.org/core/search?q=International%20Christian%20Church'
 artifacts:
-  - title: International Christian Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/international-christian-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/International_Christian_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 2006 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with International Christian Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/international-christian-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/International_Christian_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 2006 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      International Christian Church.
+  - title: "Kip McKean preaching within the International Christian Church movement"
+    imageUrl: "/artifacts/international-christian-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mercy_Day_2015_Caicc.jpg"
+    provenance: "Mediagirl0423; CC BY-SA 4.0"
+    period: "Image dated 2015"
+    description: "This image shows Kip McKean preaching within the International Christian Church movement, selected as a defining visual reference for International Christian Church."
+  - title: "Baptism performed by the founding City of Angels congregation"
+    imageUrl: "/artifacts/international-christian-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Angels_Melozzo_(Pinacoteca_Vaticano)_1.jpg"
+    provenance: "Melozzo da Forli; CC BY-SA 4.0"
+    period: "Image dated 1480"
+    description: "This image shows Baptism performed by the founding City of Angels congregation, selected as a defining visual reference for International Christian Church."
 ---
 
 # International Christian Church

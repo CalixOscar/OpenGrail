@@ -42,22 +42,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Inuit%20Religions'
 artifacts:
-  - title: Inuit Religions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/inuit-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Inuit_Religions'
-    provenance: 'Arctic Circle (Nuuk / Thule), Greenland'
-    period: c. ancestral era
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Inuit Religions.
-  - title: Oral traditions (region-specific) & Sacred Relics
-    imageUrl: /artifacts/inuit-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Inuit_Religions'
-    provenance: 'Arctic Circle (Nuuk / Thule), Greenland'
-    period: c. ancestral era
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Inuit
-      Religions.
+  - title: "Traditional stone Inuksuk landmark and spiritual guide"
+    imageUrl: "/artifacts/inuit-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nova_Scotia_NS-00701_-_Inuksuk_(26806721523).jpg"
+    provenance: "Dennis G. Jarvis; CC BY-SA 2.0"
+    period: "Image dated 2016"
+    description: "This image shows Traditional stone Inuksuk landmark and spiritual guide, selected as a defining visual reference for Inuit Religions."
+  - title: "Inuit traditional carved ivory or stone ritual talisman"
+    imageUrl: "/artifacts/inuit-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Four_carved_ivory_amulets,_Eskimo._Wellcome_L0008603.jpg"
+    provenance: "Wikimedia Commons; CC BY 4.0"
+    period: "Digital file published 2014"
+    description: "This image shows Inuit traditional carved ivory or stone ritual talisman, selected as a defining visual reference for Inuit Religions."
 ---
 
 # Inuit Religions

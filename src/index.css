@@ -1152,6 +1152,43 @@ button,
   pointer-events: none;
 }
 
+/* Stage Watermark Branding */
+.stage-watermark {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+  user-select: none;
+  z-index: 0;
+}
+
+.stage-watermark__inner {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  transform: translateY(-8px);
+}
+
+.stage-watermark__title {
+  font-size: clamp(72px, 8.5vw, 108px);
+  font-weight: 800;
+  line-height: 0.92;
+  letter-spacing: -0.035em;
+  color: rgba(38, 70, 118, 0.28);
+  text-shadow: 0 0 45px rgba(25, 55, 100, 0.22);
+}
+
+.stage-watermark__byline {
+  font-size: clamp(12px, 1.2vw, 15px);
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  color: rgba(50, 90, 145, 0.34);
+  margin-top: 5px;
+  padding-right: 4px;
+}
+
 .graph-canvas,
 .graph-canvas__container,
 .graph-canvas__surface {
@@ -1159,6 +1196,7 @@ button,
   inset: 0;
   width: 100%;
   height: 100%;
+  z-index: 1;
 }
 
 .graph-canvas canvas {
@@ -2062,8 +2100,9 @@ button,
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background: #0f1117;
+  background: transparent;
   user-select: none;
+  z-index: 1;
 }
 
 .world-map-canvas {

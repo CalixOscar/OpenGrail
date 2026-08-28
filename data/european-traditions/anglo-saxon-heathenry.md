@@ -50,22 +50,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Anglo-Saxon Heathenry'
     url: 'https://brill.com/search?q=Anglo-Saxon%20Heathenry'
 artifacts:
-  - title: Anglo-Saxon Heathenry Historical Sanctuary & Iconography
-    imageUrl: /artifacts/anglo-saxon-heathenry-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Anglo-Saxon_Heathenry'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. 1970s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Anglo-Saxon Heathenry.
-  - title: Old English poetic corpus & Sacred Relics
-    imageUrl: /artifacts/anglo-saxon-heathenry-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Anglo-Saxon_Heathenry'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. 1970s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Anglo-Saxon Heathenry.
+  - title: "Anglo-Saxon Woden bracteate"
+    imageUrl: "/artifacts/anglo-saxon-heathenry-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Anglo-Saxon_copper_alloy_anthropomorphic_figurine_(FindID_812120).jpg"
+    provenance: "Lincolnshire County Council, Adam Daubney, 2016-11-03 10:55:17; CC BY 2.0"
+    period: "Object or image dated 1000"
+    description: "This image shows Anglo-Saxon Woden bracteate, selected as a defining visual reference for Anglo-Saxon Heathenry."
+  - title: "Sutton Hoo ceremonial helmet"
+    imageUrl: "/artifacts/anglo-saxon-heathenry-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Original_Sutton_Hoo_Helmet.jpg"
+    provenance: "Michel wal ( Own work ); CC BY-SA 3.0"
+    period: "7th century AD"
+    description: "This image shows Sutton Hoo ceremonial helmet, selected as a defining visual reference for Anglo-Saxon Heathenry."
 ---
 
 # Anglo-Saxon Heathenry

@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Naqshbandiyya'
     url: 'https://www.cambridge.org/core/search?q=Naqshbandiyya'
 artifacts:
-  - title: 5741-Linxia-Huasi-Gongbei
-    imageUrl: /artifacts/naqshbandiyya-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:5741-Linxia-Huasi-Gongbei.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 14th century CE
-    description: >-
-      Huasi Gongbei in Linxia City. Includes Ma Laichi's Mausoleum, a mosque, an
-      ablutions block, etc...
-  - title: Quran & Sacred Relics
-    imageUrl: /artifacts/naqshbandiyya-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:5741-Linxia-Huasi-Gongbei.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 14th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Naqshbandiyya.
+  - title: "Mausoleum of Baha al-Din Naqshband near Bukhara"
+    imageUrl: "/artifacts/naqshbandiyya-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bakhauddin_Nakhshbandi_Shrine,_near_Bukhara_(484611).jpg"
+    provenance: "upyernoz from Haverford, USA; CC BY 2.0"
+    period: "Image dated 2004"
+    description: "This image shows Mausoleum of Baha al-Din Naqshband near Bukhara, selected as a defining visual reference for Naqshbandiyya."
+  - title: "Naqshbandi communal practice of silent remembrance"
+    imageUrl: "/artifacts/naqshbandiyya-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Silsila_Naqshbandi.jpg"
+    provenance: "Wilayatalikhan; Public domain"
+    period: "Digital file published 2010"
+    description: "This image shows Naqshbandi communal practice of silent remembrance, selected as a defining visual reference for Naqshbandiyya."
 ---
 
 # Naqshbandiyya

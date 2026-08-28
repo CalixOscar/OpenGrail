@@ -42,22 +42,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ter%C4%81panth%20Jainism'
 artifacts:
-  - title: Terāpanth Jainism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/terapanth-jainism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ter%C4%81panth_Jainism'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. 1760 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Terāpanth Jainism.
-  - title: Śvetāmbara Āgamas & Sacred Relics
-    imageUrl: /artifacts/terapanth-jainism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ter%C4%81panth_Jainism'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. 1760 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Terāpanth Jainism.
+  - title: "Acarya Bhiksu, founder of Terapanth Jainism"
+    imageUrl: "/artifacts/terapanth-jainism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Acharya_Shree_Bhikshu_Painting.jpg"
+    provenance: "King Rishab Dugar; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Acarya Bhiksu, founder of Terapanth Jainism, selected as a defining visual reference for Terāpanth Jainism."
+  - title: "Jain Vishva Bharati at Ladnun, a major Terapanth institution"
+    imageUrl: "/artifacts/terapanth-jainism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Acharya_Mahapragya.jpg"
+    provenance: "Terapanth; Public domain"
+    period: "Image dated 2009"
+    description: "This image shows Jain Vishva Bharati at Ladnun, a major Terapanth institution, selected as a defining visual reference for Terāpanth Jainism."
 ---
 
 # Terāpanth Jainism

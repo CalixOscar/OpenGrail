@@ -45,22 +45,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Mongolian%20Shamanic%20Traditions'
 artifacts:
-  - title: Mongolian Shamanic Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/mongolian-shamanism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mongolian_Shamanic_Traditions'
-    provenance: 'Orkhon Valley (Karakorum), Mongolia'
-    period: c. ancient; continuously developing
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Mongolian Shamanic Traditions.
-  - title: Oral invocations and genealogies & Sacred Relics
-    imageUrl: /artifacts/mongolian-shamanism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mongolian_Shamanic_Traditions'
-    provenance: 'Orkhon Valley (Karakorum), Mongolia'
-    period: c. ancient; continuously developing
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Mongolian Shamanic Traditions.
+  - title: "Mongolian ovoo sacred stone cairn draped with khadag"
+    imageUrl: "/artifacts/mongolian-shamanism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mongolian_sacred_mountain_Chingeltei_Uul.jpg"
+    provenance: "Martin Vorel; CC BY-SA 2.0"
+    period: "Image dated 2007"
+    description: "This image shows Mongolian ovoo sacred stone cairn draped with khadag, selected as a defining visual reference for Mongolian Shamanic Traditions."
+  - title: "Mongolian shaman ritual regalia with brass toli mirror and drum"
+    imageUrl: "/artifacts/mongolian-shamanism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mongolian_Traditional_Culture_Shaman_Costume_(35577599171).jpg"
+    provenance: "Gary Todd from Xinzheng, China; CC0"
+    period: "Image dated 2017"
+    description: "This image shows Mongolian shaman ritual regalia with brass toli mirror and drum, selected as a defining visual reference for Mongolian Shamanic Traditions."
 ---
 
 # Mongolian Shamanic Traditions

@@ -46,20 +46,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & The New Church'
     url: 'https://www.cambridge.org/core/search?q=The%20New%20Church'
 artifacts:
-  - title: Swedenborgian cross
-    imageUrl: /artifacts/swedenborgianism-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Swedenborgian_cross.PNG'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1787 CE
-    description: Cross of Swedenborgianism and The New Church...
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/swedenborgianism-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Swedenborgian_cross.PNG'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1787 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of The
-      New Church (Swedenborgianism).
+  - title: "Portrait of Emanuel Swedenborg, visionary theologian of the New Church"
+    imageUrl: "/artifacts/swedenborgianism-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Emanuel_Swedenborg.PNG"
+    provenance: "Carl Frederik von Breda; Public domain"
+    period: "Image dated 1818"
+    description: "This image shows Portrait of Emanuel Swedenborg, visionary theologian of the New Church, selected as a defining visual reference for The New Church (Swedenborgianism)."
+  - title: "Bryn Athyn Cathedral, monumental Swedenborgian sanctuary"
+    imageUrl: "/artifacts/swedenborgianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bryn_Athyn_Cathedral.jpg"
+    provenance: "Coemgenus at English Wikipedia ( Original text: en:User:Coemgenus ); Public domain"
+    period: "Image dated 2006"
+    description: "This image shows Bryn Athyn Cathedral, monumental Swedenborgian sanctuary, selected as a defining visual reference for The New Church (Swedenborgianism)."
 ---
 
 # The New Church (Swedenborgianism)

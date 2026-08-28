@@ -51,22 +51,18 @@ sources:
       Movement
     url: 'https://www.cambridge.org/core/search?q=Latter%20Day%20Saint%20Movement'
 artifacts:
-  - title: Latter Day Saint Movement Historical Sanctuary & Iconography
-    imageUrl: /artifacts/latter-day-saint-movement-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_Movement'
-    provenance: 'Salt Lake City (Temple Square), Utah, USA'
-    period: c. 1830 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Latter Day Saint Movement.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/latter-day-saint-movement-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_Movement'
-    provenance: 'Salt Lake City (Temple Square), Utah, USA'
-    period: c. 1830 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Latter Day Saint Movement.
+  - title: "Historical portrait of Joseph Smith, founder of the Latter Day Saint movement"
+    imageUrl: "/artifacts/latter-day-saint-movement-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Joseph_Smith,_Jr._portrait_owned_by_Joseph_Smith_III.jpg"
+    provenance: "Likely William Warner Major see https://web.archive.org/web/20230122022915/http://silverepicent.com/photofound/photofound/Photograph_Found/A; Public domain"
+    period: "Image dated 1842"
+    description: "This image shows Historical portrait of Joseph Smith, founder of the Latter Day Saint movement, selected as a defining visual reference for Latter Day Saint Movement."
+  - title: "First edition of the Book of Mormon"
+    imageUrl: "/artifacts/latter-day-saint-movement-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:1841_Book_of_Mormon_open_to_title_page.jpg"
+    provenance: "Prosfilaes; CC0"
+    period: "Image dated 1841"
+    description: "This image shows First edition of the Book of Mormon, selected as a defining visual reference for Latter Day Saint Movement."
 ---
 
 # Latter Day Saint Movement

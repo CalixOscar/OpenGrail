@@ -40,20 +40,18 @@ sources:
   - title: 'UNESCO World Heritage: Angkor'
     url: 'https://whc.unesco.org/en/list/668/'
 artifacts:
-  - title: Angkor Wat (Temple of Vishnu & Cosmic Mountain of Meru)
-    imageUrl: /artifacts/khmer-devaraja-cult-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Angkor_Wat
-    provenance: Siem Reap Province, Cambodia
-    period: c. 1113–1150 CE (Reign of Suryavarman II)
-    description: >-
-      The largest religious monument in the world, engineered with five lotus-shaped towers representing the peaks of Mount Meru and enclosed by a massive moat representing the cosmic ocean.
-  - title: Bayon Temple 216 Serene Bodhisattva Face Towers
-    imageUrl: /artifacts/khmer-devaraja-cult-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Bayon
-    provenance: Angkor Thom, Cambodia
-    period: c. late 12th century CE (Reign of Jayavarman VII)
-    description: >-
-      Masterpiece state temple of Jayavarman VII featuring 54 Gothic-style sandstone towers carved with over 200 smiling colossal faces of the Bodhisattva of Compassion Avalokiteshvara.
+  - title: "Khmer royal Siva linga embodying the devaraja cult"
+    imageUrl: "/artifacts/khmer-devaraja-cult-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dancers-royales-de-pnom-penh-angkor-unknown-koditek-album-1_f7a675f808d4d45cfba2245a4e9bdc5b.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Digital file published 2026"
+    description: "This image shows Khmer royal Siva linga embodying the devaraja cult, selected as a defining visual reference for Khmer Angkorian Devaraja (God-King) Religion."
+  - title: "Sdok Kok Thom stele recording the origin of the devaraja rite"
+    imageUrl: "/artifacts/khmer-devaraja-cult-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Prasat_Sdok_Kok_Thom-001.jpg"
+    provenance: "Ddalbiez; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Sdok Kok Thom stele recording the origin of the devaraja rite, selected as a defining visual reference for Khmer Angkorian Devaraja (God-King) Religion."
 ---
 
 # Khmer Angkorian Devaraja (God-King) Religion

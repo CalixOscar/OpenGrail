@@ -43,22 +43,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Western Esotericism'
     url: 'https://brill.com/search?q=Western%20Esotericism'
 artifacts:
-  - title: Western Esotericism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/western-esotericism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Esotericism'
-    provenance: 'London, England, UK'
-    period: c. late antiquity; modern category
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Western Esotericism.
-  - title: Corpus Hermeticum & Sacred Relics
-    imageUrl: /artifacts/western-esotericism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Western_Esotericism'
-    provenance: 'London, England, UK'
-    period: c. late antiquity; modern category
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Western Esotericism.
+  - title: "Fludd's Hermetic-Kabbalistic diagram"
+    imageUrl: "/artifacts/western-esotericism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tree_of_Life_Fludd.jpg"
+    provenance: "Robert Fludd; Public domain"
+    period: "Image dated 1621"
+    description: "This image shows Fludd's Hermetic-Kabbalistic diagram, selected as a defining visual reference for Western Esotericism."
+  - title: "Renaissance occult-philosophy text"
+    imageUrl: "/artifacts/western-esotericism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pleiades.JPG"
+    provenance: "Hans Bernhard ( Schnobby ); CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Renaissance occult-philosophy text, selected as a defining visual reference for Western Esotericism."
 ---
 
 # Western Esotericism

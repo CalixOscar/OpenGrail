@@ -48,22 +48,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Ashur'
     url: 'https://brill.com/search?q=Cult%20of%20Ashur'
 artifacts:
-  - title: Cult of Ashur Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ashur-cult-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Ashur'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2000 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Cult of Ashur.
-  - title: Assyrian royal inscriptions & Sacred Relics
-    imageUrl: /artifacts/ashur-cult-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Ashur'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2000 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
-      of Ashur.
+  - title: "Winged image of Ashur"
+    imageUrl: "/artifacts/ashur-cult-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:ASSYRIE_et_BABYLONIE_-_ASSYRIA_and_BABYLONIA_Public_domain_book_illustration_from_French_encyclopedia_Larousse_du_XX%C3%A8me_si%C3%A8cle_1932.jpg"
+    provenance: "EN NOIR & BLANC; CC0"
+    period: "3000 BC"
+    description: "This image shows Winged image of Ashur, selected as a defining visual reference for Cult of Ashur."
+  - title: "Temple of Ashur"
+    imageUrl: "/artifacts/ashur-cult-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:God_Ea_(Sumerian_Enki),_flanked_by_fish-cloaked_apkallus,_part_of_a_basalt_water_basin_from_Assur,_Iraq._Reign_of_Sennacherib,_7th_century_BCE._Pergamon_Museum.jpg"
+    provenance: "Osama Shukir Muhammed Amin FRCP(Glasg); CC BY-SA 4.0"
+    period: "7th century BCE"
+    description: "This image shows Temple of Ashur, selected as a defining visual reference for Cult of Ashur."
 ---
 
 # Cult of Ashur

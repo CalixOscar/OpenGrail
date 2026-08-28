@@ -41,22 +41,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=State%20Shinto'
 artifacts:
-  - title: State Shinto Historical Sanctuary & Iconography
-    imageUrl: /artifacts/state-shinto-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/State_Shinto'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 1868 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with State Shinto.
-  - title: Imperial Rescript on Education & Sacred Relics
-    imageUrl: /artifacts/state-shinto-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/State_Shinto'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 1868 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of State
-      Shinto.
+  - title: "Meiji imperial sacred portrait"
+    imageUrl: "/artifacts/state-shinto-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Black_and_white_portrait_of_emperor_Meiji_of_Japan_in_1888.jpg"
+    provenance: "Artist: Eduardo Chiossone (1833–98); Photographer: Maruki Riyo (also misspelt as Maruki Toshiaki); Public domain"
+    period: "Image dated 1888"
+    description: "This image shows Meiji imperial sacred portrait, selected as a defining visual reference for State Shinto."
+  - title: "State Shinto Yasukuni sanctuary"
+    imageUrl: "/artifacts/state-shinto-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hitlerjugend_visit_to_Yasukuni_Shrine_State_Shint%C5%8D_wreath_procession_kannushi_1938.jpg"
+    provenance: "Sekai Gaho (世界画報) Pictorial World October 1938 published by Kokusai Joho Shashin Tokyo Japan (now Tokyo Kokusai Johosha?); Public domain"
+    period: "Image dated 1938"
+    description: "This image shows State Shinto Yasukuni sanctuary, selected as a defining visual reference for State Shinto."
 ---
 
 # State Shinto

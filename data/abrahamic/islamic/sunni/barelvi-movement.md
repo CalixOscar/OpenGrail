@@ -52,22 +52,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Barelvi Movement'
     url: 'https://www.cambridge.org/core/search?q=Barelvi%20Movement'
 artifacts:
-  - title: Barelvi Movement Historical Sanctuary & Iconography
-    imageUrl: /artifacts/barelvi-movement-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Barelvi_Movement'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. late 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Barelvi Movement.
-  - title: Quran & Sacred Relics
-    imageUrl: /artifacts/barelvi-movement-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Barelvi_Movement'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. late 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Barelvi Movement.
+  - title: "Portrait of Ahmad Raza Khan, founder of the Barelvi movement"
+    imageUrl: "/artifacts/barelvi-movement-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ahmad_Raza_Khan_Barelvi.png"
+    provenance: "SPQR10; CC BY-SA 3.0"
+    period: "Image dated 2019"
+    description: "This image shows Portrait of Ahmad Raza Khan, founder of the Barelvi movement, selected as a defining visual reference for Barelvi Movement."
+  - title: "Dargah of Ahmad Raza Khan at Bareilly"
+    imageUrl: "/artifacts/barelvi-movement-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Barielly_Sharif_Dargah_Barielly_UP.jpg"
+    provenance: "MLD9; CC BY-SA 4.0"
+    period: "Image dated 2019"
+    description: "This image shows Dargah of Ahmad Raza Khan at Bareilly, selected as a defining visual reference for Barelvi Movement."
 ---
 
 # Barelvi Movement

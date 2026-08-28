@@ -35,20 +35,18 @@ sources:
   - title: 'UNESCO World Heritage: Rock-Hewn Churches, Lalibela'
     url: 'https://whc.unesco.org/en/list/18/'
 artifacts:
-  - title: Bete Giyorgis (Church of St. George) Monolithic Rock Cross
-    imageUrl: /artifacts/ethiopian-orthodox-tewahedo-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Church_of_Saint_George,_Lalibela
-    provenance: Lalibela, Amhara Region, Ethiopia
-    period: c. 12th–13th century CE (Reign of King Lalibela)
-    description: >-
-      World-famous Greek-cross shaped church carved downward 30 feet directly into solid red volcanic tuff, engineered as an earthly New Jerusalem.
-  - title: Monumental Stela of King Ezana at Axum
-    imageUrl: /artifacts/ethiopian-orthodox-tewahedo-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Kingdom_of_Aksum
-    provenance: Axum, Tigray Region, Ethiopia
-    period: c. 4th century CE
-    description: >-
-      24-meter-tall granite monolithic obelisk carved to represent a multi-story palace, marking the capital where Christianity was adopted as state religion under King Ezana in 330 CE.
+  - title: "Cross-shaped rock-hewn Church of Saint George at Lalibela"
+    imageUrl: "/artifacts/ethiopian-orthodoxy-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Church_of_Bet_Giyorgis,_Lalibela,_Ethiopia_(3279437544).jpg"
+    provenance: "A. Davey from Where I Live Now: Pacific Northwest; CC BY 2.0"
+    period: "13th century"
+    description: "This image shows Cross-shaped rock-hewn Church of Saint George at Lalibela, selected as a defining visual reference for Ethiopian Orthodoxy."
+  - title: "Ancient illuminated Garima Gospels in the Ge'ez tradition"
+    imageUrl: "/artifacts/ethiopian-orthodoxy-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Garima-Gospels-1.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "6 th century"
+    description: "This image shows Ancient illuminated Garima Gospels in the Ge'ez tradition, selected as a defining visual reference for Ethiopian Orthodoxy."
 ---
 
 # Ethiopian Orthodoxy

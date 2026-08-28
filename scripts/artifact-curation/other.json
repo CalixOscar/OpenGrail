@@ -1,0 +1,2692 @@
+{
+  "baltic-religion": [
+    {
+      "query": "House of Perkunas Kaunas red brick",
+      "intent": "The House of Perkūnas, sacred site in Kaunas"
+    },
+    {
+      "query": "Birute Hill Palanga Baltic",
+      "intent": "Birutė Hill sanctuary"
+    }
+  ],
+  "celtic-religion": [
+    {
+      "query": "Gundestrup Cauldron Cernunnos",
+      "intent": "Gundestrup Cernunnos panel"
+    },
+    {
+      "query": "Chateau de Gournay sur Aronde sanctuary France",
+      "intent": "Gournay-sur-Aronde archaeological sanctuary site in France"
+    }
+  ],
+  "finnish-religion": [
+    {
+      "query": "finnish religion Ukko",
+      "intent": "Ukko hammer amulet"
+    },
+    {
+      "query": "Karelian rune singer kantele",
+      "intent": "Karelian rune-singing tradition"
+    }
+  ],
+  "gaelic-polytheism": [
+    {
+      "query": "Stone of Turoe La Tene Ireland",
+      "intent": "Turoe ceremonial stone with intricate Celtic spiral carvings"
+    },
+    {
+      "query": "Navan Fort Emain Macha",
+      "intent": "Emain Macha ceremonial complex"
+    }
+  ],
+  "gaulish-religion": [
+    {
+      "query": "Pillar of the Boatmen",
+      "intent": "Pillar of the Boatmen deities"
+    },
+    {
+      "query": "Gaulish sanctuary at",
+      "intent": "Gaulish sanctuary at Gournay"
+    }
+  ],
+  "norse-religion": [
+    {
+      "query": "Tjangvide image stone Odin Sleipnir Gotland",
+      "intent": "Odin on the Tjängvide image stone"
+    },
+    {
+      "query": "Thor hammer pendant Skane silver archaeological museum",
+      "intent": "Viking-age Thor's hammer pendant"
+    }
+  ],
+  "slavic-religion": [
+    {
+      "query": "Zbruch Idol Slavic deity",
+      "intent": "Zbruch cult idol"
+    },
+    {
+      "query": "Jaromarsburg Arkona Slavic sanctuary",
+      "intent": "Arkona sanctuary of Svantevit"
+    }
+  ],
+  "neolithic-megalithic-religions": [
+    {
+      "query": "Newgrange entrance stone triple",
+      "intent": "Newgrange spiral sacred art"
+    },
+    {
+      "query": "Stonehenge summer solstice sunrise standing stones",
+      "intent": "Stonehenge solar sanctuary"
+    }
+  ],
+  "ancient-greek-religion": [
+    {
+      "query": "Artemision Bronze Zeus National Archaeological Museum Athens",
+      "intent": "Artemision Zeus bronze"
+    },
+    {
+      "query": "Temple of Apollo Delphi sanctuary ruins",
+      "intent": "Delphic sanctuary of Apollo"
+    }
+  ],
+  "cult-of-isis": [
+    {
+      "query": "Isis nursing Horus statue Egyptian museum",
+      "intent": "Isis lactans cult statue"
+    },
+    {
+      "query": "Temple of Isis Philae sanctuary",
+      "intent": "Temple of Isis at Philae"
+    }
+  ],
+  "eleusinian-mysteries": [
+    {
+      "query": "NAMA Mystères d'Eleusis",
+      "intent": "Ninnion initiation tablet from Eleusis"
+    },
+    {
+      "query": "Telesterion Eleusis sanctuary ruins",
+      "intent": "Eleusinian Telesterion"
+    }
+  ],
+  "hellenistic-religion": [
+    {
+      "query": "Alexander the Great Zeus Ammon silver coin",
+      "intent": "Alexander as Zeus-Ammon"
+    },
+    {
+      "query": "Pergamon Altar Gigantomachy Athena relief",
+      "intent": "Pergamon Altar sacred relief"
+    }
+  ],
+  "mithraism": [
+    {
+      "query": "Mithras tauroctony marble relief Roman",
+      "intent": "Mithraic tauroctony relief"
+    },
+    {
+      "query": "Mithraeum Santa Maria Capua Vetere interior",
+      "intent": "Capua Mithraeum"
+    }
+  ],
+  "asclepius-cult": [
+    {
+      "query": "Asclepius statue Epidaurus National Archaeological Museum",
+      "intent": "Cult statue of Asclepius"
+    },
+    {
+      "query": "Asclepieion Epidaurus tholos abaton",
+      "intent": "Epidaurian healing sanctuary"
+    }
+  ],
+  "cybele-attis-cult": [
+    {
+      "query": "Cybele lion throne cult statue Roman museum",
+      "intent": "Cybele with lions cult image"
+    },
+    {
+      "query": "Temple of Magna Mater Palatine archaeological remains",
+      "intent": "Palatine sanctuary of Magna Mater"
+    }
+  ],
+  "dionysian-mysteries": [
+    {
+      "query": "Villa of the Mysteries Dionysian fresco Pompeii",
+      "intent": "Dionysian initiation fresco"
+    },
+    {
+      "query": "Villa dei Misteri",
+      "intent": "Dionysian initiatory gold tablet"
+    }
+  ],
+  "samothracian-mysteries": [
+    {
+      "query": "Winged Victory of Samothrace Louvre",
+      "intent": "Samothracian votive Nike"
+    },
+    {
+      "query": "Sanctuary of the Great Gods Samothrace Hieron",
+      "intent": "Samothracian sanctuary"
+    }
+  ],
+  "serapis-cult": [
+    {
+      "query": "Serapis bust cult statue Greco Egyptian",
+      "intent": "Cult image of Serapis"
+    },
+    {
+      "query": "Serapeum Alexandria Pompey Pillar archaeological",
+      "intent": "Alexandrian Serapeum"
+    }
+  ],
+  "neoplatonism": [
+    {
+      "query": "Plotinus portrait philosopher sarcophagus Ostia",
+      "intent": "Ancient portrait associated with Plotinus"
+    },
+    {
+      "query": "Proclus Elements of Theology Greek manuscript",
+      "intent": "Manuscript of Proclus's theology"
+    }
+  ],
+  "orphism": [
+    {
+      "query": "Derveni Papyrus Archaeological Museum Thessaloniki",
+      "intent": "Derveni Papyrus"
+    },
+    {
+      "query": "Orphic gold tablet Hipponion museum",
+      "intent": "Orphic funerary gold tablet"
+    }
+  ],
+  "epicureanism": [
+    {
+      "query": "Epicurus bust Capitoline Museum",
+      "intent": "Portrait bust of Epicurus"
+    },
+    {
+      "query": "Villa of the Papyri Herculaneum Epicurean library",
+      "intent": "Villa of the Papyri library"
+    }
+  ],
+  "middle-platonism": [
+    {
+      "query": "Plutarch portrait bust Chaeronea",
+      "intent": "Portrait of Plutarch"
+    },
+    {
+      "query": "Plutarch Moralia Byzantine Greek manuscript",
+      "intent": "Manuscript of Plutarch's Moralia"
+    }
+  ],
+  "pythagoreanism": [
+    {
+      "query": "Pythagoras portrait coin Samos",
+      "intent": "Ancient Pythagoras portrait"
+    },
+    {
+      "query": "Porta Maggiore Basilica Rome",
+      "intent": "Porta Maggiore ritual basilica"
+    }
+  ],
+  "stoicism": [
+    {
+      "query": "Zeno of Citium bust Naples",
+      "intent": "Portrait bust of Zeno"
+    },
+    {
+      "query": "Stoa Poikile Athens archaeological excavation",
+      "intent": "Painted Stoa philosophical site"
+    }
+  ],
+  "roman-imperial-cult": [
+    {
+      "query": "Augustus of Prima Porta statue Vatican",
+      "intent": "Deified imperial image of Augustus"
+    },
+    {
+      "query": "Temple of Augustus and Livia Vienne France",
+      "intent": "Provincial imperial-cult temple"
+    }
+  ],
+  "roman-religion": [
+    {
+      "query": "Capitoline Triad Jupiter Juno Minerva relief",
+      "intent": "Capitoline Triad sacred art"
+    },
+    {
+      "query": "Temple of Vesta Roman Forum sanctuary",
+      "intent": "Temple of Vesta"
+    }
+  ],
+  "kushite-nubian-religion": [
+    {
+      "query": "ram sphinx Taharqa Amun British Museum",
+      "intent": "Kushite ram sphinx of Amun"
+    },
+    {
+      "query": "Jebel Barkal Temple of Amun ruins",
+      "intent": "Jebel Barkal sanctuary of Amun"
+    }
+  ],
+  "akkadian-religion": [
+    {
+      "query": "Adda Seal Akkadian gods British Museum",
+      "intent": "Akkadian Adda cylinder seal"
+    },
+    {
+      "query": "Victory Stele Naram-Sin Louvre",
+      "intent": "Divinized Naram-Sin victory stele"
+    }
+  ],
+  "ancient-egyptian-religion": [
+    {
+      "query": "Papyrus of Ani weighing of the heart British Museum",
+      "intent": "Weighing of the Heart vignette"
+    },
+    {
+      "query": "Karnak Temple Amun hypostyle hall",
+      "intent": "Karnak temple complex"
+    }
+  ],
+  "assyrian-religion": [
+    {
+      "query": "Lamassu Khorsabad Sargon II Louvre",
+      "intent": "Assyrian lamassu guardian"
+    },
+    {
+      "query": "Nimrud sacred tree relief winged genies British Museum",
+      "intent": "Assyrian sacred-tree relief"
+    }
+  ],
+  "babylonian-religion": [
+    {
+      "query": "Marduk and mušḫuššu image",
+      "intent": "Marduk and mušḫuššu image"
+    },
+    {
+      "query": "Ishtar Gate Babylon Pergamon Museum",
+      "intent": "Ishtar Gate of Babylon"
+    }
+  ],
+  "canaanite-religion": [
+    {
+      "query": "Baal thunderbolt stele Ugarit Louvre",
+      "intent": "Baal storm-god stele"
+    },
+    {
+      "query": "Hazor Canaanite temple",
+      "intent": "Hazor Canaanite sanctuary"
+    }
+  ],
+  "amun-cult-thebes": [
+    {
+      "query": "Amun Ra cult statue",
+      "intent": "Cult image of Amun-Ra"
+    },
+    {
+      "query": "Karnak Great Temple of Amun sanctuary",
+      "intent": "Great Temple of Amun at Karnak"
+    }
+  ],
+  "atenism": [
+    {
+      "query": "Akhenaten family under Aten rays Berlin relief",
+      "intent": "Amarna royal family beneath Aten"
+    },
+    {
+      "query": "Great Temple of Aten Amarna archaeological ruins",
+      "intent": "Great Aten Temple at Akhetaten"
+    }
+  ],
+  "heliopolitan-theology": [
+    {
+      "query": "Ra Horakhty sun disk",
+      "intent": "Ra-Horakhty cult image"
+    },
+    {
+      "query": "Al-Masalla obelisk Heliopolis temple Ra",
+      "intent": "Heliopolitan solar-temple obelisk"
+    }
+  ],
+  "memphite-theology": [
+    {
+      "query": "Shabaka Stone British Museum",
+      "intent": "Shabaka Stone theology inscription"
+    },
+    {
+      "query": "Ptah cult statue Egyptian Museum",
+      "intent": "Memphite cult image of Ptah"
+    }
+  ],
+  "osiris-cult": [
+    {
+      "query": "Osiris green skin cult statue Egyptian museum",
+      "intent": "Cult image of Osiris"
+    },
+    {
+      "query": "Osireion Abydos Seti I temple",
+      "intent": "Osireion sanctuary at Abydos"
+    }
+  ],
+  "hittite-religion": [
+    {
+      "query": "Yazilikaya relief procession",
+      "intent": "Yazılıkaya divine procession"
+    },
+    {
+      "query": "Great Temple Hattusa archaeological",
+      "intent": "Great Temple of Hattusa"
+    }
+  ],
+  "hurrian-religion": [
+    {
+      "query": "Yazilikaya Teshub Hebat Hurrian",
+      "intent": "Teshub and Hebat relief"
+    },
+    {
+      "query": "Hurrian Hymn Nikkal cuneiform tablet Ugarit",
+      "intent": "Hurrian hymn tablet"
+    }
+  ],
+  "ammonite-religion": [
+    {
+      "query": "ammonite religion Ammonite",
+      "intent": "Ammonite cult statue"
+    },
+    {
+      "query": "Tell Siran inscription bronze",
+      "intent": "Tell Siran votive inscription"
+    }
+  ],
+  "ancient-arabian-religions": [
+    {
+      "query": "Almaqah South Arabian",
+      "intent": "South Arabian image of Almaqah"
+    },
+    {
+      "query": "Temple of Awwam Marib Mahram Bilqis",
+      "intent": "Awwam sanctuary at Marib"
+    }
+  ],
+  "edomite-religion": [
+    {
+      "query": "Horvat Qitmit Edomite",
+      "intent": "Horvat Qitmit cult stand"
+    },
+    {
+      "query": "Horvat Qitmit Edomite sanctuary shrine",
+      "intent": "Horvat Qitmit Edomite cultic sanctuary and figurines"
+    }
+  ],
+  "moabite-religion": [
+    {
+      "query": "Mesha Stele Louvre",
+      "intent": "The Mesha Stele in the Louvre"
+    },
+    {
+      "query": "Mesha Stele (511142469)",
+      "intent": "Detail of the Mesha Stele inscription"
+    }
+  ],
+  "nabataean-religion": [
+    {
+      "query": "Dushara baetyl Petra",
+      "intent": "Nabataean baetyl of Dushara"
+    },
+    {
+      "query": "Qasr al-Bint Petra Nabataean",
+      "intent": "Qasr al-Bint sanctuary"
+    }
+  ],
+  "philistine-religion": [
+    {
+      "query": "philistine religion Philistine",
+      "intent": "Philistine Ashdoda cult figurine"
+    },
+    {
+      "query": "Ekron Royal Dedicatory Inscription Philistine",
+      "intent": "Ekron temple inscription"
+    }
+  ],
+  "ugaritic-religion": [
+    {
+      "query": "Baal with thunderbolt Ugarit stele Louvre",
+      "intent": "Ugaritic Baal stele"
+    },
+    {
+      "query": "Baal Cycle Ugaritic",
+      "intent": "Baal Cycle tablet"
+    }
+  ],
+  "ashur-cult": [
+    {
+      "query": "god Ashur winged disk Assyrian relief",
+      "intent": "Winged image of Ashur"
+    },
+    {
+      "query": "Temple of Ashur Assur Qalat Sherqat ruins",
+      "intent": "Temple of Ashur"
+    }
+  ],
+  "enki-ea-cult": [
+    {
+      "query": "Adda cylinder seal Enki",
+      "intent": "Enki on the Adda seal"
+    },
+    {
+      "query": "Eridu archaeological site mound Sumerian",
+      "intent": "Ancient tell and temple ruins at Eridu"
+    }
+  ],
+  "enlil-cult-nippur": [
+    {
+      "query": "Enlil enthroned Mesopotamian cylinder seal",
+      "intent": "Cult image of Enlil"
+    },
+    {
+      "query": "Nippur ziggurat",
+      "intent": "Ekur sanctuary at Nippur"
+    }
+  ],
+  "inanna-ishtar-cult": [
+    {
+      "query": "Warka Vase Inanna",
+      "intent": "Warka Vase offering procession"
+    },
+    {
+      "query": "Eanna temple precinct Uruk",
+      "intent": "Eanna sanctuary at Uruk"
+    }
+  ],
+  "marduk-cult": [
+    {
+      "query": "Marduk with mušḫuššu dragon",
+      "intent": "Marduk with mušḫuššu dragon"
+    },
+    {
+      "query": "Esagila temple Marduk Babylon ruins",
+      "intent": "Esagila sanctuary"
+    }
+  ],
+  "nanna-sin-cult": [
+    {
+      "query": "Nanna Sin crescent moon",
+      "intent": "Lunar emblem of Nanna-Sîn"
+    },
+    {
+      "query": "Great Ziggurat of Ur Nanna temple",
+      "intent": "Nanna's ziggurat at Ur"
+    }
+  ],
+  "phoenician-religion": [
+    {
+      "query": "Phoenician Astarte cult statuette Louvre",
+      "intent": "Phoenician image of Astarte"
+    },
+    {
+      "query": "Temple of Eshmun Sidon Lebanon sanctuary",
+      "intent": "Eshmun sanctuary near Sidon"
+    }
+  ],
+  "sumerian-religion": [
+    {
+      "query": "Tell Asmar votive statues worshippers Iraq Museum",
+      "intent": "Tell Asmar votive worshippers"
+    },
+    {
+      "query": "Great Ziggurat of Ur Sumerian temple",
+      "intent": "Great Ziggurat of Ur"
+    }
+  ],
+  "catalhoyuk-cult": [
+    {
+      "query": "Seated Woman of Catalhoyuk Museum Anatolian Civilizations",
+      "intent": "Çatalhöyük seated figurine"
+    },
+    {
+      "query": "Bull bucranium Catalhoyuk shrine relief",
+      "intent": "Bucranium bull skull installation from Çatalhöyük"
+    }
+  ],
+  "gobekli-tepe-sanctuary": [
+    {
+      "query": "Gobekli Tepe Pillar 43",
+      "intent": "Vulture Stone sacred relief"
+    },
+    {
+      "query": "Gobekli Tepe Enclosure D",
+      "intent": "Enclosure D megalithic sanctuary"
+    }
+  ],
+  "bon": [
+    {
+      "query": "Tonpa Shenrab Miwoche Bon",
+      "intent": "Thangka of Tönpa Shenrab"
+    },
+    {
+      "query": "Menri Bon monastery",
+      "intent": "Menri Bon monastery"
+    }
+  ],
+  "caodaism": [
+    {
+      "query": "Cao Dai Divine Eye",
+      "intent": "Divine Eye altar"
+    },
+    {
+      "query": "Cao Dai Holy See Tay Ninh temple interior",
+      "intent": "Tây Ninh Holy See"
+    }
+  ],
+  "cheng-zhu-confucianism": [
+    {
+      "query": "Zhu Xi portrait painting Confucian scholar",
+      "intent": "Portrait of Zhu Xi"
+    },
+    {
+      "query": "White Deer Grotto Academy Jiangxi",
+      "intent": "White Deer Grotto Academy"
+    }
+  ],
+  "cheondoism": [
+    {
+      "query": "Portrait of Choe",
+      "intent": "Portrait of Choe Je-u"
+    },
+    {
+      "query": "Cheondogyo Central Temple",
+      "intent": "Cheondogyo Central Temple"
+    }
+  ],
+  "chinese-folk-religion": [
+    {
+      "query": "Jade Emperor temple altar statue China",
+      "intent": "Jade Emperor temple image"
+    },
+    {
+      "query": "Mazu temple Meizhou Ancestral",
+      "intent": "Mazu ancestral sanctuary"
+    }
+  ],
+  "chinese-salvationist-religions": [
+    {
+      "query": "Wusheng Laomu Eternal Venerable",
+      "intent": "Eternal Mother iconography"
+    },
+    {
+      "query": "Chinese baojuan precious scroll",
+      "intent": "Salvationist precious-scroll manuscript"
+    }
+  ],
+  "confucianism": [
+    {
+      "query": "Confucius Tang Dynasty Wu Daozi portrait",
+      "intent": "Traditional portrait of Confucius"
+    },
+    {
+      "query": "Temple of Confucius Qufu Dacheng Hall",
+      "intent": "Qufu Temple of Confucius"
+    }
+  ],
+  "daejonggyo": [
+    {
+      "query": "Na cheol",
+      "intent": "Portrait of Na Cheol, restorer of Daejonggyo"
+    },
+    {
+      "query": "Daejonggyo image of",
+      "intent": "Daejonggyo image of Dangun"
+    }
+  ],
+  "dangun-veneration": [
+    {
+      "query": "Traditional image of Dangun",
+      "intent": "Traditional image of Dangun"
+    },
+    {
+      "query": "Chamseongdan altar",
+      "intent": "Chamseongdan altar"
+    }
+  ],
+  "dao-mau": [
+    {
+      "query": "Lieu Hanh Mother Goddess statue Vietnam",
+      "intent": "Image of Mother Goddess Liễu Hạnh"
+    },
+    {
+      "query": "Phu Tay Ho",
+      "intent": "Phủ Tây Hồ sanctuary"
+    }
+  ],
+  "dao-mau-vietnam": [
+    {
+      "query": "Dao Mau Four Palaces altar Vietnam",
+      "intent": "Four Palaces Mother Goddess altar"
+    },
+    {
+      "query": "Phu Giay festival",
+      "intent": "Phủ Giầy lên đồng ceremony"
+    }
+  ],
+  "daoism": [
+    {
+      "query": "Laozi statue Qingyuan Mountain China",
+      "intent": "Monumental image of Laozi"
+    },
+    {
+      "query": "Wudang Mountains Golden Hall",
+      "intent": "Wudang Golden Hall"
+    }
+  ],
+  "falun-gong": [
+    {
+      "query": "Falun emblem Falun Dafa",
+      "intent": "Falun Dharma-wheel emblem"
+    },
+    {
+      "query": "Falun Gong five exercises group practice",
+      "intent": "Falun Gong exercise practice"
+    }
+  ],
+  "hoa-hao": [
+    {
+      "query": "Huynh Phu So portrait Hoa Hao",
+      "intent": "Portrait of Huỳnh Phú Sổ"
+    },
+    {
+      "query": "An Hoa Tu Hoa Hao temple Phu Tan",
+      "intent": "An Hòa Tự sanctuary"
+    }
+  ],
+  "japanese-confucianism": [
+    {
+      "query": "Hayashi Razan portrait Edo",
+      "intent": "Portrait of Hayashi Razan"
+    },
+    {
+      "query": "Yushima Seido Confucian temple Tokyo",
+      "intent": "Yushima Seidō"
+    }
+  ],
+  "jeungsanism": [
+    {
+      "query": "Portrait of Kang",
+      "intent": "Portrait of Kang Jeungsan"
+    },
+    {
+      "query": "Jeung San Do Cosmic Year mandala",
+      "intent": "Jeungsanist cosmological diagram of the Cosmic Year"
+    }
+  ],
+  "jinja-shinto": [
+    {
+      "query": "Itsukushima Shrine great torii high tide",
+      "intent": "Itsukushima torii"
+    },
+    {
+      "query": "Ise Grand Shrine Naiku main sanctuary",
+      "intent": "Inner Shrine at Ise"
+    }
+  ],
+  "konkokyo": [
+    {
+      "query": "Portrait of Konkō",
+      "intent": "Portrait of Konkō Daijin"
+    },
+    {
+      "query": "Konkokyo Headquarters Konko",
+      "intent": "Konkōkyō headquarters sanctuary"
+    }
+  ],
+  "korean-confucianism": [
+    {
+      "query": "Yi Hwang Toegye",
+      "intent": "Portrait of Yi Hwang"
+    },
+    {
+      "query": "Dosan Seowon Confucian academy",
+      "intent": "Dosan Seowon academy"
+    }
+  ],
+  "korean-shamanism": [
+    {
+      "query": "Korean Sanshin mountain spirit",
+      "intent": "Sanshin sacred painting"
+    },
+    {
+      "query": "Hwanghae-do gut Korean shaman",
+      "intent": "Public Korean gut ceremony"
+    }
+  ],
+  "lingbao-daoism": [
+    {
+      "query": "lingbao daoism Lingbao",
+      "intent": "Lingbao talismanic manuscript"
+    },
+    {
+      "query": "Ge Hong Moving His Residence by Wang Meng",
+      "intent": "Ge Hong, patriarch of Lingbao Daoist alchemy and practice"
+    }
+  ],
+  "longmen-daoism": [
+    {
+      "query": "Portrait of Qiu",
+      "intent": "Portrait of Qiu Chuji"
+    },
+    {
+      "query": "White Cloud Temple Beijing",
+      "intent": "Longmen seat at Baiyun Guan"
+    }
+  ],
+  "lu-wang-confucianism": [
+    {
+      "query": "Wang Yangming portrait Ming dynasty",
+      "intent": "Portrait of Wang Yangming"
+    },
+    {
+      "query": "Wang Yangming former residence Yuyao",
+      "intent": "Wang Yangming memorial academy"
+    }
+  ],
+  "luo-teaching": [
+    {
+      "query": "Luo Qing patriarch",
+      "intent": "Image of patriarch Luo Qing"
+    },
+    {
+      "query": "Five Books in Six Volumes Luo Qing baojuan woodblock",
+      "intent": "Luo Teaching scripture"
+    }
+  ],
+  "mohism": [
+    {
+      "query": "Философ Мо-Цзы",
+      "intent": "Classical portrait of the philosopher Mozi (Mo Di)"
+    },
+    {
+      "query": "Bamboo and wooden slips excavated in China",
+      "intent": "Ancient Chinese philosophical bamboo text slips"
+    }
+  ],
+  "neo-confucianism": [
+    {
+      "query": "Zhou Dunyi Taijitu",
+      "intent": "Diagram of the Supreme Ultimate"
+    },
+    {
+      "query": "White Deer Grotto Academy Lushan",
+      "intent": "Neo-Confucian academy at Lushan"
+    }
+  ],
+  "new-confucianism": [
+    {
+      "query": "Portrait of Mou",
+      "intent": "Portrait of Mou Zongsan"
+    },
+    {
+      "query": "New Asia College Hong Kong original campus",
+      "intent": "New Asia College intellectual center"
+    }
+  ],
+  "omoto": [
+    {
+      "query": "Deguchi Nao portrait",
+      "intent": "Portrait of Deguchi Nao"
+    },
+    {
+      "query": "omoto Ōmoto",
+      "intent": "Ōmoto sanctuary at Kameoka"
+    }
+  ],
+  "onmyodo": [
+    {
+      "query": "Abe no Seimei portrait",
+      "intent": "Traditional image of Abe no Seimei"
+    },
+    {
+      "query": "Seimei Shrine Kyoto main",
+      "intent": "Seimei Shrine"
+    }
+  ],
+  "quanzhen-daoism": [
+    {
+      "query": "Wang Chongyang portrait",
+      "intent": "Portrait of Wang Chongyang"
+    },
+    {
+      "query": "quanzhen daoism Chongyang",
+      "intent": "Chongyang Palace"
+    }
+  ],
+  "ryukyuan-religion": [
+    {
+      "query": "Ryukyu noro priestess historical photograph",
+      "intent": "Ryukyuan noro priestess"
+    },
+    {
+      "query": "Okinawa Nanjo Sefa-utaki Gusuku site",
+      "intent": "Sefa-utaki sacred limestone sanctuary in Nanjo, Okinawa"
+    }
+  ],
+  "sect-shinto": [
+    {
+      "query": "Kurozumikyo",
+      "intent": "Founders of the recognized Shinto sects"
+    },
+    {
+      "query": "Sect Shinto headquarters",
+      "intent": "Sect Shinto headquarters sanctuary"
+    }
+  ],
+  "shangqing-daoism": [
+    {
+      "query": "Image of Shangqing",
+      "intent": "Image of Shangqing matriarch Wei Huacun"
+    },
+    {
+      "query": "Tao Hongjing Listening to the Pines",
+      "intent": "Tao Hongjing, prime organizer of Shangqing Daoism on Mount Mao"
+    }
+  ],
+  "shinto": [
+    {
+      "query": "Amaterasu emerging from cave ukiyo-e",
+      "intent": "Amaterasu cave sacred art"
+    },
+    {
+      "query": "Ise Jingu Naiku shikinen sengu shrine",
+      "intent": "Ise Grand Shrine"
+    }
+  ],
+  "shugendo": [
+    {
+      "query": "En no Gyoja statue Japan",
+      "intent": "Image of En no Gyōja"
+    },
+    {
+      "query": "shugendo Ōmine",
+      "intent": "Ōmine yamabushi pilgrimage"
+    }
+  ],
+  "state-shinto": [
+    {
+      "query": "Meiji Emperor imperial portrait 1888",
+      "intent": "Meiji imperial sacred portrait"
+    },
+    {
+      "query": "State Shinto Yasukuni",
+      "intent": "State Shinto Yasukuni sanctuary"
+    }
+  ],
+  "tenrikyo": [
+    {
+      "query": "Nakayama Miki Oyasama",
+      "intent": "Portrait of Nakayama Miki"
+    },
+    {
+      "query": "Tenrikyo Church Headquarters Jiba sanctuary",
+      "intent": "Tenrikyō Church Headquarters"
+    }
+  ],
+  "tianshi-dao": [
+    {
+      "query": "Image of Zhang Daoling",
+      "intent": "Image of Zhang Daoling"
+    },
+    {
+      "query": "Mount Qingcheng",
+      "intent": "Celestial Masters' Cave"
+    }
+  ],
+  "vietnamese-confucianism": [
+    {
+      "query": "Chu Van An portrait statue Vietnam",
+      "intent": "Image of Chu Văn An"
+    },
+    {
+      "query": "Temple of Literature Hanoi Confucian sanctuary",
+      "intent": "Hanoi Temple of Literature"
+    }
+  ],
+  "vietnamese-folk-religion": [
+    {
+      "query": "Vietnamese Thanh Hoang village",
+      "intent": "Village tutelary-deity altar"
+    },
+    {
+      "query": "Hung Kings Temple Phu Tho sanctuary",
+      "intent": "Hùng Kings Temple"
+    }
+  ],
+  "xiantiandao": [
+    {
+      "query": "Queen Mother of the West Wusheng Laomu painting",
+      "intent": "Sacred painting representing the Eternal Venerable Mother"
+    },
+    {
+      "query": "Chinese precious scroll baojuan manuscript",
+      "intent": "Illuminated page from a Chinese precious scroll (Baojuan)"
+    }
+  ],
+  "yiguandao": [
+    {
+      "query": "Yulin Cave 25 n wall Maitreya Sutra",
+      "intent": "Maitreya Buddha fresco symbolizing the White Sun era in Yiguandao"
+    },
+    {
+      "query": "Maha Vihara Duta Maitreya Yiguandao temple",
+      "intent": "Maha Vihara Duta Maitreya temple complex"
+    }
+  ],
+  "zhengyi-daoism": [
+    {
+      "query": "Zhengyi patriarch Zhang",
+      "intent": "Zhengyi patriarch Zhang Daoling"
+    },
+    {
+      "query": "Celestial Masters' Mansion",
+      "intent": "Celestial Masters' Mansion"
+    }
+  ],
+  "aa-thelema": [
+    {
+      "query": "Aleister Crowley ceremonial portrait A A",
+      "intent": "A∴A∴ founder Aleister Crowley"
+    },
+    {
+      "query": "The Equinox volume I 1909 title page Aleister Crowley",
+      "intent": "Original A∴A∴ Equinox publication"
+    }
+  ],
+  "aetherius-society": [
+    {
+      "query": "George King Aetherius Society founder",
+      "intent": "Aetherius Society founder George King"
+    },
+    {
+      "query": "aetherius society Aetherius",
+      "intent": "Aetherius Society temple"
+    }
+  ],
+  "alexandrian-wicca": [
+    {
+      "query": "Alex Sanders Wiccan high priest",
+      "intent": "Alex Sanders, prominent Alexandrian Wiccan high priest"
+    },
+    {
+      "query": "Wiccan altar ritual sword chalice pentacle",
+      "intent": "Alexandrian Wiccan altar with ritual blade and chalice"
+    }
+  ],
+  "anglo-saxon-heathenry": [
+    {
+      "query": "Woden Anglo-Saxon bracteate spear",
+      "intent": "Anglo-Saxon Woden bracteate"
+    },
+    {
+      "query": "Sutton Hoo helmet British Museum",
+      "intent": "Sutton Hoo ceremonial helmet"
+    }
+  ],
+  "anthroposophy": [
+    {
+      "query": "Rudolf Steiner portrait",
+      "intent": "Anthroposophy founder Rudolf Steiner"
+    },
+    {
+      "query": "Goetheanum spiritual center",
+      "intent": "Goetheanum spiritual center"
+    }
+  ],
+  "celtic-reconstructionist-paganism": [
+    {
+      "query": "celtic reconstructionist paganism Celtic",
+      "intent": "Celtic Reconstructionist devotional altar"
+    },
+    {
+      "query": "Stone of Turoe Celtic Galway",
+      "intent": "The Turoe Stone, iconic Iron Age Celtic ceremonial monolith"
+    }
+  ],
+  "chaos-magic": [
+    {
+      "query": "Chaos star",
+      "intent": "Chaos-magical Chaosphere"
+    },
+    {
+      "query": "Peter J Carroll chaos magic founder",
+      "intent": "Chaos-magical author Peter J. Carroll"
+    }
+  ],
+  "church-of-all-worlds": [
+    {
+      "query": "Goddess of Willendorf replica",
+      "intent": "Sacred Earth Mother Gaia iconography of the Church of All Worlds"
+    },
+    {
+      "query": "Church of All Worlds water sharing ceremony",
+      "intent": "Water-sharing ritual"
+    }
+  ],
+  "church-of-satan": [
+    {
+      "query": "Anton LaVey Church of Satan Black House",
+      "intent": "Founder Anton LaVey"
+    },
+    {
+      "query": "Black House San Francisco Church of Satan historical",
+      "intent": "Church of Satan's Black House"
+    }
+  ],
+  "church-of-subgenius": [
+    {
+      "query": "J R Bob Dobbs Church of the SubGenius",
+      "intent": "J. R. “Bob” Dobbs icon"
+    },
+    {
+      "query": "Church of the SubGenius",
+      "intent": "SubGenius devival gathering"
+    }
+  ],
+  "dianic-wicca": [
+    {
+      "query": "Zsuzsanna Budapest feminist Wicca",
+      "intent": "Zsuzsanna Budapest, pioneer of Dianic feminist Wicca"
+    },
+    {
+      "query": "Triple Goddess statue Wiccan altar",
+      "intent": "Triple Goddess statue on a Dianic Wiccan altar"
+    }
+  ],
+  "dievturiba": [
+    {
+      "query": "dievturiba Dievturība",
+      "intent": "Dievturība founder Ernests Brastiņš"
+    },
+    {
+      "query": "Lokstene Shrine Dievturi Latvia",
+      "intent": "Lokstene Dievturi sanctuary"
+    }
+  ],
+  "discordianism": [
+    {
+      "query": "Sacred Chao Principia Discordia original",
+      "intent": "Discordian Sacred Chao"
+    },
+    {
+      "query": "Principia Discordia 1965",
+      "intent": "Original Discordian scripture page"
+    }
+  ],
+  "druidry": [
+    {
+      "query": "Archdruid National Eisteddfod",
+      "intent": "Modern Archdruid ceremonial regalia"
+    },
+    {
+      "query": "Stonehenge druids",
+      "intent": "Modern Druid Stonehenge rite"
+    }
+  ],
+  "dudeism": [
+    {
+      "query": "Dudeism bowling",
+      "intent": "Dudeist ordination and philosophical iconography"
+    },
+    {
+      "query": "Dudeism Church of the Latter-Day Dude ceremony",
+      "intent": "Dudeist public ceremony"
+    }
+  ],
+  "ekankar": [
+    {
+      "query": "Eckankar (49119645616) (cropped)",
+      "intent": "Sacred EK symbol and Eckankar community gathering"
+    },
+    {
+      "query": "Temple of ECK Chanhassen Minnesota",
+      "intent": "Temple of ECK"
+    }
+  ],
+  "enochian-magic": [
+    {
+      "query": "John Dee portrait Ashmolean",
+      "intent": "Enochian practitioner John Dee"
+    },
+    {
+      "query": "Sigillum Dei Aemeth John Dee British Museum",
+      "intent": "John Dee's wax Sigillum Dei"
+    }
+  ],
+  "forn-sidr": [
+    {
+      "query": "Forn Sidr Denmark blot ritual",
+      "intent": "Danish Forn Siðr blót"
+    },
+    {
+      "query": "Forn Sidr runestone cemetery Jelling",
+      "intent": "Forn Siðr runestone and burial grounds in Denmark"
+    }
+  ],
+  "fourth-way": [
+    {
+      "query": "George Gurdjieff portrait",
+      "intent": "Fourth Way founder Gurdjieff"
+    },
+    {
+      "query": "Prieure des Basses Loges",
+      "intent": "Gurdjieff's Prieuré institute"
+    }
+  ],
+  "freemasonry": [
+    {
+      "query": "Masonic square compasses apron altar",
+      "intent": "Masonic square-and-compasses regalia"
+    },
+    {
+      "query": "Freemasons Hall London Grand Temple interior",
+      "intent": "Grand Temple at Freemasons' Hall"
+    }
+  ],
+  "gardnerian-wicca": [
+    {
+      "query": "Gerald Gardner Wicca",
+      "intent": "Gardnerian founder Gerald Gardner"
+    },
+    {
+      "query": "Gerald Gardner Book of",
+      "intent": "Gardnerian Book of Shadows"
+    }
+  ],
+  "heathenry": [
+    {
+      "query": "modern Asatru blot",
+      "intent": "Modern Heathen blót"
+    },
+    {
+      "query": "Asatru blot",
+      "intent": "Icelandic Heathen hof"
+    }
+  ],
+  "heavens-gate": [
+    {
+      "query": "Marshall Applewhite",
+      "intent": "Heaven's Gate founders"
+    },
+    {
+      "query": "Comet Hale-Bopp night sky 1997",
+      "intent": "Comet Hale-Bopp in 1997, central to Heaven's Gate theology"
+    }
+  ],
+  "hellenic-polytheism": [
+    {
+      "query": "Temple of Olympian Zeus Athens",
+      "intent": "Contemporary Hellenic worship rite"
+    },
+    {
+      "query": "Supreme Council Ethnic Hellenes",
+      "intent": "Prometheia public ritual"
+    }
+  ],
+  "hermetic-order-golden-dawn": [
+    {
+      "query": "Samuel Liddell MacGregor Mathers portrait",
+      "intent": "Samuel Liddell MacGregor Mathers in Egyptian ritual garb"
+    },
+    {
+      "query": "Hermetic Order of the Golden Dawn",
+      "intent": "Golden Dawn Cipher Manuscript"
+    }
+  ],
+  "hermeticism": [
+    {
+      "query": "Hermes Trismegistus Siena Cathedral mosaic",
+      "intent": "Hermes Trismegistus mosaic"
+    },
+    {
+      "query": "Corpus Hermeticum Renaissance manuscript",
+      "intent": "Corpus Hermeticum manuscript"
+    }
+  ],
+  "jediism": [
+    {
+      "query": "Jediism Temple of the Jedi Order ceremony",
+      "intent": "Jediist community ceremony"
+    },
+    {
+      "query": "Jedi robes lightsaber ceremony",
+      "intent": "Jediist practitioner in ceremonial robes with lightsaber"
+    }
+  ],
+  "kemetism": [
+    {
+      "query": "kemetism Kemetic",
+      "intent": "Kemetic Orthodox deity shrine"
+    },
+    {
+      "query": "kemetism Contemporary",
+      "intent": "Contemporary Kemetic rite"
+    }
+  ],
+  "kopimism": [
+    {
+      "query": "kopimism Kopimi",
+      "intent": "Kopimi sacred emblem"
+    },
+    {
+      "query": "Missionary Church of Kopimism sacred kopimi pyramid",
+      "intent": "Kopimist sacred symbol and ritual altar"
+    }
+  ],
+  "luciferianism": [
+    {
+      "query": "Le Genie du Mal Lucifer Liege cathedral sculpture",
+      "intent": "Classical Lucifer image by Guillaume Geefs"
+    },
+    {
+      "query": "Prometheus statue Rockefeller",
+      "intent": "Luciferian devotional altar"
+    }
+  ],
+  "mexicayotl": [
+    {
+      "query": "Danza Azteca concheros regalia Mexico City",
+      "intent": "Mexicáyotl Conchero dancers in ceremonial feather regalia"
+    },
+    {
+      "query": "Danza Azteca Chichimeca ceremony Mexico",
+      "intent": "Mexicayotl ceremonial dance"
+    }
+  ],
+  "modern-satanism": [
+    {
+      "query": "Eliphas Levi Baphomet original",
+      "intent": "Baphomet image adopted by modern Satanism"
+    },
+    {
+      "query": "Satanic Temple Baphomet bronze statue Detroit",
+      "intent": "Monumental bronze Baphomet statue of modern Satanism"
+    }
+  ],
+  "neopaganism": [
+    {
+      "query": "Pagan Pride Day public ritual altar",
+      "intent": "Modern Pagan public altar"
+    },
+    {
+      "query": "neopaganism Pagan",
+      "intent": "Pagan handfasting rite"
+    }
+  ],
+  "new-age-movement": [
+    {
+      "query": "Findhorn Foundation Universal Hall Scotland",
+      "intent": "Findhorn spiritual center"
+    },
+    {
+      "query": "Esalen Institute meditation gathering Big Sur",
+      "intent": "New Age workshop and meditation culture"
+    }
+  ],
+  "ordo-templi-orientis": [
+    {
+      "query": "Aleister Crowley OTO",
+      "intent": "O.T.O. leader Aleister Crowley"
+    },
+    {
+      "query": "Gnostic Mass altar Ordo Templi Orientis",
+      "intent": "Altar and ritual layout for the O.T.O. Gnostic Mass"
+    }
+  ],
+  "parody-fiction-religions": [
+    {
+      "query": "Flying Spaghetti Monster pasta strainer colander",
+      "intent": "Pastafarian wearing a ceremonial colander"
+    },
+    {
+      "query": "Star Wars Celebration III - Ladies of the Jedi Order",
+      "intent": "Jedi Order ceremonial costumes and robes"
+    }
+  ],
+  "pastafarianism": [
+    {
+      "query": "Flying Spaghetti Monster public sculpture",
+      "intent": "Flying Spaghetti Monster image"
+    },
+    {
+      "query": "pastafarianism Pastafarian",
+      "intent": "Pastafarian wedding rite"
+    }
+  ],
+  "polish-rodzimowierstwo": [
+    {
+      "query": "Polish Native Faith",
+      "intent": "Polish Native Faith Perun shrine"
+    },
+    {
+      "query": "Rekawki Krakow",
+      "intent": "Rękawka Slavic pagan festival at Krakus Mound in Kraków"
+    }
+  ],
+  "process-church": [
+    {
+      "query": "Robert de Grimston Process Church portrait",
+      "intent": "Process Church founder Robert de Grimston"
+    },
+    {
+      "query": "Process Church of the Final Judgment meeting place historical",
+      "intent": "Process Church communal sanctuary"
+    }
+  ],
+  "raelism": [
+    {
+      "query": "Raelian symbol Elohim emblem",
+      "intent": "Raelian Elohim emblem"
+    },
+    {
+      "query": "UFOland Raelian UFO museum Maricourt",
+      "intent": "UFOland Raelian exhibition pavilion in Maricourt"
+    }
+  ],
+  "reclaiming-tradition": [
+    {
+      "query": "Starhawk",
+      "intent": "Starhawk (Miriam Simos), co-founder of the Reclaiming tradition"
+    },
+    {
+      "query": "Reclaiming Spiral Dance ritual",
+      "intent": "Reclaiming Spiral Dance"
+    }
+  ],
+  "rodnovery": [
+    {
+      "query": "Rodnovery Perun idol",
+      "intent": "Rodnover Perun cult image"
+    },
+    {
+      "query": "Rodnovery Kupala Night",
+      "intent": "Rodnover Kupala rite"
+    }
+  ],
+  "romuva": [
+    {
+      "query": "House of Perkunas Kaunas Lithuania",
+      "intent": "Perkūnas shrine site in Kaunas, Lithuania"
+    },
+    {
+      "query": "Romuva sacred fire ceremony aukuras Perkunas",
+      "intent": "Romuva sacred-fire rite"
+    }
+  ],
+  "rosicrucianism": [
+    {
+      "query": "Rosicrucian cross",
+      "intent": "Historical Rosy Cross emblem"
+    },
+    {
+      "query": "Rosicrucian Egyptian Museum San Jose temple",
+      "intent": "AMORC Rosicrucian sanctuary"
+    }
+  ],
+  "russian-cosmism": [
+    {
+      "query": "Nikolai Fedorov",
+      "intent": "Portrait drawing of Cosmist philosopher Nikolai Fyodorov"
+    },
+    {
+      "query": "Konstantin Tsiolkovsky rocket manuscript",
+      "intent": "Tsiolkovsky cosmological manuscript"
+    }
+  ],
+  "satanic-temple": [
+    {
+      "query": "Baphomet statue Satanic Temple Salem",
+      "intent": "Satanic Temple Baphomet monument"
+    },
+    {
+      "query": "Satanic Temple headquarters Salem Massachusetts",
+      "intent": "Salem Satanic Temple headquarters"
+    }
+  ],
+  "scientology": [
+    {
+      "query": "L Ron Hubbard Scientology founder portrait",
+      "intent": "Scientology founder L. Ron Hubbard"
+    },
+    {
+      "query": "Scientology Flag Building Clearwater Florida",
+      "intent": "Scientology Flag Building"
+    }
+  ],
+  "spiritism": [
+    {
+      "query": "Allan Kardec portrait",
+      "intent": "Spiritism codifier Allan Kardec"
+    },
+    {
+      "query": "Brazilian Spiritist Federation",
+      "intent": "Brazilian Spiritist center"
+    }
+  ],
+  "spiritualism": [
+    {
+      "query": "Fox sisters engraving spiritualism",
+      "intent": "Spiritualist founders the Fox sisters"
+    },
+    {
+      "query": "Victorian spiritualist seance historical photograph",
+      "intent": "Historical séance ritual"
+    }
+  ],
+  "temple-of-set": [
+    {
+      "query": "Egyptian god Set statue museum",
+      "intent": "Cult image of Set"
+    },
+    {
+      "query": "Michael Aquino Temple of",
+      "intent": "Temple of Set founder Michael Aquino"
+    }
+  ],
+  "thelema": [
+    {
+      "query": "Stele of Revealing Cairo",
+      "intent": "Thelemic Stele of Revealing"
+    },
+    {
+      "query": "Abbey of Thelema Cefalu murals",
+      "intent": "Abbey of Thelema"
+    }
+  ],
+  "theodism": [
+    {
+      "query": "Drinking horn mead symbel Heathenry",
+      "intent": "Ceremonial drinking horn used in Þéodish symbel rites"
+    },
+    {
+      "query": "Anglo-Saxon drinking horn terminal",
+      "intent": "Anglo-Saxon ceremonial drinking horn terminal used in symbel rites"
+    }
+  ],
+  "theosophy": [
+    {
+      "query": "Helena Blavatsky portrait",
+      "intent": "Theosophy founder Helena Blavatsky"
+    },
+    {
+      "query": "Theosophical Society Adyar headquarters Chennai",
+      "intent": "Adyar Theosophical headquarters"
+    }
+  ],
+  "ufo-religions": [
+    {
+      "query": "George Adamski",
+      "intent": "George Adamski with telescope at the Temple of Scientific Philosophy"
+    },
+    {
+      "query": "Integratron Landers California",
+      "intent": "Integratron contactee sanctuary"
+    }
+  ],
+  "ukrainian-native-faith": [
+    {
+      "query": "Perun idol Ukrainian Native Faith Kyiv",
+      "intent": "Ukrainian Native Faith Perun idol"
+    },
+    {
+      "query": "Temple of Mother Ukraine",
+      "intent": "RUNVira Temple of Mother Ukraine"
+    }
+  ],
+  "unarius-academy": [
+    {
+      "query": "Ernest Ruth Norman",
+      "intent": "Unarius founders Ernest and Ruth Norman"
+    },
+    {
+      "query": "unarius academy Unarius",
+      "intent": "Unarius Academy center"
+    }
+  ],
+  "unification-movement": [
+    {
+      "query": "Sun Myung Moon Hak",
+      "intent": "Unification founders' Holy Wedding"
+    },
+    {
+      "query": "Peace Summit Unification Church Cheon Jeong Gung",
+      "intent": "Peace ceremony at Cheon Jeong Gung sanctuary"
+    }
+  ],
+  "western-esotericism": [
+    {
+      "query": "Robert Fludd Tree of Life Utriusque Cosmi",
+      "intent": "Fludd's Hermetic-Kabbalistic diagram"
+    },
+    {
+      "query": "Agrippa De occulta philosophia 1533 page",
+      "intent": "Renaissance occult-philosophy text"
+    }
+  ],
+  "wicca": [
+    {
+      "query": "Wiccan author Doreen Valiente",
+      "intent": "Wiccan author Doreen Valiente"
+    },
+    {
+      "query": "Wiccan ritual altar",
+      "intent": "Wiccan ritual altar"
+    }
+  ],
+  "amazigh-berber-religion": [
+    {
+      "query": "Libyco-Berber rock art",
+      "intent": "Libyco-Berber sacred rock inscription"
+    },
+    {
+      "query": "Medracen Numidian royal tomb Algeria",
+      "intent": "Medracen Numidian royal tomb"
+    }
+  ],
+  "san-religion": [
+    {
+      "query": "San rock art eland",
+      "intent": "San eland rock painting at Game Pass Shelter"
+    },
+    {
+      "query": "Tsodilo Hills rock art Botswana",
+      "intent": "Tsodilo Hills sacred rock art sanctuary"
+    }
+  ],
+  "ancestral-puebloan-religion": [
+    {
+      "query": "Casa Rinconada great kiva Chaco Canyon",
+      "intent": "Casa Rinconada Great Kiva at Chaco Canyon"
+    },
+    {
+      "query": "Chaco Canyon black on white pottery cylinder jar",
+      "intent": "Chacoan black-on-white ritual cylinder jar"
+    }
+  ],
+  "caral-supe-civilization": [
+    {
+      "query": "Caral Supe pyramid",
+      "intent": "Caral-Supe monumental stepped pyramid and sunken plaza"
+    },
+    {
+      "query": "Caral Supe pyramid amphitheater Peru",
+      "intent": "Monumental stepped pyramid and circular amphitheater at Caral"
+    }
+  ],
+  "chavin-culture": [
+    {
+      "query": "Raimondi Stele Chavin",
+      "intent": "Raimondi Stele depicting the Chavín Staff God"
+    },
+    {
+      "query": "Chavin de Huantar tenon",
+      "intent": "Chavín de Huántar tenon head carving"
+    }
+  ],
+  "haida-totemic-religion": [
+    {
+      "query": "Haida totem poles SGang",
+      "intent": "Haida totem poles at SGang Gwaay"
+    },
+    {
+      "query": "Haida bentwood box carved painted cedar",
+      "intent": "Haida carved and painted cedar bentwood box"
+    }
+  ],
+  "mississippian-religion": [
+    {
+      "query": "Mississippian copper repoussé falcon dancer plate",
+      "intent": "Mississippian copper repoussé falcon dancer plate"
+    },
+    {
+      "query": "Monks Mound Cahokia aerial",
+      "intent": "Monks Mound ceremonial platform at Cahokia"
+    }
+  ],
+  "olmec-religion": [
+    {
+      "query": "Olmec colossal head San Lorenzo Veracruz",
+      "intent": "Olmec colossal head from San Lorenzo"
+    },
+    {
+      "query": "La Venta Altar 4",
+      "intent": "La Venta basalt offering altar"
+    }
+  ],
+  "sami-shamanism": [
+    {
+      "query": "Sami shaman drum runebomme",
+      "intent": "Sámi noaidi shamanic drum with cosmological symbols"
+    },
+    {
+      "query": "Sami sieidi sacred",
+      "intent": "Sámi sieidi sacred stone sanctuary"
+    }
+  ],
+  "scythian-religion": [
+    {
+      "query": "Scythian pectoral gold Tovsta",
+      "intent": "Scythian gold pectoral from Tovsta Mohyla"
+    },
+    {
+      "query": "Pazyryk kurgan felt",
+      "intent": "Pazyryk kurgan felt hanging showing the Great Goddess"
+    }
+  ],
+  "ancestor-veneration": [
+    {
+      "query": "Chinese ancestral tablets ancestral hall altar",
+      "intent": "Ancestral tablets arranged on a traditional lineage hall altar"
+    },
+    {
+      "query": "Toraja tau tau wooden",
+      "intent": "Torajan tau-tau ancestor effigies"
+    }
+  ],
+  "animist-frameworks": [
+    {
+      "query": "Meoto Iwa Wedded Rocks",
+      "intent": "Meoto Iwa sacred rocks joined by shimenawa rope"
+    },
+    {
+      "query": "Ainu inaw ritual wood carvings",
+      "intent": "Ainu inau sacred carved prayer sticks"
+    }
+  ],
+  "shamanic-traditions": [
+    {
+      "query": "Evenki shaman costume pendants museum",
+      "intent": "Siberian Evenki shaman ritual costume with iron pendants"
+    },
+    {
+      "query": "Trois-Freres Sorcerer cave painting",
+      "intent": "The Sorcerer cave drawing at the Sanctuary of Les Trois-Frères"
+    }
+  ],
+  "african-diasporic-traditions": [
+    {
+      "query": "Bata drums Afro Cuban",
+      "intent": "Sacred Batá drums of Afro-Atlantic ritual liturgy"
+    },
+    {
+      "query": "Terreiro Ile Axe Opo Afonja Candomble Salvador Bahia",
+      "intent": "Terreiro Ilê Axé Opô Afonjá sacred sanctuary"
+    }
+  ],
+  "african-indigenous-traditions": [
+    {
+      "query": "Great Zimbabwe soapstone bird",
+      "intent": "Great Zimbabwe carved soapstone ritual bird"
+    },
+    {
+      "query": "Great Enclosure Great Zimbabwe dry stone wall ruins",
+      "intent": "The Great Enclosure of Great Zimbabwe"
+    }
+  ],
+  "akan-religion": [
+    {
+      "query": "Golden Stool Ashanti Sika",
+      "intent": "The Golden Stool (Sika Dwa Kofi) of the Ashanti"
+    },
+    {
+      "query": "Asante traditional buildings",
+      "intent": "Asante traditional shrine house at Besease"
+    }
+  ],
+  "candomble": [
+    {
+      "query": "Iemanja festival Salvador Bahia flowers sea offering",
+      "intent": "Ceremonial festival and offerings for Iemanjá in Salvador da Bahia"
+    },
+    {
+      "query": "Terreiro da Casa Branca do Engenho Velho Salvador Bahia",
+      "intent": "Historic Terreiro da Casa Branca do Engenho Velho"
+    }
+  ],
+  "dinka-religion": [
+    {
+      "query": "Sudan Dinka Spearheads",
+      "intent": "Sacred Dinka fishing spearheads of spiritual masters"
+    },
+    {
+      "query": "Traditional wooden headrest South Sudan Dinka",
+      "intent": "Carved wooden ceremonial headrest of the Dinka people"
+    }
+  ],
+  "gbe-vodun": [
+    {
+      "query": "Temple des Pythons Ouidah",
+      "intent": "Temple of Pythons sacred sanctuary in Ouidah"
+    },
+    {
+      "query": "Fon bocio wooden power sculpture Benin",
+      "intent": "Fon Vodun bocio carved wooden ritual power figure"
+    }
+  ],
+  "kongo-religion": [
+    {
+      "query": "Nkisi Nkondi Kongo nail power figure museum",
+      "intent": "Nkisi N'Kondi power figure with ritual blades and medicines"
+    },
+    {
+      "query": "Cathedral of Sao Salvador of Congo Mbanza Kongo ruins",
+      "intent": "Ruins of the royal cathedral sanctuary at Mbanza Kongo"
+    }
+  ],
+  "maasai-religion": [
+    {
+      "query": "Ol Doinyo Lengai Mountain of God volcano Tanzania",
+      "intent": "Ol Doinyo Lengai, the sacred Mountain of God"
+    },
+    {
+      "query": "maasai religion Maasai",
+      "intent": "Maasai Eunoto ritual transition ceremony"
+    }
+  ],
+  "malagasy-religion": [
+    {
+      "query": "Mahafaly tomb aloalo carved",
+      "intent": "Mahafaly carved wooden aloalo funerary posts"
+    },
+    {
+      "query": "Royal Hill of Ambohimanga sacred palace gate Madagascar",
+      "intent": "Royal Hill of Ambohimanga sacred royal sanctuary"
+    }
+  ],
+  "san-religious-traditions": [
+    {
+      "query": "White Lady Brandberg Namibia rock painting",
+      "intent": "The White Lady rock painting at Brandberg Mountain"
+    },
+    {
+      "query": "Cederberg rock art South Africa San paintings",
+      "intent": "San polychrome rock art in the Cederberg mountains"
+    }
+  ],
+  "shona-religion": [
+    {
+      "query": "Matobo Hills granite",
+      "intent": "Matobo Hills sacred landscape and Mwari shrine site"
+    },
+    {
+      "query": "Mbira dzaVadzimu Shona",
+      "intent": "Sacred Mbira dzaVadzimu instrument used in ancestral bira ceremonies"
+    }
+  ],
+  "waaqeffanna": [
+    {
+      "query": "Irreecha festival Lake",
+      "intent": "Irreecha thanksgiving ceremony at Lake Hora"
+    },
+    {
+      "query": "Abbaa Gadaa Oromo assembly elder Ethiopia",
+      "intent": "Abbaa Gadaa spiritual and moral leader of the Oromo"
+    }
+  ],
+  "zulu-religion": [
+    {
+      "query": "Zulu Sangoma traditional healer regalia beads South Africa",
+      "intent": "Zulu Sangoma traditional healer and diviner regalia"
+    },
+    {
+      "query": "Umkhosi Womhlanga Reed Dance",
+      "intent": "Umkhosi Womhlanga Reed Dance royal festival ceremony"
+    }
+  ],
+  "hoodoo": [
+    {
+      "query": "Bottle tree Delta Blues Museum Clarksdale Mississippi",
+      "intent": "Traditional African American bottle tree spirit ward in Mississippi"
+    },
+    {
+      "query": "Bottle tree African American yard art Mississippi conjure",
+      "intent": "Traditional African American bottle tree spirit ward"
+    }
+  ],
+  "palo": [
+    {
+      "query": "palo Sacred",
+      "intent": "Sacred Nganga (Prenda) cauldron vessel of Palo Mayombe"
+    },
+    {
+      "query": "Sacred Firma ritual",
+      "intent": "Sacred Firma ritual ground cosmogram of Palo Monte"
+    }
+  ],
+  "trinidad-orisha": [
+    {
+      "query": "trinidad orisha Trinidad",
+      "intent": "Trinidad Orisha shrine with ceremonial flags and implements"
+    },
+    {
+      "query": "Sacred drumming and",
+      "intent": "Sacred drumming and altar in Trinidad Orisha festival"
+    }
+  ],
+  "dogon-religion": [
+    {
+      "query": "Dogon Kanaga mask Dama funeral dance Mali",
+      "intent": "Dogon Kanaga mask worn during the Dama funerary ritual"
+    },
+    {
+      "query": "Toguna Dogon meeting house Bandiagara Mali",
+      "intent": "Toguna council house with carved posts on the Bandiagara Escarpment"
+    }
+  ],
+  "haitian-vodou": [
+    {
+      "query": "Veve Papa Legba",
+      "intent": "Vèvè ritual drawing for Papa Legba"
+    },
+    {
+      "query": "Saut d'Eau waterfall",
+      "intent": "Sacred pilgrimage at Saut-d'Eau waterfall"
+    }
+  ],
+  "ifa": [
+    {
+      "query": "Opon Ifa divination tray",
+      "intent": "Carved wooden Opon Ifá divination tray"
+    },
+    {
+      "query": "Osun Osogbo sacred grove shrine river goddess Nigeria",
+      "intent": "Osun-Osogbo Sacred Grove sanctuary"
+    }
+  ],
+  "odinani": [
+    {
+      "query": "Ikenga Igbo carved wooden",
+      "intent": "Igbo Ikenga carved shrine figure representing personal chi and strength"
+    },
+    {
+      "query": "Mbari house Owerri Igbo",
+      "intent": "Traditional Igbo Mbari sanctuary house with sacred clay figures"
+    }
+  ],
+  "rastafari": [
+    {
+      "query": "Haile Selassie I coronation portrait 1930 Addis Ababa",
+      "intent": "Coronation portrait of Emperor Haile Selassie I"
+    },
+    {
+      "query": "Nyabinghi drumming Rastafari",
+      "intent": "Nyabinghi sacred drumming during a Rastafari Grounation"
+    }
+  ],
+  "santeria": [
+    {
+      "query": "Altar de Santeria Orisha Cuba",
+      "intent": "Santería altar and sacred Orisha vessels in Cuba"
+    },
+    {
+      "query": "Santeria bata drumming ceremony Cuba bembe",
+      "intent": "Sacred Bembé drumming ceremony and altar in Havana"
+    }
+  ],
+  "serer-religion": [
+    {
+      "query": "Senegambian stone circles",
+      "intent": "Sine Ngayene megalithic stone circles associated with ancient Serer burial"
+    },
+    {
+      "query": "Xooy divination ceremony",
+      "intent": "Xooy traditional divination ceremony performed by Serer Saltigué"
+    }
+  ],
+  "umbanda": [
+    {
+      "query": "umbanda Caboclo",
+      "intent": "Caboclo spirit guide statue on an Umbanda terreiro altar"
+    },
+    {
+      "query": "Preto Velho statue",
+      "intent": "Preto Velho ancestral spirit guide image in Umbanda"
+    }
+  ],
+  "west-african-vodun": [
+    {
+      "query": "Figure of Mammy Wata in Boat Nigeria museum",
+      "intent": "Carved wooden Mami Wata water deity figure with serpent"
+    },
+    {
+      "query": "Akodessewa fetish market Lome",
+      "intent": "Akodesséwa sacred healing and fetish market in Lomé"
+    }
+  ],
+  "yoruba-religion": [
+    {
+      "query": "Bronze Head from Ife",
+      "intent": "Bronze head of Ife representing the divine ancestral ruler"
+    },
+    {
+      "query": "Ose Sango Yoruba",
+      "intent": "Oṣé Ṣàngó double-axe ritual dance staff"
+    }
+  ],
+  "guarani-religions": [
+    {
+      "query": "Mbya Guarani indigenous community Brazil",
+      "intent": "Mbyá Guaraní traditional community and ritual space"
+    },
+    {
+      "query": "Sao Miguel das Missoes",
+      "intent": "São Miguel das Missões historic Guaraní sacred mission church"
+    }
+  ],
+  "shipibo-konibo-religion": [
+    {
+      "query": "Shipibo kene textile geometric painting Peru",
+      "intent": "Shipibo-Konibo Kené sacred visionary geometric textile"
+    },
+    {
+      "query": "Shipibo jar (UBC-2010)",
+      "intent": "Traditional Shipibo-Konibo painted ceramic chomo jar"
+    }
+  ],
+  "aymara-religions": [
+    {
+      "query": "Gate of the Sun",
+      "intent": "Gate of the Sun with the Staff Deity relief at Tiwanaku"
+    },
+    {
+      "query": "Aymara Yatiri ritual",
+      "intent": "Aymara Yatiri ritual mesa offering"
+    }
+  ],
+  "quechua-religions": [
+    {
+      "query": "Unku tunic textile Huari Nasca Peru",
+      "intent": "Sacred Andean woven unkhu ritual tunic"
+    },
+    {
+      "query": "Qoyllur R'Iti Shrine by night",
+      "intent": "Sanctuary of Señor de Qoyllur Rit'i at Sinakara by night"
+    }
+  ],
+  "aztec-religion": [
+    {
+      "query": "Aztec Sun Stone Piedra del Sol Mexico Museum",
+      "intent": "Aztec Sun Stone (Piedra del Sol)"
+    },
+    {
+      "query": "Templo Mayor ruins Tenochtitlan Mexico City",
+      "intent": "Templo Mayor archaeological pyramid sanctuary"
+    }
+  ],
+  "dine-religion": [
+    {
+      "query": "Navajo sacred sandpainting",
+      "intent": "Navajo sacred sandpainting of the Holy People (Yei)"
+    },
+    {
+      "query": "Shiprock volcanic rock formation",
+      "intent": "Shiprock (Tsé Bitʼaʼí), sacred winged rock peak"
+    }
+  ],
+  "ghost-dance": [
+    {
+      "query": "Ghost Dance shirt painted",
+      "intent": "Painted Ghost Dance sacred buckskin shirt"
+    },
+    {
+      "query": "Wovoka Jack Wilson Paiute",
+      "intent": "Portrait photograph of the prophet Wovoka (Jack Wilson)"
+    }
+  ],
+  "haudenosaunee-religion": [
+    {
+      "query": "Hiawatha wampum belt Iroquois Confederacy five nations",
+      "intent": "Hiawatha Wampum Belt of the Iroquois Confederacy"
+    },
+    {
+      "query": "Iroquois longhouse reconstructed",
+      "intent": "Traditional Haudenosaunee bark longhouse sanctuary"
+    }
+  ],
+  "hopi-religion": [
+    {
+      "query": "Hopi katsina kachina doll",
+      "intent": "Traditional Hopi carved cottonwood Katsina doll"
+    },
+    {
+      "query": "Old Oraibi Hopi village historic pueblo Arizona",
+      "intent": "Old Oraibi historic village sanctuary on Third Mesa"
+    }
+  ],
+  "inca-religion": [
+    {
+      "query": "Coricancha Temple of the",
+      "intent": "Curved ashlar masonry of the Coricancha Temple of the Sun"
+    },
+    {
+      "query": "Machu Picchu Intihuatana stone",
+      "intent": "Intihuatana sacred sun-tethering stone at Machu Picchu"
+    }
+  ],
+  "indigenous-american-religions": [
+    {
+      "query": "Bighorn Medicine Wheel Wyoming",
+      "intent": "Bighorn Medicine Wheel sacred stone alignment"
+    },
+    {
+      "query": "Calumet peace pipe catlinite bowl Plains Indian museum",
+      "intent": "Plains Indian carved catlinite ceremonial peace pipe"
+    }
+  ],
+  "inuit-religion": [
+    {
+      "query": "Inuksuk Inukshuk stone landmark",
+      "intent": "Traditional stone Inuksuk landmark and spiritual guide"
+    },
+    {
+      "query": "Inuit carved walrus ivory",
+      "intent": "Inuit traditional carved ivory or stone ritual talisman"
+    }
+  ],
+  "lakota-religion": [
+    {
+      "query": "Lakota sacred pipe",
+      "intent": "Lakota sacred Čhaŋnúŋpa pipe bowl"
+    },
+    {
+      "query": "Devils Tower Bear Lodge",
+      "intent": "Matȟó Thípila (Devils Tower), sacred Lakota ceremonial site"
+    }
+  ],
+  "maya-religion": [
+    {
+      "query": "El Castillo Chichen Itza pyramid equinox serpent",
+      "intent": "El Castillo pyramid of Kʼukʼulkan at Chichén Itzá"
+    },
+    {
+      "query": "Dresden Codex Maya hieroglyphic manuscript page",
+      "intent": "Astronomical and ritual page from the Dresden Codex"
+    }
+  ],
+  "purepecha-religion": [
+    {
+      "query": "Tzintzuntzan yacatas archaeological site Michoacan pyramids",
+      "intent": "Yácatas stepped ceremonial pyramids at Tzintzuntzan"
+    },
+    {
+      "query": "purepecha religion Purépecha",
+      "intent": "Purépecha carved stone chacmool offering sculpture"
+    }
+  ],
+  "zapotec-religion": [
+    {
+      "query": "Monte Alban Main Plaza",
+      "intent": "Monte Albán sacred acropolis and ceremonial plaza"
+    },
+    {
+      "query": "Zapotec ceramic funerary urn",
+      "intent": "Zapotec ceramic funerary urn depicting Cocijo"
+    }
+  ],
+  "native-american-church": [
+    {
+      "query": "Native American Church water",
+      "intent": "Ritual peyote water drum, beaded gourd rattle, and feather fan"
+    },
+    {
+      "query": "Native American Church tipi",
+      "intent": "Crescent moon earth altar inside a ceremonial peyote tipi"
+    }
+  ],
+  "anishinaabe-religions": [
+    {
+      "query": "Bandolier bag, Ojibwe People, Honolulu Museum of Art",
+      "intent": "Traditional Anishinaabe Ojibwe beaded bandolier ceremonial bag"
+    },
+    {
+      "query": "Lake Superior Provincial Park- Agawa Rock Pictographs",
+      "intent": "Agawa Rock sacred pictographs on Lake Superior"
+    }
+  ],
+  "cherokee-religions": [
+    {
+      "query": "Kituwah Mound Cherokee mother town sacred site",
+      "intent": "Kituwah Mound, sacred mother town of the Cherokee"
+    },
+    {
+      "query": "Cherokee Booger Mask",
+      "intent": "Cherokee carved wooden Booger Mask"
+    }
+  ],
+  "muscogee-religions": [
+    {
+      "query": "Ocmulgee Great Temple Mound",
+      "intent": "Muscogee Creek ceremonial square ground and central sacred fire"
+    },
+    {
+      "query": "Ocmulgee earth lodge interior",
+      "intent": "Ocmulgee ceremonial earth lodge interior and eagle platform"
+    }
+  ],
+  "tlingit-religions": [
+    {
+      "query": "Chilkat blanket Tlingit weaving Northwest Coast museum",
+      "intent": "Chilkat woven ceremonial robe of the Tlingit"
+    },
+    {
+      "query": "Tlingit clan house totem poles Sitka Alaska",
+      "intent": "Tlingit clan house and totemic crest poles at Sitka"
+    }
+  ],
+  "ainu-religion": [
+    {
+      "query": "Ainu Iyomante bear sacrifice",
+      "intent": "Ainu Iyomante bear spirit sending ritual"
+    },
+    {
+      "query": "Ainu traditional house chise",
+      "intent": "Traditional Ainu chise sacred dwelling and prayer altar"
+    }
+  ],
+  "mongolian-shamanism": [
+    {
+      "query": "Mongolian ovoo sacred",
+      "intent": "Mongolian ovoo sacred stone cairn draped with khadag"
+    },
+    {
+      "query": "Mongolian shaman costume",
+      "intent": "Mongolian shaman ritual regalia with brass toli mirror and drum"
+    }
+  ],
+  "siberian-shamanism": [
+    {
+      "query": "Yhyakh festival Sakha",
+      "intent": "Yhyakh festival ritual wooden serge pole in Sakha"
+    },
+    {
+      "query": "Shamanka Rock Shaman Rock Olkhon Island Lake Baikal",
+      "intent": "Shamanka Rock (Shaman Rock) on Olkhon Island, Lake Baikal"
+    }
+  ],
+  "tengrism": [
+    {
+      "query": "Tamgaly petroglyphs depicting",
+      "intent": "Tamgaly petroglyphs depicting the radiant solar deity"
+    },
+    {
+      "query": "Khan Tengri mountain peak sunset Tien Shan",
+      "intent": "Khan Tengri, the sacred Lord of the Spirits peak in the Tian Shan"
+    }
+  ],
+  "manichaeism": [
+    {
+      "query": "Mani stone statue",
+      "intent": "Mani stone statue at Cao'an Temple in Jinjiang"
+    },
+    {
+      "query": "Manichaean leaf Turpan",
+      "intent": "Illuminated Manichaean manuscript leaf from Turpan"
+    }
+  ],
+  "mazdakism": [
+    {
+      "query": "Sasanian silver plate king",
+      "intent": "Sasanian silver ceremonial vessel depicting courtly hierarchy"
+    },
+    {
+      "query": "Shahnameh manuscript painting Mazdak execution",
+      "intent": "Shahnameh miniature depicting the trial and execution of Mazdak"
+    }
+  ],
+  "gathic-zoroastrianism": [
+    {
+      "query": "Faravahar relief Persepolis stone",
+      "intent": "Winged Faravahar relief at Persepolis"
+    },
+    {
+      "query": "Avesta Yasna manuscript Avestan script",
+      "intent": "Illuminated Yasna manuscript containing the Gathas of Zarathustra"
+    }
+  ],
+  "iranian-zoroastrianism": [
+    {
+      "query": "Yazd Atash Behram Fire",
+      "intent": "Yazd Atash Behram Fire Temple sanctuary"
+    },
+    {
+      "query": "Chak Chak Pir-e Sabz Zoroastrian mountain shrine Iran",
+      "intent": "Chak Chak (Pir-e Sabz) mountain pilgrimage shrine"
+    }
+  ],
+  "khurramism": [
+    {
+      "query": "Babak Fort castle",
+      "intent": "Babak Fort (Ghal'eh-ye Babak) fortress sanctuary"
+    },
+    {
+      "query": "The mountain bastion",
+      "intent": "The mountain bastion of Babak Khorramdin"
+    }
+  ],
+  "parsi-zoroastrianism": [
+    {
+      "query": "Udvada Atash Behram fire",
+      "intent": "Udvada Atash Behram, the oldest continuous Parsi fire temple in India"
+    },
+    {
+      "query": "Parsi Navjote initiation ceremony",
+      "intent": "Parsi child undergoing the sacred Navjote investiture ceremony"
+    }
+  ],
+  "sasanian-zoroastrianism": [
+    {
+      "query": "Naqsh-e Rostam relief Ardashir I Ahura Mazda investiture",
+      "intent": "Investiture relief of Ardashir I and Ahura Mazda at Naqsh-e Rostam"
+    },
+    {
+      "query": "Takht-e Soleyman archaeological",
+      "intent": "Takht-e Soleyman archaeological sanctuary and sacred lake"
+    }
+  ],
+  "shabak-tradition": [
+    {
+      "query": "Mar Behnam Monastery",
+      "intent": "Shabak pilgrimage sanctuary on the Nineveh Plains"
+    },
+    {
+      "query": "Tomb of the Prophet Nahum",
+      "intent": "Sacred shrine on the Nineveh Plains"
+    }
+  ],
+  "yarsan": [
+    {
+      "query": "Tomb shrine of",
+      "intent": "Tomb shrine of Sultan Sahak at Perdiwar in Hawraman"
+    },
+    {
+      "query": "Tanbur lute Iranian",
+      "intent": "Sacred Tanbur lute used in Yarsan jam liturgical gatherings"
+    }
+  ],
+  "zoroastrianism": [
+    {
+      "query": "Persepolis Faravahar stone relief",
+      "intent": "Faravahar relief carved into the stone of Persepolis"
+    },
+    {
+      "query": "Zoroastrian eternal flame sacred",
+      "intent": "Sacred consecrated fire urn inside a Zoroastrian Atashkadeh"
+    }
+  ],
+  "zurvanism": [
+    {
+      "query": "Luristan bronze plaque",
+      "intent": "Luristan bronze relief depicting Zurvan giving birth to twins"
+    },
+    {
+      "query": "Naqsh-e Rajab rock relief Sasanian Persian",
+      "intent": "Sasanian rock relief at Naqsh-e Rajab"
+    }
+  ],
+  "aluk-todolo-toraja": [
+    {
+      "query": "Toraja Tongkonan traditional house",
+      "intent": "Carved saddle-roofed Tongkonan ancestral house"
+    },
+    {
+      "query": "Toraja tumbs",
+      "intent": "Toraja rock cliff graves and effigy balconies"
+    }
+  ],
+  "anitism-philippine-religion": [
+    {
+      "query": "Ifugao Bulul seated",
+      "intent": "Carved wooden seated Bulul rice guardian figure"
+    },
+    {
+      "query": "Manunggul Jar Neolithic secondary",
+      "intent": "The Manunggul Jar with boat of the dead lid"
+    }
+  ],
+  "australian-aboriginal-religions": [
+    {
+      "query": "Uluru Ayers Rock sandstone monolith Australia sunset",
+      "intent": "Uluru sacred sandstone monolith"
+    },
+    {
+      "query": "Kakadu rock art Nourlangie Namarrgon lightning man Australia",
+      "intent": "Nourlangie Rock painting depicting Namarrgon the Lightning Man"
+    }
+  ],
+  "yolngu-religions": [
+    {
+      "query": "Yolngu bark painting Arnhem Land Australian Aboriginal art",
+      "intent": "Traditional Yolŋu bark painting with rarrk cross-hatching"
+    },
+    {
+      "query": "Yidaki didgeridoo eucalyptus instrument painted",
+      "intent": "Authentic Yolŋu ceremonial Yidaki (didgeridoo)"
+    }
+  ],
+  "cargo-cult-movements": [
+    {
+      "query": "John Frum red cross",
+      "intent": "John Frum ritual red cross shrine at Sulphur Bay, Tanna"
+    },
+    {
+      "query": "John Frum flag raising ceremony Tanna Vanuatu",
+      "intent": "John Frum ceremonial flag-raising ritual on Tanna"
+    }
+  ],
+  "hawaiian-religion": [
+    {
+      "query": "Ku Hawaiian war god",
+      "intent": "Carved wooden Kiʻi temple image of the war god Kū"
+    },
+    {
+      "query": "Puuhonua o Honaunau National Historical Park heiau Hawaii",
+      "intent": "Puʻuhonua o Hōnaunau sacred royal sanctuary and place of refuge"
+    }
+  ],
+  "ifugao-bulul-traditions": [
+    {
+      "query": "Pair of male",
+      "intent": "Pair of male and female carved wooden Bulul guardian figures"
+    },
+    {
+      "query": "Batad Banaue Rice Terraces Ifugao Philippines landscape",
+      "intent": "Sacred Batad amphitheater rice terraces in Ifugao"
+    }
+  ],
+  "john-frum-movement": [
+    {
+      "query": "John Frum Day parade",
+      "intent": "John Frum Day ceremonial parade at Sulphur Bay, Tanna"
+    },
+    {
+      "query": "Mount Yasur active volcano",
+      "intent": "Mount Yasur active volcano, spiritual dwelling of John Frum"
+    }
+  ],
+  "kejawen-javanese-mysticism": [
+    {
+      "query": "Wayang kulit shadow puppet Semar Javanese leather",
+      "intent": "Wayang Kulit leather puppet of Semar, divine clown-deity"
+    },
+    {
+      "query": "Kraton Yogyakarta royal palace",
+      "intent": "Bangsal Kencono pavilion at the Keraton Yogyakarta royal palace"
+    }
+  ],
+  "maori-religion": [
+    {
+      "query": "Hei-tiki Maori nephrite jade pendant museum New Zealand",
+      "intent": "Hei-tiki nephrite pounamu ancestral pendant"
+    },
+    {
+      "query": "Wharenui carved meeting house",
+      "intent": "Carved Wharenui meeting house at Waitangi Marae"
+    }
+  ],
+  "maros-sulawesi-cave-art": [
+    {
+      "query": "Leang Tedongnge cave painting",
+      "intent": "Maros-Pangkep cave painting of a Sulawesi warty pig"
+    },
+    {
+      "query": "Leang Leang Maros cave",
+      "intent": "Prehistoric negative hand stencils at Leang-Leang cave"
+    }
+  ],
+  "melanesian-religions": [
+    {
+      "query": "Malagan funeral mask New Ireland Sweden museum",
+      "intent": "Malagan ceremonial carved wooden funerary mask from New Ireland"
+    },
+    {
+      "query": "Haus Tambaran spirit house",
+      "intent": "Haus Tambaran ancestral spirit house on the Sepik River"
+    }
+  ],
+  "fijian-religious-traditions": [
+    {
+      "query": "Tabua sperm whale tooth Fiji Honolulu Museum",
+      "intent": "Authentic Tabua polished sperm whale tooth from Fiji"
+    },
+    {
+      "query": "Bure Kalou Fijian temple",
+      "intent": "Historic thatched spire Bure Kalou spirit temple"
+    }
+  ],
+  "prince-philip-movement": [
+    {
+      "query": "Yaohnanen tribesmen Prince Philip Tanna Vanuatu",
+      "intent": "Yaohnanen elders presenting ceremonial portraits on Tanna"
+    },
+    {
+      "query": "Tanna island Vanuatu kastom",
+      "intent": "Traditional nakamal sacred meeting ground on Tanna"
+    }
+  ],
+  "micronesian-religions": [
+    {
+      "query": "Nan Madol megalithic",
+      "intent": "Nan Madol megalithic ceremonial complex at Pohnpei"
+    },
+    {
+      "query": "Dilukai Belau Palau Metropolitan Museum",
+      "intent": "Carved wooden Dilukai protective ancestral figure from Palau"
+    }
+  ],
+  "polynesian-religions": [
+    {
+      "query": "Tiki statue stone",
+      "intent": "Monumental stone carved Tiki statue of French Polynesia"
+    },
+    {
+      "query": "Taputapuātea international marae",
+      "intent": "Taputapuātea international marae sanctuary on Raiʻātea"
+    }
+  ],
+  "rapa-nui-religion": [
+    {
+      "query": "Ahu Tongariki 15 moai statues Easter Island Rapa Nui",
+      "intent": "Ahu Tongariki monumental moai platform on Rapa Nui"
+    },
+    {
+      "query": "Orongo ceremonial village petroglyphs",
+      "intent": "Tangata Manu (Birdman) petroglyphs at Orongo village"
+    }
+  ],
+  "samoan-religious-traditions": [
+    {
+      "query": "Samoan ava kava ceremony historical photograph",
+      "intent": "Samoan ʻava (kava) ritual ceremony and tanoa bowl"
+    },
+    {
+      "query": "Pulemelei mound ancient",
+      "intent": "Pulemelei Mound monumental stone pyramid on Savaiʻi"
+    }
+  ],
+  "tongan-religious-traditions": [
+    {
+      "query": "Haamonga a Maui trilithon",
+      "intent": "Haʻamonga ʻa Maui megalithic trilithon monument"
+    },
+    {
+      "query": "Burial tombs langi Mua Tongatapu",
+      "intent": "Langi monumental royal stone platform tombs at Muʻa"
+    }
+  ],
+  "ahimsa-ethics": [
+    {
+      "query": "Jain Ahimsa hand with",
+      "intent": "Jain Ahimsa symbol with the open hand and Dharmachakra"
+    },
+    {
+      "query": "Lion Capital of Ashoka Sarnath Archaeological Museum",
+      "intent": "Lion Capital of Ashoka at Sarnath"
+    }
+  ],
+  "aristotelian-virtue-ethics": [
+    {
+      "query": "Aristotle bust marble portrait Roman copy Louvre",
+      "intent": "Roman marble portrait bust of Aristotle"
+    },
+    {
+      "query": "Aristotle Nicomachean Ethics Greek manuscript leaf",
+      "intent": "Greek manuscript leaf of Aristotle's Nicomachean Ethics"
+    }
+  ],
+  "confucian-virtue-ethics": [
+    {
+      "query": "Stone tablet rubbing",
+      "intent": "Stone tablet rubbing of Confucius teaching by Wu Daozi"
+    },
+    {
+      "query": "Dacheng Hall Temple of Confucius Qufu Shandong",
+      "intent": "Dacheng Hall at the Temple of Confucius in Qufu"
+    }
+  ],
+  "egyptian-maat-ethics": [
+    {
+      "query": "Weighing of the Heart Papyrus of Ani British Museum",
+      "intent": "The Weighing of the Heart against the Feather of Ma'at"
+    },
+    {
+      "query": "Goddess Maat relief temple",
+      "intent": "Relief of the goddess Ma'at at Abydos"
+    }
+  ],
+  "human-rights-ethics": [
+    {
+      "query": "Eleanor Roosevelt holding Universal Declaration of Human Rights 1948",
+      "intent": "Eleanor Roosevelt with the Universal Declaration of Human Rights"
+    },
+    {
+      "query": "Cyrus Cylinder British Museum clay inscription",
+      "intent": "The Cyrus Cylinder ancient proclamation of religious freedom"
+    }
+  ],
+  "islamic-akhlaq-ethics": [
+    {
+      "query": "Al-Ghazali Ihya Ulum al-Din",
+      "intent": "Illuminated manuscript page of Al-Ghazālī's Iḥyāʾ ʿUlūm al-Dīn"
+    },
+    {
+      "query": "University of al-Qarawiyyin courtyard",
+      "intent": "Courtyard and library of the University of al-Qarawiyyin in Fez"
+    }
+  ],
+  "kantian-deontology": [
+    {
+      "query": "Immanuel Kant portrait painting Becker 1768",
+      "intent": "Portrait painting of Immanuel Kant"
+    },
+    {
+      "query": "Kritik der praktischen Vernunft first edition title page 1788",
+      "intent": "Title page of the first edition of the Critique of Practical Reason"
+    }
+  ],
+  "mesopotamian-justice-codes": [
+    {
+      "query": "Code of Hammurabi stele",
+      "intent": "Upper relief of the Hammurabi Stele showing Shamash and Hammurabi"
+    },
+    {
+      "query": "Stele of Vultures Louvre",
+      "intent": "Stele of the Vultures cuneiform monument"
+    }
+  ],
+  "stoic-cosmopolitanism": [
+    {
+      "query": "Equestrian Statue of Marcus Aurelius Capitoline Museum Rome",
+      "intent": "Bronze Equestrian Statue of Emperor Marcus Aurelius"
+    },
+    {
+      "query": "Marcus Aurelius Meditations Greek manuscript Vatican",
+      "intent": "Manuscript leaf containing the Meditations of Marcus Aurelius"
+    }
+  ],
+  "ubuntu-ethics": [
+    {
+      "query": "Nelson Mandela and Desmond",
+      "intent": "Nelson Mandela and Archbishop Desmond Tutu, icons of Ubuntu reconciliation"
+    },
+    {
+      "query": "Golden Rhinoceros of Mapungubwe",
+      "intent": "The Golden Rhinoceros of Mapungubwe royal treasure"
+    }
+  ],
+  "utilitarianism-ethics": [
+    {
+      "query": "Jeremy Bentham Auto-Icon University College London",
+      "intent": "Jeremy Bentham's Auto-Icon preservation at University College London"
+    },
+    {
+      "query": "John Stuart Mill portrait photograph John Watkins London",
+      "intent": "Portrait photograph of philosopher John Stuart Mill"
+    }
+  ],
+  "paleolithic-mortuary-cult": [
+    {
+      "query": "Sungir burial skeleton",
+      "intent": "Upper Paleolithic Sungir burial with mammoth ivory bead ornaments"
+    },
+    {
+      "query": "Shanidar Cave archaeological burial site in Iraqi Kurdistan",
+      "intent": "Shanidar Cave archaeological burial site in Iraqi Kurdistan"
+    }
+  ],
+  "upper-paleolithic-shamanism": [
+    {
+      "query": "Lowenmensch lion-man figurine",
+      "intent": "Löwenmensch lion-headed ivory figurine from Hohlenstein-Stadel"
+    },
+    {
+      "query": "Chauvet Cave horse panel",
+      "intent": "Upper Paleolithic animal wall paintings at Chauvet Cave"
+    }
+  ],
+  "venus-mother-cults": [
+    {
+      "query": "Venus of Willendorf limestone",
+      "intent": "The Venus of Willendorf carved limestone figurine"
+    },
+    {
+      "query": "Venus of Laussel limestone",
+      "intent": "The Venus of Laussel rock relief holding a horned cornucopia"
+    }
+  ],
+  "burmese-nat-worship": [
+    {
+      "query": "Mount Popa Taung Kalat monastery volcanic plug Myanmar",
+      "intent": "Taung Kalat monastery atop Mount Popa sacred volcanic plug"
+    },
+    {
+      "query": "37 Great Nats shrine",
+      "intent": "Shrine of the 37 Great Nats at Mount Popa"
+    }
+  ],
+  "tai-folk-religion": [
+    {
+      "query": "San Phra Phum Thai",
+      "intent": "San Phra Phum traditional Thai spirit house shrine"
+    },
+    {
+      "query": "Phi Ta Khon ghost",
+      "intent": "Phi Ta Khon painted ghost mask and festival attire"
+    }
+  ],
+  "ancient-astronaut-theory": [
+    {
+      "query": "Nazca Lines hummingbird geoglyph aerial Peru",
+      "intent": "Nazca Lines Hummingbird aerial geoglyph"
+    },
+    {
+      "query": "Pakal sarcophagus lid relief",
+      "intent": "Palenque sarcophagus lid carving of K'inich Janaab Pakal I"
+    }
+  ]
+}

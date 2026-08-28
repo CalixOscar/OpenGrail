@@ -49,22 +49,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Australian%20Aboriginal%20Religions'
 artifacts:
-  - title: Australian Aboriginal Religions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/australian-aboriginal-religions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Australian_Aboriginal_Religions'
-    provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
-    period: c. ancestral era
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Australian Aboriginal Religions.
-  - title: Oral traditions (community-governed) & Sacred Relics
-    imageUrl: /artifacts/australian-aboriginal-religions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Australian_Aboriginal_Religions'
-    provenance: 'Yolngu Country, Arnhem Land, NT, Australia'
-    period: c. ancestral era
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Australian Aboriginal Religions.
+  - title: "Uluru sacred sandstone monolith"
+    imageUrl: "/artifacts/australian-aboriginal-religions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ayers_rock_at_sunset_(47850034062).jpg"
+    provenance: "scott1346 from Mechanicsville, MD, USA; CC BY 2.0"
+    period: "Image dated 2019"
+    description: "This image shows Uluru sacred sandstone monolith, selected as a defining visual reference for Australian Aboriginal Religions."
+  - title: "Nourlangie Rock painting depicting Namarrgon the Lightning Man"
+    imageUrl: "/artifacts/australian-aboriginal-religions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Aboriginal_Art_Australia(2).jpg"
+    provenance: "Thomas Schoch; CC BY-SA 3.0"
+    period: "Image dated 2005"
+    description: "This image shows Nourlangie Rock painting depicting Namarrgon the Lightning Man, selected as a defining visual reference for Australian Aboriginal Religions."
 ---
 
 # Australian Aboriginal Religions

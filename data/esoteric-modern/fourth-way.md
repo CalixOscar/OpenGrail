@@ -46,22 +46,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: The Fourth Way'
     url: 'https://brill.com/search?q=The%20Fourth%20Way'
 artifacts:
-  - title: The Fourth Way Historical Sanctuary & Iconography
-    imageUrl: /artifacts/fourth-way-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/The_Fourth_Way'
-    provenance: 'London, England, UK'
-    period: c. early 20th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with The Fourth Way.
-  - title: All and Everything & Sacred Relics
-    imageUrl: /artifacts/fourth-way-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/The_Fourth_Way'
-    provenance: 'London, England, UK'
-    period: c. early 20th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of The
-      Fourth Way.
+  - title: "Fourth Way founder Gurdjieff"
+    imageUrl: "/artifacts/fourth-way-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Georges_Gurdjieff.JPG"
+    provenance: "Janet Flanner-Solita Solano papers.; Public domain"
+    period: "Image dated 1925"
+    description: "This image shows Fourth Way founder Gurdjieff, selected as a defining visual reference for The Fourth Way."
+  - title: "Gurdjieff's Prieure institute"
+    imageUrl: "/artifacts/fourth-way-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Prieur%C3%A9_des_Basses-Loges_%C3%A0_Avon_le_12_septembre_2014_-_1.jpg"
+    provenance: "Lionel Allorge; CC BY-SA 3.0"
+    period: "Image dated 2014"
+    description: "This image shows Gurdjieff's Prieure institute, selected as a defining visual reference for The Fourth Way."
 ---
 
 # The Fourth Way

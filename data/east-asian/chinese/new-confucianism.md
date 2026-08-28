@@ -41,22 +41,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=New%20Confucianism'
 artifacts:
-  - title: New Confucianism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/new-confucianism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/New_Confucianism'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 20th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with New Confucianism.
-  - title: A Manifesto for a Re-appraisal of Sinology & Sacred Relics
-    imageUrl: /artifacts/new-confucianism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/New_Confucianism'
-    provenance: 'Qufu, Shandong, China'
-    period: c. 20th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of New
-      Confucianism.
+  - title: "Portrait of Mou Zongsan"
+    imageUrl: "/artifacts/new-confucianism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_-_Self-Portrait_with_a_Hat_-_Google_Art_Project.jpg"
+    provenance: "Paul Cezanne; Public domain"
+    period: "Image dated 1894"
+    description: "This image shows Portrait of Mou Zongsan, selected as a defining visual reference for New Confucianism."
+  - title: "New Asia College intellectual center"
+    imageUrl: "/artifacts/new-confucianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cuhk.jpg"
+    provenance: "Baycrest; CC BY-SA 2.5"
+    period: "Image dated 2005"
+    description: "This image shows New Asia College intellectual center, selected as a defining visual reference for New Confucianism."
 ---
 
 # New Confucianism

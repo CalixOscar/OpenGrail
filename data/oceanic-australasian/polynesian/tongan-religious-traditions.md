@@ -50,22 +50,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Tongan%20Religious%20Traditions'
 artifacts:
-  - title: Tongan Religious Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/tongan-religious-traditions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tongan_Religious_Traditions'
-    provenance: 'Tongatapu (Nuku''alofa), Kingdom of Tonga'
-    period: c. precolonial
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Tongan Religious Traditions.
-  - title: Tongan oral genealogies & Sacred Relics
-    imageUrl: /artifacts/tongan-religious-traditions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tongan_Religious_Traditions'
-    provenance: 'Tongatapu (Nuku''alofa), Kingdom of Tonga'
-    period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Tongan Religious Traditions.
+  - title: "Haʻamonga ʻa Maui megalithic trilithon monument"
+    imageUrl: "/artifacts/tongan-religious-traditions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:TO-Haamonga_A_Maui.JPG"
+    provenance: "Hobe / Holger Behr; Public domain"
+    period: "Image dated 1990"
+    description: "This image shows Haʻamonga ʻa Maui megalithic trilithon monument, selected as a defining visual reference for Tongan Religious Traditions."
+  - title: "Langi monumental royal stone platform tombs at Muʻa"
+    imageUrl: "/artifacts/tongan-religious-traditions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Langi-Tau%E2%80%98atonga.jpg"
+    provenance: "Tauʻolunga; CC BY-SA 3.0"
+    period: "Image dated 2006"
+    description: "This image shows Langi monumental royal stone platform tombs at Muʻa, selected as a defining visual reference for Tongan Religious Traditions."
 ---
 
 # Tongan Religious Traditions

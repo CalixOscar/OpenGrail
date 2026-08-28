@@ -50,22 +50,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & “Nestorianism”'
     url: 'https://www.cambridge.org/core/search?q=%E2%80%9CNestorianism%E2%80%9D'
 artifacts:
-  - title: “Nestorianism” (Historical Category) Historical Sanctuary & Iconography
-    imageUrl: /artifacts/nestorianism-historical-category-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%E2%80%9CNestorianism%E2%80%9D'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 5th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with “Nestorianism” (Historical Category).
-  - title: Bazaar of Heracleides & Sacred Relics
-    imageUrl: /artifacts/nestorianism-historical-category-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%E2%80%9CNestorianism%E2%80%9D'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 5th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      “Nestorianism” (Historical Category).
+  - title: "Nestorian cross carving from the Church of the East"
+    imageUrl: "/artifacts/nestorianism-historical-category-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Flora_Sinensis_-_Nestorian_Stele.JPG"
+    provenance: "Michael Boym (Michał Piotr Boym); Public domain"
+    period: "Image dated 1656"
+    description: "This image shows Nestorian cross carving from the Church of the East, selected as a defining visual reference for “Nestorianism” (Historical Category)."
+  - title: "Xi'an Stele documenting East Syriac Christianity in Tang China"
+    imageUrl: "/artifacts/nestorianism-historical-category-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Xian_May_2007_033.jpg"
+    provenance: "G41rn8; CC BY-SA 4.0"
+    period: "781 AD"
+    description: "This image shows Xi'an Stele documenting East Syriac Christianity in Tang China, selected as a defining visual reference for “Nestorianism” (Historical Category)."
 ---
 
 # “Nestorianism” (Historical Category)

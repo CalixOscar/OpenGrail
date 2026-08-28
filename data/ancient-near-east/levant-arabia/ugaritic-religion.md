@@ -46,22 +46,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ugaritic Religion'
     url: 'https://brill.com/search?q=Ugaritic%20Religion'
 artifacts:
-  - title: Ugaritic Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ugaritic-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ugaritic_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1500 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ugaritic Religion.
-  - title: Baal Cycle & Sacred Relics
-    imageUrl: /artifacts/ugaritic-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ugaritic_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1500 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ugaritic Religion.
+  - title: "Ugaritic Baal stele"
+    imageUrl: "/artifacts/ugaritic-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Louvre_-_Ugaritic_stelae.jpg"
+    provenance: "Rama; CC BY-SA 3.0 fr"
+    period: "Digital file published 2006"
+    description: "This image shows Ugaritic Baal stele, selected as a defining visual reference for Ugaritic Religion."
+  - title: "Baal Cycle tablet"
+    imageUrl: "/artifacts/ugaritic-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:A_cylinder_seal_from_Mari_with_a_divine_scene_of_order_and_chaos.jpg"
+    provenance: "פעמי-עליון; CC BY-SA 4.0"
+    period: "2159 BC"
+    description: "This image shows Baal Cycle tablet, selected as a defining visual reference for Ugaritic Religion."
 ---
 
 # Ugaritic Religion

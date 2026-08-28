@@ -47,22 +47,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=P%C5%ABrva%20M%C4%ABm%C4%81%E1%B9%83s%C4%81
 artifacts:
-  - title: Pūrva Mīmāṃsā Historical Sanctuary & Iconography
-    imageUrl: /artifacts/purva-mimamsa-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/P%C5%ABrva_M%C4%ABm%C4%81%E1%B9%83s%C4%81'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Pūrva Mīmāṃsā.
-  - title: Mīmāṃsā Sūtra & Sacred Relics
-    imageUrl: /artifacts/purva-mimamsa-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/P%C5%ABrva_M%C4%ABm%C4%81%E1%B9%83s%C4%81'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Pūrva
-      Mīmāṃsā.
+  - title: "Sacred Vedic Yajna ritual and sacrificial fire altar of Purva Mimamsa"
+    imageUrl: "/artifacts/purva-mimamsa-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%E0%A4%A4%E0%A5%81%E0%A4%B2%E0%A4%BE_Balance.jpg"
+    provenance: "Puranastudy; CC BY-SA 4.0"
+    period: "Image dated 2020"
+    description: "This image shows Sacred Vedic Yajna ritual and sacrificial fire altar of Purva Mimamsa, selected as a defining visual reference for Pūrva Mīmāṃsā."
+  - title: "Sanskrit manuscript of the Mimamsa Sutra"
+    imageUrl: "/artifacts/purva-mimamsa-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:16th-century_Jaiminiya_Mimamsa_Sutra_Bhasya,_Sanskrit,_Telugu_script,_Andhra_Pradesh.jpg"
+    provenance: "Ms Sarah Welch; CC BY-SA 4.0"
+    period: "16th-century"
+    description: "This image shows Sanskrit manuscript of the Mimamsa Sutra, selected as a defining visual reference for Pūrva Mīmāṃsā."
 ---
 
 # Pūrva Mīmāṃsā

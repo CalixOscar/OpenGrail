@@ -42,22 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Hanafi School'
     url: 'https://www.cambridge.org/core/search?q=Hanafi%20School'
 artifacts:
-  - title: Hanafi School Historical Sanctuary & Iconography
-    imageUrl: /artifacts/hanafi-school-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hanafi_School'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 8th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Hanafi School.
-  - title: Al-Asl & Sacred Relics
-    imageUrl: /artifacts/hanafi-school-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hanafi_School'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 8th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Hanafi School.
+  - title: "Abu Hanifa Mosque and mausoleum in Baghdad"
+    imageUrl: "/artifacts/hanafi-school-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Abu_hanifa_1.JPG"
+    provenance: "Moshtakmoshtak; CC BY-SA 3.0"
+    period: "Image dated 2014"
+    description: "This image shows Abu Hanifa Mosque and mausoleum in Baghdad, selected as a defining visual reference for Hanafi School."
+  - title: "Manuscript of al-Marghinani's Hanafi legal classic al-Hidaya"
+    imageUrl: "/artifacts/hanafi-school-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Abu_Hanifa_Name.png"
+    provenance: "بلال الدويك; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Manuscript of al-Marghinani's Hanafi legal classic al-Hidaya, selected as a defining visual reference for Hanafi School."
 ---
 
 # Hanafi School

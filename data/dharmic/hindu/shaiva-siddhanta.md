@@ -45,22 +45,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9Aaiva%20Siddh%C4%81nta'
 artifacts:
-  - title: Śaiva Siddhānta Historical Sanctuary & Iconography
-    imageUrl: /artifacts/shaiva-siddhanta-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Aaiva_Siddh%C4%81nta'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th–8th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Śaiva Siddhānta.
-  - title: Śaiva Siddhānta Āgamas & Sacred Relics
-    imageUrl: /artifacts/shaiva-siddhanta-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Aaiva_Siddh%C4%81nta'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th–8th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Śaiva
-      Siddhānta.
+  - title: "Chola bronze of Nataraja, supreme icon of Tamil Saiva worship"
+    imageUrl: "/artifacts/shaiva-siddhanta-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shiva_as_the_Lord_of_Dance_LACMA_edit.jpg"
+    provenance: "Shiva_as_the_Lord_of_Dance_LACMA.jpg , photographed by the LACMA. derivative work: Julia \\ talk; Public domain"
+    period: "Image dated 1000"
+    description: "This image shows Chola bronze of Nataraja, supreme icon of Tamil Saiva worship, selected as a defining visual reference for Śaiva Siddhānta."
+  - title: "Chidambaram Nataraja Temple, central Saiva Siddhanta sanctuary"
+    imageUrl: "/artifacts/shaiva-siddhanta-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Chidambaram_Nataraja_temple_tank.JPG"
+    provenance: "BishkekRocks; CC BY-SA 3.0"
+    period: "Image dated 2008"
+    description: "This image shows Chidambaram Nataraja Temple, central Saiva Siddhanta sanctuary, selected as a defining visual reference for Śaiva Siddhānta."
 ---
 
 # Śaiva Siddhānta

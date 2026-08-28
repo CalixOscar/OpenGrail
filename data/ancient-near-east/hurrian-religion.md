@@ -40,22 +40,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hurrian Religion'
     url: 'https://brill.com/search?q=Hurrian%20Religion'
 artifacts:
-  - title: Hurrian Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/hurrian-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hurrian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2200 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Hurrian Religion.
-  - title: Song of Kumarbi & Sacred Relics
-    imageUrl: /artifacts/hurrian-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hurrian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2200 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Hurrian Religion.
+  - title: "Teshub and Hebat relief"
+    imageUrl: "/artifacts/hurrian-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Yazilikaya_Sharruma.jpg"
+    provenance: "Charles Texier; Public domain"
+    period: "Image dated 1862"
+    description: "This image shows Teshub and Hebat relief, selected as a defining visual reference for Hurrian Religion."
+  - title: "Hurrian hymn tablet"
+    imageUrl: "/artifacts/hurrian-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ugarit_Corbel.jpg"
+    provenance: "Disdero ( talk · contribs ); CC BY 3.0"
+    period: "Image dated 2005"
+    description: "This image shows Hurrian hymn tablet, selected as a defining visual reference for Hurrian Religion."
 ---
 
 # Hurrian Religion

@@ -43,22 +43,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Caodong%20Chan'
 artifacts:
-  - title: Caodong Chan Historical Sanctuary & Iconography
-    imageUrl: /artifacts/caodong-chan-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Caodong_Chan'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 9th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Caodong Chan.
-  - title: Record of Dongshan & Sacred Relics
-    imageUrl: /artifacts/caodong-chan-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Caodong_Chan'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 9th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Caodong Chan.
+  - title: "Dongshan Liangjie, founding teacher of the Caodong lineage"
+    imageUrl: "/artifacts/caodong-chan-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Caoshan_Benji-Fozu_zhengzong_daoying39.jpg"
+    provenance: "Artist unknown (Shouyi (守一), Kongcheng (空成) authors); Public domain"
+    period: "Image dated 2012"
+    description: "This image shows Dongshan Liangjie, founding teacher of the Caodong lineage, selected as a defining visual reference for Caodong Chan."
+  - title: "Puli Temple on Mount Dong, the lineage site of Dongshan Liangjie"
+    imageUrl: "/artifacts/caodong-chan-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%E5%9F%94%E9%87%8C%E6%B9%84%E6%B4%B2%E5%A4%A7%E5%AA%BD.JPG"
+    provenance: "Suzuki1314 at Chinese Wikipedia; Public domain"
+    period: "Image dated 2013"
+    description: "This image shows Puli Temple on Mount Dong, the lineage site of Dongshan Liangjie, selected as a defining visual reference for Caodong Chan."
 ---
 
 # Caodong Chan

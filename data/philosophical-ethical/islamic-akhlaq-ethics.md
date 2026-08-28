@@ -43,20 +43,18 @@ sources:
   - title: 'Jasser Auda: "Maqasid al-Shariah as Philosophy of Islamic Law"'
     url: 'https://iiit.org/'
 artifacts:
-  - title: Calligraphic Emblem of Imam Al-Ghazali (Master of Ethical Sciences)
-    imageUrl: /artifacts/islamic-akhlaq-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Al-Ghazali
-    provenance: Baghdad & Nishapur
-    period: c. 1100 CE
-    description: >-
-      Arabic calligraphy commemorating Imam Al-Ghazali whose masterpiece Ihya 'Ulum al-Din harmonized rational philosophy, law, and Sufi character ethics.
-  - title: The Grand House of Wisdom (Bayt al-Hikma) of Baghdad
-    imageUrl: /artifacts/islamic-akhlaq-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/House_of_Wisdom
-    provenance: Abbasid Baghdad, Iraq
-    period: c. 8th–13th century CE
-    description: >-
-      Historic academy where scholars translated Aristotle and Plato into Arabic, synthesizing Greek virtue ethics with Islamic moral revelation.
+  - title: "Illuminated manuscript page of Al-Ghazali's Ihyaʾ ʿUlum al-Din"
+    imageUrl: "/artifacts/islamic-akhlaq-ethics-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Illuminated_Opening_of_the_Eighth_Section_of_Ihya%27_%60Ulum_al-Din_(Revivification_of_the_Religious_Sciences)_by_Muhammed_al-Ghazali_al-Tusi,_Endowed_by_the_Mamluk_Sultan_Abu%27l_Nasr_Qaytbay_LACMA_M.73.5.516.jpg"
+    provenance: "Wikimedia Commons; Public domain"
+    period: "15th century"
+    description: "This image shows Illuminated manuscript page of Al-Ghazali's Ihyaʾ ʿUlum al-Din, selected as a defining visual reference for Ilm al-Akhlāq & Maqāṣid al-Sharī'ah (Islamic Ethics)."
+  - title: "Courtyard and library of the University of al-Qarawiyyin in Fez"
+    imageUrl: "/artifacts/islamic-akhlaq-ethics-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Al-Qarawiyyin01.jpg"
+    provenance: "Khonsali; CC BY-SA 3.0"
+    period: "Digital file published 2008"
+    description: "This image shows Courtyard and library of the University of al-Qarawiyyin in Fez, selected as a defining visual reference for Ilm al-Akhlāq & Maqāṣid al-Sharī'ah (Islamic Ethics)."
 ---
 
 # 'Ilm al-Akhlāq & Maqāṣid al-Sharī'ah (Islamic Ethics)
