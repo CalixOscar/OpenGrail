@@ -3180,15 +3180,14 @@ button,
 .document-feedback__bar {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  flex-wrap: wrap;
 }
 
 .document-feedback__vote-group {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 7px;
+  flex-wrap: wrap;
+  width: 100%;
 }
 
 .document-feedback__label {
