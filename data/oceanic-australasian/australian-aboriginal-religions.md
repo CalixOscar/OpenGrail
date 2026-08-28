@@ -3,7 +3,7 @@ id: australian-aboriginal-religions
 title: Australian Aboriginal Religions
 cluster: Indigenous & Diasporic
 color: '#a8784f'
-era_start: ancestral era
+era_start: 'c. 65,000 BCE to present'
 epistemic_tier: academic_consensus
 summary: >-
   Country-, language-, and kin-specific religious traditions of Aboriginal
@@ -15,8 +15,14 @@ canonical_texts:
 relations:
   - target: animist-frameworks
     type: parallel_concept
-    certainty: minority_scholarly
-origin_year: 0
+    certainty: academic_consensus
+  - target: ancestor-veneration
+    type: parallel_concept
+    certainty: academic_consensus
+  - target: paleolithic-mortuary-cult
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: -65000
 origin_geo:
   lat: -12.8236
   lng: 134.582

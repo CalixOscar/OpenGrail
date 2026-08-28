@@ -3,7 +3,7 @@ id: animist-frameworks
 title: Animist Frameworks
 cluster: Indigenous & Diasporic
 color: '#b48655'
-era_start: ancient practices; 19th-century category
+era_start: 'c. 100,000 BCE to present'
 epistemic_tier: minority_scholarly
 summary: >-
   A contested comparative category for worlds in which humans relate socially
@@ -12,10 +12,13 @@ canonical_texts:
   - Community-specific oral traditions
   - Ritual and ecological knowledge corpora
 relations:
-  - target: ancestor-veneration
+  - target: paleolithic-mortuary-cult
     type: parallel_concept
     certainty: academic_consensus
-origin_year: 19
+  - target: australian-aboriginal-religions
+    type: parallel_concept
+    certainty: academic_consensus
+origin_year: -100000
 origin_geo:
   lat: 7.2239
   lng: 4.6443
