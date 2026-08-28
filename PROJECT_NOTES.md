@@ -22,12 +22,12 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Ready — Full MIT open source transition, deep linking, community contribution workflow, and README overhaul completed and verified.
-**Task:** Open source transition to 100% MIT, add deep linking URL hash state, create CONTRIBUTING.md, and overhaul README for GitHub discoverability.
-**Files touched:** `LICENSE`, `package.json`, `README.md`, `CONTRIBUTING.md`, `data/_template.md`, `src/state/AtlasState.tsx`, `scripts/build-graph.js`, all 17 source/script SPDX headers, `PROJECT_NOTES.md`.
-**Next step:** Sync to deployment repo and push to GitHub.
-**Gotchas:** `findMarkdownFiles` in `scripts/build-graph.js` skips any `.md` file starting with `_` to keep `data/_template.md` out of compiled `public/graph.json`.
-**Left by:** Antigravity (2026-08-28)
+**Status:** Ready — Side-by-Side Tradition Comparison Mode implemented, built, and verified.
+**Task:** Build interactive comparative analysis modal with direct relationship detection, graph intersection, chronology deltas, and parallel tenets matrix.
+**Files touched:** `src/components/ComparisonModal.tsx`, `src/components/DocumentPane.tsx`, `src/state/AtlasState.tsx`, `src/App.tsx`, `src/index.css`, `PROJECT_NOTES.md`.
+**Next step:** Push to GitHub and deploy live.
+**Gotchas:** Supports deep linking via `#compare=nodeA+nodeB` or `&compare=nodeB`.
+**Left by:** Antigravity (2026-08-29)
 
 ## Decisions Log
 <!-- Append dated decisions below. Keep entries short; put detailed plans in repo docs. -->
@@ -154,4 +154,14 @@ supporting direct node focus and browser history navigation. Created `CONTRIBUTI
 for open community contributions. Rewrote `README.md` with badges, live demo links, comprehensive
 feature overviews, and acknowledgements crediting Simon E. Davies / Mythopia (*The Great Tree of Religion*).
 Production build verified cleanly at 573 nodes, 11 clusters, and 903 links.
+
+### 2026-08-29 — Side-by-side tradition comparison mode
+Implemented interactive comparative analysis modal (`src/components/ComparisonModal.tsx`) allowing
+users to compare any two traditions across all 573 records. Features automatic direct relationship
+detection with citations and certainty tiers, graph intersection discovery (shared ancestral influences
+and common offshoots), chronological time-delta calculation, geographic distance measurement, parallel
+tenets and canonical texts side-by-side matrices, and authentic visual artifacts galleries. Integrated
+URL hash deep linking (`#compare=stoicism+buddhism`), quick tradition switcher search, and comparison
+entry points in topbar, mobile nav, and document reader. Build passes cleanly.
+
 

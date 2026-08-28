@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: MIT */
 
 import {
+  ArrowLeftRight,
   BookOpen,
   Calendar,
   LocateFixed,
@@ -23,6 +24,7 @@ import {
   useState,
   type FormEvent,
 } from 'react';
+import ComparisonModal from './components/ComparisonModal';
 import DocumentPane from './components/DocumentPane';
 import FilterBar from './components/FilterBar';
 import GraphCanvas, {
@@ -63,6 +65,7 @@ function AppContent() {
   const [showTimeline, setShowTimeline] = useState(true);
   const [clusterLayout, setClusterLayout] = useState(true);
   const [searchFocused, setSearchFocused] = useState(false);
+  const [comparisonModalOpen, setComparisonModalOpen] = useState(false);
   const searchLabelTimerRef = useRef<number | null>(null);
 
   const {
@@ -70,6 +73,10 @@ function AppContent() {
     viewMode,
     selectedNodeId,
     selectedLinkId,
+    compareNodeId,
+    setCompareNodeId,
+    clearComparison,
+    swapComparison,
     selectNode: contextSelectNode,
     selectLink: contextSelectLink,
     clearSelection,
@@ -82,6 +89,18 @@ function AppContent() {
     toggleRelationType,
     resetFilters,
   } = useAtlasState();
+
+  const nodeA = useMemo(
+    () => graphData.nodes.find((n) => n.id === selectedNodeId) ?? null,
+    [graphData.nodes, selectedNodeId],
+  );
+
+  const nodeB = useMemo(
+    () => graphData.nodes.find((n) => n.id === compareNodeId) ?? null,
+    [compareNodeId, graphData.nodes],
+  );
+
+  const isComparisonActive = comparisonModalOpen || Boolean(selectedNodeId && compareNodeId);
 
   const SEARCH_LABEL_HIDE_DELAY = 4000; // ms before search labels auto-fade
 
@@ -306,6 +325,25 @@ function AppContent() {
 
             <ViewSwitcher />
 
+            <div className="tool-group tool-group--compare" aria-label="Comparison mode">
+              <span className="tool-group__label">Compare</span>
+              <button
+                className={`layer-toggle-btn${isComparisonActive ? ' layer-toggle-btn--active' : ''}`}
+                type="button"
+                onClick={() => {
+                  if (!selectedNodeId && graphData.nodes.length > 0) {
+                    selectNode('stoicism');
+                  }
+                  setComparisonModalOpen(true);
+                }}
+                aria-pressed={isComparisonActive}
+                title="Compare traditions side-by-side"
+              >
+                <ArrowLeftRight size={15} />
+                <span>Compare</span>
+              </button>
+            </div>
+
             {viewMode === 'brain' && (
               <>
                 <div className="tool-group" aria-label="Zoom controls">
@@ -511,12 +549,31 @@ function AppContent() {
             selectedLink={selectedLink}
             nodes={graphData.nodes}
             links={graphData.links}
-            open={documentOpen && Boolean(selectedNode || selectedLink)}
+            open={documentOpen && Boolean(selectedNode || selectedLink) && !isComparisonActive}
             onClose={() => {
               setDocumentOpen(false);
               clearSelection();
             }}
             onSelectNode={(id) => selectNode(id)}
+            onCompare={(id) => {
+              selectNode(id);
+              setComparisonModalOpen(true);
+            }}
+          />
+
+          <ComparisonModal
+            nodeA={nodeA}
+            nodeB={nodeB}
+            nodes={graphData.nodes}
+            links={graphData.links}
+            open={isComparisonActive}
+            onClose={() => {
+              setComparisonModalOpen(false);
+              clearComparison();
+            }}
+            onSelectNodeA={(id) => selectNode(id)}
+            onSelectNodeB={(id) => setCompareNodeId(id)}
+            onSwap={swapComparison}
           />
         </section>
 
@@ -544,6 +601,20 @@ function AppContent() {
           >
             <SlidersHorizontal size={18} />
             <span>Filters</span>
+          </button>
+
+          <button
+            type="button"
+            className={`mobile-nav-item ${isComparisonActive ? 'mobile-nav-item--active' : ''}`}
+            onClick={() => {
+              if (!selectedNodeId && graphData.nodes.length > 0) {
+                selectNode('stoicism');
+              }
+              setComparisonModalOpen(true);
+            }}
+          >
+            <ArrowLeftRight size={18} />
+            <span>Compare</span>
           </button>
 
           <button

@@ -25,6 +25,11 @@ export interface AtlasStateContextValue {
   setViewMode: (mode: ViewMode) => void;
   selectedNodeId: string | null;
   selectedLinkId: string | null;
+  compareNodeId: string | null;
+  setCompareNodeId: (nodeId: string | null) => void;
+  startComparison: (nodeAId: string, nodeBId?: string | null) => void;
+  clearComparison: () => void;
+  swapComparison: () => void;
   selectNode: (nodeId: string | null) => void;
   selectLink: (linkId: string | null) => void;
   clearSelection: () => void;
@@ -46,30 +51,48 @@ export interface AtlasProviderProps {
   initialYear?: number;
 }
 
-function parseHash(hash: string): { nodeId: string | null; view: ViewMode | null } {
-  if (typeof window === 'undefined') return { nodeId: null, view: null };
+function parseHash(hash: string): {
+  nodeId: string | null;
+  compareId: string | null;
+  view: ViewMode | null;
+} {
+  if (typeof window === 'undefined') return { nodeId: null, compareId: null, view: null };
   const clean = hash.replace(/^#\/?/, '').trim();
-  if (!clean) return { nodeId: null, view: null };
+  if (!clean) return { nodeId: null, compareId: null, view: null };
 
   const params = new URLSearchParams(clean);
-  const nodeId = params.get('tradition') || params.get('node') || null;
+  let nodeId = params.get('tradition') || params.get('node') || null;
+  let compareId = params.get('compare') || null;
+
+  if (compareId && (compareId.includes('+') || compareId.includes(',') || compareId.includes(' '))) {
+    const parts = compareId.split(/[\+,\s]+/).filter(Boolean);
+    if (parts.length >= 2) {
+      nodeId = parts[0];
+      compareId = parts[1];
+    }
+  }
+
   const viewParam = params.get('view');
   const view = (viewParam === 'brain' || viewParam === 'map') ? (viewParam as ViewMode) : null;
 
-  if (!nodeId && !view) {
+  if (!nodeId && !compareId && !view) {
     if (clean === 'map' || clean === 'brain') {
-      return { nodeId: null, view: clean as ViewMode };
+      return { nodeId: null, compareId: null, view: clean as ViewMode };
     }
-    return { nodeId: clean, view: null };
+    return { nodeId: clean, compareId: null, view: null };
   }
 
-  return { nodeId, view };
+  return { nodeId, compareId, view };
 }
 
-function syncHash(nodeId: string | null, view: ViewMode) {
+function syncHash(nodeId: string | null, compareId: string | null, view: ViewMode) {
   if (typeof window === 'undefined') return;
   const params = new URLSearchParams();
-  if (nodeId) params.set('tradition', nodeId);
+  if (nodeId && compareId) {
+    params.set('compare', `${nodeId}+${compareId}`);
+  } else if (nodeId) {
+    params.set('tradition', nodeId);
+  }
   if (view !== 'brain') params.set('view', view);
 
   const queryString = params.toString();
@@ -85,11 +108,14 @@ export function AtlasProvider({
   children,
   initialYear = new Date().getFullYear(),
 }: AtlasProviderProps) {
-  const initialHash = typeof window !== 'undefined' ? parseHash(window.location.hash) : { nodeId: null, view: null };
+  const initialHash = typeof window !== 'undefined'
+    ? parseHash(window.location.hash)
+    : { nodeId: null, compareId: null, view: null };
 
   const [currentYear, setCurrentYear] = useState<number>(initialYear);
   const [viewMode, setViewMode] = useState<ViewMode>(initialHash.view ?? 'brain');
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(initialHash.nodeId);
+  const [compareNodeId, setCompareNodeId] = useState<string | null>(initialHash.compareId);
   const [selectedLinkId, setSelectedLinkId] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState<string>('');
   const [searchLabelsVisible, setSearchLabelsVisible] = useState<boolean>(true);
@@ -97,9 +123,10 @@ export function AtlasProvider({
   // Synchronize state when URL hash changes externally (e.g. browser back/forward)
   useEffect(() => {
     const handleHashChange = () => {
-      const { nodeId, view } = parseHash(window.location.hash);
+      const { nodeId, compareId, view } = parseHash(window.location.hash);
       setSelectedNodeId(nodeId);
-      if (nodeId) setSelectedLinkId(null);
+      setCompareNodeId(compareId);
+      if (nodeId || compareId) setSelectedLinkId(null);
       if (view) setViewMode(view);
     };
 
@@ -107,10 +134,10 @@ export function AtlasProvider({
     return () => window.removeEventListener('hashchange', handleHashChange);
   }, []);
 
-  // Synchronize URL hash when node selection or viewMode changes
+  // Synchronize URL hash when node selection, compareNodeId, or viewMode changes
   useEffect(() => {
-    syncHash(selectedNodeId, viewMode);
-  }, [selectedNodeId, viewMode]);
+    syncHash(selectedNodeId, compareNodeId, viewMode);
+  }, [selectedNodeId, compareNodeId, viewMode]);
 
   const [activeTiers, setActiveTiers] = useState<Set<EpistemicTier>>(
     () => new Set(EPISTEMIC_TIERS),
@@ -126,13 +153,35 @@ export function AtlasProvider({
 
   const selectLink = useCallback((linkId: string | null) => {
     setSelectedLinkId(linkId);
-    if (linkId) setSelectedNodeId(null);
+    if (linkId) {
+      setSelectedNodeId(null);
+      setCompareNodeId(null);
+    }
   }, []);
 
   const clearSelection = useCallback(() => {
     setSelectedNodeId(null);
+    setCompareNodeId(null);
     setSelectedLinkId(null);
   }, []);
+
+  const startComparison = useCallback((nodeAId: string, nodeBId?: string | null) => {
+    setSelectedNodeId(nodeAId);
+    setCompareNodeId(nodeBId || null);
+    setSelectedLinkId(null);
+  }, []);
+
+  const clearComparison = useCallback(() => {
+    setCompareNodeId(null);
+  }, []);
+
+  const swapComparison = useCallback(() => {
+    if (!selectedNodeId && !compareNodeId) return;
+    const prevA = selectedNodeId;
+    const prevB = compareNodeId;
+    setSelectedNodeId(prevB);
+    setCompareNodeId(prevA);
+  }, [compareNodeId, selectedNodeId]);
 
   const toggleTier = useCallback((tier: EpistemicTier) => {
     setActiveTiers((current) => {
@@ -165,6 +214,11 @@ export function AtlasProvider({
       setViewMode,
       selectedNodeId,
       selectedLinkId,
+      compareNodeId,
+      setCompareNodeId,
+      startComparison,
+      clearComparison,
+      swapComparison,
       selectNode,
       selectLink,
       clearSelection,
@@ -181,7 +235,9 @@ export function AtlasProvider({
     [
       activeRelationTypes,
       activeTiers,
+      clearComparison,
       clearSelection,
+      compareNodeId,
       currentYear,
       resetFilters,
       searchLabelsVisible,
@@ -190,6 +246,8 @@ export function AtlasProvider({
       selectNode,
       selectedLinkId,
       selectedNodeId,
+      startComparison,
+      swapComparison,
       toggleRelationType,
       toggleTier,
       viewMode,
