@@ -17,6 +17,7 @@ import {
   type TraditionArtifact,
 } from "../types/graph";
 import { formatYearLabel } from "./TimelineScrubber";
+import { DocumentFeedback } from "./DocumentFeedback";
 
 export interface DocumentPaneProps {
   selectedNode: GraphNode | null;
@@ -738,6 +739,9 @@ export default function DocumentPane({
             onSelectNode={onSelectNode}
           />
         </section>
+
+        {/* Community Verification, Upvotes & Correction Suggestions */}
+        <DocumentFeedback node={selectedNode} />
       </div>
 
       {/* Lightbox Modal for Full-Size Artifact Inspection */}

@@ -28,49 +28,112 @@ origin_geo:
 extinct_year: 1100
 key_tenets:
   - >-
-    Foundational Doctrine: Norse religion is reconstructed from archaeology,
-    place-names, runic inscriptions, skaldic verse, and medieval manuscripts
-    written largely after Christianizatio...
+    Foundational Cosmology: The Nine Realms supported by the cosmic ash tree Yggdrasil, spanning the celestial halls of the gods (Ásgarðr), the human realm (Miðgarðr), the giants' wilderness (Jötunheimr), and the primordial realms of fire (Múspellsheimr) and ice (Niflheimr).
   - >-
-    Distinctive Practice: Offerings, feasts, oath-making, seer practices,
-    ancestor relations, and cult at farms or political centers joined
-    communities with gods and other beings. Odin, ...
+    Afterlife & Valhalla (*Valhöll*): Warriors who die valiantly in battle are chosen by the Valkyries and divided equally between Odin's golden-roofed hall of Valhalla (*Valhöll* in Asgard) to feast as the *Einherjar*, and the goddess Freyja's heavenly field of *Fólkvangr*, while those who die of age or illness journey to the subterranean realm of *Hel*.
   - >-
-    Core Orientation: The varied pre-Christian religious practices of
-    Norse-speaking societies in Scandinavia and their diasporas.
+    Metaphysics of Fate (Urðr & Wyrd): Cosmic destiny woven by the three Norns (Urðr, Verðandi, and Skuld) beside the sacred Well of Urðr, presenting a tragic and heroic worldview where even the gods are subject to fate and must confront the final apocalyptic battle of *Ragnarök*.
+  - >-
+    Ritual & Cultic Practice: Communal animal sacrifice feasts (*Blót*) held at seasonal solstices, sacred groves, and regional sanctuaries (such as the Temple at Uppsala); blood sprinkling with *hlaut-twigs*; ceremonial oath-toasting (*Sumbel*); and ecstatic shamanic trance divination (*Seiðr*).
 sources:
+  - title: 'Snorri Sturluson: "The Prose Edda" (Translated by Arthur Gilchrist Brodeur)'
+    url: 'https://en.wikisource.org/wiki/Prose_Edda'
+  - title: 'The Poetic Edda: Völuspá, Hávamál, and Grímnismál (Translated by Henry Adams Bellows)'
+    url: 'https://en.wikisource.org/wiki/Poetic_Edda_(Bellows)'
+  - title: 'H. R. Ellis Davidson: "Gods and Myths of Northern Europe"'
+    url: 'https://www.penguinrandomhouse.com/'
   - title: 'Encyclopaedia Britannica: "Norse Religion"'
     url: 'https://www.britannica.com/topic/norse-religion'
-  - title: 'Oxford Reference: Overview of Norse Religion'
-    url: 'https://www.oxfordreference.com/search?q=Norse%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Norse Religion'
-    url: 'https://brill.com/search?q=Norse%20Religion'
 artifacts:
-  - title: Ardre VIII Gotland Image Stone (Odin & Sleipnir)
+  - title: Ardre VIII Gotland Image Stone (Odin & Sleipnir into Valhalla)
     imageUrl: /artifacts/norse-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Old_Norse_religion'
-    provenance: 'Ardre, Gotland, Sweden'
+    sourceUrl: https://en.wikipedia.org/wiki/Old_Norse_religion
+    provenance: Ardre, Gotland, Sweden (Historical Museum Stockholm)
     period: c. 8th–11th century CE
     description: >-
       Carved limestone image stone depicting Odin riding the eight-legged horse
-      Sleipnir into Valhalla, illustrating pre-Christian Norse mythology and
+      Sleipnir into Valhalla, surrounded by valkyries with drinking horns, illustrating pre-Christian Norse mythology and
       funerary cosmology.
   - title: Codex Regius of the Poetic Edda Manuscript
     imageUrl: /artifacts/norse-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Poetic_Edda'
+    sourceUrl: https://en.wikipedia.org/wiki/Poetic_Edda
     provenance: Icelandic National Manuscript Collection (GKS 2365 4to)
     period: c. 1270 CE (Preserving pre-Christian oral poetry)
     description: >-
       The primary surviving vellum manuscript containing the mythological poems
-      of the Poetic Edda, including the Völuspá, Hávamál, and Lokasenna.
+      of the Poetic Edda, including the Völuspá (Prophecy of the Seeress), Hávamál (Words of the High One), and Lokasenna.
 ---
 
-# Norse Religion
+# Norse Religion & Old Scandinavian Heathenry
 
-## Historical context
+## Cosmology: Yggdrasil & The Nine Realms
 
-Norse religion is reconstructed from archaeology, place-names, runic inscriptions, skaldic verse, and medieval manuscripts written largely after Christianization. Practices differed by region, household, occupation, gender, and period across Scandinavia and settlements abroad. The Eddas are indispensable witnesses but are literary works shaped by Icelandic Christian authors and cannot function as a transparent pagan Bible.
+Norse cosmology conceives the universe as structured around **Yggdrasil**, an immense sacred ash tree whose roots and branches interconnect nine distinct cosmological realms:
+- **Ásgarðr (Asgard)**: The celestial stronghold of the Æsir gods, connected to Midgard by the shimmering rainbow bridge *Bifröst*.
+- **Miðgarðr (Midgard)**: The middle enclosure inhabited by mortals, encircled by the colossal Midgard Serpent (*Jörmungandr*).
+- **Jötunheimr (Jotunheim)**: The perilous mountainous wilderness of the giants (*Jötnar*).
+- **Vanaheimr (Vanaheim)**: The fertile home realm of the Vanir deities of nature, magic, and prosperity.
+- **Álfheimr (Alfheim)** & **Svartálfaheimr / Niðavellir**: The bright celestial realm of the Light Elves and the subterranean cavern forge of the Dwarves.
+- **Múspellsheimr (Muspelheim)** & **Niflheimr (Niflheim)**: The primordial poles of primordial fire guarded by the giant *Surtr*, and the realm of primordial ice and venomous rivers (*Élivágar*).
+- **Helheim (Hel)**: The cold misty underworld ruled by the half-living, half-corpse goddess *Hel*, where those who die of sickness or old age dwell.
 
-## Distinctives and comparative notes
+At the base of Yggdrasil sits the **Well of Urðr (*Urðarbrunnr*)**, where the three **Norns**—*Urðr* (What Was), *Verðandi* (What Is Becoming), and *Skuld* (What Shall Be)—carve runes into the tree's bark, weaving the immutable tapestry of cosmic fate (*Örlög* / *Wyrd*).
 
-Offerings, feasts, oath-making, seer practices, ancestor relations, and cult at farms or political centers joined communities with gods and other beings. Odin, Thor, Freyr, Freyja, and local powers carried overlapping roles rather than a fixed doctrinal portfolio. Ragnarök and the world tree are famous textual themes, but lived religion exceeded mythology. Comparisons with wider Germanic evidence require attention to chronology and local variation.
+---
+
+## The Afterlife: Valhalla (*Valhöll*), Fólkvangr, and Hel
+
+Norse belief offered diverse afterlife destinations determined primarily by the manner of one's death and heroic character:
+
+### Valhalla (The Hall of the Slain)
+Located in Asgard, **Valhalla (*Valhöll*)** is the grand hall of Odin, described in the *Grímnismál* as having 540 gates (each wide enough for 800 warriors to march abreast), a roof tiled with golden shields, rafters made of spears, and benches strewn with coats of mail.
+- **The Einherjar**: The chosen spirits of mortal warriors who fell with courage in battle.
+- **The Valkyries (*Valkyrjur*)**: Supernatural female battle spirits sent by Odin to choose who lives and dies on the battlefield, escorting the fallen to Valhalla and serving them mead from the udder of the goat *Heiðrún*.
+- **Sacred Routine**: Every day, the *Einherjar* engage in fierce martial combat in the courtyards of Asgard; every evening, all wounds are miraculously healed, and they feast upon the inexhaustible boar *Sæhrímnir* in preparation for their ultimate role fighting beside Odin at *Ragnarök*.
+
+### Fólkvangr (The Meadow of the Goddess Freyja)
+According to the *Poetic Edda*, half of all fallen warriors do not go to Valhalla, but are chosen by the Vanir goddess **Freyja** to dwell in her celestial field **Fólkvangr** and her great hall **Sessrúmnir**, indicating that sacred warrior honors were equally shared between the masculine wisdom-war cult of Odin and the fertility-magic sovereignty of Freyja.
+
+---
+
+## The Pantheon: Æsir and Vanir
+
+Old Norse polytheism recognized two primary divine tribes who fought a primordial war before establishing perpetual peace through marriage and hostage exchange:
+1. **The Æsir (Gods of Order, Sovereignty, and War)**:
+   - **Odin (*Óðinn*)**: The Allfather, god of ecstasy, wisdom, poetry, death, and runic magic. He sacrificed one of his eyes at Mímir's well for cosmic insight, and hung himself for nine nights on Yggdrasil, pierced by his own spear, to discover the Runes.
+   - **Thor (*Þórr*)**: The defender of gods and humans, god of thunder, agriculture, and strength, wielding the divine hammer *Mjölnir*.
+   - **Týr**: The one-handed god of law, justice, and martial oaths, who sacrificed his hand in the maw of the wolf *Fenrir*.
+   - **Loki**: The enigmatic shape-shifting catalyst of chaos, father of monsters (Fenrir, Jörmungandr, and Hel), whose cunning orchestrates both the gods' treasures and their eventual destruction.
+2. **The Vanir (Gods of Fertility, Sea, and Seer Magic)**:
+   - **Freyja**: Goddess of love, beauty, war, gold, and the ecstatic trance magic *Seiðr*.
+   - **Freyr**: God of peace, sacral kingship, sunlight, virility, and bountiful harvest.
+   - **Njörðr**: God of the sea, maritime wealth, wind, and coastal navigation.
+
+---
+
+## Ritual Practices: Blót, Seiðr, and Sacred Sanctuaries
+
+Norse religious life was participatory, communal, and tied to agricultural and seasonal transitions:
+- **Blót**: The central sacrificial rite where horses, oxen, and sheep were offered to the gods. The blood (*hlaut*) was caught in sacrificial bowls and sprinkled over altar stones (*hörgr*), temple walls, and participants using twigs (*hlautteinar*), followed by a communal feast of consecrated meat and toasts (*minni*) to Odin, Njörðr, and deceased ancestors.
+- **Seiðr**: An ecstatic, shamanic form of magic primarily practiced by women (*völur* / seeresses), involving chanting incantations (*varðlokur*) atop a high ritual platform (*seiðhjallr*) to prophesy future events and alter fate.
+- **Temple of Uppsala**: Recorded by medieval chronicler Adam of Bremen as a monumental gold-gilded central sanctuary housing statues of Thor, Wodan (Odin), and Fricco (Freyr), where grand nine-year pan-Scandinavian sacrificial festivals took place.
+
+---
+
+## Eschatology: Ragnarök and Cosmic Regeneration
+
+Unlike static linear cosmologies, the Norse mythological cycle culminates in **Ragnarök** ("Fate / Twilight of the Gods"):
+1. The arrival of the bitter three-year winter without summers (*Fimbulwinter*).
+2. The cosmic wolves *Sköll* and *Hati* swallowing the sun and moon; the breaking of all chains.
+3. The emergence of the Midgard Serpent, the arrival of the ship *Naglfar* (made from dead men's nails), and the fire giants led by *Surtr* storming across the shattering Bifröst bridge.
+4. Mutual destruction of the gods: Odin is consumed by the wolf Fenrir; Thor slays Jörmungandr before succumbing to its venom; Heimdall and Loki slay one another; and Surtr engulfs the cosmos in cleansing fire.
+5. **The New Dawn**: The earth rises green and beautiful from the sea; the surviving younger gods (Víðarr, Váli, Magni, Móði, and the resurrected Baldr) meet at Iðavöllr to find the ancient golden chess pieces of the Æsir in the grass; while two human survivors (*Líf* and *Lífþrasir*) repopulate a regenerated universe under the peaceful golden hall of *Gimlé*.
+
+---
+
+## Primary Sources & Scholarly Historiography
+
+Our knowledge of Old Norse religion relies on an interdisciplinary synthesis of:
+- **Primary Vellum Manuscripts**: The 13th-century *Codex Regius* (Poetic Edda) and Snorri Sturluson's *Prose Edda* (c. 1220 CE), requiring critical textual analysis to separate genuine pre-Christian oral preservation from medieval Christian literary framing.
+- **Epigraphy and Archaeology**: Thousands of Scandinavian runestones (Rök Stone, Jelling Stones), Gotland picture stones (Ardre, Lärbro), ship burials (Oseberg, Gokstad), and amuletic Thor's hammer pendants (*Mjölnir*) confirming the lived practice of Norse religion across Northern Europe.
+`
