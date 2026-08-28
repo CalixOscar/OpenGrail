@@ -22,11 +22,11 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** None — clean state. Expanded to 573 traditions across 11 clusters, with full-corpus search, community accuracy verification, print watermarking, and Philosophical & Ethical Systems cluster.
-**Task:** Global coverage expansion & community feedback mechanisms complete and deployed.
-**Files touched:** `src/components/DocumentFeedback.tsx`, `src/components/DocumentPane.tsx`, `src/types/graph.ts`, `src/index.css`, `public/assets/watermark-seal.svg`, `data/philosophical-ethical/*.md`, `data/ancient-americas/*.md`, `data/african-traditions/*.md`, `data/central-asian-siberian/*.md`, `data/southeast-asian-mainland/*.md`.
+**Status:** None — clean state. Auto-minimize search highlight labels implemented across Brain Cluster and World Map views with search box hover/interaction restore.
+**Task:** Auto-minimize search labels feature complete and verified.
+**Files touched:** `src/state/AtlasState.tsx`, `src/App.tsx`, `src/components/GraphCanvas.tsx`, `src/components/WorldMapView.tsx`.
 **Next step:** Expand deep theological and mythological lore across remaining regional clusters.
-**Gotchas:** Maintain zero server dependency. All community feedback utilizes static-compatible GitHub Issue generators, mailto links, and persistent localStorage state.
+**Gotchas:** Maintain zero server dependency. Search match highlight rings remain persistent while labels fade cleanly.
 **Left by:** Antigravity (2026-08-28)
 
 ## Decisions Log
@@ -114,4 +114,9 @@ Siberia, and Mainland Southeast Asia with verified coordinates, texts, and 38 au
 Corrected coordinates for Lalibela (Ethiopian Orthodoxy) and Mount Kailash (Bön). Built the
 complete Philosophical & Ethical Systems cluster with 11 foundational moral philosophy pillars.
 Production build verified at 573 nodes and 903 links, and deployed live to `calmdownoscar.com/opengrail`.
+
+### 2026-08-28 — Auto-minimize search highlight labels
+Implemented 4-second auto-fade timer for search match text boxes on both Brain Cluster graph
+and 3D World Map views. Search match rings persist for location identification, and text boxes
+instantly restore when hovering over or focusing the search box. Cleaned up on node selection.
 

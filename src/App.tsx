@@ -64,6 +64,7 @@ function AppContent() {
   const [showTimeline, setShowTimeline] = useState(true);
   const [clusterLayout, setClusterLayout] = useState(true);
   const [searchFocused, setSearchFocused] = useState(false);
+  const searchLabelTimerRef = useRef<number | null>(null);
 
   const {
     currentYear,
@@ -75,12 +76,53 @@ function AppContent() {
     clearSelection,
     searchQuery,
     setSearchQuery,
+    setSearchLabelsVisible,
     activeTiers,
     toggleTier,
     activeRelationTypes,
     toggleRelationType,
     resetFilters,
   } = useAtlasState();
+
+  const SEARCH_LABEL_HIDE_DELAY = 4000; // ms before search labels auto-fade
+
+  const resetSearchLabelTimer = useCallback(() => {
+    if (searchLabelTimerRef.current !== null) {
+      window.clearTimeout(searchLabelTimerRef.current);
+      searchLabelTimerRef.current = null;
+    }
+    setSearchLabelsVisible(true);
+    if (searchQuery.trim()) {
+      searchLabelTimerRef.current = window.setTimeout(() => {
+        setSearchLabelsVisible(false);
+        searchLabelTimerRef.current = null;
+      }, SEARCH_LABEL_HIDE_DELAY);
+    }
+  }, [searchQuery, setSearchLabelsVisible]);
+
+  // Auto-hide search labels after a delay when the query changes
+  useEffect(() => {
+    if (!searchQuery.trim()) {
+      // No query — clear any pending timer, labels irrelevant
+      if (searchLabelTimerRef.current !== null) {
+        window.clearTimeout(searchLabelTimerRef.current);
+        searchLabelTimerRef.current = null;
+      }
+      return;
+    }
+    // Query changed — show labels and start the countdown
+    setSearchLabelsVisible(true);
+    searchLabelTimerRef.current = window.setTimeout(() => {
+      setSearchLabelsVisible(false);
+      searchLabelTimerRef.current = null;
+    }, SEARCH_LABEL_HIDE_DELAY);
+    return () => {
+      if (searchLabelTimerRef.current !== null) {
+        window.clearTimeout(searchLabelTimerRef.current);
+        searchLabelTimerRef.current = null;
+      }
+    };
+  }, [searchQuery, setSearchLabelsVisible]);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -311,7 +353,24 @@ function AppContent() {
               </>
             )}
 
-            <form className="graph-search" role="search" onSubmit={submitSearch}>
+            <form
+              className="graph-search"
+              role="search"
+              onSubmit={submitSearch}
+              onMouseEnter={resetSearchLabelTimer}
+              onMouseLeave={() => {
+                // Restart countdown when mouse leaves the search area
+                if (searchQuery.trim()) {
+                  if (searchLabelTimerRef.current !== null) {
+                    window.clearTimeout(searchLabelTimerRef.current);
+                  }
+                  searchLabelTimerRef.current = window.setTimeout(() => {
+                    setSearchLabelsVisible(false);
+                    searchLabelTimerRef.current = null;
+                  }, SEARCH_LABEL_HIDE_DELAY);
+                }
+              }}
+            >
               <label htmlFor="graph-search-input">Search atlas</label>
               <div className="graph-search__field">
                 <Search size={15} aria-hidden="true" />
@@ -319,8 +378,14 @@ function AppContent() {
                   id="graph-search-input"
                   type="search"
                   value={searchQuery}
-                  onChange={(event) => setSearchQuery(event.target.value)}
-                  onFocus={() => setSearchFocused(true)}
+                  onChange={(event) => {
+                    setSearchQuery(event.target.value);
+                    resetSearchLabelTimer();
+                  }}
+                  onFocus={() => {
+                    setSearchFocused(true);
+                    resetSearchLabelTimer();
+                  }}
                   onBlur={() => window.setTimeout(() => setSearchFocused(false), 120)}
                   placeholder="Find a tradition or text…"
                   autoComplete="off"

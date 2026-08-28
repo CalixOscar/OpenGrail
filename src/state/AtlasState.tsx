@@ -30,6 +30,8 @@ export interface AtlasStateContextValue {
   clearSelection: () => void;
   searchQuery: string;
   setSearchQuery: (query: string) => void;
+  searchLabelsVisible: boolean;
+  setSearchLabelsVisible: (visible: boolean) => void;
   activeTiers: Set<EpistemicTier>;
   toggleTier: (tier: EpistemicTier) => void;
   activeRelationTypes: Set<RelationType>;
@@ -53,6 +55,7 @@ export function AtlasProvider({
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
   const [selectedLinkId, setSelectedLinkId] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState<string>('');
+  const [searchLabelsVisible, setSearchLabelsVisible] = useState<boolean>(true);
 
   const [activeTiers, setActiveTiers] = useState<Set<EpistemicTier>>(
     () => new Set(EPISTEMIC_TIERS),
@@ -112,6 +115,8 @@ export function AtlasProvider({
       clearSelection,
       searchQuery,
       setSearchQuery,
+      searchLabelsVisible,
+      setSearchLabelsVisible,
       activeTiers,
       toggleTier,
       activeRelationTypes,
@@ -124,6 +129,7 @@ export function AtlasProvider({
       clearSelection,
       currentYear,
       resetFilters,
+      searchLabelsVisible,
       searchQuery,
       selectLink,
       selectNode,
