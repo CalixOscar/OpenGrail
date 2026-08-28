@@ -41,22 +41,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Hopi%20Religion'
 artifacts:
-  - title: Hopi Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/hopi-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hopi_Religion'
-    provenance: 'Old Oraibi, Third Mesa, Hopi Nation, AZ'
-    period: c. ancestral era
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Hopi Religion.
-  - title: Oral traditions (community-governed) & Sacred Relics
-    imageUrl: /artifacts/hopi-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hopi_Religion'
-    provenance: 'Old Oraibi, Third Mesa, Hopi Nation, AZ'
-    period: c. ancestral era
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Hopi
-      Religion.
+  - title: "Traditional Hopi carved cottonwood Katsina doll"
+    imageUrl: "/artifacts/hopi-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kachina_dolls.jpg"
+    provenance: "Jesse Walter Fewkes; Public domain"
+    period: "Image dated 1894"
+    description: "This image shows Traditional Hopi carved cottonwood Katsina doll, selected as a defining visual reference for Hopi Religion."
+  - title: "Old Oraibi historic village sanctuary on Third Mesa"
+    imageUrl: "/artifacts/hopi-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:A_group_of_Hopi_Indian_women_building_an_adobe_house_in_the_village_of_Oraibi,_ca.1901_(CHS-1251).jpg"
+    provenance: "Pierce, C.C. (Charles C.), 1861-1946; Public domain"
+    period: "Image dated 1901"
+    description: "This image shows Old Oraibi historic village sanctuary on Third Mesa, selected as a defining visual reference for Hopi Religion."
 ---
 
 # Hopi Religion

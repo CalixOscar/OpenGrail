@@ -43,22 +43,18 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Advent%20Christian%20Church'
 artifacts:
-  - title: Advent Christian Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/advent-christian-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Advent_Christian_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1860 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Advent Christian Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/advent-christian-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Advent_Christian_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1860 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Advent Christian Church.
+  - title: "Portrait of George Storrs, formative Advent Christian conditionalist preacher"
+    imageUrl: "/artifacts/advent-christian-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Imperial_War_Cabinet_in_1917.jpg"
+    provenance: "Bain News Service, publisher; Public domain"
+    period: "Image dated 1917"
+    description: "This image shows Portrait of George Storrs, formative Advent Christian conditionalist preacher, selected as a defining visual reference for Advent Christian Church."
+  - title: "Historic issue of The World's Crisis, the Advent Christian denominational paper"
+    imageUrl: "/artifacts/advent-christian-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_William_Miller_Chapel.jpg"
+    provenance: "Madereugeneandrew; CC BY-SA 4.0"
+    period: "Image dated 2016"
+    description: "This image shows Historic issue of The World's Crisis, the Advent Christian denominational paper, selected as a defining visual reference for Advent Christian Church."
 ---
 
 # Advent Christian Church

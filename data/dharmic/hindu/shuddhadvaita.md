@@ -46,22 +46,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Auddh%C4%81dvaita%20Ved%C4%81nta
 artifacts:
-  - title: Śuddhādvaita Vedānta Historical Sanctuary & Iconography
-    imageUrl: /artifacts/shuddhadvaita-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Auddh%C4%81dvaita_Ved%C4%81nta'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. late 15th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Śuddhādvaita Vedānta.
-  - title: Aṇubhāṣya & Sacred Relics
-    imageUrl: /artifacts/shuddhadvaita-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Auddh%C4%81dvaita_Ved%C4%81nta'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. late 15th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Śuddhādvaita Vedānta.
+  - title: "Vallabhacarya, founder of Suddhadvaita Vedanta"
+    imageUrl: "/artifacts/shuddhadvaita-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_of_Vallabhacharyudu.JPG"
+    provenance: "రహ్మానుద్దీన్; CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Vallabhacarya, founder of Suddhadvaita Vedanta, selected as a defining visual reference for Śuddhādvaita Vedānta."
+  - title: "Vallabha bethak at Gokul, a lineage pilgrimage seat"
+    imageUrl: "/artifacts/shuddhadvaita-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shri_mahaprabhuji.jpg"
+    provenance: "User:Madhurtanwani; CC BY-SA 3.0"
+    period: "Image dated 2007"
+    description: "This image shows Vallabha bethak at Gokul, a lineage pilgrimage seat, selected as a defining visual reference for Śuddhādvaita Vedānta."
 ---
 
 # Śuddhādvaita Vedānta

@@ -50,22 +50,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Epicureanism'
     url: 'https://brill.com/search?q=Epicureanism'
 artifacts:
-  - title: Epicureanism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/epicureanism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Epicureanism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. 306 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Epicureanism.
-  - title: Letter to Menoeceus & Sacred Relics
-    imageUrl: /artifacts/epicureanism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Epicureanism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. 306 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Epicureanism.
+  - title: "Portrait bust of Epicurus"
+    imageUrl: "/artifacts/epicureanism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_of_the_philosopher_Metrodoros_back_to_back_with_one_of_his_masters_Epicurus,_Roman_Imperial_(second_half_of_2nd_century_AD%3F),_discovered_in_Rome,_Louvre_Museum.jpg"
+    provenance: "Carole Raddato; CC BY-SA 2.0"
+    period: "2nd century AD"
+    description: "This image shows Portrait bust of Epicurus, selected as a defining visual reference for Epicureanism."
+  - title: "Villa of the Papyri library"
+    imageUrl: "/artifacts/epicureanism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Busto_di_c.d._democrito,_da_villa_papiri_ercolano,_copia_romana_da_orig._del_III_sec_ac.,_MANN.JPG"
+    provenance: "Sailko; CC BY-SA 3.0"
+    period: "Image dated 2014"
+    description: "This image shows Villa of the Papyri library, selected as a defining visual reference for Epicureanism."
 ---
 
 # Epicureanism

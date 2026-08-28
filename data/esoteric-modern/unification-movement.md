@@ -45,22 +45,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Unification Movement'
     url: 'https://brill.com/search?q=Unification%20Movement'
 artifacts:
-  - title: Unification Movement Historical Sanctuary & Iconography
-    imageUrl: /artifacts/unification-movement-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Unification_Movement'
-    provenance: 'Seoul (Hanyang), South Korea'
-    period: c. 1954 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Unification Movement.
-  - title: Exposition of the Divine Principle & Sacred Relics
-    imageUrl: /artifacts/unification-movement-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Unification_Movement'
-    provenance: 'Seoul (Hanyang), South Korea'
-    period: c. 1954 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Unification Movement.
+  - title: "Unification founders' Holy Wedding"
+    imageUrl: "/artifacts/unification-movement-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:TPblessing_ceremony.jpg"
+    provenance: "Cristinadeargentina; CC BY-SA 4.0"
+    period: "Image dated 2010"
+    description: "This image shows Unification founders' Holy Wedding, selected as a defining visual reference for Unification Movement."
+  - title: "Peace ceremony at Cheon Jeong Gung sanctuary"
+    imageUrl: "/artifacts/unification-movement-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:June_15th_Joint_Declaration_6.15_%EA%B3%B5%EB%8F%99%EC%84%A0%EC%96%B8.jpg"
+    provenance: "InSapphoWeTrust; CC BY-SA 2.0"
+    period: "Image dated 2008"
+    description: "This image shows Peace ceremony at Cheon Jeong Gung sanctuary, selected as a defining visual reference for Unification Movement."
 ---
 
 # Unification Movement

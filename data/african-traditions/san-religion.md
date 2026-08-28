@@ -37,20 +37,18 @@ sources:
   - title: 'David Lewis-Williams: "The Mind in the Cave: Consciousness and the Origins of Art"'
     url: 'https://www.thamesandhudson.com/'
 artifacts:
-  - title: Tsodilo Hills Sacred Python Cave Rock Sculptures
-    imageUrl: /artifacts/san-religion-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Tsodilo
-    provenance: Tsodilo Hills, Kalahari Desert, Botswana
-    period: c. 70,000 BCE (Middle Stone Age)
-    description: >-
-      6-meter-long natural rock boulder carved with hundreds of artificial indented grooves to resemble serpent scales, identified as the oldest evidence of ritual behavior in the world.
-  - title: Drakensberg Polychrome Eland & Shamanic Rock Art
-    imageUrl: /artifacts/san-religion-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/uKhahlamba_/_Drakensberg_Park
-    provenance: Drakensberg Mountains, KwaZulu-Natal, South Africa
-    period: Traditional Horizon (UNESCO World Heritage Site)
-    description: >-
-      Masterpiece polychrome rock art depicting sacred Elands and therianthropic shamans collapsing in ecstatic trance states while releasing healing spiritual energy.
+  - title: "San eland rock painting at Game Pass Shelter"
+    imageUrl: "/artifacts/san-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:SAN_Rock_Art_Colonial_Male_Figure,_Diep_Kloof_Rock_Shelter,_Western_Cape.JPG"
+    provenance: "Andrew Hall; CC BY-SA 3.0"
+    period: "Image dated 2014"
+    description: "This image shows San eland rock painting at Game Pass Shelter, selected as a defining visual reference for San Bushmen Shamanism & Python Cave Sanctuaries."
+  - title: "Tsodilo Hills sacred rock art sanctuary"
+    imageUrl: "/artifacts/san-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tsodilo_Hills_rock_paintings1.jpg"
+    provenance: "Joachim Huber; CC BY-SA 2.0"
+    period: "Image dated 2007"
+    description: "This image shows Tsodilo Hills sacred rock art sanctuary, selected as a defining visual reference for San Bushmen Shamanism & Python Cave Sanctuaries."
 ---
 
 # San Bushmen Shamanism & Python Cave Sanctuaries

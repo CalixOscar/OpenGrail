@@ -44,22 +44,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Heathenry'
     url: 'https://brill.com/search?q=Heathenry'
 artifacts:
-  - title: Heathenry Historical Sanctuary & Iconography
-    imageUrl: /artifacts/heathenry-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Heathenry'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. 1970s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Heathenry.
-  - title: Poetic Edda & Sacred Relics
-    imageUrl: /artifacts/heathenry-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Heathenry'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. 1970s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Heathenry.
+  - title: "Modern Heathen blot"
+    imageUrl: "/artifacts/heathenry-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Edsring_och_hammare.jpg"
+    provenance: "Gunnar Creutz; Public domain"
+    period: "Image dated 2009"
+    description: "This image shows Modern Heathen blot, selected as a defining visual reference for Heathenry."
+  - title: "Icelandic Heathen hof"
+    imageUrl: "/artifacts/heathenry-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:V%C3%A5rblot_2010_offerg%C3%A5vor.jpg"
+    provenance: "Gunnar Creutz; Public domain"
+    period: "Image dated 2010"
+    description: "This image shows Icelandic Heathen hof, selected as a defining visual reference for Heathenry."
 ---
 
 # Heathenry

@@ -42,22 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Essenes'
     url: 'https://www.cambridge.org/core/search?q=Essenes'
 artifacts:
-  - title: Essenes Historical Sanctuary & Iconography
-    imageUrl: /artifacts/essenes-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Essenes'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 2nd century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Essenes.
-  - title: Community Rule & Sacred Relics
-    imageUrl: /artifacts/essenes-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Essenes'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 2nd century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Essenes.
+  - title: "Cave 4 at Qumran, often associated with the Essene community"
+    imageUrl: "/artifacts/essenes-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Part_of_Dead_Sea_Scroll_28a_from_Qumran_Cave_1._The_Jordan_Museum,_Amman.jpg"
+    provenance: "Osama Shukir Muhammed Amin FRCP(Glasg); CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Cave 4 at Qumran, often associated with the Essene community, selected as a defining visual reference for Essenes."
+  - title: "Great Isaiah Scroll from the Qumran manuscript collection"
+    imageUrl: "/artifacts/essenes-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Great_Isaiah_Scroll.jpg"
+    provenance: "Photographs by Ardon Bar Hama, author of original document is unknown.; Public domain"
+    period: "+/- second century BC"
+    description: "This image shows Great Isaiah Scroll from the Qumran manuscript collection, selected as a defining visual reference for Essenes."
 ---
 
 # Essenes

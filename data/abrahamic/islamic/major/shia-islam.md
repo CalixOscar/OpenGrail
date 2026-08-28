@@ -46,25 +46,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Shi''a Islam'
     url: 'https://www.cambridge.org/core/search?q=Shi''a%20Islam'
 artifacts:
-  - title: Bagh Toti 8167
-    imageUrl: /artifacts/shia-islam-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bagh_Toti_8167.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 7th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Shi'a Islam.
-  - title: Brooklyn Museum - Battle of Karbala - Abbas Al-Musavi - overall
-    imageUrl: /artifacts/shia-islam-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Battle_of_Karbala_-_Abbas_Al-Musavi_-_overall.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 7th century CE
-    description: >-
-      Ghahvehkhaneh or "coffeehouse" painting genre.
-
-      Religious narrative painting depicting scenes from the Battle of Karbala
-      which commemorates the martyrdom of Imam Husayn. This trage...
+  - title: "Shrine of Imam Ali in Najaf, central Shi'a sanctuary"
+    imageUrl: "/artifacts/shia-islam-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:ImamAliMosqueNajafIraq.JPG"
+    provenance: "Toushiro; Public domain"
+    period: "Image dated 2006"
+    description: "This image shows Shrine of Imam Ali in Najaf, central Shi'a sanctuary, selected as a defining visual reference for Shi'a Islam."
+  - title: "Ashura mourning procession commemorating Imam Husayn"
+    imageUrl: "/artifacts/shia-islam-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mourning_of_Holy_Ashura_1.jpg"
+    provenance: "Rayhan9d; CC BY-SA 4.0"
+    period: "680 CE"
+    description: "This image shows Ashura mourning procession commemorating Imam Husayn, selected as a defining visual reference for Shi'a Islam."
 ---
 
 # Shi'a Islam

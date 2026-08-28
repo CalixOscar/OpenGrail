@@ -42,22 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Cyprus'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Cyprus'
 artifacts:
-  - title: Church of Cyprus Historical Sanctuary & Iconography
-    imageUrl: /artifacts/church-of-cyprus-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Cyprus'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 431 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Church of Cyprus.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/church-of-cyprus-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_Cyprus'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 431 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Church of Cyprus.
+  - title: "Venerated Panagia Kykkotissa icon associated with Cyprus"
+    imageUrl: "/artifacts/church-of-cyprus-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Church_of_Saint_George_%E2%80%93_Stoumpi.jpg"
+    provenance: "Viaggiamocela; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Venerated Panagia Kykkotissa icon associated with Cyprus, selected as a defining visual reference for Church of Cyprus."
+  - title: "Kykkos Monastery, principal Cypriot Orthodox sanctuary"
+    imageUrl: "/artifacts/church-of-cyprus-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kykkos_Monastery_Courtyard_1.JPG"
+    provenance: "Julian Nyca; CC BY-SA 3.0"
+    period: "Image dated 2016"
+    description: "This image shows Kykkos Monastery, principal Cypriot Orthodox sanctuary, selected as a defining visual reference for Church of Cyprus."
 ---
 
 # Church of Cyprus

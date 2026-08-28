@@ -37,20 +37,18 @@ sources:
   - title: 'Encyclopaedia Britannica: "Sami religion"'
     url: 'https://www.britannica.com/topic/Sami-religion'
 artifacts:
-  - title: Gievrie (Sámi Oval Sacred Shamanic Drum) with Painted Cosmos
-    imageUrl: /artifacts/sami-shamanism-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Sami_shamanism
-    provenance: Sápmi (Nordic Museum, Stockholm)
-    period: c. 17th–18th century CE
-    description: >-
-      Sacred oval reindeer-hide drum painted in alder bark juice depicting the sun at the center surrounded by reindeer herds, ancestors, and sky gods used by Noaidi priests.
-  - title: Monumental Sieidi Sacred Stone Sanctuary in Lapland
-    imageUrl: /artifacts/sami-shamanism-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Sieidi
-    provenance: Inari / Utsjoki, Lapland, Finland
-    period: Prehistoric to Present
-    description: >-
-      Naturally sculpted sacred rock formation overlooking Arctic waterways, venerated with offerings of reindeer antlers to secure fishing and hunting fortune.
+  - title: "Sami noaidi shamanic drum with cosmological symbols"
+    imageUrl: "/artifacts/sami-shamanism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sami_shamanic_drum.JPG"
+    provenance: "Zouavman Le Zouave; CC BY-SA 3.0"
+    period: "Image dated 2007"
+    description: "This image shows Sami noaidi shamanic drum with cosmological symbols, selected as a defining visual reference for Sámi Noaidi Shamanism & Sieidi Cult."
+  - title: "Sami sieidi sacred stone sanctuary"
+    imageUrl: "/artifacts/sami-shamanism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Lake_Seydozero,_Sacred_Sami_Lake_in_Murmansk_Oblast,_Russia.jpg"
+    provenance: "Artem Abdukakharov; CC BY 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Sami sieidi sacred stone sanctuary, selected as a defining visual reference for Sámi Noaidi Shamanism & Sieidi Cult."
 ---
 
 # Sámi Noaidi Shamanism & Sieidi Cult

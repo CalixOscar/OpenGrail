@@ -39,22 +39,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Polynesian%20Religions'
 artifacts:
-  - title: Polynesian Religions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/polynesian-religions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Polynesian_Religions'
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. c. 1000 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Polynesian Religions.
-  - title: Oral traditions (island- and lineage-specific) & Sacred Relics
-    imageUrl: /artifacts/polynesian-religions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Polynesian_Religions'
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. c. 1000 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Polynesian Religions.
+  - title: "Monumental stone carved Tiki statue of French Polynesia"
+    imageUrl: "/artifacts/polynesian-religions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tikimarquesas.jpg"
+    provenance: "American at de.wikipedia; CC BY-SA 3.0"
+    period: "Image dated 2004"
+    description: "This image shows Monumental stone carved Tiki statue of French Polynesia, selected as a defining visual reference for Polynesian Religions."
+  - title: "Taputapuatea international marae sanctuary on Raiʻatea"
+    imageUrl: "/artifacts/polynesian-religions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Marae,_Raiatea_2.jpg"
+    provenance: "Michel-georges bernard; CC BY-SA 3.0"
+    period: "Image dated 2000"
+    description: "This image shows Taputapuatea international marae sanctuary on Raiʻatea, selected as a defining visual reference for Polynesian Religions."
 ---
 
 # Polynesian Religions

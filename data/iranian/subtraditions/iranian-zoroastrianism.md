@@ -52,22 +52,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Iranian Zoroastrianism'
     url: 'https://brill.com/search?q=Iranian%20Zoroastrianism'
 artifacts:
-  - title: Iranian Zoroastrianism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/iranian-zoroastrianism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Iranian_Zoroastrianism'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 7th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Iranian Zoroastrianism.
-  - title: Avesta & Sacred Relics
-    imageUrl: /artifacts/iranian-zoroastrianism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Iranian_Zoroastrianism'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 7th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Iranian Zoroastrianism.
+  - title: "Yazd Atash Behram Fire Temple sanctuary"
+    imageUrl: "/artifacts/iranian-zoroastrianism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Templo_zoroastrista,_Yazd,_Ir%C3%A1n,_2016-09-21,_DD_45.jpg"
+    provenance: "Diego Delso; Public domain"
+    period: "400 BC"
+    description: "This image shows Yazd Atash Behram Fire Temple sanctuary, selected as a defining visual reference for Iranian Zoroastrianism."
+  - title: "Chak Chak (Pir-e Sabz) mountain pilgrimage shrine"
+    imageUrl: "/artifacts/iranian-zoroastrianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Zoroastrian_Persian_Shrine_chak-chak_Republic_Ardakan.jpg"
+    provenance: "Abolfazl Ahmadi; CC BY-SA 4.0"
+    period: "Image dated 2015"
+    description: "This image shows Chak Chak (Pir-e Sabz) mountain pilgrimage shrine, selected as a defining visual reference for Iranian Zoroastrianism."
 ---
 
 # Iranian Zoroastrianism

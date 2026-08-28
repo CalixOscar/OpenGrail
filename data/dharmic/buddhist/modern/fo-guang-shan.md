@@ -48,22 +48,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Fo%20Guang%20Shan'
 artifacts:
-  - title: Fo Guang Shan Historical Sanctuary & Iconography
-    imageUrl: /artifacts/fo-guang-shan-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Fo_Guang_Shan'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1967 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Fo Guang Shan.
-  - title: Fo Guang Buddhist Canon & Sacred Relics
-    imageUrl: /artifacts/fo-guang-shan-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Fo_Guang_Shan'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1967 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Fo
-      Guang Shan.
+  - title: "Master Hsing Yun, founder of Fo Guang Shan"
+    imageUrl: "/artifacts/fo-guang-shan-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:FoGuanTemplejf7621_01.JPG"
+    provenance: "Ramon FVelasquez; CC BY-SA 3.0"
+    period: "Image dated 2014"
+    description: "This image shows Master Hsing Yun, founder of Fo Guang Shan, selected as a defining visual reference for Fo Guang Shan."
+  - title: "Fo Guang Shan Buddha Museum and its monumental Buddha image"
+    imageUrl: "/artifacts/fo-guang-shan-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Fo_Guang_Shan_Buddha_Memorial_Centre,_Kaohsiung_City,_Dash_District,_Taiwan.png"
+    provenance: "Matt Stone; CC BY 4.0"
+    period: "Image dated 2016"
+    description: "This image shows Fo Guang Shan Buddha Museum and its monumental Buddha image, selected as a defining visual reference for Fo Guang Shan."
 ---
 
 # Fo Guang Shan

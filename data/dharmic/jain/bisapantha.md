@@ -42,22 +42,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=B%C4%ABsapantha'
 artifacts:
-  - title: Bīsapantha Historical Sanctuary & Iconography
-    imageUrl: /artifacts/bisapantha-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/B%C4%ABsapantha'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. early modern period
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Bīsapantha.
-  - title: Digambara ritual manuals & Sacred Relics
-    imageUrl: /artifacts/bisapantha-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/B%C4%ABsapantha'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. early modern period
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Bīsapantha.
+  - title: "Mahamastakabhisheka ritual at Shravanabelagola"
+    imageUrl: "/artifacts/bisapantha-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mahamastakabhisheka_-_Gommateshwara_statue_(2).jpg"
+    provenance: "Pratyk321; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Mahamastakabhisheka ritual at Shravanabelagola, selected as a defining visual reference for Bīsapantha."
+  - title: "Sonagiri Digambara temple complex, representative Bisapantha sacred setting"
+    imageUrl: "/artifacts/bisapantha-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jain_temple_section_and_plan,_Sonagiri_Madhya_Pradesh_India,_1850_sketch.jpg"
+    provenance: "Maisey, Frederick Charles (1825-1892); Public domain"
+    period: "Image dated 1850"
+    description: "This image shows Sonagiri Digambara temple complex, representative Bisapantha sacred setting, selected as a defining visual reference for Bīsapantha."
 ---
 
 # Bīsapantha

@@ -49,22 +49,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Malankara%20Orthodox%20Syrian%20Church
 artifacts:
-  - title: Malankara Orthodox Syrian Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/malankara-orthodox-syrian-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Malankara_Orthodox_Syrian_Church'
-    provenance: 'Kottayam / Malabar Coast, Kerala, India'
-    period: c. 1912 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Malankara Orthodox Syrian Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/malankara-orthodox-syrian-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Malankara_Orthodox_Syrian_Church'
-    provenance: 'Kottayam / Malabar Coast, Kerala, India'
-    period: c. 1912 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Malankara Orthodox Syrian Church.
+  - title: "Malankara Orthodox celebration of the West Syriac Holy Qurbana"
+    imageUrl: "/artifacts/malankara-orthodox-syrian-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:St._Stephen%27s_Orthodox_Cathedral_Pilgrim_Centre_,_Kudassanad,_Pandalam,_Kerala.jpg"
+    provenance: "Own work; CC BY-SA 4.0"
+    period: "14th century"
+    description: "This image shows Malankara Orthodox celebration of the West Syriac Holy Qurbana, selected as a defining visual reference for Malankara Orthodox Syrian Church."
+  - title: "Catholicate Palace at Devalokam, seat of the Malankara Orthodox catholicos"
+    imageUrl: "/artifacts/malankara-orthodox-syrian-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Devalokam_Aramana,_Kottayam.jpg"
+    provenance: "Philipp.ninan!; CC BY-SA 4.0"
+    period: "Image dated 2021"
+    description: "This image shows Catholicate Palace at Devalokam, seat of the Malankara Orthodox catholicos, selected as a defining visual reference for Malankara Orthodox Syrian Church."
 ---
 
 # Malankara Orthodox Syrian Church

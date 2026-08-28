@@ -44,22 +44,18 @@ sources:
       of God
     url: 'https://www.cambridge.org/core/search?q=Philadelphia%20Church%20of%20God'
 artifacts:
-  - title: Philadelphia Church of God Historical Sanctuary & Iconography
-    imageUrl: /artifacts/philadelphia-church-of-god-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Philadelphia_Church_of_God'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1989 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Philadelphia Church of God.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/philadelphia-church-of-god-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Philadelphia_Church_of_God'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1989 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Philadelphia Church of God.
+  - title: "Portrait of Gerald Flurry, founder of the Philadelphia Church of God"
+    imageUrl: "/artifacts/philadelphia-church-of-god-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Gerald_Ford,_second_official_portrait_of_the_President_of_the_United_States,_February_1976_(cropped).jpg"
+    provenance: "David Hume Kennerly, White House.; Public domain"
+    period: "Image dated 1976"
+    description: "This image shows Portrait of Gerald Flurry, founder of the Philadelphia Church of God, selected as a defining visual reference for Philadelphia Church of God."
+  - title: "Ambassador Auditorium, iconic sanctuary of the Worldwide Church of God"
+    imageUrl: "/artifacts/philadelphia-church-of-god-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:AmbassadorAuditorium1.png"
+    provenance: "Pleonic; Public domain"
+    period: "Image dated 1980"
+    description: "This image shows Ambassador Auditorium, iconic sanctuary of the Worldwide Church of God, selected as a defining visual reference for Philadelphia Church of God."
 ---
 
 # Philadelphia Church of God

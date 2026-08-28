@@ -44,22 +44,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ayyavazhi'
 artifacts:
-  - title: Ayyavazhi Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ayyavazhi-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ayyavazhi'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 1830s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ayyavazhi.
-  - title: Akilattirattu Ammanai & Sacred Relics
-    imageUrl: /artifacts/ayyavazhi-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ayyavazhi'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 1830s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ayyavazhi.
+  - title: "Ayya Vaikundar, central sacred figure of Ayyavazhi"
+    imageUrl: "/artifacts/ayyavazhi-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Evolution_of_Ekam.png"
+    provenance: "No machine-readable author provided. Vaikunda Raja assumed (based on copyright claims).; CC BY-SA 3.0"
+    period: "Image dated 2006"
+    description: "This image shows Ayya Vaikundar, central sacred figure of Ayyavazhi, selected as a defining visual reference for Ayyavazhi."
+  - title: "Swamithope Pathi, foremost pilgrimage center of Ayyavazhi"
+    imageUrl: "/artifacts/ayyavazhi-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ayya_devotees_Swamithoppe_Pilgrimage.JPG"
+    provenance: "Vaikunda Raja; CC BY-SA 3.0"
+    period: "Digital file published 2008"
+    description: "This image shows Swamithope Pathi, foremost pilgrimage center of Ayyavazhi, selected as a defining visual reference for Ayyavazhi."
 ---
 
 # Ayyavazhi

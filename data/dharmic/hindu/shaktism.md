@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9A%C4%81ktism'
 artifacts:
-  - title: Śāktism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/shaktism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81ktism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 5th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Śāktism.
-  - title: Devī Māhātmya & Sacred Relics
-    imageUrl: /artifacts/shaktism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81ktism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 5th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Śāktism.
+  - title: "Durga slaying Mahisasura, defining icon of supreme Devi"
+    imageUrl: "/artifacts/shaktism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sculpture_of_Devi_Durga_at_Albert_Hall.jpg"
+    provenance: "Anupamg; CC BY-SA 3.0"
+    period: "Image dated 2012"
+    description: "This image shows Durga slaying Mahisasura, defining icon of supreme Devi, selected as a defining visual reference for Śāktism."
+  - title: "Dakshineswar Kali Temple, a major modern Sakta sanctuary"
+    imageUrl: "/artifacts/shaktism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dakshineswar_Kali_Temple,_Dakshineswar,_West_Bengal,_India_(2007).jpg"
+    provenance: "The original uploader was Nikkul at English Wikipedia .; CC BY-SA 2.0"
+    period: "Image dated 2007"
+    description: "This image shows Dakshineswar Kali Temple, a major modern Sakta sanctuary, selected as a defining visual reference for Śāktism."
 ---
 
 # Śāktism

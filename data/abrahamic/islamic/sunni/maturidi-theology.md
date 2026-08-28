@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Maturidi Theology'
     url: 'https://www.cambridge.org/core/search?q=Maturidi%20Theology'
 artifacts:
-  - title: Maturidi Theology Historical Sanctuary & Iconography
-    imageUrl: /artifacts/maturidi-theology-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maturidi_Theology'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 10th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Maturidi Theology.
-  - title: Kitab al-Tawhid & Sacred Relics
-    imageUrl: /artifacts/maturidi-theology-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Maturidi_Theology'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 10th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Maturidi Theology.
+  - title: "Mausoleum of Abu Mansur al-Maturidi in Samarkand"
+    imageUrl: "/artifacts/maturidi-theology-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Imammaturidi.jpg"
+    provenance: "Original uploader was Oltantr ( talk ); Public domain"
+    period: "Image dated 2008"
+    description: "This image shows Mausoleum of Abu Mansur al-Maturidi in Samarkand, selected as a defining visual reference for Maturidi Theology."
+  - title: "Manuscript of al-Maturidi's Kitab al-Tawhid"
+    imageUrl: "/artifacts/maturidi-theology-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kitab_al-Tawhid_by_ibn_al-Wahhab,_Riyadh_Museum.jpg"
+    provenance: "Derivator2017; CC0"
+    period: "Image dated 2018"
+    description: "This image shows Manuscript of al-Maturidi's Kitab al-Tawhid, selected as a defining visual reference for Maturidi Theology."
 ---
 
 # Maturidi Theology

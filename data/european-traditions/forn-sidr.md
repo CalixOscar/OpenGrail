@@ -50,22 +50,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Forn Siðr'
     url: 'https://brill.com/search?q=Forn%20Si%C3%B0r'
 artifacts:
-  - title: Forn Siðr Historical Sanctuary & Iconography
-    imageUrl: /artifacts/forn-sidr-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Forn_Si%C3%B0r'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. 1970s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Forn Siðr.
-  - title: Poetic Edda & Sacred Relics
-    imageUrl: /artifacts/forn-sidr-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Forn_Si%C3%B0r'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. 1970s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Forn
-      Siðr.
+  - title: "Danish Forn Siðr blot"
+    imageUrl: "/artifacts/forn-sidr-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Runestone_Forn_Sidr_Jelling_01.JPG"
+    provenance: "No machine-readable author provided. Rumpenisse assumed (based on copyright claims).; Public domain"
+    period: "Image dated 2007"
+    description: "This image shows Danish Forn Siðr blot, selected as a defining visual reference for Forn Siðr."
+  - title: "Forn Siðr runestone and burial grounds in Denmark"
+    imageUrl: "/artifacts/forn-sidr-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Runestone_Forn_Sidr_Jelling02.JPG"
+    provenance: "No machine-readable author provided. Rumpenisse assumed (based on copyright claims).; Public domain"
+    period: "Image dated 2006"
+    description: "This image shows Forn Siðr runestone and burial grounds in Denmark, selected as a defining visual reference for Forn Siðr."
 ---
 
 # Forn Siðr

@@ -1,0 +1,1812 @@
+{
+  "azali-babism": [
+    {
+      "query": "Subh-i-Azal Mirza Yahya",
+      "intent": "Historical portrait of Subh-i-Azal, the Azali Babi leader"
+    },
+    {
+      "query": "Subh-i-Azal photo, from book Bab kyst va skhn ou chist",
+      "intent": "Photograph of Subh-i-Azal (Mirza Yahya Nuri), leader of Azali Babism"
+    }
+  ],
+  "babism": [
+    {
+      "query": "Shrine of the Bab Haifa golden dome",
+      "intent": "Shrine of the Bab, the movement's prophetic founder"
+    },
+    {
+      "query": "Tablet of the Bab",
+      "intent": "Historical manuscript of the Bab's Persian Bayan"
+    }
+  ],
+  "bahai-faith": [
+    {
+      "query": "Bahai Greatest Name calligraphy",
+      "intent": "The Greatest Name and ringstone, defining Bahai sacred calligraphy"
+    },
+    {
+      "query": "Shrine of Bahaullah Bahji Acre",
+      "intent": "Shrine of Bahaullah at Bahji, the Bahai point of pilgrimage"
+    }
+  ],
+  "orthodox-bahai-faith": [
+    {
+      "query": "Charles Mason Remey portrait",
+      "intent": "Portrait of Mason Remey, claimant central to the Orthodox Bahai succession"
+    },
+    {
+      "query": "Mason Remey Bahai House",
+      "intent": "Remey's architectural model for a Bahai house of worship"
+    }
+  ],
+  "mandeanism": [
+    {
+      "query": "Mandaean masbuta baptism",
+      "intent": "Mandaean priests performing the defining masbuta river baptism"
+    },
+    {
+      "query": "Ginza Rabba Mandaic",
+      "intent": "Illustrated or inscribed manuscript of the Ginza Rabba"
+    }
+  ],
+  "yazidism": [
+    {
+      "query": "Yazidi Tawusi Melek peacock",
+      "intent": "Peacock standard representing Tawusi Melek"
+    },
+    {
+      "query": "Lalish Yazidi temple Sheikh Adi shrine",
+      "intent": "Conical shrines of Lalish, the principal Yazidi sanctuary"
+    }
+  ],
+  "eastern-catholic-churches": [
+    {
+      "query": "Eastern Catholic Byzantine Divine Liturgy iconostasis",
+      "intent": "Eastern Catholic Divine Liturgy before an iconostasis"
+    },
+    {
+      "query": "Eastern Catholic bishops liturgy Saint Peter Basilica",
+      "intent": "Eastern Catholic hierarchs celebrating their rites in communion with Rome"
+    }
+  ],
+  "maronite-church": [
+    {
+      "query": "Saint Maron statue Lebanon",
+      "intent": "Statue of Saint Maron in Lebanon"
+    },
+    {
+      "query": "Monastery of Qozhaya Lebanon Maronite",
+      "intent": "Qozhaya Monastery in the Maronite heartland of the Qadisha Valley"
+    }
+  ],
+  "old-catholicism": [
+    {
+      "query": "Old Catholic Mass Saint Gertrude Cathedral Utrecht",
+      "intent": "Old Catholic Eucharistic worship at Saint Gertrude Cathedral"
+    },
+    {
+      "query": "Declaration of Utrecht 1889 Old Catholic",
+      "intent": "The Declaration of Utrecht defining the Union of Utrecht"
+    }
+  ],
+  "armenian-catholic-church": [
+    {
+      "query": "Armenian Divine Liturgy",
+      "intent": "Armenian-rite Catholic liturgy and distinctive vesture"
+    },
+    {
+      "query": "Bzoummar monastery Armenian Catholic Lebanon",
+      "intent": "Bzoummar monastery, historic seat of the Armenian Catholic patriarchate"
+    }
+  ],
+  "chaldean-catholic-church": [
+    {
+      "query": "Chaldean Catholic Holy",
+      "intent": "East Syriac Holy Qurbana in the Chaldean Catholic tradition"
+    },
+    {
+      "query": "Cathedral of Our Lady of Sorrows Baghdad Chaldean",
+      "intent": "Chaldean Cathedral of Our Lady of Sorrows in Baghdad"
+    }
+  ],
+  "coptic-catholic-church": [
+    {
+      "query": "Coptic Catholic Divine Liturgy Coptic cross",
+      "intent": "Alexandrian-rite Coptic Catholic liturgy and cross"
+    },
+    {
+      "query": "Cathedral of Our Lady of Egypt Cairo Coptic Catholic",
+      "intent": "Cathedral of Our Lady of Egypt, seat of the Coptic Catholic patriarch"
+    }
+  ],
+  "latin-church": [
+    {
+      "query": "papal Mass Saint Peter Basilica Latin rite",
+      "intent": "A papal Roman-rite Mass in Saint Peter's Basilica"
+    },
+    {
+      "query": "Archbasilica Saint John Lateran interior apse",
+      "intent": "Saint John Lateran, cathedral of Rome and principal Latin Church basilica"
+    }
+  ],
+  "melkite-greek-catholic-church": [
+    {
+      "query": "Melkite Greek Catholic Divine",
+      "intent": "Melkite celebration of the Byzantine Divine Liturgy"
+    },
+    {
+      "query": "Cathedral of the Dormition Damascus Melkite Greek Catholic",
+      "intent": "Melkite patriarchal Cathedral of the Dormition in Damascus"
+    }
+  ],
+  "ruthenian-greek-catholic-church": [
+    {
+      "query": "Ruthenian Byzantine Catholic",
+      "intent": "Ruthenian Byzantine Catholic liturgical worship"
+    },
+    {
+      "query": "Saint Nicholas church Bodruzal",
+      "intent": "Historic Rusyn Greek Catholic wooden church and iconostasis at Bodruzal"
+    }
+  ],
+  "syriac-catholic-church": [
+    {
+      "query": "Syriac Catholic",
+      "intent": "West Syriac Catholic liturgy of Saint James"
+    },
+    {
+      "query": "Our Lady of Annunciation",
+      "intent": "Syriac Catholic patriarchal Cathedral of the Annunciation in Beirut"
+    }
+  ],
+  "syro-malabar-church": [
+    {
+      "query": "Persian Cross Saint Thomas Christians Kottayam",
+      "intent": "Ancient Persian or Saint Thomas cross emblematic of Syro-Malabar heritage"
+    },
+    {
+      "query": "Saint Mary's Cathedral Basilica",
+      "intent": "Saint Mary's Cathedral Basilica in Ernakulam, major Syro-Malabar sanctuary"
+    }
+  ],
+  "syro-malankara-catholic-church": [
+    {
+      "query": "Syro Malankara Catholic Holy",
+      "intent": "West Syriac Holy Qurbono in the Syro-Malankara Catholic Church"
+    },
+    {
+      "query": "Saint Mary's Cathedral Pattom",
+      "intent": "Saint Mary's Cathedral at Pattom, the church's principal seat"
+    }
+  ],
+  "ukrainian-greek-catholic-church": [
+    {
+      "query": "Ukrainian Greek Catholic Divine Liturgy bishops",
+      "intent": "Ukrainian Byzantine Catholic hierarchical Divine Liturgy"
+    },
+    {
+      "query": "Saint George Cathedral Lviv",
+      "intent": "Saint George's Cathedral in Lviv, historic Ukrainian Greek Catholic seat"
+    }
+  ],
+  "arian-christianity": [
+    {
+      "query": "Arian Baptistery Ravenna baptism mosaic",
+      "intent": "Baptism of Christ mosaic in Ravenna's Arian Baptistery"
+    },
+    {
+      "query": "Codex Argenteus Uppsala",
+      "intent": "Silver-and-gold Gothic Gospel manuscript associated with Bishop Wulfila"
+    }
+  ],
+  "ebionites": [
+    {
+      "query": "James the Just icon Jerusalem",
+      "intent": "Traditional icon of James the Just, a key figure for Jewish Christians"
+    },
+    {
+      "query": "Panarion Epiphanius",
+      "intent": "Greek manuscript witness preserving ancient reports about the Ebionites"
+    }
+  ],
+  "marcionite-christianity": [
+    {
+      "query": "Marcion of Sinope historical engraving",
+      "intent": "Historical portrait engraving of Marcion of Sinope"
+    },
+    {
+      "query": "Tertullian",
+      "intent": "Manuscript of the principal ancient textual witness to Marcionite teaching"
+    }
+  ],
+  "montanism": [
+    {
+      "query": "montanism Ruins",
+      "intent": "Ruins at Pepuza, sacred center of the New Prophecy movement"
+    },
+    {
+      "query": "Historical depiction of",
+      "intent": "Historical depiction of Montanus and the prophetesses Priscilla and Maximilla"
+    }
+  ],
+  "nestorianism-historical-category": [
+    {
+      "query": "Church of the East Nestorian cross",
+      "intent": "Nestorian cross carving from the Church of the East"
+    },
+    {
+      "query": "Nestorian Stele Xi'an Syriac Chinese inscription",
+      "intent": "Xi'an Stele documenting East Syriac Christianity in Tang China"
+    }
+  ],
+  "catholicism": [
+    {
+      "query": "Pope Mass Saint Peter Basilica Vatican",
+      "intent": "The pope presiding at Mass in Saint Peter's Basilica"
+    },
+    {
+      "query": "Raphael Disputation of the Holy Sacrament Vatican",
+      "intent": "Raphael's Disputation, monumental art centered on Eucharistic theology"
+    }
+  ],
+  "church-of-the-east": [
+    {
+      "query": "Nestorian Stele Xi'an rubbing",
+      "intent": "The Xi'an Stele, iconic record of the Church of the East in China"
+    },
+    {
+      "query": "Rabban Hormizd Monastery Iraq",
+      "intent": "Rabban Hormizd Monastery, historic East Syriac sanctuary"
+    }
+  ],
+  "eastern-orthodoxy": [
+    {
+      "query": "Christ Pantocrator icon Saint Catherine Sinai",
+      "intent": "Sixth-century Christ Pantocrator icon, supreme Orthodox sacred image"
+    },
+    {
+      "query": "Hagia Sophia Deesis mosaic",
+      "intent": "The Deesis mosaic of Hagia Sophia, monumental Byzantine sacred art"
+    }
+  ],
+  "oriental-orthodoxy": [
+    {
+      "query": "Christ and Abba Menas Coptic icon Louvre",
+      "intent": "Early Coptic icon of Christ and Abba Menas"
+    },
+    {
+      "query": "Oriental Orthodox Addis Ababa",
+      "intent": "Heads of the Oriental Orthodox churches gathered at Addis Ababa in 1965"
+    }
+  ],
+  "protestantism": [
+    {
+      "query": "Martin Luther Ninety Five Theses Wittenberg Castle Church",
+      "intent": "Luther and the Ninety-five Theses at Wittenberg"
+    },
+    {
+      "query": "Luther Bible 1534 first edition",
+      "intent": "Illustrated first complete edition of Luther's German Bible"
+    }
+  ],
+  "armenian-apostolic-church": [
+    {
+      "query": "Etchmiadzin Cathedral Armenia exterior altar",
+      "intent": "Etchmiadzin Cathedral, mother see of the Armenian Apostolic Church"
+    },
+    {
+      "query": "Armenian khachkar Noratus cemetery",
+      "intent": "Carved khachkar cross-stones, defining Armenian Christian sacred art"
+    }
+  ],
+  "coptic-orthodoxy": [
+    {
+      "query": "Christ and Abba Menas icon Louvre",
+      "intent": "Coptic icon of Christ embracing Abba Menas"
+    },
+    {
+      "query": "Hanging Church Cairo Coptic interior iconostasis",
+      "intent": "The Hanging Church in Old Cairo and its Coptic iconostasis"
+    }
+  ],
+  "ethiopian-orthodoxy": [
+    {
+      "query": "Bete Giyorgis Lalibela",
+      "intent": "Cross-shaped rock-hewn Church of Saint George at Lalibela"
+    },
+    {
+      "query": "Garima Gospels illuminated manuscript",
+      "intent": "Ancient illuminated Garima Gospels in the Ge'ez tradition"
+    }
+  ],
+  "syriac-orthodoxy": [
+    {
+      "query": "Rabbula Gospels Syriac",
+      "intent": "Illuminated Rabbula Gospels, a masterpiece of Syriac Christian art"
+    },
+    {
+      "query": "Mor Hananyo Monastery Deyrulzafaran Turkey",
+      "intent": "Deyrulzafaran Monastery, historic Syriac Orthodox patriarchal center"
+    }
+  ],
+  "antiochian-orthodox-church": [
+    {
+      "query": "Mariamite Cathedral Damascus",
+      "intent": "Mariamite Cathedral in Damascus, seat of the Antiochian patriarch"
+    },
+    {
+      "query": "Saint George Monastery Al",
+      "intent": "Antiochian Monastery of Saint George at Al-Humayrah"
+    }
+  ],
+  "bulgarian-orthodox-church": [
+    {
+      "query": "Rila Monastery frescoes Bulgaria",
+      "intent": "Frescoed Rila Monastery, center of Bulgarian Orthodox sacred culture"
+    },
+    {
+      "query": "Alexander Nevsky Cathedral Sofia",
+      "intent": "Patriarchal Alexander Nevsky Cathedral in Sofia"
+    }
+  ],
+  "church-of-cyprus": [
+    {
+      "query": "church of cyprus Venerated",
+      "intent": "Venerated Panagia Kykkotissa icon associated with Cyprus"
+    },
+    {
+      "query": "Kykkos Monastery Cyprus courtyard",
+      "intent": "Kykkos Monastery, principal Cypriot Orthodox sanctuary"
+    }
+  ],
+  "church-of-greece": [
+    {
+      "query": "Metropolitan Cathedral Athens Orthodox Divine Liturgy",
+      "intent": "Divine Liturgy in the Metropolitan Cathedral of Athens"
+    },
+    {
+      "query": "Hosios Loukas Pantocrator mosaic",
+      "intent": "Middle Byzantine mosaics of Hosios Loukas monastery"
+    }
+  ],
+  "ecumenical-patriarchate-constantinople": [
+    {
+      "query": "Ecumenical Patriarch Bartholomew Divine Liturgy",
+      "intent": "Ecumenical Patriarch presiding over the Divine Liturgy"
+    },
+    {
+      "query": "Saint George Cathedral Phanar iconostasis",
+      "intent": "Patriarchal Church of Saint George at the Phanar"
+    }
+  ],
+  "georgian-orthodox-church": [
+    {
+      "query": "Khakhuli triptych Georgian icon",
+      "intent": "Khakhuli triptych, monumental Georgian Orthodox icon"
+    },
+    {
+      "query": "Svetitskhoveli Cathedral Mtskheta interior",
+      "intent": "Svetitskhoveli Cathedral, historic Georgian patriarchal sanctuary"
+    }
+  ],
+  "jerusalem-orthodox-church": [
+    {
+      "query": "Orthodox Holy Fire ceremony Holy Sepulchre Jerusalem",
+      "intent": "Jerusalem Orthodox Holy Fire ceremony in the Holy Sepulchre"
+    },
+    {
+      "query": "Church Holy Sepulchre Catholicon iconostasis",
+      "intent": "Greek Orthodox Catholicon within the Church of the Holy Sepulchre"
+    }
+  ],
+  "orthodox-church-in-america": [
+    {
+      "query": "Saint Herman of Alaska Orthodox icon",
+      "intent": "Icon of Saint Herman of Alaska, foundational North American Orthodox saint"
+    },
+    {
+      "query": "Saint Nicholas Cathedral Washington DC OCA interior",
+      "intent": "Orthodox Church in America's Saint Nicholas Cathedral in Washington"
+    }
+  ],
+  "polish-orthodox-church": [
+    {
+      "query": "Holy Mountain Grabarka",
+      "intent": "Pilgrims and votive crosses at Poland's Holy Mountain Grabarka"
+    },
+    {
+      "query": "Saint Mary Magdalene Cathedral",
+      "intent": "Metropolitan Cathedral of Saint Mary Magdalene in Warsaw"
+    }
+  ],
+  "romanian-orthodox-church": [
+    {
+      "query": "Voronet Monastery Last Judgment fresco",
+      "intent": "The blue Last Judgment fresco at Voronet Monastery"
+    },
+    {
+      "query": "Romanian Patriarchal Cathedral Bucharest interior",
+      "intent": "Patriarchal Cathedral in Bucharest"
+    }
+  ],
+  "russian-orthodox-church": [
+    {
+      "query": "Andrei Rublev Trinity icon Tretyakov",
+      "intent": "Rublev's Trinity, the preeminent Russian Orthodox icon"
+    },
+    {
+      "query": "Cathedral of Christ the Saviour Moscow interior",
+      "intent": "Cathedral of Christ the Saviour, major Moscow patriarchal sanctuary"
+    }
+  ],
+  "serbian-orthodox-church": [
+    {
+      "query": "White Angel fresco Mileseva monastery",
+      "intent": "White Angel fresco at Mileseva, iconic Serbian sacred art"
+    },
+    {
+      "query": "Patriarchate of Pec monastery Kosovo",
+      "intent": "Patriarchate of Pec, historic seat of the Serbian Church"
+    }
+  ],
+  "eritrean-orthodox-tewahedo-church": [
+    {
+      "query": "Eritrean Orthodox Ge'ez",
+      "intent": "Ornate Ge'ez processional cross used in Eritrean Tewahedo worship"
+    },
+    {
+      "query": "Enda Mariam Cathedral Asmara Eritrean Orthodox",
+      "intent": "Enda Mariam Cathedral in Asmara"
+    }
+  ],
+  "malankara-orthodox-syrian-church": [
+    {
+      "query": "Malankara Orthodox Holy Qurbana",
+      "intent": "Malankara Orthodox celebration of the West Syriac Holy Qurbana"
+    },
+    {
+      "query": "Catholicate Palace Devalokam Kottayam",
+      "intent": "Catholicate Palace at Devalokam, seat of the Malankara Orthodox catholicos"
+    }
+  ],
+  "adventism": [
+    {
+      "query": "William Miller preacher portrait",
+      "intent": "Portrait of William Miller, catalyst of the Adventist movement"
+    },
+    {
+      "query": "Millerite 1843 prophetic chart",
+      "intent": "Millerite prophetic chart used in early Adventist preaching"
+    }
+  ],
+  "anabaptism": [
+    {
+      "query": "Dirk Willems rescues pursuer",
+      "intent": "Martyrs Mirror engraving of Anabaptist martyr Dirk Willems"
+    },
+    {
+      "query": "Schleitheim Confession 1527 title page",
+      "intent": "Early printed Schleitheim Confession defining Anabaptist practice"
+    }
+  ],
+  "amish": [
+    {
+      "query": "Old Order Amish horse buggy plain dress Pennsylvania",
+      "intent": "Amish plain dress and horse-drawn buggy as visible communal practice"
+    },
+    {
+      "query": "Ausbund",
+      "intent": "Historical Ausbund hymnal used in Amish worship"
+    }
+  ],
+  "mennonites": [
+    {
+      "query": "Menno Simons portrait engraving",
+      "intent": "Portrait of Menno Simons, namesake of the Mennonite tradition"
+    },
+    {
+      "query": "Martyrs Mirror Jan Luyken engraving Mennonite",
+      "intent": "Illustrated Martyrs Mirror preserving Anabaptist memory"
+    }
+  ],
+  "church-of-england": [
+    {
+      "query": "Archbishop of Canterbury coronation liturgy",
+      "intent": "Archbishop of Canterbury officiating in the Church of England"
+    },
+    {
+      "query": "Book of Common Prayer 1662 title page",
+      "intent": "1662 Book of Common Prayer, defining Anglican liturgical book"
+    }
+  ],
+  "episcopal-church": [
+    {
+      "query": "Episcopal Church presiding bishop Eucharist",
+      "intent": "Episcopal Eucharist led by the presiding bishop"
+    },
+    {
+      "query": "Washington National Cathedral nave",
+      "intent": "Washington National Cathedral, prominent Episcopal sanctuary"
+    }
+  ],
+  "anglicanism": [
+    {
+      "query": "Anglican Communion compass rose symbol",
+      "intent": "Compass Rose emblem of the worldwide Anglican Communion"
+    },
+    {
+      "query": "Canterbury Cathedral choir interior",
+      "intent": "Canterbury Cathedral, historic center of Anglican communion"
+    }
+  ],
+  "baptist-traditions": [
+    {
+      "query": "Baptist baptism",
+      "intent": "Believer's baptism by full immersion, defining Baptist practice"
+    },
+    {
+      "query": "First Baptist Church Providence Rhode Island",
+      "intent": "Historic First Baptist Church in America at Providence"
+    }
+  ],
+  "american-baptist-churches-usa": [
+    {
+      "query": "Adoniram Judson portrait missionary",
+      "intent": "Portrait of Adoniram Judson, emblematic of American Baptist missions"
+    },
+    {
+      "query": "Judson Memorial Church New York interior",
+      "intent": "Judson Memorial Church, historic American Baptist congregation"
+    }
+  ],
+  "southern-baptist-convention": [
+    {
+      "query": "Southern Baptist Convention annual meeting worship",
+      "intent": "Congregational worship at a Southern Baptist Convention annual meeting"
+    },
+    {
+      "query": "Southern Baptist Theological Seminary Norton Hall Louisville",
+      "intent": "Norton Hall at Southern Baptist Theological Seminary"
+    }
+  ],
+  "evangelicalism": [
+    {
+      "query": "Billy Graham preaching",
+      "intent": "Billy Graham preaching at the 1954 Harringay evangelical crusade"
+    },
+    {
+      "query": "The Fundamentals 1910 book cover",
+      "intent": "Original volumes of The Fundamentals, influential evangelical texts"
+    }
+  ],
+  "evangelical-lutheran-church-america": [
+    {
+      "query": "ELCA Churchwide Assembly worship",
+      "intent": "Worship at an Evangelical Lutheran Church in America assembly"
+    },
+    {
+      "query": "Lutheran Center Chicago",
+      "intent": "The Lutheran Center in Chicago, ELCA churchwide offices"
+    }
+  ],
+  "lutheran-church-missouri-synod": [
+    {
+      "query": "C F W Walther portrait",
+      "intent": "Portrait of C. F. W. Walther, formative Missouri Synod theologian"
+    },
+    {
+      "query": "Concordia Seminary Saint Louis",
+      "intent": "Concordia Seminary and Luther Tower in Saint Louis"
+    }
+  ],
+  "lutheranism": [
+    {
+      "query": "Martin Luther portrait Lucas Cranach Elder",
+      "intent": "Cranach portrait of Martin Luther"
+    },
+    {
+      "query": "Augsburg Confession",
+      "intent": "Historical manuscript of the Augsburg Confession"
+    }
+  ],
+  "methodism": [
+    {
+      "query": "John Wesley portrait George Romney",
+      "intent": "Portrait of John Wesley, founder of the Methodist movement"
+    },
+    {
+      "query": "Wesley's Chapel London interior",
+      "intent": "Wesley's Chapel in London, historic Methodist sanctuary"
+    }
+  ],
+  "african-methodist-episcopal-church": [
+    {
+      "query": "Richard Allen bishop portrait",
+      "intent": "Portrait of Bishop Richard Allen, founder of the AME Church"
+    },
+    {
+      "query": "Mother Bethel AME Church Philadelphia interior",
+      "intent": "Mother Bethel in Philadelphia, mother church of the denomination"
+    }
+  ],
+  "united-methodist-church": [
+    {
+      "query": "United Methodist General Conference worship",
+      "intent": "United Methodist worship at General Conference"
+    },
+    {
+      "query": "United Methodist Building Washington DC",
+      "intent": "Historic United Methodist Building on Capitol Hill"
+    }
+  ],
+  "oneness-pentecostalism": [
+    {
+      "query": "William Seymour improved",
+      "intent": "William J. Seymour, leader of the Azusa Street Revival foundational to Pentecostalism"
+    },
+    {
+      "query": "Azusa-Street-Historical-Sign",
+      "intent": "Historical site and sanctuary marker of the Azusa Street Mission"
+    }
+  ],
+  "pentecostal-assemblies-of-the-world": [
+    {
+      "query": "G T Haywood bishop portrait",
+      "intent": "Portrait of Bishop G. T. Haywood, formative PAW leader"
+    },
+    {
+      "query": "Christ Temple Apostolic Faith Assembly Indianapolis",
+      "intent": "Christ Temple in Indianapolis, historic PAW congregation"
+    }
+  ],
+  "true-jesus-church": [
+    {
+      "query": "True Jesus Church baptism river",
+      "intent": "River baptism performed according to True Jesus Church practice"
+    },
+    {
+      "query": "True Jesus Church headquarters church Taiwan",
+      "intent": "A principal True Jesus Church sanctuary in Taiwan"
+    }
+  ],
+  "united-pentecostal-church-international": [
+    {
+      "query": "Person being baptized in Evangel Pentecostal Church Quebec City",
+      "intent": "Full-immersion baptism in Jesus' name in a Pentecostal assembly"
+    },
+    {
+      "query": "united pentecostal church international UPCI",
+      "intent": "UPCI World Evangelism Center in Weldon Spring"
+    }
+  ],
+  "pentecostalism": [
+    {
+      "query": "William J Seymour portrait",
+      "intent": "Portrait of William J. Seymour, leader of the Azusa Street Revival"
+    },
+    {
+      "query": "Azusa Street Mission 312",
+      "intent": "Historic Apostolic Faith Gospel Mission at 312 Azusa Street"
+    }
+  ],
+  "quakers": [
+    {
+      "query": "George Fox portrait Quaker",
+      "intent": "Portrait of George Fox, founder of the Religious Society of Friends"
+    },
+    {
+      "query": "Jordans Quaker Meeting House interior",
+      "intent": "Plain interior of historic Jordans Friends Meeting House"
+    }
+  ],
+  "reformed-christianity": [
+    {
+      "query": "John Calvin portrait 1550",
+      "intent": "Historical portrait of Reformed theologian John Calvin"
+    },
+    {
+      "query": "Saint Pierre Cathedral Geneva pulpit Calvin",
+      "intent": "Pulpit and sanctuary of Saint Pierre Cathedral in Geneva"
+    }
+  ],
+  "continental-reformed-churches": [
+    {
+      "query": "Synod of Dort painting 1618",
+      "intent": "Assembly of the Synod of Dort, defining Continental Reformed council"
+    },
+    {
+      "query": "Heidelberg Catechism 1563 title page",
+      "intent": "First-edition title page of the Heidelberg Catechism"
+    }
+  ],
+  "presbyterianism": [
+    {
+      "query": "John Knox portrait engraving",
+      "intent": "Portrait of John Knox, formative Presbyterian reformer"
+    },
+    {
+      "query": "Saint Giles Cathedral Edinburgh interior",
+      "intent": "Saint Giles' Cathedral, historic center of Scottish Presbyterianism"
+    }
+  ],
+  "advent-christian-church": [
+    {
+      "query": "George Storrs portrait Advent Christian history",
+      "intent": "Portrait of George Storrs, formative Advent Christian conditionalist preacher"
+    },
+    {
+      "query": "William Miller Advent",
+      "intent": "Historic issue of The World's Crisis, the Advent Christian denominational paper"
+    }
+  ],
+  "armstrongism": [
+    {
+      "query": "Herbert W Armstrong portrait",
+      "intent": "Portrait of Herbert W. Armstrong, founder of the Armstrongist movement"
+    },
+    {
+      "query": "Ambassador Auditorium Pasadena California",
+      "intent": "Ambassador Auditorium, monumental sanctuary of Armstrong's Worldwide Church of God"
+    }
+  ],
+  "branch-davidians": [
+    {
+      "query": "David Koresh portrait",
+      "intent": "Portrait of David Koresh, leader of the best-known Branch Davidian faction"
+    },
+    {
+      "query": "Mount Carmel Center Waco before 1993",
+      "intent": "Mount Carmel Center near Waco before the 1993 siege"
+    }
+  ],
+  "church-of-god-general-conference": [
+    {
+      "query": "Benjamin Wilson Church of",
+      "intent": "Portrait of Benjamin Wilson, formative Church of God General Conference figure"
+    },
+    {
+      "query": "Emphatic Diaglott 1864",
+      "intent": "Wilson's Emphatic Diaglott, an influential scripture edition in the movement"
+    }
+  ],
+  "church-of-god-seventh-day": [
+    {
+      "query": "Gilbert Cranmer Church of God Seventh Day portrait",
+      "intent": "Portrait of Gilbert Cranmer, early organizer of the Church of God Seventh Day"
+    },
+    {
+      "query": "Church of God Seventh Day",
+      "intent": "Historic Bible Advocate periodical of the denomination"
+    }
+  ],
+  "davidian-seventh-day-adventists": [
+    {
+      "query": "Portrait of Victor",
+      "intent": "Portrait of Victor Houteff, founder of the Davidian movement"
+    },
+    {
+      "query": "original Mount Carmel Center Waco Davidian 1930s",
+      "intent": "Original Mount Carmel Center established by the Davidians near Waco"
+    }
+  ],
+  "grace-communion-international": [
+    {
+      "query": "Grace Communion International church service",
+      "intent": "Contemporary Grace Communion International congregational worship"
+    },
+    {
+      "query": "Grace Communion International headquarters Charlotte North Carolina",
+      "intent": "Grace Communion International denominational headquarters"
+    }
+  ],
+  "living-church-of-god": [
+    {
+      "query": "Worldwide Church of God",
+      "intent": "Portrait of Roderick C. Meredith, founder of the Living Church of God"
+    },
+    {
+      "query": "Living Church of God headquarters Charlotte North Carolina",
+      "intent": "Living Church of God headquarters in Charlotte"
+    }
+  ],
+  "philadelphia-church-of-god": [
+    {
+      "query": "Portrait of Gerald",
+      "intent": "Portrait of Gerald Flurry, founder of the Philadelphia Church of God"
+    },
+    {
+      "query": "AmbassadorAuditorium1",
+      "intent": "Ambassador Auditorium, iconic sanctuary of the Worldwide Church of God"
+    }
+  ],
+  "seventh-day-adventist-church": [
+    {
+      "query": "Ellen G White portrait 19th century",
+      "intent": "Historical portrait of Ellen G. White, formative Adventist prophet and author"
+    },
+    {
+      "query": "Battle Creek Tabernacle Seventh day Adventist historical",
+      "intent": "Historic Battle Creek Tabernacle, early Adventist institutional center"
+    }
+  ],
+  "seventh-day-adventist-reform-movement": [
+    {
+      "query": "Seventh Day Adventist Reform Movement church Zagreb",
+      "intent": "Dedicated Reform Movement church in Zagreb"
+    },
+    {
+      "query": "Seventh Day Adventist Reform Movement church Englewood Colorado",
+      "intent": "Dedicated Reform Movement sanctuary in Englewood, Colorado"
+    }
+  ],
+  "united-church-of-god": [
+    {
+      "query": "United Church of God Feast of Tabernacles service",
+      "intent": "United Church of God observance of the Feast of Tabernacles"
+    },
+    {
+      "query": "United Church of God home office Milford Ohio",
+      "intent": "United Church of God home office in Milford, Ohio"
+    }
+  ],
+  "christadelphians": [
+    {
+      "query": "John Thomas Christadelphian portrait",
+      "intent": "Portrait of John Thomas, founder of the Christadelphian movement"
+    },
+    {
+      "query": "Christadelphian Hall Dudley England",
+      "intent": "A purpose-built Christadelphian meeting hall"
+    }
+  ],
+  "christian-science": [
+    {
+      "query": "Mary Baker Eddy portrait",
+      "intent": "Portrait of Mary Baker Eddy, founder of Christian Science"
+    },
+    {
+      "query": "First Church of Christ Scientist Mother Church Boston",
+      "intent": "The Mother Church complex in Boston"
+    }
+  ],
+  "jehovahs-witnesses": [
+    {
+      "query": "Charles Taze Russell portrait",
+      "intent": "Portrait of Charles Taze Russell, founder of the Bible Student movement"
+    },
+    {
+      "query": "Zion's Watch Tower July",
+      "intent": "First issue of Zion's Watch Tower, foundational Witness publication"
+    }
+  ],
+  "la-luz-del-mundo": [
+    {
+      "query": "La Luz del Mundo temple Guadalajara",
+      "intent": "Distinctive flagship La Luz del Mundo temple in Guadalajara"
+    },
+    {
+      "query": "La Luz del Mundo",
+      "intent": "The denomination's defining Holy Supper gathering"
+    }
+  ],
+  "latter-day-saint-movement": [
+    {
+      "query": "Joseph Smith portrait 1842",
+      "intent": "Historical portrait of Joseph Smith, founder of the Latter Day Saint movement"
+    },
+    {
+      "query": "Book of Mormon 1830 first edition title page",
+      "intent": "First edition of the Book of Mormon"
+    }
+  ],
+  "apostolic-united-brethren": [
+    {
+      "query": "Apostolic United Brethren compound Bluffdale",
+      "intent": "Apostolic United Brethren headquarters compound in Bluffdale, Utah"
+    },
+    {
+      "query": "The Mormon Temple at Salt Lake City",
+      "intent": "Historic Salt Lake City Temple and sanctuary grounds of the Mormon movement"
+    }
+  ],
+  "church-of-christ-temple-lot": [
+    {
+      "query": "Temple Lot Independence Missouri Hedrickite",
+      "intent": "The Temple Lot held by the Church of Christ"
+    },
+    {
+      "query": "Church of Christ Temple Lot Stone Church Independence",
+      "intent": "The Hedrickite church building beside the Temple Lot"
+    }
+  ],
+  "church-of-jesus-christ-bickertonite": [
+    {
+      "query": "William Bickerton portrait",
+      "intent": "Portrait of William Bickerton, founder of the Bickertonite church"
+    },
+    {
+      "query": "Church of Jesus Christ",
+      "intent": "Historic Bickertonite church in Monongahela, Pennsylvania"
+    }
+  ],
+  "church-of-jesus-christ-latter-day-saints-strangite": [
+    {
+      "query": "James Strang daguerreotype",
+      "intent": "Daguerreotype of James J. Strang, founder of the Strangite church"
+    },
+    {
+      "query": "Voree Plates James Strang",
+      "intent": "The Voree Plates claimed and translated by Strang"
+    }
+  ],
+  "church-of-jesus-christ-of-latter-day-saints": [
+    {
+      "query": "Angel Moroni statue Salt Lake Temple",
+      "intent": "Angel Moroni statue, defining icon of the LDS Church"
+    },
+    {
+      "query": "Salt Lake Temple Temple Square",
+      "intent": "Salt Lake Temple, the church's most recognizable sanctuary"
+    }
+  ],
+  "community-of-christ": [
+    {
+      "query": "Community of Christ Temple Independence Missouri spiral",
+      "intent": "Spiral-shaped Community of Christ Temple in Independence"
+    },
+    {
+      "query": "Community of Christ Auditorium Independence Missouri",
+      "intent": "The Auditorium, historic world headquarters and worship space"
+    }
+  ],
+  "fundamentalist-church-jesus-christ-latter-day-saints": [
+    {
+      "query": "FLDS",
+      "intent": "FLDS temple at the Yearning for Zion Ranch"
+    },
+    {
+      "query": "Warren Jeffs portrait",
+      "intent": "Portrait of Warren Jeffs, the FLDS president and prophet"
+    }
+  ],
+  "latter-day-saint-fundamentalism": [
+    {
+      "query": "Lorin C Woolley",
+      "intent": "Portrait of Lorin C. Woolley, foundational fundamentalist authority figure"
+    },
+    {
+      "query": "Short Creek community historical",
+      "intent": "Historic Short Creek community, a major fundamentalist center"
+    }
+  ],
+  "remnant-church-jesus-christ-latter-day-saints": [
+    {
+      "query": "Frederick Niels Larsen",
+      "intent": "Portrait of Frederick Niels Larsen, founder-prophet of the Remnant Church"
+    },
+    {
+      "query": "Remnant Church headquarters Independence Missouri",
+      "intent": "Remnant Church headquarters near the Independence temple district"
+    }
+  ],
+  "restoration-branches": [
+    {
+      "query": "Independence Temple Community of Christ",
+      "intent": "Joint gathering of independent Restoration Branch congregations"
+    },
+    {
+      "query": "A Restoration Branch",
+      "intent": "A Restoration Branch meetinghouse in the Independence area"
+    }
+  ],
+  "messianic-judaism": [
+    {
+      "query": "Messianic Judaism menorah fish",
+      "intent": "Composite menorah, fish, and Star of David Messianic emblem"
+    },
+    {
+      "query": "Messianic Jewish",
+      "intent": "Torah procession in a Messianic Jewish congregation"
+    }
+  ],
+  "iglesia-ni-cristo": [
+    {
+      "query": "Portrait of Felix",
+      "intent": "Portrait of Felix Manalo, founder of Iglesia ni Cristo"
+    },
+    {
+      "query": "Iglesia ni Cristo Central Temple Quezon City",
+      "intent": "Central Temple in Quezon City, iconic INC sanctuary"
+    }
+  ],
+  "members-church-of-god-international": [
+    {
+      "query": "Portrait of MCGI",
+      "intent": "Portrait of MCGI presiding minister Eli Soriano"
+    },
+    {
+      "query": "Ang Dating Daan Convention Center Apalit",
+      "intent": "MCGI Convention Center at Apalit, Pampanga"
+    }
+  ],
+  "restoration-movement": [
+    {
+      "query": "Alexander Campbell portrait",
+      "intent": "Portrait of Alexander Campbell, formative Stone-Campbell leader"
+    },
+    {
+      "query": "Cane Ridge Meeting House Kentucky",
+      "intent": "Cane Ridge Meeting House, landmark of the Restoration Movement"
+    }
+  ],
+  "christian-church-disciples-of-christ": [
+    {
+      "query": "Christian Church Disciples of Christ chalice cross symbol",
+      "intent": "Red chalice and Saint Andrew's cross emblem of the Disciples"
+    },
+    {
+      "query": "National City Christian Church Washington DC",
+      "intent": "National City Christian Church, prominent Disciples sanctuary"
+    }
+  ],
+  "churches-of-christ-australia": [
+    {
+      "query": "A B Maston portrait",
+      "intent": "Portrait of A. B. Maston, formative Australian Churches of Christ leader"
+    },
+    {
+      "query": "Swanston Street Church of",
+      "intent": "Historic Swanston Street Church of Christ in Melbourne"
+    }
+  ],
+  "churches-of-christ": [
+    {
+      "query": "Churches of Christ a cappella congregational singing",
+      "intent": "Unaccompanied congregational singing characteristic of Churches of Christ"
+    },
+    {
+      "query": "Alexander Campbell",
+      "intent": "Portrait of David Lipscomb, influential Churches of Christ leader"
+    }
+  ],
+  "independent-christian-churches": [
+    {
+      "query": "North American Christian Convention worship",
+      "intent": "Worship at the historic gathering of independent Christian churches"
+    },
+    {
+      "query": "Southeast Christian Church Louisville",
+      "intent": "Large sanctuary of Southeast Christian Church in Louisville"
+    }
+  ],
+  "international-christian-church": [
+    {
+      "query": "Kip McKean International Christian",
+      "intent": "Kip McKean preaching within the International Christian Church movement"
+    },
+    {
+      "query": "City of Angels International Christian Church baptism",
+      "intent": "Baptism performed by the founding City of Angels congregation"
+    }
+  ],
+  "international-churches-of-christ": [
+    {
+      "query": "International Churches of Christ baptism",
+      "intent": "Discipling-movement baptism in an ICOC congregation"
+    },
+    {
+      "query": "Boston Church of Christ congregation historical",
+      "intent": "Boston Church of Christ, institutional origin of the ICOC"
+    }
+  ],
+  "swedenborgianism": [
+    {
+      "query": "Emanuel Swedenborg portrait by Carl Frederik von Breda",
+      "intent": "Portrait of Emanuel Swedenborg, visionary theologian of the New Church"
+    },
+    {
+      "query": "Bryn Athyn Cathedral Pennsylvania interior",
+      "intent": "Bryn Athyn Cathedral, monumental Swedenborgian sanctuary"
+    }
+  ],
+  "unitarian-christianity": [
+    {
+      "query": "Fausto Sozzini portrait engraving",
+      "intent": "Portrait of Fausto Sozzini, major early Unitarian theologian"
+    },
+    {
+      "query": "Fausto Sozzini",
+      "intent": "First-edition title page of the Racovian Catechism"
+    }
+  ],
+  "christianity": [
+    {
+      "query": "Leonardo da Vinci Last Supper Santa Maria delle Grazie",
+      "intent": "The Last Supper, iconic sacred art of Jesus and the apostles"
+    },
+    {
+      "query": "Church of Holy Sepulchre Jerusalem edicule",
+      "intent": "Edicule of the Holy Sepulchre, Christianity's central resurrection shrine"
+    }
+  ],
+  "gnosticism": [
+    {
+      "query": "Roman - Amulet of Mithras Slaying the Bull, and the God Abraxas",
+      "intent": "Roman amulet depicting the Gnostic deity Abraxas"
+    },
+    {
+      "query": "Nag Hammadi Codex manuscript Coptic",
+      "intent": "Coptic Nag Hammadi codex preserving Gnostic texts"
+    }
+  ],
+  "islam": [
+    {
+      "query": "Kaaba Hajj pilgrims Mecca",
+      "intent": "Pilgrims circling the Kaaba during Hajj"
+    },
+    {
+      "query": "Blue Quran manuscript gold Kufic",
+      "intent": "Blue Quran folio, iconic sacred Islamic calligraphy"
+    }
+  ],
+  "ibadi-islam": [
+    {
+      "query": "Nizwa Grand Mosque Oman",
+      "intent": "Nizwa mosque in Oman's historic Ibadi scholarly center"
+    },
+    {
+      "query": "Sultan Qaboos Grand Mosque Muscat Oman",
+      "intent": "Sultan Qaboos Grand Mosque in Muscat, Oman"
+    }
+  ],
+  "shia-islam": [
+    {
+      "query": "Imam Ali Shrine Najaf golden dome",
+      "intent": "Shrine of Imam Ali in Najaf, central Shi'a sanctuary"
+    },
+    {
+      "query": "Ashura procession Karbala mourning",
+      "intent": "Ashura mourning procession commemorating Imam Husayn"
+    }
+  ],
+  "sunni-islam": [
+    {
+      "query": "Al Azhar Mosque Cairo courtyard",
+      "intent": "Al-Azhar Mosque, historic center of Sunni worship and learning"
+    },
+    {
+      "query": "Sahih al Bukhari illuminated manuscript",
+      "intent": "Illuminated manuscript of the preeminent Sunni hadith collection"
+    }
+  ],
+  "ahmadiyya": [
+    {
+      "query": "Mirza Ghulam Ahmad portrait",
+      "intent": "Portrait of Mirza Ghulam Ahmad, founder of the Ahmadiyya movement"
+    },
+    {
+      "query": "Mubarak Mosque Qadian",
+      "intent": "Mubarak Mosque at Qadian, the movement's first mosque"
+    }
+  ],
+  "nation-of-islam": [
+    {
+      "query": "Elijah Muhammad portrait Nation of Islam",
+      "intent": "Portrait of Elijah Muhammad, formative Nation of Islam leader"
+    },
+    {
+      "query": "Mosque Maryam Chicago",
+      "intent": "Mosque Maryam in Chicago, Nation of Islam headquarters"
+    }
+  ],
+  "sufism": [
+    {
+      "query": "Sufi dhikr ceremony",
+      "intent": "Communal dhikr, the defining Sufi practice of divine remembrance"
+    },
+    {
+      "query": "whirling dervishes sema Konya",
+      "intent": "Mevlevi sema as iconic Sufi ritual art"
+    }
+  ],
+  "akhbari-twelver-shia": [
+    {
+      "query": "Yusuf al Bahrani tomb",
+      "intent": "Tomb of Yusuf al-Bahrani, leading Akhbari scholar"
+    },
+    {
+      "query": "al Fawaid al",
+      "intent": "Manuscript of al-Astarabadi's foundational Akhbari treatise"
+    }
+  ],
+  "alawite-tradition": [
+    {
+      "query": "Alawite religious shrine mausoleum Syria",
+      "intent": "A documented Alawite saint's shrine in western Syria"
+    },
+    {
+      "query": "Alawite shrine Syria Latakia",
+      "intent": "Rural ziyara shrine in the Latakia coastal mountains"
+    }
+  ],
+  "alevi-traditions": [
+    {
+      "query": "Alevi cem ceremony",
+      "intent": "Alevi cem worship with the ritual semah"
+    },
+    {
+      "query": "Haci Bektas Veli Dergah museum Turkey",
+      "intent": "Haci Bektash Veli lodge and pilgrimage complex"
+    }
+  ],
+  "dawoodi-bohra": [
+    {
+      "query": "Dawoodi Bohra Syedna Mufaddal",
+      "intent": "Portrait of the Dawoodi Bohra da'i al-mutlaq"
+    },
+    {
+      "query": "Saifee Masjid Mumbai Dawoodi Bohra",
+      "intent": "Saifee Masjid, prominent Dawoodi Bohra sanctuary in Mumbai"
+    }
+  ],
+  "druze-faith": [
+    {
+      "query": "Druze five color star flag",
+      "intent": "Five-colored Druze star representing the cosmic principles"
+    },
+    {
+      "query": "Nabi Shuayb shrine Israel",
+      "intent": "Shrine of Nabi Shu'ayb, principal Druze pilgrimage sanctuary"
+    }
+  ],
+  "ismailism": [
+    {
+      "query": "Al Hakim Mosque Cairo Fatimid",
+      "intent": "Fatimid Mosque of al-Hakim, monumental Ismaili architectural legacy"
+    },
+    {
+      "query": "Manuscript of Qadi",
+      "intent": "Manuscript of Qadi al-Nu'man's foundational Ismaili legal text"
+    }
+  ],
+  "mustali-ismailism": [
+    {
+      "query": "al Mustansir Billah Fatimid gold dinar",
+      "intent": "Fatimid coin of al-Mustansir, the imam-caliph preceding the Musta'li split"
+    },
+    {
+      "query": "Al Aqmar Mosque Cairo Fatimid facade",
+      "intent": "Al-Aqmar Mosque, iconic Fatimid Ismaili sacred architecture"
+    }
+  ],
+  "nizari-ismailism": [
+    {
+      "query": "Aga Khan IV",
+      "intent": "Portrait of Aga Khan IV, hereditary Nizari Imam"
+    },
+    {
+      "query": "Alamut Castle ruins Iran",
+      "intent": "Ruins of Alamut, historic Nizari Ismaili stronghold"
+    }
+  ],
+  "shaykhism": [
+    {
+      "query": "Shaykh Ahmad al Ahsa'i portrait",
+      "intent": "Historical portrait of Shaykh Ahmad al-Ahsa'i, founder of Shaykhism"
+    },
+    {
+      "query": "Sayyid Kazim Rashti",
+      "intent": "Historical portrait of Shaykh Ahmad's successor Sayyid Kazim Rashti"
+    }
+  ],
+  "tayyibi-ismailism": [
+    {
+      "query": "Queen Arwa Mosque Jibla Yemen",
+      "intent": "Queen Arwa Mosque, sanctuary of the Tayyibi queen and hujja"
+    },
+    {
+      "query": "Mausoleum Queen Arwa Jibla interior",
+      "intent": "Mausoleum of Queen Arwa within the Jibla mosque"
+    }
+  ],
+  "twelver-shia": [
+    {
+      "query": "Imam Husayn Shrine Karbala",
+      "intent": "Shrine of Imam Husayn at Karbala, central Twelver sanctuary"
+    },
+    {
+      "query": "Twelver Shia Ashura",
+      "intent": "Ashura procession with Zuljanah, ritual memory of Karbala"
+    }
+  ],
+  "usuli-twelver-shia": [
+    {
+      "query": "Murtada al Ansari",
+      "intent": "Portrait of Murtada al-Ansari, formative modern Usuli jurist"
+    },
+    {
+      "query": "Najaf Hawza seminary",
+      "intent": "Usuli juristic study in the Najaf hawza"
+    }
+  ],
+  "zaydism": [
+    {
+      "query": "Great Mosque of Sanaa Yemen",
+      "intent": "Great Mosque of Sanaa, historic center of Zaydi learning"
+    },
+    {
+      "query": "Great Mosque Sanaa Yemen",
+      "intent": "Great Mosque of Sana'a, historic center of Zaydi learning"
+    }
+  ],
+  "chishtiyya": [
+    {
+      "query": "Ajmer Sharif Dargah India",
+      "intent": "Dargah of Mu'in al-Din Chishti at Ajmer"
+    },
+    {
+      "query": "Nizamuddin Dargah qawwali Delhi",
+      "intent": "Devotional qawwali at the Chishti shrine of Nizamuddin Auliya"
+    }
+  ],
+  "mevlevi-order": [
+    {
+      "query": "Mevlevi whirling dervishes sema",
+      "intent": "Mevlevi dervishes performing the disciplined sema"
+    },
+    {
+      "query": "Mevlana Museum Konya green dome",
+      "intent": "Rumi's mausoleum and Mevlana Museum in Konya"
+    }
+  ],
+  "naqshbandiyya": [
+    {
+      "query": "Bahauddin Naqshband mausoleum Bukhara",
+      "intent": "Mausoleum of Baha al-Din Naqshband near Bukhara"
+    },
+    {
+      "query": "naqshbandiyya Naqshbandi",
+      "intent": "Naqshbandi communal practice of silent remembrance"
+    }
+  ],
+  "qadiriyya": [
+    {
+      "query": "Abdul Qadir Gilani shrine Baghdad",
+      "intent": "Shrine of Abd al-Qadir al-Jilani in Baghdad"
+    },
+    {
+      "query": "qadiriyya Qadiri",
+      "intent": "Qadiri communal dhikr ritual"
+    }
+  ],
+  "shadhiliyya": [
+    {
+      "query": "Abu al Hasan al Shadhili shrine Humaithara Egypt",
+      "intent": "Desert shrine of Abu al-Hasan al-Shadhili at Humaithara"
+    },
+    {
+      "query": "Hizb al Bahr manuscript",
+      "intent": "Manuscript of the Shadhili litany Hizb al-Bahr"
+    }
+  ],
+  "tijaniyya": [
+    {
+      "query": "Ahmad al Tijani",
+      "intent": "Mausoleum and zawiya of Ahmad al-Tijani in Fez"
+    },
+    {
+      "query": "Zawiya of Sidi Ahmed al-Tijani Fez",
+      "intent": "Zawiya of Sidi Ahmed al-Tijani in Fez, Morocco"
+    }
+  ],
+  "ashari-theology": [
+    {
+      "query": "Abu al Hasan al",
+      "intent": "Traditional calligraphic representation of al-Ashari"
+    },
+    {
+      "query": "al Ibana an",
+      "intent": "Manuscript of al-Ashari's al-Ibana"
+    }
+  ],
+  "athari-theology": [
+    {
+      "query": "Ibn Taymiyyah Arabic calligraphy",
+      "intent": "Calligraphic representation of Ibn Taymiyyah, a major Athari theologian"
+    },
+    {
+      "query": "Ibn Taymiyya calligraphy Arabic",
+      "intent": "Calligraphic emblem of Hanbali scholar Ibn Taymiyyah"
+    }
+  ],
+  "barelvi-movement": [
+    {
+      "query": "Ahmed Raza Khan Barelvi",
+      "intent": "Portrait of Ahmad Raza Khan, founder of the Barelvi movement"
+    },
+    {
+      "query": "Dargah Ala Hazrat Bareilly",
+      "intent": "Dargah of Ahmad Raza Khan at Bareilly"
+    }
+  ],
+  "deobandi-movement": [
+    {
+      "query": "Muhammad Qasim Nanautavi",
+      "intent": "Portrait of Darul Uloom Deoband cofounder Muhammad Qasim Nanautavi"
+    },
+    {
+      "query": "Darul Uloom Deoband main gate mosque",
+      "intent": "Darul Uloom Deoband, defining seminary of the movement"
+    }
+  ],
+  "hanafi-school": [
+    {
+      "query": "Abu Hanifa Mosque Baghdad",
+      "intent": "Abu Hanifa Mosque and mausoleum in Baghdad"
+    },
+    {
+      "query": "Abu Hanifa",
+      "intent": "Manuscript of al-Marghinani's Hanafi legal classic al-Hidaya"
+    }
+  ],
+  "hanbali-school": [
+    {
+      "query": "Ahmad ibn Hanbal Mosque",
+      "intent": "Mosque and shrine associated with the Hanbali school's namesake"
+    },
+    {
+      "query": "Musnad Ahmad ibn Hanbal",
+      "intent": "Historical manuscript of Ahmad ibn Hanbal's Musnad"
+    }
+  ],
+  "maliki-school": [
+    {
+      "query": "Great Mosque Kairouan courtyard",
+      "intent": "Great Mosque of Kairouan, historic center of Maliki learning"
+    },
+    {
+      "query": "Muwatta Imam Malik manuscript",
+      "intent": "Historical manuscript of Malik's Muwatta"
+    }
+  ],
+  "maturidi-theology": [
+    {
+      "query": "Abu Mansur al Maturidi mausoleum Samarkand",
+      "intent": "Mausoleum of Abu Mansur al-Maturidi in Samarkand"
+    },
+    {
+      "query": "Kitab al Tawhid al",
+      "intent": "Manuscript of al-Maturidi's Kitab al-Tawhid"
+    }
+  ],
+  "salafism": [
+    {
+      "query": "Muhammad ibn Abd al Wahhab Kitab al Tawhid manuscript",
+      "intent": "Early manuscript or edition of Kitab al-Tawhid"
+    },
+    {
+      "query": "Nasir al Din al Albani portrait",
+      "intent": "Portrait of influential modern Salafi scholar al-Albani"
+    }
+  ],
+  "shafii-school": [
+    {
+      "query": "Imam al Shafii",
+      "intent": "Mausoleum of Imam al-Shafi'i in Cairo"
+    },
+    {
+      "query": "al Risala al",
+      "intent": "Historical manuscript of al-Shafi'i's al-Risala"
+    }
+  ],
+  "zahiri-school": [
+    {
+      "query": "Ibn Hazm statue Cordoba",
+      "intent": "Monument to Ibn Hazm, the foremost Zahiri jurist"
+    },
+    {
+      "query": "Manuscript of Ibn",
+      "intent": "Manuscript of Ibn Hazm's Zahiri legal compendium al-Muhalla"
+    }
+  ],
+  "beta-israel": [
+    {
+      "query": "Beta Israel Sigd",
+      "intent": "Beta Israel priests leading the defining Sigd observance"
+    },
+    {
+      "query": "Beta Israel Orit Ge'ez",
+      "intent": "Ge'ez Orit manuscript from the Beta Israel scriptural tradition"
+    }
+  ],
+  "breslov-hasidism": [
+    {
+      "query": "Rebbe Nachman grave Uman",
+      "intent": "Breslov pilgrims at Rebbe Nachman's grave in Uman"
+    },
+    {
+      "query": "Early edition of",
+      "intent": "Early edition of Rebbe Nachman's Likutey Moharan"
+    }
+  ],
+  "chabad-lubavitch": [
+    {
+      "query": "Menachem Mendel Schneerson portrait",
+      "intent": "Portrait of the Lubavitcher Rebbe Menachem Mendel Schneerson"
+    },
+    {
+      "query": "770 Eastern Parkway Chabad headquarters",
+      "intent": "770 Eastern Parkway, iconic world headquarters of Chabad"
+    }
+  ],
+  "satmar-hasidism": [
+    {
+      "query": "Joel Teitelbaum Satmar Rebbe",
+      "intent": "Portrait of Joel Teitelbaum, founding Satmar rebbe"
+    },
+    {
+      "query": "Yetev Lev D'Satmar synagogue Rodney Street Brooklyn",
+      "intent": "Main Satmar synagogue on Rodney Street in Williamsburg, Brooklyn"
+    }
+  ],
+  "ancient-israelite-religion": [
+    {
+      "query": "Kuntillet Ajrud pottery inscription",
+      "intent": "Kuntillet Ajrud inscription and sacred drawings"
+    },
+    {
+      "query": "Tel Arad Israelite temple",
+      "intent": "Altars and standing stones from the Israelite sanctuary at Tel Arad"
+    }
+  ],
+  "essenes": [
+    {
+      "query": "Qumran Cave 4 Dead Sea Scrolls",
+      "intent": "Cave 4 at Qumran, often associated with the Essene community"
+    },
+    {
+      "query": "Great Isaiah Scroll Qumran manuscript",
+      "intent": "Great Isaiah Scroll from the Qumran manuscript collection"
+    }
+  ],
+  "pharisees": [
+    {
+      "query": "Pharisees question Jesus James Tissot painting",
+      "intent": "James Tissot's historical biblical depiction of Pharisees"
+    },
+    {
+      "query": "Kaufmann Mishnah manuscript",
+      "intent": "Kaufmann Mishnah manuscript preserving traditions rooted in Pharisaic-rabbinic law"
+    }
+  ],
+  "sadducees": [
+    {
+      "query": "Caiaphas ossuary Israel Museum",
+      "intent": "Ornate ossuary associated with the high-priestly family of Caiaphas"
+    },
+    {
+      "query": "Second Temple Jerusalem model priestly court",
+      "intent": "Reconstruction of the Temple institution central to Sadducean authority"
+    }
+  ],
+  "samaritanism": [
+    {
+      "query": "Samaritan high priest Torah scroll Mount Gerizim",
+      "intent": "Samaritan high priest displaying a Torah scroll"
+    },
+    {
+      "query": "Samaritan Passover sacrifice Mount Gerizim",
+      "intent": "Annual Passover sacrifice on Mount Gerizim"
+    }
+  ],
+  "second-temple-judaism": [
+    {
+      "query": "Second Temple Jerusalem Holyland model",
+      "intent": "Detailed model of the Jerusalem Temple before 70 CE"
+    },
+    {
+      "query": "Dead Sea Scrolls Shrine of the Book manuscript",
+      "intent": "Dead Sea Scroll manuscript from the Second Temple period"
+    }
+  ],
+  "yahwism": [
+    {
+      "query": "Kuntillet Ajrud inscription Yahweh and his Asherah",
+      "intent": "Kuntillet Ajrud inscription naming YHWH in a pre-exilic setting"
+    },
+    {
+      "query": "Ketef Hinnom silver scrolls",
+      "intent": "Ketef Hinnom silver amulets bearing an early priestly blessing"
+    }
+  ],
+  "zealots": [
+    {
+      "query": "Masada fortress aerial Israel",
+      "intent": "Masada, iconic final stronghold of revolt against Rome"
+    },
+    {
+      "query": "First Jewish Revolt shekel coin",
+      "intent": "Silver revolt shekel carrying symbols of Jewish resistance"
+    }
+  ],
+  "conservative-judaism": [
+    {
+      "query": "Solomon Schechter portrait",
+      "intent": "Portrait of Solomon Schechter, architect of Conservative Judaism"
+    },
+    {
+      "query": "Jewish Theological Seminary New York facade",
+      "intent": "Jewish Theological Seminary, principal Conservative institution"
+    }
+  ],
+  "haredi-judaism": [
+    {
+      "query": "Haredi Jews prayer Western Wall",
+      "intent": "Haredi men in traditional dress at prayer"
+    },
+    {
+      "query": "Ponevezh Yeshiva Bnei Brak",
+      "intent": "Ponevezh Yeshiva, emblematic Haredi center of Torah study"
+    }
+  ],
+  "hasidic-judaism": [
+    {
+      "query": "Baal Shem Tov traditional portrait",
+      "intent": "Traditional portrait of the Baal Shem Tov, founder of Hasidism"
+    },
+    {
+      "query": "Hasidic rebbe tish",
+      "intent": "A rebbe's tish, defining communal Hasidic ritual"
+    }
+  ],
+  "modern-orthodox-judaism": [
+    {
+      "query": "Portrait of Rabbi",
+      "intent": "Portrait of Rabbi Joseph B. Soloveitchik, major Modern Orthodox thinker"
+    },
+    {
+      "query": "Yeshiva University Wilf Campus New York",
+      "intent": "Yeshiva University's Wilf Campus, flagship Modern Orthodox institution"
+    }
+  ],
+  "orthodox-judaism": [
+    {
+      "query": "Orthodox Jewish Torah reading synagogue",
+      "intent": "Torah reading in an Orthodox synagogue"
+    },
+    {
+      "query": "Vilna Gaon portrait",
+      "intent": "Traditional portrait of the Vilna Gaon, iconic Orthodox rabbinic authority"
+    }
+  ],
+  "reconstructionist-judaism": [
+    {
+      "query": "Portrait of Mordecai",
+      "intent": "Portrait of Mordecai Kaplan, founder of Reconstructionist Judaism"
+    },
+    {
+      "query": "Society for the Advancement of Judaism synagogue New York",
+      "intent": "The SAJ synagogue, first Reconstructionist congregation"
+    }
+  ],
+  "reform-judaism": [
+    {
+      "query": "Abraham Geiger portrait",
+      "intent": "Portrait of Abraham Geiger, leading founder of Reform Judaism"
+    },
+    {
+      "query": "Neue Synagoge Berlin interior",
+      "intent": "Berlin's New Synagogue, monumental center of liberal Judaism"
+    }
+  ],
+  "kabbalah": [
+    {
+      "query": "Kabbalah Tree of Life",
+      "intent": "Early printed sefirotic Tree of Life diagram"
+    },
+    {
+      "query": "Zohar Mantua 1558 first edition",
+      "intent": "First printed edition of the Zohar from Mantua"
+    }
+  ],
+  "lurianic-kabbalah": [
+    {
+      "query": "Ari Synagogue Safed",
+      "intent": "Ari Synagogue in Safed associated with Isaac Luria"
+    },
+    {
+      "query": "Etz Chaim Hayyim Vital",
+      "intent": "Manuscript of Etz Chaim transmitting Lurianic cosmology"
+    }
+  ],
+  "amoraic-judaism": [
+    {
+      "query": "Tomb of Rav Ashi Har Shinaan",
+      "intent": "Traditional tomb of Rav Ashi, major Babylonian Amora"
+    },
+    {
+      "query": "Munich Talmud Codex 95 manuscript",
+      "intent": "Munich Codex 95, complete manuscript of the Babylonian Talmud"
+    }
+  ],
+  "ashkenazi-judaism": [
+    {
+      "query": "Worms Synagogue Germany interior",
+      "intent": "Historic Worms Synagogue, landmark of medieval Ashkenaz"
+    },
+    {
+      "query": "Worms Mahzor illuminated manuscript",
+      "intent": "Illuminated Worms Mahzor from the Ashkenazi liturgical tradition"
+    }
+  ],
+  "geonic-judaism": [
+    {
+      "query": "Saadia Gaon",
+      "intent": "Historical depiction of Saadia Gaon, foremost geonic scholar"
+    },
+    {
+      "query": "Cairo Genizah fragment manuscript",
+      "intent": "Cairo Genizah manuscript fragment preserving Geonic responsa"
+    }
+  ],
+  "karaite-judaism": [
+    {
+      "query": "Karaite Kenesa Trakai Lithuania interior",
+      "intent": "Wooden Karaite kenesa at Trakai"
+    },
+    {
+      "query": "Leningrad Codex Samuel ben Jacob manuscript",
+      "intent": "Leningrad Codex copied by the Karaite-associated scribe Samuel ben Jacob"
+    }
+  ],
+  "mizrahi-judaism": [
+    {
+      "query": "Ben Ish Chai portrait",
+      "intent": "Portrait of Rabbi Yosef Hayyim, the Ben Ish Chai of Baghdad"
+    },
+    {
+      "query": "Meir Taweig Synagogue Baghdad",
+      "intent": "Meir Taweig Synagogue, surviving center of Baghdad's Jewish community"
+    }
+  ],
+  "rabbinic-judaism": [
+    {
+      "query": "Yerushalmi Talmud",
+      "intent": "Manuscript page of the Talmud Yerushalmi"
+    },
+    {
+      "query": "Kaufmann Mishnah manuscript page",
+      "intent": "Kaufmann manuscript of the Mishnah, foundational rabbinic text"
+    }
+  ],
+  "sephardic-judaism": [
+    {
+      "query": "Maimonides statue Cordoba",
+      "intent": "Traditional portrait of Maimonides, preeminent Sephardic authority"
+    },
+    {
+      "query": "Sarajevo Haggadah illuminated manuscript",
+      "intent": "Illuminated Sarajevo Haggadah, masterpiece of Sephardic art"
+    }
+  ],
+  "tannaitic-judaism": [
+    {
+      "query": "Beit Shearim tomb Rabbi Judah ha Nasi",
+      "intent": "Burial complex associated with Rabbi Judah ha-Nasi, compiler of the Mishnah"
+    },
+    {
+      "query": "Kaufmann Mishnah manuscript",
+      "intent": "Kaufmann Mishnah, principal manuscript witness to tannaitic law"
+    }
+  ],
+  "judaism": [
+    {
+      "query": "Western Wall Jewish prayer Jerusalem",
+      "intent": "Jewish prayer at the Western Wall in Jerusalem"
+    },
+    {
+      "query": "Torah scroll ark synagogue reading",
+      "intent": "Torah scroll carried from the ark for communal reading"
+    }
+  ]
+}

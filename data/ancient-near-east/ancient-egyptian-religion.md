@@ -40,22 +40,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Egyptian Religion'
     url: 'https://brill.com/search?q=Ancient%20Egyptian%20Religion'
 artifacts:
-  - title: Ancient Egyptian Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ancient-egyptian-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Egyptian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3100 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ancient Egyptian Religion.
-  - title: Pyramid Texts & Sacred Relics
-    imageUrl: /artifacts/ancient-egyptian-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Egyptian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3100 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ancient Egyptian Religion.
+  - title: "Weighing of the Heart vignette"
+    imageUrl: "/artifacts/ancient-egyptian-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:An_interesting_vignette_in_the_papyrus_of_Neb-seni_(British_Museum,_No._9,900)_shows_the_deceased_being_weighed_against_his_own_heart_in_the_presence_of_the_god_Osiris._(1902)_-_TIMEA.jpg"
+    provenance: "Unknown author; CC BY-SA 2.5"
+    period: "Image dated 1902"
+    description: "This image shows Weighing of the Heart vignette, selected as a defining visual reference for Ancient Egyptian Religion."
+  - title: "Karnak temple complex"
+    imageUrl: "/artifacts/ancient-egyptian-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Karnak_Hypostyle_Hall_R03.jpg"
+    provenance: "Marc Ryckaert; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Karnak temple complex, selected as a defining visual reference for Ancient Egyptian Religion."
 ---
 
 # Ancient Egyptian Religion

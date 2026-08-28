@@ -42,20 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Baptist Traditions'
     url: 'https://www.cambridge.org/core/search?q=Baptist%20Traditions'
 artifacts:
-  - title: Aleppo Codex Joshua 1 1
-    imageUrl: /artifacts/baptist-traditions-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Aleppo_Codex_Joshua_1_1.jpg'
-    provenance: 'London, England, UK'
-    period: c. 1609 CE
-    description: 'Joshua 1:1 in the Aleppo Codex....'
-  - title: Bhs psalm1
-    imageUrl: /artifacts/baptist-traditions-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bhs_psalm1.png'
-    provenance: 'London, England, UK'
-    period: c. 1609 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Baptist Traditions.
+  - title: "Believer's baptism by full immersion, defining Baptist practice"
+    imageUrl: "/artifacts/baptist-traditions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Champion_Forest_Baptist_Church_-_Baptism_-_August_2017.jpg"
+    provenance: "Stevenlmiori; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Believer's baptism by full immersion, defining Baptist practice, selected as a defining visual reference for Baptist Traditions."
+  - title: "Historic First Baptist Church in America at Providence"
+    imageUrl: "/artifacts/baptist-traditions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:First_Baptist_Meetinghouse,_Providence,_RI.jpg"
+    provenance: "Daniel Case; CC BY-SA 3.0"
+    period: "Image dated 2008"
+    description: "This image shows Historic First Baptist Church in America at Providence, selected as a defining visual reference for Baptist Traditions."
 ---
 
 # Baptist Traditions

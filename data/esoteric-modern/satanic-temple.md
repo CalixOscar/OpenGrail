@@ -48,22 +48,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: The Satanic Temple'
     url: 'https://brill.com/search?q=The%20Satanic%20Temple'
 artifacts:
-  - title: The Satanic Temple Historical Sanctuary & Iconography
-    imageUrl: /artifacts/satanic-temple-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/The_Satanic_Temple'
-    provenance: 'Boston, Massachusetts, USA'
-    period: c. 2013 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with The Satanic Temple.
-  - title: The Seven Fundamental Tenets & Sacred Relics
-    imageUrl: /artifacts/satanic-temple-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/The_Satanic_Temple'
-    provenance: 'Boston, Massachusetts, USA'
-    period: c. 2013 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of The
-      Satanic Temple.
+  - title: "Satanic Temple Baphomet monument"
+    imageUrl: "/artifacts/satanic-temple-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shiva_Honey_with_Baphomet.jpg"
+    provenance: "Livban3777; CC0"
+    period: "Image dated 2019"
+    description: "This image shows Satanic Temple Baphomet monument, selected as a defining visual reference for The Satanic Temple."
+  - title: "Salem Satanic Temple headquarters"
+    imageUrl: "/artifacts/satanic-temple-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Satanic_Temple,_Salem,_MA_2023-02-23_01.jpg"
+    provenance: "Crisco 1492; CC BY-SA 4.0"
+    period: "Image dated 2023"
+    description: "This image shows Salem Satanic Temple headquarters, selected as a defining visual reference for The Satanic Temple."
 ---
 
 # The Satanic Temple

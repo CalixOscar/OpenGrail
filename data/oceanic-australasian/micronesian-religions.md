@@ -42,22 +42,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Micronesian%20Religions'
 artifacts:
-  - title: Micronesian Religions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/micronesian-religions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Micronesian_Religions'
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. ancestral era
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Micronesian Religions.
-  - title: Oral traditions (island-specific) & Sacred Relics
-    imageUrl: /artifacts/micronesian-religions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Micronesian_Religions'
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. ancestral era
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Micronesian Religions.
+  - title: "Nan Madol megalithic ceremonial complex at Pohnpei"
+    imageUrl: "/artifacts/micronesian-religions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nan_Madol_megalithic_site,_Pohnpei_(Federated_States_of_Micronesia).jpg"
+    provenance: "Patrick Nunn; CC BY-SA 4.0"
+    period: "Image dated 2014"
+    description: "This image shows Nan Madol megalithic ceremonial complex at Pohnpei, selected as a defining visual reference for Micronesian Religions."
+  - title: "Carved wooden Dilukai protective ancestral figure from Palau"
+    imageUrl: "/artifacts/micronesian-religions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dilukai_from_the_Caroline_Islands,_Belau_(Palau),_19th-early_20th_century,_Metropolitan_Museum_of_Art.jpg"
+    provenance: "Wmpearl; Public domain"
+    period: "20th century"
+    description: "This image shows Carved wooden Dilukai protective ancestral figure from Palau, selected as a defining visual reference for Micronesian Religions."
 ---
 
 # Micronesian Religions

@@ -49,22 +49,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Sikh%20Dharma%20International%20%2F%203HO
 artifacts:
-  - title: Sikh Dharma International / 3HO Historical Sanctuary & Iconography
-    imageUrl: /artifacts/sikh-dharma-international-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sikh_Dharma_International_%2F_3HO'
-    provenance: 'Amritsar, Punjab, India'
-    period: c. late 1960s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Sikh Dharma International / 3HO.
-  - title: Guru Granth Sahib & Sacred Relics
-    imageUrl: /artifacts/sikh-dharma-international-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sikh_Dharma_International_%2F_3HO'
-    provenance: 'Amritsar, Punjab, India'
-    period: c. late 1960s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Sikh
-      Dharma International / 3HO.
+  - title: "Harbhajan Singh Yogi Bhajan, founder of Sikh Dharma International"
+    imageUrl: "/artifacts/sikh-dharma-international-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Harbhajan_Singh_Yogi_(cropped).jpg"
+    provenance: "Tariksingh; Public domain"
+    period: "Digital file published 2018"
+    description: "This image shows Harbhajan Singh Yogi Bhajan, founder of Sikh Dharma International, selected as a defining visual reference for Sikh Dharma International / 3HO."
+  - title: "Hacienda de Guru Ram Das, the movement's principal New Mexico community"
+    imageUrl: "/artifacts/sikh-dharma-international-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hacienda_de_caf%C3%A9_en_Teresen,_Caripe,_Monagas.jpg"
+    provenance: "Cesar Perez; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Hacienda de Guru Ram Das, the movement's principal New Mexico community, selected as a defining visual reference for Sikh Dharma International / 3HO."
 ---
 
 # Sikh Dharma International / 3HO

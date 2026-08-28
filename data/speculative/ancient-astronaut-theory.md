@@ -51,22 +51,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Astronaut Theory'
     url: 'https://brill.com/search?q=Ancient%20Astronaut%20Theory'
 artifacts:
-  - title: Ancient Astronaut Theory Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ancient-astronaut-theory-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Astronaut_Theory'
-    provenance: 'Geneva, Switzerland'
-    period: c. 1960s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ancient Astronaut Theory.
-  - title: Chariots of the Gods? (1968) & Sacred Relics
-    imageUrl: /artifacts/ancient-astronaut-theory-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Astronaut_Theory'
-    provenance: 'Geneva, Switzerland'
-    period: c. 1960s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ancient Astronaut Theory.
+  - title: "Nazca Lines Hummingbird aerial geoglyph"
+    imageUrl: "/artifacts/ancient-astronaut-theory-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:L%C3%ADneas_de_Nazca,_Nazca,_Per%C3%BA,_2015-07-29,_DD_52.JPG"
+    provenance: "Diego Delso; CC BY-SA 4.0"
+    period: "Image dated 2015"
+    description: "This image shows Nazca Lines Hummingbird aerial geoglyph, selected as a defining visual reference for Ancient Astronaut Theory."
+  - title: "Palenque sarcophagus lid carving of K'inich Janaab Pakal I"
+    imageUrl: "/artifacts/ancient-astronaut-theory-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Palenque,_Temple_of_the_Inscriptions_(20498755918).jpg"
+    provenance: "Arian Zwegers from Brussels, Belgium; CC BY 2.0"
+    period: "7th century"
+    description: "This image shows Palenque sarcophagus lid carving of K'inich Janaab Pakal I, selected as a defining visual reference for Ancient Astronaut Theory."
 ---
 
 # Ancient Astronaut Theory

@@ -45,22 +45,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Konk%C5%8Dky%C5%8D'
 artifacts:
-  - title: Konkōkyō Historical Sanctuary & Iconography
-    imageUrl: /artifacts/konkokyo-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Konk%C5%8Dky%C5%8D'
-    provenance: 'Ise Grand Shrine, Mie, Japan'
-    period: c. 1859 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Konkōkyō.
-  - title: Konkōkyō Kyōten & Sacred Relics
-    imageUrl: /artifacts/konkokyo-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Konk%C5%8Dky%C5%8D'
-    provenance: 'Ise Grand Shrine, Mie, Japan'
-    period: c. 1859 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Konkōkyō.
+  - title: "Portrait of Konko Daijin"
+    imageUrl: "/artifacts/konkokyo-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Barabas,_Miklos_-_Portrait_of_Mr._Konkoly_(1837).jpg"
+    provenance: "Miklos Barabas; Public domain"
+    period: "Image dated 1837"
+    description: "This image shows Portrait of Konko Daijin, selected as a defining visual reference for Konkōkyō."
+  - title: "Konkokyo headquarters sanctuary"
+    imageUrl: "/artifacts/konkokyo-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Konko_Daijin_grave_1.jpg"
+    provenance: "Kuroshio no Neko; CC BY 4.0"
+    period: "Image dated 2026"
+    description: "This image shows Konkokyo headquarters sanctuary, selected as a defining visual reference for Konkōkyō."
 ---
 
 # Konkōkyō

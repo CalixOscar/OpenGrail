@@ -43,22 +43,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Tengrism'
 artifacts:
-  - title: Tengrism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/tengrism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tengrism'
-    provenance: 'Orkhon Valley (Karakorum), Mongolia'
-    period: c. at least 6th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Tengrism.
-  - title: Orkhon inscriptions & Sacred Relics
-    imageUrl: /artifacts/tengrism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tengrism'
-    provenance: 'Orkhon Valley (Karakorum), Mongolia'
-    period: c. at least 6th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Tengrism.
+  - title: "Tamgaly petroglyphs depicting the radiant solar deity"
+    imageUrl: "/artifacts/tengrism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tamgaly-Tas_Petroglyphs.JPG"
+    provenance: "Stomac; CC BY 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Tamgaly petroglyphs depicting the radiant solar deity, selected as a defining visual reference for Tengrism."
+  - title: "Khan Tengri, the sacred Lord of the Spirits peak in the Tian Shan"
+    imageUrl: "/artifacts/tengrism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Peak_of_Khan_Tengri_at_sunset.jpg"
+    provenance: "No machine-readable author provided. SiGarb assumed (based on copyright claims).; Public domain"
+    period: "Image dated 2005"
+    description: "This image shows Khan Tengri, the sacred Lord of the Spirits peak in the Tian Shan, selected as a defining visual reference for Tengrism."
 ---
 
 # Tengrism

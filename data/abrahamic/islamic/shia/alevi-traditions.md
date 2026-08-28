@@ -48,22 +48,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Alevi Traditions'
     url: 'https://www.cambridge.org/core/search?q=Alevi%20Traditions'
 artifacts:
-  - title: Alevi Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/alevi-traditions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Alevi_Traditions'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 13th–16th centuries CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Alevi Traditions.
-  - title: Buyruks & Sacred Relics
-    imageUrl: /artifacts/alevi-traditions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Alevi_Traditions'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 13th–16th centuries CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Alevi
-      Traditions.
+  - title: "Alevi cem worship with the ritual semah"
+    imageUrl: "/artifacts/alevi-traditions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cem2.jpg"
+    provenance: "Selucreh1; CC BY-SA 4.0"
+    period: "Image dated 2014"
+    description: "This image shows Alevi cem worship with the ritual semah, selected as a defining visual reference for Alevi Traditions."
+  - title: "Haci Bektash Veli lodge and pilgrimage complex"
+    imageUrl: "/artifacts/alevi-traditions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Keskul_GrantBowl.JPG"
+    provenance: "Noumenon; Public domain"
+    period: "Image dated 2005"
+    description: "This image shows Haci Bektash Veli lodge and pilgrimage complex, selected as a defining visual reference for Alevi Traditions."
 ---
 
 # Alevi Traditions

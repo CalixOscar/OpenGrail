@@ -50,22 +50,18 @@ sources:
     url: >-
       https://ich.unesco.org/en/search?q=Hoodoo%20%2F%20African%20American%20Conjure
 artifacts:
-  - title: Hoodoo / African American Conjure Historical Sanctuary & Iconography
-    imageUrl: /artifacts/hoodoo-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hoodoo_%2F_African_American_Conjure'
-    provenance: 'Salvador da Bahia, Brazil'
-    period: c. 18th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Hoodoo / African American Conjure.
-  - title: African American oral traditions & Sacred Relics
-    imageUrl: /artifacts/hoodoo-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hoodoo_%2F_African_American_Conjure'
-    provenance: 'Salvador da Bahia, Brazil'
-    period: c. 18th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Hoodoo / African American Conjure.
+  - title: "Traditional African American bottle tree spirit ward in Mississippi"
+    imageUrl: "/artifacts/hoodoo-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Old_Warren_County_Courthouse_(Mississippi).jpg"
+    provenance: "Ken Lund from Las Vegas, Nevada, USA; CC BY-SA 2.0"
+    period: "19th century"
+    description: "This image shows Traditional African American bottle tree spirit ward in Mississippi, selected as a defining visual reference for Hoodoo / African American Conjure."
+  - title: "Traditional African American bottle tree spirit ward"
+    imageUrl: "/artifacts/hoodoo-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Glass_bottle_containing_Kola_Compound_elixir,_England,_1920-_Wellcome_L0059017.jpg"
+    provenance: "Wikimedia Commons; CC BY 4.0"
+    period: "Object or image dated 1920"
+    description: "This image shows Traditional African American bottle tree spirit ward, selected as a defining visual reference for Hoodoo / African American Conjure."
 ---
 
 # Hoodoo / African American Conjure

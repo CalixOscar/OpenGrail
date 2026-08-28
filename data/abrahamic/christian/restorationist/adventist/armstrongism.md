@@ -49,22 +49,18 @@ sources:
       Churches of God
     url: 'https://www.cambridge.org/core/search?q=Armstrongist%20Churches%20of%20God'
 artifacts:
-  - title: Armstrongist Churches of God Historical Sanctuary & Iconography
-    imageUrl: /artifacts/armstrongism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Armstrongist_Churches_of_God'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1934 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Armstrongist Churches of God.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/armstrongism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Armstrongist_Churches_of_God'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1934 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Armstrongist Churches of God.
+  - title: "Portrait of Herbert W. Armstrong, founder of the Armstrongist movement"
+    imageUrl: "/artifacts/armstrongism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pennsylvania-_ARMSTRONG_County,_Enumeration_District_34,_Sheet_No._5A_-_DPLA_-_fafc6aa34fcabe8073dc776b3557ea98.jpg"
+    provenance: "Department of Commerce and Labor. Bureau of the Census. 7/1/1903-1913; Public domain"
+    period: "Image dated 1910"
+    description: "This image shows Portrait of Herbert W. Armstrong, founder of the Armstrongist movement, selected as a defining visual reference for Armstrongist Churches of God."
+  - title: "Ambassador Auditorium, monumental sanctuary of Armstrong's Worldwide Church of God"
+    imageUrl: "/artifacts/armstrongism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:2008-1226-Pasadena-001-AmbassadorCollege-pan.JPG"
+    provenance: "Bobak Ha'Eri; CC BY 3.0"
+    period: "Image dated 2008"
+    description: "This image shows Ambassador Auditorium, monumental sanctuary of Armstrong's Worldwide Church of God, selected as a defining visual reference for Armstrongist Churches of God."
 ---
 
 # Armstrongist Churches of God

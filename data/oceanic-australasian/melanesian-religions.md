@@ -42,22 +42,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Melanesian%20Religions'
 artifacts:
-  - title: Melanesian Religions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/melanesian-religions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Melanesian_Religions'
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. ancestral era
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Melanesian Religions.
-  - title: Oral traditions (community-specific) & Sacred Relics
-    imageUrl: /artifacts/melanesian-religions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Melanesian_Religions'
-    provenance: 'Tanna Island (Mount Yasur), Vanuatu'
-    period: c. ancestral era
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Melanesian Religions.
+  - title: "Malagan ceremonial carved wooden funerary mask from New Ireland"
+    imageUrl: "/artifacts/melanesian-religions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Malagan_funeral_mask,_New_Ireland,_Papua_New_Guinea,_1901_-_Etnografiska_museet_-_Stockholm,_Sweden_-_DSC00942.JPG"
+    provenance: "Daderot; CC0"
+    period: "Image dated 2014"
+    description: "This image shows Malagan ceremonial carved wooden funerary mask from New Ireland, selected as a defining visual reference for Melanesian Religions."
+  - title: "Haus Tambaran ancestral spirit house on the Sepik River"
+    imageUrl: "/artifacts/melanesian-religions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Haus_Tambaran,_Apangai.jpg"
+    provenance: "Sylt-Tinto; CC0"
+    period: "Image dated 2012"
+    description: "This image shows Haus Tambaran ancestral spirit house on the Sepik River, selected as a defining visual reference for Melanesian Religions."
 ---
 
 # Melanesian Religions

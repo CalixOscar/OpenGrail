@@ -42,22 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Hanbali School'
     url: 'https://www.cambridge.org/core/search?q=Hanbali%20School'
 artifacts:
-  - title: Hanbali School Historical Sanctuary & Iconography
-    imageUrl: /artifacts/hanbali-school-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hanbali_School'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 9th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Hanbali School.
-  - title: Musnad Ahmad ibn Hanbal & Sacred Relics
-    imageUrl: /artifacts/hanbali-school-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hanbali_School'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 9th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Hanbali School.
+  - title: "Mosque and shrine associated with the Hanbali school's namesake"
+    imageUrl: "/artifacts/hanbali-school-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ahmad_ibn_Hanbal_Mosque.jpg"
+    provenance: "Imam Khairul Annas; CC BY-SA 4.0"
+    period: "Image dated 2013"
+    description: "This image shows Mosque and shrine associated with the Hanbali school's namesake, selected as a defining visual reference for Hanbali School."
+  - title: "Historical manuscript of Ahmad ibn Hanbal's Musnad"
+    imageUrl: "/artifacts/hanbali-school-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Musnad.PNG"
+    provenance: "Jalal0; CC BY 3.0 us"
+    period: "Image dated 2011"
+    description: "This image shows Historical manuscript of Ahmad ibn Hanbal's Musnad, selected as a defining visual reference for Hanbali School."
 ---
 
 # Hanbali School

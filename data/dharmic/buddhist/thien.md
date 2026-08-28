@@ -45,22 +45,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Thi%E1%BB%81n%20Buddhism'
 artifacts:
-  - title: Thiền Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/thien-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Thi%E1%BB%81n_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Thiền Buddhism.
-  - title: Thiền uyển tập anh & Sacred Relics
-    imageUrl: /artifacts/thien-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Thi%E1%BB%81n_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Thiền
-      Buddhism.
+  - title: "Tran Nhan Tong, founder of the Truc Lam Thien lineage"
+    imageUrl: "/artifacts/thien-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%C4%90%E1%BB%81n_th%E1%BB%9D_Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.jpg"
+    provenance: "Crystal gem ( Luu Ly ); CC BY 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Tran Nhan Tong, founder of the Truc Lam Thien lineage, selected as a defining visual reference for Thiền Buddhism."
+  - title: "Yen Tu monastic complex, cradle of Truc Lam Thien"
+    imageUrl: "/artifacts/thien-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tam_quan_ch%C3%B9a_L%C3%A2n.jpg"
+    provenance: "Thuydaonguyen; Public domain"
+    period: "Image dated 2010"
+    description: "This image shows Yen Tu monastic complex, cradle of Truc Lam Thien, selected as a defining visual reference for Thiền Buddhism."
 ---
 
 # Thiền Buddhism

@@ -43,22 +43,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Hasidic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Hasidic%20Judaism'
 artifacts:
-  - title: Hasidic Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/hasidic-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hasidic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1740s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Hasidic Judaism.
-  - title: Tanya & Sacred Relics
-    imageUrl: /artifacts/hasidic-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Hasidic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1740s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Hasidic Judaism.
+  - title: "Traditional portrait of the Baal Shem Tov, founder of Hasidism"
+    imageUrl: "/artifacts/hasidic-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Besht_well_2006.JPG"
+    provenance: "No machine-readable author provided. Klezmer~commonswiki assumed (based on copyright claims).; Public domain"
+    period: "Image dated 2006"
+    description: "This image shows Traditional portrait of the Baal Shem Tov, founder of Hasidism, selected as a defining visual reference for Hasidic Judaism."
+  - title: "A rebbe's tish, defining communal Hasidic ritual"
+    imageUrl: "/artifacts/hasidic-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:MosholuLibraryApr2006.jpg"
+    provenance: "Mosholudinner at English Wikipedia; CC BY-SA 3.0"
+    period: "Image dated 2006"
+    description: "This image shows A rebbe's tish, defining communal Hasidic ritual, selected as a defining visual reference for Hasidic Judaism."
 ---
 
 # Hasidic Judaism

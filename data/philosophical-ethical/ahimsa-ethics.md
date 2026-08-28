@@ -50,20 +50,18 @@ sources:
   - title: 'Mahatma Gandhi: "The Story of My Experiments with Truth"'
     url: 'https://www.gandhiashramsevagram.org/'
 artifacts:
-  - title: Jain Prateek Chihna Emblem of Universal Ahimsa
-    imageUrl: /artifacts/ahimsa-ethics-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Jain_symbols
-    provenance: Pan-Indian Dharmic Tradition
-    period: Universal Inscription
-    description: >-
-      Sacred emblem featuring the open palm of non-violence containing the 24-spoked Wheel of Dharma and the word 'Ahimsa' at its center.
-  - title: Lion Capital of Emperor Ashoka at Sarnath
-    imageUrl: /artifacts/ahimsa-ethics-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Lion_Capital_of_Ashoka
-    provenance: Sarnath Archaeological Museum, Uttar Pradesh, India
-    period: c. 250 BCE (Maurya Empire)
-    description: >-
-      Monumental sandstone capital sculpted after Emperor Ashoka renounced aggressive warfare and embraced Buddhist non-violence (Dharma Vijaya).
+  - title: "Jain Ahimsa symbol with the open hand and Dharmachakra"
+    imageUrl: "/artifacts/ahimsa-ethics-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Udaygiri_%26_Khandagiri_Caves,_Bhubaneswar_(26)_-_Oct_2010.jpg"
+    provenance: "Steve Browne & John Verkleir; CC BY 2.0"
+    period: "Image dated 2010"
+    description: "This image shows Jain Ahimsa symbol with the open hand and Dharmachakra, selected as a defining visual reference for Ahiṃsā & Dharmic Ethics of Non-Violence."
+  - title: "Lion Capital of Ashoka at Sarnath"
+    imageUrl: "/artifacts/ahimsa-ethics-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Lion_capital_of_Ashoka_at_Sarnath_(schematic_reconstruction).jpg"
+    provenance: "Fowler&fowler; CC BY-SA 4.0"
+    period: "Image dated 2022"
+    description: "This image shows Lion Capital of Ashoka at Sarnath, selected as a defining visual reference for Ahiṃsā & Dharmic Ethics of Non-Violence."
 ---
 
 # Ahiṃsā & Dharmic Ethics of Non-Violence

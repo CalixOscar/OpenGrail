@@ -45,22 +45,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Falun%20Gong'
 artifacts:
-  - title: Falun Gong Historical Sanctuary & Iconography
-    imageUrl: /artifacts/falun-gong-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Falun_Gong'
-    provenance: 'Beijing (Forbidden City), China'
-    period: c. 1992 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Falun Gong.
-  - title: Zhuan Falun & Sacred Relics
-    imageUrl: /artifacts/falun-gong-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Falun_Gong'
-    provenance: 'Beijing (Forbidden City), China'
-    period: c. 1992 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Falun
-      Gong.
+  - title: "Falun Dharma-wheel emblem"
+    imageUrl: "/artifacts/falun-gong-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Asian_swastika_and_yin-and-yang_motif.jpg"
+    provenance: "Lori Blaja; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Falun Dharma-wheel emblem, selected as a defining visual reference for Falun Gong."
+  - title: "Falun Gong exercise practice"
+    imageUrl: "/artifacts/falun-gong-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Origins-GuangzhouPractice.jpg"
+    provenance: "ClearWisdom.net; CC BY-SA 3.0"
+    period: "Image dated 2012"
+    description: "This image shows Falun Gong exercise practice, selected as a defining visual reference for Falun Gong."
 ---
 
 # Falun Gong

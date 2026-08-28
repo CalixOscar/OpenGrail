@@ -47,22 +47,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Roman Mithraism'
     url: 'https://brill.com/search?q=Roman%20Mithraism'
 artifacts:
-  - title: Roman Mithraism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/mithraism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Mithraism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. late 1st century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Roman Mithraism.
-  - title: Mithraic inscriptions & Sacred Relics
-    imageUrl: /artifacts/mithraism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Roman_Mithraism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. late 1st century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Roman
-      Mithraism.
+  - title: "Mithraic tauroctony relief"
+    imageUrl: "/artifacts/mithraism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mithras_banquet_Louvre_Ma3441.jpg"
+    provenance: "Marie-Lan Nguyen (2007); Public domain"
+    period: "3rd century"
+    description: "This image shows Mithraic tauroctony relief, selected as a defining visual reference for Roman Mithraism."
+  - title: "Capua Mithraeum"
+    imageUrl: "/artifacts/mithraism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Capua_Mitreo_02.JPG"
+    provenance: "Miguel Hermoso Cuesta; CC BY-SA 4.0"
+    period: "Image dated 2013"
+    description: "This image shows Capua Mithraeum, selected as a defining visual reference for Roman Mithraism."
 ---
 
 # Roman Mithraism

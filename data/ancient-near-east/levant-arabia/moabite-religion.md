@@ -45,22 +45,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Moabite Religion'
     url: 'https://brill.com/search?q=Moabite%20Religion'
 artifacts:
-  - title: Moabite Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/moabite-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Moabite_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1000 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Moabite Religion.
-  - title: Mesha Stele & Sacred Relics
-    imageUrl: /artifacts/moabite-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Moabite_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1000 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Moabite Religion.
+  - title: "The Mesha Stele in the Louvre"
+    imageUrl: "/artifacts/moabite-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mesha_Stele_Louvre.JPG"
+    provenance: "Paterm ( 2008-12-07 ); CC BY-SA 4.0"
+    period: "800 BC"
+    description: "This image shows The Mesha Stele in the Louvre, selected as a defining visual reference for Moabite Religion."
+  - title: "Detail of the Mesha Stele inscription"
+    imageUrl: "/artifacts/moabite-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mesha_Stele_(511142469).jpg"
+    provenance: "Henri Sivonen from Helsinki, Finland; CC BY 2.0"
+    period: "Image dated 2007"
+    description: "This image shows Detail of the Mesha Stele inscription, selected as a defining visual reference for Moabite Religion."
 ---
 
 # Moabite Religion

@@ -1,0 +1,1232 @@
+{
+  "ajivika": [
+    {
+      "query": "Barabar Caves",
+      "intent": "Makkhali Gosāla, teacher associated with the Ājīvika movement"
+    },
+    {
+      "query": "Lomas Rishi Cave Barabar Ajivika",
+      "intent": "Lomas Rishi Cave, an Aśokan-period sanctuary donated to Ājīvikas"
+    }
+  ],
+  "ajnana": [
+    {
+      "query": "Sanjaya Belatthiputta",
+      "intent": "Sāmaññaphala Sutta witness to Sañjaya Belaṭṭhaputta's skeptical teaching"
+    },
+    {
+      "query": "Pali Canon palm leaf manuscript",
+      "intent": "Pāli canonical manuscript representative of the textual record of Ajñāna"
+    }
+  ],
+  "buddhism": [
+    {
+      "query": "Sarnath Buddha Dharmachakra mudra Gupta",
+      "intent": "Gupta-period Sarnath Buddha teaching with the dharmacakra gesture"
+    },
+    {
+      "query": "Mahabodhi Temple Bodh Gaya",
+      "intent": "Mahabodhi Temple at the site of the Buddha's awakening"
+    }
+  ],
+  "chan": [
+    {
+      "query": "Huineng",
+      "intent": "Traditional portrait of Huineng, the Sixth Patriarch of Chan"
+    },
+    {
+      "query": "Nanhua Temple",
+      "intent": "Nanhua Temple, principal sanctuary associated with Huineng"
+    }
+  ],
+  "dharmaguptaka": [
+    {
+      "query": "Gandhara Buddhist",
+      "intent": "Gāndhārī birch-bark scrolls associated with the Dharmaguptaka textual tradition"
+    },
+    {
+      "query": "Dharmaguptaka Vinaya Chinese",
+      "intent": "Dharmaguptaka Vinaya preserved in the Chinese Buddhist canon"
+    }
+  ],
+  "early-buddhist-schools": [
+    {
+      "query": "Bharhut Stupa early Buddhist relief",
+      "intent": "Early Buddhist narrative relief from the Bharhut Stupa"
+    },
+    {
+      "query": "Gandhari manuscript Kharosthi",
+      "intent": "Ancient Gāndhārī manuscript preserving early Buddhist school literature"
+    }
+  ],
+  "caodong-chan": [
+    {
+      "query": "Dongshan Liangjie, founding",
+      "intent": "Dongshan Liangjie, founding teacher of the Caodong lineage"
+    },
+    {
+      "query": "Puli Temple on",
+      "intent": "Puli Temple on Mount Dong, the lineage site of Dongshan Liangjie"
+    }
+  ],
+  "huayan-buddhism": [
+    {
+      "query": "Vairocana Buddha Longmen Fengxian Temple",
+      "intent": "Colossal Vairocana Buddha embodying Huayan's cosmic vision"
+    },
+    {
+      "query": "Avatamsaka Sutra illuminated manuscript",
+      "intent": "Illustrated Avataṃsaka Sūtra manuscript central to Huayan teaching"
+    }
+  ],
+  "jodo-shinshu": [
+    {
+      "query": "Historic portrait of",
+      "intent": "Historic portrait of Shinran, founder of Jōdo Shinshū"
+    },
+    {
+      "query": "Nishi Honganji Kyoto",
+      "intent": "Nishi Hongan-ji, a principal Jōdo Shinshū temple"
+    }
+  ],
+  "jodo-shu": [
+    {
+      "query": "Honen portrait Japanese painting",
+      "intent": "Traditional portrait of Hōnen, founder of Jōdo-shū"
+    },
+    {
+      "query": "Chion-in Temple Kyoto",
+      "intent": "Chion-in, head temple of Jōdo-shū"
+    }
+  ],
+  "jogye-order": [
+    {
+      "query": "Jinul Bojo Guksa",
+      "intent": "Jinul, formative Korean Seon master revered by the Jogye Order"
+    },
+    {
+      "query": "Jogyesa Temple Seoul",
+      "intent": "Jogyesa, the chief temple of the Jogye Order"
+    }
+  ],
+  "linji-chan": [
+    {
+      "query": "Linji Yixuan portrait painting",
+      "intent": "Linji Yixuan, founding master of the Linji Chan lineage"
+    },
+    {
+      "query": "Linji Temple Zhengding Hebei",
+      "intent": "Linji Temple in Zhengding, namesake monastery of the lineage"
+    }
+  ],
+  "rinzai-zen": [
+    {
+      "query": "Eisai Zen master portrait",
+      "intent": "Portrait of Eisai, a founding transmitter of Rinzai Zen in Japan"
+    },
+    {
+      "query": "Kennin-ji Kyoto",
+      "intent": "Kennin-ji, Japan's oldest Zen temple and an early Rinzai center"
+    }
+  ],
+  "soto-zen": [
+    {
+      "query": "Dogen Zenji portrait",
+      "intent": "Portrait of Dōgen, foundational teacher of Japanese Sōtō Zen"
+    },
+    {
+      "query": "Eihei-ji Temple Fukui",
+      "intent": "Eihei-ji, one of the two head temples of Sōtō Zen"
+    }
+  ],
+  "engaged-buddhism": [
+    {
+      "query": "Thich Nhat Hanh walking",
+      "intent": "Thích Nhất Hạnh leading mindful walking as socially engaged practice"
+    },
+    {
+      "query": "Plum Village Upper Hamlet meditation hall",
+      "intent": "Meditation hall at Plum Village, an institutional center of Engaged Buddhism"
+    }
+  ],
+  "gelug": [
+    {
+      "query": "Tsongkhapa thangka",
+      "intent": "Thangka of Tsongkhapa, founder of the Gelug school"
+    },
+    {
+      "query": "Ganden Monastery Tibet",
+      "intent": "Ganden Monastery, the original seat of the Gelug tradition"
+    }
+  ],
+  "insight-meditation-movement": [
+    {
+      "query": "Ledi Sayadaw portrait",
+      "intent": "Ledi Sayadaw, a formative teacher in modern lay vipassanā"
+    },
+    {
+      "query": "Insight Meditation Society Barre Massachusetts",
+      "intent": "Insight Meditation Society, a landmark transnational vipassanā center"
+    }
+  ],
+  "jonang": [
+    {
+      "query": "Dolpopa Sherab Gyaltsen thangka",
+      "intent": "Dolpopa Sherab Gyaltsen, the defining Jonang theologian"
+    },
+    {
+      "query": "Taranatha Jonang Tibetan master",
+      "intent": "Lineage image of Tāranātha, great master of Jonang"
+    }
+  ],
+  "kagyu": [
+    {
+      "query": "Milarepa thangka",
+      "intent": "Milarepa in the iconic listening pose, emblematic Kagyu yogin"
+    },
+    {
+      "query": "Tsurphu Monastery Tibet",
+      "intent": "Tsurphu Monastery, a principal historic Kagyu seat"
+    }
+  ],
+  "mahasanghika": [
+    {
+      "query": "Amaravati Stupa Buddhist relief",
+      "intent": "Amaravati relief from a region strongly associated with Mahāsāṃghika communities"
+    },
+    {
+      "query": "Karla Caves chaitya",
+      "intent": "Manuscript of the Mahāvastu, a major Mahāsāṃghika-Lokottaravāda text"
+    }
+  ],
+  "mahayana": [
+    {
+      "query": "Avalokiteshvara bodhisattva sculpture India",
+      "intent": "Avalokiteśvara image expressing the Mahāyāna bodhisattva ideal"
+    },
+    {
+      "query": "Prajnaparamita palm leaf manuscript illustrated",
+      "intent": "Illustrated Prajñāpāramitā manuscript of Mahāyāna wisdom literature"
+    }
+  ],
+  "fo-guang-shan": [
+    {
+      "query": "Hsing Yun portrait Fo Guang Shan",
+      "intent": "Master Hsing Yun, founder of Fo Guang Shan"
+    },
+    {
+      "query": "Fo Guang Shan Buddha Museum Kaohsiung",
+      "intent": "Fo Guang Shan Buddha Museum and its monumental Buddha image"
+    }
+  ],
+  "humanistic-buddhism": [
+    {
+      "query": "Taixu Buddhist monk",
+      "intent": "Taixu, foundational advocate of modern Humanistic Buddhism"
+    },
+    {
+      "query": "Dharma Drum Mountain World Center Taiwan",
+      "intent": "Dharma Drum Mountain World Center, a major Humanistic Buddhist institution"
+    }
+  ],
+  "plum-village-tradition": [
+    {
+      "query": "Thich Nhat Hanh portrait Plum Village",
+      "intent": "Thích Nhất Hạnh, founder of the Plum Village tradition"
+    },
+    {
+      "query": "Plum Village Monastery France meditation hall",
+      "intent": "Plum Village Monastery in France, the tradition's founding community"
+    }
+  ],
+  "navayana": [
+    {
+      "query": "B R Ambedkar portrait 1950",
+      "intent": "B. R. Ambedkar, founder of Navayāna Buddhism"
+    },
+    {
+      "query": "Deekshabhoomi Nagpur stupa",
+      "intent": "Deekshabhoomi, site of Ambedkar's mass Buddhist conversion"
+    }
+  ],
+  "newar-buddhism": [
+    {
+      "query": "Newar paubhā painting",
+      "intent": "Newar paubhā painting of Dīpaṅkara Buddha"
+    },
+    {
+      "query": "Kwa Bahal Golden Temple Patan Nepal",
+      "intent": "Kwa Bāhā Golden Temple, a living Newar Buddhist monastery"
+    }
+  ],
+  "nichiren-buddhism": [
+    {
+      "query": "Nichiren portrait Kamakura period",
+      "intent": "Historic portrait of Nichiren"
+    },
+    {
+      "query": "Nichiren Gohonzon mandala calligraphy",
+      "intent": "Calligraphic Gohonzon mandala central to Nichiren devotion"
+    }
+  ],
+  "nyingma": [
+    {
+      "query": "Padmasambhava thangka Nyingma",
+      "intent": "Padmasambhava thangka, central guru image of Nyingma"
+    },
+    {
+      "query": "Samye Monastery Tibet",
+      "intent": "Samye, Tibet's first monastery and a foundational Nyingma site"
+    }
+  ],
+  "pudgalavada": [
+    {
+      "query": "Sarnath Buddha",
+      "intent": "Kathāvatthu manuscript preserving debates over the Pudgalavāda person doctrine"
+    },
+    {
+      "query": "Abhidharmakosa manuscript Sanskrit",
+      "intent": "Abhidharmakośa manuscript preserving a major critique of Pudgalavāda"
+    }
+  ],
+  "pure-land-buddhism": [
+    {
+      "query": "Amitabha Raigo painting",
+      "intent": "Raigō painting of Amitābha welcoming devotees to the Pure Land"
+    },
+    {
+      "query": "Byodo-in Phoenix Hall Kyoto",
+      "intent": "Byōdō-in Phoenix Hall, an architectural vision of Sukhāvatī"
+    }
+  ],
+  "sakya": [
+    {
+      "query": "Sakya Pandita thangka",
+      "intent": "Sakya Paṇḍita, one of the revered founding masters of Sakya"
+    },
+    {
+      "query": "Sakya Monastery Tibet",
+      "intent": "Sakya Monastery, namesake seat of the school"
+    }
+  ],
+  "sarvastivada": [
+    {
+      "query": "Kanishka casket Buddha",
+      "intent": "Kanishka reliquary from the Kushan milieu that patronized Sarvāstivāda"
+    },
+    {
+      "query": "Central Asian manuscript",
+      "intent": "Central Asian manuscript witness to Sarvāstivāda scholastic literature"
+    }
+  ],
+  "sautrantika": [
+    {
+      "query": "Seshin Vasubandhu Kofukuji",
+      "intent": "Statue of Vasubandhu at Kōfuku-ji in Nara"
+    },
+    {
+      "query": "Abhidharmakosa Sanskrit manuscript",
+      "intent": "Abhidharmakośa Sanskrit manuscript"
+    }
+  ],
+  "secular-buddhism": [
+    {
+      "query": "Stephen Batchelor Buddhist",
+      "intent": "Stephen Batchelor, a prominent interpreter of Secular Buddhism"
+    },
+    {
+      "query": "Gaia House meditation centre Devon",
+      "intent": "Gaia House, a retreat center associated with modern secular insight practice"
+    }
+  ],
+  "seon": [
+    {
+      "query": "Jinul portrait Korean",
+      "intent": "Jinul, formative systematizer of Korean Seon"
+    },
+    {
+      "query": "Songgwangsa Temple Korea",
+      "intent": "Songgwangsa, the monastic center founded by Jinul's community"
+    }
+  ],
+  "shingon": [
+    {
+      "query": "Kukai portrait Toji",
+      "intent": "Portrait of Kūkai, founder of Shingon Buddhism"
+    },
+    {
+      "query": "Kongobu-ji Mount Koya",
+      "intent": "Kongōbu-ji on Mount Kōya, head temple of Shingon"
+    }
+  ],
+  "soka-gakkai": [
+    {
+      "query": "soka gakkai Tsunesaburō",
+      "intent": "Tsunesaburō Makiguchi, founding president of Soka Gakkai"
+    },
+    {
+      "query": "Soka Gakkai Hall of",
+      "intent": "Hall of the Great Vow for Kosen-rufu, Soka Gakkai's central sanctuary"
+    }
+  ],
+  "tendai": [
+    {
+      "query": "Saicho Dengyo Daishi portrait",
+      "intent": "Saichō, founder of Japanese Tendai"
+    },
+    {
+      "query": "Enryaku-ji Mount Hiei",
+      "intent": "Enryaku-ji on Mount Hiei, head temple of Tendai"
+    }
+  ],
+  "thai-forest-tradition": [
+    {
+      "query": "Ajahn Mun Bhuridatta",
+      "intent": "Ajahn Mun Bhūridatta, foundational Thai Forest master"
+    },
+    {
+      "query": "Wat Pa Baan Tat Thailand",
+      "intent": "Wat Pa Baan Tat, an emblematic Thai Forest monastery"
+    }
+  ],
+  "theravada": [
+    {
+      "query": "Samadhi Buddha Anuradhapura",
+      "intent": "Samādhi Buddha of Anuradhapura, iconic Theravāda sacred sculpture"
+    },
+    {
+      "query": "Ruwanwelisaya stupa Anuradhapura",
+      "intent": "Ruwanwelisaya, a principal Theravāda relic stupa"
+    }
+  ],
+  "amarapura-nikaya": [
+    {
+      "query": "Most Venerable Walitota Sri Gnanawimalatisssa Maha Thera",
+      "intent": "Portrait of Walitota Sri Gnanawimalatissa, founder of Amarapura Nikāya"
+    },
+    {
+      "query": "Sri Lankan monastery",
+      "intent": "Sri Lankan monastery of the Amarapura ordination lineage"
+    }
+  ],
+  "burmese-buddhism": [
+    {
+      "query": "Mahamuni Buddha Mandalay",
+      "intent": "Mahamuni Buddha image, a supreme devotional icon of Myanmar"
+    },
+    {
+      "query": "Shwedagon Pagoda Yangon",
+      "intent": "Shwedagon Pagoda, Myanmar's preeminent Buddhist shrine"
+    }
+  ],
+  "cambodian-buddhism": [
+    {
+      "query": "Cambodian Buddha statue Wat Phnom",
+      "intent": "Khmer Theravāda Buddha image at Wat Phnom"
+    },
+    {
+      "query": "Silver Pagoda Phnom Penh",
+      "intent": "Silver Pagoda, Cambodia's royal Buddhist sanctuary"
+    }
+  ],
+  "dhammayut-nikaya": [
+    {
+      "query": "King Mongkut Buddhist monk portrait",
+      "intent": "King Mongkut depicted as a monk, founder of the Dhammayut reform"
+    },
+    {
+      "query": "Wat Bowonniwet Bangkok",
+      "intent": "Wat Bowonniwet, administrative and lineage center of Dhammayut"
+    }
+  ],
+  "lao-buddhism": [
+    {
+      "query": "Phra Bang Buddha Luang Prabang",
+      "intent": "Phra Bang palladium Buddha, namesake icon of Luang Prabang"
+    },
+    {
+      "query": "Pha That Luang Vientiane",
+      "intent": "Pha That Luang, Laos's national Buddhist reliquary"
+    }
+  ],
+  "mahasi-tradition": [
+    {
+      "query": "Mahasi Sayadaw portrait",
+      "intent": "Mahāsī Sayadaw, founder of the modern noting lineage"
+    },
+    {
+      "query": "Mahasi Sasana Yeiktha Yangon",
+      "intent": "Mahāsī Sāsana Yeiktha, the lineage's principal meditation center"
+    }
+  ],
+  "pa-auk-tradition": [
+    {
+      "query": "Pa Auk Sayadaw",
+      "intent": "Pa-Auk Sayadaw, principal teacher of the Pa-Auk system"
+    },
+    {
+      "query": "Pa-Auk Forest Meditation Center (Main) Entrance",
+      "intent": "Pa-Auk Forest Meditation Center entrance in Mawlamyine, Myanmar"
+    }
+  ],
+  "siyam-nikaya": [
+    {
+      "query": "Malwathu Maha Viharaya Kandy Siam Nikaya",
+      "intent": "Malwathu Maha Viharaya monastery of the Siam Nikaya in Kandy"
+    },
+    {
+      "query": "Sri Dalada Maligawa-20-kandy-Sri Lanka",
+      "intent": "Sri Dalada Maligawa Temple of the Sacred Tooth in Kandy"
+    }
+  ],
+  "sri-lankan-buddhism": [
+    {
+      "query": "Avukana Buddha statue Sri Lanka",
+      "intent": "Avukana standing Buddha, iconic Sinhalese Buddhist sculpture"
+    },
+    {
+      "query": "Temple of the Tooth Kandy",
+      "intent": "Temple of the Sacred Tooth Relic in Kandy"
+    }
+  ],
+  "thai-buddhism": [
+    {
+      "query": "Emerald Buddha Wat Phra Kaew",
+      "intent": "Emerald Buddha, Thailand's sacred palladium"
+    },
+    {
+      "query": "Wat Phra Kaew Bangkok",
+      "intent": "Temple of the Emerald Buddha, Thailand's royal sanctuary"
+    }
+  ],
+  "thien": [
+    {
+      "query": "Tran Nhan Tong statue",
+      "intent": "Trần Nhân Tông, founder of the Trúc Lâm Thiền lineage"
+    },
+    {
+      "query": "Yen Tu Buddhist monastery Vietnam",
+      "intent": "Yên Tử monastic complex, cradle of Trúc Lâm Thiền"
+    }
+  ],
+  "tiantai": [
+    {
+      "query": "Zhiyi Tiantai portrait",
+      "intent": "Zhiyi, principal systematizer of Tiantai Buddhism"
+    },
+    {
+      "query": "Guoqing Temple Tiantai Zhejiang",
+      "intent": "Guoqing Temple on Mount Tiantai, ancestral seat of the school"
+    }
+  ],
+  "tibetan-buddhism": [
+    {
+      "query": "Tibetan Buddhist bhavachakra",
+      "intent": "Tibetan Wheel of Life thangka visualizing cyclic existence"
+    },
+    {
+      "query": "Jokhang Temple Lhasa",
+      "intent": "Jokhang Temple, home of the revered Jowo Śākyamuni image"
+    }
+  ],
+  "drikung-kagyu": [
+    {
+      "query": "Jigten Sumgon thangka",
+      "intent": "Jigten Sumgön, founder of Drikung Kagyu"
+    },
+    {
+      "query": "Drikung Til Monastery Tibet",
+      "intent": "Drikung Til, original monastic seat of the lineage"
+    }
+  ],
+  "drukpa-kagyu": [
+    {
+      "query": "Tsangpa Gyare",
+      "intent": "Lineage image of Tsangpa Gyare Yeshe Dorje"
+    },
+    {
+      "query": "Hemis Monastery Ladakh",
+      "intent": "Hemis Monastery, a major Drukpa Kagyu sanctuary"
+    }
+  ],
+  "karma-kagyu": [
+    {
+      "query": "Karmapa Black Crown",
+      "intent": "The Karmapa's Black Crown ceremony, defining Karma Kagyu iconography"
+    },
+    {
+      "query": "Rumtek Monastery Sikkim",
+      "intent": "Rumtek Monastery, a principal modern Karma Kagyu seat"
+    }
+  ],
+  "rime-movement": [
+    {
+      "query": "Jamyang Khyentse Wangpo thangka",
+      "intent": "Jamyang Khyentse Wangpo, a founding Rimé master"
+    },
+    {
+      "query": "Dzongsar Monastery Tibet",
+      "intent": "Dzongsar Monastery, an important institutional center of Rimé scholarship"
+    }
+  ],
+  "vajrayana": [
+    {
+      "query": "Guhyasamaja mandala thangka",
+      "intent": "Guhyasamāja mandala representing Vajrayāna deity-yoga practice"
+    },
+    {
+      "query": "Tabo Monastery Buddhist murals",
+      "intent": "Tantric Buddhist murals inside Tabo Monastery"
+    }
+  ],
+  "won-buddhism": [
+    {
+      "query": "Won Buddhism temple sanctuary Korea",
+      "intent": "Won Buddhism sanctuary and Il Won Sang emblem"
+    },
+    {
+      "query": "Won Buddhism Central Headquarters Iksan",
+      "intent": "Won Buddhism Central Headquarters in Iksan"
+    }
+  ],
+  "zen": [
+    {
+      "query": "Bodhidharma Hakuin painting",
+      "intent": "Hakuin's forceful ink portrait of Bodhidharma"
+    },
+    {
+      "query": "Ryoan-ji rock garden Kyoto",
+      "intent": "Ryōan-ji dry landscape garden emblematic of Japanese Zen"
+    }
+  ],
+  "charvaka": [
+    {
+      "query": "Charvaka Lokayata Indian philosophy",
+      "intent": "Ancient Indian philosophical tradition of Cārvāka and Lokāyata"
+    },
+    {
+      "query": "Ancient Sanskrit palm leaf manuscript India",
+      "intent": "Classical palm-leaf manuscript preserving Indian philosophical schools"
+    }
+  ],
+  "achintya-bheda-abheda": [
+    {
+      "query": "Jiva Goswami samadhi Radha Damodar Vrindavan",
+      "intent": "Samādhi shrine of Jīva Gosvāmin at Radha Damodar Temple in Vrindavan"
+    },
+    {
+      "query": "Radha Damodar Temple Vrindavan",
+      "intent": "Rādhā-Dāmodara Temple, Jīva Gosvāmin's Vrindavan seat"
+    }
+  ],
+  "advaita-vedanta": [
+    {
+      "query": "Ādi Śaṅkara with",
+      "intent": "Ādi Śaṅkara with disciples, iconic Advaita lineage image"
+    },
+    {
+      "query": "Sringeri Sharada Peetham temple",
+      "intent": "Śṛṅgeri Śārada Pīṭha, one of the principal Advaita monastic seats"
+    }
+  ],
+  "aghori": [
+    {
+      "query": "Aghori sadhu Varanasi India",
+      "intent": "Aghori practitioner in Varanasi"
+    },
+    {
+      "query": "Manikarnika Ghat cremation Varanasi",
+      "intent": "Manikarnika Ghat sacred cremation ground in Varanasi"
+    }
+  ],
+  "arya-samaj": [
+    {
+      "query": "Dayananda Saraswati portrait",
+      "intent": "Swami Dayananda Saraswati, founder of Arya Samaj"
+    },
+    {
+      "query": "Arya Samaj Mandir",
+      "intent": "Historic Arya Samaj mandir used for Vedic worship and reform activity"
+    }
+  ],
+  "ayyavazhi": [
+    {
+      "query": "ayyavazhi Ayya",
+      "intent": "Ayya Vaikundar, central sacred figure of Ayyavazhi"
+    },
+    {
+      "query": "Swamithope Pathi Tamil Nadu",
+      "intent": "Swamithope Pathi, foremost pilgrimage center of Ayyavazhi"
+    }
+  ],
+  "balinese-hinduism": [
+    {
+      "query": "Padmasana shrine Balinese temple Acintya",
+      "intent": "Padmāsana shrine tower dedicated to Acintya in Bali"
+    },
+    {
+      "query": "Besakih Temple Bali",
+      "intent": "Pura Besakih, Bali's Mother Temple"
+    }
+  ],
+  "bhakti-movement": [
+    {
+      "query": "Mirabai Krishna Rajput",
+      "intent": "Mīrābāī singing to Krishna, an iconic image of personal bhakti"
+    },
+    {
+      "query": "Bhagavata Purana Krishna illustrated manuscript",
+      "intent": "Illustrated Bhāgavata Purāṇa manuscript central to devotional culture"
+    }
+  ],
+  "brahmo-samaj": [
+    {
+      "query": "Raja Ram Mohan Roy portrait",
+      "intent": "Rammohun Roy, founder of the Brahmo Sabha"
+    },
+    {
+      "query": "Brahmo Samaj Mandir Kolkata",
+      "intent": "Historic Brahmo Samaj Mandir in Kolkata"
+    }
+  ],
+  "classical-yoga": [
+    {
+      "query": "Patanjali statue",
+      "intent": "Traditional image of Patañjali, attributed author of the Yoga Sūtras"
+    },
+    {
+      "query": "Yoga Sutras Patanjali Sanskrit manuscript",
+      "intent": "Sanskrit manuscript of Patañjali's Yoga Sūtras"
+    }
+  ],
+  "dvaita-vedanta": [
+    {
+      "query": "Madhvacharya statue Sri Krishna Temple Udupi",
+      "intent": "Statue of Madhvācārya at Sri Krishna Matha in Udupi"
+    },
+    {
+      "query": "Udupi Krishna Temple",
+      "intent": "Udupi Śrī Krishna Matha, institutional center of Madhva's lineage"
+    }
+  ],
+  "dvaitadvaita-vedanta": [
+    {
+      "query": "dvaitadvaita vedanta Nimbārka,",
+      "intent": "Nimbārka, teacher associated with Dvaitādvaita Vedānta"
+    },
+    {
+      "query": "dvaitadvaita vedanta Nimbārka",
+      "intent": "Nimbārka Tīrtha at Salemabad, principal seat of the sampradāya"
+    }
+  ],
+  "gaudiya-vaishnavism": [
+    {
+      "query": "Chaitanya Mahaprabhu sankirtan painting",
+      "intent": "Caitanya Mahāprabhu leading congregational kīrtana"
+    },
+    {
+      "query": "Govind Dev Ji Temple Vrindavan",
+      "intent": "Historic Govind Dev temple built by the early Gauḍīya community"
+    }
+  ],
+  "iskcon": [
+    {
+      "query": "A C Bhaktivedanta Swami Prabhupada portrait",
+      "intent": "A. C. Bhaktivedanta Swami Prabhupāda, founder of ISKCON"
+    },
+    {
+      "query": "ISKCON Mayapur Temple of the Vedic Planetarium",
+      "intent": "ISKCON's Temple of the Vedic Planetarium at Māyāpur"
+    }
+  ],
+  "kalikula": [
+    {
+      "query": "Dakshina Kali Kalighat",
+      "intent": "Dakṣiṇā Kālī in the eastern Indian Kālīkula iconographic form"
+    },
+    {
+      "query": "Kalighat Kali Temple Kolkata",
+      "intent": "Kālīghāṭ Temple, a principal Kālīkula sanctuary"
+    }
+  ],
+  "kashmir-shaivism": [
+    {
+      "query": "Traditional image of",
+      "intent": "Traditional image of Abhinavagupta, preeminent Kashmir Śaiva theologian"
+    },
+    {
+      "query": "The Ancient Shankaracharya Temple Srinagar Jammu and Kashmir",
+      "intent": "Ancient Shankaracharya Temple sanctuary in Srinagar, Kashmir"
+    }
+  ],
+  "lingayatism": [
+    {
+      "query": "Basaveshwara statue Karnataka",
+      "intent": "Statue of Basaveshwara, founder of the Lingayat tradition"
+    },
+    {
+      "query": "Lingayat ishtalinga worship",
+      "intent": "Personal iṣṭaliṅga worn and worshipped by Liṅgāyat devotees"
+    }
+  ],
+  "nath-tradition": [
+    {
+      "query": "Gorakhnath painting yogi",
+      "intent": "Gorakhnāth, paradigmatic guru of the Nāth yogis"
+    },
+    {
+      "query": "Gorakhnath Temple Gorakhpur",
+      "intent": "Gorakhnath Temple, a principal Nāth monastic seat"
+    }
+  ],
+  "nyaya": [
+    {
+      "query": "Pariksamukha Sutra Jaina Nyaya",
+      "intent": "Manuscript of classical Indian logic (Nyāya)"
+    },
+    {
+      "query": "Nyaya philosophy",
+      "intent": "Sanskrit manuscript of the foundational Nyāya Sūtra"
+    }
+  ],
+  "pashupata-shaivism": [
+    {
+      "query": "Lakulisha sculpture",
+      "intent": "Lakulīśa sculpture, iconic teacher-deity of Pāśupata Śaivism"
+    },
+    {
+      "query": "Kayavarohan Lakulish Temple Gujarat",
+      "intent": "Kāyāvarohaṇa temple, principal pilgrimage center of the Lakulīśa lineage"
+    }
+  ],
+  "purva-mimamsa": [
+    {
+      "query": "Yajna",
+      "intent": "Sacred Vedic Yajna ritual and sacrificial fire altar of Purva Mimamsa"
+    },
+    {
+      "query": "Mimamsa Sutra Sanskrit manuscript",
+      "intent": "Sanskrit manuscript of the Mīmāṃsā Sūtra"
+    }
+  ],
+  "pushtimarg": [
+    {
+      "query": "Shrinathji Nathdwara painting",
+      "intent": "Śrīnāthjī, supreme devotional icon of Puṣṭimārga"
+    },
+    {
+      "query": "Shrinathji Temple Nathdwara",
+      "intent": "Śrīnāthjī Haveli at Nathdwara, principal Puṣṭimārga sanctuary"
+    }
+  ],
+  "ramakrishna-movement": [
+    {
+      "query": "Ramakrishna Paramahamsa photograph",
+      "intent": "Historic photograph of Ramakrishna"
+    },
+    {
+      "query": "Belur Math Ramakrishna Mission",
+      "intent": "Belur Math, headquarters of the Ramakrishna Order and Mission"
+    }
+  ],
+  "ramanandi-sampradaya": [
+    {
+      "query": "Ramananda Vaishnava saint painting",
+      "intent": "Rāmānanda, lineage teacher of the Rāmānandī sampradāya"
+    },
+    {
+      "query": "Hanuman Garhi Ayodhya",
+      "intent": "Hanumān Garhi in Ayodhya, a major Rāmānandī monastic stronghold"
+    }
+  ],
+  "samkhya": [
+    {
+      "query": "samkhya Sage",
+      "intent": "Sage Kapila, traditional founder of Sāṃkhya"
+    },
+    {
+      "query": "Sanskrit manuscript of",
+      "intent": "Sanskrit manuscript of Īśvarakṛṣṇa's Sāṃkhyakārikā"
+    }
+  ],
+  "self-realization-fellowship": [
+    {
+      "query": "Paramahansa Yogananda portrait",
+      "intent": "Paramahansa Yogananda, founder of Self-Realization Fellowship"
+    },
+    {
+      "query": "Self Realization Fellowship Lake Shrine",
+      "intent": "SRF Lake Shrine in Los Angeles"
+    }
+  ],
+  "shaiva-siddhanta": [
+    {
+      "query": "Nataraja Chola bronze",
+      "intent": "Chola bronze of Naṭarāja, supreme icon of Tamil Śaiva worship"
+    },
+    {
+      "query": "Chidambaram Nataraja Temple",
+      "intent": "Chidambaram Naṭarāja Temple, central Śaiva Siddhānta sanctuary"
+    }
+  ],
+  "shaivism": [
+    {
+      "query": "Ardhanarishvara Elephanta sculpture",
+      "intent": "Ardhanārīśvara sculpture expressing Śiva's integrated divine power"
+    },
+    {
+      "query": "Kashi Vishwanath Temple Varanasi",
+      "intent": "Kashi Vishwanath, one of Śaivism's foremost jyotirliṅga temples"
+    }
+  ],
+  "shakta-tantra": [
+    {
+      "query": "Chausath Yogini Temple Hirapur sculptures",
+      "intent": "Yoginī sculptures at Hirapur associated with tantric Goddess cults"
+    },
+    {
+      "query": "Kamakhya Temple Guwahati",
+      "intent": "Kāmākhyā Temple, a foremost center of Śākta Tantra"
+    }
+  ],
+  "shaktism": [
+    {
+      "query": "Durga Mahishasuramardini sculpture",
+      "intent": "Durgā slaying Mahiṣāsura, defining icon of supreme Devī"
+    },
+    {
+      "query": "Dakshineswar Kali Temple",
+      "intent": "Dakshineswar Kālī Temple, a major modern Śākta sanctuary"
+    }
+  ],
+  "shuddhadvaita": [
+    {
+      "query": "Vallabhacharya portrait",
+      "intent": "Vallabhācārya, founder of Śuddhādvaita Vedānta"
+    },
+    {
+      "query": "shuddhadvaita Vallabha",
+      "intent": "Vallabha bethak at Gokul, a lineage pilgrimage seat"
+    }
+  ],
+  "smartism": [
+    {
+      "query": "Panchayatana temple Khajuraho",
+      "intent": "Pañcāyatana layout temple uniting five principal Hindu deities"
+    },
+    {
+      "query": "Kanchi Kamakoti Peetham",
+      "intent": "Kanchi Kamakoti Pīṭha, a prominent Smārta-Advaita monastic seat"
+    }
+  ],
+  "sri-vaishnavism": [
+    {
+      "query": "Consecrated image of",
+      "intent": "Consecrated image of Rāmānuja, principal Śrī Vaiṣṇava theologian"
+    },
+    {
+      "query": "Ranganathaswamy Temple Srirangam",
+      "intent": "Śrīraṅgam Ranganathaswamy Temple, foremost Śrī Vaiṣṇava sanctuary"
+    }
+  ],
+  "srikula": [
+    {
+      "query": "Sri Chakra yantra",
+      "intent": "Śrīcakra, central ritual diagram of Śrīvidyā"
+    },
+    {
+      "query": "Kamakshi Amman Temple Kanchipuram",
+      "intent": "Kāmākṣī Temple at Kanchipuram, a major Śrīkula sanctuary"
+    }
+  ],
+  "swaminarayan-sampradaya": [
+    {
+      "query": "swaminarayan sampradaya Sahajānand",
+      "intent": "Sahajānand Swami portrayed as Swaminarayan"
+    },
+    {
+      "query": "Swaminarayan Temple Ahmedabad Kalupur",
+      "intent": "Original Swaminarayan Mandir at Kalupur, Ahmedabad"
+    }
+  ],
+  "transcendental-meditation": [
+    {
+      "query": "Maharishi Mahesh Yogi portrait",
+      "intent": "Maharishi Mahesh Yogi, founder of Transcendental Meditation"
+    },
+    {
+      "query": "Maharishi Mahesh Yogi Ashram Rishikesh",
+      "intent": "Maharishi's Rishikesh ashram, iconic early center of the movement"
+    }
+  ],
+  "upanishadic-traditions": [
+    {
+      "query": "Nachiketa Yama Katha Upanishad",
+      "intent": "Naciketas receiving the teaching of deathless self from Yama"
+    },
+    {
+      "query": "Brihadaranyaka Upanishad Sanskrit manuscript",
+      "intent": "Sanskrit manuscript of the Bṛhadāraṇyaka Upaniṣad"
+    }
+  ],
+  "vaisheshika": [
+    {
+      "query": "Kanada sage Vaisheshika",
+      "intent": "Kaṇāda, traditional founder of Vaiśeṣika atomism"
+    },
+    {
+      "query": "Vaisesika philosophy Sanskrit text",
+      "intent": "Classical text on the Vaiśeṣika philosophical system"
+    }
+  ],
+  "vaishnavism": [
+    {
+      "query": "Vishnu Anantashayana sculpture",
+      "intent": "Viṣṇu reclining on Ananta, supreme Vaiṣṇava iconography"
+    },
+    {
+      "query": "Ranganathaswamy Temple Srirangam gopuram",
+      "intent": "Śrīraṅgam temple complex, one of the foremost Vaiṣṇava sanctuaries"
+    }
+  ],
+  "varkari-tradition": [
+    {
+      "query": "Vithoba Rakhumai Pandharpur",
+      "intent": "Viṭhobā with Rakhumāī, central deities of Vārkarī devotion"
+    },
+    {
+      "query": "Pandharpur Wari Tukaram palkhi procession",
+      "intent": "Vārī pilgrimage procession carrying Tukārām's pālkhī to Pandharpur"
+    }
+  ],
+  "vedanta": [
+    {
+      "query": "Adi Shankara statue",
+      "intent": "Bādarāyaṇa-Vyāsa, traditional author of the Brahma Sūtras"
+    },
+    {
+      "query": "Brahmasutra",
+      "intent": "Sanskrit manuscript of the Brahma Sūtras, common Vedānta source text"
+    }
+  ],
+  "vishishtadvaita": [
+    {
+      "query": "vishishtadvaita Rāmānuja,",
+      "intent": "Rāmānuja, founder-systematizer of Viśiṣṭādvaita"
+    },
+    {
+      "query": "Cheluvanarayana Swamy Temple Melkote",
+      "intent": "Melkote temple, a principal sanctuary in Rāmānuja's lineage"
+    }
+  ],
+  "hinduism": [
+    {
+      "query": "Elephanta Trimurti Sadashiva sculpture",
+      "intent": "Monumental Trimūrti-Sadāśiva at Elephanta"
+    },
+    {
+      "query": "Varanasi Ganga Aarti Dashashwamedh Ghat",
+      "intent": "Gaṅgā āratī at Varanasi, an iconic living Hindu ritual"
+    }
+  ],
+  "bisapantha": [
+    {
+      "query": "Shravanabelagola Gommateshwara Mahamastakabhisheka Jain",
+      "intent": "Mahamastakabhisheka ritual at Shravanabelagola"
+    },
+    {
+      "query": "Sonagiri Jain temples Digambara",
+      "intent": "Sonagiri Digambara temple complex, representative Bīsapantha sacred setting"
+    }
+  ],
+  "digambara": [
+    {
+      "query": "Gommateshwara Bahubali Shravanabelagola",
+      "intent": "Gommateśvara Bāhubali, supreme monumental Digambara icon"
+    },
+    {
+      "query": "Dhavala",
+      "intent": "Dhavalā palm-leaf manuscript of the Digambara Jain tradition"
+    }
+  ],
+  "jainism": [
+    {
+      "query": "Mahavira Jain statue",
+      "intent": "Image of Mahāvīra, the twenty-fourth Jina"
+    },
+    {
+      "query": "Dilwara Jain Temples Mount Abu",
+      "intent": "Dilwara Temples, masterpieces of Jain sacred architecture"
+    }
+  ],
+  "murtipujaka-jainism": [
+    {
+      "query": "Svetambara Jain Tirthankara idol",
+      "intent": "Adorned Jina image in Mūrtipūjaka Śvetāmbara worship"
+    },
+    {
+      "query": "Palitana Shatrunjaya Jain temples",
+      "intent": "Śatruñjaya at Palitana, preeminent Mūrtipūjaka pilgrimage complex"
+    }
+  ],
+  "sthanakvasi": [
+    {
+      "query": "Sthanakvasi Jain monk",
+      "intent": "Sthānakavāsī mendicant wearing the characteristic muhapattī"
+    },
+    {
+      "query": "Sthanakvasi Jain monks meditation hall",
+      "intent": "Sthanakvasi Jain assembly hall (Sthānak)"
+    }
+  ],
+  "svetambara": [
+    {
+      "query": "Svetambara Jain monks",
+      "intent": "White-robed Śvetāmbara mendicants with muhapattī"
+    },
+    {
+      "query": "Kalpa Sutra illustrated manuscript Jain",
+      "intent": "Illustrated Kalpa Sūtra manuscript from the Śvetāmbara canon"
+    }
+  ],
+  "taranapantha": [
+    {
+      "query": "NisaiJiBina",
+      "intent": "Samādhi shrine of Tāraṇ Svāmī at Nisaiji, Bina"
+    },
+    {
+      "query": "Jain symbol",
+      "intent": "Sacred Jain emblem representing non-violence and path to liberation"
+    }
+  ],
+  "terapanth-jainism": [
+    {
+      "query": "Acharya Bhikshu Terapanth painting",
+      "intent": "Ācārya Bhikṣu, founder of Terāpanth Jainism"
+    },
+    {
+      "query": "terapanth jainism Jain",
+      "intent": "Jain Vishva Bharati at Ladnun, a major Terāpanth institution"
+    }
+  ],
+  "shramana-movements": [
+    {
+      "query": "Great Departure Gandhara relief Buddha",
+      "intent": "Gandharan Great Departure relief symbolizing renunciant life"
+    },
+    {
+      "query": "Lomas Rishi Cave Barabar",
+      "intent": "Lomas Rishi Cave, an early monumental sanctuary for śramaṇa ascetics"
+    }
+  ],
+  "khalsa": [
+    {
+      "query": "Guru Gobind Singh Panj Pyare painting",
+      "intent": "Guru Gobind Singh founding the Khalsa with the Pañj Piāre"
+    },
+    {
+      "query": "Takht Sri Kesgarh Sahib Anandpur",
+      "intent": "Takht Kesgarh Sahib, shrine at the birthplace of the Khalsa"
+    }
+  ],
+  "namdhari": [
+    {
+      "query": "Satguru Ram Singh Namdhari portrait",
+      "intent": "Satguru Ram Singh, formative leader of the Namdhari Sikhs"
+    },
+    {
+      "query": "Sri Bhaini Sahib Namdhari",
+      "intent": "Sri Bhaini Sahib, headquarters and sacred center of the Namdhari community"
+    }
+  ],
+  "nihang": [
+    {
+      "query": "Nihang Singh traditional blue",
+      "intent": "Nihang warrior in traditional blue bana and high turban"
+    },
+    {
+      "query": "Nihang Sikh shastar",
+      "intent": "Consecrated shastar weapons and chakrams central to Nihang martial devotion"
+    }
+  ],
+  "nirankari": [
+    {
+      "query": "Baba Dyal Singh Nirankari",
+      "intent": "Baba Dyal Singh, founder of the original Nirankari movement"
+    },
+    {
+      "query": "Sant Nirankari Samagam gathering Delhi",
+      "intent": "Sant Nirankari Samagam spiritual assembly in Delhi"
+    }
+  ],
+  "nirmala-sikhs": [
+    {
+      "query": "Nirmala Sikh scholar",
+      "intent": "Nirmalā Sikh scholar-ascetic in characteristic saffron robes"
+    },
+    {
+      "query": "nirmala sikhs Nirmal",
+      "intent": "Nirmal Akhara at Haridwar, institutional center of the order"
+    }
+  ],
+  "radha-soami": [
+    {
+      "query": "Shiv Dayal Singh portrait",
+      "intent": "Shiv Dayāl Singh, founder of the Radha Soami tradition"
+    },
+    {
+      "query": "Soami Bagh Samadh Agra",
+      "intent": "Soami Bagh samādh at Agra, major Radha Soami sanctuary"
+    }
+  ],
+  "sikh-dharma-international": [
+    {
+      "query": "Yogi Bhajan Harbhajan Singh",
+      "intent": "Harbhajan Singh Yogi Bhajan, founder of Sikh Dharma International"
+    },
+    {
+      "query": "Hacienda de Guru",
+      "intent": "Hacienda de Guru Ram Das, the movement's principal New Mexico community"
+    }
+  ],
+  "sikhism": [
+    {
+      "query": "Guru Nanak painting",
+      "intent": "Traditional painting of Guru Nānak, founder of the Sikh tradition"
+    },
+    {
+      "query": "Golden Temple Amritsar",
+      "intent": "Harmandir Sahib, the Golden Temple at Amritsar"
+    }
+  ],
+  "udasi": [
+    {
+      "query": "Sri Chand Udasi painting",
+      "intent": "Sri Chand, founder of the Udāsī ascetic tradition"
+    },
+    {
+      "query": "Sri Chand Udasi founder painting",
+      "intent": "Traditional painting of Baba Sri Chand, founder of the Udasi order"
+    }
+  ],
+  "vedic-religion": [
+    {
+      "query": "Vedic yajna fire altar ritual",
+      "intent": "Vedic yajña performed at a constructed fire altar"
+    },
+    {
+      "query": "Rigveda Sanskrit manuscript",
+      "intent": "Sanskrit manuscript of the Ṛgveda"
+    }
+  ],
+  "khmer-devaraja-cult": [
+    {
+      "query": "Khmer royal Śiva",
+      "intent": "Khmer royal Śiva liṅga embodying the devarāja cult"
+    },
+    {
+      "query": "Sdok Kok Thom",
+      "intent": "Sdok Kok Thom stele recording the origin of the devarāja rite"
+    }
+  ]
+}

@@ -44,19 +44,18 @@ sources:
       Churches
     url: 'https://www.cambridge.org/core/search?q=Eastern%20Catholic%20Churches'
 artifacts:
-  - title: Béchara-Raï
-    imageUrl: /artifacts/eastern-catholic-churches-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:B%C3%A9chara-Ra%C3%AF.jpg'
-    provenance: 'Rome, Latium, Italy'
-    period: c. c. 16th century CE
-    description: 'Cardinal Mar Bechara Boutros al-Rahi, Maronite Patriarch of Antioch...'
-  - title: Catholic priest with his Family
-    imageUrl: /artifacts/eastern-catholic-churches-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Catholic_priest_with_his_Family.jpg
-    provenance: 'Rome, Latium, Italy'
-    period: c. c. 16th century CE
-    description: Eastern catholic priest from Romania with his Family....
+  - title: "Eastern Catholic Divine Liturgy before an iconostasis"
+    imageUrl: "/artifacts/eastern-catholic-churches-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:St._John_the_Baptist_Ukrainian_Catholic_Church,_Syracuse,_New_York_-_20220419.jpg"
+    provenance: "Andre Carrotflower; CC BY-SA 4.0"
+    period: "Image dated 2022"
+    description: "This image shows Eastern Catholic Divine Liturgy before an iconostasis, selected as a defining visual reference for Eastern Catholic Churches."
+  - title: "Eastern Catholic hierarchs celebrating their rites in communion with Rome"
+    imageUrl: "/artifacts/eastern-catholic-churches-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Konzilseroeffnung_2.jpg"
+    provenance: "Peter Geymayer; Public domain"
+    period: "Image dated 1962"
+    description: "This image shows Eastern Catholic hierarchs celebrating their rites in communion with Rome, selected as a defining visual reference for Eastern Catholic Churches."
 ---
 
 # Eastern Catholic Churches

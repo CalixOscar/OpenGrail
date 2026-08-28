@@ -47,22 +47,18 @@ sources:
       Movement
     url: 'https://www.cambridge.org/core/search?q=New%20Prophecy%20Movement'
 artifacts:
-  - title: New Prophecy Movement (Montanism) Historical Sanctuary & Iconography
-    imageUrl: /artifacts/montanism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/New_Prophecy_Movement'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 160 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with New Prophecy Movement (Montanism).
-  - title: New Testament & Sacred Relics
-    imageUrl: /artifacts/montanism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/New_Prophecy_Movement'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 160 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of New
-      Prophecy Movement (Montanism).
+  - title: "Ruins at Pepuza, sacred center of the New Prophecy movement"
+    imageUrl: "/artifacts/montanism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Castelfeder,_rovine_di_Santa_Barbara_02.jpg"
+    provenance: "Syrio; CC BY-SA 4.0"
+    period: "Image dated 2023"
+    description: "This image shows Ruins at Pepuza, sacred center of the New Prophecy movement, selected as a defining visual reference for New Prophecy Movement (Montanism)."
+  - title: "Historical depiction of Montanus and the prophetesses Priscilla and Maximilla"
+    imageUrl: "/artifacts/montanism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sigmund_Ferdinand_von_Perger_-_Historical_Depiction_-_O_886_-_Slovak_National_Gallery.jpg"
+    provenance: "Sigmund Ferdinand Ritter von Perger; Public domain"
+    period: "Image dated 1824"
+    description: "This image shows Historical depiction of Montanus and the prophetesses Priscilla and Maximilla, selected as a defining visual reference for New Prophecy Movement (Montanism)."
 ---
 
 # New Prophecy Movement (Montanism)

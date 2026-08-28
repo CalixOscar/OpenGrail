@@ -45,22 +45,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Jainism'
 artifacts:
-  - title: Jainism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/jainism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jainism'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. c. 6th century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Jainism.
-  - title: Āgamas & Sacred Relics
-    imageUrl: /artifacts/jainism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jainism'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. c. 6th century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Jainism.
+  - title: "Image of Mahavira, the twenty-fourth Jina"
+    imageUrl: "/artifacts/jainism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shrine_with_Four_Jinas_(Rishabhanatha_(Adinatha),_Parshvanatha,_Neminatha,_and_Mahavira)_LACMA_M.85.55_(1_of_4).jpg"
+    provenance: "Wikimedia Commons; Public domain"
+    period: "Digital file published 2013"
+    description: "This image shows Image of Mahavira, the twenty-fourth Jina, selected as a defining visual reference for Jainism."
+  - title: "Dilwara Temples, masterpieces of Jain sacred architecture"
+    imageUrl: "/artifacts/jainism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:LDDilwaraCeiling.jpg"
+    provenance: "LinguisticDemographer at English Wikipedia; Public domain"
+    period: "Image dated 2007"
+    description: "This image shows Dilwara Temples, masterpieces of Jain sacred architecture, selected as a defining visual reference for Jainism."
 ---
 
 # Jainism

@@ -44,22 +44,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ashkenazi Judaism'
     url: 'https://www.cambridge.org/core/search?q=Ashkenazi%20Judaism'
 artifacts:
-  - title: Ashkenazi Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ashkenazi-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ashkenazi_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 10th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ashkenazi Judaism.
-  - title: Hebrew Bible & Sacred Relics
-    imageUrl: /artifacts/ashkenazi-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ashkenazi_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 10th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ashkenazi Judaism.
+  - title: "Historic Worms Synagogue, landmark of medieval Ashkenaz"
+    imageUrl: "/artifacts/ashkenazi-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Baujahr_1174_im_hebr%C3%A4ischen_Text_des_Kapitells_der_Synagoge_Worms.jpg"
+    provenance: "HOWI - Horsch, Willy; CC BY-SA 3.0"
+    period: "Image dated 2014"
+    description: "This image shows Historic Worms Synagogue, landmark of medieval Ashkenaz, selected as a defining visual reference for Ashkenazi Judaism."
+  - title: "Illuminated Worms Mahzor from the Ashkenazi liturgical tradition"
+    imageUrl: "/artifacts/ashkenazi-judaism-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Akdamut_(Mahzor_Worms).png"
+    provenance: "Simhah ben Yehudah ha-Sofer, completed 28 Teveth 5033 (20 December 1272 Julian); Public domain"
+    period: "Image dated 1272"
+    description: "This image shows Illuminated Worms Mahzor from the Ashkenazi liturgical tradition, selected as a defining visual reference for Ashkenazi Judaism."
 ---
 
 # Ashkenazi Judaism

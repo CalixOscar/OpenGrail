@@ -40,22 +40,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Yor%C3%B9b%C3%A1%20Religion'
 artifacts:
-  - title: Yorùbá Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/yoruba-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Yor%C3%B9b%C3%A1_Religion'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. before 1000 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Yorùbá Religion.
-  - title: Oral traditions & Sacred Relics
-    imageUrl: /artifacts/yoruba-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Yor%C3%B9b%C3%A1_Religion'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. before 1000 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Yorùbá Religion.
+  - title: "Bronze head of Ife representing the divine ancestral ruler"
+    imageUrl: "/artifacts/yoruba-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cabeza_de_rey_(ciudad_yoruba).jpg"
+    provenance: "No informado; Public domain"
+    period: "Image dated 1977"
+    description: "This image shows Bronze head of Ife representing the divine ancestral ruler, selected as a defining visual reference for Yorùbá Religion."
+  - title: "Ose Sango double-axe ritual dance staff"
+    imageUrl: "/artifacts/yoruba-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_70.86_Shango_Dance_Wand_Ose_Sango.jpg"
+    provenance: "Unknown author Unknown author; CC BY 3.0"
+    period: "19th or 20th century"
+    description: "This image shows Ose Sango double-axe ritual dance staff, selected as a defining visual reference for Yorùbá Religion."
 ---
 
 # Yorùbá Religion

@@ -48,22 +48,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=%C5%8Cmoto'
 artifacts:
-  - title: Ōmoto Historical Sanctuary & Iconography
-    imageUrl: /artifacts/omoto-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%8Cmoto'
-    provenance: 'Cairo (Fustat), Egypt'
-    period: c. 1892 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ōmoto.
-  - title: Ōmoto Shin'yū & Sacred Relics
-    imageUrl: /artifacts/omoto-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%8Cmoto'
-    provenance: 'Cairo (Fustat), Egypt'
-    period: c. 1892 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ōmoto.
+  - title: "Portrait of Deguchi Nao"
+    imageUrl: "/artifacts/omoto-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nao_Deguchi_-_Kio_estas_Oomoto.jpg"
+    provenance: "Oomoto Central Office, Kameoka; Public domain"
+    period: "Image dated 1918"
+    description: "This image shows Portrait of Deguchi Nao, selected as a defining visual reference for Ōmoto."
+  - title: "Omoto sanctuary at Kameoka"
+    imageUrl: "/artifacts/omoto-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Omoto_Shrine_(Miyajima)_-_DSC02278.JPG"
+    provenance: "Daderot; CC0"
+    period: "Image dated 2011"
+    description: "This image shows Omoto sanctuary at Kameoka, selected as a defining visual reference for Ōmoto."
 ---
 
 # Ōmoto

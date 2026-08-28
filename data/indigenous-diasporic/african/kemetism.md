@@ -43,22 +43,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Kemetism'
     url: 'https://brill.com/search?q=Kemetism'
 artifacts:
-  - title: Kemetism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/kemetism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Kemetism'
-    provenance: 'London, England, UK'
-    period: c. 1970s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Kemetism.
-  - title: Ancient Egyptian temple and funerary texts & Sacred Relics
-    imageUrl: /artifacts/kemetism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Kemetism'
-    provenance: 'London, England, UK'
-    period: c. 1970s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Kemetism.
+  - title: "Kemetic Orthodox deity shrine"
+    imageUrl: "/artifacts/kemetism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Naos_kemeti.JPG"
+    provenance: "Tedmek; Public domain"
+    period: "Image dated 2007"
+    description: "This image shows Kemetic Orthodox deity shrine, selected as a defining visual reference for Kemetism."
+  - title: "Contemporary Kemetic rite"
+    imageUrl: "/artifacts/kemetism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Th_oltar.JPG"
+    provenance: "Tedmek; Public domain"
+    period: "Image dated 2009"
+    description: "This image shows Contemporary Kemetic rite, selected as a defining visual reference for Kemetism."
 ---
 
 # Kemetism

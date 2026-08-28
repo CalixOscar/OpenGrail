@@ -43,20 +43,18 @@ sources:
   - title: 'Peter Singer: "Practical Ethics"'
     url: 'https://www.cambridge.org/'
 artifacts:
-  - title: The Auto-Icon of Jeremy Bentham at UCL
-    imageUrl: /artifacts/utilitarianism-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Jeremy_Bentham
-    provenance: University College London, UK
-    period: c. 1832 CE
-    description: >-
-      Preserved figure of Jeremy Bentham, the social reformer who championed universal suffrage, prison reform, freedom of expression, and animal rights.
-  - title: First Edition Title Page of J.S. Mill's Utilitarianism
-    imageUrl: /artifacts/utilitarianism-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Utilitarianism_(book)
-    provenance: London, UK
-    period: c. 1861 CE
-    description: >-
-      Original publication of Mill's masterpiece distinguishing higher intellectual pleasures from base physical sensations and defending liberty of conscience.
+  - title: "Jeremy Bentham's Auto-Icon preservation at University College London"
+    imageUrl: "/artifacts/utilitarianism-ethics-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Piece_of_Jeremy_Bentham%27s_skin,_England,_1832_Wellcome_L0057192.jpg"
+    provenance: "Wikimedia Commons; CC BY 4.0"
+    period: "Object or image dated 1748"
+    description: "This image shows Jeremy Bentham's Auto-Icon preservation at University College London, selected as a defining visual reference for Utilitarianism & Consequentialist Ethics."
+  - title: "Portrait photograph of philosopher John Stuart Mill"
+    imageUrl: "/artifacts/utilitarianism-ethics-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Harriet_Mill_from_NPG.jpg"
+    provenance: "anonymous; Public domain"
+    period: "19th century"
+    description: "This image shows Portrait photograph of philosopher John Stuart Mill, selected as a defining visual reference for Utilitarianism & Consequentialist Ethics."
 ---
 
 # Utilitarianism & Consequentialist Ethics

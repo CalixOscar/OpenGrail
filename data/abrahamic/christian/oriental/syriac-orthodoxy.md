@@ -42,22 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Syriac Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Orthodoxy'
 artifacts:
-  - title: Syriac Orthodoxy Historical Sanctuary & Iconography
-    imageUrl: /artifacts/syriac-orthodoxy-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Orthodoxy'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1st century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Syriac Orthodoxy.
-  - title: Peshitta & Sacred Relics
-    imageUrl: /artifacts/syriac-orthodoxy-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Syriac_Orthodoxy'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1st century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Syriac Orthodoxy.
+  - title: "Illuminated Rabbula Gospels, a masterpiece of Syriac Christian art"
+    imageUrl: "/artifacts/syriac-orthodoxy-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:St._John_the_Evangelist_(Rabbula_Gospels).png"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "6 th century"
+    description: "This image shows Illuminated Rabbula Gospels, a masterpiece of Syriac Christian art, selected as a defining visual reference for Syriac Orthodoxy."
+  - title: "Deyrulzafaran Monastery, historic Syriac Orthodox patriarchal center"
+    imageUrl: "/artifacts/syriac-orthodoxy-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mor_Hananyo_Monastery_3.jpg"
+    provenance: "Izabela Miszczak; CC BY-SA 4.0"
+    period: "Image dated 2013"
+    description: "This image shows Deyrulzafaran Monastery, historic Syriac Orthodox patriarchal center, selected as a defining visual reference for Syriac Orthodoxy."
 ---
 
 # Syriac Orthodoxy

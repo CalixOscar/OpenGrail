@@ -49,23 +49,18 @@ sources:
       Brittany"
     url: 'https://yalebooks.yale.edu/'
 artifacts:
-  - title: Newgrange Passage Tomb Entrance & Winter Solstice Roofbox
-    imageUrl: /artifacts/neolithic-megalithic-religions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Newgrange'
-    provenance: 'Boyne Valley, County Meath, Ireland'
-    period: 'c. 3,200 BCE (Pre-dating Stonehenge and Giza Pyramids)'
-    description: >-
-      Monumental megalithic passage tomb engineered with a precision roofbox
-      allowing the rising winter solstice sun to illuminate the inner burial
-      chamber for 17 minutes.
-  - title: Kermario Megalithic Alignments at Carnac
-    imageUrl: /artifacts/neolithic-megalithic-religions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Carnac_stones'
-    provenance: 'Carnac, Brittany, France'
-    period: 'c. 4,500–3,300 BCE'
-    description: >-
-      Thousands of Neolithic standing stones (menhirs) arranged in precise
-      kilometer-long parallel avenues across the Breton landscape.
+  - title: "Newgrange spiral sacred art"
+    imageUrl: "/artifacts/neolithic-megalithic-religions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bild_Newgrange-trippelspiral.jpg"
+    provenance: "Arroy; Public domain"
+    period: "Image dated 2007"
+    description: "This image shows Newgrange spiral sacred art, selected as a defining visual reference for Atlantic & European Megalithic Traditions."
+  - title: "Stonehenge solar sanctuary"
+    imageUrl: "/artifacts/neolithic-megalithic-religions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Summer_Solstice_Sunrise_over_Stonehenge_2005.jpg"
+    provenance: "Wikimedia Commons; CC BY-SA 2.0"
+    period: "Object or image dated 2005"
+    description: "This image shows Stonehenge solar sanctuary, selected as a defining visual reference for Atlantic & European Megalithic Traditions."
 ---
 
 # Atlantic & European Megalithic Traditions

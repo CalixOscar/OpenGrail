@@ -439,6 +439,13 @@ function AppContent() {
         )}
 
         <section className="graph-stage" aria-label="Interactive relation stage">
+          <div className="stage-watermark" aria-hidden="true">
+            <div className="stage-watermark__inner">
+              <span className="stage-watermark__title">OpenGrail</span>
+              <span className="stage-watermark__byline">by calmdownoscar</span>
+            </div>
+          </div>
+
           {loadState === 'ready' && viewMode === 'brain' && (
             <GraphCanvas
               ref={graphRef}

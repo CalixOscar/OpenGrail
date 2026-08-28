@@ -44,22 +44,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Judaism'
     url: 'https://www.cambridge.org/core/search?q=Judaism'
 artifacts:
-  - title: Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1200–500 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Judaism.
-  - title: Tanakh (Hebrew Bible) & Sacred Relics
-    imageUrl: /artifacts/judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 1200–500 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Judaism.
+  - title: "Jewish prayer at the Western Wall in Jerusalem"
+    imageUrl: "/artifacts/judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Western_Wall_tunnel_prayer_hall_2010_2.jpg"
+    provenance: "Wknight94 talk; CC BY-SA 3.0"
+    period: "Image dated 2010"
+    description: "This image shows Jewish prayer at the Western Wall in Jerusalem, selected as a defining visual reference for Judaism."
+  - title: "Torah scroll carried from the ark for communal reading"
+    imageUrl: "/artifacts/judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shaare_Rason_Synagogue,_Mumbai,_Info_1.jpg"
+    provenance: "Rangan Datta Wiki; CC BY-SA 4.0"
+    period: "Image dated 2020"
+    description: "This image shows Torah scroll carried from the ark for communal reading, selected as a defining visual reference for Judaism."
 ---
 
 # Judaism

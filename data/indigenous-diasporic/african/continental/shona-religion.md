@@ -46,22 +46,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Shona%20Religious%20Traditions'
 artifacts:
-  - title: Shona Religious Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/shona-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shona_Religious_Traditions'
-    provenance: 'Great Zimbabwe / Harare, Zimbabwe'
-    period: c. precolonial
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Shona Religious Traditions.
-  - title: Shona oral traditions & Sacred Relics
-    imageUrl: /artifacts/shona-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shona_Religious_Traditions'
-    provenance: 'Great Zimbabwe / Harare, Zimbabwe'
-    period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Shona
-      Religious Traditions.
+  - title: "Matobo Hills sacred landscape and Mwari shrine site"
+    imageUrl: "/artifacts/shona-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Motherandchild_Matobo.jpg"
+    provenance: "Babakathy; Public domain"
+    period: "Image dated 1992"
+    description: "This image shows Matobo Hills sacred landscape and Mwari shrine site, selected as a defining visual reference for Shona Religious Traditions."
+  - title: "Sacred Mbira dzaVadzimu instrument used in ancestral bira ceremonies"
+    imageUrl: "/artifacts/shona-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mbira_dzavadzimu.jpg"
+    provenance: "Wikimedia Commons; CC BY-SA 3.0"
+    period: "Digital file published 2006"
+    description: "This image shows Sacred Mbira dzaVadzimu instrument used in ancestral bira ceremonies, selected as a defining visual reference for Shona Religious Traditions."
 ---
 
 # Shona Religious Traditions

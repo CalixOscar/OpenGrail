@@ -45,22 +45,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shinto'
 artifacts:
-  - title: Shinto Historical Sanctuary & Iconography
-    imageUrl: /artifacts/shinto-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shinto'
-    provenance: 'Qufu, Shandong, China'
-    period: c. ancient
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Shinto.
-  - title: Kojiki & Sacred Relics
-    imageUrl: /artifacts/shinto-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shinto'
-    provenance: 'Qufu, Shandong, China'
-    period: c. ancient
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Shinto.
+  - title: "Amaterasu cave sacred art"
+    imageUrl: "/artifacts/shinto-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Amaterasu_cave_crop.jpg"
+    provenance: "Utagawa Kunisada (歌川国貞; b. 1786, d. 1865); Public domain"
+    period: "Image dated 1856"
+    description: "This image shows Amaterasu cave sacred art, selected as a defining visual reference for Shinto."
+  - title: "Ise Grand Shrine"
+    imageUrl: "/artifacts/shinto-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Oshiraishi-2013-08b.jpg"
+    provenance: "Hanabi123; CC BY-SA 4.0"
+    period: "Image dated 2013"
+    description: "This image shows Ise Grand Shrine, selected as a defining visual reference for Shinto."
 ---
 
 # Shinto

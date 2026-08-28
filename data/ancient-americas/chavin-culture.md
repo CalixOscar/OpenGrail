@@ -37,20 +37,18 @@ sources:
   - title: 'UNESCO World Heritage: Chavin (Archaeological Site)'
     url: 'https://whc.unesco.org/en/list/330/'
 artifacts:
-  - title: The Great Lanzón (Smiling God) Carved Granite Oracle Monolith
-    imageUrl: /artifacts/chavin-culture-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar
-    provenance: Central Gallery, Old Temple of Chavín de Huántar, Peru
-    period: c. 900 BCE
-    description: >-
-      4.5-meter-tall carved granite lance permanently locked in the subterranean core of the temple, depicting a fanged supreme deity with hair of writhing serpents.
-  - title: Tenon Head (Cabeza Clava) Shamanic Metamorphosis Sculpture
-    imageUrl: /artifacts/chavin-culture-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Chav%C3%ADn_culture
-    provenance: Exterior Temple Walls, Chavín de Huántar, Peru
-    period: c. 800 BCE
-    description: >-
-      Expressive stone sculpture projecting from the temple wall depicting a priest undergoing ecstatic transformation, with dilated eyes and serpentine features.
+  - title: "Raimondi Stele depicting the Chavin Staff God"
+    imageUrl: "/artifacts/chavin-culture-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Raimondi-Stele,_Abguss_(1).jpg"
+    provenance: "Markus Kollner; CC BY-SA 4.0"
+    period: "Image dated 2024"
+    description: "This image shows Raimondi Stele depicting the Chavin Staff God, selected as a defining visual reference for Chavín Cult & Andean Shamanic Horizon."
+  - title: "Chavin de Huantar tenon head carving"
+    imageUrl: "/artifacts/chavin-culture-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mus%C3%A9eChavin_01.jpg"
+    provenance: "BluesyPete; CC BY-SA 3.0"
+    period: "Image dated 2019"
+    description: "This image shows Chavin de Huantar tenon head carving, selected as a defining visual reference for Chavín Cult & Andean Shamanic Horizon."
 ---
 
 # Chavín Cult & Andean Shamanic Horizon

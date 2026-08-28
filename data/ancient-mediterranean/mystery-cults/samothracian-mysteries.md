@@ -49,22 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Samothracian Mysteries'
     url: 'https://brill.com/search?q=Samothracian%20Mysteries'
 artifacts:
-  - title: Samothracian Mysteries Historical Sanctuary & Iconography
-    imageUrl: /artifacts/samothracian-mysteries-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Samothracian_Mysteries'
-    provenance: 'Eleusis, Attica, Greece'
-    period: c. c. 7th century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Samothracian Mysteries.
-  - title: Samothracian dedicatory inscriptions & Sacred Relics
-    imageUrl: /artifacts/samothracian-mysteries-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Samothracian_Mysteries'
-    provenance: 'Eleusis, Attica, Greece'
-    period: c. c. 7th century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Samothracian Mysteries.
+  - title: "Samothracian votive Nike"
+    imageUrl: "/artifacts/samothracian-mysteries-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Wing_victory_Samothrace_Louvre_Ma2369.jpg"
+    provenance: "Unknown artist Unknown artist; Public domain"
+    period: "190 BC"
+    description: "This image shows Samothracian votive Nike, selected as a defining visual reference for Samothracian Mysteries."
+  - title: "Samothracian sanctuary"
+    imageUrl: "/artifacts/samothracian-mysteries-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Samothraki_Hieron.jpg"
+    provenance: "No machine-readable author provided. Marsyas assumed (based on copyright claims).; CC BY-SA 3.0"
+    period: "Image dated 2001"
+    description: "This image shows Samothracian sanctuary, selected as a defining visual reference for Samothracian Mysteries."
 ---
 
 # Samothracian Mysteries

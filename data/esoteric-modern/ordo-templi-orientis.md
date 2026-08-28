@@ -49,22 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ordo Templi Orientis'
     url: 'https://brill.com/search?q=Ordo%20Templi%20Orientis'
 artifacts:
-  - title: Ordo Templi Orientis Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ordo-templi-orientis-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ordo_Templi_Orientis'
-    provenance: 'Cairo (Fustat), Egypt'
-    period: c. c. 1902 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ordo Templi Orientis.
-  - title: Liber AL vel Legis & Sacred Relics
-    imageUrl: /artifacts/ordo-templi-orientis-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ordo_Templi_Orientis'
-    provenance: 'Cairo (Fustat), Egypt'
-    period: c. c. 1902 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Ordo
-      Templi Orientis.
+  - title: "O.T.O. leader Aleister Crowley"
+    imageUrl: "/artifacts/ordo-templi-orientis-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Aleister_Crowley_OTO.jpg"
+    provenance: "Arnold Genthe; Public domain"
+    period: "Image dated 1919"
+    description: "This image shows O.T.O. leader Aleister Crowley, selected as a defining visual reference for Ordo Templi Orientis."
+  - title: "Altar and ritual layout for the O.T.O. Gnostic Mass"
+    imageUrl: "/artifacts/ordo-templi-orientis-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ecclesia_Gnostica_Vespers_Altar.png"
+    provenance: "Metagignosko( Metagignosko ( talk )); CC BY-SA 3.0"
+    period: "Image dated 1997"
+    description: "This image shows Altar and ritual layout for the O.T.O. Gnostic Mass, selected as a defining visual reference for Ordo Templi Orientis."
 ---
 
 # Ordo Templi Orientis

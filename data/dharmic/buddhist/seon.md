@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Seon%20Buddhism'
 artifacts:
-  - title: Seon Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/seon-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Seon_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 8th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Seon Buddhism.
-  - title: Secrets on Cultivating the Mind & Sacred Relics
-    imageUrl: /artifacts/seon-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Seon_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 8th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Seon
-      Buddhism.
+  - title: "Jinul, formative systematizer of Korean Seon"
+    imageUrl: "/artifacts/seon-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jinul.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1780"
+    description: "This image shows Jinul, formative systematizer of Korean Seon, selected as a defining visual reference for Seon Buddhism."
+  - title: "Songgwangsa, the monastic center founded by Jinul's community"
+    imageUrl: "/artifacts/seon-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%BB%A3%E5%AF%BA_Korean_Temple_Songgwangsa_by_Oadde_01.jpg"
+    provenance: "Oadde; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Songgwangsa, the monastic center founded by Jinul's community, selected as a defining visual reference for Seon Buddhism."
 ---
 
 # Seon Buddhism

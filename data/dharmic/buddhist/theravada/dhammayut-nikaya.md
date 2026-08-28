@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Dhammayut%20Nik%C4%81ya'
 artifacts:
-  - title: Dhammayut Nikāya Historical Sanctuary & Iconography
-    imageUrl: /artifacts/dhammayut-nikaya-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dhammayut_Nik%C4%81ya'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. 1833 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Dhammayut Nikāya.
-  - title: Pāli Vinaya Piṭaka & Sacred Relics
-    imageUrl: /artifacts/dhammayut-nikaya-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dhammayut_Nik%C4%81ya'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. 1833 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Dhammayut Nikāya.
+  - title: "King Mongkut depicted as a monk, founder of the Dhammayut reform"
+    imageUrl: "/artifacts/dhammayut-nikaya-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Prachum_Phongsawadan_vol_19,_p_3.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1920"
+    description: "This image shows King Mongkut depicted as a monk, founder of the Dhammayut reform, selected as a defining visual reference for Dhammayut Nikāya."
+  - title: "Wat Bowonniwet, administrative and lineage center of Dhammayut"
+    imageUrl: "/artifacts/dhammayut-nikaya-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bkkwatboworn05a.jpg"
+    provenance: "Fotograf / Photographer: Heinrich Damm ( User:Hdamm , Hdamm at de.wikipedia.org ); CC BY 2.0"
+    period: "Image dated 2005"
+    description: "This image shows Wat Bowonniwet, administrative and lineage center of Dhammayut, selected as a defining visual reference for Dhammayut Nikāya."
 ---
 
 # Dhammayut Nikāya

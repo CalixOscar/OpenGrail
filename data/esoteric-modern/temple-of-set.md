@@ -44,22 +44,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Temple of Set'
     url: 'https://brill.com/search?q=Temple%20of%20Set'
 artifacts:
-  - title: Temple of Set Historical Sanctuary & Iconography
-    imageUrl: /artifacts/temple-of-set-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Temple_of_Set'
-    provenance: 'San Francisco, California, USA'
-    period: c. 1975 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Temple of Set.
-  - title: The Book of Coming Forth by Night & Sacred Relics
-    imageUrl: /artifacts/temple-of-set-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Temple_of_Set'
-    provenance: 'San Francisco, California, USA'
-    period: c. 1975 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Temple of Set.
+  - title: "Cult image of Set"
+    imageUrl: "/artifacts/temple-of-set-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Egyptian_-_Standing_Man_-_Walters_22395.jpg"
+    provenance: "Anonymous ( Egypt ) Unknown author; Public domain"
+    period: "Digital file published 2012"
+    description: "This image shows Cult image of Set, selected as a defining visual reference for Temple of Set."
+  - title: "Temple of Set founder Michael Aquino"
+    imageUrl: "/artifacts/temple-of-set-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:LTC_Michael_Aquino.jpg"
+    provenance: "U.S. Army; Public domain"
+    period: "Object or image dated 1968"
+    description: "This image shows Temple of Set founder Michael Aquino, selected as a defining visual reference for Temple of Set."
 ---
 
 # Temple of Set

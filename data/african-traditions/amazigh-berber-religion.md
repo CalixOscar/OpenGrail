@@ -37,20 +37,18 @@ sources:
   - title: 'UNESCO World Heritage: Tassili n’Ajjer Rock Art'
     url: 'https://whc.unesco.org/en/list/179/'
 artifacts:
-  - title: Mzora Megalithic Cromlech & Tumulus Monument
-    imageUrl: /artifacts/amazigh-berber-religion-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Msoura
-    provenance: Larache Province, Northern Morocco
-    period: c. 3rd–2nd millennium BCE
-    description: >-
-      Monumental megalithic stone ring of 168 standing menhirs enclosing a central royal tumulus mound, the largest ancient stone circle in North Africa.
-  - title: Tassili n'Ajjer Neolithic Round Head Sacred Parietal Art
-    imageUrl: /artifacts/amazigh-berber-religion-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Tassili_n%27Ajjer
-    provenance: Tassili n'Ajjer National Park, Sahara Desert, Algeria
-    period: c. 6000–3000 BCE
-    description: >-
-      Remarkable Saharan rock painting depicting masked supernatural ceremonial figures floating in sacred ritual dance, reflecting early North African spiritual horizons.
+  - title: "Libyco-Berber sacred rock inscription"
+    imageUrl: "/artifacts/amazigh-berber-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Prehistory-draa15.jpg"
+    provenance: "Wikimedia Commons; Public domain"
+    period: "Digital file published 2009"
+    description: "This image shows Libyco-Berber sacred rock inscription, selected as a defining visual reference for Amazigh & Berber Indigenous Traditions."
+  - title: "Medracen Numidian royal tomb"
+    imageUrl: "/artifacts/amazigh-berber-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Medghassen_%E2%80%94_Ancient_Numidian_Royal_Tomb_in_Algeria.jpg"
+    provenance: "Rachid Hamatou; CC BY-SA 4.0"
+    period: "Image dated 2023"
+    description: "This image shows Medracen Numidian royal tomb, selected as a defining visual reference for Amazigh & Berber Indigenous Traditions."
 ---
 
 # Amazigh & Berber Indigenous Traditions

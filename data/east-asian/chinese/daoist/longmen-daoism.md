@@ -43,22 +43,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Longmen%20Daoism'
 artifacts:
-  - title: Longmen Daoism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/longmen-daoism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Longmen_Daoism'
-    provenance: 'Luoyang, Henan, China'
-    period: c. c. 17th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Longmen Daoism.
-  - title: Longmen xinfa & Sacred Relics
-    imageUrl: /artifacts/longmen-daoism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Longmen_Daoism'
-    provenance: 'Luoyang, Henan, China'
-    period: c. c. 17th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Longmen Daoism.
+  - title: "Portrait of Qiu Chuji"
+    imageUrl: "/artifacts/longmen-daoism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Title_epilogue_written_by_Wen_Zhengming_in_Ni_Zan%27s_portrait_by_Qiu_Ying.jpg"
+    provenance: "Wen Zhengming(1508 - 1588) 文徴明; Public domain"
+    period: "Image dated 1542"
+    description: "This image shows Portrait of Qiu Chuji, selected as a defining visual reference for Longmen Daoism."
+  - title: "Longmen seat at Baiyun Guan"
+    imageUrl: "/artifacts/longmen-daoism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:WhiteCloudpic1.jpg"
+    provenance: "Gene Zhang; CC BY 2.0"
+    period: "Image dated 2006"
+    description: "This image shows Longmen seat at Baiyun Guan, selected as a defining visual reference for Longmen Daoism."
 ---
 
 # Longmen Daoism

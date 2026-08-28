@@ -46,22 +46,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shangqing%20Daoism'
 artifacts:
-  - title: Shangqing Daoism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/shangqing-daoism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shangqing_Daoism'
-    provenance: 'Luoyang, Henan, China'
-    period: c. 4th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Shangqing Daoism.
-  - title: Declarations of the Perfected & Sacred Relics
-    imageUrl: /artifacts/shangqing-daoism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shangqing_Daoism'
-    provenance: 'Luoyang, Henan, China'
-    period: c. 4th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Shangqing Daoism.
+  - title: "Image of Shangqing matriarch Wei Huacun"
+    imageUrl: "/artifacts/shangqing-daoism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Wuyuan_Tuochuan_Likeng_20120401-24.jpg"
+    provenance: "Zhangzhugang; CC BY-SA 4.0"
+    period: "Image dated 2012"
+    description: "This image shows Image of Shangqing matriarch Wei Huacun, selected as a defining visual reference for Shangqing Daoism."
+  - title: "Tao Hongjing, prime organizer of Shangqing Daoism on Mount Mao"
+    imageUrl: "/artifacts/shangqing-daoism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tao_Hongjing_Listening_to_the_Pines_(Yamanashi_Prefectural_Museum).jpg"
+    provenance: "Muromachi-period artists; Public domain"
+    period: "Image dated 1442"
+    description: "This image shows Tao Hongjing, prime organizer of Shangqing Daoism on Mount Mao, selected as a defining visual reference for Shangqing Daoism."
 ---
 
 # Shangqing Daoism

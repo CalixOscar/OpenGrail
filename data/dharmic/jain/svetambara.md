@@ -42,22 +42,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9Avet%C4%81mbara%20Jainism'
 artifacts:
-  - title: Śvetāmbara Jainism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/svetambara-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Jainism'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. c. 1st century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Śvetāmbara Jainism.
-  - title: Śvetāmbara Āgamas & Sacred Relics
-    imageUrl: /artifacts/svetambara-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Jainism'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. c. 1st century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Śvetāmbara Jainism.
+  - title: "White-robed Svetambara mendicants with muhapatti"
+    imageUrl: "/artifacts/svetambara-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dada_Gurus_of_Kharatara_Gaccha.jpg"
+    provenance: "Nizil Shah; CC BY-SA 3.0"
+    period: "Image dated 2016"
+    description: "This image shows White-robed Svetambara mendicants with muhapatti, selected as a defining visual reference for Śvetāmbara Jainism."
+  - title: "Illustrated Kalpa Sutra manuscript from the Svetambara canon"
+    imageUrl: "/artifacts/svetambara-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Indian_-_Two_Illustrated_Pages_from_a_%22Kalpasutra%22_Manuscript_-_Walters_W910.jpg"
+    provenance: "Walters Art Museum : Home page Info about artwork; Public domain"
+    period: "Image dated 1450"
+    description: "This image shows Illustrated Kalpa Sutra manuscript from the Svetambara canon, selected as a defining visual reference for Śvetāmbara Jainism."
 ---
 
 # Śvetāmbara Jainism

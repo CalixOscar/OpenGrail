@@ -40,20 +40,18 @@ sources:
   - title: 'UNESCO World Heritage: City of Cuzco'
     url: 'https://whc.unesco.org/en/list/273/'
 artifacts:
-  - title: Machu Picchu Sacred Intihuatana Solar Alignment Sanctuary
-    imageUrl: /artifacts/inca-religion-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Machu_Picchu
-    provenance: Urubamba Province, Cusco Region, Peru
-    period: c. 1450 CE
-    description: >-
-      Masterpiece Inca royal estate and sanctuary featuring the Intihuatana ritual hitching post of the sun, engineered to align with sacred mountain peaks (Apus) and solstices.
-  - title: Qorikancha (Golden Temple of the Sun) Curved Ashlar Masonry
-    imageUrl: /artifacts/inca-religion-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Qorikancha
-    provenance: Cusco, Peru
-    period: c. 1438 CE (Reign of Pachacuti)
-    description: >-
-      The focal sanctuary of the entire Inca Empire, whose walls were once sheeted in solid gold plates, acting as the navel of the Ceque ritual radial line system.
+  - title: "Curved ashlar masonry of the Coricancha Temple of the Sun"
+    imageUrl: "/artifacts/inca-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cusco_Coricancha_Base_wall_of_Inti-Huasi.jpg"
+    provenance: "Hakan Svensson ( Xauxa ); CC BY 2.5"
+    period: "Image dated 2002"
+    description: "This image shows Curved ashlar masonry of the Coricancha Temple of the Sun, selected as a defining visual reference for Inca Imperial Religion & Pachamama Cult."
+  - title: "Intihuatana sacred sun-tethering stone at Machu Picchu"
+    imageUrl: "/artifacts/inca-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Machupicchu_hb10.jpg"
+    provenance: "Hiram Bingham III , « Work Accomplished by the Peruvian Expedition of 1912, under the Auspices of Yale University and the National Geographi; Public domain"
+    period: "Image dated 1912"
+    description: "This image shows Intihuatana sacred sun-tethering stone at Machu Picchu, selected as a defining visual reference for Inca Imperial Religion & Pachamama Cult."
 ---
 
 # Inca Imperial Religion & Pachamama Cult

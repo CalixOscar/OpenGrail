@@ -46,22 +46,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Church%20of%20God%20General%20Conference
 artifacts:
-  - title: Church of God General Conference Historical Sanctuary & Iconography
-    imageUrl: /artifacts/church-of-god-general-conference-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_God_General_Conference'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1921 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Church of God General Conference.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/church-of-god-general-conference-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_God_General_Conference'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1921 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Church of God General Conference.
+  - title: "Portrait of Benjamin Wilson, formative Church of God General Conference figure"
+    imageUrl: "/artifacts/church-of-god-general-conference-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Benjamin_wilson_oval_from_diaglott.jpg"
+    provenance: "The Abrahamic Faith Beacon Publishing Society, Miami; Public domain"
+    period: "Image dated 1865"
+    description: "This image shows Portrait of Benjamin Wilson, formative Church of God General Conference figure, selected as a defining visual reference for Church of God General Conference."
+  - title: "Wilson's Emphatic Diaglott, an influential scripture edition in the movement"
+    imageUrl: "/artifacts/church-of-god-general-conference-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Emphatic_Diaglott.jpg"
+    provenance: "About the book: Benjamin Wilson , copyrights are owned by Watch Tower Bible and Tract Society; CC BY-SA 3.0"
+    period: "Image dated 1902"
+    description: "This image shows Wilson's Emphatic Diaglott, an influential scripture edition in the movement, selected as a defining visual reference for Church of God General Conference."
 ---
 
 # Church of God General Conference

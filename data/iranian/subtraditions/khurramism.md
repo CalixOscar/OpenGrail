@@ -50,22 +50,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Khurramism'
     url: 'https://brill.com/search?q=Khurramism'
 artifacts:
-  - title: Khurramism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/khurramism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Khurramism'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 8th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Khurramism.
-  - title: Accounts of al-Tabari & Sacred Relics
-    imageUrl: /artifacts/khurramism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Khurramism'
-    provenance: 'Isfahan, Iran'
-    period: c. c. 8th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Khurramism.
+  - title: "Babak Fort (Ghal'eh-ye Babak) fortress sanctuary"
+    imageUrl: "/artifacts/khurramism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bazz_fortress.jpg"
+    provenance: "Alireza824 at English Wikipedia; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Babak Fort (Ghal'eh-ye Babak) fortress sanctuary, selected as a defining visual reference for Khurramism."
+  - title: "The mountain bastion of Babak Khorramdin"
+    imageUrl: "/artifacts/khurramism-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bastion_Falls,_in_the_Cauterskill_Gorge,_by_American_Stereoscopic_Co.,_fl._1896-1906.png"
+    provenance: "American Stereoscopic Co., fl. 1896-1906 -- Publisher; Public domain"
+    period: "Image dated 1890"
+    description: "This image shows The mountain bastion of Babak Khorramdin, selected as a defining visual reference for Khurramism."
 ---
 
 # Khurramism

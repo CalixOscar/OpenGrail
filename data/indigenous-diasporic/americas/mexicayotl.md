@@ -43,22 +43,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Mexicayotl'
     url: 'https://brill.com/search?q=Mexicayotl'
 artifacts:
-  - title: Mexicayotl Historical Sanctuary & Iconography
-    imageUrl: /artifacts/mexicayotl-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mexicayotl'
-    provenance: 'Tenochtitlan (Mexico City), Mexico'
-    period: c. 1950s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Mexicayotl.
-  - title: Nahua-language historical sources & Sacred Relics
-    imageUrl: /artifacts/mexicayotl-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mexicayotl'
-    provenance: 'Tenochtitlan (Mexico City), Mexico'
-    period: c. 1950s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Mexicayotl.
+  - title: "Mexicayotl Conchero dancers in ceremonial feather regalia"
+    imageUrl: "/artifacts/mexicayotl-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Museo_Dolores_Olmedo,_Carnaval_de_las_tradiciones_2014_09.JPG"
+    provenance: "Sama Hoz; CC BY-SA 3.0"
+    period: "Image dated 2014"
+    description: "This image shows Mexicayotl Conchero dancers in ceremonial feather regalia, selected as a defining visual reference for Mexicayotl."
+  - title: "Mexicayotl ceremonial dance"
+    imageUrl: "/artifacts/mexicayotl-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Conchero_Chichimeca.jpg"
+    provenance: "Renata Frias; CC BY-SA 4.0"
+    period: "Image dated 2019"
+    description: "This image shows Mexicayotl ceremonial dance, selected as a defining visual reference for Mexicayotl."
 ---
 
 # Mexicayotl

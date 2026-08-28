@@ -42,22 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ash''ari Theology'
     url: 'https://www.cambridge.org/core/search?q=Ash''ari%20Theology'
 artifacts:
-  - title: Ash'ari Theology Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ashari-theology-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ash''ari_Theology'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 10th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ash'ari Theology.
-  - title: Kitab al-Luma' & Sacred Relics
-    imageUrl: /artifacts/ashari-theology-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ash''ari_Theology'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 10th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ash'ari Theology.
+  - title: "Traditional calligraphic representation of al-Ashari"
+    imageUrl: "/artifacts/ashari-theology-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Abu_al-Hasan_al-Shadhili_-_Leaf_from_Prayer_Book_-_Walters_W5784A_-_Full_Page.jpg"
+    provenance: "Abu al-Hasan al-Shadhili (died 656 AH/AD 1258); Public domain"
+    period: "11th century AH/AD 17th century ( Ottoman Empire era QS:P2348,Q12560 )"
+    description: "This image shows Traditional calligraphic representation of al-Ashari, selected as a defining visual reference for Ash'ari Theology."
+  - title: "Manuscript of al-Ashari's al-Ibana"
+    imageUrl: "/artifacts/ashari-theology-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ibana_gan_(10.3897-BDJ.10.e93637)_Figure_1.jpg"
+    provenance: "Liu et al. (2022); CC BY 4.0"
+    period: "Image dated 2022"
+    description: "This image shows Manuscript of al-Ashari's al-Ibana, selected as a defining visual reference for Ash'ari Theology."
 ---
 
 # Ash'ari Theology

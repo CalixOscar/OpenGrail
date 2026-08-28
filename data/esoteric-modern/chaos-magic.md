@@ -47,22 +47,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Chaos Magic'
     url: 'https://brill.com/search?q=Chaos%20Magic'
 artifacts:
-  - title: Chaos Magic Historical Sanctuary & Iconography
-    imageUrl: /artifacts/chaos-magic-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chaos_Magic'
-    provenance: 'London, England, UK'
-    period: c. late 1970s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Chaos Magic.
-  - title: Liber Null & Psychonaut & Sacred Relics
-    imageUrl: /artifacts/chaos-magic-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chaos_Magic'
-    provenance: 'London, England, UK'
-    period: c. late 1970s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Chaos
-      Magic.
+  - title: "Chaos-magical Chaosphere"
+    imageUrl: "/artifacts/chaos-magic-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tarot_Card_-_Chaos.jpg"
+    provenance: "James Oliver Bridge; CC BY-SA 4.0"
+    period: "Image dated 2016"
+    description: "This image shows Chaos-magical Chaosphere, selected as a defining visual reference for Chaos Magic."
+  - title: "Chaos-magical author Peter J. Carroll"
+    imageUrl: "/artifacts/chaos-magic-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:US_Navy_080621-N-0684R-012_Lt._Cmdr._Peter_Salvaggio_explains_flight_deck_operations_to_University_of_Southern_California_(USC)_head_football_Coach,_Pete_Carroll_on_the_flight_deck_aboard_the_Nimitz-class_aircraft_carrier_USS_J.jpg"
+    provenance: "U.S. Navy photo by Mass Communication Specialist 2nd Class Ron Reeves; Public domain"
+    period: "Image dated 2008"
+    description: "This image shows Chaos-magical author Peter J. Carroll, selected as a defining visual reference for Chaos Magic."
 ---
 
 # Chaos Magic

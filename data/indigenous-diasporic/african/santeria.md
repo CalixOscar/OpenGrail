@@ -48,22 +48,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Lucum%C3%AD%20%2F%20Regla%20de%20Ocha'
 artifacts:
-  - title: Lucumí / Regla de Ocha Historical Sanctuary & Iconography
-    imageUrl: /artifacts/santeria-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lucum%C3%AD_%2F_Regla_de_Ocha'
-    provenance: 'Havana, Cuba'
-    period: c. 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Lucumí / Regla de Ocha.
-  - title: Lucumí oral traditions & Sacred Relics
-    imageUrl: /artifacts/santeria-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lucum%C3%AD_%2F_Regla_de_Ocha'
-    provenance: 'Havana, Cuba'
-    period: c. 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Lucumí / Regla de Ocha.
+  - title: "Santeria altar and sacred Orisha vessels in Cuba"
+    imageUrl: "/artifacts/santeria-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Vall%C3%A9e_de_Vi%C3%B1ales-Autel_%C3%A0_saint_Lazare-Babal%C3%BA_Ay%C3%A9,.jpg"
+    provenance: "Ji-Elle; CC BY-SA 4.0"
+    period: "Image dated 2015"
+    description: "This image shows Santeria altar and sacred Orisha vessels in Cuba, selected as a defining visual reference for Lucumí / Regla de Ocha."
+  - title: "Sacred Bembe drumming ceremony and altar in Havana"
+    imageUrl: "/artifacts/santeria-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Collectie_Nationaal_Museum_van_Wereldculturen_TM-6335-1a_Enkelvellige_tonvormige_buistrom,_onderdeel_van_een_set_Cuba.jpg"
+    provenance: "View this image on the website of the Museum van Wereldculturen; CC BY-SA 3.0"
+    period: "Image dated 2004"
+    description: "This image shows Sacred Bembe drumming ceremony and altar in Havana, selected as a defining visual reference for Lucumí / Regla de Ocha."
 ---
 
 # Lucumí / Regla de Ocha

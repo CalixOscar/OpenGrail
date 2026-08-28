@@ -42,22 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Kabbalah'
     url: 'https://www.cambridge.org/core/search?q=Kabbalah'
 artifacts:
-  - title: Kabbalah Historical Sanctuary & Iconography
-    imageUrl: /artifacts/kabbalah-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Kabbalah'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 12th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Kabbalah.
-  - title: Sefer Yetzirah & Sacred Relics
-    imageUrl: /artifacts/kabbalah-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Kabbalah'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Kabbalah.
+  - title: "Early printed sefirotic Tree of Life diagram"
+    imageUrl: "/artifacts/kabbalah-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tree_of_life_by_Haeckel.jpg"
+    provenance: "Ernst Haeckel; Public domain"
+    period: "Image dated 1879"
+    description: "This image shows Early printed sefirotic Tree of Life diagram, selected as a defining visual reference for Kabbalah."
+  - title: "First printed edition of the Zohar from Mantua"
+    imageUrl: "/artifacts/kabbalah-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Zohar.png"
+    provenance: "Possibly Simeon bar Yochai; Public domain"
+    period: "Image dated 1558"
+    description: "This image shows First printed edition of the Zohar from Mantua, selected as a defining visual reference for Kabbalah."
 ---
 
 # Kabbalah

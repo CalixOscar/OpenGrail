@@ -50,22 +50,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Nanna–Sîn'
     url: 'https://brill.com/search?q=Cult%20of%20Nanna%E2%80%93S%C3%AEn'
 artifacts:
-  - title: Cult of Nanna–Sîn Historical Sanctuary & Iconography
-    imageUrl: /artifacts/nanna-sin-cult-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Nanna%E2%80%93S%C3%AEn'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3000 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Cult of Nanna–Sîn.
-  - title: Hymns to Nanna & Sacred Relics
-    imageUrl: /artifacts/nanna-sin-cult-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Nanna%E2%80%93S%C3%AEn'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3000 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
-      of Nanna–Sîn.
+  - title: "Lunar emblem of Nanna-Sin"
+    imageUrl: "/artifacts/nanna-sin-cult-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kudurru_Melishipak_Louvre_Sb23_n02.jpg"
+    provenance: "Unknown artist Unknown artist; Public domain"
+    period: "12th century BC"
+    description: "This image shows Lunar emblem of Nanna-Sin, selected as a defining visual reference for Cult of Nanna–Sîn."
+  - title: "Nanna's ziggurat at Ur"
+    imageUrl: "/artifacts/nanna-sin-cult-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ziggarat_of_Ur_001.jpg"
+    provenance: "Tla2006 at English Wikipedia; Public domain"
+    period: "Image dated 2006"
+    description: "This image shows Nanna's ziggurat at Ur, selected as a defining visual reference for Cult of Nanna–Sîn."
 ---
 
 # Cult of Nanna–Sîn

@@ -45,22 +45,18 @@ sources:
       Shiism
     url: 'https://www.cambridge.org/core/search?q=Akhbari%20Twelver%20Shiism'
 artifacts:
-  - title: Birmingham mushaf Bismillah
-    imageUrl: /artifacts/akhbari-twelver-shia-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Birmingham_mushaf_Bismillah.png'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 17th century CE
-    description: >-
-      Edited version of folio 2 recto of the Birmingham manuscript, all
-      ornamentations and words unrelated to the bismillah were edited out....
-  - title: Quran & Sacred Relics
-    imageUrl: /artifacts/akhbari-twelver-shia-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Birmingham_mushaf_Bismillah.png'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 17th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Akhbari Twelver Shiism.
+  - title: "Tomb of Yusuf al-Bahrani, leading Akhbari scholar"
+    imageUrl: "/artifacts/akhbari-twelver-shia-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Tomb_of_Yusuf_al-Bahrani.jpg"
+    provenance: "Mazharabbasjaffari; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Tomb of Yusuf al-Bahrani, leading Akhbari scholar, selected as a defining visual reference for Akhbari Twelver Shiism."
+  - title: "Manuscript of al-Astarabadi's foundational Akhbari treatise"
+    imageUrl: "/artifacts/akhbari-twelver-shia-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Seven_leaves_from_an_anthology_compiled_for_Sultan_Abdullah_Quli_Qutb_Shahi_(6125085590).jpg"
+    provenance: "thesandiegomuseumofartcollection; Public domain"
+    period: "Image dated 2003"
+    description: "This image shows Manuscript of al-Astarabadi's foundational Akhbari treatise, selected as a defining visual reference for Akhbari Twelver Shiism."
 ---
 
 # Akhbari Twelver Shiism

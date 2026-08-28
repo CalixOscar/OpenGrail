@@ -40,22 +40,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Greek Religion'
     url: 'https://brill.com/search?q=Ancient%20Greek%20Religion'
 artifacts:
-  - title: Ancient Greek Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ancient-greek-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Greek_Religion'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 1200 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ancient Greek Religion.
-  - title: Homeric Hymns & Sacred Relics
-    imageUrl: /artifacts/ancient-greek-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Greek_Religion'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 1200 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ancient Greek Religion.
+  - title: "Artemision Zeus bronze"
+    imageUrl: "/artifacts/ancient-greek-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Athens_-_National_Archeological_Museum_-_Zeus_(or_Poseidon)_statue_-_20060930.jpg"
+    provenance: "Taken by the uploader, w:es:Usuario:Barcex; CC BY-SA 3.0"
+    period: "460 BC"
+    description: "This image shows Artemision Zeus bronze, selected as a defining visual reference for Ancient Greek Religion."
+  - title: "Delphic sanctuary of Apollo"
+    imageUrl: "/artifacts/ancient-greek-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ruins_at_the_Sanctuary_of_Apollo_in_Delphi_on_October_4,_2020.jpg"
+    provenance: "George E. Koronaios; CC BY-SA 4.0"
+    period: "Image dated 2020"
+    description: "This image shows Delphic sanctuary of Apollo, selected as a defining visual reference for Ancient Greek Religion."
 ---
 
 # Ancient Greek Religion

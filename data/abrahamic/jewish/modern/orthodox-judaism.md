@@ -40,22 +40,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Orthodox Judaism'
     url: 'https://www.cambridge.org/core/search?q=Orthodox%20Judaism'
 artifacts:
-  - title: Orthodox Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/orthodox-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Orthodox Judaism.
-  - title: Tanakh & Sacred Relics
-    imageUrl: /artifacts/orthodox-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Orthodox Judaism.
+  - title: "Torah reading in an Orthodox synagogue"
+    imageUrl: "/artifacts/orthodox-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Brockhaus_and_Efron_Jewish_Encyclopedia_e3_188-5.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1906"
+    description: "This image shows Torah reading in an Orthodox synagogue, selected as a defining visual reference for Orthodox Judaism."
+  - title: "Traditional portrait of the Vilna Gaon, iconic Orthodox rabbinic authority"
+    imageUrl: "/artifacts/orthodox-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Gaon2.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Digital file published 2019"
+    description: "This image shows Traditional portrait of the Vilna Gaon, iconic Orthodox rabbinic authority, selected as a defining visual reference for Orthodox Judaism."
 ---
 
 # Orthodox Judaism

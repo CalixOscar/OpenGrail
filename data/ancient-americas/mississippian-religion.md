@@ -37,20 +37,18 @@ sources:
   - title: 'UNESCO World Heritage: Cahokia Mounds State Historic Site'
     url: 'https://whc.unesco.org/en/list/198/'
 artifacts:
-  - title: Monks Mound (The Colossal Earthen Pyramid of Cahokia)
-    imageUrl: /artifacts/mississippian-religion-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Cahokia
-    provenance: Cahokia Mounds, Illinois, USA
-    period: c. 1050–1200 CE
-    description: >-
-      The largest pre-Columbian earthen structure in the Americas north of Mexico, rising 100 feet in four terraced stages and covering 14 acres at the urban center of Cahokia.
-  - title: Rogan Copper Repoussé Plate of the Winged Falcon Dancer (Birdman)
-    imageUrl: /artifacts/mississippian-religion-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Mississippian_culture
-    provenance: Etowah Mounds, Georgia, USA (Smithsonian National Museum of the American Indian)
-    period: c. 1250 CE
-    description: >-
-      Masterpiece native copper repoussé plate depicting a supernatural avian-human dancer wielding a ceremonial flint biface blade and wearing a raptor headdress.
+  - title: "Mississippian copper repousse falcon dancer plate"
+    imageUrl: "/artifacts/mississippian-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cahokia_copper_repousse_plate_falcon_dancer_recovered_at_Etowah_mounds_13th_century.jpg"
+    provenance: "John P. Rogan; CC BY-SA 4.0"
+    period: "13th century"
+    description: "This image shows Mississippian copper repousse falcon dancer plate, selected as a defining visual reference for Mississippian Mound Builders & Southeastern Ceremonial Complex."
+  - title: "Monks Mound ceremonial platform at Cahokia"
+    imageUrl: "/artifacts/mississippian-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Great_River_Road_-_An_Aerial_View_of_Monks_Mound_-_NARA_-_7718947.jpg"
+    provenance: "Unknown author Unknown author or not provided; Public domain"
+    period: "Image dated 1995"
+    description: "This image shows Monks Mound ceremonial platform at Cahokia, selected as a defining visual reference for Mississippian Mound Builders & Southeastern Ceremonial Complex."
 ---
 
 # Mississippian Mound Builders & Southeastern Ceremonial Complex

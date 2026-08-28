@@ -42,22 +42,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sakya'
 artifacts:
-  - title: Sakya Historical Sanctuary & Iconography
-    imageUrl: /artifacts/sakya-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sakya'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 11th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Sakya.
-  - title: Hevajra Tantra & Sacred Relics
-    imageUrl: /artifacts/sakya-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sakya'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 11th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Sakya.
+  - title: "Sakya Pandita, one of the revered founding masters of Sakya"
+    imageUrl: "/artifacts/sakya-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Thangka_of_Lowo_Khenchen_Sonam_Lhundrub_(5498216868).jpg"
+    provenance: "Playing Futures: Applied Nomadology from The Netherlands; CC BY 2.0"
+    period: "15th century"
+    description: "This image shows Sakya Pandita, one of the revered founding masters of Sakya, selected as a defining visual reference for Sakya."
+  - title: "Sakya Monastery, namesake seat of the school"
+    imageUrl: "/artifacts/sakya-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sakya_Monastery,_Tibet,_2006.jpg"
+    provenance: "Luca Galuzzi ( Lucag ); CC BY-SA 2.5"
+    period: "Image dated 2006"
+    description: "This image shows Sakya Monastery, namesake seat of the school, selected as a defining visual reference for Sakya."
 ---
 
 # Sakya

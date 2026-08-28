@@ -49,22 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Pastafarianism'
     url: 'https://brill.com/search?q=Pastafarianism'
 artifacts:
-  - title: Pastafarianism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/pastafarianism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pastafarianism'
-    provenance: 'London, England, UK'
-    period: c. 2005 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Pastafarianism.
-  - title: Bobby Henderson's Kansas school-board letter & Sacred Relics
-    imageUrl: /artifacts/pastafarianism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pastafarianism'
-    provenance: 'London, England, UK'
-    period: c. 2005 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Pastafarianism.
+  - title: "Flying Spaghetti Monster image"
+    imageUrl: "/artifacts/pastafarianism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Flying_Spaghetti_Monster_and_Pirate_Dragon_Con_2007.jpg"
+    provenance: "Andrew Guyton (Account on: Flickr · Wikipedia ); CC BY-SA 2.0"
+    period: "Image dated 2007"
+    description: "This image shows Flying Spaghetti Monster image, selected as a defining visual reference for Pastafarianism."
+  - title: "Pastafarian wedding rite"
+    imageUrl: "/artifacts/pastafarianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Flying_Spaghetti_Monster_2_Rally_to_Restore_Sanity.jpg"
+    provenance: "David Shankbone; CC BY 3.0"
+    period: "Image dated 2010"
+    description: "This image shows Pastafarian wedding rite, selected as a defining visual reference for Pastafarianism."
 ---
 
 # Pastafarianism

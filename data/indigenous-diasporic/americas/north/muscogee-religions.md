@@ -47,22 +47,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Muscogee%20Ceremonial%20Traditions'
 artifacts:
-  - title: Muscogee Ceremonial Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/muscogee-religions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Muscogee_Ceremonial_Traditions'
-    provenance: 'Cahokia Mounds, Mississippi River, IL, USA'
-    period: c. precolonial
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Muscogee Ceremonial Traditions.
-  - title: Mvskoke oral traditions & Sacred Relics
-    imageUrl: /artifacts/muscogee-religions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Muscogee_Ceremonial_Traditions'
-    provenance: 'Cahokia Mounds, Mississippi River, IL, USA'
-    period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Muscogee Ceremonial Traditions.
+  - title: "Muscogee Creek ceremonial square ground and central sacred fire"
+    imageUrl: "/artifacts/muscogee-religions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Earthlodge,_Ocmulgee_National_Monument,_Macon,_Georgia_-_5810882779.jpg"
+    provenance: "Ken Lund; CC BY-SA 2.0"
+    period: "Image dated 2011"
+    description: "This image shows Muscogee Creek ceremonial square ground and central sacred fire, selected as a defining visual reference for Muscogee Ceremonial Traditions."
+  - title: "Ocmulgee ceremonial earth lodge interior and eagle platform"
+    imageUrl: "/artifacts/muscogee-religions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:An_interior_view_of_the_prehistoric_council_house_or_ceremonial_earth_lodge_at_Macon,_Ga._(8368123170).jpg"
+    provenance: "Boston Public Library; Public domain"
+    period: "Image dated 2011"
+    description: "This image shows Ocmulgee ceremonial earth lodge interior and eagle platform, selected as a defining visual reference for Muscogee Ceremonial Traditions."
 ---
 
 # Muscogee Ceremonial Traditions

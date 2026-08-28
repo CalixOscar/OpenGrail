@@ -46,22 +46,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Sumerian Religion'
     url: 'https://brill.com/search?q=Sumerian%20Religion'
 artifacts:
-  - title: Sumerian Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/sumerian-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sumerian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3500 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Sumerian Religion.
-  - title: Sumerian temple hymns & Sacred Relics
-    imageUrl: /artifacts/sumerian-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sumerian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3500 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Sumerian Religion.
+  - title: "Tell Asmar votive worshippers"
+    imageUrl: "/artifacts/sumerian-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mesopotamia_male_worshiper_2750-2600_B.C.jpg"
+    provenance: "Rosemaniakos from Bejing (hometown); CC BY-SA 2.0"
+    period: "Image dated 2005"
+    description: "This image shows Tell Asmar votive worshippers, selected as a defining visual reference for Sumerian Religion."
+  - title: "Great Ziggurat of Ur"
+    imageUrl: "/artifacts/sumerian-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ziggarat_of_Ur_001.jpg"
+    provenance: "Tla2006 at English Wikipedia; Public domain"
+    period: "Image dated 2006"
+    description: "This image shows Great Ziggurat of Ur, selected as a defining visual reference for Sumerian Religion."
 ---
 
 # Sumerian Religion

@@ -49,22 +49,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Malagasy%20Religious%20Traditions'
 artifacts:
-  - title: Malagasy Religious Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/malagasy-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Malagasy_Religious_Traditions'
-    provenance: 'Highlands (Antananarivo), Madagascar'
-    period: c. precolonial
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Malagasy Religious Traditions.
-  - title: Malagasy oral histories & Sacred Relics
-    imageUrl: /artifacts/malagasy-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Malagasy_Religious_Traditions'
-    provenance: 'Highlands (Antananarivo), Madagascar'
-    period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Malagasy Religious Traditions.
+  - title: "Mahafaly carved wooden aloalo funerary posts"
+    imageUrl: "/artifacts/malagasy-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mahafaly_tomb_with_aloalo_detail_south_Madagascar_2.jpg"
+    provenance: "salymfayad; CC BY-SA 2.0"
+    period: "Image dated 2009"
+    description: "This image shows Mahafaly carved wooden aloalo funerary posts, selected as a defining visual reference for Malagasy Religious Traditions."
+  - title: "Royal Hill of Ambohimanga sacred royal sanctuary"
+    imageUrl: "/artifacts/malagasy-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Royal_Hill,_Greenwich_-_geograph.org.uk_-_2019715.jpg"
+    provenance: "Chris Denny; CC BY-SA 2.0"
+    period: "Image dated 2010"
+    description: "This image shows Royal Hill of Ambohimanga sacred royal sanctuary, selected as a defining visual reference for Malagasy Religious Traditions."
 ---
 
 # Malagasy Religious Traditions

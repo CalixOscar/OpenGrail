@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Salafism'
     url: 'https://www.cambridge.org/core/search?q=Salafism'
 artifacts:
-  - title: Salafism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/salafism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Salafism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Salafism.
-  - title: Qur'an & Sacred Relics
-    imageUrl: /artifacts/salafism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Salafism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Salafism.
+  - title: "Early manuscript or edition of Kitab al-Tawhid"
+    imageUrl: "/artifacts/salafism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Doha_Imam_Muhammad_ibn_Abd_al-Wahhab_Mosque_Exterior_2.jpg"
+    provenance: "Zairon; CC BY 4.0"
+    period: "Image dated 2023"
+    description: "This image shows Early manuscript or edition of Kitab al-Tawhid, selected as a defining visual reference for Salafism."
+  - title: "Portrait of influential modern Salafi scholar al-Albani"
+    imageUrl: "/artifacts/salafism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nasser_al-Din_Shah_Louvre_MAO776-Edit.jpg"
+    provenance: "Bahram Kirmanshahi (Persian, 19th century); Public domain"
+    period: "Image dated 1857"
+    description: "This image shows Portrait of influential modern Salafi scholar al-Albani, selected as a defining visual reference for Salafism."
 ---
 
 # Salafism

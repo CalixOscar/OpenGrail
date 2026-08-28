@@ -47,22 +47,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Discordianism'
     url: 'https://brill.com/search?q=Discordianism'
 artifacts:
-  - title: Discordianism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/discordianism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Discordianism'
-    provenance: 'London, England, UK'
-    period: c. late 1950s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Discordianism.
-  - title: Principia Discordia & Sacred Relics
-    imageUrl: /artifacts/discordianism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Discordianism'
-    provenance: 'London, England, UK'
-    period: c. late 1950s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Discordianism.
+  - title: "Discordian Sacred Chao"
+    imageUrl: "/artifacts/discordianism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sacred_Chao_2.jpg"
+    provenance: "Dumbledore-of-Awen; CC BY-SA 4.0"
+    period: "Image dated 2015"
+    description: "This image shows Discordian Sacred Chao, selected as a defining visual reference for Discordianism."
+  - title: "Original Discordian scripture page"
+    imageUrl: "/artifacts/discordianism-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:PrincipiaDiscordia_pg00003.png"
+    provenance: "Mal-2 , Lord Omar; Public domain"
+    period: "Image dated 1965"
+    description: "This image shows Original Discordian scripture page, selected as a defining visual reference for Discordianism."
 ---
 
 # Discordianism

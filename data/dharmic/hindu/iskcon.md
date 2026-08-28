@@ -52,26 +52,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=International%20Society%20for%20Krishna%20Consciousness
 artifacts:
-  - title: >-
-      International Society for Krishna Consciousness Historical Sanctuary &
-      Iconography
-    imageUrl: /artifacts/iskcon-1.jpg
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1966 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with International Society for Krishna Consciousness.
-  - title: Bhagavad-gītā As It Is & Sacred Relics
-    imageUrl: /artifacts/iskcon-2.jpg
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1966 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      International Society for Krishna Consciousness.
+  - title: "A. C. Bhaktivedanta Swami Prabhupada, founder of ISKCON"
+    imageUrl: "/artifacts/iskcon-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Samadhi_Mandir_of_Srila_Prabhupada,_Mayapur_07102013_02.jpg"
+    provenance: "Joydeep; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows A. C. Bhaktivedanta Swami Prabhupada, founder of ISKCON, selected as a defining visual reference for International Society for Krishna Consciousness."
+  - title: "ISKCON's Temple of the Vedic Planetarium at Mayapur"
+    imageUrl: "/artifacts/iskcon-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Chandrodaya_Mandir_Central_Dome_Spire_Under_Construction_-_Temple_Of_Vedic_Planetarium_-_ISKCON_Campus_-_Mayapur_-_Nadia_2017-08-15_2090.JPG"
+    provenance: "Biswarup Ganguly; CC BY 3.0"
+    period: "Image dated 2017"
+    description: "This image shows ISKCON's Temple of the Vedic Planetarium at Mayapur, selected as a defining visual reference for International Society for Krishna Consciousness."
 ---
 
 # International Society for Krishna Consciousness

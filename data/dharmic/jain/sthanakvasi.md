@@ -43,22 +43,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Sth%C4%81nakav%C4%81s%C4%AB%20Jainism
 artifacts:
-  - title: Sthānakavāsī Jainism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/sthanakvasi-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sth%C4%81nakav%C4%81s%C4%AB_Jainism'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. 15th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Sthānakavāsī Jainism.
-  - title: Thirty-two Śvetāmbara Āgamas & Sacred Relics
-    imageUrl: /artifacts/sthanakvasi-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sth%C4%81nakav%C4%81s%C4%AB_Jainism'
-    provenance: 'Pataliputra (Patna), Bihar, India'
-    period: c. 15th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Sthānakavāsī Jainism.
+  - title: "Sthanakavasi mendicant wearing the characteristic muhapatti"
+    imageUrl: "/artifacts/sthanakvasi-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:A_Deravasi_Jain_Nun.jpg"
+    provenance: "Samyak Modi; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Sthanakavasi mendicant wearing the characteristic muhapatti, selected as a defining visual reference for Sthānakavāsī Jainism."
+  - title: "Sthanakvasi Jain assembly hall (Sthanak)"
+    imageUrl: "/artifacts/sthanakvasi-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jain_Sthanakvasi_monk.jpg"
+    provenance: "Shree Diwakar Prakashan (Owner Mr. Sanjay Surana) (Website: https://www.jainbooks.in ); Public domain"
+    period: "Image dated 2009"
+    description: "This image shows Sthanakvasi Jain assembly hall (Sthanak), selected as a defining visual reference for Sthānakavāsī Jainism."
 ---
 
 # Sthānakavāsī Jainism

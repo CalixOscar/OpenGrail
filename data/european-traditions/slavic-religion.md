@@ -40,22 +40,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Slavic Religion'
     url: 'https://brill.com/search?q=Slavic%20Religion'
 artifacts:
-  - title: Slavic Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/slavic-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Slavic_Religion'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 6th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Slavic Religion.
-  - title: Oral traditions & Sacred Relics
-    imageUrl: /artifacts/slavic-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Slavic_Religion'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 6th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Slavic Religion.
+  - title: "Zbruch cult idol"
+    imageUrl: "/artifacts/slavic-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Mythology_of_All_Races_Vol_3_(Celtic_and_Slavic)_419.jpg"
+    provenance: "John Arnott MacCulloch and Jan Machal; Public domain"
+    period: "Image dated 1918"
+    description: "This image shows Zbruch cult idol, selected as a defining visual reference for Slavic Religion."
+  - title: "Arkona sanctuary of Svantevit"
+    imageUrl: "/artifacts/slavic-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Arkona_artistic_reconstruction.jpg"
+    provenance: "Віщун; CC BY-SA 4.0"
+    period: "Image dated 2023"
+    description: "This image shows Arkona sanctuary of Svantevit, selected as a defining visual reference for Slavic Religion."
 ---
 
 # Slavic Religion

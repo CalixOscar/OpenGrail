@@ -50,20 +50,18 @@ sources:
       Adventist Church
     url: 'https://www.cambridge.org/core/search?q=Seventh-day%20Adventist%20Church'
 artifacts:
-  - title: Hope-logo
-    imageUrl: /artifacts/seventh-day-adventist-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/File:Hope-logo.jpg'
-    provenance: 'Battle Creek, Calhoun County, Michigan, USA'
-    period: c. 1863 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Seventh-day Adventist Church.
-  - title: CornFlakesPackage1906
-    imageUrl: /artifacts/seventh-day-adventist-church-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:CornFlakesPackage1906.jpg'
-    provenance: 'Battle Creek, Calhoun County, Michigan, USA'
-    period: c. 1863 CE
-    description: Very first corn flakes package from 1906...
+  - title: "Historical portrait of Ellen G. White, formative Adventist prophet and author"
+    imageUrl: "/artifacts/seventh-day-adventist-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Anders_Andersen_Ellen_-_Sami_Man_from_Finnmark_Norway,_by_Bonaparte_1884.jpg"
+    provenance: "Roland Bonaparte; Public domain"
+    period: "Image dated 1884"
+    description: "This image shows Historical portrait of Ellen G. White, formative Adventist prophet and author, selected as a defining visual reference for Seventh-day Adventist Church."
+  - title: "Historic Battle Creek Tabernacle, early Adventist institutional center"
+    imageUrl: "/artifacts/seventh-day-adventist-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Former_branch_office_of_Michigan_National_Bank,_downtown_Battle_Creek,_Michigan,_2024-03-31.jpg"
+    provenance: "Tim Kiser; CC BY-SA 4.0"
+    period: "Image dated 2024"
+    description: "This image shows Historic Battle Creek Tabernacle, early Adventist institutional center, selected as a defining visual reference for Seventh-day Adventist Church."
 ---
 
 # Seventh-day Adventist Church

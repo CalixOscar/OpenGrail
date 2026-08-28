@@ -45,22 +45,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Dvaita%20Ved%C4%81nta'
 artifacts:
-  - title: Dvaita Vedānta Historical Sanctuary & Iconography
-    imageUrl: /artifacts/dvaita-vedanta-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dvaita_Ved%C4%81nta'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 13th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Dvaita Vedānta.
-  - title: Madhva's Brahma Sūtra Bhāṣya & Sacred Relics
-    imageUrl: /artifacts/dvaita-vedanta-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dvaita_Ved%C4%81nta'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 13th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Dvaita Vedānta.
+  - title: "Statue of Madhvacarya at Sri Krishna Matha in Udupi"
+    imageUrl: "/artifacts/dvaita-vedanta-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:UDUPI_SRI_KRISHNA.jpg"
+    provenance: "Harshith Aarshi; CC BY-SA 4.0"
+    period: "13th century"
+    description: "This image shows Statue of Madhvacarya at Sri Krishna Matha in Udupi, selected as a defining visual reference for Dvaita Vedānta."
+  - title: "Udupi Sri Krishna Matha, institutional center of Madhva's lineage"
+    imageUrl: "/artifacts/dvaita-vedanta-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Udupi_Sri_Krishna_Matha_Temple.jpg"
+    provenance: "Ashok Prabhakaran from Chennai, India; CC BY-SA 2.0"
+    period: "Image dated 2010"
+    description: "This image shows Udupi Sri Krishna Matha, institutional center of Madhva's lineage, selected as a defining visual reference for Dvaita Vedānta."
 ---
 
 # Dvaita Vedānta

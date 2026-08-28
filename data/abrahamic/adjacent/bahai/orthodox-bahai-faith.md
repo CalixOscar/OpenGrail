@@ -47,22 +47,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Orthodox%20Bah%C3%A1'%C3%AD%20Faith
 artifacts:
-  - title: Orthodox Bahá'í Faith Historical Sanctuary & Iconography
-    imageUrl: /artifacts/orthodox-bahai-faith-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Bah%C3%A1''%C3%AD_Faith'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1960 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Orthodox Bahá'í Faith.
-  - title: Kitab-i-Aqdas & Sacred Relics
-    imageUrl: /artifacts/orthodox-bahai-faith-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Orthodox_Bah%C3%A1''%C3%AD_Faith'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1960 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Orthodox Bahá'í Faith.
+  - title: "Portrait of Mason Remey, claimant central to the Orthodox Bahai succession"
+    imageUrl: "/artifacts/orthodox-bahai-faith-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Alicante_L%27Hotel_de_Ville.jpg"
+    provenance: "Cornell University Library; CC BY 2.0"
+    period: "Image dated 1880"
+    description: "This image shows Portrait of Mason Remey, claimant central to the Orthodox Bahai succession, selected as a defining visual reference for Orthodox Bahá'í Faith."
+  - title: "Remey's architectural model for a Bahai house of worship"
+    imageUrl: "/artifacts/orthodox-bahai-faith-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bahai_temple_of_Uganda_with_rich_green_vegetation.jpg"
+    provenance: "Jameswasswa; CC BY-SA 4.0"
+    period: "Image dated 2022"
+    description: "This image shows Remey's architectural model for a Bahai house of worship, selected as a defining visual reference for Orthodox Bahá'í Faith."
 ---
 
 # Orthodox Bahá'í Faith

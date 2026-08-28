@@ -48,22 +48,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Asclepius'
     url: 'https://brill.com/search?q=Cult%20of%20Asclepius'
 artifacts:
-  - title: Cult of Asclepius Historical Sanctuary & Iconography
-    imageUrl: /artifacts/asclepius-cult-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Asclepius'
-    provenance: 'Eleusis, Attica, Greece'
-    period: c. c. 6th century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Cult of Asclepius.
-  - title: Epidaurian miracle inscriptions & Sacred Relics
-    imageUrl: /artifacts/asclepius-cult-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Asclepius'
-    provenance: 'Eleusis, Attica, Greece'
-    period: c. c. 6th century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
-      of Asclepius.
+  - title: "Cult statue of Asclepius"
+    imageUrl: "/artifacts/asclepius-cult-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Statue_of_Asklepios,_found_in_the_Sanctuary_of_Asklepios_at_Epidaurus,_Roman_copy_of_4th_century_BC_original,_about_160_AD,_National_Archaeological_Museum_of_Athens_(13912238759).jpg"
+    provenance: "Carole Raddato from FRANKFURT, Germany; CC BY-SA 2.0"
+    period: "4th century BC"
+    description: "This image shows Cult statue of Asclepius, selected as a defining visual reference for Cult of Asclepius."
+  - title: "Epidaurian healing sanctuary"
+    imageUrl: "/artifacts/asclepius-cult-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Asclepieion,_Epidaurus_(3390755678).jpg"
+    provenance: "Sharon Mollerus; CC BY 2.0"
+    period: "Image dated 2009"
+    description: "This image shows Epidaurian healing sanctuary, selected as a defining visual reference for Cult of Asclepius."
 ---
 
 # Cult of Asclepius

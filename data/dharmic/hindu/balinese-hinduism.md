@@ -38,18 +38,18 @@ sources:
   - title: 'UNESCO World Heritage: Cultural Landscape of Bali Province: the Subak System'
     url: 'https://whc.unesco.org/en/list/1194/'
 artifacts:
-  - title: Pura Besakih (The Mother Temple of Bali) on Mount Agung
-    imageUrl: /artifacts/balinese-hinduism-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Pura_Besakih
-    provenance: Mount Agung, Karangasem, Bali, Indonesia
-    period: c. 10th century CE to Present
-    description: The grandest and holiest sanctuary complex in Bali, built across terraced slopes with multi-tiered thatched Meru shrines dedicated to Shiva, Vishnu, and Brahma.
-  - title: Pura Ulun Danu Bratan Water Temple Sanctuary
-    imageUrl: /artifacts/balinese-hinduism-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Pura_Ulun_Danu_Bratan
-    provenance: Lake Bratan, Bedugul, Bali, Indonesia
-    period: c. 1633 CE
-    description: Sacred lakeside water temple dedicated to Dewi Danu, goddess of rivers and lakes, central to Bali's ancient Subak agricultural irrigation network.
+  - title: "Padmasana shrine tower dedicated to Acintya in Bali"
+    imageUrl: "/artifacts/balinese-hinduism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Balinese_temple_pillar.jpg"
+    provenance: "Pravin Premkumar; CC BY 2.0"
+    period: "Image dated 2005"
+    description: "This image shows Padmasana shrine tower dedicated to Acintya in Bali, selected as a defining visual reference for Balinese Hinduism."
+  - title: "Pura Besakih, Bali's Mother Temple"
+    imageUrl: "/artifacts/balinese-hinduism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mother_Temple_of_Besakih.jpg"
+    provenance: "Xeviro at English Wikipedia; CC BY-SA 3.0"
+    period: "Image dated 2006"
+    description: "This image shows Pura Besakih, Bali's Mother Temple, selected as a defining visual reference for Balinese Hinduism."
 ---
 
 # Balinese Hinduism

@@ -51,22 +51,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Serapis'
     url: 'https://brill.com/search?q=Cult%20of%20Serapis'
 artifacts:
-  - title: Cult of Serapis Historical Sanctuary & Iconography
-    imageUrl: /artifacts/serapis-cult-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Serapis'
-    provenance: 'Eleusis, Attica, Greece'
-    period: c. c. 3rd century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Cult of Serapis.
-  - title: Serapeum inscriptions & Sacred Relics
-    imageUrl: /artifacts/serapis-cult-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Serapis'
-    provenance: 'Eleusis, Attica, Greece'
-    period: c. c. 3rd century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
-      of Serapis.
+  - title: "Cult image of Serapis"
+    imageUrl: "/artifacts/serapis-cult-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Roman_-_Head_of_Serapis_-_Walters_23120.jpg"
+    provenance: "Anonymous ( Category:Roman Empire ) Unknown author; Public domain"
+    period: "284 BC"
+    description: "This image shows Cult image of Serapis, selected as a defining visual reference for Cult of Serapis."
+  - title: "Alexandrian Serapeum"
+    imageUrl: "/artifacts/serapis-cult-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pompey%27s_Pillar_(Archaeological_site_in_Alexandria_2017)_,_photo_by_Hatem_moushir_2.jpg"
+    provenance: "Hatem Moushir; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Alexandrian Serapeum, selected as a defining visual reference for Cult of Serapis."
 ---
 
 # Cult of Serapis

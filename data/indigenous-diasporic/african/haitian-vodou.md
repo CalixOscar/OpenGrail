@@ -47,22 +47,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Haitian%20Vodou'
 artifacts:
-  - title: Haitian Vodou Historical Sanctuary & Iconography
-    imageUrl: /artifacts/haitian-vodou-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Haitian_Vodou'
-    provenance: 'Port-au-Prince, Haiti'
-    period: c. 17th–18th centuries CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Haitian Vodou.
-  - title: Oral liturgies and sacred songs & Sacred Relics
-    imageUrl: /artifacts/haitian-vodou-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Haitian_Vodou'
-    provenance: 'Port-au-Prince, Haiti'
-    period: c. 17th–18th centuries CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Haitian Vodou.
+  - title: "Veve ritual drawing for Papa Legba"
+    imageUrl: "/artifacts/haitian-vodou-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:VeveLegba.png"
+    provenance: "Wikimedia Commons; Public domain"
+    period: "Digital file published 2005"
+    description: "This image shows Veve ritual drawing for Papa Legba, selected as a defining visual reference for Haitian Vodou."
+  - title: "Sacred pilgrimage at Saut-d'Eau waterfall"
+    imageUrl: "/artifacts/haitian-vodou-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Haiti_Saut-d%27Eau.JPG"
+    provenance: "Jstplace; Public domain"
+    period: "Image dated 2010"
+    description: "This image shows Sacred pilgrimage at Saut-d'Eau waterfall, selected as a defining visual reference for Haitian Vodou."
 ---
 
 # Haitian Vodou

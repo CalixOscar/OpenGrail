@@ -45,22 +45,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Freemasonry'
     url: 'https://brill.com/search?q=Freemasonry'
 artifacts:
-  - title: Freemasonry Historical Sanctuary & Iconography
-    imageUrl: /artifacts/freemasonry-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Freemasonry'
-    provenance: 'London, England, UK'
-    period: c. early 18th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Freemasonry.
-  - title: Anderson's Constitutions & Sacred Relics
-    imageUrl: /artifacts/freemasonry-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Freemasonry'
-    provenance: 'London, England, UK'
-    period: c. early 18th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Freemasonry.
+  - title: "Masonic square-and-compasses regalia"
+    imageUrl: "/artifacts/freemasonry-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Washington_Masonic_print.jpg"
+    provenance: "Creator:James Fuller Queen; Public domain"
+    period: "Image dated 1870"
+    description: "This image shows Masonic square-and-compasses regalia, selected as a defining visual reference for Freemasonry."
+  - title: "Grand Temple at Freemasons' Hall"
+    imageUrl: "/artifacts/freemasonry-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Freemasons_Hall._London._Temple_Doors._Inner_face._In_Situ._1933.jpg"
+    provenance: "Phillip Medhurst; CC BY 3.0"
+    period: "Image dated 1933"
+    description: "This image shows Grand Temple at Freemasons' Hall, selected as a defining visual reference for Freemasonry."
 ---
 
 # Freemasonry

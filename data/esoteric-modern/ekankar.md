@@ -45,22 +45,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Eckankar'
     url: 'https://brill.com/search?q=Eckankar'
 artifacts:
-  - title: Eckankar Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ekankar-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Eckankar'
-    provenance: 'London, England, UK'
-    period: c. 1965 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Eckankar.
-  - title: Shariyat-Ki-Sugmad & Sacred Relics
-    imageUrl: /artifacts/ekankar-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Eckankar'
-    provenance: 'London, England, UK'
-    period: c. 1965 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Eckankar.
+  - title: "Sacred EK symbol and Eckankar community gathering"
+    imageUrl: "/artifacts/ekankar-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Eckankar_(49119645616)_(cropped).jpg"
+    provenance: "Chad Davis from Minneapolis, United States; CC BY 2.0"
+    period: "Image dated 2015"
+    description: "This image shows Sacred EK symbol and Eckankar community gathering, selected as a defining visual reference for Eckankar."
+  - title: "Temple of ECK"
+    imageUrl: "/artifacts/ekankar-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:2013-0718-TempleofEck.jpg"
+    provenance: "Bobak Ha'Eri; CC BY 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Temple of ECK, selected as a defining visual reference for Eckankar."
 ---
 
 # Eckankar

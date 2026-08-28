@@ -41,22 +41,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of God'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20God'
 artifacts:
-  - title: Church of God (Seventh Day) Historical Sanctuary & Iconography
-    imageUrl: /artifacts/church-of-god-seventh-day-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_God'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1863 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Church of God (Seventh Day).
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/church-of-god-seventh-day-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_God'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1863 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Church of God (Seventh Day).
+  - title: "Portrait of Gilbert Cranmer, early organizer of the Church of God Seventh Day"
+    imageUrl: "/artifacts/church-of-god-seventh-day-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_history_of_the_reformation_of_the_Church_of_England_Fleuron_T105995-8.png"
+    provenance: "Burnet, Gilbert; Public domain"
+    period: "Image dated 1730"
+    description: "This image shows Portrait of Gilbert Cranmer, early organizer of the Church of God Seventh Day, selected as a defining visual reference for Church of God (Seventh Day)."
+  - title: "Historic Bible Advocate periodical of the denomination"
+    imageUrl: "/artifacts/church-of-god-seventh-day-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:2017-10-08_Harrisburg_01.jpg"
+    provenance: "Kingofthedead; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Historic Bible Advocate periodical of the denomination, selected as a defining visual reference for Church of God (Seventh Day)."
 ---
 
 # Church of God (Seventh Day)

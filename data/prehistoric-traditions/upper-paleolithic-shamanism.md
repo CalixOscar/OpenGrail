@@ -46,24 +46,18 @@ sources:
   - title: 'British Museum: The Löwenmensch (Lion-Man) Ivory Figurine'
     url: 'https://www.britishmuseum.org/collection/object/H_2003-0901-1'
 artifacts:
-  - title: Löwenmensch (Lion-Man of Hohlenstein-Stadel) Mammoth Ivory Carving
-    imageUrl: /artifacts/upper-paleolithic-shamanism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Lion-man'
-    provenance: 'Stadel Cave, Swabian Jura, Germany'
-    period: 'c. 40,000–35,000 BCE (Aurignacian)'
-    description: >-
-      The oldest known therianthropic sculpture in the world, carved from
-      mammoth ivory with a human body and cave lion head, symbolizing
-      supernatural metamorphosis and shamanic power.
-  - title: Chauvet Cave Deep Parietal Sanctuary & Lion Panel
-    imageUrl: /artifacts/upper-paleolithic-shamanism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Chauvet_Cave'
-    provenance: 'Ardèche Gorges, Southern France'
-    period: 'c. 36,000 BCE'
-    description: >-
-      Spectacular Upper Paleolithic cave sanctuary featuring dynamic ochre and
-      charcoal depictions of predatory beasts, cave bears, and ritual hand
-      stencils deep in the dark zone.
+  - title: "Lowenmensch lion-headed ivory figurine from Hohlenstein-Stadel"
+    imageUrl: "/artifacts/upper-paleolithic-shamanism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Lion_man_photo.jpg"
+    provenance: "JDuckeck; Public domain"
+    period: "Image dated 2011"
+    description: "This image shows Lowenmensch lion-headed ivory figurine from Hohlenstein-Stadel, selected as a defining visual reference for Upper Paleolithic Shamanism & Therianthropism."
+  - title: "Upper Paleolithic animal wall paintings at Chauvet Cave"
+    imageUrl: "/artifacts/upper-paleolithic-shamanism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Paleolithic_material_culture.jpg"
+    provenance: "Bioanthropologist1; CC BY-SA 4.0"
+    period: "Image dated 2026"
+    description: "This image shows Upper Paleolithic animal wall paintings at Chauvet Cave, selected as a defining visual reference for Upper Paleolithic Shamanism & Therianthropism."
 ---
 
 # Upper Paleolithic Shamanism & Therianthropism

@@ -48,22 +48,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9A%C4%81kta%20Tantra'
 artifacts:
-  - title: Śākta Tantra Historical Sanctuary & Iconography
-    imageUrl: /artifacts/shakta-tantra-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81kta_Tantra'
-    provenance: 'Kamakhya (Guwahati), Assam, India'
-    period: c. c. 6th–8th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Śākta Tantra.
-  - title: Brahmayāmala & Sacred Relics
-    imageUrl: /artifacts/shakta-tantra-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9A%C4%81kta_Tantra'
-    provenance: 'Kamakhya (Guwahati), Assam, India'
-    period: c. c. 6th–8th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Śākta
-      Tantra.
+  - title: "Yogini sculptures at Hirapur associated with tantric Goddess cults"
+    imageUrl: "/artifacts/shakta-tantra-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hirapur_ei02-50.jpg"
+    provenance: "G41rn8; CC BY-SA 4.0"
+    period: "Image dated 2005"
+    description: "This image shows Yogini sculptures at Hirapur associated with tantric Goddess cults, selected as a defining visual reference for Śākta Tantra."
+  - title: "Kamakhya Temple, a foremost center of Sakta Tantra"
+    imageUrl: "/artifacts/shakta-tantra-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kamakhya_Temple,_Guwahati.jpg"
+    provenance: "Kunal Dalui; CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Kamakhya Temple, a foremost center of Sakta Tantra, selected as a defining visual reference for Śākta Tantra."
 ---
 
 # Śākta Tantra

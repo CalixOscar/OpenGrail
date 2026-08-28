@@ -43,20 +43,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: "Confucian Ethics"'
     url: 'https://plato.stanford.edu/entries/ethics-chinese/'
 artifacts:
-  - title: Portrait of Confucius (Wu Daozi Tang Dynasty Lineage)
-    imageUrl: /artifacts/confucian-ethics-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Confucius
-    provenance: Qufu, Shandong, China
-    period: Classical Ruist Tradition
-    description: >-
-      Iconic portrait of Kongzi with joined hands representing humility, ritual propriety (Lǐ), and ethical guidance for governance.
-  - title: Dacheng Hall at the Great Temple of Confucius
-    imageUrl: /artifacts/confucian-ethics-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Temple_of_Confucius,_Qufu
-    provenance: Qufu, Shandong, China (UNESCO World Heritage Site)
-    period: c. 478 BCE to Present
-    description: >-
-      The focal sanctuary where generations of scholars and emperors performed annual rites commemorating Confucius and moral philosophy.
+  - title: "Stone tablet rubbing of Confucius teaching by Wu Daozi"
+    imageUrl: "/artifacts/confucian-virtue-ethics-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Inscriptions_of_the_Tomb_Tablets_of_the_Yan_Family_of_Wuxing_WDL4712.jpg"
+    provenance: "Yan, Qifeng; Public domain"
+    period: "Image dated 1909"
+    description: "This image shows Stone tablet rubbing of Confucius teaching by Wu Daozi, selected as a defining visual reference for Confucian Virtue Ethics (Rén & Lǐ)."
+  - title: "Dacheng Hall at the Temple of Confucius in Qufu"
+    imageUrl: "/artifacts/confucian-virtue-ethics-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dachenghalldragonpillar.jpg"
+    provenance: "Rolf Muller ( User:Rolfmueller ); CC BY-SA 3.0"
+    period: "Image dated 2005"
+    description: "This image shows Dacheng Hall at the Temple of Confucius in Qufu, selected as a defining visual reference for Confucian Virtue Ethics (Rén & Lǐ)."
 ---
 
 # Confucian Virtue Ethics (Rén & Lǐ)

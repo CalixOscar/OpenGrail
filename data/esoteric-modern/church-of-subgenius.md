@@ -47,22 +47,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Church of the SubGenius'
     url: 'https://brill.com/search?q=Church%20of%20the%20SubGenius'
 artifacts:
-  - title: Church of the SubGenius Historical Sanctuary & Iconography
-    imageUrl: /artifacts/church-of-subgenius-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_the_SubGenius'
-    provenance: 'London, England, UK'
-    period: c. 1979 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Church of the SubGenius.
-  - title: 'SubGenius Pamphlet #1 & Sacred Relics'
-    imageUrl: /artifacts/church-of-subgenius-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Church_of_the_SubGenius'
-    provenance: 'London, England, UK'
-    period: c. 1979 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Church of the SubGenius.
+  - title: "J. R. “Bob” Dobbs icon"
+    imageUrl: "/artifacts/church-of-subgenius-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Head_Shop.jpg"
+    provenance: "Stuart Caie from Edinburgh, Scotland; CC BY 2.0"
+    period: "Image dated 2008"
+    description: "This image shows J. R. “Bob” Dobbs icon, selected as a defining visual reference for Church of the SubGenius."
+  - title: "SubGenius devival gathering"
+    imageUrl: "/artifacts/church-of-subgenius-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Act_of_Subgenius.jpg"
+    provenance: "Pete Birkinshaw from Manchester, UK; CC BY 2.0"
+    period: "20th Century"
+    description: "This image shows SubGenius devival gathering, selected as a defining visual reference for Church of the SubGenius."
 ---
 
 # Church of the SubGenius

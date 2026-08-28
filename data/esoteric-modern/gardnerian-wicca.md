@@ -43,22 +43,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gardnerian Wicca'
     url: 'https://brill.com/search?q=Gardnerian%20Wicca'
 artifacts:
-  - title: Gardnerian Wicca Historical Sanctuary & Iconography
-    imageUrl: /artifacts/gardnerian-wicca-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gardnerian_Wicca'
-    provenance: 'New Forest, Hampshire, England, UK'
-    period: c. 1950s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Gardnerian Wicca.
-  - title: Gardnerian Book of Shadows & Sacred Relics
-    imageUrl: /artifacts/gardnerian-wicca-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gardnerian_Wicca'
-    provenance: 'New Forest, Hampshire, England, UK'
-    period: c. 1950s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Gardnerian Wicca.
+  - title: "Gardnerian founder Gerald Gardner"
+    imageUrl: "/artifacts/gardnerian-wicca-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:NewForestCoven_Scourge.JPG"
+    provenance: "Midnightblueowl ( talk ); CC BY-SA 3.0"
+    period: "Image dated 2010"
+    description: "This image shows Gardnerian founder Gerald Gardner, selected as a defining visual reference for Gardnerian Wicca."
+  - title: "Gardnerian Book of Shadows"
+    imageUrl: "/artifacts/gardnerian-wicca-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Gardner%27s_Book_of_Shadows_front.JPG"
+    provenance: "Midnightblueowl ( talk ); CC BY-SA 3.0"
+    period: "Image dated 2010"
+    description: "This image shows Gardnerian Book of Shadows, selected as a defining visual reference for Gardnerian Wicca."
 ---
 
 # Gardnerian Wicca

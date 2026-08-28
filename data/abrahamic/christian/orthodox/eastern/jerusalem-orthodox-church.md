@@ -46,24 +46,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Greek%20Orthodox%20Patriarchate%20of%20Jerusalem
 artifacts:
-  - title: >-
-      Greek Orthodox Patriarchate of Jerusalem Historical Sanctuary &
-      Iconography
-    imageUrl: /artifacts/jerusalem-orthodox-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Greek_Orthodox_Patriarchate_of_Jerusalem'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 451 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Greek Orthodox Patriarchate of Jerusalem.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/jerusalem-orthodox-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Greek_Orthodox_Patriarchate_of_Jerusalem'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 451 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Greek
-      Orthodox Patriarchate of Jerusalem.
+  - title: "Jerusalem Orthodox Holy Fire ceremony in the Holy Sepulchre"
+    imageUrl: "/artifacts/jerusalem-orthodox-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Calendar_of_religious_ceremonies_in_Jerusalem_Easter_period,_1941._Orthodox_Holy_Fire._matpc.04424.jpg"
+    provenance: "Matson Photo Service, photographer; Public domain"
+    period: "Image dated 1941"
+    description: "This image shows Jerusalem Orthodox Holy Fire ceremony in the Holy Sepulchre, selected as a defining visual reference for Greek Orthodox Patriarchate of Jerusalem."
+  - title: "Greek Orthodox Catholicon within the Church of the Holy Sepulchre"
+    imageUrl: "/artifacts/jerusalem-orthodox-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Greek_Orthodox_Catholicon_in_the_Church_of_the_Holy_Sepulchre,_Jerusalem.jpg"
+    provenance: "Deror avi; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Greek Orthodox Catholicon within the Church of the Holy Sepulchre, selected as a defining visual reference for Greek Orthodox Patriarchate of Jerusalem."
 ---
 
 # Greek Orthodox Patriarchate of Jerusalem

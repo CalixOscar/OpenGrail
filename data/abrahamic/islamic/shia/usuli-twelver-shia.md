@@ -46,22 +46,18 @@ sources:
       Shiism
     url: 'https://www.cambridge.org/core/search?q=Usuli%20Twelver%20Shiism'
 artifacts:
-  - title: Usuli Twelver Shiism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/usuli-twelver-shia-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Usuli_Twelver_Shiism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 17th–18th centuries CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Usuli Twelver Shiism.
-  - title: Quran & Sacred Relics
-    imageUrl: /artifacts/usuli-twelver-shia-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Usuli_Twelver_Shiism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 17th–18th centuries CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Usuli
-      Twelver Shiism.
+  - title: "Portrait of Murtada al-Ansari, formative modern Usuli jurist"
+    imageUrl: "/artifacts/usuli-twelver-shia-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Murtada_al-Ansari.png"
+    provenance: "Usuli Shia; CC0"
+    period: "Image dated 2026"
+    description: "This image shows Portrait of Murtada al-Ansari, formative modern Usuli jurist, selected as a defining visual reference for Usuli Twelver Shiism."
+  - title: "Usuli juristic study in the Najaf hawza"
+    imageUrl: "/artifacts/usuli-twelver-shia-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Imam_Ali_Shrine,_Najaf.jpg"
+    provenance: "Abdullah Fayad; Public domain"
+    period: "Image dated 2012"
+    description: "This image shows Usuli juristic study in the Najaf hawza, selected as a defining visual reference for Usuli Twelver Shiism."
 ---
 
 # Usuli Twelver Shiism

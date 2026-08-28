@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=S%C5%8Dt%C5%8D%20Zen'
 artifacts:
-  - title: Sōtō Zen Historical Sanctuary & Iconography
-    imageUrl: /artifacts/soto-zen-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/S%C5%8Dt%C5%8D_Zen'
-    provenance: 'Cairo (Fustat), Egypt'
-    period: c. 13th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Sōtō Zen.
-  - title: Shōbōgenzō & Sacred Relics
-    imageUrl: /artifacts/soto-zen-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/S%C5%8Dt%C5%8D_Zen'
-    provenance: 'Cairo (Fustat), Egypt'
-    period: c. 13th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Sōtō
-      Zen.
+  - title: "Portrait of Dogen, foundational teacher of Japanese Soto Zen"
+    imageUrl: "/artifacts/soto-zen-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Soto-Zen-Master-Dogen-Zenji-Portrait.png"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1253"
+    description: "This image shows Portrait of Dogen, foundational teacher of Japanese Soto Zen, selected as a defining visual reference for Sōtō Zen."
+  - title: "Eihei-ji, one of the two head temples of Soto Zen"
+    imageUrl: "/artifacts/soto-zen-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Eihei-ji_Temple,_Fukui_Prefecture;_September_2019_(03).jpg"
+    provenance: "雷太; CC BY 2.0"
+    period: "Image dated 2019"
+    description: "This image shows Eihei-ji, one of the two head temples of Soto Zen, selected as a defining visual reference for Sōtō Zen."
 ---
 
 # Sōtō Zen

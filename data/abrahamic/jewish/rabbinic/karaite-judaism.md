@@ -40,22 +40,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Karaite Judaism'
     url: 'https://www.cambridge.org/core/search?q=Karaite%20Judaism'
 artifacts:
-  - title: Karaite Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/karaite-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Karaite_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 8th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Karaite Judaism.
-  - title: Tanakh & Sacred Relics
-    imageUrl: /artifacts/karaite-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Karaite_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 8th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Karaite Judaism.
+  - title: "Wooden Karaite kenesa at Trakai"
+    imageUrl: "/artifacts/karaite-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Trakai_Kenesa_altar.JPG"
+    provenance: "Wojsyl; CC BY-SA 3.0"
+    period: "Image dated 2005"
+    description: "This image shows Wooden Karaite kenesa at Trakai, selected as a defining visual reference for Karaite Judaism."
+  - title: "Leningrad Codex copied by the Karaite-associated scribe Samuel ben Jacob"
+    imageUrl: "/artifacts/karaite-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Leningrad_Codex_Folio_152b.jpg"
+    provenance: "Unknown author; Public domain"
+    period: "Image dated 1008"
+    description: "This image shows Leningrad Codex copied by the Karaite-associated scribe Samuel ben Jacob, selected as a defining visual reference for Karaite Judaism."
 ---
 
 # Karaite Judaism

@@ -57,22 +57,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Latter%20Day%20Saint%20Fundamentalism
 artifacts:
-  - title: Latter Day Saint Fundamentalism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/latter-day-saint-fundamentalism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_Fundamentalism'
-    provenance: 'Salt Lake City (Temple Square), Utah, USA'
-    period: c. 1890s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Latter Day Saint Fundamentalism.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/latter-day-saint-fundamentalism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Latter_Day_Saint_Fundamentalism'
-    provenance: 'Salt Lake City (Temple Square), Utah, USA'
-    period: c. 1890s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Latter Day Saint Fundamentalism.
+  - title: "Portrait of Lorin C. Woolley, foundational fundamentalist authority figure"
+    imageUrl: "/artifacts/latter-day-saint-fundamentalism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Lorin_C._Woolley_wedding_suit.jpg"
+    provenance: "artist unknown; Public domain"
+    period: "Image dated 1882"
+    description: "This image shows Portrait of Lorin C. Woolley, foundational fundamentalist authority figure, selected as a defining visual reference for Latter Day Saint Fundamentalism."
+  - title: "Historic Short Creek community, a major fundamentalist center"
+    imageUrl: "/artifacts/latter-day-saint-fundamentalism-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Wolf_Creek_NFH_2024_Appalachia_Historically_Marginalized_Private_Landowner_Workshop_September_2024.png"
+    provenance: "Makenzie Foster/USFWS; Public domain"
+    period: "Image dated 2024"
+    description: "This image shows Historic Short Creek community, a major fundamentalist center, selected as a defining visual reference for Latter Day Saint Fundamentalism."
 ---
 
 # Latter Day Saint Fundamentalism

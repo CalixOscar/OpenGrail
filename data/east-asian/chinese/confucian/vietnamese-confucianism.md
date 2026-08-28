@@ -50,22 +50,18 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Vietnamese%20Confucian%20Traditions
 artifacts:
-  - title: Vietnamese Confucian Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/vietnamese-confucianism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vietnamese_Confucian_Traditions'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 1st century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Vietnamese Confucian Traditions.
-  - title: Four Books and Five Classics & Sacred Relics
-    imageUrl: /artifacts/vietnamese-confucianism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vietnamese_Confucian_Traditions'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 1st century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Vietnamese Confucian Traditions.
+  - title: "Image of Chu Van An"
+    imageUrl: "/artifacts/vietnamese-confucianism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Chu_V%C4%83n_An_High_School,_School_Year_opening_ceremony.JPG"
+    provenance: "Rungbachduong; CC BY-SA 3.0"
+    period: "Image dated 2007"
+    description: "This image shows Image of Chu Van An, selected as a defining visual reference for Vietnamese Confucian Traditions."
+  - title: "Hanoi Temple of Literature"
+    imageUrl: "/artifacts/vietnamese-confucianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Van_Mieu_Hanoi_4550352543_7f085eeb24_t.jpg"
+    provenance: "Jorge Lascar; CC BY-SA 2.0"
+    period: "Image dated 2008"
+    description: "This image shows Hanoi Temple of Literature, selected as a defining visual reference for Vietnamese Confucian Traditions."
 ---
 
 # Vietnamese Confucian Traditions

@@ -50,22 +50,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%AB%20Vai%E1%B9%A3%E1%B9%87avism
 artifacts:
-  - title: Śrī Vaiṣṇavism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/sri-vaishnavism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Ar%C4%AB_Vai%E1%B9%A3%E1%B9%87avism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 10th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Śrī Vaiṣṇavism.
-  - title: Nālāyira Divya Prabandham & Sacred Relics
-    imageUrl: /artifacts/sri-vaishnavism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C5%9Ar%C4%AB_Vai%E1%B9%A3%E1%B9%87avism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 10th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Śrī
-      Vaiṣṇavism.
+  - title: "Consecrated image of Ramanuja, principal Sri Vaisnava theologian"
+    imageUrl: "/artifacts/sri-vaishnavism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Consecrated_ground.jpg"
+    provenance: "User:AnemoneProjectors; CC BY-SA 2.0"
+    period: "Image dated 2010"
+    description: "This image shows Consecrated image of Ramanuja, principal Sri Vaisnava theologian, selected as a defining visual reference for Śrī Vaiṣṇavism."
+  - title: "Srirangam Ranganathaswamy Temple, foremost Sri Vaisnava sanctuary"
+    imageUrl: "/artifacts/sri-vaishnavism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sri_Ranganathaswamy_Temple,_dedicated_to_Vishnu,_in_Srirangam,_near_Tiruchirappali_(105)_(36802865564).jpg"
+    provenance: "Richard Mortel from Riyadh, Saudi Arabia; CC BY 2.0"
+    period: "11th-century"
+    description: "This image shows Srirangam Ranganathaswamy Temple, foremost Sri Vaisnava sanctuary, selected as a defining visual reference for Śrī Vaiṣṇavism."
 ---
 
 # Śrī Vaiṣṇavism

@@ -47,22 +47,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Pentecostal%20Assemblies%20of%20the%20World
 artifacts:
-  - title: Pentecostal Assemblies of the World Historical Sanctuary & Iconography
-    imageUrl: /artifacts/pentecostal-assemblies-of-the-world-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pentecostal_Assemblies_of_the_World'
-    provenance: 'Azusa Street / Los Angeles, California, USA'
-    period: c. 1906 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Pentecostal Assemblies of the World.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/pentecostal-assemblies-of-the-world-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pentecostal_Assemblies_of_the_World'
-    provenance: 'Azusa Street / Los Angeles, California, USA'
-    period: c. 1906 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Pentecostal Assemblies of the World.
+  - title: "Portrait of Bishop G. T. Haywood, formative PAW leader"
+    imageUrl: "/artifacts/pentecostal-assemblies-of-the-world-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:MorganArms_MappertonChurch_Dorset.png"
+    provenance: "Unknown glazier; Public domain"
+    period: "16th century"
+    description: "This image shows Portrait of Bishop G. T. Haywood, formative PAW leader, selected as a defining visual reference for Pentecostal Assemblies of the World."
+  - title: "Christ Temple in Indianapolis, historic PAW congregation"
+    imageUrl: "/artifacts/pentecostal-assemblies-of-the-world-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_New_Memorial_Temple_of_Christ_Apostolic_Faith_DC.JPG"
+    provenance: "Farragutful; CC BY-SA 4.0"
+    period: "Image dated 2014"
+    description: "This image shows Christ Temple in Indianapolis, historic PAW congregation, selected as a defining visual reference for Pentecostal Assemblies of the World."
 ---
 
 # Pentecostal Assemblies of the World

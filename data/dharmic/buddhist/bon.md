@@ -37,20 +37,18 @@ sources:
   - title: 'Samten G. Karmay: "The Arrow and the Spindle: Studies in History, Myths and Rituals in Tibet"'
     url: 'https://brill.com/'
 artifacts:
-  - title: Mount Kailash (Kang Rinpoche) Sacred Circumambulation Sanctuary
-    imageUrl: /artifacts/bon-religion-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Mount_Kailash
-    provenance: Ngari Prefecture, Tibet Autonomous Region
-    period: Timeless Sacred Geography (Zhangzhung Kingdom origin)
-    description: >-
-      Majestic four-sided pyramid peak revered as the nine-story Yungdrung Mountain and spiritual axis of the universe in Bon cosmology.
-  - title: Thangka of Tönpa Shenrab Miwoche (The Primordial Bon Teacher)
-    imageUrl: /artifacts/bon-religion-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Tonpa_Shenrab_Miwoche
-    provenance: Menri Monastery, Tsang, Tibet
-    period: Traditional Horizon
-    description: >-
-      Sacred silk thangka painting depicting Buddha Tönpa Shenrab seated in meditation holding the golden scepter of eternity, surrounded by the peaceful and wrathful Bon deities.
+  - title: "Thangka of Tonpa Shenrab"
+    imageUrl: "/artifacts/bon-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tonpa_Shenrab_-_Life_Story_19th_century,_Collection_of_Rubin_Museum_of_Art..jpg"
+    provenance: "Anonymous Unknown author; Public domain"
+    period: "19th century"
+    description: "This image shows Thangka of Tonpa Shenrab, selected as a defining visual reference for Yungdrung Bon & Indigenous Tibetan Religion."
+  - title: "Menri Bon monastery"
+    imageUrl: "/artifacts/bon-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Menri_Feb_2016.jpg"
+    provenance: "Unpurrceivable; CC BY-SA 4.0"
+    period: "Image dated 2016"
+    description: "This image shows Menri Bon monastery, selected as a defining visual reference for Yungdrung Bon & Indigenous Tibetan Religion."
 ---
 
 # Yungdrung Bon & Indigenous Tibetan Religion

@@ -46,22 +46,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Amoraic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Amoraic%20Judaism'
 artifacts:
-  - title: Amoraic Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/amoraic-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Amoraic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 220 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Amoraic Judaism.
-  - title: Jerusalem Talmud & Sacred Relics
-    imageUrl: /artifacts/amoraic-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Amoraic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 220 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Amoraic Judaism.
+  - title: "Traditional tomb of Rav Ashi, major Babylonian Amora"
+    imageUrl: "/artifacts/amoraic-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Rav_Ashi.jpg"
+    provenance: "Melamed katz; CC BY-SA 4.0"
+    period: "Digital file published 2008"
+    description: "This image shows Traditional tomb of Rav Ashi, major Babylonian Amora, selected as a defining visual reference for Amoraic Judaism."
+  - title: "Munich Codex 95, complete manuscript of the Babylonian Talmud"
+    imageUrl: "/artifacts/amoraic-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bavli_Kiddushin_Munich_95.jpg"
+    provenance: "שלמה בן שמשון; Public domain"
+    period: "Image dated 1342"
+    description: "This image shows Munich Codex 95, complete manuscript of the Babylonian Talmud, selected as a defining visual reference for Amoraic Judaism."
 ---
 
 # Amoraic Judaism

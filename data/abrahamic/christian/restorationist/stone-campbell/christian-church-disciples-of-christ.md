@@ -46,22 +46,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Christian Church'
     url: 'https://www.cambridge.org/core/search?q=Christian%20Church'
 artifacts:
-  - title: AugsburgConfessionArticle7OftheChurch
-    imageUrl: /artifacts/christian-church-disciples-of-christ-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:AugsburgConfessionArticle7OftheChurch.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1968 CE
-    description: 'Woodcut of the Augsburg Confession, Article VII, "Of the Church"....'
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/christian-church-disciples-of-christ-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:AugsburgConfessionArticle7OftheChurch.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1968 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Christian Church (Disciples of Christ).
+  - title: "Red chalice and Saint Andrew's cross emblem of the Disciples"
+    imageUrl: "/artifacts/christian-church-disciples-of-christ-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Gravestone_Disciples_of_Christ_and_Christian_Reformed.jpg"
+    provenance: "John Hamer; CC BY-SA 3.0"
+    period: "Digital file published 2011"
+    description: "This image shows Red chalice and Saint Andrew's cross emblem of the Disciples, selected as a defining visual reference for Christian Church (Disciples of Christ)."
+  - title: "National City Christian Church, prominent Disciples sanctuary"
+    imageUrl: "/artifacts/christian-church-disciples-of-christ-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Facade_-_National_City_Christian_Church.JPG"
+    provenance: "AgnosticPreachersKid; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows National City Christian Church, prominent Disciples sanctuary, selected as a defining visual reference for Christian Church (Disciples of Christ)."
 ---
 
 # Christian Church (Disciples of Christ)

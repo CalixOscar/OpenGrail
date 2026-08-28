@@ -46,22 +46,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Ryukyuan%20Religion'
 artifacts:
-  - title: Ryukyuan Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ryukyuan-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ryukyuan_Religion'
-    provenance: 'Qufu, Shandong, China'
-    period: c. ancient
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ryukyuan Religion.
-  - title: Omoro Sōshi & Sacred Relics
-    imageUrl: /artifacts/ryukyuan-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ryukyuan_Religion'
-    provenance: 'Qufu, Shandong, China'
-    period: c. ancient
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ryukyuan Religion.
+  - title: "Ryukyuan noro priestess"
+    imageUrl: "/artifacts/ryukyuan-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Noro.JPG"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1935"
+    description: "This image shows Ryukyuan noro priestess, selected as a defining visual reference for Ryukyuan Religion."
+  - title: "Sefa-utaki sacred limestone sanctuary in Nanjo, Okinawa"
+    imageUrl: "/artifacts/ryukyuan-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Okinawa_Nanjo_Sefa-utaki_Gusuku_site_02.jpg"
+    provenance: "Hyppolyte de Saint-Rambert; CC BY 4.0"
+    period: "Image dated 2025"
+    description: "This image shows Sefa-utaki sacred limestone sanctuary in Nanjo, Okinawa, selected as a defining visual reference for Ryukyuan Religion."
 ---
 
 # Ryukyuan Religion

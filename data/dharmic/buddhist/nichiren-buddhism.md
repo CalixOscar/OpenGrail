@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nichiren%20Buddhism'
 artifacts:
-  - title: Nichiren Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/nichiren-buddhism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nichiren_Buddhism'
-    provenance: 'Kamakura, Kanagawa, Japan'
-    period: c. 13th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Nichiren Buddhism.
-  - title: Lotus Sūtra & Sacred Relics
-    imageUrl: /artifacts/nichiren-buddhism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Nichiren_Buddhism'
-    provenance: 'Kamakura, Kanagawa, Japan'
-    period: c. 13th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Nichiren Buddhism.
+  - title: "Historic portrait of Nichiren"
+    imageUrl: "/artifacts/nichiren-buddhism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jusenji_miei.jpg"
+    provenance: "myself; CC0"
+    period: "Digital file published 2011"
+    description: "This image shows Historic portrait of Nichiren, selected as a defining visual reference for Nichiren Buddhism."
+  - title: "Calligraphic Gohonzon mandala central to Nichiren devotion"
+    imageUrl: "/artifacts/nichiren-buddhism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nittatsu_Gohonzon.jpeg"
+    provenance: "Andrew Olivo Parodi ( talk ) 17:59, 14 September 2019 (UTC); CC BY-SA 4.0"
+    period: "Digital file published 2019"
+    description: "This image shows Calligraphic Gohonzon mandala central to Nichiren devotion, selected as a defining visual reference for Nichiren Buddhism."
 ---
 
 # Nichiren Buddhism

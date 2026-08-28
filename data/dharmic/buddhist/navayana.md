@@ -45,22 +45,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Navay%C4%81na%20Buddhism'
 artifacts:
-  - title: Navayāna Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/navayana-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Navay%C4%81na_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1956 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Navayāna Buddhism.
-  - title: The Buddha and His Dhamma & Sacred Relics
-    imageUrl: /artifacts/navayana-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Navay%C4%81na_Buddhism'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1956 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Navayāna Buddhism.
+  - title: "B. R. Ambedkar, founder of Navayana Buddhism"
+    imageUrl: "/artifacts/navayana-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:B.R._Ambedkar_in_1950.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1950"
+    description: "This image shows B. R. Ambedkar, founder of Navayana Buddhism, selected as a defining visual reference for Navayāna Buddhism."
+  - title: "Deekshabhoomi, site of Ambedkar's mass Buddhist conversion"
+    imageUrl: "/artifacts/navayana-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Deekshabhumi_Nagpur.jpg"
+    provenance: "Mahendra Dayare; CC BY-SA 4.0"
+    period: "Image dated 2015"
+    description: "This image shows Deekshabhoomi, site of Ambedkar's mass Buddhist conversion, selected as a defining visual reference for Navayāna Buddhism."
 ---
 
 # Navayāna Buddhism

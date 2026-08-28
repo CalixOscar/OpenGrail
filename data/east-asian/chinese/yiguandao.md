@@ -52,22 +52,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Yiguandao'
 artifacts:
-  - title: Yiguandao Historical Sanctuary & Iconography
-    imageUrl: /artifacts/yiguandao-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Yiguandao'
-    provenance: 'Nanjing, Jiangsu, China'
-    period: c. early 20th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Yiguandao.
-  - title: Yiguandao revealed texts & Sacred Relics
-    imageUrl: /artifacts/yiguandao-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Yiguandao'
-    provenance: 'Nanjing, Jiangsu, China'
-    period: c. early 20th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Yiguandao.
+  - title: "Maitreya Buddha fresco symbolizing the White Sun era in Yiguandao"
+    imageUrl: "/artifacts/yiguandao-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Yulin_Cave_25_n_wall_Maitreya_Sutra_3_(Tang).jpg"
+    provenance: "Anonymous artist-craftsmen of the Tang-Yuan Dynasties; Public domain"
+    period: "Image dated 2012"
+    description: "This image shows Maitreya Buddha fresco symbolizing the White Sun era in Yiguandao, selected as a defining visual reference for Yiguandao."
+  - title: "Maha Vihara Duta Maitreya temple complex"
+    imageUrl: "/artifacts/yiguandao-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Maha_Vihara_Duta_Maitreya,_a_Yiguandao_temple_in_Batam,_Indonesia.jpg"
+    provenance: "Abdul Rahman; CC BY 2.0"
+    period: "Image dated 2011"
+    description: "This image shows Maha Vihara Duta Maitreya temple complex, selected as a defining visual reference for Yiguandao."
 ---
 
 # Yiguandao

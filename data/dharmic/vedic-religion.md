@@ -47,22 +47,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vedic%20Religion'
 artifacts:
-  - title: Vedic Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/vedic-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vedic_Religion'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 1500 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Vedic Religion.
-  - title: Rigveda & Sacred Relics
-    imageUrl: /artifacts/vedic-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Vedic_Religion'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 1500 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Vedic
-      Religion.
+  - title: "Vedic yajna performed at a constructed fire altar"
+    imageUrl: "/artifacts/vedic-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dead_Indian_Soda_Springs_Shelter_fire_pits_-_Jacksonville_Oregon.jpg"
+    provenance: "ZabMilenko at English Wikipedia; CC BY-SA 3.0"
+    period: "Image dated 2003"
+    description: "This image shows Vedic yajna performed at a constructed fire altar, selected as a defining visual reference for Vedic Religion."
+  - title: "Sanskrit manuscript of the Rgveda"
+    imageUrl: "/artifacts/vedic-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Rigveda_MS2097.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "early 19 th century"
+    description: "This image shows Sanskrit manuscript of the Rgveda, selected as a defining visual reference for Vedic Religion."
 ---
 
 # Vedic Religion

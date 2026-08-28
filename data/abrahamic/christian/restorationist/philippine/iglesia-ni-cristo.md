@@ -48,20 +48,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Iglesia ni Cristo'
     url: 'https://www.cambridge.org/core/search?q=Iglesia%20ni%20Cristo'
 artifacts:
-  - title: EDSA III Aerial View
-    imageUrl: /artifacts/iglesia-ni-cristo-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:EDSA_III_Aerial_View.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1914 CE
-    description: Aerial view of EDSA III pro Erap rallyists (April 25 - May 1 2001)...
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/iglesia-ni-cristo-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:EDSA_III_Aerial_View.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1914 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Iglesia ni Cristo.
+  - title: "Portrait of Felix Manalo, founder of Iglesia ni Cristo"
+    imageUrl: "/artifacts/iglesia-ni-cristo-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Signac_-_Portrait_de_F%C3%A9lix_F%C3%A9n%C3%A9on.jpg"
+    provenance: "Paul Signac; Public domain"
+    period: "Image dated 1890"
+    description: "This image shows Portrait of Felix Manalo, founder of Iglesia ni Cristo, selected as a defining visual reference for Iglesia ni Cristo."
+  - title: "Central Temple in Quezon City, iconic INC sanctuary"
+    imageUrl: "/artifacts/iglesia-ni-cristo-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Duterte_Manalo_meet_Iglesia_Ni_Cristo.jpg"
+    provenance: "Presidential Communications Operations Office; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Central Temple in Quezon City, iconic INC sanctuary, selected as a defining visual reference for Iglesia ni Cristo."
 ---
 
 # Iglesia ni Cristo

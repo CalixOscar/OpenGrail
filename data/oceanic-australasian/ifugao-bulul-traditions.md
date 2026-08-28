@@ -37,18 +37,18 @@ sources:
   - title: 'UNESCO World Heritage: Rice Terraces of the Philippine Cordilleras'
     url: 'https://whc.unesco.org/en/list/722/'
 artifacts:
-  - title: Batad & Banaue Ancient Rice Terraces Sanctuary Landscape
-    imageUrl: /artifacts/ifugao-bulul-traditions-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Rice_Terraces_of_the_Philippine_Cordilleras
-    provenance: Banaue & Batad, Ifugao, Luzon, Philippines
-    period: c. 500 BCE to Present (UNESCO World Heritage)
-    description: 2,000-year-old mountain terrace engineering following the natural contours of the Cordillera Central, constructed as a living sacred landscape under the guardianship of rice deities.
-  - title: Seated Bulul Rice Guardian Deity Carving
-    imageUrl: /artifacts/ifugao-bulul-traditions-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Bulul
-    provenance: Cordillera Central, Northern Luzon, Philippines
-    period: Traditional Horizon
-    description: Carved wooden granary guardian figure bathed in sacred offering oils, seated in a protective meditative posture to safeguard rice crops from spiritual and physical decay.
+  - title: "Pair of male and female carved wooden Bulul guardian figures"
+    imageUrl: "/artifacts/ifugao-bulul-traditions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female.jpg"
+    provenance: "This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens; CC BY-SA 2.5"
+    period: "Image dated 2008"
+    description: "This image shows Pair of male and female carved wooden Bulul guardian figures, selected as a defining visual reference for Ifugao Bulul Traditions & Hudhud Chants."
+  - title: "Sacred Batad amphitheater rice terraces in Ifugao"
+    imageUrl: "/artifacts/ifugao-bulul-traditions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hungduan,_Hapao_rice_terraces_-_Flickr.jpg"
+    provenance: "Arian Zwegers from Brussels, Belgium; CC BY 2.0"
+    period: "Image dated 2019"
+    description: "This image shows Sacred Batad amphitheater rice terraces in Ifugao, selected as a defining visual reference for Ifugao Bulul Traditions & Hudhud Chants."
 ---
 
 # Ifugao Bulul Traditions & Hudhud Chants

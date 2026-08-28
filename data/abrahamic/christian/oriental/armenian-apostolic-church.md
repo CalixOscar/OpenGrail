@@ -44,22 +44,18 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Armenian%20Apostolic%20Church'
 artifacts:
-  - title: Armenian Apostolic Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/armenian-apostolic-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Apostolic_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 4th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Armenian Apostolic Church.
-  - title: Armenian Bible & Sacred Relics
-    imageUrl: /artifacts/armenian-apostolic-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Armenian_Apostolic_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 4th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Armenian Apostolic Church.
+  - title: "Etchmiadzin Cathedral, mother see of the Armenian Apostolic Church"
+    imageUrl: "/artifacts/armenian-apostolic-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mother_Cathedral_of_Holy_Etchmiadzin.JPG"
+    provenance: "Edooart; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Etchmiadzin Cathedral, mother see of the Armenian Apostolic Church, selected as a defining visual reference for Armenian Apostolic Church."
+  - title: "Carved khachkar cross-stones, defining Armenian Christian sacred art"
+    imageUrl: "/artifacts/armenian-apostolic-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Noratus_cemetery,_Armenia_-_49770926487.jpg"
+    provenance: "Carole Raddato; CC BY-SA 2.0"
+    period: "10th-century"
+    description: "This image shows Carved khachkar cross-stones, defining Armenian Christian sacred art, selected as a defining visual reference for Armenian Apostolic Church."
 ---
 
 # Armenian Apostolic Church

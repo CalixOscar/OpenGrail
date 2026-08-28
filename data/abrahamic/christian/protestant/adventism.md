@@ -46,23 +46,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Adventism'
     url: 'https://www.cambridge.org/core/search?q=Adventism'
 artifacts:
-  - title: Adventism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/adventism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Adventism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1830s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Adventism.
-  - title: Bible.malmesbury.arp
-    imageUrl: /artifacts/adventism-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bible.malmesbury.arp.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1830s CE
-    description: >-
-      A Bible handwritten in Latin, on display in Malmesbury Abbey, Wiltshire,
-      England. This Bible was written in Belgium in 1407 AD, for reading aloud
-      in a monastery....
+  - title: "Portrait of William Miller, catalyst of the Adventist movement"
+    imageUrl: "/artifacts/adventism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:CONANT(1898)_p279_A_Millerite%27s_attempt_to_fly.jpg"
+    provenance: "Wikimedia Commons; Public domain"
+    period: "Image dated 1898"
+    description: "This image shows Portrait of William Miller, catalyst of the Adventist movement, selected as a defining visual reference for Adventism."
+  - title: "Millerite prophetic chart used in early Adventist preaching"
+    imageUrl: "/artifacts/adventism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Millerite_1843_chart.jpg"
+    provenance: "Wikimedia Commons; Public domain"
+    period: "Object or image dated 1843"
+    description: "This image shows Millerite prophetic chart used in early Adventist preaching, selected as a defining visual reference for Adventism."
 ---
 
 # Adventism

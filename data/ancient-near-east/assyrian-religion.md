@@ -43,22 +43,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Assyrian Religion'
     url: 'https://brill.com/search?q=Assyrian%20Religion'
 artifacts:
-  - title: Assyrian Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/assyrian-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Assyrian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2000 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Assyrian Religion.
-  - title: Assyrian royal inscriptions & Sacred Relics
-    imageUrl: /artifacts/assyrian-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Assyrian_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 2000 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Assyrian Religion.
+  - title: "Assyrian lamassu guardian"
+    imageUrl: "/artifacts/assyrian-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Human-headed_Winged_Bulls_Gate_Khorsabad_-_Louvre_02a.jpg"
+    provenance: "Vania Teofilo; CC BY-SA 3.0"
+    period: "Image dated 2006"
+    description: "This image shows Assyrian lamassu guardian, selected as a defining visual reference for Assyrian Religion."
+  - title: "Assyrian sacred-tree relief"
+    imageUrl: "/artifacts/assyrian-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Assyrian_Relief_-_British_Museum.jpg"
+    provenance: "M0tty; CC BY-SA 3.0"
+    period: "860 BC"
+    description: "This image shows Assyrian sacred-tree relief, selected as a defining visual reference for Assyrian Religion."
 ---
 
 # Assyrian Religion

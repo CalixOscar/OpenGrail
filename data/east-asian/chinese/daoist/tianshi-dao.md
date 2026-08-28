@@ -48,22 +48,18 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Way%20of%20the%20Celestial%20Masters
 artifacts:
-  - title: Way of the Celestial Masters Historical Sanctuary & Iconography
-    imageUrl: /artifacts/tianshi-dao-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Way_of_the_Celestial_Masters'
-    provenance: 'Luoyang, Henan, China'
-    period: c. 142 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Way of the Celestial Masters.
-  - title: Xiang'er Commentary & Sacred Relics
-    imageUrl: /artifacts/tianshi-dao-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Way_of_the_Celestial_Masters'
-    provenance: 'Luoyang, Henan, China'
-    period: c. 142 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Way
-      of the Celestial Masters.
+  - title: "Image of Zhang Daoling"
+    imageUrl: "/artifacts/tianshi-dao-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%E5%BC%B5%E9%81%93%E9%99%B5.jpg"
+    provenance: "Hannah; Public domain"
+    period: "2nd Century CE"
+    description: "This image shows Image of Zhang Daoling, selected as a defining visual reference for Way of the Celestial Masters."
+  - title: "Celestial Masters' Cave"
+    imageUrl: "/artifacts/tianshi-dao-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%9F%8E%E5%B1%B1_Mount_Qingcheng_2017.jpg"
+    provenance: "JianEn Yu; CC BY 2.0"
+    period: "Image dated 2017"
+    description: "This image shows Celestial Masters' Cave, selected as a defining visual reference for Way of the Celestial Masters."
 ---
 
 # Way of the Celestial Masters

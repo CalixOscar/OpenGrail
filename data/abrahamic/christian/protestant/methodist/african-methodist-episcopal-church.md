@@ -49,22 +49,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=African%20Methodist%20Episcopal%20Church
 artifacts:
-  - title: African Methodist Episcopal Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/african-methodist-episcopal-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/African_Methodist_Episcopal_Church'
-    provenance: 'Oxford, Oxfordshire, England, UK'
-    period: c. 1816 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with African Methodist Episcopal Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/african-methodist-episcopal-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/African_Methodist_Episcopal_Church'
-    provenance: 'Oxford, Oxfordshire, England, UK'
-    period: c. 1816 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      African Methodist Episcopal Church.
+  - title: "Portrait of Bishop Richard Allen, founder of the AME Church"
+    imageUrl: "/artifacts/african-methodist-episcopal-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Distinguished_colored_men_LCCN00651115.jpg"
+    provenance: "Popular Graphic Arts; Public domain"
+    period: "Image dated 1883"
+    description: "This image shows Portrait of Bishop Richard Allen, founder of the AME Church, selected as a defining visual reference for African Methodist Episcopal Church."
+  - title: "Mother Bethel in Philadelphia, mother church of the denomination"
+    imageUrl: "/artifacts/african-methodist-episcopal-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mother_Bethel_AME_Church_6th_and_Lombard_Sts_Philadelphia_PA_(DSC_3514).jpg"
+    provenance: "Nick-philly; CC BY-SA 4.0"
+    period: "Image dated 2019"
+    description: "This image shows Mother Bethel in Philadelphia, mother church of the denomination, selected as a defining visual reference for African Methodist Episcopal Church."
 ---
 
 # African Methodist Episcopal Church

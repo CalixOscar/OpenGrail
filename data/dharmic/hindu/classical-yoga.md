@@ -44,22 +44,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Classical%20Yoga'
 artifacts:
-  - title: Classical Yoga Historical Sanctuary & Iconography
-    imageUrl: /artifacts/classical-yoga-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Classical_Yoga'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 4th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Classical Yoga.
-  - title: Yoga Sūtras & Sacred Relics
-    imageUrl: /artifacts/classical-yoga-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Classical_Yoga'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 4th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Classical Yoga.
+  - title: "Traditional image of Patanjali, attributed author of the Yoga Sutras"
+    imageUrl: "/artifacts/classical-yoga-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shushrut_statue.jpg"
+    provenance: "Alokprasad at en.wikipedia; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Traditional image of Patanjali, attributed author of the Yoga Sutras, selected as a defining visual reference for Classical Yoga."
+  - title: "Sanskrit manuscript of Patanjali's Yoga Sutras"
+    imageUrl: "/artifacts/classical-yoga-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Yogasutra_with_Patanjali%27s_bhasya,_Sanskrit,_Devanagari_script,_random_sample_pages_f1v_f2r_f3v.jpg"
+    provenance: "Ms Sarah Welch; CC BY-SA 4.0"
+    period: "18th-century"
+    description: "This image shows Sanskrit manuscript of Patanjali's Yoga Sutras, selected as a defining visual reference for Classical Yoga."
 ---
 
 # Classical Yoga

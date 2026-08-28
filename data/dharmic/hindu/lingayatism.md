@@ -45,22 +45,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=Li%E1%B9%85g%C4%81yat%20Tradition
 artifacts:
-  - title: Liṅgāyat Tradition Historical Sanctuary & Iconography
-    imageUrl: /artifacts/lingayatism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Li%E1%B9%85g%C4%81yat_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 12th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Liṅgāyat Tradition.
-  - title: Vachana literature & Sacred Relics
-    imageUrl: /artifacts/lingayatism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Li%E1%B9%85g%C4%81yat_Tradition'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Liṅgāyat Tradition.
+  - title: "Statue of Basaveshwara, founder of the Lingayat tradition"
+    imageUrl: "/artifacts/lingayatism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Basaveshwara_statue_in_Gadag.jpg"
+    provenance: "Lpp3535; CC0"
+    period: "Image dated 2023"
+    description: "This image shows Statue of Basaveshwara, founder of the Lingayat tradition, selected as a defining visual reference for Liṅgāyat Tradition."
+  - title: "Personal istalinga worn and worshipped by Lingayat devotees"
+    imageUrl: "/artifacts/lingayatism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Lingayat_vader_(mendicant_priest).jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1835"
+    description: "This image shows Personal istalinga worn and worshipped by Lingayat devotees, selected as a defining visual reference for Liṅgāyat Tradition."
 ---
 
 # Liṅgāyat Tradition

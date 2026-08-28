@@ -37,20 +37,18 @@ sources:
   - title: 'Grant Evans: "Lao Peasants under Socialism & Spirit Cults"'
     url: 'https://yalebooks.yale.edu/'
 artifacts:
-  - title: San Phra Phum (Guardian Spirit House Shrine)
-    imageUrl: /artifacts/tai-folk-religion-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Spirit_house
-    provenance: Chiang Mai & Bangkok, Thailand
-    period: Living Traditional Horizon
-    description: >-
-      Elaborate carved wooden temple miniature erected on a pedestal outside homes and temples, providing an honorable dwelling place for local territorial spirits (Phra Phum).
-  - title: Wat Xieng Thong Ancestral Tree of Life Mosaic Sanctuary
-    imageUrl: /artifacts/tai-folk-religion-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Wat_Xieng_Thong
-    provenance: Luang Prabang, Laos
-    period: c. 1560 CE
-    description: >-
-      Royal temple sanctuary featuring the famous glass mosaic of the Tree of Life on its rear wall, embodying the synthesis between Theravada Buddhism and ancient Lao spirit cosmology.
+  - title: "San Phra Phum traditional Thai spirit house shrine"
+    imageUrl: "/artifacts/tai-folk-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:ThaiProvinzLampang1.jpg"
+    provenance: "Ziegler175; CC BY-SA 3.0"
+    period: "Digital file published 2020"
+    description: "This image shows San Phra Phum traditional Thai spirit house shrine, selected as a defining visual reference for Satsana Phi & Tai-Lao Spirit House Traditions."
+  - title: "Phi Ta Khon painted ghost mask and festival attire"
+    imageUrl: "/artifacts/tai-folk-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Phitakon_masks.JPG"
+    provenance: "E.D.W.; Public domain"
+    period: "Image dated 2009"
+    description: "This image shows Phi Ta Khon painted ghost mask and festival attire, selected as a defining visual reference for Satsana Phi & Tai-Lao Spirit House Traditions."
 ---
 
 # Satsana Phi & Tai-Lao Spirit House Traditions

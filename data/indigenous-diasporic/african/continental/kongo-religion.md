@@ -51,22 +51,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Kongo%20Religious%20Traditions'
 artifacts:
-  - title: Kongo Religious Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/kongo-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Kongo_Religious_Traditions'
-    provenance: 'M''banza-Kongo, Kingdom of Kongo'
-    period: c. before 1400 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Kongo Religious Traditions.
-  - title: Kongo oral traditions and proverbs & Sacred Relics
-    imageUrl: /artifacts/kongo-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Kongo_Religious_Traditions'
-    provenance: 'M''banza-Kongo, Kingdom of Kongo'
-    period: c. before 1400 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Kongo
-      Religious Traditions.
+  - title: "Nkisi N'Kondi power figure with ritual blades and medicines"
+    imageUrl: "/artifacts/kongo-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_22.1421_Power_Figure_Nkisi_Nkondi_(9).jpg"
+    provenance: "Unknown author Unknown author; CC BY 3.0"
+    period: "19 th century"
+    description: "This image shows Nkisi N'Kondi power figure with ritual blades and medicines, selected as a defining visual reference for Kongo Religious Traditions."
+  - title: "Ruins of the royal cathedral sanctuary at Mbanza Kongo"
+    imageUrl: "/artifacts/kongo-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Catedral_da_S%C3%A9_em_S%C3%A3o_Paulo.jpg"
+    provenance: "Wilfredor; CC0"
+    period: "Image dated 2014"
+    description: "This image shows Ruins of the royal cathedral sanctuary at Mbanza Kongo, selected as a defining visual reference for Kongo Religious Traditions."
 ---
 
 # Kongo Religious Traditions

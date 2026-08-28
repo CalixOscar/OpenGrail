@@ -45,22 +45,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Drukpa%20Kagyu'
 artifacts:
-  - title: Drukpa Kagyu Historical Sanctuary & Iconography
-    imageUrl: /artifacts/drukpa-kagyu-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Drukpa_Kagyu'
-    provenance: 'Lhasa (Potala), U-Tsang, Tibet'
-    period: c. 12th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Drukpa Kagyu.
-  - title: Kangyur & Sacred Relics
-    imageUrl: /artifacts/drukpa-kagyu-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Drukpa_Kagyu'
-    provenance: 'Lhasa (Potala), U-Tsang, Tibet'
-    period: c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Drukpa Kagyu.
+  - title: "Lineage image of Tsangpa Gyare Yeshe Dorje"
+    imageUrl: "/artifacts/drukpa-kagyu-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tsangpa_Gyare.jpg"
+    provenance: "www.treasuryoflives.org; Public domain"
+    period: "Image dated 2014"
+    description: "This image shows Lineage image of Tsangpa Gyare Yeshe Dorje, selected as a defining visual reference for Drukpa Kagyu."
+  - title: "Hemis Monastery, a major Drukpa Kagyu sanctuary"
+    imageUrl: "/artifacts/drukpa-kagyu-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hemis_Budhdha_statue.JPG"
+    provenance: "Theblessedzee; CC BY-SA 3.0"
+    period: "Image dated 2012"
+    description: "This image shows Hemis Monastery, a major Drukpa Kagyu sanctuary, selected as a defining visual reference for Drukpa Kagyu."
 ---
 
 # Drukpa Kagyu

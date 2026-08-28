@@ -43,20 +43,18 @@ sources:
   - title: 'Davíd Carrasco: "City of Sacrifice: The Aztec Empire and the Role of Violence in Civilization"'
     url: 'https://www.beacon.org/'
 artifacts:
-  - title: Aztec Sun Stone (Piedra del Sol / Calendar Stone)
-    imageUrl: /artifacts/aztec-religion-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Aztec_sun_stone
-    provenance: Tenochtitlan, Mexico City (National Museum of Anthropology)
-    period: c. 1502–1520 CE
-    description: >-
-      Monumental 24-ton carved basalt disk depicting the central face of the Sun God Tonatiuh framed by the four previous cosmic eras (Suns) and 20 day-signs of the sacred calendar.
-  - title: Templo Mayor Archaeological Sanctuary Ruins
-    imageUrl: /artifacts/aztec-religion-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Templo_Mayor
-    provenance: Historic Center of Mexico City, Mexico
-    period: c. 1325–1521 CE
-    description: >-
-      Sacred focal pyramid of Tenochtitlan featuring dual staircases ascending to twin shrines of Tlaloc (God of Rain/Agriculture) and Huitzilopochtli (God of War/Sun).
+  - title: "Aztec Sun Stone (Piedra del Sol)"
+    imageUrl: "/artifacts/aztec-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Monolito_de_la_Piedra_del_Sol.jpg"
+    provenance: "El Comandante; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Aztec Sun Stone (Piedra del Sol), selected as a defining visual reference for Aztec & Mexica Nahua Religion."
+  - title: "Templo Mayor archaeological pyramid sanctuary"
+    imageUrl: "/artifacts/aztec-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ruins_of_Tenochtitlan.JPG"
+    provenance: "No machine-readable author provided. Janothird~commonswiki assumed (based on copyright claims).; CC BY-SA 3.0"
+    period: "Image dated 2005"
+    description: "This image shows Templo Mayor archaeological pyramid sanctuary, selected as a defining visual reference for Aztec & Mexica Nahua Religion."
 ---
 
 # Aztec & Mexica Nahua Religion

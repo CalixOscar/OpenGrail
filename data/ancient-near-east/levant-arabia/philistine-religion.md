@@ -48,22 +48,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Philistine Religion'
     url: 'https://brill.com/search?q=Philistine%20Religion'
 artifacts:
-  - title: Philistine Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/philistine-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Philistine_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1175 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Philistine Religion.
-  - title: Ekron Royal Dedicatory Inscription & Sacred Relics
-    imageUrl: /artifacts/philistine-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Philistine_Religion'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 1175 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Philistine Religion.
+  - title: "Philistine Ashdoda cult figurine"
+    imageUrl: "/artifacts/philistine-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Philistine_Religion_%26_Pottery_(43217306421).jpg"
+    provenance: "Gary Todd from Xinzheng, China; CC0"
+    period: "Image dated 2018"
+    description: "This image shows Philistine Ashdoda cult figurine, selected as a defining visual reference for Philistine Religion."
+  - title: "Ekron temple inscription"
+    imageUrl: "/artifacts/philistine-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:JRSLM_300116_Ekron_inscription.jpg"
+    provenance: "Oren Rozen; CC BY-SA 4.0"
+    period: "Image dated 2016"
+    description: "This image shows Ekron temple inscription, selected as a defining visual reference for Philistine Religion."
 ---
 
 # Philistine Religion

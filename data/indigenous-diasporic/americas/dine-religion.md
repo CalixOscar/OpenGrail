@@ -42,22 +42,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Din%C3%A9%20Religion'
 artifacts:
-  - title: Diné Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/dine-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Din%C3%A9_Religion'
-    provenance: 'Dinétah (Navajo Nation), Four Corners, USA'
-    period: c. ancestral era
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Diné Religion.
-  - title: Oral traditions (community-governed) & Sacred Relics
-    imageUrl: /artifacts/dine-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Din%C3%A9_Religion'
-    provenance: 'Dinétah (Navajo Nation), Four Corners, USA'
-    period: c. ancestral era
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Diné
-      Religion.
+  - title: "Navajo sacred sandpainting of the Holy People (Yei)"
+    imageUrl: "/artifacts/dine-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Navajo_Sandpainting_Rug_02.jpg"
+    provenance: "Navajo artist; Public domain"
+    period: "Object or image dated 1946"
+    description: "This image shows Navajo sacred sandpainting of the Holy People (Yei), selected as a defining visual reference for Diné Religion."
+  - title: "Shiprock (Tse Bitʼaʼi), sacred winged rock peak"
+    imageUrl: "/artifacts/dine-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Rock_Est_direction_Shiprock_-_US_Route_491_NM.jpg"
+    provenance: "A. Perucchi; CC BY-SA 3.0"
+    period: "Image dated 2008"
+    description: "This image shows Shiprock (Tse Bitʼaʼi), sacred winged rock peak, selected as a defining visual reference for Diné Religion."
 ---
 
 # Diné Religion

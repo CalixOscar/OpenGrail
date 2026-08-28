@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Qadiriyya'
     url: 'https://www.cambridge.org/core/search?q=Qadiriyya'
 artifacts:
-  - title: 'Tomb of Abdul Qadir Jilani, Baghdad'
-    imageUrl: /artifacts/qadiriyya-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Tomb_of_Abdul_Qadir_Jilani,_Baghdad.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 12th century CE
-    description: 'A sunset view of tomb of Abdul Qadir Jilani, Baghdad....'
-  - title: Quran & Sacred Relics
-    imageUrl: /artifacts/qadiriyya-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Tomb_of_Abdul_Qadir_Jilani,_Baghdad.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 12th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Qadiriyya.
+  - title: "Shrine of Abd al-Qadir al-Jilani in Baghdad"
+    imageUrl: "/artifacts/qadiriyya-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Peerane_Peer.jpg"
+    provenance: "SidSultan05; CC BY-SA 3.0"
+    period: "Image dated 2012"
+    description: "This image shows Shrine of Abd al-Qadir al-Jilani in Baghdad, selected as a defining visual reference for Qadiriyya."
+  - title: "Qadiri communal dhikr ritual"
+    imageUrl: "/artifacts/qadiriyya-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Seal_of_Qadiriyya_Sufi_Order_.jpg"
+    provenance: "Muhammadahmad79; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Qadiri communal dhikr ritual, selected as a defining visual reference for Qadiriyya."
 ---
 
 # Qadiriyya

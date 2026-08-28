@@ -49,22 +49,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Bhakti%20Movements'
 artifacts:
-  - title: Bhakti Movements Historical Sanctuary & Iconography
-    imageUrl: /artifacts/bhakti-movement-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bhakti_Movements'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Bhakti Movements.
-  - title: Nālāyira Divya Prabandham & Sacred Relics
-    imageUrl: /artifacts/bhakti-movement-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Bhakti_Movements'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 6th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Bhakti Movements.
+  - title: "Mirabai singing to Krishna, an iconic image of personal bhakti"
+    imageUrl: "/artifacts/bhakti-movement-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Meera_Bai-The_Pure_Devotee_of_Load_Krishna.jpg"
+    provenance: "TAPAS KUMAR HALDER; CC BY-SA 4.0"
+    period: "Image dated 2022"
+    description: "This image shows Mirabai singing to Krishna, an iconic image of personal bhakti, selected as a defining visual reference for Bhakti Movements."
+  - title: "Illustrated Bhagavata Purana manuscript central to devotional culture"
+    imageUrl: "/artifacts/bhakti-movement-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Krishna_subdues_Kaliya_Naag,_Bhagavata_Purana,_illustrated_18th_century_manuscript.jpg"
+    provenance: "Anonymous Unknown author; Public domain"
+    period: "18th century"
+    description: "This image shows Illustrated Bhagavata Purana manuscript central to devotional culture, selected as a defining visual reference for Bhakti Movements."
 ---
 
 # Bhakti Movements

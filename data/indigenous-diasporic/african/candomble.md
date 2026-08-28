@@ -47,22 +47,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Candombl%C3%A9'
 artifacts:
-  - title: Candomblé Historical Sanctuary & Iconography
-    imageUrl: /artifacts/candomble-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Candombl%C3%A9'
-    provenance: 'Salvador da Bahia, Brazil'
-    period: c. 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Candomblé.
-  - title: Oral liturgies and sacred songs & Sacred Relics
-    imageUrl: /artifacts/candomble-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Candombl%C3%A9'
-    provenance: 'Salvador da Bahia, Brazil'
-    period: c. 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Candomblé.
+  - title: "Ceremonial festival and offerings for Iemanja in Salvador da Bahia"
+    imageUrl: "/artifacts/candomble-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mimos_para_Iemanj%C3%A1.jpg"
+    provenance: "Jonas.Feitosa; CC BY-SA 4.0"
+    period: "Image dated 2020"
+    description: "This image shows Ceremonial festival and offerings for Iemanja in Salvador da Bahia, selected as a defining visual reference for Candomblé."
+  - title: "Historic Terreiro da Casa Branca do Engenho Velho"
+    imageUrl: "/artifacts/candomble-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Il%C3%AA_Ax%C3%A9_Iy%C3%A1_Nass%C3%B4_Ok%C3%A1_Casa_Branca_Salvador_2017-88.jpg"
+    provenance: "Paul R. Burley; CC BY-SA 4.0"
+    period: "Image dated 2017"
+    description: "This image shows Historic Terreiro da Casa Branca do Engenho Velho, selected as a defining visual reference for Candomblé."
 ---
 
 # Candomblé

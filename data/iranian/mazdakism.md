@@ -43,22 +43,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Mazdakism'
     url: 'https://brill.com/search?q=Mazdakism'
 artifacts:
-  - title: Mazdakism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/mazdakism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mazdakism'
-    provenance: 'Isfahan, Iran'
-    period: c. late 5th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Mazdakism.
-  - title: Middle Persian testimonia & Sacred Relics
-    imageUrl: /artifacts/mazdakism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mazdakism'
-    provenance: 'Isfahan, Iran'
-    period: c. late 5th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Mazdakism.
+  - title: "Sasanian silver ceremonial vessel depicting courtly hierarchy"
+    imageUrl: "/artifacts/mazdakism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hunting_King_Plate,_303-309_AD,_Sasanian,_Iran,_silver_and_gilt_-_Cleveland_Museum_of_Art_-_DSC08117.JPG"
+    provenance: "Unknown author Unknown author; CC0"
+    period: "309 AD"
+    description: "This image shows Sasanian silver ceremonial vessel depicting courtly hierarchy, selected as a defining visual reference for Mazdakism."
+  - title: "Shahnameh miniature depicting the trial and execution of Mazdak"
+    imageUrl: "/artifacts/mazdakism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%22The_Execution_of_Mazdak%22,_Folio_from_a_Shahnama_(Book_of_Kings)_MET_DP108584.jpg"
+    provenance: "Ferdowsi; CC0"
+    period: "Image dated 1330"
+    description: "This image shows Shahnameh miniature depicting the trial and execution of Mazdak, selected as a defining visual reference for Mazdakism."
 ---
 
 # Mazdakism

@@ -50,23 +50,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Islam'
     url: 'https://www.cambridge.org/core/search?q=Islam'
 artifacts:
-  - title: 13. Session of the Islamic Summit Conference
-    imageUrl: /artifacts/islam-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:13._Session_of_the_Islamic_Summit_Conference.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 610 CE
-    description: >-
-      Family photo of 13. Session of the Islamic Summit Conference in Istanbul,
-      Turkey....
-  - title: Cheshm manuscript
-    imageUrl: /artifacts/islam-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Cheshm_manuscript.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 610 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Islam.
+  - title: "Pilgrims circling the Kaaba during Hajj"
+    imageUrl: "/artifacts/islam-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mecca_hist_1.jpg"
+    provenance: "Original uploader was Bless sins at en.wikipedia; CC BY-SA 2.0"
+    period: "Image dated 2008"
+    description: "This image shows Pilgrims circling the Kaaba during Hajj, selected as a defining visual reference for Islam."
+  - title: "Blue Quran folio, iconic sacred Islamic calligraphy"
+    imageUrl: "/artifacts/islam-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Folio_from_a_Koran_(Sura_Najm).jpg"
+    provenance: "Unknown in Mamluk dynasty; Public domain"
+    period: "late 14th century"
+    description: "This image shows Blue Quran folio, iconic sacred Islamic calligraphy, selected as a defining visual reference for Islam."
 ---
 
 # Islam

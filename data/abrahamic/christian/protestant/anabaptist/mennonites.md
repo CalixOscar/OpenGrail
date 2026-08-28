@@ -48,22 +48,18 @@ sources:
       Traditions
     url: 'https://www.cambridge.org/core/search?q=Mennonite%20Traditions'
 artifacts:
-  - title: CPS141ratpoison
-    imageUrl: /artifacts/mennonites-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:CPS141ratpoison.jpg'
-    provenance: 'Zurich, Switzerland'
-    period: c. 1520s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Mennonite Traditions.
-  - title: Menno Simons
-    imageUrl: /artifacts/mennonites-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Menno_Simons.jpg'
-    provenance: 'Zurich, Switzerland'
-    period: c. 1520s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Mennonite Traditions.
+  - title: "Portrait of Menno Simons, namesake of the Mennonite tradition"
+    imageUrl: "/artifacts/mennonites-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Portret_van_Menno_Simons,_RP-P-1895-A-18886.jpg"
+    provenance: "Rijksmuseum; CC0"
+    period: "Image dated 1788"
+    description: "This image shows Portrait of Menno Simons, namesake of the Mennonite tradition, selected as a defining visual reference for Mennonite Traditions."
+  - title: "Illustrated Martyrs Mirror preserving Anabaptist memory"
+    imageUrl: "/artifacts/mennonites-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Vitalisburiedalive.jpg"
+    provenance: "Jan Luyken; Public domain"
+    period: "17 th century"
+    description: "This image shows Illustrated Martyrs Mirror preserving Anabaptist memory, selected as a defining visual reference for Mennonite Traditions."
 ---
 
 # Mennonite Traditions

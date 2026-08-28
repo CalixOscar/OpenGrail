@@ -49,22 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gaulish Religions'
     url: 'https://brill.com/search?q=Gaulish%20Religions'
 artifacts:
-  - title: Gaulish Religions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/gaulish-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gaulish_Religions'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 600 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Gaulish Religions.
-  - title: Gallo-Roman dedicatory inscriptions & Sacred Relics
-    imageUrl: /artifacts/gaulish-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Gaulish_Religions'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 600 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Gaulish Religions.
+  - title: "Pillar of the Boatmen deities"
+    imageUrl: "/artifacts/gaulish-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:CLUNY-Maquette_pilier_nautes_1.JPG"
+    provenance: "anonymous; CC BY 2.5"
+    period: "Digital file published 2006"
+    description: "This image shows Pillar of the Boatmen deities, selected as a defining visual reference for Gaulish Religions."
+  - title: "Gaulish sanctuary at Gournay"
+    imageUrl: "/artifacts/gaulish-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Camp_des_Pictes_(159).JPG"
+    provenance: "Jean-Pierre Bazard Jpbazard; CC BY 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Gaulish sanctuary at Gournay, selected as a defining visual reference for Gaulish Religions."
 ---
 
 # Gaulish Religions

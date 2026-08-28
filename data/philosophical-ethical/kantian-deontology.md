@@ -43,20 +43,18 @@ sources:
   - title: 'Christine M. Korsgaard: "Creating the Kingdom of Ends"'
     url: 'https://www.cambridge.org/'
 artifacts:
-  - title: Oil Portrait of Immanuel Kant
-    imageUrl: /artifacts/kantian-ethics-1.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Immanuel_Kant
-    provenance: Königsberg, Prussia
-    period: c. 1791 CE
-    description: >-
-      Portrait of Enlightenment philosopher Immanuel Kant whose revolutionary moral works established modern deontological ethics and human dignity.
-  - title: Monument to Immanuel Kant in Königsberg
-    imageUrl: /artifacts/kantian-ethics-2.jpg
-    sourceUrl: https://en.wikipedia.org/wiki/Immanuel_Kant
-    provenance: Kaliningrad, Russia
-    period: c. 1864 CE
-    description: >-
-      Bronze monument commemorating Kant's famous epitaph: 'Two things fill the mind with ever new and increasing admiration: the starry heavens above me and the moral law within me.'
+  - title: "Portrait painting of Immanuel Kant"
+    imageUrl: "/artifacts/kantian-deontology-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg"
+    provenance: "Johann Gottlieb Becker (1720-1782); Public domain"
+    period: "Image dated 1768"
+    description: "This image shows Portrait painting of Immanuel Kant, selected as a defining visual reference for Kantian Deontology & The Categorical Imperative."
+  - title: "Title page of the first edition of the Critique of Practical Reason"
+    imageUrl: "/artifacts/kantian-deontology-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kritik_der_praktischen_Vernunft.jpg"
+    provenance: "Deniev Dagun; CC BY 4.0"
+    period: "Image dated 2019"
+    description: "This image shows Title page of the first edition of the Critique of Practical Reason, selected as a defining visual reference for Kantian Deontology & The Categorical Imperative."
 ---
 
 # Kantian Deontology & The Categorical Imperative

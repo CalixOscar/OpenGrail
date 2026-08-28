@@ -47,22 +47,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Jogye%20Order'
 artifacts:
-  - title: Jogye Order Historical Sanctuary & Iconography
-    imageUrl: /artifacts/jogye-order-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jogye_Order'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 20th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Jogye Order.
-  - title: Platform Sūtra & Sacred Relics
-    imageUrl: /artifacts/jogye-order-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Jogye_Order'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 20th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Jogye
-      Order.
+  - title: "Jinul, formative Korean Seon master revered by the Jogye Order"
+    imageUrl: "/artifacts/jogye-order-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jinul.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1780"
+    description: "This image shows Jinul, formative Korean Seon master revered by the Jogye Order, selected as a defining visual reference for Jogye Order."
+  - title: "Jogyesa, the chief temple of the Jogye Order"
+    imageUrl: "/artifacts/jogye-order-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Seoul-Buddhist.temple-Jogyesa-01.jpg"
+    provenance: "https://www.flickr.com/photos/parrhesiastes/; CC BY 2.0"
+    period: "Image dated 2007"
+    description: "This image shows Jogyesa, the chief temple of the Jogye Order, selected as a defining visual reference for Jogye Order."
 ---
 
 # Jogye Order

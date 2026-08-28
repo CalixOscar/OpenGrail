@@ -50,22 +50,18 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=R%C4%81m%C4%81nand%C4%AB%20Samprad%C4%81ya
 artifacts:
-  - title: Rāmānandī Sampradāya Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ramanandi-sampradaya-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/R%C4%81m%C4%81nand%C4%AB_Samprad%C4%81ya'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 14th–15th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Rāmānandī Sampradāya.
-  - title: Rāmcaritmānas & Sacred Relics
-    imageUrl: /artifacts/ramanandi-sampradaya-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/R%C4%81m%C4%81nand%C4%AB_Samprad%C4%81ya'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 14th–15th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Rāmānandī Sampradāya.
+  - title: "Ramananda, lineage teacher of the Ramanandi sampradaya"
+    imageUrl: "/artifacts/ramanandi-sampradaya-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Gilded_panel_depicting_bhagat_Dhanna_the_Jat_and_his_life-story_(sakhi)_from_Gurdwara_Baba_Atal_Rai,_Amritsar,_ca.1904.jpg"
+    provenance: "Gilded panel made by the craftsmen of Kucha Fakirkhana. Photographed by T.S. Randhawa.; Public domain"
+    period: "Image dated 1904"
+    description: "This image shows Ramananda, lineage teacher of the Ramanandi sampradaya, selected as a defining visual reference for Rāmānandī Sampradāya."
+  - title: "Hanuman Garhi in Ayodhya, a major Ramanandi monastic stronghold"
+    imageUrl: "/artifacts/ramanandi-sampradaya-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hanuman_Garhi_Temple,_a_major_religious_site_in_Ayodhya_utter_pradesh.jpg"
+    provenance: "Prashant Kharote; CC BY-SA 4.0"
+    period: "Image dated 2021"
+    description: "This image shows Hanuman Garhi in Ayodhya, a major Ramanandi monastic stronghold, selected as a defining visual reference for Rāmānandī Sampradāya."
 ---
 
 # Rāmānandī Sampradāya

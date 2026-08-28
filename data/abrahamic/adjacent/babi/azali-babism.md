@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Azali Babism'
     url: 'https://www.cambridge.org/core/search?q=Azali%20Babism'
 artifacts:
-  - title: Azali Babism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/azali-babism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Azali_Babism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1860s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Azali Babism.
-  - title: Persian Bayan & Sacred Relics
-    imageUrl: /artifacts/azali-babism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Azali_Babism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1860s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Azali
-      Babism.
+  - title: "Historical portrait of Subh-i-Azal, the Azali Babi leader"
+    imageUrl: "/artifacts/azali-babism-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:B%C3%A1b%27s_successor.png"
+    provenance: "See Description; Public domain"
+    period: "Image dated 2008"
+    description: "This image shows Historical portrait of Subh-i-Azal, the Azali Babi leader, selected as a defining visual reference for Azali Babism."
+  - title: "Photograph of Subh-i-Azal (Mirza Yahya Nuri), leader of Azali Babism"
+    imageUrl: "/artifacts/azali-babism-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Subh-i-Azal_photo,_from_book_Bab_kyst_va_skhn_ou_chist.png"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1912"
+    description: "This image shows Photograph of Subh-i-Azal (Mirza Yahya Nuri), leader of Azali Babism, selected as a defining visual reference for Azali Babism."
 ---
 
 # Azali Babism

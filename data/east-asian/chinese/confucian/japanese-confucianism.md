@@ -49,22 +49,18 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Japanese%20Confucian%20Traditions
 artifacts:
-  - title: Japanese Confucian Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/japanese-confucianism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Japanese_Confucian_Traditions'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 6th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Japanese Confucian Traditions.
-  - title: Four Books and Five Classics & Sacred Relics
-    imageUrl: /artifacts/japanese-confucianism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Japanese_Confucian_Traditions'
-    provenance: 'Qufu, Shandong, China'
-    period: c. c. 6th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Japanese Confucian Traditions.
+  - title: "Portrait of Hayashi Razan"
+    imageUrl: "/artifacts/japanese-confucianism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Razan_Hayashi.jpg"
+    provenance: "不詳 unknown; Public domain"
+    period: "Digital file published 2009"
+    description: "This image shows Portrait of Hayashi Razan, selected as a defining visual reference for Japanese Confucian Traditions."
+  - title: "Yushima Seido"
+    imageUrl: "/artifacts/japanese-confucianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:YushimaSeido8662.jpg"
+    provenance: "No machine-readable author provided. Fg2 assumed (based on copyright claims).; Public domain"
+    period: "Image dated 2005"
+    description: "This image shows Yushima Seido, selected as a defining visual reference for Japanese Confucian Traditions."
 ---
 
 # Japanese Confucian Traditions

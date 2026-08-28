@@ -44,22 +44,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Rastafari'
 artifacts:
-  - title: Rastafari Historical Sanctuary & Iconography
-    imageUrl: /artifacts/rastafari-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rastafari'
-    provenance: 'Kingston, Jamaica'
-    period: c. 1930s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Rastafari.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/rastafari-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rastafari'
-    provenance: 'Kingston, Jamaica'
-    period: c. 1930s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Rastafari.
+  - title: "Coronation portrait of Emperor Haile Selassie I"
+    imageUrl: "/artifacts/rastafari-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ras_M%C3%A4konnen_(W%C3%A4ld%C3%A4-Mika%27%C3%A9l)_(1852-1906).jpg"
+    provenance: "James Lafayette; Public domain"
+    period: "Image dated 1902"
+    description: "This image shows Coronation portrait of Emperor Haile Selassie I, selected as a defining visual reference for Rastafari."
+  - title: "Nyabinghi sacred drumming during a Rastafari Grounation"
+    imageUrl: "/artifacts/rastafari-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tambour_Nyabinghi.jpg"
+    provenance: "RawWriter; CC BY-SA 4.0"
+    period: "Image dated 2020"
+    description: "This image shows Nyabinghi sacred drumming during a Rastafari Grounation, selected as a defining visual reference for Rastafari."
 ---
 
 # Rastafari

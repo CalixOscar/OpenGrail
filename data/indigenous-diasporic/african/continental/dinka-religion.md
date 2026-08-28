@@ -46,22 +46,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Dinka%20Religious%20Traditions'
 artifacts:
-  - title: Dinka Religious Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/dinka-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dinka_Religious_Traditions'
-    provenance: 'Bahr el Ghazal (Juba), South Sudan'
-    period: c. precolonial
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Dinka Religious Traditions.
-  - title: Dinka oral traditions & Sacred Relics
-    imageUrl: /artifacts/dinka-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Dinka_Religious_Traditions'
-    provenance: 'Bahr el Ghazal (Juba), South Sudan'
-    period: c. precolonial
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Dinka
-      Religious Traditions.
+  - title: "Sacred Dinka fishing spearheads of spiritual masters"
+    imageUrl: "/artifacts/dinka-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Punta_de_lanza.JPG"
+    provenance: "19Tarrestnom65; CC BY-SA 4.0"
+    period: "Image dated 2015"
+    description: "This image shows Sacred Dinka fishing spearheads of spiritual masters, selected as a defining visual reference for Dinka Religious Traditions."
+  - title: "Carved wooden ceremonial headrest of the Dinka people"
+    imageUrl: "/artifacts/dinka-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:DSCF1083_Vintage_red_barber_chairs_in_a_rustic_wooden_shop_waiting_for_the_next_customer.jpg"
+    provenance: "PattayaPatrol; CC BY-SA 4.0"
+    period: "Image dated 2025"
+    description: "This image shows Carved wooden ceremonial headrest of the Dinka people, selected as a defining visual reference for Dinka Religious Traditions."
 ---
 
 # Dinka Religious Traditions

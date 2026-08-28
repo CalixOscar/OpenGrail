@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & True Jesus Church'
     url: 'https://www.cambridge.org/core/search?q=True%20Jesus%20Church'
 artifacts:
-  - title: True Jesus Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/true-jesus-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/True_Jesus_Church'
-    provenance: 'Azusa Street / Los Angeles, California, USA'
-    period: c. 1917 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with True Jesus Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/true-jesus-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/True_Jesus_Church'
-    provenance: 'Azusa Street / Los Angeles, California, USA'
-    period: c. 1917 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of True
-      Jesus Church.
+  - title: "River baptism performed according to True Jesus Church practice"
+    imageUrl: "/artifacts/true-jesus-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_True-Jesus-Church-03.jpg"
+    provenance: "CEphoto, Uwe Aranas; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows River baptism performed according to True Jesus Church practice, selected as a defining visual reference for True Jesus Church."
+  - title: "A principal True Jesus Church sanctuary in Taiwan"
+    imageUrl: "/artifacts/true-jesus-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tainan_Taiwan_True-Jesus-Church-01.jpg"
+    provenance: "CEphoto, Uwe Aranas; CC BY-SA 4.0"
+    period: "Image dated 2015"
+    description: "This image shows A principal True Jesus Church sanctuary in Taiwan, selected as a defining visual reference for True Jesus Church."
 ---
 
 # True Jesus Church

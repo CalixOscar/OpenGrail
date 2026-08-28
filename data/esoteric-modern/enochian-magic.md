@@ -47,22 +47,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Enochian Magic'
     url: 'https://brill.com/search?q=Enochian%20Magic'
 artifacts:
-  - title: Enochian Magic Historical Sanctuary & Iconography
-    imageUrl: /artifacts/enochian-magic-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Enochian_Magic'
-    provenance: 'London, England, UK'
-    period: c. 1580s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Enochian Magic.
-  - title: John Dee's spiritual diaries & Sacred Relics
-    imageUrl: /artifacts/enochian-magic-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Enochian_Magic'
-    provenance: 'London, England, UK'
-    period: c. 1580s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Enochian Magic.
+  - title: "Enochian practitioner John Dee"
+    imageUrl: "/artifacts/enochian-magic-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:John_Dee_Ashmolean.jpg"
+    provenance: "Unidentified painter; Public domain"
+    period: "Image dated 1594"
+    description: "This image shows Enochian practitioner John Dee, selected as a defining visual reference for Enochian Magic."
+  - title: "John Dee's wax Sigillum Dei"
+    imageUrl: "/artifacts/enochian-magic-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Holytable.jpg"
+    provenance: "The .:X; CC BY-SA 3.0"
+    period: "Image dated 2007"
+    description: "This image shows John Dee's wax Sigillum Dei, selected as a defining visual reference for Enochian Magic."
 ---
 
 # Enochian Magic

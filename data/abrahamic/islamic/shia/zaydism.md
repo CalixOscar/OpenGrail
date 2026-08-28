@@ -42,22 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Zaydism'
     url: 'https://www.cambridge.org/core/search?q=Zaydism'
 artifacts:
-  - title: Zaydism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/zaydism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zaydism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 740 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Zaydism.
-  - title: Qur'an & Sacred Relics
-    imageUrl: /artifacts/zaydism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Zaydism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 740 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Zaydism.
+  - title: "Great Mosque of Sanaa, historic center of Zaydi learning"
+    imageUrl: "/artifacts/zaydism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sanaa_PICT0013_(14569535198).jpg"
+    provenance: "lelebella; CC BY 2.0"
+    period: "Image dated 2008"
+    description: "This image shows Great Mosque of Sanaa, historic center of Zaydi learning, selected as a defining visual reference for Zaydism."
+  - title: "Great Mosque of Sana'a, historic center of Zaydi learning"
+    imageUrl: "/artifacts/zaydism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Yemen,_sanah.jpg"
+    provenance: "Yarinya; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Great Mosque of Sana'a, historic center of Zaydi learning, selected as a defining visual reference for Zaydism."
 ---
 
 # Zaydism

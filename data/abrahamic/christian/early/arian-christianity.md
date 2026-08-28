@@ -46,20 +46,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Arian Christianity'
     url: 'https://www.cambridge.org/core/search?q=Arian%20Christianity'
 artifacts:
-  - title: Ariusz
-    imageUrl: /artifacts/arian-christianity-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ariusz.JPG'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 318 CE
-    description: Arius - detail of Byzantine icon depicting the First Council of Nicaea....
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/arian-christianity-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ariusz.JPG'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 318 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Arian
-      Christianity (Historical).
+  - title: "Baptism of Christ mosaic in Ravenna's Arian Baptistery"
+    imageUrl: "/artifacts/arian-christianity-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Baptistery.Arians.Entire.Mosaic.jpg"
+    provenance: "St1hart; CC BY 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Baptism of Christ mosaic in Ravenna's Arian Baptistery, selected as a defining visual reference for Arian Christianity (Historical)."
+  - title: "Silver-and-gold Gothic Gospel manuscript associated with Bishop Wulfila"
+    imageUrl: "/artifacts/arian-christianity-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Codex_Argenteus_fol_97.jpg"
+    provenance: "Anonymous Unknown author; Public domain"
+    period: "Object or image dated 2000"
+    description: "This image shows Silver-and-gold Gothic Gospel manuscript associated with Bishop Wulfila, selected as a defining visual reference for Arian Christianity (Historical)."
 ---
 
 # Arian Christianity (Historical)

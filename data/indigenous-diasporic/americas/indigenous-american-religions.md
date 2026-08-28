@@ -46,24 +46,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Indigenous%20American%20Religions'
 artifacts:
-  - title: >-
-      Indigenous American Religions (Comparative) Historical Sanctuary &
-      Iconography
-    imageUrl: /artifacts/indigenous-american-religions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Indigenous_American_Religions'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. prehistoric and historically diverse
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Indigenous American Religions (Comparative).
-  - title: Nation- and community-specific oral traditions & Sacred Relics
-    imageUrl: /artifacts/indigenous-american-religions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Indigenous_American_Religions'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. prehistoric and historically diverse
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Indigenous American Religions (Comparative).
+  - title: "Bighorn Medicine Wheel sacred stone alignment"
+    imageUrl: "/artifacts/indigenous-american-religions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bighorn_Medicine_Wheel_-_Flickr_-_brewbooks.jpg"
+    provenance: "brewbooks from near Seattle, USA; CC BY-SA 2.0"
+    period: "Image dated 2016"
+    description: "This image shows Bighorn Medicine Wheel sacred stone alignment, selected as a defining visual reference for Indigenous American Religions (Comparative)."
+  - title: "Plains Indian carved catlinite ceremonial peace pipe"
+    imageUrl: "/artifacts/indigenous-american-religions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ceremonial_pipe,_Dakota_people,_NM_Preague,_191526.jpg"
+    provenance: "Zde; CC BY-SA 4.0"
+    period: "Image dated 2019"
+    description: "This image shows Plains Indian carved catlinite ceremonial peace pipe, selected as a defining visual reference for Indigenous American Religions (Comparative)."
 ---
 
 # Indigenous American Religions (Comparative)

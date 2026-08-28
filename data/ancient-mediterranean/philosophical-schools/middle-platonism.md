@@ -49,22 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Middle Platonism'
     url: 'https://brill.com/search?q=Middle%20Platonism'
 artifacts:
-  - title: Middle Platonism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/middle-platonism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Middle_Platonism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 80 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Middle Platonism.
-  - title: Plutarch's philosophical works & Sacred Relics
-    imageUrl: /artifacts/middle-platonism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Middle_Platonism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 80 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Middle Platonism.
+  - title: "Portrait of Plutarch"
+    imageUrl: "/artifacts/middle-platonism-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Plutarch_of_Chaeronea-03-removebg-preview.png"
+    provenance: "Deedman22; CC BY-SA 4.0"
+    period: "Image dated 2021"
+    description: "This image shows Portrait of Plutarch, selected as a defining visual reference for Middle Platonism."
+  - title: "Manuscript of Plutarch's Moralia"
+    imageUrl: "/artifacts/middle-platonism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Plutarch,_De_virtute_et_vitio,_Venice,_Gr._248.jpg"
+    provenance: "Plutarch; Public domain"
+    period: "Digital file published 2016"
+    description: "This image shows Manuscript of Plutarch's Moralia, selected as a defining visual reference for Middle Platonism."
 ---
 
 # Middle Platonism

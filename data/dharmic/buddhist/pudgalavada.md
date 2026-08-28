@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pudgalav%C4%81da%20Schools'
 artifacts:
-  - title: Pudgalavāda Schools Historical Sanctuary & Iconography
-    imageUrl: /artifacts/pudgalavada-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pudgalav%C4%81da_Schools'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 3rd century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Pudgalavāda Schools.
-  - title: Sāṃmitīyanikāya Śāstra & Sacred Relics
-    imageUrl: /artifacts/pudgalavada-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pudgalav%C4%81da_Schools'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 3rd century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Pudgalavāda Schools.
+  - title: "Kathavatthu manuscript preserving debates over the Pudgalavada person doctrine"
+    imageUrl: "/artifacts/pudgalavada-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg"
+    provenance: "พระมหาเทวประภาส วชิรญาณเมธี (ผู้ถ่าย-ปล่อยสัญญาอนุญาตภาพให้นําไปใช้ได้เพื่อการศึกษาโดยอยู่ภา่ยใต้ cc-by-sa-3.0) ผู้สร้างสรรค์ผลงาน/ส่งข้อมูล; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Kathavatthu manuscript preserving debates over the Pudgalavada person doctrine, selected as a defining visual reference for Pudgalavāda Schools."
+  - title: "Abhidharmakosa manuscript preserving a major critique of Pudgalavada"
+    imageUrl: "/artifacts/pudgalavada-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Abhidharmako%C5%9Ba-vy%C4%81khy%C4%81._Abhidharmako%C5%9Ba-vy%C4%81khy%C4%81._-_btv1b100829293_(013_of_170).jpg"
+    provenance: "Yasomitra. Auteur du commentaire Vasubandhu. Auteur du texte; Public domain"
+    period: "Image dated 1801"
+    description: "This image shows Abhidharmakosa manuscript preserving a major critique of Pudgalavada, selected as a defining visual reference for Pudgalavāda Schools."
 ---
 
 # Pudgalavāda Schools

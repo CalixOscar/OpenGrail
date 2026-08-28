@@ -42,22 +42,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Soka%20Gakkai'
 artifacts:
-  - title: Soka Gakkai Historical Sanctuary & Iconography
-    imageUrl: /artifacts/soka-gakkai-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Soka_Gakkai'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1930 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Soka Gakkai.
-  - title: Lotus Sūtra & Sacred Relics
-    imageUrl: /artifacts/soka-gakkai-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Soka_Gakkai'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1930 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Soka
-      Gakkai.
+  - title: "Tsunesaburo Makiguchi, founding president of Soka Gakkai"
+    imageUrl: "/artifacts/soka-gakkai-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tsunesaburo_Makiguchi.jpg"
+    provenance: "Soka Gakkai; Public domain"
+    period: "Image dated 1944"
+    description: "This image shows Tsunesaburo Makiguchi, founding president of Soka Gakkai, selected as a defining visual reference for Soka Gakkai."
+  - title: "Hall of the Great Vow for Kosen-rufu, Soka Gakkai's central sanctuary"
+    imageUrl: "/artifacts/soka-gakkai-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:HK_CWB_HKCL_art_exhibition_hall_interior_06_flowers_%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E5%89%B5%E5%83%B9%E5%AD%B8%E6%9C%83_Soka_Gakkai_International.JPG"
+    provenance: "Csmardcoe; CC BY-SA 3.0"
+    period: "Image dated 2010"
+    description: "This image shows Hall of the Great Vow for Kosen-rufu, Soka Gakkai's central sanctuary, selected as a defining visual reference for Soka Gakkai."
 ---
 
 # Soka Gakkai

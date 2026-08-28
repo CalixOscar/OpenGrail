@@ -45,22 +45,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ny%C4%81ya'
 artifacts:
-  - title: Nyāya Historical Sanctuary & Iconography
-    imageUrl: /artifacts/nyaya-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ny%C4%81ya'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Nyāya.
-  - title: Nyāya Sūtra & Sacred Relics
-    imageUrl: /artifacts/nyaya-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ny%C4%81ya'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 2nd century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Nyāya.
+  - title: "Manuscript of classical Indian logic (Nyaya)"
+    imageUrl: "/artifacts/nyaya-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Front_cover_of_%C4%80c%C4%81rya_M%C4%81%C5%86ikyanandi%E2%80%99s_Par%C4%ABk%C5%9F%C4%81mukha_S%C5%ABtra_%E2%80%93_Essence_of_the_Jaina_Ny%C4%81ya.jpg"
+    provenance: "Vikalpprinters; CC BY-SA 4.0"
+    period: "8th century"
+    description: "This image shows Manuscript of classical Indian logic (Nyaya), selected as a defining visual reference for Nyāya."
+  - title: "Sanskrit manuscript of the foundational Nyaya Sutra"
+    imageUrl: "/artifacts/nyaya-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Classification_of_Indian_Philosophy_(Dar%C5%9Bana)_%E2%80%94_A_Historical_Overview.png"
+    provenance: "Shreedhar Kumbar (xaetherion); CC BY-SA 4.0"
+    period: "Image dated 2026"
+    description: "This image shows Sanskrit manuscript of the foundational Nyaya Sutra, selected as a defining visual reference for Nyāya."
 ---
 
 # Nyāya

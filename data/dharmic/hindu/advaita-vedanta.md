@@ -42,22 +42,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Advaita%20Ved%C4%81nta'
 artifacts:
-  - title: Advaita Vedānta Historical Sanctuary & Iconography
-    imageUrl: /artifacts/advaita-vedanta-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Advaita_Ved%C4%81nta'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 8th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Advaita Vedānta.
-  - title: Śaṅkara's Brahma Sūtra Bhāṣya & Sacred Relics
-    imageUrl: /artifacts/advaita-vedanta-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Advaita_Ved%C4%81nta'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 8th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Advaita Vedānta.
+  - title: "Adi Sankara with disciples, iconic Advaita lineage image"
+    imageUrl: "/artifacts/advaita-vedanta-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Sankaracharya.jpg"
+    provenance: "Raja Ravi Varma; Public domain"
+    period: "Image dated 1904"
+    description: "This image shows Adi Sankara with disciples, iconic Advaita lineage image, selected as a defining visual reference for Advaita Vedānta."
+  - title: "Srngeri Sarada Pitha, one of the principal Advaita monastic seats"
+    imageUrl: "/artifacts/advaita-vedanta-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sringeri_peetham_Advaita_Hindu_monastery,_river_near_the_site,_Karnataka.jpeg"
+    provenance: "Sharada Prasad CS from Berkeley, India; CC BY 2.0"
+    period: "Image dated 2008"
+    description: "This image shows Srngeri Sarada Pitha, one of the principal Advaita monastic seats, selected as a defining visual reference for Advaita Vedānta."
 ---
 
 # Advaita Vedānta

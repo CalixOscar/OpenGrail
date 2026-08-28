@@ -45,22 +45,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Rosicrucianism'
     url: 'https://brill.com/search?q=Rosicrucianism'
 artifacts:
-  - title: Rosicrucianism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/rosicrucianism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rosicrucianism'
-    provenance: 'London, England, UK'
-    period: c. early 17th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Rosicrucianism.
-  - title: Fama Fraternitatis & Sacred Relics
-    imageUrl: /artifacts/rosicrucianism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Rosicrucianism'
-    provenance: 'London, England, UK'
-    period: c. early 17th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Rosicrucianism.
+  - title: "Historical Rosy Cross emblem"
+    imageUrl: "/artifacts/rosicrucianism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Embl%C3%A8me_Rose_Croix_Max_Heindel.jpg"
+    provenance: "Gabriel.Falcon; Public domain"
+    period: "Image dated 2009"
+    description: "This image shows Historical Rosy Cross emblem, selected as a defining visual reference for Rosicrucianism."
+  - title: "AMORC Rosicrucian sanctuary"
+    imageUrl: "/artifacts/rosicrucianism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Horus_falcon_statue_front_Rosicrucian_Park.JPG"
+    provenance: "BrokenSphere; CC BY-SA 3.0"
+    period: "Image dated 2008"
+    description: "This image shows AMORC Rosicrucian sanctuary, selected as a defining visual reference for Rosicrucianism."
 ---
 
 # Rosicrucianism

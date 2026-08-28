@@ -43,22 +43,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Mizrahi Judaism'
     url: 'https://www.cambridge.org/core/search?q=Mizrahi%20Judaism'
 artifacts:
-  - title: Mizrahi Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/mizrahi-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mizrahi_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. Ancient–modern
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Mizrahi Judaism.
-  - title: Hebrew Bible & Sacred Relics
-    imageUrl: /artifacts/mizrahi-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Mizrahi_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. Ancient–modern
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Mizrahi Judaism.
+  - title: "Portrait of Rabbi Yosef Hayyim, the Ben Ish Chai of Baghdad"
+    imageUrl: "/artifacts/mizrahi-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_85225_ben_ish_chai_or_yehuda_synagogue.jpg"
+    provenance: "israel zellerישראל זלר; CC BY 2.5"
+    period: "Image dated 2022"
+    description: "This image shows Portrait of Rabbi Yosef Hayyim, the Ben Ish Chai of Baghdad, selected as a defining visual reference for Mizrahi Judaism."
+  - title: "Meir Taweig Synagogue, surviving center of Baghdad's Jewish community"
+    imageUrl: "/artifacts/mizrahi-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Baghdad_Synagogue.jpg"
+    provenance: "Kharbaan Ghaltaan; CC BY-SA 4.0"
+    period: "Image dated 2000"
+    description: "This image shows Meir Taweig Synagogue, surviving center of Baghdad's Jewish community, selected as a defining visual reference for Mizrahi Judaism."
 ---
 
 # Mizrahi Judaism

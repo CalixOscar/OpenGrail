@@ -42,22 +42,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=%E1%BB%8Cd%E1%BB%8Bnani'
 artifacts:
-  - title: Ọdịnani Historical Sanctuary & Iconography
-    imageUrl: /artifacts/odinani-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%E1%BB%8Cd%E1%BB%8Bnani'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. precolonial era
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ọdịnani.
-  - title: Oral traditions & Sacred Relics
-    imageUrl: /artifacts/odinani-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%E1%BB%8Cd%E1%BB%8Bnani'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. precolonial era
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ọdịnani.
+  - title: "Igbo Ikenga carved shrine figure representing personal chi and strength"
+    imageUrl: "/artifacts/odinani-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_79.117.1_Ikenga_Figure_(3).jpg"
+    provenance: "Unknown author Unknown author; CC BY 3.0"
+    period: "early 20th century"
+    description: "This image shows Igbo Ikenga carved shrine figure representing personal chi and strength, selected as a defining visual reference for Ọdịnani."
+  - title: "Traditional Igbo Mbari sanctuary house with sacred clay figures"
+    imageUrl: "/artifacts/odinani-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Urata-Igbo_Mbari_house_dedicated_to_Amadioha,_photographed_by_William_Fagg_near_Owerri._British_Museum.jpg"
+    provenance: "William Phagg; CC BY-SA 4.0"
+    period: "Image dated 1900"
+    description: "This image shows Traditional Igbo Mbari sanctuary house with sacred clay figures, selected as a defining visual reference for Ọdịnani."
 ---
 
 # Ọdịnani

@@ -46,20 +46,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Musta''li Ismailism'
     url: 'https://www.cambridge.org/core/search?q=Musta''li%20Ismailism'
 artifacts:
-  - title: Branch of Shi'a Islam
-    imageUrl: /artifacts/mustali-ismailism-1.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Branch_of_Shi%27a_Islam.png'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1094 CE
-    description: Branch of Shi'a Islam...
-  - title: Quran & Sacred Relics
-    imageUrl: /artifacts/mustali-ismailism-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Branch_of_Shi%27a_Islam.png'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1094 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Musta'li Ismailism.
+  - title: "Fatimid coin of al-Mustansir, the imam-caliph preceding the Musta'li split"
+    imageUrl: "/artifacts/mustali-ismailism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Khalili_Collection_Islamic_Art_av_272.jpg"
+    provenance: "Khalili Collections; CC BY-SA 3.0 igo"
+    period: "Digital file published 2021"
+    description: "This image shows Fatimid coin of al-Mustansir, the imam-caliph preceding the Musta'li split, selected as a defining visual reference for Musta'li Ismailism."
+  - title: "Al-Aqmar Mosque, iconic Fatimid Ismaili sacred architecture"
+    imageUrl: "/artifacts/mustali-ismailism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Aqmar_Mosque_238_(cropped).jpg"
+    provenance: "Original: Aqmar Mosque 238.jpg by M mousa 86 Cropped by: Robert Prazeres; CC BY-SA 4.0"
+    period: "Image dated 2016"
+    description: "This image shows Al-Aqmar Mosque, iconic Fatimid Ismaili sacred architecture, selected as a defining visual reference for Musta'li Ismailism."
 ---
 
 # Musta'li Ismailism

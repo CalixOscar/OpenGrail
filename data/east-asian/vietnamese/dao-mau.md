@@ -48,22 +48,18 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=%C4%90%E1%BA%A1o%20M%E1%BA%ABu
 artifacts:
-  - title: Đạo Mẫu Historical Sanctuary & Iconography
-    imageUrl: /artifacts/dao-mau-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu'
-    provenance: 'Hanoi (Thang Long), Vietnam'
-    period: c. early modern roots
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Đạo Mẫu.
-  - title: Chầu văn song corpus & Sacred Relics
-    imageUrl: /artifacts/dao-mau-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu'
-    provenance: 'Hanoi (Thang Long), Vietnam'
-    period: c. early modern roots
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Đạo
-      Mẫu.
+  - title: "Image of Mother Goddess Lieu Hanh"
+    imageUrl: "/artifacts/dao-mau-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mother_Goddess_of_Earth_M%E1%BA%ABu_%C4%90%E1%BB%87_Nh%E1%BB%8B_%C4%90%E1%BB%8Ba_Ti%C3%AAn_M%E1%BA%ABu_Li%E1%BB%85u_H%E1%BA%A1nh_Four_Palace_T%E1%BB%A9_Ph%E1%BB%A7.jpg"
+    provenance: "Rio Lam; CC BY-SA 4.0"
+    period: "Image dated 2023"
+    description: "This image shows Image of Mother Goddess Lieu Hanh, selected as a defining visual reference for Đạo Mẫu."
+  - title: "Phu Tay Ho sanctuary"
+    imageUrl: "/artifacts/dao-mau-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ph%E1%BB%A7_T%C3%A2y_H%E1%BB%93.jpg"
+    provenance: "Bui Thuy Đao Nguyen; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Phu Tay Ho sanctuary, selected as a defining visual reference for Đạo Mẫu."
 ---
 
 # Đạo Mẫu

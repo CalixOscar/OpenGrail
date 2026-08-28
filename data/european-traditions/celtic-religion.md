@@ -39,22 +39,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Celtic Religions'
     url: 'https://brill.com/search?q=Ancient%20Celtic%20Religions'
 artifacts:
-  - title: Ancient Celtic Religions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/celtic-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Celtic_Religions'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 800 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ancient Celtic Religions.
-  - title: Ritual and archaeological corpus & Sacred Relics
-    imageUrl: /artifacts/celtic-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ancient_Celtic_Religions'
-    provenance: 'Old Uppsala, Uppland, Sweden'
-    period: c. c. 800 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ancient Celtic Religions.
+  - title: "Gundestrup Cernunnos panel"
+    imageUrl: "/artifacts/celtic-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cernunnos_med_vandpiben_(13923009981).jpg"
+    provenance: "Ole Palnatoke Andersen; CC BY-SA 2.0"
+    period: "Image dated 2014"
+    description: "This image shows Gundestrup Cernunnos panel, selected as a defining visual reference for Ancient Celtic Religions."
+  - title: "Gournay-sur-Aronde archaeological sanctuary site in France"
+    imageUrl: "/artifacts/celtic-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Gournay-sur-Marne-01.JPG"
+    provenance: "Wayne77; CC BY-SA 3.0"
+    period: "Image dated 2014"
+    description: "This image shows Gournay-sur-Aronde archaeological sanctuary site in France, selected as a defining visual reference for Ancient Celtic Religions."
 ---
 
 # Ancient Celtic Religions

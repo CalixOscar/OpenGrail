@@ -42,22 +42,18 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Conservative%20Judaism'
 artifacts:
-  - title: Conservative Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/conservative-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Conservative_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Conservative Judaism.
-  - title: Tanakh & Sacred Relics
-    imageUrl: /artifacts/conservative-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Conservative_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Conservative Judaism.
+  - title: "Portrait of Solomon Schechter, architect of Conservative Judaism"
+    imageUrl: "/artifacts/conservative-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hermann_Struck_Grafik_JMBerlin_GDR_98_1_19.jpg"
+    provenance: "Hermann Struck; Public domain"
+    period: "Image dated 1912"
+    description: "This image shows Portrait of Solomon Schechter, architect of Conservative Judaism, selected as a defining visual reference for Conservative Judaism."
+  - title: "Jewish Theological Seminary, principal Conservative institution"
+    imageUrl: "/artifacts/conservative-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:JTSA_122_Bway_jeh.JPG"
+    provenance: "Jim.henderson; Public domain"
+    period: "Image dated 2008"
+    description: "This image shows Jewish Theological Seminary, principal Conservative institution, selected as a defining visual reference for Conservative Judaism."
 ---
 
 # Conservative Judaism

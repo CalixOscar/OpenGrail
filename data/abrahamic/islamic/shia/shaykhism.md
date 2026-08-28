@@ -45,22 +45,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Shaykhism'
     url: 'https://www.cambridge.org/core/search?q=Shaykhism'
 artifacts:
-  - title: Shaykhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/shaykhism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shaykhism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. early 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Shaykhism.
-  - title: Quran & Sacred Relics
-    imageUrl: /artifacts/shaykhism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Shaykhism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. early 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Shaykhism.
+  - title: "Historical portrait of Shaykh Ahmad al-Ahsa'i, founder of Shaykhism"
+    imageUrl: "/artifacts/shaykhism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Drawing_of_Ahmad_al-Ahsa%27i_-_19th_century.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "19th century"
+    description: "This image shows Historical portrait of Shaykh Ahmad al-Ahsa'i, founder of Shaykhism, selected as a defining visual reference for Shaykhism."
+  - title: "Historical portrait of Shaykh Ahmad's successor Sayyid Kazim Rashti"
+    imageUrl: "/artifacts/shaykhism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Portait_painting_of_Kadhim_al-Rashti,_BW.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "19 th century"
+    description: "This image shows Historical portrait of Shaykh Ahmad's successor Sayyid Kazim Rashti, selected as a defining visual reference for Shaykhism."
 ---
 
 # Shaykhism

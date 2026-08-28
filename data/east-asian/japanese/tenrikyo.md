@@ -43,22 +43,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Tenrikyo'
 artifacts:
-  - title: Tenrikyo Historical Sanctuary & Iconography
-    imageUrl: /artifacts/tenrikyo-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tenrikyo'
-    provenance: 'Tenri, Nara Prefecture, Japan'
-    period: c. 1838 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Tenrikyo.
-  - title: Ofudesaki & Sacred Relics
-    imageUrl: /artifacts/tenrikyo-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tenrikyo'
-    provenance: 'Tenri, Nara Prefecture, Japan'
-    period: c. 1838 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Tenrikyo.
+  - title: "Portrait of Nakayama Miki"
+    imageUrl: "/artifacts/tenrikyo-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Life_of_Oyasama.jpg"
+    provenance: "Lewis Nakao; CC BY-SA 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Portrait of Nakayama Miki, selected as a defining visual reference for Tenrikyo."
+  - title: "Tenrikyo Church Headquarters"
+    imageUrl: "/artifacts/tenrikyo-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tenrikyo_Kanrodai_sketch.jpg"
+    provenance: "William Yoshioka; CC BY 3.0"
+    period: "Image dated 2011"
+    description: "This image shows Tenrikyo Church Headquarters, selected as a defining visual reference for Tenrikyo."
 ---
 
 # Tenrikyo

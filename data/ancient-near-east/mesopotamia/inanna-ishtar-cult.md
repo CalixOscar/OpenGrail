@@ -49,22 +49,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Inanna–Ishtar'
     url: 'https://brill.com/search?q=Cult%20of%20Inanna%E2%80%93Ishtar'
 artifacts:
-  - title: Cult of Inanna–Ishtar Historical Sanctuary & Iconography
-    imageUrl: /artifacts/inanna-ishtar-cult-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Inanna%E2%80%93Ishtar'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3500 BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Cult of Inanna–Ishtar.
-  - title: Inanna's Descent & Sacred Relics
-    imageUrl: /artifacts/inanna-ishtar-cult-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Cult_of_Inanna%E2%80%93Ishtar'
-    provenance: 'Babylon, Mesopotamia'
-    period: c. c. 3500 BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Cult
-      of Inanna–Ishtar.
+  - title: "Warka Vase offering procession"
+    imageUrl: "/artifacts/inanna-ishtar-cult-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Warka_Vase,_Top_Register.jpg"
+    provenance: "Osama Shukir Muhammed Amin FRCP(Glasg); CC BY-SA 4.0"
+    period: "2900 BCE"
+    description: "This image shows Warka Vase offering procession, selected as a defining visual reference for Cult of Inanna–Ishtar."
+  - title: "Eanna sanctuary at Uruk"
+    imageUrl: "/artifacts/inanna-ishtar-cult-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pergamon_Museum_Cone_mosaics_from_temple_district_facade_of_Eanna_in_Uruk_8054.jpg"
+    provenance: "Dosseman; CC BY-SA 4.0"
+    period: "Image dated 2021"
+    description: "This image shows Eanna sanctuary at Uruk, selected as a defining visual reference for Cult of Inanna–Ishtar."
 ---
 
 # Cult of Inanna–Ishtar

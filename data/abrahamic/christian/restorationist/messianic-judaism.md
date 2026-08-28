@@ -43,22 +43,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Messianic Judaism'
     url: 'https://www.cambridge.org/core/search?q=Messianic%20Judaism'
 artifacts:
-  - title: Messianic Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/messianic-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Messianic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1960s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Messianic Judaism.
-  - title: Hebrew Bible & Sacred Relics
-    imageUrl: /artifacts/messianic-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Messianic_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1960s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Messianic Judaism.
+  - title: "Composite menorah, fish, and Star of David Messianic emblem"
+    imageUrl: "/artifacts/messianic-judaism-1.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Messianic_symbols.png"
+    provenance: "SHLAMA at English Wikipedia; Public domain"
+    period: "Image dated 2006"
+    description: "This image shows Composite menorah, fish, and Star of David Messianic emblem, selected as a defining visual reference for Messianic Judaism."
+  - title: "Torah procession in a Messianic Jewish congregation"
+    imageUrl: "/artifacts/messianic-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Psak_din_messiah.jpg"
+    provenance: "שיע.ק; CC0"
+    period: "Digital file published 2011"
+    description: "This image shows Torah procession in a Messianic Jewish congregation, selected as a defining visual reference for Messianic Judaism."
 ---
 
 # Messianic Judaism

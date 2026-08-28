@@ -46,22 +46,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Ukrainian%20Greek%20Catholic%20Church
 artifacts:
-  - title: Ukrainian Greek Catholic Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ukrainian-greek-catholic-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ukrainian_Greek_Catholic_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1596 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ukrainian Greek Catholic Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/ukrainian-greek-catholic-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ukrainian_Greek_Catholic_Church'
-    provenance: 'Rome, Latium, Italy'
-    period: c. 1596 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ukrainian Greek Catholic Church.
+  - title: "Ukrainian Byzantine Catholic hierarchical Divine Liturgy"
+    imageUrl: "/artifacts/ukrainian-greek-catholic-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Rookwood_Ukrainian_Greek_Catholic_Memorial.jpg"
+    provenance: "J Bar; CC BY-SA 3.0"
+    period: "Image dated 2007"
+    description: "This image shows Ukrainian Byzantine Catholic hierarchical Divine Liturgy, selected as a defining visual reference for Ukrainian Greek Catholic Church."
+  - title: "Saint George's Cathedral in Lviv, historic Ukrainian Greek Catholic seat"
+    imageUrl: "/artifacts/ukrainian-greek-catholic-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Park_near_the_cathedral_of_Saint_George,_Lviv_(project).jpg"
+    provenance: "Klemens Fesinger; Public domain"
+    period: "Image dated 1771"
+    description: "This image shows Saint George's Cathedral in Lviv, historic Ukrainian Greek Catholic seat, selected as a defining visual reference for Ukrainian Greek Catholic Church."
 ---
 
 # Ukrainian Greek Catholic Church

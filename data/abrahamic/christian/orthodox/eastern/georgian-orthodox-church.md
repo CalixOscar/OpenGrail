@@ -44,22 +44,18 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Georgian%20Orthodox%20Church'
 artifacts:
-  - title: Georgian Orthodox Church Historical Sanctuary & Iconography
-    imageUrl: /artifacts/georgian-orthodox-church-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Georgian_Orthodox_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 4th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Georgian Orthodox Church.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/georgian-orthodox-church-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Georgian_Orthodox_Church'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 4th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Georgian Orthodox Church.
+  - title: "Khakhuli triptych, monumental Georgian Orthodox icon"
+    imageUrl: "/artifacts/georgian-orthodox-church-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Georgia_Khakhuli_triptych.jpg"
+    provenance: "Unknown (10th-12th century); Public domain"
+    period: "10th-12th century"
+    description: "This image shows Khakhuli triptych, monumental Georgian Orthodox icon, selected as a defining visual reference for Georgian Orthodox Church."
+  - title: "Svetitskhoveli Cathedral, historic Georgian patriarchal sanctuary"
+    imageUrl: "/artifacts/georgian-orthodox-church-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mtskheta,_Svetitskhoveli_Cathedral,_Icons_and_frescoes,_Georgia.jpg"
+    provenance: "Vyacheslav Argenberg; CC BY 4.0"
+    period: "4th century"
+    description: "This image shows Svetitskhoveli Cathedral, historic Georgian patriarchal sanctuary, selected as a defining visual reference for Georgian Orthodox Church."
 ---
 
 # Georgian Orthodox Church

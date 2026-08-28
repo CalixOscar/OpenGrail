@@ -60,26 +60,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=The%20Church%20of%20Jesus%20Christ%20of%20Latter-day%20Saints
 artifacts:
-  - title: 'Joseph Smith, Jr. portrait owned by Joseph Smith III'
-    imageUrl: /artifacts/church-of-jesus-christ-of-latter-day-saints-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Joseph_Smith,_Jr._portrait_owned_by_Joseph_Smith_III.jpg
-    provenance: 'Salt Lake City (Temple Square), Utah, USA'
-    period: c. 1844 CE
-    description: >-
-      Painting by an unknown painter, circa 1842. The original is owned by the
-      Community of Christ archives. It is on display at the Community of Christ
-      headquarters in Independence Miss...
-  - title: Joseph Smith Preaching to the Indians by William Armitage
-    imageUrl: /artifacts/church-of-jesus-christ-of-latter-day-saints-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Joseph_Smith_Preaching_to_the_Indians_by_William_Armitage.png
-    provenance: 'Salt Lake City (Temple Square), Utah, USA'
-    period: c. 1844 CE
-    description: >-
-      "Joseph Smith Preaching to the Indians" (oil on canvas, circa 1890 by
-      William Joseph Armitage (1820-1890)): Several times in Nauvoo, Illinois,
-      Joseph Smith met with local Indians....
+  - title: "Angel Moroni statue, defining icon of the LDS Church"
+    imageUrl: "/artifacts/church-of-jesus-christ-of-latter-day-saints-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Salt_Lake_Temple_spires.jpg"
+    provenance: "Wikimedia Commons; CC BY-SA 2.5"
+    period: "Digital file published 2006"
+    description: "This image shows Angel Moroni statue, defining icon of the LDS Church, selected as a defining visual reference for The Church of Jesus Christ of Latter-day Saints."
+  - title: "Salt Lake Temple, the church's most recognizable sanctuary"
+    imageUrl: "/artifacts/church-of-jesus-christ-of-latter-day-saints-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Temple_Square,_Salt_Lake_City,_1899_retouched.jpg"
+    provenance: "William Henry Jackson; Public domain"
+    period: "Image dated 1899"
+    description: "This image shows Salt Lake Temple, the church's most recognizable sanctuary, selected as a defining visual reference for The Church of Jesus Christ of Latter-day Saints."
 ---
 
 # The Church of Jesus Christ of Latter-day Saints

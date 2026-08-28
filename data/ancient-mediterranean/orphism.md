@@ -44,22 +44,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Orphism'
     url: 'https://brill.com/search?q=Orphism'
 artifacts:
-  - title: Orphism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/orphism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Orphism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 6th century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Orphism.
-  - title: Derveni Papyrus & Sacred Relics
-    imageUrl: /artifacts/orphism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Orphism'
-    provenance: 'Athens, Attica, Greece'
-    period: c. c. 6th century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Orphism.
+  - title: "Derveni Papyrus"
+    imageUrl: "/artifacts/orphism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Derveni_Papyrus_(section_I),_Archaeological_Museum_of_Thessaloniki,_July_18th,_2023.jpg"
+    provenance: "Katolophyromai; CC BY 4.0"
+    period: "Image dated 2023"
+    description: "This image shows Derveni Papyrus, selected as a defining visual reference for Orphism."
+  - title: "Orphic funerary gold tablet"
+    imageUrl: "/artifacts/orphism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Museo_archeologico_statale_Vito_Capialbi_09.jpg"
+    provenance: "Adert; CC BY-SA 4.0"
+    period: "Image dated 2022"
+    description: "This image shows Orphic funerary gold tablet, selected as a defining visual reference for Orphism."
 ---
 
 # Orphism

@@ -50,22 +50,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Umbanda'
 artifacts:
-  - title: Umbanda Historical Sanctuary & Iconography
-    imageUrl: /artifacts/umbanda-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Umbanda'
-    provenance: 'Rio de Janeiro, Brazil'
-    period: c. early 20th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Umbanda.
-  - title: Oral liturgies and pontos cantados & Sacred Relics
-    imageUrl: /artifacts/umbanda-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Umbanda'
-    provenance: 'Rio de Janeiro, Brazil'
-    period: c. early 20th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Umbanda.
+  - title: "Caboclo spirit guide statue on an Umbanda terreiro altar"
+    imageUrl: "/artifacts/umbanda-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sala_de_cultos_centro_espirita_caboclo_pena_branca._.jpg"
+    provenance: "Roberto pereira 1969; CC BY-SA 4.0"
+    period: "Image dated 2016"
+    description: "This image shows Caboclo spirit guide statue on an Umbanda terreiro altar, selected as a defining visual reference for Umbanda."
+  - title: "Preto Velho ancestral spirit guide image in Umbanda"
+    imageUrl: "/artifacts/umbanda-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pretos-velhos.JPG"
+    provenance: "Junius; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows Preto Velho ancestral spirit guide image in Umbanda, selected as a defining visual reference for Umbanda."
 ---
 
 # Umbanda

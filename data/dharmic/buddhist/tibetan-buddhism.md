@@ -47,22 +47,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Tibetan%20Buddhism'
 artifacts:
-  - title: Tibetan Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/tibetan-buddhism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tibetan_Buddhism'
-    provenance: 'Lhasa (Potala), U-Tsang, Tibet'
-    period: c. 7th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Tibetan Buddhism.
-  - title: Kangyur & Sacred Relics
-    imageUrl: /artifacts/tibetan-buddhism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Tibetan_Buddhism'
-    provenance: 'Lhasa (Potala), U-Tsang, Tibet'
-    period: c. 7th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Tibetan Buddhism.
+  - title: "Tibetan Wheel of Life thangka visualizing cyclic existence"
+    imageUrl: "/artifacts/tibetan-buddhism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bhavachakra_or_the_Buddhist_Wheel_of_Life_at_Tawang_Monastery,_Tawang,_Arunachal_Pradesh,_India.jpg"
+    provenance: "Kingshuk Mondal; CC BY-SA 4.0"
+    period: "Image dated 2018"
+    description: "This image shows Tibetan Wheel of Life thangka visualizing cyclic existence, selected as a defining visual reference for Tibetan Buddhism."
+  - title: "Jokhang Temple, home of the revered Jowo Sakyamuni image"
+    imageUrl: "/artifacts/tibetan-buddhism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:An_elderly_Tibetan_women_holding_a_prayer_wheel_on_Lhasa,_Barkhor.jpg"
+    provenance: "Luca Galuzzi ( Lucag ); CC BY-SA 2.5"
+    period: "Image dated 2006"
+    description: "This image shows Jokhang Temple, home of the revered Jowo Sakyamuni image, selected as a defining visual reference for Tibetan Buddhism."
 ---
 
 # Tibetan Buddhism

@@ -51,22 +51,18 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=H%C3%B2a%20H%E1%BA%A3o%20Buddhism
 artifacts:
-  - title: Hòa Hảo Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/hoa-hao-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/H%C3%B2a_H%E1%BA%A3o_Buddhism'
-    provenance: 'Chau Doc / An Giang, Mekong Delta, Vietnam'
-    period: c. 1939 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Hòa Hảo Buddhism.
-  - title: Sấm giảng & Sacred Relics
-    imageUrl: /artifacts/hoa-hao-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/H%C3%B2a_H%E1%BA%A3o_Buddhism'
-    provenance: 'Chau Doc / An Giang, Mekong Delta, Vietnam'
-    period: c. 1939 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Hòa
-      Hảo Buddhism.
+  - title: "Portrait of Huynh Phu So"
+    imageUrl: "/artifacts/hoa-hao-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:T%E1%BB%95_%C4%91%C3%ACnh_PGHH.jpg"
+    provenance: "Bui Thuy Đao Nguyen; CC BY-SA 3.0"
+    period: "Image dated 2008"
+    description: "This image shows Portrait of Huynh Phu So, selected as a defining visual reference for Hòa Hảo Buddhism."
+  - title: "An Hoa Tu sanctuary"
+    imageUrl: "/artifacts/hoa-hao-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:B%E1%BB%ADu_S%C6%A1n_T%E1%BB%B1_S%C3%B4ng_C%E1%BA%A7u.jpg"
+    provenance: "Bui Thuy Đao Nguyen; CC BY-SA 3.0"
+    period: "Image dated 2009"
+    description: "This image shows An Hoa Tu sanctuary, selected as a defining visual reference for Hòa Hảo Buddhism."
 ---
 
 # Hòa Hảo Buddhism

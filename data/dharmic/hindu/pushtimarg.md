@@ -48,22 +48,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
 artifacts:
-  - title: Puṣṭimārga Historical Sanctuary & Iconography
-    imageUrl: /artifacts/pushtimarg-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. late 15th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Puṣṭimārga.
-  - title: Aṇubhāṣya & Sacred Relics
-    imageUrl: /artifacts/pushtimarg-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. late 15th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Puṣṭimārga.
+  - title: "Srinathji, supreme devotional icon of Pustimarga"
+    imageUrl: "/artifacts/pushtimarg-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nathdwara_srinathji.jpg"
+    provenance: "Unknown artist Unknown artist; Public domain"
+    period: "18th century late"
+    description: "This image shows Srinathji, supreme devotional icon of Pustimarga, selected as a defining visual reference for Puṣṭimārga."
+  - title: "Srinathji Haveli at Nathdwara, principal Pustimarga sanctuary"
+    imageUrl: "/artifacts/pushtimarg-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Painter_at_work,_Nathdwara.jpg"
+    provenance: "Prakhar Amba; CC BY 2.0"
+    period: "Image dated 2003"
+    description: "This image shows Srinathji Haveli at Nathdwara, principal Pustimarga sanctuary, selected as a defining visual reference for Puṣṭimārga."
 ---
 
 # Puṣṭimārga

@@ -45,22 +45,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ramakrishna%20Movement'
 artifacts:
-  - title: Ramakrishna Movement Historical Sanctuary & Iconography
-    imageUrl: /artifacts/ramakrishna-movement-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ramakrishna_Movement'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1886 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Ramakrishna Movement.
-  - title: Śrī Śrī Rāmakṛṣṇa Kathāmṛta & Sacred Relics
-    imageUrl: /artifacts/ramakrishna-movement-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Ramakrishna_Movement'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. 1886 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Ramakrishna Movement.
+  - title: "Historic photograph of Ramakrishna"
+    imageUrl: "/artifacts/ramakrishna-movement-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ramakrishna.jpg"
+    provenance: "Abinash Chandra Dna; Public domain"
+    period: "Image dated 1885"
+    description: "This image shows Historic photograph of Ramakrishna, selected as a defining visual reference for Ramakrishna Movement."
+  - title: "Belur Math, headquarters of the Ramakrishna Order and Mission"
+    imageUrl: "/artifacts/ramakrishna-movement-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Belur_Math,_Howrah,_India_02.jpg"
+    provenance: "Ravi Dwivedi; CC BY-SA 4.0"
+    period: "Image dated 2022"
+    description: "This image shows Belur Math, headquarters of the Ramakrishna Order and Mission, selected as a defining visual reference for Ramakrishna Movement."
 ---
 
 # Ramakrishna Movement

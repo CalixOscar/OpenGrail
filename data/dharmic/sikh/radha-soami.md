@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Radha%20Soami%20Tradition'
 artifacts:
-  - title: Radha Soami Tradition Historical Sanctuary & Iconography
-    imageUrl: /artifacts/radha-soami-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Radha_Soami_Tradition'
-    provenance: 'Amritsar, Punjab, India'
-    period: c. 1861 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Radha Soami Tradition.
-  - title: Sar Bachan & Sacred Relics
-    imageUrl: /artifacts/radha-soami-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Radha_Soami_Tradition'
-    provenance: 'Amritsar, Punjab, India'
-    period: c. 1861 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Radha
-      Soami Tradition.
+  - title: "Shiv Dayal Singh, founder of the Radha Soami tradition"
+    imageUrl: "/artifacts/radha-soami-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shiv_Dayal_Singh_Ji.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1878"
+    description: "This image shows Shiv Dayal Singh, founder of the Radha Soami tradition, selected as a defining visual reference for Radha Soami Tradition."
+  - title: "Soami Bagh samadh at Agra, major Radha Soami sanctuary"
+    imageUrl: "/artifacts/radha-soami-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Soami-Bagh-Agra.jpg"
+    provenance: "VibrantVivek; CC BY-SA 4.0"
+    period: "Image dated 2020"
+    description: "This image shows Soami Bagh samadh at Agra, major Radha Soami sanctuary, selected as a defining visual reference for Radha Soami Tradition."
 ---
 
 # Radha Soami Tradition

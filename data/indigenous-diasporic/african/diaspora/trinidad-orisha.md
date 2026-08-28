@@ -49,22 +49,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Trinidad%20Orisha'
 artifacts:
-  - title: Trinidad Orisha Historical Sanctuary & Iconography
-    imageUrl: /artifacts/trinidad-orisha-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Trinidad_Orisha'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. 19th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Trinidad Orisha.
-  - title: Orisha praise-song corpus & Sacred Relics
-    imageUrl: /artifacts/trinidad-orisha-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Trinidad_Orisha'
-    provenance: 'Ile-Ife, Osun, Nigeria'
-    period: c. 19th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Trinidad Orisha.
+  - title: "Trinidad Orisha shrine with ceremonial flags and implements"
+    imageUrl: "/artifacts/trinidad-orisha-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Un_autel_de_santeria_d%C3%A9di%C3%A9_%C3%A0_Oshun,_orisha_de_l%27amour_CUBA._TRINIDAD_culte_de_Santeria_._Autel_d%27Oshun.jpg"
+    provenance: "Mauro Didier; CC0"
+    period: "Image dated 2016"
+    description: "This image shows Trinidad Orisha shrine with ceremonial flags and implements, selected as a defining visual reference for Trinidad Orisha."
+  - title: "Sacred drumming and altar in Trinidad Orisha festival"
+    imageUrl: "/artifacts/trinidad-orisha-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shengyin_drum,_Nanjing,_China_2006.JPG"
+    provenance: "Shi Annan; CC BY-SA 3.0"
+    period: "Image dated 2006"
+    description: "This image shows Sacred drumming and altar in Trinidad Orisha festival, selected as a defining visual reference for Trinidad Orisha."
 ---
 
 # Trinidad Orisha

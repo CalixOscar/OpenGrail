@@ -51,24 +51,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Church%20of%20Christ%2C%20Scientist
 artifacts:
-  - title: 'Christian Science Mother Church, Boston, Massachusetts'
-    imageUrl: /artifacts/christian-science-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Christian_Science_Mother_Church,_Boston,_Massachusetts.JPG
-    provenance: 'Boston, Massachusetts, USA'
-    period: c. 1879 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Church of Christ, Scientist.
-  - title: Bible & Sacred Relics
-    imageUrl: /artifacts/christian-science-2.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:Christian_Science_Mother_Church,_Boston,_Massachusetts.JPG
-    provenance: 'Boston, Massachusetts, USA'
-    period: c. 1879 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Church of Christ, Scientist.
+  - title: "Portrait of Mary Baker Eddy, founder of Christian Science"
+    imageUrl: "/artifacts/christian-science-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mary_Baker_Eddy.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Image dated 1916"
+    description: "This image shows Portrait of Mary Baker Eddy, founder of Christian Science, selected as a defining visual reference for Church of Christ, Scientist."
+  - title: "The Mother Church complex in Boston"
+    imageUrl: "/artifacts/christian-science-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Christian_Science_Mother_Church,_Boston,_Massachusetts.JPG"
+    provenance: "Wikimedia Commons; CC BY-SA 3.0"
+    period: "Digital file published 2006"
+    description: "This image shows The Mother Church complex in Boston, selected as a defining visual reference for Church of Christ, Scientist."
 ---
 
 # Church of Christ, Scientist

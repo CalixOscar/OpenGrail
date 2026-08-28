@@ -42,22 +42,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Akan%20Religion'
 artifacts:
-  - title: Akan Religion Historical Sanctuary & Iconography
-    imageUrl: /artifacts/akan-religion-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Akan_Religion'
-    provenance: 'Kumasi, Ashanti Empire, Ghana'
-    period: c. precolonial era
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Akan Religion.
-  - title: Oral traditions & Sacred Relics
-    imageUrl: /artifacts/akan-religion-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Akan_Religion'
-    provenance: 'Kumasi, Ashanti Empire, Ghana'
-    period: c. precolonial era
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Akan
-      Religion.
+  - title: "The Golden Stool (Sika Dwa Kofi) of the Ashanti"
+    imageUrl: "/artifacts/akan-religion-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Coming_of_the_Ashanti_Golden_Stool_-_NARA_-_558798.jpg"
+    provenance: "Unknown author Unknown author or not provided; Public domain"
+    period: "Digital file published 2011"
+    description: "This image shows The Golden Stool (Sika Dwa Kofi) of the Ashanti, selected as a defining visual reference for Akan Religion."
+  - title: "Asante traditional shrine house at Besease"
+    imageUrl: "/artifacts/akan-religion-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Asenemaso_Shrine_(a.k.a._Tano_Banie_Shrine).jpg"
+    provenance: "Noahalorwu; CC BY-SA 4.0"
+    period: "Image dated 2016"
+    description: "This image shows Asante traditional shrine house at Besease, selected as a defining visual reference for Akan Religion."
 ---
 
 # Akan Religion

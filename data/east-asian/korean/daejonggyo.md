@@ -45,22 +45,18 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Daejonggyo'
 artifacts:
-  - title: Daejonggyo Historical Sanctuary & Iconography
-    imageUrl: /artifacts/daejonggyo-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Daejonggyo'
-    provenance: 'Seoul (Hanyang), South Korea'
-    period: c. 1909 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Daejonggyo.
-  - title: Samil Sin'go & Sacred Relics
-    imageUrl: /artifacts/daejonggyo-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Daejonggyo'
-    provenance: 'Seoul (Hanyang), South Korea'
-    period: c. 1909 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Daejonggyo.
+  - title: "Portrait of Na Cheol, restorer of Daejonggyo"
+    imageUrl: "/artifacts/daejonggyo-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Na_cheol.jpg"
+    provenance: "Unknown author Unknown author; Public domain"
+    period: "Digital file published 2008"
+    description: "This image shows Portrait of Na Cheol, restorer of Daejonggyo, selected as a defining visual reference for Daejonggyo."
+  - title: "Daejonggyo image of Dangun"
+    imageUrl: "/artifacts/daejonggyo-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%EB%8C%80%EC%A2%85%EA%B5%90_%EC%B2%9C%EA%B8%B0_Daejonggyo_Cheongi.jpg"
+    provenance: "Baeksanseonin; CC BY-SA 4.0"
+    period: "Image dated 1999"
+    description: "This image shows Daejonggyo image of Dangun, selected as a defining visual reference for Daejonggyo."
 ---
 
 # Daejonggyo

@@ -46,22 +46,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sri%20Lankan%20Buddhism'
 artifacts:
-  - title: Sri Lankan Buddhism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/sri-lankan-buddhism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sri_Lankan_Buddhism'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 3rd century BCE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Sri Lankan Buddhism.
-  - title: Pāli Tipiṭaka & Sacred Relics
-    imageUrl: /artifacts/sri-lankan-buddhism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Sri_Lankan_Buddhism'
-    provenance: 'Anuradhapura, North Central, Sri Lanka'
-    period: c. c. 3rd century BCE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of Sri
-      Lankan Buddhism.
+  - title: "Avukana standing Buddha, iconic Sinhalese Buddhist sculpture"
+    imageUrl: "/artifacts/sri-lankan-buddhism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Modern_Buddha_Statue,_Dondra_0673.jpg"
+    provenance: "Michael Gunther; CC BY-SA 4.0"
+    period: "20th century"
+    description: "This image shows Avukana standing Buddha, iconic Sinhalese Buddhist sculpture, selected as a defining visual reference for Sri Lankan Buddhism."
+  - title: "Temple of the Sacred Tooth Relic in Kandy"
+    imageUrl: "/artifacts/sri-lankan-buddhism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Murals_-_The_Temple_of_the_Sacred_Tooth_Relic_(Kandy)_(5479267028).jpg"
+    provenance: "Jorge Lascar from Australia; CC BY 2.0"
+    period: "Image dated 2011"
+    description: "This image shows Temple of the Sacred Tooth Relic in Kandy, selected as a defining visual reference for Sri Lankan Buddhism."
 ---
 
 # Sri Lankan Buddhism

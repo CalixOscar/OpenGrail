@@ -45,22 +45,18 @@ sources:
       Branches
     url: 'https://www.cambridge.org/core/search?q=Restoration%20Branches'
 artifacts:
-  - title: Restoration Branches Historical Sanctuary & Iconography
-    imageUrl: /artifacts/restoration-branches-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Branches'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1984 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Restoration Branches.
-  - title: Inspired Version of the Bible & Sacred Relics
-    imageUrl: /artifacts/restoration-branches-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Restoration_Branches'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1984 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Restoration Branches.
+  - title: "Joint gathering of independent Restoration Branch congregations"
+    imageUrl: "/artifacts/restoration-branches-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Independence,_Missouri_(14518373803).jpg"
+    provenance: "Ken Lund from Reno, Nevada, USA; CC BY-SA 2.0"
+    period: "19th century"
+    description: "This image shows Joint gathering of independent Restoration Branch congregations, selected as a defining visual reference for Restoration Branches."
+  - title: "A Restoration Branch meetinghouse in the Independence area"
+    imageUrl: "/artifacts/restoration-branches-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Independence_-_Restoration_Branch_02.jpg"
+    provenance: "Ecjmartin1; Public domain"
+    period: "Digital file published 2010"
+    description: "This image shows A Restoration Branch meetinghouse in the Independence area, selected as a defining visual reference for Restoration Branches."
 ---
 
 # Restoration Branches

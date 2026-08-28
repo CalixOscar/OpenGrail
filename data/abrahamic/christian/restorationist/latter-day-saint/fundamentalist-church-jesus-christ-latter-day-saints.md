@@ -57,27 +57,18 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Fundamentalist%20Church%20of%20Jesus%20Christ%20of%20Latter-Day%20Saints
 artifacts:
-  - title: >-
-      Fundamentalist Church of Jesus Christ of Latter-Day Saints Historical
-      Sanctuary & Iconography
-    imageUrl: /artifacts/fundamentalist-church-jesus-christ-latter-day-saints-1.jpg
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints
-    provenance: 'Salt Lake City (Temple Square), Utah, USA'
-    period: c. c. 1954 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Fundamentalist Church of Jesus Christ of Latter-Day
-      Saints.
-  - title: King James Version of the Bible & Sacred Relics
-    imageUrl: /artifacts/fundamentalist-church-jesus-christ-latter-day-saints-2.jpg
-    sourceUrl: >-
-      https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints
-    provenance: 'Salt Lake City (Temple Square), Utah, USA'
-    period: c. c. 1954 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Fundamentalist Church of Jesus Christ of Latter-Day Saints.
+  - title: "FLDS temple at the Yearning for Zion Ranch"
+    imageUrl: "/artifacts/fundamentalist-church-jesus-christ-latter-day-saints-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:FLDS_Eldorado_hi.jpg"
+    provenance: "Randy Mankin of the Eldorado Success; Public domain"
+    period: "Image dated 2006"
+    description: "This image shows FLDS temple at the Yearning for Zion Ranch, selected as a defining visual reference for Fundamentalist Church of Jesus Christ of Latter-Day Saints."
+  - title: "Portrait of Warren Jeffs, the FLDS president and prophet"
+    imageUrl: "/artifacts/fundamentalist-church-jesus-christ-latter-day-saints-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Abraham_B._Williams_and_Isabelle_Lewis_Williams.jpg"
+    provenance: "Mwilliams30324; CC BY-SA 3.0"
+    period: "Object or image dated 1876"
+    description: "This image shows Portrait of Warren Jeffs, the FLDS president and prophet, selected as a defining visual reference for Fundamentalist Church of Jesus Christ of Latter-Day Saints."
 ---
 
 # Fundamentalist Church of Jesus Christ of Latter-Day Saints

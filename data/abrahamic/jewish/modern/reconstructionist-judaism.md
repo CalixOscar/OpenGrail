@@ -42,22 +42,18 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Reconstructionist%20Judaism'
 artifacts:
-  - title: Reconstructionist Judaism Historical Sanctuary & Iconography
-    imageUrl: /artifacts/reconstructionist-judaism-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Reconstructionist_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1920s CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Reconstructionist Judaism.
-  - title: Tanakh & Sacred Relics
-    imageUrl: /artifacts/reconstructionist-judaism-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Reconstructionist_Judaism'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. 1920s CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Reconstructionist Judaism.
+  - title: "Portrait of Mordecai Kaplan, founder of Reconstructionist Judaism"
+    imageUrl: "/artifacts/reconstructionist-judaism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mordecai_MOREH_-_Midnight_Self-Portrait.jpg"
+    provenance: "Mordecai MOREH; CC BY-SA 3.0"
+    period: "Image dated 1988"
+    description: "This image shows Portrait of Mordecai Kaplan, founder of Reconstructionist Judaism, selected as a defining visual reference for Reconstructionist Judaism."
+  - title: "The SAJ synagogue, first Reconstructionist congregation"
+    imageUrl: "/artifacts/reconstructionist-judaism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_SAJ_Synagogue_W86_cloudy_jeh.jpg"
+    provenance: "Jim.henderson; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows The SAJ synagogue, first Reconstructionist congregation, selected as a defining visual reference for Reconstructionist Judaism."
 ---
 
 # Reconstructionist Judaism

@@ -45,22 +45,18 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Wicca'
     url: 'https://brill.com/search?q=Wicca'
 artifacts:
-  - title: Wicca Historical Sanctuary & Iconography
-    imageUrl: /artifacts/wicca-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Wicca'
-    provenance: 'New Forest, Hampshire, England, UK'
-    period: c. mid-20th century CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Wicca.
-  - title: Wiccan Books of Shadows & Sacred Relics
-    imageUrl: /artifacts/wicca-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Wicca'
-    provenance: 'New Forest, Hampshire, England, UK'
-    period: c. mid-20th century CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Wicca.
+  - title: "Wiccan author Doreen Valiente"
+    imageUrl: "/artifacts/wicca-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:NewForestCoven_Scourge.JPG"
+    provenance: "Midnightblueowl ( talk ); CC BY-SA 3.0"
+    period: "Image dated 2010"
+    description: "This image shows Wiccan author Doreen Valiente, selected as a defining visual reference for Wicca."
+  - title: "Wiccan ritual altar"
+    imageUrl: "/artifacts/wicca-2.png"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Wiccan_altar_(1).PNG"
+    provenance: "RaeVynn Sands, Flickr user cronewynd; CC BY 2.0"
+    period: "Image dated 2006"
+    description: "This image shows Wiccan ritual altar, selected as a defining visual reference for Wicca."
 ---
 
 # Wicca

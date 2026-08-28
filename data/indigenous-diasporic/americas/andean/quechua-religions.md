@@ -53,22 +53,18 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Quechua%20Religious%20Traditions'
 artifacts:
-  - title: Quechua Religious Traditions Historical Sanctuary & Iconography
-    imageUrl: /artifacts/quechua-religions-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Quechua_Religious_Traditions'
-    provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
-    period: c. pre-Inca and historically diverse
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Quechua Religious Traditions.
-  - title: Huarochirí Manuscript & Sacred Relics
-    imageUrl: /artifacts/quechua-religions-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Quechua_Religious_Traditions'
-    provenance: 'Cuzco, Sacred Valley, Inca Empire, Peru'
-    period: c. pre-Inca and historically diverse
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Quechua Religious Traditions.
+  - title: "Sacred Andean woven unkhu ritual tunic"
+    imageUrl: "/artifacts/quechua-religions-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nasca-Huari_style_-_Unku_with_staggered_and_linear_designs_-_Google_Art_Project.jpg"
+    provenance: "Nasca-Huari style (500 - 700); Public domain"
+    period: "Digital file published 2012"
+    description: "This image shows Sacred Andean woven unkhu ritual tunic, selected as a defining visual reference for Quechua Religious Traditions."
+  - title: "Sanctuary of Senor de Qoyllur Rit'i at Sinakara by night"
+    imageUrl: "/artifacts/quechua-religions-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Qoyllur_R%27Iti_Shrine_by_night.jpg"
+    provenance: "AgainErick; CC BY-SA 3.0"
+    period: "Image dated 2007"
+    description: "This image shows Sanctuary of Senor de Qoyllur Rit'i at Sinakara by night, selected as a defining visual reference for Quechua Religious Traditions."
 ---
 
 # Quechua Religious Traditions

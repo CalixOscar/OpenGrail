@@ -44,22 +44,18 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Drikung%20Kagyu'
 artifacts:
-  - title: Drikung Kagyu Historical Sanctuary & Iconography
-    imageUrl: /artifacts/drikung-kagyu-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Drikung_Kagyu'
-    provenance: 'Lhasa (Potala), U-Tsang, Tibet'
-    period: c. 1179 CE
-    description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Drikung Kagyu.
-  - title: Kangyur & Sacred Relics
-    imageUrl: /artifacts/drikung-kagyu-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/Drikung_Kagyu'
-    provenance: 'Lhasa (Potala), U-Tsang, Tibet'
-    period: c. 1179 CE
-    description: >-
-      Preserved liturgical manuscripts, canonical texts, and sacred art of
-      Drikung Kagyu.
+  - title: "Jigten Sumgon, founder of Drikung Kagyu"
+    imageUrl: "/artifacts/drikung-kagyu-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jigten_Sumg%C3%B6n.JPG"
+    provenance: "Bodhisattwa; CC BY-SA 3.0"
+    period: "Image dated 2013"
+    description: "This image shows Jigten Sumgon, founder of Drikung Kagyu, selected as a defining visual reference for Drikung Kagyu."
+  - title: "Drikung Til, original monastic seat of the lineage"
+    imageUrl: "/artifacts/drikung-kagyu-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Drigung_monastery.jpg"
+    provenance: "en:User:Alberrosidus; CC BY-SA 3.0"
+    period: "Image dated 2005"
+    description: "This image shows Drikung Til, original monastic seat of the lineage, selected as a defining visual reference for Drikung Kagyu."
 ---
 
 # Drikung Kagyu

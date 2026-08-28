@@ -42,19 +42,18 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Yazidism'
     url: 'https://www.cambridge.org/core/search?q=Yazidism'
 artifacts:
-  - title: A Yazidi ceremony called Tawwaf in the town of Baashiqa in Iraq
-    imageUrl: /artifacts/yazidism-1.jpg
-    sourceUrl: >-
-      https://commons.wikimedia.org/wiki/File:A_Yazidi_ceremony_called_Tawwaf_in_the_town_of_Baashiqa_in_Iraq.jpg
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 12th century CE
-    description: 'This photo has been taken in the country: Iraq...'
-  - title: Baptîzma êzidiyan
-    imageUrl: /artifacts/yazidism-2.jpg
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bapt%C3%AEzma_%C3%AAzidiyan.jpg'
-    provenance: 'Jerusalem, Southern Levant'
-    period: c. c. 12th century CE
-    description: Baptism at Kanîya Spî ("White Spring") in Lalish....
+  - title: "Peacock standard representing Tawusi Melek"
+    imageUrl: "/artifacts/yazidism-1.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Adramelech.jpg"
+    provenance: "User Machine gun molly on en.wikipedia; Public domain"
+    period: "Image dated 1863"
+    description: "This image shows Peacock standard representing Tawusi Melek, selected as a defining visual reference for Yazidism."
+  - title: "Conical shrines of Lalish, the principal Yazidi sanctuary"
+    imageUrl: "/artifacts/yazidism-2.jpg"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Front_of_the_Temple_of_Sheikh_Adi_(The_Nestorians_and_their_Rituals).jpg"
+    provenance: "George Percy Badger; C. Graf, lithographer; Public domain"
+    period: "Image dated 1852"
+    description: "This image shows Conical shrines of Lalish, the principal Yazidi sanctuary, selected as a defining visual reference for Yazidism."
 ---
 
 # Yazidism
