@@ -100,7 +100,7 @@ export function DocumentFeedback({ node }: DocumentFeedbackProps) {
     <div className="document-feedback">
       <div className="document-feedback__bar">
         <div className="document-feedback__vote-group">
-          <span className="document-feedback__label">Accurate &amp; Helpful?</span>
+          <span className="document-feedback__label">Accurate?</span>
           <button
             type="button"
             className={`document-feedback__vote-btn${userVote === 'up' ? ' document-feedback__vote-btn--active-up' : ''}`}
@@ -108,7 +108,7 @@ export function DocumentFeedback({ node }: DocumentFeedbackProps) {
             title="Mark as accurate and helpful"
             aria-label="Upvote tradition information"
           >
-            <ThumbsUp size={14} />
+            <ThumbsUp size={13} />
             <span>{upCount}</span>
           </button>
           <button
@@ -118,23 +118,23 @@ export function DocumentFeedback({ node }: DocumentFeedbackProps) {
             title="Flag inaccuracies or missing information"
             aria-label="Downvote tradition information"
           >
-            <ThumbsDown size={14} />
+            <ThumbsDown size={13} />
             {downCount > 0 && <span>{downCount}</span>}
           </button>
-        </div>
 
-        <button
-          type="button"
-          className="document-feedback__suggest-btn"
-          onClick={() => {
-            setShowSuggestModal((v) => !v);
-            setSubmitted(false);
-          }}
-          title="Suggest an edit, add missing texts or report errors"
-        >
-          <MessageSquarePlus size={14} />
-          <span>Suggest Edit / Report Error</span>
-        </button>
+          <button
+            type="button"
+            className="document-feedback__suggest-btn"
+            onClick={() => {
+              setShowSuggestModal((v) => !v);
+              setSubmitted(false);
+            }}
+            title="Suggest an edit, add missing texts or report errors"
+          >
+            <MessageSquarePlus size={13} />
+            <span>Suggest Edit</span>
+          </button>
+        </div>
       </div>
 
       {showSuggestModal && (
