@@ -1156,39 +1156,35 @@ button,
 .stage-watermark {
   position: absolute;
   inset: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   pointer-events: none;
   user-select: none;
   overflow: hidden;
   z-index: 0;
 }
 
-.stage-watermark__inner {
-  display: inline-flex;
-  flex-direction: column;
-  align-items: flex-end;
-  transform: translateY(-12px);
-  white-space: nowrap;
-}
-
 .stage-watermark__title {
+  position: absolute;
+  top: clamp(16px, 2.4vw, 34px);
+  left: clamp(20px, 2.8vw, 40px);
   font-size: clamp(180px, 23vw, 320px);
   font-weight: 900;
-  line-height: 0.88;
+  line-height: 0.82;
   letter-spacing: -0.04em;
   color: rgba(38, 70, 118, 0.25);
   text-shadow: 0 0 80px rgba(25, 55, 100, 0.25);
+  white-space: nowrap;
 }
 
 .stage-watermark__byline {
-  font-size: clamp(20px, 2.4vw, 34px);
+  position: absolute;
+  bottom: clamp(24px, 3.5vh, 52px);
+  right: clamp(24px, 3vw, 48px);
+  font-size: clamp(16px, 1.8vw, 26px);
   font-weight: 600;
   letter-spacing: 0.16em;
   color: rgba(50, 90, 145, 0.32);
-  margin-top: 10px;
-  padding-right: 8px;
+  text-shadow: 0 0 35px rgba(25, 55, 100, 0.2);
+  white-space: nowrap;
 }
 
 .graph-canvas,
