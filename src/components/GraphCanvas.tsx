@@ -374,12 +374,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         .filter((link) => {
           if (!visibleNodeIds.has(link.source) || !visibleNodeIds.has(link.target)) return false;
           if (!activeTiers.has(link.certainty) || !activeRelationTypes.has(link.type)) return false;
-          const srcNode = rawNodeById.get(link.source);
-          const tgtNode = rawNodeById.get(link.target);
-          const srcYear = srcNode?.origin_year ?? srcNode?.originYear ?? 0;
-          const tgtYear = tgtNode?.origin_year ?? tgtNode?.originYear ?? 0;
-          const maxOriginYear = Math.max(srcYear, tgtYear);
-          return maxOriginYear <= currentYear;
+          return true;
         })
         .map((link) => ({ ...link })) as CanvasLink[];
 
@@ -390,10 +385,8 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
       clusterCenters,
       clusterLayout,
       clusterPlacement,
-      currentYear,
       graphData.links,
       graphData.nodes,
-      rawNodeById,
       visibleNodeIds,
     ]);
 
@@ -900,6 +893,14 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
       (link: CanvasLink) => {
         const source = endpointId(link.source);
         const target = endpointId(link.target);
+        const srcNode = rawNodeById.get(source ?? '');
+        const tgtNode = rawNodeById.get(target ?? '');
+        const srcYear = srcNode?.origin_year ?? srcNode?.originYear ?? 0;
+        const tgtYear = tgtNode?.origin_year ?? tgtNode?.originYear ?? 0;
+        if (Math.max(srcYear, tgtYear) > currentYear) {
+          return 'rgba(0, 0, 0, 0)';
+        }
+
         const relationColor =
           RELATION_COLORS.get(link.type) ?? TIER_COLORS.get(link.certainty) ?? '#71809c';
         const emphasized = isEmphasizedLink(link);
@@ -912,18 +913,28 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         if (normalizedQuery && !touchesSearch) alpha *= 0.35;
         return colorWithAlpha(relationColor, alpha);
       },
-      [isEmphasizedLink, normalizedQuery, searchMatchIds, selectedLinkId, selectedNodeId],
+      [currentYear, isEmphasizedLink, normalizedQuery, rawNodeById, searchMatchIds, selectedLinkId, selectedNodeId],
     );
 
     const linkWidth = useCallback(
       (link: CanvasLink) => {
+        const source = endpointId(link.source);
+        const target = endpointId(link.target);
+        const srcNode = rawNodeById.get(source ?? '');
+        const tgtNode = rawNodeById.get(target ?? '');
+        const srcYear = srcNode?.origin_year ?? srcNode?.originYear ?? 0;
+        const tgtYear = tgtNode?.origin_year ?? tgtNode?.originYear ?? 0;
+        if (Math.max(srcYear, tgtYear) > currentYear) {
+          return 0;
+        }
+
         if (isEmphasizedLink(link)) return 2.2;
         if (link.type === 'branch_of') return 1.05;
         if (link.certainty === 'academic_consensus') return 0.82;
         if (link.certainty === 'speculative_fringe') return 0.52;
         return 0.68;
       },
-      [isEmphasizedLink],
+      [currentYear, isEmphasizedLink, rawNodeById],
     );
 
     const linkCurvature = useCallback((link: CanvasLink) => {

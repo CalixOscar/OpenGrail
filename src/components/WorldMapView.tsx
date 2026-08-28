@@ -516,15 +516,17 @@ export function WorldMapView({ graphData, className = '' }: WorldMapViewProps) {
       .clipAngle(90);
 
     let closestNode: GraphNode | null = null;
-    let minDistance = 14;
+    let minDistance = 26;
 
     const centerLng = -rotation[0];
     const centerLat = -rotation[1];
 
     graphData.nodes.forEach((node) => {
-      if (!node.origin_geo) return;
-      const { lat, lng } = node.origin_geo;
-      if ((node.origin_year ?? 0) > currentYear) return;
+      const geo = node.origin_geo || (node as any).originGeo;
+      if (!geo) return;
+      const { lat, lng } = geo;
+      const originYear = node.origin_year ?? node.originYear ?? 0;
+      if (originYear > currentYear) return;
       if (!activeTiers.has(node.epistemicTier)) return;
 
       const distToCenter = geoDistance([centerLng, centerLat], [lng, lat]);
