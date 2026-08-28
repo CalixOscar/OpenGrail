@@ -1161,6 +1161,7 @@ button,
   justify-content: center;
   pointer-events: none;
   user-select: none;
+  overflow: hidden;
   z-index: 0;
 }
 
@@ -1168,25 +1169,26 @@ button,
   display: inline-flex;
   flex-direction: column;
   align-items: flex-end;
-  transform: translateY(-8px);
+  transform: translateY(-12px);
+  white-space: nowrap;
 }
 
 .stage-watermark__title {
-  font-size: clamp(72px, 8.5vw, 108px);
-  font-weight: 800;
-  line-height: 0.92;
-  letter-spacing: -0.035em;
-  color: rgba(38, 70, 118, 0.28);
-  text-shadow: 0 0 45px rgba(25, 55, 100, 0.22);
+  font-size: clamp(180px, 23vw, 320px);
+  font-weight: 900;
+  line-height: 0.88;
+  letter-spacing: -0.04em;
+  color: rgba(38, 70, 118, 0.25);
+  text-shadow: 0 0 80px rgba(25, 55, 100, 0.25);
 }
 
 .stage-watermark__byline {
-  font-size: clamp(12px, 1.2vw, 15px);
+  font-size: clamp(20px, 2.4vw, 34px);
   font-weight: 600;
   letter-spacing: 0.16em;
-  color: rgba(50, 90, 145, 0.34);
-  margin-top: 5px;
-  padding-right: 4px;
+  color: rgba(50, 90, 145, 0.32);
+  margin-top: 10px;
+  padding-right: 8px;
 }
 
 .graph-canvas,

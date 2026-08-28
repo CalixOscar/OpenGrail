@@ -22,21 +22,11 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Current State:** Complete — all 573 tracked traditions possess exactly two authentic, high-quality, exact-source Commons visual artifacts (1,146 total assets) staged in `public/artifacts/` and integrated into `data/**/*.md`.
-**Context:** Full visual artifact overhaul replacing legacy scrapers with curator-directed exact-source Commons imagery conforming strictly to the dual-slot schema (Slot 1: core iconography/deity/founder/symbol; Slot 2: principal sanctuary/manuscript/ritual artifact).
-**Blockers:** None.
-**Completed Since Last Handoff:**
-- Populated complete query manifest for all 269 non-Abrahamic/non-Dharmic traditions (`scripts/artifact-curation/other.json`), reaching 100% coverage (573/573 traditions, 1,146 slots).
-- Upgraded `scripts/curate-iconic-artifacts.js` with strict JPEG/PNG validation, expanded medium/stop word heuristics, rate-limiting backoff, and byte-MIME synchronisation.
-- Ran `npm run curate:artifacts` and staged all 1,146 verified Commons images.
-- Isolated all untracked Finder/iCloud conflict files (`* 2.*`, `* 3.*`, etc.) into `/tmp/opengrail-untracked-conflicts-*`.
-- Executed `npm run apply:artifacts` to update frontmatter `artifacts:` blocks while preserving all surrounding frontmatter and body text.
-- Verified 100% pass rate on `node scripts/audit-artifacts.js`, `npm run build:graph` (573 nodes, 903 links), and `npm run build`.
-**Next Steps:** Stage and commit the curated artifacts overhaul to git and push to origin.
-**Verification:**
-- `node scripts/audit-artifacts.js`: 573 traditions, 1146 exact-source images, 1146 canonical files, 0 errors.
-- `npm run build:graph`: 573 nodes across 11 clusters (903 links), 0 errors.
-- `npm run build`: Vite production build passed in 2.09s with zero errors or warnings.
+**Status:** Ready — 3x stage watermark branding scale update applied and verified.
+**Task:** Scale up background stage watermark branding font by 3x and deploy live.
+**Files touched:** `src/index.css`, `PROJECT_NOTES.md`.
+**Next step:** Push commit to `origin/main` to trigger live deployment.
+**Gotchas:** Maintain `pointer-events: none` and `overflow: hidden` on stage watermark container to prevent scrollbar/interaction artifacts.
 **Left by:** Antigravity (2026-08-28)
 
 ## Decisions Log
