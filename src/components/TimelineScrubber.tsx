@@ -2,9 +2,11 @@
 /* See LICENSE and LICENSE-COMMERCIAL.md for the applicable terms. */
 
 import {
+  History,
   Pause,
   Play,
   RotateCcw,
+  Sparkles,
 } from 'lucide-react';
 import React, {
   useCallback,
@@ -15,8 +17,12 @@ import React, {
 } from 'react';
 import { useAtlasState } from '../state/AtlasState';
 
+export const HISTORIC_MIN_YEAR = -3000;
+export const DEEP_MIN_YEAR = -100000;
 export const MIN_YEAR = -3000;
 export const MAX_YEAR = new Date().getFullYear();
+
+export type TimelineMode = 'historic' | 'deep';
 
 export interface TimelinePreset {
   id: string;
@@ -25,9 +31,9 @@ export interface TimelinePreset {
   description: string;
 }
 
-export const TIMELINE_PRESETS: TimelinePreset[] = [
-  { id: 'bronze-age', label: 'Bronze Age', year: -2000, description: 'Early Mesopotamian and Indus valley traditions' },
-  { id: 'axial-age', label: 'Axial Age', year: -500, description: 'Emergence of Classical philosophy, Buddhism, Jainism, Daoism' },
+export const HISTORIC_PRESETS: TimelinePreset[] = [
+  { id: 'bronze-age', label: 'Bronze Age', year: -2000, description: 'Early Mesopotamian, Egyptian, and Indus valley traditions' },
+  { id: 'axial-age', label: 'Axial Age', year: -500, description: 'Emergence of Classical philosophy, Buddhism, Jainism, Daoism, Zoroastrianism' },
   { id: 'hellenistic', label: 'Hellenistic', year: -323, description: 'Mediterranean syncretism and philosophical schools' },
   { id: 'medieval', label: 'Medieval Schisms', year: 1054, description: 'Great Schism of East and West Christendom' },
   { id: 'reformation', label: 'Reformation', year: 1517, description: 'European Protestant Reformation' },
@@ -35,14 +41,29 @@ export const TIMELINE_PRESETS: TimelinePreset[] = [
   { id: 'present', label: 'Present', year: MAX_YEAR, description: 'Contemporary atlas state' },
 ];
 
+export const DEEP_PRESETS: TimelinePreset[] = [
+  { id: 'ritual-burials', label: 'Ritual Burials', year: -100000, description: 'Earliest intentional ceremonial burials with red ochre & grave goods (Qafzeh, Skhul, Shanidar)' },
+  { id: 'lion-man', label: 'Paleolithic Shamanism', year: -40000, description: 'Löwenmensch (Lion-Man) carving & Chauvet cave sanctuaries' },
+  { id: 'venus-figurines', label: 'Venus Figurines', year: -25000, description: 'Widespread Eurasian fertility & Mother Goddess cult symbols (Willendorf)' },
+  { id: 'gobekli-tepe', label: 'Göbekli Tepe', year: -9500, description: 'World’s oldest monumental megalithic sanctuary complex (Anatolia)' },
+  { id: 'written-history', label: 'Written History', year: -3000, description: 'First deciphered religious texts (Sumerian cuneiform & Egyptian hieroglyphs)' },
+  { id: 'axial-age', label: 'Axial Age', year: -500, description: 'Foundational world religions & classical philosophies' },
+  { id: 'present', label: 'Present', year: MAX_YEAR, description: 'Contemporary atlas state' },
+];
+
+export const TIMELINE_PRESETS = HISTORIC_PRESETS;
+
 export function formatYearLabel(year: number): string {
-  if (year < 0) return `${Math.abs(year)} BCE`;
+  if (year < 0) {
+    const abs = Math.abs(year);
+    return `${abs.toLocaleString('en-US')} BCE`;
+  }
   if (year === 0) return '1 BCE / 1 CE';
-  return `${year} CE`;
+  return `${year.toLocaleString('en-US')} CE`;
 }
 
-// Piecewise monotonic non-linear scale anchors: [t (0..1), year]
-const SCALE_ANCHORS: [number, number][] = [
+// Piecewise non-linear scale anchors for standard historic timeline [t (0..1), year]
+const HISTORIC_SCALE_ANCHORS: [number, number][] = [
   [0.0, -3000],
   [0.16, -2000],
   [0.36, -500],
@@ -53,11 +74,27 @@ const SCALE_ANCHORS: [number, number][] = [
   [1.0, MAX_YEAR],
 ];
 
-export function yearToRatio(year: number): number {
-  const clampedYear = Math.max(MIN_YEAR, Math.min(MAX_YEAR, year));
-  for (let i = 0; i < SCALE_ANCHORS.length - 1; i++) {
-    const [t1, y1] = SCALE_ANCHORS[i];
-    const [t2, y2] = SCALE_ANCHORS[i + 1];
+// Piecewise non-linear scale anchors for deep prehistoric timeline [t (0..1), year]
+const DEEP_SCALE_ANCHORS: [number, number][] = [
+  [0.00, -100000], // 100k BCE - Ritual Burials & Red Ochre
+  [0.16, -40000],  // 40k BCE - Lion-Man & Shamanic Art
+  [0.28, -25000],  // 25k BCE - Venus Figurines
+  [0.42, -9500],   // 9.5k BCE - Göbekli Tepe
+  [0.56, -3000],   // 3k BCE - Written History
+  [0.70, -500],    // 500 BCE - Axial Age
+  [0.82, 1054],    // 1054 CE - Medieval
+  [0.91, 1900],    // 1900 CE - Modern
+  [1.00, MAX_YEAR],
+];
+
+export function yearToRatio(year: number, mode: TimelineMode = 'historic'): number {
+  const anchors = mode === 'deep' ? DEEP_SCALE_ANCHORS : HISTORIC_SCALE_ANCHORS;
+  const minYear = mode === 'deep' ? DEEP_MIN_YEAR : HISTORIC_MIN_YEAR;
+  const clampedYear = Math.max(minYear, Math.min(MAX_YEAR, year));
+
+  for (let i = 0; i < anchors.length - 1; i++) {
+    const [t1, y1] = anchors[i];
+    const [t2, y2] = anchors[i + 1];
     if (clampedYear >= y1 && clampedYear <= y2) {
       const segmentFraction = (clampedYear - y1) / (y2 - y1);
       return t1 + segmentFraction * (t2 - t1);
@@ -66,11 +103,13 @@ export function yearToRatio(year: number): number {
   return 1;
 }
 
-export function ratioToYear(ratio: number): number {
+export function ratioToYear(ratio: number, mode: TimelineMode = 'historic'): number {
+  const anchors = mode === 'deep' ? DEEP_SCALE_ANCHORS : HISTORIC_SCALE_ANCHORS;
   const clampedRatio = Math.max(0, Math.min(1, ratio));
-  for (let i = 0; i < SCALE_ANCHORS.length - 1; i++) {
-    const [t1, y1] = SCALE_ANCHORS[i];
-    const [t2, y2] = SCALE_ANCHORS[i + 1];
+
+  for (let i = 0; i < anchors.length - 1; i++) {
+    const [t1, y1] = anchors[i];
+    const [t2, y2] = anchors[i + 1];
     if (clampedRatio >= t1 && clampedRatio <= t2) {
       const segmentFraction = (clampedRatio - t1) / (t2 - t1);
       return Math.round(y1 + segmentFraction * (y2 - y1));
@@ -89,26 +128,29 @@ export function TimelineScrubber({
   onYearChange,
 }: TimelineScrubberProps) {
   const { currentYear, setCurrentYear } = useAtlasState();
+  const [timelineMode, setTimelineMode] = useState<TimelineMode>('historic');
   const [isPlaying, setIsPlaying] = useState(false);
   const [playbackSpeed, setPlaybackSpeed] = useState<0.5 | 1 | 2 | 4>(1);
   const trackRef = useRef<HTMLDivElement>(null);
   const [isDragging, setIsDragging] = useState(false);
   const lastTimeRef = useRef<number | null>(null);
 
+  const minYear = timelineMode === 'deep' ? DEEP_MIN_YEAR : HISTORIC_MIN_YEAR;
+  const presets = timelineMode === 'deep' ? DEEP_PRESETS : HISTORIC_PRESETS;
+
   const speedMultiplier = playbackSpeed;
-  // Full range ~5000 years in 30 seconds at 1x => ~167 years per second
-  const baseRate = (MAX_YEAR - MIN_YEAR) / 30;
+  const baseRate = (MAX_YEAR - minYear) / 30;
 
   const setYear = useCallback(
     (year: number) => {
-      const clamped = Math.max(MIN_YEAR, Math.min(MAX_YEAR, Math.round(year)));
+      const clamped = Math.max(minYear, Math.min(MAX_YEAR, Math.round(year)));
       setCurrentYear(clamped);
       onYearChange?.(clamped);
     },
-    [onYearChange, setCurrentYear],
+    [minYear, onYearChange, setCurrentYear],
   );
 
-  // Playback animation frame loop
+  // Playback animation loop
   useEffect(() => {
     if (!isPlaying) {
       lastTimeRef.current = null;
@@ -147,11 +189,11 @@ export function TimelineScrubber({
       if (!trackRef.current) return;
       const rect = trackRef.current.getBoundingClientRect();
       const ratio = (event.clientX - rect.left) / rect.width;
-      setYear(ratioToYear(ratio));
+      setYear(ratioToYear(ratio, timelineMode));
       setIsDragging(true);
       (event.target as HTMLElement).setPointerCapture?.(event.pointerId);
     },
-    [setYear],
+    [setYear, timelineMode],
   );
 
   const handlePointerMove = useCallback(
@@ -159,9 +201,9 @@ export function TimelineScrubber({
       if (!isDragging || !trackRef.current) return;
       const rect = trackRef.current.getBoundingClientRect();
       const ratio = (event.clientX - rect.left) / rect.width;
-      setYear(ratioToYear(ratio));
+      setYear(ratioToYear(ratio, timelineMode));
     },
-    [isDragging, setYear],
+    [isDragging, setYear, timelineMode],
   );
 
   const handlePointerUp = useCallback(() => {
@@ -171,15 +213,18 @@ export function TimelineScrubber({
   // Keyboard navigation
   const handleKeyDown = useCallback(
     (event: React.KeyboardEvent) => {
+      const step = timelineMode === 'deep' ? 1000 : 10;
+      const largeStep = timelineMode === 'deep' ? 5000 : 100;
+
       if (event.key === 'ArrowRight' || event.key === 'ArrowUp') {
         event.preventDefault();
-        setYear(currentYear + (event.shiftKey ? 100 : 10));
+        setYear(currentYear + (event.shiftKey ? largeStep : step));
       } else if (event.key === 'ArrowLeft' || event.key === 'ArrowDown') {
         event.preventDefault();
-        setYear(currentYear - (event.shiftKey ? 100 : 10));
+        setYear(currentYear - (event.shiftKey ? largeStep : step));
       } else if (event.key === 'Home') {
         event.preventDefault();
-        setYear(MIN_YEAR);
+        setYear(minYear);
       } else if (event.key === 'End') {
         event.preventDefault();
         setYear(MAX_YEAR);
@@ -188,10 +233,13 @@ export function TimelineScrubber({
         setIsPlaying((playing) => !playing);
       }
     },
-    [currentYear, setYear],
+    [currentYear, minYear, setYear, timelineMode],
   );
 
-  const currentRatio = useMemo(() => yearToRatio(currentYear), [currentYear]);
+  const currentRatio = useMemo(
+    () => yearToRatio(currentYear, timelineMode),
+    [currentYear, timelineMode],
+  );
 
   return (
     <footer
@@ -215,8 +263,8 @@ export function TimelineScrubber({
           <button
             type="button"
             className="timeline-btn"
-            onClick={() => setYear(MIN_YEAR)}
-            title="Reset to 3000 BCE"
+            onClick={() => setYear(minYear)}
+            title={`Reset to ${formatYearLabel(minYear)}`}
             aria-label="Jump to start"
           >
             <RotateCcw size={13} />
@@ -238,14 +286,43 @@ export function TimelineScrubber({
           </div>
         </div>
 
+        {/* Timeline Scale Mode Selector (Written History vs Deep Prehistory) */}
+        <div className="timeline-mode-toggle" role="group" aria-label="Timeline scale mode">
+          <button
+            type="button"
+            className={`timeline-mode-btn${timelineMode === 'historic' ? ' is-active' : ''}`}
+            onClick={() => {
+              setTimelineMode('historic');
+              if (currentYear < HISTORIC_MIN_YEAR) setYear(HISTORIC_MIN_YEAR);
+            }}
+            title="Written History scale (3000 BCE – Present)"
+          >
+            <History size={13} />
+            <span>Written History</span>
+          </button>
+
+          <button
+            type="button"
+            className={`timeline-mode-btn${timelineMode === 'deep' ? ' is-active' : ''}`}
+            onClick={() => {
+              setTimelineMode('deep');
+            }}
+            title="Deep Prehistory scale (100,000 BCE – Present: Göbekli Tepe, Shamanism, Ritual Burials)"
+          >
+            <Sparkles size={13} />
+            <span>Deep Prehistory</span>
+          </button>
+        </div>
+
         <div className="timeline-display" aria-live="polite">
           <span className="timeline-display__label">Era</span>
           <span className="timeline-display__year">{formatYearLabel(currentYear)}</span>
         </div>
 
         <div className="timeline-presets" role="group" aria-label="Era presets">
-          {TIMELINE_PRESETS.map((preset) => {
-            const isActive = Math.abs(currentYear - preset.year) <= 15;
+          {presets.map((preset) => {
+            const threshold = timelineMode === 'deep' ? 1000 : 25;
+            const isActive = Math.abs(currentYear - preset.year) <= threshold;
             return (
               <button
                 key={preset.id}
@@ -273,7 +350,7 @@ export function TimelineScrubber({
         onPointerUp={handlePointerUp}
         onPointerCancel={handlePointerUp}
         role="slider"
-        aria-valuemin={MIN_YEAR}
+        aria-valuemin={minYear}
         aria-valuemax={MAX_YEAR}
         aria-valuenow={currentYear}
         aria-valuetext={formatYearLabel(currentYear)}
@@ -284,8 +361,8 @@ export function TimelineScrubber({
           style={{ width: `${currentRatio * 100}%` }}
         />
 
-        {TIMELINE_PRESETS.map((preset) => {
-          const ratio = yearToRatio(preset.year);
+        {presets.map((preset) => {
+          const ratio = yearToRatio(preset.year, timelineMode);
           return (
             <div
               key={preset.id}
@@ -307,14 +384,29 @@ export function TimelineScrubber({
       </div>
 
       <div className="timeline-labels">
-        <span>3000 BCE</span>
-        <span>2000 BCE</span>
-        <span>500 BCE</span>
-        <span>1 CE</span>
-        <span>1054 CE</span>
-        <span>1517 CE</span>
-        <span>1900 CE</span>
-        <span>{MAX_YEAR} CE</span>
+        {timelineMode === 'deep' ? (
+          <>
+            <span>100,000 BCE (Burials)</span>
+            <span>40,000 BCE (Shamanism)</span>
+            <span>25,000 BCE (Venus Figurines)</span>
+            <span>9,500 BCE (Göbekli Tepe)</span>
+            <span>3,000 BCE (Writing)</span>
+            <span>500 BCE (Axial Age)</span>
+            <span>1054 CE</span>
+            <span>{MAX_YEAR} CE</span>
+          </>
+        ) : (
+          <>
+            <span>3000 BCE</span>
+            <span>2000 BCE</span>
+            <span>500 BCE</span>
+            <span>1 CE</span>
+            <span>1054 CE</span>
+            <span>1517 CE</span>
+            <span>1900 CE</span>
+            <span>{MAX_YEAR} CE</span>
+          </>
+        )}
       </div>
     </footer>
   );

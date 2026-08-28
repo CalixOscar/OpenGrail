@@ -2126,6 +2126,43 @@ button,
   color: #64d8c0;
 }
 
+.timeline-mode-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 2px;
+}
+
+.timeline-mode-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 4px;
+  background: transparent;
+  border: none;
+  color: var(--muted);
+  cursor: pointer;
+  transition: all 130ms ease;
+  white-space: nowrap;
+}
+
+.timeline-mode-btn:hover {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.timeline-mode-btn.is-active {
+  background: rgba(100, 216, 192, 0.18);
+  color: #64d8c0;
+  box-shadow: 0 0 8px rgba(100, 216, 192, 0.2);
+}
+
 .timeline-display {
   display: flex;
   align-items: baseline;
