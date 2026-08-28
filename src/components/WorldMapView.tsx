@@ -407,51 +407,68 @@ export function WorldMapView({ graphData, className = '' }: WorldMapViewProps) {
       const isSelected = node.id === selectedNodeId;
       const isHovered = node.id === hoveredNodeId;
       const isSearchMatch = searchResults.has(node.id);
-      const isFuture = (node.origin_year ?? node.originYear ?? 0) > currentYear;
-
-      if (isFuture) return;
+      const originYear = node.origin_year ?? node.originYear ?? 0;
+      const isFuture = originYear > currentYear;
+      const extinctYear = node.extinct_year ?? node.extinctYear;
+      const isExtinct = extinctYear !== null && extinctYear !== undefined && currentYear >= extinctYear;
 
       if (isSelected || isHovered || isSearchMatch) {
         ctx.save();
         const label = node.title;
-        const placeName = node.origin_geo?.place_name || node.originGeo?.place_name || '';
-        const subtext = placeName ? `${placeName} · ${node.eraStart}` : node.eraStart;
+        const placeName = node.origin_geo?.place_name || (node as any).originGeo?.place_name || '';
+        
+        let statusBadge = '';
+        if (isFuture) {
+          statusBadge = `⏳ Emerges: ${node.eraStart}`;
+        } else if (isExtinct) {
+          statusBadge = `⌛ Extinct (Active ${node.eraStart})`;
+        } else {
+          statusBadge = `● Active in ${node.eraStart}`;
+        }
+
+        const subtext = placeName ? `${placeName} · ${statusBadge}` : statusBadge;
+
         ctx.font = '600 12px Inter, ui-sans-serif, system-ui, sans-serif';
         const titleWidth = ctx.measureText(label).width;
         ctx.font = '400 10px Inter, ui-sans-serif, system-ui, sans-serif';
         const subWidth = ctx.measureText(subtext).width;
-        const boxWidth = Math.max(titleWidth, subWidth) + 20;
-        const boxHeight = 36;
+        const boxWidth = Math.max(titleWidth, subWidth) + 24;
+        const boxHeight = 40;
         const boxX = x - boxWidth / 2;
-        const boxY = y - 48;
+        const boxY = y - 52;
 
-        // Tooltip box
-        ctx.fillStyle = 'rgba(15, 17, 23, 0.92)';
-        ctx.strokeStyle = colorWithAlpha(node.color, 0.8);
-        ctx.lineWidth = 1;
+        // Tooltip box with glow shadow
+        ctx.shadowColor = 'rgba(0, 0, 0, 0.65)';
+        ctx.shadowBlur = 12;
+        ctx.fillStyle = isFuture ? 'rgba(18, 22, 32, 0.95)' : 'rgba(13, 17, 24, 0.96)';
+        ctx.strokeStyle = isFuture ? 'rgba(255, 255, 255, 0.22)' : colorWithAlpha(node.color, 0.85);
+        ctx.lineWidth = 1.2;
         ctx.beginPath();
-        ctx.roundRect(boxX, boxY, boxWidth, boxHeight, 6);
+        ctx.roundRect(boxX, boxY, boxWidth, boxHeight, 7);
         ctx.fill();
         ctx.stroke();
 
+        ctx.shadowBlur = 0;
+
         // Arrow
         ctx.beginPath();
-        ctx.moveTo(x - 5, boxY + boxHeight);
-        ctx.lineTo(x + 5, boxY + boxHeight);
-        ctx.lineTo(x, boxY + boxHeight + 5);
+        ctx.moveTo(x - 6, boxY + boxHeight);
+        ctx.lineTo(x + 6, boxY + boxHeight);
+        ctx.lineTo(x, boxY + boxHeight + 6);
         ctx.closePath();
-        ctx.fillStyle = 'rgba(15, 17, 23, 0.92)';
+        ctx.fillStyle = isFuture ? 'rgba(18, 22, 32, 0.95)' : 'rgba(13, 17, 24, 0.96)';
         ctx.fill();
 
-        // Text
+        // Title text
         ctx.fillStyle = '#ffffff';
         ctx.font = '600 12px Inter, ui-sans-serif, system-ui, sans-serif';
         ctx.textAlign = 'center';
-        ctx.fillText(label, x, boxY + 15);
+        ctx.fillText(label, x, boxY + 16);
 
-        ctx.fillStyle = '#94a3b8';
-        ctx.font = '400 10px Inter, ui-sans-serif, system-ui, sans-serif';
-        ctx.fillText(subtext, x, boxY + 29);
+        // Subtext / status
+        ctx.fillStyle = isFuture ? '#fbbf24' : '#64d8c0';
+        ctx.font = '500 10px Inter, ui-sans-serif, system-ui, sans-serif';
+        ctx.fillText(subtext, x, boxY + 31);
 
         ctx.restore();
       }
@@ -525,8 +542,6 @@ export function WorldMapView({ graphData, className = '' }: WorldMapViewProps) {
       const geo = node.origin_geo || (node as any).originGeo;
       if (!geo) return;
       const { lat, lng } = geo;
-      const originYear = node.origin_year ?? node.originYear ?? 0;
-      if (originYear > currentYear) return;
       if (!activeTiers.has(node.epistemicTier)) return;
 
       const distToCenter = geoDistance([centerLng, centerLat], [lng, lat]);
