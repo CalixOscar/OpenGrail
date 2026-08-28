@@ -114,7 +114,7 @@ export function DocumentFeedback({ node }: DocumentFeedbackProps) {
             title="Mark as accurate and helpful"
             aria-label="Upvote tradition information"
           >
-            <ThumbsUp size={13} />
+            <ThumbsUp size={16} />
             {upCount > 0 && <span>{upCount}</span>}
           </button>
           <button
@@ -124,7 +124,7 @@ export function DocumentFeedback({ node }: DocumentFeedbackProps) {
             title="Flag inaccuracies or missing information"
             aria-label="Downvote tradition information"
           >
-            <ThumbsDown size={13} />
+            <ThumbsDown size={16} />
             {downCount > 0 && <span>{downCount}</span>}
           </button>
 
@@ -137,7 +137,7 @@ export function DocumentFeedback({ node }: DocumentFeedbackProps) {
             }}
             title="Suggest an edit, add missing texts or report errors"
           >
-            <MessageSquarePlus size={13} />
+            <MessageSquarePlus size={16} />
             <span>Suggest Edit</span>
           </button>
         </div>
