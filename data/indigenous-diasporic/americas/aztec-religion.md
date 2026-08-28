@@ -5,6 +5,12 @@ cluster: Indigenous & Diasporic
 color: '#b48655'
 era_start: c. 1325 CE
 epistemic_tier: academic_consensus
+aliases:
+  - Mexica Religion
+  - Nahua Cosmology
+  - Quetzalcoatl & Huitzilopochtli Cult
+  - Aztec Mythology
+  - Mesoamerican Fifth Sun
 summary: >-
   The monumental cosmological and ritual theology of the Mexica Empire, centered on
   the Five Suns creation myth, solar cosmic nourishment, and the twin temples of Tlaloc and Huitzilopochtli.

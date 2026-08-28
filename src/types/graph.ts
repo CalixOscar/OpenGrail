@@ -287,7 +287,7 @@ function editDistance(left: string, right: string): number {
   return row[right.length];
 }
 
-/** Shared search ranking for the drawer, command search, and graph auto-focus. */
+/** Shared search ranking for drawer search, command palette, and graph auto-focus. */
 export function scoreGraphNodeSearch(node: GraphNode, query: string): number {
   const normalizedQuery = normalizeSearchValue(query);
   if (!normalizedQuery) return 0;
@@ -297,26 +297,49 @@ export function scoreGraphNodeSearch(node: GraphNode, query: string): number {
   const aliases = (node.aliases ?? []).map(normalizeSearchValue);
   const primaryValues = [title, id, ...aliases];
 
+  // 1. Exact or prefix match on title / aliases
   if (primaryValues.includes(normalizedQuery)) return 100;
-  if (primaryValues.some((value) => value.startsWith(normalizedQuery))) return 80;
-  if (primaryValues.some((value) => value.includes(normalizedQuery))) return 60;
+  if (primaryValues.some((value) => value.startsWith(normalizedQuery))) return 85;
+  if (primaryValues.some((value) => value.includes(normalizedQuery))) return 65;
 
-  if (normalizedQuery.length >= 5 && !normalizedQuery.includes(' ')) {
+  // 2. Fuzzy match on title / aliases tokens
+  if (normalizedQuery.length >= 4 && !normalizedQuery.includes(' ')) {
     const candidateTokens = new Set(
-      primaryValues.flatMap((value) => value.split(' ')).filter((value) => value.length >= 5),
+      primaryValues.flatMap((value) => value.split(' ')).filter((value) => value.length >= 4),
     );
     const fuzzyMatch = [...candidateTokens].some((candidate) => (
       Math.abs(candidate.length - normalizedQuery.length) <= 2 &&
-      editDistance(candidate, normalizedQuery) <= 2
+      editDistance(candidate, normalizedQuery) <= (normalizedQuery.length > 5 ? 2 : 1)
     ));
-    if (fuzzyMatch) return 52;
+    if (fuzzyMatch) return 55;
   }
 
-  if (normalizeSearchValue(node.cluster).includes(normalizedQuery)) return 35;
-  const descriptiveText = normalizeSearchValue(
-    [node.summary, ...(node.canonicalTexts ?? [])].join(' '),
-  );
-  return descriptiveText.includes(normalizedQuery) ? 15 : 0;
+  // 3. Canonical Texts & Sacred Scriptures match
+  const canonicalTexts = (node.canonicalTexts ?? []).map(normalizeSearchValue);
+  if (canonicalTexts.some((text) => text.includes(normalizedQuery))) return 45;
+
+  // 4. Key Tenets & Doctrinal Concepts
+  const tenets = ((node.keyTenets || (node as any).key_tenets || []) as string[]).map(normalizeSearchValue);
+  if (tenets.some((tenet) => tenet.includes(normalizedQuery))) return 35;
+
+  // 5. Geographic Location / Sanctuary Place Name
+  const placeName = normalizeSearchValue(node.origin_geo?.place_name || node.originGeo?.place_name || '');
+  if (placeName && placeName.includes(normalizedQuery)) return 30;
+
+  // 6. Artifact Titles, Provenance & Descriptions
+  const artifactTexts = (node.artifacts ?? []).map((art) => (
+    normalizeSearchValue(`${art.title} ${art.provenance || ''} ${art.description || ''}`)
+  ));
+  if (artifactTexts.some((artText) => artText.includes(normalizedQuery))) return 25;
+
+  // 7. Full Markdown Content & Summary Corpus
+  const fullCorpus = normalizeSearchValue(`${node.summary || ''} ${node.content || ''}`);
+  if (fullCorpus.includes(normalizedQuery)) return 20;
+
+  // 8. Cluster classification
+  if (normalizeSearchValue(node.cluster).includes(normalizedQuery)) return 15;
+
+  return 0;
 }
 
 export function isRelationType(value: unknown): value is RelationType {
