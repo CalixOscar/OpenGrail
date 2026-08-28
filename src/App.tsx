@@ -12,6 +12,7 @@ import {
   Orbit,
   Plus,
   Search,
+  SlidersHorizontal,
   Sparkles,
   X,
 } from 'lucide-react';
@@ -59,6 +60,8 @@ function AppContent() {
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
   const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
   const [mobileTimelineOpen, setMobileTimelineOpen] = useState(false);
+  const [showFilters, setShowFilters] = useState(true);
+  const [showTimeline, setShowTimeline] = useState(true);
   const [clusterLayout, setClusterLayout] = useState(true);
   const [searchFocused, setSearchFocused] = useState(false);
 
@@ -276,6 +279,32 @@ function AppContent() {
               </>
             )}
 
+            <div className="tool-group" aria-label="Layers and views">
+              <span className="tool-group__label">Layers</span>
+              <div className="tool-group__buttons">
+                <button
+                  className={`cluster-toggle${showFilters ? ' cluster-toggle--active' : ''}`}
+                  type="button"
+                  onClick={() => setShowFilters((value) => !value)}
+                  aria-pressed={showFilters}
+                  title="Toggle filter bar"
+                >
+                  <SlidersHorizontal size={14} />
+                  Filters
+                </button>
+                <button
+                  className={`cluster-toggle${showTimeline ? ' cluster-toggle--active' : ''}`}
+                  type="button"
+                  onClick={() => setShowTimeline((value) => !value)}
+                  aria-pressed={showTimeline}
+                  title="Toggle timeline scrubber"
+                >
+                  <Calendar size={14} />
+                  Timeline
+                </button>
+              </div>
+            </div>
+
             <form className="graph-search" role="search" onSubmit={submitSearch}>
               <label htmlFor="graph-search-input">Search atlas</label>
               <div className="graph-search__field">
@@ -322,17 +351,21 @@ function AppContent() {
           </div>
         </header>
 
-        <FilterBar
-          activeTiers={activeTiers}
-          activeRelationTypes={activeRelationTypes}
-          onToggleTier={toggleTier}
-          onToggleRelationType={toggleRelationType}
-          onReset={resetFilters}
-          visibleNodeCount={visibleNodeIds.size}
-          totalNodeCount={graphData.nodes.length}
-          visibleLinkCount={visibleLinkCount}
-          totalLinkCount={graphData.links.length}
-        />
+        {showFilters && (
+          <div className="filter-bar-wrapper">
+            <FilterBar
+              activeTiers={activeTiers}
+              activeRelationTypes={activeRelationTypes}
+              onToggleTier={toggleTier}
+              onToggleRelationType={toggleRelationType}
+              onReset={resetFilters}
+              visibleNodeCount={visibleNodeIds.size}
+              totalNodeCount={graphData.nodes.length}
+              visibleLinkCount={visibleLinkCount}
+              totalLinkCount={graphData.links.length}
+            />
+          </div>
+        )}
 
         <section className="graph-stage" aria-label="Interactive relation stage">
           {loadState === 'ready' && viewMode === 'brain' && (
@@ -409,9 +442,11 @@ function AppContent() {
           />
         </section>
 
-        <div className={`timeline-wrapper ${mobileTimelineOpen ? 'timeline-wrapper--open' : ''}`}>
-          <TimelineScrubber />
-        </div>
+        {showTimeline && (
+          <div className={`timeline-wrapper ${mobileTimelineOpen ? 'timeline-wrapper--open' : ''}`}>
+            <TimelineScrubber />
+          </div>
+        )}
 
         {/* Mobile Bottom Navigation Menu Bar */}
         <nav className="mobile-bottom-nav" aria-label="Mobile Navigation">
@@ -426,6 +461,27 @@ function AppContent() {
 
           <button
             type="button"
+            className={`mobile-nav-item ${showFilters ? 'mobile-nav-item--active' : ''}`}
+            onClick={() => setShowFilters((v) => !v)}
+          >
+            <SlidersHorizontal size={18} />
+            <span>Filters</span>
+          </button>
+
+          <button
+            type="button"
+            className={`mobile-nav-item ${mobileTimelineOpen ? 'mobile-nav-item--active' : ''}`}
+            onClick={() => {
+              setMobileTimelineOpen((v) => !v);
+              setShowTimeline(true);
+            }}
+          >
+            <Calendar size={18} />
+            <span>Timeline</span>
+          </button>
+
+          <button
+            type="button"
             className="mobile-nav-item"
             onClick={() => {
               const input = document.getElementById('graph-search-input') as HTMLInputElement | null;
@@ -434,15 +490,6 @@ function AppContent() {
           >
             <Search size={18} />
             <span>Search</span>
-          </button>
-
-          <button
-            type="button"
-            className={`mobile-nav-item ${mobileTimelineOpen ? 'mobile-nav-item--active' : ''}`}
-            onClick={() => setMobileTimelineOpen((v) => !v)}
-          >
-            <Calendar size={18} />
-            <span>Timeline</span>
           </button>
 
           <button
