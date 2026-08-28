@@ -5,6 +5,12 @@ cluster: Ancient European
 color: '#7f8ee8'
 era_start: c. 500 CE
 epistemic_tier: academic_consensus
+aliases:
+  - Old Norse Paganism
+  - Nordic Polytheism
+  - Valhalla & Asgard Cosmology
+  - Forn Siðr
+  - Scandinavian Heathenry
 summary: >-
   The varied pre-Christian religious practices of Norse-speaking societies in
   Scandinavia and their diasporas.
