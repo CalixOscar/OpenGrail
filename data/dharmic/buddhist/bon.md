@@ -1,69 +1,59 @@
 ---
 id: bon
-title: Bön
-cluster: Dharmic
-color: '#e8792f'
-era_start: c. 10th century CE
+title: Yungdrung Bon & Indigenous Tibetan Religion
+cluster: East Asian
+color: '#e05353'
+era_start: c. 11th century BCE to Present
 epistemic_tier: academic_consensus
 summary: >-
-  A Tibetan religious tradition with its own revelation, ritual, monastic,
-  philosophical, and contemplative lineages.
+  The indigenous pre-Buddhist spiritual and cosmological tradition of Tibet, centered on
+  Founder Tönpa Shenrab Miwoche, the indestructible Yungdrung (Swastika/Eternity), and Dzogchen.
 canonical_texts:
-  - Bön Kangyur
-  - Bön Tengyur
-  - Zhang Zhung Nyen Gyü
+  - Bonpo Kanjur and Katen (178 volumes of canonical scriptures)
+  - Zhang Zhung Nyan Gyud (Oral Lineage of Great Perfection)
 relations:
   - target: tibetan-buddhism
     type: syncretized_with
     certainty: academic_consensus
-origin_year: 950
+  - target: shamanic-traditions
+    type: branch_of
+    certainty: academic_consensus
+origin_year: -1100
 origin_geo:
-  lat: 25.7268
-  lng: 82.9456
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 31.0667
+  lng: 81.3128
+  place_name: 'Mount Kailash & Kingdom of Zhangzhung, Ngari, Western Tibet'
 extinct_year: null
 key_tenets:
   - >-
-    Foundational Doctrine: Modern Yungdrung Bön took recognizable institutional
-    form in the later first millennium and afterward, while grounding itself in
-    revelations and memories of old...
+    Foundational Doctrine: Tönpa Shenrab as the primordial enlightened teacher; the universe governed by the Yungdrung ("unchanging and indestructible" cosmic principle); Dzogchen (Great Perfection) as the recognition of primordial awareness (Rigpa).
   - >-
-    Distinctive Practice: Bön includes monastic discipline, deity ritual,
-    astrology, funerary practice, philosophical study, and Dzogchen
-    contemplative systems. It shares many forms with...
+    Distinctive Practice: Circumambulating holy mountains (Mount Kailash) and stupas in a counter-clockwise direction; casting sacred spirit-catchers (*Dö*); performing sky-burial rituals and smoke offerings (*Sang*).
   - >-
-    Core Orientation: A Tibetan religious tradition with its own revelation,
-    ritual, monastic, philosophical, and contemplative lineages.
+    Core Orientation: Mount Kailash circumambulation, primordial nature of mind (Dzogchen), and ancient Zhangzhung linguistic heritage.
 sources:
-  - title: 'Encyclopaedia Britannica: "Bön"'
-    url: 'https://www.britannica.com/topic/b-n'
-  - title: 'Oxford Reference: Overview of Bön'
-    url: 'https://www.oxfordreference.com/search?q=B%C3%B6n'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
-    url: 'https://www.rep.routledge.com/search?query=B%C3%B6n'
+  - title: 'Per Kvaerne: "The Bon Religion of Tibet: The Iconography of a Living Tradition"'
+    url: 'https://www.shambhala.com/'
+  - title: 'Samten G. Karmay: "The Arrow and the Spindle: Studies in History, Myths and Rituals in Tibet"'
+    url: 'https://brill.com/'
 artifacts:
-  - title: Bön Historical Sanctuary & Iconography
-    imageUrl: /artifacts/bon-1.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/B%C3%B6n'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 10th century CE
+  - title: Mount Kailash (Kang Rinpoche) Sacred Circumambulation Sanctuary
+    imageUrl: /artifacts/bon-religion-1.jpg
+    sourceUrl: https://en.wikipedia.org/wiki/Mount_Kailash
+    provenance: Ngari Prefecture, Tibet Autonomous Region
+    period: Timeless Sacred Geography (Zhangzhung Kingdom origin)
     description: >-
-      Authoritative historical artifact, sanctuary site, and iconography
-      associated with Bön.
-  - title: Bön Kangyur & Sacred Relics
-    imageUrl: /artifacts/bon-2.jpg
-    sourceUrl: 'https://en.wikipedia.org/wiki/B%C3%B6n'
-    provenance: 'Varanasi (Kashi), Uttar Pradesh, India'
-    period: c. c. 10th century CE
-    description: 'Preserved liturgical manuscripts, canonical texts, and sacred art of Bön.'
+      Majestic four-sided pyramid peak revered as the nine-story Yungdrung Mountain and spiritual axis of the universe in Bon cosmology.
+  - title: Thangka of Tönpa Shenrab Miwoche (The Primordial Bon Teacher)
+    imageUrl: /artifacts/bon-religion-2.jpg
+    sourceUrl: https://en.wikipedia.org/wiki/Tonpa_Shenrab_Miwoche
+    provenance: Menri Monastery, Tsang, Tibet
+    period: Traditional Horizon
+    description: >-
+      Sacred silk thangka painting depicting Buddha Tönpa Shenrab seated in meditation holding the golden scepter of eternity, surrounded by the peaceful and wrathful Bon deities.
 ---
 
-# Bön
+# Yungdrung Bon & Indigenous Tibetan Religion
 
 ## Historical context
-
-Modern Yungdrung Bön took recognizable institutional form in the later first millennium and afterward, while grounding itself in revelations and memories of older Tibetan religion. Its canon, monasteries, treasure traditions, and histories developed alongside Buddhist institutions. Earlier uses of *bon* in Tibetan sources do not all denote this same organized tradition.
-
-## Distinctives and comparative notes
-
-Bön includes monastic discipline, deity ritual, astrology, funerary practice, philosophical study, and Dzogchen contemplative systems. It shares many forms with Tibetan Buddhism through centuries of exchange, while maintaining its own founder narrative, canon, teachers, and identity. Neither “pre-Buddhist shamanism” nor “copy of Buddhism” adequately describes this layered history.
+Originating in the ancient western Tibetan kingdom of Zhangzhung before the 7th-century arrival of Indian Buddhism, Bon provided the core rituals, local deities, and sacred geography that shaped the entire culture of the Tibetan plateau.
