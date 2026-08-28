@@ -22,11 +22,11 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Ready — 3x stage watermark branding scale update applied and verified.
-**Task:** Scale up background stage watermark branding font by 3x and deploy live.
-**Files touched:** `src/index.css`, `PROJECT_NOTES.md`.
-**Next step:** Push commit to `origin/main` to trigger live deployment.
-**Gotchas:** Maintain `pointer-events: none` and `overflow: hidden` on stage watermark container to prevent scrollbar/interaction artifacts.
+**Status:** Ready — Full MIT open source transition, deep linking, community contribution workflow, and README overhaul completed and verified.
+**Task:** Open source transition to 100% MIT, add deep linking URL hash state, create CONTRIBUTING.md, and overhaul README for GitHub discoverability.
+**Files touched:** `LICENSE`, `package.json`, `README.md`, `CONTRIBUTING.md`, `data/_template.md`, `src/state/AtlasState.tsx`, `scripts/build-graph.js`, all 17 source/script SPDX headers, `PROJECT_NOTES.md`.
+**Next step:** Sync to deployment repo and push to GitHub.
+**Gotchas:** `findMarkdownFiles` in `scripts/build-graph.js` skips any `.md` file starting with `_` to keep `data/_template.md` out of compiled `public/graph.json`.
 **Left by:** Antigravity (2026-08-28)
 
 ## Decisions Log
@@ -145,3 +145,13 @@ Discovered, staged, and verified all 1,146 assets. Isolated untracked duplicate 
 applied frontmatter `artifacts:` updates across all 573 Markdown traditions without modifying
 surrounding content, and verified clean passes across `scripts/audit-artifacts.js`, `build:graph`
 (573 nodes, 903 links), and `vite build`.
+
+### 2026-08-28 — Full MIT open-source transition, deep linking & GitHub readiness
+Transitioned project from dual AGPL/commercial licensing to 100% standard MIT across the codebase,
+documentation, and metadata. Removed legacy commercial and internal handoff files. Updated SPDX
+headers across all 17 source/script files. Added bidirectional URL deep linking (`#tradition=id&view=map|brain`)
+supporting direct node focus and browser history navigation. Created `CONTRIBUTING.md` and `data/_template.md`
+for open community contributions. Rewrote `README.md` with badges, live demo links, comprehensive
+feature overviews, and acknowledgements crediting Simon E. Davies / Mythopia (*The Great Tree of Religion*).
+Production build verified cleanly at 573 nodes, 11 clusters, and 903 links.
+

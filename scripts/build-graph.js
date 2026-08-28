@@ -1,5 +1,4 @@
-// SPDX-License-Identifier: AGPL-3.0-or-later OR LicenseRef-OpenGrail-Commercial
-// See LICENSE and LICENSE-COMMERCIAL.md for the applicable terms.
+// SPDX-License-Identifier: MIT
 
 import { readdir, readFile, mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
@@ -273,7 +272,9 @@ async function findMarkdownFiles(directory) {
       .map(async (entry) => {
         const entryPath = path.join(directory, entry.name);
         if (entry.isDirectory()) return findMarkdownFiles(entryPath);
-        return entry.isFile() && entry.name.endsWith(".md") ? [entryPath] : [];
+        return entry.isFile() && entry.name.endsWith(".md") && !entry.name.startsWith("_")
+          ? [entryPath]
+          : [];
       }),
   );
   return nestedFiles.flat();

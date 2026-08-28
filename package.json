@@ -2,7 +2,24 @@
   "name": "open-grail",
   "private": true,
   "version": "0.1.0",
-  "license": "AGPL-3.0-or-later OR LicenseRef-OpenGrail-Commercial",
+  "description": "An interactive 3D and force-graph atlas of 573 world religions, spiritual lineages, and ethical philosophies.",
+  "license": "MIT",
+  "homepage": "https://www.calmdownoscar.com/opengrail/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CalixOscar/OpenGrail.git"
+  },
+  "keywords": [
+    "comparative-religion",
+    "theology",
+    "philosophy",
+    "interactive-atlas",
+    "force-graph",
+    "d3",
+    "3d-globe",
+    "open-data",
+    "react"
+  ],
   "type": "module",
   "scripts": {
     "curate:artifacts": "node scripts/curate-iconic-artifacts.js discover",

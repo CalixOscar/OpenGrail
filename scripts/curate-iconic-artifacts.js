@@ -1,5 +1,5 @@
 /*
- * SPDX-License-Identifier: AGPL-3.0-or-later OR LicenseRef-OpenGrail-Commercial
+ * SPDX-License-Identifier: MIT
  *
  * Discover, stage, and apply two curator-directed Wikimedia Commons images for
  * every OpenGrail tradition. Query manifests identify the subjects; this script
