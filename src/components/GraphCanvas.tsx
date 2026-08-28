@@ -16,6 +16,7 @@ import {
   useRef,
   useState,
 } from 'react';
+import { useAtlasState } from '../state/AtlasState';
 import {
   EPISTEMIC_TIER_OPTIONS,
   RELATION_TYPE_OPTIONS,
@@ -256,6 +257,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
     },
     forwardedRef,
   ) {
+    const { searchLabelsVisible } = useAtlasState();
     const containerRef = useRef<HTMLDivElement>(null);
     const graphRef = useRef<ForceGraphMethods<GraphNode, GraphLink>>();
     const zoomLevelRef = useRef(1);
@@ -788,7 +790,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
           !isFuture &&
           (isSelected ||
             isHovered ||
-            isSearchMatch ||
+            (isSearchMatch && searchLabelsVisible) ||
             globalScale >= 1.65 ||
             (displayWeight >= 2.15 && globalScale >= 0.25) ||
             (displayWeight >= 1.6 && globalScale >= 0.82) ||
@@ -846,6 +848,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         currentYear,
         hoveredNodeId,
         normalizedQuery,
+        searchLabelsVisible,
         searchMatchIds,
         selectedNeighborhood,
         selectedNodeId,

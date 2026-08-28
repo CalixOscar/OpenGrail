@@ -80,6 +80,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
     activeTiers,
     activeRelationTypes,
     searchQuery,
+    searchLabelsVisible,
   } = useAtlasState();
 
   const containerRef = useRef<HTMLDivElement>(null);
@@ -413,7 +414,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
       const extinctYear = node.extinct_year ?? node.extinctYear;
       const isExtinct = extinctYear !== null && extinctYear !== undefined && currentYear >= extinctYear;
 
-      if (isSelected || isHovered || isSearchMatch) {
+      if (isSelected || isHovered || (isSearchMatch && searchLabelsVisible)) {
         ctx.save();
         const label = node.title;
         const placeName = node.origin_geo?.place_name || (node as any).originGeo?.place_name || '';
@@ -486,6 +487,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
     nodeMap,
     rotation,
     scaleFactor,
+    searchLabelsVisible,
     searchResults,
     selectedLinkId,
     selectedNodeId,
