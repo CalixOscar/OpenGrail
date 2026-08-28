@@ -56,6 +56,7 @@ const MOCKUP_CLUSTER_ANCHORS = new Map<string, Point>([
   ['Ancient Mediterranean', { x: -175, y: 146 }],
   ['Ancient European', { x: -326, y: 154 }],
   ['Esoteric & Modern', { x: -28, y: 218 }],
+  ['Philosophical & Ethical Systems', { x: 80, y: 270 }],
   ['Speculative', { x: 344, y: 246 }],
 ]);
 
