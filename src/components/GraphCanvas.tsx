@@ -1,5 +1,4 @@
-/* SPDX-License-Identifier: AGPL-3.0-or-later OR LicenseRef-OpenGrail-Commercial */
-/* See LICENSE and LICENSE-COMMERCIAL.md for the applicable terms. */
+/* SPDX-License-Identifier: MIT */
 
 import ForceGraph2D, {
   type ForceGraphMethods,

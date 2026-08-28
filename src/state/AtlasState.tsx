@@ -1,10 +1,10 @@
-/* SPDX-License-Identifier: AGPL-3.0-or-later OR LicenseRef-OpenGrail-Commercial */
-/* See LICENSE and LICENSE-COMMERCIAL.md for the applicable terms. */
+/* SPDX-License-Identifier: MIT */
 
 import {
   createContext,
   useCallback,
   useContext,
+  useEffect,
   useMemo,
   useState,
   type ReactNode,
@@ -46,16 +46,71 @@ export interface AtlasProviderProps {
   initialYear?: number;
 }
 
+function parseHash(hash: string): { nodeId: string | null; view: ViewMode | null } {
+  if (typeof window === 'undefined') return { nodeId: null, view: null };
+  const clean = hash.replace(/^#\/?/, '').trim();
+  if (!clean) return { nodeId: null, view: null };
+
+  const params = new URLSearchParams(clean);
+  const nodeId = params.get('tradition') || params.get('node') || null;
+  const viewParam = params.get('view');
+  const view = (viewParam === 'brain' || viewParam === 'map') ? (viewParam as ViewMode) : null;
+
+  if (!nodeId && !view) {
+    if (clean === 'map' || clean === 'brain') {
+      return { nodeId: null, view: clean as ViewMode };
+    }
+    return { nodeId: clean, view: null };
+  }
+
+  return { nodeId, view };
+}
+
+function syncHash(nodeId: string | null, view: ViewMode) {
+  if (typeof window === 'undefined') return;
+  const params = new URLSearchParams();
+  if (nodeId) params.set('tradition', nodeId);
+  if (view !== 'brain') params.set('view', view);
+
+  const queryString = params.toString();
+  const newHash = queryString ? `#${queryString}` : '';
+  const currentUrl = `${window.location.pathname}${window.location.search}`;
+
+  if (window.location.hash !== newHash) {
+    window.history.replaceState(null, '', newHash ? `${currentUrl}${newHash}` : currentUrl);
+  }
+}
+
 export function AtlasProvider({
   children,
   initialYear = new Date().getFullYear(),
 }: AtlasProviderProps) {
+  const initialHash = typeof window !== 'undefined' ? parseHash(window.location.hash) : { nodeId: null, view: null };
+
   const [currentYear, setCurrentYear] = useState<number>(initialYear);
-  const [viewMode, setViewMode] = useState<ViewMode>('brain');
-  const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
+  const [viewMode, setViewMode] = useState<ViewMode>(initialHash.view ?? 'brain');
+  const [selectedNodeId, setSelectedNodeId] = useState<string | null>(initialHash.nodeId);
   const [selectedLinkId, setSelectedLinkId] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState<string>('');
   const [searchLabelsVisible, setSearchLabelsVisible] = useState<boolean>(true);
+
+  // Synchronize state when URL hash changes externally (e.g. browser back/forward)
+  useEffect(() => {
+    const handleHashChange = () => {
+      const { nodeId, view } = parseHash(window.location.hash);
+      setSelectedNodeId(nodeId);
+      if (nodeId) setSelectedLinkId(null);
+      if (view) setViewMode(view);
+    };
+
+    window.addEventListener('hashchange', handleHashChange);
+    return () => window.removeEventListener('hashchange', handleHashChange);
+  }, []);
+
+  // Synchronize URL hash when node selection or viewMode changes
+  useEffect(() => {
+    syncHash(selectedNodeId, viewMode);
+  }, [selectedNodeId, viewMode]);
 
   const [activeTiers, setActiveTiers] = useState<Set<EpistemicTier>>(
     () => new Set(EPISTEMIC_TIERS),

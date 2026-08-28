@@ -1,47 +1,117 @@
-# OpenGrail
+<div align="center">
 
-OpenGrail is a local, visual atlas for exploring relationships among religious traditions, theological developments, and comparative concepts. It pairs Markdown source documents with a force-directed graph and keeps academically supported, confessional, minority-scholarly, and fringe claims visibly distinct.
+# 🌐 OpenGrail
 
-## Run locally
+**An interactive 3D atlas and force-graph mapping the genealogical tree, theological evolution, and cross-cultural links of world religions, mythologies, and ethical philosophies.**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Traditions](https://img.shields.io/badge/Traditions-573-success.svg)](#content-model)
+[![Theological Links](https://img.shields.io/badge/Graph%20Links-903-purple.svg)](#content-model)
+[![Visual Artifacts](https://img.shields.io/badge/Artifacts-1%2C146-amber.svg)](#content-model)
+[![Clusters](https://img.shields.io/badge/Clusters-11-teal.svg)](#content-model)
+[![React](https://img.shields.io/badge/React-18-61dafb.svg)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
+[![D3 Geo](https://img.shields.io/badge/D3-Geo%203D-orange.svg)](https://d3js.org/)
+
+<h3>
+  <a href="https://www.calmdownoscar.com/opengrail/">Live Interactive Atlas</a>
+  <span> · </span>
+  <a href="#quick-start">Quick Start</a>
+  <span> · </span>
+  <a href="CONTRIBUTING.md">Contribute a Tradition</a>
+</h3>
+
+</div>
+
+---
+
+## ✨ Features
+
+- 🧠 **Force-Directed Conceptual Graph**: Dynamic physics engine visually clustering traditions by philosophical affinity, nested denominations, and cross-faith influences.
+- 🌍 **3D Interactive Orthographic Globe**: Geographic coordinate projection with great-circle relationship arcs tracking historical origins across continents and eras.
+- ⏳ **Chronological Timeline Scrubber**: Filter traditions and historical splits dynamically from ancient antiquity through modern movements.
+- 🔍 **Fuzzy Search & Deep Linking**: Instant keyboard search across traditions, aliases, and canonical texts. Every tradition and view mode has a unique, shareable URL hash (e.g. `#tradition=stoicism&view=map`).
+- 🎓 **Epistemic Rigor**: Explicitly distinguishes between `academic_consensus`, `minority_scholarly`, `theological_claim`, and `speculative_fringe` so historical facts and devotional traditions remain clear.
+- 🖼️ **Museum-Grade Visual Artifacts**: Over 1,100 curated public-domain historical images, manuscripts, symbols, and architectural icons.
+- 📝 **Markdown-as-Database**: 100% static, fast, and git-native. Every tradition is a standalone Markdown file with validated YAML frontmatter compiled deterministically into `graph.json`.
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Node.js 18+
+- npm
+
+### Installation & Development
 
 ```bash
+# Clone the repository
+git clone https://github.com/CalixOscar/OpenGrail.git
+cd OpenGrail
+
+# Install dependencies
 npm install
-node scripts/build-graph.js
+
+# Build graph data and launch local development server
 npm run dev
 ```
 
-Open the local URL printed by Vite. The development command also rebuilds `public/graph.json`, so edits to frontmatter can be picked up by restarting the server.
+Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-For a production check:
+### Production Build
 
 ```bash
 npm run build
 npm run preview
 ```
 
-## Content model
+---
 
-Each file below `data/` is the source of truth for one tradition. YAML frontmatter supplies graph metadata and outgoing relations; the remaining Markdown becomes the document reader body. `scripts/build-graph.js` validates every record, resolves relation targets, deduplicates links, computes inbound and outbound backlinks, and writes deterministic JSON to `public/graph.json`.
+## 🗺️ Content Model
 
-The included atlas contains 536 traditions, denominations, schools, historical religions, and modern movements across ten clusters, connected by 805 documented graph relations. A dedicated `branch_of` relation builds a nested family tree for denominations and schools, while cross-cluster links preserve influence, divergence, syncretism, conceptual parallels, schisms, and clearly marked fringe reinterpretations. Relation certainty is stored independently from node-level epistemic tier so a well-established tradition can still carry a debated or speculative comparison without conflating the two.
+Each file under `data/` serves as the single source of truth for one tradition. Frontmatter defines graph metadata, geographic coordinates, and outgoing lineage relations, while the Markdown body provides a scholarly summary.
 
-Node size is a presentation aid, not an estimate of adherent population. Every node grows modestly with its number of graph connections, while the optional `display_weight` frontmatter field (validated from `0.75` to `3`) keeps major umbrella traditions legible at overview zoom. Records without that field default to `1`. Optional `aliases` improve discovery across self-designations, common historical names, transliterations, and languages; search also tolerates small spelling mistakes.
+```
+data/
+├── abrahamic/                  # Christianity, Judaism, Islam, Baha'i, Samaritans...
+├── dharmic/                    # Hinduism, Buddhism, Jainism, Sikhism...
+├── east-asian/                 # Daoism, Confucianism, Shinto, Mohism...
+├── ancient-near-east/          # Mesopotamian, Egyptian, Canaanite...
+├── ancient-mediterranean/      # Greco-Roman, Hellenistic mysteries, Gnosticism...
+├── iranian/                    # Zoroastrianism, Manichaeism, Zurvanism...
+├── african-traditions/         # Yoruba, Vodun, San, Dogon, Akan...
+├── ancient-americas/           # Maya, Mexica (Aztec), Inka, Mississippian...
+├── central-asian-siberian/     # Tengrism, Siberian Shamanism, Bön...
+├── oceanic-australasian/       # Polynesian, Dreamtime, Māori, Micronesian...
+├── indigenous-diasporic/       # Santería, Candomblé, Rastafari...
+├── european-traditions/        # Celtic, Norse, Slavic, Baltic, Rodnovery...
+├── philosophical-ethical/      # Stoicism, Neoplatonism, Humanism, Epicureanism...
+├── esoteric-modern/            # Hermeticism, Theosophy, Anthroposophy...
+└── speculative/                # Paleocontact, Proto-World reconstruction...
+```
 
-## Licensing
+---
 
-New application code is dual-licensed: you may use it under the [GNU AGPL v3-or-later](LICENSE)
-or obtain a separate [OpenGrail Commercial License](LICENSE-COMMERCIAL.md) for proprietary
-modifications and deployments. See [LICENSING.md](LICENSING.md) for the exact scope and the
-transition from the initial MIT release.
+## 🤝 Contributing
 
-Authored atlas data, generated graph content, and documentation remain under the
-[MIT content license](LICENSE-CONTENT-MIT.md). Third-party dependencies and the retained
-`TheoGraph.png` reference image have separate rights and provenance.
+We welcome community contributions! Whether you want to add an obscure regional philosophy, refine historical dates, or fix relationship connections:
 
-## Interface
+1. Read the [Contribution Guide](CONTRIBUTING.md).
+2. Copy `data/_template.md` into the relevant `data/` subdirectory.
+3. Validate locally with `npm run build:graph`.
+4. Open a Pull Request.
 
-- Search the atlas or the nested tradition tree to focus a node; matching descendants keep their parent context visible.
-- Click any node or sidebar entry to open its Markdown document.
-- Use parent, branch, influence, and backlink cards to travel directly between related traditions.
-- Toggle epistemic tiers and relation types to reshape the visible graph.
-- Switch cluster attraction on or off, drag nodes, pan the canvas, or use the camera controls to refit the atlas.
+---
+
+## 🙏 Acknowledgements & Inspirations
+
+- **[Simon E. Davies / Mythopia](https://www.youtube.com/@mythopia1)** — The foundational genealogical structure of the tradition tree was inspired by Simon Davies' pioneering visual research on *The Great Tree of Religion* (*Faithscape*). Support his work on [Patreon](https://www.patreon.com/Mythopia).
+- **Wikimedia Commons** — Photographic and manuscript provenance for public-domain artifacts.
+- **D3.js & React Force Graph** — Graph physics and geographic projections.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) — free and open for educational, academic, and personal use.
