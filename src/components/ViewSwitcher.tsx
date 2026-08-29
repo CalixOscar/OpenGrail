@@ -1,6 +1,6 @@
 /* SPDX-License-Identifier: MIT */
 
-import { Globe2, Network } from 'lucide-react';
+import { Globe2, List, Network } from 'lucide-react';
 import { useAtlasState } from '../state/AtlasState';
 
 export interface ViewSwitcherProps {
@@ -36,6 +36,17 @@ export function ViewSwitcher({ className = '' }: ViewSwitcherProps) {
       >
         <Globe2 size={14} aria-hidden="true" />
         <span>World Map</span>
+      </button>
+
+      <button
+        type="button"
+        className={`view-switcher__btn${viewMode === 'list' ? ' is-active' : ''}`}
+        onClick={() => setViewMode('list')}
+        aria-pressed={viewMode === 'list'}
+        title="Accessible tabular list view"
+      >
+        <List size={14} aria-hidden="true" />
+        <span>List View</span>
       </button>
     </div>
   );

@@ -15,6 +15,7 @@ import {
   useRef,
   useState,
 } from 'react';
+import { List } from 'lucide-react';
 import { useAtlasState } from '../state/AtlasState';
 import {
   isLinkTemporallyVisible,
@@ -22,6 +23,7 @@ import {
   isNodeFuture,
   isNodeTemporallyVisible,
 } from '../state/temporalVisibility';
+import { formatYearLabel } from './TimelineScrubber';
 import {
   EPISTEMIC_TIER_OPTIONS,
   RELATION_TYPE_OPTIONS,
@@ -262,7 +264,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
     },
     forwardedRef,
   ) {
-    const { searchLabelsVisible, temporalMode } = useAtlasState();
+    const { searchLabelsVisible, temporalMode, setViewMode } = useAtlasState();
     const containerRef = useRef<HTMLDivElement>(null);
     const graphRef = useRef<ForceGraphMethods<GraphNode, GraphLink>>();
     const zoomLevelRef = useRef(1);
@@ -993,9 +995,25 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
       <div
         ref={containerRef}
         className={`graph-canvas ${className}`.trim()}
-        role="application"
-        aria-label="Interactive comparative religion graph"
+        role="img"
+        aria-label={`Comparative religion graph showing ${canvasGraph.nodes.length} traditions and ${canvasGraph.links.length} relations at ${formatYearLabel(currentYear)} in ${temporalMode} mode`}
       >
+        <div className="graph-overlay-controls" role="toolbar" aria-label="Graph overlay controls">
+          <div className="tool-group">
+            <span className="tool-group__label">View</span>
+            <button
+              type="button"
+              className="cluster-toggle"
+              onClick={() => setViewMode('list')}
+              title="Switch to accessible list view"
+              aria-label="Switch to accessible list view"
+            >
+              <List size={14} aria-hidden="true" />
+              <span>List</span>
+            </button>
+          </div>
+        </div>
+
         <div
           className="graph-canvas__surface"
           style={{ cursor: hoveredNodeId ? 'pointer' : 'grab' }}
