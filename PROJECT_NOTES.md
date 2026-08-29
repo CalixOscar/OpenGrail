@@ -22,12 +22,12 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Tracks A, B, C and D complete and verified; `npm run build` and `npm test` pass. Tracks E and F not started.
-**Task:** Sprint 01 remediation from `docs/sprint-01-remediation-plan.md`. Track D unified temporal visibility behind one shared selector. Track E (accessible search/modals/timeline) and Track F (regression test harness) remain.
-**Files touched:** `src/state/temporalVisibility.ts` (new), `src/state/AtlasState.tsx`, `src/App.tsx`, `src/components/GraphCanvas.tsx`, `src/components/WorldMapView.tsx`, `src/components/TimelineScrubber.tsx`, `src/components/Sidebar.tsx`, `src/components/ComparisonModal.tsx`, `PROJECT_NOTES.md`.
-**Next step:** Dispatch Track E, then Track F. Track F should fold in unit tests for `isNodeTemporallyVisible`, including the `year == extinct_year` boundary and a null `extinct_year`; `npm test` currently runs only the Track C contract check.
-**Gotchas:** `active` mode treats the extinction year itself as extinct (`year >= extinct_year`), matching what the map already did before this track; do not change it on one surface alone. The map hit-test at `WorldMapView.tsx:546` was the defect that mattered most - it filtered on tier only and never read the year, so unemerged traditions stayed clickable. Any new surface that filters by year must call the shared selector rather than reimplement it. Both swarm dispatches for this track and Track A ended on a ~292-299s bridge timeout while still writing good code; the ERROR status is not a work signal.
-**Left by:** Claude Code 2026-08-29
+**Status:** Tracks A, B, C, D, and E (parts E1 & E2) complete and verified; `npm run build` and `npm test` pass. E3 and Track F untouched.
+**Task:** Sprint 01 remediation from `docs/sprint-01-remediation-plan.md` and `PLAN.md`. Track E parts 1 and 2 implemented a unified ARIA combobox for main and sidebar search, and moved timeline key handling from the footer to the slider element with PageUp/PageDown large steps.
+**Files touched:** `src/components/SearchCombobox.tsx` (new), `src/App.tsx`, `src/components/Sidebar.tsx`, `src/components/TimelineScrubber.tsx`, `src/index.css`, `PROJECT_NOTES.md`.
+**Next step:** Dispatch E3 (synchronized list/table view for graph and globe, replacing `role="application"`), followed by Track F (regression test harness).
+**Gotchas:** The ARIA combobox requires `aria-activedescendant` referencing option elements with `role="option"` and `aria-selected` tracking. In `TimelineScrubber`, keydown handlers are bound directly to the slider track with `tabIndex={0}`; child buttons inside footer (play, reset, mode switches) intentionally do not intercept or bubble arrow navigation to the scrubber.
+**Left by:** Antigravity 2026-08-29
 
 ## Decisions Log
 <!-- Append dated decisions below. Keep entries short; put detailed plans in repo docs. -->
@@ -222,3 +222,15 @@ to one component.
 Toggling the modes at the present day gives 573 of 573 traditions and 903 of 903 relations
 in `emergent`, against 491 and 735 in `active` - 82 extinct traditions correctly excluded,
 where previously nothing excluded them on any surface but the map's own drawing code.
+
+### 2026-08-29 — Track E (E1 & E2) accessible search and timeline slider landed
+Implemented Track E parts 1 and 2 of Sprint 01 remediation (`PLAN.md` and `docs/sprint-01-remediation-plan.md`).
+Created shared `SearchCombobox` component (`src/components/SearchCombobox.tsx`) with full ARIA combobox pattern
+(`role="combobox"`, `aria-expanded`, `aria-controls`, `aria-activedescendant`, `role="listbox"`, `role="option"`,
+`aria-selected`), supporting ArrowUp/ArrowDown navigation, Enter selection, Escape dismissal, and polite live region
+announcements. Replaced standalone search forms in both `App.tsx` and `Sidebar.tsx`. Updated `TimelineScrubber.tsx`
+to move keyboard navigation from the `<footer>` container directly to the `role="slider"` track element with `tabIndex={0}`,
+added PageUp/PageDown large stepping (100 years in historic mode, 5,000 years in deep mode), and verified that arrow keys
+on child footer buttons no longer scrub the timeline. Verified via headless Chrome automation test, `npm test`, and `npm run build`.
+E3 and Track F remain untouched.
+

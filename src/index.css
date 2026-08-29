@@ -931,7 +931,15 @@ button,
   backdrop-filter: blur(20px);
 }
 
-.search-results button {
+.sidebar-search .search-results {
+  top: calc(100% + 5px);
+  left: 0;
+  right: 0;
+  width: 100%;
+}
+
+.search-results button,
+.search-results__option {
   display: grid;
   width: 100%;
   padding: 8px 9px;
@@ -943,10 +951,21 @@ button,
   color: var(--text-soft);
   cursor: pointer;
   text-align: left;
+  border: 0;
+  font-family: inherit;
 }
 
-.search-results button:hover {
-  background: rgba(255, 255, 255, 0.055);
+.search-results button:hover,
+.search-results button:focus-visible,
+.search-results button[aria-selected="true"],
+.search-results button.is-active,
+.search-results__option:hover,
+.search-results__option:focus-visible,
+.search-results__option[aria-selected="true"],
+.search-results__option.is-active {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text);
+  outline: none;
 }
 
 .search-results__dot {
@@ -2158,9 +2177,9 @@ button,
   user-select: none;
 }
 
-.timeline-scrubber:focus-visible {
+.timeline-track:focus-visible {
   outline: 2px solid rgba(100, 216, 192, 0.7);
-  outline-offset: -2px;
+  outline-offset: 2px;
 }
 
 .timeline-scrubber__header {
