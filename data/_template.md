@@ -1,15 +1,16 @@
 ---
-id: example_tradition
+id: example-tradition
 title: Example Tradition
 cluster: Abrahamic
 color: '#3b82f6'
 display_weight: 1.0
 era_start: c. 100 CE
-era_end: null
-geographic_origin: Eastern Mediterranean
-coordinates:
-  - 35.0
-  - 32.0
+origin_year: 100
+origin_geo:
+  lat: 31.7683
+  lng: 35.2137
+  place_name: Jerusalem
+extinct_year: null
 epistemic_tier: academic_consensus
 summary: >-
   A concise 1-2 sentence summary of this tradition, school, movement, or philosophy.
@@ -19,17 +20,24 @@ aliases:
 canonical_texts:
   - Foundational Scripture
   - Primary Commentary
-key_figures:
-  - Founder Name
-  - Major Theologian
-core_tenets:
+key_tenets:
   - Primary philosophical or theological premise
   - Key ethical or ritual practice
+sources:
+  - title: Example Scholarly Source
+    url: https://example.org/source
+artifacts:
+  - title: Example Historical Artifact
+    imageUrl: https://example.org/artifact.jpg
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Example.jpg
+    provenance: Example Museum
+    period: c. 100 CE
+    description: Description of the visual artifact or manuscript.
 relations:
   - target: christianity
     type: branch_of
-    certainty: documented
-    description: Description of the lineage relationship or historical divergence.
+    certainty: academic_consensus
+    citation: Historical documentation of apostolic origins.
 ---
 
 ## Overview

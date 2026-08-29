@@ -15,7 +15,15 @@ import {
   useRef,
   useState,
 } from 'react';
+import { List } from 'lucide-react';
 import { useAtlasState } from '../state/AtlasState';
+import {
+  isLinkTemporallyVisible,
+  isNodeExtinct,
+  isNodeFuture,
+  isNodeTemporallyVisible,
+} from '../state/temporalVisibility';
+import { formatYearLabel } from './TimelineScrubber';
 import {
   EPISTEMIC_TIER_OPTIONS,
   RELATION_TYPE_OPTIONS,
@@ -256,7 +264,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
     },
     forwardedRef,
   ) {
-    const { searchLabelsVisible } = useAtlasState();
+    const { searchLabelsVisible, temporalMode, setViewMode } = useAtlasState();
     const containerRef = useRef<HTMLDivElement>(null);
     const graphRef = useRef<ForceGraphMethods<GraphNode, GraphLink>>();
     const zoomLevelRef = useRef(1);
@@ -294,10 +302,14 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
       () =>
         new Set(
           graphData.nodes
-            .filter((node) => activeTiers.has(node.epistemicTier))
+            .filter(
+              (node) =>
+                activeTiers.has(node.epistemicTier) &&
+                isNodeTemporallyVisible(node, currentYear, temporalMode),
+            )
             .map((node) => node.id),
         ),
-      [activeTiers, graphData.nodes],
+      [activeTiers, currentYear, graphData.nodes, temporalMode],
     );
 
     const visibleClusters = useMemo(() => {
@@ -714,10 +726,8 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         globalScale: number,
       ) => {
         if (typeof node.x !== 'number' || typeof node.y !== 'number') return;
-        const originYear = node.origin_year ?? node.originYear ?? 0;
-        const isFuture = originYear > currentYear;
-        const extinctYear = node.extinct_year ?? node.extinctYear;
-        const isExtinct = extinctYear !== null && extinctYear !== undefined && currentYear >= extinctYear;
+        const isFuture = isNodeFuture(node, currentYear);
+        const isExtinct = isNodeExtinct(node, currentYear);
 
         const isSelected = node.id === selectedNodeId;
         const isHovered = node.id === hoveredNodeId;
@@ -862,8 +872,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         globalScale: number,
       ) => {
         if (typeof node.x !== 'number' || typeof node.y !== 'number') return;
-        const originYear = node.origin_year ?? node.originYear ?? 0;
-        if (originYear > currentYear) return; // Future nodes are non-interactive
+        if (!isNodeTemporallyVisible(node, currentYear, temporalMode)) return;
 
         context.fillStyle = color;
         context.beginPath();
@@ -876,7 +885,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         );
         context.fill();
       },
-      [currentYear],
+      [currentYear, temporalMode],
     );
 
     const isEmphasizedLink = useCallback(
@@ -898,9 +907,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         const target = endpointId(link.target);
         const srcNode = rawNodeById.get(source ?? '');
         const tgtNode = rawNodeById.get(target ?? '');
-        const srcYear = srcNode?.origin_year ?? srcNode?.originYear ?? 0;
-        const tgtYear = tgtNode?.origin_year ?? tgtNode?.originYear ?? 0;
-        if (Math.max(srcYear, tgtYear) > currentYear) {
+        if (!isLinkTemporallyVisible(srcNode, tgtNode, currentYear, temporalMode)) {
           return 'rgba(0, 0, 0, 0)';
         }
 
@@ -916,7 +923,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         if (normalizedQuery && !touchesSearch) alpha *= 0.35;
         return colorWithAlpha(relationColor, alpha);
       },
-      [currentYear, isEmphasizedLink, normalizedQuery, rawNodeById, searchMatchIds, selectedLinkId, selectedNodeId],
+      [currentYear, isEmphasizedLink, normalizedQuery, rawNodeById, searchMatchIds, selectedLinkId, selectedNodeId, temporalMode],
     );
 
     const linkWidth = useCallback(
@@ -925,9 +932,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         const target = endpointId(link.target);
         const srcNode = rawNodeById.get(source ?? '');
         const tgtNode = rawNodeById.get(target ?? '');
-        const srcYear = srcNode?.origin_year ?? srcNode?.originYear ?? 0;
-        const tgtYear = tgtNode?.origin_year ?? tgtNode?.originYear ?? 0;
-        if (Math.max(srcYear, tgtYear) > currentYear) {
+        if (!isLinkTemporallyVisible(srcNode, tgtNode, currentYear, temporalMode)) {
           return 0;
         }
 
@@ -937,7 +942,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         if (link.certainty === 'speculative_fringe') return 0.52;
         return 0.68;
       },
-      [currentYear, isEmphasizedLink, rawNodeById],
+      [currentYear, isEmphasizedLink, rawNodeById, temporalMode],
     );
 
     const linkCurvature = useCallback((link: CanvasLink) => {
@@ -957,12 +962,11 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
 
     const handleNodeClick = useCallback(
       (node: CanvasNode) => {
-        const originYear = node.origin_year ?? node.originYear ?? 0;
-        if (originYear > currentYear) return;
+        if (!isNodeTemporallyVisible(node, currentYear, temporalMode)) return;
         onSelectNode(node.id);
         focusNode(node.id);
       },
-      [currentYear, focusNode, onSelectNode],
+      [currentYear, focusNode, onSelectNode, temporalMode],
     );
 
     const handleLinkClick = useCallback(
@@ -991,12 +995,28 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
       <div
         ref={containerRef}
         className={`graph-canvas ${className}`.trim()}
-        role="application"
-        aria-label="Interactive comparative religion graph"
       >
+        <div className="graph-overlay-controls" role="toolbar" aria-label="Graph overlay controls">
+          <div className="tool-group">
+            <span className="tool-group__label">View</span>
+            <button
+              type="button"
+              className="cluster-toggle"
+              onClick={() => setViewMode('list')}
+              title="Switch to accessible list view"
+              aria-label="Switch to accessible list view"
+            >
+              <List size={14} aria-hidden="true" />
+              <span>List</span>
+            </button>
+          </div>
+        </div>
+
         <div
           className="graph-canvas__surface"
           style={{ cursor: hoveredNodeId ? 'pointer' : 'grab' }}
+          role="img"
+          aria-label={`Comparative religion graph showing ${canvasGraph.nodes.length} traditions and ${canvasGraph.links.length} relations at ${formatYearLabel(currentYear)} in ${temporalMode} mode`}
         >
           <ForceGraph2D<GraphNode, GraphLink>
             ref={graphRef}

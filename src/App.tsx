@@ -14,7 +14,6 @@ import {
   Search,
   SlidersHorizontal,
   Sparkles,
-  X,
 } from 'lucide-react';
 import {
   useCallback,
@@ -22,7 +21,6 @@ import {
   useMemo,
   useRef,
   useState,
-  type FormEvent,
 } from 'react';
 import ComparisonModal from './components/ComparisonModal';
 import DocumentPane from './components/DocumentPane';
@@ -30,11 +28,17 @@ import FilterBar from './components/FilterBar';
 import GraphCanvas, {
   type GraphCanvasHandle,
 } from './components/GraphCanvas';
+import ListView from './components/ListView';
+import SearchCombobox from './components/SearchCombobox';
 import Sidebar from './components/Sidebar';
 import TimelineScrubber from './components/TimelineScrubber';
 import ViewSwitcher from './components/ViewSwitcher';
 import WorldMapView from './components/WorldMapView';
 import AtlasProvider, { useAtlasState } from './state/AtlasState';
+import {
+  isLinkTemporallyVisible,
+  isNodeTemporallyVisible,
+} from './state/temporalVisibility';
 import {
   scoreGraphNodeSearch,
   type GraphData,
@@ -64,12 +68,12 @@ function AppContent() {
   const [showFilters, setShowFilters] = useState(true);
   const [showTimeline, setShowTimeline] = useState(true);
   const [clusterLayout, setClusterLayout] = useState(true);
-  const [searchFocused, setSearchFocused] = useState(false);
   const [comparisonModalOpen, setComparisonModalOpen] = useState(false);
   const searchLabelTimerRef = useRef<number | null>(null);
 
   const {
     currentYear,
+    temporalMode,
     viewMode,
     selectedNodeId,
     selectedLinkId,
@@ -179,45 +183,48 @@ function AppContent() {
   const selectedLink = selectedLinkId ? linkById.get(selectedLinkId) ?? null : null;
 
   const visibleNodeIds = useMemo(
-    () => new Set(
-      graphData.nodes
-        .filter((node) => activeTiers.has(node.epistemicTier) && (node.origin_year ?? node.originYear ?? 0) <= currentYear)
-        .map((node) => node.id),
-    ),
-    [activeTiers, currentYear, graphData.nodes],
+    () =>
+      new Set(
+        graphData.nodes
+          .filter(
+            (node) =>
+              activeTiers.has(node.epistemicTier) &&
+              isNodeTemporallyVisible(node, currentYear, temporalMode),
+          )
+          .map((node) => node.id),
+      ),
+    [activeTiers, currentYear, graphData.nodes, temporalMode],
   );
 
   const visibleLinkCount = useMemo(
-    () => graphData.links.filter((link) => {
-      if (!visibleNodeIds.has(link.source) || !visibleNodeIds.has(link.target)) return false;
-      if (!activeTiers.has(link.certainty) || !activeRelationTypes.has(link.type)) return false;
-      const srcNode = nodeById.get(link.source);
-      const tgtNode = nodeById.get(link.target);
-      const srcYear = srcNode?.origin_year ?? srcNode?.originYear ?? 0;
-      const tgtYear = tgtNode?.origin_year ?? tgtNode?.originYear ?? 0;
-      return Math.max(srcYear, tgtYear) <= currentYear;
-    }).length,
-    [activeRelationTypes, activeTiers, currentYear, graphData.links, nodeById, visibleNodeIds],
+    () =>
+      graphData.links.filter((link) => {
+        if (!visibleNodeIds.has(link.source) || !visibleNodeIds.has(link.target)) return false;
+        if (!activeTiers.has(link.certainty) || !activeRelationTypes.has(link.type)) return false;
+        const srcNode = nodeById.get(link.source);
+        const tgtNode = nodeById.get(link.target);
+        return isLinkTemporallyVisible(srcNode, tgtNode, currentYear, temporalMode);
+      }).length,
+    [activeRelationTypes, activeTiers, currentYear, graphData.links, nodeById, temporalMode, visibleNodeIds],
   );
 
   const searchMatches = useMemo(() => {
     const normalized = searchQuery.trim().toLocaleLowerCase();
     if (!normalized) return [];
     return graphData.nodes
-      .filter((node) => scoreGraphNodeSearch(node, normalized) > 0)
+      .filter((node) => visibleNodeIds.has(node.id) && scoreGraphNodeSearch(node, normalized) > 0)
       .sort((left, right) => {
-        const scoreDelta = scoreGraphNodeSearch(right, normalized) -
-          scoreGraphNodeSearch(left, normalized);
+        const scoreDelta =
+          scoreGraphNodeSearch(right, normalized) - scoreGraphNodeSearch(left, normalized);
         return scoreDelta || left.title.localeCompare(right.title);
       })
       .slice(0, 6);
-  }, [graphData.nodes, searchQuery]);
+  }, [graphData.nodes, searchQuery, visibleNodeIds]);
 
   const selectNode = useCallback((nodeId: string | null) => {
     contextSelectNode(nodeId);
     if (nodeId) {
       setDocumentOpen(true);
-      setSearchFocused(false);
       window.requestAnimationFrame(() => graphRef.current?.centerNode(nodeId));
     }
   }, [contextSelectNode]);
@@ -234,14 +241,6 @@ function AppContent() {
       setDocumentOpen(true);
     }
   }, [selectedNodeId, selectedLinkId]);
-
-  const submitSearch = (event: FormEvent<HTMLFormElement>) => {
-    event.preventDefault();
-    const match = searchMatches[0];
-    if (!match) return;
-    selectNode(match.id);
-    setSearchFocused(false);
-  };
 
   return (
     <div className="app-shell">
@@ -390,13 +389,20 @@ function AppContent() {
               </>
             )}
 
-            <form
-              className="graph-search"
-              role="search"
-              onSubmit={submitSearch}
+            <SearchCombobox
+              id="graph-search-input"
+              variant="header"
+              label="Search atlas"
+              placeholder="Find a tradition or text…"
+              query={searchQuery}
+              onQueryChange={(value) => {
+                setSearchQuery(value);
+                resetSearchLabelTimer();
+              }}
+              matches={searchMatches}
+              onSelect={(node) => selectNode(node.id)}
               onMouseEnter={resetSearchLabelTimer}
               onMouseLeave={() => {
-                // Restart countdown when mouse leaves the search area
                 if (searchQuery.trim()) {
                   if (searchLabelTimerRef.current !== null) {
                     window.clearTimeout(searchLabelTimerRef.current);
@@ -407,55 +413,8 @@ function AppContent() {
                   }, SEARCH_LABEL_HIDE_DELAY);
                 }
               }}
-            >
-              <label htmlFor="graph-search-input">Search atlas</label>
-              <div className="graph-search__field">
-                <Search size={15} aria-hidden="true" />
-                <input
-                  id="graph-search-input"
-                  type="search"
-                  value={searchQuery}
-                  onChange={(event) => {
-                    setSearchQuery(event.target.value);
-                    resetSearchLabelTimer();
-                  }}
-                  onFocus={() => {
-                    setSearchFocused(true);
-                    resetSearchLabelTimer();
-                  }}
-                  onBlur={() => window.setTimeout(() => setSearchFocused(false), 120)}
-                  placeholder="Find a tradition or text…"
-                  autoComplete="off"
-                  spellCheck="false"
-                />
-                {searchQuery && (
-                  <button
-                    className="graph-search__clear"
-                    type="button"
-                    onClick={() => setSearchQuery('')}
-                    aria-label="Clear graph search"
-                  >
-                    <X size={13} />
-                  </button>
-                )}
-              </div>
-
-              {searchFocused && searchQuery.trim() && (
-                <div className="search-results">
-                  {searchMatches.length > 0 ? searchMatches.map((node) => (
-                    <button key={node.id} type="button" onMouseDown={() => selectNode(node.id)}>
-                      <span className="search-results__dot" style={{ backgroundColor: node.color }} />
-                      <span>
-                        <strong>{node.title}</strong>
-                        <small>{node.cluster} · {node.eraStart}</small>
-                      </span>
-                    </button>
-                  )) : (
-                    <p>No traditions match “{searchQuery.trim()}”.</p>
-                  )}
-                </div>
-              )}
-            </form>
+              onFocus={resetSearchLabelTimer}
+            />
           </div>
         </header>
 
@@ -504,6 +463,13 @@ function AppContent() {
             />
           )}
 
+          {loadState === 'ready' && viewMode === 'list' && (
+            <ListView
+              graphData={graphData}
+              onSelectNode={(nodeId) => selectNode(nodeId)}
+            />
+          )}
+
           {loadState === 'loading' && (
             <div className="graph-state graph-state--loading" role="status">
               <div className="graph-state__orbit" aria-hidden="true">
@@ -523,7 +489,7 @@ function AppContent() {
             </div>
           )}
 
-          {loadState === 'ready' && (
+          {loadState === 'ready' && viewMode !== 'list' && (
             <div className="cluster-legend" aria-label="Cluster legend">
               <span
                 className="cluster-legend__size-note"

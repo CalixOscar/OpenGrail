@@ -1,7 +1,9 @@
 /* SPDX-License-Identifier: MIT */
 
 import {
+  Activity,
   History,
+  Layers,
   Pause,
   Play,
   RotateCcw,
@@ -126,7 +128,7 @@ export function TimelineScrubber({
   className = '',
   onYearChange,
 }: TimelineScrubberProps) {
-  const { currentYear, setCurrentYear } = useAtlasState();
+  const { currentYear, setCurrentYear, temporalMode, setTemporalMode } = useAtlasState();
   const [timelineMode, setTimelineMode] = useState<TimelineMode>('historic');
   const [isPlaying, setIsPlaying] = useState(false);
   const [playbackSpeed, setPlaybackSpeed] = useState<0.5 | 1 | 2 | 4>(1);
@@ -221,6 +223,12 @@ export function TimelineScrubber({
       } else if (event.key === 'ArrowLeft' || event.key === 'ArrowDown') {
         event.preventDefault();
         setYear(currentYear - (event.shiftKey ? largeStep : step));
+      } else if (event.key === 'PageUp') {
+        event.preventDefault();
+        setYear(currentYear + largeStep);
+      } else if (event.key === 'PageDown') {
+        event.preventDefault();
+        setYear(currentYear - largeStep);
       } else if (event.key === 'Home') {
         event.preventDefault();
         setYear(minYear);
@@ -244,8 +252,6 @@ export function TimelineScrubber({
     <footer
       className={`timeline-scrubber ${className}`.trim()}
       aria-label="Chronological atlas scrubber"
-      onKeyDown={handleKeyDown}
-      tabIndex={0}
     >
       <div className="timeline-scrubber__header">
         <div className="timeline-scrubber__playback">
@@ -313,6 +319,31 @@ export function TimelineScrubber({
           </button>
         </div>
 
+        {/* Temporal Visibility Mode Selector (Emergent vs Active) */}
+        <div className="timeline-mode-toggle" role="group" aria-label="Temporal visibility mode">
+          <button
+            type="button"
+            className={`timeline-mode-btn${temporalMode === 'emergent' ? ' is-active' : ''}`}
+            onClick={() => setTemporalMode('emergent')}
+            title="Emergent mode: Cumulative history (origin year ≤ scrubbed year)"
+            aria-pressed={temporalMode === 'emergent'}
+          >
+            <Layers size={13} />
+            <span>Emergent</span>
+          </button>
+
+          <button
+            type="button"
+            className={`timeline-mode-btn${temporalMode === 'active' ? ' is-active' : ''}`}
+            onClick={() => setTemporalMode('active')}
+            title="Active mode: Traditions active in this era (hides extinct traditions)"
+            aria-pressed={temporalMode === 'active'}
+          >
+            <Activity size={13} />
+            <span>Active</span>
+          </button>
+        </div>
+
         <div className="timeline-display" aria-live="polite">
           <span className="timeline-display__label">Era</span>
           <span className="timeline-display__year">{formatYearLabel(currentYear)}</span>
@@ -349,6 +380,8 @@ export function TimelineScrubber({
         onPointerUp={handlePointerUp}
         onPointerCancel={handlePointerUp}
         role="slider"
+        tabIndex={0}
+        onKeyDown={handleKeyDown}
         aria-valuemin={minYear}
         aria-valuemax={MAX_YEAR}
         aria-valuenow={currentYear}

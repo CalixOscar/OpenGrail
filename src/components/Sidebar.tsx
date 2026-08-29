@@ -10,7 +10,10 @@ import {
   type SVGProps,
 } from "react";
 
+import { useAtlasState } from "../state/AtlasState";
+import { isNodeTemporallyVisible } from "../state/temporalVisibility";
 import { scoreGraphNodeSearch, type GraphNode } from "../types/graph";
+import SearchCombobox from "./SearchCombobox";
 
 export interface SidebarProps {
   nodes: GraphNode[];
@@ -88,15 +91,24 @@ export default function Sidebar({
   collapsed,
   onToggleCollapsed,
 }: SidebarProps) {
+  const { currentYear, temporalMode, activeTiers } = useAtlasState();
   const searchId = useId();
   const treeId = useId();
   const [query, setQuery] = useState("");
 
+  const temporallyVisibleNodes = useMemo(() => {
+    return nodes.filter(
+      (node) =>
+        activeTiers.has(node.epistemicTier) &&
+        isNodeTemporallyVisible(node, currentYear, temporalMode),
+    );
+  }, [activeTiers, currentYear, nodes, temporalMode]);
+
   const clusterNames = useMemo(() => {
     const ordered = new Set(clusters);
-    nodes.forEach((node) => ordered.add(node.cluster));
+    temporallyVisibleNodes.forEach((node) => ordered.add(node.cluster));
     return [...ordered];
-  }, [clusters, nodes]);
+  }, [clusters, temporallyVisibleNodes]);
 
   const [expandedClusters, setExpandedClusters] = useState<Set<string>>(
     () => new Set(clusterNames),
@@ -107,13 +119,13 @@ export default function Sidebar({
 
   const normalizedQuery = query.trim().toLocaleLowerCase();
   const nodeById = useMemo(
-    () => new Map(nodes.map((node) => [node.id, node])),
-    [nodes],
+    () => new Map(temporallyVisibleNodes.map((node) => [node.id, node])),
+    [temporallyVisibleNodes],
   );
 
   const parentById = useMemo(() => {
     const parents = new Map<string, string>();
-    nodes.forEach((node) => {
+    temporallyVisibleNodes.forEach((node) => {
       const parent = node.backlinks.outbound.find((relation) => {
         const candidate = nodeById.get(relation.nodeId);
         return relation.type === "branch_of" && candidate?.cluster === node.cluster;
@@ -121,7 +133,7 @@ export default function Sidebar({
       if (parent) parents.set(node.id, parent.nodeId);
     });
     return parents;
-  }, [nodeById, nodes]);
+  }, [nodeById, temporallyVisibleNodes]);
 
   const childrenByParent = useMemo(() => {
     const children = new Map<string, GraphNode[]>();
@@ -137,13 +149,13 @@ export default function Sidebar({
   }, [nodeById, parentById]);
 
   const matchingNodeIds = useMemo(() => {
-    if (!normalizedQuery) return new Set(nodes.map((node) => node.id));
+    if (!normalizedQuery) return new Set(temporallyVisibleNodes.map((node) => node.id));
     return new Set(
-      nodes
+      temporallyVisibleNodes
         .filter((node) => scoreGraphNodeSearch(node, normalizedQuery) > 0)
         .map((node) => node.id),
     );
-  }, [nodes, normalizedQuery]);
+  }, [normalizedQuery, temporallyVisibleNodes]);
 
   const visibleNodeIds = useMemo(() => {
     if (!normalizedQuery) return matchingNodeIds;
@@ -164,7 +176,7 @@ export default function Sidebar({
     const grouped = new Map<string, GraphNode[]>();
     clusterNames.forEach((cluster) => grouped.set(cluster, []));
 
-    nodes.forEach((node) => {
+    temporallyVisibleNodes.forEach((node) => {
       const current = grouped.get(node.cluster) ?? [];
       current.push(node);
       grouped.set(node.cluster, current);
@@ -174,12 +186,12 @@ export default function Sidebar({
       clusterNodes.sort((a, b) => a.title.localeCompare(b.title));
     });
     return grouped;
-  }, [clusterNames, nodes]);
+  }, [clusterNames, temporallyVisibleNodes]);
 
   const rootNodesByCluster = useMemo(() => {
     const roots = new Map<string, GraphNode[]>();
     clusterNames.forEach((cluster) => roots.set(cluster, []));
-    nodes.forEach((node) => {
+    temporallyVisibleNodes.forEach((node) => {
       if (!visibleNodeIds.has(node.id)) return;
       const parentId = parentById.get(node.id);
       if (parentId && visibleNodeIds.has(parentId)) return;
@@ -193,7 +205,7 @@ export default function Sidebar({
       return childDelta || left.title.localeCompare(right.title);
     }));
     return roots;
-  }, [childrenByParent, clusterNames, nodes, parentById, visibleNodeIds]);
+  }, [childrenByParent, clusterNames, parentById, temporallyVisibleNodes, visibleNodeIds]);
 
   const visibleClusters = useMemo(
     () => clusterNames.filter((cluster) => (rootNodesByCluster.get(cluster)?.length ?? 0) > 0),
@@ -239,7 +251,7 @@ export default function Sidebar({
   }, [normalizedQuery, visibleClusterKey]);
 
   useEffect(() => {
-    const selectedNode = nodes.find((node) => node.id === selectedNodeId);
+    const selectedNode = selectedNodeId ? nodeById.get(selectedNodeId) : undefined;
     if (!selectedNode) return;
     setExpandedClusters((current) => {
       if (current.has(selectedNode.cluster)) return current;
@@ -258,7 +270,7 @@ export default function Sidebar({
       }
       return next;
     });
-  }, [nodes, parentById, selectedNodeId]);
+  }, [nodeById, parentById, selectedNodeId]);
 
   const toggleCluster = (cluster: string) => {
     setExpandedClusters((current) => {
@@ -399,31 +411,18 @@ export default function Sidebar({
         </button>
       </header>
 
-      <div className="sidebar-search">
-        <label className="sr-only" htmlFor={searchId}>Search traditions</label>
-        <SearchIcon className="sidebar-search__icon" />
-        <input
-          id={searchId}
-          className="sidebar-search__input"
-          type="search"
-          value={query}
-          onChange={(event) => setQuery(event.target.value)}
-          placeholder="Search traditions"
-          autoComplete="off"
-          spellCheck="false"
-          aria-controls={treeId}
-        />
-        {query && (
-          <button
-            className="sidebar-search__clear"
-            type="button"
-            onClick={() => setQuery("")}
-            aria-label="Clear tradition search"
-          >
-            <span aria-hidden="true">×</span>
-          </button>
-        )}
-      </div>
+      <SearchCombobox
+        id={searchId}
+        variant="sidebar"
+        label="Search traditions"
+        labelHidden
+        placeholder="Search traditions"
+        query={query}
+        onQueryChange={setQuery}
+        nodes={temporallyVisibleNodes}
+        onSelect={(node) => onSelectNode(node.id)}
+        ariaControlsExtra={treeId}
+      />
 
       <div className="sidebar-section-heading">
         <span>Tradition atlas</span>
