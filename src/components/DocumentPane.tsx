@@ -17,6 +17,7 @@ import {
 } from "../types/graph";
 import { formatYearLabel } from "./TimelineScrubber";
 import { DocumentFeedback } from "./DocumentFeedback";
+import { Lightbox } from "./Lightbox";
 
 export interface DocumentPaneProps {
   selectedNode: GraphNode | null;
@@ -769,79 +770,12 @@ export default function DocumentPane({
       </div>
 
       {/* Lightbox Modal for Full-Size Artifact Inspection */}
-      {activeArtifact && (
-        <div
-          className="artifact-lightbox-backdrop"
-          onClick={() => setActiveArtifact(null)}
-          role="dialog"
-          aria-modal="true"
-          aria-label={activeArtifact.title}
-        >
-          <div className="artifact-lightbox-dialog" onClick={(e) => e.stopPropagation()}>
-            <button
-              type="button"
-              className="artifact-lightbox-close icon-button"
-              onClick={() => setActiveArtifact(null)}
-              aria-label="Close image preview"
-            >
-              <CloseIcon className="icon-button__icon" />
-            </button>
-            {(() => {
-              const imgPath = resolveAssetPath(activeArtifact.imageUrl || activeArtifact.url);
-              const isFailed = !imgPath || failedImages[imgPath];
-              const sourceLink = activeArtifact.sourceUrl || (activeArtifact.url?.startsWith('http') ? activeArtifact.url : undefined);
-
-              return (
-                <>
-                  {imgPath && !isFailed ? (
-                    <div className="artifact-lightbox-img-wrap">
-                      <img
-                        src={imgPath}
-                        alt={activeArtifact.title}
-                        className="artifact-lightbox-img"
-                        onError={() => imgPath && setFailedImages((prev) => ({ ...prev, [imgPath]: true }))}
-                      />
-                    </div>
-                  ) : (
-                    <div className="artifact-lightbox-img-wrap" style={{ padding: '2.5rem', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '10px' }}>
-                      <LandmarkIcon style={{ width: 44, height: 44, color: selectedNode.color, opacity: 0.85 }} />
-                      <span style={{ fontSize: '0.82rem', color: '#94a3b8' }}>Archival artifact representation</span>
-                    </div>
-                  )}
-                  <div className="artifact-lightbox-content">
-                    <h3 className="artifact-lightbox-title">{activeArtifact.title}</h3>
-                    <div className="artifact-lightbox-badges">
-                      {activeArtifact.provenance && (
-                        <span className="document-badge">📍 {activeArtifact.provenance}</span>
-                      )}
-                      {activeArtifact.period && (
-                        <span className="document-badge document-badge--era">⏳ {activeArtifact.period}</span>
-                      )}
-                    </div>
-                    {activeArtifact.description && (
-                      <p className="artifact-lightbox-desc">{activeArtifact.description}</p>
-                    )}
-                    {sourceLink && (
-                      <div style={{ marginTop: '14px' }}>
-                        <a
-                          href={sourceLink}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="source-link"
-                          style={{ display: 'inline-flex', fontSize: '0.85rem', color: '#93c5fd' }}
-                        >
-                          <span>Verify entry on Wikipedia / Archive</span>
-                          <ExternalLinkIcon className="source-link__icon" />
-                        </a>
-                      </div>
-                    )}
-                  </div>
-                </>
-              );
-            })()}
-          </div>
-        </div>
-      )}
+      <Lightbox
+        open={Boolean(activeArtifact)}
+        artifact={activeArtifact}
+        accentColor={selectedNode.color}
+        onClose={() => setActiveArtifact(null)}
+      />
     </aside>
   );
 }

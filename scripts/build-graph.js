@@ -372,24 +372,38 @@ function backlinkRef(node, link) {
 }
 
 function detectBranchCycles(nodesById, links) {
-  // Build parent adjacency for direct branch relations
-  const branchMap = new Map();
+  // Build parent adjacency for direct branch relations: child -> parents
+  const parentsByChild = new Map();
   for (const link of links) {
     if (link.type === "branch_of" || link.relation_type === "direct_branch") {
-      // link.source is branch of link.target
-      branchMap.set(link.source, link.target);
+      const parents = parentsByChild.get(link.source) || [];
+      parents.push(link.target);
+      parentsByChild.set(link.source, parents);
     }
   }
 
-  for (const startNodeId of branchMap.keys()) {
-    const visited = new Set();
-    let current = startNodeId;
-    while (current && branchMap.has(current)) {
-      if (visited.has(current)) {
-        throw new Error(`Branch cycle detected involving node "${current}"`);
-      }
-      visited.add(current);
-      current = branchMap.get(current);
+  const globalVisited = new Set();
+  const recursionStack = new Set();
+
+  function checkCycle(nodeId, path) {
+    if (recursionStack.has(nodeId)) {
+      const cyclePath = [...path, nodeId].join(" -> ");
+      throw new Error(`Branch cycle detected involving node "${nodeId}": ${cyclePath}`);
+    }
+    if (globalVisited.has(nodeId)) return;
+
+    recursionStack.add(nodeId);
+    const parents = parentsByChild.get(nodeId) || [];
+    for (const parentId of parents) {
+      checkCycle(parentId, [...path, nodeId]);
+    }
+    recursionStack.delete(nodeId);
+    globalVisited.add(nodeId);
+  }
+
+  for (const nodeId of parentsByChild.keys()) {
+    if (!globalVisited.has(nodeId)) {
+      checkCycle(nodeId, []);
     }
   }
 }

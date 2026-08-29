@@ -22,12 +22,12 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Ready — Side-by-Side Tradition Comparison Mode implemented, built, and verified.
-**Task:** Build interactive comparative analysis modal with direct relationship detection, graph intersection, chronology deltas, and parallel tenets matrix.
-**Files touched:** `src/components/ComparisonModal.tsx`, `src/components/DocumentPane.tsx`, `src/state/AtlasState.tsx`, `src/App.tsx`, `src/index.css`, `PROJECT_NOTES.md`.
-**Next step:** Push to GitHub and deploy live.
-**Gotchas:** Supports deep linking via `#compare=nodeA+nodeB` or `&compare=nodeB`.
-**Left by:** Antigravity (2026-08-29)
+**Status:** Track A complete and verified; `npm run build` passes. Tracks C-F not started.
+**Task:** Sprint 01 remediation from `docs/sprint-01-remediation-plan.md`. Track A (comparison-mode correctness) and Track B (scholarly language) are done. Tracks C (contributor contract), D (unified temporal visibility), E (accessible search/modals/timeline) and F (regression tests) remain untouched.
+**Files touched:** `src/components/Lightbox.tsx` (new), `src/components/ComparisonModal.tsx`, `src/components/DocumentPane.tsx`, `src/index.css`, `scripts/build-graph.js`, `vite.config.ts`, `index.html`, `docs/sprint-01-remediation-plan.md` (new), `PLAN.md` (swarm dispatch, untracked), `PROJECT_NOTES.md`.
+**Next step:** Dispatch Track C and Track D (independent of each other), then E, then F. Nothing is committed yet - review `git diff` against `694f554` before committing.
+**Gotchas:** Two swarm runs both ended `status: ERROR - "timeout waiting for response"` at ~292s with one turn, yet both wrote real code; the bridge timeout is not a work signal, so always verify by build and `git diff`. Run 1 defined the z-index token scale but left the three rules it existed for on raw values, so the mobile bug looked fixed and was not - check that tokens are applied, not just declared. Enter-activation on the artifact cards could not be verified through browser automation (injected key events arrive with `keyCode: 0`, so Chrome never synthesises the click); the cards are genuine `<button type="button">` elements and nothing calls preventDefault, so this is a harness limit, not a defect.
+**Left by:** Claude Code 2026-08-29
 
 ## Decisions Log
 <!-- Append dated decisions below. Keep entries short; put detailed plans in repo docs. -->
@@ -59,6 +59,17 @@ Every tradition defines exactly two curated query specifications (Slot 1: iconog
 Slot 2: sanctuary/manuscript/ritual artifact) backed by exact `https://commons.wikimedia.org/wiki/File:`
 links, verified permissive licensing (Public domain, CC0, CC-BY, CC-BY-SA), strict JPEG/PNG raster
 integrity, and zero placeholder boilerplate.
+
+### 2026-08-29 — Absence of data is never a positive claim
+The atlas must not render a missing relation as evidence of historical independence.
+Comparison mode previously stated that two traditions "evolved independently" when no direct
+edge existed; the correct statement is that no direct relation is recorded in this dataset.
+This extends the existing rule separating a documented tradition from the truth of its claims.
+
+### 2026-08-29 — Sprint 01 planned, not built
+Under the studio pipeline Claude plans and reviews OpenGrail; the build swarm implements.
+The review's remediation items were verified against the working tree and written up as six
+ordered tracks in `docs/sprint-01-remediation-plan.md` rather than patched directly.
 
 ## Session Log
 <!-- Append a dated summary at the end of each significant session. -->
@@ -164,4 +175,22 @@ tenets and canonical texts side-by-side matrices, and authentic visual artifacts
 URL hash deep linking (`#compare=stoicism+buddhism`), quick tradition switcher search, and comparison
 entry points in topbar, mobile nav, and document reader. Build passes cleanly.
 
+### 2026-08-29 — Review triage and Sprint 01 plan
+Verified the 2026-08-29 codebase review against the working tree at `694f554` rather than
+taking it at face value: z-index layering, the comparison lightbox class mismatch, the
+`_template.md` / `build-graph.js` / `CONTRIBUTING.md` three-way disagreement, the
+`origin_year`-only visibility filter in `App.tsx`, the year-blind hit-test in
+`WorldMapView.tsx`, the `onMouseDown`-only search results, the footer-level timeline key
+handler, the stale AGPL header in `vite.config.ts`, the print rule hiding `.graph-stage`,
+and the single-parent `branchMap` in `detectBranchCycles`. All confirmed as described.
+Wrote `docs/sprint-01-remediation-plan.md`. No source or data files were changed.
 
+### 2026-08-29 - Track A landed via swarm, verified at runtime
+Two dispatches were needed; both reported ERROR on a ~292s bridge timeout while still writing
+usable code. Final state verified rather than trusted: `npm run build` passes; the comparison
+overlay computes z-index 1250 above the mobile nav at 850 and the timeline drawer at 900; the
+artifact lightbox backdrop computes 1400 above the modal; no horizontal overflow at a 375px
+viewport and no element inside the overlay exceeds the viewport width; artifact cards are real
+labelled buttons; opening a card moves focus to its close control and closing restores focus to
+the originating card. 30 of 31 z-index declarations are now tokenised, the exception being a
+local `z-index: -1` on the comparison backdrop.
