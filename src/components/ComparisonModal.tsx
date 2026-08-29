@@ -30,6 +30,7 @@ import {
   type TraditionArtifact,
 } from '../types/graph';
 import { formatYearLabel } from './TimelineScrubber';
+import { Lightbox } from './Lightbox';
 
 export interface ComparisonModalProps {
   nodeA: GraphNode | null;
@@ -41,6 +42,20 @@ export interface ComparisonModalProps {
   onSelectNodeA: (id: string) => void;
   onSelectNodeB: (id: string) => void;
   onSwap: () => void;
+}
+
+export interface SharedConnectionRelation {
+  link: GraphLink;
+  direction: 'outbound' | 'inbound';
+  typeLabel: string;
+  tierLabel: string;
+  citation?: string;
+}
+
+export interface SharedConnection {
+  node: GraphNode;
+  relationsA: SharedConnectionRelation[];
+  relationsB: SharedConnectionRelation[];
 }
 
 function resolveAssetPath(url?: string): string | undefined {
@@ -148,7 +163,7 @@ export function ComparisonModal({
     );
   }, [links, nodeA, nodeB]);
 
-  // Compute graph intersection (shared influences / mutual connections)
+  // Compute graph intersection (shared influences / mutual connections with type and direction)
   const sharedConnections = useMemo(() => {
     if (!nodeA || !nodeB) return [];
     const connectedToA = new Set<string>();
@@ -166,8 +181,46 @@ export function ComparisonModal({
     );
 
     return mutualIds
-      .map((id) => nodes.find((n) => n.id === id))
-      .filter((n): n is GraphNode => Boolean(n));
+      .map((id) => {
+        const node = nodes.find((n) => n.id === id);
+        if (!node) return null;
+
+        const linksA = links.filter(
+          (l) =>
+            (l.source === nodeA.id && l.target === id) ||
+            (l.target === nodeA.id && l.source === id),
+        );
+        const linksB = links.filter(
+          (l) =>
+            (l.source === nodeB.id && l.target === id) ||
+            (l.target === nodeB.id && l.source === id),
+        );
+
+        const relationsA: SharedConnectionRelation[] = linksA.map((l) => ({
+          link: l,
+          direction: (l.source === nodeA.id ? 'outbound' : 'inbound') as 'outbound' | 'inbound',
+          typeLabel: formatTaxonomyLabel(l.relation_type || l.type),
+          tierLabel: formatTaxonomyLabel(l.epistemic_tier || l.certainty),
+          citation: l.citation,
+        }));
+
+        const relationsB: SharedConnectionRelation[] = linksB.map((l) => ({
+          link: l,
+          direction: (l.source === nodeB.id ? 'outbound' : 'inbound') as 'outbound' | 'inbound',
+          typeLabel: formatTaxonomyLabel(l.relation_type || l.type),
+          tierLabel: formatTaxonomyLabel(l.epistemic_tier || l.certainty),
+          citation: l.citation,
+        }));
+
+        const entry: SharedConnection = {
+          node,
+          relationsA,
+          relationsB,
+        };
+
+        return entry;
+      })
+      .filter((entry): entry is SharedConnection => entry !== null);
   }, [links, nodeA, nodeB, nodes]);
 
   // Chronological delta
@@ -379,7 +432,7 @@ export function ComparisonModal({
               <div className="comparison-relationship-banner comparison-relationship-banner--independent">
                 <Compass size={18} />
                 <span>
-                  No direct parent-branch connection recorded — these traditions evolved independently across distinct cultural or geographic lineages.
+                  No direct relation is recorded in this dataset.
                 </span>
               </div>
             )}
@@ -419,26 +472,64 @@ export function ComparisonModal({
               <div className="comparison-section">
                 <h4 className="comparison-section__title">
                   <Layers size={16} />
-                  Shared Lineage & Common Connections ({sharedConnections.length})
+                  Shared Connections ({sharedConnections.length})
                 </h4>
                 <p className="comparison-section__subtitle">
-                  Traditions linked to both {nodeA.title} and {nodeB.title}:
+                  Traditions directly connected to both {nodeA.title} and {nodeB.title} in the dataset:
                 </p>
-                <div className="comparison-pills">
-                  {sharedConnections.map((shared) => (
-                    <button
-                      key={shared.id}
-                      type="button"
-                      className="comparison-pill"
-                      onClick={() => onSelectNodeB(shared.id)}
-                      title={`Switch Tradition B to ${shared.title}`}
-                    >
-                      <span
-                        className="comparison-pill__dot"
-                        style={{ backgroundColor: shared.color }}
-                      />
-                      <span>{shared.title}</span>
-                    </button>
+                <div className="comparison-shared-grid">
+                  {sharedConnections.map(({ node: shared, relationsA, relationsB }) => (
+                    <div key={shared.id} className="comparison-shared-card">
+                      <div className="comparison-shared-card__header">
+                        <button
+                          type="button"
+                          className="comparison-pill"
+                          onClick={() => onSelectNodeB(shared.id)}
+                          title={`Switch Tradition B to ${shared.title}`}
+                        >
+                          <span
+                            className="comparison-pill__dot"
+                            style={{ backgroundColor: shared.color }}
+                          />
+                          <span className="comparison-shared-card__title">{shared.title}</span>
+                          <span className="comparison-shared-card__cluster">{shared.cluster}</span>
+                        </button>
+                      </div>
+                      <div className="comparison-shared-card__relations">
+                        <div className="comparison-shared-relation">
+                          <span className="comparison-shared-relation__prefix">{nodeA.title}:</span>
+                          {relationsA.map((r, i) => (
+                            <div key={i} className="comparison-shared-relation__item">
+                              <span className="comparison-relation-badge">
+                                {r.direction === 'outbound' ? `→ ${r.typeLabel}` : `← ${r.typeLabel}`}
+                              </span>
+                              <span className="comparison-tier-badge">{r.tierLabel}</span>
+                              {r.citation && (
+                                <span className="comparison-citation-tag" title={r.citation}>
+                                  Cited
+                                </span>
+                              )}
+                            </div>
+                          ))}
+                        </div>
+                        <div className="comparison-shared-relation">
+                          <span className="comparison-shared-relation__prefix">{nodeB.title}:</span>
+                          {relationsB.map((r, i) => (
+                            <div key={i} className="comparison-shared-relation__item">
+                              <span className="comparison-relation-badge">
+                                {r.direction === 'outbound' ? `→ ${r.typeLabel}` : `← ${r.typeLabel}`}
+                              </span>
+                              <span className="comparison-tier-badge">{r.tierLabel}</span>
+                              {r.citation && (
+                                <span className="comparison-citation-tag" title={r.citation}>
+                                  Cited
+                                </span>
+                              )}
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    </div>
                   ))}
                 </div>
               </div>
@@ -570,12 +661,14 @@ export function ComparisonModal({
                       nodeA.artifacts.map((art, idx) => {
                         const imgUrl = resolveAssetPath(art.imageUrl || art.url || art.image_url);
                         return (
-                          <div
+                          <button
                             key={idx}
+                            type="button"
                             className="comparison-artifact-card"
                             onClick={() =>
                               setActiveArtifact({ artifact: art, traditionTitle: nodeA.title })
                             }
+                            aria-label={`Inspect ${art.title}`}
                           >
                             <div className="comparison-artifact-card__image-wrap">
                               <img src={imgUrl} alt={art.title} loading="lazy" />
@@ -587,7 +680,7 @@ export function ComparisonModal({
                             <span className="comparison-artifact-card__provenance">
                               {art.provenance}
                             </span>
-                          </div>
+                          </button>
                         );
                       })
                     ) : (
@@ -609,12 +702,14 @@ export function ComparisonModal({
                       nodeB.artifacts.map((art, idx) => {
                         const imgUrl = resolveAssetPath(art.imageUrl || art.url || art.image_url);
                         return (
-                          <div
+                          <button
                             key={idx}
+                            type="button"
                             className="comparison-artifact-card"
                             onClick={() =>
                               setActiveArtifact({ artifact: art, traditionTitle: nodeB.title })
                             }
+                            aria-label={`Inspect ${art.title}`}
                           >
                             <div className="comparison-artifact-card__image-wrap">
                               <img src={imgUrl} alt={art.title} loading="lazy" />
@@ -626,7 +721,7 @@ export function ComparisonModal({
                             <span className="comparison-artifact-card__provenance">
                               {art.provenance}
                             </span>
-                          </div>
+                          </button>
                         );
                       })
                     ) : (
@@ -740,37 +835,12 @@ export function ComparisonModal({
       )}
 
       {/* Lightbox for visual artifacts */}
-      {activeArtifact && (
-        <div
-          className="document-lightbox"
-          role="dialog"
-          aria-modal="true"
-          onClick={() => setActiveArtifact(null)}
-        >
-          <div className="document-lightbox__dialog" onClick={(e) => e.stopPropagation()}>
-            <button
-              type="button"
-              className="document-lightbox__close"
-              onClick={() => setActiveArtifact(null)}
-              aria-label="Close image preview"
-            >
-              <X size={20} />
-            </button>
-            <img
-              src={resolveAssetPath(activeArtifact.artifact.imageUrl || activeArtifact.artifact.url || activeArtifact.artifact.image_url)}
-              alt={activeArtifact.artifact.title}
-              className="document-lightbox__image"
-            />
-            <div className="document-lightbox__info">
-              <h3>{activeArtifact.artifact.title}</h3>
-              <p>{activeArtifact.artifact.description}</p>
-              {activeArtifact.artifact.provenance && (
-                <span className="document-badge">{activeArtifact.artifact.provenance}</span>
-              )}
-            </div>
-          </div>
-        </div>
-      )}
+      <Lightbox
+        open={Boolean(activeArtifact)}
+        artifact={activeArtifact?.artifact ?? null}
+        accentColor={nodeA.color}
+        onClose={() => setActiveArtifact(null)}
+      />
     </div>
   );
 }
