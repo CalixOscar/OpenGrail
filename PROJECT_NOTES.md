@@ -22,12 +22,12 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Tracks A, B, C, D, and E (parts E1 & E2) complete and verified; `npm run build` and `npm test` pass. E3 and Track F untouched.
-**Task:** Sprint 01 remediation from `docs/sprint-01-remediation-plan.md` and `PLAN.md`. Track E parts 1 and 2 implemented a unified ARIA combobox for main and sidebar search, and moved timeline key handling from the footer to the slider element with PageUp/PageDown large steps.
-**Files touched:** `src/components/SearchCombobox.tsx` (new), `src/App.tsx`, `src/components/Sidebar.tsx`, `src/components/TimelineScrubber.tsx`, `src/index.css`, `PROJECT_NOTES.md`.
-**Next step:** Dispatch E3 (synchronized list/table view for graph and globe, replacing `role="application"`), followed by Track F (regression test harness).
-**Gotchas:** The ARIA combobox requires `aria-activedescendant` referencing option elements with `role="option"` and `aria-selected` tracking. In `TimelineScrubber`, keydown handlers are bound directly to the slider track with `tabIndex={0}`; child buttons inside footer (play, reset, mode switches) intentionally do not intercept or bubble arrow navigation to the scrubber.
-**Left by:** Antigravity 2026-08-29
+**Status:** Tracks A, B, C, D and E complete and verified; `npm run build` and `npm test` pass. Track F is the only remaining track.
+**Task:** Sprint 01 remediation from `docs/sprint-01-remediation-plan.md`. E3 added a keyboard-accessible list view and removed `role="application"` from both canvases. Track F (regression test harness) remains.
+**Files touched:** `src/components/ListView.tsx` (new), `src/components/GraphCanvas.tsx`, `src/components/WorldMapView.tsx`, `src/components/ViewSwitcher.tsx`, `src/state/AtlasState.tsx`, `src/App.tsx`, `src/index.css`, `PROJECT_NOTES.md`.
+**Next step:** Dispatch Track F. `npm test` currently runs only the Track C contract check; F should add data invariants, unit tests for `isNodeTemporallyVisible` (including the `year == extinct_year` boundary and a null `extinct_year`), accessibility smoke tests, and a keyboard-only browser smoke test.
+**Gotchas:** The list view must keep calling `isNodeTemporallyVisible` / `isLinkTemporallyVisible` with the same `currentYear` and `temporalMode` as every other surface; its link filter is deliberately identical to the one in `App.tsx`, and the two must not be allowed to drift. The table exposes about 1,961 tab stops at full corpus, which is correct for screen-reader table navigation but punishing for keyboard-only Tab traversal - a skip mechanism or pagination is a sensible follow-up and is not yet implemented. Browser automation in this environment has twice given misleading keyboard results (injected Enter arriving with `keyCode: 0`; injected arrow keys not delivered at all) - instrument a keydown listener before concluding anything is broken.
+**Left by:** Claude Code 2026-08-30
 
 ## Decisions Log
 <!-- Append dated decisions below. Keep entries short; put detailed plans in repo docs. -->
@@ -234,3 +234,16 @@ added PageUp/PageDown large stepping (100 years in historic mode, 5,000 years in
 on child footer buttons no longer scrub the timeline. Verified via headless Chrome automation test, `npm test`, and `npm run build`.
 E3 and Track F remain untouched.
 
+### 2026-08-30 - A parallel DOM view, not an accessible canvas
+Both canvases declared `role="application"` while containing no focusable node or relation,
+so assistive technology was handed a region that announced itself as interactive and offered
+nothing to operate. Rather than building a focus model inside drawing code, the atlas now
+ships a third view mode, `list`, rendering the same filtered set as a semantic table with
+shared selection. The canvases became `role="img"` with labels that summarise the current
+content - counts, year and temporal mode - instead of naming the widget.
+
+### 2026-08-30 - Track E verified at runtime
+List row count matches the header exactly in both temporal modes: 573 of 573 in `emergent`,
+491 of 491 in `active`. Rows are real `<button type="button">` elements; activating one opens
+the document pane and updates the hash to `#tradition=...&view=list`, the same state the
+graph and globe produce. No `role="application"` remains in `src/`.

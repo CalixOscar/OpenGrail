@@ -20,7 +20,7 @@ import {
   type RelationType,
 } from '../types/graph';
 
-export type ViewMode = 'brain' | 'map';
+export type ViewMode = 'brain' | 'map' | 'list';
 export type { TemporalMode } from './temporalVisibility';
 
 export interface AtlasStateContextValue {
@@ -80,10 +80,10 @@ function parseHash(hash: string): {
   }
 
   const viewParam = params.get('view');
-  const view = (viewParam === 'brain' || viewParam === 'map') ? (viewParam as ViewMode) : null;
+  const view = (viewParam === 'brain' || viewParam === 'map' || viewParam === 'list') ? (viewParam as ViewMode) : null;
 
   if (!nodeId && !compareId && !view) {
-    if (clean === 'map' || clean === 'brain') {
+    if (clean === 'map' || clean === 'brain' || clean === 'list') {
       return { nodeId: null, compareId: null, view: clean as ViewMode };
     }
     return { nodeId: clean, compareId: null, view: null };

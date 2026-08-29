@@ -10,6 +10,7 @@ import {
 import { feature } from 'topojson-client';
 import type { Topology } from 'topojson-specification';
 import {
+  List,
   LocateFixed,
   Minus,
   Plus,
@@ -27,6 +28,7 @@ import {
   isNodeExtinct,
   isNodeTemporallyVisible,
 } from '../state/temporalVisibility';
+import { formatYearLabel } from './TimelineScrubber';
 import {
   EPISTEMIC_TIER_OPTIONS,
   RELATION_TYPE_OPTIONS,
@@ -86,6 +88,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
     activeRelationTypes,
     searchQuery,
     searchLabelsVisible,
+    setViewMode,
   } = useAtlasState();
 
   const containerRef = useRef<HTMLDivElement>(null);
@@ -595,13 +598,40 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
     targetRotationRef.current = null;
   };
 
+  const visibleNodeCount = useMemo(
+    () =>
+      graphData.nodes.filter(
+        (node) =>
+          activeTiers.has(node.epistemicTier) &&
+          isNodeTemporallyVisible(node, currentYear, temporalMode),
+      ).length,
+    [activeTiers, currentYear, graphData.nodes, temporalMode],
+  );
+
+  const visibleLinkCount = useMemo(
+    () =>
+      graphData.links.filter((link) => {
+        const source = nodeMap.get(link.source);
+        const target = nodeMap.get(link.target);
+        if (!source || !target || !source.origin_geo || !target.origin_geo) return false;
+        if (!isLinkTemporallyVisible(source, target, currentYear, temporalMode)) return false;
+        return (
+          activeTiers.has(source.epistemicTier) &&
+          activeTiers.has(target.epistemicTier) &&
+          activeTiers.has(link.certainty) &&
+          activeRelationTypes.has(link.type)
+        );
+      }).length,
+    [activeRelationTypes, activeTiers, currentYear, graphData.links, nodeMap, temporalMode],
+  );
+
   return (
     <div
       ref={containerRef}
       className={`world-map-view ${className}`.trim()}
       onWheel={handleWheel}
-      role="application"
-      aria-label="3D Orthographic Comparative Religion Globe"
+      role="img"
+      aria-label={`3D world map showing ${visibleNodeCount} traditions and ${visibleLinkCount} relations at ${formatYearLabel(currentYear)} in ${temporalMode} mode`}
     >
       <canvas
         ref={canvasRef}
@@ -615,6 +645,20 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
       />
 
       <div className="map-overlay-controls" role="toolbar" aria-label="Map navigation controls">
+        <div className="tool-group">
+          <span className="tool-group__label">View</span>
+          <button
+            type="button"
+            className="cluster-toggle"
+            onClick={() => setViewMode('list')}
+            title="Switch to accessible list view"
+            aria-label="Switch to accessible list view"
+          >
+            <List size={14} aria-hidden="true" />
+            <span>List</span>
+          </button>
+        </div>
+
         <div className="tool-group" aria-label="Zoom controls">
           <span className="tool-group__label">Zoom</span>
           <div className="tool-group__buttons">

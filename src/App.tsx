@@ -28,6 +28,7 @@ import FilterBar from './components/FilterBar';
 import GraphCanvas, {
   type GraphCanvasHandle,
 } from './components/GraphCanvas';
+import ListView from './components/ListView';
 import SearchCombobox from './components/SearchCombobox';
 import Sidebar from './components/Sidebar';
 import TimelineScrubber from './components/TimelineScrubber';
@@ -462,6 +463,13 @@ function AppContent() {
             />
           )}
 
+          {loadState === 'ready' && viewMode === 'list' && (
+            <ListView
+              graphData={graphData}
+              onSelectNode={(nodeId) => selectNode(nodeId)}
+            />
+          )}
+
           {loadState === 'loading' && (
             <div className="graph-state graph-state--loading" role="status">
               <div className="graph-state__orbit" aria-hidden="true">
@@ -481,7 +489,7 @@ function AppContent() {
             </div>
           )}
 
-          {loadState === 'ready' && (
+          {loadState === 'ready' && viewMode !== 'list' && (
             <div className="cluster-legend" aria-label="Cluster legend">
               <span
                 className="cluster-legend__size-note"
