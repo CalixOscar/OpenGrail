@@ -22,12 +22,12 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Track A complete and verified; `npm run build` passes. Tracks C-F not started.
-**Task:** Sprint 01 remediation from `docs/sprint-01-remediation-plan.md`. Track A (comparison-mode correctness) and Track B (scholarly language) are done. Tracks C (contributor contract), D (unified temporal visibility), E (accessible search/modals/timeline) and F (regression tests) remain untouched.
-**Files touched:** `src/components/Lightbox.tsx` (new), `src/components/ComparisonModal.tsx`, `src/components/DocumentPane.tsx`, `src/index.css`, `scripts/build-graph.js`, `vite.config.ts`, `index.html`, `docs/sprint-01-remediation-plan.md` (new), `PLAN.md` (swarm dispatch, untracked), `PROJECT_NOTES.md`.
-**Next step:** Dispatch Track C and Track D (independent of each other), then E, then F. Nothing is committed yet - review `git diff` against `694f554` before committing.
-**Gotchas:** Two swarm runs both ended `status: ERROR - "timeout waiting for response"` at ~292s with one turn, yet both wrote real code; the bridge timeout is not a work signal, so always verify by build and `git diff`. Run 1 defined the z-index token scale but left the three rules it existed for on raw values, so the mobile bug looked fixed and was not - check that tokens are applied, not just declared. Enter-activation on the artifact cards could not be verified through browser automation (injected key events arrive with `keyCode: 0`, so Chrome never synthesises the click); the cards are genuine `<button type="button">` elements and nothing calls preventDefault, so this is a harness limit, not a defect.
-**Left by:** Claude Code 2026-08-29
+**Status:** Tracks A, B, and C complete and verified; `npm run build` and `npm test` pass. Tracks D, E, and F not started.
+**Task:** Sprint 01 remediation from `docs/sprint-01-remediation-plan.md`. Track A (comparison-mode correctness), Track B (scholarly language), and Track C (contributor contract repair) are completed and derived. Tracks D (unified temporal visibility), E (accessible search/modals/timeline), and F (regression test harness) remain untouched.
+**Files touched:** `scripts/schema.js` (new), `scripts/derive-schema.js` (new), `scripts/verify-contributor-contract.js` (new), `scripts/build-graph.js`, `data/_template.md`, `CONTRIBUTING.md`, `src/types/schema.ts` (new), `src/types/graph.ts`, `package.json`, `src/components/Lightbox.tsx` (new), `src/components/ComparisonModal.tsx`, `src/components/DocumentPane.tsx`, `src/index.css`, `vite.config.ts`, `index.html`, `docs/sprint-01-remediation-plan.md` (new), `PLAN.md` (swarm dispatch, untracked), `PROJECT_NOTES.md`.
+**Next step:** Dispatch Track D (unified temporal visibility), then Track E (accessible search/modals/timeline), then Track F (regression test harness). Nothing is committed yet - review `git diff` against `694f554` before committing.
+**Gotchas:** All frontmatter schemas, validation in `scripts/build-graph.js`, docs in `CONTRIBUTING.md`, `data/_template.md`, and TypeScript definitions in `src/types/schema.ts` are strictly derived from `scripts/schema.js`. Run `npm run derive:schema` to regenerate, and `npm test` (`npm run verify:schema`) to mechanically verify against drift and test compiling `data/_template.md`.
+**Left by:** Antigravity 2026-08-29
 
 ## Decisions Log
 <!-- Append dated decisions below. Keep entries short; put detailed plans in repo docs. -->
@@ -70,6 +70,13 @@ This extends the existing rule separating a documented tradition from the truth 
 Under the studio pipeline Claude plans and reviews OpenGrail; the build swarm implements.
 The review's remediation items were verified against the working tree and written up as six
 ordered tracks in `docs/sprint-01-remediation-plan.md` rather than patched directly.
+
+### 2026-08-29 — Single machine-readable source of truth for tradition schema
+Defined the canonical tradition frontmatter and relationship schema once in `scripts/schema.js`.
+All validation in `scripts/build-graph.js`, documentation tables in `CONTRIBUTING.md`, TypeScript
+types in `src/types/schema.ts`, and `data/_template.md` are derived from this single module,
+preventing multi-artifact drift. Added `verify:schema` / `test` script to mechanically verify
+synchronization and template compilation acceptance.
 
 ## Session Log
 <!-- Append a dated summary at the end of each significant session. -->
@@ -194,3 +201,12 @@ viewport and no element inside the overlay exceeds the viewport width; artifact 
 labelled buttons; opening a card moves focus to its close control and closing restores focus to
 the originating card. 30 of 31 z-index declarations are now tokenised, the exception being a
 local `z-index: -1` on the comparison backdrop.
+
+### 2026-08-29 — Track C contributor contract repair landed
+Implemented Track C of Sprint 01 remediation plan (`docs/sprint-01-remediation-plan.md` and `PLAN.md`).
+Created unified schema module `scripts/schema.js`, derivation script `scripts/derive-schema.js`, and
+mechanical verification script `scripts/verify-contributor-contract.js`. Refactored `scripts/build-graph.js`
+to use shared schema validation and multi-parent cycle detection. Derived `data/_template.md`,
+`CONTRIBUTING.md`, and `src/types/schema.ts`. Verified `npm test` and `npm run build` pass cleanly with
+573 nodes and 903 links. Tracks D, E, and F remain untouched.
+

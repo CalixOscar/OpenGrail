@@ -17,24 +17,50 @@ Every tradition in OpenGrail is represented by a single Markdown file with YAML 
 
 ---
 
+<!-- BEGIN_FRONTMATTER_SCHEMA -->
 ## Frontmatter Reference
 
 | Field | Type | Required | Description |
 | :--- | :--- | :--- | :--- |
 | `id` | `string` | Yes | Lowercase kebab-case identifier (e.g. `vajrayana`, `stoicism`). |
 | `title` | `string` | Yes | Primary display name. |
-| `cluster` | `string` | Yes | One of the 11 recognized clusters (e.g. `Abrahamic`, `Dharmic`, `East Asian`, `Philosophical & Ethical`). |
+| `cluster` | `string` | Yes | One of the 11 recognized clusters (e.g. `Abrahamic`, `Dharmic`, `East Asian`, `Philosophical & Ethical Systems`). |
 | `color` | `string` | Yes | 6-digit hex color code matching the cluster (e.g. `#3b82f6`). |
-| `display_weight` | `number` | Optional | Visual prominence multiplier (`0.75` to `3.0`, default `1.0`). |
+| `display_weight` | `number` | Optional | Visual prominence multiplier (`0.75` to `3.0`, default `1.0`). Editorial visual hierarchy, not population. |
 | `era_start` | `string` | Yes | Approximate start date (e.g. `c. 500 BCE`, `16th century CE`). |
-| `origin_year` | `number` | Yes | Numeric year for the timeline scrubber (e.g. `-500`, `1517`). |
-| `origin_geo` | `[lat, lng]` | Yes | Geographic coordinates for the 3D globe view (e.g. `[31.7683, 35.2137]`). |
+| `origin_year` | `number` | Yes | Numeric year for timeline navigation and filtering (e.g. `-500`, `1517`). |
+| `origin_geo` | `{ lat, lng, place_name }` | Yes | Geographic coordinates and place name for the 3D globe view (`{ lat, lng, place_name }`). |
+| `extinct_year` | `number | null` | Optional | Numeric year of extinction/dissolution, or `null` if the tradition is living/ongoing. |
 | `epistemic_tier` | `string` | Yes | Academic certainty level: `academic_consensus`, `minority_scholarly`, `theological_claim`, or `speculative_fringe`. |
 | `summary` | `string` | Yes | 1-2 sentence summary of the tradition. |
 | `aliases` | `string[]` | Optional | Alternative names, transliterations, or historical designations. |
-| `canonical_texts`| `string[]` | Optional | Key scriptures, foundational treatises, or primary texts. |
-| `key_tenets` | `string[]` | Optional | Bullet points of primary doctrines or practices. |
-| `relations` | `array` | Optional | Outgoing relationship links to other traditions (see below). |
+| `canonical_texts` | `string[]` | Yes | Key scriptures, foundational treatises, or primary texts. |
+| `key_tenets` | `string[]` | Optional | Primary philosophical or theological tenets, ethical principles, or practices. |
+| `sources` | `array` | Optional | Bibliographic citations or academic references (`string` or `{ title, url }`). |
+| `artifacts` | `array` | Optional | Curated visual artifacts, manuscripts, or sacred iconography (`{ title, imageUrl, sourceUrl, provenance, period, description }`). |
+| `relations` | `array` | Optional | Outgoing relationship links to other traditions (see Relation Fields below). |
+
+### Recognized Clusters
+
+The 11 recognized clusters are:
+- `Abrahamic`
+- `Dharmic`
+- `East Asian`
+- `Indigenous & Diasporic`
+- `Iranian`
+- `Ancient Near East`
+- `Ancient Mediterranean`
+- `Ancient European`
+- `Esoteric & Modern`
+- `Philosophical & Ethical Systems`
+- `Speculative`
+
+### Epistemic Tiers
+
+- `academic_consensus`: Broadly supported by the current academic literature.
+- `minority_scholarly`: A documented scholarly position without broad consensus.
+- `theological_claim`: A confessional or tradition-internal theological claim.
+- `speculative_fringe`: A highly speculative claim outside mainstream scholarship.
 
 ### Relation Fields
 
@@ -46,9 +72,11 @@ relations:
     citation: "Historical consensus on apostolic roots"
 ```
 
-- `target`: Valid `id` of another existing tradition.
-- `type`: `branch_of`, `diverged_from`, `influenced_by`, `syncretized_with`, `parallel_concept`, `schism`, or `fringe_reinterpretation`.
-- `certainty`: `academic_consensus`, `minority_scholarly`, `theological_claim`, or `speculative_fringe`.
+- `target`: Valid `id` of another existing tradition in the atlas.
+- `type`: One of `branch_of`, `diverged_from`, `influenced_by`, `syncretized_with`, `parallel_concept`, `fringe_reinterpretation`, `schism`.
+- `certainty`: Academic certainty level: `academic_consensus`, `minority_scholarly`, `theological_claim`, or `speculative_fringe`.
+- `citation`: Optional scholarly citation or explanation.
+<!-- END_FRONTMATTER_SCHEMA -->
 
 ---
 
