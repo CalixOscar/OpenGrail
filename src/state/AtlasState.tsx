@@ -10,6 +10,10 @@ import {
   type ReactNode,
 } from 'react';
 import {
+  DEFAULT_TEMPORAL_MODE,
+  type TemporalMode,
+} from './temporalVisibility';
+import {
   EPISTEMIC_TIERS,
   RELATION_TYPES,
   type EpistemicTier,
@@ -17,10 +21,13 @@ import {
 } from '../types/graph';
 
 export type ViewMode = 'brain' | 'map';
+export type { TemporalMode } from './temporalVisibility';
 
 export interface AtlasStateContextValue {
   currentYear: number;
   setCurrentYear: React.Dispatch<React.SetStateAction<number>>;
+  temporalMode: TemporalMode;
+  setTemporalMode: React.Dispatch<React.SetStateAction<TemporalMode>>;
   viewMode: ViewMode;
   setViewMode: (mode: ViewMode) => void;
   selectedNodeId: string | null;
@@ -113,6 +120,7 @@ export function AtlasProvider({
     : { nodeId: null, compareId: null, view: null };
 
   const [currentYear, setCurrentYear] = useState<number>(initialYear);
+  const [temporalMode, setTemporalMode] = useState<TemporalMode>(DEFAULT_TEMPORAL_MODE);
   const [viewMode, setViewMode] = useState<ViewMode>(initialHash.view ?? 'brain');
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(initialHash.nodeId);
   const [compareNodeId, setCompareNodeId] = useState<string | null>(initialHash.compareId);
@@ -210,6 +218,8 @@ export function AtlasProvider({
     () => ({
       currentYear,
       setCurrentYear,
+      temporalMode,
+      setTemporalMode,
       viewMode,
       setViewMode,
       selectedNodeId,
@@ -248,6 +258,7 @@ export function AtlasProvider({
       selectedNodeId,
       startComparison,
       swapComparison,
+      temporalMode,
       toggleRelationType,
       toggleTier,
       viewMode,

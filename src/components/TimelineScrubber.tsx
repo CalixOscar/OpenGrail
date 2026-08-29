@@ -1,7 +1,9 @@
 /* SPDX-License-Identifier: MIT */
 
 import {
+  Activity,
   History,
+  Layers,
   Pause,
   Play,
   RotateCcw,
@@ -126,7 +128,7 @@ export function TimelineScrubber({
   className = '',
   onYearChange,
 }: TimelineScrubberProps) {
-  const { currentYear, setCurrentYear } = useAtlasState();
+  const { currentYear, setCurrentYear, temporalMode, setTemporalMode } = useAtlasState();
   const [timelineMode, setTimelineMode] = useState<TimelineMode>('historic');
   const [isPlaying, setIsPlaying] = useState(false);
   const [playbackSpeed, setPlaybackSpeed] = useState<0.5 | 1 | 2 | 4>(1);
@@ -310,6 +312,31 @@ export function TimelineScrubber({
           >
             <Sparkles size={13} />
             <span>Deep Prehistory</span>
+          </button>
+        </div>
+
+        {/* Temporal Visibility Mode Selector (Emergent vs Active) */}
+        <div className="timeline-mode-toggle" role="group" aria-label="Temporal visibility mode">
+          <button
+            type="button"
+            className={`timeline-mode-btn${temporalMode === 'emergent' ? ' is-active' : ''}`}
+            onClick={() => setTemporalMode('emergent')}
+            title="Emergent mode: Cumulative history (origin year ≤ scrubbed year)"
+            aria-pressed={temporalMode === 'emergent'}
+          >
+            <Layers size={13} />
+            <span>Emergent</span>
+          </button>
+
+          <button
+            type="button"
+            className={`timeline-mode-btn${temporalMode === 'active' ? ' is-active' : ''}`}
+            onClick={() => setTemporalMode('active')}
+            title="Active mode: Traditions active in this era (hides extinct traditions)"
+            aria-pressed={temporalMode === 'active'}
+          >
+            <Activity size={13} />
+            <span>Active</span>
           </button>
         </div>
 

@@ -36,6 +36,10 @@ import ViewSwitcher from './components/ViewSwitcher';
 import WorldMapView from './components/WorldMapView';
 import AtlasProvider, { useAtlasState } from './state/AtlasState';
 import {
+  isLinkTemporallyVisible,
+  isNodeTemporallyVisible,
+} from './state/temporalVisibility';
+import {
   scoreGraphNodeSearch,
   type GraphData,
 } from './types/graph';
@@ -70,6 +74,7 @@ function AppContent() {
 
   const {
     currentYear,
+    temporalMode,
     viewMode,
     selectedNodeId,
     selectedLinkId,
@@ -179,39 +184,43 @@ function AppContent() {
   const selectedLink = selectedLinkId ? linkById.get(selectedLinkId) ?? null : null;
 
   const visibleNodeIds = useMemo(
-    () => new Set(
-      graphData.nodes
-        .filter((node) => activeTiers.has(node.epistemicTier) && (node.origin_year ?? node.originYear ?? 0) <= currentYear)
-        .map((node) => node.id),
-    ),
-    [activeTiers, currentYear, graphData.nodes],
+    () =>
+      new Set(
+        graphData.nodes
+          .filter(
+            (node) =>
+              activeTiers.has(node.epistemicTier) &&
+              isNodeTemporallyVisible(node, currentYear, temporalMode),
+          )
+          .map((node) => node.id),
+      ),
+    [activeTiers, currentYear, graphData.nodes, temporalMode],
   );
 
   const visibleLinkCount = useMemo(
-    () => graphData.links.filter((link) => {
-      if (!visibleNodeIds.has(link.source) || !visibleNodeIds.has(link.target)) return false;
-      if (!activeTiers.has(link.certainty) || !activeRelationTypes.has(link.type)) return false;
-      const srcNode = nodeById.get(link.source);
-      const tgtNode = nodeById.get(link.target);
-      const srcYear = srcNode?.origin_year ?? srcNode?.originYear ?? 0;
-      const tgtYear = tgtNode?.origin_year ?? tgtNode?.originYear ?? 0;
-      return Math.max(srcYear, tgtYear) <= currentYear;
-    }).length,
-    [activeRelationTypes, activeTiers, currentYear, graphData.links, nodeById, visibleNodeIds],
+    () =>
+      graphData.links.filter((link) => {
+        if (!visibleNodeIds.has(link.source) || !visibleNodeIds.has(link.target)) return false;
+        if (!activeTiers.has(link.certainty) || !activeRelationTypes.has(link.type)) return false;
+        const srcNode = nodeById.get(link.source);
+        const tgtNode = nodeById.get(link.target);
+        return isLinkTemporallyVisible(srcNode, tgtNode, currentYear, temporalMode);
+      }).length,
+    [activeRelationTypes, activeTiers, currentYear, graphData.links, nodeById, temporalMode, visibleNodeIds],
   );
 
   const searchMatches = useMemo(() => {
     const normalized = searchQuery.trim().toLocaleLowerCase();
     if (!normalized) return [];
     return graphData.nodes
-      .filter((node) => scoreGraphNodeSearch(node, normalized) > 0)
+      .filter((node) => visibleNodeIds.has(node.id) && scoreGraphNodeSearch(node, normalized) > 0)
       .sort((left, right) => {
-        const scoreDelta = scoreGraphNodeSearch(right, normalized) -
-          scoreGraphNodeSearch(left, normalized);
+        const scoreDelta =
+          scoreGraphNodeSearch(right, normalized) - scoreGraphNodeSearch(left, normalized);
         return scoreDelta || left.title.localeCompare(right.title);
       })
       .slice(0, 6);
-  }, [graphData.nodes, searchQuery]);
+  }, [graphData.nodes, searchQuery, visibleNodeIds]);
 
   const selectNode = useCallback((nodeId: string | null) => {
     contextSelectNode(nodeId);
