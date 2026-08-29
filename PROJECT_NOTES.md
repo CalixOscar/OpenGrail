@@ -22,12 +22,12 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Sprint 01 complete. Track F item 5 (keyboard-only browser smoke test) complete. 90 tests green (verified: npm run verify 2026-08-30).
-**Task:** All Sprint 01 remediation tracks (A, C, D, E, F) complete and verified.
-**Files touched:** `tests/keyboard-smoke.test.js` (new), `PROJECT_NOTES.md`.
-**Next step:** Sprint 01 review and release preparation.
-**Gotchas:** Keyboard smoke tests use CDP `page.keyboard` events via Puppeteer to drive search focus, typing, arrow navigation, Enter selection, document pane inspection, comparison opening, and Escape dismissal. Server rebuilds `dist/` unconditionally.
-**Left by:** Antigravity 2026-08-30
+**Status:** Default-hidden chrome and the mobile pass complete on branch `mobile-and-default-chrome`; 90 tests green (verified: npm run verify 2026-08-30). Not merged.
+**Task:** Open the atlas as the map/graph itself with chrome on demand, and make the app behave on real mobile browsers.
+**Files touched:** `src/App.tsx`, `src/index.css`, `src/components/GraphCanvas.tsx`, `src/components/WorldMapView.tsx`, `src/components/TimelineScrubber.tsx`, `PROJECT_NOTES.md`.
+**Next step:** Review and merge the branch, then redeploy. Deploying is a separate manual step - see the Decisions Log entry on the deploy path.
+**Gotchas:** Flipping the three chrome defaults exposed a latent WCAG contrast failure in the comparison modal. The overlay backdrop is translucent, so a button's effective background depends on what renders behind it; with the timeline and filter bar unmounted, `.btn--secondary` fell to 3.85:1. It was fixed by giving the buttons opaque backgrounds, not by relaxing the axe threshold. Any future change to what sits behind a translucent overlay can resurface this class of bug, and only the axe suite will catch it. Payload work is still untouched and is the dominant remaining mobile cost: `public/graph.json` is about 3.96 MB and the artifact library about 823 MiB.
+**Left by:** Claude Code 2026-08-30
 
 ## Decisions Log
 <!-- Append dated decisions below. Keep entries short; put detailed plans in repo docs. -->
@@ -289,3 +289,23 @@ and (8) dismissed comparison modal via Escape. Verified test failure validity by
 key handling in `SearchCombobox.tsx` (causing test timeout and failure on selection), reverted cleanly with no
 leftover scaffolding, and verified 90 tests green (verified: npm run verify 2026-08-30). Sprint 01 complete.
 
+### 2026-08-30 - Chrome is summoned, not resident
+The sidebar, filter bar and timeline now start hidden. The atlas opens as the map or graph
+itself and each surface is brought in on demand from the topbar toggles or the sidebar
+collapse control. This is also the mobile-first posture: the same defaults that reduce
+desktop clutter are what make a phone viewport usable at all.
+
+### 2026-08-30 - Translucent overlays make contrast contextual
+A button drawn over a translucent, blurred backdrop has no fixed background colour - its
+effective contrast depends on whatever is rendered beneath it. `.btn--secondary` passed axe
+only because the timeline and filter bar happened to sit behind it, and failed at 3.85:1 the
+moment they stopped being mounted by default. Controls that can appear over an overlay need
+an opaque background of their own rather than inheriting whatever is underneath.
+
+### 2026-08-30 - Deploying is a separate manual step in another repository
+`calmdownoscar.com` is served from `~/Documents/Projects/CalmdownOscar` (Vercel, `CNAME`).
+That repository vendors a committed copy of this project's `dist/` at `opengrail/`, so
+pushing OpenGrail does not deploy anything. The sequence is: build here, replace
+`CalmdownOscar/opengrail/` with the fresh `dist/`, then commit and push that repository,
+which is what triggers Vercel. The pattern is visible only in that repo's `deploy:` commit
+messages and is documented nowhere else.

@@ -57,6 +57,25 @@ function clamp(value: number, min: number, max: number): number {
   return Math.min(max, Math.max(min, value));
 }
 
+function usePrefersReducedMotion(): boolean {
+  const [prefersReducedMotion, setPrefersReducedMotion] = useState(() => {
+    if (typeof window === 'undefined' || !window.matchMedia) return false;
+    return window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  });
+
+  useEffect(() => {
+    if (typeof window === 'undefined' || !window.matchMedia) return;
+    const mediaQuery = window.matchMedia('(prefers-reduced-motion: reduce)');
+    const onChange = (event: MediaQueryListEvent) => {
+      setPrefersReducedMotion(event.matches);
+    };
+    mediaQuery.addEventListener('change', onChange);
+    return () => mediaQuery.removeEventListener('change', onChange);
+  }, []);
+
+  return prefersReducedMotion;
+}
+
 function colorWithAlpha(color: string, alpha: number): string {
   const normalized = color.trim();
   const shortHex = /^#([\da-f])([\da-f])([\da-f])$/i.exec(normalized);
@@ -91,6 +110,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
     setViewMode,
   } = useAtlasState();
 
+  const prefersReducedMotion = usePrefersReducedMotion();
   const containerRef = useRef<HTMLDivElement>(null);
   const canvasRef = useRef<HTMLCanvasElement>(null);
 
@@ -106,7 +126,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
   const animationFrameRef = useRef<number | null>(null);
   const flowOffsetRef = useRef<number>(0);
 
-  // Load local bundled map asset
+  // Load local world topojson for accurate coastlines
   useEffect(() => {
     const controller = new AbortController();
     const mapUrl = `${import.meta.env.BASE_URL}world-110m.json`;
@@ -153,6 +173,10 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
       setRotation((current) => {
         if (targetRotationRef.current) {
           const [tLng, tLat] = targetRotationRef.current;
+          if (prefersReducedMotion) {
+            targetRotationRef.current = null;
+            return [tLng, tLat, 0];
+          }
           const [cLng, cLat] = current;
           let diffLng = (tLng - cLng) % 360;
           if (diffLng > 180) diffLng -= 360;
@@ -167,7 +191,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
           return [cLng + diffLng * step, cLat + diffLat * step, 0];
         }
 
-        if (autoRotate && !isDragging) {
+        if (autoRotate && !isDragging && !prefersReducedMotion) {
           return [current[0] + dt * 4, current[1], 0];
         }
 
@@ -181,7 +205,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
     return () => {
       if (animationFrameRef.current) cancelAnimationFrame(animationFrameRef.current);
     };
-  }, [autoRotate, isDragging]);
+  }, [autoRotate, isDragging, prefersReducedMotion]);
 
   const searchResults = useMemo(() => {
     const q = searchQuery.trim().toLocaleLowerCase();
@@ -208,7 +232,8 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
     const width = Math.max(bounds.width, 100);
     const height = Math.max(bounds.height, 100);
 
-    const dpr = window.devicePixelRatio || 1;
+    const rawDpr = window.devicePixelRatio || 1;
+    const dpr = Math.min(rawDpr, 2);
     canvas.width = width * dpr;
     canvas.height = height * dpr;
     canvas.style.width = `${width}px`;

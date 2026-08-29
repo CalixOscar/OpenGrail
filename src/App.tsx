@@ -62,11 +62,11 @@ function AppContent() {
   const [loadState, setLoadState] = useState<'loading' | 'ready' | 'error'>('loading');
   const [loadError, setLoadError] = useState('');
   const [documentOpen, setDocumentOpen] = useState(false);
-  const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
+  const [sidebarCollapsed, setSidebarCollapsed] = useState(true);
   const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
   const [mobileTimelineOpen, setMobileTimelineOpen] = useState(false);
-  const [showFilters, setShowFilters] = useState(true);
-  const [showTimeline, setShowTimeline] = useState(true);
+  const [showFilters, setShowFilters] = useState(false);
+  const [showTimeline, setShowTimeline] = useState(false);
   const [clusterLayout, setClusterLayout] = useState(true);
   const [comparisonModalOpen, setComparisonModalOpen] = useState(false);
   const searchLabelTimerRef = useRef<number | null>(null);
