@@ -22,12 +22,12 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Track F item 4 (axe smoke tests) complete. Item 5 (keyboard-only browser smoke test) not written. 87 tests green (verified: npm run verify 2026-08-30).
-**Task:** Finish Sprint 01 Track F. Item 4 runs axe-core against the main view, the comparison modal and the artifact lightbox, failing on serious and critical violations. Item 5 remains.
-**Files touched:** `tests/accessibility-smoke.test.js` (new), `tests/browser-helper.js` (new), `package.json`, `PROJECT_NOTES.md`.
-**Next step:** Write item 5, the keyboard-only browser smoke test: search, select, open document pane, open comparison, close. Reuse `tests/browser-helper.js`. Puppeteer's `page.keyboard` sends trusted CDP events and should not hit the injection problems seen with other automation here, but assert early that a keypress actually reaches the page rather than assuming it.
-**Gotchas:** `startStaticAppServer` now rebuilds unconditionally. It previously built only when `dist/index.html` was absent, so the browser tests served whatever stale bundle was on disk - a real violation in `src/` passed because the served bundle predated it. `npm run verify` is correspondingly `npm run build && npm test`, since `tsc -b` alone does not produce `dist/`. Any browser test that serves `dist/` must keep that guarantee. The browser suite skips with a clear message when no Chrome is found (`CHROME_PATH`, then platform candidates); items 1-3 remain runnable with no browser at all.
-**Left by:** Claude Code 2026-08-30
+**Status:** Sprint 01 complete. Track F item 5 (keyboard-only browser smoke test) complete. 90 tests green (verified: npm run verify 2026-08-30).
+**Task:** All Sprint 01 remediation tracks (A, C, D, E, F) complete and verified.
+**Files touched:** `tests/keyboard-smoke.test.js` (new), `PROJECT_NOTES.md`.
+**Next step:** Sprint 01 review and release preparation.
+**Gotchas:** Keyboard smoke tests use CDP `page.keyboard` events via Puppeteer to drive search focus, typing, arrow navigation, Enter selection, document pane inspection, comparison opening, and Escape dismissal. Server rebuilds `dist/` unconditionally.
+**Left by:** Antigravity 2026-08-30
 
 ## Decisions Log
 <!-- Append dated decisions below. Keep entries short; put detailed plans in repo docs. -->
@@ -278,3 +278,14 @@ established nothing, and the injected markup was left behind in `src/App.tsx` wh
 timed out. A valid proof needs the injected fault to be reachable under the exact conditions
 the test runs in. Re-run against a visible element, axe reported `[CRITICAL] button-name`
 as expected.
+
+### 2026-08-30 — Keyboard-only browser smoke test (Track F item 5) completed
+Implemented `tests/keyboard-smoke.test.js` covering the full keyboard-driven navigation path:
+(1) verified Tab moves `document.activeElement` away from BODY, (2) focused search input,
+(3) typed query to trigger combobox suggestions, (4) cycled highlight across suggestions using ArrowDown,
+(5) selected highlighted option via Enter, (6) verified document pane opens displaying the exact highlighted
+tradition, (7) focused comparison button via keyboard and opened comparison modal via Enter,
+and (8) dismissed comparison modal via Escape. Verified test failure validity by temporarily disabling Enter
+key handling in `SearchCombobox.tsx` (causing test timeout and failure on selection), reverted cleanly with no
+leftover scaffolding, and verified 90 tests green (verified: npm run verify 2026-08-30). Sprint 01 complete.
+
