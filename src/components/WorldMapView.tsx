@@ -23,6 +23,11 @@ import React, {
 } from 'react';
 import { useAtlasState } from '../state/AtlasState';
 import {
+  isLinkTemporallyVisible,
+  isNodeExtinct,
+  isNodeTemporallyVisible,
+} from '../state/temporalVisibility';
+import {
   EPISTEMIC_TIER_OPTIONS,
   RELATION_TYPE_OPTIONS,
   scoreGraphNodeSearch,
@@ -73,6 +78,7 @@ function colorWithAlpha(color: string, alpha: number): string {
 export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldMapViewProps) {
   const {
     currentYear,
+    temporalMode,
     selectedNodeId,
     selectedLinkId,
     selectNode,
@@ -179,10 +185,15 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
     if (!q) return new Set<string>();
     return new Set(
       graphData.nodes
-        .filter((node) => scoreGraphNodeSearch(node, q) > 0)
+        .filter(
+          (node) =>
+            activeTiers.has(node.epistemicTier) &&
+            isNodeTemporallyVisible(node, currentYear, temporalMode) &&
+            scoreGraphNodeSearch(node, q) > 0,
+        )
         .map((n) => n.id),
     );
-  }, [graphData.nodes, searchQuery]);
+  }, [activeTiers, currentYear, graphData.nodes, searchQuery, temporalMode]);
 
   // Draw globe frame on canvas
   useEffect(() => {
@@ -274,10 +285,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
       const target = nodeMap.get(link.target);
       if (!source || !target || !source.origin_geo || !target.origin_geo) return;
 
-      const sourceYear = source.origin_year ?? 0;
-      const targetYear = target.origin_year ?? 0;
-      const maxOriginYear = Math.max(sourceYear, targetYear);
-      if (maxOriginYear > currentYear) return;
+      if (!isLinkTemporallyVisible(source, target, currentYear, temporalMode)) return;
 
       const isSourceTierActive = activeTiers.has(source.epistemicTier);
       const isTargetTierActive = activeTiers.has(target.epistemicTier);
@@ -341,11 +349,9 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
       const { lat, lng } = node.origin_geo;
       const isTierActive = activeTiers.has(node.epistemicTier);
       if (!isTierActive) return;
+      if (!isNodeTemporallyVisible(node, currentYear, temporalMode)) return;
 
-      const originYear = node.origin_year ?? node.originYear ?? 0;
-      const isFuture = originYear > currentYear;
-      const extinctYear = node.extinct_year ?? node.extinctYear;
-      const isExtinct = extinctYear !== null && extinctYear !== undefined && currentYear >= extinctYear;
+      const isExtinct = isNodeExtinct(node, currentYear);
       const isSelected = node.id === selectedNodeId;
       const isHovered = node.id === hoveredNodeId;
       const isSearchMatch = searchResults.has(node.id);
@@ -364,24 +370,20 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
       const baseRadius = 4.2 + (node.displayWeight > 1.5 ? 2.5 : 0) + (isSelected ? 3 : 0);
 
       ctx.save();
-      if (isFuture) {
-        ctx.globalAlpha = 0.05;
-      } else if (isExtinct) {
+      if (isExtinct) {
         ctx.globalAlpha = 0.45;
       } else {
         ctx.globalAlpha = 0.95;
       }
 
       // Outer halo
-      if (!isFuture) {
-        const halo = ctx.createRadialGradient(pt[0], pt[1], 0, pt[0], pt[1], baseRadius * 2.8);
-        halo.addColorStop(0, colorWithAlpha(color, isSelected ? 0.7 : 0.35));
-        halo.addColorStop(1, 'rgba(0, 0, 0, 0)');
-        ctx.fillStyle = halo;
-        ctx.beginPath();
-        ctx.arc(pt[0], pt[1], baseRadius * 2.8, 0, Math.PI * 2);
-        ctx.fill();
-      }
+      const halo = ctx.createRadialGradient(pt[0], pt[1], 0, pt[0], pt[1], baseRadius * 2.8);
+      halo.addColorStop(0, colorWithAlpha(color, isSelected ? 0.7 : 0.35));
+      halo.addColorStop(1, 'rgba(0, 0, 0, 0)');
+      ctx.fillStyle = halo;
+      ctx.beginPath();
+      ctx.arc(pt[0], pt[1], baseRadius * 2.8, 0, Math.PI * 2);
+      ctx.fill();
 
       // Core point
       ctx.beginPath();
@@ -408,10 +410,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
       const isSelected = node.id === selectedNodeId;
       const isHovered = node.id === hoveredNodeId;
       const isSearchMatch = searchResults.has(node.id);
-      const originYear = node.origin_year ?? node.originYear ?? 0;
-      const isFuture = originYear > currentYear;
-      const extinctYear = node.extinct_year ?? node.extinctYear;
-      const isExtinct = extinctYear !== null && extinctYear !== undefined && currentYear >= extinctYear;
+      const isExtinct = isNodeExtinct(node, currentYear);
 
       if (isSelected || isHovered || (isSearchMatch && searchLabelsVisible)) {
         ctx.save();
@@ -419,9 +418,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
         const placeName = node.origin_geo?.place_name || (node as any).originGeo?.place_name || '';
         
         let statusBadge = '';
-        if (isFuture) {
-          statusBadge = `⏳ Emerges: ${node.eraStart}`;
-        } else if (isExtinct) {
+        if (isExtinct) {
           statusBadge = `⌛ Extinct (Active ${node.eraStart})`;
         } else {
           statusBadge = `● Active in ${node.eraStart}`;
@@ -441,8 +438,8 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
         // Tooltip box with glow shadow
         ctx.shadowColor = 'rgba(0, 0, 0, 0.65)';
         ctx.shadowBlur = 12;
-        ctx.fillStyle = isFuture ? 'rgba(18, 22, 32, 0.95)' : 'rgba(13, 17, 24, 0.96)';
-        ctx.strokeStyle = isFuture ? 'rgba(255, 255, 255, 0.22)' : colorWithAlpha(node.color, 0.85);
+        ctx.fillStyle = 'rgba(13, 17, 24, 0.96)';
+        ctx.strokeStyle = colorWithAlpha(node.color, 0.85);
         ctx.lineWidth = 1.2;
         ctx.beginPath();
         ctx.roundRect(boxX, boxY, boxWidth, boxHeight, 7);
@@ -457,7 +454,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
         ctx.lineTo(x + 6, boxY + boxHeight);
         ctx.lineTo(x, boxY + boxHeight + 6);
         ctx.closePath();
-        ctx.fillStyle = isFuture ? 'rgba(18, 22, 32, 0.95)' : 'rgba(13, 17, 24, 0.96)';
+        ctx.fillStyle = 'rgba(13, 17, 24, 0.96)';
         ctx.fill();
 
         // Title text
@@ -467,7 +464,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
         ctx.fillText(label, x, boxY + 16);
 
         // Subtext / status
-        ctx.fillStyle = isFuture ? '#fbbf24' : '#64d8c0';
+        ctx.fillStyle = '#64d8c0';
         ctx.font = '500 10px Inter, ui-sans-serif, system-ui, sans-serif';
         ctx.fillText(subtext, x, boxY + 31);
 
@@ -490,6 +487,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
     searchResults,
     selectedLinkId,
     selectedNodeId,
+    temporalMode,
     worldLand,
   ]);
 
@@ -545,6 +543,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
       if (!geo) return;
       const { lat, lng } = geo;
       if (!activeTiers.has(node.epistemicTier)) return;
+      if (!isNodeTemporallyVisible(node, currentYear, temporalMode)) return;
 
       const distToCenter = geoDistance([centerLng, centerLat], [lng, lat]);
       if (distToCenter >= Math.PI / 2) return;

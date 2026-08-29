@@ -22,12 +22,12 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Tracks A, B, and C complete and verified; `npm run build` and `npm test` pass. Tracks D, E, and F not started.
-**Task:** Sprint 01 remediation from `docs/sprint-01-remediation-plan.md`. Track A (comparison-mode correctness), Track B (scholarly language), and Track C (contributor contract repair) are completed and derived. Tracks D (unified temporal visibility), E (accessible search/modals/timeline), and F (regression test harness) remain untouched.
-**Files touched:** `scripts/schema.js` (new), `scripts/derive-schema.js` (new), `scripts/verify-contributor-contract.js` (new), `scripts/build-graph.js`, `data/_template.md`, `CONTRIBUTING.md`, `src/types/schema.ts` (new), `src/types/graph.ts`, `package.json`, `src/components/Lightbox.tsx` (new), `src/components/ComparisonModal.tsx`, `src/components/DocumentPane.tsx`, `src/index.css`, `vite.config.ts`, `index.html`, `docs/sprint-01-remediation-plan.md` (new), `PLAN.md` (swarm dispatch, untracked), `PROJECT_NOTES.md`.
-**Next step:** Dispatch Track D (unified temporal visibility), then Track E (accessible search/modals/timeline), then Track F (regression test harness). Nothing is committed yet - review `git diff` against `694f554` before committing.
-**Gotchas:** All frontmatter schemas, validation in `scripts/build-graph.js`, docs in `CONTRIBUTING.md`, `data/_template.md`, and TypeScript definitions in `src/types/schema.ts` are strictly derived from `scripts/schema.js`. Run `npm run derive:schema` to regenerate, and `npm test` (`npm run verify:schema`) to mechanically verify against drift and test compiling `data/_template.md`.
-**Left by:** Antigravity 2026-08-29
+**Status:** Tracks A, B, C and D complete and verified; `npm run build` and `npm test` pass. Tracks E and F not started.
+**Task:** Sprint 01 remediation from `docs/sprint-01-remediation-plan.md`. Track D unified temporal visibility behind one shared selector. Track E (accessible search/modals/timeline) and Track F (regression test harness) remain.
+**Files touched:** `src/state/temporalVisibility.ts` (new), `src/state/AtlasState.tsx`, `src/App.tsx`, `src/components/GraphCanvas.tsx`, `src/components/WorldMapView.tsx`, `src/components/TimelineScrubber.tsx`, `src/components/Sidebar.tsx`, `src/components/ComparisonModal.tsx`, `PROJECT_NOTES.md`.
+**Next step:** Dispatch Track E, then Track F. Track F should fold in unit tests for `isNodeTemporallyVisible`, including the `year == extinct_year` boundary and a null `extinct_year`; `npm test` currently runs only the Track C contract check.
+**Gotchas:** `active` mode treats the extinction year itself as extinct (`year >= extinct_year`), matching what the map already did before this track; do not change it on one surface alone. The map hit-test at `WorldMapView.tsx:546` was the defect that mattered most - it filtered on tier only and never read the year, so unemerged traditions stayed clickable. Any new surface that filters by year must call the shared selector rather than reimplement it. Both swarm dispatches for this track and Track A ended on a ~292-299s bridge timeout while still writing good code; the ERROR status is not a work signal.
+**Left by:** Claude Code 2026-08-29
 
 ## Decisions Log
 <!-- Append dated decisions below. Keep entries short; put detailed plans in repo docs. -->
@@ -210,3 +210,15 @@ to use shared schema validation and multi-parent cycle detection. Derived `data/
 `CONTRIBUTING.md`, and `src/types/schema.ts`. Verified `npm test` and `npm run build` pass cleanly with
 573 nodes and 903 links. Tracks D, E, and F remain untouched.
 
+### 2026-08-29 - Emergent is the default temporal mode
+The timeline exposes two explicit modes. `emergent` (`origin_year <= year`) is the default
+because the atlas is primarily read as cumulative history: scrubbing forward should add
+traditions rather than remove them. `active` (`origin_year <= year && year < extinct_year`)
+is opt-in for reading a single era. The extinction year itself counts as extinct, which is
+what the map already did before the modes existed; the rule is now shared rather than local
+to one component.
+
+### 2026-08-29 - Track D verified at runtime
+Toggling the modes at the present day gives 573 of 573 traditions and 903 of 903 relations
+in `emergent`, against 491 and 735 in `active` - 82 extinct traditions correctly excluded,
+where previously nothing excluded them on any surface but the map's own drawing code.

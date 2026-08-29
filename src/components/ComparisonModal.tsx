@@ -22,6 +22,8 @@ import {
 } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import { useAtlasState } from '../state/AtlasState';
+import { isNodeTemporallyVisible } from '../state/temporalVisibility';
 import {
   formatTaxonomyLabel,
   scoreGraphNodeSearch,
@@ -105,6 +107,7 @@ export function ComparisonModal({
   onSelectNodeB,
   onSwap,
 }: ComparisonModalProps) {
+  const { currentYear, temporalMode, activeTiers } = useAtlasState();
   const [copiedLink, setCopiedLink] = useState(false);
   const [activeArtifact, setActiveArtifact] = useState<{
     artifact: TraditionArtifact;
@@ -142,16 +145,21 @@ export function ComparisonModal({
 
   // Filter nodes for the search selector
   const filteredNodes = useMemo(() => {
+    const candidateNodes = nodes.filter(
+      (n) =>
+        activeTiers.has(n.epistemicTier) &&
+        isNodeTemporallyVisible(n, currentYear, temporalMode),
+    );
     if (!selectorSearch.trim()) {
-      return nodes.slice(0, 30);
+      return candidateNodes.slice(0, 30);
     }
-    return nodes
+    return candidateNodes
       .map((n) => ({ node: n, score: scoreGraphNodeSearch(n, selectorSearch) }))
       .filter((entry) => entry.score > 0)
       .sort((a, b) => b.score - a.score)
       .map((entry) => entry.node)
       .slice(0, 40);
-  }, [nodes, selectorSearch]);
+  }, [activeTiers, currentYear, nodes, selectorSearch, temporalMode]);
 
   // Check direct graph connection between A and B
   const directConnections = useMemo(() => {
