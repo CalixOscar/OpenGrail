@@ -114,4 +114,7 @@ We welcome community contributions! Whether you want to add an obscure regional 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) — free and open for educational, academic, and personal use.
+The OpenGrail application codebase, authored data records under `data/`, and documentation are licensed under the [MIT License](LICENSE).
+
+Third-party visual artifacts under `public/artifacts/` are individually licensed by their respective creators under open and public domain terms (Public Domain, CC0, CC-BY, CC-BY-SA). See [NOTICE.md](NOTICE.md) and [ATTRIBUTIONS.md](ATTRIBUTIONS.md) for complete licensing terms and per-file attributions.
+

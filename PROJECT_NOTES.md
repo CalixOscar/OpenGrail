@@ -22,11 +22,11 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Planned, not started. Preparing the repository to go public. Full plan in `docs/public-release-plan.md`.
-**Task:** Two things block making `CalixOscar/OpenGrail` public. (1) `LICENSE` claims unqualified MIT while bundling 1,146 third-party images, 720 of which carry attribution obligations and 556 share-alike. (2) The git pack is 1.02 GiB because the images are tracked, so every clone pays a gigabyte.
-**Files touched:** `docs/public-release-plan.md` (new), `PROJECT_NOTES.md`. No source or data files changed yet.
-**Next step:** Phase 1 - build the artifact manifest, the checksum-pinned `fetch:artifacts` script, and the licensing files, and prove the fetch reproduces all 1,146 images byte-for-byte. Phase 2 - only after Phase 1 is proven, untrack the images and purge them from history. Phase 2 is NOT swarm work; it is destructive and is done by hand.
-**Gotchas:** DO NOT hotlink images from Wikimedia in the app. The deploy target sets `img-src 'self' data:` in its CSP so remote images are blocked outright, and the project is deliberately tracker-free with no remote dependencies. Images must remain self-hosted - fetched at build time into `public/artifacts/`, copied into `dist/` as now. DO NOT delete or untrack any image until the fetch script has been proven to reproduce every one of the 1,146 files with a matching checksum; the local copies are currently the only guaranteed copy. DO NOT relicense the project to CC-BY-SA to "resolve" the share-alike images - share-alike binds derivatives of those images, not neighbouring code. The history rewrite must happen before the repo is made public; afterwards it breaks every clone and fork.
+**Status:** Phase 1 built and verified; 95 tests green (verified: npm run verify 2026-08-30). Fetch proven against all 1,146 artifacts. Phase 2 not started.
+**Task:** Prepare the repository to go public: scope the licence away from the third-party images, and get 821 MB of images out of a 1.02 GiB git pack.
+**Files touched:** `data/artifact-manifest.json` (new), `scripts/build-artifact-manifest.js`, `scripts/fetch-artifacts.js`, `scripts/derive-attributions.js` (all new), `tests/artifact-manifest.test.js` (new), `LICENSE`, `README.md`, `NOTICE.md` and `ATTRIBUTIONS.md` (new), `docs/public-release-plan.md`, `docs/unreproducible-artifacts.txt` (new).
+**Next step:** Adjust the manifest for the hybrid split (see Gotchas), then Phase 2 by hand: untrack the 1,026 fetchable images and purge them from history. Phase 2 is NOT swarm work.
+**Gotchas:** The fetch verification proved only 1,026 of 1,146 images reproduce byte-for-byte. The other 120 are downscaled derivatives made by the original curation pipeline, so the upstream original downloads 5.5x larger on median and the checksum will never match. Those 120 (25.8 MB) MUST stay tracked in git - the local copy is the only copy that exists. The manifest needs a `vendored` flag, `fetch:artifacts` must skip vendored entries, and `.gitignore` must exclude `public/artifacts/**` except those 120; the list is `docs/unreproducible-artifacts.txt`. No Commons URL 404s, so nothing has been lost upstream. Still do not hotlink - the deploy CSP is `img-src 'self' data:` and the project is tracker-free.
 **Left by:** Claude Code 2026-08-30
 
 ## Decisions Log
@@ -314,3 +314,14 @@ a real thing, sitting beneath scholarly provenance metadata. Much of it is sacre
 living traditions. Generation remains acceptable only as an explicitly-labelled illustration
 for a tradition with no freely-licensed image, stored separately and captioned as an
 illustration rather than an artifact.
+
+### 2026-08-30 - Most images can leave git, but not all, and the split is lucky
+Fetching all 1,146 artifacts fresh from Commons reproduced 1,026 byte-for-byte and failed on
+120. The 120 are downscaled derivatives created by the original curation pipeline rather than
+upstream originals, so re-downloading yields a much larger file - 5.5x on median, 73x at the
+extreme - and no checksum can ever match. Being derivatives is exactly why they are small:
+those 120 total 25.8 MB against 795.1 MB for the rest. So they stay tracked in git and the
+other 1,026 are fetched at build. This removes 795 MB of the 821 MB while making it
+impossible for any image to be lost or to fail to resolve, and it is a better design than the
+one originally planned. Only running the verification revealed it, which is why nothing was
+deleted first.

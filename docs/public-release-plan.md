@@ -140,3 +140,45 @@ No secrets (`token` matches are z-index tokens and a tokeniser function). No sta
 commercial licence references in code; only historical mentions in the notes. `dist/` and
 `node_modules/` correctly ignored. The contributor contract works, which is the first thing a
 public repository gets judged on.
+
+---
+
+## Phase 1 verification result (2026-08-30) — measured, not estimated
+
+`npm run fetch:artifacts --out <empty dir>` was run against all 1,146 artifacts.
+
+- **1,026 files (795.1 MB) reproduce byte-for-byte** from their Commons `File:` URLs.
+- **120 files (25.8 MB, average 220 KB) do not.** 108 of these download *larger* than the
+  local copy - median 5.5x, maximum 73x - which means the local file is a downscaled
+  derivative produced by the original curation pipeline, not the upstream original. The
+  other 12 differ marginally (4 by under 2%), consistent with Commons re-encoding or
+  metadata changes since curation.
+- **Zero 404s.** Every Commons URL still resolves; nothing has been deleted upstream.
+
+The full list is `docs/unreproducible-artifacts.txt`.
+
+### This changes the strategy, for the better
+
+The original plan assumed every image could leave git. It cannot - but the split falls in
+exactly the convenient direction. The un-reproducible files are the *small* ones, because
+being downscaled derivatives is precisely why they are small.
+
+**Adopt a hybrid:**
+
+- The 1,026 reproducible files (795.1 MB) leave git and are fetched at build, checksum-pinned
+  against the upstream originals.
+- The 120 un-reproducible files (25.8 MB) stay tracked in git. They are the only copy that
+  exists of those particular derivatives, so they must not be deleted, and at 26 MB they cost
+  essentially nothing to keep.
+
+This removes 795 MB of the 821 MB while guaranteeing no image can ever be lost or fail to
+resolve. It is strictly better than the pure fetch-everything design, and only the
+verification run revealed it.
+
+### Required manifest change
+
+Each entry needs a flag distinguishing the two classes - `vendored: true` for the 120 tracked
+files, `fetched` for the rest. `fetch:artifacts` must skip vendored entries entirely rather
+than trying and failing. `.gitignore` must exclude `public/artifacts/**` *except* the
+vendored 120. The manifest test must assert that every vendored file is present on disk and
+every fetched file is absent from git tracking, so the two sets cannot silently drift.
