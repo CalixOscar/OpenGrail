@@ -22,11 +22,11 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Sprint 01 complete. Tracks A-E done; Track F items 1-3 done, items 4-5 not done. 83 tests green (verified: npm test 2026-08-30); `npm run verify` passes.
-**Task:** Sprint 01 remediation from `docs/sprint-01-remediation-plan.md`. Track F added a Node test-runner suite covering data invariants, the temporal selector, count agreement, and the contributor contract.
-**Files touched:** `tests/` (new: data-invariants, temporal-visibility, count-agreement, contributor-contract), `package.json`, `package-lock.json`, `scripts/build-graph.js`, `scripts/verify-contributor-contract.js`, `AGENTS.md`, `src/components/ComparisonModal.tsx`, `src/components/GraphCanvas.tsx`, `src/components/WorldMapView.tsx`, `src/index.css`, `PROJECT_NOTES.md`.
-**Next step:** Decide whether to finish Track F items 4 (axe smoke tests) and 5 (keyboard-only browser smoke test). `axe-core` and `puppeteer-core` are already in devDependencies but nothing imports them - either write those tests or remove the two dependencies. Also outstanding from Track E3: the list view exposes ~1,961 tab stops at full corpus and needs a skip mechanism or pagination.
-**Gotchas:** `npm test` must run serially (`--test-concurrency=1`). The contributor-contract test creates and deletes `data/example-tradition.md` and rebuilds `public/graph.json`; run in parallel it races the data-invariants test, which then fails with ENOENT. All four files pass individually either way, so this only shows up in the combined run. `npm run build` does not run the tests - `npm run verify` is the handoff gate, per AGENTS.md.
+**Status:** Track F item 4 (axe smoke tests) complete. Item 5 (keyboard-only browser smoke test) not written. 87 tests green (verified: npm run verify 2026-08-30).
+**Task:** Finish Sprint 01 Track F. Item 4 runs axe-core against the main view, the comparison modal and the artifact lightbox, failing on serious and critical violations. Item 5 remains.
+**Files touched:** `tests/accessibility-smoke.test.js` (new), `tests/browser-helper.js` (new), `package.json`, `PROJECT_NOTES.md`.
+**Next step:** Write item 5, the keyboard-only browser smoke test: search, select, open document pane, open comparison, close. Reuse `tests/browser-helper.js`. Puppeteer's `page.keyboard` sends trusted CDP events and should not hit the injection problems seen with other automation here, but assert early that a keypress actually reaches the page rather than assuming it.
+**Gotchas:** `startStaticAppServer` now rebuilds unconditionally. It previously built only when `dist/index.html` was absent, so the browser tests served whatever stale bundle was on disk - a real violation in `src/` passed because the served bundle predated it. `npm run verify` is correspondingly `npm run build && npm test`, since `tsc -b` alone does not produce `dist/`. Any browser test that serves `dist/` must keep that guarantee. The browser suite skips with a clear message when no Chrome is found (`CHROME_PATH`, then platform candidates); items 1-3 remain runnable with no browser at all.
 **Left by:** Claude Code 2026-08-30
 
 ## Decisions Log
@@ -262,3 +262,19 @@ A green suite that asserts nothing is indistinguishable from a working one on a 
 Flipping the extinction boundary in `temporalVisibility.ts` from `>=` to `>` turned 4 of the
 20 temporal tests red and restoring it turned them green; adding a node with a dangling
 relation target failed the data-invariants file and removing it restored the 12 passes.
+
+### 2026-08-30 - Browser tests must rebuild, not reuse dist
+The first version of `startStaticAppServer` ran `npm run build` only when `dist/index.html`
+was missing. Once `dist/` existed it was never refreshed, so the axe suite validated a stale
+bundle: a deliberately injected nameless button in `src/App.tsx` passed cleanly. The helper
+now rebuilds on every run and `npm run verify` calls `npm run build` rather than `tsc -b`,
+which alone does not emit `dist/`. The few seconds this costs buys the tests their meaning.
+
+### 2026-08-30 - Prove a failure proof is valid, not just that it failed
+The dispatch that wrote item 4 tried to demonstrate the suite could fail by injecting a
+nameless button into `.topbar__mobile-header`. That element is `display: none` outside the
+mobile media query and the suite runs at 1280x800, so axe correctly ignored it - the proof
+established nothing, and the injected markup was left behind in `src/App.tsx` when the run
+timed out. A valid proof needs the injected fault to be reachable under the exact conditions
+the test runs in. Re-run against a visible element, axe reported `[CRITICAL] button-name`
+as expected.
