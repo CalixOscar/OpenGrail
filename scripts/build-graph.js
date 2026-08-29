@@ -14,10 +14,10 @@ import {
   fail,
 } from "./schema.js";
 
-const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url));
-const PROJECT_ROOT = path.resolve(SCRIPT_DIR, "..");
-const DATA_DIR = path.join(PROJECT_ROOT, "data");
-const OUTPUT_FILE = path.join(PROJECT_ROOT, "public", "graph.json");
+export const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url));
+export const PROJECT_ROOT = path.resolve(SCRIPT_DIR, "..");
+export const DATA_DIR = path.join(PROJECT_ROOT, "data");
+export const OUTPUT_FILE = path.join(PROJECT_ROOT, "public", "graph.json");
 
 const CLUSTER_RANK = new Map(
   CLUSTERS.map((cluster, index) => [cluster, index]),
@@ -38,7 +38,7 @@ function backlinkRef(node, link) {
   return link.citation ? { ...ref, citation: link.citation } : ref;
 }
 
-async function findMarkdownFiles(directory) {
+export async function findMarkdownFiles(directory) {
   const entries = await readdir(directory, { withFileTypes: true });
   const nestedFiles = await Promise.all(
     entries
@@ -54,24 +54,24 @@ async function findMarkdownFiles(directory) {
   return nestedFiles.flat();
 }
 
-async function parseNode(filePath) {
+export async function parseNode(filePath, projectRoot = PROJECT_ROOT) {
   const source = await readFile(filePath, "utf8");
   const { data, content } = matter(source);
-  return parseNodeRecord(data, content, filePath, PROJECT_ROOT);
+  return parseNodeRecord(data, content, filePath, projectRoot);
 }
 
-export async function buildGraph() {
-  const markdownFiles = await findMarkdownFiles(DATA_DIR);
+export async function buildGraphData(dataDir = DATA_DIR, projectRoot = PROJECT_ROOT) {
+  const markdownFiles = await findMarkdownFiles(dataDir);
   if (markdownFiles.length === 0) {
-    throw new Error(`No Markdown files found below ${DATA_DIR}`);
+    throw new Error(`No Markdown files found below ${dataDir}`);
   }
 
-  const parsed = await Promise.all(markdownFiles.map(parseNode));
+  const parsed = await Promise.all(markdownFiles.map((f) => parseNode(f, projectRoot)));
   const nodesById = new Map();
 
   for (const record of parsed) {
     if (nodesById.has(record.node.id)) {
-      fail(record.filePath, `duplicate node id "${record.node.id}"`, PROJECT_ROOT);
+      fail(record.filePath, `duplicate node id "${record.node.id}"`, projectRoot);
     }
     nodesById.set(record.node.id, record.node);
   }
@@ -80,20 +80,20 @@ export async function buildGraph() {
   for (const { node: sourceNode, relations, filePath } of parsed) {
     for (const relation of relations) {
       if (relation.target === sourceNode.id) {
-        fail(filePath, `node "${sourceNode.id}" cannot relate to itself`, PROJECT_ROOT);
+        fail(filePath, `node "${sourceNode.id}" cannot relate to itself`, projectRoot);
       }
       if (!nodesById.has(relation.target)) {
-        fail(filePath, `relation target "${relation.target}" does not exist`, PROJECT_ROOT);
+        fail(filePath, `relation target "${relation.target}" does not exist`, projectRoot);
       }
 
       if (!CANONICAL_RELATION_TYPES.has(relation.relation_type)) {
-        fail(filePath, `invalid relation_type "${relation.relation_type}"`, PROJECT_ROOT);
+        fail(filePath, `invalid relation_type "${relation.relation_type}"`, projectRoot);
       }
       if (!EDGE_STYLES.has(relation.style)) {
-        fail(filePath, `invalid edge style "${relation.style}"`, PROJECT_ROOT);
+        fail(filePath, `invalid edge style "${relation.style}"`, projectRoot);
       }
       if (!EPISTEMIC_TIER_IDS.has(relation.epistemic_tier)) {
-        fail(filePath, `invalid epistemic_tier "${relation.epistemic_tier}"`, PROJECT_ROOT);
+        fail(filePath, `invalid epistemic_tier "${relation.epistemic_tier}"`, projectRoot);
       }
 
       const dedupeKey = `${sourceNode.id}\u0000${relation.target}\u0000${relation.type}`;
@@ -121,7 +121,7 @@ export async function buildGraph() {
           fail(
             filePath,
             `duplicate relation ${sourceNode.id} -> ${relation.target} (${relation.type}) has conflicting metadata`,
-            PROJECT_ROOT,
+            projectRoot,
           );
         }
         continue;
@@ -162,15 +162,25 @@ export async function buildGraph() {
     return leftRank - rightRank || a.localeCompare(b);
   });
 
-  await mkdir(path.dirname(OUTPUT_FILE), { recursive: true });
+  return { nodes, links, clusters, nodesById, linksByKey };
+}
+
+export async function buildGraph(
+  dataDir = DATA_DIR,
+  outputFile = OUTPUT_FILE,
+  projectRoot = PROJECT_ROOT,
+) {
+  const { nodes, links, clusters } = await buildGraphData(dataDir, projectRoot);
+
+  await mkdir(path.dirname(outputFile), { recursive: true });
   await writeFile(
-    OUTPUT_FILE,
+    outputFile,
     `${JSON.stringify({ nodes, links, clusters }, null, 2)}\n`,
     "utf8",
   );
 
   console.log(
-    `Built ${path.relative(PROJECT_ROOT, OUTPUT_FILE)} from ${nodes.length} nodes across ${clusters.length} clusters (${links.length} links).`,
+    `Built ${path.relative(projectRoot, outputFile)} from ${nodes.length} nodes across ${clusters.length} clusters (${links.length} links).`,
   );
 }
 

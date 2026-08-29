@@ -630,12 +630,12 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
       ref={containerRef}
       className={`world-map-view ${className}`.trim()}
       onWheel={handleWheel}
-      role="img"
-      aria-label={`3D world map showing ${visibleNodeCount} traditions and ${visibleLinkCount} relations at ${formatYearLabel(currentYear)} in ${temporalMode} mode`}
     >
       <canvas
         ref={canvasRef}
         className="world-map-canvas"
+        role="img"
+        aria-label={`3D world map showing ${visibleNodeCount} traditions and ${visibleLinkCount} relations at ${formatYearLabel(currentYear)} in ${temporalMode} mode`}
         style={{ cursor: isDragging ? 'grabbing' : hoveredNodeId ? 'pointer' : 'grab' }}
         onPointerDown={handlePointerDown}
         onPointerMove={handlePointerMove}

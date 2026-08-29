@@ -1041,17 +1041,17 @@ button,
   flex-wrap: wrap;
   align-items: center;
   gap: 4px;
-  color: #657184;
+  color: #94a3b8;
   font-size: 8px;
 }
 
 .filter-bar__counts strong {
-  color: #9ca8b8;
+  color: #c8d0db;
   font-weight: 600;
 }
 
 .filter-bar__count-separator {
-  color: #4c5664;
+  color: #64748b;
 }
 
 .filter-bar__reset {
@@ -1088,7 +1088,7 @@ button,
 .filter-bar__group legend {
   padding: 0;
   margin-bottom: 5px;
-  color: #616d7f;
+  color: #94a3b8;
   font-size: 8px;
   font-weight: 700;
   letter-spacing: 0.08em;

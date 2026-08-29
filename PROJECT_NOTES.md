@@ -22,11 +22,11 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Tracks A, B, C, D and E complete and verified; `npm run build` and `npm test` pass. Track F is the only remaining track.
-**Task:** Sprint 01 remediation from `docs/sprint-01-remediation-plan.md`. E3 added a keyboard-accessible list view and removed `role="application"` from both canvases. Track F (regression test harness) remains.
-**Files touched:** `src/components/ListView.tsx` (new), `src/components/GraphCanvas.tsx`, `src/components/WorldMapView.tsx`, `src/components/ViewSwitcher.tsx`, `src/state/AtlasState.tsx`, `src/App.tsx`, `src/index.css`, `PROJECT_NOTES.md`.
-**Next step:** Dispatch Track F. `npm test` currently runs only the Track C contract check; F should add data invariants, unit tests for `isNodeTemporallyVisible` (including the `year == extinct_year` boundary and a null `extinct_year`), accessibility smoke tests, and a keyboard-only browser smoke test.
-**Gotchas:** The list view must keep calling `isNodeTemporallyVisible` / `isLinkTemporallyVisible` with the same `currentYear` and `temporalMode` as every other surface; its link filter is deliberately identical to the one in `App.tsx`, and the two must not be allowed to drift. The table exposes about 1,961 tab stops at full corpus, which is correct for screen-reader table navigation but punishing for keyboard-only Tab traversal - a skip mechanism or pagination is a sensible follow-up and is not yet implemented. Browser automation in this environment has twice given misleading keyboard results (injected Enter arriving with `keyCode: 0`; injected arrow keys not delivered at all) - instrument a keydown listener before concluding anything is broken.
+**Status:** Sprint 01 complete. Tracks A-E done; Track F items 1-3 done, items 4-5 not done. 83 tests green (verified: npm test 2026-08-30); `npm run verify` passes.
+**Task:** Sprint 01 remediation from `docs/sprint-01-remediation-plan.md`. Track F added a Node test-runner suite covering data invariants, the temporal selector, count agreement, and the contributor contract.
+**Files touched:** `tests/` (new: data-invariants, temporal-visibility, count-agreement, contributor-contract), `package.json`, `package-lock.json`, `scripts/build-graph.js`, `scripts/verify-contributor-contract.js`, `AGENTS.md`, `src/components/ComparisonModal.tsx`, `src/components/GraphCanvas.tsx`, `src/components/WorldMapView.tsx`, `src/index.css`, `PROJECT_NOTES.md`.
+**Next step:** Decide whether to finish Track F items 4 (axe smoke tests) and 5 (keyboard-only browser smoke test). `axe-core` and `puppeteer-core` are already in devDependencies but nothing imports them - either write those tests or remove the two dependencies. Also outstanding from Track E3: the list view exposes ~1,961 tab stops at full corpus and needs a skip mechanism or pagination.
+**Gotchas:** `npm test` must run serially (`--test-concurrency=1`). The contributor-contract test creates and deletes `data/example-tradition.md` and rebuilds `public/graph.json`; run in parallel it races the data-invariants test, which then fails with ENOENT. All four files pass individually either way, so this only shows up in the combined run. `npm run build` does not run the tests - `npm run verify` is the handoff gate, per AGENTS.md.
 **Left by:** Claude Code 2026-08-30
 
 ## Decisions Log
@@ -247,3 +247,18 @@ List row count matches the header exactly in both temporal modes: 573 of 573 in 
 491 of 491 in `active`. Rows are real `<button type="button">` elements; activating one opens
 the document pane and updates the hash to `#tradition=...&view=list`, the same state the
 graph and globe produce. No `role="application"` remains in `src/`.
+
+### 2026-08-30 - Track F landed items 1-3; 4-5 deferred
+The suite covers data invariants over the real corpus, the temporal selector including the
+`year == extinct_year` boundary, count agreement across surfaces, and the Track C contract
+check folded in as a test rather than a separate script. Items 4 (axe) and 5 (keyboard
+browser smoke) were not written, though the dispatch added `axe-core` and `puppeteer-core`
+to devDependencies and applied the accessibility fixes an axe run surfaced: `role="img"`
+moved off containers holding focusable controls onto the canvases themselves, raised
+contrast on the filter bar, and focusable scrollable regions in the comparison modal.
+
+### 2026-08-30 - The suite was proven able to fail, not just to pass
+A green suite that asserts nothing is indistinguishable from a working one on a passing run.
+Flipping the extinction boundary in `temporalVisibility.ts` from `>=` to `>` turned 4 of the
+20 temporal tests red and restoring it turned them green; adding a node with a dangling
+relation target failed the data-invariants file and removing it restored the 12 passes.
