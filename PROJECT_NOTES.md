@@ -22,12 +22,12 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Sprint 01 complete. Track F item 5 (keyboard-only browser smoke test) complete. 90 tests green (verified: npm run verify 2026-08-30).
-**Task:** All Sprint 01 remediation tracks (A, C, D, E, F) complete and verified.
-**Files touched:** `tests/keyboard-smoke.test.js` (new), `PROJECT_NOTES.md`.
-**Next step:** Sprint 01 review and release preparation.
-**Gotchas:** Keyboard smoke tests use CDP `page.keyboard` events via Puppeteer to drive search focus, typing, arrow navigation, Enter selection, document pane inspection, comparison opening, and Escape dismissal. Server rebuilds `dist/` unconditionally.
-**Left by:** Antigravity 2026-08-30
+**Status:** Planned, not started. Preparing the repository to go public. Full plan in `docs/public-release-plan.md`.
+**Task:** Two things block making `CalixOscar/OpenGrail` public. (1) `LICENSE` claims unqualified MIT while bundling 1,146 third-party images, 720 of which carry attribution obligations and 556 share-alike. (2) The git pack is 1.02 GiB because the images are tracked, so every clone pays a gigabyte.
+**Files touched:** `docs/public-release-plan.md` (new), `PROJECT_NOTES.md`. No source or data files changed yet.
+**Next step:** Phase 1 - build the artifact manifest, the checksum-pinned `fetch:artifacts` script, and the licensing files, and prove the fetch reproduces all 1,146 images byte-for-byte. Phase 2 - only after Phase 1 is proven, untrack the images and purge them from history. Phase 2 is NOT swarm work; it is destructive and is done by hand.
+**Gotchas:** DO NOT hotlink images from Wikimedia in the app. The deploy target sets `img-src 'self' data:` in its CSP so remote images are blocked outright, and the project is deliberately tracker-free with no remote dependencies. Images must remain self-hosted - fetched at build time into `public/artifacts/`, copied into `dist/` as now. DO NOT delete or untrack any image until the fetch script has been proven to reproduce every one of the 1,146 files with a matching checksum; the local copies are currently the only guaranteed copy. DO NOT relicense the project to CC-BY-SA to "resolve" the share-alike images - share-alike binds derivatives of those images, not neighbouring code. The history rewrite must happen before the repo is made public; afterwards it breaks every clone and fork.
+**Left by:** Claude Code 2026-08-30
 
 ## Decisions Log
 <!-- Append dated decisions below. Keep entries short; put detailed plans in repo docs. -->
@@ -289,3 +289,28 @@ and (8) dismissed comparison modal via Escape. Verified test failure validity by
 key handling in `SearchCombobox.tsx` (causing test timeout and failure on selection), reverted cleanly with no
 leftover scaffolding, and verified 90 tests green (verified: npm run verify 2026-08-30). Sprint 01 complete.
 
+### 2026-08-30 - Images ship self-hosted, fetched at build, never hotlinked
+The artifact library leaves git but does not leave the product. A checksum-pinned
+`fetch:artifacts` script repopulates `public/artifacts/` from the exact Commons `File:` URLs
+already stored on every artifact in `graph.json`, and Vite copies them into `dist/` exactly
+as before, so images continue to be served from our own origin. Hotlinking was rejected on
+three independent grounds: the deploy target's CSP sets `img-src 'self' data:` and would
+block them, hotlinking would send every visitor's IP and referrer to Wikimedia in a project
+that is deliberately tracker-free, and Wikimedia asks people not to hotlink at scale.
+
+### 2026-08-30 - MIT covers the code and the authored records, not the images
+Of 1,146 bundled images, 360 are public domain and 66 are CC0, but 556 are CC-BY-SA and 164
+are CC-BY. MIT permits sublicensing, which the project cannot grant over works it does not
+own. `LICENSE` is scoped to the application source, the Markdown records under `data/`, and
+the documentation; `NOTICE.md` states that `public/artifacts/**` are third-party works under
+their own terms; `ATTRIBUTIONS.md` is generated from `graph.json` and checked for drift like
+the schema, because drift there is a licence violation rather than a formatting nit.
+
+### 2026-08-30 - Generated images were considered and rejected
+Replacing the curated library with generated imagery would be cheap in money and would
+destroy what the atlas is for. These are photographs of specific real objects - the Nestorian
+Stele, Gobekli Tepe, particular manuscripts - and a generated version is a convincing fake of
+a real thing, sitting beneath scholarly provenance metadata. Much of it is sacred imagery of
+living traditions. Generation remains acceptable only as an explicitly-labelled illustration
+for a tradition with no freely-licensed image, stored separately and captioned as an
+illustration rather than an artifact.
