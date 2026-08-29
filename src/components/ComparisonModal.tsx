@@ -398,7 +398,12 @@ export function ComparisonModal({
 
         {/* Content Body */}
         {nodeB && (
-          <div className="comparison-body">
+          <div
+            className="comparison-body"
+            tabIndex={0}
+            role="region"
+            aria-label={`Comparison details between ${nodeA.title} and ${nodeB.title}`}
+          >
             {/* Direct Relationship Banner */}
             {directConnections.length > 0 ? (
               <div className="comparison-relationship-banner comparison-relationship-banner--connected">
@@ -747,7 +752,12 @@ export function ComparisonModal({
                 Overview & Historical Background
               </h4>
               <div className="comparison-matrix-row">
-                <div className="comparison-matrix-col comparison-doc-body">
+                <div
+                  className="comparison-matrix-col comparison-doc-body"
+                  tabIndex={0}
+                  role="region"
+                  aria-label={`Historical overview for ${nodeA.title}`}
+                >
                   <div
                     className="comparison-matrix-col__header"
                     style={{ borderLeftColor: nodeA.color }}
@@ -761,7 +771,12 @@ export function ComparisonModal({
                   </div>
                 </div>
 
-                <div className="comparison-matrix-col comparison-doc-body">
+                <div
+                  className="comparison-matrix-col comparison-doc-body"
+                  tabIndex={0}
+                  role="region"
+                  aria-label={`Historical overview for ${nodeB.title}`}
+                >
                   <div
                     className="comparison-matrix-col__header"
                     style={{ borderLeftColor: nodeB.color }}

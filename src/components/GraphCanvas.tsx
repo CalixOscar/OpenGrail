@@ -995,8 +995,6 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
       <div
         ref={containerRef}
         className={`graph-canvas ${className}`.trim()}
-        role="img"
-        aria-label={`Comparative religion graph showing ${canvasGraph.nodes.length} traditions and ${canvasGraph.links.length} relations at ${formatYearLabel(currentYear)} in ${temporalMode} mode`}
       >
         <div className="graph-overlay-controls" role="toolbar" aria-label="Graph overlay controls">
           <div className="tool-group">
@@ -1017,6 +1015,8 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         <div
           className="graph-canvas__surface"
           style={{ cursor: hoveredNodeId ? 'pointer' : 'grab' }}
+          role="img"
+          aria-label={`Comparative religion graph showing ${canvasGraph.nodes.length} traditions and ${canvasGraph.links.length} relations at ${formatYearLabel(currentYear)} in ${temporalMode} mode`}
         >
           <ForceGraph2D<GraphNode, GraphLink>
             ref={graphRef}

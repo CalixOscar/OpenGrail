@@ -18,7 +18,7 @@ const TEST_TRADITION_FILE = path.join(PROJECT_ROOT, "data", "example-tradition.m
 const CONTRIBUTING_FILE = path.join(PROJECT_ROOT, "CONTRIBUTING.md");
 const TYPES_SCHEMA_FILE = path.join(PROJECT_ROOT, "src", "types", "schema.ts");
 
-async function checkDrift() {
+export async function checkDrift() {
   console.log("1. Checking schema derivation synchronization...");
 
   const currentTemplate = await readFile(TEMPLATE_FILE, "utf8");
@@ -42,7 +42,7 @@ async function checkDrift() {
   console.log("   ✓ All derived artifacts match scripts/schema.js exactly.");
 }
 
-async function checkTemplateBuild() {
+export async function checkTemplateBuild() {
   console.log("2. Testing contributor template compilation...");
   
   const templateSource = await readFile(TEMPLATE_FILE, "utf8");
@@ -74,7 +74,7 @@ async function checkTemplateBuild() {
   console.log("   ✓ Restored canonical graph.json (573 nodes).");
 }
 
-async function verifyContributorContract() {
+export async function verifyContributorContract() {
   console.log("=== Running Track C Contributor Contract Verification ===");
   await checkDrift();
   await checkTemplateBuild();

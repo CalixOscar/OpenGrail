@@ -20,7 +20,9 @@ the source of truth if notes and files disagree.
 
 ## Verification
 
-Run `npm run build` before handing off frontend or data changes. For UI changes, run the
+Run `npm run verify` before handing off frontend or data changes. It runs the graph
+build, the TypeScript project build, and the test suite (`npm test`), and is the handoff
+gate. `npm run build` alone does not run the tests. For UI changes, run the
 local Vite app and check search, filters, graph selection, document panes, backlinks, and
 nested branch navigation in a browser. Generated graph invariants should have no duplicate
 IDs, missing targets, isolated nodes, or branch cycles.
