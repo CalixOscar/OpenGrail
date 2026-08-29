@@ -13,6 +13,7 @@ import {
 import { useAtlasState } from "../state/AtlasState";
 import { isNodeTemporallyVisible } from "../state/temporalVisibility";
 import { scoreGraphNodeSearch, type GraphNode } from "../types/graph";
+import SearchCombobox from "./SearchCombobox";
 
 export interface SidebarProps {
   nodes: GraphNode[];
@@ -410,31 +411,18 @@ export default function Sidebar({
         </button>
       </header>
 
-      <div className="sidebar-search">
-        <label className="sr-only" htmlFor={searchId}>Search traditions</label>
-        <SearchIcon className="sidebar-search__icon" />
-        <input
-          id={searchId}
-          className="sidebar-search__input"
-          type="search"
-          value={query}
-          onChange={(event) => setQuery(event.target.value)}
-          placeholder="Search traditions"
-          autoComplete="off"
-          spellCheck="false"
-          aria-controls={treeId}
-        />
-        {query && (
-          <button
-            className="sidebar-search__clear"
-            type="button"
-            onClick={() => setQuery("")}
-            aria-label="Clear tradition search"
-          >
-            <span aria-hidden="true">×</span>
-          </button>
-        )}
-      </div>
+      <SearchCombobox
+        id={searchId}
+        variant="sidebar"
+        label="Search traditions"
+        labelHidden
+        placeholder="Search traditions"
+        query={query}
+        onQueryChange={setQuery}
+        nodes={temporallyVisibleNodes}
+        onSelect={(node) => onSelectNode(node.id)}
+        ariaControlsExtra={treeId}
+      />
 
       <div className="sidebar-section-heading">
         <span>Tradition atlas</span>

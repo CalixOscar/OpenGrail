@@ -14,7 +14,6 @@ import {
   Search,
   SlidersHorizontal,
   Sparkles,
-  X,
 } from 'lucide-react';
 import {
   useCallback,
@@ -22,7 +21,6 @@ import {
   useMemo,
   useRef,
   useState,
-  type FormEvent,
 } from 'react';
 import ComparisonModal from './components/ComparisonModal';
 import DocumentPane from './components/DocumentPane';
@@ -30,6 +28,7 @@ import FilterBar from './components/FilterBar';
 import GraphCanvas, {
   type GraphCanvasHandle,
 } from './components/GraphCanvas';
+import SearchCombobox from './components/SearchCombobox';
 import Sidebar from './components/Sidebar';
 import TimelineScrubber from './components/TimelineScrubber';
 import ViewSwitcher from './components/ViewSwitcher';
@@ -68,7 +67,6 @@ function AppContent() {
   const [showFilters, setShowFilters] = useState(true);
   const [showTimeline, setShowTimeline] = useState(true);
   const [clusterLayout, setClusterLayout] = useState(true);
-  const [searchFocused, setSearchFocused] = useState(false);
   const [comparisonModalOpen, setComparisonModalOpen] = useState(false);
   const searchLabelTimerRef = useRef<number | null>(null);
 
@@ -226,7 +224,6 @@ function AppContent() {
     contextSelectNode(nodeId);
     if (nodeId) {
       setDocumentOpen(true);
-      setSearchFocused(false);
       window.requestAnimationFrame(() => graphRef.current?.centerNode(nodeId));
     }
   }, [contextSelectNode]);
@@ -243,14 +240,6 @@ function AppContent() {
       setDocumentOpen(true);
     }
   }, [selectedNodeId, selectedLinkId]);
-
-  const submitSearch = (event: FormEvent<HTMLFormElement>) => {
-    event.preventDefault();
-    const match = searchMatches[0];
-    if (!match) return;
-    selectNode(match.id);
-    setSearchFocused(false);
-  };
 
   return (
     <div className="app-shell">
@@ -399,13 +388,20 @@ function AppContent() {
               </>
             )}
 
-            <form
-              className="graph-search"
-              role="search"
-              onSubmit={submitSearch}
+            <SearchCombobox
+              id="graph-search-input"
+              variant="header"
+              label="Search atlas"
+              placeholder="Find a tradition or text…"
+              query={searchQuery}
+              onQueryChange={(value) => {
+                setSearchQuery(value);
+                resetSearchLabelTimer();
+              }}
+              matches={searchMatches}
+              onSelect={(node) => selectNode(node.id)}
               onMouseEnter={resetSearchLabelTimer}
               onMouseLeave={() => {
-                // Restart countdown when mouse leaves the search area
                 if (searchQuery.trim()) {
                   if (searchLabelTimerRef.current !== null) {
                     window.clearTimeout(searchLabelTimerRef.current);
@@ -416,55 +412,8 @@ function AppContent() {
                   }, SEARCH_LABEL_HIDE_DELAY);
                 }
               }}
-            >
-              <label htmlFor="graph-search-input">Search atlas</label>
-              <div className="graph-search__field">
-                <Search size={15} aria-hidden="true" />
-                <input
-                  id="graph-search-input"
-                  type="search"
-                  value={searchQuery}
-                  onChange={(event) => {
-                    setSearchQuery(event.target.value);
-                    resetSearchLabelTimer();
-                  }}
-                  onFocus={() => {
-                    setSearchFocused(true);
-                    resetSearchLabelTimer();
-                  }}
-                  onBlur={() => window.setTimeout(() => setSearchFocused(false), 120)}
-                  placeholder="Find a tradition or text…"
-                  autoComplete="off"
-                  spellCheck="false"
-                />
-                {searchQuery && (
-                  <button
-                    className="graph-search__clear"
-                    type="button"
-                    onClick={() => setSearchQuery('')}
-                    aria-label="Clear graph search"
-                  >
-                    <X size={13} />
-                  </button>
-                )}
-              </div>
-
-              {searchFocused && searchQuery.trim() && (
-                <div className="search-results">
-                  {searchMatches.length > 0 ? searchMatches.map((node) => (
-                    <button key={node.id} type="button" onMouseDown={() => selectNode(node.id)}>
-                      <span className="search-results__dot" style={{ backgroundColor: node.color }} />
-                      <span>
-                        <strong>{node.title}</strong>
-                        <small>{node.cluster} · {node.eraStart}</small>
-                      </span>
-                    </button>
-                  )) : (
-                    <p>No traditions match “{searchQuery.trim()}”.</p>
-                  )}
-                </div>
-              )}
-            </form>
+              onFocus={resetSearchLabelTimer}
+            />
           </div>
         </header>
 

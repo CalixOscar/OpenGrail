@@ -223,6 +223,12 @@ export function TimelineScrubber({
       } else if (event.key === 'ArrowLeft' || event.key === 'ArrowDown') {
         event.preventDefault();
         setYear(currentYear - (event.shiftKey ? largeStep : step));
+      } else if (event.key === 'PageUp') {
+        event.preventDefault();
+        setYear(currentYear + largeStep);
+      } else if (event.key === 'PageDown') {
+        event.preventDefault();
+        setYear(currentYear - largeStep);
       } else if (event.key === 'Home') {
         event.preventDefault();
         setYear(minYear);
@@ -246,8 +252,6 @@ export function TimelineScrubber({
     <footer
       className={`timeline-scrubber ${className}`.trim()}
       aria-label="Chronological atlas scrubber"
-      onKeyDown={handleKeyDown}
-      tabIndex={0}
     >
       <div className="timeline-scrubber__header">
         <div className="timeline-scrubber__playback">
@@ -376,6 +380,8 @@ export function TimelineScrubber({
         onPointerUp={handlePointerUp}
         onPointerCancel={handlePointerUp}
         role="slider"
+        tabIndex={0}
+        onKeyDown={handleKeyDown}
         aria-valuemin={minYear}
         aria-valuemax={MAX_YEAR}
         aria-valuenow={currentYear}
