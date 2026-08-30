@@ -360,21 +360,23 @@ function AppContent() {
             <ViewSwitcher />
 
             <div className="tool-group tool-group--compare" aria-label="Comparison mode">
-              <button
-                className={`layer-toggle-btn${isComparisonActive ? ' layer-toggle-btn--active' : ''}`}
-                type="button"
-                onClick={() => {
-                  if (!selectedNodeId && graphData.nodes.length > 0) {
-                    selectNode('stoicism');
-                  }
-                  setComparisonModalOpen(true);
-                }}
-                aria-pressed={isComparisonActive}
-                title="Compare traditions side-by-side"
-              >
-                <ArrowLeftRight size={15} />
-                <span>Compare</span>
-              </button>
+              <div className="tool-group__buttons layer-buttons">
+                <button
+                  className={`layer-toggle-btn${isComparisonActive ? ' layer-toggle-btn--active' : ''}`}
+                  type="button"
+                  onClick={() => {
+                    if (!selectedNodeId && graphData.nodes.length > 0) {
+                      selectNode('stoicism');
+                    }
+                    setComparisonModalOpen(true);
+                  }}
+                  aria-pressed={isComparisonActive}
+                  title="Compare traditions side-by-side"
+                >
+                  <ArrowLeftRight size={15} />
+                  <span>Compare</span>
+                </button>
+              </div>
             </div>
 
             {viewMode === 'brain' && (
