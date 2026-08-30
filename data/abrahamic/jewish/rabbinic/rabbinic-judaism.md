@@ -51,12 +51,14 @@ artifacts:
     provenance: "Wikimedia Commons; Public domain"
     period: "Object or image dated 1901"
     description: "This image shows Manuscript page of the Talmud Yerushalmi, selected as a defining visual reference for Rabbinic Judaism."
+    detail: high
   - title: "Kaufmann manuscript of the Mishnah, foundational rabbinic text"
     imageUrl: "/artifacts/rabbinic-judaism-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:KaufmannManuscript.jpg"
     provenance: "kaufmann.mtak.hu; Public domain"
     period: "12th century"
     description: "This image shows Kaufmann manuscript of the Mishnah, foundational rabbinic text, selected as a defining visual reference for Rabbinic Judaism."
+    detail: high
 ---
 
 # Rabbinic Judaism

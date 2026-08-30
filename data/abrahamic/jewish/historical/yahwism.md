@@ -51,6 +51,7 @@ artifacts:
     provenance: "Unknown author Unknown author; Public domain"
     period: "8 th century BC"
     description: "This image shows Kuntillet Ajrud inscription naming YHWH in a pre-exilic setting, selected as a defining visual reference for Pre-exilic Yahwism."
+    detail: high
   - title: "Ketef Hinnom silver amulets bearing an early priestly blessing"
     imageUrl: "/artifacts/yahwism-2.png"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tetragrammaton_benediction.png"

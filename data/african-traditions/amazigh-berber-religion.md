@@ -43,6 +43,7 @@ artifacts:
     provenance: "Wikimedia Commons; Public domain"
     period: "Digital file published 2009"
     description: "This image shows Libyco-Berber sacred rock inscription, selected as a defining visual reference for Amazigh & Berber Indigenous Traditions."
+    detail: high
   - title: "Medracen Numidian royal tomb"
     imageUrl: "/artifacts/amazigh-berber-religion-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Medghassen_%E2%80%94_Ancient_Numidian_Royal_Tomb_in_Algeria.jpg"

@@ -60,6 +60,7 @@ artifacts:
     provenance: "The Bab, founder of Babism; Public domain"
     period: "Mid-19th century"
     description: "This image shows Historical manuscript of the Bab's Persian Bayan, selected as a defining visual reference for Babism."
+    detail: high
 ---
 
 # Babism

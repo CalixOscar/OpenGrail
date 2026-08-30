@@ -58,6 +58,7 @@ artifacts:
     provenance: "unknown medieval author; Public domain"
     period: "Image dated 1469"
     description: "This image shows Corpus Hermeticum manuscript, selected as a defining visual reference for Hermeticism."
+    detail: high
 ---
 
 # Hermeticism

@@ -55,6 +55,7 @@ artifacts:
     provenance: "Aristotle; Public domain"
     period: "Late 15th century"
     description: "This image shows Greek manuscript leaf of Aristotle's Nicomachean Ethics, selected as a defining visual reference for Aristotelian & Classical Virtue Ethics."
+    detail: high
 ---
 
 # Aristotelian & Classical Virtue Ethics

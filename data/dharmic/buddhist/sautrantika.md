@@ -58,6 +58,7 @@ artifacts:
     provenance: "Yasomitra. Auteur du commentaire Vasubandhu. Auteur du texte; Public domain"
     period: "Image dated 1801"
     description: "This image shows Abhidharmakosa Sanskrit manuscript, selected as a defining visual reference for Sautrāntika."
+    detail: high
 ---
 
 # Sautrāntika

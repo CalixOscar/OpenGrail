@@ -54,6 +54,7 @@ artifacts:
     provenance: "Photographs by Ardon Bar Hama, author of original document is unknown.; Public domain"
     period: "+/- second century BC"
     description: "This image shows Great Isaiah Scroll from the Qumran manuscript collection, selected as a defining visual reference for Essenes."
+    detail: high
 ---
 
 # Essenes

@@ -54,6 +54,7 @@ artifacts:
     provenance: "Walters Art Museum : Home page Info about artwork; Public domain"
     period: "Image dated 1450"
     description: "This image shows Illustrated Kalpa Sutra manuscript from the Svetambara canon, selected as a defining visual reference for Śvetāmbara Jainism."
+    detail: high
 ---
 
 # Śvetāmbara Jainism

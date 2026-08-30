@@ -58,6 +58,7 @@ artifacts:
     provenance: "scan by the Khalili Collections, cropped in IrfanView and touched up with the healing tool in GIMP; CC BY-SA 3.0 igo"
     period: "Object or image dated 1288"
     description: "This image shows Illuminated page from a Chinese precious scroll (Baojuan), selected as a defining visual reference for Xiantiandao."
+    detail: high
 ---
 
 # Xiantiandao

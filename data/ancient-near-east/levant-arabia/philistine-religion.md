@@ -60,6 +60,7 @@ artifacts:
     provenance: "Oren Rozen; CC BY-SA 4.0"
     period: "Image dated 2016"
     description: "This image shows Ekron temple inscription, selected as a defining visual reference for Philistine Religion."
+    detail: high
 ---
 
 # Philistine Religion

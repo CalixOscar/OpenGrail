@@ -62,6 +62,7 @@ artifacts:
     provenance: "G41rn8; CC BY-SA 4.0"
     period: "781 AD"
     description: "This image shows Xi'an Stele documenting East Syriac Christianity in Tang China, selected as a defining visual reference for “Nestorianism” (Historical Category)."
+    detail: high
 ---
 
 # “Nestorianism” (Historical Category)

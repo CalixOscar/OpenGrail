@@ -44,12 +44,14 @@ artifacts:
     provenance: "Rama; CC BY-SA 3.0 fr"
     period: "Digital file published 2005"
     description: "This image shows Upper relief of the Hammurabi Stele showing Shamash and Hammurabi, selected as a defining visual reference for Mesopotamian Justice Codes & Divine Jurisprudence."
+    detail: high
   - title: "Stele of the Vultures cuneiform monument"
     imageUrl: "/artifacts/mesopotamian-justice-codes-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Stele_of_Vultures_detail_01.jpg"
     provenance: "Unknown artist Unknown artist; CC BY-SA 3.0"
     period: "Digital file published 2017"
     description: "This image shows Stele of the Vultures cuneiform monument, selected as a defining visual reference for Mesopotamian Justice Codes & Divine Jurisprudence."
+    detail: high
 ---
 
 # Mesopotamian Justice Codes & Divine Jurisprudence

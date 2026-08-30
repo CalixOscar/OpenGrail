@@ -61,6 +61,7 @@ artifacts:
     provenance: "Konstantin Tsiolkovsky (1857–1935); Public domain"
     period: "Image dated 1933"
     description: "This image shows Tsiolkovsky cosmological manuscript, selected as a defining visual reference for Russian Cosmism."
+    detail: high
 ---
 
 # Russian Cosmism

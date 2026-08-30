@@ -51,12 +51,14 @@ artifacts:
     provenance: "Vikalpprinters; CC BY-SA 4.0"
     period: "8th century"
     description: "This image shows Manuscript of classical Indian logic (Nyaya), selected as a defining visual reference for Nyāya."
+    detail: high
   - title: "Sanskrit manuscript of the foundational Nyaya Sutra"
     imageUrl: "/artifacts/nyaya-2.png"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Classification_of_Indian_Philosophy_(Dar%C5%9Bana)_%E2%80%94_A_Historical_Overview.png"
     provenance: "Shreedhar Kumbar (xaetherion); CC BY-SA 4.0"
     period: "Image dated 2026"
     description: "This image shows Sanskrit manuscript of the foundational Nyaya Sutra, selected as a defining visual reference for Nyāya."
+    detail: high
 ---
 
 # Nyāya

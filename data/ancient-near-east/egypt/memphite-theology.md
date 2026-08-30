@@ -54,6 +54,7 @@ artifacts:
     provenance: "CaptMondo; CC BY 2.5"
     period: "710 BC"
     description: "This image shows Shabaka Stone theology inscription, selected as a defining visual reference for Memphite Theology."
+    detail: high
   - title: "Memphite cult image of Ptah"
     imageUrl: "/artifacts/memphite-theology-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cult_Image_of_the_God_Ptah_MET_DP142956.jpg"

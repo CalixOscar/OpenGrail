@@ -55,6 +55,7 @@ artifacts:
     provenance: "Wikimedia Commons; Public domain"
     period: "Digital file published 2005"
     description: "This image shows Cairo Genizah manuscript fragment preserving Geonic responsa, selected as a defining visual reference for Geonic Judaism."
+    detail: high
 ---
 
 # Geonic Judaism

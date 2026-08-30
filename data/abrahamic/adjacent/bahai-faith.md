@@ -52,6 +52,7 @@ artifacts:
     provenance: "Richard Avery; CC BY-SA 4.0"
     period: "Image dated 2020"
     description: "This image shows The Greatest Name and ringstone, defining Bahai sacred calligraphy, selected as a defining visual reference for Baha'i Faith."
+    detail: high
   - title: "Shrine of Bahaullah at Bahji, the Bahai point of pilgrimage"
     imageUrl: "/artifacts/bahai-faith-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shrine-of-Bahaullah.jpg"

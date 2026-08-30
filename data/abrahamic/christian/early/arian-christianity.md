@@ -58,6 +58,7 @@ artifacts:
     provenance: "Anonymous Unknown author; Public domain"
     period: "Object or image dated 2000"
     description: "This image shows Silver-and-gold Gothic Gospel manuscript associated with Bishop Wulfila, selected as a defining visual reference for Arian Christianity (Historical)."
+    detail: high
 ---
 
 # Arian Christianity (Historical)

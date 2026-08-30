@@ -52,6 +52,7 @@ artifacts:
     provenance: "Immanuel Giel; Public domain"
     period: "Image dated 2005"
     description: "This image shows Historical manuscript of the Augsburg Confession, selected as a defining visual reference for Lutheranism."
+    detail: high
 ---
 
 # Lutheranism

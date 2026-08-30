@@ -56,6 +56,7 @@ artifacts:
     provenance: "Unknown; Public domain"
     period: "Digital file published 2012"
     description: "This image shows Sanskrit manuscript of Isvarakrsna's Samkhyakarika, selected as a defining visual reference for Sāṃkhya."
+    detail: high
 ---
 
 # Sāṃkhya

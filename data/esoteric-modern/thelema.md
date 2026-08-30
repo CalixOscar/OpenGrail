@@ -51,6 +51,7 @@ artifacts:
     provenance: "Metadromos963; CC BY-SA 4.0"
     period: "Image dated 1998"
     description: "This image shows Thelemic Stele of Revealing, selected as a defining visual reference for Thelema."
+    detail: high
   - title: "Abbey of Thelema"
     imageUrl: "/artifacts/thelema-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Abbey_of_Thelema_03.jpg"

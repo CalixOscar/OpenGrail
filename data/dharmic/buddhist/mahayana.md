@@ -58,6 +58,7 @@ artifacts:
     provenance: "Unknown author Unknown author; Public domain"
     period: "Image dated 1000"
     description: "This image shows Illustrated Prajnaparamita manuscript of Mahayana wisdom literature, selected as a defining visual reference for Mahāyāna Buddhism."
+    detail: high
 ---
 
 # Mahāyāna Buddhism

@@ -52,6 +52,7 @@ artifacts:
     provenance: "Unknow (Ming Dynasty); Public domain"
     period: "Ming Dynasty (16th century, 1368—1644)"
     description: "This image shows Lingbao talismanic manuscript, selected as a defining visual reference for Lingbao Daoism."
+    detail: high
   - title: "Ge Hong, patriarch of Lingbao Daoist alchemy and practice"
     imageUrl: "/artifacts/lingbao-daoism-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Wang_Meng._Ge_Zhichuan_Moving_his_Dwelling._ca._1360s_139x58cm_Palace_Museum_Beijing1.jpg"

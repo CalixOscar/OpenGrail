@@ -54,6 +54,7 @@ artifacts:
     provenance: "بلال الدويك; CC BY-SA 3.0"
     period: "Image dated 2013"
     description: "This image shows Manuscript of al-Marghinani's Hanafi legal classic al-Hidaya, selected as a defining visual reference for Hanafi School."
+    detail: high
 ---
 
 # Hanafi School

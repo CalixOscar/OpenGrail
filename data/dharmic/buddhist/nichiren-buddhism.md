@@ -58,6 +58,7 @@ artifacts:
     provenance: "Andrew Olivo Parodi ( talk ) 17:59, 14 September 2019 (UTC); CC BY-SA 4.0"
     period: "Digital file published 2019"
     description: "This image shows Calligraphic Gohonzon mandala central to Nichiren devotion, selected as a defining visual reference for Nichiren Buddhism."
+    detail: high
 ---
 
 # Nichiren Buddhism

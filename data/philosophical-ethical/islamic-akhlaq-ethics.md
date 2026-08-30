@@ -49,6 +49,7 @@ artifacts:
     provenance: "Wikimedia Commons; Public domain"
     period: "15th century"
     description: "This image shows Illuminated manuscript page of Al-Ghazali's Ihyaʾ ʿUlum al-Din, selected as a defining visual reference for Ilm al-Akhlāq & Maqāṣid al-Sharī'ah (Islamic Ethics)."
+    detail: high
   - title: "Courtyard and library of the University of al-Qarawiyyin in Fez"
     imageUrl: "/artifacts/islamic-akhlaq-ethics-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Al-Qarawiyyin01.jpg"

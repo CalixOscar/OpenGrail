@@ -60,6 +60,7 @@ artifacts:
     provenance: "Wikimedia Commons; Public domain"
     period: "Image dated 2005"
     description: "This image shows Illuminated Yasna manuscript containing the Gathas of Zarathustra, selected as a defining visual reference for Gathic Zoroastrianism."
+    detail: high
 ---
 
 # Gathic Zoroastrianism

@@ -57,6 +57,7 @@ artifacts:
     provenance: "Chemical Engineer; Public domain"
     period: "Image dated 2009"
     description: "This image shows Manuscript of Etz Chaim transmitting Lurianic cosmology, selected as a defining visual reference for Lurianic Kabbalah."
+    detail: high
 ---
 
 # Lurianic Kabbalah

@@ -64,6 +64,7 @@ artifacts:
     provenance: "Wikimedia Commons; CC BY 4.0"
     period: "Digital file published 2014"
     description: "This image shows Golden Dawn Cipher Manuscript, selected as a defining visual reference for Hermetic Order of the Golden Dawn."
+    detail: high
 ---
 
 # Hermetic Order of the Golden Dawn

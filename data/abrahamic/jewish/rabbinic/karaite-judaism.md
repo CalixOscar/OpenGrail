@@ -52,6 +52,7 @@ artifacts:
     provenance: "Unknown author; Public domain"
     period: "Image dated 1008"
     description: "This image shows Leningrad Codex copied by the Karaite-associated scribe Samuel ben Jacob, selected as a defining visual reference for Karaite Judaism."
+    detail: high
 ---
 
 # Karaite Judaism

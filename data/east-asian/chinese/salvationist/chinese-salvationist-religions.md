@@ -67,6 +67,7 @@ artifacts:
     provenance: "阿橋 HQ; CC BY-SA 2.0"
     period: "Image dated 2012"
     description: "This image shows Salvationist precious-scroll manuscript, selected as a defining visual reference for Chinese Salvationist Religions (Comparative)."
+    detail: high
 ---
 
 # Chinese Salvationist Religions (Comparative)

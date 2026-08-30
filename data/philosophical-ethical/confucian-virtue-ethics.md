@@ -49,6 +49,7 @@ artifacts:
     provenance: "Yan, Qifeng; Public domain"
     period: "Image dated 1909"
     description: "This image shows Stone tablet rubbing of Confucius teaching by Wu Daozi, selected as a defining visual reference for Confucian Virtue Ethics (Rén & Lǐ)."
+    detail: high
   - title: "Dacheng Hall at the Temple of Confucius in Qufu"
     imageUrl: "/artifacts/confucian-virtue-ethics-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dachenghalldragonpillar.jpg"

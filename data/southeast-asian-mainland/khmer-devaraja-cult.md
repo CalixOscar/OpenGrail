@@ -52,6 +52,7 @@ artifacts:
     provenance: "Ddalbiez; CC BY-SA 3.0"
     period: "Image dated 2009"
     description: "This image shows Sdok Kok Thom stele recording the origin of the devaraja rite, selected as a defining visual reference for Khmer Angkorian Devaraja (God-King) Religion."
+    detail: high
 ---
 
 # Khmer Angkorian Devaraja (God-King) Religion

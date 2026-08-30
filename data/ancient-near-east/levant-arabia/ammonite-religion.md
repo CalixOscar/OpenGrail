@@ -57,6 +57,7 @@ artifacts:
     provenance: "Onceinawhile; CC BY-SA 4.0"
     period: "Digital file published 2020"
     description: "This image shows Tell Siran votive inscription, selected as a defining visual reference for Ammonite Religion."
+    detail: high
 ---
 
 # Ammonite Religion

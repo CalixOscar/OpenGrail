@@ -57,6 +57,7 @@ artifacts:
     provenance: "Unknown; Public domain"
     period: "Image dated 1856"
     description: "This image shows Pali canonical manuscript representative of the textual record of Ajnana, selected as a defining visual reference for Ajñāna Skeptics."
+    detail: high
 ---
 
 # Ajñāna Skeptics

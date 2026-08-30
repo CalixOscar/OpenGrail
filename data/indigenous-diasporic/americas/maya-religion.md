@@ -55,6 +55,7 @@ artifacts:
     provenance: "circa 1200 date QS:P,+1200-00-00T00:00:00Z/9,P1480,Q5727902; Public domain"
     period: "Digital file published 2016"
     description: "This image shows Astronomical and ritual page from the Dresden Codex, selected as a defining visual reference for Maya Religions."
+    detail: high
 ---
 
 # Maya Religions

@@ -60,6 +60,7 @@ artifacts:
     provenance: "Wikimedia Commons; Public domain"
     period: "Digital file published 2011"
     description: "This image shows Manuscript of the principal ancient textual witness to Marcionite teaching, selected as a defining visual reference for Marcionite Christianity."
+    detail: high
 ---
 
 # Marcionite Christianity

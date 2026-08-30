@@ -57,6 +57,7 @@ artifacts:
     provenance: "thesandiegomuseumofartcollection; Public domain"
     period: "Image dated 2003"
     description: "This image shows Manuscript of al-Astarabadi's foundational Akhbari treatise, selected as a defining visual reference for Akhbari Twelver Shiism."
+    detail: high
 ---
 
 # Akhbari Twelver Shiism

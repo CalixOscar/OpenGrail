@@ -55,6 +55,7 @@ artifacts:
     provenance: "kaufmann.mtak.hu; Public domain"
     period: "12th century"
     description: "This image shows Kaufmann Mishnah, principal manuscript witness to tannaitic law, selected as a defining visual reference for Tannaitic Judaism."
+    detail: high
 ---
 
 # Tannaitic Judaism

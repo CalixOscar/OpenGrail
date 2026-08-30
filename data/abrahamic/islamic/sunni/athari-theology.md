@@ -55,12 +55,14 @@ artifacts:
     provenance: "عبدالعزيز علي; Public domain"
     period: "Image dated 2023"
     description: "This image shows Calligraphic representation of Ibn Taymiyyah, a major Athari theologian, selected as a defining visual reference for Athari Theology."
+    detail: high
   - title: "Calligraphic emblem of Hanbali scholar Ibn Taymiyyah"
     imageUrl: "/artifacts/athari-theology-2.png"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ibn_Taymiyya.png"
     provenance: "Abdalluh23; CC0"
     period: "Image dated 2024"
     description: "This image shows Calligraphic emblem of Hanbali scholar Ibn Taymiyyah, selected as a defining visual reference for Athari Theology."
+    detail: high
 ---
 
 # Athari Theology

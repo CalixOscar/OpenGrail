@@ -43,6 +43,7 @@ artifacts:
     provenance: "Markus Kollner; CC BY-SA 4.0"
     period: "Image dated 2024"
     description: "This image shows Raimondi Stele depicting the Chavin Staff God, selected as a defining visual reference for Chavín Cult & Andean Shamanic Horizon."
+    detail: high
   - title: "Chavin de Huantar tenon head carving"
     imageUrl: "/artifacts/chavin-culture-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mus%C3%A9eChavin_01.jpg"

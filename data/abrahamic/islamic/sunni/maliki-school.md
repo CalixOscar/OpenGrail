@@ -54,6 +54,7 @@ artifacts:
     provenance: "de:Benutzer:Orientalist . Photograph taken at the Fes library; Public domain"
     period: "Image dated 2003"
     description: "This image shows Historical manuscript of Malik's Muwatta, selected as a defining visual reference for Maliki School."
+    detail: high
 ---
 
 # Maliki School

@@ -54,6 +54,7 @@ artifacts:
     provenance: "Wikimedia Commons; Public domain"
     period: "15th century"
     description: "This image shows Manuscript of Qadi al-Nu'man's foundational Ismaili legal text, selected as a defining visual reference for Ismailism."
+    detail: high
 ---
 
 # Ismailism

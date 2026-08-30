@@ -57,6 +57,7 @@ artifacts:
     provenance: "Jamshed; CC0"
     period: "Image dated 1598"
     description: "This image shows Central Asian manuscript witness to Sarvastivada scholastic literature, selected as a defining visual reference for Sarvāstivāda."
+    detail: high
 ---
 
 # Sarvāstivāda

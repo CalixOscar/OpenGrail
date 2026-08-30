@@ -63,6 +63,7 @@ artifacts:
     provenance: "Ms Sarah Welch; CC BY-SA 4.0"
     period: "14th century"
     description: "This image shows Classical palm-leaf manuscript preserving Indian philosophical schools, selected as a defining visual reference for Cārvāka / Lokāyata."
+    detail: high
 ---
 
 # Cārvāka / Lokāyata

@@ -61,6 +61,7 @@ artifacts:
     provenance: "Anonymous Unknown author; Public domain"
     period: "18th century"
     description: "This image shows Illustrated Bhagavata Purana manuscript central to devotional culture, selected as a defining visual reference for Bhakti Movements."
+    detail: high
 ---
 
 # Bhakti Movements

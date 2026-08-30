@@ -58,6 +58,7 @@ artifacts:
     provenance: "Marcus Aurelius; Public domain"
     period: "Object or image dated 1558"
     description: "This image shows Manuscript leaf containing the Meditations of Marcus Aurelius, selected as a defining visual reference for Stoic Cosmopolitanism & Universal Natural Law."
+    detail: high
 ---
 
 # Stoic Cosmopolitanism & Universal Natural Law

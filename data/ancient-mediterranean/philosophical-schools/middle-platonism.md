@@ -61,6 +61,7 @@ artifacts:
     provenance: "Plutarch; Public domain"
     period: "Digital file published 2016"
     description: "This image shows Manuscript of Plutarch's Moralia, selected as a defining visual reference for Middle Platonism."
+    detail: high
 ---
 
 # Middle Platonism

@@ -54,6 +54,7 @@ artifacts:
     provenance: "https://classes.bnf.fr/ecritures/grand/n085.htm; Public domain"
     period: "1st century CE"
     description: "This image shows Ancient Gandhari manuscript preserving early Buddhist school literature, selected as a defining visual reference for Early Buddhist Schools."
+    detail: high
 ---
 
 # Early Buddhist Schools

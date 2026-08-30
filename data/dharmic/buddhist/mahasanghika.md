@@ -56,6 +56,7 @@ artifacts:
     provenance: "Left: Udaykumar PR Right: 036 Cave 10, Front; CC BY 2.0"
     period: "Image dated 2017"
     description: "This image shows Manuscript of the Mahavastu, a major Mahasamghika-Lokottaravada text, selected as a defining visual reference for Mahāsāṃghika."
+    detail: high
 ---
 
 # Mahāsāṃghika

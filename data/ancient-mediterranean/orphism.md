@@ -50,12 +50,14 @@ artifacts:
     provenance: "Katolophyromai; CC BY 4.0"
     period: "Image dated 2023"
     description: "This image shows Derveni Papyrus, selected as a defining visual reference for Orphism."
+    detail: high
   - title: "Orphic funerary gold tablet"
     imageUrl: "/artifacts/orphism-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Museo_archeologico_statale_Vito_Capialbi_09.jpg"
     provenance: "Adert; CC BY-SA 4.0"
     period: "Image dated 2022"
     description: "This image shows Orphic funerary gold tablet, selected as a defining visual reference for Orphism."
+    detail: high
 ---
 
 # Orphism

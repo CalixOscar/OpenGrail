@@ -53,6 +53,7 @@ artifacts:
     provenance: "Unknown author Unknown author; Public domain"
     period: "8 th century BC"
     description: "This image shows Kuntillet Ajrud inscription and sacred drawings, selected as a defining visual reference for Ancient Israelite Religion."
+    detail: high
   - title: "Altars and standing stones from the Israelite sanctuary at Tel Arad"
     imageUrl: "/artifacts/ancient-israelite-religion-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tel_Arad_-_Israelite_shrine.JPG"

@@ -57,6 +57,7 @@ artifacts:
     provenance: "Ms Sarah Welch; CC BY-SA 4.0"
     period: "14th century"
     description: "This image shows Sanskrit manuscript of the Brhadaranyaka Upanisad, selected as a defining visual reference for Upanishadic Traditions."
+    detail: high
 ---
 
 # Upanishadic Traditions

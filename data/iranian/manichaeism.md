@@ -68,6 +68,7 @@ artifacts:
     provenance: "Unknown author Unknown author; Public domain"
     period: "8 th —9 th century"
     description: "This image shows Illuminated Manichaean manuscript leaf from Turpan, selected as a defining visual reference for Manichaeism."
+    detail: high
 ---
 
 # Manichaeism

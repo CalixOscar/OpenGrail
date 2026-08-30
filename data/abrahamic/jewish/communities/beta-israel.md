@@ -54,6 +54,7 @@ artifacts:
     provenance: "benny voodoo; CC BY-SA 3.0"
     period: "Image dated 2009"
     description: "This image shows Ge'ez Orit manuscript from the Beta Israel scriptural tradition, selected as a defining visual reference for Beta Israel."
+    detail: high
 ---
 
 # Beta Israel

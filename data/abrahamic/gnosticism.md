@@ -65,6 +65,7 @@ artifacts:
     provenance: "Unknown author Unknown author; Public domain"
     period: "Image dated 2011"
     description: "This image shows Coptic Nag Hammadi codex preserving Gnostic texts, selected as a defining visual reference for Gnostic Traditions."
+    detail: high
 ---
 
 # Gnostic Traditions

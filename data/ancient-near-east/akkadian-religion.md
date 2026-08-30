@@ -56,6 +56,7 @@ artifacts:
     provenance: "Unknown artist Unknown artist; Public domain"
     period: "12th century BCE"
     description: "This image shows Divinized Naram-Sin victory stele, selected as a defining visual reference for Akkadian Religion."
+    detail: high
 ---
 
 # Akkadian Religion

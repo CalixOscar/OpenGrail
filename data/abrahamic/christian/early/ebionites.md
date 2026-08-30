@@ -59,6 +59,7 @@ artifacts:
     provenance: "https://archive.org/stream/bub_gb_LyGIxzzZmcUC#page/n3/mode/2up; Public domain"
     period: "Image dated 2015"
     description: "This image shows Greek manuscript witness preserving ancient reports about the Ebionites, selected as a defining visual reference for Ebionites."
+    detail: high
 ---
 
 # Ebionites

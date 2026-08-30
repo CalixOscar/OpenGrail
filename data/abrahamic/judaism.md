@@ -56,6 +56,7 @@ artifacts:
     provenance: "Rangan Datta Wiki; CC BY-SA 4.0"
     period: "Image dated 2020"
     description: "This image shows Torah scroll carried from the ark for communal reading, selected as a defining visual reference for Judaism."
+    detail: high
 ---
 
 # Judaism

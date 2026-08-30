@@ -54,6 +54,7 @@ artifacts:
     provenance: "Mohammad hajeer; CC BY-SA 4.0"
     period: "1st century CE"
     description: "This image shows Dead Sea Scroll manuscript from the Second Temple period, selected as a defining visual reference for Second Temple Judaism."
+    detail: high
 ---
 
 # Second Temple Judaism

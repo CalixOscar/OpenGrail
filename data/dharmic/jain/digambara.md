@@ -55,6 +55,7 @@ artifacts:
     provenance: "Hiralal Jain; Public domain"
     period: "Image dated 2016"
     description: "This image shows Dhavala palm-leaf manuscript of the Digambara Jain tradition, selected as a defining visual reference for Digambara Jainism."
+    detail: high
 ---
 
 # Digambara Jainism

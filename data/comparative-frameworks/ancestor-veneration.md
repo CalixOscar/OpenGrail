@@ -54,6 +54,7 @@ artifacts:
     provenance: "John Thomson; Public domain"
     period: "Image dated 1898"
     description: "This image shows Ancestral tablets arranged on a traditional lineage hall altar, selected as a defining visual reference for Ancestor Veneration."
+    detail: high
   - title: "Torajan tau-tau ancestor effigies"
     imageUrl: "/artifacts/ancestor-veneration-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Houten_dodenpoppen_van_Toradja-groep_TMnr_60028789.jpg"

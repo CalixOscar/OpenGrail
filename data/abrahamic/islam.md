@@ -62,6 +62,7 @@ artifacts:
     provenance: "Unknown in Mamluk dynasty; Public domain"
     period: "late 14th century"
     description: "This image shows Blue Quran folio, iconic sacred Islamic calligraphy, selected as a defining visual reference for Islam."
+    detail: high
 ---
 
 # Islam

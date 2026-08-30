@@ -59,6 +59,7 @@ artifacts:
     provenance: "Ms Sarah Welch; CC BY-SA 4.0"
     period: "16th-century"
     description: "This image shows Sanskrit manuscript of the Mimamsa Sutra, selected as a defining visual reference for Pūrva Mīmāṃsā."
+    detail: high
 ---
 
 # Pūrva Mīmāṃsā

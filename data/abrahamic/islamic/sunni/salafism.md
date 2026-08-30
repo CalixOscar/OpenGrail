@@ -51,6 +51,7 @@ artifacts:
     provenance: "Zairon; CC BY 4.0"
     period: "Image dated 2023"
     description: "This image shows Early manuscript or edition of Kitab al-Tawhid, selected as a defining visual reference for Salafism."
+    detail: high
   - title: "Portrait of influential modern Salafi scholar al-Albani"
     imageUrl: "/artifacts/salafism-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Nasser_al-Din_Shah_Louvre_MAO776-Edit.jpg"

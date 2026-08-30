@@ -54,6 +54,7 @@ artifacts:
     provenance: "Yuhana Nashmi (The Worlds of Mandaean Priests); CC BY-SA 4.0"
     period: "Image dated 2015"
     description: "This image shows Illustrated or inscribed manuscript of the Ginza Rabba, selected as a defining visual reference for Mandaeism."
+    detail: high
 ---
 
 # Mandaeism

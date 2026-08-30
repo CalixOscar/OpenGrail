@@ -61,6 +61,7 @@ artifacts:
     provenance: "Proclus; Public domain"
     period: "Digital file published 2015"
     description: "This image shows Manuscript of Proclus's theology, selected as a defining visual reference for Neoplatonism."
+    detail: high
 ---
 
 # Neoplatonism

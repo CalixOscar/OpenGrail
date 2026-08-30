@@ -48,12 +48,14 @@ artifacts:
     provenance: "Abu al-Hasan al-Shadhili (died 656 AH/AD 1258); Public domain"
     period: "11th century AH/AD 17th century ( Ottoman Empire era QS:P2348,Q12560 )"
     description: "This image shows Traditional calligraphic representation of al-Ashari, selected as a defining visual reference for Ash'ari Theology."
+    detail: high
   - title: "Manuscript of al-Ashari's al-Ibana"
     imageUrl: "/artifacts/ashari-theology-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ibana_gan_(10.3897-BDJ.10.e93637)_Figure_1.jpg"
     provenance: "Liu et al. (2022); CC BY 4.0"
     period: "Image dated 2022"
     description: "This image shows Manuscript of al-Ashari's al-Ibana, selected as a defining visual reference for Ash'ari Theology."
+    detail: high
 ---
 
 # Ash'ari Theology

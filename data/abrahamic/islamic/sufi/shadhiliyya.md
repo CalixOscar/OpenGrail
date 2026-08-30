@@ -56,6 +56,7 @@ artifacts:
     provenance: "Unknown, Egypt or Syria, 14th Century (Egypt or Syria); Public domain"
     period: "Image dated 1300"
     description: "This image shows Manuscript of the Shadhili litany Hizb al-Bahr, selected as a defining visual reference for Shadhiliyya."
+    detail: high
 ---
 
 # Shadhiliyya

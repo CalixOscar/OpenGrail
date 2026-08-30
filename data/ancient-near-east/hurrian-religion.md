@@ -52,6 +52,7 @@ artifacts:
     provenance: "Disdero ( talk · contribs ); CC BY 3.0"
     period: "Image dated 2005"
     description: "This image shows Hurrian hymn tablet, selected as a defining visual reference for Hurrian Religion."
+    detail: high
 ---
 
 # Hurrian Religion

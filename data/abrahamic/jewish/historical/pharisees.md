@@ -54,6 +54,7 @@ artifacts:
     provenance: "kaufmann.mtak.hu; Public domain"
     period: "12th century"
     description: "This image shows Kaufmann Mishnah manuscript preserving traditions rooted in Pharisaic-rabbinic law, selected as a defining visual reference for Pharisees."
+    detail: high
 ---
 
 # Pharisees

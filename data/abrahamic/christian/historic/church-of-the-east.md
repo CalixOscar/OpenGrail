@@ -48,6 +48,7 @@ artifacts:
     provenance: "Jingjing; Public domain"
     period: "Object or image dated 1623"
     description: "This image shows The Xi'an Stele, iconic record of the Church of the East in China, selected as a defining visual reference for Church of the East."
+    detail: high
   - title: "Rabban Hormizd Monastery, historic East Syriac sanctuary"
     imageUrl: "/artifacts/church-of-the-east-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Rabban_Hurmizd.jpg"

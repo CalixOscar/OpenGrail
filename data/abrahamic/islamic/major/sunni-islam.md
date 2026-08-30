@@ -53,6 +53,7 @@ artifacts:
     provenance: "Christies.com; Public domain"
     period: "1429 AD"
     description: "This image shows Illuminated manuscript of the preeminent Sunni hadith collection, selected as a defining visual reference for Sunni Islam."
+    detail: high
 ---
 
 # Sunni Islam

@@ -58,6 +58,7 @@ artifacts:
     provenance: "Badi' al Zaman ibn al Razzaz al Jazari; Public domain"
     period: "Digital file published 2013"
     description: "This image shows Manuscript of Ibn Hazm's Zahiri legal compendium al-Muhalla, selected as a defining visual reference for Zahiri School."
+    detail: high
 ---
 
 # Zahiri School

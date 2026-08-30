@@ -59,6 +59,7 @@ artifacts:
     provenance: "Unknown author Unknown author; Public domain"
     period: "early 19 th century"
     description: "This image shows Sanskrit manuscript of the Rgveda, selected as a defining visual reference for Vedic Religion."
+    detail: high
 ---
 
 # Vedic Religion

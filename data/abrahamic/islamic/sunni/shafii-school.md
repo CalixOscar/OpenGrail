@@ -54,6 +54,7 @@ artifacts:
     provenance: "Al-Ghazali; Public domain"
     period: "Image dated 2013"
     description: "This image shows Historical manuscript of al-Shafi'i's al-Risala, selected as a defining visual reference for Shafi'i School."
+    detail: high
 ---
 
 # Shafi'i School

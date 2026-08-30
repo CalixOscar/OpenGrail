@@ -51,6 +51,7 @@ artifacts:
     provenance: "No machine-readable author provided. Marsyas assumed (based on copyright claims).; Public domain"
     period: "Image dated 2005"
     description: "This image shows Ninnion initiation tablet from Eleusis, selected as a defining visual reference for Eleusinian Mysteries."
+    detail: high
   - title: "Eleusinian Telesterion"
     imageUrl: "/artifacts/eleusinian-mysteries-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_ruins_of_the_Telesterion_at_the_Sanctuary_of_Demeter_in_Eleusis_on_5_April_2019.jpg"

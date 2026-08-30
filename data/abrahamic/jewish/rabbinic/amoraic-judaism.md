@@ -58,6 +58,7 @@ artifacts:
     provenance: "שלמה בן שמשון; Public domain"
     period: "Image dated 1342"
     description: "This image shows Munich Codex 95, complete manuscript of the Babylonian Talmud, selected as a defining visual reference for Amoraic Judaism."
+    detail: high
 ---
 
 # Amoraic Judaism

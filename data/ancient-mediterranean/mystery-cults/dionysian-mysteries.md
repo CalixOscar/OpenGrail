@@ -62,6 +62,7 @@ artifacts:
     provenance: "Mentnafunangann; CC BY-SA 3.0"
     period: "Image dated 2012"
     description: "This image shows Dionysian initiatory gold tablet, selected as a defining visual reference for Dionysian Mysteries."
+    detail: high
 ---
 
 # Dionysian Mysteries

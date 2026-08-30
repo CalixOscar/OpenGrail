@@ -57,6 +57,7 @@ artifacts:
     provenance: "Derivator2017; CC0"
     period: "Image dated 2018"
     description: "This image shows Manuscript of al-Maturidi's Kitab al-Tawhid, selected as a defining visual reference for Maturidi Theology."
+    detail: high
 ---
 
 # Maturidi Theology

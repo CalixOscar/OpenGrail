@@ -50,6 +50,7 @@ artifacts:
     provenance: "Rama; CC BY-SA 3.0 fr"
     period: "Digital file published 2006"
     description: "This image shows Baal storm-god stele, selected as a defining visual reference for Canaanite Religion."
+    detail: high
   - title: "Hazor Canaanite sanctuary"
     imageUrl: "/artifacts/canaanite-religion-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hatzor_-_Temple_dvir_area_8-%D7%97.JPG"

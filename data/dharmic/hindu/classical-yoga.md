@@ -50,12 +50,14 @@ artifacts:
     provenance: "Alokprasad at en.wikipedia; CC BY-SA 3.0"
     period: "Image dated 2009"
     description: "This image shows Traditional image of Patanjali, attributed author of the Yoga Sutras, selected as a defining visual reference for Classical Yoga."
+    detail: high
   - title: "Sanskrit manuscript of Patanjali's Yoga Sutras"
     imageUrl: "/artifacts/classical-yoga-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Yogasutra_with_Patanjali%27s_bhasya,_Sanskrit,_Devanagari_script,_random_sample_pages_f1v_f2r_f3v.jpg"
     provenance: "Ms Sarah Welch; CC BY-SA 4.0"
     period: "18th-century"
     description: "This image shows Sanskrit manuscript of Patanjali's Yoga Sutras, selected as a defining visual reference for Classical Yoga."
+    detail: high
 ---
 
 # Classical Yoga

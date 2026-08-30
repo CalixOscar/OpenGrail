@@ -48,6 +48,7 @@ artifacts:
     provenance: "Unfacedman; CC BY-SA 4.0"
     period: "Image dated 2010"
     description: "This image shows Samaritan high priest displaying a Torah scroll, selected as a defining visual reference for Samaritanism."
+    detail: high
   - title: "Annual Passover sacrifice on Mount Gerizim"
     imageUrl: "/artifacts/samaritanism-2.jpg"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Samaritan_Passover_sacrifice_site_IMG_2126.JPG"

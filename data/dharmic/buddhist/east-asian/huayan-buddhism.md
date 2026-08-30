@@ -61,6 +61,7 @@ artifacts:
     provenance: "Unknown illustrator, 14th century; Public domain"
     period: "14th century"
     description: "This image shows Illustrated Avatamsaka Sutra manuscript central to Huayan teaching, selected as a defining visual reference for Huayan Buddhism."
+    detail: high
 ---
 
 # Huayan Buddhism

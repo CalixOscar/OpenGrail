@@ -54,6 +54,7 @@ artifacts:
     provenance: "Jalal0; CC BY 3.0 us"
     period: "Image dated 2011"
     description: "This image shows Historical manuscript of Ahmad ibn Hanbal's Musnad, selected as a defining visual reference for Hanbali School."
+    detail: high
 ---
 
 # Hanbali School
