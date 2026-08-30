@@ -55,6 +55,15 @@ export const CLUSTERS = [
 export type ClusterName = (typeof CLUSTERS)[number] | string;
 export type GraphNodeId = string;
 
+/**
+ * Artifact resolution tiers. 'high' selects the 1600px long edge tier for text-bearing artifacts.
+ */
+export const ARTIFACT_DETAIL_TIERS = [
+  'high',
+] as const;
+
+export type ArtifactDetailTier = (typeof ARTIFACT_DETAIL_TIERS)[number];
+
 export interface OriginGeo {
   lat: number;
   lng: number;
@@ -198,6 +207,7 @@ export interface TraditionArtifact {
   provenance?: string;
   period?: string;
   description?: string;
+  detail?: ArtifactDetailTier;
 }
 
 export interface GraphNode {
@@ -279,6 +289,13 @@ export function isCanonicalRelationType(value: unknown): value is CanonicalRelat
   return (
     typeof value === 'string' &&
     (CANONICAL_RELATION_TYPES as readonly string[]).includes(value)
+  );
+}
+
+export function isArtifactDetailTier(value: unknown): value is ArtifactDetailTier {
+  return (
+    typeof value === 'string' &&
+    (ARTIFACT_DETAIL_TIERS as readonly string[]).includes(value)
   );
 }
 

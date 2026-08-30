@@ -22,6 +22,9 @@ export const CLUSTERS = [
   "Speculative",
 ];
 
+export const ARTIFACT_DETAIL_TIERS = ["high"];
+export const ARTIFACT_DETAIL_TIER_IDS = new Set(ARTIFACT_DETAIL_TIERS);
+
 export const EPISTEMIC_TIERS = [
   {
     id: "academic_consensus",
@@ -234,7 +237,7 @@ export const FRONTMATTER_FIELDS = [
     name: "artifacts",
     type: "array",
     required: false,
-    description: "Curated visual artifacts, manuscripts, or sacred iconography (`{ title, imageUrl, sourceUrl, provenance, period, description }`).",
+    description: "Curated visual artifacts, manuscripts, or sacred iconography (`{ title, imageUrl, sourceUrl, provenance, period, description, detail }`). Optional `detail: high` selects the higher-resolution thumbnail tier for text-bearing artifacts.",
     exampleYaml: "artifacts:\n  - title: Example Historical Artifact\n    imageUrl: https://example.org/artifact.jpg\n    sourceUrl: https://commons.wikimedia.org/wiki/File:Example.jpg\n    provenance: Example Museum\n    period: c. 100 CE\n    description: Description of the visual artifact or manuscript.",
   },
   {
@@ -411,6 +414,17 @@ export function normalizeArtifacts(value, filePath, projectRoot) {
     const provenance = optionalString(item.provenance, `artifacts[${index}].provenance`, filePath, projectRoot);
     const period = optionalString(item.period, `artifacts[${index}].period`, filePath, projectRoot);
     const description = optionalString(item.description, `artifacts[${index}].description`, filePath, projectRoot);
+    const detail = optionalString(item.detail, `artifacts[${index}].detail`, filePath, projectRoot);
+
+    if (detail !== undefined && !ARTIFACT_DETAIL_TIER_IDS.has(detail)) {
+      fail(
+        filePath,
+        `artifacts[${index}].detail "${detail}" is not one of ${[
+          ...ARTIFACT_DETAIL_TIER_IDS,
+        ].join(", ")}`,
+        projectRoot,
+      );
+    }
 
     return {
       title,
@@ -419,6 +433,7 @@ export function normalizeArtifacts(value, filePath, projectRoot) {
       ...(provenance ? { provenance } : {}),
       ...(period ? { period } : {}),
       ...(description ? { description } : {}),
+      ...(detail ? { detail } : {}),
     };
   });
 }
@@ -771,6 +786,7 @@ export function generateSchemaTypescript() {
   const relationTypeArray = RELATION_TYPES.map((r) => `  '${r.id}',`).join("\n");
   const canonicalTypeArray = Array.from(CANONICAL_RELATION_TYPES).map((c) => `  '${c}',`).join("\n");
   const clustersArray = CLUSTERS.map((c) => `  '${c}',`).join("\n");
+  const artifactDetailTiersArray = ARTIFACT_DETAIL_TIERS.map((d) => `  '${d}',`).join("\n");
 
   const epistemicOptions = EPISTEMIC_TIERS.map((t) => `  {
     value: '${t.id}',
@@ -824,6 +840,15 @@ ${clustersArray}
 
 export type ClusterName = (typeof CLUSTERS)[number] | string;
 export type GraphNodeId = string;
+
+/**
+ * Artifact resolution tiers. 'high' selects the 1600px long edge tier for text-bearing artifacts.
+ */
+export const ARTIFACT_DETAIL_TIERS = [
+${artifactDetailTiersArray}
+] as const;
+
+export type ArtifactDetailTier = (typeof ARTIFACT_DETAIL_TIERS)[number];
 
 export interface OriginGeo {
   lat: number;
@@ -886,6 +911,7 @@ export interface TraditionArtifact {
   provenance?: string;
   period?: string;
   description?: string;
+  detail?: ArtifactDetailTier;
 }
 
 export interface GraphNode {
@@ -967,6 +993,13 @@ export function isCanonicalRelationType(value: unknown): value is CanonicalRelat
   return (
     typeof value === 'string' &&
     (CANONICAL_RELATION_TYPES as readonly string[]).includes(value)
+  );
+}
+
+export function isArtifactDetailTier(value: unknown): value is ArtifactDetailTier {
+  return (
+    typeof value === 'string' &&
+    (ARTIFACT_DETAIL_TIERS as readonly string[]).includes(value)
   );
 }
 

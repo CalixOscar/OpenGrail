@@ -37,7 +37,7 @@ Every tradition in OpenGrail is represented by a single Markdown file with YAML 
 | `canonical_texts` | `string[]` | Yes | Key scriptures, foundational treatises, or primary texts. |
 | `key_tenets` | `string[]` | Optional | Primary philosophical or theological tenets, ethical principles, or practices. |
 | `sources` | `array` | Optional | Bibliographic citations or academic references (`string` or `{ title, url }`). |
-| `artifacts` | `array` | Optional | Curated visual artifacts, manuscripts, or sacred iconography (`{ title, imageUrl, sourceUrl, provenance, period, description }`). |
+| `artifacts` | `array` | Optional | Curated visual artifacts, manuscripts, or sacred iconography (`{ title, imageUrl, sourceUrl, provenance, period, description, detail }`). Optional `detail: high` selects the higher-resolution thumbnail tier for text-bearing artifacts. |
 | `relations` | `array` | Optional | Outgoing relationship links to other traditions (see Relation Fields below). |
 
 ### Recognized Clusters
