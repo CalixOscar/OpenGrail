@@ -63,12 +63,9 @@ jobs:
           p.on('requestfailed', r => { console.log('[reqfail]', r.url(), r.failure()?.errorText); pending.delete(r); });
           p.on('response', r => console.log('[resp]', r.status(), r.url().slice(-70)));
           try {
-            await p.goto(s.baseUrl, { waitUntil: 'load', timeout: 30000 });
-            console.log('load OK');
-            await new Promise(r => setTimeout(r, 8000));
-            console.log('PENDING after 8s:', JSON.stringify([...pending.values()]));
-            await p.waitForNetworkIdle({ idleTime: 500, concurrency: 2, timeout: 15000 });
-            console.log('networkidle OK');
+            const t0 = Date.now();
+            await p.goto(s.baseUrl, { waitUntil: 'networkidle2', timeout: 45000 });
+            console.log('goto networkidle2 OK after ms:', Date.now() - t0);
           } catch (e) {
             console.log('ERROR:', e.message);
             console.log('PENDING:', JSON.stringify([...pending.values()]));
