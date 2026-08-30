@@ -53,11 +53,21 @@ cd OpenGrail
 # Install dependencies
 npm install
 
+# Download the visual artifacts (about 795 MB, one time)
+npm run fetch:artifacts
+
 # Build graph data and launch local development server
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open [http://localhost:5173/opengrail/](http://localhost:5173/opengrail/) in your browser.
+
+> **The artifact fetch is required.** Only 120 of the 1,146 images are stored in this
+> repository; the other 1,026 are downloaded from Wikimedia Commons on demand, verified
+> against the SHA-256 checksums in `data/artifact-manifest.json`. This keeps a clone under
+> 100 MB instead of over a gigabyte. Without this step the atlas runs, but tradition
+> imagery will be missing. The download is skipped for files already present, so it is safe
+> to re-run.
 
 ### Production Build
 

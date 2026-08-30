@@ -103,3 +103,12 @@ npm run build
 - **Epistemic Honesty**: Preserve the distinction between historical academic consensus and devotional/theological claims.
 - **Neutral & Scholarly Tone**: Avoid confessional bias or dismissive language.
 - **Source of Truth**: Always edit `data/**/*.md`. Never edit `public/graph.json` directly.
+- **Verification gate**: Run `npm run verify` before opening a pull request. It runs the
+  graph build, the TypeScript build, and the test suite. `npm run build` alone does not run
+  the tests.
+- **Static-first and tracker-free**: the atlas has no backend, analytics, trackers, or
+  remote font or image dependencies, and images are always served from our own origin
+  rather than hotlinked. Please do not add any of these.
+- **Document, do not assert**: keep the distinction between recording that a tradition
+  makes a claim and asserting the claim is true. Use relation `certainty` and node
+  `epistemic_tier` explicitly, and qualify contested genealogies in the Markdown body.

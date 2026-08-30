@@ -129,3 +129,13 @@ public/artifacts/**
 !public/artifacts/vedanta-1.jpg
 !public/artifacts/vedanta-2.jpg
 !public/artifacts/zoroastrianism-1.jpg
+
+# Internal studio notes and process artifacts - kept local, not published.
+# docs/unreproducible-artifacts.txt is NOT here: the manifest build and tests depend on it.
+PROJECT_NOTES.md
+AGENTS.md
+PLAN.md
+.claude/
+scripts/lint-project-notes.sh
+docs/public-release-plan.md
+docs/sprint-01-remediation-plan.md
