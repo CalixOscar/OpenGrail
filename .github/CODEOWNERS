@@ -1,0 +1,8 @@
+# Every pull request requires a review from the maintainer.
+# Combined with the branch ruleset on `main`, this means no contribution merges
+# without an explicit approval, including changes to CI and to this file itself.
+*                       @CalixOscar
+/.github/               @CalixOscar
+/scripts/               @CalixOscar
+/package.json           @CalixOscar
+/package-lock.json      @CalixOscar

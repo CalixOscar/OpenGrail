@@ -1,0 +1,30 @@
+name: Data correction
+description: Report an inaccurate date, coordinate, relation, attribution, or summary.
+title: "[Correction] "
+labels: ["data", "correction"]
+body:
+  - type: input
+    id: file
+    attributes:
+      label: File or tradition affected
+      placeholder: e.g. data/iranian/manichaeism.md
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: What the atlas currently says
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: What it should say
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources supporting the correction
+    validations:
+      required: true

@@ -1,0 +1,85 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+# Least privilege: nothing in this workflow needs write access, and pull_request
+# runs from forks must never be able to mutate the repository.
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    name: Build, typecheck and test (Node ${{ matrix.node }})
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    strategy:
+      fail-fast: false
+      matrix:
+        node: ['22.x', '24.x']
+    steps:
+      - name: Check out the pull request head
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.0.0
+        with:
+          persist-credentials: false
+
+      - name: Set up Node ${{ matrix.node }}
+        uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.0.0
+        with:
+          node-version: ${{ matrix.node }}
+          cache: npm
+
+      # `npm ci` respects the committed lockfile exactly and refuses to install a
+      # dependency a pull request added to package.json without updating it.
+      # `--ignore-scripts` stops a dependency (or a dependency a fork's PR adds)
+      # from running arbitrary install hooks on the runner. sharp ships prebuilt
+      # platform binaries as optional deps, so nothing here needs a build hook.
+      - name: Install dependencies from the lockfile
+        run: npm ci --ignore-scripts
+
+      - name: Verify the contributor contract is in sync
+        run: npm run verify:schema
+
+      - name: Build graph data, typecheck and bundle
+        run: npm run build
+
+      - name: Run the test suite
+        run: npm test
+        env:
+          # The runner's Google Chrome tracks stable and runs ahead of what
+          # puppeteer-core supports: with Chrome 151, `waitUntil: 'networkidle2'`
+          # never resolves even though every request has finished. The image's
+          # bundled Chromium is the version Puppeteer is built against, so the
+          # browser suites use that.
+          CHROME_PATH: /usr/bin/chromium
+
+      - name: Confirm the derived data files are committed and up to date
+        run: |
+          npm run derive:attributions
+          if ! git diff --quiet -- ATTRIBUTIONS.md; then
+            echo "::error::ATTRIBUTIONS.md is out of date. Run 'npm run derive:attributions' and commit the result."
+            git --no-pager diff --stat -- ATTRIBUTIONS.md
+            exit 1
+          fi
+
+  # A single, stable check name for the branch ruleset to require. Matrix job names
+  # change whenever the Node matrix changes; this one does not.
+  ci-success:
+    name: CI passed
+    if: always()
+    needs: [verify]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fail if any verification job failed or was skipped
+        if: needs.verify.result != 'success'
+        run: |
+          echo "::error::The verify matrix did not pass (result: ${{ needs.verify.result }})."
+          exit 1
+      - run: echo "All verification jobs passed."

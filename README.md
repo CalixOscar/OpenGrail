@@ -4,6 +4,7 @@
 
 **An interactive 3D atlas and force-graph mapping the genealogical tree, theological evolution, and cross-cultural links of world religions, mythologies, and ethical philosophies.**
 
+[![CI](https://github.com/CalixOscar/OpenGrail/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/CalixOscar/OpenGrail/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Traditions](https://img.shields.io/badge/Traditions-573-success.svg)](#content-model)
 [![Theological Links](https://img.shields.io/badge/Graph%20Links-903-purple.svg)](#content-model)
@@ -21,6 +22,12 @@
   <a href="CONTRIBUTING.md">Contribute a Tradition</a>
 </h3>
 
+<a href="https://www.calmdownoscar.com/opengrail/">
+  <img src="docs/media/atlas-graph.webp" alt="OpenGrail's force-directed graph view: 573 traditions drawn as colored nodes clustered by philosophical affinity, connected by 903 lines of theological descent and influence." width="880">
+</a>
+
+<sub>Force-graph view · <a href="https://www.calmdownoscar.com/opengrail/#view=map">the same data on the 3D globe</a></sub>
+
 </div>
 
 ---
@@ -29,6 +36,9 @@
 
 - **Force-Directed Conceptual Graph**: Dynamic physics engine visually clustering traditions by philosophical affinity, nested denominations, and cross-faith influences.
 - **3D Interactive Orthographic Globe**: Geographic coordinate projection with great-circle relationship arcs tracking historical origins across continents and eras.
+
+  <img src="docs/media/atlas-globe.webp" alt="OpenGrail's globe view: an orthographic projection with tradition origin points and great-circle arcs arcing between them." width="620">
+
 - **Chronological Timeline Scrubber**: Filter traditions and historical splits dynamically from ancient antiquity through modern movements.
 - **Fuzzy Search & Deep Linking**: Instant keyboard search across traditions, aliases, and canonical texts. Every tradition and view mode has a unique, shareable URL hash (e.g. `#tradition=stoicism&view=map`).
 - **Epistemic Rigor**: Explicitly distinguishes between `academic_consensus`, `minority_scholarly`, `theological_claim`, and `speculative_fringe` so historical facts and devotional traditions remain clear.
@@ -99,8 +109,15 @@ We welcome community contributions! Whether you want to add an obscure regional 
 
 1. Read the [Contribution Guide](CONTRIBUTING.md).
 2. Copy `data/_template.md` into the relevant `data/` subdirectory.
-3. Validate locally with `npm run build:graph`.
-4. Open a Pull Request.
+3. Validate locally with `npm run verify` (graph build, typecheck, and tests).
+4. Open a Pull Request. Data changes need sources; the template asks for them.
+
+Not ready to write a file? Open a [tradition proposal or a correction](https://github.com/CalixOscar/OpenGrail/issues/new/choose)
+with your sources and it can be added for you. Broader questions about scope and
+methodology belong in [Discussions](https://github.com/CalixOscar/OpenGrail/discussions).
+
+Please also read the [Code of Conduct](CODE_OF_CONDUCT.md). Security issues go through the
+[Security Policy](SECURITY.md), not the public issue tracker.
 
 ---
 
