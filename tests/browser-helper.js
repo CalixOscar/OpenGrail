@@ -198,3 +198,31 @@ export function formatAxeViolations(violations) {
     })
     .join('\n\n');
 }
+
+/**
+ * Wait for the page to be visually settled before sampling it.
+ *
+ * axe measures computed colour. While an element is mid-animation its colours are
+ * composited against whatever is behind it, so a contrast check can read values that
+ * never actually appear to a user. The comparison modal fades in over 200ms
+ * (`compFadeIn`), and `waitForSelector` resolves the moment the node exists - at
+ * opacity 0 - which made the contrast assertion flaky in both directions: it failed
+ * spuriously, and it could equally have passed spuriously.
+ *
+ * Disable animations outright, then wait for any still running to finish.
+ */
+export async function settlePage(page) {
+  await page.addStyleTag({
+    content: `*, *::before, *::after {
+      animation-duration: 0s !important;
+      animation-delay: 0s !important;
+      transition-duration: 0s !important;
+      transition-delay: 0s !important;
+    }`,
+  });
+  await page.evaluate(async () => {
+    if (typeof document.getAnimations === 'function') {
+      await Promise.all(document.getAnimations().map((a) => a.finished.catch(() => {})));
+    }
+  });
+}

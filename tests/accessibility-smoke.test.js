@@ -3,6 +3,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {
+  settlePage,
   findChromeExecutable,
   startStaticAppServer,
   launchBrowser,
@@ -45,6 +46,7 @@ test(
       await page.waitForSelector('.topbar', { timeout: 5000 });
       await page.waitForSelector('canvas', { timeout: 5000 });
 
+      await settlePage(page);
       const { severeViolations } = await runAxe(page);
       assert.equal(
         severeViolations.length,
@@ -61,7 +63,8 @@ test(
         });
         await page.waitForSelector('.comparison-overlay', { timeout: 5000 });
 
-        const { severeViolations } = await runAxe(page);
+        await settlePage(page);
+      const { severeViolations } = await runAxe(page);
         assert.equal(
           severeViolations.length,
           0,
@@ -96,7 +99,8 @@ test(
         // Wait for lightbox fadeIn animation (150ms) to settle
         await new Promise((resolve) => setTimeout(resolve, 250));
 
-        const { severeViolations } = await runAxe(page);
+        await settlePage(page);
+      const { severeViolations } = await runAxe(page);
         assert.equal(
           severeViolations.length,
           0,
