@@ -22,11 +22,11 @@ analytics, trackers, or AI service is required.
 Session Log are append-only. Check git log/status/diff in the destination repo; the repo
 is ground truth if this note ever disagrees with it. -->
 
-**Status:** Phase 1 built and verified; 95 tests green (verified: npm run verify 2026-08-30). Fetch proven against all 1,146 artifacts. Phase 2 not started.
-**Task:** Prepare the repository to go public: scope the licence away from the third-party images, and get 821 MB of images out of a 1.02 GiB git pack.
-**Files touched:** `data/artifact-manifest.json` (new), `scripts/build-artifact-manifest.js`, `scripts/fetch-artifacts.js`, `scripts/derive-attributions.js` (all new), `tests/artifact-manifest.test.js` (new), `LICENSE`, `README.md`, `NOTICE.md` and `ATTRIBUTIONS.md` (new), `docs/public-release-plan.md`, `docs/unreproducible-artifacts.txt` (new).
-**Next step:** Adjust the manifest for the hybrid split (see Gotchas), then Phase 2 by hand: untrack the 1,026 fetchable images and purge them from history. Phase 2 is NOT swarm work.
-**Gotchas:** The fetch verification proved only 1,026 of 1,146 images reproduce byte-for-byte. The other 120 are downscaled derivatives made by the original curation pipeline, so the upstream original downloads 5.5x larger on median and the checksum will never match. Those 120 (25.8 MB) MUST stay tracked in git - the local copy is the only copy that exists. The manifest needs a `vendored` flag, `fetch:artifacts` must skip vendored entries, and `.gitignore` must exclude `public/artifacts/**` except those 120; the list is `docs/unreproducible-artifacts.txt`. No Commons URL 404s, so nothing has been lost upstream. Still do not hotlink - the deploy CSP is `img-src 'self' data:` and the project is tracker-free.
+**Status:** Phase 2 complete. History rewritten and force-pushed; a fresh clone is 97 MB, down from about 1 GB. 98 tests green (verified: npm run verify 2026-08-30).
+**Task:** Prepare the repository to go public. Licence scoping and the artifact manifest are done; the 1,026 fetchable images are out of git and its history.
+**Files touched:** `.gitignore`, `data/artifact-manifest.json`, `scripts/fetch-artifacts.js`, `scripts/build-artifact-manifest.js`, `tests/artifact-manifest.test.js`, plus the full history rewrite via `git filter-repo`.
+**Next step:** The repository is technically ready to go public. Remaining judgement calls before flipping visibility: whether to publish `PROJECT_NOTES.md` and `AGENTS.md`, which document the internal studio process, and the hardcoded local path at `PROJECT_NOTES.md:3`. Separately, `mobile-and-default-chrome` and `artifact-manifest-and-licensing` are both unmerged.
+**Gotchas:** ALL COMMIT SHAs CHANGED. Every previous clone of this repository is now incompatible - discard and re-clone rather than pulling. Merged PR #1 still exists on GitHub but references commits no longer reachable from any branch. Backups of the pre-rewrite state are at `/Users/calmdownoscar/Documents/Projects/_backups/opengrail-pre-rewrite-20260830-093834` - a full all-refs bundle, a mirror clone, and the 120 vendored derivatives copied outside git. Do not delete those until you are certain nothing is needed from the old history. After cloning, `npm run fetch:artifacts` must be run before the images exist locally; `npm run build` does not do it automatically.
 **Left by:** Claude Code 2026-08-30
 
 ## Decisions Log
@@ -325,3 +325,13 @@ other 1,026 are fetched at build. This removes 795 MB of the 821 MB while making
 impossible for any image to be lost or to fail to resolve, and it is a better design than the
 one originally planned. Only running the verification revealed it, which is why nothing was
 deleted first.
+
+### 2026-08-30 - History rewritten before publication, deliberately
+The git pack went from 1.02 GiB to 79 MiB locally and a fresh clone from GitHub is 97 MB.
+This had to happen before the repository was made public: rewriting history afterwards breaks
+every clone and fork that exists, whereas doing it while the repository is private costs
+nothing but a re-clone for the one person holding it. All 1,026 fetchable blobs were purged
+from every branch and verified absent; all 120 vendored derivatives remain in history, on
+disk, and checksum-valid. The commit that untracked the fetched images was pruned as empty,
+correctly, since after the rewrite those paths never existed. Pre-rewrite backups are at
+`/Users/calmdownoscar/Documents/Projects/_backups/opengrail-pre-rewrite-20260830-093834`.
