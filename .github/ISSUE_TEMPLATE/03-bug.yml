@@ -1,0 +1,34 @@
+name: Bug report
+description: Something in the atlas UI, build, or data pipeline is broken.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: Include the URL hash if relevant (e.g. `#tradition=stoicism&view=map`).
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Browser / OS / Node version
+  - type: checkboxes
+    id: local
+    attributes:
+      label: If this is a build failure
+      options:
+        - label: I ran `npm run verify` and pasted the failing output above.

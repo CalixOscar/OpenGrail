@@ -1,0 +1,24 @@
+name: Feature or visualization idea
+description: Propose a change to how the atlas looks, filters, or navigates.
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is hard or unclear today
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What you would like instead
+    validations:
+      required: true
+  - type: checkboxes
+    id: constraints
+    attributes:
+      label: Project constraints
+      options:
+        - label: My proposal keeps the atlas static, tracker-free, and free of remote dependencies.
+          required: true

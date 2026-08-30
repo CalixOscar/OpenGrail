@@ -1,0 +1,68 @@
+name: Propose a tradition
+description: Suggest a religion, lineage, or philosophical school that is missing from the atlas.
+title: "[Tradition] "
+labels: ["data", "new-tradition"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tradition name
+      placeholder: e.g. Yazidism, Mazdakism, Cārvāka
+    validations:
+      required: true
+  - type: dropdown
+    id: cluster
+    attributes:
+      label: Cluster it belongs to
+      options:
+        - Abrahamic
+        - Dharmic
+        - East Asian
+        - Indigenous & Diasporic
+        - Iranian
+        - Ancient Near East
+        - Ancient Mediterranean
+        - Ancient European
+        - Esoteric & Modern
+        - Philosophical & Ethical Systems
+        - Speculative
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: One or two neutral, scholarly sentences.
+    validations:
+      required: true
+  - type: input
+    id: origin
+    attributes:
+      label: Approximate origin (year and place)
+      placeholder: e.g. c. 6th century BCE, Magadha
+    validations:
+      required: true
+  - type: textarea
+    id: relations
+    attributes:
+      label: Lineage and relations
+      description: Which existing traditions does it branch from, diverge from, or influence?
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Scholarly references supporting the above. Required.
+    validations:
+      required: true
+  - type: dropdown
+    id: tier
+    attributes:
+      label: Epistemic tier
+      options:
+        - academic_consensus
+        - minority_scholarly
+        - theological_claim
+        - speculative_fringe
+    validations:
+      required: true
