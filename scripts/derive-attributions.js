@@ -6,7 +6,7 @@ import { fileURLToPath } from "node:url";
 
 const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url));
 const PROJECT_ROOT = path.resolve(SCRIPT_DIR, "..");
-const MANIFEST_FILE = path.join(PROJECT_ROOT, "data", "artifact-manifest.json");
+const GRAPH_FILE = path.join(PROJECT_ROOT, "public", "graph.json");
 const ATTRIBUTIONS_FILE = path.join(PROJECT_ROOT, "ATTRIBUTIONS.md");
 
 export function parseProvenance(prov = "") {
@@ -69,13 +69,33 @@ function extractFileTitle(sourceUrl) {
   );
 }
 
-export function generateAttributionsMarkdown(manifest) {
+export function getArtifactEntriesFromGraphData(graph) {
+  const entries = [];
+  for (const node of graph.nodes || []) {
+    if (!Array.isArray(node.artifacts)) continue;
+    for (const artifact of node.artifacts) {
+      const filename = path.basename(artifact.imageUrl || artifact.url || "");
+      entries.push({
+        traditionId: node.id,
+        filename,
+        title: artifact.title || "",
+        provenance: artifact.provenance || "",
+        sourceUrl: artifact.sourceUrl || "",
+        detail: artifact.detail,
+      });
+    }
+  }
+  entries.sort((a, b) => a.filename.localeCompare(b.filename));
+  return entries;
+}
+
+export function generateAttributionsMarkdown(entries) {
   const groups = {};
   for (const groupName of ORDERED_GROUPS) {
     groups[groupName] = [];
   }
 
-  for (const entry of manifest) {
+  for (const entry of entries) {
     const { author, license } = parseProvenance(entry.provenance || "");
     const groupName = getLicenseGroup(license);
     groups[groupName] = groups[groupName] || [];
@@ -89,9 +109,9 @@ export function generateAttributionsMarkdown(manifest) {
   const lines = [
     "# OpenGrail Visual Artifact Attributions",
     "",
-    "This document lists individual authorship, license terms, source URLs, and local filenames for all visual artifact photographic reproductions referenced in OpenGrail. It is generated deterministically from `data/artifact-manifest.json`.",
+    "This document lists individual authorship, license terms, source URLs, and local filenames for all visual artifact photographic reproductions referenced in OpenGrail. It is generated deterministically from `public/graph.json`.",
     "",
-    `**Total Artifacts:** ${manifest.length}`,
+    `**Total Artifacts:** ${entries.length}`,
     "",
     "---",
     "",
@@ -126,12 +146,13 @@ export function generateAttributionsMarkdown(manifest) {
   return lines.join("\n");
 }
 
-export async function writeAttributionsMarkdown() {
-  const manifestRaw = await readFile(MANIFEST_FILE, "utf8");
-  const manifest = JSON.parse(manifestRaw);
-  const markdown = generateAttributionsMarkdown(manifest);
+export async function writeAttributionsMarkdown(graphPath = GRAPH_FILE) {
+  const graphRaw = await readFile(graphPath, "utf8");
+  const graph = JSON.parse(graphRaw);
+  const entries = getArtifactEntriesFromGraphData(graph);
+  const markdown = generateAttributionsMarkdown(entries);
   await writeFile(ATTRIBUTIONS_FILE, markdown, "utf8");
-  console.log(`Generated ${path.relative(PROJECT_ROOT, ATTRIBUTIONS_FILE)} with ${manifest.length} artifact records.`);
+  console.log(`Generated ${path.relative(PROJECT_ROOT, ATTRIBUTIONS_FILE)} with ${entries.length} artifact records.`);
   return markdown;
 }
 
