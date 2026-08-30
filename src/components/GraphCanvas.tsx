@@ -107,6 +107,25 @@ function clamp(value: number, minimum: number, maximum: number): number {
   return Math.min(maximum, Math.max(minimum, value));
 }
 
+function usePrefersReducedMotion(): boolean {
+  const [prefersReducedMotion, setPrefersReducedMotion] = useState(() => {
+    if (typeof window === 'undefined' || !window.matchMedia) return false;
+    return window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  });
+
+  useEffect(() => {
+    if (typeof window === 'undefined' || !window.matchMedia) return;
+    const mediaQuery = window.matchMedia('(prefers-reduced-motion: reduce)');
+    const onChange = (event: MediaQueryListEvent) => {
+      setPrefersReducedMotion(event.matches);
+    };
+    mediaQuery.addEventListener('change', onChange);
+    return () => mediaQuery.removeEventListener('change', onChange);
+  }, []);
+
+  return prefersReducedMotion;
+}
+
 function stableHash(value: string): number {
   let hash = 2166136261;
   for (let index = 0; index < value.length; index += 1) {
@@ -265,11 +284,13 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
     forwardedRef,
   ) {
     const { searchLabelsVisible, temporalMode, setViewMode } = useAtlasState();
+    const prefersReducedMotion = usePrefersReducedMotion();
     const containerRef = useRef<HTMLDivElement>(null);
     const graphRef = useRef<ForceGraphMethods<GraphNode, GraphLink>>();
     const zoomLevelRef = useRef(1);
     const initialFitCompleteRef = useRef(false);
     const [hoveredNodeId, setHoveredNodeId] = useState<string | null>(null);
+    const [hoveredLinkId, setHoveredLinkId] = useState<string | null>(null);
     const [canvasSize, setCanvasSize] = useState({ width: 1, height: 1 });
 
     useLayoutEffect(() => {
@@ -455,41 +476,46 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
       [searchResults],
     );
 
+    const animDuration = useCallback(
+      (duration: number) => (prefersReducedMotion ? 0 : duration),
+      [prefersReducedMotion],
+    );
+
     const focusNode = useCallback(
       (nodeId: string, zoom = FOCUS_ZOOM) => {
         const node = nodesById.get(nodeId);
         if (!node) return;
         const x = typeof node.x === 'number' ? node.x : 0;
         const y = typeof node.y === 'number' ? node.y : 0;
-        graphRef.current?.centerAt(x, y, 650);
-        graphRef.current?.zoom(zoom, 650);
+        graphRef.current?.centerAt(x, y, animDuration(650));
+        graphRef.current?.zoom(zoom, animDuration(650));
         zoomLevelRef.current = zoom;
       },
-      [nodesById],
+      [animDuration, nodesById],
     );
 
     const zoomIn = useCallback(() => {
       const nextZoom = clamp(zoomLevelRef.current * 1.32, MIN_ZOOM, MAX_ZOOM);
-      graphRef.current?.zoom(nextZoom, 280);
+      graphRef.current?.zoom(nextZoom, animDuration(280));
       zoomLevelRef.current = nextZoom;
-    }, []);
+    }, [animDuration]);
 
     const zoomOut = useCallback(() => {
       const nextZoom = clamp(zoomLevelRef.current / 1.32, MIN_ZOOM, MAX_ZOOM);
-      graphRef.current?.zoom(nextZoom, 280);
+      graphRef.current?.zoom(nextZoom, animDuration(280));
       zoomLevelRef.current = nextZoom;
-    }, []);
+    }, [animDuration]);
 
     const fit = useCallback(() => {
       if (canvasGraph.nodes.length === 0) return;
-      graphRef.current?.zoomToFit(650, 112);
-    }, [canvasGraph.nodes.length]);
+      graphRef.current?.zoomToFit(animDuration(650), 112);
+    }, [animDuration, canvasGraph.nodes.length]);
 
     const resetView = useCallback(() => {
-      graphRef.current?.centerAt(0, 0, 650);
-      graphRef.current?.zoom(1, 650);
+      graphRef.current?.centerAt(0, 0, animDuration(650));
+      graphRef.current?.zoom(1, animDuration(650));
       zoomLevelRef.current = 1;
-    }, []);
+    }, [animDuration]);
 
     useImperativeHandle(
       forwardedRef,
@@ -522,10 +548,11 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
           focusNode(selectedNodeId);
           return;
         }
-        if (!normalizedQuery) graphRef.current?.zoomToFit(520, 112);
+        if (!normalizedQuery) graphRef.current?.zoomToFit(animDuration(520), 112);
       }, 220);
       return () => window.clearTimeout(timeout);
     }, [
+      animDuration,
       canvasGraph.nodes.length,
       canvasSize.height,
       canvasSize.width,
@@ -891,14 +918,20 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
     const isEmphasizedLink = useCallback(
       (link: CanvasLink) => {
         if (selectedLinkId && link.id === selectedLinkId) return true;
+        if (hoveredLinkId && link.id === hoveredLinkId) return true;
         const source = endpointId(link.source);
         const target = endpointId(link.target);
-        return Boolean(
+        const isSelected = Boolean(
           selectedNodeId &&
             (source === selectedNodeId || target === selectedNodeId),
         );
+        const isHovered = Boolean(
+          hoveredNodeId &&
+            (source === hoveredNodeId || target === hoveredNodeId),
+        );
+        return isSelected || isHovered;
       },
-      [selectedLinkId, selectedNodeId],
+      [hoveredLinkId, hoveredNodeId, selectedLinkId, selectedNodeId],
     );
 
     const linkColor = useCallback(
@@ -1056,11 +1089,12 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
             linkWidth={linkWidth}
             linkCurvature={linkCurvature}
             linkLineDash={linkLineDash}
-            linkDirectionalParticles={(link) =>
-              isEmphasizedLink(link) ? 3 : 1
-            }
+            linkDirectionalParticles={(link) => {
+              if (prefersReducedMotion) return 0;
+              return isEmphasizedLink(link) ? 3 : 0;
+            }}
             linkDirectionalParticleWidth={(link) =>
-              isEmphasizedLink(link) ? 2.15 : 1.15
+              isEmphasizedLink(link) ? 2.15 : 0
             }
             linkDirectionalParticleSpeed={(link) =>
               0.0035 + (stableHash(link.id) % 5) * 0.00045
@@ -1083,6 +1117,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
             onNodeClick={handleNodeClick}
             onLinkClick={handleLinkClick}
             onNodeHover={(node) => setHoveredNodeId(node?.id ?? null)}
+            onLinkHover={(link) => setHoveredLinkId(link?.id ?? null)}
             onBackgroundClick={() => {
               onSelectNode(null);
               onSelectLink?.(null);

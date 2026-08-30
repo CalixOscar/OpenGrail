@@ -54,6 +54,25 @@ export const DEEP_PRESETS: TimelinePreset[] = [
 
 export const TIMELINE_PRESETS = HISTORIC_PRESETS;
 
+function usePrefersReducedMotion(): boolean {
+  const [prefersReducedMotion, setPrefersReducedMotion] = useState(() => {
+    if (typeof window === 'undefined' || !window.matchMedia) return false;
+    return window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  });
+
+  useEffect(() => {
+    if (typeof window === 'undefined' || !window.matchMedia) return;
+    const mediaQuery = window.matchMedia('(prefers-reduced-motion: reduce)');
+    const onChange = (event: MediaQueryListEvent) => {
+      setPrefersReducedMotion(event.matches);
+    };
+    mediaQuery.addEventListener('change', onChange);
+    return () => mediaQuery.removeEventListener('change', onChange);
+  }, []);
+
+  return prefersReducedMotion;
+}
+
 export function formatYearLabel(year: number): string {
   if (year < 0) {
     const abs = Math.abs(year);
@@ -151,11 +170,29 @@ export function TimelineScrubber({
     [minYear, onYearChange, setCurrentYear],
   );
 
+  const prefersReducedMotion = usePrefersReducedMotion();
+
   // Playback animation loop
   useEffect(() => {
     if (!isPlaying) {
       lastTimeRef.current = null;
       return undefined;
+    }
+
+    if (prefersReducedMotion) {
+      // Discrete 1-second step interval when reduced motion is preferred
+      const intervalId = window.setInterval(() => {
+        setCurrentYear((prev) => {
+          const next = prev + baseRate * speedMultiplier;
+          if (next >= MAX_YEAR) {
+            setIsPlaying(false);
+            return MAX_YEAR;
+          }
+          return Math.round(next);
+        });
+      }, 1000);
+
+      return () => window.clearInterval(intervalId);
     }
 
     let animationFrameId: number;
@@ -182,7 +219,7 @@ export function TimelineScrubber({
       cancelAnimationFrame(animationFrameId);
       lastTimeRef.current = null;
     };
-  }, [baseRate, isPlaying, setCurrentYear, speedMultiplier]);
+  }, [baseRate, isPlaying, prefersReducedMotion, setCurrentYear, speedMultiplier]);
 
   // Pointer drag on track
   const handlePointerDown = useCallback(
