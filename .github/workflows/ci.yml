@@ -52,28 +52,26 @@ jobs:
 
       - name: TEMP browser diagnostic
         run: |
-          ls -l /usr/bin/google-chrome* /usr/bin/chromium* 2>&1 || true
           node --input-type=module -e "
           import { startStaticAppServer, findChromeExecutable, launchBrowser } from './tests/browser-helper.js';
-          const exe = findChromeExecutable();
-          console.log('chrome path:', exe);
           const s = await startStaticAppServer();
-          console.log('serving', s.baseUrl);
-          const b = await launchBrowser(exe);
-          console.log('version:', await b.version());
+          const b = await launchBrowser(findChromeExecutable());
           const p = await b.newPage();
-          p.on('console', m => console.log('[console]', m.type(), m.text()));
-          p.on('pageerror', e => console.log('[pageerror]', e.message));
-          p.on('requestfailed', r => console.log('[reqfail]', r.url(), r.failure() && r.failure().errorText));
+          const pending = new Map();
+          p.on('request', r => pending.set(r, r.url()));
+          p.on('requestfinished', r => pending.delete(r));
+          p.on('requestfailed', r => { console.log('[reqfail]', r.url(), r.failure()?.errorText); pending.delete(r); });
+          p.on('response', r => console.log('[resp]', r.status(), r.url().slice(-70)));
           try {
-            await p.goto(s.baseUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
-            console.log('domcontentloaded OK');
-            await p.goto(s.baseUrl, { waitUntil: 'networkidle2', timeout: 30000 });
-            console.log('networkidle2 OK');
+            await p.goto(s.baseUrl, { waitUntil: 'load', timeout: 30000 });
+            console.log('load OK');
+            await new Promise(r => setTimeout(r, 8000));
+            console.log('PENDING after 8s:', JSON.stringify([...pending.values()]));
+            await p.waitForNetworkIdle({ idleTime: 500, concurrency: 2, timeout: 15000 });
+            console.log('networkidle OK');
           } catch (e) {
-            console.log('NAV ERROR:', e.message);
-            console.log('url now:', p.url());
-            console.log('html head:', (await p.content()).slice(0, 500));
+            console.log('ERROR:', e.message);
+            console.log('PENDING:', JSON.stringify([...pending.values()]));
           }
           await b.close(); await s.close();
           "
