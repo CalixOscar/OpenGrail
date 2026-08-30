@@ -23,7 +23,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        node: ['22.x']
+        node: ['22.x', '24.x']
     steps:
       - name: Check out the pull request head
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.0.0
@@ -50,35 +50,15 @@ jobs:
       - name: Build graph data, typecheck and bundle
         run: npm run build
 
-      - name: TEMP browser diagnostic
-        run: |
-          node --input-type=module -e "
-          import { startStaticAppServer, findChromeExecutable, launchBrowser } from './tests/browser-helper.js';
-          const s = await startStaticAppServer();
-          const b = await launchBrowser(findChromeExecutable());
-          const p = await b.newPage();
-          const pending = new Map();
-          p.on('request', r => pending.set(r, r.url()));
-          p.on('requestfinished', r => pending.delete(r));
-          p.on('requestfailed', r => { console.log('[reqfail]', r.url(), r.failure()?.errorText); pending.delete(r); });
-          p.on('response', r => console.log('[resp]', r.status(), r.url().slice(-70)));
-          try {
-            const t0 = Date.now();
-            await p.goto(s.baseUrl, { waitUntil: 'networkidle2', timeout: 45000 });
-            console.log('goto networkidle2 OK after ms:', Date.now() - t0);
-          } catch (e) {
-            console.log('ERROR:', e.message);
-            console.log('PENDING:', JSON.stringify([...pending.values()]));
-          }
-          await b.close(); await s.close();
-          "
-        env:
-          CHROME_PATH: /usr/bin/google-chrome
-
       - name: Run the test suite
         run: npm test
         env:
-          CHROME_PATH: /usr/bin/google-chrome
+          # The runner's Google Chrome tracks stable and runs ahead of what
+          # puppeteer-core supports: with Chrome 151, `waitUntil: 'networkidle2'`
+          # never resolves even though every request has finished. The image's
+          # bundled Chromium is the version Puppeteer is built against, so the
+          # browser suites use that.
+          CHROME_PATH: /usr/bin/chromium
 
       - name: Confirm the derived data files are committed and up to date
         run: |
