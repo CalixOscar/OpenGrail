@@ -154,6 +154,48 @@ new blobs to it, achieving nothing. The order is not negotiable:
 
 ---
 
+## Encoder proven, and one blocking defect it found
+
+Part A landed `scripts/build-thumbnails.js`. Run over the whole library into a scratch
+directory on 2026-08-30, it produced:
+
+| | files | size |
+| :--- | :--- | :--- |
+| standard tier (640px) | 1,043 | 48.7 MB |
+| high tier (1600px) | 102 | 20.1 MB |
+| **total** | **1,145** | **68.8 MB** |
+
+All output is valid WebP, zero files exceed their tier, nothing was upscaled. This matches
+the section 4 projection of ~71 MB.
+
+**1,145, not 1,146.** `public/artifacts/kongo-religion-2.jpg` fails to decode —
+`VipsJpeg: premature end of JPEG image`. It is exactly 262,144 bytes, a clean 256 KB, with
+no JPEG end-of-image marker: a download truncated at a buffer boundary. `sips` still reports
+1920x2595 because the header survived; the pixel data did not.
+
+Two things follow, and neither is the swarm's to decide.
+
+**It has been broken in git the whole time, and every test passed.** The file is one of the
+120 vendored artifacts, committed, and its manifest entry records the truncated size and
+hash exactly. The manifest asserts that bytes match a recorded hash — never that the bytes
+decode as an image — so a corrupt file is indistinguishable from a correct one. This is a
+second, independent argument for the section 3f test design: asserting decoded dimensions
+requires actually decoding the file, which would have caught this on day one.
+
+**Its source URL points at the wrong object.** The artifact is titled "Ruins of the royal
+cathedral sanctuary at Mbanza Kongo" — Angola — but its `sourceUrl` is
+`File:Catedral_da_Sé_em_São_Paulo.jpg`, a modern cathedral in Brazil. Re-fetching from that
+URL would replace a corrupt image with a wrong one. This needs a curator to pick a correct
+Commons file for Mbanza Kongo; it is not a mechanical fix, and the project's standing rule
+is that curation is deliberate.
+
+**Until it is re-curated**, the migration proceeds on the other 1,145 and this artifact is
+left as the single remaining non-WebP entry, with the encoder failing loudly on it rather
+than skipping it silently. Do not delete the artifact, do not substitute a placeholder, and
+do not re-fetch from the existing `sourceUrl`.
+
+---
+
 ## Track 1 — Unblock the fresh clone (do first, ship separately)
 
 The migration is several sessions of work. The public repository is broken now. Land the
