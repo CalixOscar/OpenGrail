@@ -9,6 +9,7 @@ import {
   launchBrowser,
   runAxe,
   formatAxeViolations,
+  gotoAppPage,
 } from './browser-helper.js';
 
 const chromePath = findChromeExecutable();
@@ -42,7 +43,7 @@ test(
     });
 
     await t.test('Main view accessibility (serious/critical violations only)', async () => {
-      await page.goto(serverInfo.baseUrl, { waitUntil: 'networkidle2' });
+      await gotoAppPage(page, serverInfo.baseUrl);
       await page.waitForSelector('.topbar', { timeout: 5000 });
       await page.waitForSelector('canvas', { timeout: 5000 });
 
@@ -58,9 +59,7 @@ test(
     await t.test(
       'Comparison modal accessibility (#compare=christianity+islam)',
       async () => {
-        await page.goto(`${serverInfo.baseUrl}#compare=christianity+islam`, {
-          waitUntil: 'networkidle2',
-        });
+        await gotoAppPage(page, `${serverInfo.baseUrl}#compare=christianity+islam`);
         await page.waitForSelector('.comparison-overlay', { timeout: 5000 });
 
         await settlePage(page);
@@ -79,9 +78,7 @@ test(
         // Ensure comparison modal is active
         const overlay = await page.$('.comparison-overlay');
         if (!overlay) {
-          await page.goto(`${serverInfo.baseUrl}#compare=christianity+islam`, {
-            waitUntil: 'networkidle2',
-          });
+          await gotoAppPage(page, `${serverInfo.baseUrl}#compare=christianity+islam`);
           await page.waitForSelector('.comparison-overlay', { timeout: 5000 });
         }
 

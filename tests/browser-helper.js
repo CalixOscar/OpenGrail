@@ -226,3 +226,17 @@ export async function settlePage(page) {
     }
   });
 }
+
+/**
+ * Navigates to an app URL and waits for the atlas to settle.
+ *
+ * `page.goto(..., { waitUntil: 'networkidle2' })` is unreliable under headless
+ * Chrome on Linux CI runners: every request finishes, nothing stays in flight,
+ * and the navigation still times out because the networkidle lifecycle event is
+ * never delivered. Waiting for `load` and then polling for an idle network with
+ * `waitForNetworkIdle` observes the same condition and does resolve.
+ */
+export async function gotoAppPage(page, url) {
+  await page.goto(url, { waitUntil: 'load', timeout: 30000 });
+  await page.waitForNetworkIdle({ idleTime: 500, concurrency: 2, timeout: 20000 });
+}
