@@ -53,11 +53,21 @@ cd OpenGrail
 # Install dependencies
 npm install
 
+# Download the visual artifacts (about 795 MB, one time)
+npm run fetch:artifacts
+
 # Build graph data and launch local development server
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open [http://localhost:5173/opengrail/](http://localhost:5173/opengrail/) in your browser.
+
+> **The artifact fetch is required.** Only 120 of the 1,146 images are stored in this
+> repository; the other 1,026 are downloaded from Wikimedia Commons on demand, verified
+> against the SHA-256 checksums in `data/artifact-manifest.json`. This keeps a clone under
+> 100 MB instead of over a gigabyte. Without this step the atlas runs, but tradition
+> imagery will be missing. The download is skipped for files already present, so it is safe
+> to re-run.
 
 ### Production Build
 
@@ -114,4 +124,7 @@ We welcome community contributions! Whether you want to add an obscure regional 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) — free and open for educational, academic, and personal use.
+The OpenGrail application codebase, authored data records under `data/`, and documentation are licensed under the [MIT License](LICENSE).
+
+Third-party visual artifacts under `public/artifacts/` are individually licensed by their respective creators under open and public domain terms (Public Domain, CC0, CC-BY, CC-BY-SA). See [NOTICE.md](NOTICE.md) and [ATTRIBUTIONS.md](ATTRIBUTIONS.md) for complete licensing terms and per-file attributions.
+

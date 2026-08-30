@@ -1,3 +1,11 @@
+# OpenGrail License
+
+The OpenGrail application codebase, the authored Markdown records under `data/`, and the project documentation are licensed under the MIT License below.
+
+This license does not cover third-party photographic and manuscript reproductions under `public/artifacts/`, which are published under their respective open and public domain licenses (including Public Domain, CC0, CC-BY, and CC-BY-SA). See `NOTICE.md` and `ATTRIBUTIONS.md` for terms and individual attributions.
+
+---
+
 MIT License
 
 Copyright (c) 2026 CalmDownOscar
