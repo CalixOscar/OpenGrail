@@ -118,21 +118,21 @@ test("Artifact Manifest & Licensing Invariants Suite", async (t) => {
     }
   });
 
-  await t.test("Manifest source classification has exactly 120 vendored and 1,026 fetched entries matching unreproducible list", async () => {
+  await t.test("Manifest source classification has exactly 121 vendored and 1,025 fetched entries matching unreproducible list", async () => {
     const unreproducibleRaw = await readFile(UNREPRODUCIBLE_FILE, "utf8");
     const unreproducibleList = unreproducibleRaw
       .split("\n")
       .map((l) => l.trim())
       .filter((l) => l.length > 0 && !l.startsWith("#"));
 
-    assert.equal(unreproducibleList.length, 120, "docs/unreproducible-artifacts.txt must contain exactly 120 filenames");
+    assert.equal(unreproducibleList.length, 121, "docs/unreproducible-artifacts.txt must contain exactly 121 filenames");
 
     const manifestMap = new Map(manifest.map((e) => [e.filename, e]));
     const vendoredEntries = manifest.filter((e) => e.source === "vendored");
     const fetchedEntries = manifest.filter((e) => e.source === "fetched");
 
-    assert.equal(vendoredEntries.length, 120, "Manifest must contain exactly 120 vendored entries");
-    assert.equal(fetchedEntries.length, 1026, "Manifest must contain exactly 1026 fetched entries");
+    assert.equal(vendoredEntries.length, 121, "Manifest must contain exactly 121 vendored entries");
+    assert.equal(fetchedEntries.length, 1025, "Manifest must contain exactly 1025 fetched entries");
     assert.equal(manifest.length, 1146, "Manifest total must be exactly 1146 entries");
 
     for (const filename of unreproducibleList) {
@@ -160,7 +160,7 @@ test("Artifact Manifest & Licensing Invariants Suite", async (t) => {
 
   await t.test("Every vendored file exists on disk and matches its recorded sha256 and size", async () => {
     const vendoredEntries = manifest.filter((e) => e.source === "vendored");
-    assert.equal(vendoredEntries.length, 120, "Must verify exactly 120 vendored files");
+    assert.equal(vendoredEntries.length, 121, "Must verify exactly 121 vendored files");
 
     for (const entry of vendoredEntries) {
       const filePath = path.join(ARTIFACTS_DIR, entry.filename);

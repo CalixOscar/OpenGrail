@@ -3021,7 +3021,7 @@
   },
   {
     "filename": "drikung-kagyu-1.jpg",
-    "source": "fetched",
+    "source": "vendored",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jigten_Sumg%C3%B6n.JPG",
     "sha256": "3f3b1969088ad78b02d074d31983845bc15279ae58a5bd2a1dd80831dbb02cfb",
     "size": 977888,
