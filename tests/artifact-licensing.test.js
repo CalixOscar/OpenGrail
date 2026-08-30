@@ -17,8 +17,6 @@ const GRAPH_FILE = path.join(PROJECT_ROOT, "public", "graph.json");
 const ARTIFACTS_DIR = path.join(PROJECT_ROOT, "public", "artifacts");
 const ATTRIBUTIONS_FILE = path.join(PROJECT_ROOT, "ATTRIBUTIONS.md");
 
-const KNOWN_CORRUPT_NON_WEBP_EXCEPTION = "kongo-religion-2.jpg";
-
 test("Artifact Licensing & Dimension Invariants Suite", async (t) => {
   const graphRaw = await readFile(GRAPH_FILE, "utf8");
   const graph = JSON.parse(graphRaw);
@@ -86,23 +84,18 @@ test("Artifact Licensing & Dimension Invariants Suite", async (t) => {
     assert.deepEqual(orphansOnDisk, [], "No orphan files should exist in public/artifacts/");
   });
 
-  await t.test("Every artifact file is .webp, with exactly one named exception: kongo-religion-2.jpg", async () => {
+  await t.test("Every artifact file is .webp", async () => {
     const diskFiles = await readdir(ARTIFACTS_DIR);
     const nonWebpFiles = diskFiles.filter((f) => !f.endsWith(".webp"));
 
-    assert.equal(
-      nonWebpFiles.length,
-      1,
-      `Expected exactly 1 non-WebP exception, found ${nonWebpFiles.length}: ${JSON.stringify(nonWebpFiles)}`
-    );
-    assert.equal(
-      nonWebpFiles[0],
-      KNOWN_CORRUPT_NON_WEBP_EXCEPTION,
-      `The only non-WebP exception must be "${KNOWN_CORRUPT_NON_WEBP_EXCEPTION}"`
+    assert.deepEqual(
+      nonWebpFiles,
+      [],
+      `All files in public/artifacts/ must be .webp, found non-WebP files: ${JSON.stringify(nonWebpFiles)}`
     );
 
     const webpFiles = diskFiles.filter((f) => f.endsWith(".webp"));
-    assert.equal(webpFiles.length, 1145, "Expected exactly 1145 .webp files on disk");
+    assert.equal(webpFiles.length, 1146, "Expected exactly 1146 .webp files on disk");
   });
 
   await t.test("Decoded dimensions are within tier (max 1600 for detail: high, max 640 for standard)", async () => {
@@ -117,11 +110,6 @@ test("Artifact Licensing & Dimension Invariants Suite", async (t) => {
         highDetailCount++;
       } else {
         standardDetailCount++;
-      }
-
-      if (art.filename === KNOWN_CORRUPT_NON_WEBP_EXCEPTION) {
-        // Documented known undecodable exception
-        continue;
       }
 
       const filePath = path.join(ARTIFACTS_DIR, art.filename);
@@ -152,7 +140,7 @@ test("Artifact Licensing & Dimension Invariants Suite", async (t) => {
 
     assert.equal(highDetailCount, 102, "Expected exactly 102 high-detail artifacts");
     assert.equal(standardDetailCount, 1044, "Expected exactly 1044 standard-detail artifacts");
-    assert.deepEqual(decodeErrors, [], "All 1,145 WebP artifacts must decode without error");
+    assert.deepEqual(decodeErrors, [], "All 1,146 WebP artifacts must decode without error");
     assert.deepEqual(
       dimensionViolations,
       [],
