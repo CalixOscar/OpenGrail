@@ -47,13 +47,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Sautr%C4%81ntika'
 artifacts:
   - title: "Statue of Vasubandhu at Kofuku-ji in Nara"
-    imageUrl: "/artifacts/sautrantika-1.jpg"
+    imageUrl: "/artifacts/sautrantika-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Seshin_Vasubandhu_Kofukuji.jpg"
     provenance: "sculptor: UNKEI, 13th century, photo: Shihachi Fujimoto(family name)), (1911, IIDA,NAGANO, Japan - 2006,Otaru, Hokkaido, Japan ) a renowned ; Public domain"
     period: "5th century"
     description: "This image shows Statue of Vasubandhu at Kofuku-ji in Nara, selected as a defining visual reference for Sautrāntika."
   - title: "Abhidharmakosa Sanskrit manuscript"
-    imageUrl: "/artifacts/sautrantika-2.jpg"
+    imageUrl: "/artifacts/sautrantika-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Abhidharmako%C5%9Ba-vy%C4%81khy%C4%81._Abhidharmako%C5%9Ba-vy%C4%81khy%C4%81._-_btv1b100829293_(015_of_170).jpg"
     provenance: "Yasomitra. Auteur du commentaire Vasubandhu. Auteur du texte; Public domain"
     period: "Image dated 1801"

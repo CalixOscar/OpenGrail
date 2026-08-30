@@ -48,13 +48,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Haitian%20Vodou'
 artifacts:
   - title: "Veve ritual drawing for Papa Legba"
-    imageUrl: "/artifacts/haitian-vodou-1.png"
+    imageUrl: "/artifacts/haitian-vodou-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:VeveLegba.png"
     provenance: "Wikimedia Commons; Public domain"
     period: "Digital file published 2005"
     description: "This image shows Veve ritual drawing for Papa Legba, selected as a defining visual reference for Haitian Vodou."
   - title: "Sacred pilgrimage at Saut-d'Eau waterfall"
-    imageUrl: "/artifacts/haitian-vodou-2.jpg"
+    imageUrl: "/artifacts/haitian-vodou-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Haiti_Saut-d%27Eau.JPG"
     provenance: "Jstplace; Public domain"
     period: "Image dated 2010"

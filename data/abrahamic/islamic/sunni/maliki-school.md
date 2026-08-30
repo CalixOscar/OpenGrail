@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Maliki%20School'
 artifacts:
   - title: "Great Mosque of Kairouan, historic center of Maliki learning"
-    imageUrl: "/artifacts/maliki-school-1.jpg"
+    imageUrl: "/artifacts/maliki-school-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Kairouan_courtyard.jpg"
     provenance: "ovancantfort; CC BY-SA 2.0"
     period: "Image dated 2009"
     description: "This image shows Great Mosque of Kairouan, historic center of Maliki learning, selected as a defining visual reference for Maliki School."
   - title: "Historical manuscript of Malik's Muwatta"
-    imageUrl: "/artifacts/maliki-school-2.jpg"
+    imageUrl: "/artifacts/maliki-school-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Muw.Ibn_Tashfin.JPG"
     provenance: "de:Benutzer:Orientalist . Photograph taken at the Fes library; Public domain"
     period: "Image dated 2003"

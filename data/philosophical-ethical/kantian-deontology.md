@@ -44,13 +44,13 @@ sources:
     url: 'https://www.cambridge.org/'
 artifacts:
   - title: "Portrait painting of Immanuel Kant"
-    imageUrl: "/artifacts/kantian-deontology-1.jpg"
+    imageUrl: "/artifacts/kantian-deontology-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg"
     provenance: "Johann Gottlieb Becker (1720-1782); Public domain"
     period: "Image dated 1768"
     description: "This image shows Portrait painting of Immanuel Kant, selected as a defining visual reference for Kantian Deontology & The Categorical Imperative."
   - title: "Title page of the first edition of the Critique of Practical Reason"
-    imageUrl: "/artifacts/kantian-deontology-2.jpg"
+    imageUrl: "/artifacts/kantian-deontology-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kritik_der_praktischen_Vernunft.jpg"
     provenance: "Deniev Dagun; CC BY 4.0"
     period: "Image dated 2019"

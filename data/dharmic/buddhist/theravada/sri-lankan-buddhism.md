@@ -47,13 +47,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Sri%20Lankan%20Buddhism'
 artifacts:
   - title: "Avukana standing Buddha, iconic Sinhalese Buddhist sculpture"
-    imageUrl: "/artifacts/sri-lankan-buddhism-1.jpg"
+    imageUrl: "/artifacts/sri-lankan-buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Modern_Buddha_Statue,_Dondra_0673.jpg"
     provenance: "Michael Gunther; CC BY-SA 4.0"
     period: "20th century"
     description: "This image shows Avukana standing Buddha, iconic Sinhalese Buddhist sculpture, selected as a defining visual reference for Sri Lankan Buddhism."
   - title: "Temple of the Sacred Tooth Relic in Kandy"
-    imageUrl: "/artifacts/sri-lankan-buddhism-2.jpg"
+    imageUrl: "/artifacts/sri-lankan-buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Murals_-_The_Temple_of_the_Sacred_Tooth_Relic_(Kandy)_(5479267028).jpg"
     provenance: "Jorge Lascar from Australia; CC BY 2.0"
     period: "Image dated 2011"

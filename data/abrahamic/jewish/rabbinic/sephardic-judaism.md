@@ -45,13 +45,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Sephardic%20Judaism'
 artifacts:
   - title: "Traditional portrait of Maimonides, preeminent Sephardic authority"
-    imageUrl: "/artifacts/sephardic-judaism-1.jpg"
+    imageUrl: "/artifacts/sephardic-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Inscription_in_the_Maimonides_Memorial.JPG"
     provenance: "Americo Toledano; CC BY-SA 3.0"
     period: "Image dated 2008"
     description: "This image shows Traditional portrait of Maimonides, preeminent Sephardic authority, selected as a defining visual reference for Sephardic Judaism."
   - title: "Illuminated Sarajevo Haggadah, masterpiece of Sephardic art"
-    imageUrl: "/artifacts/sephardic-judaism-2.jpg"
+    imageUrl: "/artifacts/sephardic-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sarajevo_Haggadah_Ma_Nishtana.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "1350 ce"

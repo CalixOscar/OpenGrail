@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Essenes'
 artifacts:
   - title: "Cave 4 at Qumran, often associated with the Essene community"
-    imageUrl: "/artifacts/essenes-1.jpg"
+    imageUrl: "/artifacts/essenes-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Part_of_Dead_Sea_Scroll_28a_from_Qumran_Cave_1._The_Jordan_Museum,_Amman.jpg"
     provenance: "Osama Shukir Muhammed Amin FRCP(Glasg); CC BY-SA 4.0"
     period: "Image dated 2018"
     description: "This image shows Cave 4 at Qumran, often associated with the Essene community, selected as a defining visual reference for Essenes."
   - title: "Great Isaiah Scroll from the Qumran manuscript collection"
-    imageUrl: "/artifacts/essenes-2.jpg"
+    imageUrl: "/artifacts/essenes-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Great_Isaiah_Scroll.jpg"
     provenance: "Photographs by Ardon Bar Hama, author of original document is unknown.; Public domain"
     period: "+/- second century BC"

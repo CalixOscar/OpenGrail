@@ -43,13 +43,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Early%20Buddhist%20Schools'
 artifacts:
   - title: "Early Buddhist narrative relief from the Bharhut Stupa"
-    imageUrl: "/artifacts/early-buddhist-schools-1.jpg"
+    imageUrl: "/artifacts/early-buddhist-schools-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:A_Royal_Couple_Visits_the_Buddha,_from_railing_of_the_Bharhut_Stupa,_Shunga_dynasty,_early_2nd_century_BC,_Bharhut,_Madhya_Pradesh,_India,_sandstone_-_Freer_Gallery_of_Art_-_DSC05134.JPG"
     provenance: "Daderot; CC0"
     period: "2nd century BC"
     description: "This image shows Early Buddhist narrative relief from the Bharhut Stupa, selected as a defining visual reference for Early Buddhist Schools."
   - title: "Ancient Gandhari manuscript preserving early Buddhist school literature"
-    imageUrl: "/artifacts/early-buddhist-schools-2.jpg"
+    imageUrl: "/artifacts/early-buddhist-schools-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Manuscrit_BnF_pali_715-A.jpg"
     provenance: "https://classes.bnf.fr/ecritures/grand/n085.htm; Public domain"
     period: "1st century CE"

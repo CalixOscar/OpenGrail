@@ -49,13 +49,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Marcionite%20Christianity'
 artifacts:
   - title: "Historical portrait engraving of Marcion of Sinope"
-    imageUrl: "/artifacts/marcionite-christianity-1.jpg"
+    imageUrl: "/artifacts/marcionite-christianity-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Apostle_John_and_Marcion_of_Sinope,_from_JPM_LIbrary_MS_748,_11th_c.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "11th century"
     description: "This image shows Historical portrait engraving of Marcion of Sinope, selected as a defining visual reference for Marcionite Christianity."
   - title: "Manuscript of the principal ancient textual witness to Marcionite teaching"
-    imageUrl: "/artifacts/marcionite-christianity-2.jpg"
+    imageUrl: "/artifacts/marcionite-christianity-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tertullian.jpg"
     provenance: "Wikimedia Commons; Public domain"
     period: "Digital file published 2011"

@@ -48,13 +48,13 @@ sources:
     url: 'https://brill.com/search?q=Church%20of%20All%20Worlds'
 artifacts:
   - title: "Sacred Earth Mother Gaia iconography of the Church of All Worlds"
-    imageUrl: "/artifacts/church-of-all-worlds-1.jpg"
+    imageUrl: "/artifacts/church-of-all-worlds-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Venus_von_Willendorf_01.jpg"
     provenance: "User:MatthiasKabel; CC BY 2.5"
     period: "Image dated 2007"
     description: "This image shows Sacred Earth Mother Gaia iconography of the Church of All Worlds, selected as a defining visual reference for Church of All Worlds."
   - title: "Water-sharing ritual"
-    imageUrl: "/artifacts/church-of-all-worlds-2.jpg"
+    imageUrl: "/artifacts/church-of-all-worlds-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ritual_water_vessel_with_elephant._Gandhara.Met.jpg"
     provenance: "Ismoon ( talk ); CC BY-SA 4.0"
     period: "1st century"

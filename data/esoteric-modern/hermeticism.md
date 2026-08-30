@@ -47,13 +47,13 @@ sources:
     url: 'https://brill.com/search?q=Hermeticism'
 artifacts:
   - title: "Hermes Trismegistus mosaic"
-    imageUrl: "/artifacts/hermeticism-1.jpg"
+    imageUrl: "/artifacts/hermeticism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hermes_Trismegistus_Sienna_Cathedral_Mosaic.jpg"
     provenance: "Giovanni di Stefano; Public domain"
     period: "Digital file published 2025"
     description: "This image shows Hermes Trismegistus mosaic, selected as a defining visual reference for Hermeticism."
   - title: "Corpus Hermeticum manuscript"
-    imageUrl: "/artifacts/hermeticism-2.jpg"
+    imageUrl: "/artifacts/hermeticism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Asclepius_1469.jpg"
     provenance: "unknown medieval author; Public domain"
     period: "Image dated 1469"

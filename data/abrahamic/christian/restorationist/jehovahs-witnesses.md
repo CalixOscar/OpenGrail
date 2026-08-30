@@ -46,13 +46,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Jehovah''s%20Witnesses'
 artifacts:
   - title: "Portrait of Charles Taze Russell, founder of the Bible Student movement"
-    imageUrl: "/artifacts/jehovahs-witnesses-1.jpg"
+    imageUrl: "/artifacts/jehovahs-witnesses-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pastor_Charles_Taze,_half-length_portrait,_standing,_facing_slightly_right,_holding_hat_LCCN99472342.jpg"
     provenance: "Miscellaneous Items in High Demand, PPOC, Library of Congress; Public domain"
     period: "Image dated 1910"
     description: "This image shows Portrait of Charles Taze Russell, founder of the Bible Student movement, selected as a defining visual reference for Jehovah's Witnesses."
   - title: "First issue of Zion's Watch Tower, foundational Witness publication"
-    imageUrl: "/artifacts/jehovahs-witnesses-2.jpg"
+    imageUrl: "/artifacts/jehovahs-witnesses-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Watchtower_-_july_1879.jpg"
     provenance: "Charles Taze Russell; Public domain"
     period: "Image dated 1879"

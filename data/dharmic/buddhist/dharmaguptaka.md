@@ -46,14 +46,14 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Dharmaguptaka'
 artifacts:
   - title: "Gandhari birch-bark scrolls associated with the Dharmaguptaka textual tradition"
-    imageUrl: "/artifacts/dharmaguptaka-1.jpg"
+    imageUrl: "/artifacts/dharmaguptaka-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Fragmentary_Buddhist_text_-_Gandhara_birchbark_scrolls_(1st_C),_part_31_-_BL_Or._14915.jpg"
     provenance: "Wikimedia Commons; CC0"
     period: "first half of 1 st century"
     description: "This image shows Gandhari birch-bark scrolls associated with the Dharmaguptaka textual tradition, selected as a defining visual reference for Dharmaguptaka."
     detail: high
   - title: "Dharmaguptaka Vinaya preserved in the Chinese Buddhist canon"
-    imageUrl: "/artifacts/dharmaguptaka-2.jpg"
+    imageUrl: "/artifacts/dharmaguptaka-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%E9%87%8B%E6%85%A7%E8%B6%85%E3%80%8A%E5%9B%9B%E5%88%86%E5%BE%8B%E6%AF%94%E4%B8%98%E6%88%92%E7%9B%B8%E8%A1%A8%E8%A8%98%E9%9B%86%E6%B3%A8%E3%80%8B%EF%BC%88%E5%B0%81%E9%9D%A2%EF%BC%89%EF%BC%8C%E5%AE%97%E6%95%99%E6%96%87%E5%8C%96%E5%87%BA%E7%89%88%E7%A4%BE%EF%BC%8C2019%E5%B9%B4.jpg"
     provenance: "​釋慧超; Public domain"
     period: "Image dated 2019"

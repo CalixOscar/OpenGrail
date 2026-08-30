@@ -49,13 +49,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Southern%20Baptist%20Convention'
 artifacts:
   - title: "Congregational worship at a Southern Baptist Convention annual meeting"
-    imageUrl: "/artifacts/southern-baptist-convention-1.jpg"
+    imageUrl: "/artifacts/southern-baptist-convention-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:FEMA_-_39208_-_Southern_Baptist_Convention_volunteers_prepare_food_in_Texas.jpg"
     provenance: "Greg Henshall; Public domain"
     period: "Image dated 2008"
     description: "This image shows Congregational worship at a Southern Baptist Convention annual meeting, selected as a defining visual reference for Southern Baptist Convention."
   - title: "Norton Hall at Southern Baptist Theological Seminary"
-    imageUrl: "/artifacts/southern-baptist-convention-2.jpg"
+    imageUrl: "/artifacts/southern-baptist-convention-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Norton_Hall,_Southern_Baptist_Theological_Seminary,_Louisville,_Ky_(85750).jpg"
     provenance: "Tichnor Bros. Inc., Boston, Mass.; Public domain"
     period: "Image dated 1930"

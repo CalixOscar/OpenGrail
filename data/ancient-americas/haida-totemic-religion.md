@@ -38,13 +38,13 @@ sources:
     url: 'https://www.douglas-mcintyre.com/'
 artifacts:
   - title: "Haida totem poles at SGang Gwaay"
-    imageUrl: "/artifacts/haida-totemic-religion-1.jpg"
+    imageUrl: "/artifacts/haida-totemic-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:MOA_-_Haida_1_House_front_pole.jpg"
     provenance: "Wolfgang Sauber; CC BY-SA 3.0"
     period: "Image dated 2013"
     description: "This image shows Haida totem poles at SGang Gwaay, selected as a defining visual reference for Haida & Pacific Northwest Totemic Traditions."
   - title: "Haida carved and painted cedar bentwood box"
-    imageUrl: "/artifacts/haida-totemic-religion-2.jpg"
+    imageUrl: "/artifacts/haida-totemic-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bentwood_chest,_Haida,_Old_Massett,_Haida_Gwaii,_British_Columbia,_c._1870,_yellow_and_red_cedar_-_Museum_of_Anthropology,_University_of_British_Columbia_-_DSC08727.jpg"
     provenance: "Daderot; Public domain"
     period: "Image dated 2015"

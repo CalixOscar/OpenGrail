@@ -46,13 +46,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Drukpa%20Kagyu'
 artifacts:
   - title: "Lineage image of Tsangpa Gyare Yeshe Dorje"
-    imageUrl: "/artifacts/drukpa-kagyu-1.jpg"
+    imageUrl: "/artifacts/drukpa-kagyu-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tsangpa_Gyare.jpg"
     provenance: "www.treasuryoflives.org; Public domain"
     period: "Image dated 2014"
     description: "This image shows Lineage image of Tsangpa Gyare Yeshe Dorje, selected as a defining visual reference for Drukpa Kagyu."
   - title: "Hemis Monastery, a major Drukpa Kagyu sanctuary"
-    imageUrl: "/artifacts/drukpa-kagyu-2.jpg"
+    imageUrl: "/artifacts/drukpa-kagyu-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hemis_Budhdha_statue.JPG"
     provenance: "Theblessedzee; CC BY-SA 3.0"
     period: "Image dated 2012"

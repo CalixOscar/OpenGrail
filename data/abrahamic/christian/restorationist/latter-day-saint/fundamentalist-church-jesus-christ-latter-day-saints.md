@@ -58,13 +58,13 @@ sources:
       https://www.cambridge.org/core/search?q=Fundamentalist%20Church%20of%20Jesus%20Christ%20of%20Latter-Day%20Saints
 artifacts:
   - title: "FLDS temple at the Yearning for Zion Ranch"
-    imageUrl: "/artifacts/fundamentalist-church-jesus-christ-latter-day-saints-1.jpg"
+    imageUrl: "/artifacts/fundamentalist-church-jesus-christ-latter-day-saints-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:FLDS_Eldorado_hi.jpg"
     provenance: "Randy Mankin of the Eldorado Success; Public domain"
     period: "Image dated 2006"
     description: "This image shows FLDS temple at the Yearning for Zion Ranch, selected as a defining visual reference for Fundamentalist Church of Jesus Christ of Latter-Day Saints."
   - title: "Portrait of Warren Jeffs, the FLDS president and prophet"
-    imageUrl: "/artifacts/fundamentalist-church-jesus-christ-latter-day-saints-2.jpg"
+    imageUrl: "/artifacts/fundamentalist-church-jesus-christ-latter-day-saints-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Abraham_B._Williams_and_Isabelle_Lewis_Williams.jpg"
     provenance: "Mwilliams30324; CC BY-SA 3.0"
     period: "Object or image dated 1876"

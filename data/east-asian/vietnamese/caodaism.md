@@ -52,13 +52,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Cao%20%C4%90%C3%A0i'
 artifacts:
   - title: "Divine Eye altar"
-    imageUrl: "/artifacts/caodaism-1.jpg"
+    imageUrl: "/artifacts/caodaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cao_Dai_Temple_01.jpg"
     provenance: "Peter Beardsley from Kittery, ME, USA; CC BY 2.0"
     period: "Image dated 2004"
     description: "This image shows Divine Eye altar, selected as a defining visual reference for Cao Đài."
   - title: "Tay Ninh Holy See"
-    imageUrl: "/artifacts/caodaism-2.jpg"
+    imageUrl: "/artifacts/caodaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Cao_%C4%90%C3%A0i_T%C3%A2y_Ninh_Holy_See_(12162576046).jpg"
     provenance: "Clay Gilliland; CC BY-SA 2.0"
     period: "Image dated 2013"

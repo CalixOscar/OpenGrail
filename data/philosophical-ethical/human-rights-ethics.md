@@ -47,13 +47,13 @@ sources:
     url: 'https://www.oxfordreference.com/'
 artifacts:
   - title: "Eleanor Roosevelt with the Universal Declaration of Human Rights"
-    imageUrl: "/artifacts/human-rights-ethics-1.jpg"
+    imageUrl: "/artifacts/human-rights-ethics-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Eleanor_Roosevelt_UDHR.jpg"
     provenance: "FDR Presidential Library & Museum; CC BY 2.0"
     period: "Image dated 2008"
     description: "This image shows Eleanor Roosevelt with the Universal Declaration of Human Rights, selected as a defining visual reference for Universal Human Rights & Global Ethical Horizons."
   - title: "The Cyrus Cylinder ancient proclamation of religious freedom"
-    imageUrl: "/artifacts/human-rights-ethics-2.jpg"
+    imageUrl: "/artifacts/human-rights-ethics-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cyrus_Cylinder_2.jpg"
     provenance: "Photograph by Mike Peel ( www.mikepeel.net ).; CC BY-SA 4.0"
     period: "Image dated 2010"

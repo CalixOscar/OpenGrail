@@ -55,13 +55,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Aymara%20Religious%20Traditions'
 artifacts:
   - title: "Gate of the Sun with the Staff Deity relief at Tiwanaku"
-    imageUrl: "/artifacts/aymara-religions-1.jpg"
+    imageUrl: "/artifacts/aymara-religions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bolivia-72_-_Back_view_-_Gate_of_the_Sun_(2217309605).jpg"
     provenance: "Dennis G. Jarvis; CC BY-SA 2.0"
     period: "Image dated 2010"
     description: "This image shows Gate of the Sun with the Staff Deity relief at Tiwanaku, selected as a defining visual reference for Aymara Religious Traditions."
   - title: "Aymara Yatiri ritual mesa offering"
-    imageUrl: "/artifacts/aymara-religions-2.jpg"
+    imageUrl: "/artifacts/aymara-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Aymara_man_and_Lake_Titicaca.jpg"
     provenance: "EEJCC; CC BY-SA 4.0"
     period: "Image dated 2021"

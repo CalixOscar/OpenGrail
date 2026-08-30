@@ -49,13 +49,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=%C5%8Cmoto'
 artifacts:
   - title: "Portrait of Deguchi Nao"
-    imageUrl: "/artifacts/omoto-1.jpg"
+    imageUrl: "/artifacts/omoto-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Nao_Deguchi_-_Kio_estas_Oomoto.jpg"
     provenance: "Oomoto Central Office, Kameoka; Public domain"
     period: "Image dated 1918"
     description: "This image shows Portrait of Deguchi Nao, selected as a defining visual reference for Ōmoto."
   - title: "Omoto sanctuary at Kameoka"
-    imageUrl: "/artifacts/omoto-2.jpg"
+    imageUrl: "/artifacts/omoto-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Omoto_Shrine_(Miyajima)_-_DSC02278.JPG"
     provenance: "Daderot; CC0"
     period: "Image dated 2011"

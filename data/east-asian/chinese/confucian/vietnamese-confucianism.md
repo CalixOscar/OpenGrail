@@ -51,13 +51,13 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=Vietnamese%20Confucian%20Traditions
 artifacts:
   - title: "Image of Chu Van An"
-    imageUrl: "/artifacts/vietnamese-confucianism-1.jpg"
+    imageUrl: "/artifacts/vietnamese-confucianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Chu_V%C4%83n_An_High_School,_School_Year_opening_ceremony.JPG"
     provenance: "Rungbachduong; CC BY-SA 3.0"
     period: "Image dated 2007"
     description: "This image shows Image of Chu Van An, selected as a defining visual reference for Vietnamese Confucian Traditions."
   - title: "Hanoi Temple of Literature"
-    imageUrl: "/artifacts/vietnamese-confucianism-2.jpg"
+    imageUrl: "/artifacts/vietnamese-confucianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Van_Mieu_Hanoi_4550352543_7f085eeb24_t.jpg"
     provenance: "Jorge Lascar; CC BY-SA 2.0"
     period: "Image dated 2008"

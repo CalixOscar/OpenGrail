@@ -38,13 +38,13 @@ sources:
     url: 'https://whc.unesco.org/en/list/198/'
 artifacts:
   - title: "Mississippian copper repousse falcon dancer plate"
-    imageUrl: "/artifacts/mississippian-religion-1.jpg"
+    imageUrl: "/artifacts/mississippian-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cahokia_copper_repousse_plate_falcon_dancer_recovered_at_Etowah_mounds_13th_century.jpg"
     provenance: "John P. Rogan; CC BY-SA 4.0"
     period: "13th century"
     description: "This image shows Mississippian copper repousse falcon dancer plate, selected as a defining visual reference for Mississippian Mound Builders & Southeastern Ceremonial Complex."
   - title: "Monks Mound ceremonial platform at Cahokia"
-    imageUrl: "/artifacts/mississippian-religion-2.jpg"
+    imageUrl: "/artifacts/mississippian-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Great_River_Road_-_An_Aerial_View_of_Monks_Mound_-_NARA_-_7718947.jpg"
     provenance: "Unknown author Unknown author or not provided; Public domain"
     period: "Image dated 1995"

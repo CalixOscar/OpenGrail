@@ -46,13 +46,13 @@ sources:
     url: 'https://brill.com/search?q=Modern%20Satanism'
 artifacts:
   - title: "Baphomet image adopted by modern Satanism"
-    imageUrl: "/artifacts/modern-satanism-1.jpg"
+    imageUrl: "/artifacts/modern-satanism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:ColorBaphomet.jpg"
     provenance: "Art by Eliphas Levi. Color by David B. Pearson; Public domain"
     period: "Image dated 2009"
     description: "This image shows Baphomet image adopted by modern Satanism, selected as a defining visual reference for Modern Satanism."
   - title: "Monumental bronze Baphomet statue of modern Satanism"
-    imageUrl: "/artifacts/modern-satanism-2.jpg"
+    imageUrl: "/artifacts/modern-satanism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:TST_Erfurt_2024.jpg"
     provenance: "Montgomery82; CC0"
     period: "Image dated 2024"

@@ -46,13 +46,13 @@ sources:
     url: 'https://brill.com/search?q=Alexandrian%20Wicca'
 artifacts:
   - title: "Alex Sanders, prominent Alexandrian Wiccan high priest"
-    imageUrl: "/artifacts/alexandrian-wicca-1.jpg"
+    imageUrl: "/artifacts/alexandrian-wicca-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:15_Clanricarde_Gardens.jpg"
     provenance: "Ethan Doyle White; CC BY-SA 4.0"
     period: "Image dated 2017"
     description: "This image shows Alex Sanders, prominent Alexandrian Wiccan high priest, selected as a defining visual reference for Alexandrian Wicca."
   - title: "Alexandrian Wiccan altar with ritual blade and chalice"
-    imageUrl: "/artifacts/alexandrian-wicca-2.png"
+    imageUrl: "/artifacts/alexandrian-wicca-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Wiccan_altar_(1).PNG"
     provenance: "RaeVynn Sands, Flickr user cronewynd; CC BY 2.0"
     period: "Image dated 2006"

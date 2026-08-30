@@ -50,13 +50,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Daoist%20Traditions'
 artifacts:
   - title: "Monumental image of Laozi"
-    imageUrl: "/artifacts/daoism-1.jpg"
+    imageUrl: "/artifacts/daoism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Quanzhou_Qingyuan_Shan_20120301-08.jpg"
     provenance: "Zhangzhugang; CC BY-SA 4.0"
     period: "Image dated 2012"
     description: "This image shows Monumental image of Laozi, selected as a defining visual reference for Daoist Traditions."
   - title: "Wudang Golden Hall"
-    imageUrl: "/artifacts/daoism-2.jpg"
+    imageUrl: "/artifacts/daoism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%E6%AD%A6%E5%BD%93%E5%B1%B1%E9%87%91%E6%AE%BF.JPG"
     provenance: "Gisling; CC BY 3.0"
     period: "Image dated 2009"

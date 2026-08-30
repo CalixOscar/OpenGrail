@@ -47,13 +47,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Community%20of%20Christ'
 artifacts:
   - title: "Spiral-shaped Community of Christ Temple in Independence"
-    imageUrl: "/artifacts/community-of-christ-1.jpg"
+    imageUrl: "/artifacts/community-of-christ-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:HedrickiteTempleLotWithCofChristBuildingsNearby.jpg"
     provenance: "EGDJ; CC BY 3.0"
     period: "Image dated 2010"
     description: "This image shows Spiral-shaped Community of Christ Temple in Independence, selected as a defining visual reference for Community of Christ."
   - title: "The Auditorium, historic world headquarters and worship space"
-    imageUrl: "/artifacts/community-of-christ-2.jpg"
+    imageUrl: "/artifacts/community-of-christ-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Temple-lot2.jpg"
     provenance: "Americasroof ( talk ); CC BY 3.0"
     period: "Image dated 2008"

@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Evangelicalism'
 artifacts:
   - title: "Billy Graham preaching at the 1954 Harringay evangelical crusade"
-    imageUrl: "/artifacts/evangelicalism-1.jpg"
+    imageUrl: "/artifacts/evangelicalism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Forest_Home_Pond_4-5-14_(13739023514).jpg"
     provenance: "inkknife_2000 (7.5 million views +); CC BY-SA 2.0"
     period: "Image dated 2014"
     description: "This image shows Billy Graham preaching at the 1954 Harringay evangelical crusade, selected as a defining visual reference for Evangelicalism."
   - title: "Original volumes of The Fundamentals, influential evangelical texts"
-    imageUrl: "/artifacts/evangelicalism-2.jpg"
+    imageUrl: "/artifacts/evangelicalism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Art_Nouveau_Medal_Buenos_Aires_1910_Cornerstone_Laying_of_Collegio_Nacional,_obverse.jpg"
     provenance: "Berlin-George; Public domain"
     period: "Image dated 1910"

@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Sadducees'
 artifacts:
   - title: "Ornate ossuary associated with the high-priestly family of Caiaphas"
-    imageUrl: "/artifacts/sadducees-1.jpg"
+    imageUrl: "/artifacts/sadducees-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ossuary_of_the_high_priest_Caiaphas_P1180853.jpg"
     provenance: "deror_avi; CC BY-SA 3.0"
     period: "Image dated 2012"
     description: "This image shows Ornate ossuary associated with the high-priestly family of Caiaphas, selected as a defining visual reference for Sadducees."
   - title: "Reconstruction of the Temple institution central to Sadducean authority"
-    imageUrl: "/artifacts/sadducees-2.jpg"
+    imageUrl: "/artifacts/sadducees-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jerusalem_second_temple.jpg"
     provenance: "Midiman . Imported by Christophe cage 07:59, 12 November 2006 (UTC); CC BY 2.0"
     period: "Image dated 2006"

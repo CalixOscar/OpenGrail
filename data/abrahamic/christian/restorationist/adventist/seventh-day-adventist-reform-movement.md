@@ -47,13 +47,13 @@ sources:
       https://www.cambridge.org/core/search?q=Seventh%20Day%20Adventist%20Reform%20Movement
 artifacts:
   - title: "Dedicated Reform Movement church in Zagreb"
-    imageUrl: "/artifacts/seventh-day-adventist-reform-movement-1.jpg"
+    imageUrl: "/artifacts/seventh-day-adventist-reform-movement-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Crkva_Adventista_sedmog_dana_u_Zagrebu_03.jpg"
     provenance: "Baltabar; CC0"
     period: "Image dated 2025"
     description: "This image shows Dedicated Reform Movement church in Zagreb, selected as a defining visual reference for Seventh Day Adventist Reform Movement."
   - title: "Dedicated Reform Movement sanctuary in Englewood, Colorado"
-    imageUrl: "/artifacts/seventh-day-adventist-reform-movement-2.jpg"
+    imageUrl: "/artifacts/seventh-day-adventist-reform-movement-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Seventh_Day_Adventist_Reform_Movement,_Englewood,_CO.jpg"
     provenance: "Xnatedawgx; CC BY-SA 4.0"
     period: "Image dated 2015"

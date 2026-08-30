@@ -46,14 +46,14 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Ny%C4%81ya'
 artifacts:
   - title: "Manuscript of classical Indian logic (Nyaya)"
-    imageUrl: "/artifacts/nyaya-1.jpg"
+    imageUrl: "/artifacts/nyaya-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Front_cover_of_%C4%80c%C4%81rya_M%C4%81%C5%86ikyanandi%E2%80%99s_Par%C4%ABk%C5%9F%C4%81mukha_S%C5%ABtra_%E2%80%93_Essence_of_the_Jaina_Ny%C4%81ya.jpg"
     provenance: "Vikalpprinters; CC BY-SA 4.0"
     period: "8th century"
     description: "This image shows Manuscript of classical Indian logic (Nyaya), selected as a defining visual reference for Nyāya."
     detail: high
   - title: "Sanskrit manuscript of the foundational Nyaya Sutra"
-    imageUrl: "/artifacts/nyaya-2.png"
+    imageUrl: "/artifacts/nyaya-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Classification_of_Indian_Philosophy_(Dar%C5%9Bana)_%E2%80%94_A_Historical_Overview.png"
     provenance: "Shreedhar Kumbar (xaetherion); CC BY-SA 4.0"
     period: "Image dated 2026"

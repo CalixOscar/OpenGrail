@@ -44,13 +44,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Gelug'
 artifacts:
   - title: "Thangka of Tsongkhapa, founder of the Gelug school"
-    imageUrl: "/artifacts/gelug-1.jpg"
+    imageUrl: "/artifacts/gelug-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Chengdu_2007_363.jpg"
     provenance: "G41rn8; CC BY-SA 4.0"
     period: "Image dated 2007"
     description: "This image shows Thangka of Tsongkhapa, founder of the Gelug school, selected as a defining visual reference for Gelug."
   - title: "Ganden Monastery, the original seat of the Gelug tradition"
-    imageUrl: "/artifacts/gelug-2.jpg"
+    imageUrl: "/artifacts/gelug-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tibet,_Ganden_Monastery_with_some_destroyed_buildings_remaining_from_1959,_taken_on_19_December_2006.jpg"
     provenance: "ignat; CC BY 2.5"
     period: "Image dated 2006"

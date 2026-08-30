@@ -49,13 +49,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Yol%C5%8Bu%20Religious%20Traditions'
 artifacts:
   - title: "Traditional Yolŋu bark painting with rarrk cross-hatching"
-    imageUrl: "/artifacts/yolngu-religions-1.jpg"
+    imageUrl: "/artifacts/yolngu-religions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Sea_and_the_Sky_1948.jpg"
     provenance: "Laterthanyouthink; CC BY-SA 4.0"
     period: "Image dated 2020"
     description: "This image shows Traditional Yolŋu bark painting with rarrk cross-hatching, selected as a defining visual reference for Yolŋu Religious Traditions."
   - title: "Authentic Yolŋu ceremonial Yidaki (didgeridoo)"
-    imageUrl: "/artifacts/yolngu-religions-2.jpg"
+    imageUrl: "/artifacts/yolngu-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Australiandidgeridoos.jpg"
     provenance: "Hmarin; Public domain"
     period: "Image dated 2012"

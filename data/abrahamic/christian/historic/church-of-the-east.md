@@ -43,14 +43,14 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20the%20East'
 artifacts:
   - title: "The Xi'an Stele, iconic record of the Church of the East in China"
-    imageUrl: "/artifacts/church-of-the-east-1.jpg"
+    imageUrl: "/artifacts/church-of-the-east-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Stele_of_the_Spread_of_the_Assyrian_Teachings_of_the_Great_Qin_to_the_Central_States_WDL3047.jpg"
     provenance: "Jingjing; Public domain"
     period: "Object or image dated 1623"
     description: "This image shows The Xi'an Stele, iconic record of the Church of the East in China, selected as a defining visual reference for Church of the East."
     detail: high
   - title: "Rabban Hormizd Monastery, historic East Syriac sanctuary"
-    imageUrl: "/artifacts/church-of-the-east-2.jpg"
+    imageUrl: "/artifacts/church-of-the-east-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Rabban_Hurmizd.jpg"
     provenance: "Uploaded originally to en.wikipedia.com by Chaldean; Public domain"
     period: "Image dated 2011"

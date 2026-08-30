@@ -47,13 +47,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Seon%20Buddhism'
 artifacts:
   - title: "Jinul, formative systematizer of Korean Seon"
-    imageUrl: "/artifacts/seon-1.jpg"
+    imageUrl: "/artifacts/seon-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jinul.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "Image dated 1780"
     description: "This image shows Jinul, formative systematizer of Korean Seon, selected as a defining visual reference for Seon Buddhism."
   - title: "Songgwangsa, the monastic center founded by Jinul's community"
-    imageUrl: "/artifacts/seon-2.jpg"
+    imageUrl: "/artifacts/seon-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%BB%A3%E5%AF%BA_Korean_Temple_Songgwangsa_by_Oadde_01.jpg"
     provenance: "Oadde; CC BY-SA 4.0"
     period: "Image dated 2018"

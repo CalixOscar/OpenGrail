@@ -47,14 +47,14 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Pudgalav%C4%81da%20Schools'
 artifacts:
   - title: "Kathavatthu manuscript preserving debates over the Pudgalavada person doctrine"
-    imageUrl: "/artifacts/pudgalavada-1.jpg"
+    imageUrl: "/artifacts/pudgalavada-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg"
     provenance: "พระมหาเทวประภาส วชิรญาณเมธี (ผู้ถ่าย-ปล่อยสัญญาอนุญาตภาพให้นําไปใช้ได้เพื่อการศึกษาโดยอยู่ภา่ยใต้ cc-by-sa-3.0) ผู้สร้างสรรค์ผลงาน/ส่งข้อมูล; CC BY-SA 3.0"
     period: "Image dated 2013"
     description: "This image shows Kathavatthu manuscript preserving debates over the Pudgalavada person doctrine, selected as a defining visual reference for Pudgalavāda Schools."
     detail: high
   - title: "Abhidharmakosa manuscript preserving a major critique of Pudgalavada"
-    imageUrl: "/artifacts/pudgalavada-2.jpg"
+    imageUrl: "/artifacts/pudgalavada-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Abhidharmako%C5%9Ba-vy%C4%81khy%C4%81._Abhidharmako%C5%9Ba-vy%C4%81khy%C4%81._-_btv1b100829293_(013_of_170).jpg"
     provenance: "Yasomitra. Auteur du commentaire Vasubandhu. Auteur du texte; Public domain"
     period: "Image dated 1801"

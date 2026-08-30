@@ -47,13 +47,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Usuli%20Twelver%20Shiism'
 artifacts:
   - title: "Portrait of Murtada al-Ansari, formative modern Usuli jurist"
-    imageUrl: "/artifacts/usuli-twelver-shia-1.png"
+    imageUrl: "/artifacts/usuli-twelver-shia-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Murtada_al-Ansari.png"
     provenance: "Usuli Shia; CC0"
     period: "Image dated 2026"
     description: "This image shows Portrait of Murtada al-Ansari, formative modern Usuli jurist, selected as a defining visual reference for Usuli Twelver Shiism."
   - title: "Usuli juristic study in the Najaf hawza"
-    imageUrl: "/artifacts/usuli-twelver-shia-2.jpg"
+    imageUrl: "/artifacts/usuli-twelver-shia-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Imam_Ali_Shrine,_Najaf.jpg"
     provenance: "Abdullah Fayad; Public domain"
     period: "Image dated 2012"

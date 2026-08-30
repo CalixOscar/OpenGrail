@@ -53,13 +53,13 @@ sources:
       https://www.rep.routledge.com/search?query=International%20Society%20for%20Krishna%20Consciousness
 artifacts:
   - title: "A. C. Bhaktivedanta Swami Prabhupada, founder of ISKCON"
-    imageUrl: "/artifacts/iskcon-1.jpg"
+    imageUrl: "/artifacts/iskcon-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Samadhi_Mandir_of_Srila_Prabhupada,_Mayapur_07102013_02.jpg"
     provenance: "Joydeep; CC BY-SA 3.0"
     period: "Image dated 2013"
     description: "This image shows A. C. Bhaktivedanta Swami Prabhupada, founder of ISKCON, selected as a defining visual reference for International Society for Krishna Consciousness."
   - title: "ISKCON's Temple of the Vedic Planetarium at Mayapur"
-    imageUrl: "/artifacts/iskcon-2.jpg"
+    imageUrl: "/artifacts/iskcon-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Chandrodaya_Mandir_Central_Dome_Spire_Under_Construction_-_Temple_Of_Vedic_Planetarium_-_ISKCON_Campus_-_Mayapur_-_Nadia_2017-08-15_2090.JPG"
     provenance: "Biswarup Ganguly; CC BY 3.0"
     period: "Image dated 2017"

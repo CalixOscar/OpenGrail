@@ -48,13 +48,13 @@ sources:
       https://www.cambridge.org/core/search?q=United%20Pentecostal%20Church%20International
 artifacts:
   - title: "Full-immersion baptism in Jesus' name in a Pentecostal assembly"
-    imageUrl: "/artifacts/united-pentecostal-church-international-1.jpg"
+    imageUrl: "/artifacts/united-pentecostal-church-international-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Person_being_baptized_in_Evangel_Pentecostal_Church_Quebec_City,_Canada.jpg"
     provenance: "Wilfredor; CC0"
     period: "Image dated 2024"
     description: "This image shows Full-immersion baptism in Jesus' name in a Pentecostal assembly, selected as a defining visual reference for United Pentecostal Church International."
   - title: "UPCI World Evangelism Center in Weldon Spring"
-    imageUrl: "/artifacts/united-pentecostal-church-international-2.jpg"
+    imageUrl: "/artifacts/united-pentecostal-church-international-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bloomington_-_Landmark_Church_-_P1100430.JPG"
     provenance: "User:Vmenkov; CC BY-SA 3.0"
     period: "Image dated 2011"

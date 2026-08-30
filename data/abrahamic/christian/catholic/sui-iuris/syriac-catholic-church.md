@@ -48,13 +48,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Catholic%20Church'
 artifacts:
   - title: "West Syriac Catholic liturgy of Saint James"
-    imageUrl: "/artifacts/syriac-catholic-church-1.jpg"
+    imageUrl: "/artifacts/syriac-catholic-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Syriac_Catholic_Cathedral,_Damascus_(2).jpg"
     provenance: "Bernard Gagnon; CC BY-SA 4.0"
     period: "Image dated 2010"
     description: "This image shows West Syriac Catholic liturgy of Saint James, selected as a defining visual reference for Syriac Catholic Church."
   - title: "Syriac Catholic patriarchal Cathedral of the Annunciation in Beirut"
-    imageUrl: "/artifacts/syriac-catholic-church-2.jpg"
+    imageUrl: "/artifacts/syriac-catholic-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:OurLadyofAnnunciationParishjf9625_04.JPG"
     provenance: "Ramon FVelasquez; CC BY-SA 3.0"
     period: "Image dated 2013"

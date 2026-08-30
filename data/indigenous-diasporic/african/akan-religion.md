@@ -43,13 +43,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Akan%20Religion'
 artifacts:
   - title: "The Golden Stool (Sika Dwa Kofi) of the Ashanti"
-    imageUrl: "/artifacts/akan-religion-1.jpg"
+    imageUrl: "/artifacts/akan-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Coming_of_the_Ashanti_Golden_Stool_-_NARA_-_558798.jpg"
     provenance: "Unknown author Unknown author or not provided; Public domain"
     period: "Digital file published 2011"
     description: "This image shows The Golden Stool (Sika Dwa Kofi) of the Ashanti, selected as a defining visual reference for Akan Religion."
   - title: "Asante traditional shrine house at Besease"
-    imageUrl: "/artifacts/akan-religion-2.jpg"
+    imageUrl: "/artifacts/akan-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Asenemaso_Shrine_(a.k.a._Tano_Banie_Shrine).jpg"
     provenance: "Noahalorwu; CC BY-SA 4.0"
     period: "Image dated 2016"

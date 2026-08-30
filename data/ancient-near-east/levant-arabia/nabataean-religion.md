@@ -49,13 +49,13 @@ sources:
     url: 'https://brill.com/search?q=Nabataean%20Religion'
 artifacts:
   - title: "Nabataean baetyl of Dushara"
-    imageUrl: "/artifacts/nabataean-religion-1.jpg"
+    imageUrl: "/artifacts/nabataean-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:High_Place_of_Sacrifice_Jebel_al-Madbah_Petra_Jordan1432.jpg"
     provenance: "Michael Gunther; CC BY-SA 3.0"
     period: "Image dated 2014"
     description: "This image shows Nabataean baetyl of Dushara, selected as a defining visual reference for Nabataean Religion."
   - title: "Qasr al-Bint sanctuary"
-    imageUrl: "/artifacts/nabataean-religion-2.jpg"
+    imageUrl: "/artifacts/nabataean-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Qasr_al-Bint_necropolis,_IGN_44,_detail_of_pediment,_Hegra_(Mada%27in_Salih),_the_kingdom%27s_second_Nabatean_capital_after_Petra,_Saudi_Arabia.jpg"
     provenance: "Following Hadrian; CC BY-SA 2.0"
     period: "27 CE"

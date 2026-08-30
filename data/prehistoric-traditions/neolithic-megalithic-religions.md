@@ -50,13 +50,13 @@ sources:
     url: 'https://yalebooks.yale.edu/'
 artifacts:
   - title: "Newgrange spiral sacred art"
-    imageUrl: "/artifacts/neolithic-megalithic-religions-1.jpg"
+    imageUrl: "/artifacts/neolithic-megalithic-religions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bild_Newgrange-trippelspiral.jpg"
     provenance: "Arroy; Public domain"
     period: "Image dated 2007"
     description: "This image shows Newgrange spiral sacred art, selected as a defining visual reference for Atlantic & European Megalithic Traditions."
   - title: "Stonehenge solar sanctuary"
-    imageUrl: "/artifacts/neolithic-megalithic-religions-2.jpg"
+    imageUrl: "/artifacts/neolithic-megalithic-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Summer_Solstice_Sunrise_over_Stonehenge_2005.jpg"
     provenance: "Wikimedia Commons; CC BY-SA 2.0"
     period: "Object or image dated 2005"

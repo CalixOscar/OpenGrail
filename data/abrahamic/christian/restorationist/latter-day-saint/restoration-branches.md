@@ -46,13 +46,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Restoration%20Branches'
 artifacts:
   - title: "Joint gathering of independent Restoration Branch congregations"
-    imageUrl: "/artifacts/restoration-branches-1.jpg"
+    imageUrl: "/artifacts/restoration-branches-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Independence,_Missouri_(14518373803).jpg"
     provenance: "Ken Lund from Reno, Nevada, USA; CC BY-SA 2.0"
     period: "19th century"
     description: "This image shows Joint gathering of independent Restoration Branch congregations, selected as a defining visual reference for Restoration Branches."
   - title: "A Restoration Branch meetinghouse in the Independence area"
-    imageUrl: "/artifacts/restoration-branches-2.jpg"
+    imageUrl: "/artifacts/restoration-branches-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Independence_-_Restoration_Branch_02.jpg"
     provenance: "Ecjmartin1; Public domain"
     period: "Digital file published 2010"

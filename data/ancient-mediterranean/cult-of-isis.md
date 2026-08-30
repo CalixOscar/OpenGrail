@@ -49,13 +49,13 @@ sources:
     url: 'https://brill.com/search?q=Cult%20of%20Isis'
 artifacts:
   - title: "Isis lactans cult statue"
-    imageUrl: "/artifacts/cult-of-isis-1.jpg"
+    imageUrl: "/artifacts/cult-of-isis-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:WLA_brooklynmuseum_Isis_Nursing_Horus_calcite_and_bronze.jpg"
     provenance: "Wikipedia Loves Art participant \" Opal_Art_Seekers_4 \"; CC BY 2.5"
     period: "Image dated 2009"
     description: "This image shows Isis lactans cult statue, selected as a defining visual reference for Cult of Isis."
   - title: "Temple of Isis at Philae"
-    imageUrl: "/artifacts/cult-of-isis-2.jpg"
+    imageUrl: "/artifacts/cult-of-isis-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sanctuairy_Philae.JPG"
     provenance: "Remih; CC BY-SA 3.0"
     period: "Image dated 2009"

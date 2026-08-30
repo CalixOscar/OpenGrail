@@ -44,13 +44,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Hasidic%20Judaism'
 artifacts:
   - title: "Traditional portrait of the Baal Shem Tov, founder of Hasidism"
-    imageUrl: "/artifacts/hasidic-judaism-1.jpg"
+    imageUrl: "/artifacts/hasidic-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Besht_well_2006.JPG"
     provenance: "No machine-readable author provided. Klezmer~commonswiki assumed (based on copyright claims).; Public domain"
     period: "Image dated 2006"
     description: "This image shows Traditional portrait of the Baal Shem Tov, founder of Hasidism, selected as a defining visual reference for Hasidic Judaism."
   - title: "A rebbe's tish, defining communal Hasidic ritual"
-    imageUrl: "/artifacts/hasidic-judaism-2.jpg"
+    imageUrl: "/artifacts/hasidic-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:MosholuLibraryApr2006.jpg"
     provenance: "Mosholudinner at English Wikipedia; CC BY-SA 3.0"
     period: "Image dated 2006"

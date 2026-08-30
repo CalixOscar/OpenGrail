@@ -49,14 +49,14 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Ancestor%20Veneration'
 artifacts:
   - title: "Ancestral tablets arranged on a traditional lineage hall altar"
-    imageUrl: "/artifacts/ancestor-veneration-1.jpg"
+    imageUrl: "/artifacts/ancestor-veneration-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:THE_CONFUCIAN_TABLET_IN_THE_GREAT_HALL_OF_THE_SAGE,_PEKING.jpg"
     provenance: "John Thomson; Public domain"
     period: "Image dated 1898"
     description: "This image shows Ancestral tablets arranged on a traditional lineage hall altar, selected as a defining visual reference for Ancestor Veneration."
     detail: high
   - title: "Torajan tau-tau ancestor effigies"
-    imageUrl: "/artifacts/ancestor-veneration-2.jpg"
+    imageUrl: "/artifacts/ancestor-veneration-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Houten_dodenpoppen_van_Toradja-groep_TMnr_60028789.jpg"
     provenance: "Unknown author Unknown author; CC BY-SA 3.0"
     period: "Image dated 1925"

@@ -49,13 +49,13 @@ sources:
       https://www.cambridge.org/core/search?q=Church%20of%20Jesus%20Christ%20of%20Latter%20Day%20Saints
 artifacts:
   - title: "Daguerreotype of James J. Strang, founder of the Strangite church"
-    imageUrl: "/artifacts/church-of-jesus-christ-latter-day-saints-strangite-1.jpg"
+    imageUrl: "/artifacts/church-of-jesus-christ-latter-day-saints-strangite-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:James_Strang_daguerreotype_(1856).jpg"
     provenance: "Wikimedia Commons; Public domain"
     period: "Object or image dated 1856"
     description: "This image shows Daguerreotype of James J. Strang, founder of the Strangite church, selected as a defining visual reference for Church of Jesus Christ of Latter Day Saints (Strangite)."
   - title: "The Voree Plates claimed and translated by Strang"
-    imageUrl: "/artifacts/church-of-jesus-christ-latter-day-saints-strangite-2.jpg"
+    imageUrl: "/artifacts/church-of-jesus-christ-latter-day-saints-strangite-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Voree_Plates.jpg"
     provenance: "James J. Strang; Public domain"
     period: "Image dated 1845"

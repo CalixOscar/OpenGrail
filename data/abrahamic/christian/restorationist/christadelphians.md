@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Christadelphians'
 artifacts:
   - title: "Portrait of John Thomas, founder of the Christadelphian movement"
-    imageUrl: "/artifacts/christadelphians-1.jpg"
+    imageUrl: "/artifacts/christadelphians-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:John_Thomas._Stipple_engraving_by_T._H._Ellis._Wellcome_V0005791.jpg"
     provenance: "Wikimedia Commons; CC BY 4.0"
     period: "Digital file published 2014"
     description: "This image shows Portrait of John Thomas, founder of the Christadelphian movement, selected as a defining visual reference for Christadelphians."
   - title: "A purpose-built Christadelphian meeting hall"
-    imageUrl: "/artifacts/christadelphians-2.jpg"
+    imageUrl: "/artifacts/christadelphians-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Christadelphian_Hall,_Bromsgrove_Road,_Halesowen_(August_2024)_(1).jpg"
     provenance: "User:Hassocks5489; CC0"
     period: "Image dated 2024"

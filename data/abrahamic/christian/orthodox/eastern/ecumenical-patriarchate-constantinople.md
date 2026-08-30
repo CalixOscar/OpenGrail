@@ -47,13 +47,13 @@ sources:
       https://www.cambridge.org/core/search?q=Ecumenical%20Patriarchate%20of%20Constantinople
 artifacts:
   - title: "Ecumenical Patriarch presiding over the Divine Liturgy"
-    imageUrl: "/artifacts/ecumenical-patriarchate-constantinople-1.jpg"
+    imageUrl: "/artifacts/ecumenical-patriarchate-constantinople-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Barack_Obama_meets_with_Ecumenical_Patriarch_Bartholomew_I_in_Istanbul_4-7-09.JPG"
     provenance: "Pete Souza; Public domain"
     period: "Image dated 2009"
     description: "This image shows Ecumenical Patriarch presiding over the Divine Liturgy, selected as a defining visual reference for Ecumenical Patriarchate of Constantinople."
   - title: "Patriarchal Church of Saint George at the Phanar"
-    imageUrl: "/artifacts/ecumenical-patriarchate-constantinople-2.jpg"
+    imageUrl: "/artifacts/ecumenical-patriarchate-constantinople-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Church_of_St_George_-_Kyustendil.jpg"
     provenance: "Plamen Agov ( user:MrPanyGoff ); CC BY-SA 3.0"
     period: "Image dated 2011"

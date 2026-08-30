@@ -46,13 +46,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Dvaita%20Ved%C4%81nta'
 artifacts:
   - title: "Statue of Madhvacarya at Sri Krishna Matha in Udupi"
-    imageUrl: "/artifacts/dvaita-vedanta-1.jpg"
+    imageUrl: "/artifacts/dvaita-vedanta-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:UDUPI_SRI_KRISHNA.jpg"
     provenance: "Harshith Aarshi; CC BY-SA 4.0"
     period: "13th century"
     description: "This image shows Statue of Madhvacarya at Sri Krishna Matha in Udupi, selected as a defining visual reference for Dvaita Vedānta."
   - title: "Udupi Sri Krishna Matha, institutional center of Madhva's lineage"
-    imageUrl: "/artifacts/dvaita-vedanta-2.jpg"
+    imageUrl: "/artifacts/dvaita-vedanta-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Udupi_Sri_Krishna_Matha_Temple.jpg"
     provenance: "Ashok Prabhakaran from Chennai, India; CC BY-SA 2.0"
     period: "Image dated 2010"

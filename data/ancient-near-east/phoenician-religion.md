@@ -44,13 +44,13 @@ sources:
     url: 'https://brill.com/search?q=Phoenician%20Religion'
 artifacts:
   - title: "Phoenician image of Astarte"
-    imageUrl: "/artifacts/phoenician-religion-1.jpg"
+    imageUrl: "/artifacts/phoenician-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Phoenician_Naiskos_with_a_Throne_of_Astarte_from_Sidon_at_the_Louvre_AO_2060.jpg"
     provenance: "Noel Aime-Giron (1884‒1941); Public domain"
     period: "Digital file published 2020"
     description: "This image shows Phoenician image of Astarte, selected as a defining visual reference for Phoenician Religion."
   - title: "Eshmun sanctuary near Sidon"
-    imageUrl: "/artifacts/phoenician-religion-2.jpg"
+    imageUrl: "/artifacts/phoenician-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Votive_statue_from_eshmun.jpg"
     provenance: "Eli +; Public domain"
     period: "Image dated 2009"

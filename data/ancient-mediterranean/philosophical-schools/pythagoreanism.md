@@ -51,13 +51,13 @@ sources:
     url: 'https://brill.com/search?q=Pythagoreanism'
 artifacts:
   - title: "Ancient Pythagoras portrait"
-    imageUrl: "/artifacts/pythagoreanism-1.jpg"
+    imageUrl: "/artifacts/pythagoreanism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Aphrodisias_Museum_Portrait_of_a_painter_4684.jpg"
     provenance: "Dosseman; CC BY-SA 4.0"
     period: "Image dated 2011"
     description: "This image shows Ancient Pythagoras portrait, selected as a defining visual reference for Pythagoreanism."
   - title: "Porta Maggiore ritual basilica"
-    imageUrl: "/artifacts/pythagoreanism-2.jpg"
+    imageUrl: "/artifacts/pythagoreanism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Santa_Maria_Maggiore_BW_4.JPG"
     provenance: "Berthold Werner; Public domain"
     period: "Image dated 2007"

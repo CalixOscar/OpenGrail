@@ -47,13 +47,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Indigenous%20American%20Religions'
 artifacts:
   - title: "Bighorn Medicine Wheel sacred stone alignment"
-    imageUrl: "/artifacts/indigenous-american-religions-1.jpg"
+    imageUrl: "/artifacts/indigenous-american-religions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bighorn_Medicine_Wheel_-_Flickr_-_brewbooks.jpg"
     provenance: "brewbooks from near Seattle, USA; CC BY-SA 2.0"
     period: "Image dated 2016"
     description: "This image shows Bighorn Medicine Wheel sacred stone alignment, selected as a defining visual reference for Indigenous American Religions (Comparative)."
   - title: "Plains Indian carved catlinite ceremonial peace pipe"
-    imageUrl: "/artifacts/indigenous-american-religions-2.jpg"
+    imageUrl: "/artifacts/indigenous-american-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ceremonial_pipe,_Dakota_people,_NM_Preague,_191526.jpg"
     provenance: "Zde; CC BY-SA 4.0"
     period: "Image dated 2019"

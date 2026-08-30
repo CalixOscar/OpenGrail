@@ -48,13 +48,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Burmese%20Buddhism'
 artifacts:
   - title: "Mahamuni Buddha image, a supreme devotional icon of Myanmar"
-    imageUrl: "/artifacts/burmese-buddhism-1.jpg"
+    imageUrl: "/artifacts/burmese-buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mahamuni_Buddha_temple,_Mandalay,_Myanmar_01.jpg"
     provenance: "Sgroey; CC BY-SA 4.0"
     period: "Image dated 2016"
     description: "This image shows Mahamuni Buddha image, a supreme devotional icon of Myanmar, selected as a defining visual reference for Burmese Buddhism."
   - title: "Shwedagon Pagoda, Myanmar's preeminent Buddhist shrine"
-    imageUrl: "/artifacts/burmese-buddhism-2.jpg"
+    imageUrl: "/artifacts/burmese-buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:20160813_-_Shwedagon_Pagoda_in_Yangon,_Myanmar_-_9998.jpg"
     provenance: "Jakub Hałun; CC BY-SA 4.0"
     period: "Image dated 2016"

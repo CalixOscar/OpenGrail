@@ -47,13 +47,13 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=Korean%20Shamanic%20Traditions
 artifacts:
   - title: "Sanshin sacred painting"
-    imageUrl: "/artifacts/korean-shamanism-1.jpg"
+    imageUrl: "/artifacts/korean-shamanism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Korea-Saseongam_11-08080_Sanshingak.JPG"
     provenance: "Steve46814; CC BY-SA 3.0"
     period: "Image dated 2011"
     description: "This image shows Sanshin sacred painting, selected as a defining visual reference for Korean Shamanic Traditions."
   - title: "Public Korean gut ceremony"
-    imageUrl: "/artifacts/korean-shamanism-2.jpg"
+    imageUrl: "/artifacts/korean-shamanism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Korea-Mudang_performing_gut-01.jpg"
     provenance: "ReSearcher at English Wikipedia; CC BY-SA 3.0"
     period: "Image dated 2007"

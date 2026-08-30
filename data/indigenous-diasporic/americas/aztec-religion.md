@@ -44,13 +44,13 @@ sources:
     url: 'https://www.beacon.org/'
 artifacts:
   - title: "Aztec Sun Stone (Piedra del Sol)"
-    imageUrl: "/artifacts/aztec-religion-1.jpg"
+    imageUrl: "/artifacts/aztec-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Monolito_de_la_Piedra_del_Sol.jpg"
     provenance: "El Comandante; CC BY-SA 3.0"
     period: "Image dated 2009"
     description: "This image shows Aztec Sun Stone (Piedra del Sol), selected as a defining visual reference for Aztec & Mexica Nahua Religion."
   - title: "Templo Mayor archaeological pyramid sanctuary"
-    imageUrl: "/artifacts/aztec-religion-2.jpg"
+    imageUrl: "/artifacts/aztec-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ruins_of_Tenochtitlan.JPG"
     provenance: "No machine-readable author provided. Janothird~commonswiki assumed (based on copyright claims).; CC BY-SA 3.0"
     period: "Image dated 2005"

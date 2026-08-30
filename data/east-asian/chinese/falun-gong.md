@@ -46,13 +46,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Falun%20Gong'
 artifacts:
   - title: "Falun Dharma-wheel emblem"
-    imageUrl: "/artifacts/falun-gong-1.jpg"
+    imageUrl: "/artifacts/falun-gong-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Asian_swastika_and_yin-and-yang_motif.jpg"
     provenance: "Lori Blaja; CC BY-SA 3.0"
     period: "Image dated 2009"
     description: "This image shows Falun Dharma-wheel emblem, selected as a defining visual reference for Falun Gong."
   - title: "Falun Gong exercise practice"
-    imageUrl: "/artifacts/falun-gong-2.jpg"
+    imageUrl: "/artifacts/falun-gong-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Origins-GuangzhouPractice.jpg"
     provenance: "ClearWisdom.net; CC BY-SA 3.0"
     period: "Image dated 2012"

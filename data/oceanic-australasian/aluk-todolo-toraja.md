@@ -38,13 +38,13 @@ sources:
     url: 'https://en.wikipedia.org/wiki/Toraja'
 artifacts:
   - title: "Carved saddle-roofed Tongkonan ancestral house"
-    imageUrl: "/artifacts/aluk-todolo-toraja-1.jpg"
+    imageUrl: "/artifacts/aluk-todolo-toraja-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Rumah_Adat_Tongkonan_(Toraja)_2.jpg"
     provenance: "Ribkha Tandepadang; CC BY-SA 4.0"
     period: "Image dated 2018"
     description: "This image shows Carved saddle-roofed Tongkonan ancestral house, selected as a defining visual reference for Aluk Todolo & Torajan Mortuary Religion."
   - title: "Toraja rock cliff graves and effigy balconies"
-    imageUrl: "/artifacts/aluk-todolo-toraja-2.jpg"
+    imageUrl: "/artifacts/aluk-todolo-toraja-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Toraja_tumbs.jpg"
     provenance: "Dominique Kirsner; CC BY-SA 2.5"
     period: "Image dated 1976"

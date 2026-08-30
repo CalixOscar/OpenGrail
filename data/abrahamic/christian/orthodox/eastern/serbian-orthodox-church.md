@@ -48,13 +48,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Serbian%20Orthodox%20Church'
 artifacts:
   - title: "White Angel fresco at Mileseva, iconic Serbian sacred art"
-    imageUrl: "/artifacts/serbian-orthodox-church-1.jpg"
+    imageUrl: "/artifacts/serbian-orthodox-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Manastir_Mile%C5%A1eva,_Srbija,_crkva_Vaznesenja_Gospodnjeg,_prva_polovina_13._veka.jpg"
     provenance: "BrankaVV; CC BY-SA 3.0"
     period: "13th century"
     description: "This image shows White Angel fresco at Mileseva, iconic Serbian sacred art, selected as a defining visual reference for Serbian Orthodox Church."
   - title: "Patriarchate of Pec, historic seat of the Serbian Church"
-    imageUrl: "/artifacts/serbian-orthodox-church-2.jpg"
+    imageUrl: "/artifacts/serbian-orthodox-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Patriarchate_of_Pec_(Peje)_-_Seat_of_Serbian_Orthodox_Church_-_Outside_Peje_(Pec)_-_Kosovo_-_01.jpg"
     provenance: "Adam Jones, Ph.D.; CC BY-SA 3.0"
     period: "Image dated 2013"

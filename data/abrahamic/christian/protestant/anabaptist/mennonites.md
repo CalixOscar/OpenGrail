@@ -49,13 +49,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Mennonite%20Traditions'
 artifacts:
   - title: "Portrait of Menno Simons, namesake of the Mennonite tradition"
-    imageUrl: "/artifacts/mennonites-1.jpg"
+    imageUrl: "/artifacts/mennonites-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Portret_van_Menno_Simons,_RP-P-1895-A-18886.jpg"
     provenance: "Rijksmuseum; CC0"
     period: "Image dated 1788"
     description: "This image shows Portrait of Menno Simons, namesake of the Mennonite tradition, selected as a defining visual reference for Mennonite Traditions."
   - title: "Illustrated Martyrs Mirror preserving Anabaptist memory"
-    imageUrl: "/artifacts/mennonites-2.jpg"
+    imageUrl: "/artifacts/mennonites-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Vitalisburiedalive.jpg"
     provenance: "Jan Luyken; Public domain"
     period: "17 th century"

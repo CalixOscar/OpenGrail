@@ -41,13 +41,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Quanzhen%20Daoism'
 artifacts:
   - title: "Portrait of Wang Chongyang"
-    imageUrl: "/artifacts/quanzhen-daoism-1.jpg"
+    imageUrl: "/artifacts/quanzhen-daoism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Wang_Chongyang.jpg"
     provenance: "Phoenix Darshan; CC BY-SA 4.0"
     period: "Image dated 2025"
     description: "This image shows Portrait of Wang Chongyang, selected as a defining visual reference for Quanzhen Daoism."
   - title: "Chongyang Palace"
-    imageUrl: "/artifacts/quanzhen-daoism-2.jpg"
+    imageUrl: "/artifacts/quanzhen-daoism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Changchun-Temple-Master-and-disciples-painting-0316.jpg"
     provenance: "Photo taken by User:Vmenkov . Painter's name is not known to the photographer. Although there is a fair amount of signage around the temple ; Public domain"
     period: "Image dated 2008"

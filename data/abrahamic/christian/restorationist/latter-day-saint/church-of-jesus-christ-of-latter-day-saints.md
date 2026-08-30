@@ -61,13 +61,13 @@ sources:
       https://www.cambridge.org/core/search?q=The%20Church%20of%20Jesus%20Christ%20of%20Latter-day%20Saints
 artifacts:
   - title: "Angel Moroni statue, defining icon of the LDS Church"
-    imageUrl: "/artifacts/church-of-jesus-christ-of-latter-day-saints-1.jpg"
+    imageUrl: "/artifacts/church-of-jesus-christ-of-latter-day-saints-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Salt_Lake_Temple_spires.jpg"
     provenance: "Wikimedia Commons; CC BY-SA 2.5"
     period: "Digital file published 2006"
     description: "This image shows Angel Moroni statue, defining icon of the LDS Church, selected as a defining visual reference for The Church of Jesus Christ of Latter-day Saints."
   - title: "Salt Lake Temple, the church's most recognizable sanctuary"
-    imageUrl: "/artifacts/church-of-jesus-christ-of-latter-day-saints-2.jpg"
+    imageUrl: "/artifacts/church-of-jesus-christ-of-latter-day-saints-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Temple_Square,_Salt_Lake_City,_1899_retouched.jpg"
     provenance: "William Henry Jackson; Public domain"
     period: "Image dated 1899"

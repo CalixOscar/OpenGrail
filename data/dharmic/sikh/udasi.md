@@ -49,13 +49,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Ud%C4%81s%C4%AB%20Tradition'
 artifacts:
   - title: "Sri Chand, founder of the Udasi ascetic tradition"
-    imageUrl: "/artifacts/udasi-1.jpg"
+    imageUrl: "/artifacts/udasi-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Havaily_Bhuman_Shah.jpg"
     provenance: "Adnantariq44; CC BY-SA 4.0"
     period: "Image dated 2017"
     description: "This image shows Sri Chand, founder of the Udasi ascetic tradition, selected as a defining visual reference for Udāsī Tradition."
   - title: "Traditional painting of Baba Sri Chand, founder of the Udasi order"
-    imageUrl: "/artifacts/udasi-2.jpg"
+    imageUrl: "/artifacts/udasi-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mural_painting_of_Guru_Hargobind_from_the_19th_century.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "19th century"

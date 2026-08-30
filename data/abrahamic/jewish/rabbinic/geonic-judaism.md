@@ -44,13 +44,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Geonic%20Judaism'
 artifacts:
   - title: "Historical depiction of Saadia Gaon, foremost geonic scholar"
-    imageUrl: "/artifacts/geonic-judaism-1.jpg"
+    imageUrl: "/artifacts/geonic-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Se%E2%80%99adya_Ga%E2%80%99on_and_HaHashmona%E2%80%99im_intersection_sign.JPG"
     provenance: "Enoshd; CC BY-SA 4.0"
     period: "Image dated 2015"
     description: "This image shows Historical depiction of Saadia Gaon, foremost geonic scholar, selected as a defining visual reference for Geonic Judaism."
   - title: "Cairo Genizah manuscript fragment preserving Geonic responsa"
-    imageUrl: "/artifacts/geonic-judaism-2.jpg"
+    imageUrl: "/artifacts/geonic-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cairo_Genizah_Fragment.jpg"
     provenance: "Wikimedia Commons; Public domain"
     period: "Digital file published 2005"

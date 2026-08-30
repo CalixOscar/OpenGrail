@@ -51,13 +51,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=The%20Episcopal%20Church'
 artifacts:
   - title: "Episcopal Eucharist led by the presiding bishop"
-    imageUrl: "/artifacts/episcopal-church-1.jpg"
+    imageUrl: "/artifacts/episcopal-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Most_Reverend_Frank_T._Griswold,_25th_Presiding_Bishop_and_Primate_of_the_Episcopal_Church_USA,_preaching_at_Saint_Mary%27s.jpg"
     provenance: "Sister Monica; CC BY-SA 4.0"
     period: "Image dated 2015"
     description: "This image shows Episcopal Eucharist led by the presiding bishop, selected as a defining visual reference for The Episcopal Church."
   - title: "Washington National Cathedral, prominent Episcopal sanctuary"
-    imageUrl: "/artifacts/episcopal-church-2.jpg"
+    imageUrl: "/artifacts/episcopal-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Arthur_Frederick_Payne,_A_Cathedral_Nave,_NGA_76109.jpg"
     provenance: "Arthur Frederick Payne; CC0"
     period: "Digital file published 2019"

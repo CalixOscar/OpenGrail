@@ -45,13 +45,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=K%C4%81l%C4%ABkula'
 artifacts:
   - title: "Daksina Kali in the eastern Indian Kalikula iconographic form"
-    imageUrl: "/artifacts/kalikula-1.jpg"
+    imageUrl: "/artifacts/kalikula-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kalighat_temple_with_bazzar.JPG"
     provenance: "Balajijagadesh; CC BY-SA 3.0"
     period: "Image dated 2012"
     description: "This image shows Daksina Kali in the eastern Indian Kalikula iconographic form, selected as a defining visual reference for Kālīkula."
   - title: "Kalighat Temple, a principal Kalikula sanctuary"
-    imageUrl: "/artifacts/kalikula-2.jpg"
+    imageUrl: "/artifacts/kalikula-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kalighater_Kali.JPG"
     provenance: "Jonoikobangali; CC BY-SA 3.0"
     period: "Digital file published 2008"

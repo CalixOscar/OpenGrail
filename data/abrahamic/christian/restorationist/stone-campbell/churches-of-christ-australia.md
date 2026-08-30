@@ -46,13 +46,13 @@ sources:
       https://www.cambridge.org/core/search?q=Churches%20of%20Christ%20in%20Australia
 artifacts:
   - title: "Portrait of A. B. Maston, formative Australian Churches of Christ leader"
-    imageUrl: "/artifacts/churches-of-christ-australia-1.jpg"
+    imageUrl: "/artifacts/churches-of-christ-australia-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:(New_York)_Maston,_Roswell_-_Unit-_136th_Infantry,_Company-_B_-_Enlistment_Rank-_Private,_Discharge_Rank-_Private_-_DPLA_-_da16ef6cc8f935e583abb4664ae5e2ac.jpg"
     provenance: "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947; Public domain"
     period: "Digital file published 2020"
     description: "This image shows Portrait of A. B. Maston, formative Australian Churches of Christ leader, selected as a defining visual reference for Churches of Christ in Australia."
   - title: "Historic Swanston Street Church of Christ in Melbourne"
-    imageUrl: "/artifacts/churches-of-christ-australia-2.jpg"
+    imageUrl: "/artifacts/churches-of-christ-australia-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:St_David%27s_Uniting_Church_Oakleigh_were_there_-_Refugee_Action_protest_27_July_2013_Melbourne_(9374716287).jpg"
     provenance: "Takver from Australia; CC BY-SA 2.0"
     period: "Image dated 2013"

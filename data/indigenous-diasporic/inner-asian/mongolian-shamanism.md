@@ -46,13 +46,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Mongolian%20Shamanic%20Traditions'
 artifacts:
   - title: "Mongolian ovoo sacred stone cairn draped with khadag"
-    imageUrl: "/artifacts/mongolian-shamanism-1.jpg"
+    imageUrl: "/artifacts/mongolian-shamanism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mongolian_sacred_mountain_Chingeltei_Uul.jpg"
     provenance: "Martin Vorel; CC BY-SA 2.0"
     period: "Image dated 2007"
     description: "This image shows Mongolian ovoo sacred stone cairn draped with khadag, selected as a defining visual reference for Mongolian Shamanic Traditions."
   - title: "Mongolian shaman ritual regalia with brass toli mirror and drum"
-    imageUrl: "/artifacts/mongolian-shamanism-2.jpg"
+    imageUrl: "/artifacts/mongolian-shamanism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mongolian_Traditional_Culture_Shaman_Costume_(35577599171).jpg"
     provenance: "Gary Todd from Xinzheng, China; CC0"
     period: "Image dated 2017"

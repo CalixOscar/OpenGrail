@@ -49,13 +49,13 @@ sources:
     url: 'https://brill.com/search?q=Heaven''s%20Gate'
 artifacts:
   - title: "Heaven's Gate founders"
-    imageUrl: "/artifacts/heavens-gate-1.png"
+    imageUrl: "/artifacts/heavens-gate-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Heaven%27s_Gate_members_following_the_mass_suicide_in_Rancho_Santa_Fe.png"
     provenance: "San Diego Sheriff's Department; Public domain"
     period: "Image dated 1997"
     description: "This image shows Heaven's Gate founders, selected as a defining visual reference for Heaven's Gate."
   - title: "Comet Hale-Bopp in 1997, central to Heaven's Gate theology"
-    imageUrl: "/artifacts/heavens-gate-2.jpg"
+    imageUrl: "/artifacts/heavens-gate-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kom%C3%A9ta_C-2020_F3_(NEOWISE).jpg"
     provenance: "Palonitor; CC BY-SA 4.0"
     period: "Image dated 2020"

@@ -56,13 +56,13 @@ sources:
       https://ich.unesco.org/en/search?q=iTaukei%20Fijian%20Religious%20Traditions
 artifacts:
   - title: "Authentic Tabua polished sperm whale tooth from Fiji"
-    imageUrl: "/artifacts/fijian-religious-traditions-1.jpg"
+    imageUrl: "/artifacts/fijian-religious-traditions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pendant_(tabua),_Fiji,_c._1835-1840,_Honolulu_Museum_of_Art,_4972.1.jpg"
     provenance: "Hiart; CC0"
     period: "Image dated 2014"
     description: "This image shows Authentic Tabua polished sperm whale tooth from Fiji, selected as a defining visual reference for iTaukei Fijian Religious Traditions."
   - title: "Historic thatched spire Bure Kalou spirit temple"
-    imageUrl: "/artifacts/fijian-religious-traditions-2.jpg"
+    imageUrl: "/artifacts/fijian-religious-traditions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Polynesian_Cultural_Center_-_Bure_Kalou_(House_of_God)_(14060282005).jpg"
     provenance: "Daniel Ramirez from Honolulu, USA; CC BY 2.0"
     period: "Image dated 2013"

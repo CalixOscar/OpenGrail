@@ -51,13 +51,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Umbanda'
 artifacts:
   - title: "Caboclo spirit guide statue on an Umbanda terreiro altar"
-    imageUrl: "/artifacts/umbanda-1.jpg"
+    imageUrl: "/artifacts/umbanda-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sala_de_cultos_centro_espirita_caboclo_pena_branca._.jpg"
     provenance: "Roberto pereira 1969; CC BY-SA 4.0"
     period: "Image dated 2016"
     description: "This image shows Caboclo spirit guide statue on an Umbanda terreiro altar, selected as a defining visual reference for Umbanda."
   - title: "Preto Velho ancestral spirit guide image in Umbanda"
-    imageUrl: "/artifacts/umbanda-2.jpg"
+    imageUrl: "/artifacts/umbanda-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pretos-velhos.JPG"
     provenance: "Junius; CC BY-SA 3.0"
     period: "Image dated 2009"

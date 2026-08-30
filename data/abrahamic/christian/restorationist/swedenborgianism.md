@@ -47,13 +47,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=The%20New%20Church'
 artifacts:
   - title: "Portrait of Emanuel Swedenborg, visionary theologian of the New Church"
-    imageUrl: "/artifacts/swedenborgianism-1.png"
+    imageUrl: "/artifacts/swedenborgianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Emanuel_Swedenborg.PNG"
     provenance: "Carl Frederik von Breda; Public domain"
     period: "Image dated 1818"
     description: "This image shows Portrait of Emanuel Swedenborg, visionary theologian of the New Church, selected as a defining visual reference for The New Church (Swedenborgianism)."
   - title: "Bryn Athyn Cathedral, monumental Swedenborgian sanctuary"
-    imageUrl: "/artifacts/swedenborgianism-2.jpg"
+    imageUrl: "/artifacts/swedenborgianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bryn_Athyn_Cathedral.jpg"
     provenance: "Coemgenus at English Wikipedia ( Original text: en:User:Coemgenus ); Public domain"
     period: "Image dated 2006"

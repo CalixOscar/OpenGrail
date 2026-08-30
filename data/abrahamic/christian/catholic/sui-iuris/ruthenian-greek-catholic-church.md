@@ -49,13 +49,13 @@ sources:
       https://www.cambridge.org/core/search?q=Ruthenian%20Greek%20Catholic%20Church
 artifacts:
   - title: "Ruthenian Byzantine Catholic liturgical worship"
-    imageUrl: "/artifacts/ruthenian-greek-catholic-church-1.jpg"
+    imageUrl: "/artifacts/ruthenian-greek-catholic-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Byzantine_Catholic_Church.jpg"
     provenance: "Jay Galvin; CC BY 2.0"
     period: "Image dated 2010"
     description: "This image shows Ruthenian Byzantine Catholic liturgical worship, selected as a defining visual reference for Ruthenian Greek Catholic Church."
   - title: "Historic Rusyn Greek Catholic wooden church and iconostasis at Bodruzal"
-    imageUrl: "/artifacts/ruthenian-greek-catholic-church-2.jpg"
+    imageUrl: "/artifacts/ruthenian-greek-catholic-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bodruzal_-_Saint_Nicholas_Church.jpg"
     provenance: "Ingo Mehling; CC BY-SA 4.0"
     period: "Image dated 2019"

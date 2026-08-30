@@ -39,13 +39,13 @@ sources:
     url: 'https://www.ucpress.edu/'
 artifacts:
   - title: "The Weighing of the Heart against the Feather of Ma'at"
-    imageUrl: "/artifacts/egyptian-maat-ethics-1.jpg"
+    imageUrl: "/artifacts/egyptian-maat-ethics-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Djerba_Weighing_scale_02.JPG"
     provenance: "Ad Meskens; CC BY-SA 4.0"
     period: "13th century"
     description: "This image shows The Weighing of the Heart against the Feather of Ma'at, selected as a defining visual reference for Ma'at & Ancient Nilotic Moral Order."
   - title: "Relief of the goddess Ma'at at Abydos"
-    imageUrl: "/artifacts/egyptian-maat-ethics-2.jpg"
+    imageUrl: "/artifacts/egyptian-maat-ethics-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Egyptian_-_Fragment_in_Sunk_Relief_of_Female_Deity_Bearing_Offerings_-_Walters_2293.jpg"
     provenance: "Anonymous ( Egypt ) Unknown author; Public domain"
     period: "Image dated 1270"

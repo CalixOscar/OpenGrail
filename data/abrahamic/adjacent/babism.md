@@ -49,13 +49,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Babism'
 artifacts:
   - title: "Shrine of the Bab, the movement's prophetic founder"
-    imageUrl: "/artifacts/babism-1.jpg"
+    imageUrl: "/artifacts/babism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Yefe_Nof_-_Bahai_terraces,_followed_by_the_German_Colony_(Ben_Gourion_av)_and_in_the_far_end_on_the_right_the_Dagon_silo.JPG"
     provenance: "FLLL; CC BY-SA 4.0"
     period: "Image dated 2013"
     description: "This image shows Shrine of the Bab, the movement's prophetic founder, selected as a defining visual reference for Babism."
   - title: "Historical manuscript of the Bab's Persian Bayan"
-    imageUrl: "/artifacts/babism-2.jpg"
+    imageUrl: "/artifacts/babism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bab-Star-Tablet-Haykal.jpg"
     provenance: "The Bab, founder of Babism; Public domain"
     period: "Mid-19th century"

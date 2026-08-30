@@ -51,13 +51,13 @@ sources:
     url: 'https://brill.com/search?q=Anglo-Saxon%20Heathenry'
 artifacts:
   - title: "Anglo-Saxon Woden bracteate"
-    imageUrl: "/artifacts/anglo-saxon-heathenry-1.jpg"
+    imageUrl: "/artifacts/anglo-saxon-heathenry-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Anglo-Saxon_copper_alloy_anthropomorphic_figurine_(FindID_812120).jpg"
     provenance: "Lincolnshire County Council, Adam Daubney, 2016-11-03 10:55:17; CC BY 2.0"
     period: "Object or image dated 1000"
     description: "This image shows Anglo-Saxon Woden bracteate, selected as a defining visual reference for Anglo-Saxon Heathenry."
   - title: "Sutton Hoo ceremonial helmet"
-    imageUrl: "/artifacts/anglo-saxon-heathenry-2.jpg"
+    imageUrl: "/artifacts/anglo-saxon-heathenry-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Original_Sutton_Hoo_Helmet.jpg"
     provenance: "Michel wal ( Own work ); CC BY-SA 3.0"
     period: "7th century AD"

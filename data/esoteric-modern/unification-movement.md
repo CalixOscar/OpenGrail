@@ -46,13 +46,13 @@ sources:
     url: 'https://brill.com/search?q=Unification%20Movement'
 artifacts:
   - title: "Unification founders' Holy Wedding"
-    imageUrl: "/artifacts/unification-movement-1.jpg"
+    imageUrl: "/artifacts/unification-movement-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:TPblessing_ceremony.jpg"
     provenance: "Cristinadeargentina; CC BY-SA 4.0"
     period: "Image dated 2010"
     description: "This image shows Unification founders' Holy Wedding, selected as a defining visual reference for Unification Movement."
   - title: "Peace ceremony at Cheon Jeong Gung sanctuary"
-    imageUrl: "/artifacts/unification-movement-2.jpg"
+    imageUrl: "/artifacts/unification-movement-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:June_15th_Joint_Declaration_6.15_%EA%B3%B5%EB%8F%99%EC%84%A0%EC%96%B8.jpg"
     provenance: "InSapphoWeTrust; CC BY-SA 2.0"
     period: "Image dated 2008"

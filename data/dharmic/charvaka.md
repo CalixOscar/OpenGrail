@@ -52,13 +52,13 @@ sources:
       https://www.rep.routledge.com/search?query=C%C4%81rv%C4%81ka%20%2F%20Lok%C4%81yata
 artifacts:
   - title: "Ancient Indian philosophical tradition of Carvaka and Lokayata"
-    imageUrl: "/artifacts/charvaka-1.jpg"
+    imageUrl: "/artifacts/charvaka-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Entrance_of_Charvaka_Asramam.jpg"
     provenance: "Saiphani02; CC BY 4.0"
     period: "Image dated 2024"
     description: "This image shows Ancient Indian philosophical tradition of Carvaka and Lokayata, selected as a defining visual reference for Cārvāka / Lokāyata."
   - title: "Classical palm-leaf manuscript preserving Indian philosophical schools"
-    imageUrl: "/artifacts/charvaka-2.jpg"
+    imageUrl: "/artifacts/charvaka-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:1500-1200_BCE,_Rigveda_manuscript_page_sample_iii,_Sanskrit,_Devanagari.jpg"
     provenance: "Ms Sarah Welch; CC BY-SA 4.0"
     period: "14th century"

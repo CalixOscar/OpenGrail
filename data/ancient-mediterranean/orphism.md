@@ -45,14 +45,14 @@ sources:
     url: 'https://brill.com/search?q=Orphism'
 artifacts:
   - title: "Derveni Papyrus"
-    imageUrl: "/artifacts/orphism-1.jpg"
+    imageUrl: "/artifacts/orphism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Derveni_Papyrus_(section_I),_Archaeological_Museum_of_Thessaloniki,_July_18th,_2023.jpg"
     provenance: "Katolophyromai; CC BY 4.0"
     period: "Image dated 2023"
     description: "This image shows Derveni Papyrus, selected as a defining visual reference for Orphism."
     detail: high
   - title: "Orphic funerary gold tablet"
-    imageUrl: "/artifacts/orphism-2.jpg"
+    imageUrl: "/artifacts/orphism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Museo_archeologico_statale_Vito_Capialbi_09.jpg"
     provenance: "Adert; CC BY-SA 4.0"
     period: "Image dated 2022"

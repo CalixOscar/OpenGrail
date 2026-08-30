@@ -52,7 +52,7 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Kongo%20Religious%20Traditions'
 artifacts:
   - title: "Nkisi N'Kondi power figure with ritual blades and medicines"
-    imageUrl: "/artifacts/kongo-religion-1.jpg"
+    imageUrl: "/artifacts/kongo-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_22.1421_Power_Figure_Nkisi_Nkondi_(9).jpg"
     provenance: "Unknown author Unknown author; CC BY 3.0"
     period: "19 th century"

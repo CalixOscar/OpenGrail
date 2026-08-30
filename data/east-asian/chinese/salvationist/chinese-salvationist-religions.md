@@ -56,13 +56,13 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=Chinese%20Salvationist%20Religions
 artifacts:
   - title: "Eternal Mother iconography"
-    imageUrl: "/artifacts/chinese-salvationist-religions-1.jpg"
+    imageUrl: "/artifacts/chinese-salvationist-religions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:014_Main_Shrine_for_Wusheng_Laomu.jpg"
     provenance: "Anandajoti; CC BY-SA 4.0"
     period: "Image dated 2025"
     description: "This image shows Eternal Mother iconography, selected as a defining visual reference for Chinese Salvationist Religions (Comparative)."
   - title: "Salvationist precious-scroll manuscript"
-    imageUrl: "/artifacts/chinese-salvationist-religions-2.jpg"
+    imageUrl: "/artifacts/chinese-salvationist-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%E8%8F%8A%E8%8A%B1-%E9%87%91%E6%9B%B8%E5%AF%B6%E5%8D%B7_Chrysanthemum_morifolium_%27Gold_Book_Precious_Scroll%27_-%E9%A6%99%E6%B8%AF%E5%9C%93%E7%8E%84%E5%AD%B8%E9%99%A2_Hong_Kong_Yuen_Yuen_Institute-_(12084953135).jpg"
     provenance: "阿橋 HQ; CC BY-SA 2.0"
     period: "Image dated 2012"

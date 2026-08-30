@@ -46,13 +46,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Maasai%20Religious%20Traditions'
 artifacts:
   - title: "Ol Doinyo Lengai, the sacred Mountain of God"
-    imageUrl: "/artifacts/maasai-religion-1.jpg"
+    imageUrl: "/artifacts/maasai-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ol_Doinyo_Lengai_and_Lake_Empakaai.jpg"
     provenance: "Daniel Msirikale; CC BY-SA 4.0"
     period: "Image dated 2019"
     description: "This image shows Ol Doinyo Lengai, the sacred Mountain of God, selected as a defining visual reference for Maasai Religious Traditions."
   - title: "Maasai Eunoto ritual transition ceremony"
-    imageUrl: "/artifacts/maasai-religion-2.jpg"
+    imageUrl: "/artifacts/maasai-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Massai-001.jpg"
     provenance: "Willy Horsch; CC BY 2.5"
     period: "Image dated 1989"

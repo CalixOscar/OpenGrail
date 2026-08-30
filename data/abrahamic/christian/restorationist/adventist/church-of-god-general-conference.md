@@ -47,13 +47,13 @@ sources:
       https://www.cambridge.org/core/search?q=Church%20of%20God%20General%20Conference
 artifacts:
   - title: "Portrait of Benjamin Wilson, formative Church of God General Conference figure"
-    imageUrl: "/artifacts/church-of-god-general-conference-1.jpg"
+    imageUrl: "/artifacts/church-of-god-general-conference-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Benjamin_wilson_oval_from_diaglott.jpg"
     provenance: "The Abrahamic Faith Beacon Publishing Society, Miami; Public domain"
     period: "Image dated 1865"
     description: "This image shows Portrait of Benjamin Wilson, formative Church of God General Conference figure, selected as a defining visual reference for Church of God General Conference."
   - title: "Wilson's Emphatic Diaglott, an influential scripture edition in the movement"
-    imageUrl: "/artifacts/church-of-god-general-conference-2.jpg"
+    imageUrl: "/artifacts/church-of-god-general-conference-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Emphatic_Diaglott.jpg"
     provenance: "About the book: Benjamin Wilson , copyrights are owned by Watch Tower Bible and Tract Society; CC BY-SA 3.0"
     period: "Image dated 1902"

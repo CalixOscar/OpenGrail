@@ -47,13 +47,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Christian%20Church'
 artifacts:
   - title: "Red chalice and Saint Andrew's cross emblem of the Disciples"
-    imageUrl: "/artifacts/christian-church-disciples-of-christ-1.jpg"
+    imageUrl: "/artifacts/christian-church-disciples-of-christ-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Gravestone_Disciples_of_Christ_and_Christian_Reformed.jpg"
     provenance: "John Hamer; CC BY-SA 3.0"
     period: "Digital file published 2011"
     description: "This image shows Red chalice and Saint Andrew's cross emblem of the Disciples, selected as a defining visual reference for Christian Church (Disciples of Christ)."
   - title: "National City Christian Church, prominent Disciples sanctuary"
-    imageUrl: "/artifacts/christian-church-disciples-of-christ-2.jpg"
+    imageUrl: "/artifacts/christian-church-disciples-of-christ-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Facade_-_National_City_Christian_Church.JPG"
     provenance: "AgnosticPreachersKid; CC BY-SA 3.0"
     period: "Image dated 2009"

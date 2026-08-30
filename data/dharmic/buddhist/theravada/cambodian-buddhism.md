@@ -51,13 +51,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Cambodian%20Buddhism'
 artifacts:
   - title: "Khmer Theravada Buddha image at Wat Phnom"
-    imageUrl: "/artifacts/cambodian-buddhism-1.jpg"
+    imageUrl: "/artifacts/cambodian-buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Lascar_Wat_Phra_Kaew_behind_defensive_wall_(4509108065).jpg"
     provenance: "Jorge Lascar from Australia; CC BY 2.0"
     period: "15th century"
     description: "This image shows Khmer Theravada Buddha image at Wat Phnom, selected as a defining visual reference for Cambodian Buddhism."
   - title: "Silver Pagoda, Cambodia's royal Buddhist sanctuary"
-    imageUrl: "/artifacts/cambodian-buddhism-2.jpg"
+    imageUrl: "/artifacts/cambodian-buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:2016_Phnom_Penh,_Pa%C5%82ac_Kr%C3%B3lewski,_Srebrna_Pagoda_(02).jpg"
     provenance: "Marcin Konsek; CC BY-SA 4.0"
     period: "Image dated 2016"

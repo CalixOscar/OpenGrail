@@ -45,13 +45,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Sikh%20Tradition'
 artifacts:
   - title: "Traditional painting of Guru Nanak, founder of the Sikh tradition"
-    imageUrl: "/artifacts/sikhism-1.jpg"
+    imageUrl: "/artifacts/sikhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Guru_Angad_taking-leave_of_Guru_Nanak,_painting_from_an_1830%27s_Janamsakhi_(life_stories)_05.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "Image dated 1830"
     description: "This image shows Traditional painting of Guru Nanak, founder of the Sikh tradition, selected as a defining visual reference for Sikh Tradition."
   - title: "Harmandir Sahib, the Golden Temple at Amritsar"
-    imageUrl: "/artifacts/sikhism-2.jpg"
+    imageUrl: "/artifacts/sikhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sikh_pilgrim_at_the_Golden_Temple_(Harmandir_Sahib)_in_Amritsar,_India.jpg"
     provenance: "Paulrudd; CC BY-SA 4.0"
     period: "Image dated 2009"

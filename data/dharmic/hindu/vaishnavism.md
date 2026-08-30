@@ -47,13 +47,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Vai%E1%B9%A3%E1%B9%87avism'
 artifacts:
   - title: "Visnu reclining on Ananta, supreme Vaisnava iconography"
-    imageUrl: "/artifacts/vaishnavism-1.jpg"
+    imageUrl: "/artifacts/vaishnavism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Vishnu_recline_Vidisha.jpg"
     provenance: "Prof Ranga Sai; CC0"
     period: "10th-century"
     description: "This image shows Visnu reclining on Ananta, supreme Vaisnava iconography, selected as a defining visual reference for Vaiṣṇavism."
   - title: "Srirangam temple complex, one of the foremost Vaisnava sanctuaries"
-    imageUrl: "/artifacts/vaishnavism-2.jpg"
+    imageUrl: "/artifacts/vaishnavism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sri_Ranganathaswamy_Temple,_dedicated_to_Vishnu,_in_Srirangam,_near_Tiruchirappali_(151)_(37465657406).jpg"
     provenance: "Richard Mortel from Riyadh, Saudi Arabia; CC BY 2.0"
     period: "11th-century"

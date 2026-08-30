@@ -50,13 +50,13 @@ sources:
     url: 'https://brill.com/search?q=Russian%20Cosmism'
 artifacts:
   - title: "Portrait drawing of Cosmist philosopher Nikolai Fyodorov"
-    imageUrl: "/artifacts/russian-cosmism-1.jpg"
+    imageUrl: "/artifacts/russian-cosmism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:0NevrevNV_Oprichniki_BISHFXD.jpg"
     provenance: "Nikolai Nevrev; Public domain"
     period: "Digital file published 2023"
     description: "This image shows Portrait drawing of Cosmist philosopher Nikolai Fyodorov, selected as a defining visual reference for Russian Cosmism."
   - title: "Tsiolkovsky cosmological manuscript"
-    imageUrl: "/artifacts/russian-cosmism-2.jpg"
+    imageUrl: "/artifacts/russian-cosmism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tsiolkovsky_Album_11.jpg"
     provenance: "Konstantin Tsiolkovsky (1857–1935); Public domain"
     period: "Image dated 1933"

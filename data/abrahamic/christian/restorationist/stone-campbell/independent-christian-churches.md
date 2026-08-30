@@ -52,13 +52,13 @@ sources:
       https://www.cambridge.org/core/search?q=Independent%20Christian%20Churches%20and%20Churches%20of%20Christ
 artifacts:
   - title: "Worship at the historic gathering of independent Christian churches"
-    imageUrl: "/artifacts/independent-christian-churches-1.jpg"
+    imageUrl: "/artifacts/independent-christian-churches-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cedar_Bayou_United_Methodist_Church_--_Baytown,_Texas.jpg"
     provenance: "Jim Evans; CC BY-SA 4.0"
     period: "Image dated 2020"
     description: "This image shows Worship at the historic gathering of independent Christian churches, selected as a defining visual reference for Independent Christian Churches and Churches of Christ."
   - title: "Large sanctuary of Southeast Christian Church in Louisville"
-    imageUrl: "/artifacts/independent-christian-churches-2.jpg"
+    imageUrl: "/artifacts/independent-christian-churches-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Southeast_Christian_Church.jpg"
     provenance: "local louisville; CC BY 2.0"
     period: "Image dated 2010"

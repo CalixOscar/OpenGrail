@@ -46,13 +46,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Breslov%20Hasidism'
 artifacts:
   - title: "Breslov pilgrims at Rebbe Nachman's grave in Uman"
-    imageUrl: "/artifacts/breslov-hasidism-1.jpg"
+    imageUrl: "/artifacts/breslov-hasidism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hasidi_Uman_3.JPG"
     provenance: "Uk-Kamelot; CC BY-SA 3.0"
     period: "Image dated 2007"
     description: "This image shows Breslov pilgrims at Rebbe Nachman's grave in Uman, selected as a defining visual reference for Breslov Hasidism."
   - title: "Early edition of Rebbe Nachman's Likutey Moharan"
-    imageUrl: "/artifacts/breslov-hasidism-2.jpg"
+    imageUrl: "/artifacts/breslov-hasidism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hay_Festival_Early_Edition_2008.jpg"
     provenance: "Debs from England; CC BY 2.0"
     period: "Object or image dated 2008"

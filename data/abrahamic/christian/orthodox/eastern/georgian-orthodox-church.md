@@ -45,13 +45,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Georgian%20Orthodox%20Church'
 artifacts:
   - title: "Khakhuli triptych, monumental Georgian Orthodox icon"
-    imageUrl: "/artifacts/georgian-orthodox-church-1.jpg"
+    imageUrl: "/artifacts/georgian-orthodox-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Georgia_Khakhuli_triptych.jpg"
     provenance: "Unknown (10th-12th century); Public domain"
     period: "10th-12th century"
     description: "This image shows Khakhuli triptych, monumental Georgian Orthodox icon, selected as a defining visual reference for Georgian Orthodox Church."
   - title: "Svetitskhoveli Cathedral, historic Georgian patriarchal sanctuary"
-    imageUrl: "/artifacts/georgian-orthodox-church-2.jpg"
+    imageUrl: "/artifacts/georgian-orthodox-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mtskheta,_Svetitskhoveli_Cathedral,_Icons_and_frescoes,_Georgia.jpg"
     provenance: "Vyacheslav Argenberg; CC BY 4.0"
     period: "4th century"

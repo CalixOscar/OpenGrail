@@ -43,13 +43,13 @@ sources:
     url: 'https://brill.com/search?q=Church%20of%20Satan'
 artifacts:
   - title: "Founder Anton LaVey"
-    imageUrl: "/artifacts/church-of-satan-1.jpg"
+    imageUrl: "/artifacts/church-of-satan-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:LaVey_officiated_Satanic_wedding,_1967.jpg"
     provenance: "Associated Press; Public domain"
     period: "Image dated 1967"
     description: "This image shows Founder Anton LaVey, selected as a defining visual reference for Church of Satan."
   - title: "Church of Satan's Black House"
-    imageUrl: "/artifacts/church-of-satan-2.jpg"
+    imageUrl: "/artifacts/church-of-satan-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Black_House_On_The_Corner_(2014975957).jpg"
     provenance: "Helgi Halldorsson from Reykjavik, Iceland; CC BY-SA 2.0"
     period: "Image dated 2007"

@@ -46,13 +46,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Jinja%20Shinto'
 artifacts:
   - title: "Itsukushima torii"
-    imageUrl: "/artifacts/jinja-shinto-1.jpg"
+    imageUrl: "/artifacts/jinja-shinto-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Itsukushima_Shrine_Torii_seen_from_the_east_corridor_at_low_tide_-_spring_2019.jpg"
     provenance: "shankar s.; CC BY 2.0"
     period: "Image dated 2019"
     description: "This image shows Itsukushima torii, selected as a defining visual reference for Jinja Shinto."
   - title: "Inner Shrine at Ise"
-    imageUrl: "/artifacts/jinja-shinto-2.jpg"
+    imageUrl: "/artifacts/jinja-shinto-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Statue_at_the_wagashi_shop_in_Ise_by_hiromama.jpg"
     provenance: "hiromama from Ise, Mie; CC BY 2.0"
     period: "Image dated 2005"

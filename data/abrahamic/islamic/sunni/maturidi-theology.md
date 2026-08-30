@@ -46,13 +46,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Maturidi%20Theology'
 artifacts:
   - title: "Mausoleum of Abu Mansur al-Maturidi in Samarkand"
-    imageUrl: "/artifacts/maturidi-theology-1.jpg"
+    imageUrl: "/artifacts/maturidi-theology-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Imammaturidi.jpg"
     provenance: "Original uploader was Oltantr ( talk ); Public domain"
     period: "Image dated 2008"
     description: "This image shows Mausoleum of Abu Mansur al-Maturidi in Samarkand, selected as a defining visual reference for Maturidi Theology."
   - title: "Manuscript of al-Maturidi's Kitab al-Tawhid"
-    imageUrl: "/artifacts/maturidi-theology-2.jpg"
+    imageUrl: "/artifacts/maturidi-theology-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kitab_al-Tawhid_by_ibn_al-Wahhab,_Riyadh_Museum.jpg"
     provenance: "Derivator2017; CC0"
     period: "Image dated 2018"

@@ -43,13 +43,13 @@ sources:
     url: 'https://brill.com/search?q=Scientology'
 artifacts:
   - title: "Scientology founder L. Ron Hubbard"
-    imageUrl: "/artifacts/scientology-1.jpg"
+    imageUrl: "/artifacts/scientology-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:L._RON_HUBBARD_RESIDENCE_AT_BAY_HEAD,_OCEAN_COUNTY,_NJ.jpg"
     provenance: "JERRYE & ROY KLOTZ, M.D.; CC BY-SA 4.0"
     period: "Image dated 2018"
     description: "This image shows Scientology founder L. Ron Hubbard, selected as a defining visual reference for Scientology."
   - title: "Scientology Flag Building"
-    imageUrl: "/artifacts/scientology-2.jpg"
+    imageUrl: "/artifacts/scientology-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:2008_06_Clearwater,_Florida_-_Operation_Sea_Arrgh_406.jpg"
     provenance: "Anonymous9000; CC BY 2.0"
     period: "Image dated 2008"

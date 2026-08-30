@@ -48,13 +48,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Jogye%20Order'
 artifacts:
   - title: "Jinul, formative Korean Seon master revered by the Jogye Order"
-    imageUrl: "/artifacts/jogye-order-1.jpg"
+    imageUrl: "/artifacts/jogye-order-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jinul.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "Image dated 1780"
     description: "This image shows Jinul, formative Korean Seon master revered by the Jogye Order, selected as a defining visual reference for Jogye Order."
   - title: "Jogyesa, the chief temple of the Jogye Order"
-    imageUrl: "/artifacts/jogye-order-2.jpg"
+    imageUrl: "/artifacts/jogye-order-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Seoul-Buddhist.temple-Jogyesa-01.jpg"
     provenance: "https://www.flickr.com/photos/parrhesiastes/; CC BY 2.0"
     period: "Image dated 2007"

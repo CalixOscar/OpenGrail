@@ -48,13 +48,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Cherokee%20Religious%20Traditions'
 artifacts:
   - title: "Kituwah Mound, sacred mother town of the Cherokee"
-    imageUrl: "/artifacts/cherokee-religions-1.jpg"
+    imageUrl: "/artifacts/cherokee-religions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kituwah_Sign,_Ela,_NC_(45922085024).jpg"
     provenance: "Warren LeMay from Cullowhee, NC, United States; CC0"
     period: "Image dated 2018"
     description: "This image shows Kituwah Mound, sacred mother town of the Cherokee, selected as a defining visual reference for Cherokee Religious Traditions."
   - title: "Cherokee carved wooden Booger Mask"
-    imageUrl: "/artifacts/cherokee-religions-2.jpg"
+    imageUrl: "/artifacts/cherokee-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%22Booger%22_Dance_Mask_Representing_a_Black_Buffalo._-_NARA_-_281599.jpg"
     provenance: "Unknown author Unknown author or not provided; Public domain"
     period: "Digital file published 2011"

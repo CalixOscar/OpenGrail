@@ -47,13 +47,13 @@ sources:
     url: 'https://brill.com/search?q=Gaelic%20Polytheism'
 artifacts:
   - title: "Turoe ceremonial stone with intricate Celtic spiral carvings"
-    imageUrl: "/artifacts/gaelic-polytheism-1.jpg"
+    imageUrl: "/artifacts/gaelic-polytheism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Iron_Age_pillar_stone_(FindID_782515).jpg"
     provenance: "Derby Museums Trust, Alastair Willis, 2016-06-03 11:39:57; CC BY 2.0"
     period: "Object or image dated 1982"
     description: "This image shows Turoe ceremonial stone with intricate Celtic spiral carvings, selected as a defining visual reference for Gaelic Polytheism."
   - title: "Emain Macha ceremonial complex"
-    imageUrl: "/artifacts/gaelic-polytheism-2.jpg"
+    imageUrl: "/artifacts/gaelic-polytheism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Navan.jpg"
     provenance: "Jon Sullivan; Public domain"
     period: "Image dated 2002"

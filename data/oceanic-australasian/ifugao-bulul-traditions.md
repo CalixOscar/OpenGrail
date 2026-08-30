@@ -38,13 +38,13 @@ sources:
     url: 'https://whc.unesco.org/en/list/722/'
 artifacts:
   - title: "Pair of male and female carved wooden Bulul guardian figures"
-    imageUrl: "/artifacts/ifugao-bulul-traditions-1.jpg"
+    imageUrl: "/artifacts/ifugao-bulul-traditions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female.jpg"
     provenance: "This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens; CC BY-SA 2.5"
     period: "Image dated 2008"
     description: "This image shows Pair of male and female carved wooden Bulul guardian figures, selected as a defining visual reference for Ifugao Bulul Traditions & Hudhud Chants."
   - title: "Sacred Batad amphitheater rice terraces in Ifugao"
-    imageUrl: "/artifacts/ifugao-bulul-traditions-2.jpg"
+    imageUrl: "/artifacts/ifugao-bulul-traditions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hungduan,_Hapao_rice_terraces_-_Flickr.jpg"
     provenance: "Arian Zwegers from Brussels, Belgium; CC BY 2.0"
     period: "Image dated 2019"

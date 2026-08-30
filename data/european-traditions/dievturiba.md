@@ -51,13 +51,13 @@ sources:
     url: 'https://brill.com/search?q=Dievtur%C4%ABba'
 artifacts:
   - title: "Dievturiba founder Ernests Brastins"
-    imageUrl: "/artifacts/dievturiba-1.jpg"
+    imageUrl: "/artifacts/dievturiba-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:M%C4%81ra_%E2%80%93_Zemes_M%C4%81te_2.jpg"
     provenance: "Latvian pagan; CC BY-SA 4.0"
     period: "Image dated 2023"
     description: "This image shows Dievturiba founder Ernests Brastins, selected as a defining visual reference for Dievturība."
   - title: "Lokstene Dievturi sanctuary"
-    imageUrl: "/artifacts/dievturiba-2.jpg"
+    imageUrl: "/artifacts/dievturiba-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Lokstene_Dievturi_Shrine_in_Liepsalas,_Klintaine_Parish,_P%C4%BCavi%C5%86as_Municipality,_Latvia.jpg"
     provenance: "Ratobiajin; CC BY-SA 4.0"
     period: "Image dated 2017"

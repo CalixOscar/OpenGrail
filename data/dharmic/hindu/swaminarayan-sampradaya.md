@@ -49,13 +49,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Swaminarayan%20Samprad%C4%81ya'
 artifacts:
   - title: "Sahajanand Swami portrayed as Swaminarayan"
-    imageUrl: "/artifacts/swaminarayan-sampradaya-1.jpg"
+    imageUrl: "/artifacts/swaminarayan-sampradaya-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shri_Swaminarayan_Mandir,_Bhavnagar_01.jpg"
     provenance: "Bernard Gagnon; CC BY-SA 3.0"
     period: "Image dated 2013"
     description: "This image shows Sahajanand Swami portrayed as Swaminarayan, selected as a defining visual reference for Swaminarayan Sampradāya."
   - title: "Original Swaminarayan Mandir at Kalupur, Ahmedabad"
-    imageUrl: "/artifacts/swaminarayan-sampradaya-2.jpg"
+    imageUrl: "/artifacts/swaminarayan-sampradaya-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kalupur_Swaminarayan_mandir.JPG"
     provenance: "Rajani; CC BY-SA 3.0"
     period: "Image dated 2011"

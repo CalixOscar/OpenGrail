@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Quakers'
 artifacts:
   - title: "Portrait of George Fox, founder of the Religious Society of Friends"
-    imageUrl: "/artifacts/quakers-1.jpg"
+    imageUrl: "/artifacts/quakers-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Anti-Slavery_Society_Convention,_1840_by_Benjamin_Robert_Haydon.jpg"
     provenance: "Benjamin Haydon; Public domain"
     period: "Image dated 1841"
     description: "This image shows Portrait of George Fox, founder of the Religious Society of Friends, selected as a defining visual reference for Quakers."
   - title: "Plain interior of historic Jordans Friends Meeting House"
-    imageUrl: "/artifacts/quakers-2.jpg"
+    imageUrl: "/artifacts/quakers-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jordans_Youth_Hostel_-_geograph.org.uk_-_87759.jpg"
     provenance: "David Squire; CC BY-SA 2.0"
     period: "Image dated 2005"

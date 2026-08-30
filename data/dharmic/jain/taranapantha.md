@@ -45,13 +45,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=T%C4%81ra%E1%B9%87apantha'
 artifacts:
   - title: "Samadhi shrine of Taran Svami at Nisaiji, Bina"
-    imageUrl: "/artifacts/taranapantha-1.jpg"
+    imageUrl: "/artifacts/taranapantha-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:NisaiJiBina.jpg"
     provenance: "Adarshkothia; CC BY-SA 3.0"
     period: "Image dated 2012"
     description: "This image shows Samadhi shrine of Taran Svami at Nisaiji, Bina, selected as a defining visual reference for Tāraṇapantha."
   - title: "Sacred Jain emblem representing non-violence and path to liberation"
-    imageUrl: "/artifacts/taranapantha-2.jpg"
+    imageUrl: "/artifacts/taranapantha-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jain_Vegetarianism_Illustration.jpg"
     provenance: "Effulgence108; CC0"
     period: "Image dated 2016"

@@ -46,14 +46,14 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Salafism'
 artifacts:
   - title: "Early manuscript or edition of Kitab al-Tawhid"
-    imageUrl: "/artifacts/salafism-1.jpg"
+    imageUrl: "/artifacts/salafism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Doha_Imam_Muhammad_ibn_Abd_al-Wahhab_Mosque_Exterior_2.jpg"
     provenance: "Zairon; CC BY 4.0"
     period: "Image dated 2023"
     description: "This image shows Early manuscript or edition of Kitab al-Tawhid, selected as a defining visual reference for Salafism."
     detail: high
   - title: "Portrait of influential modern Salafi scholar al-Albani"
-    imageUrl: "/artifacts/salafism-2.jpg"
+    imageUrl: "/artifacts/salafism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Nasser_al-Din_Shah_Louvre_MAO776-Edit.jpg"
     provenance: "Bahram Kirmanshahi (Persian, 19th century); Public domain"
     period: "Image dated 1857"

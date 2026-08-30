@@ -44,13 +44,13 @@ sources:
     url: 'https://brill.com/search?q=Kemetism'
 artifacts:
   - title: "Kemetic Orthodox deity shrine"
-    imageUrl: "/artifacts/kemetism-1.jpg"
+    imageUrl: "/artifacts/kemetism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Naos_kemeti.JPG"
     provenance: "Tedmek; Public domain"
     period: "Image dated 2007"
     description: "This image shows Kemetic Orthodox deity shrine, selected as a defining visual reference for Kemetism."
   - title: "Contemporary Kemetic rite"
-    imageUrl: "/artifacts/kemetism-2.jpg"
+    imageUrl: "/artifacts/kemetism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Th_oltar.JPG"
     provenance: "Tedmek; Public domain"
     period: "Image dated 2009"

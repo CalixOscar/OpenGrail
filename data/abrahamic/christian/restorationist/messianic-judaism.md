@@ -44,13 +44,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Messianic%20Judaism'
 artifacts:
   - title: "Composite menorah, fish, and Star of David Messianic emblem"
-    imageUrl: "/artifacts/messianic-judaism-1.png"
+    imageUrl: "/artifacts/messianic-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Messianic_symbols.png"
     provenance: "SHLAMA at English Wikipedia; Public domain"
     period: "Image dated 2006"
     description: "This image shows Composite menorah, fish, and Star of David Messianic emblem, selected as a defining visual reference for Messianic Judaism."
   - title: "Torah procession in a Messianic Jewish congregation"
-    imageUrl: "/artifacts/messianic-judaism-2.jpg"
+    imageUrl: "/artifacts/messianic-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Psak_din_messiah.jpg"
     provenance: "שיע.ק; CC0"
     period: "Digital file published 2011"

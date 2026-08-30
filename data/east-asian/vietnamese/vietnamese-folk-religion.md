@@ -50,13 +50,13 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=Vietnamese%20Folk%20Religion
 artifacts:
   - title: "Village tutelary-deity altar"
-    imageUrl: "/artifacts/vietnamese-folk-religion-1.jpg"
+    imageUrl: "/artifacts/vietnamese-folk-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:B%C3%A0n_th%E1%BB%9D_Th%C3%A0nh_ho%C3%A0ng.jpg"
     provenance: "Bui Thuy Đao Nguyen; CC BY-SA 3.0"
     period: "Digital file published 2009"
     description: "This image shows Village tutelary-deity altar, selected as a defining visual reference for Vietnamese Folk Religion."
   - title: "Hung Kings Temple"
-    imageUrl: "/artifacts/vietnamese-folk-religion-2.jpg"
+    imageUrl: "/artifacts/vietnamese-folk-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:H%C3%B9ng_Kings_Temple,_Ho_Chi_Minh_City,_Vietnam_-_20121014-01.JPG"
     provenance: "Jacklee .; CC BY-SA 3.0"
     period: "Image dated 2012"

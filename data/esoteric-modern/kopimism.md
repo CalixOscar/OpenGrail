@@ -46,13 +46,13 @@ sources:
     url: 'https://brill.com/search?q=Missionary%20Church%20of%20Kopimism'
 artifacts:
   - title: "Kopimi sacred emblem"
-    imageUrl: "/artifacts/kopimism-1.jpg"
+    imageUrl: "/artifacts/kopimism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kopimist_Wedding.jpg"
     provenance: "Share Conference (The source not share the specific author(s) for this file); CC BY-SA 2.0"
     period: "Image dated 2012"
     description: "This image shows Kopimi sacred emblem, selected as a defining visual reference for Missionary Church of Kopimism."
   - title: "Kopimist sacred symbol and ritual altar"
-    imageUrl: "/artifacts/kopimism-2.jpg"
+    imageUrl: "/artifacts/kopimism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Marikinajf9328_34.JPG"
     provenance: "Ramon FVelasquez; CC BY-SA 3.0"
     period: "Image dated 2014"

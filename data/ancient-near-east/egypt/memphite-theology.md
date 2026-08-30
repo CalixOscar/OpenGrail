@@ -49,14 +49,14 @@ sources:
     url: 'https://brill.com/search?q=Memphite%20Theology'
 artifacts:
   - title: "Shabaka Stone theology inscription"
-    imageUrl: "/artifacts/memphite-theology-1.jpg"
+    imageUrl: "/artifacts/memphite-theology-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:ShabakaStone-BritishMuseum-August19-08.jpg"
     provenance: "CaptMondo; CC BY 2.5"
     period: "710 BC"
     description: "This image shows Shabaka Stone theology inscription, selected as a defining visual reference for Memphite Theology."
     detail: high
   - title: "Memphite cult image of Ptah"
-    imageUrl: "/artifacts/memphite-theology-2.jpg"
+    imageUrl: "/artifacts/memphite-theology-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cult_Image_of_the_God_Ptah_MET_DP142956.jpg"
     provenance: "Wikimedia Commons; CC0"
     period: "Digital file published 2017"

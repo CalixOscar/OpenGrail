@@ -50,13 +50,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Malagasy%20Religious%20Traditions'
 artifacts:
   - title: "Mahafaly carved wooden aloalo funerary posts"
-    imageUrl: "/artifacts/malagasy-religion-1.jpg"
+    imageUrl: "/artifacts/malagasy-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mahafaly_tomb_with_aloalo_detail_south_Madagascar_2.jpg"
     provenance: "salymfayad; CC BY-SA 2.0"
     period: "Image dated 2009"
     description: "This image shows Mahafaly carved wooden aloalo funerary posts, selected as a defining visual reference for Malagasy Religious Traditions."
   - title: "Royal Hill of Ambohimanga sacred royal sanctuary"
-    imageUrl: "/artifacts/malagasy-religion-2.jpg"
+    imageUrl: "/artifacts/malagasy-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Royal_Hill,_Greenwich_-_geograph.org.uk_-_2019715.jpg"
     provenance: "Chris Denny; CC BY-SA 2.0"
     period: "Image dated 2010"

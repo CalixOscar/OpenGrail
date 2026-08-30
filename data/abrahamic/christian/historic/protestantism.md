@@ -45,13 +45,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Protestantism'
 artifacts:
   - title: "Luther and the Ninety-five Theses at Wittenberg"
-    imageUrl: "/artifacts/protestantism-1.jpg"
+    imageUrl: "/artifacts/protestantism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-16879-0021,_Wittenberg,_Schlosskirche,_Hauptportal,_Thesent%C3%BCr.jpg"
     provenance: "Hans-Gunter Quaschinsky; CC BY-SA 3.0 de"
     period: "Image dated 1952"
     description: "This image shows Luther and the Ninety-five Theses at Wittenberg, selected as a defining visual reference for Protestantism."
   - title: "Illustrated first complete edition of Luther's German Bible"
-    imageUrl: "/artifacts/protestantism-2.jpg"
+    imageUrl: "/artifacts/protestantism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Luther_1534,_Genesis_I.jpg"
     provenance: "Published by Hans Luft, 1534; Public domain"
     period: "Image dated 1534"

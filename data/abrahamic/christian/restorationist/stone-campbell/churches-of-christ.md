@@ -47,13 +47,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Churches%20of%20Christ'
 artifacts:
   - title: "Unaccompanied congregational singing characteristic of Churches of Christ"
-    imageUrl: "/artifacts/churches-of-christ-1.png"
+    imageUrl: "/artifacts/churches-of-christ-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:International_Churches_of_Christ_congregational_hierarchy.png"
     provenance: "Xiaphias; CC BY-SA 3.0"
     period: "Image dated 2007"
     description: "This image shows Unaccompanied congregational singing characteristic of Churches of Christ, selected as a defining visual reference for Churches of Christ."
   - title: "Portrait of David Lipscomb, influential Churches of Christ leader"
-    imageUrl: "/artifacts/churches-of-christ-2.jpg"
+    imageUrl: "/artifacts/churches-of-christ-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Alexander_Campbell,_founder_of_the_Disciples_of_Christ,_head-and-shoulders_portrait.jpg"
     provenance: "Colton, Zahm & Roberts, N.Y.; Public domain"
     period: "Image dated 1872"

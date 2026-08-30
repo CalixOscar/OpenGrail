@@ -48,13 +48,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Aghori%20Tradition'
 artifacts:
   - title: "Aghori practitioner in Varanasi"
-    imageUrl: "/artifacts/aghori-1.jpg"
+    imageUrl: "/artifacts/aghori-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:A_Sadhu_in_Varanasi.jpg"
     provenance: "KundenduK; CC BY-SA 4.0"
     period: "Image dated 2022"
     description: "This image shows Aghori practitioner in Varanasi, selected as a defining visual reference for Aghori Tradition."
   - title: "Manikarnika Ghat sacred cremation ground in Varanasi"
-    imageUrl: "/artifacts/aghori-2.jpg"
+    imageUrl: "/artifacts/aghori-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:-Cremation_Ground_at_Manikarnika_Ghat,_Varanasi,_India-_MET_DP71252.jpg"
     provenance: "Unknown author Unknown author; CC0"
     period: "Digital file published 2017"

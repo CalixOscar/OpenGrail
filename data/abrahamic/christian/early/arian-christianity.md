@@ -47,13 +47,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Arian%20Christianity'
 artifacts:
   - title: "Baptism of Christ mosaic in Ravenna's Arian Baptistery"
-    imageUrl: "/artifacts/arian-christianity-1.jpg"
+    imageUrl: "/artifacts/arian-christianity-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Baptistery.Arians.Entire.Mosaic.jpg"
     provenance: "St1hart; CC BY 3.0"
     period: "Image dated 2011"
     description: "This image shows Baptism of Christ mosaic in Ravenna's Arian Baptistery, selected as a defining visual reference for Arian Christianity (Historical)."
   - title: "Silver-and-gold Gothic Gospel manuscript associated with Bishop Wulfila"
-    imageUrl: "/artifacts/arian-christianity-2.jpg"
+    imageUrl: "/artifacts/arian-christianity-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Codex_Argenteus_fol_97.jpg"
     provenance: "Anonymous Unknown author; Public domain"
     period: "Object or image dated 2000"

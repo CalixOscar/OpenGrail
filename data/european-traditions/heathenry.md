@@ -45,13 +45,13 @@ sources:
     url: 'https://brill.com/search?q=Heathenry'
 artifacts:
   - title: "Modern Heathen blot"
-    imageUrl: "/artifacts/heathenry-1.jpg"
+    imageUrl: "/artifacts/heathenry-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Edsring_och_hammare.jpg"
     provenance: "Gunnar Creutz; Public domain"
     period: "Image dated 2009"
     description: "This image shows Modern Heathen blot, selected as a defining visual reference for Heathenry."
   - title: "Icelandic Heathen hof"
-    imageUrl: "/artifacts/heathenry-2.jpg"
+    imageUrl: "/artifacts/heathenry-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:V%C3%A5rblot_2010_offerg%C3%A5vor.jpg"
     provenance: "Gunnar Creutz; Public domain"
     period: "Image dated 2010"

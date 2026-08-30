@@ -48,13 +48,13 @@ sources:
     url: 'https://brill.com/search?q=Hellenistic%20Religion'
 artifacts:
   - title: "Alexander as Zeus-Ammon"
-    imageUrl: "/artifacts/hellenistic-religion-1.jpg"
+    imageUrl: "/artifacts/hellenistic-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Alexander_coin,_British_Museum.jpg"
     provenance: "Photograph by Mike Peel ( www.mikepeel.net ).; CC BY-SA 4.0"
     period: "281BC"
     description: "This image shows Alexander as Zeus-Ammon, selected as a defining visual reference for Hellenistic Religion."
   - title: "Pergamon Altar sacred relief"
-    imageUrl: "/artifacts/hellenistic-religion-2.jpg"
+    imageUrl: "/artifacts/hellenistic-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pergamonaltarathena.jpg"
     provenance: "Ealdgyth; CC BY-SA 3.0"
     period: "Image dated 2010"

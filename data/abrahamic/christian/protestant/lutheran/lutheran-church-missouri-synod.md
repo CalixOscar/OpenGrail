@@ -50,13 +50,13 @@ sources:
       https://www.cambridge.org/core/search?q=Lutheran%20Church%E2%80%94Missouri%20Synod
 artifacts:
   - title: "Portrait of C. F. W. Walther, formative Missouri Synod theologian"
-    imageUrl: "/artifacts/lutheran-church-missouri-synod-1.jpg"
+    imageUrl: "/artifacts/lutheran-church-missouri-synod-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:C._F._W._Walther_bust_portrait_LCCN2015652253.jpg"
     provenance: "Miscellaneous Items in High Demand, PPOC, Library of Congress; Public domain"
     period: "Image dated 1881"
     description: "This image shows Portrait of C. F. W. Walther, formative Missouri Synod theologian, selected as a defining visual reference for Lutheran Church—Missouri Synod."
   - title: "Concordia Seminary and Luther Tower in Saint Louis"
-    imageUrl: "/artifacts/lutheran-church-missouri-synod-2.jpg"
+    imageUrl: "/artifacts/lutheran-church-missouri-synod-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Concordia_College_in_Springfield,_Illinois_c1900.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "Image dated 1900"

@@ -52,13 +52,13 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=H%C3%B2a%20H%E1%BA%A3o%20Buddhism
 artifacts:
   - title: "Portrait of Huynh Phu So"
-    imageUrl: "/artifacts/hoa-hao-1.jpg"
+    imageUrl: "/artifacts/hoa-hao-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:T%E1%BB%95_%C4%91%C3%ACnh_PGHH.jpg"
     provenance: "Bui Thuy Đao Nguyen; CC BY-SA 3.0"
     period: "Image dated 2008"
     description: "This image shows Portrait of Huynh Phu So, selected as a defining visual reference for Hòa Hảo Buddhism."
   - title: "An Hoa Tu sanctuary"
-    imageUrl: "/artifacts/hoa-hao-2.jpg"
+    imageUrl: "/artifacts/hoa-hao-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:B%E1%BB%ADu_S%C6%A1n_T%E1%BB%B1_S%C3%B4ng_C%E1%BA%A7u.jpg"
     provenance: "Bui Thuy Đao Nguyen; CC BY-SA 3.0"
     period: "Image dated 2009"

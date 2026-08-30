@@ -50,13 +50,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Palo'
 artifacts:
   - title: "Sacred Nganga (Prenda) cauldron vessel of Palo Mayombe"
-    imageUrl: "/artifacts/palo-1.jpg"
+    imageUrl: "/artifacts/palo-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sacred_Heart_Cemetery_-_panoramio.jpg"
     provenance: "Corey Coyle; CC BY 3.0"
     period: "Image dated 2012"
     description: "This image shows Sacred Nganga (Prenda) cauldron vessel of Palo Mayombe, selected as a defining visual reference for Palo."
   - title: "Sacred Firma ritual ground cosmogram of Palo Monte"
-    imageUrl: "/artifacts/palo-2.jpg"
+    imageUrl: "/artifacts/palo-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dendera,_Temple_of_Hathor,_19th_century_pictures,_1870-1888,_photo_6_of_9_-_Archivio_fotografico_Museo_Egizio,_Turin_INV12_007.jpg"
     provenance: "Antonio Beato; CC0"
     period: "19th century"

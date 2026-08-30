@@ -46,13 +46,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Thi%E1%BB%81n%20Buddhism'
 artifacts:
   - title: "Tran Nhan Tong, founder of the Truc Lam Thien lineage"
-    imageUrl: "/artifacts/thien-1.jpg"
+    imageUrl: "/artifacts/thien-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%C4%90%E1%BB%81n_th%E1%BB%9D_Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.jpg"
     provenance: "Crystal gem ( Luu Ly ); CC BY 3.0"
     period: "Image dated 2009"
     description: "This image shows Tran Nhan Tong, founder of the Truc Lam Thien lineage, selected as a defining visual reference for Thiền Buddhism."
   - title: "Yen Tu monastic complex, cradle of Truc Lam Thien"
-    imageUrl: "/artifacts/thien-2.jpg"
+    imageUrl: "/artifacts/thien-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tam_quan_ch%C3%B9a_L%C3%A2n.jpg"
     provenance: "Thuydaonguyen; Public domain"
     period: "Image dated 2010"

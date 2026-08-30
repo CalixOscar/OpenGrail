@@ -47,13 +47,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Karma%20Kagyu'
 artifacts:
   - title: "The Karmapa's Black Crown ceremony, defining Karma Kagyu iconography"
-    imageUrl: "/artifacts/karma-kagyu-1.jpg"
+    imageUrl: "/artifacts/karma-kagyu-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:16_Karmapa_Statue_cf_09.jpg"
     provenance: "Secretlondon; CC BY-SA 3.0"
     period: "Image dated 2009"
     description: "This image shows The Karmapa's Black Crown ceremony, defining Karma Kagyu iconography, selected as a defining visual reference for Karma Kagyu."
   - title: "Rumtek Monastery, a principal modern Karma Kagyu seat"
-    imageUrl: "/artifacts/karma-kagyu-2.jpg"
+    imageUrl: "/artifacts/karma-kagyu-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Rumtek_Monastery_-_Sikkim_-_Wikipedia_(1).jpg"
     provenance: "RajashreeTalukdar; CC BY-SA 3.0"
     period: "Image dated 2000"

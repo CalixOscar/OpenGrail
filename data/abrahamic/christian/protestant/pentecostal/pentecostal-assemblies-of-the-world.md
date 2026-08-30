@@ -48,13 +48,13 @@ sources:
       https://www.cambridge.org/core/search?q=Pentecostal%20Assemblies%20of%20the%20World
 artifacts:
   - title: "Portrait of Bishop G. T. Haywood, formative PAW leader"
-    imageUrl: "/artifacts/pentecostal-assemblies-of-the-world-1.png"
+    imageUrl: "/artifacts/pentecostal-assemblies-of-the-world-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:MorganArms_MappertonChurch_Dorset.png"
     provenance: "Unknown glazier; Public domain"
     period: "16th century"
     description: "This image shows Portrait of Bishop G. T. Haywood, formative PAW leader, selected as a defining visual reference for Pentecostal Assemblies of the World."
   - title: "Christ Temple in Indianapolis, historic PAW congregation"
-    imageUrl: "/artifacts/pentecostal-assemblies-of-the-world-2.jpg"
+    imageUrl: "/artifacts/pentecostal-assemblies-of-the-world-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_New_Memorial_Temple_of_Christ_Apostolic_Faith_DC.JPG"
     provenance: "Farragutful; CC BY-SA 4.0"
     period: "Image dated 2014"

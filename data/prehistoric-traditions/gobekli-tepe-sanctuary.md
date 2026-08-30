@@ -48,13 +48,13 @@ sources:
     url: 'https://whc.unesco.org/en/list/1572/'
 artifacts:
   - title: "Vulture Stone sacred relief"
-    imageUrl: "/artifacts/gobekli-tepe-sanctuary-1.jpg"
+    imageUrl: "/artifacts/gobekli-tepe-sanctuary-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Urfa_museum_Totem_sept_2019_4807.jpg"
     provenance: "Dosseman; CC BY-SA 4.0"
     period: "8000 BCE"
     description: "This image shows Vulture Stone sacred relief, selected as a defining visual reference for Göbekli Tepe Megalithic Sanctuary Tradition."
   - title: "Enclosure D megalithic sanctuary"
-    imageUrl: "/artifacts/gobekli-tepe-sanctuary-2.jpg"
+    imageUrl: "/artifacts/gobekli-tepe-sanctuary-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Gobekli_Tepe,_enclosure_D_stela._%C5%9Eanl%C4%B1urfa_Museum.jpg"
     provenance: "Dosseman; CC BY-SA 4.0"
     period: "Image dated 2025"

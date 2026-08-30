@@ -49,13 +49,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=N%C4%81th%20Tradition'
 artifacts:
   - title: "Gorakhnath, paradigmatic guru of the Nath yogis"
-    imageUrl: "/artifacts/nath-tradition-1.jpg"
+    imageUrl: "/artifacts/nath-tradition-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Janamsakhi_mural_painting_depicting_a_scene_from_Guru_Nanak%27s_life,_possibly_the_discussion_he_held_with_Gorakhnath,_from_the_Ram_Rai_Darbar_complex_at_Dehradun.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "19th century"
     description: "This image shows Gorakhnath, paradigmatic guru of the Nath yogis, selected as a defining visual reference for Nāth Tradition."
   - title: "Gorakhnath Temple, a principal Nath monastic seat"
-    imageUrl: "/artifacts/nath-tradition-2.jpg"
+    imageUrl: "/artifacts/nath-tradition-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Gategorakhnath.jpg"
     provenance: "Rkmishr15; CC BY-SA 4.0"
     period: "Image dated 2013"

@@ -44,13 +44,13 @@ sources:
     url: 'https://brill.com/search?q=Mazdakism'
 artifacts:
   - title: "Sasanian silver ceremonial vessel depicting courtly hierarchy"
-    imageUrl: "/artifacts/mazdakism-1.jpg"
+    imageUrl: "/artifacts/mazdakism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hunting_King_Plate,_303-309_AD,_Sasanian,_Iran,_silver_and_gilt_-_Cleveland_Museum_of_Art_-_DSC08117.JPG"
     provenance: "Unknown author Unknown author; CC0"
     period: "309 AD"
     description: "This image shows Sasanian silver ceremonial vessel depicting courtly hierarchy, selected as a defining visual reference for Mazdakism."
   - title: "Shahnameh miniature depicting the trial and execution of Mazdak"
-    imageUrl: "/artifacts/mazdakism-2.jpg"
+    imageUrl: "/artifacts/mazdakism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%22The_Execution_of_Mazdak%22,_Folio_from_a_Shahnama_(Book_of_Kings)_MET_DP108584.jpg"
     provenance: "Ferdowsi; CC0"
     period: "Image dated 1330"

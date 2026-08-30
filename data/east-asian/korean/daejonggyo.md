@@ -46,13 +46,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Daejonggyo'
 artifacts:
   - title: "Portrait of Na Cheol, restorer of Daejonggyo"
-    imageUrl: "/artifacts/daejonggyo-1.jpg"
+    imageUrl: "/artifacts/daejonggyo-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Na_cheol.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "Digital file published 2008"
     description: "This image shows Portrait of Na Cheol, restorer of Daejonggyo, selected as a defining visual reference for Daejonggyo."
   - title: "Daejonggyo image of Dangun"
-    imageUrl: "/artifacts/daejonggyo-2.jpg"
+    imageUrl: "/artifacts/daejonggyo-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%EB%8C%80%EC%A2%85%EA%B5%90_%EC%B2%9C%EA%B8%B0_Daejonggyo_Cheongi.jpg"
     provenance: "Baeksanseonin; CC BY-SA 4.0"
     period: "Image dated 1999"

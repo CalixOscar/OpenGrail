@@ -41,13 +41,13 @@ sources:
     url: 'https://brill.com/search?q=Hurrian%20Religion'
 artifacts:
   - title: "Teshub and Hebat relief"
-    imageUrl: "/artifacts/hurrian-religion-1.jpg"
+    imageUrl: "/artifacts/hurrian-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Yazilikaya_Sharruma.jpg"
     provenance: "Charles Texier; Public domain"
     period: "Image dated 1862"
     description: "This image shows Teshub and Hebat relief, selected as a defining visual reference for Hurrian Religion."
   - title: "Hurrian hymn tablet"
-    imageUrl: "/artifacts/hurrian-religion-2.jpg"
+    imageUrl: "/artifacts/hurrian-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ugarit_Corbel.jpg"
     provenance: "Disdero ( talk · contribs ); CC BY 3.0"
     period: "Image dated 2005"

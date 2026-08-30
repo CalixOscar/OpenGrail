@@ -52,13 +52,13 @@ sources:
       https://www.rep.routledge.com/search?query=Gau%E1%B8%8D%C4%ABya%20Vai%E1%B9%A3%E1%B9%87avism
 artifacts:
   - title: "Caitanya Mahaprabhu leading congregational kirtana"
-    imageUrl: "/artifacts/gaudiya-vaishnavism-1.jpg"
+    imageUrl: "/artifacts/gaudiya-vaishnavism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Chaitanya_sankirtan.jpg"
     provenance: "Calcutta Art Studio; Public domain"
     period: "19 th century"
     description: "This image shows Caitanya Mahaprabhu leading congregational kirtana, selected as a defining visual reference for Gauḍīya Vaiṣṇavism."
   - title: "Historic Govind Dev temple built by the early Gaudiya community"
-    imageUrl: "/artifacts/gaudiya-vaishnavism-2.jpg"
+    imageUrl: "/artifacts/gaudiya-vaishnavism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Beautifully_carved_Govind_Dev_Ji_Temple.jpg"
     provenance: "Sharvarism; CC BY-SA 4.0"
     period: "Image dated 2011"

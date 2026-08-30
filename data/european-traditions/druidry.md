@@ -44,13 +44,13 @@ sources:
     url: 'https://brill.com/search?q=Modern%20Druidry'
 artifacts:
   - title: "Modern Archdruid ceremonial regalia"
-    imageUrl: "/artifacts/druidry-1.jpg"
+    imageUrl: "/artifacts/druidry-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Gravestones_at_St_Tysilio%27s_Cemetery_-_geograph.org.uk_-_381640.jpg"
     provenance: "Eric Jones; CC BY-SA 2.0"
     period: "Image dated 2007"
     description: "This image shows Modern Archdruid ceremonial regalia, selected as a defining visual reference for Modern Druidry."
   - title: "Modern Druid Stonehenge rite"
-    imageUrl: "/artifacts/druidry-2.jpg"
+    imageUrl: "/artifacts/druidry-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Stonehenge,_druids_and_setting_moon.jpg"
     provenance: "Andrew Dunn; CC BY-SA 2.0"
     period: "Image dated 2005"

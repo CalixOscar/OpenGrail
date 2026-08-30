@@ -45,13 +45,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Rastafari'
 artifacts:
   - title: "Coronation portrait of Emperor Haile Selassie I"
-    imageUrl: "/artifacts/rastafari-1.jpg"
+    imageUrl: "/artifacts/rastafari-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ras_M%C3%A4konnen_(W%C3%A4ld%C3%A4-Mika%27%C3%A9l)_(1852-1906).jpg"
     provenance: "James Lafayette; Public domain"
     period: "Image dated 1902"
     description: "This image shows Coronation portrait of Emperor Haile Selassie I, selected as a defining visual reference for Rastafari."
   - title: "Nyabinghi sacred drumming during a Rastafari Grounation"
-    imageUrl: "/artifacts/rastafari-2.jpg"
+    imageUrl: "/artifacts/rastafari-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tambour_Nyabinghi.jpg"
     provenance: "RawWriter; CC BY-SA 4.0"
     period: "Image dated 2020"

@@ -42,13 +42,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Hopi%20Religion'
 artifacts:
   - title: "Traditional Hopi carved cottonwood Katsina doll"
-    imageUrl: "/artifacts/hopi-religion-1.jpg"
+    imageUrl: "/artifacts/hopi-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kachina_dolls.jpg"
     provenance: "Jesse Walter Fewkes; Public domain"
     period: "Image dated 1894"
     description: "This image shows Traditional Hopi carved cottonwood Katsina doll, selected as a defining visual reference for Hopi Religion."
   - title: "Old Oraibi historic village sanctuary on Third Mesa"
-    imageUrl: "/artifacts/hopi-religion-2.jpg"
+    imageUrl: "/artifacts/hopi-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:A_group_of_Hopi_Indian_women_building_an_adobe_house_in_the_village_of_Oraibi,_ca.1901_(CHS-1251).jpg"
     provenance: "Pierce, C.C. (Charles C.), 1861-1946; Public domain"
     period: "Image dated 1901"

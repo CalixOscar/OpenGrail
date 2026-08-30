@@ -44,13 +44,13 @@ sources:
     url: 'https://brill.com/search?q=Gardnerian%20Wicca'
 artifacts:
   - title: "Gardnerian founder Gerald Gardner"
-    imageUrl: "/artifacts/gardnerian-wicca-1.jpg"
+    imageUrl: "/artifacts/gardnerian-wicca-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:NewForestCoven_Scourge.JPG"
     provenance: "Midnightblueowl ( talk ); CC BY-SA 3.0"
     period: "Image dated 2010"
     description: "This image shows Gardnerian founder Gerald Gardner, selected as a defining visual reference for Gardnerian Wicca."
   - title: "Gardnerian Book of Shadows"
-    imageUrl: "/artifacts/gardnerian-wicca-2.jpg"
+    imageUrl: "/artifacts/gardnerian-wicca-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Gardner%27s_Book_of_Shadows_front.JPG"
     provenance: "Midnightblueowl ( talk ); CC BY-SA 3.0"
     period: "Image dated 2010"

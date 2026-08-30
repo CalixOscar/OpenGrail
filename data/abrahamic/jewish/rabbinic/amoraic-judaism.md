@@ -47,13 +47,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Amoraic%20Judaism'
 artifacts:
   - title: "Traditional tomb of Rav Ashi, major Babylonian Amora"
-    imageUrl: "/artifacts/amoraic-judaism-1.jpg"
+    imageUrl: "/artifacts/amoraic-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Rav_Ashi.jpg"
     provenance: "Melamed katz; CC BY-SA 4.0"
     period: "Digital file published 2008"
     description: "This image shows Traditional tomb of Rav Ashi, major Babylonian Amora, selected as a defining visual reference for Amoraic Judaism."
   - title: "Munich Codex 95, complete manuscript of the Babylonian Talmud"
-    imageUrl: "/artifacts/amoraic-judaism-2.jpg"
+    imageUrl: "/artifacts/amoraic-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bavli_Kiddushin_Munich_95.jpg"
     provenance: "שלמה בן שמשון; Public domain"
     period: "Image dated 1342"

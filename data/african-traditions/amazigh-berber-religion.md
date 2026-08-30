@@ -38,14 +38,14 @@ sources:
     url: 'https://whc.unesco.org/en/list/179/'
 artifacts:
   - title: "Libyco-Berber sacred rock inscription"
-    imageUrl: "/artifacts/amazigh-berber-religion-1.jpg"
+    imageUrl: "/artifacts/amazigh-berber-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Prehistory-draa15.jpg"
     provenance: "Wikimedia Commons; Public domain"
     period: "Digital file published 2009"
     description: "This image shows Libyco-Berber sacred rock inscription, selected as a defining visual reference for Amazigh & Berber Indigenous Traditions."
     detail: high
   - title: "Medracen Numidian royal tomb"
-    imageUrl: "/artifacts/amazigh-berber-religion-2.jpg"
+    imageUrl: "/artifacts/amazigh-berber-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Medghassen_%E2%80%94_Ancient_Numidian_Royal_Tomb_in_Algeria.jpg"
     provenance: "Rachid Hamatou; CC BY-SA 4.0"
     period: "Image dated 2023"

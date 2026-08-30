@@ -48,13 +48,13 @@ sources:
     url: 'https://brill.com/search?q=Discordianism'
 artifacts:
   - title: "Discordian Sacred Chao"
-    imageUrl: "/artifacts/discordianism-1.jpg"
+    imageUrl: "/artifacts/discordianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sacred_Chao_2.jpg"
     provenance: "Dumbledore-of-Awen; CC BY-SA 4.0"
     period: "Image dated 2015"
     description: "This image shows Discordian Sacred Chao, selected as a defining visual reference for Discordianism."
   - title: "Original Discordian scripture page"
-    imageUrl: "/artifacts/discordianism-2.png"
+    imageUrl: "/artifacts/discordianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:PrincipiaDiscordia_pg00003.png"
     provenance: "Mal-2 , Lord Omar; Public domain"
     period: "Image dated 1965"

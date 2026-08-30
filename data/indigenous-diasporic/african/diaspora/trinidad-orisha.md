@@ -50,13 +50,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Trinidad%20Orisha'
 artifacts:
   - title: "Trinidad Orisha shrine with ceremonial flags and implements"
-    imageUrl: "/artifacts/trinidad-orisha-1.jpg"
+    imageUrl: "/artifacts/trinidad-orisha-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Un_autel_de_santeria_d%C3%A9di%C3%A9_%C3%A0_Oshun,_orisha_de_l%27amour_CUBA._TRINIDAD_culte_de_Santeria_._Autel_d%27Oshun.jpg"
     provenance: "Mauro Didier; CC0"
     period: "Image dated 2016"
     description: "This image shows Trinidad Orisha shrine with ceremonial flags and implements, selected as a defining visual reference for Trinidad Orisha."
   - title: "Sacred drumming and altar in Trinidad Orisha festival"
-    imageUrl: "/artifacts/trinidad-orisha-2.jpg"
+    imageUrl: "/artifacts/trinidad-orisha-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shengyin_drum,_Nanjing,_China_2006.JPG"
     provenance: "Shi Annan; CC BY-SA 3.0"
     period: "Image dated 2006"

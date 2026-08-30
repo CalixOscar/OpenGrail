@@ -49,13 +49,13 @@ sources:
       https://www.rep.routledge.com/search?query=M%C5%ABrtip%C5%ABjaka%20%C5%9Avet%C4%81mbara%20Jainism
 artifacts:
   - title: "Adorned Jina image in Murtipujaka Svetambara worship"
-    imageUrl: "/artifacts/murtipujaka-jainism-1.jpg"
+    imageUrl: "/artifacts/murtipujaka-jainism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Parshvanatha_Mysuru_Karnataka_Svetambara_Jain_temple.jpg"
     provenance: "Ms Sarah Welch; CC BY-SA 4.0"
     period: "Image dated 2017"
     description: "This image shows Adorned Jina image in Murtipujaka Svetambara worship, selected as a defining visual reference for Mūrtipūjaka Śvetāmbara Jainism."
   - title: "Satrunjaya at Palitana, preeminent Murtipujaka pilgrimage complex"
-    imageUrl: "/artifacts/murtipujaka-jainism-2.jpg"
+    imageUrl: "/artifacts/murtipujaka-jainism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Palitana,_Shatrunjaya,_Adishwar_Temple_(9717821147).jpg"
     provenance: "Arian Zwegers from Brussels, Belgium; CC BY 2.0"
     period: "16th century"

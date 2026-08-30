@@ -50,13 +50,13 @@ sources:
     url: 'https://brill.com/search?q=Middle%20Platonism'
 artifacts:
   - title: "Portrait of Plutarch"
-    imageUrl: "/artifacts/middle-platonism-1.png"
+    imageUrl: "/artifacts/middle-platonism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Plutarch_of_Chaeronea-03-removebg-preview.png"
     provenance: "Deedman22; CC BY-SA 4.0"
     period: "Image dated 2021"
     description: "This image shows Portrait of Plutarch, selected as a defining visual reference for Middle Platonism."
   - title: "Manuscript of Plutarch's Moralia"
-    imageUrl: "/artifacts/middle-platonism-2.jpg"
+    imageUrl: "/artifacts/middle-platonism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Plutarch,_De_virtute_et_vitio,_Venice,_Gr._248.jpg"
     provenance: "Plutarch; Public domain"
     period: "Digital file published 2016"

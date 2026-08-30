@@ -49,13 +49,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Siyam%20Nik%C4%81ya'
 artifacts:
   - title: "Malwathu Maha Viharaya monastery of the Siam Nikaya in Kandy"
-    imageUrl: "/artifacts/siyam-nikaya-1.jpg"
+    imageUrl: "/artifacts/siyam-nikaya-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Buddhika_Sanjeewa_with_the_Chief_Prelate_of_the_Malwathu_Chapter_of_the_Siam_Sector,_Most_Venerable_Tibbatuwawe_Sri_Siddhartha_Sumangala_Mahanayake_Thero.jpg"
     provenance: "Meththawalokanaya; CC BY-SA 4.0"
     period: "Image dated 2016"
     description: "This image shows Malwathu Maha Viharaya monastery of the Siam Nikaya in Kandy, selected as a defining visual reference for Siyam Nikāya."
   - title: "Sri Dalada Maligawa Temple of the Sacred Tooth in Kandy"
-    imageUrl: "/artifacts/siyam-nikaya-2.jpg"
+    imageUrl: "/artifacts/siyam-nikaya-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sri_Dalada_Maligawa_01.jpg"
     provenance: "Bernard Gagnon; CC BY-SA 3.0"
     period: "Image dated 2006"

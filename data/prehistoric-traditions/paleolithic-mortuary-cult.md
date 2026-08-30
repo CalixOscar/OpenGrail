@@ -47,13 +47,13 @@ sources:
       https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199569069.001.0001/oxfordhb-9780199569069
 artifacts:
   - title: "Upper Paleolithic Sungir burial with mammoth ivory bead ornaments"
-    imageUrl: "/artifacts/paleolithic-mortuary-cult-1.jpg"
+    imageUrl: "/artifacts/paleolithic-mortuary-cult-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Twin_burial_model_-_Sungir_-_Vladimir_Palaty.jpg"
     provenance: "Лапоть; CC0"
     period: "Image dated 2024"
     description: "This image shows Upper Paleolithic Sungir burial with mammoth ivory bead ornaments, selected as a defining visual reference for Paleolithic Mortuary Cult & Ritual Burials."
   - title: "Shanidar Cave archaeological burial site in Iraqi Kurdistan"
-    imageUrl: "/artifacts/paleolithic-mortuary-cult-2.jpg"
+    imageUrl: "/artifacts/paleolithic-mortuary-cult-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shanidar_skull.jpg"
     provenance: "James Gordon from Los Angeles, California, USA; CC BY 2.0"
     period: "Image dated 2012"

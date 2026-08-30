@@ -45,13 +45,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Zealots'
 artifacts:
   - title: "Masada, iconic final stronghold of revolt against Rome"
-    imageUrl: "/artifacts/zealots-1.jpg"
+    imageUrl: "/artifacts/zealots-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Israel-2013-Aerial_21-Masada.jpg"
     provenance: "Godot13; CC BY-SA 4.0"
     period: "Image dated 2013"
     description: "This image shows Masada, iconic final stronghold of revolt against Rome, selected as a defining visual reference for Zealots."
   - title: "Silver revolt shekel carrying symbols of Jewish resistance"
-    imageUrl: "/artifacts/zealots-2.jpg"
+    imageUrl: "/artifacts/zealots-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bronze_prutah,_Hendin_1360_The_First_Jewish_Revolt,_66_-_70_A.D.jpg"
     provenance: "Brocken Inaglory; CC BY-SA 3.0"
     period: "Image dated 2011"

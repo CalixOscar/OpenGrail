@@ -45,13 +45,13 @@ sources:
     url: 'https://brill.com/search?q=Hellenic%20Polytheism'
 artifacts:
   - title: "Contemporary Hellenic worship rite"
-    imageUrl: "/artifacts/hellenic-polytheism-1.jpg"
+    imageUrl: "/artifacts/hellenic-polytheism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Temple_Of_Olympian_Zeus_-_Olympieion_(retouched).jpg"
     provenance: "No machine-readable author provided. Chrisfl assumed (based on copyright claims). Retouched by AM; CC BY-SA 2.5"
     period: "Image dated 2006"
     description: "This image shows Contemporary Hellenic worship rite, selected as a defining visual reference for Hellenic Polytheism."
   - title: "Prometheia public ritual"
-    imageUrl: "/artifacts/hellenic-polytheism-2.jpg"
+    imageUrl: "/artifacts/hellenic-polytheism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:YSEE_Hellenic_people.jpg"
     provenance: "YSEE , Supreme Council of Ethnikoi Hellenes.; CC BY 2.0"
     period: "Digital file published 2009"

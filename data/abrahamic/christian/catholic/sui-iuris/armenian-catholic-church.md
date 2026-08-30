@@ -48,13 +48,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Armenian%20Catholic%20Church'
 artifacts:
   - title: "Armenian-rite Catholic liturgy and distinctive vesture"
-    imageUrl: "/artifacts/armenian-catholic-church-1.jpg"
+    imageUrl: "/artifacts/armenian-catholic-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Armenian_MS_11,_folio_2_verso_Wellcome_L0022436.jpg"
     provenance: "Wikimedia Commons; CC BY 4.0"
     period: "Object or image dated 1714"
     description: "This image shows Armenian-rite Catholic liturgy and distinctive vesture, selected as a defining visual reference for Armenian Catholic Church."
   - title: "Bzoummar monastery, historic seat of the Armenian Catholic patriarchate"
-    imageUrl: "/artifacts/armenian-catholic-church-2.jpg"
+    imageUrl: "/artifacts/armenian-catholic-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ignatius_Shoukrallah_Maloyan.jpg"
     provenance: "Elias Ziade; CC BY-SA 4.0"
     period: "Image dated 2020"

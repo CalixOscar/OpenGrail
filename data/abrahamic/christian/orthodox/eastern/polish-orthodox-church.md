@@ -50,13 +50,13 @@ sources:
       https://www.cambridge.org/core/search?q=Polish%20Autocephalous%20Orthodox%20Church
 artifacts:
   - title: "Pilgrims and votive crosses at Poland's Holy Mountain Grabarka"
-    imageUrl: "/artifacts/polish-orthodox-church-1.jpg"
+    imageUrl: "/artifacts/polish-orthodox-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sw_Gora_Grabarka_schody.jpg"
     provenance: "Pawel Ryszawa; CC BY 3.0"
     period: "Image dated 2009"
     description: "This image shows Pilgrims and votive crosses at Poland's Holy Mountain Grabarka, selected as a defining visual reference for Polish Autocephalous Orthodox Church."
   - title: "Metropolitan Cathedral of Saint Mary Magdalene in Warsaw"
-    imageUrl: "/artifacts/polish-orthodox-church-2.jpg"
+    imageUrl: "/artifacts/polish-orthodox-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Saint_Mary_Magdalene_Orthodox_church_(8121510654).jpg"
     provenance: "Guillaume Speurt from Vilnius, Lithuania; CC BY-SA 2.0"
     period: "Image dated 2012"

@@ -50,13 +50,13 @@ sources:
       https://www.cambridge.org/core/search?q=African%20Methodist%20Episcopal%20Church
 artifacts:
   - title: "Portrait of Bishop Richard Allen, founder of the AME Church"
-    imageUrl: "/artifacts/african-methodist-episcopal-church-1.jpg"
+    imageUrl: "/artifacts/african-methodist-episcopal-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Distinguished_colored_men_LCCN00651115.jpg"
     provenance: "Popular Graphic Arts; Public domain"
     period: "Image dated 1883"
     description: "This image shows Portrait of Bishop Richard Allen, founder of the AME Church, selected as a defining visual reference for African Methodist Episcopal Church."
   - title: "Mother Bethel in Philadelphia, mother church of the denomination"
-    imageUrl: "/artifacts/african-methodist-episcopal-church-2.jpg"
+    imageUrl: "/artifacts/african-methodist-episcopal-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mother_Bethel_AME_Church_6th_and_Lombard_Sts_Philadelphia_PA_(DSC_3514).jpg"
     provenance: "Nick-philly; CC BY-SA 4.0"
     period: "Image dated 2019"

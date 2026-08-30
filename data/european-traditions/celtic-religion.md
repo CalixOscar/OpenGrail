@@ -40,13 +40,13 @@ sources:
     url: 'https://brill.com/search?q=Ancient%20Celtic%20Religions'
 artifacts:
   - title: "Gundestrup Cernunnos panel"
-    imageUrl: "/artifacts/celtic-religion-1.jpg"
+    imageUrl: "/artifacts/celtic-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cernunnos_med_vandpiben_(13923009981).jpg"
     provenance: "Ole Palnatoke Andersen; CC BY-SA 2.0"
     period: "Image dated 2014"
     description: "This image shows Gundestrup Cernunnos panel, selected as a defining visual reference for Ancient Celtic Religions."
   - title: "Gournay-sur-Aronde archaeological sanctuary site in France"
-    imageUrl: "/artifacts/celtic-religion-2.jpg"
+    imageUrl: "/artifacts/celtic-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Gournay-sur-Marne-01.JPG"
     provenance: "Wayne77; CC BY-SA 3.0"
     period: "Image dated 2014"

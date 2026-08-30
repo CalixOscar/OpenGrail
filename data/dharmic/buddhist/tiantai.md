@@ -43,13 +43,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Tiantai%20Buddhism'
 artifacts:
   - title: "Zhiyi, principal systematizer of Tiantai Buddhism"
-    imageUrl: "/artifacts/tiantai-1.jpg"
+    imageUrl: "/artifacts/tiantai-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sramana_Zhiyi.jpeg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "Before the 20th century"
     description: "This image shows Zhiyi, principal systematizer of Tiantai Buddhism, selected as a defining visual reference for Tiantai Buddhism."
   - title: "Guoqing Temple on Mount Tiantai, ancestral seat of the school"
-    imageUrl: "/artifacts/tiantai-2.jpg"
+    imageUrl: "/artifacts/tiantai-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Guoqingsi001r.jpg"
     provenance: "me, Joshtinho; Public domain"
     period: "Image dated 2006"

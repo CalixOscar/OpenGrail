@@ -43,13 +43,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=%C5%9Avet%C4%81mbara%20Jainism'
 artifacts:
   - title: "White-robed Svetambara mendicants with muhapatti"
-    imageUrl: "/artifacts/svetambara-1.jpg"
+    imageUrl: "/artifacts/svetambara-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dada_Gurus_of_Kharatara_Gaccha.jpg"
     provenance: "Nizil Shah; CC BY-SA 3.0"
     period: "Image dated 2016"
     description: "This image shows White-robed Svetambara mendicants with muhapatti, selected as a defining visual reference for Śvetāmbara Jainism."
   - title: "Illustrated Kalpa Sutra manuscript from the Svetambara canon"
-    imageUrl: "/artifacts/svetambara-2.jpg"
+    imageUrl: "/artifacts/svetambara-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Indian_-_Two_Illustrated_Pages_from_a_%22Kalpasutra%22_Manuscript_-_Walters_W910.jpg"
     provenance: "Walters Art Museum : Home page Info about artwork; Public domain"
     period: "Image dated 1450"

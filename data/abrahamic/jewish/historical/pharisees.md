@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Pharisees'
 artifacts:
   - title: "James Tissot's historical biblical depiction of Pharisees"
-    imageUrl: "/artifacts/pharisees-1.jpg"
+    imageUrl: "/artifacts/pharisees-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_The_Pharisees_Question_Jesus_(Les_pharisiens_questionnent_J%C3%A9sus)_-_James_Tissot.jpg"
     provenance: "James Tissot; Public domain"
     period: "Image dated 1886"
     description: "This image shows James Tissot's historical biblical depiction of Pharisees, selected as a defining visual reference for Pharisees."
   - title: "Kaufmann Mishnah manuscript preserving traditions rooted in Pharisaic-rabbinic law"
-    imageUrl: "/artifacts/pharisees-2.jpg"
+    imageUrl: "/artifacts/pharisees-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:KaufmannManuscript.jpg"
     provenance: "kaufmann.mtak.hu; Public domain"
     period: "12th century"

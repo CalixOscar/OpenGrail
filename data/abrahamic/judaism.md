@@ -45,13 +45,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Judaism'
 artifacts:
   - title: "Jewish prayer at the Western Wall in Jerusalem"
-    imageUrl: "/artifacts/judaism-1.jpg"
+    imageUrl: "/artifacts/judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Western_Wall_tunnel_prayer_hall_2010_2.jpg"
     provenance: "Wknight94 talk; CC BY-SA 3.0"
     period: "Image dated 2010"
     description: "This image shows Jewish prayer at the Western Wall in Jerusalem, selected as a defining visual reference for Judaism."
   - title: "Torah scroll carried from the ark for communal reading"
-    imageUrl: "/artifacts/judaism-2.jpg"
+    imageUrl: "/artifacts/judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shaare_Rason_Synagogue,_Mumbai,_Info_1.jpg"
     provenance: "Rangan Datta Wiki; CC BY-SA 4.0"
     period: "Image dated 2020"

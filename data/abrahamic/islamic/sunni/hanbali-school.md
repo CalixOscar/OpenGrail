@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Hanbali%20School'
 artifacts:
   - title: "Mosque and shrine associated with the Hanbali school's namesake"
-    imageUrl: "/artifacts/hanbali-school-1.jpg"
+    imageUrl: "/artifacts/hanbali-school-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ahmad_ibn_Hanbal_Mosque.jpg"
     provenance: "Imam Khairul Annas; CC BY-SA 4.0"
     period: "Image dated 2013"
     description: "This image shows Mosque and shrine associated with the Hanbali school's namesake, selected as a defining visual reference for Hanbali School."
   - title: "Historical manuscript of Ahmad ibn Hanbal's Musnad"
-    imageUrl: "/artifacts/hanbali-school-2.png"
+    imageUrl: "/artifacts/hanbali-school-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Musnad.PNG"
     provenance: "Jalal0; CC BY 3.0 us"
     period: "Image dated 2011"

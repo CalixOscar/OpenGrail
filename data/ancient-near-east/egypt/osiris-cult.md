@@ -49,13 +49,13 @@ sources:
     url: 'https://brill.com/search?q=Cult%20of%20Osiris'
 artifacts:
   - title: "Cult image of Osiris"
-    imageUrl: "/artifacts/osiris-cult-1.jpg"
+    imageUrl: "/artifacts/osiris-cult-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Egyptian_-_Statue_of_Osiris_-_Walters_54551_-_Back.jpg"
     provenance: "Anonymous ( Egypt ) Unknown author; Public domain"
     period: "Digital file published 2012"
     description: "This image shows Cult image of Osiris, selected as a defining visual reference for Cult of Osiris."
   - title: "Osireion sanctuary at Abydos"
-    imageUrl: "/artifacts/osiris-cult-2.jpg"
+    imageUrl: "/artifacts/osiris-cult-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:AbydosOsireionNorthWest.jpg"
     provenance: "Roland Unger; CC BY-SA 3.0"
     period: "Image dated 2000"

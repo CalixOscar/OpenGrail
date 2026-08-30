@@ -51,13 +51,13 @@ sources:
       https://www.rep.routledge.com/search?query=R%C4%81m%C4%81nand%C4%AB%20Samprad%C4%81ya
 artifacts:
   - title: "Ramananda, lineage teacher of the Ramanandi sampradaya"
-    imageUrl: "/artifacts/ramanandi-sampradaya-1.jpg"
+    imageUrl: "/artifacts/ramanandi-sampradaya-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Gilded_panel_depicting_bhagat_Dhanna_the_Jat_and_his_life-story_(sakhi)_from_Gurdwara_Baba_Atal_Rai,_Amritsar,_ca.1904.jpg"
     provenance: "Gilded panel made by the craftsmen of Kucha Fakirkhana. Photographed by T.S. Randhawa.; Public domain"
     period: "Image dated 1904"
     description: "This image shows Ramananda, lineage teacher of the Ramanandi sampradaya, selected as a defining visual reference for Rāmānandī Sampradāya."
   - title: "Hanuman Garhi in Ayodhya, a major Ramanandi monastic stronghold"
-    imageUrl: "/artifacts/ramanandi-sampradaya-2.jpg"
+    imageUrl: "/artifacts/ramanandi-sampradaya-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hanuman_Garhi_Temple,_a_major_religious_site_in_Ayodhya_utter_pradesh.jpg"
     provenance: "Prashant Kharote; CC BY-SA 4.0"
     period: "Image dated 2021"

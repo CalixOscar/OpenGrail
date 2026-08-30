@@ -45,13 +45,13 @@ sources:
     url: 'https://brill.com/search?q=Temple%20of%20Set'
 artifacts:
   - title: "Cult image of Set"
-    imageUrl: "/artifacts/temple-of-set-1.jpg"
+    imageUrl: "/artifacts/temple-of-set-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Egyptian_-_Standing_Man_-_Walters_22395.jpg"
     provenance: "Anonymous ( Egypt ) Unknown author; Public domain"
     period: "Digital file published 2012"
     description: "This image shows Cult image of Set, selected as a defining visual reference for Temple of Set."
   - title: "Temple of Set founder Michael Aquino"
-    imageUrl: "/artifacts/temple-of-set-2.jpg"
+    imageUrl: "/artifacts/temple-of-set-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:LTC_Michael_Aquino.jpg"
     provenance: "U.S. Army; Public domain"
     period: "Object or image dated 1968"

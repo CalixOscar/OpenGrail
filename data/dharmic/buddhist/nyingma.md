@@ -43,13 +43,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Nyingma'
 artifacts:
   - title: "Padmasambhava thangka, central guru image of Nyingma"
-    imageUrl: "/artifacts/nyingma-1.jpg"
+    imageUrl: "/artifacts/nyingma-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Padmasambhava_(Orgyen_Dorje_Chang),_with_Yeshe_Tsogyal,_emanations,_Nyingma_gurus_and_Samantabhadra_-_17th_century_Tibetan_thangka.jpg"
     provenance: "Unknown painter, 17th century Tibetan thangka; Public domain"
     period: "17th century"
     description: "This image shows Padmasambhava thangka, central guru image of Nyingma, selected as a defining visual reference for Nyingma."
   - title: "Samye, Tibet's first monastery and a foundational Nyingma site"
-    imageUrl: "/artifacts/nyingma-2.jpg"
+    imageUrl: "/artifacts/nyingma-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tibet_-_Trek_1_-_35_Samye_Monastery_(150286130).jpg"
     provenance: "McKay Savage from London, UK; CC BY 2.0"
     period: "Image dated 2006"

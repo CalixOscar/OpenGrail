@@ -52,13 +52,13 @@ sources:
       https://www.cambridge.org/core/search?q=Remnant%20Church%20of%20Jesus%20Christ%20of%20Latter%20Day%20Saints
 artifacts:
   - title: "Portrait of Frederick Niels Larsen, founder-prophet of the Remnant Church"
-    imageUrl: "/artifacts/remnant-church-jesus-christ-latter-day-saints-1.jpg"
+    imageUrl: "/artifacts/remnant-church-jesus-christ-latter-day-saints-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:HillerodSquare.jpg"
     provenance: "Niels Elgaard Larsen - (WT-en) Elgaard at English Wikivoyage; CC BY-SA 4.0"
     period: "Image dated 2008"
     description: "This image shows Portrait of Frederick Niels Larsen, founder-prophet of the Remnant Church, selected as a defining visual reference for Remnant Church of Jesus Christ of Latter Day Saints."
   - title: "Remnant Church headquarters near the Independence temple district"
-    imageUrl: "/artifacts/remnant-church-jesus-christ-latter-day-saints-2.jpg"
+    imageUrl: "/artifacts/remnant-church-jesus-christ-latter-day-saints-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Rlds_stone_church_environs.jpg"
     provenance: "EGDJ; Public domain"
     period: "Image dated 2010"

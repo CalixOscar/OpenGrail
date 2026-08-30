@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Shafi''i%20School'
 artifacts:
   - title: "Mausoleum of Imam al-Shafi'i in Cairo"
-    imageUrl: "/artifacts/shafii-school-1.jpg"
+    imageUrl: "/artifacts/shafii-school-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cairo,_Jerusalem,_and_Damascus-_(1912)_(14802914943).jpg"
     provenance: "Internet Archive Book Images; Public domain"
     period: "Image dated 1912"
     description: "This image shows Mausoleum of Imam al-Shafi'i in Cairo, selected as a defining visual reference for Shafi'i School."
   - title: "Historical manuscript of al-Shafi'i's al-Risala"
-    imageUrl: "/artifacts/shafii-school-2.png"
+    imageUrl: "/artifacts/shafii-school-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Al-Risala_Al-Ladunniyya.png"
     provenance: "Al-Ghazali; Public domain"
     period: "Image dated 2013"

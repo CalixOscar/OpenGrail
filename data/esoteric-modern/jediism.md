@@ -53,13 +53,13 @@ sources:
     url: 'https://brill.com/search?q=Jediism'
 artifacts:
   - title: "Jediist community ceremony"
-    imageUrl: "/artifacts/jediism-1.jpg"
+    imageUrl: "/artifacts/jediism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jedi-temple.info_JMA.JPG"
     provenance: "Master Alexus; CC BY 3.0"
     period: "Image dated 2008"
     description: "This image shows Jediist community ceremony, selected as a defining visual reference for Jediism."
   - title: "Jediist practitioner in ceremonial robes with lightsaber"
-    imageUrl: "/artifacts/jediism-2.jpg"
+    imageUrl: "/artifacts/jediism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jedi_Training_Academy,_Tomorrowland,_Disneyland,_Anaheim,_California_(17387082451).jpg"
     provenance: "Ken Lund from Reno, Nevada, USA; CC BY-SA 2.0"
     period: "Image dated 2015"

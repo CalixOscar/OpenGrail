@@ -38,13 +38,13 @@ sources:
     url: 'https://www.thamesandhudson.com/'
 artifacts:
   - title: "San eland rock painting at Game Pass Shelter"
-    imageUrl: "/artifacts/san-religion-1.jpg"
+    imageUrl: "/artifacts/san-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:SAN_Rock_Art_Colonial_Male_Figure,_Diep_Kloof_Rock_Shelter,_Western_Cape.JPG"
     provenance: "Andrew Hall; CC BY-SA 3.0"
     period: "Image dated 2014"
     description: "This image shows San eland rock painting at Game Pass Shelter, selected as a defining visual reference for San Bushmen Shamanism & Python Cave Sanctuaries."
   - title: "Tsodilo Hills sacred rock art sanctuary"
-    imageUrl: "/artifacts/san-religion-2.jpg"
+    imageUrl: "/artifacts/san-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tsodilo_Hills_rock_paintings1.jpg"
     provenance: "Joachim Huber; CC BY-SA 2.0"
     period: "Image dated 2007"

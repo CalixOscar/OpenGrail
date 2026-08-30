@@ -43,14 +43,14 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Ash''ari%20Theology'
 artifacts:
   - title: "Traditional calligraphic representation of al-Ashari"
-    imageUrl: "/artifacts/ashari-theology-1.jpg"
+    imageUrl: "/artifacts/ashari-theology-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Abu_al-Hasan_al-Shadhili_-_Leaf_from_Prayer_Book_-_Walters_W5784A_-_Full_Page.jpg"
     provenance: "Abu al-Hasan al-Shadhili (died 656 AH/AD 1258); Public domain"
     period: "11th century AH/AD 17th century ( Ottoman Empire era QS:P2348,Q12560 )"
     description: "This image shows Traditional calligraphic representation of al-Ashari, selected as a defining visual reference for Ash'ari Theology."
     detail: high
   - title: "Manuscript of al-Ashari's al-Ibana"
-    imageUrl: "/artifacts/ashari-theology-2.jpg"
+    imageUrl: "/artifacts/ashari-theology-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ibana_gan_(10.3897-BDJ.10.e93637)_Figure_1.jpg"
     provenance: "Liu et al. (2022); CC BY 4.0"
     period: "Image dated 2022"

@@ -50,13 +50,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Zapotec%20Religious%20Traditions'
 artifacts:
   - title: "Monte Alban sacred acropolis and ceremonial plaza"
-    imageUrl: "/artifacts/zapotec-religion-1.jpg"
+    imageUrl: "/artifacts/zapotec-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Monte_Alban,_Main_Plaza,_Building_J,_and_the_North_Platform_(20498776500).jpg"
     provenance: "Arian Zwegers from Brussels, Belgium; CC BY 2.0"
     period: "500 BC"
     description: "This image shows Monte Alban sacred acropolis and ceremonial plaza, selected as a defining visual reference for Zapotec Religious Traditions."
   - title: "Zapotec ceramic funerary urn depicting Cocijo"
-    imageUrl: "/artifacts/zapotec-religion-2.jpg"
+    imageUrl: "/artifacts/zapotec-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Funerary_Urn_from_Oaxaca.jpg"
     provenance: "No machine-readable author provided. Madman2001 assumed (based on copyright claims).; CC BY-SA 2.5"
     period: "Image dated 2007"

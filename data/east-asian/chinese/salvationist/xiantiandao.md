@@ -47,13 +47,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Xiantiandao'
 artifacts:
   - title: "Sacred painting representing the Eternal Venerable Mother"
-    imageUrl: "/artifacts/xiantiandao-1.jpg"
+    imageUrl: "/artifacts/xiantiandao-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Queen_of_Hearts_Mother_Goose2.jpg"
     provenance: "William Wallace Denslow; Public domain"
     period: "Image dated 1901"
     description: "This image shows Sacred painting representing the Eternal Venerable Mother, selected as a defining visual reference for Xiantiandao."
   - title: "Illuminated page from a Chinese precious scroll (Baojuan)"
-    imageUrl: "/artifacts/xiantiandao-2.jpg"
+    imageUrl: "/artifacts/xiantiandao-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_MSS_1288_kaaba.jpg"
     provenance: "scan by the Khalili Collections, cropped in IrfanView and touched up with the healing tool in GIMP; CC BY-SA 3.0 igo"
     period: "Object or image dated 1288"

@@ -52,13 +52,13 @@ sources:
     url: 'https://brill.com/search?q=Process%20Church%20of%20the%20Final%20Judgment'
 artifacts:
   - title: "Process Church founder Robert de Grimston"
-    imageUrl: "/artifacts/process-church-1.jpg"
+    imageUrl: "/artifacts/process-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tombe_Robert_Moor,_Cimeti%C3%A8re_des_Batignolles,_Paris.jpg"
     provenance: "Wikimedia Commons / Mu; CC BY-SA 3.0"
     period: "Image dated 2010"
     description: "This image shows Process Church founder Robert de Grimston, selected as a defining visual reference for Process Church of the Final Judgment."
   - title: "Process Church communal sanctuary"
-    imageUrl: "/artifacts/process-church-2.jpg"
+    imageUrl: "/artifacts/process-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Church_on_the_Common,_Coven_Heath,_in_the_process_of_being_converted_to_a_dwelling_-_geograph.org.uk_-_1804081.jpg"
     provenance: "John Lord; CC BY-SA 2.0"
     period: "Image dated 2010"

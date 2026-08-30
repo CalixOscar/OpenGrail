@@ -51,13 +51,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Tongan%20Religious%20Traditions'
 artifacts:
   - title: "Haʻamonga ʻa Maui megalithic trilithon monument"
-    imageUrl: "/artifacts/tongan-religious-traditions-1.jpg"
+    imageUrl: "/artifacts/tongan-religious-traditions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:TO-Haamonga_A_Maui.JPG"
     provenance: "Hobe / Holger Behr; Public domain"
     period: "Image dated 1990"
     description: "This image shows Haʻamonga ʻa Maui megalithic trilithon monument, selected as a defining visual reference for Tongan Religious Traditions."
   - title: "Langi monumental royal stone platform tombs at Muʻa"
-    imageUrl: "/artifacts/tongan-religious-traditions-2.jpg"
+    imageUrl: "/artifacts/tongan-religious-traditions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Langi-Tau%E2%80%98atonga.jpg"
     provenance: "Tauʻolunga; CC BY-SA 3.0"
     period: "Image dated 2006"

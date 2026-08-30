@@ -49,13 +49,13 @@ sources:
     url: 'https://brill.com/search?q=The%20Satanic%20Temple'
 artifacts:
   - title: "Satanic Temple Baphomet monument"
-    imageUrl: "/artifacts/satanic-temple-1.jpg"
+    imageUrl: "/artifacts/satanic-temple-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shiva_Honey_with_Baphomet.jpg"
     provenance: "Livban3777; CC0"
     period: "Image dated 2019"
     description: "This image shows Satanic Temple Baphomet monument, selected as a defining visual reference for The Satanic Temple."
   - title: "Salem Satanic Temple headquarters"
-    imageUrl: "/artifacts/satanic-temple-2.jpg"
+    imageUrl: "/artifacts/satanic-temple-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Satanic_Temple,_Salem,_MA_2023-02-23_01.jpg"
     provenance: "Crisco 1492; CC BY-SA 4.0"
     period: "Image dated 2023"

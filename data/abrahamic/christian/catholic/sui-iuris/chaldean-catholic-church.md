@@ -48,13 +48,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Chaldean%20Catholic%20Church'
 artifacts:
   - title: "East Syriac Holy Qurbana in the Chaldean Catholic tradition"
-    imageUrl: "/artifacts/chaldean-catholic-church-1.jpg"
+    imageUrl: "/artifacts/chaldean-catholic-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Diyarbak%C4%B1r_Mar_Petyun_Chaldean_Church_1143.jpg"
     provenance: "Dosseman; CC BY-SA 4.0"
     period: "5th century"
     description: "This image shows East Syriac Holy Qurbana in the Chaldean Catholic tradition, selected as a defining visual reference for Chaldean Catholic Church."
   - title: "Chaldean Cathedral of Our Lady of Sorrows in Baghdad"
-    imageUrl: "/artifacts/chaldean-catholic-church-2.jpg"
+    imageUrl: "/artifacts/chaldean-catholic-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cathedral_of_Our_Lady_of_Sorrows_in_Baghdad.jpg"
     provenance: "Christian World; CC BY 2.0"
     period: "Image dated 2020"

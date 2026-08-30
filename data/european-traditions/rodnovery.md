@@ -44,13 +44,13 @@ sources:
     url: 'https://brill.com/search?q=Rodnovery'
 artifacts:
   - title: "Rodnover Perun cult image"
-    imageUrl: "/artifacts/rodnovery-1.jpg"
+    imageUrl: "/artifacts/rodnovery-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Rodnover_sanctuary_at_Smre%C4%8Dn%C3%ADk,_Slovakia.jpg"
     provenance: "Wojsław Brozyna; CC BY-SA 4.0"
     period: "Image dated 2017"
     description: "This image shows Rodnover Perun cult image, selected as a defining visual reference for Rodnovery."
   - title: "Rodnover Kupala rite"
-    imageUrl: "/artifacts/rodnovery-2.jpg"
+    imageUrl: "/artifacts/rodnovery-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ritual_Round_Dance_duirng_the_Kupala_Night_Celebration_in_Rakov.jpg"
     provenance: "Aliaksei Staliarou; CC BY-SA 4.0"
     period: "Image dated 2015"

@@ -44,13 +44,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Therav%C4%81da%20Buddhism'
 artifacts:
   - title: "Samadhi Buddha of Anuradhapura, iconic Theravada sacred sculpture"
-    imageUrl: "/artifacts/theravada-1.jpg"
+    imageUrl: "/artifacts/theravada-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Samadhi_Buddha_01.jpg"
     provenance: "Bernard Gagnon; CC BY-SA 3.0"
     period: "Image dated 2006"
     description: "This image shows Samadhi Buddha of Anuradhapura, iconic Theravada sacred sculpture, selected as a defining visual reference for Theravāda Buddhism."
   - title: "Ruwanwelisaya, a principal Theravada relic stupa"
-    imageUrl: "/artifacts/theravada-2.jpg"
+    imageUrl: "/artifacts/theravada-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ruwanwelisaya_Stupa_Anuradhapura_2017-10-15_(2).jpg"
     provenance: "Z thomas; CC BY-SA 4.0"
     period: "Image dated 2017"

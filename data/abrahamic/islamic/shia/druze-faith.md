@@ -42,13 +42,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Druze%20Faith'
 artifacts:
   - title: "Five-colored Druze star representing the cosmic principles"
-    imageUrl: "/artifacts/druze-faith-1.jpg"
+    imageUrl: "/artifacts/druze-faith-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hurfeish_Nabi_Sablan_Avney_Moreshet_caedf640.jpg"
     provenance: "Jamal Ali (ג'מאל עלי); CC BY 2.5"
     period: "Image dated 2026"
     description: "This image shows Five-colored Druze star representing the cosmic principles, selected as a defining visual reference for Druze Faith."
   - title: "Shrine of Nabi Shu'ayb, principal Druze pilgrimage sanctuary"
-    imageUrl: "/artifacts/druze-faith-2.jpg"
+    imageUrl: "/artifacts/druze-faith-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_29544_Nabi_Shuayb_Shrine.JPG"
     provenance: "אמיר אבו גוש; CC BY 2.5"
     period: "Image dated 2012"

@@ -49,13 +49,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Lucum%C3%AD%20%2F%20Regla%20de%20Ocha'
 artifacts:
   - title: "Santeria altar and sacred Orisha vessels in Cuba"
-    imageUrl: "/artifacts/santeria-1.jpg"
+    imageUrl: "/artifacts/santeria-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Vall%C3%A9e_de_Vi%C3%B1ales-Autel_%C3%A0_saint_Lazare-Babal%C3%BA_Ay%C3%A9,.jpg"
     provenance: "Ji-Elle; CC BY-SA 4.0"
     period: "Image dated 2015"
     description: "This image shows Santeria altar and sacred Orisha vessels in Cuba, selected as a defining visual reference for Lucumí / Regla de Ocha."
   - title: "Sacred Bembe drumming ceremony and altar in Havana"
-    imageUrl: "/artifacts/santeria-2.jpg"
+    imageUrl: "/artifacts/santeria-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Collectie_Nationaal_Museum_van_Wereldculturen_TM-6335-1a_Enkelvellige_tonvormige_buistrom,_onderdeel_van_een_set_Cuba.jpg"
     provenance: "View this image on the website of the Museum van Wereldculturen; CC BY-SA 3.0"
     period: "Image dated 2004"

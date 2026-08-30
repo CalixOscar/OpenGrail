@@ -49,13 +49,13 @@ sources:
     url: 'https://brill.com/search?q=Cult%20of%20Enlil%20at%20Nippur'
 artifacts:
   - title: "Cult image of Enlil"
-    imageUrl: "/artifacts/enlil-cult-nippur-1.jpg"
+    imageUrl: "/artifacts/enlil-cult-nippur-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Standing_Male_Worshiper.jpg"
     provenance: "Metropolitan Museum of Art; CC0"
     period: "Object or image dated 1940"
     description: "This image shows Cult image of Enlil, selected as a defining visual reference for Cult of Enlil at Nippur."
   - title: "Ekur sanctuary at Nippur"
-    imageUrl: "/artifacts/enlil-cult-nippur-2.jpg"
+    imageUrl: "/artifacts/enlil-cult-nippur-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ruins_from_a_temple_in_Naffur.jpg"
     provenance: "Jasmine N. Walthall, U.S. Army; Public domain"
     period: "Image dated 2009"

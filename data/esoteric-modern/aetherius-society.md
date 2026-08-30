@@ -47,13 +47,13 @@ sources:
     url: 'https://brill.com/search?q=Aetherius%20Society'
 artifacts:
   - title: "Aetherius Society founder George King"
-    imageUrl: "/artifacts/aetherius-society-1.jpg"
+    imageUrl: "/artifacts/aetherius-society-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:George,_King_of_Saxony_(1832-1904),_when_Prince_George_of_Saxony.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "Image dated 1860"
     description: "This image shows Aetherius Society founder George King, selected as a defining visual reference for Aetherius Society."
   - title: "Aetherius Society temple"
-    imageUrl: "/artifacts/aetherius-society-2.jpg"
+    imageUrl: "/artifacts/aetherius-society-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_summit_cairns_of_Carnedd_Llywelyn_-_geograph.org.uk_-_910112.jpg"
     provenance: "Eric Jones; CC BY-SA 2.0"
     period: "Image dated 2006"

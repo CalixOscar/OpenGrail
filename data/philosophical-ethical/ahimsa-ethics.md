@@ -51,13 +51,13 @@ sources:
     url: 'https://www.gandhiashramsevagram.org/'
 artifacts:
   - title: "Jain Ahimsa symbol with the open hand and Dharmachakra"
-    imageUrl: "/artifacts/ahimsa-ethics-1.jpg"
+    imageUrl: "/artifacts/ahimsa-ethics-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Udaygiri_%26_Khandagiri_Caves,_Bhubaneswar_(26)_-_Oct_2010.jpg"
     provenance: "Steve Browne & John Verkleir; CC BY 2.0"
     period: "Image dated 2010"
     description: "This image shows Jain Ahimsa symbol with the open hand and Dharmachakra, selected as a defining visual reference for Ahiṃsā & Dharmic Ethics of Non-Violence."
   - title: "Lion Capital of Ashoka at Sarnath"
-    imageUrl: "/artifacts/ahimsa-ethics-2.jpg"
+    imageUrl: "/artifacts/ahimsa-ethics-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Lion_capital_of_Ashoka_at_Sarnath_(schematic_reconstruction).jpg"
     provenance: "Fowler&fowler; CC BY-SA 4.0"
     period: "Image dated 2022"

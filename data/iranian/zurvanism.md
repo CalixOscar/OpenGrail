@@ -44,13 +44,13 @@ sources:
     url: 'https://brill.com/search?q=Zurvanism'
 artifacts:
   - title: "Luristan bronze relief depicting Zurvan giving birth to twins"
-    imageUrl: "/artifacts/zurvanism-1.jpg"
+    imageUrl: "/artifacts/zurvanism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%27Kizil_Kuh%27_Plaque_LACMA_M.76.97.174.jpg"
     provenance: "Wikimedia Commons; Public domain"
     period: "Image dated 1000"
     description: "This image shows Luristan bronze relief depicting Zurvan giving birth to twins, selected as a defining visual reference for Zurvanism."
   - title: "Sasanian rock relief at Naqsh-e Rajab"
-    imageUrl: "/artifacts/zurvanism-2.jpg"
+    imageUrl: "/artifacts/zurvanism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kartir.jpg"
     provenance: "dynamosquito; CC BY-SA 2.0"
     period: "Image dated 2008"

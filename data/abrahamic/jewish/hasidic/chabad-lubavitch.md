@@ -47,13 +47,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Chabad-Lubavitch'
 artifacts:
   - title: "Portrait of the Lubavitcher Rebbe Menachem Mendel Schneerson"
-    imageUrl: "/artifacts/chabad-lubavitch-1.jpg"
+    imageUrl: "/artifacts/chabad-lubavitch-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Alleged_Messiah.jpg"
     provenance: "Eran Menashri; CC BY-SA 2.0"
     period: "Image dated 2013"
     description: "This image shows Portrait of the Lubavitcher Rebbe Menachem Mendel Schneerson, selected as a defining visual reference for Chabad-Lubavitch."
   - title: "770 Eastern Parkway, iconic world headquarters of Chabad"
-    imageUrl: "/artifacts/chabad-lubavitch-2.jpg"
+    imageUrl: "/artifacts/chabad-lubavitch-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:770_Eastern_Parkway_entrance.jpg"
     provenance: "ArnoldReinhold; CC BY-SA 3.0"
     period: "Image dated 2013"

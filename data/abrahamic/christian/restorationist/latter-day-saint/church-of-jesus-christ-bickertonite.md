@@ -45,13 +45,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=The%20Church%20of%20Jesus%20Christ'
 artifacts:
   - title: "Portrait of William Bickerton, founder of the Bickertonite church"
-    imageUrl: "/artifacts/church-of-jesus-christ-bickertonite-1.jpg"
+    imageUrl: "/artifacts/church-of-jesus-christ-bickertonite-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bickerton.jpg"
     provenance: "Petrus Van der Velden; Public domain"
     period: "Image dated 1895"
     description: "This image shows Portrait of William Bickerton, founder of the Bickertonite church, selected as a defining visual reference for The Church of Jesus Christ (Bickertonite)."
   - title: "Historic Bickertonite church in Monongahela, Pennsylvania"
-    imageUrl: "/artifacts/church-of-jesus-christ-bickertonite-2.jpg"
+    imageUrl: "/artifacts/church-of-jesus-christ-bickertonite-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Feuille_A_Monografie_de_la_Cathedrale_de_Chartres_-_Atlas_-_Vitrail_de_la_vie_de_Jesus_Christ_-_Restored_Version_62-.jpg"
     provenance: "Jean-Baptiste-Antoine Lassus, Eugene-Emmanuel-Amaury Pineu-Duval et Adolphe-Napoleon Didron, Paul Duran.; Public domain"
     period: "Image dated 2016"

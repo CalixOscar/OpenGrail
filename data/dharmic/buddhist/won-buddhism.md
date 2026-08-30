@@ -45,13 +45,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Won%20Buddhism'
 artifacts:
   - title: "Won Buddhism sanctuary and Il Won Sang emblem"
-    imageUrl: "/artifacts/won-buddhism-1.jpg"
+    imageUrl: "/artifacts/won-buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Changnyeong_wonbulgyo.jpg"
     provenance: "Taken by User:Visviva and released into the public domain.; Public domain"
     period: "Image dated 2007"
     description: "This image shows Won Buddhism sanctuary and Il Won Sang emblem, selected as a defining visual reference for Won Buddhism."
   - title: "Won Buddhism Central Headquarters in Iksan"
-    imageUrl: "/artifacts/won-buddhism-2.jpg"
+    imageUrl: "/artifacts/won-buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%A3%E0%B8%99%E0%B8%B8%E0%B8%8A_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_(8).jpg"
     provenance: "กสิณธร ราชโอรส; CC BY-SA 4.0"
     period: "Image dated 2014"

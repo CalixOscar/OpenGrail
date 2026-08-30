@@ -45,13 +45,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Reformed%20Christianity'
 artifacts:
   - title: "Historical portrait of Reformed theologian John Calvin"
-    imageUrl: "/artifacts/reformed-christianity-1.jpg"
+    imageUrl: "/artifacts/reformed-christianity-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Francia,_ritratto_di_giovanni_calvino,_1550_ca._01.JPG"
     provenance: "Sailko; CC BY-SA 3.0"
     period: "Image dated 1550"
     description: "This image shows Historical portrait of Reformed theologian John Calvin, selected as a defining visual reference for Reformed Christianity."
   - title: "Pulpit and sanctuary of Saint Pierre Cathedral in Geneva"
-    imageUrl: "/artifacts/reformed-christianity-2.jpg"
+    imageUrl: "/artifacts/reformed-christianity-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_de_la_cath%C3%A9drale_Saint-Pierre_de_Gen%C3%A8ve_2009-07-11.jpg"
     provenance: "Yann ( talk ); CC BY-SA 4.0"
     period: "Image dated 2009"

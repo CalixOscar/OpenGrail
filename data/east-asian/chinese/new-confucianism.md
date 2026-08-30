@@ -42,13 +42,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=New%20Confucianism'
 artifacts:
   - title: "Portrait of Mou Zongsan"
-    imageUrl: "/artifacts/new-confucianism-1.jpg"
+    imageUrl: "/artifacts/new-confucianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_-_Self-Portrait_with_a_Hat_-_Google_Art_Project.jpg"
     provenance: "Paul Cezanne; Public domain"
     period: "Image dated 1894"
     description: "This image shows Portrait of Mou Zongsan, selected as a defining visual reference for New Confucianism."
   - title: "New Asia College intellectual center"
-    imageUrl: "/artifacts/new-confucianism-2.jpg"
+    imageUrl: "/artifacts/new-confucianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cuhk.jpg"
     provenance: "Baycrest; CC BY-SA 2.5"
     period: "Image dated 2005"

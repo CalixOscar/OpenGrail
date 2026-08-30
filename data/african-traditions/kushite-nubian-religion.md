@@ -38,13 +38,13 @@ sources:
     url: 'https://whc.unesco.org/en/list/1336/'
 artifacts:
   - title: "Kushite ram sphinx of Amun"
-    imageUrl: "/artifacts/kushite-nubian-religion-1.jpg"
+    imageUrl: "/artifacts/kushite-nubian-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ram_sphinx_of_king_Taharqa_(Taharqo),_25th_(Kushite)_Dynasty,_690-664_BCE._From_Kawa,_Sudan._British_Museum,_London.jpg"
     provenance: "Osama Shukir Muhammed Amin FRCP(Glasg); CC BY-SA 4.0"
     period: "664 BCE"
     description: "This image shows Kushite ram sphinx of Amun, selected as a defining visual reference for Kingdom of Kush & Nubian Religion."
   - title: "Jebel Barkal sanctuary of Amun"
-    imageUrl: "/artifacts/kushite-nubian-religion-2.jpg"
+    imageUrl: "/artifacts/kushite-nubian-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ruins_of_the_temple_at_the_foot_of_Jebel_Barkal.jpg"
     provenance: "Mark Fischer; CC BY-SA 2.0"
     period: "Image dated 2012"

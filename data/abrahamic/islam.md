@@ -51,13 +51,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Islam'
 artifacts:
   - title: "Pilgrims circling the Kaaba during Hajj"
-    imageUrl: "/artifacts/islam-1.jpg"
+    imageUrl: "/artifacts/islam-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mecca_hist_1.jpg"
     provenance: "Original uploader was Bless sins at en.wikipedia; CC BY-SA 2.0"
     period: "Image dated 2008"
     description: "This image shows Pilgrims circling the Kaaba during Hajj, selected as a defining visual reference for Islam."
   - title: "Blue Quran folio, iconic sacred Islamic calligraphy"
-    imageUrl: "/artifacts/islam-2.jpg"
+    imageUrl: "/artifacts/islam-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Folio_from_a_Koran_(Sura_Najm).jpg"
     provenance: "Unknown in Mamluk dynasty; Public domain"
     period: "late 14th century"

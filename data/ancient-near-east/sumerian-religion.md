@@ -47,13 +47,13 @@ sources:
     url: 'https://brill.com/search?q=Sumerian%20Religion'
 artifacts:
   - title: "Tell Asmar votive worshippers"
-    imageUrl: "/artifacts/sumerian-religion-1.jpg"
+    imageUrl: "/artifacts/sumerian-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mesopotamia_male_worshiper_2750-2600_B.C.jpg"
     provenance: "Rosemaniakos from Bejing (hometown); CC BY-SA 2.0"
     period: "Image dated 2005"
     description: "This image shows Tell Asmar votive worshippers, selected as a defining visual reference for Sumerian Religion."
   - title: "Great Ziggurat of Ur"
-    imageUrl: "/artifacts/sumerian-religion-2.jpg"
+    imageUrl: "/artifacts/sumerian-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ziggarat_of_Ur_001.jpg"
     provenance: "Tla2006 at English Wikipedia; Public domain"
     period: "Image dated 2006"

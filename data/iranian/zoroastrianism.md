@@ -40,13 +40,13 @@ sources:
     url: 'https://brill.com/search?q=Zoroastrianism'
 artifacts:
   - title: "Faravahar relief carved into the stone of Persepolis"
-    imageUrl: "/artifacts/zoroastrianism-1.jpg"
+    imageUrl: "/artifacts/zoroastrianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Persepolis_-_carved_Faravahar.JPG"
     provenance: "Napishtim; CC BY-SA 3.0"
     period: "Image dated 2009"
     description: "This image shows Faravahar relief carved into the stone of Persepolis, selected as a defining visual reference for Zoroastrianism."
   - title: "Sacred consecrated fire urn inside a Zoroastrian Atashkadeh"
-    imageUrl: "/artifacts/zoroastrianism-2.jpg"
+    imageUrl: "/artifacts/zoroastrianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sacred_Eternal_Flame_(8906006775).jpg"
     provenance: "David Stanley from Nanaimo, Canada; CC BY 2.0"
     period: "470 AD"

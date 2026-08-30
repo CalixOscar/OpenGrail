@@ -47,13 +47,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Oneness%20Pentecostalism'
 artifacts:
   - title: "William J. Seymour, leader of the Azusa Street Revival foundational to Pentecostalism"
-    imageUrl: "/artifacts/oneness-pentecostalism-1.jpg"
+    imageUrl: "/artifacts/oneness-pentecostalism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_of_Lieutenant_David_Thompson_Seymour,_first_Police_Commissioner.jpg"
     provenance: "Queensland State Archives; Public domain"
     period: "Image dated 1916"
     description: "This image shows William J. Seymour, leader of the Azusa Street Revival foundational to Pentecostalism, selected as a defining visual reference for Oneness Pentecostalism."
   - title: "Historical site and sanctuary marker of the Azusa Street Mission"
-    imageUrl: "/artifacts/oneness-pentecostalism-2.jpg"
+    imageUrl: "/artifacts/oneness-pentecostalism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Azusa-Street-Historical-Sign.jpg"
     provenance: "Callsignpink; CC BY-SA 4.0"
     period: "Image dated 2014"

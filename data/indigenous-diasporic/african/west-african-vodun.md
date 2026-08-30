@@ -40,13 +40,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=West%20African%20Vodun'
 artifacts:
   - title: "Carved wooden Mami Wata water deity figure with serpent"
-    imageUrl: "/artifacts/west-african-vodun-1.jpg"
+    imageUrl: "/artifacts/west-african-vodun-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Figure_of_Mammy_Wata_in_Boat,_Nigeria_-_Staatliches_Museum_f%C3%BCr_V%C3%B6lkerkunde_M%C3%BCnchen_-_DSC08436.JPG"
     provenance: "Daderot; Public domain"
     period: "Image dated 2011"
     description: "This image shows Carved wooden Mami Wata water deity figure with serpent, selected as a defining visual reference for West African Vodun."
   - title: "Akodessewa sacred healing and fetish market in Lome"
-    imageUrl: "/artifacts/west-african-vodun-2.jpg"
+    imageUrl: "/artifacts/west-african-vodun-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Voodo-fetischmarkt-Lom%C3%A9.jpg"
     provenance: "Dominik Schwarz; CC BY-SA 3.0"
     period: "Image dated 2008"

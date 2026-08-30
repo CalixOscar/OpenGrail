@@ -49,13 +49,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Iglesia%20ni%20Cristo'
 artifacts:
   - title: "Portrait of Felix Manalo, founder of Iglesia ni Cristo"
-    imageUrl: "/artifacts/iglesia-ni-cristo-1.jpg"
+    imageUrl: "/artifacts/iglesia-ni-cristo-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Signac_-_Portrait_de_F%C3%A9lix_F%C3%A9n%C3%A9on.jpg"
     provenance: "Paul Signac; Public domain"
     period: "Image dated 1890"
     description: "This image shows Portrait of Felix Manalo, founder of Iglesia ni Cristo, selected as a defining visual reference for Iglesia ni Cristo."
   - title: "Central Temple in Quezon City, iconic INC sanctuary"
-    imageUrl: "/artifacts/iglesia-ni-cristo-2.jpg"
+    imageUrl: "/artifacts/iglesia-ni-cristo-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Duterte_Manalo_meet_Iglesia_Ni_Cristo.jpg"
     provenance: "Presidential Communications Operations Office; CC BY-SA 4.0"
     period: "Image dated 2018"

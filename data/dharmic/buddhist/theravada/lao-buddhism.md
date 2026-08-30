@@ -51,13 +51,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Lao%20Buddhism'
 artifacts:
   - title: "Phra Bang palladium Buddha, namesake icon of Luang Prabang"
-    imageUrl: "/artifacts/lao-buddhism-1.jpg"
+    imageUrl: "/artifacts/lao-buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Phra_Bang_Budhhalawan.jpg"
     provenance: "Tmd; Public domain"
     period: "Image dated 1972"
     description: "This image shows Phra Bang palladium Buddha, namesake icon of Luang Prabang, selected as a defining visual reference for Lao Buddhism."
   - title: "Pha That Luang, Laos's national Buddhist reliquary"
-    imageUrl: "/artifacts/lao-buddhism-2.jpg"
+    imageUrl: "/artifacts/lao-buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pha_That_Luang_Vientiane_Laos_Wikimedia_Commons.jpg"
     provenance: "Benh LIEU SONG; CC BY-SA 3.0"
     period: "Image dated 2009"

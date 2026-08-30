@@ -49,13 +49,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Orthodox%20Church%20in%20America'
 artifacts:
   - title: "Icon of Saint Herman of Alaska, foundational North American Orthodox saint"
-    imageUrl: "/artifacts/orthodox-church-in-america-1.jpg"
+    imageUrl: "/artifacts/orthodox-church-in-america-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bia%C5%82ystok_cerkiew_%C5%9Bw._Jerzego_ikona_hermana_z_Alaski.JPG"
     provenance: "Loraine; CC BY-SA 4.0"
     period: "Image dated 2011"
     description: "This image shows Icon of Saint Herman of Alaska, foundational North American Orthodox saint, selected as a defining visual reference for Orthodox Church in America."
   - title: "Orthodox Church in America's Saint Nicholas Cathedral in Washington"
-    imageUrl: "/artifacts/orthodox-church-in-america-2.jpg"
+    imageUrl: "/artifacts/orthodox-church-in-america-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Vladimir_demetrios.jpg"
     provenance: "Sergei Prokudin-Gorskii; Public domain"
     period: "Image dated 1911"

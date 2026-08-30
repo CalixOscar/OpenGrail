@@ -46,13 +46,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Eastern%20Orthodoxy'
 artifacts:
   - title: "Sixth-century Christ Pantocrator icon, supreme Orthodox sacred image"
-    imageUrl: "/artifacts/eastern-orthodoxy-1.jpg"
+    imageUrl: "/artifacts/eastern-orthodoxy-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay_(cropped).jpg"
     provenance: "Anonymous Unknown author; Public domain"
     period: "6th-century"
     description: "This image shows Sixth-century Christ Pantocrator icon, supreme Orthodox sacred image, selected as a defining visual reference for Eastern Orthodoxy."
   - title: "The Deesis mosaic of Hagia Sophia, monumental Byzantine sacred art"
-    imageUrl: "/artifacts/eastern-orthodoxy-2.jpg"
+    imageUrl: "/artifacts/eastern-orthodoxy-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Deesis_mosaic_(1).JPG"
     provenance: "Gryffindor; Public domain"
     period: "Image dated 2007"

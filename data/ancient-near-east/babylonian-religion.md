@@ -47,13 +47,13 @@ sources:
     url: 'https://brill.com/search?q=Babylonian%20Religion'
 artifacts:
   - title: "Marduk and mushussu image"
-    imageUrl: "/artifacts/babylonian-religion-1.jpg"
+    imageUrl: "/artifacts/babylonian-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ishtar_Gate_Dragon.JPG"
     provenance: "The original uploader was Lostinafrica at English Wikipedia .; CC BY-SA 3.0"
     period: "Image dated 2007"
     description: "This image shows Marduk and mushussu image, selected as a defining visual reference for Babylonian Religion."
   - title: "Ishtar Gate of Babylon"
-    imageUrl: "/artifacts/babylonian-religion-2.jpg"
+    imageUrl: "/artifacts/babylonian-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ishtar_gate_in_Pergamon_museum_in_Berlin..jpg"
     provenance: "Radomir Vrbovsky; CC BY-SA 4.0"
     period: "Image dated 2014"

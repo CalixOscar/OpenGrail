@@ -42,13 +42,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Nirankari%20Movement'
 artifacts:
   - title: "Baba Dyal Singh, founder of the original Nirankari movement"
-    imageUrl: "/artifacts/nirankari-1.jpg"
+    imageUrl: "/artifacts/nirankari-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Miniature_painting_thought_to_depict_Baba_Dyal_Singh,_founder_of_the_Nirankari_sect_of_Sikhism_in_1851,_circa_19th_century.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "19th century"
     description: "This image shows Baba Dyal Singh, founder of the original Nirankari movement, selected as a defining visual reference for Nirankari Movement."
   - title: "Sant Nirankari Samagam spiritual assembly in Delhi"
-    imageUrl: "/artifacts/nirankari-2.jpg"
+    imageUrl: "/artifacts/nirankari-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sant_Nirankari_Samagam.jpg"
     provenance: "Nitin.i.azam; CC BY-SA 4.0"
     period: "Image dated 2014"

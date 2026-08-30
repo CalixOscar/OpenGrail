@@ -47,13 +47,13 @@ sources:
     url: 'https://brill.com/search?q=Modern%20Paganism'
 artifacts:
   - title: "Modern Pagan public altar"
-    imageUrl: "/artifacts/neopaganism-1.jpg"
+    imageUrl: "/artifacts/neopaganism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Harts_Hearth_Clan_of_Tooele,_Utah_performing_the_closing_Norse_rite,_Salt_Lake_City_Pagan_Pride_Day_2015.jpg"
     provenance: "Bigbear213; CC BY-SA 3.0"
     period: "Image dated 2015"
     description: "This image shows Modern Pagan public altar, selected as a defining visual reference for Modern Paganism."
   - title: "Pagan handfasting rite"
-    imageUrl: "/artifacts/neopaganism-2.jpg"
+    imageUrl: "/artifacts/neopaganism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:V%C3%A5rblot_2010_offerg%C3%A5vor.jpg"
     provenance: "Gunnar Creutz; Public domain"
     period: "Image dated 2010"

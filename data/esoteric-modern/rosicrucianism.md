@@ -46,13 +46,13 @@ sources:
     url: 'https://brill.com/search?q=Rosicrucianism'
 artifacts:
   - title: "Historical Rosy Cross emblem"
-    imageUrl: "/artifacts/rosicrucianism-1.jpg"
+    imageUrl: "/artifacts/rosicrucianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Embl%C3%A8me_Rose_Croix_Max_Heindel.jpg"
     provenance: "Gabriel.Falcon; Public domain"
     period: "Image dated 2009"
     description: "This image shows Historical Rosy Cross emblem, selected as a defining visual reference for Rosicrucianism."
   - title: "AMORC Rosicrucian sanctuary"
-    imageUrl: "/artifacts/rosicrucianism-2.jpg"
+    imageUrl: "/artifacts/rosicrucianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Horus_falcon_statue_front_Rosicrucian_Park.JPG"
     provenance: "BrokenSphere; CC BY-SA 3.0"
     period: "Image dated 2008"

@@ -40,13 +40,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Polynesian%20Religions'
 artifacts:
   - title: "Monumental stone carved Tiki statue of French Polynesia"
-    imageUrl: "/artifacts/polynesian-religions-1.jpg"
+    imageUrl: "/artifacts/polynesian-religions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tikimarquesas.jpg"
     provenance: "American at de.wikipedia; CC BY-SA 3.0"
     period: "Image dated 2004"
     description: "This image shows Monumental stone carved Tiki statue of French Polynesia, selected as a defining visual reference for Polynesian Religions."
   - title: "Taputapuatea international marae sanctuary on Raiʻatea"
-    imageUrl: "/artifacts/polynesian-religions-2.jpg"
+    imageUrl: "/artifacts/polynesian-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Marae,_Raiatea_2.jpg"
     provenance: "Michel-georges bernard; CC BY-SA 3.0"
     period: "Image dated 2000"

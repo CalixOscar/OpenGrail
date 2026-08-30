@@ -51,13 +51,13 @@ sources:
     url: 'https://brill.com/search?q=Shabak%20Religious%20Tradition'
 artifacts:
   - title: "Shabak pilgrimage sanctuary on the Nineveh Plains"
-    imageUrl: "/artifacts/shabak-tradition-1.jpg"
+    imageUrl: "/artifacts/shabak-tradition-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Chidr_Elias_Plan.jpg"
     provenance: "scan from Conrad Preusser Nordmesopotamische Baudenkmaler altchristlicher und islamischer Zeit. Leipzig 1911, plate 1; Public domain"
     period: "Image dated 1911"
     description: "This image shows Shabak pilgrimage sanctuary on the Nineveh Plains, selected as a defining visual reference for Shabak Religious Tradition."
   - title: "Sacred shrine on the Nineveh Plains"
-    imageUrl: "/artifacts/shabak-tradition-2.jpg"
+    imageUrl: "/artifacts/shabak-tradition-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:ProphetNahum.JPG"
     provenance: "Chaldean; CC BY-SA 4.0"
     period: "Image dated 2014"

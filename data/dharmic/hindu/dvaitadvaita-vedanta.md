@@ -49,13 +49,13 @@ sources:
       https://www.rep.routledge.com/search?query=Dvait%C4%81dvaita%20Ved%C4%81nta
 artifacts:
   - title: "Nimbarka, teacher associated with Dvaitadvaita Vedanta"
-    imageUrl: "/artifacts/dvaitadvaita-vedanta-1.jpg"
+    imageUrl: "/artifacts/dvaitadvaita-vedanta-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Nimbarkacharya%27s_holy_icon_at_the_Ukhra_Nimbarka_Peeth_Mahanta_Asthal(West_Bengal).JPG"
     provenance: "BodBeral; CC BY-SA 4.0"
     period: "Image dated 2015"
     description: "This image shows Nimbarka, teacher associated with Dvaitadvaita Vedanta, selected as a defining visual reference for Dvaitādvaita Vedānta."
   - title: "Nimbarka Tirtha at Salemabad, principal seat of the sampradaya"
-    imageUrl: "/artifacts/dvaitadvaita-vedanta-2.jpg"
+    imageUrl: "/artifacts/dvaitadvaita-vedanta-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%E0%B0%A8%E0%B0%BF%E0%B0%82%E0%B0%AC%E0%B0%BE%E0%B0%9A%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%AF%E0%B1%81%E0%B0%A1%E0%B1%81_%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B1%87%E0%B0%AE%E0%B0%AE%E0%B0%82%E0%B0%A6%E0%B0%BF%E0%B0%B0%E0%B0%82.jpg"
     provenance: "T.sujatha; CC BY-SA 3.0"
     period: "Image dated 2014"

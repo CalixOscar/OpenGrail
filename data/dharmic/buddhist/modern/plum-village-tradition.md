@@ -50,13 +50,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Plum%20Village%20Tradition'
 artifacts:
   - title: "Thich Nhat Hanh, founder of the Plum Village tradition"
-    imageUrl: "/artifacts/plum-village-tradition-1.jpg"
+    imageUrl: "/artifacts/plum-village-tradition-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Verdelot_monast%C3%A8re_vietnamien_P1070501.JPG"
     provenance: "Utilisateur:Djampa; CC BY-SA 4.0"
     period: "Image dated 2023"
     description: "This image shows Thich Nhat Hanh, founder of the Plum Village tradition, selected as a defining visual reference for Plum Village Tradition."
   - title: "Plum Village Monastery in France, the tradition's founding community"
-    imageUrl: "/artifacts/plum-village-tradition-2.jpg"
+    imageUrl: "/artifacts/plum-village-tradition-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Chan_khong.jpg"
     provenance: "Geoff Livingston; CC BY-SA 2.0"
     period: "Image dated 2009"

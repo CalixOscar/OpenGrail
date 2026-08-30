@@ -50,13 +50,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Zulu%20Religious%20Traditions'
 artifacts:
   - title: "Zulu Sangoma traditional healer and diviner regalia"
-    imageUrl: "/artifacts/zulu-religion-1.jpg"
+    imageUrl: "/artifacts/zulu-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sangoma_Ritual_Regalia_in_Indumba_(Healing_Hut).jpg"
     provenance: "LondekaT; CC BY-SA 4.0"
     period: "Image dated 2019"
     description: "This image shows Zulu Sangoma traditional healer and diviner regalia, selected as a defining visual reference for Zulu Religious Traditions."
   - title: "Umkhosi Womhlanga Reed Dance royal festival ceremony"
-    imageUrl: "/artifacts/zulu-religion-2.jpg"
+    imageUrl: "/artifacts/zulu-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:South_africa_-_zulu_reed_dance_ceremony_(6563648943).jpg"
     provenance: "Retlaw Snellac from Belgium; CC BY 2.0"
     period: "Image dated 2010"

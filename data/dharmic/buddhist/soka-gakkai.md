@@ -43,13 +43,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Soka%20Gakkai'
 artifacts:
   - title: "Tsunesaburo Makiguchi, founding president of Soka Gakkai"
-    imageUrl: "/artifacts/soka-gakkai-1.jpg"
+    imageUrl: "/artifacts/soka-gakkai-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tsunesaburo_Makiguchi.jpg"
     provenance: "Soka Gakkai; Public domain"
     period: "Image dated 1944"
     description: "This image shows Tsunesaburo Makiguchi, founding president of Soka Gakkai, selected as a defining visual reference for Soka Gakkai."
   - title: "Hall of the Great Vow for Kosen-rufu, Soka Gakkai's central sanctuary"
-    imageUrl: "/artifacts/soka-gakkai-2.jpg"
+    imageUrl: "/artifacts/soka-gakkai-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:HK_CWB_HKCL_art_exhibition_hall_interior_06_flowers_%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E5%89%B5%E5%83%B9%E5%AD%B8%E6%9C%83_Soka_Gakkai_International.JPG"
     provenance: "Csmardcoe; CC BY-SA 3.0"
     period: "Image dated 2010"

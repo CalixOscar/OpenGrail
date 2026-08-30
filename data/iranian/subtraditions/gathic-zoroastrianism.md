@@ -49,13 +49,13 @@ sources:
     url: 'https://brill.com/search?q=Gathic%20Zoroastrianism'
 artifacts:
   - title: "Winged Faravahar relief at Persepolis"
-    imageUrl: "/artifacts/gathic-zoroastrianism-1.jpg"
+    imageUrl: "/artifacts/gathic-zoroastrianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Persepolis_-_carved_Faravahar.JPG"
     provenance: "Napishtim; CC BY-SA 3.0"
     period: "Image dated 2009"
     description: "This image shows Winged Faravahar relief at Persepolis, selected as a defining visual reference for Gathic Zoroastrianism."
   - title: "Illuminated Yasna manuscript containing the Gathas of Zarathustra"
-    imageUrl: "/artifacts/gathic-zoroastrianism-2.jpg"
+    imageUrl: "/artifacts/gathic-zoroastrianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bodleian_J2_fol_175_Y_28_1.jpg"
     provenance: "Wikimedia Commons; Public domain"
     period: "Image dated 2005"

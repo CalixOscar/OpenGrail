@@ -38,13 +38,13 @@ sources:
     url: 'https://global.oup.com/'
 artifacts:
   - title: "Scythian gold pectoral from Tovsta Mohyla"
-    imageUrl: "/artifacts/scythian-religion-1.jpg"
+    imageUrl: "/artifacts/scythian-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Scythian_gold_pectoral_Tovsta_Mohyla_(detail_3).jpg"
     provenance: "Curryfauvel; CC0"
     period: "Image dated 2008"
     description: "This image shows Scythian gold pectoral from Tovsta Mohyla, selected as a defining visual reference for Scythian & Saka Kurgan Religion."
   - title: "Pazyryk kurgan felt hanging showing the Great Goddess"
-    imageUrl: "/artifacts/scythian-religion-2.jpg"
+    imageUrl: "/artifacts/scythian-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pazyryk_Culture,_6th-2nd_Centuries_BC_(34903999413).jpg"
     provenance: "Gary Todd from Xinzheng, China; CC0"
     period: "Image dated 2017"

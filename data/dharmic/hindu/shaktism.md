@@ -47,13 +47,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=%C5%9A%C4%81ktism'
 artifacts:
   - title: "Durga slaying Mahisasura, defining icon of supreme Devi"
-    imageUrl: "/artifacts/shaktism-1.jpg"
+    imageUrl: "/artifacts/shaktism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sculpture_of_Devi_Durga_at_Albert_Hall.jpg"
     provenance: "Anupamg; CC BY-SA 3.0"
     period: "Image dated 2012"
     description: "This image shows Durga slaying Mahisasura, defining icon of supreme Devi, selected as a defining visual reference for Śāktism."
   - title: "Dakshineswar Kali Temple, a major modern Sakta sanctuary"
-    imageUrl: "/artifacts/shaktism-2.jpg"
+    imageUrl: "/artifacts/shaktism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dakshineswar_Kali_Temple,_Dakshineswar,_West_Bengal,_India_(2007).jpg"
     provenance: "The original uploader was Nikkul at English Wikipedia .; CC BY-SA 2.0"
     period: "Image dated 2007"

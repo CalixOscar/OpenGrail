@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Ahmadiyya'
 artifacts:
   - title: "Portrait of Mirza Ghulam Ahmad, founder of the Ahmadiyya movement"
-    imageUrl: "/artifacts/ahmadiyya-1.jpg"
+    imageUrl: "/artifacts/ahmadiyya-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_of_Vaqif_Ali_Khan_Dar_late_18th_century.jpg"
     provenance: "Mirza Ghulam Husain Qandahari; Public domain"
     period: "18th century"
     description: "This image shows Portrait of Mirza Ghulam Ahmad, founder of the Ahmadiyya movement, selected as a defining visual reference for Ahmadiyya."
   - title: "Mubarak Mosque at Qadian, the movement's first mosque"
-    imageUrl: "/artifacts/ahmadiyya-2.jpg"
+    imageUrl: "/artifacts/ahmadiyya-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D8%A8%D8%A7%D8%B1%DA%A9_%D9%82%D8%A7%D8%AF%DB%8C%D8%A7%D9%86_%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%A7%D9%85%D8%A7%DA%BA_%D8%B5%D8%AD%D9%86.jpg"
     provenance: "HolyArtThou; CC BY 4.0"
     period: "Image dated 2023"

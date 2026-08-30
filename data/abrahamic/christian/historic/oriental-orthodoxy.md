@@ -44,13 +44,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Oriental%20Orthodoxy'
 artifacts:
   - title: "Early Coptic icon of Christ and Abba Menas"
-    imageUrl: "/artifacts/oriental-orthodoxy-1.jpg"
+    imageUrl: "/artifacts/oriental-orthodoxy-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:L%27abb%C3%A9_M%C3%A9na_et_le_Christ_01.JPG"
     provenance: "anonymous; CC BY-SA 3.0"
     period: "7th century AD"
     description: "This image shows Early Coptic icon of Christ and Abba Menas, selected as a defining visual reference for Oriental Orthodoxy."
   - title: "Heads of the Oriental Orthodox churches gathered at Addis Ababa in 1965"
-    imageUrl: "/artifacts/oriental-orthodoxy-2.jpg"
+    imageUrl: "/artifacts/oriental-orthodoxy-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Addis_Ababa_Conference_Portal_powered_by_OCP_inaugurated_at_all_UAE_National_Ethiopian_Youth_Conference,_Ethiopian_Orthodox_Prelates_Honored_by_OCP_Society.jpeg"
     provenance: "Theorthodoxchurch; CC BY-SA 3.0"
     period: "Image dated 2014"

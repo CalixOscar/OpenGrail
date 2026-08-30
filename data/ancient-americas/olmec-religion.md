@@ -38,13 +38,13 @@ sources:
     url: 'https://www.nationalgeographic.com/'
 artifacts:
   - title: "Olmec colossal head from San Lorenzo"
-    imageUrl: "/artifacts/olmec-religion-1.jpg"
+    imageUrl: "/artifacts/olmec-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Olmec_Head_from_San_Lorenzo,_Veracruz.jpg"
     provenance: "https://www.flickr.com/photos/rosemania/; CC BY 2.0"
     period: "Image dated 2006"
     description: "This image shows Olmec colossal head from San Lorenzo, selected as a defining visual reference for Olmec Sacred Horizon & Were-Jaguar Cult."
   - title: "La Venta basalt offering altar"
-    imageUrl: "/artifacts/olmec-religion-2.jpg"
+    imageUrl: "/artifacts/olmec-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Altar_4_La_Venta_(Ruben_Charles).jpg"
     provenance: "Ruben Charles, ( http://www.rubencharles.com ); CC BY 2.0"
     period: "Image dated 2007"

@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Mandaeism'
 artifacts:
   - title: "Mandaean priests performing the defining masbuta river baptism"
-    imageUrl: "/artifacts/mandeanism-1.jpg"
+    imageUrl: "/artifacts/mandeanism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Masbuta_by_Mandaean_in_Karun_River,_Ahvaz,_Iran_-_16_July_2018_(20).jpg"
     provenance: "Mehdi Pedramkhoo; CC BY 4.0"
     period: "Image dated 2018"
     description: "This image shows Mandaean priests performing the defining masbuta river baptism, selected as a defining visual reference for Mandaeism."
   - title: "Illustrated or inscribed manuscript of the Ginza Rabba"
-    imageUrl: "/artifacts/mandeanism-2.jpg"
+    imageUrl: "/artifacts/mandeanism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mandaic_class_women_Ahvaz_02.jpg"
     provenance: "Yuhana Nashmi (The Worlds of Mandaean Priests); CC BY-SA 4.0"
     period: "Image dated 2015"

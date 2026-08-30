@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Ibadi%20Islam'
 artifacts:
   - title: "Nizwa mosque in Oman's historic Ibadi scholarly center"
-    imageUrl: "/artifacts/ibadi-islam-1.jpg"
+    imageUrl: "/artifacts/ibadi-islam-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sultan_Qaboos_Mosque_1.jpg"
     provenance: "https://www.flickr.com/photos/130649623@N05/; CC BY-SA 2.0"
     period: "Image dated 2013"
     description: "This image shows Nizwa mosque in Oman's historic Ibadi scholarly center, selected as a defining visual reference for Ibadi Islam."
   - title: "Sultan Qaboos Grand Mosque in Muscat, Oman"
-    imageUrl: "/artifacts/ibadi-islam-2.jpg"
+    imageUrl: "/artifacts/ibadi-islam-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sultan_Qaboos_Grand_Mosque_(1).jpg"
     provenance: "Mostafameraji; CC BY-SA 4.0"
     period: "Image dated 2017"

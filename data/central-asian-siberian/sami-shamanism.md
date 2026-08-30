@@ -38,13 +38,13 @@ sources:
     url: 'https://www.britannica.com/topic/Sami-religion'
 artifacts:
   - title: "Sami noaidi shamanic drum with cosmological symbols"
-    imageUrl: "/artifacts/sami-shamanism-1.jpg"
+    imageUrl: "/artifacts/sami-shamanism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sami_shamanic_drum.JPG"
     provenance: "Zouavman Le Zouave; CC BY-SA 3.0"
     period: "Image dated 2007"
     description: "This image shows Sami noaidi shamanic drum with cosmological symbols, selected as a defining visual reference for Sámi Noaidi Shamanism & Sieidi Cult."
   - title: "Sami sieidi sacred stone sanctuary"
-    imageUrl: "/artifacts/sami-shamanism-2.jpg"
+    imageUrl: "/artifacts/sami-shamanism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Lake_Seydozero,_Sacred_Sami_Lake_in_Murmansk_Oblast,_Russia.jpg"
     provenance: "Artem Abdukakharov; CC BY 4.0"
     period: "Image dated 2017"

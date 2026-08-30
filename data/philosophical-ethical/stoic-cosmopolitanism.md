@@ -47,13 +47,13 @@ sources:
     url: 'https://www.cambridge.org/'
 artifacts:
   - title: "Bronze Equestrian Statue of Emperor Marcus Aurelius"
-    imageUrl: "/artifacts/stoic-cosmopolitanism-1.jpg"
+    imageUrl: "/artifacts/stoic-cosmopolitanism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Marcus.aurelius.horse.statue.rome.arp.jpg"
     provenance: "Adrian Pingstone ( Arpingstone ); Public domain"
     period: "Image dated 2007"
     description: "This image shows Bronze Equestrian Statue of Emperor Marcus Aurelius, selected as a defining visual reference for Stoic Cosmopolitanism & Universal Natural Law."
   - title: "Manuscript leaf containing the Meditations of Marcus Aurelius"
-    imageUrl: "/artifacts/stoic-cosmopolitanism-2.jpg"
+    imageUrl: "/artifacts/stoic-cosmopolitanism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Marcus_Aurelius._De_seipso,_seu_vita_sua_(Xylander,_1558).jpg"
     provenance: "Marcus Aurelius; Public domain"
     period: "Object or image dated 1558"

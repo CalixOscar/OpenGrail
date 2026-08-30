@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Kabbalah'
 artifacts:
   - title: "Early printed sefirotic Tree of Life diagram"
-    imageUrl: "/artifacts/kabbalah-1.jpg"
+    imageUrl: "/artifacts/kabbalah-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tree_of_life_by_Haeckel.jpg"
     provenance: "Ernst Haeckel; Public domain"
     period: "Image dated 1879"
     description: "This image shows Early printed sefirotic Tree of Life diagram, selected as a defining visual reference for Kabbalah."
   - title: "First printed edition of the Zohar from Mantua"
-    imageUrl: "/artifacts/kabbalah-2.png"
+    imageUrl: "/artifacts/kabbalah-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Zohar.png"
     provenance: "Possibly Simeon bar Yochai; Public domain"
     period: "Image dated 1558"

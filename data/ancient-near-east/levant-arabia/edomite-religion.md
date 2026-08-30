@@ -47,13 +47,13 @@ sources:
     url: 'https://brill.com/search?q=Edomite%20Religion'
 artifacts:
   - title: "Horvat Qitmit cult stand"
-    imageUrl: "/artifacts/edomite-religion-1.jpg"
+    imageUrl: "/artifacts/edomite-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Edomite_goddess,_Qitmit._Israel_Museum,_Jerusalem.JPG"
     provenance: "Chamberi; CC BY-SA 3.0"
     period: "Image dated 2013"
     description: "This image shows Horvat Qitmit cult stand, selected as a defining visual reference for Edomite Religion."
   - title: "Horvat Qitmit Edomite cultic sanctuary and figurines"
-    imageUrl: "/artifacts/edomite-religion-2.jpg"
+    imageUrl: "/artifacts/edomite-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:-0650_Edomite_Goddess_from_Horvat_Qitmit._Israel_Museum,_Jerusalem_anagoria.jpg"
     provenance: "Anagoria; CC BY 3.0"
     period: "Image dated 2019"

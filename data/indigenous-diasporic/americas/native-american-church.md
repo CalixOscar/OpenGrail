@@ -45,13 +45,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Native%20American%20Church'
 artifacts:
   - title: "Ritual peyote water drum, beaded gourd rattle, and feather fan"
-    imageUrl: "/artifacts/native-american-church-1.jpg"
+    imageUrl: "/artifacts/native-american-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Looking_from_the_Metlakatla_Christian_Mission_church_toward_the_water,_ca_1914_(CURTIS_1925).jpeg"
     provenance: "Asahel Curtis; Public domain"
     period: "Image dated 1914"
     description: "This image shows Ritual peyote water drum, beaded gourd rattle, and feather fan, selected as a defining visual reference for Native American Church."
   - title: "Crescent moon earth altar inside a ceremonial peyote tipi"
-    imageUrl: "/artifacts/native-american-church-2.jpg"
+    imageUrl: "/artifacts/native-american-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Carl_Sweezy_-_NAME_Buffalo_Hunt_MEDIUM_oil_on_canvas.jpg"
     provenance: "Carl Sweezy; Public domain"
     period: "20th century"

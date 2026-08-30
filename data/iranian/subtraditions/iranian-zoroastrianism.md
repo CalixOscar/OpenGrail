@@ -53,13 +53,13 @@ sources:
     url: 'https://brill.com/search?q=Iranian%20Zoroastrianism'
 artifacts:
   - title: "Yazd Atash Behram Fire Temple sanctuary"
-    imageUrl: "/artifacts/iranian-zoroastrianism-1.jpg"
+    imageUrl: "/artifacts/iranian-zoroastrianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Templo_zoroastrista,_Yazd,_Ir%C3%A1n,_2016-09-21,_DD_45.jpg"
     provenance: "Diego Delso; Public domain"
     period: "400 BC"
     description: "This image shows Yazd Atash Behram Fire Temple sanctuary, selected as a defining visual reference for Iranian Zoroastrianism."
   - title: "Chak Chak (Pir-e Sabz) mountain pilgrimage shrine"
-    imageUrl: "/artifacts/iranian-zoroastrianism-2.jpg"
+    imageUrl: "/artifacts/iranian-zoroastrianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Zoroastrian_Persian_Shrine_chak-chak_Republic_Ardakan.jpg"
     provenance: "Abolfazl Ahmadi; CC BY-SA 4.0"
     period: "Image dated 2015"

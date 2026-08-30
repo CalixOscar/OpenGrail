@@ -49,13 +49,13 @@ sources:
     url: 'https://brill.com/search?q=Unarius%20Academy%20of%20Science'
 artifacts:
   - title: "Unarius founders Ernest and Ruth Norman"
-    imageUrl: "/artifacts/unarius-academy-1.jpg"
+    imageUrl: "/artifacts/unarius-academy-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Wedding_dress_from_The_Crown,_V%26A_London_02.jpg"
     provenance: "14GTR; CC0"
     period: "Image dated 2024"
     description: "This image shows Unarius founders Ernest and Ruth Norman, selected as a defining visual reference for Unarius Academy of Science."
   - title: "Unarius Academy center"
-    imageUrl: "/artifacts/unarius-academy-2.jpg"
+    imageUrl: "/artifacts/unarius-academy-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Venus_Inside_Cover_1968.jpg"
     provenance: "Cosmic Horseshoe 33; CC BY-SA 4.0"
     period: "Image dated 1970"

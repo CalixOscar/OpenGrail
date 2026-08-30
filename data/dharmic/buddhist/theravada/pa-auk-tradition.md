@@ -47,13 +47,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Pa-Auk%20Tradition'
 artifacts:
   - title: "Pa-Auk Sayadaw, principal teacher of the Pa-Auk system"
-    imageUrl: "/artifacts/pa-auk-tradition-1.jpg"
+    imageUrl: "/artifacts/pa-auk-tradition-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Venerable_Pa-Auk_Tawya_Sayadaw_Bhaddanta_%C4%80ci%E1%B9%87%E1%B9%87a.jpg"
     provenance: "Paingpeace; CC BY-SA 4.0"
     period: "Image dated 2018"
     description: "This image shows Pa-Auk Sayadaw, principal teacher of the Pa-Auk system, selected as a defining visual reference for Pa-Auk Tradition."
   - title: "Pa-Auk Forest Meditation Center entrance in Mawlamyine, Myanmar"
-    imageUrl: "/artifacts/pa-auk-tradition-2.jpg"
+    imageUrl: "/artifacts/pa-auk-tradition-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pa-Auk_Forest_Meditation_Center_(Main)_Entrance.jpg"
     provenance: "Paingpeace; CC BY-SA 4.0"
     period: "Image dated 2015"

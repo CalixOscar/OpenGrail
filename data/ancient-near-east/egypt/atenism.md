@@ -50,13 +50,13 @@ sources:
     url: 'https://brill.com/search?q=Atenism'
 artifacts:
   - title: "Amarna royal family beneath Aten"
-    imageUrl: "/artifacts/atenism-1.jpg"
+    imageUrl: "/artifacts/atenism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Panehesy%E2%80%99s_EA.6_tomb_(Kairoinfo4u).jpg"
     provenance: "kairoinfo4u: Mutnedjmet; CC BY-SA 2.0"
     period: "Image dated 2009"
     description: "This image shows Amarna royal family beneath Aten, selected as a defining visual reference for Atenism."
   - title: "Great Aten Temple at Akhetaten"
-    imageUrl: "/artifacts/atenism-2.jpg"
+    imageUrl: "/artifacts/atenism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Stela_of_the_Great_temple_of_Aten_at_Akhetaten2008.jpg"
     provenance: "Jean-Pierre Dalbera; CC BY 2.0"
     period: "Image dated 2008"

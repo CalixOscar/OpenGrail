@@ -44,13 +44,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Mizrahi%20Judaism'
 artifacts:
   - title: "Portrait of Rabbi Yosef Hayyim, the Ben Ish Chai of Baghdad"
-    imageUrl: "/artifacts/mizrahi-judaism-1.jpg"
+    imageUrl: "/artifacts/mizrahi-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_85225_ben_ish_chai_or_yehuda_synagogue.jpg"
     provenance: "israel zellerישראל זלר; CC BY 2.5"
     period: "Image dated 2022"
     description: "This image shows Portrait of Rabbi Yosef Hayyim, the Ben Ish Chai of Baghdad, selected as a defining visual reference for Mizrahi Judaism."
   - title: "Meir Taweig Synagogue, surviving center of Baghdad's Jewish community"
-    imageUrl: "/artifacts/mizrahi-judaism-2.jpg"
+    imageUrl: "/artifacts/mizrahi-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Baghdad_Synagogue.jpg"
     provenance: "Kharbaan Ghaltaan; CC BY-SA 4.0"
     period: "Image dated 2000"

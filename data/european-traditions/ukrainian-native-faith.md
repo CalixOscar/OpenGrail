@@ -50,13 +50,13 @@ sources:
     url: 'https://brill.com/search?q=Ukrainian%20Native%20Faith'
 artifacts:
   - title: "Ukrainian Native Faith Perun idol"
-    imageUrl: "/artifacts/ukrainian-native-faith-1.jpg"
+    imageUrl: "/artifacts/ukrainian-native-faith-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Perun.JPG"
     provenance: "Ukrainian ridnovir; CC0"
     period: "Image dated 2012"
     description: "This image shows Ukrainian Native Faith Perun idol, selected as a defining visual reference for Ukrainian Native Faith."
   - title: "RUNVira Temple of Mother Ukraine"
-    imageUrl: "/artifacts/ukrainian-native-faith-2.jpg"
+    imageUrl: "/artifacts/ukrainian-native-faith-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Entering_into_the_temple_of_Mother_of_God_church-1_ShiftN.jpg"
     provenance: "Investigatio; CC BY-SA 3.0"
     period: "Image dated 2008"

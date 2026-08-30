@@ -38,13 +38,13 @@ sources:
     url: 'https://brill.com/'
 artifacts:
   - title: "Thangka of Tonpa Shenrab"
-    imageUrl: "/artifacts/bon-1.jpg"
+    imageUrl: "/artifacts/bon-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tonpa_Shenrab_-_Life_Story_19th_century,_Collection_of_Rubin_Museum_of_Art..jpg"
     provenance: "Anonymous Unknown author; Public domain"
     period: "19th century"
     description: "This image shows Thangka of Tonpa Shenrab, selected as a defining visual reference for Yungdrung Bon & Indigenous Tibetan Religion."
   - title: "Menri Bon monastery"
-    imageUrl: "/artifacts/bon-2.jpg"
+    imageUrl: "/artifacts/bon-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Menri_Feb_2016.jpg"
     provenance: "Unpurrceivable; CC BY-SA 4.0"
     period: "Image dated 2016"

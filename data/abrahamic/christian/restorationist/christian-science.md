@@ -52,13 +52,13 @@ sources:
       https://www.cambridge.org/core/search?q=Church%20of%20Christ%2C%20Scientist
 artifacts:
   - title: "Portrait of Mary Baker Eddy, founder of Christian Science"
-    imageUrl: "/artifacts/christian-science-1.jpg"
+    imageUrl: "/artifacts/christian-science-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mary_Baker_Eddy.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "Image dated 1916"
     description: "This image shows Portrait of Mary Baker Eddy, founder of Christian Science, selected as a defining visual reference for Church of Christ, Scientist."
   - title: "The Mother Church complex in Boston"
-    imageUrl: "/artifacts/christian-science-2.jpg"
+    imageUrl: "/artifacts/christian-science-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Christian_Science_Mother_Church,_Boston,_Massachusetts.JPG"
     provenance: "Wikimedia Commons; CC BY-SA 3.0"
     period: "Digital file published 2006"

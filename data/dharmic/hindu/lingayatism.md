@@ -46,13 +46,13 @@ sources:
       https://www.rep.routledge.com/search?query=Li%E1%B9%85g%C4%81yat%20Tradition
 artifacts:
   - title: "Statue of Basaveshwara, founder of the Lingayat tradition"
-    imageUrl: "/artifacts/lingayatism-1.jpg"
+    imageUrl: "/artifacts/lingayatism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Basaveshwara_statue_in_Gadag.jpg"
     provenance: "Lpp3535; CC0"
     period: "Image dated 2023"
     description: "This image shows Statue of Basaveshwara, founder of the Lingayat tradition, selected as a defining visual reference for Liṅgāyat Tradition."
   - title: "Personal istalinga worn and worshipped by Lingayat devotees"
-    imageUrl: "/artifacts/lingayatism-2.jpg"
+    imageUrl: "/artifacts/lingayatism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Lingayat_vader_(mendicant_priest).jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "Image dated 1835"

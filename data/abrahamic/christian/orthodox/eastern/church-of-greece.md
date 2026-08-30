@@ -46,13 +46,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Greece'
 artifacts:
   - title: "Divine Liturgy in the Metropolitan Cathedral of Athens"
-    imageUrl: "/artifacts/church-of-greece-1.jpg"
+    imageUrl: "/artifacts/church-of-greece-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Metropolitan_Cathedral_of_Athens_2016.jpg"
     provenance: "Dimitris Kamaras; CC BY 2.0"
     period: "Image dated 2016"
     description: "This image shows Divine Liturgy in the Metropolitan Cathedral of Athens, selected as a defining visual reference for Church of Greece."
   - title: "Middle Byzantine mosaics of Hosios Loukas monastery"
-    imageUrl: "/artifacts/church-of-greece-2.jpg"
+    imageUrl: "/artifacts/church-of-greece-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hosios_Loukas_(narthex)_-_East_wall,_central_(Pantocrator)_detail_01.jpg"
     provenance: "BishkekRocks; CC BY-SA 3.0"
     period: "11th century"

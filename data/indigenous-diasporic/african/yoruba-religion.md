@@ -41,13 +41,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Yor%C3%B9b%C3%A1%20Religion'
 artifacts:
   - title: "Bronze head of Ife representing the divine ancestral ruler"
-    imageUrl: "/artifacts/yoruba-religion-1.jpg"
+    imageUrl: "/artifacts/yoruba-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cabeza_de_rey_(ciudad_yoruba).jpg"
     provenance: "No informado; Public domain"
     period: "Image dated 1977"
     description: "This image shows Bronze head of Ife representing the divine ancestral ruler, selected as a defining visual reference for Yorùbá Religion."
   - title: "Ose Sango double-axe ritual dance staff"
-    imageUrl: "/artifacts/yoruba-religion-2.jpg"
+    imageUrl: "/artifacts/yoruba-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_70.86_Shango_Dance_Wand_Ose_Sango.jpg"
     provenance: "Unknown author Unknown author; CC BY 3.0"
     period: "19th or 20th century"

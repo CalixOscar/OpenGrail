@@ -41,13 +41,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=John%20Frum%20Movement'
 artifacts:
   - title: "John Frum Day ceremonial parade at Sulphur Bay, Tanna"
-    imageUrl: "/artifacts/john-frum-movement-1.jpg"
+    imageUrl: "/artifacts/john-frum-movement-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:JohnFrumCrossTanna1967.jpg"
     provenance: "Tim Ross; CC BY 3.0"
     period: "Image dated 1967"
     description: "This image shows John Frum Day ceremonial parade at Sulphur Bay, Tanna, selected as a defining visual reference for John Frum Movement."
   - title: "Mount Yasur active volcano, spiritual dwelling of John Frum"
-    imageUrl: "/artifacts/john-frum-movement-2.jpg"
+    imageUrl: "/artifacts/john-frum-movement-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Lava_trails_at_Mount_Yasur_Volcano,_Tanna,_Vanuatu_(49181693888).jpg"
     provenance: "Romain Pontida; CC BY-SA 2.0"
     period: "Image dated 2019"

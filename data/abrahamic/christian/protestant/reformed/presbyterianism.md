@@ -46,13 +46,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Presbyterianism'
 artifacts:
   - title: "Portrait of John Knox, formative Presbyterian reformer"
-    imageUrl: "/artifacts/presbyterianism-1.jpg"
+    imageUrl: "/artifacts/presbyterianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Leading_Theologians_of_the_Middle_Ages.jpg"
     provenance: "unknown, published by John Garrett; Public domain"
     period: "17th century"
     description: "This image shows Portrait of John Knox, formative Presbyterian reformer, selected as a defining visual reference for Presbyterianism."
   - title: "Saint Giles' Cathedral, historic center of Scottish Presbyterianism"
-    imageUrl: "/artifacts/presbyterianism-2.jpg"
+    imageUrl: "/artifacts/presbyterianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Edinburgh,_Saint_Giles_Cathedral_(38617314741).jpg"
     provenance: "Herbert Frank from Wien (Vienna), AT; CC BY 2.0"
     period: "Image dated 2015"

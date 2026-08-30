@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Nizari%20Ismailism'
 artifacts:
   - title: "Portrait of Aga Khan IV, hereditary Nizari Imam"
-    imageUrl: "/artifacts/nizari-ismailism-1.jpg"
+    imageUrl: "/artifacts/nizari-ismailism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Aga_Khan_IV_1964.jpg"
     provenance: "Associated Press; Public domain"
     period: "Image dated 1964"
     description: "This image shows Portrait of Aga Khan IV, hereditary Nizari Imam, selected as a defining visual reference for Nizari Ismailism."
   - title: "Ruins of Alamut, historic Nizari Ismaili stronghold"
-    imageUrl: "/artifacts/nizari-ismailism-2.jpg"
+    imageUrl: "/artifacts/nizari-ismailism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Iran_-_Qazvin_-_Alamout_Castle_View.jpg"
     provenance: "Alireza Javaheri; CC BY 3.0"
     period: "Image dated 2011"

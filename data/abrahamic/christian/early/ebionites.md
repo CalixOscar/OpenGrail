@@ -48,13 +48,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Ebionites'
 artifacts:
   - title: "Traditional icon of James the Just, a key figure for Jewish Christians"
-    imageUrl: "/artifacts/ebionites-1.jpg"
+    imageUrl: "/artifacts/ebionites-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Consecration_of_S._James_the_Less_as_the_bishop_of_Jerusalem.jpg"
     provenance: "shakko; Public domain"
     period: "Image dated 2010"
     description: "This image shows Traditional icon of James the Just, a key figure for Jewish Christians, selected as a defining visual reference for Ebionites."
   - title: "Greek manuscript witness preserving ancient reports about the Ebionites"
-    imageUrl: "/artifacts/ebionites-2.png"
+    imageUrl: "/artifacts/ebionites-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BE%D0%BD.PNG"
     provenance: "https://archive.org/stream/bub_gb_LyGIxzzZmcUC#page/n3/mode/2up; Public domain"
     period: "Image dated 2015"

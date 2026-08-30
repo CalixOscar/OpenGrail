@@ -46,14 +46,14 @@ sources:
     url: 'https://brill.com/search?q=Thelema'
 artifacts:
   - title: "Thelemic Stele of Revealing"
-    imageUrl: "/artifacts/thelema-1.jpg"
+    imageUrl: "/artifacts/thelema-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:666-Stele_of_revealing-_tag_from_Cairo_Museum.jpg"
     provenance: "Metadromos963; CC BY-SA 4.0"
     period: "Image dated 1998"
     description: "This image shows Thelemic Stele of Revealing, selected as a defining visual reference for Thelema."
     detail: high
   - title: "Abbey of Thelema"
-    imageUrl: "/artifacts/thelema-2.jpg"
+    imageUrl: "/artifacts/thelema-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Abbey_of_Thelema_03.jpg"
     provenance: "Erik Albers; CC0"
     period: "Image dated 2017"

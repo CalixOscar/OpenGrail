@@ -50,13 +50,13 @@ sources:
     url: 'https://brill.com/search?q=Parsi%20Zoroastrianism'
 artifacts:
   - title: "Udvada Atash Behram, the oldest continuous Parsi fire temple in India"
-    imageUrl: "/artifacts/parsi-zoroastrianism-1.jpg"
+    imageUrl: "/artifacts/parsi-zoroastrianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pundole_Agiary_Udvada.jpg"
     provenance: "Rayo~enwiki at English Wikipedia; CC BY-SA 3.0"
     period: "Image dated 2005"
     description: "This image shows Udvada Atash Behram, the oldest continuous Parsi fire temple in India, selected as a defining visual reference for Parsi Zoroastrianism."
   - title: "Parsi child undergoing the sacred Navjote investiture ceremony"
-    imageUrl: "/artifacts/parsi-zoroastrianism-2.jpg"
+    imageUrl: "/artifacts/parsi-zoroastrianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Parsi-navjote-sitting.jpg"
     provenance: "use 'send mail to this user' for further info.; CC BY-SA 3.0"
     period: "Image dated 2006"

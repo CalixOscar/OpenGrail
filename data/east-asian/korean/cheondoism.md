@@ -49,13 +49,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Cheondoism'
 artifacts:
   - title: "Portrait of Choe Je-u"
-    imageUrl: "/artifacts/cheondoism-1.jpg"
+    imageUrl: "/artifacts/cheondoism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Choe_Chi-won.jpg"
     provenance: "Chae Yong-shin; Public domain"
     period: "Digital file published 2013"
     description: "This image shows Portrait of Choe Je-u, selected as a defining visual reference for Cheondoism."
   - title: "Cheondogyo Central Temple"
-    imageUrl: "/artifacts/cheondoism-2.jpg"
+    imageUrl: "/artifacts/cheondoism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cheondogyo_Jungang_Daegyodang.jpg"
     provenance: "Jjw; CC BY-SA 4.0"
     period: "Image dated 2015"

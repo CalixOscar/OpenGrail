@@ -47,13 +47,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Shi''a%20Islam'
 artifacts:
   - title: "Shrine of Imam Ali in Najaf, central Shi'a sanctuary"
-    imageUrl: "/artifacts/shia-islam-1.jpg"
+    imageUrl: "/artifacts/shia-islam-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:ImamAliMosqueNajafIraq.JPG"
     provenance: "Toushiro; Public domain"
     period: "Image dated 2006"
     description: "This image shows Shrine of Imam Ali in Najaf, central Shi'a sanctuary, selected as a defining visual reference for Shi'a Islam."
   - title: "Ashura mourning procession commemorating Imam Husayn"
-    imageUrl: "/artifacts/shia-islam-2.jpg"
+    imageUrl: "/artifacts/shia-islam-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mourning_of_Holy_Ashura_1.jpg"
     provenance: "Rayhan9d; CC BY-SA 4.0"
     period: "680 CE"

@@ -49,13 +49,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Restoration%20Movement'
 artifacts:
   - title: "Portrait of Alexander Campbell, formative Stone-Campbell leader"
-    imageUrl: "/artifacts/restoration-movement-1.jpg"
+    imageUrl: "/artifacts/restoration-movement-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Alexander_Campbell,_founder_of_the_Disciples_of_Christ,_head-and-shoulders_portrait.jpg"
     provenance: "Colton, Zahm & Roberts, N.Y.; Public domain"
     period: "Image dated 1872"
     description: "This image shows Portrait of Alexander Campbell, formative Stone-Campbell leader, selected as a defining visual reference for Restoration Movement."
   - title: "Cane Ridge Meeting House, landmark of the Restoration Movement"
-    imageUrl: "/artifacts/restoration-movement-2.jpg"
+    imageUrl: "/artifacts/restoration-movement-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tombstone_of_William_Rogers,_located_in_the_old_cemetery_at_Cane_Ridge_Meeting_House_near_Paris,_Kentucky.jpg"
     provenance: "Scott Harp; Public domain"
     period: "Image dated 2013"

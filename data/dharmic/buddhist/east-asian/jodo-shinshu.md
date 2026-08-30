@@ -50,13 +50,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=J%C5%8Ddo%20Shinsh%C5%AB'
 artifacts:
   - title: "Historic portrait of Shinran, founder of Jodo Shinshu"
-    imageUrl: "/artifacts/jodo-shinshu-1.jpg"
+    imageUrl: "/artifacts/jodo-shinshu-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Zephyrhills_Downtown_Historic_District_2.jpg"
     provenance: "User:Wknight94; CC BY-SA 3.0"
     period: "Image dated 2006"
     description: "This image shows Historic portrait of Shinran, founder of Jodo Shinshu, selected as a defining visual reference for Jōdo Shinshū."
   - title: "Nishi Hongan-ji, a principal Jodo Shinshu temple"
-    imageUrl: "/artifacts/jodo-shinshu-2.jpg"
+    imageUrl: "/artifacts/jodo-shinshu-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:170128_Nishi_Honganji_Kyoto_Japan07n.jpg"
     provenance: "663highland; CC BY 2.5"
     period: "Image dated 2017"

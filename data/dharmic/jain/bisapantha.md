@@ -43,13 +43,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=B%C4%ABsapantha'
 artifacts:
   - title: "Mahamastakabhisheka ritual at Shravanabelagola"
-    imageUrl: "/artifacts/bisapantha-1.jpg"
+    imageUrl: "/artifacts/bisapantha-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mahamastakabhisheka_-_Gommateshwara_statue_(2).jpg"
     provenance: "Pratyk321; CC BY-SA 4.0"
     period: "Image dated 2018"
     description: "This image shows Mahamastakabhisheka ritual at Shravanabelagola, selected as a defining visual reference for Bīsapantha."
   - title: "Sonagiri Digambara temple complex, representative Bisapantha sacred setting"
-    imageUrl: "/artifacts/bisapantha-2.jpg"
+    imageUrl: "/artifacts/bisapantha-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jain_temple_section_and_plan,_Sonagiri_Madhya_Pradesh_India,_1850_sketch.jpg"
     provenance: "Maisey, Frederick Charles (1825-1892); Public domain"
     period: "Image dated 1850"

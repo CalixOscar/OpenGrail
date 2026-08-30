@@ -50,13 +50,13 @@ sources:
     url: 'https://brill.com/search?q=Theosophy'
 artifacts:
   - title: "Theosophy founder Helena Blavatsky"
-    imageUrl: "/artifacts/theosophy-1.jpg"
+    imageUrl: "/artifacts/theosophy-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Blavatsky.006.jpg"
     provenance: "unklar; Public domain"
     period: "Image dated 1889"
     description: "This image shows Theosophy founder Helena Blavatsky, selected as a defining visual reference for Theosophy."
   - title: "Adyar Theosophical headquarters"
-    imageUrl: "/artifacts/theosophy-2.jpg"
+    imageUrl: "/artifacts/theosophy-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Adyar_TG.jpg"
     provenance: "unklar; Public domain"
     period: "Image dated 2007"

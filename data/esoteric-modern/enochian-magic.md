@@ -48,13 +48,13 @@ sources:
     url: 'https://brill.com/search?q=Enochian%20Magic'
 artifacts:
   - title: "Enochian practitioner John Dee"
-    imageUrl: "/artifacts/enochian-magic-1.jpg"
+    imageUrl: "/artifacts/enochian-magic-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:John_Dee_Ashmolean.jpg"
     provenance: "Unidentified painter; Public domain"
     period: "Image dated 1594"
     description: "This image shows Enochian practitioner John Dee, selected as a defining visual reference for Enochian Magic."
   - title: "John Dee's wax Sigillum Dei"
-    imageUrl: "/artifacts/enochian-magic-2.jpg"
+    imageUrl: "/artifacts/enochian-magic-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Holytable.jpg"
     provenance: "The .:X; CC BY-SA 3.0"
     period: "Image dated 2007"

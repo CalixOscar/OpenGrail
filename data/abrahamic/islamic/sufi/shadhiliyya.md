@@ -45,13 +45,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Shadhiliyya'
 artifacts:
   - title: "Desert shrine of Abu al-Hasan al-Shadhili at Humaithara"
-    imageUrl: "/artifacts/shadhiliyya-1.jpg"
+    imageUrl: "/artifacts/shadhiliyya-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:SheikhShazlyShrineAndMosque.jpg"
     provenance: "Roland Unger; CC BY-SA 4.0"
     period: "Image dated 2015"
     description: "This image shows Desert shrine of Abu al-Hasan al-Shadhili at Humaithara, selected as a defining visual reference for Shadhiliyya."
   - title: "Manuscript of the Shadhili litany Hizb al-Bahr"
-    imageUrl: "/artifacts/shadhiliyya-2.jpg"
+    imageUrl: "/artifacts/shadhiliyya-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Century_-_Manuscript_of_Kitab_Hizb_al-Bahr_-_Google_Art_Project.jpg"
     provenance: "Unknown, Egypt or Syria, 14th Century (Egypt or Syria); Public domain"
     period: "Image dated 1300"

@@ -47,13 +47,13 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=Cheng%E2%80%93Zhu%20Confucianism
 artifacts:
   - title: "Portrait of Zhu Xi"
-    imageUrl: "/artifacts/cheng-zhu-confucianism-1.jpg"
+    imageUrl: "/artifacts/cheng-zhu-confucianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Poem_of_Farewell_to_Liu_Man_(IA_mma_poem_of_farewell_to_liu_man_40105).jpg"
     provenance: "Yelu Chucai; Public domain"
     period: "14th Century"
     description: "This image shows Portrait of Zhu Xi, selected as a defining visual reference for Cheng–Zhu Confucianism."
   - title: "White Deer Grotto Academy"
-    imageUrl: "/artifacts/cheng-zhu-confucianism-2.jpg"
+    imageUrl: "/artifacts/cheng-zhu-confucianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:White_Deer_Grotto_Academy.jpg"
     provenance: "武铁辆玻; CC BY-SA 2.0"
     period: "Image dated 2010"

@@ -43,13 +43,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Dogon%20Religions'
 artifacts:
   - title: "Dogon Kanaga mask worn during the Dama funerary ritual"
-    imageUrl: "/artifacts/dogon-religion-1.jpg"
+    imageUrl: "/artifacts/dogon-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Houten_masker_TMnr_6372-2.jpg"
     provenance: "Collectie Stichting Nationaal Museum van Wereldculturen; CC BY-SA 3.0"
     period: "Image dated 1980"
     description: "This image shows Dogon Kanaga mask worn during the Dama funerary ritual, selected as a defining visual reference for Dogon Religions."
   - title: "Toguna council house with carved posts on the Bandiagara Escarpment"
-    imageUrl: "/artifacts/dogon-religion-2.jpg"
+    imageUrl: "/artifacts/dogon-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:5883_7_Toguna_short_(2287977402).jpg"
     provenance: "Ann Porteus from Tasmania, Australia; CC BY 2.0"
     period: "Image dated 2008"

@@ -52,13 +52,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Shipibo-Konibo%20Religious%20Traditions'
 artifacts:
   - title: "Shipibo-Konibo Kene sacred visionary geometric textile"
-    imageUrl: "/artifacts/shipibo-konibo-religion-1.jpg"
+    imageUrl: "/artifacts/shipibo-konibo-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shipibo-art-2.jpg"
     provenance: "Luke Hancock; CC0"
     period: "Image dated 2019"
     description: "This image shows Shipibo-Konibo Kene sacred visionary geometric textile, selected as a defining visual reference for Shipibo-Konibo Religious Traditions."
   - title: "Traditional Shipibo-Konibo painted ceramic chomo jar"
-    imageUrl: "/artifacts/shipibo-konibo-religion-2.jpg"
+    imageUrl: "/artifacts/shipibo-konibo-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shipibo_jar_(UBC-2010)a.jpg"
     provenance: "Leoboudv; CC BY-SA 3.0"
     period: "Image dated 2010"

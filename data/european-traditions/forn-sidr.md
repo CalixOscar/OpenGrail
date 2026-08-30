@@ -51,13 +51,13 @@ sources:
     url: 'https://brill.com/search?q=Forn%20Si%C3%B0r'
 artifacts:
   - title: "Danish Forn Siðr blot"
-    imageUrl: "/artifacts/forn-sidr-1.jpg"
+    imageUrl: "/artifacts/forn-sidr-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Runestone_Forn_Sidr_Jelling_01.JPG"
     provenance: "No machine-readable author provided. Rumpenisse assumed (based on copyright claims).; Public domain"
     period: "Image dated 2007"
     description: "This image shows Danish Forn Siðr blot, selected as a defining visual reference for Forn Siðr."
   - title: "Forn Siðr runestone and burial grounds in Denmark"
-    imageUrl: "/artifacts/forn-sidr-2.jpg"
+    imageUrl: "/artifacts/forn-sidr-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Runestone_Forn_Sidr_Jelling02.JPG"
     provenance: "No machine-readable author provided. Rumpenisse assumed (based on copyright claims).; Public domain"
     period: "Image dated 2006"

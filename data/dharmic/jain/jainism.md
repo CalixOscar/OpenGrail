@@ -46,13 +46,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Jainism'
 artifacts:
   - title: "Image of Mahavira, the twenty-fourth Jina"
-    imageUrl: "/artifacts/jainism-1.jpg"
+    imageUrl: "/artifacts/jainism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shrine_with_Four_Jinas_(Rishabhanatha_(Adinatha),_Parshvanatha,_Neminatha,_and_Mahavira)_LACMA_M.85.55_(1_of_4).jpg"
     provenance: "Wikimedia Commons; Public domain"
     period: "Digital file published 2013"
     description: "This image shows Image of Mahavira, the twenty-fourth Jina, selected as a defining visual reference for Jainism."
   - title: "Dilwara Temples, masterpieces of Jain sacred architecture"
-    imageUrl: "/artifacts/jainism-2.jpg"
+    imageUrl: "/artifacts/jainism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:LDDilwaraCeiling.jpg"
     provenance: "LinguisticDemographer at English Wikipedia; Public domain"
     period: "Image dated 2007"

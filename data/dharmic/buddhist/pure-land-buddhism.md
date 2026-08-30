@@ -44,13 +44,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Pure%20Land%20Buddhism'
 artifacts:
   - title: "Raigo painting of Amitabha welcoming devotees to the Pure Land"
-    imageUrl: "/artifacts/pure-land-buddhism-1.jpg"
+    imageUrl: "/artifacts/pure-land-buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Japanese_-_The_Buddha_Amida%27s_Descent_-_Walters_3568.jpg"
     provenance: "Anonymous ( Japan ) Unknown author; Public domain"
     period: "Image dated 1300"
     description: "This image shows Raigo painting of Amitabha welcoming devotees to the Pure Land, selected as a defining visual reference for Pure Land Buddhism."
   - title: "Byodo-in Phoenix Hall, an architectural vision of Sukhavati"
-    imageUrl: "/artifacts/pure-land-buddhism-2.jpg"
+    imageUrl: "/artifacts/pure-land-buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Byodo-in_Uji03bs2640.jpg"
     provenance: "663highland; CC BY 2.5"
     period: "Image dated 2010"

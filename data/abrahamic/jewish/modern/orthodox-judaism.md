@@ -41,13 +41,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Orthodox%20Judaism'
 artifacts:
   - title: "Torah reading in an Orthodox synagogue"
-    imageUrl: "/artifacts/orthodox-judaism-1.jpg"
+    imageUrl: "/artifacts/orthodox-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Brockhaus_and_Efron_Jewish_Encyclopedia_e3_188-5.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "Image dated 1906"
     description: "This image shows Torah reading in an Orthodox synagogue, selected as a defining visual reference for Orthodox Judaism."
   - title: "Traditional portrait of the Vilna Gaon, iconic Orthodox rabbinic authority"
-    imageUrl: "/artifacts/orthodox-judaism-2.jpg"
+    imageUrl: "/artifacts/orthodox-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Gaon2.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "Digital file published 2019"

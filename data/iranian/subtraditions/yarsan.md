@@ -52,13 +52,13 @@ sources:
     url: 'https://brill.com/search?q=Yarsan'
 artifacts:
   - title: "Tomb shrine of Sultan Sahak at Perdiwar in Hawraman"
-    imageUrl: "/artifacts/yarsan-1.jpg"
+    imageUrl: "/artifacts/yarsan-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Inside_ruins_of_the_tomb_-_Shrine_of_Baha%27al-Halim.jpg"
     provenance: "Kumail Hasan; CC BY-SA 4.0"
     period: "Image dated 2014"
     description: "This image shows Tomb shrine of Sultan Sahak at Perdiwar in Hawraman, selected as a defining visual reference for Yarsan."
   - title: "Sacred Tanbur lute used in Yarsan jam liturgical gatherings"
-    imageUrl: "/artifacts/yarsan-2.jpg"
+    imageUrl: "/artifacts/yarsan-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%22An_Iranian_setar_player_in_northern_Iran-Canon_Photography-Photogrspher_Mostafa_Meraji%22_02.jpg"
     provenance: "Mostafameraji; CC BY 4.0"
     period: "19th century"

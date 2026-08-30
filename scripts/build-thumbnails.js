@@ -146,6 +146,8 @@ export async function buildThumbnails(cliOptions = {}) {
 
   let totalInputBytes = 0;
   let totalOutputBytes = 0;
+  const failedConversions = [];
+  const successfulItems = [];
 
   // Process image conversions
   console.log(`\nEncoding ${processedItems.length} thumbnails...`);
@@ -153,26 +155,35 @@ export async function buildThumbnails(cliOptions = {}) {
   await Promise.all(
     processedItems.map(async (item) => {
       const { sourceFilePath, targetFilePath, targetTierSize } = item;
-      const sourceStat = await stat(sourceFilePath);
-      totalInputBytes += sourceStat.size;
+      try {
+        const sourceStat = await stat(sourceFilePath);
+        totalInputBytes += sourceStat.size;
 
-      if (options.dryRun) {
-        return;
+        if (options.dryRun) {
+          successfulItems.push(item);
+          return;
+        }
+
+        const image = sharp(sourceFilePath);
+        const pipeline = image
+          .resize({
+            width: targetTierSize,
+            height: targetTierSize,
+            fit: "inside",
+            withoutEnlargement: true,
+          })
+          .webp({ quality: 80 });
+
+        await pipeline.toFile(targetFilePath);
+        const outStat = await stat(targetFilePath);
+        totalOutputBytes += outStat.size;
+        successfulItems.push(item);
+      } catch (err) {
+        failedConversions.push({
+          item,
+          error: err.message || String(err),
+        });
       }
-
-      const image = sharp(sourceFilePath);
-      const pipeline = image
-        .resize({
-          width: targetTierSize,
-          height: targetTierSize,
-          fit: "inside",
-          withoutEnlargement: true,
-        })
-        .webp({ quality: 80 });
-
-      await pipeline.toFile(targetFilePath);
-      const outStat = await stat(targetFilePath);
-      totalOutputBytes += outStat.size;
     }),
   );
 
@@ -181,7 +192,7 @@ export async function buildThumbnails(cliOptions = {}) {
   if (!options.dryRun && !options.skipFrontmatter) {
     console.log("\nRewriting Markdown frontmatter imageUrls under data/...");
     const itemsBySourcePath = new Map();
-    for (const item of processedItems) {
+    for (const item of successfulItems) {
       const list = itemsBySourcePath.get(item.sourcePath) || [];
       list.push(item);
       itemsBySourcePath.set(item.sourcePath, list);
@@ -229,11 +240,20 @@ export async function buildThumbnails(cliOptions = {}) {
       console.log(`Projected full library:    ~${projectedTotalMb} MB across ${totalInCorpus} files`);
     }
   }
+  if (failedConversions.length > 0) {
+    console.error(`\nEncountered ${failedConversions.length} conversion failure(s):`);
+    for (const f of failedConversions) {
+      console.error(`  - [${f.item.nodeId}] ${f.item.originalFilename}: ${f.error}`);
+    }
+  }
   console.log("==================================================");
 
   return {
     totalInCorpus,
     processedCount: processedItems.length,
+    successCount: successfulItems.length,
+    failedCount: failedConversions.length,
+    failedConversions,
     countHighTier,
     countStandardTier,
     totalInputBytes,
@@ -244,8 +264,15 @@ export async function buildThumbnails(cliOptions = {}) {
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  buildThumbnails().catch((err) => {
-    console.error("Thumbnail build failed:", err);
-    process.exit(1);
-  });
+  buildThumbnails()
+    .then((result) => {
+      if (result.failedCount > 0) {
+        console.error(`\nExiting with code 1 due to ${result.failedCount} conversion failure(s).`);
+        process.exit(1);
+      }
+    })
+    .catch((err) => {
+      console.error("Thumbnail build failed:", err);
+      process.exit(1);
+    });
 }

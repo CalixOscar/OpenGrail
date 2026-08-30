@@ -45,13 +45,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Philadelphia%20Church%20of%20God'
 artifacts:
   - title: "Portrait of Gerald Flurry, founder of the Philadelphia Church of God"
-    imageUrl: "/artifacts/philadelphia-church-of-god-1.jpg"
+    imageUrl: "/artifacts/philadelphia-church-of-god-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Gerald_Ford,_second_official_portrait_of_the_President_of_the_United_States,_February_1976_(cropped).jpg"
     provenance: "David Hume Kennerly, White House.; Public domain"
     period: "Image dated 1976"
     description: "This image shows Portrait of Gerald Flurry, founder of the Philadelphia Church of God, selected as a defining visual reference for Philadelphia Church of God."
   - title: "Ambassador Auditorium, iconic sanctuary of the Worldwide Church of God"
-    imageUrl: "/artifacts/philadelphia-church-of-god-2.png"
+    imageUrl: "/artifacts/philadelphia-church-of-god-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:AmbassadorAuditorium1.png"
     provenance: "Pleonic; Public domain"
     period: "Image dated 1980"

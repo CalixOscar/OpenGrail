@@ -52,13 +52,13 @@ sources:
     url: 'https://brill.com/search?q=Cult%20of%20Serapis'
 artifacts:
   - title: "Cult image of Serapis"
-    imageUrl: "/artifacts/serapis-cult-1.jpg"
+    imageUrl: "/artifacts/serapis-cult-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Roman_-_Head_of_Serapis_-_Walters_23120.jpg"
     provenance: "Anonymous ( Category:Roman Empire ) Unknown author; Public domain"
     period: "284 BC"
     description: "This image shows Cult image of Serapis, selected as a defining visual reference for Cult of Serapis."
   - title: "Alexandrian Serapeum"
-    imageUrl: "/artifacts/serapis-cult-2.jpg"
+    imageUrl: "/artifacts/serapis-cult-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pompey%27s_Pillar_(Archaeological_site_in_Alexandria_2017)_,_photo_by_Hatem_moushir_2.jpg"
     provenance: "Hatem Moushir; CC BY-SA 4.0"
     period: "Image dated 2017"

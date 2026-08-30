@@ -55,13 +55,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Rim%C3%A9%20Movement'
 artifacts:
   - title: "Jamyang Khyentse Wangpo, a founding Rime master"
-    imageUrl: "/artifacts/rime-movement-1.jpg"
+    imageUrl: "/artifacts/rime-movement-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:KagyuRefugeTree.jpg"
     provenance: "Barry Stott, owner of unsigned and unattributable art; CC BY-SA 3.0"
     period: "Image dated 2001"
     description: "This image shows Jamyang Khyentse Wangpo, a founding Rime master, selected as a defining visual reference for Rimé Movement."
   - title: "Dzongsar Monastery, an important institutional center of Rime scholarship"
-    imageUrl: "/artifacts/rime-movement-2.jpg"
+    imageUrl: "/artifacts/rime-movement-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dzongsar_Monastery_01.jpg"
     provenance: "ottmarliebert.com from Santa Fe, Turtle Island; CC BY-SA 2.0"
     period: "Image dated 2006"

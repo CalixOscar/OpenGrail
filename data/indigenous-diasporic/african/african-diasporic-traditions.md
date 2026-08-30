@@ -51,13 +51,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=African%20Diasporic%20Traditions'
 artifacts:
   - title: "Sacred Bata drums of Afro-Atlantic ritual liturgy"
-    imageUrl: "/artifacts/african-diasporic-traditions-1.jpg"
+    imageUrl: "/artifacts/african-diasporic-traditions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bata_Drum_2.jpg"
     provenance: "Agbebiyi Adekunle Tadek; CC BY-SA 4.0"
     period: "Image dated 2018"
     description: "This image shows Sacred Bata drums of Afro-Atlantic ritual liturgy, selected as a defining visual reference for African Diasporic Traditions (Comparative)."
   - title: "Terreiro Ile Axe Opo Afonja sacred sanctuary"
-    imageUrl: "/artifacts/african-diasporic-traditions-2.jpg"
+    imageUrl: "/artifacts/african-diasporic-traditions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Il%C3%AA_Ax%C3%A9_Op%C3%B4_Afonj%C3%A1_Salvador_Bahia_Casa_do_Alak%C3%A1_2019-0961.jpg"
     provenance: "Paul R. Burley; CC BY-SA 4.0"
     period: "Image dated 2019"

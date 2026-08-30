@@ -49,13 +49,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Alevi%20Traditions'
 artifacts:
   - title: "Alevi cem worship with the ritual semah"
-    imageUrl: "/artifacts/alevi-traditions-1.jpg"
+    imageUrl: "/artifacts/alevi-traditions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cem2.jpg"
     provenance: "Selucreh1; CC BY-SA 4.0"
     period: "Image dated 2014"
     description: "This image shows Alevi cem worship with the ritual semah, selected as a defining visual reference for Alevi Traditions."
   - title: "Haci Bektash Veli lodge and pilgrimage complex"
-    imageUrl: "/artifacts/alevi-traditions-2.jpg"
+    imageUrl: "/artifacts/alevi-traditions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Keskul_GrantBowl.JPG"
     provenance: "Noumenon; Public domain"
     period: "Image dated 2005"

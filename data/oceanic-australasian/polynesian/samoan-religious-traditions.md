@@ -50,13 +50,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=Samoan%20Religious%20Traditions'
 artifacts:
   - title: "Samoan ʻava (kava) ritual ceremony and tanoa bowl"
-    imageUrl: "/artifacts/samoan-religious-traditions-1.jpg"
+    imageUrl: "/artifacts/samoan-religious-traditions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Samoan_%27ava_ceremony,_c._1900-1930_unknown_photographer.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "Image dated 1900"
     description: "This image shows Samoan ʻava (kava) ritual ceremony and tanoa bowl, selected as a defining visual reference for Samoan Religious Traditions."
   - title: "Pulemelei Mound monumental stone pyramid on Savaiʻi"
-    imageUrl: "/artifacts/samoan-religious-traditions-2.jpg"
+    imageUrl: "/artifacts/samoan-religious-traditions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pulemelei_Mound_(2).jpg"
     provenance: "Виктор Пинчук; CC BY-SA 4.0"
     period: "Image dated 2019"

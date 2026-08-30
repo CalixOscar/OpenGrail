@@ -49,13 +49,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=%C5%9A%C4%81kta%20Tantra'
 artifacts:
   - title: "Yogini sculptures at Hirapur associated with tantric Goddess cults"
-    imageUrl: "/artifacts/shakta-tantra-1.jpg"
+    imageUrl: "/artifacts/shakta-tantra-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hirapur_ei02-50.jpg"
     provenance: "G41rn8; CC BY-SA 4.0"
     period: "Image dated 2005"
     description: "This image shows Yogini sculptures at Hirapur associated with tantric Goddess cults, selected as a defining visual reference for Śākta Tantra."
   - title: "Kamakhya Temple, a foremost center of Sakta Tantra"
-    imageUrl: "/artifacts/shakta-tantra-2.jpg"
+    imageUrl: "/artifacts/shakta-tantra-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kamakhya_Temple,_Guwahati.jpg"
     provenance: "Kunal Dalui; CC BY-SA 3.0"
     period: "Image dated 2011"

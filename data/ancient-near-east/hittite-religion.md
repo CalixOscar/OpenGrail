@@ -47,13 +47,13 @@ sources:
     url: 'https://brill.com/search?q=Hittite%20Religion'
 artifacts:
   - title: "Yazılıkaya divine procession"
-    imageUrl: "/artifacts/hittite-religion-1.jpg"
+    imageUrl: "/artifacts/hittite-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Yazilikaya_B_12erGruppe.jpg"
     provenance: "Klaus-Peter Simon; CC BY 3.0"
     period: "Image dated 2002"
     description: "This image shows Yazılıkaya divine procession, selected as a defining visual reference for Hittite Religion."
   - title: "Great Temple of Hattusa"
-    imageUrl: "/artifacts/hittite-religion-2.jpg"
+    imageUrl: "/artifacts/hittite-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hattusa-Lower_City_05.jpg"
     provenance: "Bernard Gagnon; CC BY-SA 3.0"
     period: "Image dated 2014"

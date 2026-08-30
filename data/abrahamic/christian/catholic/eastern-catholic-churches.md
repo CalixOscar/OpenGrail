@@ -45,13 +45,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Eastern%20Catholic%20Churches'
 artifacts:
   - title: "Eastern Catholic Divine Liturgy before an iconostasis"
-    imageUrl: "/artifacts/eastern-catholic-churches-1.jpg"
+    imageUrl: "/artifacts/eastern-catholic-churches-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:St._John_the_Baptist_Ukrainian_Catholic_Church,_Syracuse,_New_York_-_20220419.jpg"
     provenance: "Andre Carrotflower; CC BY-SA 4.0"
     period: "Image dated 2022"
     description: "This image shows Eastern Catholic Divine Liturgy before an iconostasis, selected as a defining visual reference for Eastern Catholic Churches."
   - title: "Eastern Catholic hierarchs celebrating their rites in communion with Rome"
-    imageUrl: "/artifacts/eastern-catholic-churches-2.jpg"
+    imageUrl: "/artifacts/eastern-catholic-churches-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Konzilseroeffnung_2.jpg"
     provenance: "Peter Geymayer; Public domain"
     period: "Image dated 1962"

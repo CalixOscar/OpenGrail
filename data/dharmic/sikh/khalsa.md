@@ -44,13 +44,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Khalsa'
 artifacts:
   - title: "Guru Gobind Singh founding the Khalsa with the Panj Piare"
-    imageUrl: "/artifacts/khalsa-1.jpg"
+    imageUrl: "/artifacts/khalsa-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Painting_of_the_establishment_of_the_Khalsa_order_and_Panj_Piare_institution_by_Guru_Gobind_Singh_and_Mata_Jito_at_Anandpur_in_1699,_circa_19th_century.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "19th century"
     description: "This image shows Guru Gobind Singh founding the Khalsa with the Panj Piare, selected as a defining visual reference for Khalsa."
   - title: "Takht Kesgarh Sahib, shrine at the birthplace of the Khalsa"
-    imageUrl: "/artifacts/khalsa-2.jpg"
+    imageUrl: "/artifacts/khalsa-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Takhat-Sri-Kesgarh-Sahib-Anandpur-Sahib.jpg"
     provenance: "Deziner89; CC BY-SA 4.0"
     period: "Image dated 2016"

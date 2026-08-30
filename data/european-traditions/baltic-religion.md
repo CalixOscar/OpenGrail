@@ -40,13 +40,13 @@ sources:
     url: 'https://brill.com/search?q=Baltic%20Religion'
 artifacts:
   - title: "The House of Perkunas, sacred site in Kaunas"
-    imageUrl: "/artifacts/baltic-religion-1.jpg"
+    imageUrl: "/artifacts/baltic-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:House_of_Perk%C5%ABnas,_Kaunas.jpg"
     provenance: "Wojsyl; CC BY-SA 3.0"
     period: "Image dated 2005"
     description: "This image shows The House of Perkunas, sacred site in Kaunas, selected as a defining visual reference for Baltic Religion."
   - title: "Birute Hill sanctuary"
-    imageUrl: "/artifacts/baltic-religion-2.jpg"
+    imageUrl: "/artifacts/baltic-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Vaizdas_i_jura_nuo_Birutes_kalno.jpg"
     provenance: "Topperis; CC BY-SA 4.0"
     period: "Image dated 2026"

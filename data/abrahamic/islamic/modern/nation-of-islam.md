@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Nation%20of%20Islam'
 artifacts:
   - title: "Portrait of Elijah Muhammad, formative Nation of Islam leader"
-    imageUrl: "/artifacts/nation-of-islam-1.jpg"
+    imageUrl: "/artifacts/nation-of-islam-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Muhammad_ALI_at_Nation_of_Islam_Convention_in_Chicago_1968.jpg"
     provenance: "Paul Cannon; Public domain"
     period: "Image dated 1967"
     description: "This image shows Portrait of Elijah Muhammad, formative Nation of Islam leader, selected as a defining visual reference for Nation of Islam."
   - title: "Mosque Maryam in Chicago, Nation of Islam headquarters"
-    imageUrl: "/artifacts/nation-of-islam-2.jpg"
+    imageUrl: "/artifacts/nation-of-islam-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mosque_Maryam.jpg"
     provenance: "Zol87 from Chicago, IL, USA; CC BY-SA 4.0"
     period: "Image dated 2009"

@@ -44,13 +44,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Living%20Church%20of%20God'
 artifacts:
   - title: "Portrait of Roderick C. Meredith, founder of the Living Church of God"
-    imageUrl: "/artifacts/living-church-of-god-1.jpg"
+    imageUrl: "/artifacts/living-church-of-god-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:0019jfTabang_Plaridel_Members_Church_God_Jesus_Christ_Rocka_Village_4_Bulacanfvf.jpg"
     provenance: "Judgefloro; Public domain"
     period: "Image dated 2016"
     description: "This image shows Portrait of Roderick C. Meredith, founder of the Living Church of God, selected as a defining visual reference for Living Church of God."
   - title: "Living Church of God headquarters in Charlotte"
-    imageUrl: "/artifacts/living-church-of-god-2.jpg"
+    imageUrl: "/artifacts/living-church-of-god-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Living_Faith_Anglican_Church_01.jpg"
     provenance: "Dclemens1971; CC BY 4.0"
     period: "Image dated 2025"

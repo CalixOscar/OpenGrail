@@ -46,13 +46,13 @@ sources:
       https://plato.stanford.edu/search/searcher.py?query=Lu%E2%80%93Wang%20Confucianism
 artifacts:
   - title: "Portrait of Wang Yangming"
-    imageUrl: "/artifacts/lu-wang-confucianism-1.jpg"
+    imageUrl: "/artifacts/lu-wang-confucianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%E7%8E%8B%E5%AE%88%E4%BB%81.jpg"
     provenance: "Shen Junhui (沈俊繪); Public domain"
     period: "Digital file published 2019"
     description: "This image shows Portrait of Wang Yangming, selected as a defining visual reference for Lu–Wang Confucianism."
   - title: "Wang Yangming memorial academy"
-    imageUrl: "/artifacts/lu-wang-confucianism-2.jpg"
+    imageUrl: "/artifacts/lu-wang-confucianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:20240524_Former_residence_of_Wang_Yangming.jpg"
     provenance: "Yumeto; CC BY-SA 4.0"
     period: "Image dated 2024"

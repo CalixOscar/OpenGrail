@@ -41,13 +41,13 @@ sources:
     url: 'https://brill.com/search?q=Ancient%20Egyptian%20Religion'
 artifacts:
   - title: "Weighing of the Heart vignette"
-    imageUrl: "/artifacts/ancient-egyptian-religion-1.jpg"
+    imageUrl: "/artifacts/ancient-egyptian-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:An_interesting_vignette_in_the_papyrus_of_Neb-seni_(British_Museum,_No._9,900)_shows_the_deceased_being_weighed_against_his_own_heart_in_the_presence_of_the_god_Osiris._(1902)_-_TIMEA.jpg"
     provenance: "Unknown author; CC BY-SA 2.5"
     period: "Image dated 1902"
     description: "This image shows Weighing of the Heart vignette, selected as a defining visual reference for Ancient Egyptian Religion."
   - title: "Karnak temple complex"
-    imageUrl: "/artifacts/ancient-egyptian-religion-2.jpg"
+    imageUrl: "/artifacts/ancient-egyptian-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Karnak_Hypostyle_Hall_R03.jpg"
     provenance: "Marc Ryckaert; CC BY-SA 4.0"
     period: "Image dated 2018"

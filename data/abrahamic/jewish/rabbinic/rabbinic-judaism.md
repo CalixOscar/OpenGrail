@@ -46,14 +46,14 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Rabbinic%20Judaism'
 artifacts:
   - title: "Manuscript page of the Talmud Yerushalmi"
-    imageUrl: "/artifacts/rabbinic-judaism-1.jpg"
+    imageUrl: "/artifacts/rabbinic-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Yerushalmi_Talmud.jpg"
     provenance: "Wikimedia Commons; Public domain"
     period: "Object or image dated 1901"
     description: "This image shows Manuscript page of the Talmud Yerushalmi, selected as a defining visual reference for Rabbinic Judaism."
     detail: high
   - title: "Kaufmann manuscript of the Mishnah, foundational rabbinic text"
-    imageUrl: "/artifacts/rabbinic-judaism-2.jpg"
+    imageUrl: "/artifacts/rabbinic-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:KaufmannManuscript.jpg"
     provenance: "kaufmann.mtak.hu; Public domain"
     period: "12th century"

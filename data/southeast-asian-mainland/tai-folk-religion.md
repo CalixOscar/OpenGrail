@@ -38,13 +38,13 @@ sources:
     url: 'https://yalebooks.yale.edu/'
 artifacts:
   - title: "San Phra Phum traditional Thai spirit house shrine"
-    imageUrl: "/artifacts/tai-folk-religion-1.jpg"
+    imageUrl: "/artifacts/tai-folk-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:ThaiProvinzLampang1.jpg"
     provenance: "Ziegler175; CC BY-SA 3.0"
     period: "Digital file published 2020"
     description: "This image shows San Phra Phum traditional Thai spirit house shrine, selected as a defining visual reference for Satsana Phi & Tai-Lao Spirit House Traditions."
   - title: "Phi Ta Khon painted ghost mask and festival attire"
-    imageUrl: "/artifacts/tai-folk-religion-2.jpg"
+    imageUrl: "/artifacts/tai-folk-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Phitakon_masks.JPG"
     provenance: "E.D.W.; Public domain"
     period: "Image dated 2009"

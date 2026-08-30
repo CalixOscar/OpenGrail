@@ -44,13 +44,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Old%20Catholicism'
 artifacts:
   - title: "Old Catholic Eucharistic worship at Saint Gertrude Cathedral"
-    imageUrl: "/artifacts/old-catholicism-1.jpg"
+    imageUrl: "/artifacts/old-catholicism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Catholic_mass_on_Marienplatz.jpg"
     provenance: "Bartholomaus Kilian; Public domain"
     period: "17 th century"
     description: "This image shows Old Catholic Eucharistic worship at Saint Gertrude Cathedral, selected as a defining visual reference for Old Catholicism."
   - title: "The Declaration of Utrecht defining the Union of Utrecht"
-    imageUrl: "/artifacts/old-catholicism-2.jpg"
+    imageUrl: "/artifacts/old-catholicism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Old_Catholic_Church_in_Lubawka_001.jpg"
     provenance: "Ks. Stanisław Bedzieszak for Michcik; CC BY-SA 4.0"
     period: "Image dated 2011"

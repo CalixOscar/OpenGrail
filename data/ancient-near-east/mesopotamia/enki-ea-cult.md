@@ -50,13 +50,13 @@ sources:
     url: 'https://brill.com/search?q=Cult%20of%20Enki%E2%80%93Ea'
 artifacts:
   - title: "Enki on the Adda seal"
-    imageUrl: "/artifacts/enki-ea-cult-1.jpg"
+    imageUrl: "/artifacts/enki-ea-cult-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Adda_Seal_Akkadian_Empire_2300_BC.jpg"
     provenance: "Nic McPhee from Morris, Minnesota, USA; CC BY-SA 2.0"
     period: "2300 BC"
     description: "This image shows Enki on the Adda seal, selected as a defining visual reference for Cult of Enki–Ea."
   - title: "Ancient tell and temple ruins at Eridu"
-    imageUrl: "/artifacts/enki-ea-cult-2.jpg"
+    imageUrl: "/artifacts/enki-ea-cult-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Fired_clay_brick_stamped_with_the_name_of_Amar-Sin,_Ur_III,_from_Eridu,_currently_housed_in_the_British_Museum.jpg"
     provenance: "Osama Shukir Muhammed Amin FRCP(Glasg); CC BY-SA 4.0"
     period: "21st century BCE"

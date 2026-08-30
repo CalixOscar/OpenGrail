@@ -50,13 +50,13 @@ sources:
     url: 'https://brill.com/search?q=Neoplatonism'
 artifacts:
   - title: "Ancient portrait associated with Plotinus"
-    imageUrl: "/artifacts/neoplatonism-1.jpg"
+    imageUrl: "/artifacts/neoplatonism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_of_a_philosopher,_maybe_Plutarch,_2nd_century_BC,_AM_Delphi,_0135.jpg"
     provenance: "Zde; CC BY-SA 4.0"
     period: "2nd century BC"
     description: "This image shows Ancient portrait associated with Plotinus, selected as a defining visual reference for Neoplatonism."
   - title: "Manuscript of Proclus's theology"
-    imageUrl: "/artifacts/neoplatonism-2.jpg"
+    imageUrl: "/artifacts/neoplatonism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Proclus,_Venice,_Gr._547,_fol._1r.jpg"
     provenance: "Proclus; Public domain"
     period: "Digital file published 2015"

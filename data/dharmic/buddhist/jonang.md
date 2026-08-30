@@ -46,13 +46,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Jonang'
 artifacts:
   - title: "Dolpopa Sherab Gyaltsen, the defining Jonang theologian"
-    imageUrl: "/artifacts/jonang-1.jpg"
+    imageUrl: "/artifacts/jonang-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dolpopa.jpg"
     provenance: "Anonymous Unknown author; Public domain"
     period: "18 th century"
     description: "This image shows Dolpopa Sherab Gyaltsen, the defining Jonang theologian, selected as a defining visual reference for Jonang."
   - title: "Lineage image of Taranatha, great master of Jonang"
-    imageUrl: "/artifacts/jonang-2.jpg"
+    imageUrl: "/artifacts/jonang-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bogd_Khan_Winter_Palace_22.jpg"
     provenance: "Brucke-Osteuropa; Public domain"
     period: "17th century"

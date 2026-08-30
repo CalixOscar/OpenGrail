@@ -46,13 +46,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Jeungsanism'
 artifacts:
   - title: "Portrait of Kang Jeungsan"
-    imageUrl: "/artifacts/jeungsanism-1.jpg"
+    imageUrl: "/artifacts/jeungsanism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Korea-Self_portrait_of_Kang_Sehwang-01.jpg"
     provenance: "Kang Sehwang; Public domain"
     period: "Digital file published 2021"
     description: "This image shows Portrait of Kang Jeungsan, selected as a defining visual reference for Jeungsanism."
   - title: "Jeungsanist cosmological diagram of the Cosmic Year"
-    imageUrl: "/artifacts/jeungsanism-2.png"
+    imageUrl: "/artifacts/jeungsanism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jeung_San_Do_Cosmic_Year_en.png"
     provenance: "Taeulju50000; CC BY 3.0"
     period: "Image dated 2014"

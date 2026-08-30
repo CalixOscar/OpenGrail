@@ -43,13 +43,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Cyprus'
 artifacts:
   - title: "Venerated Panagia Kykkotissa icon associated with Cyprus"
-    imageUrl: "/artifacts/church-of-cyprus-1.jpg"
+    imageUrl: "/artifacts/church-of-cyprus-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Church_of_Saint_George_%E2%80%93_Stoumpi.jpg"
     provenance: "Viaggiamocela; CC BY-SA 4.0"
     period: "Image dated 2017"
     description: "This image shows Venerated Panagia Kykkotissa icon associated with Cyprus, selected as a defining visual reference for Church of Cyprus."
   - title: "Kykkos Monastery, principal Cypriot Orthodox sanctuary"
-    imageUrl: "/artifacts/church-of-cyprus-2.jpg"
+    imageUrl: "/artifacts/church-of-cyprus-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kykkos_Monastery_Courtyard_1.JPG"
     provenance: "Julian Nyca; CC BY-SA 3.0"
     period: "Image dated 2016"

@@ -44,13 +44,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Longmen%20Daoism'
 artifacts:
   - title: "Portrait of Qiu Chuji"
-    imageUrl: "/artifacts/longmen-daoism-1.jpg"
+    imageUrl: "/artifacts/longmen-daoism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Title_epilogue_written_by_Wen_Zhengming_in_Ni_Zan%27s_portrait_by_Qiu_Ying.jpg"
     provenance: "Wen Zhengming(1508 - 1588) 文徴明; Public domain"
     period: "Image dated 1542"
     description: "This image shows Portrait of Qiu Chuji, selected as a defining visual reference for Longmen Daoism."
   - title: "Longmen seat at Baiyun Guan"
-    imageUrl: "/artifacts/longmen-daoism-2.jpg"
+    imageUrl: "/artifacts/longmen-daoism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:WhiteCloudpic1.jpg"
     provenance: "Gene Zhang; CC BY 2.0"
     period: "Image dated 2006"

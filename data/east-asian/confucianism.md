@@ -45,13 +45,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Confucian%20Traditions'
 artifacts:
   - title: "Traditional portrait of Confucius"
-    imageUrl: "/artifacts/confucianism-1.jpg"
+    imageUrl: "/artifacts/confucianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty,_black_print.jpg"
     provenance: "Wu Daozi , 685-758, Tang Dynasty.; Public domain"
     period: "8 th century"
     description: "This image shows Traditional portrait of Confucius, selected as a defining visual reference for Confucian Traditions."
   - title: "Qufu Temple of Confucius"
-    imageUrl: "/artifacts/confucianism-2.jpg"
+    imageUrl: "/artifacts/confucianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kong_Miao_-_Dacheng_Dian_-_P1050686.JPG"
     provenance: "User:Vmenkov; CC BY-SA 3.0"
     period: "Image dated 2011"

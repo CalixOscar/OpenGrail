@@ -47,13 +47,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=%C5%9Aaivism'
 artifacts:
   - title: "Ardhanarisvara sculpture expressing Siva's integrated divine power"
-    imageUrl: "/artifacts/shaivism-1.jpg"
+    imageUrl: "/artifacts/shaivism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Elephanta,_grotta_1,_rilievi_riferibili_al_400-550_dc_ca.,_parete_sud_con_Ardhanarishvara,_trimurti_e_gangadhara_01.jpg"
     provenance: "Sailko; CC BY 3.0"
     period: "Image dated 2019"
     description: "This image shows Ardhanarisvara sculpture expressing Siva's integrated divine power, selected as a defining visual reference for Śaivism."
   - title: "Kashi Vishwanath, one of Saivism's foremost jyotirlinga temples"
-    imageUrl: "/artifacts/shaivism-2.jpg"
+    imageUrl: "/artifacts/shaivism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kashi_Vishwanath_Temple_food-1.jpg"
     provenance: "Immanuelle; CC BY 4.0"
     period: "Image dated 2024"

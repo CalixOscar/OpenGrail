@@ -45,13 +45,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Drikung%20Kagyu'
 artifacts:
   - title: "Jigten Sumgon, founder of Drikung Kagyu"
-    imageUrl: "/artifacts/drikung-kagyu-1.jpg"
+    imageUrl: "/artifacts/drikung-kagyu-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jigten_Sumg%C3%B6n.JPG"
     provenance: "Bodhisattwa; CC BY-SA 3.0"
     period: "Image dated 2013"
     description: "This image shows Jigten Sumgon, founder of Drikung Kagyu, selected as a defining visual reference for Drikung Kagyu."
   - title: "Drikung Til, original monastic seat of the lineage"
-    imageUrl: "/artifacts/drikung-kagyu-2.jpg"
+    imageUrl: "/artifacts/drikung-kagyu-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Drigung_monastery.jpg"
     provenance: "en:User:Alberrosidus; CC BY-SA 3.0"
     period: "Image dated 2005"

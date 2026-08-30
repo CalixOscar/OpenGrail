@@ -49,13 +49,13 @@ sources:
     url: 'https://brill.com/search?q=Ancient%20Arabian%20Religions'
 artifacts:
   - title: "South Arabian image of Almaqah"
-    imageUrl: "/artifacts/ancient-arabian-religions-1.jpg"
+    imageUrl: "/artifacts/ancient-arabian-religions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Panel_Almaqah_Louvre_DAO18.jpg"
     provenance: "Unknown artist Unknown artist; Public domain"
     period: "700 BC"
     description: "This image shows South Arabian image of Almaqah, selected as a defining visual reference for Ancient Arabian Religions."
   - title: "Awwam sanctuary at Marib"
-    imageUrl: "/artifacts/ancient-arabian-religions-2.jpg"
+    imageUrl: "/artifacts/ancient-arabian-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bar%27an_temple_1986-1.jpg"
     provenance: "Bernard Gagnon; CC BY-SA 3.0"
     period: "Image dated 1986"

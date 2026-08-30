@@ -44,13 +44,13 @@ sources:
     url: 'https://brill.com/search?q=Western%20Esotericism'
 artifacts:
   - title: "Fludd's Hermetic-Kabbalistic diagram"
-    imageUrl: "/artifacts/western-esotericism-1.jpg"
+    imageUrl: "/artifacts/western-esotericism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tree_of_Life_Fludd.jpg"
     provenance: "Robert Fludd; Public domain"
     period: "Image dated 1621"
     description: "This image shows Fludd's Hermetic-Kabbalistic diagram, selected as a defining visual reference for Western Esotericism."
   - title: "Renaissance occult-philosophy text"
-    imageUrl: "/artifacts/western-esotericism-2.jpg"
+    imageUrl: "/artifacts/western-esotericism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pleiades.JPG"
     provenance: "Hans Bernhard ( Schnobby ); CC BY-SA 3.0"
     period: "Image dated 2009"

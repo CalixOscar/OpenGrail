@@ -41,13 +41,13 @@ sources:
     url: 'https://plato.stanford.edu/search/searcher.py?query=Sect%20Shinto'
 artifacts:
   - title: "Founders of the recognized Shinto sects"
-    imageUrl: "/artifacts/sect-shinto-1.jpg"
+    imageUrl: "/artifacts/sect-shinto-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kurozumikyo_at_Taipei_Bao-an_Temple_Parade_2018.jpg"
     provenance: "Taiwankengo; CC BY-SA 4.0"
     period: "Image dated 2018"
     description: "This image shows Founders of the recognized Shinto sects, selected as a defining visual reference for Sect Shinto."
   - title: "Sect Shinto headquarters sanctuary"
-    imageUrl: "/artifacts/sect-shinto-2.png"
+    imageUrl: "/artifacts/sect-shinto-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:DaehanCheolligyoKanrodaiModelSideFacingSouth.png"
     provenance: "Komitsuki; CC0"
     period: "Image dated 2024"

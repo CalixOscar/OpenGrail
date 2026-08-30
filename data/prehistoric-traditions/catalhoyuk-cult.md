@@ -51,13 +51,13 @@ sources:
     url: 'https://whc.unesco.org/en/list/1405/'
 artifacts:
   - title: "Catalhoyuk seated figurine"
-    imageUrl: "/artifacts/catalhoyuk-cult-1.jpg"
+    imageUrl: "/artifacts/catalhoyuk-cult-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Seated_Woman_of_%C3%87atalh%C3%B6y%C3%BCk_on_black_background.jpg"
     provenance: "Nevit Dilmen ( talk ); CC BY-SA 3.0"
     period: "Image dated 2012"
     description: "This image shows Catalhoyuk seated figurine, selected as a defining visual reference for Çatalhöyük Neolithic Sanctuary & Bucrania Cult."
   - title: "Bucranium bull skull installation from Catalhoyuk"
-    imageUrl: "/artifacts/catalhoyuk-cult-2.png"
+    imageUrl: "/artifacts/catalhoyuk-cult-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bull_bucranium.png"
     provenance: "can you draw a sketch of bull bucranium based on archaeological evidence; Public domain"
     period: "Image dated 2026"

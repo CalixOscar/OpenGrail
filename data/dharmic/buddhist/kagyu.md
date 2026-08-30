@@ -44,13 +44,13 @@ sources:
     url: 'https://www.rep.routledge.com/search?query=Kagyu'
 artifacts:
   - title: "Milarepa in the iconic listening pose, emblematic Kagyu yogin"
-    imageUrl: "/artifacts/kagyu-1.jpg"
+    imageUrl: "/artifacts/kagyu-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bhutanese_painted_thanka_of_Milarepa_(1052-1135),_Late_19th-early_20th_Century,_Dhodeydrag_Gonpa,_Thimphu,_Bhutan.jpg"
     provenance: "Unknown author Unknown author; Public domain"
     period: "20th Century"
     description: "This image shows Milarepa in the iconic listening pose, emblematic Kagyu yogin, selected as a defining visual reference for Kagyu."
   - title: "Tsurphu Monastery, a principal historic Kagyu seat"
-    imageUrl: "/artifacts/kagyu-2.jpg"
+    imageUrl: "/artifacts/kagyu-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dowo_Lung_Valley,_Tsurphu_1993.JPG"
     provenance: "John Hill; CC BY-SA 3.0"
     period: "Image dated 1991"

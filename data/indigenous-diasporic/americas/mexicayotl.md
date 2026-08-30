@@ -44,13 +44,13 @@ sources:
     url: 'https://brill.com/search?q=Mexicayotl'
 artifacts:
   - title: "Mexicayotl Conchero dancers in ceremonial feather regalia"
-    imageUrl: "/artifacts/mexicayotl-1.jpg"
+    imageUrl: "/artifacts/mexicayotl-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Museo_Dolores_Olmedo,_Carnaval_de_las_tradiciones_2014_09.JPG"
     provenance: "Sama Hoz; CC BY-SA 3.0"
     period: "Image dated 2014"
     description: "This image shows Mexicayotl Conchero dancers in ceremonial feather regalia, selected as a defining visual reference for Mexicayotl."
   - title: "Mexicayotl ceremonial dance"
-    imageUrl: "/artifacts/mexicayotl-2.jpg"
+    imageUrl: "/artifacts/mexicayotl-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Conchero_Chichimeca.jpg"
     provenance: "Renata Frias; CC BY-SA 4.0"
     period: "Image dated 2019"

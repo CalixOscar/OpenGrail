@@ -52,13 +52,13 @@ sources:
     url: 'https://www.cambridge.org/core/search?q=Latter%20Day%20Saint%20Movement'
 artifacts:
   - title: "Historical portrait of Joseph Smith, founder of the Latter Day Saint movement"
-    imageUrl: "/artifacts/latter-day-saint-movement-1.jpg"
+    imageUrl: "/artifacts/latter-day-saint-movement-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Joseph_Smith,_Jr._portrait_owned_by_Joseph_Smith_III.jpg"
     provenance: "Likely William Warner Major see https://web.archive.org/web/20230122022915/http://silverepicent.com/photofound/photofound/Photograph_Found/A; Public domain"
     period: "Image dated 1842"
     description: "This image shows Historical portrait of Joseph Smith, founder of the Latter Day Saint movement, selected as a defining visual reference for Latter Day Saint Movement."
   - title: "First edition of the Book of Mormon"
-    imageUrl: "/artifacts/latter-day-saint-movement-2.jpg"
+    imageUrl: "/artifacts/latter-day-saint-movement-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:1841_Book_of_Mormon_open_to_title_page.jpg"
     provenance: "Prosfilaes; CC0"
     period: "Image dated 1841"

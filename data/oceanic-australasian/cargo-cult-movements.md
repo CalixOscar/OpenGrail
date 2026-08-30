@@ -45,13 +45,13 @@ sources:
     url: 'https://ich.unesco.org/en/search?q=So-Called%20Cargo%20Cult%20Movements'
 artifacts:
   - title: "John Frum ritual red cross shrine at Sulphur Bay, Tanna"
-    imageUrl: "/artifacts/cargo-cult-movements-1.jpg"
+    imageUrl: "/artifacts/cargo-cult-movements-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:JohnFrumCrossTanna1967.jpg"
     provenance: "Tim Ross; CC BY 3.0"
     period: "Image dated 1967"
     description: "This image shows John Frum ritual red cross shrine at Sulphur Bay, Tanna, selected as a defining visual reference for So-Called Cargo Cult Movements."
   - title: "John Frum ceremonial flag-raising ritual on Tanna"
-    imageUrl: "/artifacts/cargo-cult-movements-2.jpg"
+    imageUrl: "/artifacts/cargo-cult-movements-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:John_Frum_effigy_1960.jpg"
     provenance: "David Attenborough; Public domain"
     period: "Image dated 1960"

@@ -44,13 +44,13 @@ sources:
       https://www.rep.routledge.com/search?query=Sth%C4%81nakav%C4%81s%C4%AB%20Jainism
 artifacts:
   - title: "Sthanakavasi mendicant wearing the characteristic muhapatti"
-    imageUrl: "/artifacts/sthanakvasi-1.jpg"
+    imageUrl: "/artifacts/sthanakvasi-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:A_Deravasi_Jain_Nun.jpg"
     provenance: "Samyak Modi; CC BY-SA 4.0"
     period: "Image dated 2018"
     description: "This image shows Sthanakavasi mendicant wearing the characteristic muhapatti, selected as a defining visual reference for Sthānakavāsī Jainism."
   - title: "Sthanakvasi Jain assembly hall (Sthanak)"
-    imageUrl: "/artifacts/sthanakvasi-2.jpg"
+    imageUrl: "/artifacts/sthanakvasi-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jain_Sthanakvasi_monk.jpg"
     provenance: "Shree Diwakar Prakashan (Owner Mr. Sanjay Surana) (Website: https://www.jainbooks.in ); Public domain"
     period: "Image dated 2009"
