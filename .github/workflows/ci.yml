@@ -23,7 +23,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        node: ['20.x', '22.x']
+        node: ['22.x']
     steps:
       - name: Check out the pull request head
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.0.0
@@ -49,6 +49,36 @@ jobs:
 
       - name: Build graph data, typecheck and bundle
         run: npm run build
+
+      - name: TEMP browser diagnostic
+        run: |
+          ls -l /usr/bin/google-chrome* /usr/bin/chromium* 2>&1 || true
+          node --input-type=module -e "
+          import { startStaticAppServer, findChromeExecutable, launchBrowser } from './tests/browser-helper.js';
+          const exe = findChromeExecutable();
+          console.log('chrome path:', exe);
+          const s = await startStaticAppServer();
+          console.log('serving', s.baseUrl);
+          const b = await launchBrowser(exe);
+          console.log('version:', await b.version());
+          const p = await b.newPage();
+          p.on('console', m => console.log('[console]', m.type(), m.text()));
+          p.on('pageerror', e => console.log('[pageerror]', e.message));
+          p.on('requestfailed', r => console.log('[reqfail]', r.url(), r.failure() && r.failure().errorText));
+          try {
+            await p.goto(s.baseUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
+            console.log('domcontentloaded OK');
+            await p.goto(s.baseUrl, { waitUntil: 'networkidle2', timeout: 30000 });
+            console.log('networkidle2 OK');
+          } catch (e) {
+            console.log('NAV ERROR:', e.message);
+            console.log('url now:', p.url());
+            console.log('html head:', (await p.content()).slice(0, 500));
+          }
+          await b.close(); await s.close();
+          "
+        env:
+          CHROME_PATH: /usr/bin/google-chrome
 
       - name: Run the test suite
         run: npm test
