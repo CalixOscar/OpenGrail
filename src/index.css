@@ -2060,9 +2060,21 @@ button,
     gap: 7px;
   }
 
+  /* The bar stacks here, so the tools row gets the full width. It must start at the
+     left: with justify-content flex-end, anything that does not fit overflows off the
+     left edge, where there is nothing to scroll to and scrollWidth does not report it. */
   .topbar__tools {
     width: 100%;
+    justify-content: flex-start;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    gap: 8px;
   }
+
+  /* Icon-only tiles from here down, as on mobile, so the row fits without scrolling
+     on a portrait tablet. The labels live on aria-label and title. */
+  .layer-buttons { grid-auto-columns: 44px; }
+  .layer-toggle-btn span { display: none; }
 
   .graph-search {
     width: auto;
@@ -3403,7 +3415,7 @@ button,
   display: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 720px) {
   .app-shell {
     flex-direction: column;
     height: 100vh;
@@ -3529,17 +3541,72 @@ button,
   }
 
   .topbar__tools {
+    display: flex;
     width: 100%;
-    justify-content: space-between;
-    gap: 6px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+    min-width: 0;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
   }
 
   .topbar__tools .tool-group {
     display: none;
   }
 
+  .topbar__tools .tool-group--layers {
+    display: flex;
+    flex: 0 0 auto;
+  }
+
+  .layer-buttons {
+    grid-auto-columns: 44px;
+  }
+
+  .layer-toggle-btn {
+    width: 44px;
+    height: 44px;
+    min-width: 44px;
+    min-height: 44px;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0;
+  }
+
+  .layer-toggle-btn span {
+    display: none;
+  }
+
+  .view-switcher--topbar {
+    display: inline-flex;
+    flex: 0 0 auto;
+    padding: 1px;
+    gap: 1px;
+  }
+
+  .view-switcher--topbar .view-switcher__btn {
+    width: 44px;
+    height: 44px;
+    min-width: 44px;
+    min-height: 44px;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0;
+  }
+
+  .view-switcher--topbar .view-switcher__btn span {
+    display: none;
+  }
+
   .graph-search {
-    width: 100%;
+    flex: 1 1 auto;
+    min-width: 60px;
+    width: auto;
   }
 
   .graph-search__field {
@@ -3608,12 +3675,6 @@ button,
     min-height: 44px;
     padding: 6px 12px;
     font-size: 0.8rem;
-  }
-
-  .layer-toggle-btn {
-    height: 44px;
-    min-height: 44px;
-    padding: 0 14px;
   }
 
   .view-switcher__btn {
@@ -5005,7 +5066,7 @@ button,
 }
 
 /* Responsive Breakpoints */
-@media (max-width: 768px) {
+@media (max-width: 720px) {
   .comparison-overlay {
     padding: calc(8px + env(safe-area-inset-top, 0px))
              calc(8px + env(safe-area-inset-right, 0px))

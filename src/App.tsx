@@ -329,6 +329,7 @@ function AppContent() {
                   type="button"
                   onClick={() => setShowFilters((value) => !value)}
                   aria-pressed={showFilters}
+                  aria-label="Toggle filter bar"
                   title="Toggle filter bar"
                 >
                   <SlidersHorizontal size={15} />
@@ -339,6 +340,7 @@ function AppContent() {
                   type="button"
                   onClick={() => setShowTimeline((value) => !value)}
                   aria-pressed={showTimeline}
+                  aria-label="Toggle timeline scrubber"
                   title="Toggle timeline scrubber"
                 >
                   <Calendar size={15} />
@@ -349,6 +351,7 @@ function AppContent() {
                   type="button"
                   onClick={handleToggleLegend}
                   aria-pressed={legendVisible}
+                  aria-label="Toggle cluster legend"
                   title="Toggle cluster legend"
                 >
                   <Layers size={15} />
@@ -371,6 +374,7 @@ function AppContent() {
                     setComparisonModalOpen(true);
                   }}
                   aria-pressed={isComparisonActive}
+                  aria-label="Compare traditions side-by-side"
                   title="Compare traditions side-by-side"
                 >
                   <ArrowLeftRight size={15} />
