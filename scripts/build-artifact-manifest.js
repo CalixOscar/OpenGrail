@@ -10,10 +10,25 @@ const PROJECT_ROOT = path.resolve(SCRIPT_DIR, "..");
 const GRAPH_FILE = path.join(PROJECT_ROOT, "public", "graph.json");
 const ARTIFACTS_DIR = path.join(PROJECT_ROOT, "public", "artifacts");
 const MANIFEST_FILE = path.join(PROJECT_ROOT, "data", "artifact-manifest.json");
+const UNREPRODUCIBLE_FILE = path.join(PROJECT_ROOT, "docs", "unreproducible-artifacts.txt");
+
+export async function loadVendoredSet() {
+  try {
+    const raw = await readFile(UNREPRODUCIBLE_FILE, "utf8");
+    const lines = raw
+      .split("\n")
+      .map((l) => l.trim())
+      .filter((l) => l.length > 0 && !l.startsWith("#"));
+    return new Set(lines);
+  } catch {
+    return new Set();
+  }
+}
 
 export async function generateArtifactManifest() {
   const graphRaw = await readFile(GRAPH_FILE, "utf8");
   const graph = JSON.parse(graphRaw);
+  const vendoredSet = await loadVendoredSet();
   const entries = [];
 
   for (const node of graph.nodes) {
@@ -24,9 +39,11 @@ export async function generateArtifactManifest() {
       const filePath = path.join(ARTIFACTS_DIR, filename);
       const fileBuffer = await readFile(filePath);
       const sha256 = createHash("sha256").update(fileBuffer).digest("hex");
+      const isVendored = vendoredSet.has(filename);
 
       entries.push({
         filename,
+        source: isVendored ? "vendored" : "fetched",
         sourceUrl: art.sourceUrl,
         sha256,
         size: fileBuffer.length,

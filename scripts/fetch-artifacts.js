@@ -168,15 +168,20 @@ export async function fetchArtifacts(options = {}) {
   await mkdir(outDir, { recursive: true });
 
   const toFetch = [];
-  let skippedCount = 0;
+  let skippedLocalCount = 0;
+  let skippedVendoredCount = 0;
 
   for (const entry of manifest) {
+    if (entry.source === "vendored") {
+      skippedVendoredCount += 1;
+      continue;
+    }
     const targetFile = path.join(outDir, entry.filename);
     try {
       const existing = await readFile(targetFile);
       const existingHash = createHash("sha256").update(existing).digest("hex");
       if (existingHash === entry.sha256) {
-        skippedCount += 1;
+        skippedLocalCount += 1;
         continue;
       }
     } catch {
@@ -186,14 +191,17 @@ export async function fetchArtifacts(options = {}) {
   }
 
   console.log(`Total artifacts in manifest: ${manifest.length}`);
-  console.log(`Already present with matching sha256: ${skippedCount}`);
+  console.log(`Skipped (vendored / tracked): ${skippedVendoredCount}`);
+  console.log(`Already present with matching sha256: ${skippedLocalCount}`);
   console.log(`Need download: ${toFetch.length}`);
 
   if (toFetch.length === 0) {
-    console.log("All artifact images are present and verified. Nothing to download.");
+    console.log("All fetchable artifact images are present and verified. Nothing to download.");
     return {
       total: manifest.length,
-      skipped: skippedCount,
+      skippedVendored: skippedVendoredCount,
+      skippedLocal: skippedLocalCount,
+      skipped: skippedVendoredCount + skippedLocalCount,
       downloaded: 0,
       failed: [],
     };
@@ -269,7 +277,8 @@ export async function fetchArtifacts(options = {}) {
   console.log("ARTIFACT FETCH SUMMARY");
   console.log("=======================================================");
   console.log(`Total in manifest:      ${manifest.length}`);
-  console.log(`Skipped (valid local):  ${skippedCount}`);
+  console.log(`Skipped (vendored):     ${skippedVendoredCount}`);
+  console.log(`Skipped (valid local):  ${skippedLocalCount}`);
   console.log(`Downloaded & verified:  ${downloadedCount}`);
   console.log(`Failed:                 ${failures.length}`);
   console.log("=======================================================");
@@ -292,7 +301,9 @@ export async function fetchArtifacts(options = {}) {
 
   return {
     total: manifest.length,
-    skipped: skippedCount,
+    skippedVendored: skippedVendoredCount,
+    skippedLocal: skippedLocalCount,
+    skipped: skippedVendoredCount + skippedLocalCount,
     downloaded: downloadedCount,
     failed: failures,
   };
