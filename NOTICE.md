@@ -1,8 +1,8 @@
 # OpenGrail Third-Party Notices & Artifact Terms
 
-OpenGrail bundles and references historical and cultural photographic artifact reproductions from Wikimedia Commons under `public/artifacts/`.
+The OpenGrail application codebase, the authored Markdown records under `data/`, and the project documentation are licensed under the MIT License (see [LICENSE](LICENSE)).
 
-These visual assets are third-party works, each published under its own respective license or in the public domain. They are not covered by the project's top-level MIT license.
+This MIT grant does not cover third-party photographic and manuscript reproductions under `public/artifacts/`, which are published under their respective open and public domain licenses (including Public Domain, CC0, CC-BY, and CC-BY-SA).
 
 - **Detailed Attributions**: Complete per-file authorship, license terms, Wikimedia Commons source URLs, and local filenames are documented in [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
 - **Machine-Readable Metadata**: Full provenance and exact `https://commons.wikimedia.org/wiki/File:` URLs are recorded for every artifact in `public/graph.json` and `data/artifact-manifest.json`.
