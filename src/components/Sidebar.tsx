@@ -14,6 +14,7 @@ import { useAtlasState } from "../state/AtlasState";
 import { isNodeTemporallyVisible } from "../state/temporalVisibility";
 import { scoreGraphNodeSearch, type GraphNode } from "../types/graph";
 import SearchCombobox from "./SearchCombobox";
+import ViewSwitcher from "./ViewSwitcher";
 
 export interface SidebarProps {
   nodes: GraphNode[];
@@ -353,6 +354,8 @@ export default function Sidebar({
             <GrailMark />
             <span className="sr-only">OpenGrail</span>
           </div>
+          <ViewSwitcher variant="rail" />
+          <div className="sidebar-rail__divider" aria-hidden="true" />
           <button
             className="sidebar-rail__toggle icon-button"
             type="button"

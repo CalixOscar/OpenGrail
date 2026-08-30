@@ -357,7 +357,7 @@ function AppContent() {
               </div>
             </div>
 
-            <ViewSwitcher />
+            <ViewSwitcher className="view-switcher--topbar" />
 
             <div className="tool-group tool-group--compare" aria-label="Comparison mode">
               <div className="tool-group__buttons layer-buttons">

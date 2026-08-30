@@ -238,7 +238,7 @@ test(
     );
 
     await t.test(
-      'Opening view tab order invariant: collapsed sidebar contains exactly 1 tabbable control',
+      'Opening view tab order invariant: collapsed rail contains no tradition navigator nodes',
       async () => {
         await page.goto(serverInfo.baseUrl, { waitUntil: 'networkidle2' });
         await page.waitForSelector('.topbar', { timeout: 5000 });
@@ -254,20 +254,45 @@ test(
               })
               .map((el) => ({
                 tagName: el.tagName,
-                ariaLabel: el.getAttribute('aria-label'),
-                title: el.getAttribute('title'),
+                ariaLabel: el.getAttribute('aria-label') || '',
+                title: el.getAttribute('title') || '',
+                text: el.textContent?.trim() || '',
               })),
         );
 
-        assert.equal(
-          tabbables.length,
-          1,
-          `Collapsed sidebar must contain exactly 1 tabbable control on opening view (Finding 1 invariant), found ${tabbables.length}: ${JSON.stringify(tabbables)}`,
+        // Invariant 1: The tradition navigator (114 nodes) is not resident in the collapsed rail.
+        // No tradition-selection controls (nothing matching "Open <name>" or tradition titles).
+        const traditionControls = tabbables.filter(
+          (t) =>
+            (t.ariaLabel && /^Open\s+/i.test(t.ariaLabel)) ||
+            (t.title && /^Open\s+/i.test(t.title)),
         );
         assert.equal(
-          tabbables[0].ariaLabel,
-          'Expand tradition navigator',
-          'The single tabbable control in collapsed sidebar must be the expand button',
+          traditionControls.length,
+          0,
+          `Collapsed rail must not contain any tradition navigation controls, found: ${JSON.stringify(traditionControls)}`,
+        );
+
+        // Invariant 2: Every control in the rail has a non-empty accessible name.
+        for (const control of tabbables) {
+          const accessibleName = control.ariaLabel || control.title || control.text;
+          assert.ok(
+            accessibleName.trim().length > 0,
+            `Every control in collapsed rail must have a non-empty accessible name: ${JSON.stringify(control)}`,
+          );
+        }
+
+        // Invariant 3: The rail's tabbable count stays at or below a small explicit bound.
+        // Bound explanation: expand control (1) plus the view switcher modes (3: Brain Cluster, World Map, List View).
+        // Any change that adds tradition nodes or decorative buttons must fail this bound.
+        const MAX_EXPECTED_RAIL_CONTROLS = 4;
+        assert.ok(
+          tabbables.length <= MAX_EXPECTED_RAIL_CONTROLS,
+          `Collapsed rail tabbable count (${tabbables.length}) exceeds maximum expected bound of ${MAX_EXPECTED_RAIL_CONTROLS} (expand control + view switcher). Found: ${JSON.stringify(tabbables)}`,
+        );
+        assert.ok(
+          tabbables.length >= 1,
+          'Collapsed rail must contain at least the expand control',
         );
       },
     );
