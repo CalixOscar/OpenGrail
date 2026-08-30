@@ -80,6 +80,19 @@ relations:
 
 ---
 
+## Editing a Tradition's Artifacts
+
+Visual artifacts are configured directly in each tradition's Markdown frontmatter under `artifacts:` as `{ title, imageUrl, sourceUrl, provenance, period, description }` (with optional `detail: high`). That file is the only place to edit their records.
+
+Editing an image is now pure **edit-and-rebuild**, with no checksum or manifest layer to defeat:
+
+1. **Self-Hosted Thumbnails**: Drop a WebP image scaled to 640px on its long edge (or 1600px for text-bearing manuscripts/inscriptions carrying `detail: high`) into `public/artifacts/`.
+2. **Independent Links**: `imageUrl` (the local committed WebP thumbnail) and `sourceUrl` (the canonical click-through link) are independent. Neither is required to come from Wikimedia Commons, but images must never be hotlinked (per our static-first and tracker-free standard).
+3. **Licensing & Provenance**: Only permissively licensed images (**Public Domain**, **CC0**, **CC-BY**, **CC-BY-SA**) are accepted. The `provenance` frontmatter field must accurately state the author/creator and license (e.g. `Author Name; CC BY-SA 4.0`), because `ATTRIBUTIONS.md` is derived directly from it. An inaccurate or missing provenance is a license violation.
+4. **Rebuild & Derive**: After updating frontmatter or adding images, run `npm run build:graph` and `npm run derive:attributions`, then commit both your data file, image asset, and `ATTRIBUTIONS.md`.
+
+---
+
 ## Local Development & Testing
 
 ```bash

@@ -32,7 +32,7 @@
 - **Chronological Timeline Scrubber**: Filter traditions and historical splits dynamically from ancient antiquity through modern movements.
 - **Fuzzy Search & Deep Linking**: Instant keyboard search across traditions, aliases, and canonical texts. Every tradition and view mode has a unique, shareable URL hash (e.g. `#tradition=stoicism&view=map`).
 - **Epistemic Rigor**: Explicitly distinguishes between `academic_consensus`, `minority_scholarly`, `theological_claim`, and `speculative_fringe` so historical facts and devotional traditions remain clear.
-- **Museum-Grade Visual Artifacts**: Over 1,100 curated public-domain historical images, manuscripts, symbols, and architectural icons.
+- **Curated Visual Artifacts**: Over 1,100 curated public-domain thumbnails and manuscripts linking out to high-resolution originals on Wikimedia Commons.
 - **Markdown-as-Database**: 100% static, fast, and git-native. Every tradition is a standalone Markdown file with validated YAML frontmatter compiled deterministically into `graph.json`.
 
 ---
@@ -53,21 +53,11 @@ cd OpenGrail
 # Install dependencies
 npm install
 
-# Download the visual artifacts (about 795 MB, one time)
-npm run fetch:artifacts
-
 # Build graph data and launch local development server
 npm run dev
 ```
 
 Open [http://localhost:5173/opengrail/](http://localhost:5173/opengrail/) in your browser.
-
-> **The artifact fetch is required.** Only 120 of the 1,146 images are stored in this
-> repository; the other 1,026 are downloaded from Wikimedia Commons on demand, verified
-> against the SHA-256 checksums in `data/artifact-manifest.json`. This keeps a clone under
-> 100 MB instead of over a gigabyte. Without this step the atlas runs, but tradition
-> imagery will be missing. The download is skipped for files already present, so it is safe
-> to re-run.
 
 ### Production Build
 

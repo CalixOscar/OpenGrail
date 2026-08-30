@@ -166,7 +166,7 @@ export function Lightbox({ open, artifact, accentColor = '#64d8c0', onClose }: L
                 className="source-link"
                 style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', fontSize: '0.85rem', color: '#93c5fd' }}
               >
-                <span>Verify entry on Wikipedia / Archive</span>
+                <span>View full-size original on Wikimedia Commons</span>
                 <ExternalLink size={13} />
               </a>
             </div>
