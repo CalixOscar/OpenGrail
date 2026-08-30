@@ -4,16 +4,17 @@ import {
   ArrowLeftRight,
   BookOpen,
   Calendar,
+  Layers,
   LocateFixed,
   Menu,
   Minus,
   Move,
-  Network,
   Orbit,
   Plus,
   Search,
   SlidersHorizontal,
   Sparkles,
+  X,
 } from 'lucide-react';
 import {
   useCallback,
@@ -69,7 +70,39 @@ function AppContent() {
   const [showTimeline, setShowTimeline] = useState(false);
   const [clusterLayout, setClusterLayout] = useState(true);
   const [comparisonModalOpen, setComparisonModalOpen] = useState(false);
+  const [legendVisible, setLegendVisible] = useState(() => {
+    try {
+      return localStorage.getItem('opengrail_cluster_legend_shown') === 'true';
+    } catch {
+      return false;
+    }
+  });
   const searchLabelTimerRef = useRef<number | null>(null);
+
+  const handleToggleLegend = useCallback(() => {
+    setLegendVisible((prev) => {
+      const next = !prev;
+      try {
+        if (next) {
+          localStorage.setItem('opengrail_cluster_legend_shown', 'true');
+        } else {
+          localStorage.removeItem('opengrail_cluster_legend_shown');
+        }
+      } catch {
+        // Ignore in private browsing mode
+      }
+      return next;
+    });
+  }, []);
+
+  const handleDismissLegend = useCallback(() => {
+    setLegendVisible(false);
+    try {
+      localStorage.removeItem('opengrail_cluster_legend_shown');
+    } catch {
+      // Ignore in private browsing mode
+    }
+  }, []);
 
   const {
     currentYear,
@@ -281,14 +314,7 @@ function AppContent() {
           </div>
 
           <div className="topbar__context">
-            <span className="topbar__eyebrow">
-              <Network size={13} aria-hidden="true" />
-              Comparative Religion Atlas
-            </span>
-            <div className="topbar__title-row">
-              <h1>Historical &amp; theological relations</h1>
-              <span className="live-status"><span aria-hidden="true" />Synchronized atlas</span>
-            </div>
+            <h1>OpenGrail</h1>
             <p>
               Showing {visibleNodeIds.size} of {graphData.nodes.length} traditions ·{' '}
               {visibleLinkCount} of {graphData.links.length} relations
@@ -297,7 +323,6 @@ function AppContent() {
 
           <div className="topbar__tools">
             <div className="tool-group tool-group--layers" aria-label="Layers and visibility toggles">
-              <span className="tool-group__label">Layers</span>
               <div className="tool-group__buttons layer-buttons">
                 <button
                   className={`layer-toggle-btn${showFilters ? ' layer-toggle-btn--active' : ''}`}
@@ -319,13 +344,22 @@ function AppContent() {
                   <Calendar size={15} />
                   <span>Timeline</span>
                 </button>
+                <button
+                  className={`layer-toggle-btn${legendVisible ? ' layer-toggle-btn--active' : ''}`}
+                  type="button"
+                  onClick={handleToggleLegend}
+                  aria-pressed={legendVisible}
+                  title="Toggle cluster legend"
+                >
+                  <Layers size={15} />
+                  <span>Legend</span>
+                </button>
               </div>
             </div>
 
             <ViewSwitcher />
 
             <div className="tool-group tool-group--compare" aria-label="Comparison mode">
-              <span className="tool-group__label">Compare</span>
               <button
                 className={`layer-toggle-btn${isComparisonActive ? ' layer-toggle-btn--active' : ''}`}
                 type="button"
@@ -346,7 +380,6 @@ function AppContent() {
             {viewMode === 'brain' && (
               <>
                 <div className="tool-group" aria-label="Zoom controls">
-                  <span className="tool-group__label">Zoom</span>
                   <div className="tool-group__buttons">
                     <button type="button" onClick={() => graphRef.current?.zoomIn()} title="Zoom in" aria-label="Zoom in">
                       <Plus size={15} />
@@ -361,7 +394,6 @@ function AppContent() {
                 </div>
 
                 <div className="tool-group">
-                  <span className="tool-group__label">Pan</span>
                   <button
                     className="cluster-toggle"
                     type="button"
@@ -374,7 +406,6 @@ function AppContent() {
                 </div>
 
                 <div className="tool-group">
-                  <span className="tool-group__label">Layout</span>
                   <button
                     className={`cluster-toggle${clusterLayout ? ' cluster-toggle--active' : ''}`}
                     type="button"
@@ -489,7 +520,7 @@ function AppContent() {
             </div>
           )}
 
-          {loadState === 'ready' && viewMode !== 'list' && (
+          {loadState === 'ready' && viewMode !== 'list' && legendVisible && (
             <div className="cluster-legend" aria-label="Cluster legend">
               <span
                 className="cluster-legend__size-note"
@@ -507,6 +538,15 @@ function AppContent() {
                   </span>
                 );
               })}
+              <button
+                type="button"
+                className="cluster-legend__dismiss"
+                onClick={handleDismissLegend}
+                aria-label="Dismiss cluster legend"
+                title="Dismiss cluster legend"
+              >
+                <X size={11} aria-hidden="true" />
+              </button>
             </div>
           )}
 

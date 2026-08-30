@@ -15,7 +15,6 @@ import {
   useRef,
   useState,
 } from 'react';
-import { List } from 'lucide-react';
 import { useAtlasState } from '../state/AtlasState';
 import {
   isLinkTemporallyVisible,
@@ -283,7 +282,7 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
     },
     forwardedRef,
   ) {
-    const { searchLabelsVisible, temporalMode, setViewMode } = useAtlasState();
+    const { searchLabelsVisible, temporalMode } = useAtlasState();
     const prefersReducedMotion = usePrefersReducedMotion();
     const containerRef = useRef<HTMLDivElement>(null);
     const graphRef = useRef<ForceGraphMethods<GraphNode, GraphLink>>();
@@ -1029,22 +1028,6 @@ export const GraphCanvas = forwardRef<GraphCanvasHandle, GraphCanvasProps>(
         ref={containerRef}
         className={`graph-canvas ${className}`.trim()}
       >
-        <div className="graph-overlay-controls" role="toolbar" aria-label="Graph overlay controls">
-          <div className="tool-group">
-            <span className="tool-group__label">View</span>
-            <button
-              type="button"
-              className="cluster-toggle"
-              onClick={() => setViewMode('list')}
-              title="Switch to accessible list view"
-              aria-label="Switch to accessible list view"
-            >
-              <List size={14} aria-hidden="true" />
-              <span>List</span>
-            </button>
-          </div>
-        </div>
-
         <div
           className="graph-canvas__surface"
           style={{ cursor: hoveredNodeId ? 'pointer' : 'grab' }}

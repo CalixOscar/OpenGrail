@@ -290,13 +290,6 @@ export default function Sidebar({
     });
   };
 
-  const railNodes = useMemo(() => {
-    const roots = visibleClusters.flatMap((cluster) => rootNodesByCluster.get(cluster) ?? []);
-    const selected = selectedNodeId ? nodeById.get(selectedNodeId) : undefined;
-    if (selected && !roots.some((node) => node.id === selected.id)) roots.unshift(selected);
-    return roots;
-  }, [nodeById, rootNodesByCluster, selectedNodeId, visibleClusters]);
-
   const renderTreeNode = (node: GraphNode, depth: number): ReactNode => {
     const children = (childrenByParent.get(node.id) ?? [])
       .filter((child) => visibleNodeIds.has(child.id));
@@ -369,22 +362,6 @@ export default function Sidebar({
           >
             <CollapseIcon collapsed className="icon-button__icon" />
           </button>
-          <nav className="sidebar-rail__nodes" aria-label="Traditions">
-            {railNodes.map((node) => (
-              <button
-                key={node.id}
-                className={`sidebar-rail__node${node.id === selectedNodeId ? " sidebar-rail__node--selected" : ""}`}
-                style={{ "--node-color": node.color } as CSSProperties}
-                type="button"
-                onClick={() => onSelectNode(node.id)}
-                aria-label={`Open ${node.title}`}
-                aria-pressed={node.id === selectedNodeId}
-                title={node.title}
-              >
-                <span className="sidebar-rail__node-dot" aria-hidden="true" />
-              </button>
-            ))}
-          </nav>
         </div>
       </aside>
     );

@@ -10,7 +10,6 @@ import {
 import { feature } from 'topojson-client';
 import type { Topology } from 'topojson-specification';
 import {
-  List,
   LocateFixed,
   Minus,
   Plus,
@@ -107,7 +106,6 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
     activeRelationTypes,
     searchQuery,
     searchLabelsVisible,
-    setViewMode,
   } = useAtlasState();
 
   const prefersReducedMotion = usePrefersReducedMotion();
@@ -670,22 +668,7 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
       />
 
       <div className="map-overlay-controls" role="toolbar" aria-label="Map navigation controls">
-        <div className="tool-group">
-          <span className="tool-group__label">View</span>
-          <button
-            type="button"
-            className="cluster-toggle"
-            onClick={() => setViewMode('list')}
-            title="Switch to accessible list view"
-            aria-label="Switch to accessible list view"
-          >
-            <List size={14} aria-hidden="true" />
-            <span>List</span>
-          </button>
-        </div>
-
         <div className="tool-group" aria-label="Zoom controls">
-          <span className="tool-group__label">Zoom</span>
           <div className="tool-group__buttons">
             <button type="button" onClick={zoomIn} title="Zoom in" aria-label="Zoom in">
               <Plus size={15} />
@@ -700,7 +683,6 @@ export function WorldMapView({ graphData, onSelectNode, className = '' }: WorldM
         </div>
 
         <div className="tool-group">
-          <span className="tool-group__label">Spin</span>
           <button
             type="button"
             className={`cluster-toggle${autoRotate ? ' cluster-toggle--active' : ''}`}

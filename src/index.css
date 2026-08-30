@@ -1466,7 +1466,7 @@ button,
   color: #7a8799;
   font-size: 8px;
   backdrop-filter: blur(10px);
-  pointer-events: none;
+  pointer-events: auto;
 }
 
 .cluster-legend span {
@@ -1493,6 +1493,27 @@ button,
   border: 2px solid #8d9caf;
   background: #18202b;
   box-shadow: 0 0 8px rgba(141, 156, 175, 0.36);
+}
+
+.cluster-legend .cluster-legend__dismiss {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2px;
+  padding: 2px;
+  border: none;
+  background: transparent;
+  color: #7a8799;
+  cursor: pointer;
+  border-radius: 3px;
+  line-height: 1;
+  transition: color 0.15s ease, background-color 0.15s ease;
+}
+
+.cluster-legend .cluster-legend__dismiss:hover,
+.cluster-legend .cluster-legend__dismiss:focus-visible {
+  color: #f1f5f9;
+  background: rgba(255, 255, 255, 0.12);
 }
 
 @keyframes slow-spin {

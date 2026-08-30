@@ -236,5 +236,91 @@ test(
         );
       },
     );
+
+    await t.test(
+      'Opening view tab order invariant: collapsed sidebar contains exactly 1 tabbable control',
+      async () => {
+        await page.goto(serverInfo.baseUrl, { waitUntil: 'networkidle2' });
+        await page.waitForSelector('.topbar', { timeout: 5000 });
+        await page.waitForSelector('.sidebar--collapsed', { timeout: 5000 });
+
+        const tabbables = await page.$$eval(
+          '.sidebar--collapsed button, .sidebar--collapsed [tabindex="0"], .sidebar--collapsed a[href], .sidebar--collapsed input',
+          (els) =>
+            els
+              .filter((el) => {
+                const style = window.getComputedStyle(el);
+                return style.display !== 'none' && style.visibility !== 'hidden';
+              })
+              .map((el) => ({
+                tagName: el.tagName,
+                ariaLabel: el.getAttribute('aria-label'),
+                title: el.getAttribute('title'),
+              })),
+        );
+
+        assert.equal(
+          tabbables.length,
+          1,
+          `Collapsed sidebar must contain exactly 1 tabbable control on opening view (Finding 1 invariant), found ${tabbables.length}: ${JSON.stringify(tabbables)}`,
+        );
+        assert.equal(
+          tabbables[0].ariaLabel,
+          'Expand tradition navigator',
+          'The single tabbable control in collapsed sidebar must be the expand button',
+        );
+      },
+    );
+
+    await t.test(
+      'Summoned cluster legend interaction and localStorage persistence',
+      async () => {
+        await page.goto(serverInfo.baseUrl, { waitUntil: 'networkidle2' });
+        await page.waitForSelector('.topbar', { timeout: 5000 });
+
+        // Ensure legend is hidden by default
+        let legendElement = await page.$('.cluster-legend');
+        assert.equal(legendElement, null, 'Cluster legend must start hidden by default');
+
+        const legendToggle = await page.waitForSelector('button[title="Toggle cluster legend"]', {
+          timeout: 5000,
+        });
+        assert.ok(legendToggle, 'Legend toggle button must exist in LAYERS topbar group');
+
+        let ariaPressed = await page.$eval('button[title="Toggle cluster legend"]', (el) =>
+          el.getAttribute('aria-pressed'),
+        );
+        assert.equal(ariaPressed, 'false', 'Legend toggle aria-pressed must be false initially');
+
+        // Summon legend by clicking toggle
+        await legendToggle.click();
+        await page.waitForSelector('.cluster-legend', { timeout: 5000 });
+
+        ariaPressed = await page.$eval('button[title="Toggle cluster legend"]', (el) =>
+          el.getAttribute('aria-pressed'),
+        );
+        assert.equal(ariaPressed, 'true', 'Legend toggle aria-pressed must be true when open');
+
+        let isStoredShown = await page.evaluate(() =>
+          localStorage.getItem('opengrail_cluster_legend_shown'),
+        );
+        assert.equal(isStoredShown, 'true', 'localStorage must record opengrail_cluster_legend_shown = "true"');
+
+        // Dismiss via the X button inside legend
+        const dismissBtn = await page.waitForSelector('.cluster-legend__dismiss', { timeout: 5000 });
+        await dismissBtn.click();
+        await page.waitForSelector('.cluster-legend', { hidden: true, timeout: 5000 });
+
+        ariaPressed = await page.$eval('button[title="Toggle cluster legend"]', (el) =>
+          el.getAttribute('aria-pressed'),
+        );
+        assert.equal(ariaPressed, 'false', 'Legend toggle aria-pressed must be false after dismissal');
+
+        isStoredShown = await page.evaluate(() =>
+          localStorage.getItem('opengrail_cluster_legend_shown'),
+        );
+        assert.equal(isStoredShown, null, 'localStorage key must be cleared after dismissal');
+      },
+    );
   },
 );
