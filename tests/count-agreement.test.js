@@ -157,9 +157,9 @@ test("Count Agreement Regression Test Suite (Cross-Surface Synchronization)", as
   });
 
   await t.test("Present day (year 2026) canonical regression counts", () => {
-    // Emergent mode: 573 traditions, 903 links
+    // Emergent mode: 695 traditions, 1088 links
     const emergentNodes = nodes.filter((n) => isNodeTemporallyVisible(n, 2026, "emergent"));
-    assert.equal(emergentNodes.length, 573, "Year 2026 emergent traditions count must be 573");
+    assert.equal(emergentNodes.length, 695, "Year 2026 emergent traditions count must be 695");
 
     const emergentNodeIds = new Set(emergentNodes.map((n) => n.id));
     const emergentLinks = links.filter((l) => {
@@ -171,11 +171,11 @@ test("Count Agreement Regression Test Suite (Cross-Surface Synchronization)", as
         isLinkTemporallyVisible(src, tgt, 2026, "emergent")
       );
     });
-    assert.equal(emergentLinks.length, 903, "Year 2026 emergent links count must be 903");
+    assert.equal(emergentLinks.length, 1088, "Year 2026 emergent links count must be 1088");
 
-    // Active mode: exactly 491 traditions (82 extinct excluded) and 735 active links
+    // Active mode: exactly 571 traditions (124 extinct excluded) and 857 active links
     const activeNodes = nodes.filter((n) => isNodeTemporallyVisible(n, 2026, "active"));
-    assert.equal(activeNodes.length, 491, "Year 2026 active traditions count must be 491 (573 - 82 extinct)");
+    assert.equal(activeNodes.length, 571, "Year 2026 active traditions count must be 571 (695 - 124 extinct)");
 
     const activeNodeIds = new Set(activeNodes.map((n) => n.id));
     const activeLinks = links.filter((l) => {
@@ -187,6 +187,6 @@ test("Count Agreement Regression Test Suite (Cross-Surface Synchronization)", as
         isLinkTemporallyVisible(src, tgt, 2026, "active")
       );
     });
-    assert.equal(activeLinks.length, 735, "Year 2026 active links count must be 735");
+    assert.equal(activeLinks.length, 857, "Year 2026 active links count must be 857");
   });
 });

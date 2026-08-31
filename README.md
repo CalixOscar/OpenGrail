@@ -6,8 +6,8 @@
 
 [![CI](https://github.com/CalixOscar/OpenGrail/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/CalixOscar/OpenGrail/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Traditions](https://img.shields.io/badge/Traditions-573-success.svg)](#content-model)
-[![Theological Links](https://img.shields.io/badge/Graph%20Links-903-purple.svg)](#content-model)
+[![Traditions](https://img.shields.io/badge/Traditions-695-success.svg)](#content-model)
+[![Theological Links](https://img.shields.io/badge/Graph%20Links-1088-purple.svg)](#content-model)
 [![Visual Artifacts](https://img.shields.io/badge/Artifacts-1%2C146-amber.svg)](#content-model)
 [![Clusters](https://img.shields.io/badge/Clusters-11-teal.svg)](#content-model)
 [![React](https://img.shields.io/badge/React-18-61dafb.svg)](https://react.dev/)
