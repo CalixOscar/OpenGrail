@@ -19,10 +19,8 @@ relations:
     type: parallel_concept
     certainty: academic_consensus
 origin_year: -40000
-origin_geo:
-  lat: 7.1133
-  lng: 4.4388
-  place_name: 'Ile-Ife, Osun, Nigeria'
+origin_geo_precision: none
+origin_note: "Comparative umbrella; the node's own body text disclaims single-origin descent."
 extinct_year: null
 key_tenets:
   - >-

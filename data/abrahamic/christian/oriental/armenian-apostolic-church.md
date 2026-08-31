@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 350
 origin_geo:
-  lat: 31.9174
-  lng: 35.7074
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 40.1619
+  lng: 44.291
+  place_name: 'Etchmiadzin Cathedral, Armenia'
 extinct_year: null
 key_tenets:
   - >-

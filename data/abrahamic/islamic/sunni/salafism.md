@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1850
 origin_geo:
-  lat: 32.3828
-  lng: 35.9091
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 30.0457
+  lng: 31.2627
+  place_name: 'Al-Azhar Mosque, Cairo, Egypt'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

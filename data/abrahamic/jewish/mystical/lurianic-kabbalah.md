@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1570
 origin_geo:
-  lat: 31.0211
-  lng: 34.7408
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 32.9658
+  lng: 35.4983
+  place_name: 'Safed, Galilee'
 extinct_year: null
 key_tenets:
   - >-

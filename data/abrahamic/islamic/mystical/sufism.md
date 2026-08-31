@@ -19,9 +19,11 @@ relations:
     certainty: academic_consensus
 origin_year: 750
 origin_geo:
-  lat: 32.0919
-  lng: 36.1415
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 30.515
+  lng: 47.81
+  place_name: 'Basra, Iraq'
+origin_geo_precision: region
+origin_note: 'Early ascetic milieu; Sufism has no single founding site.'
 extinct_year: null
 key_tenets:
   - >-

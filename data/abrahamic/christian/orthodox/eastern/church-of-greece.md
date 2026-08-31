@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1833
 origin_geo:
-  lat: 32.1068
-  lng: 34.5005
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 37.9842
+  lng: 23.7281
+  place_name: 'Athens, Greece'
 extinct_year: null
 key_tenets:
   - >-

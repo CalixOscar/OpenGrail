@@ -20,9 +20,10 @@ relations:
     citation: 'Mark S. Smith, The Early History of God, 2nd ed. (2002)'
 origin_year: -2000
 origin_geo:
-  lat: 32.4947
-  lng: 44.8579
-  place_name: 'Babylon, Mesopotamia'
+  lat: 33.0183
+  lng: 35.5692
+  place_name: 'Hazor, Upper Galilee'
+origin_geo_precision: region
 extinct_year: -300
 key_tenets:
   - >-

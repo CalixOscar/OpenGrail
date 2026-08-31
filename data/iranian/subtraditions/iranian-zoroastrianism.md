@@ -29,9 +29,10 @@ relations:
     certainty: academic_consensus
 origin_year: 650
 origin_geo:
-  lat: 32.8183
-  lng: 51.5532
-  place_name: 'Isfahan, Iran'
+  lat: 30.2625
+  lng: 57.0575
+  place_name: 'Kerman, Iran'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

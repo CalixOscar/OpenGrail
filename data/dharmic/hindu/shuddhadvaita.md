@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1450
 origin_geo:
-  lat: 24.4769
-  lng: 82.8358
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 27.45
+  lng: 77.72
+  place_name: 'Gokul, Uttar Pradesh, India'
 extinct_year: null
 key_tenets:
   - >-

@@ -23,9 +23,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 1550
 origin_geo:
-  lat: 31.6948
-  lng: 74.4182
-  place_name: 'Amritsar, Punjab, India'
+  lat: 28.9406
+  lng: 79.8122
+  place_name: 'Nanakmatta, Uttarakhand, India'
 extinct_year: null
 key_tenets:
   - >-

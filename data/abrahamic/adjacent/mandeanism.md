@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 150
 origin_geo:
-  lat: 32.5078
-  lng: 34.7167
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 31.9
+  lng: 47.0333
+  place_name: 'Maysan, southern Iraq'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

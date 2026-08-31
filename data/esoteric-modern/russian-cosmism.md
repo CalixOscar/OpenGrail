@@ -24,9 +24,10 @@ relations:
     certainty: minority_scholarly
 origin_year: 1850
 origin_geo:
-  lat: 52.1336
-  lng: 0.3536
-  place_name: 'London, England, UK'
+  lat: 55.7506
+  lng: 37.6175
+  place_name: 'Moscow, Russia'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

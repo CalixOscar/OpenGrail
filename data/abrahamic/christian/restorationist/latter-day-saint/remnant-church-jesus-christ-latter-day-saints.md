@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 2000
 origin_geo:
-  lat: 40.4177
-  lng: -111.9782
-  place_name: 'Salt Lake City (Temple Square), Utah, USA'
+  lat: 39.0925
+  lng: -94.4139
+  place_name: 'Independence, Missouri, USA'
 extinct_year: null
 key_tenets:
   - >-

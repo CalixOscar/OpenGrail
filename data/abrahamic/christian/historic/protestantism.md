@@ -22,9 +22,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1517
 origin_geo:
-  lat: 31.0869
-  lng: 35.8071
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 51.8671
+  lng: 12.6484
+  place_name: 'Wittenberg, Saxony-Anhalt, Germany'
 extinct_year: null
 key_tenets:
   - >-

@@ -23,9 +23,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1954
 origin_geo:
-  lat: 40.9293
-  lng: -111.6109
-  place_name: 'Salt Lake City (Temple Square), Utah, USA'
+  lat: 36.9903
+  lng: -112.9869
+  place_name: 'Colorado City, Arizona, USA'
 extinct_year: null
 key_tenets:
   - >-

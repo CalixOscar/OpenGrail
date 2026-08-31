@@ -23,9 +23,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1962
 origin_geo:
-  lat: 51.7357
-  lng: -0.5035
-  place_name: 'London, England, UK'
+  lat: 38.8553
+  lng: -91.9511
+  place_name: 'Fulton, Missouri, USA'
+origin_note: 'Founded April 7, 1962 at Westminster College in Fulton, Missouri by Tim Zell and Lance Christie.'
 extinct_year: null
 key_tenets:
   - >-
@@ -40,6 +41,7 @@ key_tenets:
     Core Orientation: An American Neo-Pagan church founded by Oberon Zell and
     collaborators, partly inspired by Stranger in a Strange Land.
 sources:
+  - title: 'Margot Adler, Drawing Down the Moon (1979)'
   - title: 'Encyclopaedia Britannica: "Church of All Worlds"'
     url: 'https://www.britannica.com/topic/church-of-all-worlds'
   - title: 'Oxford Reference: Overview of Church of All Worlds'

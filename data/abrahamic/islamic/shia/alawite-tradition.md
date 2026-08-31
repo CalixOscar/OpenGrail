@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 850
 origin_geo:
-  lat: 31.4687
-  lng: 35.1955
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 35.52
+  lng: 35.7781
+  place_name: 'Latakia, Syria'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

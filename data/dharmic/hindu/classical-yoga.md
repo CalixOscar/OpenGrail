@@ -20,9 +20,11 @@ relations:
     certainty: academic_consensus
 origin_year: 350
 origin_geo:
-  lat: 25.6458
-  lng: 82.568
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 25.45
+  lng: 81.85
+  place_name: 'Prayagraj, Uttar Pradesh, India'
+origin_geo_precision: region
+origin_note: 'Provenance of the Yoga Sutras is uncertain; coarse anchor only.'
 extinct_year: null
 key_tenets:
   - >-

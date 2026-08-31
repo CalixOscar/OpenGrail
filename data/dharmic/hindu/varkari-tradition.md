@@ -23,9 +23,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1250
 origin_geo:
-  lat: 24.5358
-  lng: 83.3407
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 17.67
+  lng: 75.33
+  place_name: 'Pandharpur, Maharashtra, India'
 extinct_year: null
 key_tenets:
   - >-

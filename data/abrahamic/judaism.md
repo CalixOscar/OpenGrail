@@ -22,9 +22,10 @@ relations:
       ch. 5
 origin_year: -1200
 origin_geo:
-  lat: 31.6944
-  lng: 34.2185
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 31.7778
+  lng: 35.2356
+  place_name: 'Temple Mount, Jerusalem'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

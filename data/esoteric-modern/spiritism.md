@@ -28,9 +28,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1857
 origin_geo:
-  lat: 52.1873
-  lng: 0.2164
-  place_name: 'London, England, UK'
+  lat: 48.8567
+  lng: 2.3522
+  place_name: 'Paris, France'
 extinct_year: null
 key_tenets:
   - >-

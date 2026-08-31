@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: -1200
 origin_geo:
-  lat: 31.5965
-  lng: 34.8012
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 32.0557
+  lng: 35.2895
+  place_name: 'Shiloh, Samaria'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

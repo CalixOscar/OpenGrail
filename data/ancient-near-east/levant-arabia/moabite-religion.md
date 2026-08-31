@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: -1000
 origin_geo:
-  lat: 32.4714
-  lng: 45.0156
-  place_name: 'Babylon, Mesopotamia'
+  lat: 31.5
+  lng: 35.7833
+  place_name: 'Dibon (Dhiban), Moab'
+origin_note: 'Findspot of the Mesha Stele.'
 extinct_year: -580
 key_tenets:
   - >-

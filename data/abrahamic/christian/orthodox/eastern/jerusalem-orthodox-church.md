@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 451
 origin_geo:
-  lat: 32.6066
-  lng: 35.3806
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 31.7784
+  lng: 35.2298
+  place_name: 'Church of the Holy Sepulchre, Jerusalem'
 extinct_year: null
 key_tenets:
   - >-

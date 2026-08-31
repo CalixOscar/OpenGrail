@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1850
 origin_geo:
-  lat: 32.6132
-  lng: 35.1038
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 51.8931
+  lng: 10.1783
+  place_name: 'Seesen, Lower Saxony, Germany'
 extinct_year: null
 key_tenets:
   - >-

@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1889
 origin_geo:
-  lat: 31.6614
-  lng: 35.4603
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 31.8192
+  lng: 75.3764
+  place_name: 'Qadian, Punjab, India'
 extinct_year: null
 key_tenets:
   - >-

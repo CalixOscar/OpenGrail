@@ -24,9 +24,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 1914
 origin_geo:
-  lat: 31.834
-  lng: 36.2112
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 14.58
+  lng: 121.012
+  place_name: 'Santa Ana, Manila, Philippines'
 extinct_year: null
 key_tenets:
   - >-

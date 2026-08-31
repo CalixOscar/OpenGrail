@@ -27,10 +27,8 @@ relations:
     type: influenced_by
     certainty: academic_consensus
 origin_year: 1150
-origin_geo:
-  lat: 35.6687
-  lng: 116.7098
-  place_name: 'Qufu, Shandong, China'
+origin_geo_precision: none
+origin_note: 'Explicitly a comparative umbrella.'
 extinct_year: null
 key_tenets:
   - >-

@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1868
 origin_geo:
-  lat: 35.0532
-  lng: 116.9058
-  place_name: 'Qufu, Shandong, China'
+  lat: 35.6825
+  lng: 139.7521
+  place_name: 'Tokyo Imperial Palace, Japan'
 extinct_year: null
 key_tenets:
   - >-

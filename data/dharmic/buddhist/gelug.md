@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1450
 origin_geo:
-  lat: 24.7657
-  lng: 83.2216
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 29.7585
+  lng: 91.4763
+  place_name: 'Ganden Monastery, Tibet'
 extinct_year: null
 key_tenets:
   - >-

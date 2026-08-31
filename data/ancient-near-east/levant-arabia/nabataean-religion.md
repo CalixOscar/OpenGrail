@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: -350
 origin_geo:
-  lat: 32.0609
-  lng: 44.1724
-  place_name: 'Babylon, Mesopotamia'
+  lat: 30.3289
+  lng: 35.4403
+  place_name: 'Petra, Jordan'
 extinct_year: -300
 key_tenets:
   - >-

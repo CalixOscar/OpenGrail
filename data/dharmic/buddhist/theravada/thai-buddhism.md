@@ -24,9 +24,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1250
 origin_geo:
-  lat: 8.0796
-  lng: 80.7453
-  place_name: 'Anuradhapura, North Central, Sri Lanka'
+  lat: 17.0167
+  lng: 99.7
+  place_name: 'Sukhothai, Thailand'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

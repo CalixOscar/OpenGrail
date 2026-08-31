@@ -23,9 +23,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1803
 origin_geo:
-  lat: 8.3861
-  lng: 80.3747
-  place_name: 'Anuradhapura, North Central, Sri Lanka'
+  lat: 6.2667
+  lng: 80.0333
+  place_name: 'Balapitiya, Sri Lanka'
 extinct_year: null
 key_tenets:
   - >-

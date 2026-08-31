@@ -19,9 +19,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1954
 origin_geo:
-  lat: 40.7161
-  lng: -111.9785
-  place_name: 'Salt Lake City (Temple Square), Utah, USA'
+  lat: 40.4733
+  lng: -111.9444
+  place_name: 'Bluffdale, Utah, USA'
 extinct_year: null
 key_tenets:
   - >-

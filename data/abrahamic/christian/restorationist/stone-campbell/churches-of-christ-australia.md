@@ -17,9 +17,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1840
 origin_geo:
-  lat: 31.6151
-  lng: 34.3859
-  place_name: 'Jerusalem, Southern Levant'
+  lat: -34.9275
+  lng: 138.6
+  place_name: 'Adelaide, South Australia'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -28,9 +28,10 @@ relations:
     certainty: academic_consensus
 origin_year: -550
 origin_geo:
-  lat: 24.5005
-  lng: 83.2312
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 25.03
+  lng: 85.42
+  place_name: 'Rajgir, Magadha, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

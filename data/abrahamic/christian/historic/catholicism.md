@@ -23,9 +23,9 @@ relations:
     certainty: academic_consensus
 origin_year: 50
 origin_geo:
-  lat: 31.7717
-  lng: 34.4991
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 41.9022
+  lng: 12.4534
+  place_name: "St Peter's Basilica, Vatican City"
 extinct_year: null
 key_tenets:
   - >-

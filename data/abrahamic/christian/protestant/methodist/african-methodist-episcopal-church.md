@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1816
 origin_geo:
-  lat: 51.7464
-  lng: -1.3866
-  place_name: 'Oxford, Oxfordshire, England, UK'
+  lat: 39.9433
+  lng: -75.1519
+  place_name: 'Mother Bethel AME Church, Philadelphia, USA'
 extinct_year: null
 key_tenets:
   - >-

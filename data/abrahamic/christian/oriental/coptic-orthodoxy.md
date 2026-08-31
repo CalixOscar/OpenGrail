@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 50
 origin_geo:
-  lat: 31.1874
-  lng: 35.7496
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 31.1983
+  lng: 29.8994
+  place_name: "St Mark's Coptic Orthodox Cathedral, Alexandria, Egypt"
 extinct_year: null
 key_tenets:
   - >-

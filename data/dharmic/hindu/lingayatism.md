@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1150
 origin_geo:
-  lat: 24.8308
-  lng: 82.3734
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 16.2036
+  lng: 76.06
+  place_name: 'Kudalasangama, Karnataka, India'
 extinct_year: null
 key_tenets:
   - >-

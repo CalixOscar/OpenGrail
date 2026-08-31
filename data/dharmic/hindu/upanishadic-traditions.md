@@ -21,9 +21,10 @@ relations:
     certainty: minority_scholarly
 origin_year: -700
 origin_geo:
-  lat: 25.9789
-  lng: 83.5679
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 26.7122
+  lng: 85.9217
+  place_name: 'Janakpur (Videha), Nepal'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

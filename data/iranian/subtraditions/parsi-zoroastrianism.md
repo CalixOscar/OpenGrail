@@ -26,9 +26,9 @@ relations:
     certainty: academic_consensus
 origin_year: 750
 origin_geo:
-  lat: 32.9534
-  lng: 51.5129
-  place_name: 'Isfahan, Iran'
+  lat: 20.4875
+  lng: 72.8706
+  place_name: 'Udvada, Gujarat, India'
 extinct_year: null
 key_tenets:
   - >-

@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1850
 origin_geo:
-  lat: 7.0746
-  lng: 4.5996
-  place_name: 'Ile-Ife, Osun, Nigeria'
+  lat: 10.6667
+  lng: -61.5167
+  place_name: 'Port of Spain, Trinidad and Tobago'
 extinct_year: null
 key_tenets:
   - >-

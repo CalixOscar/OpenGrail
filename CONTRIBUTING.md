@@ -15,6 +15,10 @@ Every tradition in OpenGrail is represented by a single Markdown file with YAML 
 4. Run `npm run build:graph` to validate your changes.
 5. Submit a Pull Request.
 
+### Geographic Provenance Policy
+
+A node gets a pin only where a real origin can be cited; regional traditions get `origin_geo_precision: region`; comparative umbrellas get `origin_geo_precision: none` and stay off the globe.
+
 ---
 
 <!-- BEGIN_FRONTMATTER_SCHEMA -->
@@ -29,7 +33,7 @@ Every tradition in OpenGrail is represented by a single Markdown file with YAML 
 | `display_weight` | `number` | Optional | Visual prominence multiplier (`0.75` to `3.0`, default `1.0`). Editorial visual hierarchy, not population. |
 | `era_start` | `string` | Yes | Approximate start date (e.g. `c. 500 BCE`, `16th century CE`). |
 | `origin_year` | `number` | Yes | Numeric year for timeline navigation and filtering (e.g. `-500`, `1517`). |
-| `origin_geo` | `{ lat, lng, place_name }` | Yes | Geographic coordinates and place name for the 3D globe view (`{ lat, lng, place_name }`). |
+| `origin_geo` | `{ lat, lng, place_name }` | Optional | Geographic coordinates and place name for the 3D globe view (`{ lat, lng, place_name }`). Required unless `origin_geo_precision: none`. |
 | `extinct_year` | `number | null` | Optional | Numeric year of extinction/dissolution, or `null` if the tradition is living/ongoing. |
 | `epistemic_tier` | `string` | Yes | Academic certainty level: `academic_consensus`, `minority_scholarly`, `theological_claim`, or `speculative_fringe`. |
 | `summary` | `string` | Yes | 1-2 sentence summary of the tradition. |

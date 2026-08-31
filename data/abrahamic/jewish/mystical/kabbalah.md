@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1150
 origin_geo:
-  lat: 32.5223
-  lng: 34.7483
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 41.9833
+  lng: 2.8167
+  place_name: 'Girona, Catalonia, Spain'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

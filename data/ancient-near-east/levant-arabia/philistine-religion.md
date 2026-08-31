@@ -24,9 +24,10 @@ relations:
     certainty: minority_scholarly
 origin_year: -1175
 origin_geo:
-  lat: 32.0034
-  lng: 44.2773
-  place_name: 'Babylon, Mesopotamia'
+  lat: 31.6619
+  lng: 34.5461
+  place_name: 'Ashkelon, Philistia'
+origin_geo_precision: region
 extinct_year: -600
 key_tenets:
   - >-

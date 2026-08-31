@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 600
 origin_geo:
-  lat: 31.81
-  lng: 36.194
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 33.35
+  lng: 43.7833
+  place_name: 'Pumbedita (Fallujah), Iraq'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1550
 origin_geo:
-  lat: 25.3051
-  lng: 83.0613
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 27.5728
+  lng: 77.6933
+  place_name: 'Vrindavan, Uttar Pradesh, India'
 extinct_year: null
 key_tenets:
   - >-

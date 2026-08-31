@@ -22,9 +22,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1500
 origin_geo:
-  lat: 31.282
-  lng: 74.7349
-  place_name: 'Amritsar, Punjab, India'
+  lat: 31.45
+  lng: 73.7067
+  place_name: 'Nankana Sahib, Punjab, Pakistan'
 extinct_year: null
 key_tenets:
   - >-

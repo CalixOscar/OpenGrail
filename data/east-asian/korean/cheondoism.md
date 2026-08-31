@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1860
 origin_geo:
-  lat: 37.5391
-  lng: 126.8832
-  place_name: 'Seoul (Hanyang), South Korea'
+  lat: 35.85
+  lng: 129.2167
+  place_name: 'Gyeongju, South Korea'
 extinct_year: null
 key_tenets:
   - >-

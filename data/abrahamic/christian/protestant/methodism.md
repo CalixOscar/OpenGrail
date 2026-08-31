@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1730
 origin_geo:
-  lat: 31.0977
-  lng: 34.6037
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 51.755
+  lng: -1.255
+  place_name: 'Oxford, England'
+origin_note: 'The Holy Club.'
 extinct_year: null
 key_tenets:
   - >-

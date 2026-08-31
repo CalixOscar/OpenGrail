@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 330
 origin_geo:
-  lat: 32.485
-  lng: 34.8116
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 41.0291
+  lng: 28.9519
+  place_name: "St George's Cathedral, Phanar, Istanbul"
 extinct_year: null
 key_tenets:
   - >-

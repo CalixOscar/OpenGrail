@@ -28,9 +28,11 @@ relations:
     citation: 'Michael A. Williams, Rethinking Gnosticism (1996)'
 origin_year: 100
 origin_geo:
-  lat: 32.5625
-  lng: 34.8542
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 26.05
+  lng: 32.25
+  place_name: 'Nag Hammadi, Egypt'
+origin_geo_precision: region
+origin_note: 'Findspot of the codices; the category itself is contested.'
 extinct_year: 450
 key_tenets:
   - >-

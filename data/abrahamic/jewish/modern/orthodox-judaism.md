@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1850
 origin_geo:
-  lat: 32.2597
-  lng: 34.3935
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 48.1517
+  lng: 17.1093
+  place_name: 'Pressburg (Bratislava), Slovakia'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

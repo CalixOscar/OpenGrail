@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 160
 origin_geo:
-  lat: 31.0797
-  lng: 34.6319
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 38.4081
+  lng: 29.4614
+  place_name: 'Pepuza, Phrygia'
 extinct_year: 550
 key_tenets:
   - >-

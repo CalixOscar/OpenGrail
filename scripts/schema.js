@@ -180,8 +180,8 @@ export const FRONTMATTER_FIELDS = [
   {
     name: "origin_geo",
     type: "{ lat, lng, place_name }",
-    required: true,
-    description: "Geographic coordinates and place name for the 3D globe view (`{ lat, lng, place_name }`).",
+    required: false,
+    description: "Geographic coordinates and place name for the 3D globe view (`{ lat, lng, place_name }`). Required unless `origin_geo_precision: none`.",
     exampleYaml: "origin_geo:\n  lat: 31.7683\n  lng: 35.2137\n  place_name: Jerusalem",
   },
   {
@@ -251,7 +251,7 @@ export const FRONTMATTER_FIELDS = [
     name: "origin_geo_precision",
     type: "string",
     required: false,
-    description: "Qualifier for geographic precision (e.g. `region`, `approximate`).",
+    description: "Qualifier for geographic precision (e.g. `region`, `approximate`, `none`). When set to `none`, `origin_geo` must be omitted.",
     exampleYaml: "# origin_geo_precision: region",
   },
   {
@@ -555,12 +555,23 @@ export function parseNodeRecord(data, content, filePath, projectRoot) {
   }
 
   const originYear = requiredInteger(data.origin_year, "origin_year", filePath, projectRoot);
-  const originGeo = requiredGeo(data.origin_geo, filePath, projectRoot);
   const extinctYear = optionalIntegerOrNull(data.extinct_year, "extinct_year", filePath, projectRoot);
 
   const originYearPrecision = optionalString(data.origin_year_precision, "origin_year_precision", filePath, projectRoot);
   const originGeoPrecision = optionalString(data.origin_geo_precision, "origin_geo_precision", filePath, projectRoot);
   const originNote = optionalString(data.origin_note, "origin_note", filePath, projectRoot);
+
+  let originGeo;
+  if (originGeoPrecision === "none") {
+    if (data.origin_geo !== undefined && data.origin_geo !== null) {
+      fail(filePath, 'frontmatter field "origin_geo" must be omitted when "origin_geo_precision" is "none"', projectRoot);
+    }
+  } else {
+    if (data.origin_geo === undefined || data.origin_geo === null) {
+      fail(filePath, 'frontmatter field "origin_geo" is required unless "origin_geo_precision" is "none"', projectRoot);
+    }
+    originGeo = requiredGeo(data.origin_geo, filePath, projectRoot);
+  }
 
   const keyTenets = optionalStringArray(data.key_tenets || data.keyTenets, "key_tenets", filePath, projectRoot);
   const sources = normalizeSources(data.sources, filePath, projectRoot);
@@ -591,8 +602,7 @@ export function parseNodeRecord(data, content, filePath, projectRoot) {
       artifacts,
       origin_year: originYear,
       originYear,
-      origin_geo: originGeo,
-      originGeo,
+      ...(originGeo ? { origin_geo: originGeo, originGeo } : {}),
       extinct_year: extinctYear,
       extinctYear,
       ...(originYearPrecision ? { origin_year_precision: originYearPrecision, originYearPrecision } : {}),

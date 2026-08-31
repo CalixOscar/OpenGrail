@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 750
 origin_geo:
-  lat: 32.5509
-  lng: 34.8201
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 35.0111
+  lng: 37.0531
+  place_name: 'Salamiyah, Syria'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

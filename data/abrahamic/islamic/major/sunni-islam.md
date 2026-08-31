@@ -19,9 +19,10 @@ relations:
     certainty: academic_consensus
 origin_year: 650
 origin_geo:
-  lat: 30.9652
-  lng: 34.8891
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 24.47
+  lng: 39.61
+  place_name: 'Medina, Hejaz'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

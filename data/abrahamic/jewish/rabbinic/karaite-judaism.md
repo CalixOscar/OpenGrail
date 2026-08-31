@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 750
 origin_geo:
-  lat: 32.4195
-  lng: 35.8609
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 33.3153
+  lng: 44.3661
+  place_name: 'Baghdad, Iraq'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

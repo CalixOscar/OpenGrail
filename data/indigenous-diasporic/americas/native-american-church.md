@@ -20,9 +20,9 @@ relations:
     citation: 'Omer C. Stewart, Peyote Religion (1987)'
 origin_year: 1850
 origin_geo:
-  lat: 43.6907
-  lng: -103.4934
-  place_name: 'Paha Sapa (Black Hills), SD/WY, USA'
+  lat: 35.0653
+  lng: -98.2442
+  place_name: 'Anadarko, Oklahoma, USA'
 extinct_year: null
 key_tenets:
   - >-

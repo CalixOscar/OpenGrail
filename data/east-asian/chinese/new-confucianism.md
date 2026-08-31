@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1950
 origin_geo:
-  lat: 35.4915
-  lng: 116.4545
-  place_name: 'Qufu, Shandong, China'
+  lat: 22.4211
+  lng: 114.2087
+  place_name: 'New Asia College, Hong Kong'
 extinct_year: null
 key_tenets:
   - >-

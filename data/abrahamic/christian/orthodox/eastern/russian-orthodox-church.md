@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 988
 origin_geo:
-  lat: 32.4753
-  lng: 35.773
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 55.7108
+  lng: 37.6306
+  place_name: 'Danilov Monastery, Moscow, Russia'
 extinct_year: null
 key_tenets:
   - >-

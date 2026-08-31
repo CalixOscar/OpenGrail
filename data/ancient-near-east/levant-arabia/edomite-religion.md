@@ -22,9 +22,9 @@ relations:
     certainty: academic_consensus
 origin_year: -900
 origin_geo:
-  lat: 32.6173
-  lng: 43.9665
-  place_name: 'Babylon, Mesopotamia'
+  lat: 30.7458
+  lng: 35.6039
+  place_name: 'Bozrah (Busayra), Edom'
 extinct_year: -580
 key_tenets:
   - >-

@@ -25,9 +25,9 @@ relations:
     certainty: academic_consensus
 origin_year: -3000
 origin_geo:
-  lat: 32.2494
-  lng: 44.767
-  place_name: 'Babylon, Mesopotamia'
+  lat: 30.8158
+  lng: 45.9961
+  place_name: 'Eridu, Sumer'
 extinct_year: -300
 key_tenets:
   - >-

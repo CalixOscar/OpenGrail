@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1850
 origin_geo:
-  lat: 32.6092
-  lng: 35.361
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 50.1106
+  lng: 8.6822
+  place_name: 'Frankfurt am Main, Germany'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

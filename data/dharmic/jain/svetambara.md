@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 50
 origin_geo:
-  lat: 25.5858
-  lng: 85.4989
-  place_name: 'Pataliputra (Patna), Bihar, India'
+  lat: 21.52
+  lng: 71.83
+  place_name: 'Palitana (Shatrunjaya), Gujarat, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -25,9 +25,9 @@ relations:
     certainty: academic_consensus
 origin_year: -1353
 origin_geo:
-  lat: 25.8538
-  lng: 32.4599
-  place_name: 'Thebes (Luxor), Ancient Egypt'
+  lat: 27.6453
+  lng: 30.8964
+  place_name: 'Amarna (Akhetaten), Egypt'
 extinct_year: -1336
 key_tenets:
   - >-

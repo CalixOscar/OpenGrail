@@ -17,9 +17,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1017
 origin_geo:
-  lat: 32.2277
-  lng: 35.9396
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 33.3972
+  lng: 35.6833
+  place_name: 'Hasbaya, Wadi al-Taym, Lebanon'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1907
 origin_geo:
-  lat: 51.6039
-  lng: 0.1358
-  place_name: 'London, England, UK'
+  lat: 40.0969
+  lng: -75.47
+  place_name: 'Valley Forge, Pennsylvania, USA'
 extinct_year: null
 key_tenets:
   - >-

@@ -25,9 +25,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1990
 origin_geo:
-  lat: 51.7496
-  lng: 0.8307
-  place_name: 'London, England, UK'
+  lat: 52.23
+  lng: 21.0111
+  place_name: 'Warsaw, Poland'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

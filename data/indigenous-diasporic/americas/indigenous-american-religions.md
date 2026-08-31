@@ -21,10 +21,8 @@ relations:
     type: branch_of
     certainty: minority_scholarly
 origin_year: 0
-origin_geo:
-  lat: 7.5373
-  lng: 4.891
-  place_name: 'Ile-Ife, Osun, Nigeria'
+origin_geo_precision: none
+origin_note: 'Comparative umbrella over hundreds of distinct traditions.'
 extinct_year: null
 key_tenets:
   - >-

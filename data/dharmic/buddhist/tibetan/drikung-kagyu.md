@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1179
 origin_geo:
-  lat: 29.6888
-  lng: 91.2542
-  place_name: 'Lhasa (Potala), U-Tsang, Tibet'
+  lat: 30.1065
+  lng: 92.2041
+  place_name: 'Drikung Thil Monastery, Tibet'
 extinct_year: null
 key_tenets:
   - >-

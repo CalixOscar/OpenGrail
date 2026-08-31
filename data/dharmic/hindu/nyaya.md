@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 150
 origin_geo:
-  lat: 25.0947
-  lng: 82.1337
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 26
+  lng: 86
+  place_name: 'Mithila (Darbhanga), Bihar, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

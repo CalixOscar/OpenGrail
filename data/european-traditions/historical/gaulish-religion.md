@@ -24,9 +24,10 @@ relations:
     certainty: academic_consensus
 origin_year: -600
 origin_geo:
-  lat: 59.5654
-  lng: 17.2637
-  place_name: 'Old Uppsala, Uppland, Sweden'
+  lat: 45.7706
+  lng: 4.8306
+  place_name: 'Sanctuary of the Three Gauls, Lugdunum (Lyon)'
+origin_geo_precision: region
 extinct_year: 450
 key_tenets:
   - >-

@@ -22,9 +22,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 550
 origin_geo:
-  lat: 34.6431
-  lng: 112.547
-  place_name: 'Luoyang, Henan, China'
+  lat: 34.5081
+  lng: 112.9354
+  place_name: 'Shaolin Monastery, Mount Song, Henan, China'
 extinct_year: null
 key_tenets:
   - >-

@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1920
 origin_geo:
-  lat: 25.5794
-  lng: 83.8704
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 34.1119
+  lng: -118.1981
+  place_name: 'Mount Washington, Los Angeles, California, USA'
 extinct_year: null
 key_tenets:
   - >-

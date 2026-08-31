@@ -28,9 +28,9 @@ relations:
     citation: 'Patricia Crone, The Nativist Prophets of Early Islamic Iran (2012)'
 origin_year: 610
 origin_geo:
-  lat: 32.5357
-  lng: 34.7802
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 21.4225
+  lng: 39.8233
+  place_name: 'Mecca, Hejaz'
 extinct_year: null
 key_tenets:
   - >-

@@ -24,9 +24,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1350
 origin_geo:
-  lat: 25.5144
-  lng: 83.8902
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 26.8
+  lng: 82.2
+  place_name: 'Ayodhya, Uttar Pradesh, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

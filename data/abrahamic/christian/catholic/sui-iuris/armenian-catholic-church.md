@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1742
 origin_geo:
-  lat: 41.8276
-  lng: 12.4597
-  place_name: 'Rome, Latium, Italy'
+  lat: 33.9872
+  lng: 35.6778
+  place_name: 'Bzoummar, Lebanon'
 extinct_year: null
 key_tenets:
   - >-

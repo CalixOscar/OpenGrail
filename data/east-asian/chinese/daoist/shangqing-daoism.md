@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 350
 origin_geo:
-  lat: 34.3397
-  lng: 112.5844
-  place_name: 'Luoyang, Henan, China'
+  lat: 31.946
+  lng: 119.164
+  place_name: 'Mount Mao (Jurong), Jiangsu, China'
 extinct_year: null
 key_tenets:
   - >-

@@ -26,9 +26,10 @@ relations:
     certainty: minority_scholarly
 origin_year: 1970
 origin_geo:
-  lat: 59.815
-  lng: 17.7723
-  place_name: 'Old Uppsala, Uppland, Sweden'
+  lat: 55.5661
+  lng: -2.1022
+  place_name: 'Yeavering, Northumberland, England'
+origin_geo_precision: region
 extinct_year: 750
 key_tenets:
   - >-

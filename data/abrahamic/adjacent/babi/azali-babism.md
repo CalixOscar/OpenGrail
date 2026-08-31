@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1860
 origin_geo:
-  lat: 31.3055
-  lng: 35.4912
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 35.1167
+  lng: 33.95
+  place_name: 'Famagusta, Cyprus'
+origin_note: "Subh-i Azal's place of exile."
 extinct_year: null
 key_tenets:
   - >-

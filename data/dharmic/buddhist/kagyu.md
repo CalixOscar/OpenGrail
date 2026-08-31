@@ -19,9 +19,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1050
 origin_geo:
-  lat: 25.4123
-  lng: 82.2035
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 29.7264
+  lng: 90.5756
+  place_name: 'Tsurphu Monastery, Tibet'
 extinct_year: null
 key_tenets:
   - >-

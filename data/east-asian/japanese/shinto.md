@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 0
 origin_geo:
-  lat: 35.3214
-  lng: 117.5268
-  place_name: 'Qufu, Shandong, China'
+  lat: 34.455
+  lng: 136.7258
+  place_name: 'Ise Jingu, Mie, Japan'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

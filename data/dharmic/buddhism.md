@@ -29,9 +29,9 @@ relations:
     citation: 'Johannes Bronkhorst, Greater Magadha (2007)'
 origin_year: -450
 origin_geo:
-  lat: 25.6289
-  lng: 82.6215
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 24.695
+  lng: 84.9925
+  place_name: 'Bodh Gaya, Bihar, India'
 extinct_year: null
 key_tenets:
   - >-

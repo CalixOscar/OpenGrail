@@ -22,9 +22,10 @@ relations:
       1.4 (1995)
 origin_year: -1500
 origin_geo:
-  lat: 25.9817
-  lng: 82.3837
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 29.97
+  lng: 76.85
+  place_name: 'Kurukshetra, Haryana, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

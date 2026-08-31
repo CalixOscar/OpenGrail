@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: -2400
 origin_geo:
-  lat: 25.9723
-  lng: 32.7921
-  place_name: 'Thebes (Luxor), Ancient Egypt'
+  lat: 26.185
+  lng: 31.9189
+  place_name: 'Abydos, Egypt'
 extinct_year: 535
 key_tenets:
   - >-

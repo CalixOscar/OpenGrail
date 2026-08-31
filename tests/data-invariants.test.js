@@ -186,6 +186,13 @@ test("Data Invariants Suite", async (t) => {
 
   await t.test("Every node has valid origin_geo coordinates and non-empty place_name", () => {
     for (const { node, filePath } of parsedRecords) {
+      if (node.originGeoPrecision === "none" || node.origin_geo_precision === "none") {
+        assert.ok(
+          !node.originGeo && !node.origin_geo,
+          `Node "${node.id}" has origin_geo but declares origin_geo_precision: none in ${path.relative(PROJECT_ROOT, filePath)}`,
+        );
+        continue;
+      }
       assert.ok(
         node.originGeo,
         `Node "${node.id}" missing origin_geo in ${path.relative(PROJECT_ROOT, filePath)}`,
@@ -206,7 +213,7 @@ test("Data Invariants Suite", async (t) => {
       );
       assert.ok(
         node.originGeo.lng >= -180 && node.originGeo.lng <= 180,
-        `Node "${node.originGeo.lng}" lng ${node.originGeo.lng} out of range [-180, 180]`,
+        `Node "${node.id}" lng ${node.originGeo.lng} out of range [-180, 180]`,
       );
       assert.ok(
         typeof node.originGeo.place_name === "string" && node.originGeo.place_name.trim().length > 0,

@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1150
 origin_geo:
-  lat: 35.4537
-  lng: 116.565
-  place_name: 'Qufu, Shandong, China'
+  lat: 30.05
+  lng: 121.15
+  place_name: 'Yuyao, Zhejiang, China'
 extinct_year: null
 key_tenets:
   - >-

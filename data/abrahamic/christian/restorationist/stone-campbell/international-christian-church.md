@@ -17,9 +17,9 @@ relations:
     certainty: academic_consensus
 origin_year: 2006
 origin_geo:
-  lat: 31.2503
-  lng: 36.002
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 34.05
+  lng: -118.25
+  place_name: 'Los Angeles, California, USA'
 extinct_year: null
 key_tenets:
   - >-

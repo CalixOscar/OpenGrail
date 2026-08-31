@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 550
 origin_geo:
-  lat: 26.0144
-  lng: 83.5155
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 29.1788
+  lng: 121.0422
+  place_name: 'Mount Tiantai, Zhejiang, China'
 extinct_year: null
 key_tenets:
   - >-

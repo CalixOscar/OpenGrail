@@ -25,9 +25,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1350
 origin_geo:
-  lat: 8.5762
-  lng: 80.2611
-  place_name: 'Anuradhapura, North Central, Sri Lanka'
+  lat: 19.89
+  lng: 102.1347
+  place_name: 'Luang Prabang, Laos'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

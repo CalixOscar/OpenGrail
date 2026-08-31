@@ -23,9 +23,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1979
 origin_geo:
-  lat: 51.1583
-  lng: 0.7885
-  place_name: 'London, England, UK'
+  lat: 37.775
+  lng: -122.4194
+  place_name: 'San Francisco, California, USA'
 extinct_year: null
 key_tenets:
   - >-

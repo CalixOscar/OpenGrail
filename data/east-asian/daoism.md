@@ -24,9 +24,10 @@ relations:
     citation: 'Christine Mollier, Buddhism and Taoism Face to Face (2008)'
 origin_year: -350
 origin_geo:
-  lat: 35.6376
-  lng: 116.62
-  place_name: 'Qufu, Shandong, China'
+  lat: 34.0463
+  lng: 108.2647
+  place_name: 'Louguantai, Zhouzhi, Shaanxi, China'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

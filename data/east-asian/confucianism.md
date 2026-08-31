@@ -21,9 +21,10 @@ relations:
     citation: 'John H. Berthrong, Transformations of the Confucian Way (1998)'
 origin_year: -450
 origin_geo:
-  lat: 35.3518
-  lng: 116.8429
-  place_name: 'Qufu, Shandong, China'
+  lat: 35.5967
+  lng: 116.984
+  place_name: 'Temple of Confucius, Qufu, Shandong'
+origin_note: 'Qufu, Shandong, China is the birthplace and ancestral seat of Confucius (Kong Fuzi).'
 extinct_year: null
 key_tenets:
   - >-

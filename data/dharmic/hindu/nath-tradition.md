@@ -24,9 +24,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 1050
 origin_geo:
-  lat: 24.5618
-  lng: 83.1175
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 26.7611
+  lng: 83.3667
+  place_name: 'Gorakhpur, Uttar Pradesh, India'
 extinct_year: null
 key_tenets:
   - >-

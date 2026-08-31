@@ -16,9 +16,11 @@ canonical_texts:
 relations: []
 origin_year: 550
 origin_geo:
-  lat: 59.4556
-  lng: 17.7869
-  place_name: 'Old Uppsala, Uppland, Sweden'
+  lat: 54.6764
+  lng: 13.4378
+  place_name: 'Arkona, Rugen'
+origin_geo_precision: region
+origin_note: 'Best-documented Slavic temple sanctuary; the traditions were far wider.'
 extinct_year: 1200
 key_tenets:
   - >-

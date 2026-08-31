@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: -150
 origin_geo:
-  lat: 30.9905
-  lng: 35.6137
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 31.7789
+  lng: 35.2256
+  place_name: 'Jerusalem'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1650
 origin_geo:
-  lat: 32.6115
-  lng: 35.3414
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 53.869
+  lng: -2.3
+  place_name: 'Pendle Hill, Lancashire, England'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -17,9 +17,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1979
 origin_geo:
-  lat: 32.2911
-  lng: 36.0065
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 42.3603
+  lng: -71.0578
+  place_name: 'Boston, Massachusetts, USA'
 extinct_year: null
 key_tenets:
   - >-

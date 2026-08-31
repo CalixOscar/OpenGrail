@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: -1000
 origin_geo:
-  lat: 32.3466
-  lng: 44.4306
-  place_name: 'Babylon, Mesopotamia'
+  lat: 31.9547
+  lng: 35.9343
+  place_name: 'Rabbath-Ammon (Amman Citadel), Jordan'
 extinct_year: -580
 key_tenets:
   - >-

@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: -550
 origin_geo:
-  lat: 25.8109
-  lng: 85.0353
-  place_name: 'Pataliputra (Patna), Bihar, India'
+  lat: 26.0137
+  lng: 85.109
+  place_name: 'Vaishali (Kundagrama), Bihar, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -22,9 +22,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1950
 origin_geo:
-  lat: 24.7193
-  lng: 82.6123
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 37.5739
+  lng: 126.9819
+  place_name: 'Jogyesa, Seoul, South Korea'
 extinct_year: null
 key_tenets:
   - >-

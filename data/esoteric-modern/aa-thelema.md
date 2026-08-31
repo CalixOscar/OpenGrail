@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1907
 origin_geo:
-  lat: 30.0958
-  lng: 31.1649
-  place_name: 'Cairo (Fustat), Egypt'
+  lat: 51.5072
+  lng: -0.1275
+  place_name: 'London, England'
 extinct_year: null
 key_tenets:
   - >-

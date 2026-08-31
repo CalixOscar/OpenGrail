@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1753
 origin_geo:
-  lat: 7.942
-  lng: 80.3681
-  place_name: 'Anuradhapura, North Central, Sri Lanka'
+  lat: 7.2931
+  lng: 80.635
+  place_name: 'Kandy, Sri Lanka'
 extinct_year: null
 key_tenets:
   - >-

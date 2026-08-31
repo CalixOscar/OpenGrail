@@ -22,9 +22,11 @@ relations:
     certainty: academic_consensus
 origin_year: -150
 origin_geo:
-  lat: 25.5443
-  lng: 83.8819
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 13.6086
+  lng: 79.5768
+  place_name: 'Gudimallam, Andhra Pradesh, India'
+origin_geo_precision: region
+origin_note: 'Earliest known lingam, c. 2nd-1st century BCE.'
 extinct_year: null
 key_tenets:
   - >-

@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1984
 origin_geo:
-  lat: 31.5661
-  lng: 34.2447
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 39.0925
+  lng: -94.4139
+  place_name: 'Independence, Missouri, USA'
 extinct_year: null
 key_tenets:
   - >-

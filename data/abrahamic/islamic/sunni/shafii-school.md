@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 850
 origin_geo:
-  lat: 32.5556
-  lng: 35.5939
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 30.012
+  lng: 31.2583
+  place_name: "Imam al-Shafi'i Mosque, Cairo, Egypt"
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

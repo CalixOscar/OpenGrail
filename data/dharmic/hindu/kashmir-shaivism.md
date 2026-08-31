@@ -25,9 +25,10 @@ relations:
     certainty: academic_consensus
 origin_year: 750
 origin_geo:
-  lat: 24.8909
-  lng: 82.3327
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 34.0911
+  lng: 74.8061
+  place_name: 'Srinagar, Kashmir'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

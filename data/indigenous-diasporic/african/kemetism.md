@@ -19,9 +19,11 @@ relations:
     citation: 'Melton J. Gordon, Encyclopedia of American Religions, 8th ed. (2009)'
 origin_year: 1970
 origin_geo:
-  lat: 51.4232
-  lng: 0.7385
-  place_name: 'London, England, UK'
+  lat: 34.1803
+  lng: -118.3283
+  place_name: 'Burbank, California, USA'
+origin_geo_precision: region
+origin_note: 'Southern California was the origin locale of early organized Kemetic reconstructionism (Church of the Eternal Source, 1970); modern Kemetism is multi-centered.'
 extinct_year: null
 key_tenets:
   - >-

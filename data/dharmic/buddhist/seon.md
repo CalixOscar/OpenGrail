@@ -22,9 +22,10 @@ relations:
     certainty: minority_scholarly
 origin_year: 750
 origin_geo:
-  lat: 25.544
-  lng: 83.8819
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 35.0022
+  lng: 127.2761
+  place_name: 'Songgwangsa, South Jeolla, South Korea'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

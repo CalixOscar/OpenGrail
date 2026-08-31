@@ -19,9 +19,10 @@ relations:
     certainty: academic_consensus
 origin_year: 451
 origin_geo:
-  lat: 32.0568
-  lng: 34.2703
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 30.4167
+  lng: 30.3333
+  place_name: 'Wadi El Natrun, Egypt'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

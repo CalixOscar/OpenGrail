@@ -23,9 +23,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1580
 origin_geo:
-  lat: 51.3261
-  lng: -0.7479
-  place_name: 'London, England, UK'
+  lat: 51.4655
+  lng: -0.2643
+  place_name: 'Mortlake, London, England'
+origin_note: "John Dee's house and library."
 extinct_year: null
 key_tenets:
   - >-

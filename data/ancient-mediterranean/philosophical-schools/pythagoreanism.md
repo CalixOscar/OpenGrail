@@ -25,9 +25,9 @@ relations:
     certainty: minority_scholarly
 origin_year: -530
 origin_geo:
-  lat: 37.5738
-  lng: 23.7236
-  place_name: 'Athens, Attica, Greece'
+  lat: 39.0833
+  lng: 17.1167
+  place_name: 'Croton (Crotone), Magna Graecia'
 extinct_year: 350
 key_tenets:
   - >-

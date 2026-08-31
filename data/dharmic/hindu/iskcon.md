@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1966
 origin_geo:
-  lat: 24.7191
-  lng: 82.6903
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 40.7261
+  lng: -73.9814
+  place_name: 'Tompkins Square Park, East Village, New York City, USA'
 extinct_year: null
 key_tenets:
   - >-

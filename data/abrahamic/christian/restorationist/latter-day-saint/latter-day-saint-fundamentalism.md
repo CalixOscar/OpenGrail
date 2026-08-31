@@ -28,9 +28,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1890
 origin_geo:
-  lat: 41.0571
-  lng: -111.829
-  place_name: 'Salt Lake City (Temple Square), Utah, USA'
+  lat: 37.0097
+  lng: -113.0042
+  place_name: 'Short Creek (Hildale), Utah, USA'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

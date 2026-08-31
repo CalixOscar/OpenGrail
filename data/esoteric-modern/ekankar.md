@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1965
 origin_geo:
-  lat: 51.8832
-  lng: -0.3934
-  place_name: 'London, England, UK'
+  lat: 32.715
+  lng: -117.1625
+  place_name: 'San Diego, California, USA'
 extinct_year: null
 key_tenets:
   - >-

@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1150
 origin_geo:
-  lat: 31.1386
-  lng: 35.2355
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 26.4573
+  lng: 74.6272
+  place_name: 'Ajmer Sharif Dargah, Rajasthan, India'
 extinct_year: null
 key_tenets:
   - >-

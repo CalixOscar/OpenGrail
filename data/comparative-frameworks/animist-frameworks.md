@@ -19,10 +19,8 @@ relations:
     type: parallel_concept
     certainty: academic_consensus
 origin_year: -100000
-origin_geo:
-  lat: 7.2239
-  lng: 4.6443
-  place_name: 'Ile-Ife, Osun, Nigeria'
+origin_geo_precision: none
+origin_note: 'Comparative category, not a tradition with a birthplace. Currently the highest-degree node on the globe and the single largest source of the false Ile-Ife convergence.'
 extinct_year: null
 key_tenets:
   - >-

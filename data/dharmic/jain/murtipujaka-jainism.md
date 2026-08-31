@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 0
 origin_geo:
-  lat: 25.8592
-  lng: 85.1974
-  place_name: 'Pataliputra (Patna), Bihar, India'
+  lat: 23.85
+  lng: 72.125
+  place_name: 'Patan, Gujarat, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

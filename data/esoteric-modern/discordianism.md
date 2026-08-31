@@ -23,9 +23,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1950
 origin_geo:
-  lat: 51.7119
-  lng: -0.6275
-  place_name: 'London, England, UK'
+  lat: 33.9656
+  lng: -118.0244
+  place_name: 'Whittier, California, USA'
 extinct_year: null
 key_tenets:
   - >-

@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 650
 origin_geo:
-  lat: 35.9778
-  lng: 116.6662
-  place_name: 'Qufu, Shandong, China'
+  lat: 35.0253
+  lng: 135.7622
+  place_name: 'Kyoto Imperial Palace, Japan'
 extinct_year: null
 key_tenets:
   - >-

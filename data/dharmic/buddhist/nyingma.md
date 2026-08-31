@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 750
 origin_geo:
-  lat: 25.8624
-  lng: 83.6269
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 29.3264
+  lng: 91.5042
+  place_name: 'Samye Monastery, Tibet'
 extinct_year: null
 key_tenets:
   - >-

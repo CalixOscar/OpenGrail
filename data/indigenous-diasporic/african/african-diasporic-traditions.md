@@ -24,10 +24,8 @@ relations:
     type: syncretized_with
     certainty: academic_consensus
 origin_year: 1550
-origin_geo:
-  lat: 7.4045
-  lng: 4.5807
-  place_name: 'Ile-Ife, Osun, Nigeria'
+origin_geo_precision: none
+origin_note: 'Analytical umbrella spanning the Atlantic world.'
 extinct_year: null
 key_tenets:
   - >-

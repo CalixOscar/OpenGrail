@@ -28,9 +28,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1850
 origin_geo:
-  lat: 32.256
-  lng: 35.538
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 28.364
+  lng: 79.415
+  place_name: 'Bareilly, Uttar Pradesh, India'
 extinct_year: null
 key_tenets:
   - >-

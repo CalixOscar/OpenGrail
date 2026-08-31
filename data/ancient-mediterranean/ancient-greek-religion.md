@@ -16,9 +16,11 @@ canonical_texts:
 relations: []
 origin_year: -1200
 origin_geo:
-  lat: 38.0238
-  lng: 23.6396
-  place_name: 'Athens, Attica, Greece'
+  lat: 38.4833
+  lng: 22.5
+  place_name: 'Delphi, Phocis, Greece'
+origin_geo_precision: region
+origin_note: 'Panhellenic anchor; the cults were spread across the Greek-speaking world.'
 extinct_year: 395
 key_tenets:
   - >-

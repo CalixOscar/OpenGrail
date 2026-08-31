@@ -25,9 +25,9 @@ relations:
       (2000)
 origin_year: 250
 origin_geo:
-  lat: 37.7793
-  lng: 24.1192
-  place_name: 'Athens, Attica, Greece'
+  lat: 31.1975
+  lng: 29.8925
+  place_name: 'Alexandria, Egypt'
 extinct_year: 529
 key_tenets:
   - >-

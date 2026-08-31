@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1847
 origin_geo:
-  lat: 52.0194
-  lng: 12.8336
-  place_name: 'Wittenberg, Saxony, Germany'
+  lat: 38.6272
+  lng: -90.1978
+  place_name: 'St Louis, Missouri, USA'
 extinct_year: null
 key_tenets:
   - >-

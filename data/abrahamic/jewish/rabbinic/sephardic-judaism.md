@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 950
 origin_geo:
-  lat: 31.0372
-  lng: 34.7077
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 37.89
+  lng: -4.78
+  place_name: 'Cordoba, Andalusia, Spain'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

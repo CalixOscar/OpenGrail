@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1917
 origin_geo:
-  lat: 34.3476
-  lng: -118.307
-  place_name: 'Azusa Street / Los Angeles, California, USA'
+  lat: 39.9067
+  lng: 116.3975
+  place_name: 'Beijing, China'
 extinct_year: null
 key_tenets:
   - >-

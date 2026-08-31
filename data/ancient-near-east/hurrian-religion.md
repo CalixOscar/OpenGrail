@@ -16,9 +16,10 @@ canonical_texts:
 relations: []
 origin_year: -2200
 origin_geo:
-  lat: 32.5678
-  lng: 43.875
-  place_name: 'Babylon, Mesopotamia'
+  lat: 37.0569
+  lng: 40.9972
+  place_name: 'Urkesh (Tell Mozan), Syria'
+origin_geo_precision: region
 extinct_year: -1000
 key_tenets:
   - >-

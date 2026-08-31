@@ -21,9 +21,10 @@ relations:
     certainty: minority_scholarly
 origin_year: 1960
 origin_geo:
-  lat: 51.9991
-  lng: -0.6398
-  place_name: 'London, England, UK'
+  lat: 37.775
+  lng: -122.4194
+  place_name: 'San Francisco, California, USA'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

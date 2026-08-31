@@ -23,9 +23,10 @@ relations:
     citation: 'David Frankfurter, Religion in Roman Egypt (1998)'
 origin_year: -323
 origin_geo:
-  lat: 37.7506
-  lng: 23.4889
-  place_name: 'Athens, Attica, Greece'
+  lat: 31.1819
+  lng: 29.8969
+  place_name: 'Serapeum, Alexandria, Egypt'
+origin_geo_precision: region
 extinct_year: 529
 key_tenets:
   - >-

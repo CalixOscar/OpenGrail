@@ -25,9 +25,10 @@ relations:
     certainty: academic_consensus
 origin_year: 550
 origin_geo:
-  lat: 25.749
-  lng: 83.4666
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 34.2611
+  lng: 108.9422
+  place_name: "Chang'an (Xi'an), Shaanxi, China"
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1250
 origin_geo:
-  lat: 25.8095
-  lng: 82.4325
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 29.3411
+  lng: 87.9983
+  place_name: 'Jonang Monastery, Tibet'
 extinct_year: null
 key_tenets:
   - >-

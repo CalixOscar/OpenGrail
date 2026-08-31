@@ -18,9 +18,11 @@ relations:
     certainty: academic_consensus
 origin_year: -350
 origin_geo:
-  lat: 25.1204
-  lng: 82.4107
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 25.9866
+  lng: 85.1256
+  place_name: 'Vaishali, Bihar, India'
+origin_geo_precision: region
+origin_note: 'Site of the Second Council and the first sanghabheda.'
 extinct_year: null
 key_tenets:
   - >-

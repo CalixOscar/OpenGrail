@@ -19,9 +19,10 @@ relations:
     citation: 'R. C. Zaehner, Zurvan: A Zoroastrian Dilemma (1955)'
 origin_year: -350
 origin_geo:
-  lat: 32.8359
-  lng: 52.1292
-  place_name: 'Isfahan, Iran'
+  lat: 33.0936
+  lng: 44.5806
+  place_name: 'Ctesiphon, Mesopotamia'
+origin_geo_precision: region
 extinct_year: 900
 key_tenets:
   - >-

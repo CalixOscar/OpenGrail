@@ -23,9 +23,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1970
 origin_geo:
-  lat: 51.3741
-  lng: -0.5049
-  place_name: 'London, England, UK'
+  lat: 53.878
+  lng: -1.854
+  place_name: 'East Morton, West Yorkshire, England'
+origin_note: 'Formulated in East Morton, West Yorkshire by Peter J. Carroll and Ray Sherwin at Morton Press (1978).'
 extinct_year: null
 key_tenets:
   - >-
@@ -40,6 +41,7 @@ key_tenets:
     Core Orientation: A postmodern occult current emphasizing pragmatic
     techniques, altered states, sigils, and flexible use of belief.
 sources:
+  - title: 'Dave Evans, The History of British Magick after Crowley (2007)'
   - title: 'Encyclopaedia Britannica: "Chaos Magic"'
     url: 'https://www.britannica.com/topic/chaos-magic'
   - title: 'Oxford Reference: Overview of Chaos Magic'

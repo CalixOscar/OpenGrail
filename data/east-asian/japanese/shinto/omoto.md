@@ -24,9 +24,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1892
 origin_geo:
-  lat: 30.0725
-  lng: 31.4528
-  place_name: 'Cairo (Fustat), Egypt'
+  lat: 35.2989
+  lng: 135.2588
+  place_name: 'Ayabe, Kyoto Prefecture, Japan'
+origin_note: 'Founded in Ayabe, Kyoto Prefecture, Japan by Deguchi Nao in 1892.'
 extinct_year: null
 key_tenets:
   - >-

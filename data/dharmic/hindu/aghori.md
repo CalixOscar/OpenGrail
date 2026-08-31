@@ -23,9 +23,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 1650
 origin_geo:
-  lat: 25.2217
-  lng: 82.7361
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 25.3189
+  lng: 83.0128
+  place_name: 'Baba Kinaram Ashram, Varanasi, India'
 extinct_year: null
 key_tenets:
   - >-

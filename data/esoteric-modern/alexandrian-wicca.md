@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1960
 origin_geo:
-  lat: 50.77
-  lng: -1.5544
-  place_name: 'New Forest, Hampshire, England, UK'
+  lat: 53.48
+  lng: -2.25
+  place_name: 'Manchester, England'
 extinct_year: null
 key_tenets:
   - >-

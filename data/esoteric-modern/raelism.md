@@ -20,9 +20,9 @@ relations:
     certainty: speculative_fringe
 origin_year: 1974
 origin_geo:
-  lat: 50.8471
-  lng: -0.0507
-  place_name: 'London, England, UK'
+  lat: 45.7797
+  lng: 3.0869
+  place_name: 'Clermont-Ferrand, Puy-de-Dome, France'
 extinct_year: null
 key_tenets:
   - >-

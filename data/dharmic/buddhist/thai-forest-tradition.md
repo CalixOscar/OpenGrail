@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1900
 origin_geo:
-  lat: 24.6965
-  lng: 83.6126
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 15.2294
+  lng: 104.8511
+  place_name: 'Ubon Ratchathani, Isan, Thailand'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

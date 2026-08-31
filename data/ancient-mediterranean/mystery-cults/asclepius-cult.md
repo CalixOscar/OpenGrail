@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: -550
 origin_geo:
-  lat: 38.0993
-  lng: 23.4721
-  place_name: 'Eleusis, Attica, Greece'
+  lat: 37.5978
+  lng: 23.0744
+  place_name: 'Epidaurus, Greece'
 extinct_year: 400
 key_tenets:
   - >-

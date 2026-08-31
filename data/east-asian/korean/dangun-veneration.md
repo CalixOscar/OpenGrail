@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 0
 origin_geo:
-  lat: 37.7547
-  lng: 127.1572
-  place_name: 'Seoul (Hanyang), South Korea'
+  lat: 37.71
+  lng: 126.44
+  place_name: 'Chamseongdan, Ganghwa Island, South Korea'
 extinct_year: null
 key_tenets:
   - >-

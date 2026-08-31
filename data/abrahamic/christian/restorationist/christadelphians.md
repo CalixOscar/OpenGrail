@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1848
 origin_geo:
-  lat: 51.2954
-  lng: 0.2116
-  place_name: 'London, England, UK'
+  lat: 37.5408
+  lng: -77.4367
+  place_name: 'Richmond, Virginia, USA'
 extinct_year: null
 key_tenets:
   - >-

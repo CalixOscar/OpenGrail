@@ -22,9 +22,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1934
 origin_geo:
-  lat: 31.3156
-  lng: 35.1116
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 44.0564
+  lng: -123.1175
+  place_name: 'Eugene, Oregon, USA'
 extinct_year: null
 key_tenets:
   - >-

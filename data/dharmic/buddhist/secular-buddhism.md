@@ -20,10 +20,8 @@ relations:
     type: influenced_by
     certainty: academic_consensus
 origin_year: 1950
-origin_geo:
-  lat: 25.1201
-  lng: 82.0608
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+origin_geo_precision: none
+origin_note: 'A modern approach, not a founded community with an origin.'
 extinct_year: null
 key_tenets:
   - >-

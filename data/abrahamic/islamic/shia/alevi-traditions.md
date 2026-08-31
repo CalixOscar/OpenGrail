@@ -24,9 +24,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1250
 origin_geo:
-  lat: 31.7031
-  lng: 34.8383
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 38.9406
+  lng: 34.5575
+  place_name: 'Hacibektas, Nevsehir, Turkey'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

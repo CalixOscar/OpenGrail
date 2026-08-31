@@ -25,9 +25,10 @@ relations:
     certainty: minority_scholarly
 origin_year: 1550
 origin_geo:
-  lat: 32.3681
-  lng: 51.3889
-  place_name: 'Isfahan, Iran'
+  lat: 36.3417
+  lng: 43.1292
+  place_name: 'Nineveh Plains (Mosul), Iraq'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

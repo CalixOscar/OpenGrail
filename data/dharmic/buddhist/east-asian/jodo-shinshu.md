@@ -25,9 +25,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1250
 origin_geo:
-  lat: 25.6508
-  lng: 83.6086
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 34.992
+  lng: 135.7516
+  place_name: 'Nishi Hongan-ji, Kyoto, Japan'
 extinct_year: null
 key_tenets:
   - >-

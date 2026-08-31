@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 0
 origin_geo:
-  lat: -19.4611
-  lng: 169.0568
-  place_name: 'Tanna Island (Mount Yasur), Vanuatu'
+  lat: 6.8419
+  lng: 158.3322
+  place_name: 'Nan Madol, Pohnpei, Micronesia'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

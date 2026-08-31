@@ -25,10 +25,8 @@ relations:
     certainty: speculative_fringe
     citation: 'Erich von Däniken, Chariots of the Gods? (1968)'
 origin_year: 1960
-origin_geo:
-  lat: 46.2744
-  lng: 6.1993
-  place_name: 'Geneva, Switzerland'
+origin_geo_precision: none
+origin_note: 'A modern claim-family, not a located community.'
 extinct_year: null
 key_tenets:
   - >-

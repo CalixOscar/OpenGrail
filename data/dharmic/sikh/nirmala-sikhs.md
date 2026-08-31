@@ -23,9 +23,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1750
 origin_geo:
-  lat: 31.4109
-  lng: 74.6372
-  place_name: 'Amritsar, Punjab, India'
+  lat: 29.945
+  lng: 78.163
+  place_name: 'Haridwar, Uttarakhand, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1094
 origin_geo:
-  lat: 32.6166
-  lng: 35.1494
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 36.4447
+  lng: 50.5861
+  place_name: 'Alamut Castle, Qazvin, Iran'
 extinct_year: null
 key_tenets:
   - >-

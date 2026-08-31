@@ -26,9 +26,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 750
 origin_geo:
-  lat: 32.5477
-  lng: 51.917
-  place_name: 'Isfahan, Iran'
+  lat: 38.8664
+  lng: 47.0406
+  place_name: 'Badhdh (Kaleybar), Iranian Azerbaijan'
 extinct_year: 950
 key_tenets:
   - >-

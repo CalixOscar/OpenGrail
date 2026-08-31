@@ -23,9 +23,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1150
 origin_geo:
-  lat: 25.9382
-  lng: 83.6198
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 35.001
+  lng: 135.7737
+  place_name: 'Kennin-ji, Kyoto, Japan'
 extinct_year: null
 key_tenets:
   - >-

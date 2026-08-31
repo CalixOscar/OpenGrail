@@ -27,10 +27,8 @@ relations:
     type: influenced_by
     certainty: minority_scholarly
 origin_year: 1950
-origin_geo:
-  lat: 50.9743
-  lng: -0.1628
-  place_name: 'London, England, UK'
+origin_geo_precision: none
+origin_note: 'Decentralised; no single origin.'
 extinct_year: null
 key_tenets:
   - >-

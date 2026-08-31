@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: -450
 origin_geo:
-  lat: 25.1884
-  lng: 82.7112
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 27.702
+  lng: 81.9348
+  place_name: 'Shravasti, Uttar Pradesh, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -26,9 +26,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 224
 origin_geo:
-  lat: 32.6543
-  lng: 51.253
-  place_name: 'Isfahan, Iran'
+  lat: 29.9808
+  lng: 52.9094
+  place_name: 'Istakhr, Fars, Iran'
 extinct_year: 651
 key_tenets:
   - >-

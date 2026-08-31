@@ -23,9 +23,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 1950
 origin_geo:
-  lat: 24.5847
-  lng: 82.5005
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 30.1
+  lng: 78.3
+  place_name: 'Rishikesh, Uttarakhand, India'
 extinct_year: null
 key_tenets:
   - >-

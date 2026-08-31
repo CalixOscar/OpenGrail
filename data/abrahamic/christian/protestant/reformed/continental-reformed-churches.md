@@ -23,9 +23,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1520
 origin_geo:
-  lat: 46.3422
-  lng: 6.3326
-  place_name: 'Geneva, Switzerland'
+  lat: 47.3744
+  lng: 8.5411
+  place_name: 'Zurich, Switzerland'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

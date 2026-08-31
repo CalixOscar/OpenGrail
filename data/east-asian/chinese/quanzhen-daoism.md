@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1150
 origin_geo:
-  lat: 36.0145
-  lng: 116.7035
-  place_name: 'Qufu, Shandong, China'
+  lat: 34.113
+  lng: 108.606
+  place_name: 'Chongyang Palace, Huyi, Shaanxi, China'
 extinct_year: null
 key_tenets:
   - >-

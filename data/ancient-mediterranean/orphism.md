@@ -20,9 +20,11 @@ relations:
     citation: 'Radcliffe G. Edmonds III, Redefining Ancient Orphism (2013)'
 origin_year: -550
 origin_geo:
-  lat: 38.3044
-  lng: 24.0129
-  place_name: 'Athens, Attica, Greece'
+  lat: 40.7167
+  lng: 22.9625
+  place_name: 'Derveni, Macedonia, Greece'
+origin_geo_precision: region
+origin_note: 'Findspot of the Derveni papyrus, the key Orphic document.'
 extinct_year: 400
 key_tenets:
   - >-

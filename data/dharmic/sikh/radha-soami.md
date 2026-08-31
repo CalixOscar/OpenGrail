@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1861
 origin_geo:
-  lat: 31.9585
-  lng: 74.9089
-  place_name: 'Amritsar, Punjab, India'
+  lat: 27.18
+  lng: 78.02
+  place_name: 'Agra, Uttar Pradesh, India'
 extinct_year: null
 key_tenets:
   - >-

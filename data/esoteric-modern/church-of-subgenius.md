@@ -23,9 +23,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1979
 origin_geo:
-  lat: 51.2605
-  lng: 0.2674
-  place_name: 'London, England, UK'
+  lat: 32.7792
+  lng: -96.8089
+  place_name: 'Dallas, Texas, USA'
 extinct_year: null
 key_tenets:
   - >-

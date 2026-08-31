@@ -25,9 +25,9 @@ relations:
     certainty: academic_consensus
 origin_year: -500
 origin_geo:
-  lat: 38.1105
-  lng: 23.7661
-  place_name: 'Eleusis, Attica, Greece'
+  lat: 39.3314
+  lng: 31.5833
+  place_name: 'Pessinus, Anatolia'
 extinct_year: 395
 key_tenets:
   - >-

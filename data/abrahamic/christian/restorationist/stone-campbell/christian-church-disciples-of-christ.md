@@ -22,9 +22,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1968
 origin_geo:
-  lat: 31.2144
-  lng: 35.5907
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 39.7686
+  lng: -86.1581
+  place_name: 'Indianapolis, Indiana, USA'
 extinct_year: null
 key_tenets:
   - >-

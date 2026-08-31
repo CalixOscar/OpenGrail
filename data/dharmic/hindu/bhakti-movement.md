@@ -24,9 +24,10 @@ relations:
     certainty: academic_consensus
 origin_year: 550
 origin_geo:
-  lat: 25.5128
-  lng: 82.5983
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 11.3994
+  lng: 79.6936
+  place_name: 'Chidambaram, Tamil Nadu, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

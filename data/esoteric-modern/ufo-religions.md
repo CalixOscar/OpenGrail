@@ -23,10 +23,8 @@ relations:
     type: parallel_concept
     certainty: academic_consensus
 origin_year: 1950
-origin_geo:
-  lat: 50.8025
-  lng: -0.4842
-  place_name: 'London, England, UK'
+origin_geo_precision: none
+origin_note: 'Analytical family.'
 extinct_year: null
 key_tenets:
   - >-

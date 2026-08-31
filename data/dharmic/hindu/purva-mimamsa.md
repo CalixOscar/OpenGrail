@@ -21,9 +21,11 @@ relations:
     certainty: academic_consensus
 origin_year: -150
 origin_geo:
-  lat: 24.5802
-  lng: 83.4026
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 25.3189
+  lng: 83.0128
+  place_name: 'Kashi (Varanasi), Uttar Pradesh, India'
+origin_geo_precision: region
+origin_note: 'Kashi was the principal Mimamsa centre; the school itself has no point of origin.'
 extinct_year: null
 key_tenets:
   - >-

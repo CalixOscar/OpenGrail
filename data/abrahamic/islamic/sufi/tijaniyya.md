@@ -20,9 +20,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1780
 origin_geo:
-  lat: 32.6091
-  lng: 35.0659
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 34.0433
+  lng: -5.0033
+  place_name: 'Fez, Morocco'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

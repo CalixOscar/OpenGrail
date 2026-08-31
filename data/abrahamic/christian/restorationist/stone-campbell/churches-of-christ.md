@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1906
 origin_geo:
-  lat: 31.0567
-  lng: 35.2392
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 36.1622
+  lng: -86.7744
+  place_name: 'Nashville, Tennessee, USA'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -26,9 +26,10 @@ relations:
     certainty: academic_consensus
 origin_year: -550
 origin_geo:
-  lat: 38.2044
-  lng: 23.3257
-  place_name: 'Eleusis, Attica, Greece'
+  lat: 38.3208
+  lng: 23.3178
+  place_name: 'Thebes, Boeotia, Greece'
+origin_geo_precision: region
 extinct_year: 395
 key_tenets:
   - >-

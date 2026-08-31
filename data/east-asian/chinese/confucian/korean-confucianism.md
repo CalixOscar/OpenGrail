@@ -25,9 +25,10 @@ relations:
     certainty: academic_consensus
 origin_year: 350
 origin_geo:
-  lat: 35.8925
-  lng: 117.2139
-  place_name: 'Qufu, Shandong, China'
+  lat: 37.5856
+  lng: 126.9958
+  place_name: 'Sungkyunkwan, Seoul, South Korea'
+origin_note: 'Sungkyunkwan in Seoul served as the royal academy and national Confucian shrine throughout the Joseon Dynasty.'
 extinct_year: null
 key_tenets:
   - >-

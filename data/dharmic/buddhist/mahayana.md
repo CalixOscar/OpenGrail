@@ -22,9 +22,11 @@ relations:
     certainty: academic_consensus
 origin_year: -50
 origin_geo:
-  lat: 24.6869
-  lng: 82.5109
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 16.573
+  lng: 80.358
+  place_name: 'Amaravati, Andhra Pradesh, India'
+origin_geo_precision: region
+origin_note: 'Early Mahayana emergence is contested between Andhra and the northwest.'
 extinct_year: null
 key_tenets:
   - >-

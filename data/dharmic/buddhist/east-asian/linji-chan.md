@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 850
 origin_geo:
-  lat: 24.7531
-  lng: 83.5007
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 38.1351
+  lng: 114.5672
+  place_name: 'Linji Temple, Zhengding, Hebei, China'
 extinct_year: null
 key_tenets:
   - >-

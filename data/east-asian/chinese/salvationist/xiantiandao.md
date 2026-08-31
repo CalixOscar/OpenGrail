@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1750
 origin_geo:
-  lat: 35.3377
-  lng: 117.6112
-  place_name: 'Qufu, Shandong, China'
+  lat: 27.3
+  lng: 116
+  place_name: 'Jiangxi, China'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

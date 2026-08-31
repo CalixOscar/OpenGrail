@@ -32,9 +32,10 @@ relations:
       Study of Religion (2016)
 origin_year: 240
 origin_geo:
-  lat: 32.6101
-  lng: 51.9848
-  place_name: 'Isfahan, Iran'
+  lat: 33.0936
+  lng: 44.5806
+  place_name: 'Ctesiphon, Mesopotamia'
+origin_geo_precision: region
 extinct_year: 1600
 key_tenets:
   - >-

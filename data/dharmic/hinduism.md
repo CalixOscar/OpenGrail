@@ -27,9 +27,11 @@ relations:
     citation: 'Johannes Bronkhorst, Greater Magadha (2007)'
 origin_year: -500
 origin_geo:
-  lat: 25.3672
-  lng: 83.644
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 25.3189
+  lng: 83.0128
+  place_name: 'Varanasi (Kashi), Gangetic plain, India'
+origin_geo_precision: region
+origin_note: 'Region-wide family; Varanasi is the conventional anchor, not a point of origin.'
 extinct_year: null
 key_tenets:
   - >-

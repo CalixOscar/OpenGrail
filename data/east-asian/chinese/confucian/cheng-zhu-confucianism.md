@@ -22,9 +22,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1050
 origin_geo:
-  lat: 35.5739
-  lng: 117.0801
-  place_name: 'Qufu, Shandong, China'
+  lat: 29.6717
+  lng: 115.9892
+  place_name: 'White Deer Grotto Academy, Mount Lu, Jiangxi, China'
 extinct_year: null
 key_tenets:
   - >-

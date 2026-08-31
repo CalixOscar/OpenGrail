@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 740
 origin_geo:
-  lat: 32.5535
-  lng: 35.5999
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 17.0667
+  lng: 43.9167
+  place_name: 'Saada, Yemen'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1989
 origin_geo:
-  lat: 32.0408
-  lng: 36.1635
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 35.65
+  lng: -97.4667
+  place_name: 'Edmond, Oklahoma, USA'
 extinct_year: null
 key_tenets:
   - >-

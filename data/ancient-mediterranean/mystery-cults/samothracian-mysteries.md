@@ -28,9 +28,9 @@ relations:
     certainty: academic_consensus
 origin_year: -650
 origin_geo:
-  lat: 37.9158
-  lng: 23.2373
-  place_name: 'Eleusis, Attica, Greece'
+  lat: 40.45
+  lng: 25.5875
+  place_name: 'Samothrace, Greece'
 extinct_year: 392
 key_tenets:
   - >-

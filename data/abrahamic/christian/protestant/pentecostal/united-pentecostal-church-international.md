@@ -19,9 +19,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1945
 origin_geo:
-  lat: 33.7712
-  lng: -118.4425
-  place_name: 'Azusa Street / Los Angeles, California, USA'
+  lat: 38.6272
+  lng: -90.1978
+  place_name: 'St Louis, Missouri, USA'
 extinct_year: null
 key_tenets:
   - >-

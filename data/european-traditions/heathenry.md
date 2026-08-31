@@ -20,9 +20,10 @@ relations:
     citation: 'Jennifer Snook, American Heathens (2015)'
 origin_year: 1970
 origin_geo:
-  lat: 59.9202
-  lng: 18.3689
-  place_name: 'Old Uppsala, Uppland, Sweden'
+  lat: 64.1458
+  lng: -21.9425
+  place_name: 'Reykjavik, Iceland'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

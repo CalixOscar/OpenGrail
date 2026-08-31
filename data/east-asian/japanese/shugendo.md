@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 650
 origin_geo:
-  lat: 36.1079
-  lng: 117.1717
-  place_name: 'Qufu, Shandong, China'
+  lat: 34.2528
+  lng: 135.9406
+  place_name: 'Mount Omine, Nara, Japan'
 extinct_year: null
 key_tenets:
   - >-

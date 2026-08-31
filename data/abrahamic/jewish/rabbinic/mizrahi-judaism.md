@@ -21,9 +21,11 @@ relations:
     certainty: academic_consensus
 origin_year: 0
 origin_geo:
-  lat: 31.6661
-  lng: 36.2051
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 33.3153
+  lng: 44.3661
+  place_name: 'Baghdad, Iraq'
+origin_geo_precision: region
+origin_note: 'A modern umbrella over many communities; Baghdad is the largest single anchor.'
 extinct_year: null
 key_tenets:
   - >-

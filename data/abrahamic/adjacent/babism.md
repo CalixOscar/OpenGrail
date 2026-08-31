@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1844
 origin_geo:
-  lat: 31.3401
-  lng: 35.5864
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 29.6103
+  lng: 52.5311
+  place_name: 'Shiraz, Fars, Iran'
 extinct_year: null
 key_tenets:
   - >-

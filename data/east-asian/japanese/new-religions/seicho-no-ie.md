@@ -6,9 +6,9 @@ color: '#4dbb80'
 era_start: 1930 CE
 origin_year: 1930
 origin_geo:
-  lat: 35.6895
-  lng: 139.6917
-  place_name: 'Tokyo, Japan'
+  lat: 34.69
+  lng: 135.1956
+  place_name: 'Kobe, Hyogo, Japan'
 extinct_year: null
 epistemic_tier: academic_consensus
 summary: 'A major Japanese new religious movement founded in 1930 by Taniguchi Masaharu, teaching the perfection and immortality of the true spiritual self (Jissō) while synthesizing Shinto, Buddhism, and mind-cure idealism.'

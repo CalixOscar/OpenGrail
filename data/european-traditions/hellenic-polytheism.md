@@ -20,9 +20,9 @@ relations:
     citation: 'Sarah Pike, New Age and Neopagan Religions in America (2004)'
 origin_year: 1950
 origin_geo:
-  lat: 51.9898
-  lng: -0.2816
-  place_name: 'London, England, UK'
+  lat: 37.9842
+  lng: 23.7281
+  place_name: 'Athens, Greece'
 extinct_year: null
 key_tenets:
   - >-

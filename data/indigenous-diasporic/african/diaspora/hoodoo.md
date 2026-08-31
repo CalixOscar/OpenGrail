@@ -24,9 +24,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1750
 origin_geo:
-  lat: -12.8311
-  lng: -38.3777
-  place_name: 'Salvador da Bahia, Brazil'
+  lat: 29.9761
+  lng: -90.0783
+  place_name: 'New Orleans, Louisiana, USA'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

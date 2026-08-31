@@ -17,9 +17,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1998
 origin_geo:
-  lat: 32.2439
-  lng: 36.0467
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 35.2272
+  lng: -80.8431
+  place_name: 'Charlotte, North Carolina, USA'
 extinct_year: null
 key_tenets:
   - >-

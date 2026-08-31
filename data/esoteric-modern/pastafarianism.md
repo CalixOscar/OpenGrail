@@ -25,9 +25,10 @@ relations:
     certainty: minority_scholarly
 origin_year: 2005
 origin_geo:
-  lat: 51.4601
-  lng: 0.8805
-  place_name: 'London, England, UK'
+  lat: 44.5697
+  lng: -123.2783
+  place_name: 'Corvallis, Oregon, USA'
+origin_note: 'Authored in Corvallis, Oregon by Bobby Henderson in an open letter to the Kansas State Board of Education (2005).'
 extinct_year: null
 key_tenets:
   - >-
@@ -42,6 +43,7 @@ key_tenets:
     Core Orientation: A parody religion centered on the Flying Spaghetti
     Monster, created to critique the teaching of intelligent design as science.
 sources:
+  - title: 'Bobby Henderson, The Gospel of the Flying Spaghetti Monster (2006)'
   - title: 'Encyclopaedia Britannica: "Pastafarianism"'
     url: 'https://www.britannica.com/topic/pastafarianism'
   - title: 'Oxford Reference: Overview of Pastafarianism'

@@ -27,9 +27,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1888
 origin_geo:
-  lat: 51.9336
-  lng: -0.5702
-  place_name: 'London, England, UK'
+  lat: 51.5156
+  lng: -0.1211
+  place_name: 'Great Queen Street, London, England'
 extinct_year: null
 key_tenets:
   - >-

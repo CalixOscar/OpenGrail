@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1250
 origin_geo:
-  lat: 31.7632
-  lng: 34.214
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 24.2007
+  lng: 34.6356
+  place_name: 'Humaithara, Egypt'
 extinct_year: null
 key_tenets:
   - >-

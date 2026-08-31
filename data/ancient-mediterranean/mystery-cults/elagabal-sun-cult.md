@@ -6,9 +6,9 @@ color: '#aa73e0'
 era_start: c. 200 CE
 origin_year: 200
 origin_geo:
-  lat: 41.8902
-  lng: 12.4922
-  place_name: 'Rome, Italy'
+  lat: 34.7308
+  lng: 36.7094
+  place_name: 'Emesa (Homs), Syria'
 extinct_year: 222
 epistemic_tier: academic_consensus
 summary: >-

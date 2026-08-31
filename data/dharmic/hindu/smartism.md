@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 750
 origin_geo:
-  lat: 24.5602
-  lng: 82.5497
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 13.4165
+  lng: 75.2519
+  place_name: 'Sringeri Sharada Peetham, Karnataka, India'
 extinct_year: null
 key_tenets:
   - >-

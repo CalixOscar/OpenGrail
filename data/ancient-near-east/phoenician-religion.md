@@ -19,9 +19,10 @@ relations:
     citation: 'Corinne Bonnet, Les enfants de Cadmos (2015)'
 origin_year: -1200
 origin_geo:
-  lat: 32.1947
-  lng: 43.8973
-  place_name: 'Babylon, Mesopotamia'
+  lat: 33.2667
+  lng: 35.2
+  place_name: 'Tyre, Lebanon'
+origin_geo_precision: region
 extinct_year: -300
 key_tenets:
   - >-

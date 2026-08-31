@@ -20,9 +20,11 @@ relations:
     certainty: academic_consensus
 origin_year: 350
 origin_geo:
-  lat: 25.4493
-  lng: 83.9039
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 23.1828
+  lng: 75.7772
+  place_name: 'Ujjain, Madhya Pradesh, India'
+origin_geo_precision: region
+origin_note: 'Provenance uncertain; coarse anchor only.'
 extinct_year: null
 key_tenets:
   - >-

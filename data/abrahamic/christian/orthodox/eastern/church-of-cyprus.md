@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 431
 origin_geo:
-  lat: 31.5945
-  lng: 34.4637
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 35.1725
+  lng: 33.365
+  place_name: 'Nicosia, Cyprus'
 extinct_year: null
 key_tenets:
   - >-

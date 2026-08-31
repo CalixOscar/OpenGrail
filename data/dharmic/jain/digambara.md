@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 50
 origin_geo:
-  lat: 25.7124
-  lng: 85.3026
-  place_name: 'Pataliputra (Patna), Bihar, India'
+  lat: 12.859
+  lng: 76.489
+  place_name: 'Shravanabelagola, Karnataka, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

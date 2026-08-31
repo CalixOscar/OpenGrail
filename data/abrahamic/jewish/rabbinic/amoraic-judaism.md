@@ -24,9 +24,11 @@ relations:
     certainty: academic_consensus
 origin_year: 220
 origin_geo:
-  lat: 32.0767
-  lng: 35.0198
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 32.7944
+  lng: 35.5333
+  place_name: 'Tiberias, Galilee'
+origin_geo_precision: region
+origin_note: 'Twin centres in Galilee and Babylonia.'
 extinct_year: null
 key_tenets:
   - >-

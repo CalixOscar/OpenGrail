@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 70
 origin_geo:
-  lat: 32.4418
-  lng: 35.8281
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 32.6962
+  lng: 35.1773
+  place_name: "Beit She'arim, Galilee"
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1350
 origin_geo:
-  lat: 31.3038
-  lng: 34.3806
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 39.7747
+  lng: 64.4286
+  place_name: 'Bukhara, Uzbekistan'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

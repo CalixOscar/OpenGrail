@@ -19,9 +19,9 @@ relations:
     citation: 'Patricia Crone, The Nativist Prophets of Early Islamic Iran (2012)'
 origin_year: 450
 origin_geo:
-  lat: 32.6443
-  lng: 52.0241
-  place_name: 'Isfahan, Iran'
+  lat: 33.0936
+  lng: 44.5806
+  place_name: 'Ctesiphon, Mesopotamia'
 extinct_year: 530
 key_tenets:
   - >-

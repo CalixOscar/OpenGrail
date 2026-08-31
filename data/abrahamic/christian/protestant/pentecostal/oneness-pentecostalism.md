@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1913
 origin_geo:
-  lat: 34.0992
-  lng: -118.3219
-  place_name: 'Azusa Street / Los Angeles, California, USA'
+  lat: 34.0789
+  lng: -118.2258
+  place_name: 'Arroyo Seco, Los Angeles, California, USA'
 extinct_year: null
 key_tenets:
   - >-

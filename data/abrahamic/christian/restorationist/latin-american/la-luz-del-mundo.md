@@ -19,9 +19,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1926
 origin_geo:
-  lat: 32.477
-  lng: 34.6574
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 20.6764
+  lng: -103.3422
+  place_name: 'Guadalajara, Jalisco, Mexico'
 extinct_year: null
 key_tenets:
   - >-

@@ -20,9 +20,11 @@ relations:
     certainty: academic_consensus
 origin_year: -150
 origin_geo:
-  lat: 26.1676
-  lng: 82.9807
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 26
+  lng: 86
+  place_name: 'Mithila (Darbhanga), Bihar, India'
+origin_geo_precision: region
+origin_note: 'Paired with Nyaya in the Mithila schools; provenance uncertain.'
 extinct_year: null
 key_tenets:
   - >-

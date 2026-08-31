@@ -23,9 +23,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1954
 origin_geo:
-  lat: 51.1418
-  lng: 0.9143
-  place_name: 'London, England, UK'
+  lat: 32.7983
+  lng: -116.96
+  place_name: 'El Cajon, California, USA'
 extinct_year: null
 key_tenets:
   - >-

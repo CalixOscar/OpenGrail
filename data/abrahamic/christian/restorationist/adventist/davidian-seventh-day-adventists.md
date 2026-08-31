@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1929
 origin_geo:
-  lat: 42.3155
-  lng: -85.0718
-  place_name: 'Battle Creek, Calhoun County, Michigan, USA'
+  lat: 31.5492
+  lng: -97.1472
+  place_name: 'Mount Carmel, Waco, Texas, USA'
 extinct_year: null
 key_tenets:
   - >-

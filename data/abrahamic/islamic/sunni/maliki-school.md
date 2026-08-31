@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 750
 origin_geo:
-  lat: 30.9857
-  lng: 34.8268
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 24.4683
+  lng: 39.6108
+  place_name: "Prophet's Mosque, Medina, Hejaz"
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

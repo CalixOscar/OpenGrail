@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1802
 origin_geo:
-  lat: 32.1385
-  lng: 34.6802
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 48.8147
+  lng: 28.9447
+  place_name: 'Bratslav, Ukraine'
 extinct_year: null
 key_tenets:
   - >-

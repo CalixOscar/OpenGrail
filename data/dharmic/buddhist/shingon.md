@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 850
 origin_geo:
-  lat: 26.1406
-  lng: 82.7371
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 34.2178
+  lng: 135.5833
+  place_name: 'Mount Koya, Wakayama, Japan'
 extinct_year: null
 key_tenets:
   - >-

@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 318
 origin_geo:
-  lat: 31.427
-  lng: 35.516
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 31.1975
+  lng: 29.8925
+  place_name: 'Alexandria, Egypt'
 extinct_year: null
 key_tenets:
   - >-

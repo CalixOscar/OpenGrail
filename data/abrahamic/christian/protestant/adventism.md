@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1830
 origin_geo:
-  lat: 31.5836
-  lng: 35.2658
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 43.5859
+  lng: -73.2984
+  place_name: 'Low Hampton, New York, USA'
+origin_note: "William Miller's farm; origin of the Millerite movement."
 extinct_year: null
 key_tenets:
   - >-

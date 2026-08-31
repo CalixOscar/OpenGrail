@@ -15,9 +15,10 @@ canonical_texts:
 relations: []
 origin_year: -1000
 origin_geo:
-  lat: -19.8153
-  lng: 169.2244
-  place_name: 'Tanna Island (Mount Yasur), Vanuatu'
+  lat: -16.8361
+  lng: -151.3592
+  place_name: 'Taputapuatea marae, Raiatea'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

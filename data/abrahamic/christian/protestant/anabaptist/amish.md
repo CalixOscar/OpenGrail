@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1693
 origin_geo:
-  lat: 47.3839
-  lng: 8.6594
-  place_name: 'Zurich, Switzerland'
+  lat: 48.25
+  lng: 7.18
+  place_name: 'Sainte-Marie-aux-Mines, Alsace, France'
 extinct_year: null
 key_tenets:
   - >-

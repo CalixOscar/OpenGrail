@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 850
 origin_geo:
-  lat: 26.1636
-  lng: 82.8824
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 35.0706
+  lng: 135.8411
+  place_name: 'Enryaku-ji, Mount Hiei, Japan'
 extinct_year: null
 key_tenets:
   - >-

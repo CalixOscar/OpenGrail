@@ -24,9 +24,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1250
 origin_geo:
-  lat: 29.785
-  lng: 31.3243
-  place_name: 'Cairo (Fustat), Egypt'
+  lat: 36.0566
+  lng: 136.3569
+  place_name: 'Eihei-ji, Fukui, Japan'
+origin_note: 'Founded by Dōgen at Eihei-ji in Echizen Province (modern Fukui Prefecture) in 1244.'
 extinct_year: null
 key_tenets:
   - >-

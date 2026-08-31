@@ -21,9 +21,10 @@ relations:
     certainty: minority_scholarly
 origin_year: -250
 origin_geo:
-  lat: 25.2264
-  lng: 83.5241
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 33.7458
+  lng: 72.7875
+  place_name: 'Taxila, Gandhara'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

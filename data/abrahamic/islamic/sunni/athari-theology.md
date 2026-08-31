@@ -25,9 +25,10 @@ relations:
     certainty: academic_consensus
 origin_year: 750
 origin_geo:
-  lat: 31.4257
-  lng: 34.7773
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 33.5131
+  lng: 36.2919
+  place_name: 'Damascus, Syria'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

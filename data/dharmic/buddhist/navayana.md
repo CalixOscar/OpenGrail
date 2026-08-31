@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1956
 origin_geo:
-  lat: 24.8804
-  lng: 82.2676
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 21.1281
+  lng: 79.0669
+  place_name: 'Deekshabhoomi, Nagpur, Maharashtra, India'
 extinct_year: null
 key_tenets:
   - >-

@@ -25,9 +25,11 @@ relations:
     certainty: academic_consensus
 origin_year: -27
 origin_geo:
-  lat: 38.0867
-  lng: 23.1999
-  place_name: 'Athens, Attica, Greece'
+  lat: 39.1167
+  lng: 27.1833
+  place_name: 'Pergamon, Asia Minor'
+origin_geo_precision: region
+origin_note: 'Site of the first provincial temple to Roma and Augustus (29 BCE).'
 extinct_year: 395
 key_tenets:
   - >-

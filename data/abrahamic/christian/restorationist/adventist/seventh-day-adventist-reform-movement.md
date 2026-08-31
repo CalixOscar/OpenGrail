@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1914
 origin_geo:
-  lat: 42.3499
-  lng: -84.8633
-  place_name: 'Battle Creek, Calhoun County, Michigan, USA'
+  lat: 50.9492
+  lng: 10.705
+  place_name: 'Gotha, Germany'
 extinct_year: null
 key_tenets:
   - >-

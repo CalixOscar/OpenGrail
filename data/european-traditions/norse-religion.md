@@ -22,9 +22,10 @@ canonical_texts:
 relations: []
 origin_year: 500
 origin_geo:
-  lat: 59.4735
-  lng: 17.7734
-  place_name: 'Old Uppsala, Uppland, Sweden'
+  lat: 59.8944
+  lng: 17.6389
+  place_name: 'Gamla Uppsala, Uppland, Sweden'
+origin_geo_precision: region
 extinct_year: 1100
 key_tenets:
   - >-

@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1993
 origin_geo:
-  lat: 32.557
-  lng: 35.3815
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 15.3333
+  lng: 38.9167
+  place_name: 'Asmara, Eritrea'
 extinct_year: null
 key_tenets:
   - >-

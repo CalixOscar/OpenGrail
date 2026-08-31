@@ -17,9 +17,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1450
 origin_geo:
-  lat: 25.646
-  lng: 84.8098
-  place_name: 'Pataliputra (Patna), Bihar, India'
+  lat: 23.0225
+  lng: 72.5714
+  place_name: 'Ahmedabad, Gujarat, India'
 extinct_year: null
 key_tenets:
   - >-

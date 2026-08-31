@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 870
 origin_geo:
-  lat: 31.3946
-  lng: 35.7576
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 42.6979
+  lng: 23.3217
+  place_name: 'Sofia, Bulgaria'
 extinct_year: null
 key_tenets:
   - >-

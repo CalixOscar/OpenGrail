@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1550
 origin_geo:
-  lat: 41.6161
-  lng: 12.0716
-  place_name: 'Rome, Latium, Italy'
+  lat: 9.9312
+  lng: 76.2673
+  place_name: 'Kochi (Ernakulam), Kerala, India'
 extinct_year: null
 key_tenets:
   - >-

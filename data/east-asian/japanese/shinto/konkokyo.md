@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1859
 origin_geo:
-  lat: 34.3557
-  lng: 136.5294
-  place_name: 'Ise Grand Shrine, Mie, Japan'
+  lat: 34.5247
+  lng: 133.5875
+  place_name: 'Konko (Asakuchi), Okayama, Japan'
 extinct_year: null
 key_tenets:
   - >-

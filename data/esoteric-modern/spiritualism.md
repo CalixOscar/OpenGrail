@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1848
 origin_geo:
-  lat: 52.0779
-  lng: 0.5906
-  place_name: 'London, England, UK'
+  lat: 43.0467
+  lng: -77.0953
+  place_name: 'Hydesville (Newark), Wayne County, New York, USA'
+origin_note: 'Hydesville is an unincorporated hamlet with no gazetteer entry; adjacent Newark is the citable anchor.'
 extinct_year: null
 key_tenets:
   - >-

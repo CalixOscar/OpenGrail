@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 950
 origin_geo:
-  lat: 24.6068
-  lng: 82.9296
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 22.5203
+  lng: 88.3421
+  place_name: 'Kalighat Kali Temple, Kolkata, India'
 extinct_year: null
 key_tenets:
   - >-

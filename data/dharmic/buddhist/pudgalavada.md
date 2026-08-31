@@ -21,9 +21,11 @@ relations:
     certainty: academic_consensus
 origin_year: -250
 origin_geo:
-  lat: 26.0578
-  lng: 82.5657
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 25.5307
+  lng: 81.3773
+  place_name: 'Kaushambi (Vatsa), Uttar Pradesh, India'
+origin_geo_precision: region
+origin_note: 'Association with Vatsa is inferred from the Vatsiputriya name.'
 extinct_year: null
 key_tenets:
   - >-

@@ -16,9 +16,11 @@ canonical_texts:
 relations: []
 origin_year: -3100
 origin_geo:
-  lat: 32.4688
-  lng: 44.7313
-  place_name: 'Babylon, Mesopotamia'
+  lat: 29.8538
+  lng: 31.2538
+  place_name: 'Memphis (Mit Rahina), Egypt'
+origin_geo_precision: region
+origin_note: 'Pharaonic state cult had no single seat; Memphis is the conventional anchor for the unified kingdom.'
 extinct_year: 535
 key_tenets:
   - >-

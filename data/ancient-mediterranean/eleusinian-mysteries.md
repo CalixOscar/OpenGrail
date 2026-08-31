@@ -21,9 +21,9 @@ relations:
       (1992)
 origin_year: -750
 origin_geo:
-  lat: 38.2114
-  lng: 23.805
-  place_name: 'Athens, Attica, Greece'
+  lat: 38.0441
+  lng: 23.5415
+  place_name: 'Eleusis (Elefsina), Attica, Greece'
 extinct_year: 392
 key_tenets:
   - >-

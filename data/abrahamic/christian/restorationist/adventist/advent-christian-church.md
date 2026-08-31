@@ -17,9 +17,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1860
 origin_geo:
-  lat: 31.7079
-  lng: 35.2754
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 42.5194
+  lng: -70.8972
+  place_name: 'Salem, Massachusetts, USA'
 extinct_year: null
 key_tenets:
   - >-

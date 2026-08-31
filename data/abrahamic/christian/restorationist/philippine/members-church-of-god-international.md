@@ -23,9 +23,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 1977
 origin_geo:
-  lat: 30.9692
-  lng: 34.8757
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 14.9496
+  lng: 120.7587
+  place_name: 'Apalit, Pampanga, Philippines'
 extinct_year: null
 key_tenets:
   - >-

@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1930
 origin_geo:
-  lat: 41.6968
-  lng: 11.9684
-  place_name: 'Rome, Latium, Italy'
+  lat: 8.5241
+  lng: 76.9366
+  place_name: 'Thiruvananthapuram, Kerala, India'
 extinct_year: null
 key_tenets:
   - >-

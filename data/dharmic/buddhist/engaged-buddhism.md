@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1950
 origin_geo:
-  lat: 25.058
-  lng: 82.4268
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 16.4561
+  lng: 107.5764
+  place_name: 'Hue, Vietnam'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

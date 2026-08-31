@@ -17,9 +17,11 @@ relations:
     certainty: academic_consensus
 origin_year: 1850
 origin_geo:
-  lat: 35.1698
-  lng: 117.3193
-  place_name: 'Qufu, Shandong, China'
+  lat: 35.6738
+  lng: 139.7513
+  place_name: 'Kasumigaseki, Tokyo, Japan'
+origin_geo_precision: region
+origin_note: 'An administrative category created by the Meiji state.'
 extinct_year: null
 key_tenets:
   - >-

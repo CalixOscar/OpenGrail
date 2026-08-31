@@ -20,10 +20,8 @@ relations:
     type: influenced_by
     certainty: academic_consensus
 origin_year: 1850
-origin_geo:
-  lat: 52.0438
-  lng: 0.2944
-  place_name: 'London, England, UK'
+origin_geo_precision: none
+origin_note: 'A diverse family of modern religions with no single origin.'
 extinct_year: null
 key_tenets:
   - >-

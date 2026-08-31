@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 750
 origin_geo:
-  lat: 26.0964
-  lng: 82.8702
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 27.715
+  lng: 85.29
+  place_name: 'Swayambhunath, Kathmandu Valley, Nepal'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1930
 origin_geo:
-  lat: 8.1557
-  lng: 80.1144
-  place_name: 'Anuradhapura, North Central, Sri Lanka'
+  lat: 16.795
+  lng: 96.16
+  place_name: 'Mahasi Sasana Yeiktha, Yangon, Myanmar'
 extinct_year: null
 key_tenets:
   - >-

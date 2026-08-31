@@ -18,9 +18,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 1950
 origin_geo:
-  lat: 34.1014
-  lng: -118.565
-  place_name: 'Azusa Street / Los Angeles, California, USA'
+  lat: 39.94
+  lng: -75.105
+  place_name: 'Camden, New Jersey, USA'
 extinct_year: null
 key_tenets:
   - >-

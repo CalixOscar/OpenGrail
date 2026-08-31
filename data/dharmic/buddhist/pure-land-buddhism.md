@@ -19,9 +19,9 @@ relations:
     certainty: academic_consensus
 origin_year: 150
 origin_geo:
-  lat: 34.3867
-  lng: 112.6205
-  place_name: 'Luoyang, Henan, China'
+  lat: 29.5594
+  lng: 115.9934
+  place_name: 'Donglin Temple, Mount Lu, Jiangxi, China'
 extinct_year: null
 key_tenets:
   - >-

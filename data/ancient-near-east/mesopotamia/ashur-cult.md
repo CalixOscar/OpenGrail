@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: -2000
 origin_geo:
-  lat: 32.7251
-  lng: 44.1435
-  place_name: 'Babylon, Mesopotamia'
+  lat: 35.4567
+  lng: 43.2625
+  place_name: 'Assur, Assyria'
 extinct_year: -609
 key_tenets:
   - >-

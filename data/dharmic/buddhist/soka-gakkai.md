@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1930
 origin_geo:
-  lat: 24.7542
-  lng: 82.273
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 35.6823
+  lng: 139.7193
+  place_name: 'Shinanomachi, Shinjuku, Tokyo, Japan'
 extinct_year: null
 key_tenets:
   - >-

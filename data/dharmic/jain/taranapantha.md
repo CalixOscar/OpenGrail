@@ -20,9 +20,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1450
 origin_geo:
-  lat: 25.5039
-  lng: 85.5117
-  place_name: 'Pataliputra (Patna), Bihar, India'
+  lat: 23.83
+  lng: 78.71
+  place_name: 'Sagar, Madhya Pradesh, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

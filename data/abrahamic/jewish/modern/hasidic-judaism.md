@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1740
 origin_geo:
-  lat: 31.3252
-  lng: 34.3645
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 49.436
+  lng: 27.395
+  place_name: 'Medzhybizh, Ukraine'
 extinct_year: null
 key_tenets:
   - >-

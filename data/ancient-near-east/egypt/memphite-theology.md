@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: -500
 origin_geo:
-  lat: 25.4513
-  lng: 32.5819
-  place_name: 'Thebes (Luxor), Ancient Egypt'
+  lat: 29.8494
+  lng: 31.255
+  place_name: 'Memphis, Egypt'
 extinct_year: 390
 key_tenets:
   - >-

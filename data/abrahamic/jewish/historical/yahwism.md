@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: -1000
 origin_geo:
-  lat: 32.3592
-  lng: 34.4903
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 31.2808
+  lng: 35.125
+  place_name: 'Tel Arad, Israel'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 950
 origin_geo:
-  lat: 32.1105
-  lng: 35.6304
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 49.6303
+  lng: 8.3621
+  place_name: 'Worms, Rhineland, Germany'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

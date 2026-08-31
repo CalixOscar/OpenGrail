@@ -18,9 +18,11 @@ relations:
     certainty: academic_consensus
 origin_year: 1730
 origin_geo:
-  lat: 32.5609
-  lng: 34.9377
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 42.3333
+  lng: -72.65
+  place_name: 'Northampton, Massachusetts, USA'
+origin_geo_precision: region
+origin_note: 'Transatlantic revival; the Northampton awakening is one anchor of several.'
 extinct_year: null
 key_tenets:
   - >-

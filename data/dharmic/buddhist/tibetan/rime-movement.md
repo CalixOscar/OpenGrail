@@ -30,9 +30,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1850
 origin_geo:
-  lat: 29.8754
-  lng: 90.9953
-  place_name: 'Lhasa (Potala), U-Tsang, Tibet'
+  lat: 31.8061
+  lng: 98.5809
+  place_name: 'Derge, Kham, Tibet'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

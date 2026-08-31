@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1789
 origin_geo:
-  lat: 51.2638
-  lng: 1.4544
-  place_name: 'Canterbury, Kent, England, UK'
+  lat: 39.9528
+  lng: -75.1636
+  place_name: 'Philadelphia, Pennsylvania, USA'
 extinct_year: null
 key_tenets:
   - >-

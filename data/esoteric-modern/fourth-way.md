@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1950
 origin_geo:
-  lat: 51.2239
-  lng: -0.6752
-  place_name: 'London, England, UK'
+  lat: 48.4097
+  lng: 2.7161
+  place_name: 'Avon (Fontainebleau), Seine-et-Marne, France'
+origin_note: "Gurdjieff's Institute for the Harmonious Development of Man."
 extinct_year: null
 key_tenets:
   - >-

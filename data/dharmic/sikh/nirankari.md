@@ -17,9 +17,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1851
 origin_geo:
-  lat: 31.7242
-  lng: 74.5725
-  place_name: 'Amritsar, Punjab, India'
+  lat: 33.6
+  lng: 73.0333
+  place_name: 'Rawalpindi, Punjab, Pakistan'
 extinct_year: null
 key_tenets:
   - >-

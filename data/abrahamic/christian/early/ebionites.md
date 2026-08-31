@@ -23,9 +23,10 @@ relations:
     certainty: academic_consensus
 origin_year: 50
 origin_geo:
-  lat: 32.5514
-  lng: 35.2654
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 32.45
+  lng: 35.6167
+  place_name: 'Pella, Decapolis, Jordan'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

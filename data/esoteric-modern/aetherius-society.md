@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1955
 origin_geo:
-  lat: 51.5793
-  lng: -0.0714
-  place_name: 'London, England, UK'
+  lat: 51.4767
+  lng: -0.2138
+  place_name: 'Fulham, London, England'
 extinct_year: null
 key_tenets:
   - >-

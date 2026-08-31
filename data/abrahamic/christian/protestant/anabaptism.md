@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1525
 origin_geo:
-  lat: 31.9734
-  lng: 35.5782
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 47.3744
+  lng: 8.5411
+  place_name: 'Zurich, Switzerland'
 extinct_year: null
 key_tenets:
   - >-

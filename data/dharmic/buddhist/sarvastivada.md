@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: -250
 origin_geo:
-  lat: 25.923
-  lng: 83.6373
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 27.4924
+  lng: 77.6737
+  place_name: 'Mathura, Uttar Pradesh, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

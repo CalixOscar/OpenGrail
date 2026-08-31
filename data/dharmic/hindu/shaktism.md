@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 450
 origin_geo:
-  lat: 26.1457
-  lng: 83.1873
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 26.1664
+  lng: 91.7055
+  place_name: 'Kamakhya Temple, Assam, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -15,9 +15,11 @@ canonical_texts:
 relations: []
 origin_year: -800
 origin_geo:
-  lat: 59.8176
-  lng: 17.1775
-  place_name: 'Old Uppsala, Uppland, Sweden'
+  lat: 47.0052
+  lng: 7.0218
+  place_name: 'La Tene, Lake Neuchatel, Switzerland'
+origin_geo_precision: region
+origin_note: 'Type-site of the Celtic Iron Age; the religions themselves were Europe-wide.'
 extinct_year: 600
 key_tenets:
   - >-

@@ -22,9 +22,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1520
 origin_geo:
-  lat: 47.4872
-  lng: 8.3128
-  place_name: 'Zurich, Switzerland'
+  lat: 53.1019
+  lng: 5.4672
+  place_name: 'Witmarsum, Friesland, Netherlands'
 extinct_year: null
 key_tenets:
   - >-

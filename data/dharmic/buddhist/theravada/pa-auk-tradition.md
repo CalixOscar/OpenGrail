@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1980
 origin_geo:
-  lat: 7.9831
-  lng: 80.5247
-  place_name: 'Anuradhapura, North Central, Sri Lanka'
+  lat: 16.4847
+  lng: 97.6258
+  place_name: 'Pa-Auk Forest Monastery, Mawlamyine, Myanmar'
 extinct_year: null
 key_tenets:
   - >-

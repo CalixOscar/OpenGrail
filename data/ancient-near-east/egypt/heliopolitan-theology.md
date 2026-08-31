@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: -2400
 origin_geo:
-  lat: 25.4942
-  lng: 32.6825
-  place_name: 'Thebes (Luxor), Ancient Egypt'
+  lat: 30.1293
+  lng: 31.3075
+  place_name: 'Heliopolis, Egypt'
 extinct_year: 390
 key_tenets:
   - >-

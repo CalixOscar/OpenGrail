@@ -23,9 +23,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1960
 origin_geo:
-  lat: 50.9359
-  lng: 0.3689
-  place_name: 'London, England, UK'
+  lat: 51.5103
+  lng: -0.1472
+  place_name: 'Mayfair, London, England'
 extinct_year: null
 key_tenets:
   - >-

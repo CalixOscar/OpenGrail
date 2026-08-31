@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1050
 origin_geo:
-  lat: 25.6848
-  lng: 82.1233
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 28.9048
+  lng: 88.0178
+  place_name: 'Sakya Monastery, Tibet'
 extinct_year: null
 key_tenets:
   - >-

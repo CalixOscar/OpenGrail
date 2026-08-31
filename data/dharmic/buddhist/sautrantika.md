@@ -21,9 +21,11 @@ relations:
     certainty: minority_scholarly
 origin_year: -150
 origin_geo:
-  lat: 26.1389
-  lng: 82.73
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 34.0144
+  lng: 71.5675
+  place_name: 'Purushapura (Peshawar), Gandhara'
+origin_geo_precision: region
+origin_note: 'A doxographic label rather than a located school.'
 extinct_year: null
 key_tenets:
   - >-

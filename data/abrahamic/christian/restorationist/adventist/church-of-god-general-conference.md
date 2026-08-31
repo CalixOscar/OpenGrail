@@ -17,9 +17,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1921
 origin_geo:
-  lat: 31.2478
-  lng: 34.7158
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 42.5139
+  lng: -92.3461
+  place_name: 'Waterloo, Iowa, USA'
 extinct_year: null
 key_tenets:
   - >-

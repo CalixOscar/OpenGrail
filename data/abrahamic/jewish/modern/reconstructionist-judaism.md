@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1920
 origin_geo:
-  lat: 32.5578
-  lng: 34.8401
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 40.787
+  lng: -73.9754
+  place_name: 'Upper West Side, New York City, USA'
 extinct_year: null
 key_tenets:
   - >-

@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1886
 origin_geo:
-  lat: 25.6066
-  lng: 83.8603
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 22.6324
+  lng: 88.3565
+  place_name: 'Belur Math, West Bengal, India'
 extinct_year: null
 key_tenets:
   - >-

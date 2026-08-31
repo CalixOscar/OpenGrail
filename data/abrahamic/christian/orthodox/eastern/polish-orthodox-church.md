@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1924
 origin_geo:
-  lat: 32.3502
-  lng: 35.9471
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 52.23
+  lng: 21.0111
+  place_name: 'Warsaw, Poland'
 extinct_year: null
 key_tenets:
   - >-

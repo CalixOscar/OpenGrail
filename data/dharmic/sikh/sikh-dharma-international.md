@@ -25,9 +25,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1960
 origin_geo:
-  lat: 31.9759
-  lng: 74.9576
-  place_name: 'Amritsar, Punjab, India'
+  lat: 36.0019
+  lng: -106.0661
+  place_name: 'Espanola, New Mexico, USA'
 extinct_year: null
 key_tenets:
   - >-

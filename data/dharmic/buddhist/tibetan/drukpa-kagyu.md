@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1150
 origin_geo:
-  lat: 29.5018
-  lng: 91.305
-  place_name: 'Lhasa (Potala), U-Tsang, Tibet'
+  lat: 28.8347
+  lng: 90.0997
+  place_name: 'Ralung Monastery, Tibet'
 extinct_year: null
 key_tenets:
   - >-

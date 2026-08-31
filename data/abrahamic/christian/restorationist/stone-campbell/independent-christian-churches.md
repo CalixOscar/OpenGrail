@@ -17,9 +17,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1920
 origin_geo:
-  lat: 31.1262
-  lng: 35.8644
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 39.1
+  lng: -84.5125
+  place_name: 'Cincinnati, Ohio, USA'
 extinct_year: null
 key_tenets:
   - >-

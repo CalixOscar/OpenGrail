@@ -20,9 +20,11 @@ relations:
     citation: 'Benjamin R. Foster, Before the Muses, 3rd ed. (2005)'
 origin_year: -2400
 origin_geo:
-  lat: 32.4861
-  lng: 44.3471
-  place_name: 'Babylon, Mesopotamia'
+  lat: 33.0588
+  lng: 44.2522
+  place_name: 'Sippar, northern Babylonia'
+origin_geo_precision: region
+origin_note: 'Agade itself is unlocated; Sippar is a well-attested Sargonic-period cult centre.'
 extinct_year: -539
 key_tenets:
   - >-

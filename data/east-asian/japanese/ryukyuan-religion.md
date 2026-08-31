@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 0
 origin_geo:
-  lat: 35.3969
-  lng: 117.537
-  place_name: 'Qufu, Shandong, China'
+  lat: 26.1733
+  lng: 127.8267
+  place_name: 'Sefa-utaki, Okinawa, Japan'
 extinct_year: null
 key_tenets:
   - >-

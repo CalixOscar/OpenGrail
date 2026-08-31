@@ -25,9 +25,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1350
 origin_geo:
-  lat: 8.5409
-  lng: 80.3501
-  place_name: 'Anuradhapura, North Central, Sri Lanka'
+  lat: 13.4125
+  lng: 103.8667
+  place_name: 'Angkor, Cambodia'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

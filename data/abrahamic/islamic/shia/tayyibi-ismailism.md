@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1130
 origin_geo:
-  lat: 32.5251
-  lng: 35.6727
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 15.35
+  lng: 44.2
+  place_name: 'Sanaa (Haraz), Yemen'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

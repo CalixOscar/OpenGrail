@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: -3000
 origin_geo:
-  lat: 32.1096
-  lng: 44.3862
-  place_name: 'Babylon, Mesopotamia'
+  lat: 32.1264
+  lng: 45.2334
+  place_name: 'Nippur, Sumer'
 extinct_year: -300
 key_tenets:
   - >-

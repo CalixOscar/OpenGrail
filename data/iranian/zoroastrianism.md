@@ -16,9 +16,10 @@ canonical_texts:
 relations: []
 origin_year: -1200
 origin_geo:
-  lat: 32.4776
-  lng: 51.2296
-  place_name: 'Isfahan, Iran'
+  lat: 31.8822
+  lng: 54.3397
+  place_name: 'Yazd, Iran'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 150
 origin_geo:
-  lat: 35.6706
-  lng: 116.2725
-  place_name: 'Qufu, Shandong, China'
+  lat: 28.1136
+  lng: 116.9583
+  place_name: 'Mount Longhu, Jiangxi, China'
 extinct_year: null
 key_tenets:
   - >-

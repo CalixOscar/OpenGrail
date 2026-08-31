@@ -24,9 +24,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 2013
 origin_geo:
-  lat: 42.5441
-  lng: -70.9944
-  place_name: 'Boston, Massachusetts, USA'
+  lat: 42.5194
+  lng: -70.8972
+  place_name: 'Salem, Massachusetts, USA'
 extinct_year: null
 key_tenets:
   - >-

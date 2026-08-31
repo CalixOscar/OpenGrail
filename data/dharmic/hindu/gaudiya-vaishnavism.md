@@ -25,9 +25,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1550
 origin_geo:
-  lat: 24.8659
-  lng: 82.5658
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 23.4088
+  lng: 88.3657
+  place_name: 'Nabadwip, West Bengal, India'
 extinct_year: null
 key_tenets:
   - >-

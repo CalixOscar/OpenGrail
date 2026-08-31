@@ -28,9 +28,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1866
 origin_geo:
-  lat: 31.0211
-  lng: 35.0646
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 29.6922
+  lng: 77.6775
+  place_name: 'Darul Uloom Deoband, Uttar Pradesh, India'
 extinct_year: null
 key_tenets:
   - >-

@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1050
 origin_geo:
-  lat: 25.3898
-  lng: 82.0364
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 12.6594
+  lng: 76.6483
+  place_name: 'Melkote, Karnataka, India'
 extinct_year: null
 key_tenets:
   - >-

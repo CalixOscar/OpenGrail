@@ -21,9 +21,11 @@ relations:
     certainty: academic_consensus
 origin_year: 1650
 origin_geo:
-  lat: 31.9546
-  lng: 35.4449
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 26.2167
+  lng: 50.5833
+  place_name: 'Manama, Bahrain'
+origin_geo_precision: region
+origin_note: 'Bahrain was the Akhbari stronghold; al-Astarabadi wrote in Medina.'
 extinct_year: null
 key_tenets:
   - >-

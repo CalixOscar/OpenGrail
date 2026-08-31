@@ -17,9 +17,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1863
 origin_geo:
-  lat: 31.9245
-  lng: 35.9965
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 39.7392
+  lng: -104.9847
+  place_name: 'Denver, Colorado, USA'
 extinct_year: null
 key_tenets:
   - >-

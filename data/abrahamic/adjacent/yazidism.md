@@ -18,9 +18,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 1150
 origin_geo:
-  lat: 31.1223
-  lng: 34.5684
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 36.7714
+  lng: 43.3033
+  place_name: 'Lalish, Iraq'
 extinct_year: null
 key_tenets:
   - >-

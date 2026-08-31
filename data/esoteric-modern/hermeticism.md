@@ -21,9 +21,11 @@ relations:
     certainty: academic_consensus
 origin_year: 50
 origin_geo:
-  lat: 51.1654
-  lng: -0.7525
-  place_name: 'London, England, UK'
+  lat: 27.7744
+  lng: 30.8011
+  place_name: 'Hermopolis Magna (Ashmunein), Egypt'
+origin_geo_precision: region
+origin_note: 'Composed in Graeco-Roman Egypt; Hermopolis is the eponymous Thoth-Hermes centre.'
 extinct_year: null
 key_tenets:
   - >-

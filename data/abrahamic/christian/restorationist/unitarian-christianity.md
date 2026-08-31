@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1560
 origin_geo:
-  lat: 32.2132
-  lng: 34.3577
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 46.7689
+  lng: 23.5907
+  place_name: 'Kolozsvar (Cluj-Napoca), Transylvania'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

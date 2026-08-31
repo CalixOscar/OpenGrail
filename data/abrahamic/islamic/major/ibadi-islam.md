@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 650
 origin_geo:
-  lat: 32.6178
-  lng: 35.1798
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 22.9333
+  lng: 57.5333
+  place_name: 'Nizwa, Oman'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

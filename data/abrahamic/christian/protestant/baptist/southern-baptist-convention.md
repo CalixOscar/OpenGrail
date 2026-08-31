@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1845
 origin_geo:
-  lat: 50.8052
-  lng: -0.1424
-  place_name: 'London, England, UK'
+  lat: 33.47
+  lng: -81.975
+  place_name: 'Augusta, Georgia, USA'
 extinct_year: null
 key_tenets:
   - >-

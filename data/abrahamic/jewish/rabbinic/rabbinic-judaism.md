@@ -23,9 +23,9 @@ relations:
     certainty: academic_consensus
 origin_year: 150
 origin_geo:
-  lat: 31.0493
-  lng: 35.7429
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 31.8833
+  lng: 34.7333
+  place_name: 'Yavne, Israel'
 extinct_year: null
 key_tenets:
   - >-

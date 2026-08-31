@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1857
 origin_geo:
-  lat: 31.5583
-  lng: 75.0768
-  place_name: 'Amritsar, Punjab, India'
+  lat: 30.909
+  lng: 75.8516
+  place_name: 'Bhaini Sahib, Ludhiana, Punjab, India'
 extinct_year: null
 key_tenets:
   - >-

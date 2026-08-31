@@ -20,9 +20,10 @@ relations:
     citation: 'Mary Beard, John North, and Simon Price, Religions of Rome (1998)'
 origin_year: -750
 origin_geo:
-  lat: 38.2541
-  lng: 23.2776
-  place_name: 'Athens, Attica, Greece'
+  lat: 41.8922
+  lng: 12.4817
+  place_name: 'Capitoline Temple of Jupiter, Rome'
+origin_geo_precision: region
 extinct_year: 395
 key_tenets:
   - >-

@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1760
 origin_geo:
-  lat: 25.7417
-  lng: 84.7597
-  place_name: 'Pataliputra (Patna), Bihar, India'
+  lat: 27.65
+  lng: 74.3833
+  place_name: 'Ladnun, Rajasthan, India'
 extinct_year: null
 key_tenets:
   - >-

@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1863
 origin_geo:
-  lat: 31.4961
-  lng: 35.7697
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 33.3153
+  lng: 44.3661
+  place_name: 'Baghdad, Iraq'
+origin_note: 'The 1863 Ridvan declaration; the world centre is later, at Haifa/Acre.'
 extinct_year: null
 key_tenets:
   - >-

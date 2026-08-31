@@ -23,9 +23,10 @@ relations:
     certainty: minority_scholarly
 origin_year: -500
 origin_geo:
-  lat: 32.315
-  lng: 44.3255
-  place_name: 'Babylon, Mesopotamia'
+  lat: 15.4044
+  lng: 45.3558
+  place_name: 'Awam Temple (Mahram Bilqis), Marib, Yemen'
+origin_geo_precision: region
 extinct_year: 630
 key_tenets:
   - >-

@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: -450
 origin_geo:
-  lat: 30.9243
-  lng: 35.3311
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 32.1994
+  lng: 35.2728
+  place_name: 'Mount Gerizim'
 extinct_year: null
 key_tenets:
   - >-

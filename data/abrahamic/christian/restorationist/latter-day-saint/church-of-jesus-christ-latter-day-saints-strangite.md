@@ -19,9 +19,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1844
 origin_geo:
-  lat: 40.9399
-  lng: -111.975
-  place_name: 'Salt Lake City (Temple Square), Utah, USA'
+  lat: 42.6778
+  lng: -88.2781
+  place_name: 'Voree (Burlington), Wisconsin, USA'
 extinct_year: null
 key_tenets:
   - >-

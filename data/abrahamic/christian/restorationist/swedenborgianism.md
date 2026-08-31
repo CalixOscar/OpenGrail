@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1787
 origin_geo:
-  lat: 31.215
-  lng: 35.9682
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 51.5072
+  lng: -0.1275
+  place_name: 'London, England'
+origin_note: 'The New Church was organised in London in 1787.'
 extinct_year: null
 key_tenets:
   - >-

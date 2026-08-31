@@ -1,0 +1,2577 @@
+{
+  "ancient-egyptian-religion": {
+    "decision": "region",
+    "place_name": "Memphis (Mit Rahina), Egypt",
+    "lat": 29.8538,
+    "lng": 31.2538,
+    "wikidata": "Q12246507",
+    "wikidata_label": "Mit Rahina",
+    "origin_geo_precision": "region",
+    "note": "Pharaonic state cult had no single seat; Memphis is the conventional anchor for the unified kingdom."
+  },
+  "canaanite-religion": {
+    "decision": "region",
+    "place_name": "Hazor, Upper Galilee",
+    "lat": 33.0183,
+    "lng": 35.5692,
+    "wikidata": "Q740138",
+    "wikidata_label": "Tel Hazor",
+    "origin_geo_precision": "region"
+  },
+  "sumerian-religion": {
+    "decision": "region",
+    "place_name": "Nippur, Sumer",
+    "lat": 32.1261,
+    "lng": 45.2308,
+    "wikidata": "Q188395",
+    "wikidata_label": "Nippur",
+    "origin_geo_precision": "region",
+    "note": "Nippur (Ekur of Enlil) was the shared cultic centre of the Sumerian city-states."
+  },
+  "akkadian-religion": {
+    "decision": "region",
+    "place_name": "Sippar, northern Babylonia",
+    "lat": 33.0588,
+    "lng": 44.2522,
+    "wikidata": "Q619707",
+    "wikidata_label": "Sippar",
+    "origin_geo_precision": "region",
+    "note": "Agade itself is unlocated; Sippar is a well-attested Sargonic-period cult centre."
+  },
+  "babylonian-religion": {
+    "decision": "pin",
+    "place_name": "Esagila, Babylon",
+    "lat": 32.5339,
+    "lng": 44.4214,
+    "wikidata": "Q928707",
+    "wikidata_label": "Esagila"
+  },
+  "ancient-arabian-religions": {
+    "decision": "region",
+    "place_name": "Awam Temple (Mahram Bilqis), Marib, Yemen",
+    "lat": 15.4044,
+    "lng": 45.3558,
+    "wikidata": "Q791823",
+    "wikidata_label": "Sanctuary of the Queen of Sheba",
+    "origin_geo_precision": "region"
+  },
+  "assyrian-religion": {
+    "decision": "pin",
+    "place_name": "Assur, Upper Mesopotamia",
+    "lat": 35.4567,
+    "lng": 43.2625,
+    "wikidata": "Q200200",
+    "wikidata_label": "Assur"
+  },
+  "hittite-religion": {
+    "decision": "pin",
+    "place_name": "Hattusa, central Anatolia",
+    "lat": 40.0197,
+    "lng": 34.6153,
+    "wikidata": "Q181007",
+    "wikidata_label": "Hattusa"
+  },
+  "nabataean-religion": {
+    "decision": "pin",
+    "place_name": "Petra, Jordan",
+    "lat": 30.3289,
+    "lng": 35.4403,
+    "wikidata": "Q5788",
+    "wikidata_label": "Petra"
+  },
+  "philistine-religion": {
+    "decision": "region",
+    "place_name": "Ashkelon, Philistia",
+    "lat": 31.6619,
+    "lng": 34.5461,
+    "wikidata": "Q104664899",
+    "wikidata_label": "Ascalon",
+    "origin_geo_precision": "region"
+  },
+  "ammonite-religion": {
+    "decision": "pin",
+    "place_name": "Rabbath-Ammon (Amman Citadel), Jordan",
+    "lat": 31.9547,
+    "lng": 35.9343,
+    "wikidata": "Q3157009",
+    "wikidata_label": "Amman Citadel"
+  },
+  "edomite-religion": {
+    "decision": "pin",
+    "place_name": "Bozrah (Busayra), Edom",
+    "lat": 30.7458,
+    "lng": 35.6039,
+    "wikidata": "Q4952895",
+    "wikidata_label": "Bozrah"
+  },
+  "hurrian-religion": {
+    "decision": "region",
+    "place_name": "Urkesh (Tell Mozan), Syria",
+    "lat": 37.0569,
+    "lng": 40.9972,
+    "wikidata": "Q1758030",
+    "wikidata_label": "Urkesh",
+    "origin_geo_precision": "region"
+  },
+  "moabite-religion": {
+    "decision": "pin",
+    "place_name": "Dibon (Dhiban), Moab",
+    "lat": 31.5,
+    "lng": 35.7833,
+    "wikidata": "Q1019166",
+    "wikidata_label": "Dhiban",
+    "note": "Findspot of the Mesha Stele."
+  },
+  "phoenician-religion": {
+    "decision": "region",
+    "place_name": "Tyre, Lebanon",
+    "lat": 33.2667,
+    "lng": 35.2,
+    "wikidata": "Q82070",
+    "wikidata_label": "Tyre",
+    "origin_geo_precision": "region"
+  },
+  "ugaritic-religion": {
+    "decision": "pin",
+    "place_name": "Ugarit (Ras Shamra), Syria",
+    "lat": 35.6019,
+    "lng": 35.7856,
+    "wikidata": "Q191369",
+    "wikidata_label": "Ugarit"
+  },
+  "celtic-religion": {
+    "decision": "region",
+    "place_name": "La Tene, Lake Neuchatel, Switzerland",
+    "lat": 47.0052,
+    "lng": 7.0218,
+    "wikidata": "Q176775",
+    "wikidata_label": "La Tène",
+    "origin_geo_precision": "region",
+    "note": "Type-site of the Celtic Iron Age; the religions themselves were Europe-wide."
+  },
+  "norse-religion": {
+    "decision": "region",
+    "place_name": "Gamla Uppsala, Uppland, Sweden",
+    "lat": 59.8944,
+    "lng": 17.6389,
+    "wikidata": "Q433032",
+    "wikidata_label": "Gamla Uppsala",
+    "origin_geo_precision": "region"
+  },
+  "baltic-religion": {
+    "decision": "region",
+    "place_name": "Kernave, Lithuania",
+    "lat": 54.8833,
+    "lng": 24.85,
+    "wikidata": "Q215315",
+    "wikidata_label": "Kernavė",
+    "origin_geo_precision": "region"
+  },
+  "slavic-religion": {
+    "decision": "region",
+    "place_name": "Arkona, Rugen",
+    "lat": 54.6764,
+    "lng": 13.4378,
+    "wikidata": "Q4110",
+    "wikidata_label": "Cape Arkona",
+    "origin_geo_precision": "region",
+    "note": "Best-documented Slavic temple sanctuary; the traditions were far wider."
+  },
+  "gaelic-polytheism": {
+    "decision": "region",
+    "place_name": "Hill of Tara, County Meath, Ireland",
+    "lat": 53.5775,
+    "lng": -6.6119,
+    "wikidata": "Q543155",
+    "wikidata_label": "Hill of Tara",
+    "origin_geo_precision": "region"
+  },
+  "gaulish-religion": {
+    "decision": "region",
+    "place_name": "Sanctuary of the Three Gauls, Lugdunum (Lyon)",
+    "lat": 45.7706,
+    "lng": 4.8306,
+    "wikidata": "Q5278",
+    "wikidata_label": "Sanctuary of the Three Gauls",
+    "origin_geo_precision": "region"
+  },
+  "finnish-religion": {
+    "decision": "region",
+    "place_name": "Vuokkiniemi (Voknavolok), Viena Karelia",
+    "lat": 64.9472,
+    "lng": 30.55,
+    "wikidata": "Q4122850",
+    "wikidata_label": "Voknavolok",
+    "origin_geo_precision": "region"
+  },
+  "ancient-greek-religion": {
+    "decision": "region",
+    "place_name": "Delphi, Phocis, Greece",
+    "lat": 38.4833,
+    "lng": 22.5,
+    "wikidata": "Q75459",
+    "wikidata_label": "Delphi",
+    "origin_geo_precision": "region",
+    "note": "Panhellenic anchor; the cults were spread across the Greek-speaking world."
+  },
+  "hellenistic-religion": {
+    "decision": "region",
+    "place_name": "Serapeum, Alexandria, Egypt",
+    "lat": 31.1819,
+    "lng": 29.8969,
+    "wikidata": "Q521646",
+    "wikidata_label": "Serapeum of Alexandria",
+    "origin_geo_precision": "region"
+  },
+  "roman-religion": {
+    "decision": "region",
+    "place_name": "Capitoline Temple of Jupiter, Rome",
+    "lat": 41.8922,
+    "lng": 12.4817,
+    "wikidata": "Q586468",
+    "wikidata_label": "Temple of Jupiter Optimus Maximus",
+    "origin_geo_precision": "region"
+  },
+  "cult-of-isis": {
+    "decision": "region",
+    "place_name": "Philae, Aswan, Egypt",
+    "lat": 24.0215,
+    "lng": 32.8842,
+    "wikidata": "Q245062",
+    "wikidata_label": "Philae",
+    "origin_geo_precision": "region"
+  },
+  "neoplatonism": {
+    "decision": "pin",
+    "place_name": "Alexandria, Egypt",
+    "lat": 31.1975,
+    "lng": 29.8925,
+    "wikidata": "Q87",
+    "wikidata_label": "Alexandria"
+  },
+  "orphism": {
+    "decision": "region",
+    "place_name": "Derveni, Macedonia, Greece",
+    "lat": 40.7167,
+    "lng": 22.9625,
+    "wikidata": "Q5263281",
+    "wikidata_label": "Derveni",
+    "origin_geo_precision": "region",
+    "note": "Findspot of the Derveni papyrus, the key Orphic document."
+  },
+  "eleusinian-mysteries": {
+    "decision": "pin",
+    "place_name": "Eleusis (Elefsina), Attica, Greece",
+    "lat": 38.0441,
+    "lng": 23.5415,
+    "wikidata": "Q11918833",
+    "wikidata_label": "Eleusis"
+  },
+  "mithraism": {
+    "decision": "region",
+    "place_name": "Ostia Antica, Italy",
+    "lat": 41.7542,
+    "lng": 12.2875,
+    "wikidata": "Q1012797",
+    "wikidata_label": "Ostia",
+    "origin_geo_precision": "region",
+    "note": "Densest surviving concentration of mithraea; the cult was empire-wide."
+  },
+  "roman-imperial-cult": {
+    "decision": "region",
+    "place_name": "Pergamon, Asia Minor",
+    "lat": 39.1167,
+    "lng": 27.1833,
+    "wikidata": "Q18986",
+    "wikidata_label": "Pergamon",
+    "origin_geo_precision": "region",
+    "note": "Site of the first provincial temple to Roma and Augustus (29 BCE)."
+  },
+  "animist-frameworks": {
+    "decision": "none",
+    "note": "Comparative category, not a tradition with a birthplace. Currently the highest-degree node on the globe and the single largest source of the false Ile-Ife convergence."
+  },
+  "ancestor-veneration": {
+    "decision": "none",
+    "note": "Cross-cultural family of practices; no origin to pin."
+  },
+  "indigenous-american-religions": {
+    "decision": "none",
+    "note": "Comparative umbrella over hundreds of distinct traditions."
+  },
+  "shamanic-traditions": {
+    "decision": "none",
+    "note": "Comparative umbrella; the node's own body text disclaims single-origin descent."
+  },
+  "african-indigenous-traditions": {
+    "decision": "none",
+    "note": "Comparative umbrella over thousands of distinct traditions."
+  },
+  "african-diasporic-traditions": {
+    "decision": "none",
+    "note": "Analytical umbrella spanning the Atlantic world."
+  },
+  "odinani": {
+    "decision": "pin",
+    "place_name": "Nri, Anambra, Nigeria",
+    "lat": 6.1528,
+    "lng": 7.0306,
+    "wikidata": "Q145749",
+    "wikidata_label": "Kingdom of Nri",
+    "note": "Igbo, not Yoruba; Nri is the ritual centre."
+  },
+  "serer-religion": {
+    "decision": "pin",
+    "place_name": "Diakhao, Sine, Fatick, Senegal",
+    "lat": 14.4628,
+    "lng": -16.2902,
+    "wikidata": "Q3025927",
+    "wikidata_label": "Diakhao"
+  },
+  "waaqeffanna": {
+    "decision": "region",
+    "place_name": "Odaa Nabee, near Bishoftu, Oromia, Ethiopia",
+    "lat": 8.75,
+    "lng": 38.9833,
+    "wikidata": "Q740499",
+    "wikidata_label": "Bishoftu",
+    "origin_geo_precision": "region"
+  },
+  "ancient-astronaut-theory": {
+    "decision": "none",
+    "note": "A modern claim-family, not a located community."
+  },
+  "daoism": {
+    "decision": "region",
+    "place_name": "Louguantai, Zhouzhi, Shaanxi, China",
+    "lat": 34.0463,
+    "lng": 108.2647,
+    "wikidata": "Q661163",
+    "wikidata_label": "Louguantai",
+    "origin_geo_precision": "region"
+  },
+  "shinto": {
+    "decision": "region",
+    "place_name": "Ise Jingu, Mie, Japan",
+    "lat": 34.455,
+    "lng": 136.7258,
+    "wikidata": "Q687168",
+    "wikidata_label": "Ise Jingū",
+    "origin_geo_precision": "region"
+  },
+  "confucianism": {
+    "decision": "pin",
+    "place_name": "Temple of Confucius, Qufu, Shandong",
+    "lat": 35.5967,
+    "lng": 116.984,
+    "wikidata": "Q339822",
+    "wikidata_label": "Temple of Confucius, Qufu",
+    "note": "Qufu was already correct, but the stored coordinate was the cluster fallback and ~35 km off the town."
+  },
+  "chinese-folk-religion": {
+    "decision": "region",
+    "place_name": "Mount Tai, Shandong, China",
+    "lat": 36.2667,
+    "lng": 117.1,
+    "wikidata": "Q216059",
+    "wikidata_label": "Mount Tai",
+    "origin_geo_precision": "region"
+  },
+  "neo-confucianism": {
+    "decision": "region",
+    "place_name": "Luoyang, Henan, China",
+    "lat": 34.6587,
+    "lng": 112.4245,
+    "wikidata": "Q187136",
+    "wikidata_label": "Luoyang",
+    "origin_geo_precision": "region",
+    "note": "The Cheng brothers' 11th-century Luoyang circle."
+  },
+  "chinese-salvationist-religions": {
+    "decision": "none",
+    "note": "Explicitly a comparative umbrella."
+  },
+  "sect-shinto": {
+    "decision": "region",
+    "place_name": "Kasumigaseki, Tokyo, Japan",
+    "lat": 35.6738,
+    "lng": 139.7513,
+    "wikidata": "Q1268102",
+    "wikidata_label": "Kasumigaseki",
+    "origin_geo_precision": "region",
+    "note": "An administrative category created by the Meiji state."
+  },
+  "onmyodo": {
+    "decision": "pin",
+    "place_name": "Kyoto Imperial Palace, Japan",
+    "lat": 35.0253,
+    "lng": 135.7622,
+    "wikidata": "Q1202239",
+    "wikidata_label": "Kyoto Imperial Palace"
+  },
+  "quanzhen-daoism": {
+    "decision": "pin",
+    "place_name": "Chongyang Palace, Huyi, Shaanxi, China",
+    "lat": 34.113,
+    "lng": 108.606,
+    "wikidata": "Q1339891",
+    "wikidata_label": "Huyi, Xi'an"
+  },
+  "ryukyuan-religion": {
+    "decision": "pin",
+    "place_name": "Sefa-utaki, Okinawa, Japan",
+    "lat": 26.1733,
+    "lng": 127.8267,
+    "wikidata": "Q3087076",
+    "wikidata_label": "Sefa-utaki"
+  },
+  "shugendo": {
+    "decision": "pin",
+    "place_name": "Mount Omine, Nara, Japan",
+    "lat": 34.2528,
+    "lng": 135.9406,
+    "wikidata": "Q3695989",
+    "wikidata_label": "Mount Ōmine"
+  },
+  "xiantiandao": {
+    "decision": "region",
+    "place_name": "Jiangxi, China",
+    "lat": 27.3,
+    "lng": 116,
+    "wikidata": "Q57052",
+    "wikidata_label": "Jiangxi",
+    "origin_geo_precision": "region"
+  },
+  "luo-teaching": {
+    "decision": "pin",
+    "place_name": "Jimo, Qingdao, Shandong, China",
+    "lat": 36.3833,
+    "lng": 120.4667,
+    "wikidata": "Q713349",
+    "wikidata_label": "Jimo District"
+  },
+  "mohism": {
+    "decision": "region",
+    "place_name": "Tengzhou, Shandong, China",
+    "lat": 35.0833,
+    "lng": 117.15,
+    "wikidata": "Q1207076",
+    "wikidata_label": "Tengzhou",
+    "origin_geo_precision": "region"
+  },
+  "new-confucianism": {
+    "decision": "pin",
+    "place_name": "New Asia College, Hong Kong",
+    "lat": 22.4211,
+    "lng": 114.2087,
+    "wikidata": "Q1666851",
+    "wikidata_label": "New Asia College"
+  },
+  "state-shinto": {
+    "decision": "pin",
+    "place_name": "Tokyo Imperial Palace, Japan",
+    "lat": 35.6825,
+    "lng": 139.7521,
+    "wikidata": "Q500681",
+    "wikidata_label": "Tokyo Imperial Palace"
+  },
+  "zhengyi-daoism": {
+    "decision": "pin",
+    "place_name": "Mount Longhu, Jiangxi, China",
+    "lat": 28.1136,
+    "lng": 116.9583,
+    "wikidata": "Q915410",
+    "wikidata_label": "Mount Longhu"
+  },
+  "western-esotericism": {
+    "decision": "none",
+    "note": "A scholarly umbrella; London was doing what Ile-Ife did."
+  },
+  "new-age-movement": {
+    "decision": "region",
+    "place_name": "Findhorn, Moray, Scotland",
+    "lat": 57.653,
+    "lng": -3.592,
+    "wikidata": "Q1416814",
+    "wikidata_label": "Findhorn Foundation",
+    "origin_geo_precision": "region"
+  },
+  "ufo-religions": {
+    "decision": "none",
+    "note": "Analytical family."
+  },
+  "modern-satanism": {
+    "decision": "region",
+    "place_name": "San Francisco, California, USA",
+    "lat": 37.775,
+    "lng": -122.4194,
+    "wikidata": "Q62",
+    "wikidata_label": "San Francisco",
+    "origin_geo_precision": "region"
+  },
+  "parody-fiction-religions": {
+    "decision": "none",
+    "note": "Analytical family."
+  },
+  "rosicrucianism": {
+    "decision": "pin",
+    "place_name": "Kassel, Hesse, Germany",
+    "lat": 51.3158,
+    "lng": 9.4979,
+    "wikidata": "Q2865",
+    "wikidata_label": "Kassel",
+    "note": "Place of publication of the Fama Fraternitatis (1614)."
+  },
+  "hermetic-order-golden-dawn": {
+    "decision": "pin",
+    "place_name": "Great Queen Street, London, England",
+    "lat": 51.5156,
+    "lng": -0.1211,
+    "wikidata": "Q5599818",
+    "wikidata_label": "Great Queen Street"
+  },
+  "hermeticism": {
+    "decision": "region",
+    "place_name": "Hermopolis Magna (Ashmunein), Egypt",
+    "lat": 27.7744,
+    "lng": 30.8011,
+    "wikidata": "Q732908",
+    "wikidata_label": "Hermopolis",
+    "origin_geo_precision": "region",
+    "note": "Composed in Graeco-Roman Egypt; Hermopolis is the eponymous Thoth-Hermes centre."
+  },
+  "spiritism": {
+    "decision": "pin",
+    "place_name": "Paris, France",
+    "lat": 48.8567,
+    "lng": 2.3522,
+    "wikidata": "Q90",
+    "wikidata_label": "Paris"
+  },
+  "spiritualism": {
+    "decision": "pin",
+    "place_name": "Hydesville (Newark), Wayne County, New York, USA",
+    "lat": 43.0467,
+    "lng": -77.0953,
+    "wikidata": "Q1983435",
+    "wikidata_label": "Newark, New York",
+    "note": "Hydesville is an unincorporated hamlet with no gazetteer entry; adjacent Newark is the citable anchor."
+  },
+  "freemasonry": {
+    "decision": "pin",
+    "place_name": "Freemasons' Hall, London, England",
+    "lat": 51.5151,
+    "lng": -0.121,
+    "wikidata": "Q1453586",
+    "wikidata_label": "Freemasons' Hall, London"
+  },
+  "neopaganism": {
+    "decision": "none",
+    "note": "A diverse family of modern religions with no single origin."
+  },
+  "chaos-magic": {
+    "decision": "pin",
+    "place_name": "East Morton, West Yorkshire, England",
+    "lat": 53.878,
+    "lng": -1.854,
+    "wikidata": "Q5329747",
+    "wikidata_label": "East Morton",
+    "needs_verification": true,
+    "note": "Founding locale of the Illuminates of Thanateros; confirm against a source before landing."
+  },
+  "discordianism": {
+    "decision": "pin",
+    "place_name": "Whittier, California, USA",
+    "lat": 33.9656,
+    "lng": -118.0244,
+    "wikidata": "Q838791",
+    "wikidata_label": "Whittier, California"
+  },
+  "jediism": {
+    "decision": "none",
+    "note": "Decentralised; no single origin."
+  },
+  "luciferianism": {
+    "decision": "none",
+    "note": "A current, not a founded movement."
+  },
+  "process-church": {
+    "decision": "pin",
+    "place_name": "Mayfair, London, England",
+    "lat": 51.5103,
+    "lng": -0.1472,
+    "wikidata": "Q124184",
+    "wikidata_label": "Mayfair"
+  },
+  "aetherius-society": {
+    "decision": "pin",
+    "place_name": "Fulham, London, England",
+    "lat": 51.4767,
+    "lng": -0.2138,
+    "wikidata": "Q3367868",
+    "wikidata_label": "Fulham"
+  },
+  "church-of-all-worlds": {
+    "decision": "pin",
+    "place_name": "Fulton, Missouri, USA",
+    "lat": 38.8553,
+    "lng": -91.9511,
+    "wikidata": "Q839802",
+    "wikidata_label": "Fulton, Missouri",
+    "needs_verification": true,
+    "note": "Founded 1962 at Westminster College; Wikipedia records only the present Cotati base."
+  },
+  "church-of-subgenius": {
+    "decision": "pin",
+    "place_name": "Dallas, Texas, USA",
+    "lat": 32.7792,
+    "lng": -96.8089,
+    "wikidata": "Q16557",
+    "wikidata_label": "Dallas"
+  },
+  "dudeism": {
+    "decision": "pin",
+    "place_name": "Chiang Mai, Thailand",
+    "lat": 18.7889,
+    "lng": 98.9833,
+    "wikidata": "Q52028",
+    "wikidata_label": "Chiang Mai"
+  },
+  "ekankar": {
+    "decision": "pin",
+    "place_name": "San Diego, California, USA",
+    "lat": 32.715,
+    "lng": -117.1625,
+    "wikidata": "Q16552",
+    "wikidata_label": "San Diego"
+  },
+  "enochian-magic": {
+    "decision": "pin",
+    "place_name": "Mortlake, London, England",
+    "lat": 51.4655,
+    "lng": -0.2643,
+    "wikidata": "Q2456238",
+    "wikidata_label": "Mortlake",
+    "note": "John Dee's house and library."
+  },
+  "heavens-gate": {
+    "decision": "pin",
+    "place_name": "Houston, Texas, USA",
+    "lat": 29.7628,
+    "lng": -95.3831,
+    "wikidata": "Q16555",
+    "wikidata_label": "Houston"
+  },
+  "pastafarianism": {
+    "decision": "pin",
+    "place_name": "Corvallis, Oregon, USA",
+    "lat": 44.5697,
+    "lng": -123.2783,
+    "wikidata": "Q748474",
+    "wikidata_label": "Corvallis, Oregon",
+    "needs_verification": true,
+    "note": "Bobby Henderson's open letter; confirm the authorship locale."
+  },
+  "polish-rodzimowierstwo": {
+    "decision": "region",
+    "place_name": "Warsaw, Poland",
+    "lat": 52.23,
+    "lng": 21.0111,
+    "wikidata": "Q270",
+    "wikidata_label": "Warsaw",
+    "origin_geo_precision": "region"
+  },
+  "raelism": {
+    "decision": "pin",
+    "place_name": "Clermont-Ferrand, Puy-de-Dome, France",
+    "lat": 45.7797,
+    "lng": 3.0869,
+    "wikidata": "Q42168",
+    "wikidata_label": "Clermont-Ferrand"
+  },
+  "reclaiming-tradition": {
+    "decision": "pin",
+    "place_name": "San Francisco, California, USA",
+    "lat": 37.775,
+    "lng": -122.4194,
+    "wikidata": "Q62",
+    "wikidata_label": "San Francisco"
+  },
+  "russian-cosmism": {
+    "decision": "region",
+    "place_name": "Moscow, Russia",
+    "lat": 55.7506,
+    "lng": 37.6175,
+    "wikidata": "Q649",
+    "wikidata_label": "Moscow",
+    "origin_geo_precision": "region"
+  },
+  "theodism": {
+    "decision": "pin",
+    "place_name": "Watertown, New York, USA",
+    "lat": 43.9756,
+    "lng": -75.9064,
+    "wikidata": "Q1378026",
+    "wikidata_label": "Watertown, New York",
+    "needs_verification": true,
+    "note": "Garman Lord's founding locale; not confirmed in a general reference."
+  },
+  "unarius-academy": {
+    "decision": "pin",
+    "place_name": "El Cajon, California, USA",
+    "lat": 32.7983,
+    "lng": -116.96,
+    "wikidata": "Q369947",
+    "wikidata_label": "El Cajon"
+  },
+  "fourth-way": {
+    "decision": "pin",
+    "place_name": "Avon (Fontainebleau), Seine-et-Marne, France",
+    "lat": 48.4097,
+    "lng": 2.7161,
+    "wikidata": "Q791277",
+    "wikidata_label": "Avon, Seine-et-Marne",
+    "note": "Gurdjieff's Institute for the Harmonious Development of Man."
+  },
+  "hellenic-polytheism": {
+    "decision": "pin",
+    "place_name": "Athens, Greece",
+    "lat": 37.9842,
+    "lng": 23.7281,
+    "wikidata": "Q1524",
+    "wikidata_label": "Athens"
+  },
+  "kemetism": {
+    "decision": "pin",
+    "place_name": "Burbank, California, USA",
+    "lat": 34.1803,
+    "lng": -118.3283,
+    "wikidata": "Q39561",
+    "wikidata_label": "Burbank",
+    "needs_verification": true,
+    "note": "Church of the Eternal Source, 1970s California."
+  },
+  "kopimism": {
+    "decision": "pin",
+    "place_name": "Uppsala, Sweden",
+    "lat": 59.8498,
+    "lng": 17.6389,
+    "wikidata": "Q25286",
+    "wikidata_label": "Uppsala"
+  },
+  "buddhism": {
+    "decision": "pin",
+    "place_name": "Bodh Gaya, Bihar, India",
+    "lat": 24.695,
+    "lng": 84.9925,
+    "wikidata": "Q176767",
+    "wikidata_label": "Bodh Gaya"
+  },
+  "hinduism": {
+    "decision": "region",
+    "place_name": "Varanasi (Kashi), Gangetic plain, India",
+    "lat": 25.3189,
+    "lng": 83.0128,
+    "wikidata": "Q79980",
+    "wikidata_label": "Varanasi",
+    "origin_geo_precision": "region",
+    "note": "Region-wide family; Varanasi is the conventional anchor, not a point of origin."
+  },
+  "mahayana": {
+    "decision": "region",
+    "place_name": "Amaravati, Andhra Pradesh, India",
+    "lat": 16.573,
+    "lng": 80.358,
+    "wikidata": "Q2087762",
+    "wikidata_label": "Amaravati, Palnadu district",
+    "origin_geo_precision": "region",
+    "note": "Early Mahayana emergence is contested between Andhra and the northwest."
+  },
+  "vaishnavism": {
+    "decision": "region",
+    "place_name": "Heliodorus Pillar, Vidisha, Madhya Pradesh",
+    "lat": 23.5493,
+    "lng": 77.8003,
+    "wikidata": "Q1854330",
+    "wikidata_label": "Heliodorus Pillar",
+    "origin_geo_precision": "region",
+    "note": "Earliest securely dated Vaishnava evidence (c. 113 BCE)."
+  },
+  "shaivism": {
+    "decision": "region",
+    "place_name": "Gudimallam, Andhra Pradesh, India",
+    "lat": 13.6086,
+    "lng": 79.5768,
+    "wikidata": "Q10961934",
+    "wikidata_label": "Gudimallam",
+    "origin_geo_precision": "region",
+    "note": "Earliest known lingam, c. 2nd-1st century BCE."
+  },
+  "bhakti-movement": {
+    "decision": "region",
+    "place_name": "Chidambaram, Tamil Nadu, India",
+    "lat": 11.3994,
+    "lng": 79.6936,
+    "wikidata": "Q155332",
+    "wikidata_label": "Chidambaram",
+    "origin_geo_precision": "region"
+  },
+  "vedic-religion": {
+    "decision": "region",
+    "place_name": "Kurukshetra, Haryana, India",
+    "lat": 29.97,
+    "lng": 76.85,
+    "wikidata": "Q980118",
+    "wikidata_label": "Kurukshetra district",
+    "origin_geo_precision": "region"
+  },
+  "classical-yoga": {
+    "decision": "region",
+    "place_name": "Prayagraj, Uttar Pradesh, India",
+    "lat": 25.45,
+    "lng": 81.85,
+    "wikidata": "Q162442",
+    "wikidata_label": "Prayagraj",
+    "origin_geo_precision": "region",
+    "note": "Provenance of the Yoga Sutras is uncertain; coarse anchor only."
+  },
+  "early-buddhist-schools": {
+    "decision": "region",
+    "place_name": "Vaishali, Bihar, India",
+    "lat": 25.9866,
+    "lng": 85.1256,
+    "wikidata": "Q100130",
+    "wikidata_label": "Vaishali district",
+    "origin_geo_precision": "region",
+    "note": "Site of the Second Council and the first sanghabheda."
+  },
+  "vajrayana": {
+    "decision": "region",
+    "place_name": "Nalanda Mahavihara, Bihar, India",
+    "lat": 25.1368,
+    "lng": 85.4438,
+    "wikidata": "Q216243",
+    "wikidata_label": "Nalanda Mahavihara",
+    "origin_geo_precision": "region"
+  },
+  "shingon": {
+    "decision": "pin",
+    "place_name": "Mount Koya, Wakayama, Japan",
+    "lat": 34.2178,
+    "lng": 135.5833,
+    "wikidata": "Q535065",
+    "wikidata_label": "Mount Kōya"
+  },
+  "shramana-movements": {
+    "decision": "region",
+    "place_name": "Rajgir, Magadha, India",
+    "lat": 25.03,
+    "lng": 85.42,
+    "wikidata": "Q863683",
+    "wikidata_label": "Rajgir",
+    "origin_geo_precision": "region"
+  },
+  "advaita-vedanta": {
+    "decision": "pin",
+    "place_name": "Kalady, Ernakulam, Kerala, India",
+    "lat": 10.1661,
+    "lng": 76.4389,
+    "wikidata": "Q3595324",
+    "wikidata_label": "Kalady",
+    "note": "Shankara's birthplace."
+  },
+  "engaged-buddhism": {
+    "decision": "region",
+    "place_name": "Hue, Vietnam",
+    "lat": 16.4561,
+    "lng": 107.5764,
+    "wikidata": "Q36167",
+    "wikidata_label": "Huế",
+    "origin_geo_precision": "region"
+  },
+  "kagyu": {
+    "decision": "pin",
+    "place_name": "Tsurphu Monastery, Tibet",
+    "lat": 29.7264,
+    "lng": 90.5756,
+    "wikidata": "Q927302",
+    "wikidata_label": "Tsurphu Monastery"
+  },
+  "shaktism": {
+    "decision": "region",
+    "place_name": "Kamakhya Temple, Assam, India",
+    "lat": 26.1664,
+    "lng": 91.7055,
+    "wikidata": "Q3629418",
+    "wikidata_label": "Kamakhya Temple",
+    "origin_geo_precision": "region"
+  },
+  "gaudiya-vaishnavism": {
+    "decision": "pin",
+    "place_name": "Nabadwip, West Bengal, India",
+    "lat": 23.4088,
+    "lng": 88.3657,
+    "wikidata": "Q1006330",
+    "wikidata_label": "Nabadwip"
+  },
+  "insight-meditation-movement": {
+    "decision": "region",
+    "place_name": "Yangon, Myanmar",
+    "lat": 16.795,
+    "lng": 96.16,
+    "wikidata": "Q37995",
+    "wikidata_label": "Yangon",
+    "origin_geo_precision": "region"
+  },
+  "sarvastivada": {
+    "decision": "region",
+    "place_name": "Mathura, Uttar Pradesh, India",
+    "lat": 27.4924,
+    "lng": 77.6737,
+    "wikidata": "Q200311",
+    "wikidata_label": "Mathura",
+    "origin_geo_precision": "region"
+  },
+  "thien": {
+    "decision": "pin",
+    "place_name": "Yen Tu Mountain, Quang Ninh, Vietnam",
+    "lat": 21.161,
+    "lng": 106.6975,
+    "wikidata": "Q10802059",
+    "wikidata_label": "Yên Tử Mountain"
+  },
+  "upanishadic-traditions": {
+    "decision": "region",
+    "place_name": "Janakpur (Videha), Nepal",
+    "lat": 26.7122,
+    "lng": 85.9217,
+    "wikidata": "Q378649",
+    "wikidata_label": "Janakpurdham",
+    "origin_geo_precision": "region"
+  },
+  "humanistic-buddhism": {
+    "decision": "region",
+    "place_name": "Wuchang, Wuhan, Hubei, China",
+    "lat": 30.5563,
+    "lng": 114.3105,
+    "wikidata": "Q1014420",
+    "wikidata_label": "Wuchang District",
+    "origin_geo_precision": "region",
+    "note": "Taixu's Wuchang Buddhist Institute."
+  },
+  "nyaya": {
+    "decision": "region",
+    "place_name": "Mithila (Darbhanga), Bihar, India",
+    "lat": 26,
+    "lng": 86,
+    "wikidata": "Q49160",
+    "wikidata_label": "Darbhanga district",
+    "origin_geo_precision": "region"
+  },
+  "pashupata-shaivism": {
+    "decision": "pin",
+    "place_name": "Kayavarohan (Karvan), Gujarat, India",
+    "lat": 22.067,
+    "lng": 73.25,
+    "wikidata": "Q2723783",
+    "wikidata_label": "Kayavarohan"
+  },
+  "samkhya": {
+    "decision": "region",
+    "place_name": "Ujjain, Madhya Pradesh, India",
+    "lat": 23.1828,
+    "lng": 75.7772,
+    "wikidata": "Q200119",
+    "wikidata_label": "Ujjain",
+    "origin_geo_precision": "region",
+    "note": "Provenance uncertain; coarse anchor only."
+  },
+  "secular-buddhism": {
+    "decision": "none",
+    "note": "A modern approach, not a founded community with an origin."
+  },
+  "seon": {
+    "decision": "region",
+    "place_name": "Songgwangsa, South Jeolla, South Korea",
+    "lat": 35.0022,
+    "lng": 127.2761,
+    "wikidata": "Q490384",
+    "wikidata_label": "Songgwangsa",
+    "origin_geo_precision": "region"
+  },
+  "tiantai": {
+    "decision": "pin",
+    "place_name": "Mount Tiantai, Zhejiang, China",
+    "lat": 29.1788,
+    "lng": 121.0422,
+    "wikidata": "Q1146118",
+    "wikidata_label": "Mount Tiantai"
+  },
+  "vaisheshika": {
+    "decision": "region",
+    "place_name": "Mithila (Darbhanga), Bihar, India",
+    "lat": 26,
+    "lng": 86,
+    "wikidata": "Q49160",
+    "wikidata_label": "Darbhanga district",
+    "origin_geo_precision": "region",
+    "note": "Paired with Nyaya in the Mithila schools; provenance uncertain."
+  },
+  "vishishtadvaita": {
+    "decision": "pin",
+    "place_name": "Melkote, Karnataka, India",
+    "lat": 12.6594,
+    "lng": 76.6483,
+    "wikidata": "Q2667680",
+    "wikidata_label": "Melukote"
+  },
+  "achintya-bheda-abheda": {
+    "decision": "pin",
+    "place_name": "Vrindavan, Uttar Pradesh, India",
+    "lat": 27.5728,
+    "lng": 77.6933,
+    "wikidata": "Q688281",
+    "wikidata_label": "Vrindavan"
+  },
+  "aghori": {
+    "decision": "pin",
+    "place_name": "Baba Kinaram Ashram, Varanasi, India",
+    "lat": 25.3189,
+    "lng": 83.0128,
+    "wikidata": "Q79980",
+    "wikidata_label": "Varanasi"
+  },
+  "arya-samaj": {
+    "decision": "pin",
+    "place_name": "Mumbai, Maharashtra, India",
+    "lat": 19.0758,
+    "lng": 72.8775,
+    "wikidata": "Q1156",
+    "wikidata_label": "Mumbai"
+  },
+  "ayyavazhi": {
+    "decision": "pin",
+    "place_name": "Swamithope, Kanyakumari, Tamil Nadu, India",
+    "lat": 8.12,
+    "lng": 77.49,
+    "wikidata": "Q7653307",
+    "wikidata_label": "Swamithope"
+  },
+  "brahmo-samaj": {
+    "decision": "pin",
+    "place_name": "Kolkata, West Bengal, India",
+    "lat": 22.5675,
+    "lng": 88.37,
+    "wikidata": "Q1348",
+    "wikidata_label": "Kolkata"
+  },
+  "caodong-chan": {
+    "decision": "region",
+    "place_name": "Yihuang (Caoshan), Jiangxi, China",
+    "lat": 27.4,
+    "lng": 116.2167,
+    "wikidata": "Q1356255",
+    "wikidata_label": "Yihuang County",
+    "origin_geo_precision": "region"
+  },
+  "charvaka": {
+    "decision": "region",
+    "place_name": "Pataliputra (Patna), Bihar, India",
+    "lat": 25.61,
+    "lng": 85.1414,
+    "wikidata": "Q80484",
+    "wikidata_label": "Patna",
+    "origin_geo_precision": "region",
+    "note": "Reconstructed from hostile sources; coarse anchor only."
+  },
+  "dharmaguptaka": {
+    "decision": "region",
+    "place_name": "Taxila, Gandhara",
+    "lat": 33.7458,
+    "lng": 72.7875,
+    "wikidata": "Q156093",
+    "wikidata_label": "Taxila",
+    "origin_geo_precision": "region"
+  },
+  "dvaita-vedanta": {
+    "decision": "pin",
+    "place_name": "Udupi, Karnataka, India",
+    "lat": 13.3322,
+    "lng": 74.7461,
+    "wikidata": "Q584295",
+    "wikidata_label": "Udupi"
+  },
+  "dvaitadvaita-vedanta": {
+    "decision": "pin",
+    "place_name": "Salemabad, Kishangarh, Rajasthan, India",
+    "lat": 26.57,
+    "lng": 74.87,
+    "wikidata": "Q927794",
+    "wikidata_label": "Kishangarh",
+    "needs_verification": true,
+    "note": "Nimbarka Tirtha at Salemabad has no gazetteer entry; Kishangarh is the nearest citable anchor."
+  },
+  "fo-guang-shan": {
+    "decision": "pin",
+    "place_name": "Fo Guang Shan, Kaohsiung, Taiwan",
+    "lat": 22.7474,
+    "lng": 120.4462,
+    "wikidata": "Q548694",
+    "wikidata_label": "Fo Guang Shan"
+  },
+  "huayan-buddhism": {
+    "decision": "region",
+    "place_name": "Chang'an (Xi'an), Shaanxi, China",
+    "lat": 34.2611,
+    "lng": 108.9422,
+    "wikidata": "Q5826",
+    "wikidata_label": "Xi'an",
+    "origin_geo_precision": "region"
+  },
+  "iskcon": {
+    "decision": "pin",
+    "place_name": "Tompkins Square Park, East Village, New York City, USA",
+    "lat": 40.7261,
+    "lng": -73.9814,
+    "wikidata": "Q1310674",
+    "wikidata_label": "Tompkins Square Park"
+  },
+  "jodo-shinshu": {
+    "decision": "pin",
+    "place_name": "Nishi Hongan-ji, Kyoto, Japan",
+    "lat": 34.992,
+    "lng": 135.7516,
+    "wikidata": "Q1146038",
+    "wikidata_label": "Nishi Hongan-ji Temple"
+  },
+  "jodo-shu": {
+    "decision": "pin",
+    "place_name": "Chion-in, Kyoto, Japan",
+    "lat": 35.0052,
+    "lng": 135.7834,
+    "wikidata": "Q873645",
+    "wikidata_label": "Chion-in Temple"
+  },
+  "jonang": {
+    "decision": "pin",
+    "place_name": "Jonang Monastery, Tibet",
+    "lat": 29.3411,
+    "lng": 87.9983,
+    "wikidata": "Q1264717",
+    "wikidata_label": "Jonang Monastery"
+  },
+  "kashmir-shaivism": {
+    "decision": "region",
+    "place_name": "Srinagar, Kashmir",
+    "lat": 34.0911,
+    "lng": 74.8061,
+    "wikidata": "Q170115",
+    "wikidata_label": "Srinagar",
+    "origin_geo_precision": "region"
+  },
+  "lingayatism": {
+    "decision": "pin",
+    "place_name": "Kudalasangama, Karnataka, India",
+    "lat": 16.2036,
+    "lng": 76.06,
+    "wikidata": "Q3630885",
+    "wikidata_label": "Kudalasangama"
+  },
+  "linji-chan": {
+    "decision": "pin",
+    "place_name": "Linji Temple, Zhengding, Hebei, China",
+    "lat": 38.1351,
+    "lng": 114.5672,
+    "wikidata": "Q1826763",
+    "wikidata_label": "Linji Temple"
+  },
+  "mahasanghika": {
+    "decision": "region",
+    "place_name": "Pataliputra (Patna), Bihar, India",
+    "lat": 25.61,
+    "lng": 85.1414,
+    "wikidata": "Q80484",
+    "wikidata_label": "Patna",
+    "origin_geo_precision": "region"
+  },
+  "nath-tradition": {
+    "decision": "pin",
+    "place_name": "Gorakhpur, Uttar Pradesh, India",
+    "lat": 26.7611,
+    "lng": 83.3667,
+    "wikidata": "Q5584396",
+    "wikidata_label": "Gorakhpur"
+  },
+  "navayana": {
+    "decision": "pin",
+    "place_name": "Deekshabhoomi, Nagpur, Maharashtra, India",
+    "lat": 21.1281,
+    "lng": 79.0669,
+    "wikidata": "Q1182325",
+    "wikidata_label": "Deekshabhoomi"
+  },
+  "newar-buddhism": {
+    "decision": "region",
+    "place_name": "Swayambhunath, Kathmandu Valley, Nepal",
+    "lat": 27.715,
+    "lng": 85.29,
+    "wikidata": "Q12946982",
+    "wikidata_label": "Swayambhunath",
+    "origin_geo_precision": "region"
+  },
+  "nyingma": {
+    "decision": "pin",
+    "place_name": "Samye Monastery, Tibet",
+    "lat": 29.3264,
+    "lng": 91.5042,
+    "wikidata": "Q1430211",
+    "wikidata_label": "Samye"
+  },
+  "plum-village-tradition": {
+    "decision": "pin",
+    "place_name": "Plum Village, Dordogne, France",
+    "lat": 44.7436,
+    "lng": 0.3434,
+    "wikidata": "Q2099678",
+    "wikidata_label": "Plum Village Monastery"
+  },
+  "purva-mimamsa": {
+    "decision": "region",
+    "place_name": "Kashi (Varanasi), Uttar Pradesh, India",
+    "lat": 25.3189,
+    "lng": 83.0128,
+    "wikidata": "Q79980",
+    "wikidata_label": "Varanasi",
+    "origin_geo_precision": "region",
+    "note": "Kashi was the principal Mimamsa centre; the school itself has no point of origin."
+  },
+  "pushtimarg": {
+    "decision": "pin",
+    "place_name": "Nathdwara, Rajasthan, India",
+    "lat": 24.9292,
+    "lng": 73.8194,
+    "wikidata": "Q2281634",
+    "wikidata_label": "Nathdwara"
+  },
+  "ramakrishna-movement": {
+    "decision": "pin",
+    "place_name": "Belur Math, West Bengal, India",
+    "lat": 22.6324,
+    "lng": 88.3565,
+    "wikidata": "Q816234",
+    "wikidata_label": "Belur Math"
+  },
+  "ramanandi-sampradaya": {
+    "decision": "region",
+    "place_name": "Ayodhya, Uttar Pradesh, India",
+    "lat": 26.8,
+    "lng": 82.2,
+    "wikidata": "Q1814132",
+    "wikidata_label": "Ayodhya district",
+    "origin_geo_precision": "region"
+  },
+  "rinzai-zen": {
+    "decision": "pin",
+    "place_name": "Kennin-ji, Kyoto, Japan",
+    "lat": 35.001,
+    "lng": 135.7737,
+    "wikidata": "Q1440954",
+    "wikidata_label": "Kennin-ji Temple"
+  },
+  "sakya": {
+    "decision": "pin",
+    "place_name": "Sakya Monastery, Tibet",
+    "lat": 28.9048,
+    "lng": 88.0178,
+    "wikidata": "Q1585564",
+    "wikidata_label": "Sakya Monastery"
+  },
+  "sautrantika": {
+    "decision": "region",
+    "place_name": "Purushapura (Peshawar), Gandhara",
+    "lat": 34.0144,
+    "lng": 71.5675,
+    "wikidata": "Q1113311",
+    "wikidata_label": "Peshawar",
+    "origin_geo_precision": "region",
+    "note": "A doxographic label rather than a located school."
+  },
+  "self-realization-fellowship": {
+    "decision": "pin",
+    "place_name": "Mount Washington, Los Angeles, California, USA",
+    "lat": 34.1119,
+    "lng": -118.1981,
+    "wikidata": "Q3135438",
+    "wikidata_label": "Highland Park, Los Angeles"
+  },
+  "shuddhadvaita": {
+    "decision": "pin",
+    "place_name": "Gokul, Uttar Pradesh, India",
+    "lat": 27.45,
+    "lng": 77.72,
+    "wikidata": "Q12424362",
+    "wikidata_label": "Gokul"
+  },
+  "smartism": {
+    "decision": "pin",
+    "place_name": "Sringeri Sharada Peetham, Karnataka, India",
+    "lat": 13.4165,
+    "lng": 75.2519,
+    "wikidata": "Q7586433",
+    "wikidata_label": "Sringeri Sharada Peetham"
+  },
+  "sri-vaishnavism": {
+    "decision": "pin",
+    "place_name": "Srirangam, Tamil Nadu, India",
+    "lat": 10.87,
+    "lng": 78.68,
+    "wikidata": "Q2304639",
+    "wikidata_label": "Srirangam"
+  },
+  "swaminarayan-sampradaya": {
+    "decision": "pin",
+    "place_name": "Vadtal, Gujarat, India",
+    "lat": 22.59,
+    "lng": 72.87,
+    "wikidata": "Q2771876",
+    "wikidata_label": "Vadtal"
+  },
+  "tendai": {
+    "decision": "pin",
+    "place_name": "Enryaku-ji, Mount Hiei, Japan",
+    "lat": 35.0706,
+    "lng": 135.8411,
+    "wikidata": "Q917195",
+    "wikidata_label": "Enryaku-ji Temple"
+  },
+  "transcendental-meditation": {
+    "decision": "pin",
+    "place_name": "Rishikesh, Uttarakhand, India",
+    "lat": 30.1,
+    "lng": 78.3,
+    "wikidata": "Q502141",
+    "wikidata_label": "Rishikesh"
+  },
+  "varkari-tradition": {
+    "decision": "pin",
+    "place_name": "Pandharpur, Maharashtra, India",
+    "lat": 17.67,
+    "lng": 75.33,
+    "wikidata": "Q1779418",
+    "wikidata_label": "Pandharpur"
+  },
+  "ajivika": {
+    "decision": "region",
+    "place_name": "Shravasti, Uttar Pradesh, India",
+    "lat": 27.702,
+    "lng": 81.9348,
+    "wikidata": "Q1945458",
+    "wikidata_label": "Shravasti district",
+    "origin_geo_precision": "region"
+  },
+  "ajnana": {
+    "decision": "region",
+    "place_name": "Rajgir, Magadha, India",
+    "lat": 25.03,
+    "lng": 85.42,
+    "wikidata": "Q863683",
+    "wikidata_label": "Rajgir",
+    "origin_geo_precision": "region"
+  },
+  "gelug": {
+    "decision": "pin",
+    "place_name": "Ganden Monastery, Tibet",
+    "lat": 29.7585,
+    "lng": 91.4763,
+    "wikidata": "Q932446",
+    "wikidata_label": "Ganden Monastery"
+  },
+  "jogye-order": {
+    "decision": "pin",
+    "place_name": "Jogyesa, Seoul, South Korea",
+    "lat": 37.5739,
+    "lng": 126.9819,
+    "wikidata": "Q488824",
+    "wikidata_label": "Jogyesa"
+  },
+  "kalikula": {
+    "decision": "pin",
+    "place_name": "Kalighat Kali Temple, Kolkata, India",
+    "lat": 22.5203,
+    "lng": 88.3421,
+    "wikidata": "Q535970",
+    "wikidata_label": "Kalighat Kali Temple"
+  },
+  "pudgalavada": {
+    "decision": "region",
+    "place_name": "Kaushambi (Vatsa), Uttar Pradesh, India",
+    "lat": 25.5307,
+    "lng": 81.3773,
+    "wikidata": "Q1946937",
+    "wikidata_label": "Kaushambi district",
+    "origin_geo_precision": "region",
+    "note": "Association with Vatsa is inferred from the Vatsiputriya name."
+  },
+  "soka-gakkai": {
+    "decision": "pin",
+    "place_name": "Shinanomachi, Shinjuku, Tokyo, Japan",
+    "lat": 35.6823,
+    "lng": 139.7193,
+    "wikidata": "Q3482165",
+    "wikidata_label": "Shinanomachi"
+  },
+  "srikula": {
+    "decision": "pin",
+    "place_name": "Kamakshi Amman Temple, Kanchipuram, India",
+    "lat": 12.8407,
+    "lng": 79.7032,
+    "wikidata": "Q2738610",
+    "wikidata_label": "Kamakshi Amman Temple"
+  },
+  "thai-forest-tradition": {
+    "decision": "region",
+    "place_name": "Ubon Ratchathani, Isan, Thailand",
+    "lat": 15.2294,
+    "lng": 104.8511,
+    "wikidata": "Q629024",
+    "wikidata_label": "Ubon Ratchathani",
+    "origin_geo_precision": "region"
+  },
+  "christianity": {
+    "decision": "region",
+    "place_name": "Mount Zion, Jerusalem",
+    "lat": 31.7717,
+    "lng": 35.2286,
+    "wikidata": "Q332444",
+    "wikidata_label": "Mount Zion",
+    "origin_geo_precision": "region"
+  },
+  "judaism": {
+    "decision": "region",
+    "place_name": "Temple Mount, Jerusalem",
+    "lat": 31.7778,
+    "lng": 35.2356,
+    "wikidata": "Q193163",
+    "wikidata_label": "Temple Mount",
+    "origin_geo_precision": "region"
+  },
+  "islam": {
+    "decision": "pin",
+    "place_name": "Mecca, Hejaz",
+    "lat": 21.4225,
+    "lng": 39.8233,
+    "wikidata": "Q5806",
+    "wikidata_label": "Mecca"
+  },
+  "catholicism": {
+    "decision": "pin",
+    "place_name": "St Peter's Basilica, Vatican City",
+    "lat": 41.9022,
+    "lng": 12.4534,
+    "wikidata": "Q12512",
+    "wikidata_label": "St. Peter's Basilica"
+  },
+  "protestantism": {
+    "decision": "pin",
+    "place_name": "Wittenberg, Saxony-Anhalt, Germany",
+    "lat": 51.8671,
+    "lng": 12.6484,
+    "wikidata": "Q6837",
+    "wikidata_label": "Lutherstadt Wittenberg"
+  },
+  "eastern-orthodoxy": {
+    "decision": "region",
+    "place_name": "Constantinople (Istanbul), Turkey",
+    "lat": 41.01,
+    "lng": 28.9603,
+    "wikidata": "Q406",
+    "wikidata_label": "Istanbul",
+    "origin_geo_precision": "region"
+  },
+  "sufism": {
+    "decision": "region",
+    "place_name": "Basra, Iraq",
+    "lat": 30.515,
+    "lng": 47.81,
+    "wikidata": "Q48195",
+    "wikidata_label": "Basra",
+    "origin_geo_precision": "region",
+    "note": "Early ascetic milieu; Sufism has no single founding site."
+  },
+  "rabbinic-judaism": {
+    "decision": "pin",
+    "place_name": "Yavne, Israel",
+    "lat": 31.8833,
+    "lng": 34.7333,
+    "wikidata": "Q167677",
+    "wikidata_label": "Yavne"
+  },
+  "sunni-islam": {
+    "decision": "region",
+    "place_name": "Medina, Hejaz",
+    "lat": 24.47,
+    "lng": 39.61,
+    "wikidata": "Q35484",
+    "wikidata_label": "Medina",
+    "origin_geo_precision": "region"
+  },
+  "shia-islam": {
+    "decision": "region",
+    "place_name": "Kufa, Iraq",
+    "lat": 32.03,
+    "lng": 44.4,
+    "wikidata": "Q186234",
+    "wikidata_label": "Kufa",
+    "origin_geo_precision": "region"
+  },
+  "oriental-orthodoxy": {
+    "decision": "region",
+    "place_name": "Wadi El Natrun, Egypt",
+    "lat": 30.4167,
+    "lng": 30.3333,
+    "wikidata": "Q1074945",
+    "wikidata_label": "Wadi El Natrun",
+    "origin_geo_precision": "region"
+  },
+  "adventism": {
+    "decision": "pin",
+    "place_name": "Low Hampton, New York, USA",
+    "lat": 43.5859,
+    "lng": -73.2984,
+    "wikidata": "Q122555621",
+    "wikidata_label": "Low Hampton",
+    "note": "William Miller's farm; origin of the Millerite movement."
+  },
+  "gnosticism": {
+    "decision": "region",
+    "place_name": "Nag Hammadi, Egypt",
+    "lat": 26.05,
+    "lng": 32.25,
+    "wikidata": "Q270754",
+    "wikidata_label": "Nag Hammadi",
+    "origin_geo_precision": "region",
+    "note": "Findspot of the codices; the category itself is contested."
+  },
+  "restoration-movement": {
+    "decision": "pin",
+    "place_name": "Cane Ridge Meeting House, Kentucky, USA",
+    "lat": 38.2126,
+    "lng": -84.1192,
+    "wikidata": "Q5032202",
+    "wikidata_label": "Cane Ridge Meeting House"
+  },
+  "armstrongism": {
+    "decision": "pin",
+    "place_name": "Eugene, Oregon, USA",
+    "lat": 44.0564,
+    "lng": -123.1175,
+    "wikidata": "Q171224",
+    "wikidata_label": "Eugene, Oregon"
+  },
+  "ecumenical-patriarchate-constantinople": {
+    "decision": "pin",
+    "place_name": "St George's Cathedral, Phanar, Istanbul",
+    "lat": 41.0291,
+    "lng": 28.9519,
+    "wikidata": "Q1346546",
+    "wikidata_label": "St. George's Cathedral, Istanbul"
+  },
+  "hasidic-judaism": {
+    "decision": "pin",
+    "place_name": "Medzhybizh, Ukraine",
+    "lat": 49.436,
+    "lng": 27.395,
+    "wikidata": "Q1022485",
+    "wikidata_label": "Medzhybizh"
+  },
+  "ismailism": {
+    "decision": "region",
+    "place_name": "Salamiyah, Syria",
+    "lat": 35.0111,
+    "lng": 37.0531,
+    "wikidata": "Q75621",
+    "wikidata_label": "Salamiyah",
+    "origin_geo_precision": "region"
+  },
+  "second-temple-judaism": {
+    "decision": "region",
+    "place_name": "Jerusalem",
+    "lat": 31.7789,
+    "lng": 35.2256,
+    "wikidata": "Q1218",
+    "wikidata_label": "Jerusalem",
+    "origin_geo_precision": "region"
+  },
+  "twelver-shia": {
+    "decision": "region",
+    "place_name": "Samarra, Iraq",
+    "lat": 34.1959,
+    "lng": 43.8857,
+    "wikidata": "Q170047",
+    "wikidata_label": "Samarra",
+    "origin_geo_precision": "region",
+    "note": "Seat of the eleventh Imam and the occultation."
+  },
+  "alevi-traditions": {
+    "decision": "region",
+    "place_name": "Hacibektas, Nevsehir, Turkey",
+    "lat": 38.9406,
+    "lng": 34.5575,
+    "wikidata": "Q736588",
+    "wikidata_label": "Hacıbektaş",
+    "origin_geo_precision": "region"
+  },
+  "babism": {
+    "decision": "pin",
+    "place_name": "Shiraz, Fars, Iran",
+    "lat": 29.6103,
+    "lng": 52.5311,
+    "wikidata": "Q6397066",
+    "wikidata_label": "Shiraz"
+  },
+  "church-of-the-east": {
+    "decision": "region",
+    "place_name": "Seleucia-Ctesiphon, Iraq",
+    "lat": 33.0936,
+    "lng": 44.5808,
+    "wikidata": "Q192541",
+    "wikidata_label": "Ctesiphon",
+    "origin_geo_precision": "region"
+  },
+  "hanafi-school": {
+    "decision": "region",
+    "place_name": "Abu Hanifa Mosque, Baghdad, Iraq",
+    "lat": 33.372,
+    "lng": 44.3584,
+    "wikidata": "Q334716",
+    "wikidata_label": "Abu Hanifa Mosque",
+    "origin_geo_precision": "region"
+  },
+  "methodism": {
+    "decision": "pin",
+    "place_name": "Oxford, England",
+    "lat": 51.755,
+    "lng": -1.255,
+    "wikidata": "Q34433",
+    "wikidata_label": "University of Oxford",
+    "note": "The Holy Club."
+  },
+  "orthodox-judaism": {
+    "decision": "region",
+    "place_name": "Pressburg (Bratislava), Slovakia",
+    "lat": 48.1517,
+    "lng": 17.1093,
+    "wikidata": "Q1780",
+    "wikidata_label": "Bratislava",
+    "origin_geo_precision": "region"
+  },
+  "quakers": {
+    "decision": "region",
+    "place_name": "Pendle Hill, Lancashire, England",
+    "lat": 53.869,
+    "lng": -2.3,
+    "wikidata": "Q3374661",
+    "wikidata_label": "Pendle Hill",
+    "origin_geo_precision": "region"
+  },
+  "russian-orthodox-church": {
+    "decision": "pin",
+    "place_name": "Danilov Monastery, Moscow, Russia",
+    "lat": 55.7108,
+    "lng": 37.6306,
+    "wikidata": "Q658262",
+    "wikidata_label": "Danilov Monastery"
+  },
+  "syriac-orthodoxy": {
+    "decision": "region",
+    "place_name": "Mor Hananyo Monastery, Mardin, Turkey",
+    "lat": 37.2994,
+    "lng": 40.7926,
+    "wikidata": "Q1776325",
+    "wikidata_label": "Mor Hananyo Monastery",
+    "origin_geo_precision": "region"
+  },
+  "anabaptism": {
+    "decision": "pin",
+    "place_name": "Zurich, Switzerland",
+    "lat": 47.3744,
+    "lng": 8.5411,
+    "wikidata": "Q72",
+    "wikidata_label": "Zurich"
+  },
+  "barelvi-movement": {
+    "decision": "pin",
+    "place_name": "Bareilly, Uttar Pradesh, India",
+    "lat": 28.364,
+    "lng": 79.415,
+    "wikidata": "Q213026",
+    "wikidata_label": "Bareilly"
+  },
+  "deobandi-movement": {
+    "decision": "pin",
+    "place_name": "Darul Uloom Deoband, Uttar Pradesh, India",
+    "lat": 29.6922,
+    "lng": 77.6775,
+    "wikidata": "Q1165608",
+    "wikidata_label": "Darul Uloom Deoband"
+  },
+  "hanbali-school": {
+    "decision": "region",
+    "place_name": "Baghdad, Iraq",
+    "lat": 33.3153,
+    "lng": 44.3661,
+    "wikidata": "Q1530",
+    "wikidata_label": "Baghdad",
+    "origin_geo_precision": "region"
+  },
+  "iglesia-ni-cristo": {
+    "decision": "pin",
+    "place_name": "Santa Ana, Manila, Philippines",
+    "lat": 14.58,
+    "lng": 121.012,
+    "wikidata": "Q7419141",
+    "wikidata_label": "Santa Ana, Manila"
+  },
+  "kabbalah": {
+    "decision": "region",
+    "place_name": "Girona, Catalonia, Spain",
+    "lat": 41.9833,
+    "lng": 2.8167,
+    "wikidata": "Q7038",
+    "wikidata_label": "Girona",
+    "origin_geo_precision": "region"
+  },
+  "amoraic-judaism": {
+    "decision": "region",
+    "place_name": "Tiberias, Galilee",
+    "lat": 32.7944,
+    "lng": 35.5333,
+    "wikidata": "Q151920",
+    "wikidata_label": "Tiberias",
+    "origin_geo_precision": "region",
+    "note": "Twin centres in Galilee and Babylonia."
+  },
+  "ancient-israelite-religion": {
+    "decision": "region",
+    "place_name": "Shiloh, Samaria",
+    "lat": 32.0557,
+    "lng": 35.2895,
+    "wikidata": "Q985542",
+    "wikidata_label": "Shiloh",
+    "origin_geo_precision": "region"
+  },
+  "armenian-apostolic-church": {
+    "decision": "pin",
+    "place_name": "Etchmiadzin Cathedral, Armenia",
+    "lat": 40.1619,
+    "lng": 44.291,
+    "wikidata": "Q1294648",
+    "wikidata_label": "Etchmiadzin Cathedral"
+  },
+  "ashari-theology": {
+    "decision": "region",
+    "place_name": "Baghdad, Iraq",
+    "lat": 33.3153,
+    "lng": 44.3661,
+    "wikidata": "Q1530",
+    "wikidata_label": "Baghdad",
+    "origin_geo_precision": "region"
+  },
+  "athari-theology": {
+    "decision": "region",
+    "place_name": "Damascus, Syria",
+    "lat": 33.5131,
+    "lng": 36.2919,
+    "wikidata": "Q3766",
+    "wikidata_label": "Damascus",
+    "origin_geo_precision": "region"
+  },
+  "bahai-faith": {
+    "decision": "pin",
+    "place_name": "Baghdad, Iraq",
+    "lat": 33.3153,
+    "lng": 44.3661,
+    "wikidata": "Q1530",
+    "wikidata_label": "Baghdad",
+    "note": "The 1863 Ridvan declaration; the world centre is later, at Haifa/Acre."
+  },
+  "bulgarian-orthodox-church": {
+    "decision": "pin",
+    "place_name": "Sofia, Bulgaria",
+    "lat": 42.6979,
+    "lng": 23.3217,
+    "wikidata": "Q472",
+    "wikidata_label": "Sofia"
+  },
+  "christian-church-disciples-of-christ": {
+    "decision": "pin",
+    "place_name": "Indianapolis, Indiana, USA",
+    "lat": 39.7686,
+    "lng": -86.1581,
+    "wikidata": "Q6346",
+    "wikidata_label": "Indianapolis"
+  },
+  "church-of-god-seventh-day": {
+    "decision": "pin",
+    "place_name": "Denver, Colorado, USA",
+    "lat": 39.7392,
+    "lng": -104.9847,
+    "wikidata": "Q16554",
+    "wikidata_label": "Denver"
+  },
+  "church-of-greece": {
+    "decision": "pin",
+    "place_name": "Athens, Greece",
+    "lat": 37.9842,
+    "lng": 23.7281,
+    "wikidata": "Q1524",
+    "wikidata_label": "Athens"
+  },
+  "churches-of-christ": {
+    "decision": "region",
+    "place_name": "Nashville, Tennessee, USA",
+    "lat": 36.1622,
+    "lng": -86.7744,
+    "wikidata": "Q23197",
+    "wikidata_label": "Nashville",
+    "origin_geo_precision": "region"
+  },
+  "coptic-orthodoxy": {
+    "decision": "pin",
+    "place_name": "St Mark's Coptic Orthodox Cathedral, Alexandria, Egypt",
+    "lat": 31.1983,
+    "lng": 29.8994,
+    "wikidata": "Q1581553",
+    "wikidata_label": "Saint Mark's Coptic Orthodox Cathedral"
+  },
+  "ebionites": {
+    "decision": "region",
+    "place_name": "Pella, Decapolis, Jordan",
+    "lat": 32.45,
+    "lng": 35.6167,
+    "wikidata": "Q167993",
+    "wikidata_label": "Pella, Jordan",
+    "origin_geo_precision": "region"
+  },
+  "eritrean-orthodox-tewahedo-church": {
+    "decision": "pin",
+    "place_name": "Asmara, Eritrea",
+    "lat": 15.3333,
+    "lng": 38.9167,
+    "wikidata": "Q3642",
+    "wikidata_label": "Asmara"
+  },
+  "evangelicalism": {
+    "decision": "region",
+    "place_name": "Northampton, Massachusetts, USA",
+    "lat": 42.3333,
+    "lng": -72.65,
+    "wikidata": "Q49186",
+    "wikidata_label": "Northampton, Massachusetts",
+    "origin_geo_precision": "region",
+    "note": "Transatlantic revival; the Northampton awakening is one anchor of several."
+  },
+  "ibadi-islam": {
+    "decision": "region",
+    "place_name": "Nizwa, Oman",
+    "lat": 22.9333,
+    "lng": 57.5333,
+    "wikidata": "Q1915327",
+    "wikidata_label": "Nizwa",
+    "origin_geo_precision": "region"
+  },
+  "international-churches-of-christ": {
+    "decision": "pin",
+    "place_name": "Boston, Massachusetts, USA",
+    "lat": 42.3603,
+    "lng": -71.0578,
+    "wikidata": "Q100",
+    "wikidata_label": "Boston"
+  },
+  "lurianic-kabbalah": {
+    "decision": "pin",
+    "place_name": "Safed, Galilee",
+    "lat": 32.9658,
+    "lng": 35.4983,
+    "wikidata": "Q188336",
+    "wikidata_label": "Safed"
+  },
+  "marcionite-christianity": {
+    "decision": "pin",
+    "place_name": "Sinope (Sinop), Turkey",
+    "lat": 42.0267,
+    "lng": 35.1511,
+    "wikidata": "Q599416",
+    "wikidata_label": "Sinop"
+  },
+  "maturidi-theology": {
+    "decision": "region",
+    "place_name": "Samarkand, Uzbekistan",
+    "lat": 39.6547,
+    "lng": 66.9758,
+    "wikidata": "Q5753",
+    "wikidata_label": "Samarkand",
+    "origin_geo_precision": "region"
+  },
+  "members-church-of-god-international": {
+    "decision": "pin",
+    "place_name": "Apalit, Pampanga, Philippines",
+    "lat": 14.9496,
+    "lng": 120.7587,
+    "wikidata": "Q55693",
+    "wikidata_label": "Apalit"
+  },
+  "messianic-judaism": {
+    "decision": "region",
+    "place_name": "Chicago, Illinois, USA",
+    "lat": 41.8819,
+    "lng": -87.6278,
+    "wikidata": "Q1297",
+    "wikidata_label": "Chicago",
+    "origin_geo_precision": "region",
+    "needs_verification": true,
+    "note": "US movement without a single founding site; anchor is provisional."
+  },
+  "mustali-ismailism": {
+    "decision": "pin",
+    "place_name": "Cairo, Egypt",
+    "lat": 30.0444,
+    "lng": 31.2358,
+    "wikidata": "Q85",
+    "wikidata_label": "Cairo",
+    "note": "The Fatimid succession dispute of 1094."
+  },
+  "nation-of-islam": {
+    "decision": "pin",
+    "place_name": "Detroit, Michigan, USA",
+    "lat": 42.3317,
+    "lng": -83.0475,
+    "wikidata": "Q12439",
+    "wikidata_label": "Detroit"
+  },
+  "nestorianism-historical-category": {
+    "decision": "region",
+    "place_name": "Ephesus, Anatolia",
+    "lat": 37.9397,
+    "lng": 27.3486,
+    "wikidata": "Q47611",
+    "wikidata_label": "Ephesus",
+    "origin_geo_precision": "region",
+    "note": "Site of the 431 council; the label is heresiological, not self-applied."
+  },
+  "orthodox-church-in-america": {
+    "decision": "pin",
+    "place_name": "Syosset, New York, USA",
+    "lat": 40.8128,
+    "lng": -73.5008,
+    "wikidata": "Q3056724",
+    "wikidata_label": "Syosset"
+  },
+  "pharisees": {
+    "decision": "region",
+    "place_name": "Jerusalem",
+    "lat": 31.7789,
+    "lng": 35.2256,
+    "wikidata": "Q1218",
+    "wikidata_label": "Jerusalem",
+    "origin_geo_precision": "region"
+  },
+  "polish-orthodox-church": {
+    "decision": "pin",
+    "place_name": "Warsaw, Poland",
+    "lat": 52.23,
+    "lng": 21.0111,
+    "wikidata": "Q270",
+    "wikidata_label": "Warsaw"
+  },
+  "restoration-branches": {
+    "decision": "pin",
+    "place_name": "Independence, Missouri, USA",
+    "lat": 39.0925,
+    "lng": -94.4139,
+    "wikidata": "Q24603",
+    "wikidata_label": "Independence, Missouri"
+  },
+  "salafism": {
+    "decision": "region",
+    "place_name": "Al-Azhar Mosque, Cairo, Egypt",
+    "lat": 30.0457,
+    "lng": 31.2627,
+    "wikidata": "Q312342",
+    "wikidata_label": "Al-Azhar Mosque",
+    "origin_geo_precision": "region"
+  },
+  "serbian-orthodox-church": {
+    "decision": "pin",
+    "place_name": "Zica Monastery, Serbia",
+    "lat": 43.6963,
+    "lng": 20.6457,
+    "wikidata": "Q1283823",
+    "wikidata_label": "Žiča"
+  },
+  "shaykhism": {
+    "decision": "region",
+    "place_name": "Karbala, Iraq",
+    "lat": 32.6167,
+    "lng": 44.0333,
+    "wikidata": "Q199909",
+    "wikidata_label": "Karbala",
+    "origin_geo_precision": "region"
+  },
+  "tannaitic-judaism": {
+    "decision": "region",
+    "place_name": "Beit She'arim, Galilee",
+    "lat": 32.6962,
+    "lng": 35.1773,
+    "wikidata": "Q1269256",
+    "wikidata_label": "Beit She'arim",
+    "origin_geo_precision": "region"
+  },
+  "tayyibi-ismailism": {
+    "decision": "region",
+    "place_name": "Sanaa (Haraz), Yemen",
+    "lat": 15.35,
+    "lng": 44.2,
+    "wikidata": "Q2471",
+    "wikidata_label": "Sanaa",
+    "origin_geo_precision": "region"
+  },
+  "advent-christian-church": {
+    "decision": "pin",
+    "place_name": "Salem, Massachusetts, USA",
+    "lat": 42.5194,
+    "lng": -70.8972,
+    "wikidata": "Q54140",
+    "wikidata_label": "Salem, Massachusetts"
+  },
+  "ahmadiyya": {
+    "decision": "pin",
+    "place_name": "Qadian, Punjab, India",
+    "lat": 31.8192,
+    "lng": 75.3764,
+    "wikidata": "Q1026436",
+    "wikidata_label": "Qadian"
+  },
+  "akhbari-twelver-shia": {
+    "decision": "region",
+    "place_name": "Manama, Bahrain",
+    "lat": 26.2167,
+    "lng": 50.5833,
+    "wikidata": "Q3882",
+    "wikidata_label": "Manama",
+    "origin_geo_precision": "region",
+    "needs_verification": true,
+    "note": "Bahrain was the Akhbari stronghold; al-Astarabadi wrote in Medina."
+  },
+  "alawite-tradition": {
+    "decision": "region",
+    "place_name": "Latakia, Syria",
+    "lat": 35.52,
+    "lng": 35.7781,
+    "wikidata": "Q200030",
+    "wikidata_label": "Latakia",
+    "origin_geo_precision": "region"
+  },
+  "antiochian-orthodox-church": {
+    "decision": "pin",
+    "place_name": "Mariamite Cathedral, Damascus, Syria",
+    "lat": 33.5094,
+    "lng": 36.3114,
+    "wikidata": "Q6416473",
+    "wikidata_label": "Mariamite Cathedral of Damascus"
+  },
+  "arian-christianity": {
+    "decision": "pin",
+    "place_name": "Alexandria, Egypt",
+    "lat": 31.1975,
+    "lng": 29.8925,
+    "wikidata": "Q87",
+    "wikidata_label": "Alexandria"
+  },
+  "ashkenazi-judaism": {
+    "decision": "region",
+    "place_name": "Worms, Rhineland, Germany",
+    "lat": 49.6303,
+    "lng": 8.3621,
+    "wikidata": "Q3852",
+    "wikidata_label": "Worms",
+    "origin_geo_precision": "region"
+  },
+  "azali-babism": {
+    "decision": "pin",
+    "place_name": "Famagusta, Cyprus",
+    "lat": 35.1167,
+    "lng": 33.95,
+    "wikidata": "Q193190",
+    "wikidata_label": "Famagusta",
+    "note": "Subh-i Azal's place of exile."
+  },
+  "beta-israel": {
+    "decision": "region",
+    "place_name": "Gondar, Ethiopia",
+    "lat": 12.6075,
+    "lng": 37.4592,
+    "wikidata": "Q218861",
+    "wikidata_label": "Gondar",
+    "origin_geo_precision": "region"
+  },
+  "breslov-hasidism": {
+    "decision": "pin",
+    "place_name": "Bratslav, Ukraine",
+    "lat": 48.8147,
+    "lng": 28.9447,
+    "wikidata": "Q903241",
+    "wikidata_label": "Bratslav"
+  },
+  "chabad-lubavitch": {
+    "decision": "pin",
+    "place_name": "Lyubavichi, Smolensk Oblast, Russia",
+    "lat": 54.8339,
+    "lng": 30.9581,
+    "wikidata": "Q898212",
+    "wikidata_label": "Lyubavichi, Rudnyansky District, Smolensk Oblast"
+  },
+  "chishtiyya": {
+    "decision": "pin",
+    "place_name": "Ajmer Sharif Dargah, Rajasthan, India",
+    "lat": 26.4573,
+    "lng": 74.6272,
+    "wikidata": "Q5222593",
+    "wikidata_label": "Ajmer Sharif Dargah"
+  },
+  "church-of-cyprus": {
+    "decision": "pin",
+    "place_name": "Nicosia, Cyprus",
+    "lat": 35.1725,
+    "lng": 33.365,
+    "wikidata": "Q3856",
+    "wikidata_label": "Nicosia"
+  },
+  "church-of-god-general-conference": {
+    "decision": "pin",
+    "place_name": "Waterloo, Iowa, USA",
+    "lat": 42.5139,
+    "lng": -92.3461,
+    "wikidata": "Q496381",
+    "wikidata_label": "Waterloo, Iowa"
+  },
+  "churches-of-christ-australia": {
+    "decision": "region",
+    "place_name": "Adelaide, South Australia",
+    "lat": -34.9275,
+    "lng": 138.6,
+    "wikidata": "Q5112",
+    "wikidata_label": "Adelaide",
+    "origin_geo_precision": "region"
+  },
+  "conservative-judaism": {
+    "decision": "pin",
+    "place_name": "Jewish Theological Seminary, New York City, USA",
+    "lat": 40.8119,
+    "lng": -73.9603,
+    "wikidata": "Q1688743",
+    "wikidata_label": "Jewish Theological Seminary of America"
+  },
+  "dawoodi-bohra": {
+    "decision": "pin",
+    "place_name": "Surat, Gujarat, India",
+    "lat": 21.205,
+    "lng": 72.84,
+    "wikidata": "Q4629",
+    "wikidata_label": "Surat"
+  },
+  "druze-faith": {
+    "decision": "region",
+    "place_name": "Hasbaya, Wadi al-Taym, Lebanon",
+    "lat": 33.3972,
+    "lng": 35.6833,
+    "wikidata": "Q594026",
+    "wikidata_label": "Hasbaya",
+    "origin_geo_precision": "region"
+  },
+  "essenes": {
+    "decision": "pin",
+    "place_name": "Qumran",
+    "lat": 31.7419,
+    "lng": 35.4599,
+    "wikidata": "Q223399",
+    "wikidata_label": "Qumran",
+    "note": "The Qumran identification is itself contested; see body text."
+  },
+  "geonic-judaism": {
+    "decision": "region",
+    "place_name": "Pumbedita (Fallujah), Iraq",
+    "lat": 33.35,
+    "lng": 43.7833,
+    "wikidata": "Q191170",
+    "wikidata_label": "Fallujah",
+    "origin_geo_precision": "region"
+  },
+  "georgian-orthodox-church": {
+    "decision": "pin",
+    "place_name": "Svetitskhoveli Cathedral, Mtskheta, Georgia",
+    "lat": 41.8423,
+    "lng": 44.721,
+    "wikidata": "Q1152972",
+    "wikidata_label": "Svetitskhoveli Cathedral"
+  },
+  "grace-communion-international": {
+    "decision": "pin",
+    "place_name": "Pasadena, California, USA",
+    "lat": 34.1475,
+    "lng": -118.1439,
+    "wikidata": "Q485176",
+    "wikidata_label": "Pasadena"
+  },
+  "haredi-judaism": {
+    "decision": "region",
+    "place_name": "Bnei Brak, Israel",
+    "lat": 32.0807,
+    "lng": 34.8338,
+    "wikidata": "Q152467",
+    "wikidata_label": "Bnei Brak",
+    "origin_geo_precision": "region"
+  },
+  "independent-christian-churches": {
+    "decision": "pin",
+    "place_name": "Cincinnati, Ohio, USA",
+    "lat": 39.1,
+    "lng": -84.5125,
+    "wikidata": "Q43196",
+    "wikidata_label": "Cincinnati"
+  },
+  "international-christian-church": {
+    "decision": "pin",
+    "place_name": "Los Angeles, California, USA",
+    "lat": 34.05,
+    "lng": -118.25,
+    "wikidata": "Q65",
+    "wikidata_label": "Los Angeles"
+  },
+  "jerusalem-orthodox-church": {
+    "decision": "pin",
+    "place_name": "Church of the Holy Sepulchre, Jerusalem",
+    "lat": 31.7784,
+    "lng": 35.2298,
+    "wikidata": "Q187702",
+    "wikidata_label": "Church of the Holy Sepulchre"
+  },
+  "karaite-judaism": {
+    "decision": "region",
+    "place_name": "Baghdad, Iraq",
+    "lat": 33.3153,
+    "lng": 44.3661,
+    "wikidata": "Q1530",
+    "wikidata_label": "Baghdad",
+    "origin_geo_precision": "region"
+  },
+  "la-luz-del-mundo": {
+    "decision": "pin",
+    "place_name": "Guadalajara, Jalisco, Mexico",
+    "lat": 20.6764,
+    "lng": -103.3422,
+    "wikidata": "Q9022",
+    "wikidata_label": "Guadalajara"
+  },
+  "living-church-of-god": {
+    "decision": "pin",
+    "place_name": "Charlotte, North Carolina, USA",
+    "lat": 35.2272,
+    "lng": -80.8431,
+    "wikidata": "Q16565",
+    "wikidata_label": "Charlotte, North Carolina"
+  },
+  "maliki-school": {
+    "decision": "region",
+    "place_name": "Prophet's Mosque, Medina, Hejaz",
+    "lat": 24.4683,
+    "lng": 39.6108,
+    "wikidata": "Q486080",
+    "wikidata_label": "Prophet's Mosque",
+    "origin_geo_precision": "region"
+  },
+  "mandeanism": {
+    "decision": "region",
+    "place_name": "Maysan, southern Iraq",
+    "lat": 31.9,
+    "lng": 47.0333,
+    "wikidata": "Q213170",
+    "wikidata_label": "Maysan Governorate",
+    "origin_geo_precision": "region"
+  },
+  "mevlevi-order": {
+    "decision": "pin",
+    "place_name": "Konya, Turkey",
+    "lat": 37.8728,
+    "lng": 32.4921,
+    "wikidata": "Q79857",
+    "wikidata_label": "Konya"
+  },
+  "mizrahi-judaism": {
+    "decision": "region",
+    "place_name": "Baghdad, Iraq",
+    "lat": 33.3153,
+    "lng": 44.3661,
+    "wikidata": "Q1530",
+    "wikidata_label": "Baghdad",
+    "origin_geo_precision": "region",
+    "note": "A modern umbrella over many communities; Baghdad is the largest single anchor."
+  },
+  "modern-orthodox-judaism": {
+    "decision": "region",
+    "place_name": "Frankfurt am Main, Germany",
+    "lat": 50.1106,
+    "lng": 8.6822,
+    "wikidata": "Q1794",
+    "wikidata_label": "Frankfurt",
+    "origin_geo_precision": "region"
+  },
+  "montanism": {
+    "decision": "pin",
+    "place_name": "Pepuza, Phrygia",
+    "lat": 38.4081,
+    "lng": 29.4614,
+    "wikidata": "Q1293474",
+    "wikidata_label": "Pepuza"
+  },
+  "naqshbandiyya": {
+    "decision": "region",
+    "place_name": "Bukhara, Uzbekistan",
+    "lat": 39.7747,
+    "lng": 64.4286,
+    "wikidata": "Q5764",
+    "wikidata_label": "Bukhara",
+    "origin_geo_precision": "region"
+  },
+  "nizari-ismailism": {
+    "decision": "pin",
+    "place_name": "Alamut Castle, Qazvin, Iran",
+    "lat": 36.4447,
+    "lng": 50.5861,
+    "wikidata": "Q4706020",
+    "wikidata_label": "Alamut Castle"
+  },
+  "orthodox-bahai-faith": {
+    "decision": "pin",
+    "place_name": "Roswell, New Mexico, USA",
+    "lat": 33.3942,
+    "lng": -104.5228,
+    "wikidata": "Q33561",
+    "wikidata_label": "Roswell, New Mexico"
+  },
+  "philadelphia-church-of-god": {
+    "decision": "pin",
+    "place_name": "Edmond, Oklahoma, USA",
+    "lat": 35.65,
+    "lng": -97.4667,
+    "wikidata": "Q862645",
+    "wikidata_label": "Edmond, Oklahoma"
+  },
+  "qadiriyya": {
+    "decision": "pin",
+    "place_name": "Baghdad (shrine of Abd al-Qadir al-Jilani), Iraq",
+    "lat": 33.3153,
+    "lng": 44.3661,
+    "wikidata": "Q1530",
+    "wikidata_label": "Baghdad"
+  },
+  "reconstructionist-judaism": {
+    "decision": "pin",
+    "place_name": "Upper West Side, New York City, USA",
+    "lat": 40.787,
+    "lng": -73.9754,
+    "wikidata": "Q429687",
+    "wikidata_label": "Upper West Side"
+  },
+  "reform-judaism": {
+    "decision": "pin",
+    "place_name": "Seesen, Lower Saxony, Germany",
+    "lat": 51.8931,
+    "lng": 10.1783,
+    "wikidata": "Q540934",
+    "wikidata_label": "Seesen"
+  },
+  "romanian-orthodox-church": {
+    "decision": "pin",
+    "place_name": "Bucharest, Romania",
+    "lat": 44.4134,
+    "lng": 26.0978,
+    "wikidata": "Q19660",
+    "wikidata_label": "Bucharest"
+  },
+  "sadducees": {
+    "decision": "region",
+    "place_name": "Jerusalem",
+    "lat": 31.7789,
+    "lng": 35.2256,
+    "wikidata": "Q1218",
+    "wikidata_label": "Jerusalem",
+    "origin_geo_precision": "region"
+  },
+  "samaritanism": {
+    "decision": "pin",
+    "place_name": "Mount Gerizim",
+    "lat": 32.1994,
+    "lng": 35.2728,
+    "wikidata": "Q1288751",
+    "wikidata_label": "Mount Gerizim"
+  },
+  "satmar-hasidism": {
+    "decision": "pin",
+    "place_name": "Satu Mare, Romania",
+    "lat": 47.79,
+    "lng": 22.89,
+    "wikidata": "Q185332",
+    "wikidata_label": "Satu Mare"
+  },
+  "sephardic-judaism": {
+    "decision": "region",
+    "place_name": "Cordoba, Andalusia, Spain",
+    "lat": 37.89,
+    "lng": -4.78,
+    "wikidata": "Q5818",
+    "wikidata_label": "Córdoba, Spain",
+    "origin_geo_precision": "region"
+  },
+  "shadhiliyya": {
+    "decision": "pin",
+    "place_name": "Humaithara, Egypt",
+    "lat": 24.2007,
+    "lng": 34.6356,
+    "wikidata": "Q12208913",
+    "wikidata_label": "Humaithara"
+  },
+  "shafii-school": {
+    "decision": "region",
+    "place_name": "Imam al-Shafi'i Mosque, Cairo, Egypt",
+    "lat": 30.012,
+    "lng": 31.2583,
+    "wikidata": "Q125375793",
+    "wikidata_label": "Imam Shafi'i Mosque",
+    "origin_geo_precision": "region"
+  },
+  "swedenborgianism": {
+    "decision": "pin",
+    "place_name": "London, England",
+    "lat": 51.5072,
+    "lng": -0.1275,
+    "wikidata": "Q84",
+    "wikidata_label": "London",
+    "note": "The New Church was organised in London in 1787."
+  },
+  "tijaniyya": {
+    "decision": "region",
+    "place_name": "Fez, Morocco",
+    "lat": 34.0433,
+    "lng": -5.0033,
+    "wikidata": "Q80985",
+    "wikidata_label": "Fez",
+    "origin_geo_precision": "region"
+  },
+  "unitarian-christianity": {
+    "decision": "region",
+    "place_name": "Kolozsvar (Cluj-Napoca), Transylvania",
+    "lat": 46.7689,
+    "lng": 23.5907,
+    "wikidata": "Q100188",
+    "wikidata_label": "Cluj-Napoca",
+    "origin_geo_precision": "region"
+  },
+  "united-church-of-god": {
+    "decision": "pin",
+    "place_name": "Milford, Ohio, USA",
+    "lat": 39.17,
+    "lng": -84.2811,
+    "wikidata": "Q2233852",
+    "wikidata_label": "Milford, Ohio"
+  },
+  "usuli-twelver-shia": {
+    "decision": "region",
+    "place_name": "Najaf, Iraq",
+    "lat": 32.029,
+    "lng": 44.3396,
+    "wikidata": "Q168193",
+    "wikidata_label": "Najaf",
+    "origin_geo_precision": "region"
+  },
+  "yahwism": {
+    "decision": "region",
+    "place_name": "Tel Arad, Israel",
+    "lat": 31.2808,
+    "lng": 35.125,
+    "wikidata": "Q2063578",
+    "wikidata_label": "Tel Arad",
+    "origin_geo_precision": "region"
+  },
+  "yazidism": {
+    "decision": "pin",
+    "place_name": "Lalish, Iraq",
+    "lat": 36.7714,
+    "lng": 43.3033,
+    "wikidata": "Q1017666",
+    "wikidata_label": "Lalish"
+  },
+  "zahiri-school": {
+    "decision": "region",
+    "place_name": "Baghdad, Iraq",
+    "lat": 33.3153,
+    "lng": 44.3661,
+    "wikidata": "Q1530",
+    "wikidata_label": "Baghdad",
+    "origin_geo_precision": "region"
+  },
+  "zaydism": {
+    "decision": "region",
+    "place_name": "Saada, Yemen",
+    "lat": 17.0667,
+    "lng": 43.9167,
+    "wikidata": "Q275732",
+    "wikidata_label": "Saada Governorate",
+    "origin_geo_precision": "region"
+  },
+  "zealots": {
+    "decision": "region",
+    "place_name": "Masada, Israel",
+    "lat": 31.3156,
+    "lng": 35.3539,
+    "wikidata": "Q186312",
+    "wikidata_label": "Masada",
+    "origin_geo_precision": "region"
+  },
+  "soto-zen": {
+    "decision": "pin",
+    "place_name": "Eihei-ji, Fukui, Japan",
+    "lat": 36.0566,
+    "lng": 136.3569,
+    "wikidata": "Q1303633",
+    "wikidata_label": "Eihei-ji Temple",
+    "note": "STEP 4.1 substring bug: currently pinned in Cairo because the id matched the rule for 'oto' (Ordo Templi Orientis)."
+  },
+  "omoto": {
+    "decision": "pin",
+    "place_name": "Ayabe, Kyoto Prefecture, Japan",
+    "lat": 35.2989,
+    "lng": 135.2588,
+    "wikidata": "Q694370",
+    "wikidata_label": "Ayabe",
+    "note": "STEP 4.1 substring bug: currently pinned in Cairo via the same 'oto' rule."
+  },
+  "dianic-wicca": {
+    "decision": "pin",
+    "place_name": "Los Angeles, California, USA",
+    "lat": 34.05,
+    "lng": -118.25,
+    "wikidata": "Q65",
+    "wikidata_label": "Los Angeles",
+    "note": "STEP 4.1: currently pinned to the New Forest via the 'wicca' rule; it is 1970s Los Angeles."
+  },
+  "korean-confucianism": {
+    "decision": "pin",
+    "place_name": "Sungkyunkwan, Seoul, South Korea",
+    "lat": 37.5856,
+    "lng": 126.9958,
+    "wikidata": "Q487180",
+    "wikidata_label": "Sungkyunkwan",
+    "note": "STEP 4.1: currently pinned to Qufu, China because a Confucian rule beat the /korean/ path rule."
+  }
+}

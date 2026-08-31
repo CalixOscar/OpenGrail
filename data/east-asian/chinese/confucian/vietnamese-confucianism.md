@@ -25,9 +25,9 @@ relations:
     certainty: academic_consensus
 origin_year: 50
 origin_geo:
-  lat: 35.9299
-  lng: 117.54
-  place_name: 'Qufu, Shandong, China'
+  lat: 21.0286
+  lng: 105.8356
+  place_name: 'Temple of Literature, Hanoi, Vietnam'
 extinct_year: null
 key_tenets:
   - >-

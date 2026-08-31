@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1988
 origin_geo:
-  lat: 51.9322
-  lng: 12.7244
-  place_name: 'Wittenberg, Saxony, Germany'
+  lat: 41.8819
+  lng: -87.6278
+  place_name: 'Chicago, Illinois, USA'
 extinct_year: null
 key_tenets:
   - >-

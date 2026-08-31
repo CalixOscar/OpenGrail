@@ -25,9 +25,10 @@ relations:
     certainty: academic_consensus
 origin_year: -1200
 origin_geo:
-  lat: 32.6588
-  lng: 51.5731
-  place_name: 'Isfahan, Iran'
+  lat: 36.7581
+  lng: 66.8981
+  place_name: 'Balkh, Bactria'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

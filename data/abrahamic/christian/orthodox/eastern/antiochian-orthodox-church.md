@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 50
 origin_geo:
-  lat: 32.085
-  lng: 35.5211
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 33.5094
+  lng: 36.3114
+  place_name: 'Mariamite Cathedral, Damascus, Syria'
 extinct_year: null
 key_tenets:
   - >-

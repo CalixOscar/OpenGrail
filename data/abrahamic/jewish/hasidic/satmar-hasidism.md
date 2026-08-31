@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1905
 origin_geo:
-  lat: 31.1142
-  lng: 34.5797
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 47.79
+  lng: 22.89
+  place_name: 'Satu Mare, Romania'
 extinct_year: null
 key_tenets:
   - >-

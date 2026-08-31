@@ -22,10 +22,8 @@ relations:
     type: influenced_by
     certainty: academic_consensus
 origin_year: 1850
-origin_geo:
-  lat: 51.7202
-  lng: -0.9847
-  place_name: 'London, England, UK'
+origin_geo_precision: none
+origin_note: 'A current, not a founded movement.'
 extinct_year: null
 key_tenets:
   - >-

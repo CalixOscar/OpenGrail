@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1850
 origin_geo:
-  lat: 24.8419
-  lng: 82.1977
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 22.59
+  lng: 72.87
+  place_name: 'Vadtal, Gujarat, India'
 extinct_year: null
 key_tenets:
   - >-

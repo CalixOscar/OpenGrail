@@ -6,9 +6,9 @@ color: '#a855f7'
 era_start: 1915 CE
 origin_year: 1915
 origin_geo:
-  lat: 40.7128
-  lng: -74.0060
-  place_name: 'New York City, New York, United States'
+  lat: 37.3361
+  lng: -121.8906
+  place_name: 'San Jose, California, USA'
 extinct_year: null
 epistemic_tier: academic_consensus
 summary: >-

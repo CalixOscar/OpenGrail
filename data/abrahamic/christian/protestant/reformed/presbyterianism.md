@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1560
 origin_geo:
-  lat: 45.9697
-  lng: 6.1138
-  place_name: 'Geneva, Switzerland'
+  lat: 55.9533
+  lng: -3.1892
+  place_name: 'Edinburgh, Scotland'
 extinct_year: null
 key_tenets:
   - >-

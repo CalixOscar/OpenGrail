@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 150
 origin_geo:
-  lat: 31.4799
-  lng: 34.4629
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 33.0936
+  lng: 44.5808
+  place_name: 'Seleucia-Ctesiphon, Iraq'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

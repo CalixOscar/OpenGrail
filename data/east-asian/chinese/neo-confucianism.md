@@ -24,9 +24,11 @@ relations:
     certainty: minority_scholarly
 origin_year: 1050
 origin_geo:
-  lat: 36.0236
-  lng: 117.0033
-  place_name: 'Qufu, Shandong, China'
+  lat: 34.6587
+  lng: 112.4245
+  place_name: 'Luoyang, Henan, China'
+origin_geo_precision: region
+origin_note: "The Cheng brothers' 11th-century Luoyang circle."
 extinct_year: null
 key_tenets:
   - >-

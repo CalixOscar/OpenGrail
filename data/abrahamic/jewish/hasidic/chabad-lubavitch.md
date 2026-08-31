@@ -22,9 +22,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1775
 origin_geo:
-  lat: 31.1978
-  lng: 34.9332
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 54.8339
+  lng: 30.9581
+  place_name: 'Lyubavichi, Smolensk Oblast, Russia'
 extinct_year: null
 key_tenets:
   - >-

@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 150
 origin_geo:
-  lat: 25.0763
-  lng: 82.1206
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 22.067
+  lng: 73.25
+  place_name: 'Kayavarohan (Karvan), Gujarat, India'
 extinct_year: null
 key_tenets:
   - >-

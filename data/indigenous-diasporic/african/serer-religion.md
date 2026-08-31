@@ -16,9 +16,9 @@ relations:
     certainty: academic_consensus
 origin_year: 0
 origin_geo:
-  lat: 7.6309
-  lng: 4.2233
-  place_name: 'Ile-Ife, Osun, Nigeria'
+  lat: 14.4628
+  lng: -16.2902
+  place_name: 'Diakhao, Sine, Fatick, Senegal'
 extinct_year: null
 key_tenets:
   - >-

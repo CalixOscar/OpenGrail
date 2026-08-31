@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1699
 origin_geo:
-  lat: 31.6962
-  lng: 74.9315
-  place_name: 'Amritsar, Punjab, India'
+  lat: 31.235
+  lng: 76.4988
+  place_name: 'Anandpur Sahib, Punjab, India'
 extinct_year: null
 key_tenets:
   - >-

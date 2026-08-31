@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 0
 origin_geo:
-  lat: 7.1749
-  lng: 4.7323
-  place_name: 'Ile-Ife, Osun, Nigeria'
+  lat: 6.1528
+  lng: 7.0306
+  place_name: 'Nri, Anambra, Nigeria'
+origin_note: 'Igbo, not Yoruba; Nri is the ritual centre.'
 extinct_year: null
 key_tenets:
   - >-

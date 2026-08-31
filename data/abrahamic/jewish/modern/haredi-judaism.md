@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1850
 origin_geo:
-  lat: 31.3704
-  lng: 34.334
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 32.0807
+  lng: 34.8338
+  place_name: 'Bnei Brak, Israel'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

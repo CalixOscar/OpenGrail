@@ -22,9 +22,9 @@ relations:
       (2011)
 origin_year: -1900
 origin_geo:
-  lat: 32.8228
-  lng: 44.659
-  place_name: 'Babylon, Mesopotamia'
+  lat: 32.5339
+  lng: 44.4214
+  place_name: 'Esagila, Babylon'
 extinct_year: -100
 key_tenets:
   - >-

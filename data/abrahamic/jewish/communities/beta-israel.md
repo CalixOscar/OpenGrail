@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1450
 origin_geo:
-  lat: 31.3167
-  lng: 34.803
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 12.6075
+  lng: 37.4592
+  place_name: 'Gondar, Ethiopia'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

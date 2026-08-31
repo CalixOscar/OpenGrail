@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 450
 origin_geo:
-  lat: 41.5834
-  lng: 12.5836
-  place_name: 'Rome, Latium, Italy'
+  lat: 33.9681
+  lng: 35.6336
+  place_name: 'Bkerké, Lebanon'
 extinct_year: null
 key_tenets:
   - >-

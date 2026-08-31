@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: -150
 origin_geo:
-  lat: 31.255
-  lng: 34.4812
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 31.7419
+  lng: 35.4599
+  place_name: 'Qumran'
+origin_note: 'The Qumran identification is itself contested; see body text.'
 extinct_year: null
 key_tenets:
   - >-

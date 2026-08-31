@@ -20,9 +20,10 @@ relations:
     certainty: academic_consensus
 origin_year: 50
 origin_geo:
-  lat: 32.6178
-  lng: 35.2491
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 31.3156
+  lng: 35.3539
+  place_name: 'Masada, Israel'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

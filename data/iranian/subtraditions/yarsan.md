@@ -26,9 +26,10 @@ relations:
     certainty: minority_scholarly
 origin_year: 1350
 origin_geo:
-  lat: 32.9667
-  lng: 51.387
-  place_name: 'Isfahan, Iran'
+  lat: 34.3369
+  lng: 47.0911
+  place_name: 'Kermanshah, Iran'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

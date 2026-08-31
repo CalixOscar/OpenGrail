@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1175
 origin_geo:
-  lat: 24.8529
-  lng: 82.4384
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 35.0052
+  lng: 135.7834
+  place_name: 'Chion-in, Kyoto, Japan'
 extinct_year: null
 key_tenets:
   - >-

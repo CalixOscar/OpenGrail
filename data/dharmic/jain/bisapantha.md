@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 0
 origin_geo:
-  lat: 25.5235
-  lng: 85.1792
-  place_name: 'Pataliputra (Patna), Bihar, India'
+  lat: 26.915
+  lng: 75.82
+  place_name: 'Jaipur, Rajasthan, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

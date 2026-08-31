@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1250
 origin_geo:
-  lat: 25.8219
-  lng: 82.8329
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 13.3322
+  lng: 74.7461
+  place_name: 'Udupi, Karnataka, India'
 extinct_year: null
 key_tenets:
   - >-

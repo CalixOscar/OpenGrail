@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1741
 origin_geo:
-  lat: 41.9275
-  lng: 12.8113
-  place_name: 'Rome, Latium, Italy'
+  lat: 30.0444
+  lng: 31.2358
+  place_name: 'Cairo, Egypt'
 extinct_year: null
 key_tenets:
   - >-

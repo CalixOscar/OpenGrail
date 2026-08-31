@@ -22,9 +22,9 @@ relations:
       (1989)
 origin_year: -1650
 origin_geo:
-  lat: 32.9762
-  lng: 44.3416
-  place_name: 'Babylon, Mesopotamia'
+  lat: 40.0197
+  lng: 34.6153
+  place_name: 'Hattusa, central Anatolia'
 extinct_year: -1180
 key_tenets:
   - >-

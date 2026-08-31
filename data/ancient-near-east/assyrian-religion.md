@@ -19,9 +19,9 @@ relations:
     citation: 'Simo Parpola and Robert M. Whiting, Assyria 1995 (1997)'
 origin_year: -2000
 origin_geo:
-  lat: 32.7807
-  lng: 44.6775
-  place_name: 'Babylon, Mesopotamia'
+  lat: 35.4567
+  lng: 43.2625
+  place_name: 'Assur, Upper Mesopotamia'
 extinct_year: -609
 key_tenets:
   - >-

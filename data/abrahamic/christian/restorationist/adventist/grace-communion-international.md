@@ -17,9 +17,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1995
 origin_geo:
-  lat: 32.5908
-  lng: 35.4682
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 34.1475
+  lng: -118.1439
+  place_name: 'Pasadena, California, USA'
 extinct_year: null
 key_tenets:
   - >-

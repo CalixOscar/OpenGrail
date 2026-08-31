@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 850
 origin_geo:
-  lat: 25.1381
-  lng: 83.443
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 27.4
+  lng: 116.2167
+  place_name: 'Yihuang (Caoshan), Jiangxi, China'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

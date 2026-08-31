@@ -18,9 +18,11 @@ relations:
     certainty: academic_consensus
 origin_year: 850
 origin_geo:
-  lat: 31.9315
-  lng: 34.2308
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 34.1959
+  lng: 43.8857
+  place_name: 'Samarra, Iraq'
+origin_geo_precision: region
+origin_note: 'Seat of the eleventh Imam and the occultation.'
 extinct_year: null
 key_tenets:
   - >-

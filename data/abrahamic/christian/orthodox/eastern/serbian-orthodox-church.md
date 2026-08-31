@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1219
 origin_geo:
-  lat: 32.5759
-  lng: 35.5281
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 43.6963
+  lng: 20.6457
+  place_name: 'Zica Monastery, Serbia'
 extinct_year: null
 key_tenets:
   - >-

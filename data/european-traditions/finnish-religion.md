@@ -19,9 +19,10 @@ relations:
     certainty: academic_consensus
 origin_year: 500
 origin_geo:
-  lat: 59.5883
-  lng: 17.6624
-  place_name: 'Old Uppsala, Uppland, Sweden'
+  lat: 64.9472
+  lng: 30.55
+  place_name: 'Vuokkiniemi (Voknavolok), Viena Karelia'
+origin_geo_precision: region
 extinct_year: 1300
 key_tenets:
   - >-

@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 140
 origin_geo:
-  lat: 31.3817
-  lng: 34.327
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 42.0267
+  lng: 35.1511
+  place_name: 'Sinope (Sinop), Turkey'
 extinct_year: null
 key_tenets:
   - >-

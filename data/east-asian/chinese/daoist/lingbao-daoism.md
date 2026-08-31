@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 350
 origin_geo:
-  lat: 34.8045
-  lng: 112.508
-  place_name: 'Luoyang, Henan, China'
+  lat: 28.0546
+  lng: 115.5462
+  place_name: 'Mount Gezao (Zhangshu), Jiangxi, China'
 extinct_year: null
 key_tenets:
   - >-

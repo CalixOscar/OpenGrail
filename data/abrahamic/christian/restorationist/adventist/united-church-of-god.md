@@ -17,9 +17,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1995
 origin_geo:
-  lat: 31.6069
-  lng: 34.2338
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 39.17
+  lng: -84.2811
+  place_name: 'Milford, Ohio, USA'
 extinct_year: null
 key_tenets:
   - >-

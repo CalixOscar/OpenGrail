@@ -22,9 +22,9 @@ relations:
     certainty: academic_consensus
 origin_year: -1500
 origin_geo:
-  lat: 32.9659
-  lng: 43.949
-  place_name: 'Babylon, Mesopotamia'
+  lat: 35.6019
+  lng: 35.7856
+  place_name: 'Ugarit (Ras Shamra), Syria'
 extinct_year: -1185
 key_tenets:
   - >-

@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1930
 origin_geo:
-  lat: 31.0525
-  lng: 35.7488
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 42.3317
+  lng: -83.0475
+  place_name: 'Detroit, Michigan, USA'
 extinct_year: null
 key_tenets:
   - >-

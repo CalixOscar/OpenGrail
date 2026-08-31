@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 750
 origin_geo:
-  lat: 25.446
-  lng: 83.129
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 10.1661
+  lng: 76.4389
+  place_name: 'Kalady, Ernakulam, Kerala, India'
+origin_note: "Shankara's birthplace."
 extinct_year: null
 key_tenets:
   - >-

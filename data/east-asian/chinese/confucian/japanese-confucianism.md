@@ -25,9 +25,9 @@ relations:
     certainty: academic_consensus
 origin_year: 550
 origin_geo:
-  lat: 35.352
-  lng: 117.2506
-  place_name: 'Qufu, Shandong, China'
+  lat: 35.7008
+  lng: 139.7664
+  place_name: 'Yushima Seido, Tokyo, Japan'
 extinct_year: null
 key_tenets:
   - >-

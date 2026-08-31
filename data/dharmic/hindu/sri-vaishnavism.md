@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 950
 origin_geo:
-  lat: 26.094
-  lng: 82.5886
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 10.87
+  lng: 78.68
+  place_name: 'Srirangam, Tamil Nadu, India'
 extinct_year: null
 key_tenets:
   - >-

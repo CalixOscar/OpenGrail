@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1250
 origin_geo:
-  lat: 32.0948
-  lng: 36.1401
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 37.8728
+  lng: 32.4921
+  place_name: 'Konya, Turkey'
 extinct_year: null
 key_tenets:
   - >-

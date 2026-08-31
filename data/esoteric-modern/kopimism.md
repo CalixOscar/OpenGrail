@@ -20,9 +20,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 2010
 origin_geo:
-  lat: 50.9615
-  lng: 0.0667
-  place_name: 'London, England, UK'
+  lat: 59.8498
+  lng: 17.6389
+  place_name: 'Uppsala, Sweden'
 extinct_year: null
 key_tenets:
   - >-

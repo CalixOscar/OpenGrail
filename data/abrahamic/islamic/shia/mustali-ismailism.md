@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1094
 origin_geo:
-  lat: 32.3103
-  lng: 35.9884
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 30.0444
+  lng: 31.2358
+  place_name: 'Cairo, Egypt'
+origin_note: 'The Fatimid succession dispute of 1094.'
 extinct_year: null
 key_tenets:
   - >-

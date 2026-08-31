@@ -16,9 +16,10 @@ relations:
     certainty: academic_consensus
 origin_year: -450
 origin_geo:
-  lat: 35.3575
-  lng: 116.5767
-  place_name: 'Qufu, Shandong, China'
+  lat: 35.0833
+  lng: 117.15
+  place_name: 'Tengzhou, Shandong, China'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

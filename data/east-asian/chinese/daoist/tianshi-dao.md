@@ -22,9 +22,9 @@ relations:
     certainty: academic_consensus
 origin_year: 142
 origin_geo:
-  lat: 34.6398
-  lng: 112.8494
-  place_name: 'Luoyang, Henan, China'
+  lat: 30.588
+  lng: 103.536
+  place_name: 'Mount Heming (Dayi), Sichuan, China'
 extinct_year: null
 key_tenets:
   - >-

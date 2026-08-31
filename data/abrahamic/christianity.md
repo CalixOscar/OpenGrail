@@ -34,9 +34,10 @@ relations:
       Apocalypticism, vol. 1 (1998)
 origin_year: 30
 origin_geo:
-  lat: 31.3215
-  lng: 35.7689
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 31.7717
+  lng: 35.2286
+  place_name: 'Mount Zion, Jerusalem'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -23,9 +23,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 2005
 origin_geo:
-  lat: 51.5891
-  lng: 0.4878
-  place_name: 'London, England, UK'
+  lat: 18.7889
+  lng: 98.9833
+  place_name: 'Chiang Mai, Thailand'
 extinct_year: null
 key_tenets:
   - >-

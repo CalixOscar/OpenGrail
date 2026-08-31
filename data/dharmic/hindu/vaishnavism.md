@@ -22,9 +22,11 @@ relations:
     certainty: academic_consensus
 origin_year: -150
 origin_geo:
-  lat: 24.553
-  lng: 82.5657
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 23.5493
+  lng: 77.8003
+  place_name: 'Heliodorus Pillar, Vidisha, Madhya Pradesh'
+origin_geo_precision: region
+origin_note: 'Earliest securely dated Vaishnava evidence (c. 113 BCE).'
 extinct_year: null
 key_tenets:
   - >-

@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1450
 origin_geo:
-  lat: 35.9559
-  lng: 116.7963
-  place_name: 'Qufu, Shandong, China'
+  lat: 36.3833
+  lng: 120.4667
+  place_name: 'Jimo, Qingdao, Shandong, China'
 extinct_year: null
 key_tenets:
   - >-

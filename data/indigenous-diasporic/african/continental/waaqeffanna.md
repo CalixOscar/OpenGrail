@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 0
 origin_geo:
-  lat: 7.5946
-  lng: 4.9835
-  place_name: 'Ile-Ife, Osun, Nigeria'
+  lat: 8.75
+  lng: 38.9833
+  place_name: 'Odaa Nabee, near Bishoftu, Oromia, Ethiopia'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

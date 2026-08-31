@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1050
 origin_geo:
-  lat: 8.1931
-  lng: 80.2535
-  place_name: 'Anuradhapura, North Central, Sri Lanka'
+  lat: 21.1725
+  lng: 94.86
+  place_name: 'Bagan, Myanmar'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

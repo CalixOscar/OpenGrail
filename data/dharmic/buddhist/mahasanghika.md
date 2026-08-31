@@ -20,9 +20,10 @@ relations:
     certainty: minority_scholarly
 origin_year: -350
 origin_geo:
-  lat: 25.6668
-  lng: 83.7092
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 25.61
+  lng: 85.1414
+  place_name: 'Pataliputra (Patna), Bihar, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1833
 origin_geo:
-  lat: 8.1824
-  lng: 80.6439
-  place_name: 'Anuradhapura, North Central, Sri Lanka'
+  lat: 13.7603
+  lng: 100.4999
+  place_name: 'Wat Bowonniwet, Bangkok, Thailand'
 extinct_year: null
 key_tenets:
   - >-

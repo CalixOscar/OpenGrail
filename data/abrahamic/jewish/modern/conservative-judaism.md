@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1850
 origin_geo:
-  lat: 31.6763
-  lng: 36.0656
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 40.8119
+  lng: -73.9603
+  place_name: 'Jewish Theological Seminary, New York City, USA'
 extinct_year: null
 key_tenets:
   - >-

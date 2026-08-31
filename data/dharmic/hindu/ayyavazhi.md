@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1830
 origin_geo:
-  lat: 25.3057
-  lng: 83.3602
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 8.12
+  lng: 77.49
+  place_name: 'Swamithope, Kanyakumari, Tamil Nadu, India'
 extinct_year: null
 key_tenets:
   - >-

@@ -22,10 +22,8 @@ relations:
     type: parallel_concept
     certainty: academic_consensus
 origin_year: -100000
-origin_geo:
-  lat: 7.3619
-  lng: 4.3631
-  place_name: 'Ile-Ife, Osun, Nigeria'
+origin_geo_precision: none
+origin_note: 'Cross-cultural family of practices; no origin to pin.'
 extinct_year: null
 key_tenets:
   - >-

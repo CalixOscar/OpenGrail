@@ -25,9 +25,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1830
 origin_geo:
-  lat: 40.9853
-  lng: -111.578
-  place_name: 'Salt Lake City (Temple Square), Utah, USA'
+  lat: 42.85
+  lng: -76.8667
+  place_name: 'Fayette, New York, USA'
 extinct_year: null
 key_tenets:
   - >-

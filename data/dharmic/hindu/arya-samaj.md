@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1875
 origin_geo:
-  lat: 25.6421
-  lng: 83.0083
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 19.0758
+  lng: 72.8775
+  place_name: 'Mumbai, Maharashtra, India'
 extinct_year: null
 key_tenets:
   - >-

@@ -22,9 +22,11 @@ relations:
     certainty: minority_scholarly
 origin_year: -3500
 origin_geo:
-  lat: 32.9691
-  lng: 44.8667
-  place_name: 'Babylon, Mesopotamia'
+  lat: 32.1261
+  lng: 45.2308
+  place_name: 'Nippur, Sumer'
+origin_geo_precision: region
+origin_note: 'Nippur (Ekur of Enlil) was the shared cultic centre of the Sumerian city-states.'
 extinct_year: -300
 key_tenets:
   - >-

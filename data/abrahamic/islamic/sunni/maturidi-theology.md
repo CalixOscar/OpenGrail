@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 950
 origin_geo:
-  lat: 32.1746
-  lng: 36.0957
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 39.6547
+  lng: 66.9758
+  place_name: 'Samarkand, Uzbekistan'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1982
 origin_geo:
-  lat: 25.8975
-  lng: 82.3327
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 44.7436
+  lng: 0.3434
+  place_name: 'Plum Village, Dordogne, France'
 extinct_year: null
 key_tenets:
   - >-

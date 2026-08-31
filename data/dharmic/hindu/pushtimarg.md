@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1450
 origin_geo:
-  lat: 24.5648
-  lng: 82.5589
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 24.9292
+  lng: 73.8194
+  place_name: 'Nathdwara, Rajasthan, India'
 extinct_year: null
 key_tenets:
   - >-

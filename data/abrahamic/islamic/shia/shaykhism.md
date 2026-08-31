@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1850
 origin_geo:
-  lat: 31.4411
-  lng: 36.1332
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 32.6167
+  lng: 44.0333
+  place_name: 'Karbala, Iraq'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

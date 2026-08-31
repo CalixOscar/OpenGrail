@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 550
 origin_geo:
-  lat: 26.057
-  lng: 82.5071
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 21.161
+  lng: 106.6975
+  place_name: 'Yen Tu Mountain, Quang Ninh, Vietnam'
 extinct_year: null
 key_tenets:
   - >-

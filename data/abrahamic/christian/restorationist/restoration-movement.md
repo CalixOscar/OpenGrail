@@ -22,9 +22,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1800
 origin_geo:
-  lat: 32.6176
-  lng: 35.1738
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 38.2126
+  lng: -84.1192
+  place_name: 'Cane Ridge Meeting House, Kentucky, USA'
 extinct_year: null
 key_tenets:
   - >-

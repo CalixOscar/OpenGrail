@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: -500
 origin_geo:
-  lat: 60.1835
-  lng: 17.587
-  place_name: 'Old Uppsala, Uppland, Sweden'
+  lat: 53.5775
+  lng: -6.6119
+  place_name: 'Hill of Tara, County Meath, Ireland'
+origin_geo_precision: region
 extinct_year: 600
 key_tenets:
   - >-

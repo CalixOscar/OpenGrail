@@ -21,10 +21,8 @@ relations:
     type: parallel_concept
     certainty: minority_scholarly
 origin_year: 1950
-origin_geo:
-  lat: 51.7006
-  lng: 0.8209
-  place_name: 'London, England, UK'
+origin_geo_precision: none
+origin_note: 'Analytical family.'
 extinct_year: null
 key_tenets:
   - >-

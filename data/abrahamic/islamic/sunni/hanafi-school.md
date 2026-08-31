@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 750
 origin_geo:
-  lat: 31.342
-  lng: 36.0747
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 33.372
+  lng: 44.3584
+  place_name: 'Abu Hanifa Mosque, Baghdad, Iraq'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

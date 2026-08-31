@@ -15,9 +15,10 @@ canonical_texts:
 relations: []
 origin_year: -500
 origin_geo:
-  lat: 59.7141
-  lng: 17.3943
-  place_name: 'Old Uppsala, Uppland, Sweden'
+  lat: 54.8833
+  lng: 24.85
+  place_name: 'Kernave, Lithuania'
+origin_geo_precision: region
 extinct_year: 1400
 key_tenets:
   - >-

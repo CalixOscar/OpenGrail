@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1650
 origin_geo:
-  lat: 51.7096
-  lng: 0.9242
-  place_name: 'London, England, UK'
+  lat: 51.3158
+  lng: 9.4979
+  place_name: 'Kassel, Hesse, Germany'
+origin_note: 'Place of publication of the Fama Fraternitatis (1614).'
 extinct_year: null
 key_tenets:
   - >-

@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1970
 origin_geo:
-  lat: 31.8302
-  lng: 36.2115
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 40.8128
+  lng: -73.5008
+  place_name: 'Syosset, New York, USA'
 extinct_year: null
 key_tenets:
   - >-

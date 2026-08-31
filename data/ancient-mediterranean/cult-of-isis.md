@@ -24,9 +24,10 @@ relations:
     citation: 'Laurent Bricault, Isis Pelagia (2020)'
 origin_year: -350
 origin_geo:
-  lat: 38.17
-  lng: 23.6793
-  place_name: 'Athens, Attica, Greece'
+  lat: 24.0215
+  lng: 32.8842
+  place_name: 'Philae, Aswan, Egypt'
+origin_geo_precision: region
 extinct_year: 535
 key_tenets:
   - >-

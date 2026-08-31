@@ -25,9 +25,11 @@ relations:
     certainty: academic_consensus
 origin_year: 450
 origin_geo:
-  lat: 30.943
-  lng: 34.9764
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 37.9397
+  lng: 27.3486
+  place_name: 'Ephesus, Anatolia'
+origin_geo_precision: region
+origin_note: 'Site of the 431 council; the label is heresiological, not self-applied.'
 extinct_year: null
 key_tenets:
   - >-

@@ -21,9 +21,9 @@ relations:
     certainty: minority_scholarly
 origin_year: 1750
 origin_geo:
-  lat: 51.1643
-  lng: -0.6189
-  place_name: 'London, England, UK'
+  lat: 51.5151
+  lng: -0.121
+  place_name: "Freemasons' Hall, London, England"
 extinct_year: null
 key_tenets:
   - >-

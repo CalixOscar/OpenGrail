@@ -17,10 +17,8 @@ relations:
     type: parallel_concept
     certainty: minority_scholarly
 origin_year: 0
-origin_geo:
-  lat: 50.9414
-  lng: -0.9282
-  place_name: 'London, England, UK'
+origin_geo_precision: none
+origin_note: 'A scholarly umbrella; London was doing what Ile-Ife did.'
 extinct_year: null
 key_tenets:
   - >-

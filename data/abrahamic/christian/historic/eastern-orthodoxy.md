@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 50
 origin_geo:
-  lat: 31.038
-  lng: 34.9087
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 41.01
+  lng: 28.9603
+  place_name: 'Constantinople (Istanbul), Turkey'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

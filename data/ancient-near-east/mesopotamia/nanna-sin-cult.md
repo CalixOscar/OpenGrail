@@ -25,9 +25,9 @@ relations:
     certainty: academic_consensus
 origin_year: -3000
 origin_geo:
-  lat: 32.7133
-  lng: 43.8226
-  place_name: 'Babylon, Mesopotamia'
+  lat: 30.9617
+  lng: 46.1051
+  place_name: 'Ur, Sumer'
 extinct_year: -300
 key_tenets:
   - >-

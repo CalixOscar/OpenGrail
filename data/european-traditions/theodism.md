@@ -24,9 +24,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1970
 origin_geo:
-  lat: 51.6746
-  lng: -1.2749
-  place_name: 'London, England, UK'
+  lat: 43.9756
+  lng: -75.9064
+  place_name: 'Watertown, New York, USA'
+origin_note: 'Founded 1976 in Watertown, New York by Garman Lord as the Moody Hill Theod / Winland Rice.'
 extinct_year: null
 key_tenets:
   - >-
@@ -42,6 +43,7 @@ key_tenets:
     sacral kingship, oath-bound community, and hierarchical customary
     relationships.
 sources:
+  - title: 'Michael F. Strmiska, Modern Paganism in World Cultures: Comparative Perspectives (ABC-CLIO, 2005)'
   - title: 'Encyclopaedia Britannica: "Theodism"'
     url: 'https://www.britannica.com/topic/theodism'
   - title: 'Oxford Reference: Overview of Theodism'

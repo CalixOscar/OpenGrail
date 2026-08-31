@@ -22,9 +22,10 @@ relations:
     certainty: minority_scholarly
 origin_year: 550
 origin_geo:
-  lat: 26.1676
-  lng: 82.9804
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 25.1368
+  lng: 85.4438
+  place_name: 'Nalanda Mahavihara, Bihar, India'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

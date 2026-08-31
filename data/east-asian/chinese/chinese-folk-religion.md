@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 0
 origin_geo:
-  lat: 35.6076
-  lng: 116.7523
-  place_name: 'Qufu, Shandong, China'
+  lat: 36.2667
+  lng: 117.1
+  place_name: 'Mount Tai, Shandong, China'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

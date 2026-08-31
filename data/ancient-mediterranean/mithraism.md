@@ -23,9 +23,11 @@ relations:
     citation: 'Manfred Clauss, The Roman Cult of Mithras (2000)'
 origin_year: 50
 origin_geo:
-  lat: 38.3332
-  lng: 23.7271
-  place_name: 'Athens, Attica, Greece'
+  lat: 41.7542
+  lng: 12.2875
+  place_name: 'Ostia Antica, Italy'
+origin_geo_precision: region
+origin_note: 'Densest surviving concentration of mithraea; the cult was empire-wide.'
 extinct_year: 400
 key_tenets:
   - >-

@@ -24,9 +24,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1960
 origin_geo:
-  lat: 50.9139
-  lng: -0.3334
-  place_name: 'London, England, UK'
+  lat: 57.653
+  lng: -3.592
+  place_name: 'Findhorn, Moray, Scotland'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

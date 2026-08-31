@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1960
 origin_geo:
-  lat: 32.6182
-  lng: 35.202
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 33.3942
+  lng: -104.5228
+  place_name: 'Roswell, New Mexico, USA'
 extinct_year: null
 key_tenets:
   - >-

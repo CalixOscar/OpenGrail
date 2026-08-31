@@ -19,9 +19,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1646
 origin_geo:
-  lat: 42.1545
-  lng: 12.9002
-  place_name: 'Rome, Latium, Italy'
+  lat: 48.6239
+  lng: 22.295
+  place_name: 'Uzhhorod, Transcarpathia'
 extinct_year: null
 key_tenets:
   - >-

@@ -21,9 +21,11 @@ relations:
     certainty: academic_consensus
 origin_year: 1960
 origin_geo:
-  lat: 30.921
-  lng: 35.2927
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 41.8819
+  lng: -87.6278
+  place_name: 'Chicago, Illinois, USA'
+origin_geo_precision: region
+origin_note: 'US movement without a single founding site; anchor is provisional.'
 extinct_year: null
 key_tenets:
   - >-

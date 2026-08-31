@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1650
 origin_geo:
-  lat: 34.8411
-  lng: 112.5521
-  place_name: 'Luoyang, Henan, China'
+  lat: 39.8989
+  lng: 116.338
+  place_name: 'White Cloud Temple, Beijing, China'
 extinct_year: null
 key_tenets:
   - >-

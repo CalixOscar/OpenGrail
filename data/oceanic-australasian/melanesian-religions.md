@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 0
 origin_geo:
-  lat: -19.3757
-  lng: 169.1477
-  place_name: 'Tanna Island (Mount Yasur), Vanuatu'
+  lat: -6
+  lng: 147
+  place_name: 'Papua New Guinea'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

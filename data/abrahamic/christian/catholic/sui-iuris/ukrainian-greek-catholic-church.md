@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1596
 origin_geo:
-  lat: 41.5114
-  lng: 12.171
-  place_name: 'Rome, Latium, Italy'
+  lat: 49.8425
+  lng: 24.0322
+  place_name: 'Lviv, Ukraine'
 extinct_year: null
 key_tenets:
   - >-

@@ -25,9 +25,11 @@ relations:
     certainty: academic_consensus
 origin_year: 1950
 origin_geo:
-  lat: 25.9144
-  lng: 82.7494
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 30.5563
+  lng: 114.3105
+  place_name: 'Wuchang, Wuhan, Hubei, China'
+origin_geo_precision: region
+origin_note: "Taixu's Wuchang Buddhist Institute."
 extinct_year: null
 key_tenets:
   - >-

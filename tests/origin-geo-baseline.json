@@ -1,6 +1,6 @@
 {
   "_comment": "Ratchet for docs/origin-geo-fallback-remediation-plan.md. These numbers may only go down. Regenerate with: npm run audit:geo -- --write-baseline. The plan is complete when both are 0.",
   "generated": "2026-08-31",
-  "maxDefaultedPins": 301,
+  "maxDefaultedPins": 0,
   "maxZeroOriginYears": 49
 }

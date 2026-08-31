@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1970
 origin_geo:
-  lat: 50.6616
-  lng: -1.5891
-  place_name: 'New Forest, Hampshire, England, UK'
+  lat: 34.05
+  lng: -118.25
+  place_name: 'Los Angeles, California, USA'
+origin_note: 'Founded in Los Angeles, California by Zsuzsanna Budapest on Winter Solstice 1971.'
 extinct_year: null
 key_tenets:
   - >-

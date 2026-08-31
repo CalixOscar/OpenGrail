@@ -24,9 +24,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1967
 origin_geo:
-  lat: 25.5488
-  lng: 82.3941
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 22.7474
+  lng: 120.4462
+  place_name: 'Fo Guang Shan, Kaohsiung, Taiwan'
 extinct_year: null
 key_tenets:
   - >-

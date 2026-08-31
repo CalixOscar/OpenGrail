@@ -25,9 +25,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1902
 origin_geo:
-  lat: 29.9794
-  lng: 30.9743
-  place_name: 'Cairo (Fustat), Egypt'
+  lat: 52.52
+  lng: 13.405
+  place_name: 'Berlin, Germany'
 extinct_year: null
 key_tenets:
   - >-

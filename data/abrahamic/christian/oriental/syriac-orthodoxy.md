@@ -18,9 +18,10 @@ relations:
     certainty: academic_consensus
 origin_year: 50
 origin_geo:
-  lat: 32.5329
-  lng: 34.7733
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 37.2994
+  lng: 40.7926
+  place_name: 'Mor Hananyo Monastery, Mardin, Turkey'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

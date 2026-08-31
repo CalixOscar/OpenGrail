@@ -21,9 +21,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1950
 origin_geo:
-  lat: 25.1068
-  lng: 82.3055
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 16.795
+  lng: 96.16
+  place_name: 'Yangon, Myanmar'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

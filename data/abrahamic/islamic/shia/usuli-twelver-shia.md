@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1650
 origin_geo:
-  lat: 32.6065
-  lng: 35.381
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 32.029
+  lng: 44.3396
+  place_name: 'Najaf, Iraq'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

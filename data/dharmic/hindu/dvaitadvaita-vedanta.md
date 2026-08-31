@@ -23,9 +23,11 @@ relations:
     certainty: academic_consensus
 origin_year: 1150
 origin_geo:
-  lat: 25.7566
-  lng: 82.6372
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 26.57
+  lng: 74.87
+  place_name: 'Salemabad, Kishangarh, Rajasthan, India'
+origin_geo_precision: region
+origin_note: "Salemabad is the historical peetha (seat) of the Nimbarka Sampradaya; Nimbarkacharya's personal birthplace is traditionally situated in southern India (Mungi/Nimbi) or Braj."
 extinct_year: null
 key_tenets:
   - >-

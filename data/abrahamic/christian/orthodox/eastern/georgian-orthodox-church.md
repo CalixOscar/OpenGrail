@@ -18,9 +18,9 @@ relations:
     certainty: academic_consensus
 origin_year: 350
 origin_geo:
-  lat: 31.9631
-  lng: 36.1794
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 41.8423
+  lng: 44.721
+  place_name: 'Svetitskhoveli Cathedral, Mtskheta, Georgia'
 extinct_year: null
 key_tenets:
   - >-

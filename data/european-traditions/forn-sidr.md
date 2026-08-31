@@ -26,9 +26,10 @@ relations:
     certainty: academic_consensus
 origin_year: 1970
 origin_geo:
-  lat: 59.7611
-  lng: 18.2023
-  place_name: 'Old Uppsala, Uppland, Sweden'
+  lat: 56
+  lng: 10
+  place_name: 'Denmark'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

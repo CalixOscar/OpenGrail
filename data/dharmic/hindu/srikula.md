@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 850
 origin_geo:
-  lat: 25.5156
-  lng: 82.058
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 12.8407
+  lng: 79.7032
+  place_name: 'Kamakshi Amman Temple, Kanchipuram, India'
 extinct_year: null
 key_tenets:
   - >-

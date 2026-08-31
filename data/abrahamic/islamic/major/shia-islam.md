@@ -22,9 +22,10 @@ relations:
     certainty: academic_consensus
 origin_year: 650
 origin_geo:
-  lat: 32.4719
-  lng: 35.779
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 32.03
+  lng: 44.4
+  place_name: 'Kufa, Iraq'
+origin_geo_precision: region
 extinct_year: null
 key_tenets:
   - >-

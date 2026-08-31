@@ -19,9 +19,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1906
 origin_geo:
-  lat: 34.2361
-  lng: -118.3013
-  place_name: 'Azusa Street / Los Angeles, California, USA'
+  lat: 39.7686
+  lng: -86.1581
+  place_name: 'Indianapolis, Indiana, USA'
 extinct_year: null
 key_tenets:
   - >-

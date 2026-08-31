@@ -21,9 +21,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1828
 origin_geo:
-  lat: 25.518
-  lng: 82.555
-  place_name: 'Varanasi (Kashi), Uttar Pradesh, India'
+  lat: 22.5675
+  lng: 88.37
+  place_name: 'Kolkata, West Bengal, India'
 extinct_year: null
 key_tenets:
   - >-

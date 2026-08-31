@@ -20,9 +20,9 @@ relations:
     certainty: academic_consensus
 origin_year: 1592
 origin_geo:
-  lat: 31.0218
-  lng: 35.2866
-  place_name: 'Jerusalem, Southern Levant'
+  lat: 21.205
+  lng: 72.84
+  place_name: 'Surat, Gujarat, India'
 extinct_year: null
 key_tenets:
   - >-
