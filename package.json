@@ -25,6 +25,7 @@
     "curate:artifacts": "node scripts/curate-iconic-artifacts.js discover",
     "apply:artifacts": "node scripts/curate-iconic-artifacts.js apply",
     "audit:artifacts": "node scripts/audit-artifacts.js",
+    "audit:geo": "node scripts/audit-origin-geo.js",
     "derive:attributions": "node scripts/derive-attributions.js",
     "build:graph": "node scripts/build-graph.js",
     "counts": "node scripts/print-counts.js",
