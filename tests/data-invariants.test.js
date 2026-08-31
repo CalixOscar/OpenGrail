@@ -41,7 +41,7 @@ test("Data Invariants Suite", async (t) => {
     }
 
     assert.deepEqual(duplicateIds, [], "No duplicate node IDs should exist in the corpus");
-    assert.equal(seenIds.size, 573, "Corpus must contain exactly 573 unique tradition nodes");
+    assert.equal(seenIds.size, 695, "Corpus must contain exactly 695 unique tradition nodes");
   });
 
   await t.test("All node IDs follow lowercase kebab-case convention", () => {
@@ -217,14 +217,14 @@ test("Data Invariants Suite", async (t) => {
 
   await t.test("Generated graph.json matches buildGraphData exactly", async () => {
     const graphData = await buildGraphData(DATA_DIR, PROJECT_ROOT);
-    assert.equal(graphData.nodes.length, 573);
-    assert.equal(graphData.links.length, 903);
+    assert.equal(graphData.nodes.length, 695);
+    assert.equal(graphData.links.length, 1088);
     assert.equal(graphData.clusters.length, 11);
 
     const onDiskRaw = await readFile(OUTPUT_FILE, "utf8");
     const onDisk = JSON.parse(onDiskRaw);
-    assert.equal(onDisk.nodes.length, 573);
-    assert.equal(onDisk.links.length, 903);
+    assert.equal(onDisk.nodes.length, 695);
+    assert.equal(onDisk.links.length, 1088);
     assert.equal(onDisk.clusters.length, 11);
   });
 });

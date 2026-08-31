@@ -1,5 +1,6 @@
 import { readFile, writeFile, readdir } from "node:fs/promises";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import matter from "gray-matter";
 
 // Comprehensive catalog of historical locations
@@ -643,17 +644,29 @@ function resolveLocation(node, filePath) {
   if (p.includes("/oceanic-australasian/")) return HISTORICAL_PLACES.tanna;
   if (p.includes("/inner-asian/")) return HISTORICAL_PLACES.orkhon;
 
-  // Fallbacks by cluster
-  if (node.cluster === "Abrahamic") return HISTORICAL_PLACES.jerusalem;
-  if (node.cluster === "Dharmic") return HISTORICAL_PLACES.varanasi;
-  if (node.cluster === "East Asian") return HISTORICAL_PLACES.qufu;
-  if (node.cluster === "Indigenous & Diasporic") return HISTORICAL_PLACES.ile_ife;
-  if (node.cluster === "Iranian") return HISTORICAL_PLACES.isfahan;
-  if (node.cluster === "Ancient Near East") return HISTORICAL_PLACES.babylon;
-  if (node.cluster === "Ancient Mediterranean") return HISTORICAL_PLACES.athens;
-  if (node.cluster === "Ancient European") return HISTORICAL_PLACES.uppsala;
-  if (node.cluster === "Esoteric & Modern") return HISTORICAL_PLACES.london;
-  return HISTORICAL_PLACES.geneva;
+  // Fallbacks by cluster. Nothing below this line is evidence: it is a guess keyed
+  // only on the node's cluster. See docs/origin-geo-fallback-remediation-plan.md.
+  return clusterFallback(node.cluster);
+}
+
+// Keyed only on cluster. A pin sourced from here is a guess, not evidence.
+export const CLUSTER_FALLBACKS = {
+  "Abrahamic": HISTORICAL_PLACES.jerusalem,
+  "Dharmic": HISTORICAL_PLACES.varanasi,
+  "East Asian": HISTORICAL_PLACES.qufu,
+  "Indigenous & Diasporic": HISTORICAL_PLACES.ile_ife,
+  "Iranian": HISTORICAL_PLACES.isfahan,
+  "Ancient Near East": HISTORICAL_PLACES.babylon,
+  "Ancient Mediterranean": HISTORICAL_PLACES.athens,
+  "Ancient European": HISTORICAL_PLACES.uppsala,
+  "Esoteric & Modern": HISTORICAL_PLACES.london,
+};
+
+// Returns a tagged copy so scripts/audit-origin-geo.js can tell a researched pin
+// from a defaulted one. Callers that only read lat/lng/place_name are unaffected.
+export function clusterFallback(cluster) {
+  const place = CLUSTER_FALLBACKS[cluster] || HISTORICAL_PLACES.geneva;
+  return { ...place, isClusterFallback: true };
 }
 
 async function findMarkdownFiles(dir) {
@@ -743,4 +756,13 @@ async function run() {
   console.log(`Updated frontmatter in ${updatedCount} files with distinct geographical positions.`);
 }
 
-run().catch(console.error);
+export { resolveLocation, HISTORICAL_PLACES, parseYear };
+
+// Only perform the destructive backfill when invoked directly, so that
+// scripts/audit-origin-geo.js can import the resolver read-only.
+const invokedDirectly =
+  process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
+
+if (invokedDirectly) {
+  run().catch(console.error);
+}

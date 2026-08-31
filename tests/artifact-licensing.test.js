@@ -22,8 +22,8 @@ test("Artifact Licensing & Dimension Invariants Suite", async (t) => {
   const graph = JSON.parse(graphRaw);
   const graphArtifacts = getArtifactEntriesFromGraphData(graph);
 
-  await t.test("Exactly 1,146 artifacts in graph.json with valid metadata and Commons URLs", () => {
-    assert.equal(graphArtifacts.length, 1146, "graph.json must contain exactly 1146 artifacts");
+  await t.test("Exactly 1,337 artifacts in graph.json with valid metadata and Commons URLs", () => {
+    assert.equal(graphArtifacts.length, 1337, "graph.json must contain exactly 1337 artifacts");
 
     const filenames = new Set();
     const duplicateFilenames = [];
@@ -60,8 +60,8 @@ test("Artifact Licensing & Dimension Invariants Suite", async (t) => {
     const diskFiles = await readdir(ARTIFACTS_DIR);
     assert.equal(
       diskFiles.length,
-      1146,
-      `public/artifacts/ must contain exactly 1146 files on disk, found ${diskFiles.length}`
+      1337,
+      `public/artifacts/ must contain exactly 1337 files on disk, found ${diskFiles.length}`
     );
 
     const graphFilenameSet = new Set(graphArtifacts.map((a) => a.filename));
@@ -95,7 +95,7 @@ test("Artifact Licensing & Dimension Invariants Suite", async (t) => {
     );
 
     const webpFiles = diskFiles.filter((f) => f.endsWith(".webp"));
-    assert.equal(webpFiles.length, 1146, "Expected exactly 1146 .webp files on disk");
+    assert.equal(webpFiles.length, 1337, "Expected exactly 1337 .webp files on disk");
   });
 
   await t.test("Decoded dimensions are within tier (max 1600 for detail: high, max 640 for standard)", async () => {
@@ -138,9 +138,9 @@ test("Artifact Licensing & Dimension Invariants Suite", async (t) => {
       }
     }
 
-    assert.equal(highDetailCount, 102, "Expected exactly 102 high-detail artifacts");
-    assert.equal(standardDetailCount, 1044, "Expected exactly 1044 standard-detail artifacts");
-    assert.deepEqual(decodeErrors, [], "All 1,146 WebP artifacts must decode without error");
+    assert.equal(highDetailCount, 108, "Expected exactly 108 high-detail artifacts");
+    assert.equal(standardDetailCount, 1229, "Expected exactly 1229 standard-detail artifacts");
+    assert.deepEqual(decodeErrors, [], "All 1,337 WebP artifacts must decode without error");
     assert.deepEqual(
       dimensionViolations,
       [],

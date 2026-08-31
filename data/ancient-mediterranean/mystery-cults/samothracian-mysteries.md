@@ -12,6 +12,9 @@ aliases:
   - Mysteries of the Great Gods
   - Samothrace cult
   - Cabeirian mysteries
+  - Cult of the Cabiri
+  - Kabeiroi
+  - Great Gods of Samothrace
 canonical_texts:
   - Samothracian dedicatory inscriptions
   - Sanctuary archaeological corpus
@@ -68,6 +71,8 @@ artifacts:
 ## Historical setting
 
 The sanctuary of the Great Gods on Samothrace drew initiates from many regions, including sailors, rulers, and Roman elites. Monumental buildings and dedications expanded especially during the Hellenistic age. Unlike Eleusis, initiation was not restricted by Athenian civic structures, and protection at sea became one celebrated benefit.
+
+Beyond Samothrace itself, the enigmatic deities known as the Kabeiroi (Cabiri) were venerated across the northern Aegean and mainland Greece, most notably at the sanctuary of the Kabeiroi near Thebes in Boeotia and on the island of Lemnos (Chloi). While local cultic practices differed—such as the distinctive ceramic drinking vessels and playful terracotta dedications found at the Theban Kabeirion—the network of Cabirian sanctuaries shared an association with chthonic fertility, metallurgy, nocturnal initiation, and navigational deliverance.
 
 ## Scope and interpretation
 

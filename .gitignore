@@ -15,3 +15,5 @@ PLAN.md
 scripts/lint-project-notes.sh
 docs/public-release-plan.md
 docs/sprint-01-remediation-plan.md
+
+docs/ag-handoff-geo-and-sites.md
