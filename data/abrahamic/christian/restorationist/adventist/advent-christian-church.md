@@ -39,11 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Advent Christian Church"'
     url: 'https://www.britannica.com/topic/advent-christian-church'
-  - title: 'Oxford Reference: Overview of Advent Christian Church'
+  - title: 'Oxford Reference — search results for "Advent Christian Church"'
     url: 'https://www.oxfordreference.com/search?q=Advent%20Christian%20Church'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Advent Christian
-      Church
+  - title: 'Cambridge Core — search results for "Advent Christian Church"'
     url: 'https://www.cambridge.org/core/search?q=Advent%20Christian%20Church'
 artifacts:
   - title: "The William Miller Chapel in Whitehall, New York"

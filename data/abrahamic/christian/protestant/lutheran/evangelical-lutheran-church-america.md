@@ -41,12 +41,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Evangelical Lutheran Church in America"'
     url: 'https://www.britannica.com/topic/evangelical-lutheran-church-in-america'
-  - title: 'Oxford Reference: Overview of Evangelical Lutheran Church in America'
+  - title: 'Oxford Reference — search results for "Evangelical Lutheran Church in America"'
     url: >-
       https://www.oxfordreference.com/search?q=Evangelical%20Lutheran%20Church%20in%20America
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Evangelical
-      Lutheran Church in America
+  - title: 'Cambridge Core — search results for "Evangelical Lutheran Church in America"'
     url: >-
       https://www.cambridge.org/core/search?q=Evangelical%20Lutheran%20Church%20in%20America
 ---

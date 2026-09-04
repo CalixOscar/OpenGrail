@@ -45,12 +45,10 @@ sources:
       Consciousness"
     url: >-
       https://www.britannica.com/topic/international-society-for-krishna-consciousness
-  - title: >-
-      Oxford Reference: Overview of International Society for Krishna
-      Consciousness
+  - title: 'Oxford Reference — search results for "International Society for Krishna Consciousness"'
     url: >-
       https://www.oxfordreference.com/search?q=International%20Society%20for%20Krishna%20Consciousness
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "International Society for Krishna Consciousness"'
     url: >-
       https://www.rep.routledge.com/search?query=International%20Society%20for%20Krishna%20Consciousness
 artifacts:

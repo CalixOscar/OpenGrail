@@ -42,12 +42,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Eritrean Orthodox Tewahedo Church"'
     url: 'https://www.britannica.com/topic/eritrean-orthodox-tewahedo-church'
-  - title: 'Oxford Reference: Overview of Eritrean Orthodox Tewahedo Church'
+  - title: 'Oxford Reference — search results for "Eritrean Orthodox Tewahedo Church"'
     url: >-
       https://www.oxfordreference.com/search?q=Eritrean%20Orthodox%20Tewahedo%20Church
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Eritrean Orthodox
-      Tewahedo Church
+  - title: 'Cambridge Core — search results for "Eritrean Orthodox Tewahedo Church"'
     url: >-
       https://www.cambridge.org/core/search?q=Eritrean%20Orthodox%20Tewahedo%20Church
 artifacts:

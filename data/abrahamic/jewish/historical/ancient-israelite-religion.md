@@ -43,11 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ancient Israelite Religion"'
     url: 'https://www.britannica.com/topic/ancient-israelite-religion'
-  - title: 'Oxford Reference: Overview of Ancient Israelite Religion'
+  - title: 'Oxford Reference — search results for "Ancient Israelite Religion"'
     url: 'https://www.oxfordreference.com/search?q=Ancient%20Israelite%20Religion'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Ancient Israelite
-      Religion
+  - title: 'Cambridge Core — search results for "Ancient Israelite Religion"'
     url: 'https://www.cambridge.org/core/search?q=Ancient%20Israelite%20Religion'
 artifacts:
   - title: "Pithos painting with inscription from Kuntillet Ajrud"

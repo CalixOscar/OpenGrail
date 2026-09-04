@@ -52,9 +52,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hindu Traditions"'
     url: 'https://www.britannica.com/topic/hindu-traditions'
-  - title: 'Oxford Reference: Overview of Hindu Traditions'
+  - title: 'Oxford Reference — search results for "Hindu Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Hindu%20Traditions'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Hindu Traditions"'
     url: 'https://www.rep.routledge.com/search?query=Hindu%20Traditions'
 artifacts:
   - title: "Rock-cut shrine entrance at the Elephanta Caves"

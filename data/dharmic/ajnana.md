@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ajñāna Skeptics"'
     url: 'https://www.britannica.com/topic/aj-na-skeptics'
-  - title: 'Oxford Reference: Overview of Ajñāna Skeptics'
+  - title: 'Oxford Reference — search results for "Ajñāna Skeptics"'
     url: 'https://www.oxfordreference.com/search?q=Aj%C3%B1%C4%81na%20Skeptics'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Ajñāna Skeptics"'
     url: 'https://www.rep.routledge.com/search?query=Aj%C3%B1%C4%81na%20Skeptics'
 artifacts:
   - title: "Relief of the Six Heretical Teachers including Sanjaya Belatthiputta at the Dazu Rock Carvings"

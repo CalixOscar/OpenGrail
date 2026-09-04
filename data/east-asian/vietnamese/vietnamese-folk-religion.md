@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Vietnamese Folk Religion"'
     url: 'https://www.britannica.com/topic/vietnamese-folk-religion'
-  - title: 'Oxford Reference: Overview of Vietnamese Folk Religion'
+  - title: 'Oxford Reference — search results for "Vietnamese Folk Religion"'
     url: 'https://www.oxfordreference.com/search?q=Vietnamese%20Folk%20Religion'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Vietnamese Folk Religion"'
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Vietnamese%20Folk%20Religion
 artifacts:

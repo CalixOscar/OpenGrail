@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Samaritanism"'
     url: 'https://www.britannica.com/topic/samaritanism'
-  - title: 'Oxford Reference: Overview of Samaritanism'
+  - title: 'Oxford Reference — search results for "Samaritanism"'
     url: 'https://www.oxfordreference.com/search?q=Samaritanism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Samaritanism'
+  - title: 'Cambridge Core — search results for "Samaritanism"'
     url: 'https://www.cambridge.org/core/search?q=Samaritanism'
 artifacts:
   - title: "Samaritan High Priest during the Passover ceremony on Mount Gerizim"

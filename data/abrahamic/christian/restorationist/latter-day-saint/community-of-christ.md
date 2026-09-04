@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Community of Christ"'
     url: 'https://www.britannica.com/topic/community-of-christ'
-  - title: 'Oxford Reference: Overview of Community of Christ'
+  - title: 'Oxford Reference — search results for "Community of Christ"'
     url: 'https://www.oxfordreference.com/search?q=Community%20of%20Christ'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Community of Christ'
+  - title: 'Cambridge Core — search results for "Community of Christ"'
     url: 'https://www.cambridge.org/core/search?q=Community%20of%20Christ'
 artifacts:
   - title: "Independence Temple and Stone Church of the Community of Christ in Independence, Missouri"

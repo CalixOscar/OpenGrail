@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Sabazius'
     url: 'https://www.britannica.com/topic/Sabazius'
-  - title: 'Oxford Classical Dictionary: Sabazios'
+  - title: 'Oxford Reference — search results for "Sabazios"'
     url: 'https://www.oxfordreference.com/search?q=Sabazios'
-  - title: 'Brill: The Religion of Sabazios'
+  - title: 'Brill — search results for "Sabazios"'
     url: 'https://brill.com/search?q=Sabazios'
 artifacts:
   - title: "Bronze votive hand of Sabazios (Manus Sabazia)"

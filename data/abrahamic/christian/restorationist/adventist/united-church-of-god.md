@@ -41,14 +41,10 @@ sources:
       Association"
     url: >-
       https://www.britannica.com/topic/united-church-of-god-an-international-association
-  - title: >-
-      Oxford Reference: Overview of United Church of God, an International
-      Association
+  - title: 'Oxford Reference — search results for "United Church of God, an International Association"'
     url: >-
       https://www.oxfordreference.com/search?q=United%20Church%20of%20God%2C%20an%20International%20Association
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & United Church of
-      God, an International Association
+  - title: 'Cambridge Core — search results for "United Church of God, an International Association"'
     url: >-
       https://www.cambridge.org/core/search?q=United%20Church%20of%20God%2C%20an%20International%20Association
 ---

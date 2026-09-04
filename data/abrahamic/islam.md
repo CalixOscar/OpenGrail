@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Islam"'
     url: 'https://www.britannica.com/topic/islam'
-  - title: 'Oxford Reference: Overview of Islam'
+  - title: 'Oxford Reference — search results for "Islam"'
     url: 'https://www.oxfordreference.com/search?q=Islam'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Islam'
+  - title: 'Cambridge Core — search results for "Islam"'
     url: 'https://www.cambridge.org/core/search?q=Islam'
 artifacts:
   - title: "Bird's-eye view of pilgrims surrounding the Kaaba in Mecca, circa 1910"

@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Lurianic Kabbalah"'
     url: 'https://www.britannica.com/topic/lurianic-kabbalah'
-  - title: 'Oxford Reference: Overview of Lurianic Kabbalah'
+  - title: 'Oxford Reference — search results for "Lurianic Kabbalah"'
     url: 'https://www.oxfordreference.com/search?q=Lurianic%20Kabbalah'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Lurianic Kabbalah'
+  - title: 'Cambridge Core — search results for "Lurianic Kabbalah"'
     url: 'https://www.cambridge.org/core/search?q=Lurianic%20Kabbalah'
 artifacts:
   - title: "Shiviti plaque in the Ari Ashkenazi Synagogue in Safed"

@@ -46,10 +46,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cult of Nanna–Sîn"'
     url: 'https://www.britannica.com/topic/cult-of-nanna-s-n'
-  - title: 'Oxford Reference: Overview of Cult of Nanna–Sîn'
+  - title: 'Oxford Reference — search results for "Cult of Nanna–Sîn"'
     url: >-
       https://www.oxfordreference.com/search?q=Cult%20of%20Nanna%E2%80%93S%C3%AEn
-  - title: 'Brill Handbook of Religious Traditions: Cult of Nanna–Sîn'
+  - title: 'Brill — search results for "Cult of Nanna–Sîn"'
     url: 'https://brill.com/search?q=Cult%20of%20Nanna%E2%80%93S%C3%AEn'
 artifacts:
   - title: "Detail of astral divine emblems showing the crescent of Sin on the Kudurru of Meli-Shipak II, Louvre Museum"

@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Christadelphians"'
     url: 'https://www.britannica.com/topic/christadelphians'
-  - title: 'Oxford Reference: Overview of Christadelphians'
+  - title: 'Oxford Reference — search results for "Christadelphians"'
     url: 'https://www.oxfordreference.com/search?q=Christadelphians'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Christadelphians'
+  - title: 'Cambridge Core — search results for "Christadelphians"'
     url: 'https://www.cambridge.org/core/search?q=Christadelphians'
 artifacts:
   - title: "Stipple engraved portrait of John Thomas, founder of the Christadelphians"

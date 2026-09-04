@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Śāktism"'
     url: 'https://www.britannica.com/topic/-ktism'
-  - title: 'Oxford Reference: Overview of Śāktism'
+  - title: 'Oxford Reference — search results for "Śāktism"'
     url: 'https://www.oxfordreference.com/search?q=%C5%9A%C4%81ktism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Śāktism"'
     url: 'https://www.rep.routledge.com/search?query=%C5%9A%C4%81ktism'
 artifacts:
   - title: "Stone sculpture of Mahishasuramardini (Durga slaying the buffalo demon) at Albert Hall Museum, Jaipur"

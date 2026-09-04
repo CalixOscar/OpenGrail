@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Mongolian Shamanic Traditions"'
     url: 'https://www.britannica.com/topic/mongolian-shamanic-traditions'
-  - title: 'Oxford Reference: Overview of Mongolian Shamanic Traditions'
+  - title: 'Oxford Reference — search results for "Mongolian Shamanic Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Mongolian%20Shamanic%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Mongolian Shamanic Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Mongolian%20Shamanic%20Traditions'
 artifacts:
   - title: "Mongolian shamanic stele and ovoo cairn on Chingeltei Uul"

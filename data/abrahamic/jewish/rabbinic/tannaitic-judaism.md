@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Tannaitic Judaism"'
     url: 'https://www.britannica.com/topic/tannaitic-judaism'
-  - title: 'Oxford Reference: Overview of Tannaitic Judaism'
+  - title: 'Oxford Reference — search results for "Tannaitic Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Tannaitic%20Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Tannaitic Judaism'
+  - title: 'Cambridge Core — search results for "Tannaitic Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Tannaitic%20Judaism'
 artifacts:
   - title: "Inscribed tomb chamber in the burial cave of Rabbi Judah ha-Nasi at Beit She'arim"

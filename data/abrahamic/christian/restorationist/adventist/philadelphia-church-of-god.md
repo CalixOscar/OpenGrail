@@ -37,11 +37,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Philadelphia Church of God"'
     url: 'https://www.britannica.com/topic/philadelphia-church-of-god'
-  - title: 'Oxford Reference: Overview of Philadelphia Church of God'
+  - title: 'Oxford Reference — search results for "Philadelphia Church of God"'
     url: 'https://www.oxfordreference.com/search?q=Philadelphia%20Church%20of%20God'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Philadelphia Church
-      of God
+  - title: 'Cambridge Core — search results for "Philadelphia Church of God"'
     url: 'https://www.cambridge.org/core/search?q=Philadelphia%20Church%20of%20God'
 ---
 

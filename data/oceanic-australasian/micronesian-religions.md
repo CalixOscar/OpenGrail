@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Micronesian Religions"'
     url: 'https://www.britannica.com/topic/micronesian-religions'
-  - title: 'Oxford Reference: Overview of Micronesian Religions'
+  - title: 'Oxford Reference — search results for "Micronesian Religions"'
     url: 'https://www.oxfordreference.com/search?q=Micronesian%20Religions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Micronesian Religions"'
     url: 'https://ich.unesco.org/en/search?q=Micronesian%20Religions'
 artifacts:
   - title: "Megalithic stone ruins of Nan Madol on Pohnpei"

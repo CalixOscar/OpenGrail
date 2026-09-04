@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Rastafari"'
     url: 'https://www.britannica.com/topic/rastafari'
-  - title: 'Oxford Reference: Overview of Rastafari'
+  - title: 'Oxford Reference — search results for "Rastafari"'
     url: 'https://www.oxfordreference.com/search?q=Rastafari'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Rastafari"'
     url: 'https://ich.unesco.org/en/search?q=Rastafari'
 artifacts:
   - title: "Handcrafted Rastafari Nyabinghi ceremonial drum"

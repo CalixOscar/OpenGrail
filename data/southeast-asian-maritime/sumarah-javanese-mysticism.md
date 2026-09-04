@@ -36,7 +36,7 @@ key_tenets:
     Core Orientation: Spiritual refinement (budi luhur), inner tranquility (tentrem), harmonious
     social conduct, and the cultivation of authentic mystical awareness in everyday life.
 sources:
-  - title: 'Paul Stange: "The Sumarah Movement in Javanese Mysticism"'
+  - title: 'Brill — search results for "Sumarah"'
     url: 'https://brill.com/search?q=Sumarah'
   - title: 'Niels Mulder: "Mysticism and Everyday Life in Contemporary Java"'
     url: 'https://brill.com/'

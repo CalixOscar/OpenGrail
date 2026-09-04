@@ -37,9 +37,9 @@ key_tenets:
     (tombing), and spiritual healing rooted in continuous Central African /
     Kongo cultural memory.
 sources:
-  - title: 'University of the West Indies Press: Kumina: A Kongo Religious Tradition in Jamaica'
+  - title: 'uwipress.com — search results for "Kumina"'
     url: 'https://www.uwipress.com/search-results/?keyword=Kumina'
-  - title: 'Oxford Reference: Kumina'
+  - title: 'Oxford Reference — search results for "Kumina"'
     url: 'https://www.oxfordreference.com/search?q=Kumina'
   - title: 'Encyclopaedia Britannica: Jamaican religion and Kumina'
     url: 'https://www.britannica.com/place/Jamaica/Religion'

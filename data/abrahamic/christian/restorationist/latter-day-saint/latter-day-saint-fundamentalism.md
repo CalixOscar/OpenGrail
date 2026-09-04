@@ -50,12 +50,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Latter Day Saint Fundamentalism"'
     url: 'https://www.britannica.com/topic/latter-day-saint-fundamentalism'
-  - title: 'Oxford Reference: Overview of Latter Day Saint Fundamentalism'
+  - title: 'Oxford Reference — search results for "Latter Day Saint Fundamentalism"'
     url: >-
       https://www.oxfordreference.com/search?q=Latter%20Day%20Saint%20Fundamentalism
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Latter Day Saint
-      Fundamentalism
+  - title: 'Cambridge Core — search results for "Latter Day Saint Fundamentalism"'
     url: >-
       https://www.cambridge.org/core/search?q=Latter%20Day%20Saint%20Fundamentalism
 artifacts:

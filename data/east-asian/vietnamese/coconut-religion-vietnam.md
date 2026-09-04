@@ -30,9 +30,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Religions of Vietnam'
     url: 'https://www.britannica.com/place/Vietnam/Religion'
-  - title: 'Oxford Reference: New Religious Movements in Vietnam'
+  - title: 'Oxford Reference — search results for "Coconut Religion Vietnam"'
     url: 'https://www.oxfordreference.com/search?q=Coconut+Religion+Vietnam'
-  - title: 'Brill: Religious Syncretism and Politics in Southern Vietnam'
+  - title: 'Brill — search results for "Dao Dua"'
     url: 'https://brill.com/search?q=Dao+Dua'
 relations:
   - target: caodaism

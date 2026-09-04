@@ -43,10 +43,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Mūrtipūjaka Śvetāmbara Jainism"'
     url: 'https://www.britannica.com/topic/m-rtip-jaka-vet-mbara-jainism'
-  - title: 'Oxford Reference: Overview of Mūrtipūjaka Śvetāmbara Jainism'
+  - title: 'Oxford Reference — search results for "Mūrtipūjaka Śvetāmbara Jainism"'
     url: >-
       https://www.oxfordreference.com/search?q=M%C5%ABrtip%C5%ABjaka%20%C5%9Avet%C4%81mbara%20Jainism
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Mūrtipūjaka Śvetāmbara Jainism"'
     url: >-
       https://www.rep.routledge.com/search?query=M%C5%ABrtip%C5%ABjaka%20%C5%9Avet%C4%81mbara%20Jainism
 artifacts:

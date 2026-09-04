@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Samoan Religious Traditions"'
     url: 'https://www.britannica.com/topic/samoan-religious-traditions'
-  - title: 'Oxford Reference: Overview of Samoan Religious Traditions'
+  - title: 'Oxford Reference — search results for "Samoan Religious Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Samoan%20Religious%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Samoan Religious Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Samoan%20Religious%20Traditions'
 artifacts:
   - title: "Samoan ʻava ceremony with tanoa bowl, c. 1900–1930"

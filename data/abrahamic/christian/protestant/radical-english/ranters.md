@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Ranters'
     url: 'https://www.britannica.com/topic/Ranters'
-  - title: 'Oxford Reference: Ranters'
+  - title: 'Oxford Reference — search results for "Ranters"'
     url: 'https://www.oxfordreference.com/search?q=Ranters'
-  - title: 'Cambridge University Press: The World Turned Upside Down'
+  - title: 'Cambridge Core — search results for "Ranters Christopher Hill"'
     url: 'https://www.cambridge.org/core/search?q=Ranters+Christopher+Hill'
 relations:
   - target: protestantism

@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Church of Christ"'
     url: 'https://www.britannica.com/topic/church-of-christ'
-  - title: 'Oxford Reference: Overview of Church of Christ'
+  - title: 'Oxford Reference — search results for "Church of Christ"'
     url: 'https://www.oxfordreference.com/search?q=Church%20of%20Christ'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Christ'
+  - title: 'Cambridge Core — search results for "Church of Christ"'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Christ'
 artifacts:
   - title: "View of the Temple Lot grounds held by the Church of Christ (Temple Lot) in Independence, Missouri"

@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Advaita Vedānta"'
     url: 'https://www.britannica.com/topic/advaita-ved-nta'
-  - title: 'Oxford Reference: Overview of Advaita Vedānta'
+  - title: 'Oxford Reference — search results for "Advaita Vedānta"'
     url: 'https://www.oxfordreference.com/search?q=Advaita%20Ved%C4%81nta'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Advaita Vedānta"'
     url: 'https://www.rep.routledge.com/search?query=Advaita%20Ved%C4%81nta'
 artifacts:
   - title: "Adi Shankara with disciples by Raja Ravi Varma"

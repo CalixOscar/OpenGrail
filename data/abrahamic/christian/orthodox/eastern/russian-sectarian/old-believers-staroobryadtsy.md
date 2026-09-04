@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Old Believers'
     url: 'https://www.britannica.com/topic/Old-Believers'
-  - title: 'Oxford Reference: Old Believers'
+  - title: 'Oxford Reference — search results for "Old Believers"'
     url: 'https://www.oxfordreference.com/search?q=Old+Believers'
-  - title: 'Cambridge University Press: The Russian Old Believers'
+  - title: 'Cambridge Core — search results for "Old Believers Russian Orthodox"'
     url: 'https://www.cambridge.org/core/search?q=Old+Believers+Russian+Orthodox'
 artifacts:
   - title: "Boyarynya Morozova by Vasily Surikov"

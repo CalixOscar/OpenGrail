@@ -47,10 +47,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cārvāka / Lokāyata"'
     url: 'https://www.britannica.com/topic/c-rv-ka-lok-yata'
-  - title: 'Oxford Reference: Overview of Cārvāka / Lokāyata'
+  - title: 'Oxford Reference — search results for "Cārvāka / Lokāyata"'
     url: >-
       https://www.oxfordreference.com/search?q=C%C4%81rv%C4%81ka%20%2F%20Lok%C4%81yata
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Cārvāka / Lokāyata"'
     url: >-
       https://www.rep.routledge.com/search?query=C%C4%81rv%C4%81ka%20%2F%20Lok%C4%81yata
 artifacts:

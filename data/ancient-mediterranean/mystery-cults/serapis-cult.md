@@ -48,9 +48,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cult of Serapis"'
     url: 'https://www.britannica.com/topic/cult-of-serapis'
-  - title: 'Oxford Reference: Overview of Cult of Serapis'
+  - title: 'Oxford Reference — search results for "Cult of Serapis"'
     url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Serapis'
-  - title: 'Brill Handbook of Religious Traditions: Cult of Serapis'
+  - title: 'Brill — search results for "Cult of Serapis"'
     url: 'https://brill.com/search?q=Cult%20of%20Serapis'
 artifacts:
   - title: "Colossal Roman marble bust of Serapis, Walters Art Museum"

@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sautrāntika"'
     url: 'https://www.britannica.com/topic/sautr-ntika'
-  - title: 'Oxford Reference: Overview of Sautrāntika'
+  - title: 'Oxford Reference — search results for "Sautrāntika"'
     url: 'https://www.oxfordreference.com/search?q=Sautr%C4%81ntika'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Sautrāntika"'
     url: 'https://www.rep.routledge.com/search?query=Sautr%C4%81ntika'
 artifacts:
   - title: "13th-century wooden statue of Vasubandhu carved by Unkei at Kōfuku-ji in Nara"

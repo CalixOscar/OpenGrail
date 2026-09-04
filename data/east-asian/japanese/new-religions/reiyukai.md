@@ -28,9 +28,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Reiyūkai'
     url: 'https://www.britannica.com/topic/Reiyukai'
-  - title: 'Oxford Reference: Reiyūkai'
+  - title: 'Oxford Reference — search results for "Reiyukai"'
     url: 'https://www.oxfordreference.com/search?q=Reiyukai'
-  - title: 'Brill: Handbook of Japanese New Religions'
+  - title: 'Brill — search results for "Reiyukai"'
     url: 'https://brill.com/search?q=Reiyukai'
 relations:
   - target: nichiren-buddhism

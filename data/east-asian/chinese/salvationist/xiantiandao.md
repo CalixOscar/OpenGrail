@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Xiantiandao"'
     url: 'https://www.britannica.com/topic/xiantiandao'
-  - title: 'Oxford Reference: Overview of Xiantiandao'
+  - title: 'Oxford Reference — search results for "Xiantiandao"'
     url: 'https://www.oxfordreference.com/search?q=Xiantiandao'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Xiantiandao"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Xiantiandao'
 ---
 

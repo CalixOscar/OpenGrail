@@ -43,11 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Oneness Pentecostalism"'
     url: 'https://www.britannica.com/topic/oneness-pentecostalism'
-  - title: 'Oxford Reference: Overview of Oneness Pentecostalism'
+  - title: 'Oxford Reference — search results for "Oneness Pentecostalism"'
     url: 'https://www.oxfordreference.com/search?q=Oneness%20Pentecostalism'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Oneness
-      Pentecostalism
+  - title: 'Cambridge Core — search results for "Oneness Pentecostalism"'
     url: 'https://www.cambridge.org/core/search?q=Oneness%20Pentecostalism'
 artifacts:
   - title: "Historical marker sign at the site of the Azusa Street Revival in Los Angeles"

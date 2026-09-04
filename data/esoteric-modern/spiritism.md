@@ -48,9 +48,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Spiritism"'
     url: 'https://www.britannica.com/topic/spiritism'
-  - title: 'Oxford Reference: Overview of Spiritism'
+  - title: 'Oxford Reference — search results for "Spiritism"'
     url: 'https://www.oxfordreference.com/search?q=Spiritism'
-  - title: 'Brill Handbook of Religious Traditions: Spiritism'
+  - title: 'Brill — search results for "Spiritism"'
     url: 'https://brill.com/search?q=Spiritism'
 artifacts:
   - title: "First Congress of Spiritist Youth of Brazil in Rio de Janeiro (1948)"

@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Lakota Religion"'
     url: 'https://www.britannica.com/topic/lakota-religion'
-  - title: 'Oxford Reference: Overview of Lakota Religion'
+  - title: 'Oxford Reference — search results for "Lakota Religion"'
     url: 'https://www.oxfordreference.com/search?q=Lakota%20Religion'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Lakota Religion"'
     url: 'https://ich.unesco.org/en/search?q=Lakota%20Religion'
 artifacts:
   - title: "Carved pipestone (catlinite) pipe bowl at Pipestone National Monument"

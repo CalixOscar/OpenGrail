@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Jinja Shinto"'
     url: 'https://www.britannica.com/topic/jinja-shinto'
-  - title: 'Oxford Reference: Overview of Jinja Shinto'
+  - title: 'Oxford Reference — search results for "Jinja Shinto"'
     url: 'https://www.oxfordreference.com/search?q=Jinja%20Shinto'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Jinja Shinto"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Jinja%20Shinto'
 artifacts:
   - title: "Itsukushima Shrine grand torii seen from the east corridor"

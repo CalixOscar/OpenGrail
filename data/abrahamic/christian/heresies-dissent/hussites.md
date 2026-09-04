@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Hussite'
     url: 'https://www.britannica.com/topic/Hussite'
-  - title: 'Oxford Reference: Hussites'
+  - title: 'Oxford Reference — search results for "Hussites"'
     url: 'https://www.oxfordreference.com/search?q=Hussites'
-  - title: 'Brill: Scholarship on the Bohemian Reformation'
+  - title: 'Brill — search results for "Hussites"'
     url: 'https://brill.com/search?q=Hussites'
 artifacts:
   - title: "Jan Hus at the Stake in the Jena Codex"

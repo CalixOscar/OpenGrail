@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sasanian Zoroastrianism"'
     url: 'https://www.britannica.com/topic/sasanian-zoroastrianism'
-  - title: 'Oxford Reference: Overview of Sasanian Zoroastrianism'
+  - title: 'Oxford Reference — search results for "Sasanian Zoroastrianism"'
     url: 'https://www.oxfordreference.com/search?q=Sasanian%20Zoroastrianism'
-  - title: 'Brill Handbook of Religious Traditions: Sasanian Zoroastrianism'
+  - title: 'Brill — search results for "Sasanian Zoroastrianism"'
     url: 'https://brill.com/search?q=Sasanian%20Zoroastrianism'
 artifacts:
   - title: "Investiture rock relief of Ardashir I by Ahura Mazda at Naqsh-e Rostam"

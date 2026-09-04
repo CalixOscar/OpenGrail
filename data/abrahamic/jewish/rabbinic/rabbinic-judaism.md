@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Rabbinic Judaism"'
     url: 'https://www.britannica.com/topic/rabbinic-judaism'
-  - title: 'Oxford Reference: Overview of Rabbinic Judaism'
+  - title: 'Oxford Reference — search results for "Rabbinic Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Rabbinic%20Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Rabbinic Judaism'
+  - title: 'Cambridge Core — search results for "Rabbinic Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Rabbinic%20Judaism'
 artifacts:
   - title: "Manuscript page of the Jerusalem Talmud from the Cairo Genizah"

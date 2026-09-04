@@ -38,9 +38,9 @@ key_tenets:
     ancestral honor, and social harmony between the individual's soul (Kra) and
     the cosmic order.
 sources:
-  - title: 'Brill: Winti Religion of Suriname: A Study in Transatlantic African Spirituality'
+  - title: 'Brill — search results for "Winti Religion Suriname"'
     url: 'https://brill.com/search?q=Winti+Religion+Suriname'
-  - title: 'Oxford Reference: Afro-Caribbean Religions'
+  - title: 'Oxford Reference — search results for "Winti"'
     url: 'https://www.oxfordreference.com/search?q=Winti'
   - title: 'Encyclopaedia Britannica: Suriname: Religion'
     url: 'https://www.britannica.com/place/Suriname/Religion'

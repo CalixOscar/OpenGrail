@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Reclaiming Tradition"'
     url: 'https://www.britannica.com/topic/reclaiming-tradition'
-  - title: 'Oxford Reference: Overview of Reclaiming Tradition'
+  - title: 'Oxford Reference — search results for "Reclaiming Tradition"'
     url: 'https://www.oxfordreference.com/search?q=Reclaiming%20Tradition'
-  - title: 'Brill Handbook of Religious Traditions: Reclaiming Tradition'
+  - title: 'Brill — search results for "Reclaiming Tradition"'
     url: 'https://brill.com/search?q=Reclaiming%20Tradition'
 ---
 

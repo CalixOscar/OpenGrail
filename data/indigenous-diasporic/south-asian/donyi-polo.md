@@ -40,9 +40,9 @@ key_tenets:
     indigenous Tani cultural heritage, customary moral laws, and sacred
     environmental ecology in the face of external conversion pressures.
 sources:
-  - title: 'Oxford Reference: Religions of Arunachal Pradesh'
+  - title: 'Oxford Reference — search results for "Donyi-Polo"'
     url: 'https://www.oxfordreference.com/search?q=Donyi-Polo'
-  - title: 'Routledge: Indigenous Religion and Cultural Revitalization in Northeast India'
+  - title: 'Routledge — search results for "Donyi-Polo"'
     url: 'https://www.routledge.com/search?kw=Donyi-Polo'
   - title: 'Encyclopaedia Britannica: Arunachal Pradesh: Religion'
     url: 'https://www.britannica.com/place/Arunachal-Pradesh/Religion'

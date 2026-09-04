@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Zurvanism"'
     url: 'https://www.britannica.com/topic/zurvanism'
-  - title: 'Oxford Reference: Overview of Zurvanism'
+  - title: 'Oxford Reference — search results for "Zurvanism"'
     url: 'https://www.oxfordreference.com/search?q=Zurvanism'
-  - title: 'Brill Handbook of Religious Traditions: Zurvanism'
+  - title: 'Brill — search results for "Zurvanism"'
     url: 'https://brill.com/search?q=Zurvanism'
 ---
 

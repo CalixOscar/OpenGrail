@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Theravāda Buddhism"'
     url: 'https://www.britannica.com/topic/therav-da-buddhism'
-  - title: 'Oxford Reference: Overview of Theravāda Buddhism'
+  - title: 'Oxford Reference — search results for "Theravāda Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Therav%C4%81da%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Theravāda Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Therav%C4%81da%20Buddhism'
 artifacts:
   - title: "Samadhi Buddha statue in meditation posture at Anuradhapura"

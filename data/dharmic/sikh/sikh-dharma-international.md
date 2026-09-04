@@ -42,10 +42,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sikh Dharma International / 3HO"'
     url: 'https://www.britannica.com/topic/sikh-dharma-international-3ho'
-  - title: 'Oxford Reference: Overview of Sikh Dharma International / 3HO'
+  - title: 'Oxford Reference — search results for "Sikh Dharma International / 3HO"'
     url: >-
       https://www.oxfordreference.com/search?q=Sikh%20Dharma%20International%20%2F%203HO
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Sikh Dharma International / 3HO"'
     url: >-
       https://www.rep.routledge.com/search?query=Sikh%20Dharma%20International%20%2F%203HO
 artifacts:

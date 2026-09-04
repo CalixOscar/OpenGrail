@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Arian Christianity"'
     url: 'https://www.britannica.com/topic/arian-christianity'
-  - title: 'Oxford Reference: Overview of Arian Christianity'
+  - title: 'Oxford Reference — search results for "Arian Christianity"'
     url: 'https://www.oxfordreference.com/search?q=Arian%20Christianity'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Arian Christianity'
+  - title: 'Cambridge Core — search results for "Arian Christianity"'
     url: 'https://www.cambridge.org/core/search?q=Arian%20Christianity'
 artifacts:
   - title: "Cupola mosaic of the Baptism of Christ in the Arian Baptistery, Ravenna"

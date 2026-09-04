@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ancient Celtic Religions"'
     url: 'https://www.britannica.com/topic/ancient-celtic-religions'
-  - title: 'Oxford Reference: Overview of Ancient Celtic Religions'
+  - title: 'Oxford Reference — search results for "Ancient Celtic Religions"'
     url: 'https://www.oxfordreference.com/search?q=Ancient%20Celtic%20Religions'
-  - title: 'Brill Handbook of Religious Traditions: Ancient Celtic Religions'
+  - title: 'Brill — search results for "Ancient Celtic Religions"'
     url: 'https://brill.com/search?q=Ancient%20Celtic%20Religions'
 artifacts:
   - title: "Relief of the antlered god Cernunnos on inner plate A of the Gundestrup Cauldron"

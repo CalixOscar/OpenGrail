@@ -43,11 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "The Episcopal Church"'
     url: 'https://www.britannica.com/topic/the-episcopal-church'
-  - title: 'Oxford Reference: Overview of The Episcopal Church'
+  - title: 'Oxford Reference — search results for "The Episcopal Church"'
     url: 'https://www.oxfordreference.com/search?q=The%20Episcopal%20Church'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & The Episcopal
-      Church
+  - title: 'Cambridge Core — search results for "The Episcopal Church"'
     url: 'https://www.cambridge.org/core/search?q=The%20Episcopal%20Church'
 artifacts:
   - title: "Presiding Bishop Frank T. Griswold preaching at Church of Saint Mary the Virgin"

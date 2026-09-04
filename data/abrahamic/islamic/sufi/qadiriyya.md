@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Qadiriyya"'
     url: 'https://www.britannica.com/topic/qadiriyya'
-  - title: 'Oxford Reference: Overview of Qadiriyya'
+  - title: 'Oxford Reference — search results for "Qadiriyya"'
     url: 'https://www.oxfordreference.com/search?q=Qadiriyya'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Qadiriyya'
+  - title: 'Cambridge Core — search results for "Qadiriyya"'
     url: 'https://www.cambridge.org/core/search?q=Qadiriyya'
 artifacts:
   - title: "Tiled exterior of the shrine of Shaykh Abd al-Qadir al-Jilani in Baghdad"

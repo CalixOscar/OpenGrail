@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Canaanite Religion"'
     url: 'https://www.britannica.com/topic/canaanite-religion'
-  - title: 'Oxford Reference: Overview of Canaanite Religion'
+  - title: 'Oxford Reference — search results for "Canaanite Religion"'
     url: 'https://www.oxfordreference.com/search?q=Canaanite%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Canaanite Religion'
+  - title: 'Brill — search results for "Canaanite Religion"'
     url: 'https://brill.com/search?q=Canaanite%20Religion'
 artifacts:
   - title: "Stele of Baal with a Thunderbolt from the Acropolis of Ugarit, Louvre Museum"

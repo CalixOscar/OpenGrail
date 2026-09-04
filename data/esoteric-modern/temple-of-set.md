@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Temple of Set"'
     url: 'https://www.britannica.com/topic/temple-of-set'
-  - title: 'Oxford Reference: Overview of Temple of Set'
+  - title: 'Oxford Reference — search results for "Temple of Set"'
     url: 'https://www.oxfordreference.com/search?q=Temple%20of%20Set'
-  - title: 'Brill Handbook of Religious Traditions: Temple of Set'
+  - title: 'Brill — search results for "Temple of Set"'
     url: 'https://brill.com/search?q=Temple%20of%20Set'
 artifacts:
   - title: "Official military portrait of Michael Aquino, founder of the Temple of Set"

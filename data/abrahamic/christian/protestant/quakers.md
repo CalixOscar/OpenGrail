@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Quakers"'
     url: 'https://www.britannica.com/topic/quakers'
-  - title: 'Oxford Reference: Overview of Quakers'
+  - title: 'Oxford Reference — search results for "Quakers"'
     url: 'https://www.oxfordreference.com/search?q=Quakers'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Quakers'
+  - title: 'Cambridge Core — search results for "Quakers"'
     url: 'https://www.cambridge.org/core/search?q=Quakers'
 ---
 

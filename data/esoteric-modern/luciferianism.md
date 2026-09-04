@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Modern Luciferianism"'
     url: 'https://www.britannica.com/topic/modern-luciferianism'
-  - title: 'Oxford Reference: Overview of Modern Luciferianism'
+  - title: 'Oxford Reference — search results for "Modern Luciferianism"'
     url: 'https://www.oxfordreference.com/search?q=Modern%20Luciferianism'
-  - title: 'Brill Handbook of Religious Traditions: Modern Luciferianism'
+  - title: 'Brill — search results for "Modern Luciferianism"'
     url: 'https://brill.com/search?q=Modern%20Luciferianism'
 artifacts:
   - title: "Le Génie du Mal ('Lucifer of Liège') sculpture by Guillaume Geefs"

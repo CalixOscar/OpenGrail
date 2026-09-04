@@ -41,7 +41,7 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Black Hebrew Israelites'
     url: 'https://www.britannica.com/topic/Black-Hebrews'
-  - title: 'Oxford University Press: Black Judaism: Story of an American Movement (James E. Landing)'
+  - title: 'global.oup.com — search results for "Black Judaism"'
     url: 'https://global.oup.com/academic/search?q=Black+Judaism'
   - title: 'New York University Press: Chosen People: The Rise of American Black Israelite Religions (Jacob S. Dorman)'
     url: 'https://nyupress.org/9780814725221/chosen-people/'

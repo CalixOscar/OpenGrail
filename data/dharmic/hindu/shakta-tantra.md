@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Śākta Tantra"'
     url: 'https://www.britannica.com/topic/-kta-tantra'
-  - title: 'Oxford Reference: Overview of Śākta Tantra'
+  - title: 'Oxford Reference — search results for "Śākta Tantra"'
     url: 'https://www.oxfordreference.com/search?q=%C5%9A%C4%81kta%20Tantra'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Śākta Tantra"'
     url: 'https://www.rep.routledge.com/search?query=%C5%9A%C4%81kta%20Tantra'
 artifacts:
   - title: "Chausath Yogini Temple at Hirapur near Bhubaneswar, Odisha"

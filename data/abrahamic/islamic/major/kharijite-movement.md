@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Kharijite'
     url: 'https://www.britannica.com/topic/Kharijite'
-  - title: 'Oxford Reference: Khawarij'
+  - title: 'Oxford Reference — search results for "Khawarij"'
     url: 'https://www.oxfordreference.com/search?q=Khawarij'
-  - title: 'Brill: The Kharijites and their Successors'
+  - title: 'Brill — search results for "Kharijite"'
     url: 'https://brill.com/search?q=Kharijite'
 artifacts:
   - title: "Arab-Sasanian silver dirham of Qatari ibn al-Fuja'a"

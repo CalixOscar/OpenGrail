@@ -48,9 +48,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cambodian Buddhism"'
     url: 'https://www.britannica.com/topic/cambodian-buddhism'
-  - title: 'Oxford Reference: Overview of Cambodian Buddhism'
+  - title: 'Oxford Reference — search results for "Cambodian Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Cambodian%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Cambodian Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Cambodian%20Buddhism'
 artifacts:
   - title: "Silver Pagoda (Wat Preah Keo Morakot) at the Royal Palace in Phnom Penh, Cambodia"

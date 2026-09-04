@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cult of Cybele and Attis"'
     url: 'https://www.britannica.com/topic/cult-of-cybele-and-attis'
-  - title: 'Oxford Reference: Overview of Cult of Cybele and Attis'
+  - title: 'Oxford Reference — search results for "Cult of Cybele and Attis"'
     url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Cybele%20and%20Attis'
-  - title: 'Brill Handbook of Religious Traditions: Cult of Cybele and Attis'
+  - title: 'Brill — search results for "Cult of Cybele and Attis"'
     url: 'https://brill.com/search?q=Cult%20of%20Cybele%20and%20Attis'
 artifacts:
   - title: "Roman bronze statuette of Cybele on a lion-drawn chariot, Metropolitan Museum of Art"

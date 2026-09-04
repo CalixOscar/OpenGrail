@@ -41,11 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Bulgarian Orthodox Church"'
     url: 'https://www.britannica.com/topic/bulgarian-orthodox-church'
-  - title: 'Oxford Reference: Overview of Bulgarian Orthodox Church'
+  - title: 'Oxford Reference — search results for "Bulgarian Orthodox Church"'
     url: 'https://www.oxfordreference.com/search?q=Bulgarian%20Orthodox%20Church'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Bulgarian Orthodox
-      Church
+  - title: 'Cambridge Core — search results for "Bulgarian Orthodox Church"'
     url: 'https://www.cambridge.org/core/search?q=Bulgarian%20Orthodox%20Church'
 artifacts:
   - title: "Frescoed exterior gallery of the Nativity of Mary Church at Rila Monastery, Bulgaria"

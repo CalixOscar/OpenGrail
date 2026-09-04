@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Geonic Judaism"'
     url: 'https://www.britannica.com/topic/geonic-judaism'
-  - title: 'Oxford Reference: Overview of Geonic Judaism'
+  - title: 'Oxford Reference — search results for "Geonic Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Geonic%20Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Geonic Judaism'
+  - title: 'Cambridge Core — search results for "Geonic Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Geonic%20Judaism'
 ---
 

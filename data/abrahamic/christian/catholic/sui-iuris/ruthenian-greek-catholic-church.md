@@ -41,12 +41,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ruthenian Greek Catholic Church"'
     url: 'https://www.britannica.com/topic/ruthenian-greek-catholic-church'
-  - title: 'Oxford Reference: Overview of Ruthenian Greek Catholic Church'
+  - title: 'Oxford Reference — search results for "Ruthenian Greek Catholic Church"'
     url: >-
       https://www.oxfordreference.com/search?q=Ruthenian%20Greek%20Catholic%20Church
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Ruthenian Greek
-      Catholic Church
+  - title: 'Cambridge Core — search results for "Ruthenian Greek Catholic Church"'
     url: >-
       https://www.cambridge.org/core/search?q=Ruthenian%20Greek%20Catholic%20Church
 artifacts:

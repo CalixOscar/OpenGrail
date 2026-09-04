@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sri Lankan Buddhism"'
     url: 'https://www.britannica.com/topic/sri-lankan-buddhism'
-  - title: 'Oxford Reference: Overview of Sri Lankan Buddhism'
+  - title: 'Oxford Reference — search results for "Sri Lankan Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Sri%20Lankan%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Sri Lankan Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Sri%20Lankan%20Buddhism'
 artifacts:
   - title: "Colossal standing Buddha statue at Dondra, modeled after the Avukana Buddha"

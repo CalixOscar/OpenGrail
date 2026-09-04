@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Japanese Confucian Traditions"'
     url: 'https://www.britannica.com/topic/japanese-confucian-traditions'
-  - title: 'Oxford Reference: Overview of Japanese Confucian Traditions'
+  - title: 'Oxford Reference — search results for "Japanese Confucian Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Japanese%20Confucian%20Traditions'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Japanese Confucian Traditions"'
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Japanese%20Confucian%20Traditions
 artifacts:

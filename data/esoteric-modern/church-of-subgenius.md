@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Church of the SubGenius"'
     url: 'https://www.britannica.com/topic/church-of-the-subgenius'
-  - title: 'Oxford Reference: Overview of Church of the SubGenius'
+  - title: 'Oxford Reference — search results for "Church of the SubGenius"'
     url: 'https://www.oxfordreference.com/search?q=Church%20of%20the%20SubGenius'
-  - title: 'Brill Handbook of Religious Traditions: Church of the SubGenius'
+  - title: 'Brill — search results for "Church of the SubGenius"'
     url: 'https://brill.com/search?q=Church%20of%20the%20SubGenius'
 artifacts:
   - title: "Storefront mural of Church of the SubGenius prophet J. R. 'Bob' Dobbs"

@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cherokee Religious Traditions"'
     url: 'https://www.britannica.com/topic/cherokee-religious-traditions'
-  - title: 'Oxford Reference: Overview of Cherokee Religious Traditions'
+  - title: 'Oxford Reference — search results for "Cherokee Religious Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Cherokee%20Religious%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Cherokee Religious Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Cherokee%20Religious%20Traditions'
 artifacts:
   - title: "Cherokee ceremonial dance mask representing a black buffalo"

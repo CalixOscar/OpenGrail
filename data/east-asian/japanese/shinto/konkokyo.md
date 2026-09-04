@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Konkōkyō"'
     url: 'https://www.britannica.com/topic/konk-ky-'
-  - title: 'Oxford Reference: Overview of Konkōkyō'
+  - title: 'Oxford Reference — search results for "Konkōkyō"'
     url: 'https://www.oxfordreference.com/search?q=Konk%C5%8Dky%C5%8D'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Konkōkyō"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Konk%C5%8Dky%C5%8D'
 artifacts:
   - title: "Grave of Konkō Daijin at Konkōkyō Headquarters"

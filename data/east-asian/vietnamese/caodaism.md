@@ -49,9 +49,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cao Đài"'
     url: 'https://www.britannica.com/topic/cao-i'
-  - title: 'Oxford Reference: Overview of Cao Đài'
+  - title: 'Oxford Reference — search results for "Cao Đài"'
     url: 'https://www.oxfordreference.com/search?q=Cao%20%C4%90%C3%A0i'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Cao Đài"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Cao%20%C4%90%C3%A0i'
 artifacts:
   - title: "Divine Eye altar inside the Tây Ninh Holy See"

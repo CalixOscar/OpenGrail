@@ -41,7 +41,7 @@ key_tenets:
 sources:
   - title: 'Oxford Handbooks Online: New Religious Movements and The Twelve Tribes'
     url: 'https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190466176.001.0001/oxfordhb-9780190466176'
-  - title: 'Routledge: The Twelve Tribes Movement (Stuart A. Wright & Susan J. Palmer)'
+  - title: 'Routledge — search results for "Twelve Tribes"'
     url: 'https://www.routledge.com/search?kw=Twelve+Tribes'
   - title: 'CESNUR: Studies on the Twelve Tribes Communities'
     url: 'https://www.cesnur.org/testi/12tribes.htm'

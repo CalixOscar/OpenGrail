@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ājīvika Tradition"'
     url: 'https://www.britannica.com/topic/-j-vika-tradition'
-  - title: 'Oxford Reference: Overview of Ājīvika Tradition'
+  - title: 'Oxford Reference — search results for "Ājīvika Tradition"'
     url: 'https://www.oxfordreference.com/search?q=%C4%80j%C4%ABvika%20Tradition'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Ājīvika Tradition"'
     url: 'https://www.rep.routledge.com/search?query=%C4%80j%C4%ABvika%20Tradition'
 artifacts:
   - title: "Interior silhouette inside the rock-cut Barabar Caves in Bihar"

@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Bektashi'
     url: 'https://www.britannica.com/topic/Bektashi'
-  - title: 'Brill: The Bektashi Order of Dervishes'
+  - title: 'Brill — search results for "Bektashi"'
     url: 'https://brill.com/search?q=Bektashi'
-  - title: 'Oxford Reference: Bektashiyya'
+  - title: 'Oxford Reference — search results for "Bektashiyya"'
     url: 'https://www.oxfordreference.com/search?q=Bektashiyya'
 artifacts:
   - title: "Haji Bektash Veli complex in Cappadocia"

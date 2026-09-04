@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Moorish Science Temple of America'
     url: 'https://www.britannica.com/topic/Moorish-Science-Temple-of-America'
-  - title: 'Oxford University Press: Noble Drew Ali and the Moorish Science Temple (Spencer Dew)'
+  - title: 'global.oup.com — search results for "Moorish Science Temple"'
     url: 'https://global.oup.com/academic/search?q=Moorish+Science+Temple'
-  - title: 'University of North Carolina Press: The Moorish Science Temple of America (Richard Brent Turner)'
+  - title: 'uncpress.org — search results for "Moorish Science Temple"'
     url: 'https://uncpress.org/search-results/?q=Moorish+Science+Temple'
 artifacts:
   - title: "Portrait of Prophet Noble Drew Ali"

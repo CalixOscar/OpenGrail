@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Elagabalus'
     url: 'https://www.britannica.com/biography/Elagabalus'
-  - title: 'Oxford Classical Dictionary: Elagabalus (deity and emperor)'
+  - title: 'Oxford Reference — search results for "Elagabal"'
     url: 'https://www.oxfordreference.com/search?q=Elagabal'
-  - title: 'Brill: The Cult of Sol Invictus and Elagabal in the Roman Empire'
+  - title: 'Brill — search results for "Elagabal"'
     url: 'https://brill.com/search?q=Elagabal'
 artifacts:
   - title: "Silver denarius depicting the conical Black Stone of Emesa"

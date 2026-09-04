@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Newar Buddhism"'
     url: 'https://www.britannica.com/topic/newar-buddhism'
-  - title: 'Oxford Reference: Overview of Newar Buddhism'
+  - title: 'Oxford Reference — search results for "Newar Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Newar%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Newar Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Newar%20Buddhism'
 artifacts:
   - title: "Traditional Newar paubha scroll painting of White Tara"

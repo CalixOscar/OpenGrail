@@ -40,11 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Akhbari Twelver Shiism"'
     url: 'https://www.britannica.com/topic/akhbari-twelver-shiism'
-  - title: 'Oxford Reference: Overview of Akhbari Twelver Shiism'
+  - title: 'Oxford Reference — search results for "Akhbari Twelver Shiism"'
     url: 'https://www.oxfordreference.com/search?q=Akhbari%20Twelver%20Shiism'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Akhbari Twelver
-      Shiism
+  - title: 'Cambridge Core — search results for "Akhbari Twelver Shiism"'
     url: 'https://www.cambridge.org/core/search?q=Akhbari%20Twelver%20Shiism'
 artifacts:
   - title: "Tomb marker of Akhbari jurist Yusuf al-Bahrani at the Imam Husayn Shrine"

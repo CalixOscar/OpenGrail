@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Secular Buddhism"'
     url: 'https://www.britannica.com/topic/secular-buddhism'
-  - title: 'Oxford Reference: Overview of Secular Buddhism'
+  - title: 'Oxford Reference — search results for "Secular Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Secular%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Secular Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Secular%20Buddhism'
 artifacts:
   - title: "Author and teacher Stephen Batchelor at Upaya Zen Center in New Mexico"

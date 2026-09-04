@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Đạo Mẫu"'
     url: 'https://www.britannica.com/topic/-o-m-u'
-  - title: 'Oxford Reference: Overview of Đạo Mẫu'
+  - title: 'Oxford Reference — search results for "Đạo Mẫu"'
     url: 'https://www.oxfordreference.com/search?q=%C4%90%E1%BA%A1o%20M%E1%BA%ABu'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Đạo Mẫu"'
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=%C4%90%E1%BA%A1o%20M%E1%BA%ABu
 artifacts:

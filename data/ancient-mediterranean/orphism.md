@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Orphism"'
     url: 'https://www.britannica.com/topic/orphism'
-  - title: 'Oxford Reference: Overview of Orphism'
+  - title: 'Oxford Reference — search results for "Orphism"'
     url: 'https://www.oxfordreference.com/search?q=Orphism'
-  - title: 'Brill Handbook of Religious Traditions: Orphism'
+  - title: 'Brill — search results for "Orphism"'
     url: 'https://brill.com/search?q=Orphism'
 artifacts:
   - title: "Section I of the Derveni Papyrus, Archaeological Museum of Thessaloniki"

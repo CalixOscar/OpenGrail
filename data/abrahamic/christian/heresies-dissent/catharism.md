@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Cathari'
     url: 'https://www.britannica.com/topic/Cathari'
-  - title: 'Oxford Reference: Catharism'
+  - title: 'Oxford Reference — search results for "Catharism"'
     url: 'https://www.oxfordreference.com/search?q=Catharism'
-  - title: 'Brill: Scholarship on medieval dualist movements'
+  - title: 'Brill — search results for "Catharism"'
     url: 'https://brill.com/search?q=Catharism'
 artifacts:
   - title: "Château de Montségur in Ariège"

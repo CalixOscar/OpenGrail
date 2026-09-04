@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Thiền Buddhism"'
     url: 'https://www.britannica.com/topic/thi-n-buddhism'
-  - title: 'Oxford Reference: Overview of Thiền Buddhism'
+  - title: 'Oxford Reference — search results for "Thiền Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Thi%E1%BB%81n%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Thiền Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Thi%E1%BB%81n%20Buddhism'
 artifacts:
   - title: "Worship hall and altar dedicated to Emperor Trần Nhân Tông in Huế"

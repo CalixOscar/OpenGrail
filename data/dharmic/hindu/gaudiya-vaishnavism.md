@@ -45,10 +45,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Gauḍīya Vaiṣṇavism"'
     url: 'https://www.britannica.com/topic/gau-ya-vai-avism'
-  - title: 'Oxford Reference: Overview of Gauḍīya Vaiṣṇavism'
+  - title: 'Oxford Reference — search results for "Gauḍīya Vaiṣṇavism"'
     url: >-
       https://www.oxfordreference.com/search?q=Gau%E1%B8%8D%C4%ABya%20Vai%E1%B9%A3%E1%B9%87avism
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Gauḍīya Vaiṣṇavism"'
     url: >-
       https://www.rep.routledge.com/search?query=Gau%E1%B8%8D%C4%ABya%20Vai%E1%B9%A3%E1%B9%87avism
 artifacts:

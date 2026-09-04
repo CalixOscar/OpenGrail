@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Prince Philip Movement"'
     url: 'https://www.britannica.com/topic/prince-philip-movement'
-  - title: 'Oxford Reference: Overview of Prince Philip Movement'
+  - title: 'Oxford Reference — search results for "Prince Philip Movement"'
     url: 'https://www.oxfordreference.com/search?q=Prince%20Philip%20Movement'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Prince Philip Movement"'
     url: 'https://ich.unesco.org/en/search?q=Prince%20Philip%20Movement'
 artifacts:
   - title: "Yaohnanen elders displaying photographs of their 2007 meeting with Prince Philip"

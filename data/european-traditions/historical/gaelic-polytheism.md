@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Gaelic Polytheism"'
     url: 'https://www.britannica.com/topic/gaelic-polytheism'
-  - title: 'Oxford Reference: Overview of Gaelic Polytheism'
+  - title: 'Oxford Reference — search results for "Gaelic Polytheism"'
     url: 'https://www.oxfordreference.com/search?q=Gaelic%20Polytheism'
-  - title: 'Brill Handbook of Religious Traditions: Gaelic Polytheism'
+  - title: 'Brill — search results for "Gaelic Polytheism"'
     url: 'https://brill.com/search?q=Gaelic%20Polytheism'
 artifacts:
   - title: "Earthworks of Navan Fort (Emain Macha) ritual ceremonial complex in County Armagh"

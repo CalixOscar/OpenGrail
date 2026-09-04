@@ -40,9 +40,9 @@ key_tenets:
     spiritual purity, harmony with primordial creator deities, and transcendence
     of the physical limitations of the mortal world.
 sources:
-  - title: 'Brill: The Land Without Evil: Tupi-Guarani Prophetism'
+  - title: 'Brill — search results for "Land Without Evil Tupi Guarani"'
     url: 'https://brill.com/search?q=Land+Without+Evil+Tupi+Guarani'
-  - title: 'University of Texas Press: The Land Without Evil'
+  - title: 'utpress.utexas.edu — search results for "Guarani"'
     url: 'https://utpress.utexas.edu/search-results/?keyword=Guarani'
   - title: 'Encyclopaedia Britannica: Guarani culture and religion'
     url: 'https://www.britannica.com/topic/Guarani'

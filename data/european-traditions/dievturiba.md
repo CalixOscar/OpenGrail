@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Dievturība"'
     url: 'https://www.britannica.com/topic/dievtur-ba'
-  - title: 'Oxford Reference: Overview of Dievturība'
+  - title: 'Oxford Reference — search results for "Dievturība"'
     url: 'https://www.oxfordreference.com/search?q=Dievtur%C4%ABba'
-  - title: 'Brill Handbook of Religious Traditions: Dievturība'
+  - title: 'Brill — search results for "Dievturība"'
     url: 'https://brill.com/search?q=Dievtur%C4%ABba'
 artifacts:
   - title: "Dievturība devotional depiction of the goddess Māra (Zemes Māte) with sacred symbols"

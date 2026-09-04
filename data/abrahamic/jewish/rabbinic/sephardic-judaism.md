@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sephardic Judaism"'
     url: 'https://www.britannica.com/topic/sephardic-judaism'
-  - title: 'Oxford Reference: Overview of Sephardic Judaism'
+  - title: 'Oxford Reference — search results for "Sephardic Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Sephardic%20Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Sephardic Judaism'
+  - title: 'Cambridge Core — search results for "Sephardic Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Sephardic%20Judaism'
 artifacts:
   - title: "Inscribed pedestal of the Maimonides monument in Córdoba"

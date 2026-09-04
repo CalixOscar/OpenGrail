@@ -36,11 +36,11 @@ key_tenets:
     and intense Marian devotion fused with Luo traditional spiritual defense
     against evil spirits.
 sources:
-  - title: 'Oxford Reference: Legio Maria'
+  - title: 'Oxford Reference — search results for "Legio Maria"'
     url: 'https://www.oxfordreference.com/search?q=Legio+Maria'
-  - title: 'Brill: Legio Maria of African Church Mission'
+  - title: 'Brill — search results for "Legio Maria"'
     url: 'https://brill.com/search?q=Legio+Maria'
-  - title: 'Cambridge University Press: African Independent Churches and Legio Maria'
+  - title: 'Cambridge Core — search results for "Legio Maria"'
     url: 'https://www.cambridge.org/core/search?q=Legio+Maria'
 artifacts:
   - title: "Simeo Ondeto (Baba Mesia) Enthroned"

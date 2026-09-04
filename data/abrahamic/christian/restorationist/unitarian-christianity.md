@@ -40,11 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Unitarian Christianity"'
     url: 'https://www.britannica.com/topic/unitarian-christianity'
-  - title: 'Oxford Reference: Overview of Unitarian Christianity'
+  - title: 'Oxford Reference — search results for "Unitarian Christianity"'
     url: 'https://www.oxfordreference.com/search?q=Unitarian%20Christianity'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Unitarian
-      Christianity
+  - title: 'Cambridge Core — search results for "Unitarian Christianity"'
     url: 'https://www.cambridge.org/core/search?q=Unitarian%20Christianity'
 artifacts:
   - title: "Engraved portrait of theologian Fausto Paolo Sozzini"

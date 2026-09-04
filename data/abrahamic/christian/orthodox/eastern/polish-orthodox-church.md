@@ -40,12 +40,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Polish Autocephalous Orthodox Church"'
     url: 'https://www.britannica.com/topic/polish-autocephalous-orthodox-church'
-  - title: 'Oxford Reference: Overview of Polish Autocephalous Orthodox Church'
+  - title: 'Oxford Reference — search results for "Polish Autocephalous Orthodox Church"'
     url: >-
       https://www.oxfordreference.com/search?q=Polish%20Autocephalous%20Orthodox%20Church
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Polish
-      Autocephalous Orthodox Church
+  - title: 'Cambridge Core — search results for "Polish Autocephalous Orthodox Church"'
     url: >-
       https://www.cambridge.org/core/search?q=Polish%20Autocephalous%20Orthodox%20Church
 artifacts:

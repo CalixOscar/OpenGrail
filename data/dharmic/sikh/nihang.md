@@ -35,9 +35,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Nihang Sikhs"'
     url: 'https://www.britannica.com/topic/nihang-sikhs'
-  - title: 'Oxford Reference: Overview of Nihang Sikhs'
+  - title: 'Oxford Reference — search results for "Nihang Sikhs"'
     url: 'https://www.oxfordreference.com/search?q=Nihang%20Sikhs'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Nihang Sikhs"'
     url: 'https://www.rep.routledge.com/search?query=Nihang%20Sikhs'
 artifacts:
   - title: "Blue Nishan Sahib at Burj Akali Phula Singh, Amritsar"

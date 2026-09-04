@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Stoicism"'
     url: 'https://www.britannica.com/topic/stoicism'
-  - title: 'Oxford Reference: Overview of Stoicism'
+  - title: 'Oxford Reference — search results for "Stoicism"'
     url: 'https://www.oxfordreference.com/search?q=Stoicism'
-  - title: 'Brill Handbook of Religious Traditions: Stoicism'
+  - title: 'Brill — search results for "Stoicism"'
     url: 'https://brill.com/search?q=Stoicism'
 artifacts:
   - title: "Plaster cast of the bust of Zeno of Citium, Pushkin Museum"

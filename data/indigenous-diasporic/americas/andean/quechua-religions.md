@@ -50,9 +50,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Quechua Religious Traditions"'
     url: 'https://www.britannica.com/topic/quechua-religious-traditions'
-  - title: 'Oxford Reference: Overview of Quechua Religious Traditions'
+  - title: 'Oxford Reference — search results for "Quechua Religious Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Quechua%20Religious%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Quechua Religious Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Quechua%20Religious%20Traditions'
 artifacts:
   - title: "Sanctuary of Señor de Qoyllur Rit'i illuminated by night at Sinakara"

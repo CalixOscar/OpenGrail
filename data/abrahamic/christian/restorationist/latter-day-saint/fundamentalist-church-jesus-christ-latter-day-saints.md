@@ -48,14 +48,10 @@ sources:
       Latter-Day Saints"
     url: >-
       https://www.britannica.com/topic/fundamentalist-church-of-jesus-christ-of-latter-day-saints
-  - title: >-
-      Oxford Reference: Overview of Fundamentalist Church of Jesus Christ of
-      Latter-Day Saints
+  - title: 'Oxford Reference — search results for "Fundamentalist Church of Jesus Christ of Latter-Day Saints"'
     url: >-
       https://www.oxfordreference.com/search?q=Fundamentalist%20Church%20of%20Jesus%20Christ%20of%20Latter-Day%20Saints
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Fundamentalist
-      Church of Jesus Christ of Latter-Day Saints
+  - title: 'Cambridge Core — search results for "Fundamentalist Church of Jesus Christ of Latter-Day Saints"'
     url: >-
       https://www.cambridge.org/core/search?q=Fundamentalist%20Church%20of%20Jesus%20Christ%20of%20Latter-Day%20Saints
 artifacts:

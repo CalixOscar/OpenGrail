@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Tiantai Buddhism"'
     url: 'https://www.britannica.com/topic/tiantai-buddhism'
-  - title: 'Oxford Reference: Overview of Tiantai Buddhism'
+  - title: 'Oxford Reference — search results for "Tiantai Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Tiantai%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Tiantai Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Tiantai%20Buddhism'
 artifacts:
   - title: "Traditional portrait of Śramaṇa Zhiyi, patriarch of Tiantai Buddhism"

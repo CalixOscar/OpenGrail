@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Branch Davidians"'
     url: 'https://www.britannica.com/topic/branch-davidians'
-  - title: 'Oxford Reference: Overview of Branch Davidians'
+  - title: 'Oxford Reference — search results for "Branch Davidians"'
     url: 'https://www.oxfordreference.com/search?q=Branch%20Davidians'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Branch Davidians'
+  - title: 'Cambridge Core — search results for "Branch Davidians"'
     url: 'https://www.cambridge.org/core/search?q=Branch%20Davidians'
 artifacts:
   - title: "Aerial photograph of the Branch Davidian Mount Carmel Center compound during the 1993 siege"

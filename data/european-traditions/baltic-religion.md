@@ -35,9 +35,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Baltic Religion"'
     url: 'https://www.britannica.com/topic/baltic-religion'
-  - title: 'Oxford Reference: Overview of Baltic Religion'
+  - title: 'Oxford Reference — search results for "Baltic Religion"'
     url: 'https://www.oxfordreference.com/search?q=Baltic%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Baltic Religion'
+  - title: 'Brill — search results for "Baltic Religion"'
     url: 'https://brill.com/search?q=Baltic%20Religion'
 artifacts:
   - title: "View from the summit of Birutė Hill sacred sanctuary site in Palanga, Lithuania"

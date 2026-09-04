@@ -39,7 +39,7 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Zionist Church'
     url: 'https://www.britannica.com/topic/Zionist-Church'
-  - title: 'Oxford Reference: Zion Christian Church'
+  - title: 'Oxford Reference — search results for "Zion Christian Church"'
     url: 'https://www.oxfordreference.com/search?q=Zion+Christian+Church'
   - title: 'University of South Africa Press: African Independent Churches (M.L. Daneel)'
     url: 'https://www.unisa.ac.za/sites/corporate/default/Research-&-Innovation/UNISA-Press'

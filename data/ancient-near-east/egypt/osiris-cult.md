@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cult of Osiris"'
     url: 'https://www.britannica.com/topic/cult-of-osiris'
-  - title: 'Oxford Reference: Overview of Cult of Osiris'
+  - title: 'Oxford Reference — search results for "Cult of Osiris"'
     url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Osiris'
-  - title: 'Brill Handbook of Religious Traditions: Cult of Osiris'
+  - title: 'Brill — search results for "Cult of Osiris"'
     url: 'https://brill.com/search?q=Cult%20of%20Osiris'
 artifacts:
   - title: "Late Period bronze statuette of Osiris (back view), Walters Art Museum"

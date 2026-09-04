@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Judaica: Subbotniki'
     url: 'https://www.jewishvirtuallibrary.org/subbotniki'
-  - title: 'Oxford Reference: Subbotniks'
+  - title: 'Oxford Reference — search results for "Subbotniks"'
     url: 'https://www.oxfordreference.com/search?q=Subbotniks'
-  - title: 'Brill: Russian Judaizers and Subbotniks'
+  - title: 'Brill — search results for "Subbotniks Russia"'
     url: 'https://brill.com/search?q=Subbotniks+Russia'
 artifacts:
   - title: "Dubrovin Estate courtyard in Yesod HaMa'ala"

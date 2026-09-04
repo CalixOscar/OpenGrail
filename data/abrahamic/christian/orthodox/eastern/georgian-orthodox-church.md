@@ -38,11 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Georgian Orthodox Church"'
     url: 'https://www.britannica.com/topic/georgian-orthodox-church'
-  - title: 'Oxford Reference: Overview of Georgian Orthodox Church'
+  - title: 'Oxford Reference — search results for "Georgian Orthodox Church"'
     url: 'https://www.oxfordreference.com/search?q=Georgian%20Orthodox%20Church'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Georgian Orthodox
-      Church
+  - title: 'Cambridge Core — search results for "Georgian Orthodox Church"'
     url: 'https://www.cambridge.org/core/search?q=Georgian%20Orthodox%20Church'
 artifacts:
   - title: "The Khakhuli Triptych, monumental 10th–12th century Georgian repoussé and enamel icon"

@@ -39,9 +39,9 @@ key_tenets:
     reverence, and a distinct non-Hindu Indigenous Adivasi religious identity
     committed to preserving sacred forest groves.
 sources:
-  - title: 'Oxford Reference: Adivasi Religions'
+  - title: 'Oxford Reference — search results for "Adivasi religion"'
     url: 'https://www.oxfordreference.com/search?q=Adivasi+religion'
-  - title: 'Routledge: The Sarna Movement and Adivasi Identity in India'
+  - title: 'Routledge — search results for "Sarna Adivasi"'
     url: 'https://www.routledge.com/search?kw=Sarna+Adivasi'
   - title: 'Encyclopaedia Britannica: Munda religions'
     url: 'https://www.britannica.com/topic/Munda-people'

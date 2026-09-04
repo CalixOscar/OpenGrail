@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Aladura'
     url: 'https://www.britannica.com/topic/Aladura'
-  - title: 'Oxford Reference: Aladura'
+  - title: 'Oxford Reference — search results for "Aladura"'
     url: 'https://www.oxfordreference.com/search?q=Aladura'
-  - title: 'Clarendon Press / Oxford: Aladura: A Religious Movement among the Yoruba (J.D.Y. Peel)'
+  - title: 'global.oup.com — search results for "Peel Aladura"'
     url: 'https://global.oup.com/academic/search?q=Peel+Aladura'
 artifacts:
   - title: "Prostration Prayer in the Celestial Church of Christ"

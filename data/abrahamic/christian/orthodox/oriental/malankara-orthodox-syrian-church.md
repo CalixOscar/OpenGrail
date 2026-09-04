@@ -42,12 +42,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Malankara Orthodox Syrian Church"'
     url: 'https://www.britannica.com/topic/malankara-orthodox-syrian-church'
-  - title: 'Oxford Reference: Overview of Malankara Orthodox Syrian Church'
+  - title: 'Oxford Reference — search results for "Malankara Orthodox Syrian Church"'
     url: >-
       https://www.oxfordreference.com/search?q=Malankara%20Orthodox%20Syrian%20Church
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Malankara Orthodox
-      Syrian Church
+  - title: 'Cambridge Core — search results for "Malankara Orthodox Syrian Church"'
     url: >-
       https://www.cambridge.org/core/search?q=Malankara%20Orthodox%20Syrian%20Church
 artifacts:

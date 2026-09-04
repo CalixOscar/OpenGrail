@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ancient Greek Religion"'
     url: 'https://www.britannica.com/topic/ancient-greek-religion'
-  - title: 'Oxford Reference: Overview of Ancient Greek Religion'
+  - title: 'Oxford Reference — search results for "Ancient Greek Religion"'
     url: 'https://www.oxfordreference.com/search?q=Ancient%20Greek%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Ancient Greek Religion'
+  - title: 'Brill — search results for "Ancient Greek Religion"'
     url: 'https://brill.com/search?q=Ancient%20Greek%20Religion'
 artifacts:
   - title: "The Artemision Bronze (Zeus or Poseidon) in the National Archaeological Museum of Athens"

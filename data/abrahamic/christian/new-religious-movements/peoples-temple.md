@@ -39,7 +39,7 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Peoples Temple'
     url: 'https://www.britannica.com/topic/Peoples-Temple'
-  - title: 'Oxford University Press: Understanding Jonestown and Peoples Temple (Rebecca Moore)'
+  - title: 'global.oup.com — search results for "Peoples Temple"'
     url: 'https://global.oup.com/academic/search?q=Peoples+Temple'
   - title: 'San Diego State University: Alternative Considerations of Jonestown & Peoples Temple'
     url: 'https://jonestown.sdsu.edu/'

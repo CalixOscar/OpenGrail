@@ -28,9 +28,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Mahikari'
     url: 'https://www.britannica.com/topic/Mahikari'
-  - title: 'Oxford Reference: Sūkyō Mahikari'
+  - title: 'Oxford Reference — search results for "Sukyo Mahikari"'
     url: 'https://www.oxfordreference.com/search?q=Sukyo+Mahikari'
-  - title: 'Brill: Handbook of Japanese New Religions'
+  - title: 'Brill — search results for "Mahikari"'
     url: 'https://brill.com/search?q=Mahikari'
 relations:
   - target: shinto

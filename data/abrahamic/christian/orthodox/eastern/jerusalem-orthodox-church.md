@@ -37,12 +37,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Greek Orthodox Patriarchate of Jerusalem"'
     url: 'https://www.britannica.com/topic/greek-orthodox-patriarchate-of-jerusalem'
-  - title: 'Oxford Reference: Overview of Greek Orthodox Patriarchate of Jerusalem'
+  - title: 'Oxford Reference — search results for "Greek Orthodox Patriarchate of Jerusalem"'
     url: >-
       https://www.oxfordreference.com/search?q=Greek%20Orthodox%20Patriarchate%20of%20Jerusalem
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Greek Orthodox
-      Patriarchate of Jerusalem
+  - title: 'Cambridge Core — search results for "Greek Orthodox Patriarchate of Jerusalem"'
     url: >-
       https://www.cambridge.org/core/search?q=Greek%20Orthodox%20Patriarchate%20of%20Jerusalem
 artifacts:

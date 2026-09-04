@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Wicca"'
     url: 'https://www.britannica.com/topic/wicca'
-  - title: 'Oxford Reference: Overview of Wicca'
+  - title: 'Oxford Reference — search results for "Wicca"'
     url: 'https://www.oxfordreference.com/search?q=Wicca'
-  - title: 'Brill Handbook of Religious Traditions: Wicca'
+  - title: 'Brill — search results for "Wicca"'
     url: 'https://brill.com/search?q=Wicca'
 artifacts:
   - title: "Ritual scourge historically associated with Gerald Gardner and Doreen Valiente"

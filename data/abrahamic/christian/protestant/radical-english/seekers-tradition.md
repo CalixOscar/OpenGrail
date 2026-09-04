@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Seekers'
     url: 'https://www.britannica.com/topic/Seekers'
-  - title: 'Oxford Reference: Seekers'
+  - title: 'Oxford Reference — search results for "Seekers"'
     url: 'https://www.oxfordreference.com/search?q=Seekers'
-  - title: 'Brill: Radical Religion in the English Revolution'
+  - title: 'Brill — search results for "Seekers English Revolution"'
     url: 'https://brill.com/search?q=Seekers+English+Revolution'
 relations:
   - target: protestantism

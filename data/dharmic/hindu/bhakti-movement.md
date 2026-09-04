@@ -48,9 +48,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Bhakti Movements"'
     url: 'https://www.britannica.com/topic/bhakti-movements'
-  - title: 'Oxford Reference: Overview of Bhakti Movements'
+  - title: 'Oxford Reference — search results for "Bhakti Movements"'
     url: 'https://www.oxfordreference.com/search?q=Bhakti%20Movements'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Bhakti Movements"'
     url: 'https://www.rep.routledge.com/search?query=Bhakti%20Movements'
 artifacts:
   - title: "Krishna subduing Kaliya Naag, 18th-century illustrated Bhagavata Purana manuscript"

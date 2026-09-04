@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Freemasonry"'
     url: 'https://www.britannica.com/topic/freemasonry'
-  - title: 'Oxford Reference: Overview of Freemasonry'
+  - title: 'Oxford Reference — search results for "Freemasonry"'
     url: 'https://www.oxfordreference.com/search?q=Freemasonry'
-  - title: 'Brill Handbook of Religious Traditions: Freemasonry'
+  - title: 'Brill — search results for "Freemasonry"'
     url: 'https://brill.com/search?q=Freemasonry'
 artifacts:
   - title: "Lithograph of George Washington as Master Mason by James Fuller Queen"

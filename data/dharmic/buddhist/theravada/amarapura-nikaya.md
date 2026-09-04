@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Amarapura Nikāya"'
     url: 'https://www.britannica.com/topic/amarapura-nik-ya'
-  - title: 'Oxford Reference: Overview of Amarapura Nikāya'
+  - title: 'Oxford Reference — search results for "Amarapura Nikāya"'
     url: 'https://www.oxfordreference.com/search?q=Amarapura%20Nik%C4%81ya'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Amarapura Nikāya"'
     url: 'https://www.rep.routledge.com/search?query=Amarapura%20Nik%C4%81ya'
 artifacts:
   - title: "Portrait of Most Venerable Walitota Sri Gnanawimalatissa Maha Thera, founder of Amarapura Nikaya"

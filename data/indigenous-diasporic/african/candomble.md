@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Candomblé"'
     url: 'https://www.britannica.com/topic/candombl-'
-  - title: 'Oxford Reference: Overview of Candomblé'
+  - title: 'Oxford Reference — search results for "Candomblé"'
     url: 'https://www.oxfordreference.com/search?q=Candombl%C3%A9'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Candomblé"'
     url: 'https://ich.unesco.org/en/search?q=Candombl%C3%A9'
 artifacts:
   - title: "Devotee presenting offerings during the Festa de Iemanjá in Rio Vermelho, Salvador"

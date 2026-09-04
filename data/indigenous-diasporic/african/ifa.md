@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ifá"'
     url: 'https://www.britannica.com/topic/if-'
-  - title: 'Oxford Reference: Overview of Ifá'
+  - title: 'Oxford Reference — search results for "Ifá"'
     url: 'https://www.oxfordreference.com/search?q=If%C3%A1'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Ifá"'
     url: 'https://ich.unesco.org/en/search?q=If%C3%A1'
 artifacts:
   - title: "Drawing of a 16th–17th century carved wooden Opon Ifá divination tray"

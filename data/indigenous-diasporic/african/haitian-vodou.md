@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Haitian Vodou"'
     url: 'https://www.britannica.com/topic/haitian-vodou'
-  - title: 'Oxford Reference: Overview of Haitian Vodou'
+  - title: 'Oxford Reference — search results for "Haitian Vodou"'
     url: 'https://www.oxfordreference.com/search?q=Haitian%20Vodou'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Haitian Vodou"'
     url: 'https://ich.unesco.org/en/search?q=Haitian%20Vodou'
 artifacts:
   - title: "Vèvè ritual cosmogram symbol for the lwa Papa Legba"

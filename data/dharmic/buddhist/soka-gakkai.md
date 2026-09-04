@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Soka Gakkai"'
     url: 'https://www.britannica.com/topic/soka-gakkai'
-  - title: 'Oxford Reference: Overview of Soka Gakkai'
+  - title: 'Oxford Reference — search results for "Soka Gakkai"'
     url: 'https://www.oxfordreference.com/search?q=Soka%20Gakkai'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Soka Gakkai"'
     url: 'https://www.rep.routledge.com/search?query=Soka%20Gakkai'
 artifacts:
   - title: "Photographic portrait of Tsunesaburo Makiguchi, founding president of Soka Gakkai"

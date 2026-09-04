@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Dvaita Vedānta"'
     url: 'https://www.britannica.com/topic/dvaita-ved-nta'
-  - title: 'Oxford Reference: Overview of Dvaita Vedānta'
+  - title: 'Oxford Reference — search results for "Dvaita Vedānta"'
     url: 'https://www.oxfordreference.com/search?q=Dvaita%20Ved%C4%81nta'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Dvaita Vedānta"'
     url: 'https://www.rep.routledge.com/search?query=Dvaita%20Ved%C4%81nta'
 artifacts:
   - title: "Udupi Sri Krishna Matha, founded by Madhvacharya in Karnataka"

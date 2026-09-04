@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Karma Kagyu"'
     url: 'https://www.britannica.com/topic/karma-kagyu'
-  - title: 'Oxford Reference: Overview of Karma Kagyu'
+  - title: 'Oxford Reference — search results for "Karma Kagyu"'
     url: 'https://www.oxfordreference.com/search?q=Karma%20Kagyu'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Karma Kagyu"'
     url: 'https://www.rep.routledge.com/search?query=Karma%20Kagyu'
 artifacts:
   - title: "Statue of Rangjung Rigpe Dorje, the 16th Gyalwa Karmapa, wearing the Black Crown"

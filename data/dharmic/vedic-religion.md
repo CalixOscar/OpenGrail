@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Vedic Religion"'
     url: 'https://www.britannica.com/topic/vedic-religion'
-  - title: 'Oxford Reference: Overview of Vedic Religion'
+  - title: 'Oxford Reference — search results for "Vedic Religion"'
     url: 'https://www.oxfordreference.com/search?q=Vedic%20Religion'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Vedic Religion"'
     url: 'https://www.rep.routledge.com/search?query=Vedic%20Religion'
 artifacts:
   - title: "19th-century Sanskrit manuscript of the Rigveda with Vedic accents, Newberry Library"

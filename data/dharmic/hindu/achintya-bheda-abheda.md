@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Acintya-bhedābheda"'
     url: 'https://www.britannica.com/topic/acintya-bhed-bheda'
-  - title: 'Oxford Reference: Overview of Acintya-bhedābheda'
+  - title: 'Oxford Reference — search results for "Acintya-bhedābheda"'
     url: 'https://www.oxfordreference.com/search?q=Acintya-bhed%C4%81bheda'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Acintya-bhedābheda"'
     url: 'https://www.rep.routledge.com/search?query=Acintya-bhed%C4%81bheda'
 artifacts:
   - title: "Enshrined deities of Radha Damodar at the Shri Radha Damodar Temple, Vrindavan"

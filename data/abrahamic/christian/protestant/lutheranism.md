@@ -35,9 +35,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Lutheranism"'
     url: 'https://www.britannica.com/topic/lutheranism'
-  - title: 'Oxford Reference: Overview of Lutheranism'
+  - title: 'Oxford Reference — search results for "Lutheranism"'
     url: 'https://www.oxfordreference.com/search?q=Lutheranism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Lutheranism'
+  - title: 'Cambridge Core — search results for "Lutheranism"'
     url: 'https://www.cambridge.org/core/search?q=Lutheranism'
 artifacts:
   - title: "Stained-glass window depicting the presentation of the Augsburg Confession in Speyer"

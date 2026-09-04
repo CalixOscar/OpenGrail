@@ -38,12 +38,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Greek Orthodox Patriarchate of Antioch"'
     url: 'https://www.britannica.com/topic/greek-orthodox-patriarchate-of-antioch'
-  - title: 'Oxford Reference: Overview of Greek Orthodox Patriarchate of Antioch'
+  - title: 'Oxford Reference — search results for "Greek Orthodox Patriarchate of Antioch"'
     url: >-
       https://www.oxfordreference.com/search?q=Greek%20Orthodox%20Patriarchate%20of%20Antioch
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Greek Orthodox
-      Patriarchate of Antioch
+  - title: 'Cambridge Core — search results for "Greek Orthodox Patriarchate of Antioch"'
     url: >-
       https://www.cambridge.org/core/search?q=Greek%20Orthodox%20Patriarchate%20of%20Antioch
 artifacts:

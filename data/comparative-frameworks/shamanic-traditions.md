@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Shamanic Traditions"'
     url: 'https://www.britannica.com/topic/shamanic-traditions'
-  - title: 'Oxford Reference: Overview of Shamanic Traditions'
+  - title: 'Oxford Reference — search results for "Shamanic Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Shamanic%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Shamanic Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Shamanic%20Traditions'
 artifacts:
   - title: "Siberian Evenki reindeer-skin shaman costume, Musée du quai Branly"

@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Classical Yoga"'
     url: 'https://www.britannica.com/topic/classical-yoga'
-  - title: 'Oxford Reference: Overview of Classical Yoga'
+  - title: 'Oxford Reference — search results for "Classical Yoga"'
     url: 'https://www.oxfordreference.com/search?q=Classical%20Yoga'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Classical Yoga"'
     url: 'https://www.rep.routledge.com/search?query=Classical%20Yoga'
 artifacts:
   - title: "Folios of an 18th-century manuscript of Patanjali's Yoga Sutras with commentary"

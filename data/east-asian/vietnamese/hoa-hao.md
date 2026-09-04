@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hòa Hảo Buddhism"'
     url: 'https://www.britannica.com/topic/h-a-h-o-buddhism'
-  - title: 'Oxford Reference: Overview of Hòa Hảo Buddhism'
+  - title: 'Oxford Reference — search results for "Hòa Hảo Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=H%C3%B2a%20H%E1%BA%A3o%20Buddhism'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Hòa Hảo Buddhism"'
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=H%C3%B2a%20H%E1%BA%A3o%20Buddhism
 artifacts:

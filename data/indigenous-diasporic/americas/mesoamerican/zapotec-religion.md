@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Zapotec Religious Traditions"'
     url: 'https://www.britannica.com/topic/zapotec-religious-traditions'
-  - title: 'Oxford Reference: Overview of Zapotec Religious Traditions'
+  - title: 'Oxford Reference — search results for "Zapotec Religious Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Zapotec%20Religious%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Zapotec Religious Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Zapotec%20Religious%20Traditions'
 artifacts:
   - title: "Main Plaza and Building J at the Zapotec ceremonial center of Monte Albán"

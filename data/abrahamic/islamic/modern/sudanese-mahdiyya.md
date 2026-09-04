@@ -39,7 +39,7 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: The Mahdiyya'
     url: 'https://www.britannica.com/place/Sudan/The-Mahdiyyah'
-  - title: 'Oxford Reference: Mahdiyya (Sudan)'
+  - title: 'Oxford Reference — search results for "Sudanese Mahdiyya"'
     url: 'https://www.oxfordreference.com/search?q=Sudanese+Mahdiyya'
   - title: 'The Mahdist State in the Sudan 1881–1898 (P. M. Holt, Oxford 1970)'
     url: 'https://global.oup.com/academic/product/the-mahdist-state-in-the-sudan-1881-1898-9780198216605'

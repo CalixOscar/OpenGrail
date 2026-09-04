@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ugaritic Religion"'
     url: 'https://www.britannica.com/topic/ugaritic-religion'
-  - title: 'Oxford Reference: Overview of Ugaritic Religion'
+  - title: 'Oxford Reference — search results for "Ugaritic Religion"'
     url: 'https://www.oxfordreference.com/search?q=Ugaritic%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Ugaritic Religion'
+  - title: 'Brill — search results for "Ugaritic Religion"'
     url: 'https://brill.com/search?q=Ugaritic%20Religion'
 artifacts:
   - title: "Stele of Baal with a Thunderbolt from the Acropolis of Ugarit, Louvre Museum"

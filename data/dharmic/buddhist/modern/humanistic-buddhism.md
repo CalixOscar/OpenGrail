@@ -52,9 +52,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Humanistic Buddhism"'
     url: 'https://www.britannica.com/topic/humanistic-buddhism'
-  - title: 'Oxford Reference: Overview of Humanistic Buddhism'
+  - title: 'Oxford Reference — search results for "Humanistic Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Humanistic%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Humanistic Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Humanistic%20Buddhism'
 artifacts:
   - title: "Stele inscription of Master Taixu's calligraphy for the Jiaoshan Buddhist Philosophy Academy"

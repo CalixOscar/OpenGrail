@@ -29,9 +29,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: White Lotus'
     url: 'https://www.britannica.com/topic/White-Lotus'
-  - title: 'Oxford Reference: White Lotus Society'
+  - title: 'Oxford Reference — search results for "White Lotus"'
     url: 'https://www.oxfordreference.com/search?q=White+Lotus'
-  - title: 'Brill: Studies on Chinese Popular Sects and the White Lotus'
+  - title: 'Brill — search results for "White Lotus China"'
     url: 'https://brill.com/search?q=White+Lotus+China'
 relations:
   - target: chinese-salvationist-religions

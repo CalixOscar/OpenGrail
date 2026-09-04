@@ -48,9 +48,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Dionysian Mysteries"'
     url: 'https://www.britannica.com/topic/dionysian-mysteries'
-  - title: 'Oxford Reference: Overview of Dionysian Mysteries'
+  - title: 'Oxford Reference — search results for "Dionysian Mysteries"'
     url: 'https://www.oxfordreference.com/search?q=Dionysian%20Mysteries'
-  - title: 'Brill Handbook of Religious Traditions: Dionysian Mysteries'
+  - title: 'Brill — search results for "Dionysian Mysteries"'
     url: 'https://brill.com/search?q=Dionysian%20Mysteries'
 artifacts:
   - title: "Dionysian mystery rite megalographic fresco in the Villa of the Mysteries, Pompeii"

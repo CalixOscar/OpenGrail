@@ -43,11 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Serbian Orthodox Church"'
     url: 'https://www.britannica.com/topic/serbian-orthodox-church'
-  - title: 'Oxford Reference: Overview of Serbian Orthodox Church'
+  - title: 'Oxford Reference — search results for "Serbian Orthodox Church"'
     url: 'https://www.oxfordreference.com/search?q=Serbian%20Orthodox%20Church'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Serbian Orthodox
-      Church
+  - title: 'Cambridge Core — search results for "Serbian Orthodox Church"'
     url: 'https://www.cambridge.org/core/search?q=Serbian%20Orthodox%20Church'
 artifacts:
   - title: "Church of the Ascension at Mileševa Monastery, Serbia"

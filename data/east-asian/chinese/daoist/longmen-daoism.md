@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Longmen Daoism"'
     url: 'https://www.britannica.com/topic/longmen-daoism'
-  - title: 'Oxford Reference: Overview of Longmen Daoism'
+  - title: 'Oxford Reference — search results for "Longmen Daoism"'
     url: 'https://www.oxfordreference.com/search?q=Longmen%20Daoism'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Longmen Daoism"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Longmen%20Daoism'
 artifacts:
   - title: "Entrance paifang gate of White Cloud Temple (Baiyun Guan), Beijing"

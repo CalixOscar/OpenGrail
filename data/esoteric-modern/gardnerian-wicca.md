@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Gardnerian Wicca"'
     url: 'https://www.britannica.com/topic/gardnerian-wicca'
-  - title: 'Oxford Reference: Overview of Gardnerian Wicca'
+  - title: 'Oxford Reference — search results for "Gardnerian Wicca"'
     url: 'https://www.oxfordreference.com/search?q=Gardnerian%20Wicca'
-  - title: 'Brill Handbook of Religious Traditions: Gardnerian Wicca'
+  - title: 'Brill — search results for "Gardnerian Wicca"'
     url: 'https://brill.com/search?q=Gardnerian%20Wicca'
 artifacts:
   - title: "Ritual scourge belonging to Gerald Gardner and the New Forest coven"

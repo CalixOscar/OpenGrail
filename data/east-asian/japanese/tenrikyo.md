@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Tenrikyo"'
     url: 'https://www.britannica.com/topic/tenrikyo'
-  - title: 'Oxford Reference: Overview of Tenrikyo'
+  - title: 'Oxford Reference — search results for "Tenrikyo"'
     url: 'https://www.oxfordreference.com/search?q=Tenrikyo'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Tenrikyo"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Tenrikyo'
 artifacts:
   - title: "Cover of The Life of Oyasama published by Tenrikyo Church Headquarters"

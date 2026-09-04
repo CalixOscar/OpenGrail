@@ -49,14 +49,10 @@ sources:
       Saints"
     url: >-
       https://www.britannica.com/topic/the-church-of-jesus-christ-of-latter-day-saints
-  - title: >-
-      Oxford Reference: Overview of The Church of Jesus Christ of Latter-day
-      Saints
+  - title: 'Oxford Reference — search results for "The Church of Jesus Christ of Latter-day Saints"'
     url: >-
       https://www.oxfordreference.com/search?q=The%20Church%20of%20Jesus%20Christ%20of%20Latter-day%20Saints
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & The Church of Jesus
-      Christ of Latter-day Saints
+  - title: 'Cambridge Core — search results for "The Church of Jesus Christ of Latter-day Saints"'
     url: >-
       https://www.cambridge.org/core/search?q=The%20Church%20of%20Jesus%20Christ%20of%20Latter-day%20Saints
 artifacts:

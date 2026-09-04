@@ -40,11 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Modern Orthodox Judaism"'
     url: 'https://www.britannica.com/topic/modern-orthodox-judaism'
-  - title: 'Oxford Reference: Overview of Modern Orthodox Judaism'
+  - title: 'Oxford Reference — search results for "Modern Orthodox Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Modern%20Orthodox%20Judaism'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Modern Orthodox
-      Judaism
+  - title: 'Cambridge Core — search results for "Modern Orthodox Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Modern%20Orthodox%20Judaism'
 artifacts:
   - title: "Wilf Campus marker at Yeshiva University in Manhattan"

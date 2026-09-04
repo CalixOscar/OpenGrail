@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Mahāsī Tradition"'
     url: 'https://www.britannica.com/topic/mah-s-tradition'
-  - title: 'Oxford Reference: Overview of Mahāsī Tradition'
+  - title: 'Oxford Reference — search results for "Mahāsī Tradition"'
     url: 'https://www.oxfordreference.com/search?q=Mah%C4%81s%C4%AB%20Tradition'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Mahāsī Tradition"'
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81s%C4%AB%20Tradition'
 artifacts:
   - title: "Photographic portrait of Venerable Mahasi Sayadaw U Sobhana"

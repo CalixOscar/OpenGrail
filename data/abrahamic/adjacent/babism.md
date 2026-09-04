@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Babism"'
     url: 'https://www.britannica.com/topic/babism'
-  - title: 'Oxford Reference: Overview of Babism'
+  - title: 'Oxford Reference — search results for "Babism"'
     url: 'https://www.oxfordreference.com/search?q=Babism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Babism'
+  - title: 'Cambridge Core — search results for "Babism"'
     url: 'https://www.cambridge.org/core/search?q=Babism'
 artifacts:
   - title: "Shrine of the Báb and terrace gardens on Mount Carmel in Haifa"

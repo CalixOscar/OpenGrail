@@ -38,7 +38,7 @@ key_tenets:
     through informal spiritual mentoring of political elites rather than public
     mass revivalism.
 sources:
-  - title: 'Oxford University Press: The Family: The Secret Fundamentalism at the Heart of American Power (Jeff Sharlet)'
+  - title: 'global.oup.com — search results for "Jeff Sharlet"'
     url: 'https://global.oup.com/academic/search?q=Jeff+Sharlet'
   - title: 'Encyclopaedia Britannica: National Prayer Breakfast'
     url: 'https://www.britannica.com/topic/National-Prayer-Breakfast'

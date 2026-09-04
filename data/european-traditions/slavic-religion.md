@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Slavic Religion"'
     url: 'https://www.britannica.com/topic/slavic-religion'
-  - title: 'Oxford Reference: Overview of Slavic Religion'
+  - title: 'Oxford Reference — search results for "Slavic Religion"'
     url: 'https://www.oxfordreference.com/search?q=Slavic%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Slavic Religion'
+  - title: 'Brill — search results for "Slavic Religion"'
     url: 'https://brill.com/search?q=Slavic%20Religion'
 artifacts:
   - title: "The Zbruch Idol from \"The Mythology of All Races\" (Vol. 3: Celtic and Slavic)"

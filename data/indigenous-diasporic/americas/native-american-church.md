@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Native American Church"'
     url: 'https://www.britannica.com/topic/native-american-church'
-  - title: 'Oxford Reference: Overview of Native American Church'
+  - title: 'Oxford Reference — search results for "Native American Church"'
     url: 'https://www.oxfordreference.com/search?q=Native%20American%20Church'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Native American Church"'
     url: 'https://ich.unesco.org/en/search?q=Native%20American%20Church'
 ---
 

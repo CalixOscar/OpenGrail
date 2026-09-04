@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Shugendō"'
     url: 'https://www.britannica.com/topic/shugend-'
-  - title: 'Oxford Reference: Overview of Shugendō'
+  - title: 'Oxford Reference — search results for "Shugendō"'
     url: 'https://www.oxfordreference.com/search?q=Shugend%C5%8D'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Shugendō"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shugend%C5%8D'
 artifacts:
   - title: "Stone statue of En no Gyōja at Mount Gyōja in Nara"

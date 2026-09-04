@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Tijaniyya"'
     url: 'https://www.britannica.com/topic/tijaniyya'
-  - title: 'Oxford Reference: Overview of Tijaniyya'
+  - title: 'Oxford Reference — search results for "Tijaniyya"'
     url: 'https://www.oxfordreference.com/search?q=Tijaniyya'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Tijaniyya'
+  - title: 'Cambridge Core — search results for "Tijaniyya"'
     url: 'https://www.cambridge.org/core/search?q=Tijaniyya'
 artifacts:
   - title: "Photograph of Cheikh Ahmad Kane, Grand Muqaddam of the Tijaniyya"

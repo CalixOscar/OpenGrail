@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "John Frum Movement"'
     url: 'https://www.britannica.com/topic/john-frum-movement'
-  - title: 'Oxford Reference: Overview of John Frum Movement'
+  - title: 'Oxford Reference — search results for "John Frum Movement"'
     url: 'https://www.oxfordreference.com/search?q=John%20Frum%20Movement'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "John Frum Movement"'
     url: 'https://ich.unesco.org/en/search?q=John%20Frum%20Movement'
 artifacts:
   - title: "Ceremonial red cross of the John Frum movement on Tanna (1967)"

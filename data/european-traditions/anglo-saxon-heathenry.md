@@ -48,9 +48,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Anglo-Saxon Heathenry"'
     url: 'https://www.britannica.com/topic/anglo-saxon-heathenry'
-  - title: 'Oxford Reference: Overview of Anglo-Saxon Heathenry'
+  - title: 'Oxford Reference — search results for "Anglo-Saxon Heathenry"'
     url: 'https://www.oxfordreference.com/search?q=Anglo-Saxon%20Heathenry'
-  - title: 'Brill Handbook of Religious Traditions: Anglo-Saxon Heathenry'
+  - title: 'Brill — search results for "Anglo-Saxon Heathenry"'
     url: 'https://brill.com/search?q=Anglo-Saxon%20Heathenry'
 artifacts:
   - title: "Early medieval Anglo-Saxon copper-alloy figurine depicting Woden"

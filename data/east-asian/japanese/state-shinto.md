@@ -36,9 +36,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "State Shinto"'
     url: 'https://www.britannica.com/topic/state-shinto'
-  - title: 'Oxford Reference: Overview of State Shinto'
+  - title: 'Oxford Reference — search results for "State Shinto"'
     url: 'https://www.oxfordreference.com/search?q=State%20Shinto'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "State Shinto"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=State%20Shinto'
 artifacts:
   - title: "Official imperial portrait (goshin'ei) of Emperor Meiji by Edoardo Chiossone"

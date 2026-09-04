@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cult of Isis"'
     url: 'https://www.britannica.com/topic/cult-of-isis'
-  - title: 'Oxford Reference: Overview of Cult of Isis'
+  - title: 'Oxford Reference — search results for "Cult of Isis"'
     url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Isis'
-  - title: 'Brill Handbook of Religious Traditions: Cult of Isis'
+  - title: 'Brill — search results for "Cult of Isis"'
     url: 'https://brill.com/search?q=Cult%20of%20Isis'
 artifacts:
   - title: "Statuette of Isis Nursing Horus (Isis lactans) in the Brooklyn Museum"

@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Adventism"'
     url: 'https://www.britannica.com/topic/adventism'
-  - title: 'Oxford Reference: Overview of Adventism'
+  - title: 'Oxford Reference — search results for "Adventism"'
     url: 'https://www.oxfordreference.com/search?q=Adventism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Adventism'
+  - title: 'Cambridge Core — search results for "Adventism"'
     url: 'https://www.cambridge.org/core/search?q=Adventism'
 artifacts:
   - title: "1843 Millerite prophetic chart illustrating the prophecies of Daniel and Revelation"

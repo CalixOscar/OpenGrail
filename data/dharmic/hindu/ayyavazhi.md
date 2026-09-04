@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ayyavazhi"'
     url: 'https://www.britannica.com/topic/ayyavazhi'
-  - title: 'Oxford Reference: Overview of Ayyavazhi'
+  - title: 'Oxford Reference — search results for "Ayyavazhi"'
     url: 'https://www.oxfordreference.com/search?q=Ayyavazhi'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Ayyavazhi"'
     url: 'https://www.rep.routledge.com/search?query=Ayyavazhi'
 artifacts:
   - title: "Ayyavazhi devotees on pilgrimage to Swamithope Pathi during the Ayya Vaikunda Avataram festival"

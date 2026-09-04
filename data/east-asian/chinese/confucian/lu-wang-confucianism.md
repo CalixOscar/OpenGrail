@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Lu–Wang Confucianism"'
     url: 'https://www.britannica.com/topic/lu-wang-confucianism'
-  - title: 'Oxford Reference: Overview of Lu–Wang Confucianism'
+  - title: 'Oxford Reference — search results for "Lu–Wang Confucianism"'
     url: 'https://www.oxfordreference.com/search?q=Lu%E2%80%93Wang%20Confucianism'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Lu–Wang Confucianism"'
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Lu%E2%80%93Wang%20Confucianism
 artifacts:

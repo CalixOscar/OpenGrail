@@ -43,12 +43,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Lutheran Church—Missouri Synod"'
     url: 'https://www.britannica.com/topic/lutheran-church-missouri-synod'
-  - title: 'Oxford Reference: Overview of Lutheran Church—Missouri Synod'
+  - title: 'Oxford Reference — search results for "Lutheran Church—Missouri Synod"'
     url: >-
       https://www.oxfordreference.com/search?q=Lutheran%20Church%E2%80%94Missouri%20Synod
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Lutheran
-      Church—Missouri Synod
+  - title: 'Cambridge Core — search results for "Lutheran Church—Missouri Synod"'
     url: >-
       https://www.cambridge.org/core/search?q=Lutheran%20Church%E2%80%94Missouri%20Synod
 artifacts:

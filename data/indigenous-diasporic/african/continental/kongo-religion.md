@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Kongo Religious Traditions"'
     url: 'https://www.britannica.com/topic/kongo-religious-traditions'
-  - title: 'Oxford Reference: Overview of Kongo Religious Traditions'
+  - title: 'Oxford Reference — search results for "Kongo Religious Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Kongo%20Religious%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Kongo Religious Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Kongo%20Religious%20Traditions'
 artifacts:
   - title: "Kongo power figure (Nkisi Nkondi) studded with blades and nails at the Brooklyn Museum"

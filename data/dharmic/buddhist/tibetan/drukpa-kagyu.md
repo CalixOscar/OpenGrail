@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Drukpa Kagyu"'
     url: 'https://www.britannica.com/topic/drukpa-kagyu'
-  - title: 'Oxford Reference: Overview of Drukpa Kagyu'
+  - title: 'Oxford Reference — search results for "Drukpa Kagyu"'
     url: 'https://www.oxfordreference.com/search?q=Drukpa%20Kagyu'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Drukpa Kagyu"'
     url: 'https://www.rep.routledge.com/search?query=Drukpa%20Kagyu'
 artifacts:
   - title: "Traditional painting of Tsangpa Gyare Yeshe Dorje, 1st Gyalwang Drukpa"

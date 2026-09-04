@@ -40,10 +40,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "So-Called Cargo Cult Movements"'
     url: 'https://www.britannica.com/topic/so-called-cargo-cult-movements'
-  - title: 'Oxford Reference: Overview of So-Called Cargo Cult Movements'
+  - title: 'Oxford Reference — search results for "So-Called Cargo Cult Movements"'
     url: >-
       https://www.oxfordreference.com/search?q=So-Called%20Cargo%20Cult%20Movements
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "So-Called Cargo Cult Movements"'
     url: 'https://ich.unesco.org/en/search?q=So-Called%20Cargo%20Cult%20Movements'
 artifacts:
   - title: "Ceremonial red cross of the John Frum movement on Tanna (1967)"

@@ -46,10 +46,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Śrī Vaiṣṇavism"'
     url: 'https://www.britannica.com/topic/-r-vai-avism'
-  - title: 'Oxford Reference: Overview of Śrī Vaiṣṇavism'
+  - title: 'Oxford Reference — search results for "Śrī Vaiṣṇavism"'
     url: >-
       https://www.oxfordreference.com/search?q=%C5%9Ar%C4%AB%20Vai%E1%B9%A3%E1%B9%87avism
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Śrī Vaiṣṇavism"'
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%AB%20Vai%E1%B9%A3%E1%B9%87avism
 artifacts:

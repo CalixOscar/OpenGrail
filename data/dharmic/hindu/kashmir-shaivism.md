@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Kashmir Śaivism"'
     url: 'https://www.britannica.com/topic/kashmir-aivism'
-  - title: 'Oxford Reference: Overview of Kashmir Śaivism'
+  - title: 'Oxford Reference — search results for "Kashmir Śaivism"'
     url: 'https://www.oxfordreference.com/search?q=Kashmir%20%C5%9Aaivism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Kashmir Śaivism"'
     url: 'https://www.rep.routledge.com/search?query=Kashmir%20%C5%9Aaivism'
 artifacts:
   - title: "Shankaracharya Temple (Jyeshteshwara temple) overlooking Srinagar, Kashmir"

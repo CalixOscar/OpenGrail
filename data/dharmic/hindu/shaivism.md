@@ -48,9 +48,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Śaivism"'
     url: 'https://www.britannica.com/topic/-aivism'
-  - title: 'Oxford Reference: Overview of Śaivism'
+  - title: 'Oxford Reference — search results for "Śaivism"'
     url: 'https://www.oxfordreference.com/search?q=%C5%9Aaivism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Śaivism"'
     url: 'https://www.rep.routledge.com/search?query=%C5%9Aaivism'
 artifacts:
   - title: "Rock-cut relief panel of the Elephanta Caves south wall featuring Shiva Trimurti and Ardhanarishvara"

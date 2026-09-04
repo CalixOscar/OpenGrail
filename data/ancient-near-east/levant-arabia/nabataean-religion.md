@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Nabataean Religion"'
     url: 'https://www.britannica.com/topic/nabataean-religion'
-  - title: 'Oxford Reference: Overview of Nabataean Religion'
+  - title: 'Oxford Reference — search results for "Nabataean Religion"'
     url: 'https://www.oxfordreference.com/search?q=Nabataean%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Nabataean Religion'
+  - title: 'Brill — search results for "Nabataean Religion"'
     url: 'https://brill.com/search?q=Nabataean%20Religion'
 artifacts:
   - title: "Worship platform at the High Place of Sacrifice on Jebel al-Madhbah, Petra"

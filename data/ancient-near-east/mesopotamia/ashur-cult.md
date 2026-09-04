@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cult of Ashur"'
     url: 'https://www.britannica.com/topic/cult-of-ashur'
-  - title: 'Oxford Reference: Overview of Cult of Ashur'
+  - title: 'Oxford Reference — search results for "Cult of Ashur"'
     url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Ashur'
-  - title: 'Brill Handbook of Religious Traditions: Cult of Ashur'
+  - title: 'Brill — search results for "Cult of Ashur"'
     url: 'https://brill.com/search?q=Cult%20of%20Ashur'
 artifacts:
   - title: "Basalt cult water basin from the courtyard of the Temple of Ashur at Assur, Pergamonmuseum"

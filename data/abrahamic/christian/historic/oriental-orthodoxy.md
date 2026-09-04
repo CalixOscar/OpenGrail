@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Oriental Orthodoxy"'
     url: 'https://www.britannica.com/topic/oriental-orthodoxy'
-  - title: 'Oxford Reference: Overview of Oriental Orthodoxy'
+  - title: 'Oxford Reference — search results for "Oriental Orthodoxy"'
     url: 'https://www.oxfordreference.com/search?q=Oriental%20Orthodoxy'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Oriental Orthodoxy'
+  - title: 'Cambridge Core — search results for "Oriental Orthodoxy"'
     url: 'https://www.cambridge.org/core/search?q=Oriental%20Orthodoxy'
 artifacts:
   - title: "6th–7th century Coptic icon of Christ and Abbot Menas from the Monastery of Bawit"

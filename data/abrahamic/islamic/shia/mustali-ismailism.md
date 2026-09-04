@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Musta''li Ismailism"'
     url: 'https://www.britannica.com/topic/musta-li-ismailism'
-  - title: 'Oxford Reference: Overview of Musta''li Ismailism'
+  - title: 'Oxford Reference — search results for "Musta''''li Ismailism"'
     url: 'https://www.oxfordreference.com/search?q=Musta''li%20Ismailism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Musta''li Ismailism'
+  - title: 'Cambridge Core — search results for "Musta''''li Ismailism"'
     url: 'https://www.cambridge.org/core/search?q=Musta''li%20Ismailism'
 artifacts:
   - title: "Fatimid gold dinar of Caliph-Imam al-Mustansir Billah"

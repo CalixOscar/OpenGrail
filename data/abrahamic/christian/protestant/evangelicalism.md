@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Evangelicalism"'
     url: 'https://www.britannica.com/topic/evangelicalism'
-  - title: 'Oxford Reference: Overview of Evangelicalism'
+  - title: 'Oxford Reference — search results for "Evangelicalism"'
     url: 'https://www.oxfordreference.com/search?q=Evangelicalism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Evangelicalism'
+  - title: 'Cambridge Core — search results for "Evangelicalism"'
     url: 'https://www.cambridge.org/core/search?q=Evangelicalism'
 ---
 

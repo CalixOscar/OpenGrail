@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Chan Buddhism"'
     url: 'https://www.britannica.com/topic/chan-buddhism'
-  - title: 'Oxford Reference: Overview of Chan Buddhism'
+  - title: 'Oxford Reference — search results for "Chan Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Chan%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Chan Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Chan%20Buddhism'
 artifacts:
   - title: "The Sixth Patriarch Huineng Carrying a Shoulder Pole, 13th-century ink painting by Zhiweng"

@@ -40,7 +40,7 @@ key_tenets:
 sources:
   - title: 'University Press of Florida: The Voice of the Leopard: African Secret Societies and Cuba'
     url: 'https://upf.com/book.asp?id=9780813034874'
-  - title: 'Oxford Reference: Abakuá'
+  - title: 'Oxford Reference — search results for "Abakua"'
     url: 'https://www.oxfordreference.com/search?q=Abakua'
   - title: 'Encyclopaedia Britannica: Abakua'
     url: 'https://www.britannica.com/topic/Abakua'

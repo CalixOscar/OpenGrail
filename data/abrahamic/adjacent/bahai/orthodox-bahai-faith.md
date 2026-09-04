@@ -38,12 +38,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Orthodox Bahá''í Faith"'
     url: 'https://www.britannica.com/topic/orthodox-bah-faith'
-  - title: 'Oxford Reference: Overview of Orthodox Bahá''í Faith'
+  - title: 'Oxford Reference — search results for "Orthodox Bahá''í Faith"'
     url: >-
       https://www.oxfordreference.com/search?q=Orthodox%20Bah%C3%A1'%C3%AD%20Faith
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Orthodox Bahá'í
-      Faith
+  - title: 'Cambridge Core — search results for "Orthodox Bahá''í Faith"'
     url: >-
       https://www.cambridge.org/core/search?q=Orthodox%20Bah%C3%A1'%C3%AD%20Faith
 ---

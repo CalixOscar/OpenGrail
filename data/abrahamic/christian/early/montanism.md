@@ -42,11 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "New Prophecy Movement"'
     url: 'https://www.britannica.com/topic/new-prophecy-movement'
-  - title: 'Oxford Reference: Overview of New Prophecy Movement'
+  - title: 'Oxford Reference — search results for "New Prophecy Movement"'
     url: 'https://www.oxfordreference.com/search?q=New%20Prophecy%20Movement'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & New Prophecy
-      Movement
+  - title: 'Cambridge Core — search results for "New Prophecy Movement"'
     url: 'https://www.cambridge.org/core/search?q=New%20Prophecy%20Movement'
 ---
 

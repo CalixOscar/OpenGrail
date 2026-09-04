@@ -29,7 +29,7 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Brahma Kumaris"'
     url: 'https://www.britannica.com/topic/Brahma-Kumaris'
-  - title: 'Julia Day Howell: "The Brahma Kumaris: An Overview of a Global New Religious Movement"'
+  - title: 'Brill — search results for "Brahma Kumaris Howell"'
     url: 'https://brill.com/search?q=Brahma+Kumaris+Howell'
   - title: 'Lawrence A. Babb: "Redemptive Encounters: Three Modern Styles in the Hindu Tradition"'
     url: 'https://www.ucpress.edu/book/9780520070523/redemptive-encounters'

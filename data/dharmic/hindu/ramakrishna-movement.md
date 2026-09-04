@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ramakrishna Movement"'
     url: 'https://www.britannica.com/topic/ramakrishna-movement'
-  - title: 'Oxford Reference: Overview of Ramakrishna Movement'
+  - title: 'Oxford Reference — search results for "Ramakrishna Movement"'
     url: 'https://www.oxfordreference.com/search?q=Ramakrishna%20Movement'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Ramakrishna Movement"'
     url: 'https://www.rep.routledge.com/search?query=Ramakrishna%20Movement'
 artifacts:
   - title: "Historic studio photograph of Sri Ramakrishna Paramahamsa"

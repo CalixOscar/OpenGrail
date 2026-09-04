@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Iglesia ni Cristo"'
     url: 'https://www.britannica.com/topic/iglesia-ni-cristo'
-  - title: 'Oxford Reference: Overview of Iglesia ni Cristo'
+  - title: 'Oxford Reference — search results for "Iglesia ni Cristo"'
     url: 'https://www.oxfordreference.com/search?q=Iglesia%20ni%20Cristo'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Iglesia ni Cristo'
+  - title: 'Cambridge Core — search results for "Iglesia ni Cristo"'
     url: 'https://www.cambridge.org/core/search?q=Iglesia%20ni%20Cristo'
 artifacts:
   - title: "Executive Minister Eduardo V. Manalo receiving President Rodrigo Duterte at the INC Central Temple"

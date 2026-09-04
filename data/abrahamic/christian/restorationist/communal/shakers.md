@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Shakers'
     url: 'https://www.britannica.com/topic/Shakers'
-  - title: 'Oxford Reference: Shakers'
+  - title: 'Oxford Reference — search results for "Shakers"'
     url: 'https://www.oxfordreference.com/search?q=Shakers'
-  - title: 'Columbia University Press: The Shaker Experience in America (Stephen J. Stein)'
+  - title: 'Columbia University Press — search results for "Shakers"'
     url: 'https://cup.columbia.edu/search-results?keyword=Shakers'
 artifacts:
   - title: "Shaker Gift Drawing: The Tree of Life by Hannah Cohoon"

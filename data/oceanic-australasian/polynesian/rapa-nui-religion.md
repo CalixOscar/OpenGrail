@@ -42,10 +42,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Rapa Nui Religious Traditions"'
     url: 'https://www.britannica.com/topic/rapa-nui-religious-traditions'
-  - title: 'Oxford Reference: Overview of Rapa Nui Religious Traditions'
+  - title: 'Oxford Reference — search results for "Rapa Nui Religious Traditions"'
     url: >-
       https://www.oxfordreference.com/search?q=Rapa%20Nui%20Religious%20Traditions
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Rapa Nui Religious Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Rapa%20Nui%20Religious%20Traditions'
 artifacts:
   - title: "Monumental moai platform at Ahu Tongariki on Rapa Nui"

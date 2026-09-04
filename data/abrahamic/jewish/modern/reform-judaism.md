@@ -35,9 +35,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Reform Judaism"'
     url: 'https://www.britannica.com/topic/reform-judaism'
-  - title: 'Oxford Reference: Overview of Reform Judaism'
+  - title: 'Oxford Reference — search results for "Reform Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Reform%20Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Reform Judaism'
+  - title: 'Cambridge Core — search results for "Reform Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Reform%20Judaism'
 artifacts:
   - title: "Portrait of Abraham Geiger by Lesser Ury"

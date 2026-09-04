@@ -37,9 +37,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hopi Religion"'
     url: 'https://www.britannica.com/topic/hopi-religion'
-  - title: 'Oxford Reference: Overview of Hopi Religion'
+  - title: 'Oxford Reference — search results for "Hopi Religion"'
     url: 'https://www.oxfordreference.com/search?q=Hopi%20Religion'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Hopi Religion"'
     url: 'https://ich.unesco.org/en/search?q=Hopi%20Religion'
 artifacts:
   - title: "Illustrations of Hopi Katsina dolls (tithu) from Fewkes's 1894 study"

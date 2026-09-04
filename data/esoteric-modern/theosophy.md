@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Theosophy"'
     url: 'https://www.britannica.com/topic/theosophy'
-  - title: 'Oxford Reference: Overview of Theosophy'
+  - title: 'Oxford Reference — search results for "Theosophy"'
     url: 'https://www.oxfordreference.com/search?q=Theosophy'
-  - title: 'Brill Handbook of Religious Traditions: Theosophy'
+  - title: 'Brill — search results for "Theosophy"'
     url: 'https://brill.com/search?q=Theosophy'
 artifacts:
   - title: "Portrait photograph of Helena Petrovna Blavatsky, co-founder of the Theosophical Society"

@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Dvaitādvaita Vedānta"'
     url: 'https://www.britannica.com/topic/dvait-dvaita-ved-nta'
-  - title: 'Oxford Reference: Overview of Dvaitādvaita Vedānta'
+  - title: 'Oxford Reference — search results for "Dvaitādvaita Vedānta"'
     url: 'https://www.oxfordreference.com/search?q=Dvait%C4%81dvaita%20Ved%C4%81nta'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Dvaitādvaita Vedānta"'
     url: >-
       https://www.rep.routledge.com/search?query=Dvait%C4%81dvaita%20Ved%C4%81nta
 artifacts:

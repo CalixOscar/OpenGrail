@@ -40,12 +40,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "International Churches of Christ"'
     url: 'https://www.britannica.com/topic/international-churches-of-christ'
-  - title: 'Oxford Reference: Overview of International Churches of Christ'
+  - title: 'Oxford Reference — search results for "International Churches of Christ"'
     url: >-
       https://www.oxfordreference.com/search?q=International%20Churches%20of%20Christ
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & International
-      Churches of Christ
+  - title: 'Cambridge Core — search results for "International Churches of Christ"'
     url: >-
       https://www.cambridge.org/core/search?q=International%20Churches%20of%20Christ
 ---

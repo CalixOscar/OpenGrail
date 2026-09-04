@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Epicureanism"'
     url: 'https://www.britannica.com/topic/epicureanism'
-  - title: 'Oxford Reference: Overview of Epicureanism'
+  - title: 'Oxford Reference — search results for "Epicureanism"'
     url: 'https://www.oxfordreference.com/search?q=Epicureanism'
-  - title: 'Brill Handbook of Religious Traditions: Epicureanism'
+  - title: 'Brill — search results for "Epicureanism"'
     url: 'https://brill.com/search?q=Epicureanism'
 artifacts:
   - title: "Double herm of Epicurus and Metrodorus of Lampsacus, Louvre Museum"

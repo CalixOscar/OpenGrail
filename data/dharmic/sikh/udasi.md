@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Udāsī Tradition"'
     url: 'https://www.britannica.com/topic/ud-s-tradition'
-  - title: 'Oxford Reference: Overview of Udāsī Tradition'
+  - title: 'Oxford Reference — search results for "Udāsī Tradition"'
     url: 'https://www.oxfordreference.com/search?q=Ud%C4%81s%C4%AB%20Tradition'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Udāsī Tradition"'
     url: 'https://www.rep.routledge.com/search?query=Ud%C4%81s%C4%AB%20Tradition'
 artifacts:
   - title: "Haveli of Udasi saint Baba Bhuman Shah in Dipalpur, Pakistan"

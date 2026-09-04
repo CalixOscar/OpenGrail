@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Syriac Orthodoxy"'
     url: 'https://www.britannica.com/topic/syriac-orthodoxy'
-  - title: 'Oxford Reference: Overview of Syriac Orthodoxy'
+  - title: 'Oxford Reference — search results for "Syriac Orthodoxy"'
     url: 'https://www.oxfordreference.com/search?q=Syriac%20Orthodoxy'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Syriac Orthodoxy'
+  - title: 'Cambridge Core — search results for "Syriac Orthodoxy"'
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Orthodoxy'
 artifacts:
   - title: "Saint John the Evangelist miniature from the 6th-century Syriac Rabbula Gospels"

@@ -41,11 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Chaldean Catholic Church"'
     url: 'https://www.britannica.com/topic/chaldean-catholic-church'
-  - title: 'Oxford Reference: Overview of Chaldean Catholic Church'
+  - title: 'Oxford Reference — search results for "Chaldean Catholic Church"'
     url: 'https://www.oxfordreference.com/search?q=Chaldean%20Catholic%20Church'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Chaldean Catholic
-      Church
+  - title: 'Cambridge Core — search results for "Chaldean Catholic Church"'
     url: 'https://www.cambridge.org/core/search?q=Chaldean%20Catholic%20Church'
 artifacts:
   - title: "Sanctuary interior of Mar Petyun Chaldean Catholic Church in Diyarbakır"

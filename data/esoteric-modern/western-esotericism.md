@@ -36,9 +36,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Western Esotericism"'
     url: 'https://www.britannica.com/topic/western-esotericism'
-  - title: 'Oxford Reference: Overview of Western Esotericism'
+  - title: 'Oxford Reference — search results for "Western Esotericism"'
     url: 'https://www.oxfordreference.com/search?q=Western%20Esotericism'
-  - title: 'Brill Handbook of Religious Traditions: Western Esotericism'
+  - title: 'Brill — search results for "Western Esotericism"'
     url: 'https://brill.com/search?q=Western%20Esotericism'
 artifacts:
   - title: "Robert Fludd's Hermetic-Kabbalistic Tree of Life diagram from \"Utriusque Cosmi\""

@@ -42,10 +42,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Muscogee Ceremonial Traditions"'
     url: 'https://www.britannica.com/topic/muscogee-ceremonial-traditions'
-  - title: 'Oxford Reference: Overview of Muscogee Ceremonial Traditions'
+  - title: 'Oxford Reference — search results for "Muscogee Ceremonial Traditions"'
     url: >-
       https://www.oxfordreference.com/search?q=Muscogee%20Ceremonial%20Traditions
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Muscogee Ceremonial Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Muscogee%20Ceremonial%20Traditions'
 artifacts:
   - title: "Ceremonial earth lodge mound at Ocmulgee in Macon, Georgia"

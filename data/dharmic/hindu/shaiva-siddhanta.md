@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Śaiva Siddhānta"'
     url: 'https://www.britannica.com/topic/-aiva-siddh-nta'
-  - title: 'Oxford Reference: Overview of Śaiva Siddhānta'
+  - title: 'Oxford Reference — search results for "Śaiva Siddhānta"'
     url: 'https://www.oxfordreference.com/search?q=%C5%9Aaiva%20Siddh%C4%81nta'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Śaiva Siddhānta"'
     url: 'https://www.rep.routledge.com/search?query=%C5%9Aaiva%20Siddh%C4%81nta'
 artifacts:
   - title: "Chola bronze of Shiva Nataraja (Lord of Dance), Tamil Nadu, 10th–11th century"

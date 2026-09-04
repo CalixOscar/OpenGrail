@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Memphite Theology"'
     url: 'https://www.britannica.com/topic/memphite-theology'
-  - title: 'Oxford Reference: Overview of Memphite Theology'
+  - title: 'Oxford Reference — search results for "Memphite Theology"'
     url: 'https://www.oxfordreference.com/search?q=Memphite%20Theology'
-  - title: 'Brill Handbook of Religious Traditions: Memphite Theology'
+  - title: 'Brill — search results for "Memphite Theology"'
     url: 'https://brill.com/search?q=Memphite%20Theology'
 artifacts:
   - title: "The Shabaka Stone recording the Memphite Theology, British Museum"

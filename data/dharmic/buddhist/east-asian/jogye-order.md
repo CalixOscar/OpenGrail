@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Jogye Order"'
     url: 'https://www.britannica.com/topic/jogye-order'
-  - title: 'Oxford Reference: Overview of Jogye Order'
+  - title: 'Oxford Reference — search results for "Jogye Order"'
     url: 'https://www.oxfordreference.com/search?q=Jogye%20Order'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Jogye Order"'
     url: 'https://www.rep.routledge.com/search?query=Jogye%20Order'
 artifacts:
   - title: "Portrait of National Preceptor Bojo Jinul preserved at Songgwangsa Temple"

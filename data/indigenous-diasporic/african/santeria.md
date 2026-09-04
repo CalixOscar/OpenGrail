@@ -44,10 +44,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Lucumí / Regla de Ocha"'
     url: 'https://www.britannica.com/topic/lucum-regla-de-ocha'
-  - title: 'Oxford Reference: Overview of Lucumí / Regla de Ocha'
+  - title: 'Oxford Reference — search results for "Lucumí / Regla de Ocha"'
     url: >-
       https://www.oxfordreference.com/search?q=Lucum%C3%AD%20%2F%20Regla%20de%20Ocha
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Lucumí / Regla de Ocha"'
     url: 'https://ich.unesco.org/en/search?q=Lucum%C3%AD%20%2F%20Regla%20de%20Ocha'
 artifacts:
   - title: "Santería altar dedicated to Babalú Ayé / Saint Lazarus in Viñales, Cuba"

@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cult of Inanna–Ishtar"'
     url: 'https://www.britannica.com/topic/cult-of-inanna-ishtar'
-  - title: 'Oxford Reference: Overview of Cult of Inanna–Ishtar'
+  - title: 'Oxford Reference — search results for "Cult of Inanna–Ishtar"'
     url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Inanna%E2%80%93Ishtar'
-  - title: 'Brill Handbook of Religious Traditions: Cult of Inanna–Ishtar'
+  - title: 'Brill — search results for "Cult of Inanna–Ishtar"'
     url: 'https://brill.com/search?q=Cult%20of%20Inanna%E2%80%93Ishtar'
 artifacts:
   - title: "Top register of the Warka Vase depicting offerings presented to Inanna, Iraq Museum"

@@ -40,12 +40,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ecumenical Patriarchate of Constantinople"'
     url: 'https://www.britannica.com/topic/ecumenical-patriarchate-of-constantinople'
-  - title: 'Oxford Reference: Overview of Ecumenical Patriarchate of Constantinople'
+  - title: 'Oxford Reference — search results for "Ecumenical Patriarchate of Constantinople"'
     url: >-
       https://www.oxfordreference.com/search?q=Ecumenical%20Patriarchate%20of%20Constantinople
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Ecumenical
-      Patriarchate of Constantinople
+  - title: 'Cambridge Core — search results for "Ecumenical Patriarchate of Constantinople"'
     url: >-
       https://www.cambridge.org/core/search?q=Ecumenical%20Patriarchate%20of%20Constantinople
 artifacts:

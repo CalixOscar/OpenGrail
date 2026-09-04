@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hellenistic Religion"'
     url: 'https://www.britannica.com/topic/hellenistic-religion'
-  - title: 'Oxford Reference: Overview of Hellenistic Religion'
+  - title: 'Oxford Reference — search results for "Hellenistic Religion"'
     url: 'https://www.oxfordreference.com/search?q=Hellenistic%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Hellenistic Religion'
+  - title: 'Brill — search results for "Hellenistic Religion"'
     url: 'https://brill.com/search?q=Hellenistic%20Religion'
 artifacts:
   - title: "Silver tetradrachm of Lysimachos depicting Alexander the Great with horns of Zeus-Ammon, British Museum"

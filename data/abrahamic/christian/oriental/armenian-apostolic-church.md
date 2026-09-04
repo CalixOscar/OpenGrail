@@ -38,11 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Armenian Apostolic Church"'
     url: 'https://www.britannica.com/topic/armenian-apostolic-church'
-  - title: 'Oxford Reference: Overview of Armenian Apostolic Church'
+  - title: 'Oxford Reference — search results for "Armenian Apostolic Church"'
     url: 'https://www.oxfordreference.com/search?q=Armenian%20Apostolic%20Church'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Armenian Apostolic
-      Church
+  - title: 'Cambridge Core — search results for "Armenian Apostolic Church"'
     url: 'https://www.cambridge.org/core/search?q=Armenian%20Apostolic%20Church'
 artifacts:
   - title: "Sanctuary interior of the Mother Cathedral of Holy Etchmiadzin in Armenia"

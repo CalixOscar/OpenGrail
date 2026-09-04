@@ -37,11 +37,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Grace Communion International"'
     url: 'https://www.britannica.com/topic/grace-communion-international'
-  - title: 'Oxford Reference: Overview of Grace Communion International'
+  - title: 'Oxford Reference — search results for "Grace Communion International"'
     url: 'https://www.oxfordreference.com/search?q=Grace%20Communion%20International'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Grace Communion
-      International
+  - title: 'Cambridge Core — search results for "Grace Communion International"'
     url: 'https://www.cambridge.org/core/search?q=Grace%20Communion%20International'
 ---
 

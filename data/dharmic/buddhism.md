@@ -51,9 +51,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Buddhism"'
     url: 'https://www.britannica.com/topic/buddhism'
-  - title: 'Oxford Reference: Overview of Buddhism'
+  - title: 'Oxford Reference — search results for "Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Buddhism'
 artifacts:
   - title: "Gupta-period sandstone sculpture of the Buddha preaching the first sermon at Sarnath"

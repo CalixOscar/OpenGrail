@@ -29,9 +29,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Shinnyo-en'
     url: 'https://www.britannica.com/topic/Shinnyo-en'
-  - title: 'Oxford Reference: Shinnyo-en'
+  - title: 'Oxford Reference — search results for "Shinnyo-en"'
     url: 'https://www.oxfordreference.com/search?q=Shinnyo-en'
-  - title: 'Brill: Contemporary Japanese Religions'
+  - title: 'Brill — search results for "Shinnyo-en"'
     url: 'https://brill.com/search?q=Shinnyo-en'
 relations:
   - target: shingon

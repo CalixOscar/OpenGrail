@@ -42,11 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Mennonite Traditions"'
     url: 'https://www.britannica.com/topic/mennonite-traditions'
-  - title: 'Oxford Reference: Overview of Mennonite Traditions'
+  - title: 'Oxford Reference — search results for "Mennonite Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Mennonite%20Traditions'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Mennonite
-      Traditions
+  - title: 'Cambridge Core — search results for "Mennonite Traditions"'
     url: 'https://www.cambridge.org/core/search?q=Mennonite%20Traditions'
 artifacts:
   - title: "Portrait of Menno Simons (1788 engraving, Rijksmuseum)"

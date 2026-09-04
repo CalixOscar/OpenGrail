@@ -45,7 +45,7 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Etruscan Religion'
     url: 'https://www.britannica.com/topic/Etruscan-religion'
-  - title: 'Oxford Classical Dictionary: Etruscan Religion'
+  - title: 'Oxford Reference — search results for "Etruscan Religion"'
     url: 'https://www.oxfordreference.com/search?q=Etruscan+Religion'
   - title: 'University of Texas Press: The Religion of the Etruscans'
     url: 'https://utpress.utexas.edu/books/thoret'

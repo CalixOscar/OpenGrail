@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sikh Tradition"'
     url: 'https://www.britannica.com/topic/sikh-tradition'
-  - title: 'Oxford Reference: Overview of Sikh Tradition'
+  - title: 'Oxford Reference — search results for "Sikh Tradition"'
     url: 'https://www.oxfordreference.com/search?q=Sikh%20Tradition'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Sikh Tradition"'
     url: 'https://www.rep.routledge.com/search?query=Sikh%20Tradition'
 artifacts:
   - title: "Painting of Guru Angad taking leave of Guru Nanak, 1830s Janamsakhi folio"

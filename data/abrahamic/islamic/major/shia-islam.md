@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Shi''a Islam"'
     url: 'https://www.britannica.com/topic/shi-a-islam'
-  - title: 'Oxford Reference: Overview of Shi''a Islam'
+  - title: 'Oxford Reference — search results for "Shi''''a Islam"'
     url: 'https://www.oxfordreference.com/search?q=Shi''a%20Islam'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Shi''a Islam'
+  - title: 'Cambridge Core — search results for "Shi''''a Islam"'
     url: 'https://www.cambridge.org/core/search?q=Shi''a%20Islam'
 artifacts:
   - title: "Golden dome of the Imam Ali Mosque in Najaf, Iraq"

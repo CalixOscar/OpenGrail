@@ -54,9 +54,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Manichaeism"'
     url: 'https://www.britannica.com/topic/manichaeism'
-  - title: 'Oxford Reference: Overview of Manichaeism'
+  - title: 'Oxford Reference — search results for "Manichaeism"'
     url: 'https://www.oxfordreference.com/search?q=Manichaeism'
-  - title: 'Brill Handbook of Religious Traditions: Manichaeism'
+  - title: 'Brill — search results for "Manichaeism"'
     url: 'https://brill.com/search?q=Manichaeism'
 artifacts:
   - title: "Illuminated page from a Manichaean book depicting a liturgical ceremony (Turpan)"

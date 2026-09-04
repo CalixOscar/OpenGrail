@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Liṅgāyat Tradition"'
     url: 'https://www.britannica.com/topic/li-g-yat-tradition'
-  - title: 'Oxford Reference: Overview of Liṅgāyat Tradition'
+  - title: 'Oxford Reference — search results for "Liṅgāyat Tradition"'
     url: 'https://www.oxfordreference.com/search?q=Li%E1%B9%85g%C4%81yat%20Tradition'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Liṅgāyat Tradition"'
     url: >-
       https://www.rep.routledge.com/search?query=Li%E1%B9%85g%C4%81yat%20Tradition
 artifacts:

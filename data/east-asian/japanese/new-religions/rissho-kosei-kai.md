@@ -28,9 +28,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Risshō Kōsei-kai'
     url: 'https://www.britannica.com/topic/Rissho-Kosei-kai'
-  - title: 'Oxford Reference: Risshō Kōsei-kai'
+  - title: 'Oxford Reference — search results for "Rissho Kosei-kai"'
     url: 'https://www.oxfordreference.com/search?q=Rissho+Kosei-kai'
-  - title: 'Brill: Studies in Contemporary Japanese Buddhism'
+  - title: 'Brill — search results for "Rissho Kosei-kai"'
     url: 'https://brill.com/search?q=Rissho+Kosei-kai'
 relations:
   - target: reiyukai

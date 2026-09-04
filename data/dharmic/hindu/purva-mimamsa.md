@@ -44,10 +44,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Pūrva Mīmāṃsā"'
     url: 'https://www.britannica.com/topic/p-rva-m-m-s-'
-  - title: 'Oxford Reference: Overview of Pūrva Mīmāṃsā'
+  - title: 'Oxford Reference — search results for "Pūrva Mīmāṃsā"'
     url: >-
       https://www.oxfordreference.com/search?q=P%C5%ABrva%20M%C4%ABm%C4%81%E1%B9%83s%C4%81
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Pūrva Mīmāṃsā"'
     url: >-
       https://www.rep.routledge.com/search?query=P%C5%ABrva%20M%C4%ABm%C4%81%E1%B9%83s%C4%81
 artifacts:

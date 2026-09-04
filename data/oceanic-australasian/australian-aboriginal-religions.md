@@ -44,10 +44,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Australian Aboriginal Religions"'
     url: 'https://www.britannica.com/topic/australian-aboriginal-religions'
-  - title: 'Oxford Reference: Overview of Australian Aboriginal Religions'
+  - title: 'Oxford Reference — search results for "Australian Aboriginal Religions"'
     url: >-
       https://www.oxfordreference.com/search?q=Australian%20Aboriginal%20Religions
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Australian Aboriginal Religions"'
     url: 'https://ich.unesco.org/en/search?q=Australian%20Aboriginal%20Religions'
 artifacts:
   - title: "Uluru sacred sandstone monolith at sunset"

@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ukrainian Native Faith"'
     url: 'https://www.britannica.com/topic/ukrainian-native-faith'
-  - title: 'Oxford Reference: Overview of Ukrainian Native Faith'
+  - title: 'Oxford Reference — search results for "Ukrainian Native Faith"'
     url: 'https://www.oxfordreference.com/search?q=Ukrainian%20Native%20Faith'
-  - title: 'Brill Handbook of Religious Traditions: Ukrainian Native Faith'
+  - title: 'Brill — search results for "Ukrainian Native Faith"'
     url: 'https://brill.com/search?q=Ukrainian%20Native%20Faith'
 artifacts:
   - title: "Carved wooden Perun idol erected by Ukrainian Ridnovirs in Kyiv (2009)"

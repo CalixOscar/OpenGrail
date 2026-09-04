@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Church of Cyprus"'
     url: 'https://www.britannica.com/topic/church-of-cyprus'
-  - title: 'Oxford Reference: Overview of Church of Cyprus'
+  - title: 'Oxford Reference — search results for "Church of Cyprus"'
     url: 'https://www.oxfordreference.com/search?q=Church%20of%20Cyprus'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Cyprus'
+  - title: 'Cambridge Core — search results for "Church of Cyprus"'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Cyprus'
 artifacts:
   - title: "Church of Saint George in Stroumbi village, Cyprus"

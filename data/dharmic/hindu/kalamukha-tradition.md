@@ -33,7 +33,7 @@ sources:
     url: 'https://www.ucpress.edu/book/9780520018426/the-kapalikas-and-kalamukhas'
   - title: 'Encyclopaedia Britannica: "Kalamukha"'
     url: 'https://www.britannica.com/topic/Kalamukha'
-  - title: 'Alexis Sanderson: "The Śaiva Age: The Rise and Dominance of Śaivism during the Early Medieval Period"'
+  - title: 'Brill — search results for "Sanderson Kalamukha"'
     url: 'https://brill.com/search?q=Sanderson+Kalamukha'
 relations:
   - target: pashupata-shaivism

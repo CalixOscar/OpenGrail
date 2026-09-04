@@ -45,7 +45,7 @@ key_tenets:
 sources:
   - title: 'Thomas Vennum Jr.: "The Ojibwa Dance Drum: Its History and Construction"'
     url: 'https://repository.si.edu/handle/10088/1319'
-  - title: 'Oxford Reference: Dream Dance'
+  - title: 'Oxford Reference — search results for "Dream Dance"'
     url: 'https://www.oxfordreference.com/search?q=Dream+Dance'
   - title: 'Smithsonian Institution: Studies in Native American Ethnomusicology and Ritual'
     url: 'https://www.si.edu/research'

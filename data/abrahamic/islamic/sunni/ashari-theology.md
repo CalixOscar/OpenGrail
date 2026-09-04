@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ash''ari Theology"'
     url: 'https://www.britannica.com/topic/ash-ari-theology'
-  - title: 'Oxford Reference: Overview of Ash''ari Theology'
+  - title: 'Oxford Reference — search results for "Ash''''ari Theology"'
     url: 'https://www.oxfordreference.com/search?q=Ash''ari%20Theology'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Ash''ari Theology'
+  - title: 'Cambridge Core — search results for "Ash''''ari Theology"'
     url: 'https://www.cambridge.org/core/search?q=Ash''ari%20Theology'
 ---
 

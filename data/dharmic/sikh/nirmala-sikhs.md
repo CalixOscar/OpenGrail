@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Nirmalā Sikhs"'
     url: 'https://www.britannica.com/topic/nirmal-sikhs'
-  - title: 'Oxford Reference: Overview of Nirmalā Sikhs'
+  - title: 'Oxford Reference — search results for "Nirmalā Sikhs"'
     url: 'https://www.oxfordreference.com/search?q=Nirmal%C4%81%20Sikhs'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Nirmalā Sikhs"'
     url: 'https://www.rep.routledge.com/search?query=Nirmal%C4%81%20Sikhs'
 ---
 

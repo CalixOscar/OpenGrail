@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Judaism"'
     url: 'https://www.britannica.com/topic/judaism'
-  - title: 'Oxford Reference: Overview of Judaism'
+  - title: 'Oxford Reference — search results for "Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Judaism'
+  - title: 'Cambridge Core — search results for "Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Judaism'
 artifacts:
   - title: "Prayer hall in the Western Wall Tunnels beneath Wilson's Arch"

@@ -38,9 +38,9 @@ key_tenets:
     heritage, sacred groves (Umang Lai), domestic altar sanctity in the
     southwestern corner (Sanamahi Kachin), and religious revitalization.
 sources:
-  - title: 'Oxford Reference: Religions of Northeast India'
+  - title: 'Oxford Reference — search results for "Sanamahi"'
     url: 'https://www.oxfordreference.com/search?q=Sanamahi'
-  - title: 'Routledge: The Meiteis of Manipur and Sanamahism'
+  - title: 'Routledge — search results for "Sanamahism"'
     url: 'https://www.routledge.com/search?kw=Sanamahism'
   - title: 'Encyclopaedia Britannica: Meitei people and religion'
     url: 'https://www.britannica.com/topic/Meitei'

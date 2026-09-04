@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cult of Amun at Thebes"'
     url: 'https://www.britannica.com/topic/cult-of-amun-at-thebes'
-  - title: 'Oxford Reference: Overview of Cult of Amun at Thebes'
+  - title: 'Oxford Reference — search results for "Cult of Amun at Thebes"'
     url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Amun%20at%20Thebes'
-  - title: 'Brill Handbook of Religious Traditions: Cult of Amun at Thebes'
+  - title: 'Brill — search results for "Cult of Amun at Thebes"'
     url: 'https://brill.com/search?q=Cult%20of%20Amun%20at%20Thebes'
 artifacts:
   - title: "Avenue of ram-headed criosphinxes leading to the First Pylon at Karnak"

@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Gbe Vodun Traditions"'
     url: 'https://www.britannica.com/topic/gbe-vodun-traditions'
-  - title: 'Oxford Reference: Overview of Gbe Vodun Traditions'
+  - title: 'Oxford Reference — search results for "Gbe Vodun Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Gbe%20Vodun%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Gbe Vodun Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Gbe%20Vodun%20Traditions'
 artifacts:
   - title: "Entrance to the Temple of Pythons (Temple des Pythons) in Ouidah, Benin"

@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "UFO Religions"'
     url: 'https://www.britannica.com/topic/ufo-religions'
-  - title: 'Oxford Reference: Overview of UFO Religions'
+  - title: 'Oxford Reference — search results for "UFO Religions"'
     url: 'https://www.oxfordreference.com/search?q=UFO%20Religions'
-  - title: 'Brill Handbook of Religious Traditions: UFO Religions'
+  - title: 'Brill — search results for "UFO Religions"'
     url: 'https://brill.com/search?q=UFO%20Religions'
 artifacts:
   - title: "George Adamski with a telescope at the Temple of Scientific Philosophy in Laguna Beach (1938)"

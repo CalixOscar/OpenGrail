@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Dudeism"'
     url: 'https://www.britannica.com/topic/dudeism'
-  - title: 'Oxford Reference: Overview of Dudeism'
+  - title: 'Oxford Reference — search results for "Dudeism"'
     url: 'https://www.oxfordreference.com/search?q=Dudeism'
-  - title: 'Brill Handbook of Religious Traditions: Dudeism'
+  - title: 'Brill — search results for "Dudeism"'
     url: 'https://brill.com/search?q=Dudeism'
 ---
 

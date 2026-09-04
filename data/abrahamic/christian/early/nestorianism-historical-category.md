@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "“Nestorianism”"'
     url: 'https://www.britannica.com/topic/-nestorianism-'
-  - title: 'Oxford Reference: Overview of “Nestorianism”'
+  - title: 'Oxford Reference — search results for "“Nestorianism”"'
     url: 'https://www.oxfordreference.com/search?q=%E2%80%9CNestorianism%E2%80%9D'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & “Nestorianism”'
+  - title: 'Cambridge Core — search results for "“Nestorianism”"'
     url: 'https://www.cambridge.org/core/search?q=%E2%80%9CNestorianism%E2%80%9D'
 artifacts:
   - title: "Engraving of the Nestorian Stele cross from Michał Boym's Flora Sinensis (1656)"

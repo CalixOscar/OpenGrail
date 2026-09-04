@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Mazdakism"'
     url: 'https://www.britannica.com/topic/mazdakism'
-  - title: 'Oxford Reference: Overview of Mazdakism'
+  - title: 'Oxford Reference — search results for "Mazdakism"'
     url: 'https://www.oxfordreference.com/search?q=Mazdakism'
-  - title: 'Brill Handbook of Religious Traditions: Mazdakism'
+  - title: 'Brill — search results for "Mazdakism"'
     url: 'https://brill.com/search?q=Mazdakism'
 artifacts:
   - title: "The Execution of Mazdak, folio from an illustrated Shahnama (Book of Kings)"

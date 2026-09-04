@@ -42,10 +42,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Śuddhādvaita Vedānta"'
     url: 'https://www.britannica.com/topic/-uddh-dvaita-ved-nta'
-  - title: 'Oxford Reference: Overview of Śuddhādvaita Vedānta'
+  - title: 'Oxford Reference — search results for "Śuddhādvaita Vedānta"'
     url: >-
       https://www.oxfordreference.com/search?q=%C5%9Auddh%C4%81dvaita%20Ved%C4%81nta
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Śuddhādvaita Vedānta"'
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Auddh%C4%81dvaita%20Ved%C4%81nta
 artifacts:

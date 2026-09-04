@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Maliki School"'
     url: 'https://www.britannica.com/topic/maliki-school'
-  - title: 'Oxford Reference: Overview of Maliki School'
+  - title: 'Oxford Reference — search results for "Maliki School"'
     url: 'https://www.oxfordreference.com/search?q=Maliki%20School'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Maliki School'
+  - title: 'Cambridge Core — search results for "Maliki School"'
     url: 'https://www.cambridge.org/core/search?q=Maliki%20School'
 artifacts:
   - title: "Courtyard of the Great Mosque of Kairouan"

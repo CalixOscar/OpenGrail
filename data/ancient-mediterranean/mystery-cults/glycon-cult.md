@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Alexander the Paphlagonian'
     url: 'https://www.britannica.com/biography/Alexander-the-Paphlagonian'
-  - title: 'Oxford Classical Dictionary: Glycon'
+  - title: 'Oxford Reference — search results for "Glycon"'
     url: 'https://www.oxfordreference.com/search?q=Glycon'
-  - title: 'Brill New Pauly: Glykon (deity)'
+  - title: 'Brill — search results for "Glykon"'
     url: 'https://brill.com/search?q=Glykon'
 artifacts:
   - title: "Marble cult statue of the serpent god Glycon from Tomis"

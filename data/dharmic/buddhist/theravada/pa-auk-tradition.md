@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Pa-Auk Tradition"'
     url: 'https://www.britannica.com/topic/pa-auk-tradition'
-  - title: 'Oxford Reference: Overview of Pa-Auk Tradition'
+  - title: 'Oxford Reference — search results for "Pa-Auk Tradition"'
     url: 'https://www.oxfordreference.com/search?q=Pa-Auk%20Tradition'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Pa-Auk Tradition"'
     url: 'https://www.rep.routledge.com/search?query=Pa-Auk%20Tradition'
 artifacts:
   - title: "Venerable Pa-Auk Tawya Sayadaw Bhaddanta Āciṇṇa at Pa-Auk Forest Monastery"

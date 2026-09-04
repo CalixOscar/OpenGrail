@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Melanesian Religions"'
     url: 'https://www.britannica.com/topic/melanesian-religions'
-  - title: 'Oxford Reference: Overview of Melanesian Religions'
+  - title: 'Oxford Reference — search results for "Melanesian Religions"'
     url: 'https://www.oxfordreference.com/search?q=Melanesian%20Religions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Melanesian Religions"'
     url: 'https://ich.unesco.org/en/search?q=Melanesian%20Religions'
 artifacts:
   - title: "Carved wooden Malagan funerary mask from New Ireland, Papua New Guinea (1901)"

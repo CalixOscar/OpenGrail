@@ -40,7 +40,7 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Skoptsy'
     url: 'https://www.britannica.com/topic/Skoptsy'
-  - title: 'Oxford Reference: Skoptsy'
+  - title: 'Oxford Reference — search results for "Skoptsy"'
     url: 'https://www.oxfordreference.com/search?q=Skoptsy'
   - title: 'Harvard University Press: Castration and the Heavenly Kingdom'
     url: 'https://www.hup.harvard.edu/books/9780674000476'

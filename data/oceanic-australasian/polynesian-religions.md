@@ -36,9 +36,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Polynesian Religions"'
     url: 'https://www.britannica.com/topic/polynesian-religions'
-  - title: 'Oxford Reference: Overview of Polynesian Religions'
+  - title: 'Oxford Reference — search results for "Polynesian Religions"'
     url: 'https://www.oxfordreference.com/search?q=Polynesian%20Religions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Polynesian Religions"'
     url: 'https://ich.unesco.org/en/search?q=Polynesian%20Religions'
 artifacts:
   - title: "Monumental stone tiki at Meʻae Iipona on Hiva Oa, Marquesas Islands"

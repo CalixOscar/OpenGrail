@@ -48,9 +48,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Iranian Zoroastrianism"'
     url: 'https://www.britannica.com/topic/iranian-zoroastrianism'
-  - title: 'Oxford Reference: Overview of Iranian Zoroastrianism'
+  - title: 'Oxford Reference — search results for "Iranian Zoroastrianism"'
     url: 'https://www.oxfordreference.com/search?q=Iranian%20Zoroastrianism'
-  - title: 'Brill Handbook of Religious Traditions: Iranian Zoroastrianism'
+  - title: 'Brill — search results for "Iranian Zoroastrianism"'
     url: 'https://brill.com/search?q=Iranian%20Zoroastrianism'
 artifacts:
   - title: "Facade of the Yazd Atash Behram fire temple in Iran"

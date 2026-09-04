@@ -40,11 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Romanian Orthodox Church"'
     url: 'https://www.britannica.com/topic/romanian-orthodox-church'
-  - title: 'Oxford Reference: Overview of Romanian Orthodox Church'
+  - title: 'Oxford Reference — search results for "Romanian Orthodox Church"'
     url: 'https://www.oxfordreference.com/search?q=Romanian%20Orthodox%20Church'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Romanian Orthodox
-      Church
+  - title: 'Cambridge Core — search results for "Romanian Orthodox Church"'
     url: 'https://www.cambridge.org/core/search?q=Romanian%20Orthodox%20Church'
 artifacts:
   - title: "The Last Judgment fresco on the exterior west wall of Voroneț Monastery, Romania"

@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Radha Soami Tradition"'
     url: 'https://www.britannica.com/topic/radha-soami-tradition'
-  - title: 'Oxford Reference: Overview of Radha Soami Tradition'
+  - title: 'Oxford Reference — search results for "Radha Soami Tradition"'
     url: 'https://www.oxfordreference.com/search?q=Radha%20Soami%20Tradition'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Radha Soami Tradition"'
     url: 'https://www.rep.routledge.com/search?query=Radha%20Soami%20Tradition'
 artifacts:
   - title: "Photograph of Seth Shiv Dayal Singh (Soamiji Maharaj), founder of Radha Soami"

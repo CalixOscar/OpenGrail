@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Tlingit Religious Traditions"'
     url: 'https://www.britannica.com/topic/tlingit-religious-traditions'
-  - title: 'Oxford Reference: Overview of Tlingit Religious Traditions'
+  - title: 'Oxford Reference — search results for "Tlingit Religious Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Tlingit%20Religious%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Tlingit Religious Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Tlingit%20Religious%20Traditions'
 artifacts:
   - title: "Tlingit community gathered before a clan house with carved crest post in Sitka"

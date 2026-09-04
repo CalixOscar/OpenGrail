@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Amoraic Judaism"'
     url: 'https://www.britannica.com/topic/amoraic-judaism'
-  - title: 'Oxford Reference: Overview of Amoraic Judaism'
+  - title: 'Oxford Reference — search results for "Amoraic Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Amoraic%20Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Amoraic Judaism'
+  - title: 'Cambridge Core — search results for "Amoraic Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Amoraic%20Judaism'
 artifacts:
   - title: "Traditional tomb of Rav Ashi on Mount Shina'an"

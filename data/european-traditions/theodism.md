@@ -48,9 +48,9 @@ sources:
   - title: 'Michael F. Strmiska, Modern Paganism in World Cultures: Comparative Perspectives (ABC-CLIO, 2005)'
   - title: 'Encyclopaedia Britannica: "Theodism"'
     url: 'https://www.britannica.com/topic/theodism'
-  - title: 'Oxford Reference: Overview of Theodism'
+  - title: 'Oxford Reference — search results for "Theodism"'
     url: 'https://www.oxfordreference.com/search?q=Theodism'
-  - title: 'Brill Handbook of Religious Traditions: Theodism'
+  - title: 'Brill — search results for "Theodism"'
     url: 'https://brill.com/search?q=Theodism'
 artifacts:
   - title: "Early medieval Anglo-Saxon copper-alloy drinking horn terminal from London"

@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Nizari Ismailism"'
     url: 'https://www.britannica.com/topic/nizari-ismailism'
-  - title: 'Oxford Reference: Overview of Nizari Ismailism'
+  - title: 'Oxford Reference — search results for "Nizari Ismailism"'
     url: 'https://www.oxfordreference.com/search?q=Nizari%20Ismailism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Nizari Ismailism'
+  - title: 'Cambridge Core — search results for "Nizari Ismailism"'
     url: 'https://www.cambridge.org/core/search?q=Nizari%20Ismailism'
 artifacts:
   - title: "Press photograph of Prince Karim Aga Khan IV, 1964"

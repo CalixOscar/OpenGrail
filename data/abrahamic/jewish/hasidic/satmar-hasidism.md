@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Satmar Hasidism"'
     url: 'https://www.britannica.com/topic/satmar-hasidism'
-  - title: 'Oxford Reference: Overview of Satmar Hasidism'
+  - title: 'Oxford Reference — search results for "Satmar Hasidism"'
     url: 'https://www.oxfordreference.com/search?q=Satmar%20Hasidism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Satmar Hasidism'
+  - title: 'Cambridge Core — search results for "Satmar Hasidism"'
     url: 'https://www.cambridge.org/core/search?q=Satmar%20Hasidism'
 artifacts:
   - title: "Rabbi Joel Teitelbaum greeting King Carol II of Romania in Satu Mare (1936)"

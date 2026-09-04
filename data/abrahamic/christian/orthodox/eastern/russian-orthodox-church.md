@@ -44,11 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Russian Orthodox Church"'
     url: 'https://www.britannica.com/topic/russian-orthodox-church'
-  - title: 'Oxford Reference: Overview of Russian Orthodox Church'
+  - title: 'Oxford Reference — search results for "Russian Orthodox Church"'
     url: 'https://www.oxfordreference.com/search?q=Russian%20Orthodox%20Church'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Russian Orthodox
-      Church
+  - title: 'Cambridge Core — search results for "Russian Orthodox Church"'
     url: 'https://www.cambridge.org/core/search?q=Russian%20Orthodox%20Church'
 artifacts:
   - title: "Andrei Rublev's Holy Trinity (Troitsa) icon"

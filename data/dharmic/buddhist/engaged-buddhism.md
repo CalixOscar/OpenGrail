@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Engaged Buddhism"'
     url: 'https://www.britannica.com/topic/engaged-buddhism'
-  - title: 'Oxford Reference: Overview of Engaged Buddhism'
+  - title: 'Oxford Reference — search results for "Engaged Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Engaged%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Engaged Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Engaged%20Buddhism'
 artifacts:
   - title: "Earth Holder Sangha practicing mindful walking at the People's Climate March in Washington, D.C."

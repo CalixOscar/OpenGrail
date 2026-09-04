@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Kimbanguist Church'
     url: 'https://www.britannica.com/topic/Kimbanguist-Church'
-  - title: 'Oxford Reference: Kimbanguism'
+  - title: 'Oxford Reference — search results for "Kimbanguism"'
     url: 'https://www.oxfordreference.com/search?q=Kimbanguism'
-  - title: 'Cambridge University Press: Simon Kimbangu and the Kimbanguist Church (Marie-Louise Martin)'
+  - title: 'Cambridge Core — search results for "Kimbangu"'
     url: 'https://www.cambridge.org/core/search?q=Kimbangu'
 artifacts:
   - title: "Portrait of Simon Kimbangu"

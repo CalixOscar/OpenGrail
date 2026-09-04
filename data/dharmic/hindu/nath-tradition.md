@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Nāth Tradition"'
     url: 'https://www.britannica.com/topic/n-th-tradition'
-  - title: 'Oxford Reference: Overview of Nāth Tradition'
+  - title: 'Oxford Reference — search results for "Nāth Tradition"'
     url: 'https://www.oxfordreference.com/search?q=N%C4%81th%20Tradition'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Nāth Tradition"'
     url: 'https://www.rep.routledge.com/search?query=N%C4%81th%20Tradition'
 artifacts:
   - title: "19th-century mural depicting Guru Nanak discoursing with the Nath Yogis (Siddhas) at Sri Guru Ram Rai Darbar, Dehradun"

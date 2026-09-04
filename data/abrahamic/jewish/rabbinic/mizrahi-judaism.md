@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Mizrahi Judaism"'
     url: 'https://www.britannica.com/topic/mizrahi-judaism'
-  - title: 'Oxford Reference: Overview of Mizrahi Judaism'
+  - title: 'Oxford Reference — search results for "Mizrahi Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Mizrahi%20Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Mizrahi Judaism'
+  - title: 'Cambridge Core — search results for "Mizrahi Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Mizrahi%20Judaism'
 artifacts:
   - title: "Ben Ish Chai Synagogue in Or Yehuda"

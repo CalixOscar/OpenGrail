@@ -35,9 +35,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Zhengyi Daoism"'
     url: 'https://www.britannica.com/topic/zhengyi-daoism'
-  - title: 'Oxford Reference: Overview of Zhengyi Daoism'
+  - title: 'Oxford Reference — search results for "Zhengyi Daoism"'
     url: 'https://www.oxfordreference.com/search?q=Zhengyi%20Daoism'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Zhengyi Daoism"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Zhengyi%20Daoism'
 artifacts:
   - title: "Main gate of the Celestial Master's Mansion (Tianshifu) at Mount Longhu"

@@ -48,9 +48,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Lao Buddhism"'
     url: 'https://www.britannica.com/topic/lao-buddhism'
-  - title: 'Oxford Reference: Overview of Lao Buddhism'
+  - title: 'Oxford Reference — search results for "Lao Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Lao%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Lao Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Lao%20Buddhism'
 artifacts:
   - title: "The Phra Bang Buddha image, sacred palladium of Laos in Luang Prabang"

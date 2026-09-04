@@ -31,7 +31,7 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Taiping Rebellion'
     url: 'https://www.britannica.com/topic/Taiping-Rebellion'
-  - title: 'Oxford Reference: Taiping Heavenly Kingdom'
+  - title: 'Oxford Reference — search results for "Taiping Heavenly Kingdom"'
     url: 'https://www.oxfordreference.com/search?q=Taiping+Heavenly+Kingdom'
   - title: 'Cambridge History of China: Late Ch’ing, 1800–1911'
     url: 'https://www.cambridge.org/core/books/cambridge-history-of-china/late-ching-18001911-part-1/D5460E36DFF231B91CF2C8DE748CE3EB'

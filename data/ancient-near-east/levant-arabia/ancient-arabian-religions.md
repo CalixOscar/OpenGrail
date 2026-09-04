@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ancient Arabian Religions"'
     url: 'https://www.britannica.com/topic/ancient-arabian-religions'
-  - title: 'Oxford Reference: Overview of Ancient Arabian Religions'
+  - title: 'Oxford Reference — search results for "Ancient Arabian Religions"'
     url: 'https://www.oxfordreference.com/search?q=Ancient%20Arabian%20Religions'
-  - title: 'Brill Handbook of Religious Traditions: Ancient Arabian Religions'
+  - title: 'Brill — search results for "Ancient Arabian Religions"'
     url: 'https://brill.com/search?q=Ancient%20Arabian%20Religions'
 artifacts:
   - title: "Votive stele with Sabaean inscription dedicated to the god Almaqah, Louvre Museum"

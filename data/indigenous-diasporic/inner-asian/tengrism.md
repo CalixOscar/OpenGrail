@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Tengrism"'
     url: 'https://www.britannica.com/topic/tengrism'
-  - title: 'Oxford Reference: Overview of Tengrism'
+  - title: 'Oxford Reference — search results for "Tengrism"'
     url: 'https://www.oxfordreference.com/search?q=Tengrism'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Tengrism"'
     url: 'https://ich.unesco.org/en/search?q=Tengrism'
 artifacts:
   - title: "Peak of Mount Khan Tengri at sunset in the Tian Shan"

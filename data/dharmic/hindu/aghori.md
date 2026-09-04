@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Aghori Tradition"'
     url: 'https://www.britannica.com/topic/aghori-tradition'
-  - title: 'Oxford Reference: Overview of Aghori Tradition'
+  - title: 'Oxford Reference — search results for "Aghori Tradition"'
     url: 'https://www.oxfordreference.com/search?q=Aghori%20Tradition'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Aghori Tradition"'
     url: 'https://www.rep.routledge.com/search?query=Aghori%20Tradition'
 artifacts:
   - title: "Aghori sadhu on the ghats of Varanasi"

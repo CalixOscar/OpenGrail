@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Akkadian Religion"'
     url: 'https://www.britannica.com/topic/akkadian-religion'
-  - title: 'Oxford Reference: Overview of Akkadian Religion'
+  - title: 'Oxford Reference — search results for "Akkadian Religion"'
     url: 'https://www.oxfordreference.com/search?q=Akkadian%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Akkadian Religion'
+  - title: 'Brill — search results for "Akkadian Religion"'
     url: 'https://brill.com/search?q=Akkadian%20Religion'
 artifacts:
   - title: "Impression of the cylinder seal of Adda showing Akkadian deities, British Museum"

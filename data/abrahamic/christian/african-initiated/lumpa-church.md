@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Lumpa Church'
     url: 'https://www.britannica.com/topic/Lumpa-Church'
-  - title: 'Oxford Reference: Lenshina, Alice'
+  - title: 'Oxford Reference — search results for "Lenshina"'
     url: 'https://www.oxfordreference.com/search?q=Lenshina'
-  - title: 'Cambridge University Press: The Lumpa Church: A Study in Modern African Millennialism'
+  - title: 'Cambridge Core — search results for "Lumpa Church"'
     url: 'https://www.cambridge.org/core/search?q=Lumpa+Church'
 artifacts:
   - title: "Lubwa Mission in Chinsali District, Zambia"

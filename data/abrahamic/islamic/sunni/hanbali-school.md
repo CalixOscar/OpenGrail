@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hanbali School"'
     url: 'https://www.britannica.com/topic/hanbali-school'
-  - title: 'Oxford Reference: Overview of Hanbali School'
+  - title: 'Oxford Reference — search results for "Hanbali School"'
     url: 'https://www.oxfordreference.com/search?q=Hanbali%20School'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Hanbali School'
+  - title: 'Cambridge Core — search results for "Hanbali School"'
     url: 'https://www.cambridge.org/core/search?q=Hanbali%20School'
 artifacts:
   - title: "Ahmad ibn Hanbal Mosque in Medina"

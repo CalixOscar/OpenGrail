@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Baptist Traditions"'
     url: 'https://www.britannica.com/topic/baptist-traditions'
-  - title: 'Oxford Reference: Overview of Baptist Traditions'
+  - title: 'Oxford Reference — search results for "Baptist Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Baptist%20Traditions'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Baptist Traditions'
+  - title: 'Cambridge Core — search results for "Baptist Traditions"'
     url: 'https://www.cambridge.org/core/search?q=Baptist%20Traditions'
 artifacts:
   - title: "Believer's baptism by full water immersion at Champion Forest Baptist Church"

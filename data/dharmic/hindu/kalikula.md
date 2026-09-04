@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Kālīkula"'
     url: 'https://www.britannica.com/topic/k-l-kula'
-  - title: 'Oxford Reference: Overview of Kālīkula'
+  - title: 'Oxford Reference — search results for "Kālīkula"'
     url: 'https://www.oxfordreference.com/search?q=K%C4%81l%C4%ABkula'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Kālīkula"'
     url: 'https://www.rep.routledge.com/search?query=K%C4%81l%C4%ABkula'
 artifacts:
   - title: "Kalighat Kali Temple and market street in Kolkata"

@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Eastern Orthodoxy"'
     url: 'https://www.britannica.com/topic/eastern-orthodoxy'
-  - title: 'Oxford Reference: Overview of Eastern Orthodoxy'
+  - title: 'Oxford Reference — search results for "Eastern Orthodoxy"'
     url: 'https://www.oxfordreference.com/search?q=Eastern%20Orthodoxy'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Eastern Orthodoxy'
+  - title: 'Cambridge Core — search results for "Eastern Orthodoxy"'
     url: 'https://www.cambridge.org/core/search?q=Eastern%20Orthodoxy'
 artifacts:
   - title: "6th-century encaustic icon of Christ Pantocrator from Saint Catherine's Monastery, Sinai"

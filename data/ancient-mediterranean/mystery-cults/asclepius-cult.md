@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cult of Asclepius"'
     url: 'https://www.britannica.com/topic/cult-of-asclepius'
-  - title: 'Oxford Reference: Overview of Cult of Asclepius'
+  - title: 'Oxford Reference — search results for "Cult of Asclepius"'
     url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Asclepius'
-  - title: 'Brill Handbook of Religious Traditions: Cult of Asclepius'
+  - title: 'Brill — search results for "Cult of Asclepius"'
     url: 'https://brill.com/search?q=Cult%20of%20Asclepius'
 artifacts:
   - title: "Marble statue of Asclepius from the Sanctuary of Epidaurus, National Archaeological Museum of Athens"

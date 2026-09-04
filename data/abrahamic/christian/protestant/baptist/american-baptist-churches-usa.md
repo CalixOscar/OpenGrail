@@ -42,12 +42,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "American Baptist Churches USA"'
     url: 'https://www.britannica.com/topic/american-baptist-churches-usa'
-  - title: 'Oxford Reference: Overview of American Baptist Churches USA'
+  - title: 'Oxford Reference — search results for "American Baptist Churches USA"'
     url: >-
       https://www.oxfordreference.com/search?q=American%20Baptist%20Churches%20USA
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & American Baptist
-      Churches USA
+  - title: 'Cambridge Core — search results for "American Baptist Churches USA"'
     url: >-
       https://www.cambridge.org/core/search?q=American%20Baptist%20Churches%20USA
 artifacts:

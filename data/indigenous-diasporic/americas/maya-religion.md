@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Maya Religions"'
     url: 'https://www.britannica.com/topic/maya-religions'
-  - title: 'Oxford Reference: Overview of Maya Religions'
+  - title: 'Oxford Reference — search results for "Maya Religions"'
     url: 'https://www.oxfordreference.com/search?q=Maya%20Religions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Maya Religions"'
     url: 'https://ich.unesco.org/en/search?q=Maya%20Religions'
 artifacts:
   - title: "Temple of Kʼukʼulkan (El Castillo) step-pyramid at Chichen Itza"

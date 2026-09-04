@@ -38,11 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Eastern Catholic Churches"'
     url: 'https://www.britannica.com/topic/eastern-catholic-churches'
-  - title: 'Oxford Reference: Overview of Eastern Catholic Churches'
+  - title: 'Oxford Reference — search results for "Eastern Catholic Churches"'
     url: 'https://www.oxfordreference.com/search?q=Eastern%20Catholic%20Churches'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Eastern Catholic
-      Churches
+  - title: 'Cambridge Core — search results for "Eastern Catholic Churches"'
     url: 'https://www.cambridge.org/core/search?q=Eastern%20Catholic%20Churches'
 artifacts:
   - title: "St. John the Baptist Ukrainian Catholic Church in Syracuse, New York"

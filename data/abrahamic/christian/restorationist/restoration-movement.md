@@ -42,11 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Restoration Movement"'
     url: 'https://www.britannica.com/topic/restoration-movement'
-  - title: 'Oxford Reference: Overview of Restoration Movement'
+  - title: 'Oxford Reference — search results for "Restoration Movement"'
     url: 'https://www.oxfordreference.com/search?q=Restoration%20Movement'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Restoration
-      Movement
+  - title: 'Cambridge Core — search results for "Restoration Movement"'
     url: 'https://www.cambridge.org/core/search?q=Restoration%20Movement'
 artifacts:
   - title: "Portrait of Alexander Campbell, leader in the Restoration Movement"

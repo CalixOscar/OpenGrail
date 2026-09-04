@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "La Luz del Mundo"'
     url: 'https://www.britannica.com/topic/la-luz-del-mundo'
-  - title: 'Oxford Reference: Overview of La Luz del Mundo'
+  - title: 'Oxford Reference — search results for "La Luz del Mundo"'
     url: 'https://www.oxfordreference.com/search?q=La%20Luz%20del%20Mundo'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & La Luz del Mundo'
+  - title: 'Cambridge Core — search results for "La Luz del Mundo"'
     url: 'https://www.cambridge.org/core/search?q=La%20Luz%20del%20Mundo'
 artifacts:
   - title: "Spire with Aaron's rod atop the La Luz del Mundo international temple in Guadalajara"

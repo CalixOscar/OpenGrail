@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Haudenosaunee Religions"'
     url: 'https://www.britannica.com/topic/haudenosaunee-religions'
-  - title: 'Oxford Reference: Overview of Haudenosaunee Religions'
+  - title: 'Oxford Reference — search results for "Haudenosaunee Religions"'
     url: 'https://www.oxfordreference.com/search?q=Haudenosaunee%20Religions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Haudenosaunee Religions"'
     url: 'https://ich.unesco.org/en/search?q=Haudenosaunee%20Religions'
 artifacts:
   - title: "Hiawatha Wampum Belt of the Haudenosaunee Confederacy"

@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Indigenous American Religions"'
     url: 'https://www.britannica.com/topic/indigenous-american-religions'
-  - title: 'Oxford Reference: Overview of Indigenous American Religions'
+  - title: 'Oxford Reference — search results for "Indigenous American Religions"'
     url: 'https://www.oxfordreference.com/search?q=Indigenous%20American%20Religions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Indigenous American Religions"'
     url: 'https://ich.unesco.org/en/search?q=Indigenous%20American%20Religions'
 artifacts:
   - title: "Bighorn Medicine Wheel sacred stone circle in Wyoming"

@@ -39,11 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Apostolic United Brethren"'
     url: 'https://www.britannica.com/topic/apostolic-united-brethren'
-  - title: 'Oxford Reference: Overview of Apostolic United Brethren'
+  - title: 'Oxford Reference — search results for "Apostolic United Brethren"'
     url: 'https://www.oxfordreference.com/search?q=Apostolic%20United%20Brethren'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Apostolic United
-      Brethren
+  - title: 'Cambridge Core — search results for "Apostolic United Brethren"'
     url: 'https://www.cambridge.org/core/search?q=Apostolic%20United%20Brethren'
 artifacts:
   - title: "Headquarters compound of the Apostolic United Brethren in Bluffdale, Utah"

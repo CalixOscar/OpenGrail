@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sadducees"'
     url: 'https://www.britannica.com/topic/sadducees'
-  - title: 'Oxford Reference: Overview of Sadducees'
+  - title: 'Oxford Reference — search results for "Sadducees"'
     url: 'https://www.oxfordreference.com/search?q=Sadducees'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Sadducees'
+  - title: 'Cambridge Core — search results for "Sadducees"'
     url: 'https://www.cambridge.org/core/search?q=Sadducees'
 artifacts:
   - title: "Ossuary of the High Priest Caiaphas in the Israel Museum"

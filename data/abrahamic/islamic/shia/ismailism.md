@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ismailism"'
     url: 'https://www.britannica.com/topic/ismailism'
-  - title: 'Oxford Reference: Overview of Ismailism'
+  - title: 'Oxford Reference — search results for "Ismailism"'
     url: 'https://www.oxfordreference.com/search?q=Ismailism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Ismailism'
+  - title: 'Cambridge Core — search results for "Ismailism"'
     url: 'https://www.cambridge.org/core/search?q=Ismailism'
 artifacts:
   - title: "Courtyard and minaret of the Fatimid Mosque of al-Hakim in Cairo"

@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Modern Spiritualism"'
     url: 'https://www.britannica.com/topic/modern-spiritualism'
-  - title: 'Oxford Reference: Overview of Modern Spiritualism'
+  - title: 'Oxford Reference — search results for "Modern Spiritualism"'
     url: 'https://www.oxfordreference.com/search?q=Modern%20Spiritualism'
-  - title: 'Brill Handbook of Religious Traditions: Modern Spiritualism'
+  - title: 'Brill — search results for "Modern Spiritualism"'
     url: 'https://brill.com/search?q=Modern%20Spiritualism'
 artifacts:
   - title: "Corrugated iron Spiritualist Centre chapel in Basingstoke, Hampshire"

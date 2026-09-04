@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Daejonggyo"'
     url: 'https://www.britannica.com/topic/daejonggyo'
-  - title: 'Oxford Reference: Overview of Daejonggyo'
+  - title: 'Oxford Reference — search results for "Daejonggyo"'
     url: 'https://www.oxfordreference.com/search?q=Daejonggyo'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Daejonggyo"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Daejonggyo'
 artifacts:
   - title: "Portrait of Daejonggyo founder Na Cheol"

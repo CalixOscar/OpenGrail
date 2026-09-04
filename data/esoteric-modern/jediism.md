@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Jediism"'
     url: 'https://www.britannica.com/topic/jediism'
-  - title: 'Oxford Reference: Overview of Jediism'
+  - title: 'Oxford Reference — search results for "Jediism"'
     url: 'https://www.oxfordreference.com/search?q=Jediism'
-  - title: 'Brill Handbook of Religious Traditions: Jediism'
+  - title: 'Brill — search results for "Jediism"'
     url: 'https://brill.com/search?q=Jediism'
 ---
 

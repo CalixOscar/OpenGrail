@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Church of the East"'
     url: 'https://www.britannica.com/topic/church-of-the-east'
-  - title: 'Oxford Reference: Overview of Church of the East'
+  - title: 'Oxford Reference — search results for "Church of the East"'
     url: 'https://www.oxfordreference.com/search?q=Church%20of%20the%20East'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of the East'
+  - title: 'Cambridge Core — search results for "Church of the East"'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20the%20East'
 artifacts:
   - title: "Ink rubbing of the 781 CE Nestorian Stele composed by Jingjing"

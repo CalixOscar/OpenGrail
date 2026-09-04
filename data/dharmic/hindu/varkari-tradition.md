@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Vārkarī Tradition"'
     url: 'https://www.britannica.com/topic/v-rkar-tradition'
-  - title: 'Oxford Reference: Overview of Vārkarī Tradition'
+  - title: 'Oxford Reference — search results for "Vārkarī Tradition"'
     url: 'https://www.oxfordreference.com/search?q=V%C4%81rkar%C4%AB%20Tradition'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Vārkarī Tradition"'
     url: 'https://www.rep.routledge.com/search?query=V%C4%81rkar%C4%AB%20Tradition'
 artifacts:
   - title: "Shrine of Vitthala and Rakhumai in Pune"

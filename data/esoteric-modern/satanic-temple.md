@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "The Satanic Temple"'
     url: 'https://www.britannica.com/topic/the-satanic-temple'
-  - title: 'Oxford Reference: Overview of The Satanic Temple'
+  - title: 'Oxford Reference — search results for "The Satanic Temple"'
     url: 'https://www.oxfordreference.com/search?q=The%20Satanic%20Temple'
-  - title: 'Brill Handbook of Religious Traditions: The Satanic Temple'
+  - title: 'Brill — search results for "The Satanic Temple"'
     url: 'https://brill.com/search?q=The%20Satanic%20Temple'
 artifacts:
   - title: "Priestess Shiva Honey seated with the Baphomet monument at The Satanic Temple in Salem"

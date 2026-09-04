@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Tibetan Buddhism"'
     url: 'https://www.britannica.com/topic/tibetan-buddhism'
-  - title: 'Oxford Reference: Overview of Tibetan Buddhism'
+  - title: 'Oxford Reference — search results for "Tibetan Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Tibetan%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Tibetan Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Tibetan%20Buddhism'
 artifacts:
   - title: "Bhavachakra (Wheel of Life) wall mural at Tawang Monastery, Arunachal Pradesh"

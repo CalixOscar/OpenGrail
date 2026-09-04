@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ibadi Islam"'
     url: 'https://www.britannica.com/topic/ibadi-islam'
-  - title: 'Oxford Reference: Overview of Ibadi Islam'
+  - title: 'Oxford Reference — search results for "Ibadi Islam"'
     url: 'https://www.oxfordreference.com/search?q=Ibadi%20Islam'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Ibadi Islam'
+  - title: 'Cambridge Core — search results for "Ibadi Islam"'
     url: 'https://www.cambridge.org/core/search?q=Ibadi%20Islam'
 artifacts:
   - title: "Sultan Qaboos Grand Mosque in Muscat, Oman"

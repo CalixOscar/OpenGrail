@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Gathic Zoroastrianism"'
     url: 'https://www.britannica.com/topic/gathic-zoroastrianism'
-  - title: 'Oxford Reference: Overview of Gathic Zoroastrianism'
+  - title: 'Oxford Reference — search results for "Gathic Zoroastrianism"'
     url: 'https://www.oxfordreference.com/search?q=Gathic%20Zoroastrianism'
-  - title: 'Brill Handbook of Religious Traditions: Gathic Zoroastrianism'
+  - title: 'Brill — search results for "Gathic Zoroastrianism"'
     url: 'https://brill.com/search?q=Gathic%20Zoroastrianism'
 artifacts:
   - title: "Winged Faravahar relief on the Palace of Xerxes at Persepolis"

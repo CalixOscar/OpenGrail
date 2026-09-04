@@ -43,12 +43,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Members Church of God International"'
     url: 'https://www.britannica.com/topic/members-church-of-god-international'
-  - title: 'Oxford Reference: Overview of Members Church of God International'
+  - title: 'Oxford Reference — search results for "Members Church of God International"'
     url: >-
       https://www.oxfordreference.com/search?q=Members%20Church%20of%20God%20International
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Members Church of
-      God International
+  - title: 'Cambridge Core — search results for "Members Church of God International"'
     url: >-
       https://www.cambridge.org/core/search?q=Members%20Church%20of%20God%20International
 artifacts:

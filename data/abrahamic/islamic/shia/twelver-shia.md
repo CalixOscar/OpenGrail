@@ -37,9 +37,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Twelver Shi''a"'
     url: 'https://www.britannica.com/topic/twelver-shi-a'
-  - title: 'Oxford Reference: Overview of Twelver Shi''a'
+  - title: 'Oxford Reference — search results for "Twelver Shi''''a"'
     url: 'https://www.oxfordreference.com/search?q=Twelver%20Shi''a'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Twelver Shi''a'
+  - title: 'Cambridge Core — search results for "Twelver Shi''''a"'
     url: 'https://www.cambridge.org/core/search?q=Twelver%20Shi''a'
 artifacts:
   - title: "Historic photograph of the Imam Husayn Shrine in Karbala, 1928"

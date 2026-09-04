@@ -46,10 +46,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Rāmānandī Sampradāya"'
     url: 'https://www.britannica.com/topic/r-m-nand-samprad-ya'
-  - title: 'Oxford Reference: Overview of Rāmānandī Sampradāya'
+  - title: 'Oxford Reference — search results for "Rāmānandī Sampradāya"'
     url: >-
       https://www.oxfordreference.com/search?q=R%C4%81m%C4%81nand%C4%AB%20Samprad%C4%81ya
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Rāmānandī Sampradāya"'
     url: >-
       https://www.rep.routledge.com/search?query=R%C4%81m%C4%81nand%C4%AB%20Samprad%C4%81ya
 artifacts:

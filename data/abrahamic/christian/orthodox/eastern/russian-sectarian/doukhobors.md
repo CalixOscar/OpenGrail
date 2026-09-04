@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Doukhobor'
     url: 'https://www.britannica.com/topic/Doukhobor'
-  - title: 'Oxford Reference: Doukhobors'
+  - title: 'Oxford Reference — search results for "Doukhobors"'
     url: 'https://www.oxfordreference.com/search?q=Doukhobors'
-  - title: 'University of Toronto Press: Spirit Wrestlers: Doukhobor History'
+  - title: 'University of Toronto Press — search results for "Doukhobors"'
     url: 'https://utorontopress.com/search-results/?keyword=Doukhobors'
 artifacts:
   - title: "Sirotski Dom in Gorelovka"

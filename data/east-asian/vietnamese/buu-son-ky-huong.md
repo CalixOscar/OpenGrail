@@ -29,9 +29,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Religions of Vietnam'
     url: 'https://www.britannica.com/place/Vietnam/Religion'
-  - title: 'Oxford Reference: Millenarian Buddhism in Southeast Asia'
+  - title: 'Oxford Reference — search results for "Buu Son Ky Huong"'
     url: 'https://www.oxfordreference.com/search?q=Buu+Son+Ky+Huong'
-  - title: 'Brill: Journal of Vietnamese Studies on Southern Religious Movements'
+  - title: 'Brill — search results for "Buu Son Ky Huong"'
     url: 'https://brill.com/search?q=Buu+Son+Ky+Huong'
 relations:
   - target: mahayana

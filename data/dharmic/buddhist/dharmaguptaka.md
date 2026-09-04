@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Dharmaguptaka"'
     url: 'https://www.britannica.com/topic/dharmaguptaka'
-  - title: 'Oxford Reference: Overview of Dharmaguptaka'
+  - title: 'Oxford Reference — search results for "Dharmaguptaka"'
     url: 'https://www.oxfordreference.com/search?q=Dharmaguptaka'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Dharmaguptaka"'
     url: 'https://www.rep.routledge.com/search?query=Dharmaguptaka'
 artifacts:
   - title: "Fragmentary 1st-century CE Gandharan birchbark scroll in Kharosthi script from the British Library"

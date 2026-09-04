@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Nirankari Movement"'
     url: 'https://www.britannica.com/topic/nirankari-movement'
-  - title: 'Oxford Reference: Overview of Nirankari Movement'
+  - title: 'Oxford Reference — search results for "Nirankari Movement"'
     url: 'https://www.oxfordreference.com/search?q=Nirankari%20Movement'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Nirankari Movement"'
     url: 'https://www.rep.routledge.com/search?query=Nirankari%20Movement'
 artifacts:
   - title: "19th-century miniature painting depicting Baba Dyal Singh, founder of the Nirankari movement"

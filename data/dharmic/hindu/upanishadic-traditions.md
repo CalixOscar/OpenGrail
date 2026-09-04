@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Upanishadic Traditions"'
     url: 'https://www.britannica.com/topic/upanishadic-traditions'
-  - title: 'Oxford Reference: Overview of Upanishadic Traditions'
+  - title: 'Oxford Reference — search results for "Upanishadic Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Upanishadic%20Traditions'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Upanishadic Traditions"'
     url: 'https://www.rep.routledge.com/search?query=Upanishadic%20Traditions'
 artifacts:
   - title: "Relief of Yama instructing Nachiketa on the Atman from the Katha Upanishad"

@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Waldenses'
     url: 'https://www.britannica.com/topic/Waldenses'
-  - title: 'Oxford Reference: Waldensians'
+  - title: 'Oxford Reference — search results for "Waldensians"'
     url: 'https://www.oxfordreference.com/search?q=Waldensians'
-  - title: 'Brill: Studies on medieval poverty movements'
+  - title: 'Brill — search results for "Waldensians"'
     url: 'https://brill.com/search?q=Waldensians'
 artifacts:
   - title: "Chanforan Synod Monument in Angrogna"

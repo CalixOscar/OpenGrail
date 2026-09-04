@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Akan Religion"'
     url: 'https://www.britannica.com/topic/akan-religion'
-  - title: 'Oxford Reference: Overview of Akan Religion'
+  - title: 'Oxford Reference — search results for "Akan Religion"'
     url: 'https://www.oxfordreference.com/search?q=Akan%20Religion'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Akan Religion"'
     url: 'https://ich.unesco.org/en/search?q=Akan%20Religion'
 artifacts:
   - title: "Print depicting the descent of the Ashanti Golden Stool (Sika Dwa Kofi)"

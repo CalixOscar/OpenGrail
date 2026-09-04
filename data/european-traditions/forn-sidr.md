@@ -49,9 +49,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Forn Siðr"'
     url: 'https://www.britannica.com/topic/forn-si-r'
-  - title: 'Oxford Reference: Overview of Forn Siðr'
+  - title: 'Oxford Reference — search results for "Forn Siðr"'
     url: 'https://www.oxfordreference.com/search?q=Forn%20Si%C3%B0r'
-  - title: 'Brill Handbook of Religious Traditions: Forn Siðr'
+  - title: 'Brill — search results for "Forn Siðr"'
     url: 'https://brill.com/search?q=Forn%20Si%C3%B0r'
 artifacts:
   - title: "Runestone raised near Jelling by the Danish pagan society Forn Siðr (2006)"

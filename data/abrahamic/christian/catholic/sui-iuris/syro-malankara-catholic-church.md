@@ -43,12 +43,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Syro-Malankara Catholic Church"'
     url: 'https://www.britannica.com/topic/syro-malankara-catholic-church'
-  - title: 'Oxford Reference: Overview of Syro-Malankara Catholic Church'
+  - title: 'Oxford Reference — search results for "Syro-Malankara Catholic Church"'
     url: >-
       https://www.oxfordreference.com/search?q=Syro-Malankara%20Catholic%20Church
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Syro-Malankara
-      Catholic Church
+  - title: 'Cambridge Core — search results for "Syro-Malankara Catholic Church"'
     url: 'https://www.cambridge.org/core/search?q=Syro-Malankara%20Catholic%20Church'
 artifacts:
   - title: "Portrait of Bishop Yoohanon Mar Chrysostom in Syro-Malankara episcopal vestments"

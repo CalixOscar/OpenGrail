@@ -35,9 +35,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Namdhari Sikhs"'
     url: 'https://www.britannica.com/topic/namdhari-sikhs'
-  - title: 'Oxford Reference: Overview of Namdhari Sikhs'
+  - title: 'Oxford Reference — search results for "Namdhari Sikhs"'
     url: 'https://www.oxfordreference.com/search?q=Namdhari%20Sikhs'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Namdhari Sikhs"'
     url: 'https://www.rep.routledge.com/search?query=Namdhari%20Sikhs'
 artifacts:
   - title: "Contemporary portrait of Satguru Ram Singh Kuka, Punjab Plains, ca. 1845–1850"

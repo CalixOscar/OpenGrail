@@ -39,11 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Restoration Branches"'
     url: 'https://www.britannica.com/topic/restoration-branches'
-  - title: 'Oxford Reference: Overview of Restoration Branches'
+  - title: 'Oxford Reference — search results for "Restoration Branches"'
     url: 'https://www.oxfordreference.com/search?q=Restoration%20Branches'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Restoration
-      Branches
+  - title: 'Cambridge Core — search results for "Restoration Branches"'
     url: 'https://www.cambridge.org/core/search?q=Restoration%20Branches'
 artifacts:
   - title: "Outreach Restoration Branch meetinghouse in Independence, Missouri"

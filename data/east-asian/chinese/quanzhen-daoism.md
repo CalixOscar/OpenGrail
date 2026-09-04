@@ -35,9 +35,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Quanzhen Daoism"'
     url: 'https://www.britannica.com/topic/quanzhen-daoism'
-  - title: 'Oxford Reference: Overview of Quanzhen Daoism'
+  - title: 'Oxford Reference — search results for "Quanzhen Daoism"'
     url: 'https://www.oxfordreference.com/search?q=Quanzhen%20Daoism'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Quanzhen Daoism"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Quanzhen%20Daoism'
 artifacts:
   - title: "Portrait of Wang Chongyang, founder of Quanzhen Daoism"

@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Nyingma"'
     url: 'https://www.britannica.com/topic/nyingma'
-  - title: 'Oxford Reference: Overview of Nyingma'
+  - title: 'Oxford Reference — search results for "Nyingma"'
     url: 'https://www.oxfordreference.com/search?q=Nyingma'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Nyingma"'
     url: 'https://www.rep.routledge.com/search?query=Nyingma'
 artifacts:
   - title: "17th-century Tibetan thangka of Padmasambhava with Yeshe Tsogyal and Nyingma lineage gurus"

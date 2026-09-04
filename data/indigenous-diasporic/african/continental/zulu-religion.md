@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Zulu Religious Traditions"'
     url: 'https://www.britannica.com/topic/zulu-religious-traditions'
-  - title: 'Oxford Reference: Overview of Zulu Religious Traditions'
+  - title: 'Oxford Reference — search results for "Zulu Religious Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Zulu%20Religious%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Zulu Religious Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Zulu%20Religious%20Traditions'
 artifacts:
   - title: "Sangoma ritual regalia inside an indumba (healing hut)"

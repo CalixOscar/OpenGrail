@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Children of God'
     url: 'https://www.britannica.com/topic/Children-of-God'
-  - title: 'Oxford Reference: The Family International'
+  - title: 'Oxford Reference — search results for "Children of God"'
     url: 'https://www.oxfordreference.com/search?q=Children+of+God'
-  - title: 'Syracuse University Press: The Children of God: A New Religions Perspective (Gordon Melton)'
+  - title: 'press.syr.edu — search results for "Children of God"'
     url: 'https://press.syr.edu/search/?q=Children+of+God'
 relations:
   - target: pentecostalism

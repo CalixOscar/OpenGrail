@@ -40,7 +40,7 @@ key_tenets:
 sources:
   - title: 'University of Texas Press: Shamans of the Foye Tree: Gender, Power, and Healing among the Chilean Mapuche'
     url: 'https://utpress.utexas.edu/9780292716599/'
-  - title: 'Oxford Reference: Mapuche'
+  - title: 'Oxford Reference — search results for "Mapuche religion"'
     url: 'https://www.oxfordreference.com/search?q=Mapuche+religion'
   - title: 'Encyclopaedia Britannica: Mapuche'
     url: 'https://www.britannica.com/topic/Mapuche'

@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Smārta Tradition"'
     url: 'https://www.britannica.com/topic/sm-rta-tradition'
-  - title: 'Oxford Reference: Overview of Smārta Tradition'
+  - title: 'Oxford Reference — search results for "Smārta Tradition"'
     url: 'https://www.oxfordreference.com/search?q=Sm%C4%81rta%20Tradition'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Smārta Tradition"'
     url: 'https://www.rep.routledge.com/search?query=Sm%C4%81rta%20Tradition'
 artifacts:
   - title: "Panchayatana complex of the Vishvanatha Temple in Khajuraho, Madhya Pradesh"

@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Maasai Religious Traditions"'
     url: 'https://www.britannica.com/topic/maasai-religious-traditions'
-  - title: 'Oxford Reference: Overview of Maasai Religious Traditions'
+  - title: 'Oxford Reference — search results for "Maasai Religious Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Maasai%20Religious%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Maasai Religious Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Maasai%20Religious%20Traditions'
 artifacts:
   - title: "Ol Doinyo Lengai (\"Mountain of God\") and Lake Empakaai in the Gregory Rift, Tanzania"

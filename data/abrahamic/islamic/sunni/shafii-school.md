@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Shafi''i School"'
     url: 'https://www.britannica.com/topic/shafi-i-school'
-  - title: 'Oxford Reference: Overview of Shafi''i School'
+  - title: 'Oxford Reference — search results for "Shafi''''i School"'
     url: 'https://www.oxfordreference.com/search?q=Shafi''i%20School'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Shafi''i School'
+  - title: 'Cambridge Core — search results for "Shafi''''i School"'
     url: 'https://www.cambridge.org/core/search?q=Shafi''i%20School'
 ---
 

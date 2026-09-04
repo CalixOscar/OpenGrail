@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Caodong Chan"'
     url: 'https://www.britannica.com/topic/caodong-chan'
-  - title: 'Oxford Reference: Overview of Caodong Chan'
+  - title: 'Oxford Reference — search results for "Caodong Chan"'
     url: 'https://www.oxfordreference.com/search?q=Caodong%20Chan'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Caodong Chan"'
     url: 'https://www.rep.routledge.com/search?query=Caodong%20Chan'
 artifacts:
   - title: "Qing-dynasty woodcut portrait of Chan Master Caoshan Benji from the Fozu Zhengzong Daoying"

@@ -41,7 +41,7 @@ key_tenets:
 sources:
   - title: 'Princeton University Press: Bwiti: An Ethnography of the Religious Imagination in Africa'
     url: 'https://press.princeton.edu/books/paperback/9780691101194/bwiti'
-  - title: 'Oxford Reference: Bwiti'
+  - title: 'Oxford Reference — search results for "Bwiti"'
     url: 'https://www.oxfordreference.com/search?q=Bwiti'
   - title: 'Encyclopaedia Britannica: Bwiti'
     url: 'https://www.britannica.com/topic/Bwiti'

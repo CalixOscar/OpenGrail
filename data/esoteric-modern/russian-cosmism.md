@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Russian Cosmism"'
     url: 'https://www.britannica.com/topic/russian-cosmism'
-  - title: 'Oxford Reference: Overview of Russian Cosmism'
+  - title: 'Oxford Reference — search results for "Russian Cosmism"'
     url: 'https://www.oxfordreference.com/search?q=Russian%20Cosmism'
-  - title: 'Brill Handbook of Religious Traditions: Russian Cosmism'
+  - title: 'Brill — search results for "Russian Cosmism"'
     url: 'https://brill.com/search?q=Russian%20Cosmism'
 artifacts:
   - title: "Konstantin Tsiolkovsky's weightlessness illustration from \"Album of Space Travel\" (1933)"

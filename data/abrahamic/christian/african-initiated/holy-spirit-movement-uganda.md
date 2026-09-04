@@ -38,7 +38,7 @@ key_tenets:
 sources:
   - title: 'James Currey / Ohio University Press: Alice Lakwena and the Holy Spirits (Heike Behrend)'
     url: 'https://www.ohioswallow.com/book/Alice+Lakwena+and+the+Holy+Spirits'
-  - title: 'Oxford Reference: Holy Spirit Movement'
+  - title: 'Oxford Reference — search results for "Alice Lakwena"'
     url: 'https://www.oxfordreference.com/search?q=Alice+Lakwena'
   - title: 'Encyclopaedia Britannica: Alice Lakwena'
     url: 'https://www.britannica.com/biography/Alice-Lakwena'

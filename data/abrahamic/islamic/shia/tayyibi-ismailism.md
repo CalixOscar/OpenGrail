@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Tayyibi Ismailism"'
     url: 'https://www.britannica.com/topic/tayyibi-ismailism'
-  - title: 'Oxford Reference: Overview of Tayyibi Ismailism'
+  - title: 'Oxford Reference — search results for "Tayyibi Ismailism"'
     url: 'https://www.oxfordreference.com/search?q=Tayyibi%20Ismailism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Tayyibi Ismailism'
+  - title: 'Cambridge Core — search results for "Tayyibi Ismailism"'
     url: 'https://www.cambridge.org/core/search?q=Tayyibi%20Ismailism'
 artifacts:
   - title: "Mausoleum of Queen Arwa al-Sulayhi at her mosque in Jibla, Yemen"

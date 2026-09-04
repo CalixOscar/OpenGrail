@@ -51,10 +51,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "iTaukei Fijian Religious Traditions"'
     url: 'https://www.britannica.com/topic/itaukei-fijian-religious-traditions'
-  - title: 'Oxford Reference: Overview of iTaukei Fijian Religious Traditions'
+  - title: 'Oxford Reference — search results for "iTaukei Fijian Religious Traditions"'
     url: >-
       https://www.oxfordreference.com/search?q=iTaukei%20Fijian%20Religious%20Traditions
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "iTaukei Fijian Religious Traditions"'
     url: >-
       https://ich.unesco.org/en/search?q=iTaukei%20Fijian%20Religious%20Traditions
 artifacts:

@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Puṣṭimārga"'
     url: 'https://www.britannica.com/topic/pu-im-rga'
-  - title: 'Oxford Reference: Overview of Puṣṭimārga'
+  - title: 'Oxford Reference — search results for "Puṣṭimārga"'
     url: 'https://www.oxfordreference.com/search?q=Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Puṣṭimārga"'
     url: 'https://www.rep.routledge.com/search?query=Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
 artifacts:
   - title: "Painting of Shrinathji during the Annakuta Festival with pichhwai backdrop, Nathdwara"

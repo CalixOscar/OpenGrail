@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Brahmo Samaj"'
     url: 'https://www.britannica.com/topic/brahmo-samaj'
-  - title: 'Oxford Reference: Overview of Brahmo Samaj'
+  - title: 'Oxford Reference — search results for "Brahmo Samaj"'
     url: 'https://www.oxfordreference.com/search?q=Brahmo%20Samaj'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Brahmo Samaj"'
     url: 'https://www.rep.routledge.com/search?query=Brahmo%20Samaj'
 artifacts:
   - title: "Company style portrait of Raja Ram Mohan Roy, founder of the Brahmo Samaj"

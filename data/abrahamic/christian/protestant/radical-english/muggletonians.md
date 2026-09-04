@@ -38,7 +38,7 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Muggletonians'
     url: 'https://www.britannica.com/topic/Muggletonians'
-  - title: 'Oxford Reference: Muggletonianism'
+  - title: 'Oxford Reference — search results for "Muggletonians"'
     url: 'https://www.oxfordreference.com/search?q=Muggletonians'
   - title: 'Oxford University Press: The World of the Muggletonians'
     url: 'https://academic.oup.com/book/muggletonians'

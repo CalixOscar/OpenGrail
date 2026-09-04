@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Palo"'
     url: 'https://www.britannica.com/topic/palo'
-  - title: 'Oxford Reference: Overview of Palo'
+  - title: 'Oxford Reference — search results for "Palo"'
     url: 'https://www.oxfordreference.com/search?q=Palo'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Palo"'
     url: 'https://ich.unesco.org/en/search?q=Palo'
 ---
 

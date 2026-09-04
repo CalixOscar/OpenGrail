@@ -36,9 +36,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "New Confucianism"'
     url: 'https://www.britannica.com/topic/new-confucianism'
-  - title: 'Oxford Reference: Overview of New Confucianism'
+  - title: 'Oxford Reference — search results for "New Confucianism"'
     url: 'https://www.oxfordreference.com/search?q=New%20Confucianism'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "New Confucianism"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=New%20Confucianism'
 artifacts:
   - title: "New Asia College campus and water tower, Chinese University of Hong Kong"

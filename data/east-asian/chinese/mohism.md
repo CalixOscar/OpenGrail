@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Mohism"'
     url: 'https://www.britannica.com/topic/mohism'
-  - title: 'Oxford Reference: Overview of Mohism'
+  - title: 'Oxford Reference — search results for "Mohism"'
     url: 'https://www.oxfordreference.com/search?q=Mohism'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Mohism"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Mohism'
 artifacts:
   - title: "Classical portrait of philosopher Mozi (Mo Di)"

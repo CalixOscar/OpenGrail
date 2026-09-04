@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Zalmoxis'
     url: 'https://www.britannica.com/topic/Zalmoxis-Thracian-god'
-  - title: 'Oxford Classical Dictionary: Zalmoxis'
+  - title: 'Oxford Reference — search results for "Zalmoxis"'
     url: 'https://www.oxfordreference.com/search?q=Zalmoxis'
-  - title: 'Brill: Studies in Ancient Greek and Balkan Religion'
+  - title: 'Brill — search results for "Zalmoxis"'
     url: 'https://brill.com/search?q=Zalmoxis'
 artifacts:
   - title: "Great Circular Sanctuary at Sarmizegetusa Regia"

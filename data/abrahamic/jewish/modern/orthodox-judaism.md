@@ -36,9 +36,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Orthodox Judaism"'
     url: 'https://www.britannica.com/topic/orthodox-judaism'
-  - title: 'Oxford Reference: Overview of Orthodox Judaism'
+  - title: 'Oxford Reference — search results for "Orthodox Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Orthodox%20Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Orthodox Judaism'
+  - title: 'Cambridge Core — search results for "Orthodox Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Orthodox%20Judaism'
 artifacts:
   - title: "Diagram of an Aron Kodesh (Torah ark) in an Eastern European Orthodox synagogue"

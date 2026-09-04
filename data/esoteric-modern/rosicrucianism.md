@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Rosicrucianism"'
     url: 'https://www.britannica.com/topic/rosicrucianism'
-  - title: 'Oxford Reference: Overview of Rosicrucianism'
+  - title: 'Oxford Reference — search results for "Rosicrucianism"'
     url: 'https://www.oxfordreference.com/search?q=Rosicrucianism'
-  - title: 'Brill Handbook of Religious Traditions: Rosicrucianism'
+  - title: 'Brill — search results for "Rosicrucianism"'
     url: 'https://brill.com/search?q=Rosicrucianism'
 artifacts:
   - title: "Rosicrucian cross emblem associated with Max Heindel and The Rosicrucian Fellowship"

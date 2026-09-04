@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Jonang"'
     url: 'https://www.britannica.com/topic/jonang'
-  - title: 'Oxford Reference: Overview of Jonang'
+  - title: 'Oxford Reference — search results for "Jonang"'
     url: 'https://www.oxfordreference.com/search?q=Jonang'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Jonang"'
     url: 'https://www.rep.routledge.com/search?query=Jonang'
 artifacts:
   - title: "18th-century Tibetan thangka portrait of Jonang master Dolpopa Sherab Gyaltsen"

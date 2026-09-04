@@ -38,12 +38,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Seventh Day Adventist Reform Movement"'
     url: 'https://www.britannica.com/topic/seventh-day-adventist-reform-movement'
-  - title: 'Oxford Reference: Overview of Seventh Day Adventist Reform Movement'
+  - title: 'Oxford Reference — search results for "Seventh Day Adventist Reform Movement"'
     url: >-
       https://www.oxfordreference.com/search?q=Seventh%20Day%20Adventist%20Reform%20Movement
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Seventh Day
-      Adventist Reform Movement
+  - title: 'Cambridge Core — search results for "Seventh Day Adventist Reform Movement"'
     url: >-
       https://www.cambridge.org/core/search?q=Seventh%20Day%20Adventist%20Reform%20Movement
 artifacts:

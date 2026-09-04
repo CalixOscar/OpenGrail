@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Luo Teaching"'
     url: 'https://www.britannica.com/topic/luo-teaching'
-  - title: 'Oxford Reference: Overview of Luo Teaching'
+  - title: 'Oxford Reference — search results for "Luo Teaching"'
     url: 'https://www.oxfordreference.com/search?q=Luo%20Teaching'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Luo Teaching"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Luo%20Teaching'
 ---
 

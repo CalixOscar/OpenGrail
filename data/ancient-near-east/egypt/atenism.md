@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Atenism"'
     url: 'https://www.britannica.com/topic/atenism'
-  - title: 'Oxford Reference: Overview of Atenism'
+  - title: 'Oxford Reference — search results for "Atenism"'
     url: 'https://www.oxfordreference.com/search?q=Atenism'
-  - title: 'Brill Handbook of Religious Traditions: Atenism'
+  - title: 'Brill — search results for "Atenism"'
     url: 'https://brill.com/search?q=Atenism'
 artifacts:
   - title: "Interior of the tomb of Panehesy, Chief Servitor of the Aten at Amarna (Tomb EA 6)"

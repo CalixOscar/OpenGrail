@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Heaven''s Gate"'
     url: 'https://www.britannica.com/topic/heaven-s-gate'
-  - title: 'Oxford Reference: Overview of Heaven''s Gate'
+  - title: 'Oxford Reference — search results for "Heaven''''s Gate"'
     url: 'https://www.oxfordreference.com/search?q=Heaven''s%20Gate'
-  - title: 'Brill Handbook of Religious Traditions: Heaven''s Gate'
+  - title: 'Brill — search results for "Heaven''''s Gate"'
     url: 'https://brill.com/search?q=Heaven''s%20Gate'
 artifacts:
   - title: "Rancho Santa Fe mansion following the 1997 Heaven's Gate mass suicide"

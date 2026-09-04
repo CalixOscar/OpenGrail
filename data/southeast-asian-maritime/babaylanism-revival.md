@@ -39,7 +39,7 @@ key_tenets:
     re-articulation of pre-conquest Austronesian animist spirituality in contemporary Philippine
     and diaspora contexts.
 sources:
-  - title: 'Marianita C. Villariba: "Babaylan: Women of Power and Spirit"'
+  - title: 'Brill — search results for "Babaylan"'
     url: 'https://brill.com/search?q=Babaylan'
   - title: 'Herminia Meñez Coben: "Explorations in Philippine Folklore"'
     url: 'https://upress.ateneo.edu/'

@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Vaiṣṇavism"'
     url: 'https://www.britannica.com/topic/vai-avism'
-  - title: 'Oxford Reference: Overview of Vaiṣṇavism'
+  - title: 'Oxford Reference — search results for "Vaiṣṇavism"'
     url: 'https://www.oxfordreference.com/search?q=Vai%E1%B9%A3%E1%B9%87avism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Vaiṣṇavism"'
     url: 'https://www.rep.routledge.com/search?query=Vai%E1%B9%A3%E1%B9%87avism'
 artifacts:
   - title: "Anantashayana Vishnu reclining on Shesha, Vidisha District Museum"

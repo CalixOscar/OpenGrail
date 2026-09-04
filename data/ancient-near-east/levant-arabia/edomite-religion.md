@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Edomite Religion"'
     url: 'https://www.britannica.com/topic/edomite-religion'
-  - title: 'Oxford Reference: Overview of Edomite Religion'
+  - title: 'Oxford Reference — search results for "Edomite Religion"'
     url: 'https://www.oxfordreference.com/search?q=Edomite%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Edomite Religion'
+  - title: 'Brill — search results for "Edomite Religion"'
     url: 'https://brill.com/search?q=Edomite%20Religion'
 artifacts:
   - title: "Terracotta head of a three-horned Edomite goddess from Horvat Qitmit, Israel Museum"

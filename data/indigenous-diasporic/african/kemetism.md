@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Kemetism"'
     url: 'https://www.britannica.com/topic/kemetism'
-  - title: 'Oxford Reference: Overview of Kemetism'
+  - title: 'Oxford Reference — search results for "Kemetism"'
     url: 'https://www.oxfordreference.com/search?q=Kemetism'
-  - title: 'Brill Handbook of Religious Traditions: Kemetism'
+  - title: 'Brill — search results for "Kemetism"'
     url: 'https://brill.com/search?q=Kemetism'
 artifacts:
   - title: "Contemporary Kemetic domestic naos shrine dedicated to Thoth"

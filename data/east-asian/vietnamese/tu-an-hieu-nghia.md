@@ -28,9 +28,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Religions of Southeast Asia'
     url: 'https://www.britannica.com/topic/Buddhism/Buddhism-in-Southeast-Asia'
-  - title: 'Oxford Reference: Vietnamese Indigenous Religions'
+  - title: 'Oxford Reference — search results for "Tu An Hieu Nghia"'
     url: 'https://www.oxfordreference.com/search?q=Tu+An+Hieu+Nghia'
-  - title: 'Brill: Contemporary Religion in Vietnam'
+  - title: 'Brill — search results for "Tu An Hieu Nghia"'
     url: 'https://brill.com/search?q=Tu+An+Hieu+Nghia'
 relations:
   - target: buu-son-ky-huong

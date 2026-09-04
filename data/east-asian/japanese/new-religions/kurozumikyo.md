@@ -28,9 +28,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Kurozumikyō'
     url: 'https://www.britannica.com/topic/Kurozumikyo'
-  - title: 'Oxford Reference: Kurozumikyō'
+  - title: 'Oxford Reference — search results for "Kurozumikyo"'
     url: 'https://www.oxfordreference.com/search?q=Kurozumikyo'
-  - title: 'Brill: Studies on Japanese New Religions'
+  - title: 'Brill — search results for "Kurozumikyo"'
     url: 'https://brill.com/search?q=Kurozumikyo'
 relations:
   - target: sect-shinto

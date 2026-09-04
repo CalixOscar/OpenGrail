@@ -45,11 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Continental Reformed Churches"'
     url: 'https://www.britannica.com/topic/continental-reformed-churches'
-  - title: 'Oxford Reference: Overview of Continental Reformed Churches'
+  - title: 'Oxford Reference — search results for "Continental Reformed Churches"'
     url: 'https://www.oxfordreference.com/search?q=Continental%20Reformed%20Churches'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Continental
-      Reformed Churches
+  - title: 'Cambridge Core — search results for "Continental Reformed Churches"'
     url: 'https://www.cambridge.org/core/search?q=Continental%20Reformed%20Churches'
 artifacts:
   - title: "Title page of the 1563 first edition of the Heidelberg Catechism"

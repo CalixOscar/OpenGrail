@@ -41,7 +41,7 @@ sources:
     url: 'https://www.bloomsbury.com/us/history-of-the-occult-tarot-18701970-9780715631225/'
   - title: 'Paul Clark: "Paul Foster Case: His Life and Works"'
     url: 'https://fraternityofthehiddenlight.org/'
-  - title: 'Oxford Reference: Overview of Hermetic Qabalah and B.O.T.A.'
+  - title: 'Oxford Reference — search results for "Builders of the Adytum"'
     url: 'https://www.oxfordreference.com/search?q=Builders+of+the+Adytum'
 artifacts:
   - title: "Portrait of Paul Foster Case"

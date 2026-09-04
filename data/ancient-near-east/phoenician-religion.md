@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Phoenician Religion"'
     url: 'https://www.britannica.com/topic/phoenician-religion'
-  - title: 'Oxford Reference: Overview of Phoenician Religion'
+  - title: 'Oxford Reference — search results for "Phoenician Religion"'
     url: 'https://www.oxfordreference.com/search?q=Phoenician%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Phoenician Religion'
+  - title: 'Brill — search results for "Phoenician Religion"'
     url: 'https://brill.com/search?q=Phoenician%20Religion'
 artifacts:
   - title: "Phoenician naiskos with the throne of Astarte from Sidon, Louvre AO 2060"

@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Thai Forest Tradition"'
     url: 'https://www.britannica.com/topic/thai-forest-tradition'
-  - title: 'Oxford Reference: Overview of Thai Forest Tradition'
+  - title: 'Oxford Reference — search results for "Thai Forest Tradition"'
     url: 'https://www.oxfordreference.com/search?q=Thai%20Forest%20Tradition'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Thai Forest Tradition"'
     url: 'https://www.rep.routledge.com/search?query=Thai%20Forest%20Tradition'
 artifacts:
   - title: "Memorial viharn dedicated to Ajahn Mun Bhuridatto at Wat Chedi Luang in Chiang Mai"

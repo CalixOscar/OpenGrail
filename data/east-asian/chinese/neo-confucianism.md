@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Neo-Confucianism"'
     url: 'https://www.britannica.com/topic/neo-confucianism'
-  - title: 'Oxford Reference: Overview of Neo-Confucianism'
+  - title: 'Oxford Reference — search results for "Neo-Confucianism"'
     url: 'https://www.oxfordreference.com/search?q=Neo-Confucianism'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Neo-Confucianism"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Neo-Confucianism'
 artifacts:
   - title: "Diagram of the Supreme Ultimate (Taijitu) of Zhou Dunyi"

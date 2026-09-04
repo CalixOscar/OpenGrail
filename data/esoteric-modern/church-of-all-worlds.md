@@ -45,9 +45,9 @@ sources:
   - title: 'Margot Adler, Drawing Down the Moon (1979)'
   - title: 'Encyclopaedia Britannica: "Church of All Worlds"'
     url: 'https://www.britannica.com/topic/church-of-all-worlds'
-  - title: 'Oxford Reference: Overview of Church of All Worlds'
+  - title: 'Oxford Reference — search results for "Church of All Worlds"'
     url: 'https://www.oxfordreference.com/search?q=Church%20of%20All%20Worlds'
-  - title: 'Brill Handbook of Religious Traditions: Church of All Worlds'
+  - title: 'Brill — search results for "Church of All Worlds"'
     url: 'https://brill.com/search?q=Church%20of%20All%20Worlds'
 ---
 

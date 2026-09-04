@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Insight Meditation Movement"'
     url: 'https://www.britannica.com/topic/insight-meditation-movement'
-  - title: 'Oxford Reference: Overview of Insight Meditation Movement'
+  - title: 'Oxford Reference — search results for "Insight Meditation Movement"'
     url: 'https://www.oxfordreference.com/search?q=Insight%20Meditation%20Movement'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Insight Meditation Movement"'
     url: 'https://www.rep.routledge.com/search?query=Insight%20Meditation%20Movement'
 artifacts:
   - title: "Portrait of Venerable Ledi Sayadaw, pioneer of modern lay vipassanā"

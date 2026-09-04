@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Alexandrian Wicca"'
     url: 'https://www.britannica.com/topic/alexandrian-wicca'
-  - title: 'Oxford Reference: Overview of Alexandrian Wicca'
+  - title: 'Oxford Reference — search results for "Alexandrian Wicca"'
     url: 'https://www.oxfordreference.com/search?q=Alexandrian%20Wicca'
-  - title: 'Brill Handbook of Religious Traditions: Alexandrian Wicca'
+  - title: 'Brill — search results for "Alexandrian Wicca"'
     url: 'https://brill.com/search?q=Alexandrian%20Wicca'
 artifacts:
   - title: "15 Clanricarde Gardens in London, residence and covenstead of Alex Sanders"

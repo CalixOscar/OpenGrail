@@ -29,9 +29,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Happy Science'
     url: 'https://www.britannica.com/topic/Happy-Science'
-  - title: 'Oxford Reference: Happy Science (Kōfuku no Kagaku)'
+  - title: 'Oxford Reference — search results for "Happy Science"'
     url: 'https://www.oxfordreference.com/search?q=Happy+Science'
-  - title: 'Brill: Japanese Journal of Religious Studies on Kōfuku no Kagaku'
+  - title: 'Brill — search results for "Happy Science"'
     url: 'https://brill.com/search?q=Happy+Science'
 relations:
   - target: shinto

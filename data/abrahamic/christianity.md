@@ -58,9 +58,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Christianity"'
     url: 'https://www.britannica.com/topic/christianity'
-  - title: 'Oxford Reference: Overview of Christianity'
+  - title: 'Oxford Reference — search results for "Christianity"'
     url: 'https://www.oxfordreference.com/search?q=Christianity'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Christianity'
+  - title: 'Cambridge Core — search results for "Christianity"'
     url: 'https://www.cambridge.org/core/search?q=Christianity'
 artifacts:
   - title: "Postcard reproduction of Leonardo da Vinci's The Last Supper"

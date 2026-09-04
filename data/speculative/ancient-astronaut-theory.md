@@ -48,9 +48,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ancient Astronaut Theory"'
     url: 'https://www.britannica.com/topic/ancient-astronaut-theory'
-  - title: 'Oxford Reference: Overview of Ancient Astronaut Theory'
+  - title: 'Oxford Reference — search results for "Ancient Astronaut Theory"'
     url: 'https://www.oxfordreference.com/search?q=Ancient%20Astronaut%20Theory'
-  - title: 'Brill Handbook of Religious Traditions: Ancient Astronaut Theory'
+  - title: 'Brill — search results for "Ancient Astronaut Theory"'
     url: 'https://brill.com/search?q=Ancient%20Astronaut%20Theory'
 ---
 

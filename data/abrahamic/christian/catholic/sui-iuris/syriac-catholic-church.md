@@ -41,11 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Syriac Catholic Church"'
     url: 'https://www.britannica.com/topic/syriac-catholic-church'
-  - title: 'Oxford Reference: Overview of Syriac Catholic Church'
+  - title: 'Oxford Reference — search results for "Syriac Catholic Church"'
     url: 'https://www.oxfordreference.com/search?q=Syriac%20Catholic%20Church'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Syriac Catholic
-      Church
+  - title: 'Cambridge Core — search results for "Syriac Catholic Church"'
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Catholic%20Church'
 artifacts:
   - title: "Syriac Catholic Cathedral of Saint Paul in Damascus"

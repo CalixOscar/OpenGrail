@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Romuva"'
     url: 'https://www.britannica.com/topic/romuva'
-  - title: 'Oxford Reference: Overview of Romuva'
+  - title: 'Oxford Reference — search results for "Romuva"'
     url: 'https://www.oxfordreference.com/search?q=Romuva'
-  - title: 'Brill Handbook of Religious Traditions: Romuva'
+  - title: 'Brill — search results for "Romuva"'
     url: 'https://brill.com/search?q=Romuva'
 artifacts:
   - title: "Sacred ritual fire (aukuras) during a Romuva ceremony"

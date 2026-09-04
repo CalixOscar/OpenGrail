@@ -44,10 +44,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Way of the Celestial Masters"'
     url: 'https://www.britannica.com/topic/way-of-the-celestial-masters'
-  - title: 'Oxford Reference: Overview of Way of the Celestial Masters'
+  - title: 'Oxford Reference — search results for "Way of the Celestial Masters"'
     url: >-
       https://www.oxfordreference.com/search?q=Way%20of%20the%20Celestial%20Masters
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Way of the Celestial Masters"'
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Way%20of%20the%20Celestial%20Masters
 artifacts:

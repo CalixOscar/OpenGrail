@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Siberian Shamanic Traditions"'
     url: 'https://www.britannica.com/topic/siberian-shamanic-traditions'
-  - title: 'Oxford Reference: Overview of Siberian Shamanic Traditions'
+  - title: 'Oxford Reference — search results for "Siberian Shamanic Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Siberian%20Shamanic%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Siberian Shamanic Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Siberian%20Shamanic%20Traditions'
 artifacts:
   - title: "Sakha dancers performing at the Yhyakh summer solstice festival in Yakutia"

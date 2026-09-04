@@ -39,12 +39,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Churches of Christ in Australia"'
     url: 'https://www.britannica.com/topic/churches-of-christ-in-australia'
-  - title: 'Oxford Reference: Overview of Churches of Christ in Australia'
+  - title: 'Oxford Reference — search results for "Churches of Christ in Australia"'
     url: >-
       https://www.oxfordreference.com/search?q=Churches%20of%20Christ%20in%20Australia
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Churches of Christ
-      in Australia
+  - title: 'Cambridge Core — search results for "Churches of Christ in Australia"'
     url: >-
       https://www.cambridge.org/core/search?q=Churches%20of%20Christ%20in%20Australia
 ---

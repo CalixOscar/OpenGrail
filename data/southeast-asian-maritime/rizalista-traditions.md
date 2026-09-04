@@ -41,7 +41,7 @@ sources:
     url: 'https://upress.ateneo.edu/'
   - title: 'Reynaldo C. Ileto: "Pasyon and Revolution: Popular Movements in the Philippines, 1840–1910"'
     url: 'https://www.ateneopress.org/pasyon-and-revolution'
-  - title: 'Oxford Reference: Rizalista cults'
+  - title: 'Oxford Reference — search results for "Rizalista"'
     url: 'https://www.oxfordreference.com/search?q=Rizalista'
 relations:
   - target: catholicism

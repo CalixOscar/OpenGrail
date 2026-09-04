@@ -41,7 +41,7 @@ key_tenets:
     communion with spirits representing Venezuelan historical and cultural
     archetypes.
 sources:
-  - title: 'Oxford Reference: María Lionza'
+  - title: 'Oxford Reference — search results for "Maria Lionza"'
     url: 'https://www.oxfordreference.com/search?q=Maria+Lionza'
   - title: 'Penn State University Press: Spirits of the Sacred Mountain: Creation and Ritual in María Lionza'
     url: 'https://www.psupress.org/books/titles/978-0-271-02685-5.html'

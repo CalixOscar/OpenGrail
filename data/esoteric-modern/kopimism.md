@@ -41,10 +41,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Missionary Church of Kopimism"'
     url: 'https://www.britannica.com/topic/missionary-church-of-kopimism'
-  - title: 'Oxford Reference: Overview of Missionary Church of Kopimism'
+  - title: 'Oxford Reference — search results for "Missionary Church of Kopimism"'
     url: >-
       https://www.oxfordreference.com/search?q=Missionary%20Church%20of%20Kopimism
-  - title: 'Brill Handbook of Religious Traditions: Missionary Church of Kopimism'
+  - title: 'Brill — search results for "Missionary Church of Kopimism"'
     url: 'https://brill.com/search?q=Missionary%20Church%20of%20Kopimism'
 artifacts:
   - title: "First Kopimist wedding ceremony at the Share Conference in 2012"

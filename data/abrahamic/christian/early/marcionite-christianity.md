@@ -44,11 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Marcionite Christianity"'
     url: 'https://www.britannica.com/topic/marcionite-christianity'
-  - title: 'Oxford Reference: Overview of Marcionite Christianity'
+  - title: 'Oxford Reference — search results for "Marcionite Christianity"'
     url: 'https://www.oxfordreference.com/search?q=Marcionite%20Christianity'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Marcionite
-      Christianity
+  - title: 'Cambridge Core — search results for "Marcionite Christianity"'
     url: 'https://www.cambridge.org/core/search?q=Marcionite%20Christianity'
 artifacts:
   - title: "11th-century manuscript miniature depicting the Apostle John and Marcion of Sinope"

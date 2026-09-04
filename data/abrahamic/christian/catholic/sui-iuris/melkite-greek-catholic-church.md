@@ -40,12 +40,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Melkite Greek Catholic Church"'
     url: 'https://www.britannica.com/topic/melkite-greek-catholic-church'
-  - title: 'Oxford Reference: Overview of Melkite Greek Catholic Church'
+  - title: 'Oxford Reference — search results for "Melkite Greek Catholic Church"'
     url: >-
       https://www.oxfordreference.com/search?q=Melkite%20Greek%20Catholic%20Church
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Melkite Greek
-      Catholic Church
+  - title: 'Cambridge Core — search results for "Melkite Greek Catholic Church"'
     url: >-
       https://www.cambridge.org/core/search?q=Melkite%20Greek%20Catholic%20Church
 artifacts:

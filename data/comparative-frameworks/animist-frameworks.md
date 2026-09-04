@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Animist Frameworks"'
     url: 'https://www.britannica.com/topic/animist-frameworks'
-  - title: 'Oxford Reference: Overview of Animist Frameworks'
+  - title: 'Oxford Reference — search results for "Animist Frameworks"'
     url: 'https://www.oxfordreference.com/search?q=Animist%20Frameworks'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Animist Frameworks"'
     url: 'https://ich.unesco.org/en/search?q=Animist%20Frameworks'
 artifacts:
   - title: "The Wedded Rocks (Meoto Iwa) bound by a sacred shimenawa rope at sunrise, Futami Okitama Shrine"

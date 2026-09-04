@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Dogon Religions"'
     url: 'https://www.britannica.com/topic/dogon-religions'
-  - title: 'Oxford Reference: Overview of Dogon Religions'
+  - title: 'Oxford Reference — search results for "Dogon Religions"'
     url: 'https://www.oxfordreference.com/search?q=Dogon%20Religions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Dogon Religions"'
     url: 'https://ich.unesco.org/en/search?q=Dogon%20Religions'
 artifacts:
   - title: "Dogon carved wooden Kanaga mask for Dama funeral ceremonies"

@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Swaminarayan Sampradāya"'
     url: 'https://www.britannica.com/topic/swaminarayan-samprad-ya'
-  - title: 'Oxford Reference: Overview of Swaminarayan Sampradāya'
+  - title: 'Oxford Reference — search results for "Swaminarayan Sampradāya"'
     url: 'https://www.oxfordreference.com/search?q=Swaminarayan%20Samprad%C4%81ya'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Swaminarayan Sampradāya"'
     url: 'https://www.rep.routledge.com/search?query=Swaminarayan%20Samprad%C4%81ya'
 artifacts:
   - title: "Shri Swaminarayan Mandir in Bhavnagar, Gujarat"

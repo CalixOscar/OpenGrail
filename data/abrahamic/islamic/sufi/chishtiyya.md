@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Chishtiyya"'
     url: 'https://www.britannica.com/topic/chishtiyya'
-  - title: 'Oxford Reference: Overview of Chishtiyya'
+  - title: 'Oxford Reference — search results for "Chishtiyya"'
     url: 'https://www.oxfordreference.com/search?q=Chishtiyya'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Chishtiyya'
+  - title: 'Cambridge Core — search results for "Chishtiyya"'
     url: 'https://www.cambridge.org/core/search?q=Chishtiyya'
 artifacts:
   - title: "Dargah Sharif of Mu'in al-Din Chishti in Ajmer, India"

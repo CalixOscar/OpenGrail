@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "True Jesus Church"'
     url: 'https://www.britannica.com/topic/true-jesus-church'
-  - title: 'Oxford Reference: Overview of True Jesus Church'
+  - title: 'Oxford Reference — search results for "True Jesus Church"'
     url: 'https://www.oxfordreference.com/search?q=True%20Jesus%20Church'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & True Jesus Church'
+  - title: 'Cambridge Core — search results for "True Jesus Church"'
     url: 'https://www.cambridge.org/core/search?q=True%20Jesus%20Church'
 artifacts:
   - title: "True Jesus Church building in Pensiangan, Sabah, Malaysia"

@@ -44,11 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Seventh-day Adventist Church"'
     url: 'https://www.britannica.com/topic/seventh-day-adventist-church'
-  - title: 'Oxford Reference: Overview of Seventh-day Adventist Church'
+  - title: 'Oxford Reference — search results for "Seventh-day Adventist Church"'
     url: 'https://www.oxfordreference.com/search?q=Seventh-day%20Adventist%20Church'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Seventh-day
-      Adventist Church
+  - title: 'Cambridge Core — search results for "Seventh-day Adventist Church"'
     url: 'https://www.cambridge.org/core/search?q=Seventh-day%20Adventist%20Church'
 ---
 

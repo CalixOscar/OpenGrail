@@ -37,9 +37,9 @@ key_tenets:
     twelve spiritual tribes to inaugurate bodily immortality and reign with
     Christ on earth.
 sources:
-  - title: 'Routledge: Shincheonji and the Coronavirus Pandemic (Massimo Introvigne)'
+  - title: 'Routledge — search results for "Shincheonji"'
     url: 'https://www.routledge.com/search?kw=Shincheonji'
-  - title: 'Brill: Korean New Religious Movements'
+  - title: 'Brill — search results for "Shincheonji"'
     url: 'https://brill.com/search?q=Shincheonji'
   - title: 'CESNUR: Shincheonji Studies'
     url: 'https://www.cesnur.org/shincheonji.htm'

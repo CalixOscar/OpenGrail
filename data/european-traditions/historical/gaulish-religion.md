@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Gaulish Religions"'
     url: 'https://www.britannica.com/topic/gaulish-religions'
-  - title: 'Oxford Reference: Overview of Gaulish Religions'
+  - title: 'Oxford Reference — search results for "Gaulish Religions"'
     url: 'https://www.oxfordreference.com/search?q=Gaulish%20Religions'
-  - title: 'Brill Handbook of Religious Traditions: Gaulish Religions'
+  - title: 'Brill — search results for "Gaulish Religions"'
     url: 'https://brill.com/search?q=Gaulish%20Religions'
 artifacts:
   - title: "Scale reconstruction model of the Pillar of the Boatmen (Pilier des Nautes)"

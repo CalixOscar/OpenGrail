@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Essenes"'
     url: 'https://www.britannica.com/topic/essenes'
-  - title: 'Oxford Reference: Overview of Essenes'
+  - title: 'Oxford Reference — search results for "Essenes"'
     url: 'https://www.oxfordreference.com/search?q=Essenes'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Essenes'
+  - title: 'Cambridge Core — search results for "Essenes"'
     url: 'https://www.cambridge.org/core/search?q=Essenes'
 artifacts:
   - title: "Fragment of the Rule of the Congregation (1Q28a) from Qumran Cave 1"

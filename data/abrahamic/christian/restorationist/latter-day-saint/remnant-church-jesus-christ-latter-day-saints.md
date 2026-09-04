@@ -42,14 +42,10 @@ sources:
       Saints"
     url: >-
       https://www.britannica.com/topic/remnant-church-of-jesus-christ-of-latter-day-saints
-  - title: >-
-      Oxford Reference: Overview of Remnant Church of Jesus Christ of Latter Day
-      Saints
+  - title: 'Oxford Reference — search results for "Remnant Church of Jesus Christ of Latter Day Saints"'
     url: >-
       https://www.oxfordreference.com/search?q=Remnant%20Church%20of%20Jesus%20Christ%20of%20Latter%20Day%20Saints
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Remnant Church of
-      Jesus Christ of Latter Day Saints
+  - title: 'Cambridge Core — search results for "Remnant Church of Jesus Christ of Latter Day Saints"'
     url: >-
       https://www.cambridge.org/core/search?q=Remnant%20Church%20of%20Jesus%20Christ%20of%20Latter%20Day%20Saints
 artifacts:

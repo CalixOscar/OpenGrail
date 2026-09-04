@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cult of Enlil at Nippur"'
     url: 'https://www.britannica.com/topic/cult-of-enlil-at-nippur'
-  - title: 'Oxford Reference: Overview of Cult of Enlil at Nippur'
+  - title: 'Oxford Reference — search results for "Cult of Enlil at Nippur"'
     url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Enlil%20at%20Nippur'
-  - title: 'Brill Handbook of Religious Traditions: Cult of Enlil at Nippur'
+  - title: 'Brill — search results for "Cult of Enlil at Nippur"'
     url: 'https://brill.com/search?q=Cult%20of%20Enlil%20at%20Nippur'
 artifacts:
   - title: "Ruins of the ziggurat of the Ekur temple of Enlil at Nippur (Nuffar)"

@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Fo Guang Shan"'
     url: 'https://www.britannica.com/topic/fo-guang-shan'
-  - title: 'Oxford Reference: Overview of Fo Guang Shan'
+  - title: 'Oxford Reference — search results for "Fo Guang Shan"'
     url: 'https://www.oxfordreference.com/search?q=Fo%20Guang%20Shan'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Fo Guang Shan"'
     url: 'https://www.rep.routledge.com/search?query=Fo%20Guang%20Shan'
 artifacts:
   - title: "Main shrine interior of Fo Guang Shan Mabuhay Temple in Manila, Philippines"

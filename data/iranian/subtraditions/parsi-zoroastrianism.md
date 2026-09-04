@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Parsi Zoroastrianism"'
     url: 'https://www.britannica.com/topic/parsi-zoroastrianism'
-  - title: 'Oxford Reference: Overview of Parsi Zoroastrianism'
+  - title: 'Oxford Reference — search results for "Parsi Zoroastrianism"'
     url: 'https://www.oxfordreference.com/search?q=Parsi%20Zoroastrianism'
-  - title: 'Brill Handbook of Religious Traditions: Parsi Zoroastrianism'
+  - title: 'Brill — search results for "Parsi Zoroastrianism"'
     url: 'https://brill.com/search?q=Parsi%20Zoroastrianism'
 artifacts:
   - title: "Pundole Agiary near the Iranshah Atash Behram in Udvada, Gujarat"

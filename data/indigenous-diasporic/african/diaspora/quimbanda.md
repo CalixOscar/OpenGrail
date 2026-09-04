@@ -38,11 +38,11 @@ key_tenets:
     justice, physical healing, material protection, and the transformation of
     dense energies without Christian moral dualism.
 sources:
-  - title: 'Oxford Reference: Afro-Brazilian Religions'
+  - title: 'Oxford Reference — search results for "Afro-Brazilian Religions"'
     url: 'https://www.oxfordreference.com/search?q=Afro-Brazilian+Religions'
-  - title: 'Brill: The Spirits and Their Work: The World of Brazilian Spiritual Healing'
+  - title: 'Brill — search results for "Quimbanda"'
     url: 'https://brill.com/search?q=Quimbanda'
-  - title: 'Routledge: The Afro-Brazilian Religions'
+  - title: 'Routledge — search results for "Afro-Brazilian"'
     url: 'https://www.routledge.com/search?kw=Afro-Brazilian'
 relations:
   - target: umbanda

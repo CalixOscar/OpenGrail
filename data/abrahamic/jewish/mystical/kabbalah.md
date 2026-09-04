@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Kabbalah"'
     url: 'https://www.britannica.com/topic/kabbalah'
-  - title: 'Oxford Reference: Overview of Kabbalah'
+  - title: 'Oxford Reference — search results for "Kabbalah"'
     url: 'https://www.oxfordreference.com/search?q=Kabbalah'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Kabbalah'
+  - title: 'Cambridge Core — search results for "Kabbalah"'
     url: 'https://www.cambridge.org/core/search?q=Kabbalah'
 artifacts:
   - title: "Title page of the first printed edition of the Zohar (Mantua, 1558)"

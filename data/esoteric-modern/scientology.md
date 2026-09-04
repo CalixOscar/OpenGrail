@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Scientology"'
     url: 'https://www.britannica.com/topic/scientology'
-  - title: 'Oxford Reference: Overview of Scientology'
+  - title: 'Oxford Reference — search results for "Scientology"'
     url: 'https://www.oxfordreference.com/search?q=Scientology'
-  - title: 'Brill Handbook of Religious Traditions: Scientology'
+  - title: 'Brill — search results for "Scientology"'
     url: 'https://brill.com/search?q=Scientology'
 artifacts:
   - title: "L. Ron Hubbard historic residence in Bay Head, New Jersey"

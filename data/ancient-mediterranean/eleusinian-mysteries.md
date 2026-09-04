@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Eleusinian Mysteries"'
     url: 'https://www.britannica.com/topic/eleusinian-mysteries'
-  - title: 'Oxford Reference: Overview of Eleusinian Mysteries'
+  - title: 'Oxford Reference — search results for "Eleusinian Mysteries"'
     url: 'https://www.oxfordreference.com/search?q=Eleusinian%20Mysteries'
-  - title: 'Brill Handbook of Religious Traditions: Eleusinian Mysteries'
+  - title: 'Brill — search results for "Eleusinian Mysteries"'
     url: 'https://brill.com/search?q=Eleusinian%20Mysteries'
 artifacts:
   - title: "Ninnion Tablet depicting the Eleusinian Mysteries, National Archaeological Museum, Athens"

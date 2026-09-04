@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Zahiri School"'
     url: 'https://www.britannica.com/topic/zahiri-school'
-  - title: 'Oxford Reference: Overview of Zahiri School'
+  - title: 'Oxford Reference — search results for "Zahiri School"'
     url: 'https://www.oxfordreference.com/search?q=Zahiri%20School'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Zahiri School'
+  - title: 'Cambridge Core — search results for "Zahiri School"'
     url: 'https://www.cambridge.org/core/search?q=Zahiri%20School'
 artifacts:
   - title: "Statue of Ibn Hazm at the Puerta de Sevilla in Córdoba"

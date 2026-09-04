@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Zen Buddhism"'
     url: 'https://www.britannica.com/topic/zen-buddhism'
-  - title: 'Oxford Reference: Overview of Zen Buddhism'
+  - title: 'Oxford Reference — search results for "Zen Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Zen%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Zen Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Zen%20Buddhism'
 artifacts:
   - title: "Half-length portrait of Bodhidharma by Hakuin Ekaku"

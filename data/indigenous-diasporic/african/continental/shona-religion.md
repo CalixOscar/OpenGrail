@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Shona Religious Traditions"'
     url: 'https://www.britannica.com/topic/shona-religious-traditions'
-  - title: 'Oxford Reference: Overview of Shona Religious Traditions'
+  - title: 'Oxford Reference — search results for "Shona Religious Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Shona%20Religious%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Shona Religious Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Shona%20Religious%20Traditions'
 artifacts:
   - title: "Mother and Child granite kopje in the sacred Matobo Hills, Zimbabwe"

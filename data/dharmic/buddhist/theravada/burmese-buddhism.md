@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Burmese Buddhism"'
     url: 'https://www.britannica.com/topic/burmese-buddhism'
-  - title: 'Oxford Reference: Overview of Burmese Buddhism'
+  - title: 'Oxford Reference — search results for "Burmese Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Burmese%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Burmese Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Burmese%20Buddhism'
 artifacts:
   - title: "Mahamuni Buddha Temple compound in Mandalay, Myanmar"

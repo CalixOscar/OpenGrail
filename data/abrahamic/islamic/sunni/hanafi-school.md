@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hanafi School"'
     url: 'https://www.britannica.com/topic/hanafi-school'
-  - title: 'Oxford Reference: Overview of Hanafi School'
+  - title: 'Oxford Reference — search results for "Hanafi School"'
     url: 'https://www.oxfordreference.com/search?q=Hanafi%20School'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Hanafi School'
+  - title: 'Cambridge Core — search results for "Hanafi School"'
     url: 'https://www.cambridge.org/core/search?q=Hanafi%20School'
 artifacts:
   - title: "Clock tower of the Abu Hanifa Mosque in Baghdad"

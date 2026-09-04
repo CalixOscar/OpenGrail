@@ -52,9 +52,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Śramaṇa Movements"'
     url: 'https://www.britannica.com/topic/-rama-a-movements'
-  - title: 'Oxford Reference: Overview of Śramaṇa Movements'
+  - title: 'Oxford Reference — search results for "Śramaṇa Movements"'
     url: 'https://www.oxfordreference.com/search?q=%C5%9Arama%E1%B9%87a%20Movements'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Śramaṇa Movements"'
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Arama%E1%B9%87a%20Movements
 artifacts:

@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Trinidad Orisha"'
     url: 'https://www.britannica.com/topic/trinidad-orisha'
-  - title: 'Oxford Reference: Overview of Trinidad Orisha'
+  - title: 'Oxford Reference — search results for "Trinidad Orisha"'
     url: 'https://www.oxfordreference.com/search?q=Trinidad%20Orisha'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Trinidad Orisha"'
     url: 'https://ich.unesco.org/en/search?q=Trinidad%20Orisha'
 ---
 

@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Yazidism"'
     url: 'https://www.britannica.com/topic/yazidism'
-  - title: 'Oxford Reference: Overview of Yazidism'
+  - title: 'Oxford Reference — search results for "Yazidism"'
     url: 'https://www.oxfordreference.com/search?q=Yazidism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Yazidism'
+  - title: 'Cambridge Core — search results for "Yazidism"'
     url: 'https://www.cambridge.org/core/search?q=Yazidism'
 artifacts:
   - title: "Facade of the Sanctuary of Sheikh Adi in Lalish"

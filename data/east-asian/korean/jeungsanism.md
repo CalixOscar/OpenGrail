@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Jeungsanism"'
     url: 'https://www.britannica.com/topic/jeungsanism'
-  - title: 'Oxford Reference: Overview of Jeungsanism'
+  - title: 'Oxford Reference — search results for "Jeungsanism"'
     url: 'https://www.oxfordreference.com/search?q=Jeungsanism'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Jeungsanism"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Jeungsanism'
 artifacts:
   - title: "Cosmic Year cosmological diagram of Jeung San Do"

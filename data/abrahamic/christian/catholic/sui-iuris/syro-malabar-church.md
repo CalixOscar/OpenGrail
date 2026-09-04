@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Syro-Malabar Church"'
     url: 'https://www.britannica.com/topic/syro-malabar-church'
-  - title: 'Oxford Reference: Overview of Syro-Malabar Church'
+  - title: 'Oxford Reference — search results for "Syro-Malabar Church"'
     url: 'https://www.oxfordreference.com/search?q=Syro-Malabar%20Church'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Syro-Malabar Church'
+  - title: 'Cambridge Core — search results for "Syro-Malabar Church"'
     url: 'https://www.cambridge.org/core/search?q=Syro-Malabar%20Church'
 artifacts:
   - title: "Ancient Saint Thomas Cross (Persian Cross) with Pahlavi inscription at Kottayam"

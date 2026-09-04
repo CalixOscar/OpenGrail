@@ -36,9 +36,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Diggers'
     url: 'https://www.britannica.com/topic/Diggers'
-  - title: 'Oxford Reference: Diggers (True Levellers)'
+  - title: 'Oxford Reference — search results for "Diggers Levellers"'
     url: 'https://www.oxfordreference.com/search?q=Diggers+Levellers'
-  - title: 'Cambridge University Press: Gerrard Winstanley and the Diggers'
+  - title: 'Cambridge Core — search results for "Gerrard Winstanley Diggers"'
     url: 'https://www.cambridge.org/core/search?q=Gerrard+Winstanley+Diggers'
 artifacts:
   - title: "Gerrard Winstanley and Diggers memorial stone"

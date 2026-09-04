@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Eckankar"'
     url: 'https://www.britannica.com/topic/eckankar'
-  - title: 'Oxford Reference: Overview of Eckankar'
+  - title: 'Oxford Reference — search results for "Eckankar"'
     url: 'https://www.oxfordreference.com/search?q=Eckankar'
-  - title: 'Brill Handbook of Religious Traditions: Eckankar'
+  - title: 'Brill — search results for "Eckankar"'
     url: 'https://brill.com/search?q=Eckankar'
 artifacts:
   - title: "Temple of ECK in Chanhassen, Minnesota"

@@ -42,14 +42,10 @@ sources:
       Christ"
     url: >-
       https://www.britannica.com/topic/independent-christian-churches-and-churches-of-christ
-  - title: >-
-      Oxford Reference: Overview of Independent Christian Churches and Churches
-      of Christ
+  - title: 'Oxford Reference — search results for "Independent Christian Churches and Churches of Christ"'
     url: >-
       https://www.oxfordreference.com/search?q=Independent%20Christian%20Churches%20and%20Churches%20of%20Christ
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Independent
-      Christian Churches and Churches of Christ
+  - title: 'Cambridge Core — search results for "Independent Christian Churches and Churches of Christ"'
     url: >-
       https://www.cambridge.org/core/search?q=Independent%20Christian%20Churches%20and%20Churches%20of%20Christ
 artifacts:

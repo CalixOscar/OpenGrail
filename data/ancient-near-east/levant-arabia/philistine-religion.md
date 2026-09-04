@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Philistine Religion"'
     url: 'https://www.britannica.com/topic/philistine-religion'
-  - title: 'Oxford Reference: Overview of Philistine Religion'
+  - title: 'Oxford Reference — search results for "Philistine Religion"'
     url: 'https://www.oxfordreference.com/search?q=Philistine%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Philistine Religion'
+  - title: 'Brill — search results for "Philistine Religion"'
     url: 'https://brill.com/search?q=Philistine%20Religion'
 artifacts:
   - title: "Philistine cultic artifacts exhibition featuring an Ashdoda figurine and incense stands, Israel Museum"

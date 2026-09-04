@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Church of Greece"'
     url: 'https://www.britannica.com/topic/church-of-greece'
-  - title: 'Oxford Reference: Overview of Church of Greece'
+  - title: 'Oxford Reference — search results for "Church of Greece"'
     url: 'https://www.oxfordreference.com/search?q=Church%20of%20Greece'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Greece'
+  - title: 'Cambridge Core — search results for "Church of Greece"'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Greece'
 artifacts:
   - title: "Facade of the Metropolitan Cathedral of the Annunciation in Athens"

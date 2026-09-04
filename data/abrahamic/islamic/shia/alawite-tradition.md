@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Alawite Tradition"'
     url: 'https://www.britannica.com/topic/alawite-tradition'
-  - title: 'Oxford Reference: Overview of Alawite Tradition'
+  - title: 'Oxford Reference — search results for "Alawite Tradition"'
     url: 'https://www.oxfordreference.com/search?q=Alawite%20Tradition'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Alawite Tradition'
+  - title: 'Cambridge Core — search results for "Alawite Tradition"'
     url: 'https://www.cambridge.org/core/search?q=Alawite%20Tradition'
 artifacts:
   - title: "Mausoleum shrine of Sheikh Muhammad al-Ajami in Homs Governorate, Syria"

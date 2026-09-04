@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Plum Village Tradition"'
     url: 'https://www.britannica.com/topic/plum-village-tradition'
-  - title: 'Oxford Reference: Overview of Plum Village Tradition'
+  - title: 'Oxford Reference — search results for "Plum Village Tradition"'
     url: 'https://www.oxfordreference.com/search?q=Plum%20Village%20Tradition'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Plum Village Tradition"'
     url: 'https://www.rep.routledge.com/search?query=Plum%20Village%20Tradition'
 artifacts:
   - title: "Memorial spirit tablet honoring Thich Nhat Hanh at the Healing Spring Monastery in Verdelot"

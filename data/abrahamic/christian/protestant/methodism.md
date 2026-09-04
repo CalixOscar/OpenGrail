@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Methodism"'
     url: 'https://www.britannica.com/topic/methodism'
-  - title: 'Oxford Reference: Overview of Methodism'
+  - title: 'Oxford Reference — search results for "Methodism"'
     url: 'https://www.oxfordreference.com/search?q=Methodism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Methodism'
+  - title: 'Cambridge Core — search results for "Methodism"'
     url: 'https://www.cambridge.org/core/search?q=Methodism'
 artifacts:
   - title: "Portrait of John Wesley after George Romney (National Portrait Gallery, London)"

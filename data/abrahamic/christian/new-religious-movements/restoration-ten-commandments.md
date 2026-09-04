@@ -37,7 +37,7 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Movement for the Restoration of the Ten Commandments of God'
     url: 'https://www.britannica.com/topic/Movement-for-the-Restoration-of-the-Ten-Commandments-of-God'
-  - title: 'Oxford University Press: The Kanungu Cult: Millenarianism in Uganda (Irving Hexham)'
+  - title: 'global.oup.com — search results for "Kanungu"'
     url: 'https://global.oup.com/academic/search?q=Kanungu'
   - title: 'CESNUR: The Movement for the Restoration of the Ten Commandments of God'
     url: 'https://www.cesnur.org/testi/uganda_002.htm'

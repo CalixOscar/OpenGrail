@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Drikung Kagyu"'
     url: 'https://www.britannica.com/topic/drikung-kagyu'
-  - title: 'Oxford Reference: Overview of Drikung Kagyu'
+  - title: 'Oxford Reference — search results for "Drikung Kagyu"'
     url: 'https://www.oxfordreference.com/search?q=Drikung%20Kagyu'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Drikung Kagyu"'
     url: 'https://www.rep.routledge.com/search?query=Drikung%20Kagyu'
 artifacts:
   - title: "Statue of Jigten Sumgön at Lamayuru Monastery, Ladakh"

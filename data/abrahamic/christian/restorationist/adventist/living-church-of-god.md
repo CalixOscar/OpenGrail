@@ -38,11 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Living Church of God"'
     url: 'https://www.britannica.com/topic/living-church-of-god'
-  - title: 'Oxford Reference: Overview of Living Church of God'
+  - title: 'Oxford Reference — search results for "Living Church of God"'
     url: 'https://www.oxfordreference.com/search?q=Living%20Church%20of%20God'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Living Church of
-      God
+  - title: 'Cambridge Core — search results for "Living Church of God"'
     url: 'https://www.cambridge.org/core/search?q=Living%20Church%20of%20God'
 ---
 

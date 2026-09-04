@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Siyam Nikāya"'
     url: 'https://www.britannica.com/topic/siyam-nik-ya'
-  - title: 'Oxford Reference: Overview of Siyam Nikāya'
+  - title: 'Oxford Reference — search results for "Siyam Nikāya"'
     url: 'https://www.oxfordreference.com/search?q=Siyam%20Nik%C4%81ya'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Siyam Nikāya"'
     url: 'https://www.rep.routledge.com/search?query=Siyam%20Nik%C4%81ya'
 artifacts:
   - title: "Most Venerable Tibbatuwawe Sri Siddhartha Sumangala Mahanayake Thero, Chief Prelate of the Malwathu Chapter of the Siyam Nikāya"

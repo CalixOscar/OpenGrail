@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Jōdo-shū"'
     url: 'https://www.britannica.com/topic/j-do-sh-'
-  - title: 'Oxford Reference: Overview of Jōdo-shū'
+  - title: 'Oxford Reference — search results for "Jōdo-shū"'
     url: 'https://www.oxfordreference.com/search?q=J%C5%8Ddo-sh%C5%AB'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Jōdo-shū"'
     url: 'https://www.rep.routledge.com/search?query=J%C5%8Ddo-sh%C5%AB'
 artifacts:
   - title: "Amida-dō hall at Chion-in temple in Kyoto, headquarters of Jōdo-shū"

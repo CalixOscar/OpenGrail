@@ -49,9 +49,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Samothracian Mysteries"'
     url: 'https://www.britannica.com/topic/samothracian-mysteries'
-  - title: 'Oxford Reference: Overview of Samothracian Mysteries'
+  - title: 'Oxford Reference — search results for "Samothracian Mysteries"'
     url: 'https://www.oxfordreference.com/search?q=Samothracian%20Mysteries'
-  - title: 'Brill Handbook of Religious Traditions: Samothracian Mysteries'
+  - title: 'Brill — search results for "Samothracian Mysteries"'
     url: 'https://brill.com/search?q=Samothracian%20Mysteries'
 artifacts:
   - title: "Detail of the Winged Victory of Samothrace, Louvre Museum"

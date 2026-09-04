@@ -45,12 +45,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Process Church of the Final Judgment"'
     url: 'https://www.britannica.com/topic/process-church-of-the-final-judgment'
-  - title: 'Oxford Reference: Overview of Process Church of the Final Judgment'
+  - title: 'Oxford Reference — search results for "Process Church of the Final Judgment"'
     url: >-
       https://www.oxfordreference.com/search?q=Process%20Church%20of%20the%20Final%20Judgment
-  - title: >-
-      Brill Handbook of Religious Traditions: Process Church of the Final
-      Judgment
+  - title: 'Brill — search results for "Process Church of the Final Judgment"'
     url: 'https://brill.com/search?q=Process%20Church%20of%20the%20Final%20Judgment'
 ---
 

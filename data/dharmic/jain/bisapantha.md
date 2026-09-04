@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Bīsapantha"'
     url: 'https://www.britannica.com/topic/b-sapantha'
-  - title: 'Oxford Reference: Overview of Bīsapantha'
+  - title: 'Oxford Reference — search results for "Bīsapantha"'
     url: 'https://www.oxfordreference.com/search?q=B%C4%ABsapantha'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Bīsapantha"'
     url: 'https://www.rep.routledge.com/search?query=B%C4%ABsapantha'
 artifacts:
   - title: "Mahamastakabhisheka anointing ceremony of Gommateshwara at Shravanabelagola"

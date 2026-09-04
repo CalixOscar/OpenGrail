@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Baha''i Faith"'
     url: 'https://www.britannica.com/topic/baha-i-faith'
-  - title: 'Oxford Reference: Overview of Baha''i Faith'
+  - title: 'Oxford Reference — search results for "Baha''''i Faith"'
     url: 'https://www.oxfordreference.com/search?q=Baha''i%20Faith'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Baha''i Faith'
+  - title: 'Cambridge Core — search results for "Baha''''i Faith"'
     url: 'https://www.cambridge.org/core/search?q=Baha''i%20Faith'
 artifacts:
   - title: "Shrine of Bahá'u'lláh at Bahjí near Acre"

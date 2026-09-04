@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Oneida Community'
     url: 'https://www.britannica.com/topic/Oneida-Community'
-  - title: 'Oxford Reference: Oneida Community'
+  - title: 'Oxford Reference — search results for "Oneida Community"'
     url: 'https://www.oxfordreference.com/search?q=Oneida+Community'
-  - title: 'Syracuse University Press: Without Sin: The Life and Death of the Oneida Community (Spencer Klaw)'
+  - title: 'press.syr.edu — search results for "Oneida"'
     url: 'https://press.syr.edu/search/?q=Oneida'
 artifacts:
   - title: "Oneida Community Mansion House"

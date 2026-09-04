@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Nyāya"'
     url: 'https://www.britannica.com/topic/ny-ya'
-  - title: 'Oxford Reference: Overview of Nyāya'
+  - title: 'Oxford Reference — search results for "Nyāya"'
     url: 'https://www.oxfordreference.com/search?q=Ny%C4%81ya'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Nyāya"'
     url: 'https://www.rep.routledge.com/search?query=Ny%C4%81ya'
 ---
 

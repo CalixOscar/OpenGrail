@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Salafism"'
     url: 'https://www.britannica.com/topic/salafism'
-  - title: 'Oxford Reference: Overview of Salafism'
+  - title: 'Oxford Reference — search results for "Salafism"'
     url: 'https://www.oxfordreference.com/search?q=Salafism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Salafism'
+  - title: 'Cambridge Core — search results for "Salafism"'
     url: 'https://www.cambridge.org/core/search?q=Salafism'
 artifacts:
   - title: "Imam Muhammad ibn Abd al-Wahhab Mosque in Doha, Qatar"

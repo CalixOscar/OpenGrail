@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Münster rebellion'
     url: 'https://www.britannica.com/event/Munster-rebellion'
-  - title: 'Oxford Reference: Münster Anabaptists'
+  - title: 'Oxford Reference — search results for "Munster Anabaptists"'
     url: 'https://www.oxfordreference.com/search?q=Munster+Anabaptists'
-  - title: 'Brill: The Radical Reformation and Münster'
+  - title: 'Brill — search results for "Munster Anabaptism"'
     url: 'https://brill.com/search?q=Munster+Anabaptism'
 artifacts:
   - title: "Anabaptist cages on St. Lambert's Church tower"

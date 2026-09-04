@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Messianic Judaism"'
     url: 'https://www.britannica.com/topic/messianic-judaism'
-  - title: 'Oxford Reference: Overview of Messianic Judaism'
+  - title: 'Oxford Reference — search results for "Messianic Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Messianic%20Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Messianic Judaism'
+  - title: 'Cambridge Core — search results for "Messianic Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Messianic%20Judaism'
 artifacts:
   - title: "Messianic seal combining Menorah, Star of David, and Ichthys"

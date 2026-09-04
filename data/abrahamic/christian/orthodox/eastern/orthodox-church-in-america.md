@@ -43,11 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Orthodox Church in America"'
     url: 'https://www.britannica.com/topic/orthodox-church-in-america'
-  - title: 'Oxford Reference: Overview of Orthodox Church in America'
+  - title: 'Oxford Reference — search results for "Orthodox Church in America"'
     url: 'https://www.oxfordreference.com/search?q=Orthodox%20Church%20in%20America'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Orthodox Church in
-      America
+  - title: 'Cambridge Core — search results for "Orthodox Church in America"'
     url: 'https://www.cambridge.org/core/search?q=Orthodox%20Church%20in%20America'
 artifacts:
   - title: "Icon of Saint Herman of Alaska, patron saint of North American Orthodoxy"

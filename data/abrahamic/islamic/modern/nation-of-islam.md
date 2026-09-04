@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Nation of Islam"'
     url: 'https://www.britannica.com/topic/nation-of-islam'
-  - title: 'Oxford Reference: Overview of Nation of Islam'
+  - title: 'Oxford Reference — search results for "Nation of Islam"'
     url: 'https://www.oxfordreference.com/search?q=Nation%20of%20Islam'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Nation of Islam'
+  - title: 'Cambridge Core — search results for "Nation of Islam"'
     url: 'https://www.cambridge.org/core/search?q=Nation%20of%20Islam'
 artifacts:
   - title: "Muhammad Ali seated at the Nation of Islam convention in Chicago, 1967"

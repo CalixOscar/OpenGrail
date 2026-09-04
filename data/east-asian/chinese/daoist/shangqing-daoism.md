@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Shangqing Daoism"'
     url: 'https://www.britannica.com/topic/shangqing-daoism'
-  - title: 'Oxford Reference: Overview of Shangqing Daoism'
+  - title: 'Oxford Reference — search results for "Shangqing Daoism"'
     url: 'https://www.oxfordreference.com/search?q=Shangqing%20Daoism'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Shangqing Daoism"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shangqing%20Daoism'
 artifacts:
   - title: "Tao Hongjing Listening to the Pines, Muromachi period ink painting, Yamanashi Prefectural Museum"

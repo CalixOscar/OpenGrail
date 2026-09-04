@@ -49,9 +49,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Yarsan"'
     url: 'https://www.britannica.com/topic/yarsan'
-  - title: 'Oxford Reference: Overview of Yarsan'
+  - title: 'Oxford Reference — search results for "Yarsan"'
     url: 'https://www.oxfordreference.com/search?q=Yarsan'
-  - title: 'Brill Handbook of Religious Traditions: Yarsan'
+  - title: 'Brill — search results for "Yarsan"'
     url: 'https://brill.com/search?q=Yarsan'
 ---
 

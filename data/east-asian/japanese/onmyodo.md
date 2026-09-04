@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Onmyōdō"'
     url: 'https://www.britannica.com/topic/onmy-d-'
-  - title: 'Oxford Reference: Overview of Onmyōdō'
+  - title: 'Oxford Reference — search results for "Onmyōdō"'
     url: 'https://www.oxfordreference.com/search?q=Onmy%C5%8Dd%C5%8D'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Onmyōdō"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Onmy%C5%8Dd%C5%8D'
 artifacts:
   - title: "Portrait of onmyōji Abe no Seimei from the NDL collection"

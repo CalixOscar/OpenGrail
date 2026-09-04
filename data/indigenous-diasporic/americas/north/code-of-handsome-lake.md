@@ -47,7 +47,7 @@ key_tenets:
 sources:
   - title: 'Anthony F. C. Wallace: "The Death and Rebirth of the Seneca"'
     url: 'https://www.penguinrandomhouse.com/books/185250/the-death-and-rebirth-of-the-seneca-by-anthony-f-c-wallace/'
-  - title: 'Oxford Reference: Handsome Lake Movement'
+  - title: 'Oxford Reference — search results for "Handsome Lake"'
     url: 'https://www.oxfordreference.com/search?q=Handsome+Lake'
   - title: 'Encyclopaedia Britannica: Handsome Lake'
     url: 'https://www.britannica.com/biography/Handsome-Lake'

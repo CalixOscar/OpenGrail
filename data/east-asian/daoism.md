@@ -50,9 +50,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Daoist Traditions"'
     url: 'https://www.britannica.com/topic/daoist-traditions'
-  - title: 'Oxford Reference: Overview of Daoist Traditions'
+  - title: 'Oxford Reference — search results for "Daoist Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Daoist%20Traditions'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Daoist Traditions"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Daoist%20Traditions'
 artifacts:
   - title: "Song dynasty stone statue of Laozi at Mount Qingyuan"

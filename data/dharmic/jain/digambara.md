@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Digambara Jainism"'
     url: 'https://www.britannica.com/topic/digambara-jainism'
-  - title: 'Oxford Reference: Overview of Digambara Jainism'
+  - title: 'Oxford Reference — search results for "Digambara Jainism"'
     url: 'https://www.oxfordreference.com/search?q=Digambara%20Jainism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Digambara Jainism"'
     url: 'https://www.rep.routledge.com/search?query=Digambara%20Jainism'
 artifacts:
   - title: "Statue of Gommateshwara Bahubali at Vindhyagiri, Shravanabelagola"

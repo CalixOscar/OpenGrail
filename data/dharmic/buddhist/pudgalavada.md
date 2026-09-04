@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Pudgalavāda Schools"'
     url: 'https://www.britannica.com/topic/pudgalav-da-schools'
-  - title: 'Oxford Reference: Overview of Pudgalavāda Schools'
+  - title: 'Oxford Reference — search results for "Pudgalavāda Schools"'
     url: 'https://www.oxfordreference.com/search?q=Pudgalav%C4%81da%20Schools'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Pudgalavāda Schools"'
     url: 'https://www.rep.routledge.com/search?query=Pudgalav%C4%81da%20Schools'
 artifacts:
   - title: "Sanskrit manuscript folio of Yaśomitra's Abhidharmakośavyākhyā from the Bibliothèque nationale de France"

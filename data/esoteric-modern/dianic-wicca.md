@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Dianic Wicca"'
     url: 'https://www.britannica.com/topic/dianic-wicca'
-  - title: 'Oxford Reference: Overview of Dianic Wicca'
+  - title: 'Oxford Reference — search results for "Dianic Wicca"'
     url: 'https://www.oxfordreference.com/search?q=Dianic%20Wicca'
-  - title: 'Brill Handbook of Religious Traditions: Dianic Wicca'
+  - title: 'Brill — search results for "Dianic Wicca"'
     url: 'https://brill.com/search?q=Dianic%20Wicca'
 ---
 

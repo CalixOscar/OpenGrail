@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Naqshbandiyya"'
     url: 'https://www.britannica.com/topic/naqshbandiyya'
-  - title: 'Oxford Reference: Overview of Naqshbandiyya'
+  - title: 'Oxford Reference — search results for "Naqshbandiyya"'
     url: 'https://www.oxfordreference.com/search?q=Naqshbandiyya'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Naqshbandiyya'
+  - title: 'Cambridge Core — search results for "Naqshbandiyya"'
     url: 'https://www.cambridge.org/core/search?q=Naqshbandiyya'
 artifacts:
   - title: "Shrine complex of Baha al-Din Naqshband near Bukhara, Uzbekistan"

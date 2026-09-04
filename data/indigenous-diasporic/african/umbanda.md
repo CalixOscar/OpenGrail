@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Umbanda"'
     url: 'https://www.britannica.com/topic/umbanda'
-  - title: 'Oxford Reference: Overview of Umbanda'
+  - title: 'Oxford Reference — search results for "Umbanda"'
     url: 'https://www.oxfordreference.com/search?q=Umbanda'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Umbanda"'
     url: 'https://ich.unesco.org/en/search?q=Umbanda'
 artifacts:
   - title: "Worship hall with atabaques and gongá altar at an Umbanda spiritual center"

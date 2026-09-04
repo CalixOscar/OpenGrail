@@ -40,7 +40,7 @@ key_tenets:
 sources:
   - title: 'Heinemann: Mwari Cult and the Shona Resistance'
     url: 'https://www.heinemann.com/products/E02641.aspx'
-  - title: 'Oxford Reference: Mwari'
+  - title: 'Oxford Reference — search results for "Mwari"'
     url: 'https://www.oxfordreference.com/search?q=Mwari'
   - title: 'Encyclopaedia Britannica: Shona religion and the Mwari cult'
     url: 'https://www.britannica.com/topic/Shona-religion'

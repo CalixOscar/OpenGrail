@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Trophonius'
     url: 'https://www.britannica.com/topic/Trophonius'
-  - title: 'Oxford Classical Dictionary: Trophonius'
+  - title: 'Oxford Reference — search results for "Trophonius"'
     url: 'https://www.oxfordreference.com/search?q=Trophonius'
-  - title: 'Brill New Pauly: Trophonios'
+  - title: 'Brill — search results for "Trophonios"'
     url: 'https://brill.com/search?q=Trophonios'
 artifacts:
   - title: "Sanctuary site and springs of Herkyna at Livadeia"

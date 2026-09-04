@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Latin Church"'
     url: 'https://www.britannica.com/topic/latin-church'
-  - title: 'Oxford Reference: Overview of Latin Church'
+  - title: 'Oxford Reference — search results for "Latin Church"'
     url: 'https://www.oxfordreference.com/search?q=Latin%20Church'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Latin Church'
+  - title: 'Cambridge Core — search results for "Latin Church"'
     url: 'https://www.cambridge.org/core/search?q=Latin%20Church'
 artifacts:
   - title: "Medieval lead papal bulla depicting Saint Peter"

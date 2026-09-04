@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Thelema"'
     url: 'https://www.britannica.com/topic/thelema'
-  - title: 'Oxford Reference: Overview of Thelema'
+  - title: 'Oxford Reference — search results for "Thelema"'
     url: 'https://www.oxfordreference.com/search?q=Thelema'
-  - title: 'Brill Handbook of Religious Traditions: Thelema'
+  - title: 'Brill — search results for "Thelema"'
     url: 'https://brill.com/search?q=Thelema'
 artifacts:
   - title: "Museum display tag for the Stele of Revealing (Stela of Ankhefenkhonsu) in Cairo"

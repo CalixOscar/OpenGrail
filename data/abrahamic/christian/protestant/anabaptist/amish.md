@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Amish Traditions"'
     url: 'https://www.britannica.com/topic/amish-traditions'
-  - title: 'Oxford Reference: Overview of Amish Traditions'
+  - title: 'Oxford Reference — search results for "Amish Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Amish%20Traditions'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Amish Traditions'
+  - title: 'Cambridge Core — search results for "Amish Traditions"'
     url: 'https://www.cambridge.org/core/search?q=Amish%20Traditions'
 artifacts:
   - title: "Old Order Amish horse and buggy in Intercourse, Pennsylvania"

@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Maronite Church"'
     url: 'https://www.britannica.com/topic/maronite-church'
-  - title: 'Oxford Reference: Overview of Maronite Church'
+  - title: 'Oxford Reference — search results for "Maronite Church"'
     url: 'https://www.oxfordreference.com/search?q=Maronite%20Church'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Maronite Church'
+  - title: 'Cambridge Core — search results for "Maronite Church"'
     url: 'https://www.cambridge.org/core/search?q=Maronite%20Church'
 artifacts:
   - title: "Statue of Saint Maron in an exterior niche of Saint Peter's Basilica"

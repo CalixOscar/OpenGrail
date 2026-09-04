@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Jainism"'
     url: 'https://www.britannica.com/topic/jainism'
-  - title: 'Oxford Reference: Overview of Jainism'
+  - title: 'Oxford Reference — search results for "Jainism"'
     url: 'https://www.oxfordreference.com/search?q=Jainism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Jainism"'
     url: 'https://www.rep.routledge.com/search?query=Jainism'
 artifacts:
   - title: "Marble shrine with Four Jinas (Chaumukha), 11th–12th century Gujarat, LACMA"

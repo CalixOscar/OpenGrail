@@ -46,11 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Latter Day Saint Movement"'
     url: 'https://www.britannica.com/topic/latter-day-saint-movement'
-  - title: 'Oxford Reference: Overview of Latter Day Saint Movement'
+  - title: 'Oxford Reference — search results for "Latter Day Saint Movement"'
     url: 'https://www.oxfordreference.com/search?q=Latter%20Day%20Saint%20Movement'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Latter Day Saint
-      Movement
+  - title: 'Cambridge Core — search results for "Latter Day Saint Movement"'
     url: 'https://www.cambridge.org/core/search?q=Latter%20Day%20Saint%20Movement'
 artifacts:
   - title: "Portrait of Joseph Smith Jr., circa 1842"

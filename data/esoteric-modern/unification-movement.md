@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Unification Movement"'
     url: 'https://www.britannica.com/topic/unification-movement'
-  - title: 'Oxford Reference: Overview of Unification Movement'
+  - title: 'Oxford Reference — search results for "Unification Movement"'
     url: 'https://www.oxfordreference.com/search?q=Unification%20Movement'
-  - title: 'Brill Handbook of Religious Traditions: Unification Movement'
+  - title: 'Brill — search results for "Unification Movement"'
     url: 'https://brill.com/search?q=Unification%20Movement'
 artifacts:
   - title: "Sun Myung Moon and Hak Ja Han officiating a Unification Church Blessing ceremony"

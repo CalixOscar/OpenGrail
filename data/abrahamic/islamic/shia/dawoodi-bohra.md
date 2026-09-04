@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Dawoodi Bohra"'
     url: 'https://www.britannica.com/topic/dawoodi-bohra'
-  - title: 'Oxford Reference: Overview of Dawoodi Bohra'
+  - title: 'Oxford Reference — search results for "Dawoodi Bohra"'
     url: 'https://www.oxfordreference.com/search?q=Dawoodi%20Bohra'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Dawoodi Bohra'
+  - title: 'Cambridge Core — search results for "Dawoodi Bohra"'
     url: 'https://www.cambridge.org/core/search?q=Dawoodi%20Bohra'
 artifacts:
   - title: "Dawoodi Bohra community assembly under Syedna Mufaddal Saifuddin"

@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Kagyu"'
     url: 'https://www.britannica.com/topic/kagyu'
-  - title: 'Oxford Reference: Overview of Kagyu'
+  - title: 'Oxford Reference — search results for "Kagyu"'
     url: 'https://www.oxfordreference.com/search?q=Kagyu'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Kagyu"'
     url: 'https://www.rep.routledge.com/search?query=Kagyu'
 artifacts:
   - title: "Bhutanese thangka painting of Jetsun Milarepa from Dhodeydrag Gonpa"

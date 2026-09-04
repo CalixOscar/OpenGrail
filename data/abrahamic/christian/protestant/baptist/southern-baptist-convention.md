@@ -44,11 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Southern Baptist Convention"'
     url: 'https://www.britannica.com/topic/southern-baptist-convention'
-  - title: 'Oxford Reference: Overview of Southern Baptist Convention'
+  - title: 'Oxford Reference — search results for "Southern Baptist Convention"'
     url: 'https://www.oxfordreference.com/search?q=Southern%20Baptist%20Convention'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Southern Baptist
-      Convention
+  - title: 'Cambridge Core — search results for "Southern Baptist Convention"'
     url: 'https://www.cambridge.org/core/search?q=Southern%20Baptist%20Convention'
 artifacts:
   - title: "Southern Baptist Disaster Relief volunteers preparing relief meals in Texas (2008)"

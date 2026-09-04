@@ -38,9 +38,9 @@ key_tenets:
     pluralism in civil governance, rejects political Islamism and Salafi-Wahhabi
     theology, and maintains an international network of schools and mosques.
 sources:
-  - title: 'Oxford Reference: Ahbash'
+  - title: 'Oxford Reference — search results for "Ahbash"'
     url: 'https://www.oxfordreference.com/search?q=Ahbash'
-  - title: 'Brill: The Ahbash of Lebanon: Traditional Islam in the Modern World'
+  - title: 'Brill — search results for "Ahbash"'
     url: 'https://brill.com/search?q=Ahbash'
   - title: 'Encyclopaedia Britannica: Association of Islamic Charitable Projects'
     url: 'https://www.britannica.com/topic/Association-of-Islamic-Charitable-Projects'

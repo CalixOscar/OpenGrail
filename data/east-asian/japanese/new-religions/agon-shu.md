@@ -28,9 +28,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Japanese New Religions'
     url: 'https://www.britannica.com/topic/Japanese-religions'
-  - title: 'Oxford Reference: Agon Shū'
+  - title: 'Oxford Reference — search results for "Agon Shu"'
     url: 'https://www.oxfordreference.com/search?q=Agon+Shu'
-  - title: 'Brill: Japanese Journal of Religious Studies on Agonshū'
+  - title: 'Brill — search results for "Agonshu"'
     url: 'https://brill.com/search?q=Agonshu'
 relations:
   - target: shingon

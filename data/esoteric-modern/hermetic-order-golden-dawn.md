@@ -48,10 +48,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hermetic Order of the Golden Dawn"'
     url: 'https://www.britannica.com/topic/hermetic-order-of-the-golden-dawn'
-  - title: 'Oxford Reference: Overview of Hermetic Order of the Golden Dawn'
+  - title: 'Oxford Reference — search results for "Hermetic Order of the Golden Dawn"'
     url: >-
       https://www.oxfordreference.com/search?q=Hermetic%20Order%20of%20the%20Golden%20Dawn
-  - title: 'Brill Handbook of Religious Traditions: Hermetic Order of the Golden Dawn'
+  - title: 'Brill — search results for "Hermetic Order of the Golden Dawn"'
     url: 'https://brill.com/search?q=Hermetic%20Order%20of%20the%20Golden%20Dawn'
 artifacts:
   - title: "Table of Hebrew and Chaldee Letters compiled by S. L. MacGregor Mathers"

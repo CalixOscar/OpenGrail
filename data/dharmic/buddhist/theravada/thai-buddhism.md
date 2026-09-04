@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Thai Buddhism"'
     url: 'https://www.britannica.com/topic/thai-buddhism'
-  - title: 'Oxford Reference: Overview of Thai Buddhism'
+  - title: 'Oxford Reference — search results for "Thai Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Thai%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Thai Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Thai%20Buddhism'
 artifacts:
   - title: "Wat Phra Kaew (Temple of the Emerald Buddha) from the Outer Court of the Grand Palace, Bangkok"

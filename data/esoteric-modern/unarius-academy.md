@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Unarius Academy of Science"'
     url: 'https://www.britannica.com/topic/unarius-academy-of-science'
-  - title: 'Oxford Reference: Overview of Unarius Academy of Science'
+  - title: 'Oxford Reference — search results for "Unarius Academy of Science"'
     url: 'https://www.oxfordreference.com/search?q=Unarius%20Academy%20of%20Science'
-  - title: 'Brill Handbook of Religious Traditions: Unarius Academy of Science'
+  - title: 'Brill — search results for "Unarius Academy of Science"'
     url: 'https://brill.com/search?q=Unarius%20Academy%20of%20Science'
 artifacts:
   - title: "Inside cover of Ernest L. Norman's \"The Voice of Venus\" (circa 1970 edition)"

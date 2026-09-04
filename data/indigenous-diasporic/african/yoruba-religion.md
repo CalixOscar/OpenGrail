@@ -35,9 +35,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Yorùbá Religion"'
     url: 'https://www.britannica.com/topic/yor-b-religion'
-  - title: 'Oxford Reference: Overview of Yorùbá Religion'
+  - title: 'Oxford Reference — search results for "Yorùbá Religion"'
     url: 'https://www.oxfordreference.com/search?q=Yor%C3%B9b%C3%A1%20Religion'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Yorùbá Religion"'
     url: 'https://ich.unesco.org/en/search?q=Yor%C3%B9b%C3%A1%20Religion'
 artifacts:
   - title: "Brass commemorative sculpture of an Ooni (king) from ancient Ife"

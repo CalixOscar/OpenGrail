@@ -38,12 +38,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Davidian Seventh-day Adventists"'
     url: 'https://www.britannica.com/topic/davidian-seventh-day-adventists'
-  - title: 'Oxford Reference: Overview of Davidian Seventh-day Adventists'
+  - title: 'Oxford Reference — search results for "Davidian Seventh-day Adventists"'
     url: >-
       https://www.oxfordreference.com/search?q=Davidian%20Seventh-day%20Adventists
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Davidian
-      Seventh-day Adventists
+  - title: 'Cambridge Core — search results for "Davidian Seventh-day Adventists"'
     url: >-
       https://www.cambridge.org/core/search?q=Davidian%20Seventh-day%20Adventists
 ---

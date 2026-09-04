@@ -44,10 +44,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Yolŋu Religious Traditions"'
     url: 'https://www.britannica.com/topic/yol-u-religious-traditions'
-  - title: 'Oxford Reference: Overview of Yolŋu Religious Traditions'
+  - title: 'Oxford Reference — search results for "Yolŋu Religious Traditions"'
     url: >-
       https://www.oxfordreference.com/search?q=Yol%C5%8Bu%20Religious%20Traditions
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Yolŋu Religious Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Yol%C5%8Bu%20Religious%20Traditions'
 artifacts:
   - title: "Yolŋu bark painting 'The Sea and the Sky' by Munggerawuy Yunupingu (1948)"

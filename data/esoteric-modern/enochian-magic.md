@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Enochian Magic"'
     url: 'https://www.britannica.com/topic/enochian-magic'
-  - title: 'Oxford Reference: Overview of Enochian Magic'
+  - title: 'Oxford Reference — search results for "Enochian Magic"'
     url: 'https://www.oxfordreference.com/search?q=Enochian%20Magic'
-  - title: 'Brill Handbook of Religious Traditions: Enochian Magic'
+  - title: 'Brill — search results for "Enochian Magic"'
     url: 'https://brill.com/search?q=Enochian%20Magic'
 artifacts:
   - title: "Portrait of Dr. John Dee at the Ashmolean Museum"

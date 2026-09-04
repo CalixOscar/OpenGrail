@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Assyrian Religion"'
     url: 'https://www.britannica.com/topic/assyrian-religion'
-  - title: 'Oxford Reference: Overview of Assyrian Religion'
+  - title: 'Oxford Reference — search results for "Assyrian Religion"'
     url: 'https://www.oxfordreference.com/search?q=Assyrian%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Assyrian Religion'
+  - title: 'Brill — search results for "Assyrian Religion"'
     url: 'https://brill.com/search?q=Assyrian%20Religion'
 artifacts:
   - title: "Colossal human-headed winged bulls (lamassu) from Khorsabad, Louvre Museum"

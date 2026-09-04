@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Mandaeism"'
     url: 'https://www.britannica.com/topic/mandaeism'
-  - title: 'Oxford Reference: Overview of Mandaeism'
+  - title: 'Oxford Reference — search results for "Mandaeism"'
     url: 'https://www.oxfordreference.com/search?q=Mandaeism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Mandaeism'
+  - title: 'Cambridge Core — search results for "Mandaeism"'
     url: 'https://www.cambridge.org/core/search?q=Mandaeism'
 artifacts:
   - title: "Mandaean Masbuta (baptism) ceremony in the Karun River, Ahvaz"

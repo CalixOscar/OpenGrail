@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Korean Confucian Traditions"'
     url: 'https://www.britannica.com/topic/korean-confucian-traditions'
-  - title: 'Oxford Reference: Overview of Korean Confucian Traditions'
+  - title: 'Oxford Reference — search results for "Korean Confucian Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Korean%20Confucian%20Traditions'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Korean Confucian Traditions"'
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Korean%20Confucian%20Traditions
 artifacts:

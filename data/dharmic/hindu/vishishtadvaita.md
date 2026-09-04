@@ -43,10 +43,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Viśiṣṭādvaita Vedānta"'
     url: 'https://www.britannica.com/topic/vi-i-dvaita-ved-nta'
-  - title: 'Oxford Reference: Overview of Viśiṣṭādvaita Vedānta'
+  - title: 'Oxford Reference — search results for "Viśiṣṭādvaita Vedānta"'
     url: >-
       https://www.oxfordreference.com/search?q=Vi%C5%9Bi%E1%B9%A3%E1%B9%AD%C4%81dvaita%20Ved%C4%81nta
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Viśiṣṭādvaita Vedānta"'
     url: >-
       https://www.rep.routledge.com/search?query=Vi%C5%9Bi%E1%B9%A3%E1%B9%AD%C4%81dvaita%20Ved%C4%81nta
 artifacts:

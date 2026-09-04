@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Linji Chan"'
     url: 'https://www.britannica.com/topic/linji-chan'
-  - title: 'Oxford Reference: Overview of Linji Chan'
+  - title: 'Oxford Reference — search results for "Linji Chan"'
     url: 'https://www.oxfordreference.com/search?q=Linji%20Chan'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Linji Chan"'
     url: 'https://www.rep.routledge.com/search?query=Linji%20Chan'
 artifacts:
   - title: "Portrait of Chan Master Linji Yixuan by Soga Jasoku"

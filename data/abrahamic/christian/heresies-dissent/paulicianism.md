@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Paulician'
     url: 'https://www.britannica.com/topic/Paulician'
-  - title: 'Oxford Reference: Paulicians'
+  - title: 'Oxford Reference — search results for "Paulicians"'
     url: 'https://www.oxfordreference.com/search?q=Paulicians'
-  - title: 'Brill: Scholarship on Byzantine heterodoxy'
+  - title: 'Brill — search results for "Paulicians"'
     url: 'https://brill.com/search?q=Paulicians'
 artifacts:
   - title: "Citadel of Divriği (Ancient Tephrike)"

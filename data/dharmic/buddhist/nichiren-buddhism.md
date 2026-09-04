@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Nichiren Buddhism"'
     url: 'https://www.britannica.com/topic/nichiren-buddhism'
-  - title: 'Oxford Reference: Overview of Nichiren Buddhism'
+  - title: 'Oxford Reference — search results for "Nichiren Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Nichiren%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Nichiren Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Nichiren%20Buddhism'
 artifacts:
   - title: "Kamakura-period wooden effigy sculpture of Nichiren at Jusen-ji temple in Chiba"

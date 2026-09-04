@@ -48,9 +48,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Barelvi Movement"'
     url: 'https://www.britannica.com/topic/barelvi-movement'
-  - title: 'Oxford Reference: Overview of Barelvi Movement'
+  - title: 'Oxford Reference — search results for "Barelvi Movement"'
     url: 'https://www.oxfordreference.com/search?q=Barelvi%20Movement'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Barelvi Movement'
+  - title: 'Cambridge Core — search results for "Barelvi Movement"'
     url: 'https://www.cambridge.org/core/search?q=Barelvi%20Movement'
 artifacts:
   - title: "Arabic calligraphic emblem of Imam Ahmad Raza Khan Barelvi"

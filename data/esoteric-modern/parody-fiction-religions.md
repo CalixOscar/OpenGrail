@@ -42,10 +42,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Parody & Fiction-Derived Religions"'
     url: 'https://www.britannica.com/topic/parody-fiction-derived-religions'
-  - title: 'Oxford Reference: Overview of Parody & Fiction-Derived Religions'
+  - title: 'Oxford Reference — search results for "Parody & Fiction-Derived Religions"'
     url: >-
       https://www.oxfordreference.com/search?q=Parody%20%26%20Fiction-Derived%20Religions
-  - title: 'Brill Handbook of Religious Traditions: Parody & Fiction-Derived Religions'
+  - title: 'Brill — search results for "Parody & Fiction-Derived Religions"'
     url: 'https://brill.com/search?q=Parody%20%26%20Fiction-Derived%20Religions'
 artifacts:
   - title: "Cosplay of the Flying Spaghetti Monster and a pirate at Dragon Con"

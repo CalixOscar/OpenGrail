@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Christian Church"'
     url: 'https://www.britannica.com/topic/christian-church'
-  - title: 'Oxford Reference: Overview of Christian Church'
+  - title: 'Oxford Reference — search results for "Christian Church"'
     url: 'https://www.oxfordreference.com/search?q=Christian%20Church'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Christian Church'
+  - title: 'Cambridge Core — search results for "Christian Church"'
     url: 'https://www.cambridge.org/core/search?q=Christian%20Church'
 artifacts:
   - title: "Arlington National Cemetery headstones displaying the Christian Church (Disciples of Christ) chalice emblem"

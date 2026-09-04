@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cult of Marduk"'
     url: 'https://www.britannica.com/topic/cult-of-marduk'
-  - title: 'Oxford Reference: Overview of Cult of Marduk'
+  - title: 'Oxford Reference — search results for "Cult of Marduk"'
     url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Marduk'
-  - title: 'Brill Handbook of Religious Traditions: Cult of Marduk'
+  - title: 'Brill — search results for "Cult of Marduk"'
     url: 'https://brill.com/search?q=Cult%20of%20Marduk'
 artifacts:
   - title: "Glazed brick relief of the Mušḫuššu dragon of Marduk from the Processional Way in Babylon, Istanbul Archaeology Museums"

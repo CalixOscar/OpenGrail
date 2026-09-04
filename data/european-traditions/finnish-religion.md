@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Finnic Religions"'
     url: 'https://www.britannica.com/topic/finnic-religions'
-  - title: 'Oxford Reference: Overview of Finnic Religions'
+  - title: 'Oxford Reference — search results for "Finnic Religions"'
     url: 'https://www.oxfordreference.com/search?q=Finnic%20Religions'
-  - title: 'Brill Handbook of Religious Traditions: Finnic Religions'
+  - title: 'Brill — search results for "Finnic Religions"'
     url: 'https://brill.com/search?q=Finnic%20Religions'
 artifacts:
   - title: "Karelian rune singer and kantele player Timo Lipitsä (ethnographic photograph)"

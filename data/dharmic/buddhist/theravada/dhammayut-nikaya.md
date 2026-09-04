@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Dhammayut Nikāya"'
     url: 'https://www.britannica.com/topic/dhammayut-nik-ya'
-  - title: 'Oxford Reference: Overview of Dhammayut Nikāya'
+  - title: 'Oxford Reference — search results for "Dhammayut Nikāya"'
     url: 'https://www.oxfordreference.com/search?q=Dhammayut%20Nik%C4%81ya'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Dhammayut Nikāya"'
     url: 'https://www.rep.routledge.com/search?query=Dhammayut%20Nik%C4%81ya'
 artifacts:
   - title: "Entrance to Wat Bowonniwet Vihara in Bangkok, administrative center of Dhammayut Nikaya"

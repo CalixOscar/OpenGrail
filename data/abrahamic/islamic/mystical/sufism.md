@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sufism"'
     url: 'https://www.britannica.com/topic/sufism'
-  - title: 'Oxford Reference: Overview of Sufism'
+  - title: 'Oxford Reference — search results for "Sufism"'
     url: 'https://www.oxfordreference.com/search?q=Sufism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Sufism'
+  - title: 'Cambridge Core — search results for "Sufism"'
     url: 'https://www.cambridge.org/core/search?q=Sufism'
 artifacts:
   - title: "The Dhikr, painting of a Sufi remembrance gathering by Eugène Baugnies"

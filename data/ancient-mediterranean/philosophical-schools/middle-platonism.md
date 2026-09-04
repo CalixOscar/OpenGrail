@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Middle Platonism"'
     url: 'https://www.britannica.com/topic/middle-platonism'
-  - title: 'Oxford Reference: Overview of Middle Platonism'
+  - title: 'Oxford Reference — search results for "Middle Platonism"'
     url: 'https://www.oxfordreference.com/search?q=Middle%20Platonism'
-  - title: 'Brill Handbook of Religious Traditions: Middle Platonism'
+  - title: 'Brill — search results for "Middle Platonism"'
     url: 'https://brill.com/search?q=Middle%20Platonism'
 artifacts:
   - title: "Modern bust of Plutarch at Chaeronea (based on the Delphi portrait)"

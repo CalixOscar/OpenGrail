@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Sol'
     url: 'https://www.britannica.com/topic/Sol-Roman-god'
-  - title: 'Oxford Classical Dictionary: Sol'
+  - title: 'Oxford Reference — search results for "Sol Invictus"'
     url: 'https://www.oxfordreference.com/search?q=Sol+Invictus'
-  - title: 'Brill: The Roman Cult of Sol Invictus'
+  - title: 'Brill — search results for "Sol Invictus"'
     url: 'https://brill.com/search?q=Sol+Invictus'
 artifacts:
   - title: "Radiate coin of Emperor Aurelian depicting Sol Invictus"

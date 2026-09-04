@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Protestantism"'
     url: 'https://www.britannica.com/topic/protestantism'
-  - title: 'Oxford Reference: Overview of Protestantism'
+  - title: 'Oxford Reference — search results for "Protestantism"'
     url: 'https://www.oxfordreference.com/search?q=Protestantism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Protestantism'
+  - title: 'Cambridge Core — search results for "Protestantism"'
     url: 'https://www.cambridge.org/core/search?q=Protestantism'
 artifacts:
   - title: "The bronze Thesis Door of the Schlosskirche in Wittenberg cast with Luther's Ninety-five Theses"

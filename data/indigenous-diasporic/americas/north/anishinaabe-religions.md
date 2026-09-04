@@ -42,10 +42,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Anishinaabe Religious Traditions"'
     url: 'https://www.britannica.com/topic/anishinaabe-religious-traditions'
-  - title: 'Oxford Reference: Overview of Anishinaabe Religious Traditions'
+  - title: 'Oxford Reference — search results for "Anishinaabe Religious Traditions"'
     url: >-
       https://www.oxfordreference.com/search?q=Anishinaabe%20Religious%20Traditions
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Anishinaabe Religious Traditions"'
     url: 'https://ich.unesco.org/en/search?q=Anishinaabe%20Religious%20Traditions'
 artifacts:
   - title: "Ojibwe beaded bandolier bag (gashkibidaagan) in the Honolulu Museum of Art"

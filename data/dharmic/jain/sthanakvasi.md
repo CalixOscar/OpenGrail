@@ -37,10 +37,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sthānakavāsī Jainism"'
     url: 'https://www.britannica.com/topic/sth-nakav-s-jainism'
-  - title: 'Oxford Reference: Overview of Sthānakavāsī Jainism'
+  - title: 'Oxford Reference — search results for "Sthānakavāsī Jainism"'
     url: >-
       https://www.oxfordreference.com/search?q=Sth%C4%81nakav%C4%81s%C4%AB%20Jainism
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Sthānakavāsī Jainism"'
     url: >-
       https://www.rep.routledge.com/search?query=Sth%C4%81nakav%C4%81s%C4%AB%20Jainism
 artifacts:

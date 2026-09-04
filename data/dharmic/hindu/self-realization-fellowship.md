@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Self-Realization Fellowship"'
     url: 'https://www.britannica.com/topic/self-realization-fellowship'
-  - title: 'Oxford Reference: Overview of Self-Realization Fellowship'
+  - title: 'Oxford Reference — search results for "Self-Realization Fellowship"'
     url: 'https://www.oxfordreference.com/search?q=Self-Realization%20Fellowship'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Self-Realization Fellowship"'
     url: 'https://www.rep.routledge.com/search?query=Self-Realization%20Fellowship'
 artifacts:
   - title: "Press photograph of Paramahansa Yogananda with sculptor Ulric Dunbar, 1927"

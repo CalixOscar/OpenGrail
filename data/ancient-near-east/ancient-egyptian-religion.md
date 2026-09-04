@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ancient Egyptian Religion"'
     url: 'https://www.britannica.com/topic/ancient-egyptian-religion'
-  - title: 'Oxford Reference: Overview of Ancient Egyptian Religion'
+  - title: 'Oxford Reference — search results for "Ancient Egyptian Religion"'
     url: 'https://www.oxfordreference.com/search?q=Ancient%20Egyptian%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Ancient Egyptian Religion'
+  - title: 'Brill — search results for "Ancient Egyptian Religion"'
     url: 'https://brill.com/search?q=Ancient%20Egyptian%20Religion'
 artifacts:
   - title: "Vignette of the weighing of the heart before Osiris from the Papyrus of Nebseni (BM EA 9900)"

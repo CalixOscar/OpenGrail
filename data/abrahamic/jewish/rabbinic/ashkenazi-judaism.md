@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ashkenazi Judaism"'
     url: 'https://www.britannica.com/topic/ashkenazi-judaism'
-  - title: 'Oxford Reference: Overview of Ashkenazi Judaism'
+  - title: 'Oxford Reference — search results for "Ashkenazi Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Ashkenazi%20Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Ashkenazi Judaism'
+  - title: 'Cambridge Core — search results for "Ashkenazi Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Ashkenazi%20Judaism'
 artifacts:
   - title: "1174 CE Hebrew column capital inscription in the Worms Synagogue"

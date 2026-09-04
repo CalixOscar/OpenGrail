@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Moabite Religion"'
     url: 'https://www.britannica.com/topic/moabite-religion'
-  - title: 'Oxford Reference: Overview of Moabite Religion'
+  - title: 'Oxford Reference — search results for "Moabite Religion"'
     url: 'https://www.oxfordreference.com/search?q=Moabite%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Moabite Religion'
+  - title: 'Brill — search results for "Moabite Religion"'
     url: 'https://brill.com/search?q=Moabite%20Religion'
 artifacts:
   - title: "The Mesha Stele (Moabite Stone), Louvre Museum"

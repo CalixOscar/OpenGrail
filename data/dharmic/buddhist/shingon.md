@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Shingon Buddhism"'
     url: 'https://www.britannica.com/topic/shingon-buddhism'
-  - title: 'Oxford Reference: Overview of Shingon Buddhism'
+  - title: 'Oxford Reference — search results for "Shingon Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Shingon%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Shingon Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Shingon%20Buddhism'
 artifacts:
   - title: "Hanging scroll portrait of Esoteric Patriarch Amoghavajra with calligraphy by Kūkai at Tō-ji"

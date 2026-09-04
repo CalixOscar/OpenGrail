@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Roman Imperial Cult"'
     url: 'https://www.britannica.com/topic/roman-imperial-cult'
-  - title: 'Oxford Reference: Overview of Roman Imperial Cult'
+  - title: 'Oxford Reference — search results for "Roman Imperial Cult"'
     url: 'https://www.oxfordreference.com/search?q=Roman%20Imperial%20Cult'
-  - title: 'Brill Handbook of Religious Traditions: Roman Imperial Cult'
+  - title: 'Brill — search results for "Roman Imperial Cult"'
     url: 'https://brill.com/search?q=Roman%20Imperial%20Cult'
 artifacts:
   - title: "Augustus of Prima Porta statue, Vatican Museums"

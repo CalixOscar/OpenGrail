@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Mexicayotl"'
     url: 'https://www.britannica.com/topic/mexicayotl'
-  - title: 'Oxford Reference: Overview of Mexicayotl'
+  - title: 'Oxford Reference — search results for "Mexicayotl"'
     url: 'https://www.oxfordreference.com/search?q=Mexicayotl'
-  - title: 'Brill Handbook of Religious Traditions: Mexicayotl'
+  - title: 'Brill — search results for "Mexicayotl"'
     url: 'https://brill.com/search?q=Mexicayotl'
 artifacts:
   - title: "Conchero performers in feather regalia dancing Danza Azteca in Mexico City"

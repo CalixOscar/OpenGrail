@@ -46,10 +46,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hoodoo / African American Conjure"'
     url: 'https://www.britannica.com/topic/hoodoo-african-american-conjure'
-  - title: 'Oxford Reference: Overview of Hoodoo / African American Conjure'
+  - title: 'Oxford Reference — search results for "Hoodoo / African American Conjure"'
     url: >-
       https://www.oxfordreference.com/search?q=Hoodoo%20%2F%20African%20American%20Conjure
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Hoodoo / African American Conjure"'
     url: >-
       https://ich.unesco.org/en/search?q=Hoodoo%20%2F%20African%20American%20Conjure
 ---

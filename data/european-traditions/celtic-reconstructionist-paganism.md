@@ -53,10 +53,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Celtic Reconstructionist Paganism"'
     url: 'https://www.britannica.com/topic/celtic-reconstructionist-paganism'
-  - title: 'Oxford Reference: Overview of Celtic Reconstructionist Paganism'
+  - title: 'Oxford Reference — search results for "Celtic Reconstructionist Paganism"'
     url: >-
       https://www.oxfordreference.com/search?q=Celtic%20Reconstructionist%20Paganism
-  - title: 'Brill Handbook of Religious Traditions: Celtic Reconstructionist Paganism'
+  - title: 'Brill — search results for "Celtic Reconstructionist Paganism"'
     url: 'https://brill.com/search?q=Celtic%20Reconstructionist%20Paganism'
 artifacts:
   - title: "The Turoe Stone, carved Iron Age granite monolith in County Galway, Ireland"

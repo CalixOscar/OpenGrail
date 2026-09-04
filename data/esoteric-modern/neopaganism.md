@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Modern Paganism"'
     url: 'https://www.britannica.com/topic/modern-paganism'
-  - title: 'Oxford Reference: Overview of Modern Paganism'
+  - title: 'Oxford Reference — search results for "Modern Paganism"'
     url: 'https://www.oxfordreference.com/search?q=Modern%20Paganism'
-  - title: 'Brill Handbook of Religious Traditions: Modern Paganism'
+  - title: 'Brill — search results for "Modern Paganism"'
     url: 'https://brill.com/search?q=Modern%20Paganism'
 artifacts:
   - title: "Closing Norse ritual at Salt Lake City Pagan Pride Day 2015"

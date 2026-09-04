@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Modern Druidry"'
     url: 'https://www.britannica.com/topic/modern-druidry'
-  - title: 'Oxford Reference: Overview of Modern Druidry'
+  - title: 'Oxford Reference — search results for "Modern Druidry"'
     url: 'https://www.oxfordreference.com/search?q=Modern%20Druidry'
-  - title: 'Brill Handbook of Religious Traditions: Modern Druidry'
+  - title: 'Brill — search results for "Modern Druidry"'
     url: 'https://brill.com/search?q=Modern%20Druidry'
 artifacts:
   - title: "Modern Druids in ritual robes observing the setting moon at Stonehenge"

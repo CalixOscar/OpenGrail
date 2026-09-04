@@ -52,9 +52,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Gnostic Traditions"'
     url: 'https://www.britannica.com/topic/gnostic-traditions'
-  - title: 'Oxford Reference: Overview of Gnostic Traditions'
+  - title: 'Oxford Reference — search results for "Gnostic Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Gnostic%20Traditions'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Gnostic Traditions'
+  - title: 'Cambridge Core — search results for "Gnostic Traditions"'
     url: 'https://www.cambridge.org/core/search?q=Gnostic%20Traditions'
 artifacts:
   - title: "Roman intaglio gem depicting the anguiped deity Abraxas"

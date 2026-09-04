@@ -35,11 +35,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Reconstructionist Judaism"'
     url: 'https://www.britannica.com/topic/reconstructionist-judaism'
-  - title: 'Oxford Reference: Overview of Reconstructionist Judaism'
+  - title: 'Oxford Reference — search results for "Reconstructionist Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Reconstructionist%20Judaism'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Reconstructionist
-      Judaism
+  - title: 'Cambridge Core — search results for "Reconstructionist Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Reconstructionist%20Judaism'
 artifacts:
   - title: "Society for the Advancement of Judaism (SAJ) in Manhattan"

@@ -46,9 +46,9 @@ sources:
   - title: 'Dave Evans, The History of British Magick after Crowley (2007)'
   - title: 'Encyclopaedia Britannica: "Chaos Magic"'
     url: 'https://www.britannica.com/topic/chaos-magic'
-  - title: 'Oxford Reference: Overview of Chaos Magic'
+  - title: 'Oxford Reference — search results for "Chaos Magic"'
     url: 'https://www.oxfordreference.com/search?q=Chaos%20Magic'
-  - title: 'Brill Handbook of Religious Traditions: Chaos Magic'
+  - title: 'Brill — search results for "Chaos Magic"'
     url: 'https://brill.com/search?q=Chaos%20Magic'
 artifacts:
   - title: "Tarot card depicting the eight-pointed Star of Chaos (Chaosphere)"

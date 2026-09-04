@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Druze Faith"'
     url: 'https://www.britannica.com/topic/druze-faith'
-  - title: 'Oxford Reference: Overview of Druze Faith'
+  - title: 'Oxford Reference — search results for "Druze Faith"'
     url: 'https://www.oxfordreference.com/search?q=Druze%20Faith'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Druze Faith'
+  - title: 'Cambridge Core — search results for "Druze Faith"'
     url: 'https://www.cambridge.org/core/search?q=Druze%20Faith'
 artifacts:
   - title: "Shrine and sacred oak grove of Nabi Sabalan in Hurfeish"

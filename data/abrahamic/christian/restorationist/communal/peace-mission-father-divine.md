@@ -40,7 +40,7 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Father Divine'
     url: 'https://www.britannica.com/biography/Father-Divine'
-  - title: 'Oxford Reference: Peace Mission Movement'
+  - title: 'Oxford Reference — search results for "Father Divine"'
     url: 'https://www.oxfordreference.com/search?q=Father+Divine'
   - title: 'University of Illinois Press: God, Harlem U.S.A.: The Father Divine Story (Jill Watts)'
     url: 'https://www.press.uillinois.edu/books/?id=68xbf2rk9780252062490'

@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ordo Templi Orientis"'
     url: 'https://www.britannica.com/topic/ordo-templi-orientis'
-  - title: 'Oxford Reference: Overview of Ordo Templi Orientis'
+  - title: 'Oxford Reference — search results for "Ordo Templi Orientis"'
     url: 'https://www.oxfordreference.com/search?q=Ordo%20Templi%20Orientis'
-  - title: 'Brill Handbook of Religious Traditions: Ordo Templi Orientis'
+  - title: 'Brill — search results for "Ordo Templi Orientis"'
     url: 'https://brill.com/search?q=Ordo%20Templi%20Orientis'
 artifacts:
   - title: "Aleister Crowley in Ordo Templi Orientis ceremonial regalia by Arnold Genthe"

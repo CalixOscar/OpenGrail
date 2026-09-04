@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Khlysty'
     url: 'https://www.britannica.com/topic/Khlysty'
-  - title: 'Oxford Reference: Khlysty'
+  - title: 'Oxford Reference — search results for "Khlysty"'
     url: 'https://www.oxfordreference.com/search?q=Khlysty'
-  - title: 'Brill: Russian Sectarian Mysticism'
+  - title: 'Brill — search results for "Khlysty Russian Sectarianism"'
     url: 'https://brill.com/search?q=Khlysty+Russian+Sectarianism'
 artifacts:
   - title: "Khlyst ecstatic ritual (radenie)"

@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Pre-exilic Yahwism"'
     url: 'https://www.britannica.com/topic/pre-exilic-yahwism'
-  - title: 'Oxford Reference: Overview of Pre-exilic Yahwism'
+  - title: 'Oxford Reference — search results for "Pre-exilic Yahwism"'
     url: 'https://www.oxfordreference.com/search?q=Pre-exilic%20Yahwism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Pre-exilic Yahwism'
+  - title: 'Cambridge Core — search results for "Pre-exilic Yahwism"'
     url: 'https://www.cambridge.org/core/search?q=Pre-exilic%20Yahwism'
 artifacts:
   - title: "Pithos depiction with inscription referencing 'Yahweh and his Asherah' from Kuntillet Ajrud"

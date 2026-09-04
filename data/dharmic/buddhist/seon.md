@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Seon Buddhism"'
     url: 'https://www.britannica.com/topic/seon-buddhism'
-  - title: 'Oxford Reference: Overview of Seon Buddhism'
+  - title: 'Oxford Reference — search results for "Seon Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Seon%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Seon Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Seon%20Buddhism'
 artifacts:
   - title: "Joseon-era portrait of National Preceptor Bojo Jinul at Songgwangsa Temple"

@@ -45,12 +45,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Church of Christ, Scientist"'
     url: 'https://www.britannica.com/topic/church-of-christ-scientist'
-  - title: 'Oxford Reference: Overview of Church of Christ, Scientist'
+  - title: 'Oxford Reference — search results for "Church of Christ, Scientist"'
     url: >-
       https://www.oxfordreference.com/search?q=Church%20of%20Christ%2C%20Scientist
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Church of Christ,
-      Scientist
+  - title: 'Cambridge Core — search results for "Church of Christ, Scientist"'
     url: >-
       https://www.cambridge.org/core/search?q=Church%20of%20Christ%2C%20Scientist
 artifacts:

@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "San Religious Traditions"'
     url: 'https://www.britannica.com/topic/san-religious-traditions'
-  - title: 'Oxford Reference: Overview of San Religious Traditions'
+  - title: 'Oxford Reference — search results for "San Religious Traditions"'
     url: 'https://www.oxfordreference.com/search?q=San%20Religious%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "San Religious Traditions"'
     url: 'https://ich.unesco.org/en/search?q=San%20Religious%20Traditions'
 artifacts:
   - title: "The \"White Lady\" rock art panel at Brandberg Mountain, Namibia"

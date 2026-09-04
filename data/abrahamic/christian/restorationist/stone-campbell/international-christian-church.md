@@ -37,12 +37,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "International Christian Church"'
     url: 'https://www.britannica.com/topic/international-christian-church'
-  - title: 'Oxford Reference: Overview of International Christian Church'
+  - title: 'Oxford Reference — search results for "International Christian Church"'
     url: >-
       https://www.oxfordreference.com/search?q=International%20Christian%20Church
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & International
-      Christian Church
+  - title: 'Cambridge Core — search results for "International Christian Church"'
     url: 'https://www.cambridge.org/core/search?q=International%20Christian%20Church'
 artifacts:
   - title: "Mercy Day Conference 2015 of the City of Angels International Christian Church"

@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Shaykhism"'
     url: 'https://www.britannica.com/topic/shaykhism'
-  - title: 'Oxford Reference: Overview of Shaykhism'
+  - title: 'Oxford Reference — search results for "Shaykhism"'
     url: 'https://www.oxfordreference.com/search?q=Shaykhism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Shaykhism'
+  - title: 'Cambridge Core — search results for "Shaykhism"'
     url: 'https://www.cambridge.org/core/search?q=Shaykhism'
 artifacts:
   - title: "19th-century portrait drawing of Shaykh Ahmad al-Ahsa'i"

@@ -30,9 +30,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ananda Marga"'
     url: 'https://www.britannica.com/topic/Ananda-Marga'
-  - title: 'Helen Crovetto: "Ananda Marga and the Use of Force"'
+  - title: 'Brill — search results for "Ananda Marga Crovetto"'
     url: 'https://brill.com/search?q=Ananda+Marga+Crovetto'
-  - title: 'Sohail Inayatullah: "Understanding Sarkar: The Later Intellectual Biography of P. R. Sarkar"'
+  - title: 'Brill — search results for "Inayatullah Sarkar"'
     url: 'https://brill.com/search?q=Inayatullah+Sarkar'
 relations:
   - target: shakta-tantra

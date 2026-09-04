@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Churches of Christ"'
     url: 'https://www.britannica.com/topic/churches-of-christ'
-  - title: 'Oxford Reference: Overview of Churches of Christ'
+  - title: 'Oxford Reference — search results for "Churches of Christ"'
     url: 'https://www.oxfordreference.com/search?q=Churches%20of%20Christ'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Churches of Christ'
+  - title: 'Cambridge Core — search results for "Churches of Christ"'
     url: 'https://www.cambridge.org/core/search?q=Churches%20of%20Christ'
 artifacts:
   - title: "Portrait of Alexander Campbell"

@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Dangun Veneration"'
     url: 'https://www.britannica.com/topic/dangun-veneration'
-  - title: 'Oxford Reference: Overview of Dangun Veneration'
+  - title: 'Oxford Reference — search results for "Dangun Veneration"'
     url: 'https://www.oxfordreference.com/search?q=Dangun%20Veneration'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Dangun Veneration"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Dangun%20Veneration'
 artifacts:
   - title: "Samseonggung shrine on Mount Jiri dedicated to Dangun and ancestral deities"

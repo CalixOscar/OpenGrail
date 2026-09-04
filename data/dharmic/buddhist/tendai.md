@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Tendai Buddhism"'
     url: 'https://www.britannica.com/topic/tendai-buddhism'
-  - title: 'Oxford Reference: Overview of Tendai Buddhism'
+  - title: 'Oxford Reference — search results for "Tendai Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Tendai%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Tendai Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Tendai%20Buddhism'
 artifacts:
   - title: "18th-century hanging scroll portrait of Dengyō Daishi (Saichō) from the Metropolitan Museum of Art"

@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Arya Samaj"'
     url: 'https://www.britannica.com/topic/arya-samaj'
-  - title: 'Oxford Reference: Overview of Arya Samaj'
+  - title: 'Oxford Reference — search results for "Arya Samaj"'
     url: 'https://www.oxfordreference.com/search?q=Arya%20Samaj'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Arya Samaj"'
     url: 'https://www.rep.routledge.com/search?query=Arya%20Samaj'
 artifacts:
   - title: "Portrait of Swami Dayananda Saraswati from the 1911 Andhra Patrika"

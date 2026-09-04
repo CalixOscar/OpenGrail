@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Roman Religion"'
     url: 'https://www.britannica.com/topic/roman-religion'
-  - title: 'Oxford Reference: Overview of Roman Religion'
+  - title: 'Oxford Reference — search results for "Roman Religion"'
     url: 'https://www.oxfordreference.com/search?q=Roman%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Roman Religion'
+  - title: 'Brill — search results for "Roman Religion"'
     url: 'https://brill.com/search?q=Roman%20Religion'
 artifacts:
   - title: "Roman terracotta oil lamp depicting the Capitoline Triad (Jupiter, Juno, Minerva), Staatliche Antikensammlungen"

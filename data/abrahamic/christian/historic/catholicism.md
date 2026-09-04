@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Catholicism"'
     url: 'https://www.britannica.com/topic/catholicism'
-  - title: 'Oxford Reference: Overview of Catholicism'
+  - title: 'Oxford Reference — search results for "Catholicism"'
     url: 'https://www.oxfordreference.com/search?q=Catholicism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Catholicism'
+  - title: 'Cambridge Core — search results for "Catholicism"'
     url: 'https://www.cambridge.org/core/search?q=Catholicism'
 artifacts:
   - title: "Panoramic view of Saint Peter's Basilica and Square from Castel Sant'Angelo"

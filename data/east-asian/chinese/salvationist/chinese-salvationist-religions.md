@@ -47,10 +47,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Chinese Salvationist Religions"'
     url: 'https://www.britannica.com/topic/chinese-salvationist-religions'
-  - title: 'Oxford Reference: Overview of Chinese Salvationist Religions'
+  - title: 'Oxford Reference — search results for "Chinese Salvationist Religions"'
     url: >-
       https://www.oxfordreference.com/search?q=Chinese%20Salvationist%20Religions
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Chinese Salvationist Religions"'
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Chinese%20Salvationist%20Religions
 artifacts:

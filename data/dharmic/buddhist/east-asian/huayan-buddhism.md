@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Huayan Buddhism"'
     url: 'https://www.britannica.com/topic/huayan-buddhism'
-  - title: 'Oxford Reference: Overview of Huayan Buddhism'
+  - title: 'Oxford Reference — search results for "Huayan Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Huayan%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Huayan Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Huayan%20Buddhism'
 artifacts:
   - title: "Colossal rock-cut Vairocana Buddha at Fengxian Temple, Longmen Grottoes"

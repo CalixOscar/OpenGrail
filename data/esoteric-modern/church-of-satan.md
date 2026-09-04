@@ -37,9 +37,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Church of Satan"'
     url: 'https://www.britannica.com/topic/church-of-satan'
-  - title: 'Oxford Reference: Overview of Church of Satan'
+  - title: 'Oxford Reference — search results for "Church of Satan"'
     url: 'https://www.oxfordreference.com/search?q=Church%20of%20Satan'
-  - title: 'Brill Handbook of Religious Traditions: Church of Satan'
+  - title: 'Brill — search results for "Church of Satan"'
     url: 'https://brill.com/search?q=Church%20of%20Satan'
 artifacts:
   - title: "Anton LaVey officiating a Satanic wedding in 1967"

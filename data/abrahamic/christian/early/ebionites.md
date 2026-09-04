@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ebionites"'
     url: 'https://www.britannica.com/topic/ebionites'
-  - title: 'Oxford Reference: Overview of Ebionites'
+  - title: 'Oxford Reference — search results for "Ebionites"'
     url: 'https://www.oxfordreference.com/search?q=Ebionites'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Ebionites'
+  - title: 'Cambridge Core — search results for "Ebionites"'
     url: 'https://www.cambridge.org/core/search?q=Ebionites'
 artifacts:
   - title: "Icon of the Consecration of Saint James the Just as Bishop of Jerusalem"

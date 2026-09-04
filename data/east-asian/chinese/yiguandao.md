@@ -50,9 +50,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Yiguandao"'
     url: 'https://www.britannica.com/topic/yiguandao'
-  - title: 'Oxford Reference: Overview of Yiguandao'
+  - title: 'Oxford Reference — search results for "Yiguandao"'
     url: 'https://www.oxfordreference.com/search?q=Yiguandao'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Yiguandao"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Yiguandao'
 artifacts:
   - title: "Maha Vihara Duta Maitreya temple complex in Batam, Indonesia"

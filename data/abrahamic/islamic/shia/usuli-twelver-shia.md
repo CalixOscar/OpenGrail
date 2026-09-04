@@ -40,11 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Usuli Twelver Shiism"'
     url: 'https://www.britannica.com/topic/usuli-twelver-shiism'
-  - title: 'Oxford Reference: Overview of Usuli Twelver Shiism'
+  - title: 'Oxford Reference — search results for "Usuli Twelver Shiism"'
     url: 'https://www.oxfordreference.com/search?q=Usuli%20Twelver%20Shiism'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Usuli Twelver
-      Shiism
+  - title: 'Cambridge Core — search results for "Usuli Twelver Shiism"'
     url: 'https://www.cambridge.org/core/search?q=Usuli%20Twelver%20Shiism'
 artifacts:
   - title: "Calligraphic design of the name of Usuli jurist Murtada al-Ansari"

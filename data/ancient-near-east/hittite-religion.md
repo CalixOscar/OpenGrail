@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hittite Religion"'
     url: 'https://www.britannica.com/topic/hittite-religion'
-  - title: 'Oxford Reference: Overview of Hittite Religion'
+  - title: 'Oxford Reference — search results for "Hittite Religion"'
     url: 'https://www.oxfordreference.com/search?q=Hittite%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Hittite Religion'
+  - title: 'Brill — search results for "Hittite Religion"'
     url: 'https://brill.com/search?q=Hittite%20Religion'
 artifacts:
   - title: "Relief of the Twelve Underworld Gods in Chamber B of the rock sanctuary at Yazılıkaya"

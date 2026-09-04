@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Athari Theology"'
     url: 'https://www.britannica.com/topic/athari-theology'
-  - title: 'Oxford Reference: Overview of Athari Theology'
+  - title: 'Oxford Reference — search results for "Athari Theology"'
     url: 'https://www.oxfordreference.com/search?q=Athari%20Theology'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Athari Theology'
+  - title: 'Cambridge Core — search results for "Athari Theology"'
     url: 'https://www.cambridge.org/core/search?q=Athari%20Theology'
 artifacts:
   - title: "Calligraphic emblem of Shaykh al-Islam Ibn Taymiyyah in Thuluth script"

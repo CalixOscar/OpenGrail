@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Church of England"'
     url: 'https://www.britannica.com/topic/church-of-england'
-  - title: 'Oxford Reference: Overview of Church of England'
+  - title: 'Oxford Reference — search results for "Church of England"'
     url: 'https://www.oxfordreference.com/search?q=Church%20of%20England'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of England'
+  - title: 'Cambridge Core — search results for "Church of England"'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20England'
 artifacts:
   - title: "Archbishop of Canterbury Frederick Temple in 1900"

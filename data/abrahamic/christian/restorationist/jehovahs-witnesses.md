@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Jehovah''s Witnesses"'
     url: 'https://www.britannica.com/topic/jehovah-s-witnesses'
-  - title: 'Oxford Reference: Overview of Jehovah''s Witnesses'
+  - title: 'Oxford Reference — search results for "Jehovah''''s Witnesses"'
     url: 'https://www.oxfordreference.com/search?q=Jehovah''s%20Witnesses'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Jehovah''s Witnesses'
+  - title: 'Cambridge Core — search results for "Jehovah''''s Witnesses"'
     url: 'https://www.cambridge.org/core/search?q=Jehovah''s%20Witnesses'
 artifacts:
   - title: "Photographic portrait of Charles Taze Russell (1910, Library of Congress)"

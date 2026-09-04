@@ -35,9 +35,9 @@ key_tenets:
 sources:
   - title: 'The Canadian Encyclopedia: Roch Thériault and the Ant Hill Kids'
     url: 'https://www.thecanadianencyclopedia.ca/en/article/roch-theriault'
-  - title: 'Routledge: Cults, Converts and Charisma (Thomas Robbins)'
+  - title: 'Routledge — search results for "Theriault"'
     url: 'https://www.routledge.com/search?kw=Theriault'
-  - title: 'University of Toronto Press: Savage Messiah (Paul Kaihla and Ross Laver)'
+  - title: 'University of Toronto Press — search results for "Savage Messiah"'
     url: 'https://utorontopress.com/search-results/?keyword=Savage+Messiah'
 relations:
   - target: adventism

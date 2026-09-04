@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Falun Gong"'
     url: 'https://www.britannica.com/topic/falun-gong'
-  - title: 'Oxford Reference: Overview of Falun Gong'
+  - title: 'Oxford Reference — search results for "Falun Gong"'
     url: 'https://www.oxfordreference.com/search?q=Falun%20Gong'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Falun Gong"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Falun%20Gong'
 artifacts:
   - title: "The Falun emblem of Falun Dafa"

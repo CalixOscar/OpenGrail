@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ahmadiyya"'
     url: 'https://www.britannica.com/topic/ahmadiyya'
-  - title: 'Oxford Reference: Overview of Ahmadiyya'
+  - title: 'Oxford Reference — search results for "Ahmadiyya"'
     url: 'https://www.oxfordreference.com/search?q=Ahmadiyya'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Ahmadiyya'
+  - title: 'Cambridge Core — search results for "Ahmadiyya"'
     url: 'https://www.cambridge.org/core/search?q=Ahmadiyya'
 artifacts:
   - title: "Courtyard of the Mubarak Mosque in Qadian, India"

@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Neoplatonism"'
     url: 'https://www.britannica.com/topic/neoplatonism'
-  - title: 'Oxford Reference: Overview of Neoplatonism'
+  - title: 'Oxford Reference — search results for "Neoplatonism"'
     url: 'https://www.oxfordreference.com/search?q=Neoplatonism'
-  - title: 'Brill Handbook of Religious Traditions: Neoplatonism'
+  - title: 'Brill — search results for "Neoplatonism"'
     url: 'https://brill.com/search?q=Neoplatonism'
 artifacts:
   - title: "Opening folio of Proclus's Platonic Theology, Biblioteca Marciana Gr. 547"

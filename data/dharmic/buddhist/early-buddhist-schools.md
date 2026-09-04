@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Early Buddhist Schools"'
     url: 'https://www.britannica.com/topic/early-buddhist-schools'
-  - title: 'Oxford Reference: Overview of Early Buddhist Schools'
+  - title: 'Oxford Reference — search results for "Early Buddhist Schools"'
     url: 'https://www.oxfordreference.com/search?q=Early%20Buddhist%20Schools'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Early Buddhist Schools"'
     url: 'https://www.rep.routledge.com/search?query=Early%20Buddhist%20Schools'
 artifacts:
   - title: "Sandstone railing relief of a royal couple visiting the Buddha from the Bharhut Stupa"

@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "The New Church"'
     url: 'https://www.britannica.com/topic/the-new-church'
-  - title: 'Oxford Reference: Overview of The New Church'
+  - title: 'Oxford Reference — search results for "The New Church"'
     url: 'https://www.oxfordreference.com/search?q=The%20New%20Church'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & The New Church'
+  - title: 'Cambridge Core — search results for "The New Church"'
     url: 'https://www.cambridge.org/core/search?q=The%20New%20Church'
 artifacts:
   - title: "Portrait of Emanuel Swedenborg by Carl Frederik von Breda"

@@ -29,9 +29,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Seichō-no-Ie'
     url: 'https://www.britannica.com/topic/Seicho-no-Ie'
-  - title: 'Oxford Reference: Seichō-no-Ie'
+  - title: 'Oxford Reference — search results for "Seicho-no-Ie"'
     url: 'https://www.oxfordreference.com/search?q=Seicho-no-Ie'
-  - title: 'Brill: Studies on Japanese New Religions'
+  - title: 'Brill — search results for "Seicho-no-Ie"'
     url: 'https://brill.com/search?q=Seicho-no-Ie'
 relations:
   - target: shinto

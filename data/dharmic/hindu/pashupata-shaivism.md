@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Pāśupata Śaivism"'
     url: 'https://www.britannica.com/topic/p-upata-aivism'
-  - title: 'Oxford Reference: Overview of Pāśupata Śaivism'
+  - title: 'Oxford Reference — search results for "Pāśupata Śaivism"'
     url: 'https://www.oxfordreference.com/search?q=P%C4%81%C5%9Bupata%20%C5%9Aaivism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Pāśupata Śaivism"'
     url: >-
       https://www.rep.routledge.com/search?query=P%C4%81%C5%9Bupata%20%C5%9Aaivism
 artifacts:

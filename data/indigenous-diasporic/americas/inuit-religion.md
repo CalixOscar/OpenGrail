@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Inuit Religions"'
     url: 'https://www.britannica.com/topic/inuit-religions'
-  - title: 'Oxford Reference: Overview of Inuit Religions'
+  - title: 'Oxford Reference — search results for "Inuit Religions"'
     url: 'https://www.oxfordreference.com/search?q=Inuit%20Religions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Inuit Religions"'
     url: 'https://ich.unesco.org/en/search?q=Inuit%20Religions'
 artifacts:
   - title: "Carved walrus ivory animal amulets used by shamans and hunters"

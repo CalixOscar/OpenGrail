@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Won Buddhism"'
     url: 'https://www.britannica.com/topic/won-buddhism'
-  - title: 'Oxford Reference: Overview of Won Buddhism'
+  - title: 'Oxford Reference — search results for "Won Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Won%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Won Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Won%20Buddhism'
 artifacts:
   - title: "Won Buddhist hall of worship in Changnyeong, South Korea"

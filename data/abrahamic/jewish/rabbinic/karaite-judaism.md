@@ -36,9 +36,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Karaite Judaism"'
     url: 'https://www.britannica.com/topic/karaite-judaism'
-  - title: 'Oxford Reference: Overview of Karaite Judaism'
+  - title: 'Oxford Reference — search results for "Karaite Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Karaite%20Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Karaite Judaism'
+  - title: 'Cambridge Core — search results for "Karaite Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Karaite%20Judaism'
 artifacts:
   - title: "Altar of the Karaite Kenesa in Trakai, Lithuania"

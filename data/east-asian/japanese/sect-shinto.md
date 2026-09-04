@@ -37,9 +37,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sect Shinto"'
     url: 'https://www.britannica.com/topic/sect-shinto'
-  - title: 'Oxford Reference: Overview of Sect Shinto'
+  - title: 'Oxford Reference — search results for "Sect Shinto"'
     url: 'https://www.oxfordreference.com/search?q=Sect%20Shinto'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Sect Shinto"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Sect%20Shinto'
 artifacts:
   - title: "Kurozumikyō delegation at the Taipei Bao-an Temple parade"

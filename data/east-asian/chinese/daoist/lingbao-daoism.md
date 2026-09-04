@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Lingbao Daoism"'
     url: 'https://www.britannica.com/topic/lingbao-daoism'
-  - title: 'Oxford Reference: Overview of Lingbao Daoism'
+  - title: 'Oxford Reference — search results for "Lingbao Daoism"'
     url: 'https://www.oxfordreference.com/search?q=Lingbao%20Daoism'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Lingbao Daoism"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Lingbao%20Daoism'
 artifacts:
   - title: "Hanging scroll of Lingbao Tianzun (The Three Purities), Ming Dynasty, Minneapolis Institute of Art"

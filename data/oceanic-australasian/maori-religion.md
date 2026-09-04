@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Māori Religion"'
     url: 'https://www.britannica.com/topic/m-ori-religion'
-  - title: 'Oxford Reference: Overview of Māori Religion'
+  - title: 'Oxford Reference — search results for "Māori Religion"'
     url: 'https://www.oxfordreference.com/search?q=M%C4%81ori%20Religion'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Māori Religion"'
     url: 'https://ich.unesco.org/en/search?q=M%C4%81ori%20Religion'
 artifacts:
   - title: "19th-century Māori hei-tiki pounamu pendant at the Bishop Museum"

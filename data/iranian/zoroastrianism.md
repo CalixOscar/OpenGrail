@@ -35,9 +35,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Zoroastrianism"'
     url: 'https://www.britannica.com/topic/zoroastrianism'
-  - title: 'Oxford Reference: Overview of Zoroastrianism'
+  - title: 'Oxford Reference — search results for "Zoroastrianism"'
     url: 'https://www.oxfordreference.com/search?q=Zoroastrianism'
-  - title: 'Brill Handbook of Religious Traditions: Zoroastrianism'
+  - title: 'Brill — search results for "Zoroastrianism"'
     url: 'https://brill.com/search?q=Zoroastrianism'
 artifacts:
   - title: "Stone-carved Faravahar relief at Persepolis"

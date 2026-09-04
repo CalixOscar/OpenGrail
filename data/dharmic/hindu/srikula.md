@@ -41,10 +41,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Śrīkula / Śrīvidyā"'
     url: 'https://www.britannica.com/topic/-r-kula-r-vidy-'
-  - title: 'Oxford Reference: Overview of Śrīkula / Śrīvidyā'
+  - title: 'Oxford Reference — search results for "Śrīkula / Śrīvidyā"'
     url: >-
       https://www.oxfordreference.com/search?q=%C5%9Ar%C4%ABkula%20%2F%20%C5%9Ar%C4%ABvidy%C4%81
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Śrīkula / Śrīvidyā"'
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%ABkula%20%2F%20%C5%9Ar%C4%ABvidy%C4%81
 artifacts:

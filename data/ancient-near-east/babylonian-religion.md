@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Babylonian Religion"'
     url: 'https://www.britannica.com/topic/babylonian-religion'
-  - title: 'Oxford Reference: Overview of Babylonian Religion'
+  - title: 'Oxford Reference — search results for "Babylonian Religion"'
     url: 'https://www.oxfordreference.com/search?q=Babylonian%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Babylonian Religion'
+  - title: 'Brill — search results for "Babylonian Religion"'
     url: 'https://brill.com/search?q=Babylonian%20Religion'
 artifacts:
   - title: "Glazed brick relief of a Mušḫuššu dragon from the Processional Way in Babylon, Istanbul Archaeology Museums"

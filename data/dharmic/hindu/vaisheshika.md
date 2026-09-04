@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Vaiśeṣika"'
     url: 'https://www.britannica.com/topic/vai-e-ika'
-  - title: 'Oxford Reference: Overview of Vaiśeṣika'
+  - title: 'Oxford Reference — search results for "Vaiśeṣika"'
     url: 'https://www.oxfordreference.com/search?q=Vai%C5%9Be%E1%B9%A3ika'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Vaiśeṣika"'
     url: 'https://www.rep.routledge.com/search?query=Vai%C5%9Be%E1%B9%A3ika'
 ---
 

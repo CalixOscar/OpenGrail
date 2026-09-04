@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Zealots"'
     url: 'https://www.britannica.com/topic/zealots'
-  - title: 'Oxford Reference: Overview of Zealots'
+  - title: 'Oxford Reference — search results for "Zealots"'
     url: 'https://www.oxfordreference.com/search?q=Zealots'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Zealots'
+  - title: 'Cambridge Core — search results for "Zealots"'
     url: 'https://www.cambridge.org/core/search?q=Zealots'
 artifacts:
   - title: "Aerial view of the desert plateau of Masada"

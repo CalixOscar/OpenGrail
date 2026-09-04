@@ -44,7 +44,7 @@ sources:
     url: 'https://sunypress.edu/Books/R/Restoring-Paradise'
   - title: 'Antoine Faivre: "Access to Western Esotericism"'
     url: 'https://sunypress.edu/Books/A/Access-to-Western-Esotericism'
-  - title: 'Oxford Reference: Overview of Martinism'
+  - title: 'Oxford Reference — search results for "Martinism"'
     url: 'https://www.oxfordreference.com/search?q=Martinism'
 artifacts:
   - title: "Léonard Joseph Prunelle de Lière's Élus Coëns notebook"

@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Despoina'
     url: 'https://www.britannica.com/topic/Despoina'
-  - title: 'Oxford Classical Dictionary: Despoina'
+  - title: 'Oxford Reference — search results for "Despoina"'
     url: 'https://www.oxfordreference.com/search?q=Despoina'
-  - title: 'Brill New Pauly: Despoina (cult)'
+  - title: 'Brill — search results for "Despoina"'
     url: 'https://brill.com/search?q=Despoina'
 artifacts:
   - title: "Colossal marble head of Demeter from the Sanctuary of Despoina"

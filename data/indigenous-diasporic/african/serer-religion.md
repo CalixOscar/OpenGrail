@@ -35,9 +35,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Serer Religion"'
     url: 'https://www.britannica.com/topic/serer-religion'
-  - title: 'Oxford Reference: Overview of Serer Religion'
+  - title: 'Oxford Reference — search results for "Serer Religion"'
     url: 'https://www.oxfordreference.com/search?q=Serer%20Religion'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Serer Religion"'
     url: 'https://ich.unesco.org/en/search?q=Serer%20Religion'
 artifacts:
   - title: "Senegambian megalithic stone circles in Senegal"

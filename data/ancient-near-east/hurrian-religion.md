@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hurrian Religion"'
     url: 'https://www.britannica.com/topic/hurrian-religion'
-  - title: 'Oxford Reference: Overview of Hurrian Religion'
+  - title: 'Oxford Reference — search results for "Hurrian Religion"'
     url: 'https://www.oxfordreference.com/search?q=Hurrian%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Hurrian Religion'
+  - title: 'Brill — search results for "Hurrian Religion"'
     url: 'https://brill.com/search?q=Hurrian%20Religion'
 artifacts:
   - title: "19th-century engraving by Charles Texier of the Hurrian god Sharruma and deities at Yazılıkaya"

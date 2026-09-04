@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Mycenaean Religion'
     url: 'https://www.britannica.com/topic/Greek-religion/The-Mycenaean-period'
-  - title: 'Oxford Classical Dictionary: Mycenaean Religion'
+  - title: 'Oxford Reference — search results for "Mycenaean Religion"'
     url: 'https://www.oxfordreference.com/search?q=Mycenaean+Religion'
-  - title: 'Cambridge University Press: The Religion of the Mycenaeans'
+  - title: 'Cambridge Core — search results for "Mycenaean Religion"'
     url: 'https://www.cambridge.org/core/search?q=Mycenaean+Religion'
 artifacts:
   - title: "Inscribed Linear B clay tablet from the Palace of Nestor at Pylos"

@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Church of God"'
     url: 'https://www.britannica.com/topic/church-of-god'
-  - title: 'Oxford Reference: Overview of Church of God'
+  - title: 'Oxford Reference — search results for "Church of God"'
     url: 'https://www.oxfordreference.com/search?q=Church%20of%20God'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of God'
+  - title: 'Cambridge Core — search results for "Church of God"'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20God'
 artifacts:
   - title: "Church of God (Seventh Day) building in Harrisburg, Oregon"

@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ancestor Veneration"'
     url: 'https://www.britannica.com/topic/ancestor-veneration'
-  - title: 'Oxford Reference: Overview of Ancestor Veneration'
+  - title: 'Oxford Reference — search results for "Ancestor Veneration"'
     url: 'https://www.oxfordreference.com/search?q=Ancestor%20Veneration'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Ancestor Veneration"'
     url: 'https://ich.unesco.org/en/search?q=Ancestor%20Veneration'
 artifacts:
   - title: "Spirit tablet of Confucius in the Hall of the Great Sage, Beijing (photographed by John Thomson, c. 1871)"

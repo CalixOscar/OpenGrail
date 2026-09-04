@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Shadhiliyya"'
     url: 'https://www.britannica.com/topic/shadhiliyya'
-  - title: 'Oxford Reference: Overview of Shadhiliyya'
+  - title: 'Oxford Reference — search results for "Shadhiliyya"'
     url: 'https://www.oxfordreference.com/search?q=Shadhiliyya'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Shadhiliyya'
+  - title: 'Cambridge Core — search results for "Shadhiliyya"'
     url: 'https://www.cambridge.org/core/search?q=Shadhiliyya'
 artifacts:
   - title: "Mausoleum and mosque of Abu al-Hasan al-Shadhili at Humaithara, Egypt"

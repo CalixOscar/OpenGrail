@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Beta Israel"'
     url: 'https://www.britannica.com/topic/beta-israel'
-  - title: 'Oxford Reference: Overview of Beta Israel'
+  - title: 'Oxford Reference — search results for "Beta Israel"'
     url: 'https://www.oxfordreference.com/search?q=Beta%20Israel'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Beta Israel'
+  - title: 'Cambridge Core — search results for "Beta Israel"'
     url: 'https://www.cambridge.org/core/search?q=Beta%20Israel'
 artifacts:
   - title: "Beta Israel kahenat (priests) celebrating Sigd"

@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Lollards'
     url: 'https://www.britannica.com/topic/Lollards'
-  - title: 'Oxford Reference: Lollardy'
+  - title: 'Oxford Reference — search results for "Lollardy"'
     url: 'https://www.oxfordreference.com/search?q=Lollardy'
-  - title: 'Brill: Studies in Wycliffism'
+  - title: 'Brill — search results for "Lollardy"'
     url: 'https://brill.com/search?q=Lollardy'
 artifacts:
   - title: "Opening of John's Gospel in the Wycliffite Bible"

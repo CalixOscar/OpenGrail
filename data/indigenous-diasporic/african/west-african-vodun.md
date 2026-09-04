@@ -36,9 +36,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "West African Vodun"'
     url: 'https://www.britannica.com/topic/west-african-vodun'
-  - title: 'Oxford Reference: Overview of West African Vodun'
+  - title: 'Oxford Reference — search results for "West African Vodun"'
     url: 'https://www.oxfordreference.com/search?q=West%20African%20Vodun'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "West African Vodun"'
     url: 'https://ich.unesco.org/en/search?q=West%20African%20Vodun'
 artifacts:
   - title: "Carved wooden Mami Wata water spirit sculpture in a canoe"

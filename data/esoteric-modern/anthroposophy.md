@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Anthroposophy"'
     url: 'https://www.britannica.com/topic/anthroposophy'
-  - title: 'Oxford Reference: Overview of Anthroposophy'
+  - title: 'Oxford Reference — search results for "Anthroposophy"'
     url: 'https://www.oxfordreference.com/search?q=Anthroposophy'
-  - title: 'Brill Handbook of Religious Traditions: Anthroposophy'
+  - title: 'Brill — search results for "Anthroposophy"'
     url: 'https://brill.com/search?q=Anthroposophy'
 artifacts:
   - title: "Portrait of Anthroposophy founder Rudolf Steiner in 1900"

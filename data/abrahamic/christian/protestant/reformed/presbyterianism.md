@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Presbyterianism"'
     url: 'https://www.britannica.com/topic/presbyterianism'
-  - title: 'Oxford Reference: Overview of Presbyterianism'
+  - title: 'Oxford Reference — search results for "Presbyterianism"'
     url: 'https://www.oxfordreference.com/search?q=Presbyterianism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Presbyterianism'
+  - title: 'Cambridge Core — search results for "Presbyterianism"'
     url: 'https://www.cambridge.org/core/search?q=Presbyterianism'
 artifacts:
   - title: "17th-century engraving 'The Candle is Lighted' depicting Reformers including John Knox"

@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Minoan Religion'
     url: 'https://www.britannica.com/topic/Minoan-religion'
-  - title: 'Oxford Classical Dictionary: Minoan Religion'
+  - title: 'Oxford Reference — search results for "Minoan Religion"'
     url: 'https://www.oxfordreference.com/search?q=Minoan+Religion'
-  - title: 'Brill Handbook of Oriental Studies: Religions of the Bronze Age Aegean'
+  - title: 'Brill — search results for "Minoan Religion"'
     url: 'https://brill.com/search?q=Minoan+Religion'
 artifacts:
   - title: "Faience Snake Goddess figurine from Knossos"

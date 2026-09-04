@@ -43,10 +43,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Vietnamese Confucian Traditions"'
     url: 'https://www.britannica.com/topic/vietnamese-confucian-traditions'
-  - title: 'Oxford Reference: Overview of Vietnamese Confucian Traditions'
+  - title: 'Oxford Reference — search results for "Vietnamese Confucian Traditions"'
     url: >-
       https://www.oxfordreference.com/search?q=Vietnamese%20Confucian%20Traditions
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Vietnamese Confucian Traditions"'
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Vietnamese%20Confucian%20Traditions
 artifacts:

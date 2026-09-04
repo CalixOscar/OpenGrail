@@ -37,7 +37,7 @@ key_tenets:
     Core Orientation: A post-communist Central European UFO contactee religion blending
     Christian messianism, New Age spiritual ascension, and anti-technological global conspiracy theories.
 sources:
-  - title: 'Zdeněk Vojtíšek: "New Religious Movements and the Czech Republic"'
+  - title: 'Brill — search results for "Vojtisek Universe People"'
     url: 'https://brill.com/search?q=Vojtisek+Universe+People'
   - title: 'Christopher Partridge: "UFO Religions"'
     url: 'https://www.routledge.com/UFO-Religions/Partridge/p/book/9780415263245'

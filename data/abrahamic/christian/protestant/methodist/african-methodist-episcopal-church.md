@@ -43,12 +43,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "African Methodist Episcopal Church"'
     url: 'https://www.britannica.com/topic/african-methodist-episcopal-church'
-  - title: 'Oxford Reference: Overview of African Methodist Episcopal Church'
+  - title: 'Oxford Reference — search results for "African Methodist Episcopal Church"'
     url: >-
       https://www.oxfordreference.com/search?q=African%20Methodist%20Episcopal%20Church
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & African Methodist
-      Episcopal Church
+  - title: 'Cambridge Core — search results for "African Methodist Episcopal Church"'
     url: >-
       https://www.cambridge.org/core/search?q=African%20Methodist%20Episcopal%20Church
 artifacts:

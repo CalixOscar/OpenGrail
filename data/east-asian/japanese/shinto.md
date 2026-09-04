@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Shinto"'
     url: 'https://www.britannica.com/topic/shinto'
-  - title: 'Oxford Reference: Overview of Shinto'
+  - title: 'Oxford Reference — search results for "Shinto"'
     url: 'https://www.oxfordreference.com/search?q=Shinto'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Shinto"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shinto'
 artifacts:
   - title: "Woodblock print of Amaterasu emerging from the Heavenly Rock Cave by Utagawa Kunisada"

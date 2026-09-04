@@ -44,7 +44,7 @@ key_tenets:
 sources:
   - title: 'Robert H. Ruby and John A. Brown: "John Slocum and the Indian Shaker Church"'
     url: 'https://www.oupress.com/9780806129440/john-slocum-and-the-indian-shaker-church/'
-  - title: 'Oxford Reference: Indian Shaker Church'
+  - title: 'Oxford Reference — search results for "Indian Shaker Church"'
     url: 'https://www.oxfordreference.com/search?q=Indian+Shaker+Church'
   - title: 'Encyclopaedia Britannica: Indian Shaker Church'
     url: 'https://www.britannica.com/topic/Indian-Shaker-Church'

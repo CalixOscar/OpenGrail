@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hermeticism"'
     url: 'https://www.britannica.com/topic/hermeticism'
-  - title: 'Oxford Reference: Overview of Hermeticism'
+  - title: 'Oxford Reference — search results for "Hermeticism"'
     url: 'https://www.oxfordreference.com/search?q=Hermeticism'
-  - title: 'Brill Handbook of Religious Traditions: Hermeticism'
+  - title: 'Brill — search results for "Hermeticism"'
     url: 'https://brill.com/search?q=Hermeticism'
 artifacts:
   - title: "Floor mosaic of Hermes Trismegistus by Giovanni di Stefano in Siena Cathedral"

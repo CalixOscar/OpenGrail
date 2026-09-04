@@ -38,12 +38,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "The Church of Jesus Christ"'
     url: 'https://www.britannica.com/topic/the-church-of-jesus-christ'
-  - title: 'Oxford Reference: Overview of The Church of Jesus Christ'
+  - title: 'Oxford Reference — search results for "The Church of Jesus Christ"'
     url: >-
       https://www.oxfordreference.com/search?q=The%20Church%20of%20Jesus%20Christ
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & The Church of Jesus
-      Christ
+  - title: 'Cambridge Core — search results for "The Church of Jesus Christ"'
     url: 'https://www.cambridge.org/core/search?q=The%20Church%20of%20Jesus%20Christ'
 ---
 

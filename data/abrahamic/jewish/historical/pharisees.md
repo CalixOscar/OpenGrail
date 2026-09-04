@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Pharisees"'
     url: 'https://www.britannica.com/topic/pharisees'
-  - title: 'Oxford Reference: Overview of Pharisees'
+  - title: 'Oxford Reference — search results for "Pharisees"'
     url: 'https://www.oxfordreference.com/search?q=Pharisees'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Pharisees'
+  - title: 'Cambridge Core — search results for "Pharisees"'
     url: 'https://www.cambridge.org/core/search?q=Pharisees'
 artifacts:
   - title: "The Pharisees Question Jesus, watercolor by James Tissot"

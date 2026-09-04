@@ -49,9 +49,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Shabak Religious Tradition"'
     url: 'https://www.britannica.com/topic/shabak-religious-tradition'
-  - title: 'Oxford Reference: Overview of Shabak Religious Tradition'
+  - title: 'Oxford Reference — search results for "Shabak Religious Tradition"'
     url: 'https://www.oxfordreference.com/search?q=Shabak%20Religious%20Tradition'
-  - title: 'Brill Handbook of Religious Traditions: Shabak Religious Tradition'
+  - title: 'Brill — search results for "Shabak Religious Tradition"'
     url: 'https://brill.com/search?q=Shabak%20Religious%20Tradition'
 ---
 

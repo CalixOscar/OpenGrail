@@ -38,12 +38,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Church of God General Conference"'
     url: 'https://www.britannica.com/topic/church-of-god-general-conference'
-  - title: 'Oxford Reference: Overview of Church of God General Conference'
+  - title: 'Oxford Reference — search results for "Church of God General Conference"'
     url: >-
       https://www.oxfordreference.com/search?q=Church%20of%20God%20General%20Conference
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Church of God
-      General Conference
+  - title: 'Cambridge Core — search results for "Church of God General Conference"'
     url: >-
       https://www.cambridge.org/core/search?q=Church%20of%20God%20General%20Conference
 artifacts:

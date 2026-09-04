@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "New Age Movement"'
     url: 'https://www.britannica.com/topic/new-age-movement'
-  - title: 'Oxford Reference: Overview of New Age Movement'
+  - title: 'Oxford Reference — search results for "New Age Movement"'
     url: 'https://www.oxfordreference.com/search?q=New%20Age%20Movement'
-  - title: 'Brill Handbook of Religious Traditions: New Age Movement'
+  - title: 'Brill — search results for "New Age Movement"'
     url: 'https://brill.com/search?q=New%20Age%20Movement'
 ---
 

@@ -35,11 +35,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Conservative Judaism"'
     url: 'https://www.britannica.com/topic/conservative-judaism'
-  - title: 'Oxford Reference: Overview of Conservative Judaism'
+  - title: 'Oxford Reference — search results for "Conservative Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Conservative%20Judaism'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Conservative
-      Judaism
+  - title: 'Cambridge Core — search results for "Conservative Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Conservative%20Judaism'
 artifacts:
   - title: "Etching of Solomon Schechter by Hermann Struck (1912–1913)"

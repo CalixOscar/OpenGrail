@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ryukyuan Religion"'
     url: 'https://www.britannica.com/topic/ryukyuan-religion'
-  - title: 'Oxford Reference: Overview of Ryukyuan Religion'
+  - title: 'Oxford Reference — search results for "Ryukyuan Religion"'
     url: 'https://www.oxfordreference.com/search?q=Ryukyuan%20Religion'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Ryukyuan Religion"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Ryukyuan%20Religion'
 artifacts:
   - title: "Ryukyuan noro priestess in traditional ceremonial vestments"

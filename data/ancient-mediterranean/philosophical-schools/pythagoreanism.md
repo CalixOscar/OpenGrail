@@ -47,9 +47,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Pythagoreanism"'
     url: 'https://www.britannica.com/topic/pythagoreanism'
-  - title: 'Oxford Reference: Overview of Pythagoreanism'
+  - title: 'Oxford Reference — search results for "Pythagoreanism"'
     url: 'https://www.oxfordreference.com/search?q=Pythagoreanism'
-  - title: 'Brill Handbook of Religious Traditions: Pythagoreanism'
+  - title: 'Brill — search results for "Pythagoreanism"'
     url: 'https://brill.com/search?q=Pythagoreanism'
 ---
 

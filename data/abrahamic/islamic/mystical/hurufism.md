@@ -43,7 +43,7 @@ sources:
     url: 'https://www.iranicaonline.org/articles/horufism'
   - title: 'Encyclopaedia Britannica: Hurufi'
     url: 'https://www.britannica.com/topic/Hurufi'
-  - title: 'Oxford Reference: Hurufism'
+  - title: 'Oxford Reference — search results for "Hurufism"'
     url: 'https://www.oxfordreference.com/search?q=Hurufism'
 artifacts:
   - title: "15th-century manuscript folio of the Diwan of Imadaddin Nesimi"

@@ -44,10 +44,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Transcendental Meditation Movement"'
     url: 'https://www.britannica.com/topic/transcendental-meditation-movement'
-  - title: 'Oxford Reference: Overview of Transcendental Meditation Movement'
+  - title: 'Oxford Reference — search results for "Transcendental Meditation Movement"'
     url: >-
       https://www.oxfordreference.com/search?q=Transcendental%20Meditation%20Movement
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Transcendental Meditation Movement"'
     url: >-
       https://www.rep.routledge.com/search?query=Transcendental%20Meditation%20Movement
 artifacts:

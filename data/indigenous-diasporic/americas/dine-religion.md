@@ -37,9 +37,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Diné Religion"'
     url: 'https://www.britannica.com/topic/din-religion'
-  - title: 'Oxford Reference: Overview of Diné Religion'
+  - title: 'Oxford Reference — search results for "Diné Religion"'
     url: 'https://www.oxfordreference.com/search?q=Din%C3%A9%20Religion'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Diné Religion"'
     url: 'https://ich.unesco.org/en/search?q=Din%C3%A9%20Religion'
 artifacts:
   - title: "Navajo Nightway ceremonial sandpainting design woven by Gladys Manuelito"

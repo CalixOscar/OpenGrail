@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ghost Dance Movements"'
     url: 'https://www.britannica.com/topic/ghost-dance-movements'
-  - title: 'Oxford Reference: Overview of Ghost Dance Movements'
+  - title: 'Oxford Reference — search results for "Ghost Dance Movements"'
     url: 'https://www.oxfordreference.com/search?q=Ghost%20Dance%20Movements'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Ghost Dance Movements"'
     url: 'https://ich.unesco.org/en/search?q=Ghost%20Dance%20Movements'
 artifacts:
   - title: "Arapaho painted buckskin Ghost Dance shirt (circa 1890)"

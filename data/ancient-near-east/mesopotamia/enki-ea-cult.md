@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cult of Enki–Ea"'
     url: 'https://www.britannica.com/topic/cult-of-enki-ea'
-  - title: 'Oxford Reference: Overview of Cult of Enki–Ea'
+  - title: 'Oxford Reference — search results for "Cult of Enki–Ea"'
     url: 'https://www.oxfordreference.com/search?q=Cult%20of%20Enki%E2%80%93Ea'
-  - title: 'Brill Handbook of Religious Traditions: Cult of Enki–Ea'
+  - title: 'Brill — search results for "Cult of Enki–Ea"'
     url: 'https://brill.com/search?q=Cult%20of%20Enki%E2%80%93Ea'
 artifacts:
   - title: "Impression of the cylinder seal of Adda showing the water god Enki/Ea, British Museum"

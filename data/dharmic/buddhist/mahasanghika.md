@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Mahāsāṃghika"'
     url: 'https://www.britannica.com/topic/mah-s-ghika'
-  - title: 'Oxford Reference: Overview of Mahāsāṃghika'
+  - title: 'Oxford Reference — search results for "Mahāsāṃghika"'
     url: 'https://www.oxfordreference.com/search?q=Mah%C4%81s%C4%81%E1%B9%83ghika'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Mahāsāṃghika"'
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81s%C4%81%E1%B9%83ghika'
 artifacts:
   - title: "Sculpted limestone remnants of the Mahāstūpa at Amarāvatī, Andhra Pradesh"

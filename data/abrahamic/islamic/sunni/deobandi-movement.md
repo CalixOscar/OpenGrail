@@ -50,9 +50,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Deobandi Movement"'
     url: 'https://www.britannica.com/topic/deobandi-movement'
-  - title: 'Oxford Reference: Overview of Deobandi Movement'
+  - title: 'Oxford Reference — search results for "Deobandi Movement"'
     url: 'https://www.oxfordreference.com/search?q=Deobandi%20Movement'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Deobandi Movement'
+  - title: 'Cambridge Core — search results for "Deobandi Movement"'
     url: 'https://www.cambridge.org/core/search?q=Deobandi%20Movement'
 artifacts:
   - title: "Epitaph inscription on the grave of Muhammad Qasim Nanautavi at Deoband"

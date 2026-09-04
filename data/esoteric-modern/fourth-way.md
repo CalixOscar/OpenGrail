@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "The Fourth Way"'
     url: 'https://www.britannica.com/topic/the-fourth-way'
-  - title: 'Oxford Reference: Overview of The Fourth Way'
+  - title: 'Oxford Reference — search results for "The Fourth Way"'
     url: 'https://www.oxfordreference.com/search?q=The%20Fourth%20Way'
-  - title: 'Brill Handbook of Religious Traditions: The Fourth Way'
+  - title: 'Brill — search results for "The Fourth Way"'
     url: 'https://brill.com/search?q=The%20Fourth%20Way'
 artifacts:
   - title: "Portrait of Fourth Way founder George Ivanovich Gurdjieff"

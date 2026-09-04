@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sōtō Zen"'
     url: 'https://www.britannica.com/topic/s-t-zen'
-  - title: 'Oxford Reference: Overview of Sōtō Zen'
+  - title: 'Oxford Reference — search results for "Sōtō Zen"'
     url: 'https://www.oxfordreference.com/search?q=S%C5%8Dt%C5%8D%20Zen'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Sōtō Zen"'
     url: 'https://www.rep.routledge.com/search?query=S%C5%8Dt%C5%8D%20Zen'
 artifacts:
   - title: "Traditional portrait of Zen Master Eihei Dōgen"

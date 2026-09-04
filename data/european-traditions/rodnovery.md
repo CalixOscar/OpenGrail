@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Rodnovery"'
     url: 'https://www.britannica.com/topic/rodnovery'
-  - title: 'Oxford Reference: Overview of Rodnovery'
+  - title: 'Oxford Reference — search results for "Rodnovery"'
     url: 'https://www.oxfordreference.com/search?q=Rodnovery'
-  - title: 'Brill Handbook of Religious Traditions: Rodnovery'
+  - title: 'Brill — search results for "Rodnovery"'
     url: 'https://brill.com/search?q=Rodnovery'
 artifacts:
   - title: "Rodnover open-air sanctuary (kapyshche) on Mount Smrečník, Slovakia"

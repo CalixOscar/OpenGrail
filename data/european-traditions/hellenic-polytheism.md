@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hellenic Polytheism"'
     url: 'https://www.britannica.com/topic/hellenic-polytheism'
-  - title: 'Oxford Reference: Overview of Hellenic Polytheism'
+  - title: 'Oxford Reference — search results for "Hellenic Polytheism"'
     url: 'https://www.oxfordreference.com/search?q=Hellenic%20Polytheism'
-  - title: 'Brill Handbook of Religious Traditions: Hellenic Polytheism'
+  - title: 'Brill — search results for "Hellenic Polytheism"'
     url: 'https://brill.com/search?q=Hellenic%20Polytheism'
 artifacts:
   - title: "Ruins of the Temple of Olympian Zeus (Olympieion) in Athens"

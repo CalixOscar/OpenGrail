@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Pure Land Buddhism"'
     url: 'https://www.britannica.com/topic/pure-land-buddhism'
-  - title: 'Oxford Reference: Overview of Pure Land Buddhism'
+  - title: 'Oxford Reference — search results for "Pure Land Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Pure%20Land%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Pure Land Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Pure%20Land%20Buddhism'
 artifacts:
   - title: "Kamakura-period painting of the descent of Amida Buddha (Raigo) from the Walters Art Museum"

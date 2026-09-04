@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Haredi Judaism"'
     url: 'https://www.britannica.com/topic/haredi-judaism'
-  - title: 'Oxford Reference: Overview of Haredi Judaism'
+  - title: 'Oxford Reference — search results for "Haredi Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Haredi%20Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Haredi Judaism'
+  - title: 'Cambridge Core — search results for "Haredi Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Haredi%20Judaism'
 artifacts:
   - title: "Haredi men reading from a Torah scroll at the Western Wall"

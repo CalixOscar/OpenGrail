@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Breslov Hasidism"'
     url: 'https://www.britannica.com/topic/breslov-hasidism'
-  - title: 'Oxford Reference: Overview of Breslov Hasidism'
+  - title: 'Oxford Reference — search results for "Breslov Hasidism"'
     url: 'https://www.oxfordreference.com/search?q=Breslov%20Hasidism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Breslov Hasidism'
+  - title: 'Cambridge Core — search results for "Breslov Hasidism"'
     url: 'https://www.cambridge.org/core/search?q=Breslov%20Hasidism'
 artifacts:
   - title: "Pilgrims at the tomb of Rebbe Nachman in Uman"

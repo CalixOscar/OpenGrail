@@ -42,7 +42,7 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Illuminati"'
     url: 'https://www.britannica.com/topic/illuminati-group-order'
-  - title: 'Oxford Reference: Overview of Bavarian Illuminati'
+  - title: 'Oxford Reference — search results for "Bavarian Illuminati"'
     url: 'https://www.oxfordreference.com/search?q=Bavarian+Illuminati'
   - title: 'Peggy Pawlowski: "Der Illuminatenorden: Ein politischer Geheimbund im Zeitalter der Aufklärung"'
     url: 'https://www.degruyter.com/document/doi/10.1515/9783110757972/html'

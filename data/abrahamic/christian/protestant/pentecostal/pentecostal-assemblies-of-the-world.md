@@ -40,12 +40,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Pentecostal Assemblies of the World"'
     url: 'https://www.britannica.com/topic/pentecostal-assemblies-of-the-world'
-  - title: 'Oxford Reference: Overview of Pentecostal Assemblies of the World'
+  - title: 'Oxford Reference — search results for "Pentecostal Assemblies of the World"'
     url: >-
       https://www.oxfordreference.com/search?q=Pentecostal%20Assemblies%20of%20the%20World
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Pentecostal
-      Assemblies of the World
+  - title: 'Cambridge Core — search results for "Pentecostal Assemblies of the World"'
     url: >-
       https://www.cambridge.org/core/search?q=Pentecostal%20Assemblies%20of%20the%20World
 ---

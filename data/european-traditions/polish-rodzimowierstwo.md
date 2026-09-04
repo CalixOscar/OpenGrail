@@ -49,9 +49,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Polish Rodzimowierstwo"'
     url: 'https://www.britannica.com/topic/polish-rodzimowierstwo'
-  - title: 'Oxford Reference: Overview of Polish Rodzimowierstwo'
+  - title: 'Oxford Reference — search results for "Polish Rodzimowierstwo"'
     url: 'https://www.oxfordreference.com/search?q=Polish%20Rodzimowierstwo'
-  - title: 'Brill Handbook of Religious Traditions: Polish Rodzimowierstwo'
+  - title: 'Brill — search results for "Polish Rodzimowierstwo"'
     url: 'https://brill.com/search?q=Polish%20Rodzimowierstwo'
 artifacts:
   - title: "Szczodre Gody (Koliada) winter solstice ritual by Polish Rodnovers of Gromada Mir (2018)"

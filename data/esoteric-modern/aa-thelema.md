@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "A∴A∴"'
     url: 'https://www.britannica.com/topic/a-a-'
-  - title: 'Oxford Reference: Overview of A∴A∴'
+  - title: 'Oxford Reference — search results for "A∴A∴"'
     url: 'https://www.oxfordreference.com/search?q=A%E2%88%B4A%E2%88%B4'
-  - title: 'Brill Handbook of Religious Traditions: A∴A∴'
+  - title: 'Brill — search results for "A∴A∴"'
     url: 'https://brill.com/search?q=A%E2%88%B4A%E2%88%B4'
 artifacts:
   - title: "Kabbalistic Tree of Life in the Queen Scale of Crowley's Liber 777"

@@ -51,9 +51,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Rimé Movement"'
     url: 'https://www.britannica.com/topic/rim-movement'
-  - title: 'Oxford Reference: Overview of Rimé Movement'
+  - title: 'Oxford Reference — search results for "Rimé Movement"'
     url: 'https://www.oxfordreference.com/search?q=Rim%C3%A9%20Movement'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Rimé Movement"'
     url: 'https://www.rep.routledge.com/search?query=Rim%C3%A9%20Movement'
 artifacts:
   - title: "Dzongsar Monastery in Dêgê County, Kham"

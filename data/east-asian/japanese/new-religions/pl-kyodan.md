@@ -29,9 +29,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Perfect Liberty Kyōdan'
     url: 'https://www.britannica.com/topic/Perfect-Liberty-Kyodan'
-  - title: 'Oxford Reference: PL Kyōdan'
+  - title: 'Oxford Reference — search results for "PL Kyodan"'
     url: 'https://www.oxfordreference.com/search?q=PL+Kyodan'
-  - title: 'Brill: Japanese New Religions in Global Context'
+  - title: 'Brill — search results for "PL Kyodan"'
     url: 'https://brill.com/search?q=PL+Kyodan'
 relations:
   - target: shinto

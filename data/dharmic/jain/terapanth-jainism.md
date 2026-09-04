@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Terāpanth Jainism"'
     url: 'https://www.britannica.com/topic/ter-panth-jainism'
-  - title: 'Oxford Reference: Overview of Terāpanth Jainism'
+  - title: 'Oxford Reference — search results for "Terāpanth Jainism"'
     url: 'https://www.oxfordreference.com/search?q=Ter%C4%81panth%20Jainism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Terāpanth Jainism"'
     url: 'https://www.rep.routledge.com/search?query=Ter%C4%81panth%20Jainism'
 artifacts:
   - title: "Painting of Acharya Bhikshu, founder of Svetambara Terapanth"

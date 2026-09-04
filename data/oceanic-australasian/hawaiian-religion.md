@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hawaiian Religion"'
     url: 'https://www.britannica.com/topic/hawaiian-religion'
-  - title: 'Oxford Reference: Overview of Hawaiian Religion'
+  - title: 'Oxford Reference — search results for "Hawaiian Religion"'
     url: 'https://www.oxfordreference.com/search?q=Hawaiian%20Religion'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Hawaiian Religion"'
     url: 'https://ich.unesco.org/en/search?q=Hawaiian%20Religion'
 artifacts:
   - title: "Carved wooden kiʻi image of Kū at the Bishop Museum"

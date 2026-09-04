@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Pentecostalism"'
     url: 'https://www.britannica.com/topic/pentecostalism'
-  - title: 'Oxford Reference: Overview of Pentecostalism'
+  - title: 'Oxford Reference — search results for "Pentecostalism"'
     url: 'https://www.oxfordreference.com/search?q=Pentecostalism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Pentecostalism'
+  - title: 'Cambridge Core — search results for "Pentecostalism"'
     url: 'https://www.cambridge.org/core/search?q=Pentecostalism'
 artifacts:
   - title: "The Apostolic Faith Mission on Azusa Street in Los Angeles (1907)"

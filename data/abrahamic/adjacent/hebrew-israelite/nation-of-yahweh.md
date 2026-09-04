@@ -37,7 +37,7 @@ key_tenets:
     autonomy, educational self-reliance, and racial sovereignty separate from
     white American society.
 sources:
-  - title: 'Oxford University Press: Black Zion: African American Religious Encounters with Judaism'
+  - title: 'global.oup.com — search results for "Nation of Yahweh"'
     url: 'https://global.oup.com/academic/search?q=Nation+of+Yahweh'
   - title: 'Encyclopaedia Britannica: Yahweh ben Yahweh'
     url: 'https://www.britannica.com/biography/Yahweh-ben-Yahweh'

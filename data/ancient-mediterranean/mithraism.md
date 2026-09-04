@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Roman Mithraism"'
     url: 'https://www.britannica.com/topic/roman-mithraism'
-  - title: 'Oxford Reference: Overview of Roman Mithraism'
+  - title: 'Oxford Reference — search results for "Roman Mithraism"'
     url: 'https://www.oxfordreference.com/search?q=Roman%20Mithraism'
-  - title: 'Brill Handbook of Religious Traditions: Roman Mithraism'
+  - title: 'Brill — search results for "Roman Mithraism"'
     url: 'https://brill.com/search?q=Roman%20Mithraism'
 artifacts:
   - title: "Two-sided marble relief depicting the sacred banquet of Sol and Mithras from Fiano Romano, Louvre"

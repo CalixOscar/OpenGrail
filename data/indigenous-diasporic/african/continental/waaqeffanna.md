@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Waaqeffanna"'
     url: 'https://www.britannica.com/topic/waaqeffanna'
-  - title: 'Oxford Reference: Overview of Waaqeffanna'
+  - title: 'Oxford Reference — search results for "Waaqeffanna"'
     url: 'https://www.oxfordreference.com/search?q=Waaqeffanna'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Waaqeffanna"'
     url: 'https://ich.unesco.org/en/search?q=Waaqeffanna'
 artifacts:
   - title: "Oromo celebration of the sacred Irreecha thanksgiving festival (2019)"

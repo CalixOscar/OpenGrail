@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Anglicanism"'
     url: 'https://www.britannica.com/topic/anglicanism'
-  - title: 'Oxford Reference: Overview of Anglicanism'
+  - title: 'Oxford Reference — search results for "Anglicanism"'
     url: 'https://www.oxfordreference.com/search?q=Anglicanism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Anglicanism'
+  - title: 'Cambridge Core — search results for "Anglicanism"'
     url: 'https://www.cambridge.org/core/search?q=Anglicanism'
 artifacts:
   - title: "15th-century stone choir screen inside Canterbury Cathedral"

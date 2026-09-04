@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ammonite Religion"'
     url: 'https://www.britannica.com/topic/ammonite-religion'
-  - title: 'Oxford Reference: Overview of Ammonite Religion'
+  - title: 'Oxford Reference — search results for "Ammonite Religion"'
     url: 'https://www.oxfordreference.com/search?q=Ammonite%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Ammonite Religion'
+  - title: 'Brill — search results for "Ammonite Religion"'
     url: 'https://brill.com/search?q=Ammonite%20Religion'
 artifacts:
   - title: "Inscribed bronze bottle from Tell Siran, Jordan Archaeological Museum"

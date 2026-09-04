@@ -38,7 +38,7 @@ key_tenets:
     Core Orientation: A channeling-based New Age spiritual academy teaching practical
     quantum mysticism, personal empowerment, and the transcendence of time and mortality.
 sources:
-  - title: 'J. Gordon Melton: "Finding Enlightenment: Ramtha''s School of Ancient Wisdom"'
+  - title: 'Brill — search results for "Melton Ramtha"'
     url: 'https://brill.com/search?q=Melton+Ramtha'
   - title: 'Douglas E. Cowan: "Cyberhenge: Modern Pagans on the Internet (New Age & Ramtha studies)"'
     url: 'https://www.routledge.com/Cyberhenge-Modern-Pagans-on-the-Internet/Cowan/p/book/9780415969116'

@@ -30,9 +30,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Tenshō Kōtai Jingūkyō'
     url: 'https://www.britannica.com/topic/Tensho-Kotai-Jingukyo'
-  - title: 'Oxford Reference: Tenshō Kōtai Jingūkyō'
+  - title: 'Oxford Reference — search results for "Tensho Kotai Jingukyo"'
     url: 'https://www.oxfordreference.com/search?q=Tensho+Kotai+Jingukyo'
-  - title: 'Brill: Japanese Journal of Religious Studies on New Religions'
+  - title: 'Brill — search results for "Tensho Kotai Jingukyo"'
     url: 'https://brill.com/search?q=Tensho+Kotai+Jingukyo'
 relations:
   - target: shinto

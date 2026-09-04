@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Jōdo Shinshū"'
     url: 'https://www.britannica.com/topic/j-do-shinsh-'
-  - title: 'Oxford Reference: Overview of Jōdo Shinshū'
+  - title: 'Oxford Reference — search results for "Jōdo Shinshū"'
     url: 'https://www.oxfordreference.com/search?q=J%C5%8Ddo%20Shinsh%C5%AB'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Jōdo Shinshū"'
     url: 'https://www.rep.routledge.com/search?query=J%C5%8Ddo%20Shinsh%C5%AB'
 artifacts:
   - title: "Chōzuya water ablution pavilion at Nishi Hongan-ji temple in Kyoto"

@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Discordianism"'
     url: 'https://www.britannica.com/topic/discordianism'
-  - title: 'Oxford Reference: Overview of Discordianism'
+  - title: 'Oxford Reference — search results for "Discordianism"'
     url: 'https://www.oxfordreference.com/search?q=Discordianism'
-  - title: 'Brill Handbook of Religious Traditions: Discordianism'
+  - title: 'Brill — search results for "Discordianism"'
     url: 'https://brill.com/search?q=Discordianism'
 artifacts:
   - title: "The Sacred Chao emblem of Discordianism"

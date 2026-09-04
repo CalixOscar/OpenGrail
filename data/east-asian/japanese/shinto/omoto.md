@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ōmoto"'
     url: 'https://www.britannica.com/topic/-moto'
-  - title: 'Oxford Reference: Overview of Ōmoto'
+  - title: 'Oxford Reference — search results for "Ōmoto"'
     url: 'https://www.oxfordreference.com/search?q=%C5%8Cmoto'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Ōmoto"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=%C5%8Cmoto'
 artifacts:
   - title: "Portrait of Ōmoto foundress Deguchi Nao"

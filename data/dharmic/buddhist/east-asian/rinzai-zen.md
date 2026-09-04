@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Rinzai Zen"'
     url: 'https://www.britannica.com/topic/rinzai-zen'
-  - title: 'Oxford Reference: Overview of Rinzai Zen'
+  - title: 'Oxford Reference — search results for "Rinzai Zen"'
     url: 'https://www.oxfordreference.com/search?q=Rinzai%20Zen'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Rinzai Zen"'
     url: 'https://www.rep.routledge.com/search?query=Rinzai%20Zen'
 artifacts:
   - title: "Portrait of Zen Master Myōan Eisai preserved at Kennin-ji in Kyoto"

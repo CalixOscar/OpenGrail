@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Molokan'
     url: 'https://www.britannica.com/topic/Molokan'
-  - title: 'Oxford Reference: Molokans'
+  - title: 'Oxford Reference — search results for "Molokans"'
     url: 'https://www.oxfordreference.com/search?q=Molokans'
-  - title: 'Brill: Spiritual Christianity in Russia'
+  - title: 'Brill — search results for "Molokan Spiritual Christians"'
     url: 'https://brill.com/search?q=Molokan+Spiritual+Christians'
 artifacts:
   - title: "Molokan elders in the Russian Empire"

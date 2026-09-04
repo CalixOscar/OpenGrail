@@ -36,11 +36,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Second Temple Judaism"'
     url: 'https://www.britannica.com/topic/second-temple-judaism'
-  - title: 'Oxford Reference: Overview of Second Temple Judaism'
+  - title: 'Oxford Reference — search results for "Second Temple Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Second%20Temple%20Judaism'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Second Temple
-      Judaism
+  - title: 'Cambridge Core — search results for "Second Temple Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Second%20Temple%20Judaism'
 artifacts:
   - title: "Holyland Model of Herod's Temple in Jerusalem"

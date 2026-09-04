@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sarvāstivāda"'
     url: 'https://www.britannica.com/topic/sarv-stiv-da'
-  - title: 'Oxford Reference: Overview of Sarvāstivāda'
+  - title: 'Oxford Reference — search results for "Sarvāstivāda"'
     url: 'https://www.oxfordreference.com/search?q=Sarv%C4%81stiv%C4%81da'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Sarvāstivāda"'
     url: 'https://www.rep.routledge.com/search?query=Sarv%C4%81stiv%C4%81da'
 artifacts:
   - title: "Reliquary casket from the Kanishka Stupa in Peshawar preserved in Mandalay"

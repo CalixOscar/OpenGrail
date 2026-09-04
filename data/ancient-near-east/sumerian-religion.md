@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sumerian Religion"'
     url: 'https://www.britannica.com/topic/sumerian-religion'
-  - title: 'Oxford Reference: Overview of Sumerian Religion'
+  - title: 'Oxford Reference — search results for "Sumerian Religion"'
     url: 'https://www.oxfordreference.com/search?q=Sumerian%20Religion'
-  - title: 'Brill Handbook of Religious Traditions: Sumerian Religion'
+  - title: 'Brill — search results for "Sumerian Religion"'
     url: 'https://brill.com/search?q=Sumerian%20Religion'
 artifacts:
   - title: "Early Dynastic standing male worshiper statuette from Tell Asmar, Metropolitan Museum of Art"

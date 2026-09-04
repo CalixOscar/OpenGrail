@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Mahāyāna Buddhism"'
     url: 'https://www.britannica.com/topic/mah-y-na-buddhism'
-  - title: 'Oxford Reference: Overview of Mahāyāna Buddhism'
+  - title: 'Oxford Reference — search results for "Mahāyāna Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Mah%C4%81y%C4%81na%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Mahāyāna Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81y%C4%81na%20Buddhism'
 artifacts:
   - title: "Sandstone torso of Bodhisattva Avalokiteśvara from Sanchi, Madhya Pradesh"

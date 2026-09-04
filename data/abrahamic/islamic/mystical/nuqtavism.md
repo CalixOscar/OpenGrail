@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Iranica: Noqtaviya'
     url: 'https://www.iranicaonline.org/articles/noqtaviya'
-  - title: 'Oxford Reference: Nuqtawiyya'
+  - title: 'Oxford Reference — search results for "Nuqtawiyya"'
     url: 'https://www.oxfordreference.com/search?q=Nuqtawiyya'
-  - title: 'Brill: Nuqtawi Movement in Safavid Iran'
+  - title: 'Brill — search results for "Nuqtawi"'
     url: 'https://brill.com/search?q=Nuqtawi'
 relations:
   - target: hurufism

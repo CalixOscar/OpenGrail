@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Old Catholicism"'
     url: 'https://www.britannica.com/topic/old-catholicism'
-  - title: 'Oxford Reference: Overview of Old Catholicism'
+  - title: 'Oxford Reference — search results for "Old Catholicism"'
     url: 'https://www.oxfordreference.com/search?q=Old%20Catholicism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Old Catholicism'
+  - title: 'Cambridge Core — search results for "Old Catholicism"'
     url: 'https://www.cambridge.org/core/search?q=Old%20Catholicism'
 artifacts:
   - title: "Sacred Heart of Jesus Old Catholic Church in Lubawka, Poland"

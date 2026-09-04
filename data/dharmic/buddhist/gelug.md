@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Gelug"'
     url: 'https://www.britannica.com/topic/gelug'
-  - title: 'Oxford Reference: Overview of Gelug'
+  - title: 'Oxford Reference — search results for "Gelug"'
     url: 'https://www.oxfordreference.com/search?q=Gelug'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Gelug"'
     url: 'https://www.rep.routledge.com/search?query=Gelug'
 artifacts:
   - title: "Qing-dynasty thangka of Je Tsongkhapa preserved at the Sichuan Museum"

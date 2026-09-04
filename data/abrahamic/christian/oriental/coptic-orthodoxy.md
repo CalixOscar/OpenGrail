@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Coptic Orthodoxy"'
     url: 'https://www.britannica.com/topic/coptic-orthodoxy'
-  - title: 'Oxford Reference: Overview of Coptic Orthodoxy'
+  - title: 'Oxford Reference — search results for "Coptic Orthodoxy"'
     url: 'https://www.oxfordreference.com/search?q=Coptic%20Orthodoxy'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Coptic Orthodoxy'
+  - title: 'Cambridge Core — search results for "Coptic Orthodoxy"'
     url: 'https://www.cambridge.org/core/search?q=Coptic%20Orthodoxy'
 artifacts:
   - title: "6th–7th century Coptic icon of Christ and Abbot Menas from the Monastery of Bawit"

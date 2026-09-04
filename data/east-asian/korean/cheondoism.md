@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cheondoism"'
     url: 'https://www.britannica.com/topic/cheondoism'
-  - title: 'Oxford Reference: Overview of Cheondoism'
+  - title: 'Oxford Reference — search results for "Cheondoism"'
     url: 'https://www.oxfordreference.com/search?q=Cheondoism'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Cheondoism"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Cheondoism'
 artifacts:
   - title: "Cheondogyo Central Temple (Jungang Daegyodang) in Seoul"

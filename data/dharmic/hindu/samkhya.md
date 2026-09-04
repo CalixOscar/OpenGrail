@@ -44,9 +44,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sāṃkhya"'
     url: 'https://www.britannica.com/topic/s-khya'
-  - title: 'Oxford Reference: Overview of Sāṃkhya'
+  - title: 'Oxford Reference — search results for "Sāṃkhya"'
     url: 'https://www.oxfordreference.com/search?q=S%C4%81%E1%B9%83khya'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Sāṃkhya"'
     url: 'https://www.rep.routledge.com/search?query=S%C4%81%E1%B9%83khya'
 artifacts:
   - title: "Company School painting of Sage Kapila, legendary founder of Samkhya"

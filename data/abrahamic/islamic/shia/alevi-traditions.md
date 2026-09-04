@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Alevi Traditions"'
     url: 'https://www.britannica.com/topic/alevi-traditions'
-  - title: 'Oxford Reference: Overview of Alevi Traditions'
+  - title: 'Oxford Reference — search results for "Alevi Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Alevi%20Traditions'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Alevi Traditions'
+  - title: 'Cambridge Core — search results for "Alevi Traditions"'
     url: 'https://www.cambridge.org/core/search?q=Alevi%20Traditions'
 artifacts:
   - title: "Alevi-Bektashi cem ritual gathering"

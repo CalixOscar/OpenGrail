@@ -41,11 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "United Methodist Church"'
     url: 'https://www.britannica.com/topic/united-methodist-church'
-  - title: 'Oxford Reference: Overview of United Methodist Church'
+  - title: 'Oxford Reference — search results for "United Methodist Church"'
     url: 'https://www.oxfordreference.com/search?q=United%20Methodist%20Church'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & United Methodist
-      Church
+  - title: 'Cambridge Core — search results for "United Methodist Church"'
     url: 'https://www.cambridge.org/core/search?q=United%20Methodist%20Church'
 artifacts:
   - title: "Opening worship service at the 2008 General Conference of the United Methodist Church"

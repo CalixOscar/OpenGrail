@@ -39,11 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Reformed Christianity"'
     url: 'https://www.britannica.com/topic/reformed-christianity'
-  - title: 'Oxford Reference: Overview of Reformed Christianity'
+  - title: 'Oxford Reference — search results for "Reformed Christianity"'
     url: 'https://www.oxfordreference.com/search?q=Reformed%20Christianity'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Reformed
-      Christianity
+  - title: 'Cambridge Core — search results for "Reformed Christianity"'
     url: 'https://www.cambridge.org/core/search?q=Reformed%20Christianity'
 artifacts:
   - title: "Portrait of John Calvin (c. 1550, Museum Boijmans Van Beuningen)"

@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Confucian Traditions"'
     url: 'https://www.britannica.com/topic/confucian-traditions'
-  - title: 'Oxford Reference: Overview of Confucian Traditions'
+  - title: 'Oxford Reference — search results for "Confucian Traditions"'
     url: 'https://www.oxfordreference.com/search?q=Confucian%20Traditions'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Confucian Traditions"'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Confucian%20Traditions'
 artifacts:
   - title: "Classical ink rubbing of Confucius as Teacher, attributed to Wu Daozi"

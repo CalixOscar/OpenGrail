@@ -45,9 +45,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Khurramism"'
     url: 'https://www.britannica.com/topic/khurramism'
-  - title: 'Oxford Reference: Overview of Khurramism'
+  - title: 'Oxford Reference — search results for "Khurramism"'
     url: 'https://www.oxfordreference.com/search?q=Khurramism'
-  - title: 'Brill Handbook of Religious Traditions: Khurramism'
+  - title: 'Brill — search results for "Khurramism"'
     url: 'https://brill.com/search?q=Khurramism'
 artifacts:
   - title: "Ruins of Babak Castle (Bazz Fortress) near Kaleybar, Iran"

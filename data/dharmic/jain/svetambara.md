@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Śvetāmbara Jainism"'
     url: 'https://www.britannica.com/topic/-vet-mbara-jainism'
-  - title: 'Oxford Reference: Overview of Śvetāmbara Jainism'
+  - title: 'Oxford Reference — search results for "Śvetāmbara Jainism"'
     url: 'https://www.oxfordreference.com/search?q=%C5%9Avet%C4%81mbara%20Jainism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Śvetāmbara Jainism"'
     url: 'https://www.rep.routledge.com/search?query=%C5%9Avet%C4%81mbara%20Jainism'
 artifacts:
   - title: "Shrine of the Dada Gurus of Kharatara Gaccha, Svetambara Jainism"

@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: Bogomil'
     url: 'https://www.britannica.com/topic/Bogomil'
-  - title: 'Oxford Reference: Bogomils'
+  - title: 'Oxford Reference — search results for "Bogomils"'
     url: 'https://www.oxfordreference.com/search?q=Bogomils'
-  - title: 'Brill: Studies in Balkan dualist heresy'
+  - title: 'Brill — search results for "Bogomilism"'
     url: 'https://brill.com/search?q=Bogomilism'
 artifacts:
   - title: "Stećak at Radimlja Necropolis"

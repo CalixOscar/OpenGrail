@@ -46,9 +46,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "African Diasporic Traditions"'
     url: 'https://www.britannica.com/topic/african-diasporic-traditions'
-  - title: 'Oxford Reference: Overview of African Diasporic Traditions'
+  - title: 'Oxford Reference — search results for "African Diasporic Traditions"'
     url: 'https://www.oxfordreference.com/search?q=African%20Diasporic%20Traditions'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "African Diasporic Traditions"'
     url: 'https://ich.unesco.org/en/search?q=African%20Diasporic%20Traditions'
 artifacts:
   - title: "Traditional carved Yorùbá Batá drum"

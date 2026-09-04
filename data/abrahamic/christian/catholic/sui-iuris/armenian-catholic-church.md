@@ -41,11 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Armenian Catholic Church"'
     url: 'https://www.britannica.com/topic/armenian-catholic-church'
-  - title: 'Oxford Reference: Overview of Armenian Catholic Church'
+  - title: 'Oxford Reference — search results for "Armenian Catholic Church"'
     url: 'https://www.oxfordreference.com/search?q=Armenian%20Catholic%20Church'
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Armenian Catholic
-      Church
+  - title: 'Cambridge Core — search results for "Armenian Catholic Church"'
     url: 'https://www.cambridge.org/core/search?q=Armenian%20Catholic%20Church'
 artifacts:
   - title: "Illuminated frontispiece of the Armenian Divine Liturgy manuscript (1714)"

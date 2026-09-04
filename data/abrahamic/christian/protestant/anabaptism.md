@@ -37,9 +37,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Anabaptism"'
     url: 'https://www.britannica.com/topic/anabaptism'
-  - title: 'Oxford Reference: Overview of Anabaptism'
+  - title: 'Oxford Reference — search results for "Anabaptism"'
     url: 'https://www.oxfordreference.com/search?q=Anabaptism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Anabaptism'
+  - title: 'Cambridge Core — search results for "Anabaptism"'
     url: 'https://www.cambridge.org/core/search?q=Anabaptism'
 artifacts:
   - title: "Engraving of Dirk Willems rescuing his pursuer from Martyrs Mirror"

@@ -37,9 +37,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sunni Islam"'
     url: 'https://www.britannica.com/topic/sunni-islam'
-  - title: 'Oxford Reference: Overview of Sunni Islam'
+  - title: 'Oxford Reference — search results for "Sunni Islam"'
     url: 'https://www.oxfordreference.com/search?q=Sunni%20Islam'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Sunni Islam'
+  - title: 'Cambridge Core — search results for "Sunni Islam"'
     url: 'https://www.cambridge.org/core/search?q=Sunni%20Islam'
 artifacts:
   - title: "Courtyard and minarets of Al-Azhar Mosque in Cairo, Egypt"

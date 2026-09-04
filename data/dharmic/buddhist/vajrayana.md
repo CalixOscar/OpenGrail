@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Vajrayāna Buddhism"'
     url: 'https://www.britannica.com/topic/vajray-na-buddhism'
-  - title: 'Oxford Reference: Overview of Vajrayāna Buddhism'
+  - title: 'Oxford Reference — search results for "Vajrayāna Buddhism"'
     url: 'https://www.oxfordreference.com/search?q=Vajray%C4%81na%20Buddhism'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Vajrayāna Buddhism"'
     url: 'https://www.rep.routledge.com/search?query=Vajray%C4%81na%20Buddhism'
 artifacts:
   - title: "Tibetan thangka of the Manjuvajra Guhyasamaja mandala with 43 deities"

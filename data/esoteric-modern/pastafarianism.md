@@ -46,9 +46,9 @@ sources:
   - title: 'Bobby Henderson, The Gospel of the Flying Spaghetti Monster (2006)'
   - title: 'Encyclopaedia Britannica: "Pastafarianism"'
     url: 'https://www.britannica.com/topic/pastafarianism'
-  - title: 'Oxford Reference: Overview of Pastafarianism'
+  - title: 'Oxford Reference — search results for "Pastafarianism"'
     url: 'https://www.oxfordreference.com/search?q=Pastafarianism'
-  - title: 'Brill Handbook of Religious Traditions: Pastafarianism'
+  - title: 'Brill — search results for "Pastafarianism"'
     url: 'https://brill.com/search?q=Pastafarianism'
 artifacts:
   - title: "Cosplay of the Flying Spaghetti Monster and a pirate at Dragon Con"

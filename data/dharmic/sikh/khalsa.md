@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Khalsa"'
     url: 'https://www.britannica.com/topic/khalsa'
-  - title: 'Oxford Reference: Overview of Khalsa'
+  - title: 'Oxford Reference — search results for "Khalsa"'
     url: 'https://www.oxfordreference.com/search?q=Khalsa'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Khalsa"'
     url: 'https://www.rep.routledge.com/search?query=Khalsa'
 artifacts:
   - title: "19th-century painting of Guru Gobind Singh inaugurating the Khalsa order at Anandpur in 1699"

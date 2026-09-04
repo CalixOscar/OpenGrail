@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Azali Babism"'
     url: 'https://www.britannica.com/topic/azali-babism'
-  - title: 'Oxford Reference: Overview of Azali Babism'
+  - title: 'Oxford Reference — search results for "Azali Babism"'
     url: 'https://www.oxfordreference.com/search?q=Azali%20Babism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Azali Babism'
+  - title: 'Cambridge Core — search results for "Azali Babism"'
     url: 'https://www.cambridge.org/core/search?q=Azali%20Babism'
 artifacts:
   - title: "Transcript by Subh-i-Azal of the document nominating him successor to the Báb"

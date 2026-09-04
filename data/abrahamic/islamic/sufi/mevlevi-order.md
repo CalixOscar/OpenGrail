@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Mevlevi Order"'
     url: 'https://www.britannica.com/topic/mevlevi-order'
-  - title: 'Oxford Reference: Overview of Mevlevi Order'
+  - title: 'Oxford Reference — search results for "Mevlevi Order"'
     url: 'https://www.oxfordreference.com/search?q=Mevlevi%20Order'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Mevlevi Order'
+  - title: 'Cambridge Core — search results for "Mevlevi Order"'
     url: 'https://www.cambridge.org/core/search?q=Mevlevi%20Order'
 artifacts:
   - title: "Galata Mevlevi Ensemble performing the whirling sema ritual"

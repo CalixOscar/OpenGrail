@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Tāraṇapantha"'
     url: 'https://www.britannica.com/topic/t-ra-apantha'
-  - title: 'Oxford Reference: Overview of Tāraṇapantha'
+  - title: 'Oxford Reference — search results for "Tāraṇapantha"'
     url: 'https://www.oxfordreference.com/search?q=T%C4%81ra%E1%B9%87apantha'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Tāraṇapantha"'
     url: 'https://www.rep.routledge.com/search?query=T%C4%81ra%E1%B9%87apantha'
 artifacts:
   - title: "Samadhi shrine of Taran Svami at Nisaiji, Malhargarh near Bina"

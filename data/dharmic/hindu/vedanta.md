@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Vedānta"'
     url: 'https://www.britannica.com/topic/ved-nta'
-  - title: 'Oxford Reference: Overview of Vedānta'
+  - title: 'Oxford Reference — search results for "Vedānta"'
     url: 'https://www.oxfordreference.com/search?q=Ved%C4%81nta'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Vedānta"'
     url: 'https://www.rep.routledge.com/search?query=Ved%C4%81nta'
 artifacts:
   - title: "Statue of Adi Shankara"

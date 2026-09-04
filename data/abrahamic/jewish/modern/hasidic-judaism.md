@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Hasidic Judaism"'
     url: 'https://www.britannica.com/topic/hasidic-judaism'
-  - title: 'Oxford Reference: Overview of Hasidic Judaism'
+  - title: 'Oxford Reference — search results for "Hasidic Judaism"'
     url: 'https://www.oxfordreference.com/search?q=Hasidic%20Judaism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Hasidic Judaism'
+  - title: 'Cambridge Core — search results for "Hasidic Judaism"'
     url: 'https://www.cambridge.org/core/search?q=Hasidic%20Judaism'
 artifacts:
   - title: "The Baal Shem Tov's spring in Medzhybizh"

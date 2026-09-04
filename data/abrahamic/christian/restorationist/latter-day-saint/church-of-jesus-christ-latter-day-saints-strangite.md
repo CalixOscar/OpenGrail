@@ -42,12 +42,10 @@ sources:
   - title: 'Encyclopaedia Britannica: "Church of Jesus Christ of Latter Day Saints"'
     url: >-
       https://www.britannica.com/topic/church-of-jesus-christ-of-latter-day-saints
-  - title: 'Oxford Reference: Overview of Church of Jesus Christ of Latter Day Saints'
+  - title: 'Oxford Reference — search results for "Church of Jesus Christ of Latter Day Saints"'
     url: >-
       https://www.oxfordreference.com/search?q=Church%20of%20Jesus%20Christ%20of%20Latter%20Day%20Saints
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & Church of Jesus
-      Christ of Latter Day Saints
+  - title: 'Cambridge Core — search results for "Church of Jesus Christ of Latter Day Saints"'
     url: >-
       https://www.cambridge.org/core/search?q=Church%20of%20Jesus%20Christ%20of%20Latter%20Day%20Saints
 artifacts:

@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Cheng–Zhu Confucianism"'
     url: 'https://www.britannica.com/topic/cheng-zhu-confucianism'
-  - title: 'Oxford Reference: Overview of Cheng–Zhu Confucianism'
+  - title: 'Oxford Reference — search results for "Cheng–Zhu Confucianism"'
     url: 'https://www.oxfordreference.com/search?q=Cheng%E2%80%93Zhu%20Confucianism'
-  - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
+  - title: 'Stanford Encyclopedia of Philosophy — search results for "Cheng–Zhu Confucianism"'
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Cheng%E2%80%93Zhu%20Confucianism
 artifacts:

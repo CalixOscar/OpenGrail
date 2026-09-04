@@ -38,9 +38,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Sakya"'
     url: 'https://www.britannica.com/topic/sakya'
-  - title: 'Oxford Reference: Overview of Sakya'
+  - title: 'Oxford Reference — search results for "Sakya"'
     url: 'https://www.oxfordreference.com/search?q=Sakya'
-  - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
+  - title: 'Routledge Encyclopedia of Philosophy — search results for "Sakya"'
     url: 'https://www.rep.routledge.com/search?query=Sakya'
 artifacts:
   - title: "15th-century Tibetan thangka of Sakya master Lowo Khenchen Sonam Lhundrub flanked by two Sakya Trizins"

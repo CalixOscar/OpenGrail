@@ -39,9 +39,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Zaydism"'
     url: 'https://www.britannica.com/topic/zaydism'
-  - title: 'Oxford Reference: Overview of Zaydism'
+  - title: 'Oxford Reference — search results for "Zaydism"'
     url: 'https://www.oxfordreference.com/search?q=Zaydism'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Zaydism'
+  - title: 'Cambridge Core — search results for "Zaydism"'
     url: 'https://www.cambridge.org/core/search?q=Zaydism'
 artifacts:
   - title: "Great Mosque of Sana'a in the Old City of Sana'a, Yemen"

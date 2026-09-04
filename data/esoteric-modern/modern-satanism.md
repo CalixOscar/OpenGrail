@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Modern Satanism"'
     url: 'https://www.britannica.com/topic/modern-satanism'
-  - title: 'Oxford Reference: Overview of Modern Satanism'
+  - title: 'Oxford Reference — search results for "Modern Satanism"'
     url: 'https://www.oxfordreference.com/search?q=Modern%20Satanism'
-  - title: 'Brill Handbook of Religious Traditions: Modern Satanism'
+  - title: 'Brill — search results for "Modern Satanism"'
     url: 'https://brill.com/search?q=Modern%20Satanism'
 artifacts:
   - title: "Sabbatic Goat (Baphomet) drawing by Éliphas Lévi"

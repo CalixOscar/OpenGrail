@@ -39,12 +39,10 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "United Pentecostal Church International"'
     url: 'https://www.britannica.com/topic/united-pentecostal-church-international'
-  - title: 'Oxford Reference: Overview of United Pentecostal Church International'
+  - title: 'Oxford Reference — search results for "United Pentecostal Church International"'
     url: >-
       https://www.oxfordreference.com/search?q=United%20Pentecostal%20Church%20International
-  - title: >-
-      Cambridge History of Religions: Abrahamic Traditions & United Pentecostal
-      Church International
+  - title: 'Cambridge Core — search results for "United Pentecostal Church International"'
     url: >-
       https://www.cambridge.org/core/search?q=United%20Pentecostal%20Church%20International
 artifacts:

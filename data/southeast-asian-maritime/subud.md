@@ -38,7 +38,7 @@ key_tenets:
     not a new religion, welcoming adherents of all faiths without requiring them to abandon
     their personal beliefs or cultural traditions.
 sources:
-  - title: 'Antoon Geels: "Subud and the Javanese Mystical Tradition"'
+  - title: 'Brill — search results for "Subud"'
     url: 'https://brill.com/search?q=Subud'
   - title: 'Peter B. Clarke: "Encyclopedia of New Religious Movements"'
     url: 'https://www.routledge.com/'

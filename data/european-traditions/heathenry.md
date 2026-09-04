@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Heathenry"'
     url: 'https://www.britannica.com/topic/heathenry'
-  - title: 'Oxford Reference: Overview of Heathenry'
+  - title: 'Oxford Reference — search results for "Heathenry"'
     url: 'https://www.oxfordreference.com/search?q=Heathenry'
-  - title: 'Brill Handbook of Religious Traditions: Heathenry'
+  - title: 'Brill — search results for "Heathenry"'
     url: 'https://brill.com/search?q=Heathenry'
 artifacts:
   - title: "Ceremonial oath-ring and Mjölnir hammer at a Swedish Asatru Spring Blót in Gamla Uppsala"

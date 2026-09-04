@@ -43,9 +43,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Aetherius Society"'
     url: 'https://www.britannica.com/topic/aetherius-society'
-  - title: 'Oxford Reference: Overview of Aetherius Society'
+  - title: 'Oxford Reference — search results for "Aetherius Society"'
     url: 'https://www.oxfordreference.com/search?q=Aetherius%20Society'
-  - title: 'Brill Handbook of Religious Traditions: Aetherius Society'
+  - title: 'Brill — search results for "Aetherius Society"'
     url: 'https://brill.com/search?q=Aetherius%20Society'
 artifacts:
   - title: "Summit cairns of Carnedd Llywelyn, a holy mountain in the Aetherius Society"

@@ -40,9 +40,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Ọdịnani"'
     url: 'https://www.britannica.com/topic/-d-nani'
-  - title: 'Oxford Reference: Overview of Ọdịnani'
+  - title: 'Oxford Reference — search results for "Ọdịnani"'
     url: 'https://www.oxfordreference.com/search?q=%E1%BB%8Cd%E1%BB%8Bnani'
-  - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
+  - title: 'UNESCO Intangible Cultural Heritage — search results for "Ọdịnani"'
     url: 'https://ich.unesco.org/en/search?q=%E1%BB%8Cd%E1%BB%8Bnani'
 artifacts:
   - title: "Carved wooden Igbo Ikenga personal shrine figure"

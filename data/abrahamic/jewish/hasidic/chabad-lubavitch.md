@@ -42,9 +42,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Chabad-Lubavitch"'
     url: 'https://www.britannica.com/topic/chabad-lubavitch'
-  - title: 'Oxford Reference: Overview of Chabad-Lubavitch'
+  - title: 'Oxford Reference — search results for "Chabad-Lubavitch"'
     url: 'https://www.oxfordreference.com/search?q=Chabad-Lubavitch'
-  - title: 'Cambridge History of Religions: Abrahamic Traditions & Chabad-Lubavitch'
+  - title: 'Cambridge Core — search results for "Chabad-Lubavitch"'
     url: 'https://www.cambridge.org/core/search?q=Chabad-Lubavitch'
 artifacts:
   - title: "Framed portrait of the Lubavitcher Rebbe Menachem Mendel Schneerson"

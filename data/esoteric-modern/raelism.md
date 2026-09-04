@@ -41,9 +41,9 @@ key_tenets:
 sources:
   - title: 'Encyclopaedia Britannica: "Raëlism"'
     url: 'https://www.britannica.com/topic/ra-lism'
-  - title: 'Oxford Reference: Overview of Raëlism'
+  - title: 'Oxford Reference — search results for "Raëlism"'
     url: 'https://www.oxfordreference.com/search?q=Ra%C3%ABlism'
-  - title: 'Brill Handbook of Religious Traditions: Raëlism'
+  - title: 'Brill — search results for "Raëlism"'
     url: 'https://brill.com/search?q=Ra%C3%ABlism'
 artifacts:
   - title: "Tent model of the Embassy for Extraterrestrials at a Raëlian seminar in Colombia"
