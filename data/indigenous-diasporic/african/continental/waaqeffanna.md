@@ -48,18 +48,11 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Waaqeffanna'
 artifacts:
-  - title: "Irreecha thanksgiving ceremony at Lake Hora"
+  - title: "Oromo celebration of the sacred Irreecha thanksgiving festival (2019)"
     imageUrl: "/artifacts/waaqeffanna-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Irreecha_Festival.jpg"
     provenance: "Mohammed Kassahun; CC BY-SA 4.0"
     period: "Image dated 2019"
-    description: "This image shows Irreecha thanksgiving ceremony at Lake Hora, selected as a defining visual reference for Waaqeffanna."
-  - title: "Abbaa Gadaa spiritual and moral leader of the Oromo"
-    imageUrl: "/artifacts/waaqeffanna-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jaarraa_Abbaa_Gadaa2.jpg"
-    provenance: "Oromo and proud; CC BY-SA 4.0"
-    period: "Image dated 2008"
-    description: "This image shows Abbaa Gadaa spiritual and moral leader of the Oromo, selected as a defining visual reference for Waaqeffanna."
 ---
 
 # Waaqeffanna

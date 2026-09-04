@@ -48,18 +48,16 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=United%20Methodist%20Church'
 artifacts:
-  - title: "United Methodist worship at General Conference"
+  - title: "Opening worship service at the 2008 General Conference of the United Methodist Church"
     imageUrl: "/artifacts/united-methodist-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Opening_Worship_GC2008.jpg"
     provenance: "BDB; Public domain"
     period: "Image dated 2008"
-    description: "This image shows United Methodist worship at General Conference, selected as a defining visual reference for United Methodist Church."
-  - title: "Historic United Methodist Building on Capitol Hill"
+  - title: "Gothic Revival facade of Asbury United Methodist Church in Washington, D.C."
     imageUrl: "/artifacts/united-methodist-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Asbury_United_Methodist_Church_-_Washington,_D.C..jpg"
     provenance: "AgnosticPreachersKid; CC BY-SA 3.0"
     period: "Image dated 2008"
-    description: "This image shows Historic United Methodist Building on Capitol Hill, selected as a defining visual reference for United Methodist Church."
 ---
 
 # United Methodist Church

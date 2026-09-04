@@ -43,13 +43,12 @@ sources:
   - title: 'Encyclopaedia Britannica: Alice Lakwena'
     url: 'https://www.britannica.com/biography/Alice-Lakwena'
 artifacts:
-  - title: Landscape of Acholiland near Gulu, Northern Uganda
-    imageUrl: /artifacts/holy-spirit-movement-uganda-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Majestic_Roar_of_Aruu_Falls.jpg
-    provenance: Timothy Akolamazima; CC BY-SA 4.0
-    period: Photographed 2023 CE
-    description: >-
-      The rugged landscape of Aruu Falls in the Acholi sub-region along the Gulu–Kitgum corridor in northern Uganda, the cultural homeland where Alice Auma mobilized the Holy Spirit Movement in 1986.
+  - title: "Landscape of Acholiland near Gulu, Northern Uganda"
+    imageUrl: "/artifacts/holy-spirit-movement-uganda-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Majestic_Roar_of_Aruu_Falls.jpg"
+    provenance: "Timothy Akolamazima; CC BY-SA 4.0"
+    period: "Photographed 2023 CE"
+    description: "The rugged landscape of Aruu Falls in the Acholi sub-region along the Gulu–Kitgum corridor in northern Uganda, the cultural homeland where Alice Auma mobilized the Holy Spirit Movement in 1986."
 relations:
   - target: catholicism
     type: influenced_by

@@ -52,18 +52,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Roman Imperial Cult'
     url: 'https://brill.com/search?q=Roman%20Imperial%20Cult'
 artifacts:
-  - title: "Deified imperial image of Augustus"
+  - title: "Augustus of Prima Porta statue, Vatican Museums"
     imageUrl: "/artifacts/roman-imperial-cult-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Statue-Augustus.jpg"
     provenance: "Till Niermann; Public domain"
     period: "Image dated 2007"
-    description: "This image shows Deified imperial image of Augustus, selected as a defining visual reference for Roman Imperial Cult."
-  - title: "Provincial imperial-cult temple"
+  - title: "Temple of Augustus and Livia in Vienne, France"
     imageUrl: "/artifacts/roman-imperial-cult-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Temple_d%27Auguste_et_de_Livie_(Vienne)_01.JPG"
-    provenance: "User:Otourly; CC BY-SA 3.0"
+    provenance: "Otourly; CC BY-SA 3.0"
     period: "Image dated 2011"
-    description: "This image shows Provincial imperial-cult temple, selected as a defining visual reference for Roman Imperial Cult."
 ---
 
 # Roman Imperial Cult

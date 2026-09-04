@@ -44,24 +44,18 @@ sources:
   - title: 'Institute of Ismaili Studies: Early Ismaili History and the Qarmatians'
     url: 'https://www.iis.ac.uk/research/ismailism/'
 artifacts:
-  - title: Gold dinar of the Qarmatian state
-    imageUrl: /artifacts/qarmatians-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Qarmatian_dinar_of_al-Hasan_ibn_Ahmad,_AH_361.jpg
-    provenance: Photo by CNG coins; Public domain
-    period: 971–972 CE
-    description: >-
-      A tenth-century gold dinar struck in 971–972 CE (AH 361) under the Qarmatian
-      commander al-Hasan ibn Ahmad, citing the collective leadership council
-      ('al-sadat al-ru'asa') of the eastern Arabian state.
-  - title: Al-Qarah Mountain in the Al-Ahsa Oasis
-    imageUrl: /artifacts/qarmatians-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Al-Qarah_Mountain,_Saudi_Arabia.jpg
-    provenance: Dr. Ondřej Havelka; CC BY 4.0
-    period: Photographed 2025
-    description: >-
-      The limestone formations of Jabal al-Qarah within the Al-Ahsa Oasis in
-      eastern Arabia, the historical geographic heartland and fortified base of
-      the Qarmatian state (899–1077 CE).
+  - title: "Gold dinar of the Qarmatian state"
+    imageUrl: "/artifacts/qarmatians-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Qarmatian_dinar_of_al-Hasan_ibn_Ahmad,_AH_361.jpg"
+    provenance: "Photo by CNG coins; Public domain"
+    period: "971–972 CE"
+    description: "A tenth-century gold dinar struck in 971–972 CE (AH 361) under the Qarmatian commander al-Hasan ibn Ahmad, citing the collective leadership council ('al-sadat al-ru'asa') of the eastern Arabian state."
+  - title: "Al-Qarah Mountain in the Al-Ahsa Oasis"
+    imageUrl: "/artifacts/qarmatians-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Al-Qarah_Mountain,_Saudi_Arabia.jpg"
+    provenance: "Dr. Ondřej Havelka; CC BY 4.0"
+    period: "Photographed 2025"
+    description: "The limestone formations of Jabal al-Qarah within the Al-Ahsa Oasis in eastern Arabia, the historical geographic heartland and fortified base of the Qarmatian state (899–1077 CE)."
 relations:
   - target: ismailism
     type: diverged_from

@@ -51,19 +51,6 @@ sources:
       https://www.oxfordreference.com/search?q=Guaran%C3%AD%20Religious%20Traditions
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Guaran%C3%AD%20Religious%20Traditions'
-artifacts:
-  - title: "Mbya Guarani traditional community and ritual space"
-    imageUrl: "/artifacts/guarani-religions-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Little-Guarani_indian.jpg"
-    provenance: "Eurico Zimbres, the copyright holder of this work, hereby publishes it under the following license:; CC BY-SA 2.5"
-    period: "Digital file published 2007"
-    description: "This image shows Mbya Guarani traditional community and ritual space, selected as a defining visual reference for Guaraní Religious Traditions."
-  - title: "Sao Miguel das Missoes historic Guarani sacred mission church"
-    imageUrl: "/artifacts/guarani-religions-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cruz_MIssion%C3%A1ria_Nas_Ruinas_em_S%C3%A3o_Miguel_das_Miss%C3%B5es.jpg"
-    provenance: "Fernanda Mariani; CC BY-SA 4.0"
-    period: "Image dated 2007"
-    description: "This image shows Sao Miguel das Missoes historic Guarani sacred mission church, selected as a defining visual reference for Guaraní Religious Traditions."
 ---
 
 # Guaraní Religious Traditions

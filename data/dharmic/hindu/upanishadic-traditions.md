@@ -48,18 +48,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Upanishadic%20Traditions'
 artifacts:
-  - title: "Naciketas receiving the teaching of deathless self from Yama"
+  - title: "Relief of Yama instructing Nachiketa on the Atman from the Katha Upanishad"
     imageUrl: "/artifacts/upanishadic-traditions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Yama_teaches_Nasiketha.jpg"
     provenance: "S. B. Krishnamurthy; CC BY-SA 3.0"
     period: "Image dated 2015"
-    description: "This image shows Naciketas receiving the teaching of deathless self from Yama, selected as a defining visual reference for Upanishadic Traditions."
-  - title: "Sanskrit manuscript of the Brhadaranyaka Upanisad"
+  - title: "Brihadaranyaka Upanishad Sanskrit manuscript folio, Shukla Yajurveda"
     imageUrl: "/artifacts/upanishadic-traditions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Brihadaranyaka_Upanishad_verses_1.3.1_to_1.3.4,_Shatapatha_Brahmana,_Shukla_Yajurveda,_Sanskrit,_Devanagari.jpg"
     provenance: "Ms Sarah Welch; CC BY-SA 4.0"
     period: "14th century"
-    description: "This image shows Sanskrit manuscript of the Brhadaranyaka Upanisad, selected as a defining visual reference for Upanishadic Traditions."
     detail: high
 ---
 

@@ -48,19 +48,11 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Aj%C3%B1%C4%81na%20Skeptics'
 artifacts:
-  - title: "Samannaphala Sutta witness to Sanjaya Belatthaputta's skeptical teaching"
+  - title: "Relief of the Six Heretical Teachers including Sanjaya Belatthiputta at the Dazu Rock Carvings"
     imageUrl: "/artifacts/ajnana-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dazu_Six_Heretical_Teachers.jpg"
-    provenance: "Gwydion M. Williams from Coventry, Great Britain; CC BY 2.0"
+    provenance: "Gwydion M. Williams; CC BY 2.0"
     period: "Image dated 2016"
-    description: "This image shows Samannaphala Sutta witness to Sanjaya Belatthaputta's skeptical teaching, selected as a defining visual reference for Ajñāna Skeptics."
-  - title: "Pali canonical manuscript representative of the textual record of Ajnana"
-    imageUrl: "/artifacts/ajnana-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Manuscript_of_Vinaya_Pitaka.jpg"
-    provenance: "Unknown; Public domain"
-    period: "Image dated 1856"
-    description: "This image shows Pali canonical manuscript representative of the textual record of Ajnana, selected as a defining visual reference for Ajñāna Skeptics."
-    detail: high
 ---
 
 # Ajñāna Skeptics

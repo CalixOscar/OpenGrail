@@ -47,24 +47,18 @@ sources:
   - title: 'Brill New Pauly: Glykon (deity)'
     url: 'https://brill.com/search?q=Glykon'
 artifacts:
-  - title: Marble cult statue of the serpent god Glycon from Tomis
-    imageUrl: /artifacts/glycon-cult-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Glycon_(51644816839).jpg
-    provenance: Ángel M. Felicísimo; CC BY 2.0
-    period: 2nd century CE
-    description: >-
-      Colossal carved marble statue of the serpent deity Glycon with human-like
-      hair and sheep-like ears, discovered in 1962 at Tomis (Constanța, Romania)
-      and housed in the Museum of National History and Archaeology.
-  - title: Bronze coin of Abonoteichos depicting Glycon
-    imageUrl: /artifacts/glycon-cult-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Glycon_bronze_coin.jpg
-    provenance: Classical Numismatic Group, Inc.; CC BY-SA 3.0
-    period: c. 140–161 CE
-    description: >-
-      Provincial bronze coin struck under Antoninus Pius at Abonoteichos
-      (Ionopolis) in Paphlagonia, depicting the coiled serpent god Glycon with
-      Greek inscription ΓΛVΚΩΝ ΑΒΩΝΟΤΕΙΧΕΙΤΩΝ.
+  - title: "Marble cult statue of the serpent god Glycon from Tomis"
+    imageUrl: "/artifacts/glycon-cult-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Glycon_(51644816839).jpg"
+    provenance: "Ángel M. Felicísimo; CC BY 2.0"
+    period: "2nd century CE"
+    description: "Colossal carved marble statue of the serpent deity Glycon with human-like hair and sheep-like ears, discovered in 1962 at Tomis (Constanța, Romania) and housed in the Museum of National History and Archaeology."
+  - title: "Bronze coin of Abonoteichos depicting Glycon"
+    imageUrl: "/artifacts/glycon-cult-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Glycon_bronze_coin.jpg"
+    provenance: "Classical Numismatic Group, Inc.; CC BY-SA 3.0"
+    period: "c. 140–161 CE"
+    description: "Provincial bronze coin struck under Antoninus Pius at Abonoteichos (Ionopolis) in Paphlagonia, depicting the coiled serpent god Glycon with Greek inscription ΓΛVΚΩΝ ΑΒΩΝΟΤΕΙΧΕΙΤΩΝ."
 relations:
   - target: asclepius-cult
     type: branch_of

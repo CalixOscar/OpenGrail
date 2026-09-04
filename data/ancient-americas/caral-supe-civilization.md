@@ -37,18 +37,16 @@ sources:
   - title: 'UNESCO World Heritage: Sacred City of Caral-Supe'
     url: 'https://whc.unesco.org/en/list/1269/'
 artifacts:
-  - title: "Caral-Supe monumental stepped pyramid and sunken plaza"
+  - title: "Monumental stepped pyramid platform at Caral, Peru"
     imageUrl: "/artifacts/caral-supe-civilization-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pir%C3%A1mide_en_Caral_04.jpg"
     provenance: "Johnattan Rupire; CC BY-SA 4.0"
     period: "Image dated 2020"
-    description: "This image shows Caral-Supe monumental stepped pyramid and sunken plaza, selected as a defining visual reference for Caral-Supe Sacred Urban Complex."
-  - title: "Monumental stepped pyramid and circular amphitheater at Caral"
+  - title: "Archaeological ruins of the Sacred City of Caral"
     imageUrl: "/artifacts/caral-supe-civilization-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Caral_1.JPG"
     provenance: "KyleThayer; CC BY-SA 3.0"
     period: "Image dated 2007"
-    description: "This image shows Monumental stepped pyramid and circular amphitheater at Caral, selected as a defining visual reference for Caral-Supe Sacred Urban Complex."
 ---
 
 # Caral-Supe Sacred Urban Complex

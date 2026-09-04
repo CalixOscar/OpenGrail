@@ -51,18 +51,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=San%20Religious%20Traditions'
 artifacts:
-  - title: "The White Lady rock painting at Brandberg Mountain"
+  - title: "The \"White Lady\" rock art panel at Brandberg Mountain, Namibia"
     imageUrl: "/artifacts/san-religious-traditions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Malby_k%C5%99ov%C3%A1k%C5%AF_White_Lady_-_Namibie_-_panoramio.jpg"
-    provenance: "Pavel Spindler; CC BY 3.0"
+    provenance: "Pavel Špindler; CC BY 3.0"
     period: "Image dated 2014"
-    description: "This image shows The White Lady rock painting at Brandberg Mountain, selected as a defining visual reference for San Religious Traditions (Comparative)."
-  - title: "San polychrome rock art in the Cederberg mountains"
+  - title: "San rock painting depicting a sailing ship in the Cederberg mountains, South Africa"
     imageUrl: "/artifacts/san-religious-traditions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:San_cave_painting_-_Phoenicean_ship.jpg"
-    provenance: "Photographer: David K. Edwards; Public domain"
+    provenance: "David K. Edwards; Public domain"
     period: "Digital file published 2019"
-    description: "This image shows San polychrome rock art in the Cederberg mountains, selected as a defining visual reference for San Religious Traditions (Comparative)."
 ---
 
 # San Religious Traditions (Comparative)

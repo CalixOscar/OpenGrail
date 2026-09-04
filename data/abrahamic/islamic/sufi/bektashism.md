@@ -44,24 +44,18 @@ sources:
   - title: 'Oxford Reference: Bektashiyya'
     url: 'https://www.oxfordreference.com/search?q=Bektashiyya'
 artifacts:
-  - title: Haji Bektash Veli complex in Cappadocia
-    imageUrl: /artifacts/bektashism-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Hacibektas-02-superchango.jpg
-    provenance: Maarten from Netherlands; CC BY 2.0
-    period: Origin 14th century
-    description: >-
-      The historic complex and mausoleum (türbe) of Haji Bektash Veli in
-      Hacıbektaş, Cappadocia, central spiritual sanctuary of the Bektashi dervish
-      order since the fourteenth century.
-  - title: Bektashi World Headquarters in Tirana
-    imageUrl: /artifacts/bektashism-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Qendra_Botërore_Bektashiane.jpg
-    provenance: Albinfo; Public domain
-    period: Established 1930
-    description: >-
-      The World Headquarters of the Bektashi Order (Kryegjyshata Botërore
-      Bektashiane) in Tirana, Albania, which became the international seat of
-      the order following the 1925 suppression of dervish lodges in Turkey.
+  - title: "Haji Bektash Veli complex in Cappadocia"
+    imageUrl: "/artifacts/bektashism-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hacibektas-02-superchango.jpg"
+    provenance: "Maarten from Netherlands; CC BY 2.0"
+    period: "Origin 14th century"
+    description: "The historic complex and mausoleum (türbe) of Haji Bektash Veli in Hacıbektaş, Cappadocia, central spiritual sanctuary of the Bektashi dervish order since the fourteenth century."
+  - title: "Bektashi World Headquarters in Tirana"
+    imageUrl: "/artifacts/bektashism-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Qendra_Botërore_Bektashiane.jpg"
+    provenance: "Albinfo; Public domain"
+    period: "Established 1930"
+    description: "The World Headquarters of the Bektashi Order (Kryegjyshata Botërore Bektashiane) in Tirana, Albania, which became the international seat of the order following the 1925 suppression of dervish lodges in Turkey."
 relations:
   - target: sufism
     type: branch_of

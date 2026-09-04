@@ -46,20 +46,18 @@ sources:
   - title: 'Clarendon Press / Oxford: Aladura: A Religious Movement among the Yoruba (J.D.Y. Peel)'
     url: 'https://global.oup.com/academic/search?q=Peel+Aladura'
 artifacts:
-  - title: Prostration Prayer in the Celestial Church of Christ
-    imageUrl: /artifacts/aladura-movement-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Celestialnism_01.jpg
-    provenance: Aimtoba; CC BY-SA 4.0
-    period: Photographed 2023 CE
-    description: >-
-      Adherents of the Celestial Church of Christ wearing white soutana robes prostrating in prayer during liturgy upon the sounding of the sanctuary bell, reflecting the Aladura emphasis on physical devotion and angelic holiness.
-  - title: Cherubim and Seraphim Church International Sanctuary in Ipaja
-    imageUrl: /artifacts/aladura-movement-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:AGBALA_IGBALA_ALADURA_-_CHERUBIM_AND_SERAPHIM_CHURCH_INTERNATIONAL,_IPAJA.jpg
-    provenance: Addjimedu; CC0
-    period: Photographed 2025 CE
-    description: >-
-      The Agbala Igbala Aladura sanctuary of the Cherubim and Seraphim Church International in Ipaja, Lagos State, Nigeria, one of the prominent independent Aladura denominations founded in 1925.
+  - title: "Prostration Prayer in the Celestial Church of Christ"
+    imageUrl: "/artifacts/aladura-movement-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Celestialnism_01.jpg"
+    provenance: "Aimtoba; CC BY-SA 4.0"
+    period: "Photographed 2023 CE"
+    description: "Adherents of the Celestial Church of Christ wearing white soutana robes prostrating in prayer during liturgy upon the sounding of the sanctuary bell, reflecting the Aladura emphasis on physical devotion and angelic holiness."
+  - title: "Cherubim and Seraphim Church International Sanctuary in Ipaja"
+    imageUrl: "/artifacts/aladura-movement-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:AGBALA_IGBALA_ALADURA_-_CHERUBIM_AND_SERAPHIM_CHURCH_INTERNATIONAL,_IPAJA.jpg"
+    provenance: "Addjimedu; CC0"
+    period: "Photographed 2025 CE"
+    description: "The Agbala Igbala Aladura sanctuary of the Cherubim and Seraphim Church International in Ipaja, Lagos State, Nigeria, one of the prominent independent Aladura denominations founded in 1925."
 relations:
   - target: pentecostalism
     type: influenced_by

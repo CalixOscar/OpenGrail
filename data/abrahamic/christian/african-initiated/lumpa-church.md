@@ -43,13 +43,12 @@ sources:
   - title: 'Cambridge University Press: The Lumpa Church: A Study in Modern African Millennialism'
     url: 'https://www.cambridge.org/core/search?q=Lumpa+Church'
 artifacts:
-  - title: Lubwa Mission in Chinsali District, Zambia
-    imageUrl: /artifacts/lumpa-church-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:School_Hall,_Lubwa_Mission,_Zambia,_ca.1905-ca.1940_(imp-cswc-GB-237-CSWC47-LS6-043).jpg
-    provenance: Unknown author; Public domain
-    period: c. 1905–1940 CE
-    description: >-
-      The Presbyterian mission station at Lubwa in the Chinsali District of northern Zambia, where Alice Lenshina was baptized and catechized before establishing the independent Lumpa Church in 1953.
+  - title: "Lubwa Mission in Chinsali District, Zambia"
+    imageUrl: "/artifacts/lumpa-church-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:School_Hall,_Lubwa_Mission,_Zambia,_ca.1905-ca.1940_(imp-cswc-GB-237-CSWC47-LS6-043).jpg"
+    provenance: "Unknown author; Public domain"
+    period: "c. 1905–1940 CE"
+    description: "The Presbyterian mission station at Lubwa in the Chinsali District of northern Zambia, where Alice Lenshina was baptized and catechized before establishing the independent Lumpa Church in 1953."
 relations:
   - target: protestantism
     type: diverged_from

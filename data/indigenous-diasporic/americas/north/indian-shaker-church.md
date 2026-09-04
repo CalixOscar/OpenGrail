@@ -51,24 +51,18 @@ sources:
   - title: 'Pamela Amoss: "Coast Salish Spirit Dancing: The Native Revival in the Pacific Northwest"'
     url: 'https://www.washington.edu/uwpress/search-books/book/?isbn=9780295956794'
 artifacts:
-  - title: Indian Shaker Church at Mud Bay, Washington
-    imageUrl: /artifacts/indian-shaker-church-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Mud_Bay_Indian_Shaker_Church_2015.3.jpg
-    provenance: Brianhe; CC BY-SA 4.0
-    period: Built 1910
-    description: >-
-      The historic second Indian Shaker Church building at Mud Bay on Puget Sound
-      near Olympia, Washington, constructed on the original 1880s founding site
-      established by John and Mary Slocum.
-  - title: Indian Shaker Church on the Tulalip Reservation
-    imageUrl: /artifacts/indian-shaker-church-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Shaker_Church_Tulalip_01.jpg
-    provenance: NinjaLore; CC BY-SA 4.0
-    period: Built 1924
-    description: >-
-      Exterior of the historic 1924 Indian Shaker Church on the Tulalip
-      Reservation in Snohomish County, Washington, showing the distinctive white
-      wooden chapel architecture and cross belfry.
+  - title: "Indian Shaker Church at Mud Bay, Washington"
+    imageUrl: "/artifacts/indian-shaker-church-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mud_Bay_Indian_Shaker_Church_2015.3.jpg"
+    provenance: "Brianhe; CC BY-SA 4.0"
+    period: "Built 1910"
+    description: "The historic second Indian Shaker Church building at Mud Bay on Puget Sound near Olympia, Washington, constructed on the original 1880s founding site established by John and Mary Slocum."
+  - title: "Indian Shaker Church on the Tulalip Reservation"
+    imageUrl: "/artifacts/indian-shaker-church-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Indian_Shaker_Church_Tulalip_01.jpg"
+    provenance: "NinjaLore; CC BY-SA 4.0"
+    period: "Built 1924"
+    description: "Exterior of the historic 1924 Indian Shaker Church on the Tulalip Reservation in Snohomish County, Washington, showing the distinctive white wooden chapel architecture and cross belfry."
 relations:
   - target: catholicism
     type: syncretized_with

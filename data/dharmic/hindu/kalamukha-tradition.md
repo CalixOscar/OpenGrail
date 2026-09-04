@@ -45,18 +45,18 @@ relations:
     certainty: academic_consensus
     citation: 'Grouped together by medieval Vedāntic doxographers as outer Śaiva traditions, although Kālāmukhas were endowed monastic scholars rather than solitary cemetery wanderers.'
 artifacts:
-  - title: Kedareshvara Temple at Balligavi
-    imageUrl: /artifacts/kalamukha-tradition-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Frontal_view_of_Kedareshvara_temple_(late_11th_century)_at_Balligavi_1.JPG'
-    provenance: Dineshkannambadi; CC BY-SA 3.0
-    period: Late 11th century CE
-    description: 'The 11th-century Western Chalukya Kedareshvara Temple at Balligavi (Belgami), Karnataka, the historical center of the Kodiyamaṭha monastic university of the Kālāmukha order.'
-  - title: Chaturmukha Sculpture at Kedareshvara Temple
-    imageUrl: /artifacts/kalamukha-tradition-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Chaturmukha_(Four_faced)_sculpture_at_the_Kedareshvara_Temple_in_Balligavi,_Shivamogga_district.jpg'
-    provenance: Dineshkannambadi; CC BY-SA 3.0
-    period: Medieval period
-    description: 'Four-faced (Chaturmukha) Shaiva sculpture at the Kedareshvara Temple in Balligavi, reflecting the scholastic ritual heritage of the Kālāmukha lineage.'
+  - title: "Kedareshvara Temple at Balligavi"
+    imageUrl: "/artifacts/kalamukha-tradition-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Frontal_view_of_Kedareshvara_temple_(late_11th_century)_at_Balligavi_1.JPG"
+    provenance: "Dineshkannambadi; CC BY-SA 3.0"
+    period: "Late 11th century CE"
+    description: "The 11th-century Western Chalukya Kedareshvara Temple at Balligavi (Belgami), Karnataka, the historical center of the Kodiyamaṭha monastic university of the Kālāmukha order."
+  - title: "Chaturmukha Sculpture at Kedareshvara Temple"
+    imageUrl: "/artifacts/kalamukha-tradition-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Chaturmukha_(Four_faced)_sculpture_at_the_Kedareshvara_Temple_in_Balligavi,_Shivamogga_district.jpg"
+    provenance: "Dineshkannambadi; CC BY-SA 3.0"
+    period: "Medieval period"
+    description: "Four-faced (Chaturmukha) Shaiva sculpture at the Kedareshvara Temple in Balligavi, reflecting the scholastic ritual heritage of the Kālāmukha lineage."
 ---
 
 # Kālāmukha Tradition

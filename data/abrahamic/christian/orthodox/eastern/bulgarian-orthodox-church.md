@@ -48,18 +48,16 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Bulgarian%20Orthodox%20Church'
 artifacts:
-  - title: "Frescoed Rila Monastery, center of Bulgarian Orthodox sacred culture"
+  - title: "Frescoed exterior gallery of the Nativity of Mary Church at Rila Monastery, Bulgaria"
     imageUrl: "/artifacts/bulgarian-orthodox-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bulgaria_Bulgaria-0644_-_Frescoes_Everywhere................._(7409422142).jpg"
     provenance: "Dennis G. Jarvis; CC BY-SA 2.0"
     period: "10th century"
-    description: "This image shows Frescoed Rila Monastery, center of Bulgarian Orthodox sacred culture, selected as a defining visual reference for Bulgarian Orthodox Church."
-  - title: "Patriarchal Alexander Nevsky Cathedral in Sofia"
+  - title: "Patriarchal Cathedral of Saint Alexander Nevsky in Sofia, Bulgaria"
     imageUrl: "/artifacts/bulgarian-orthodox-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:AlexanderNevskyCathedral-Sofia-6.jpg"
     provenance: "Plamen Agov ( user:MrPanyGoff ); CC BY-SA 4.0"
     period: "Image dated 2010"
-    description: "This image shows Patriarchal Alexander Nevsky Cathedral in Sofia, selected as a defining visual reference for Bulgarian Orthodox Church."
 ---
 
 # Bulgarian Orthodox Church

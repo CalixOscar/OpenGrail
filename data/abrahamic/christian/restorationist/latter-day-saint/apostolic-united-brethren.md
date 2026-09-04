@@ -46,18 +46,11 @@ sources:
       Brethren
     url: 'https://www.cambridge.org/core/search?q=Apostolic%20United%20Brethren'
 artifacts:
-  - title: "Apostolic United Brethren headquarters compound in Bluffdale, Utah"
+  - title: "Headquarters compound of the Apostolic United Brethren in Bluffdale, Utah"
     imageUrl: "/artifacts/apostolic-united-brethren-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Headquarters_of_the_Apostolic_United_Brethren_compound_in_Bluffdale,_Utah.jpg"
     provenance: "Swilsonmc; CC BY-SA 3.0"
     period: "Image dated 2013"
-    description: "This image shows Apostolic United Brethren headquarters compound in Bluffdale, Utah, selected as a defining visual reference for Apostolic United Brethren."
-  - title: "Historic Salt Lake City Temple and sanctuary grounds of the Mormon movement"
-    imageUrl: "/artifacts/apostolic-united-brethren-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mormon_Temple_and_Tabernacle,_Salt_Lake_City,_June_3rd,_1888,_by_W._C._Jackson.png"
-    provenance: "Jackson, W. C. -- Photographer; Public domain"
-    period: "Image dated 1865"
-    description: "This image shows Historic Salt Lake City Temple and sanctuary grounds of the Mormon movement, selected as a defining visual reference for Apostolic United Brethren."
 ---
 
 # Apostolic United Brethren

@@ -43,18 +43,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Linji%20Chan'
 artifacts:
-  - title: "Linji Yixuan, founding master of the Linji Chan lineage"
+  - title: "Portrait of Chan Master Linji Yixuan by Soga Jasoku"
     imageUrl: "/artifacts/linji-chan-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:RinzaiGigen.jpg"
-    provenance: "曾我蛇足 Soga Jasoku (fl. c. 1300); Public domain"
+    provenance: "Soga Jasoku; Public domain"
     period: "18th century"
-    description: "This image shows Linji Yixuan, founding master of the Linji Chan lineage, selected as a defining visual reference for Linji Chan."
-  - title: "Linji Temple in Zhengding, namesake monastery of the lineage"
+  - title: "Mountain gate of Linji Temple in Zhengding, Hebei Province"
     imageUrl: "/artifacts/linji-chan-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Linji_monastery01.JPG"
-    provenance: "Photo by and (c)2007 David Chen; CC BY 3.0"
+    provenance: "David Chen; CC BY 3.0"
     period: "Image dated 2007"
-    description: "This image shows Linji Temple in Zhengding, namesake monastery of the lineage, selected as a defining visual reference for Linji Chan."
 ---
 
 # Linji Chan

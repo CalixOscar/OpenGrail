@@ -54,18 +54,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Polish Rodzimowierstwo'
     url: 'https://brill.com/search?q=Polish%20Rodzimowierstwo'
 artifacts:
-  - title: "Polish Native Faith Perun shrine"
+  - title: "Szczodre Gody (Koliada) winter solstice ritual by Polish Rodnovers of Gromada Mir (2018)"
     imageUrl: "/artifacts/polish-rodzimowierstwo-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Szczodre_Gody_MIR_4.jpg"
     provenance: "Pola lilla; CC BY-SA 4.0"
     period: "Image dated 2018"
-    description: "This image shows Polish Native Faith Perun shrine, selected as a defining visual reference for Polish Rodzimowierstwo."
-  - title: "Rekawka Slavic pagan festival at Krakus Mound in Krakow"
+  - title: "Ritual hearth atop Krakus Mound during the Rękawka festival in Kraków (2016)"
     imageUrl: "/artifacts/polish-rodzimowierstwo-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:KopiecKraka-DekoracjaNaSzczycieWDniuR%C4%99kawki-POL,_Krak%C3%B3w.jpg"
     provenance: "Mach240390; CC BY 3.0"
     period: "Image dated 2016"
-    description: "This image shows Rekawka Slavic pagan festival at Krakus Mound in Krakow, selected as a defining visual reference for Polish Rodzimowierstwo."
 ---
 
 # Polish Rodzimowierstwo

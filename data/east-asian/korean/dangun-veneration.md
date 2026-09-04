@@ -50,18 +50,16 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Dangun%20Veneration'
 artifacts:
-  - title: "Traditional image of Dangun"
+  - title: "Samseonggung shrine on Mount Jiri dedicated to Dangun and ancestral deities"
     imageUrl: "/artifacts/dangun-veneration-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Korea-Samseonggung_11-07299.JPG"
     provenance: "Steve46814; CC BY-SA 3.0"
     period: "Image dated 2011"
-    description: "This image shows Traditional image of Dangun, selected as a defining visual reference for Dangun Veneration (Comparative)."
-  - title: "Chamseongdan altar"
+  - title: "Chamseongdan stone altar and sacred hornbeam tree on Mount Manisan"
     imageUrl: "/artifacts/dangun-veneration-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%EC%B0%B8%EC%84%B1%EB%8B%A8_%EC%86%8C%EC%82%AC%EB%82%98%EB%AC%B4.jpg"
     provenance: "Ssnm1015; CC BY-SA 4.0"
     period: "Image dated 2013"
-    description: "This image shows Chamseongdan altar, selected as a defining visual reference for Dangun Veneration (Comparative)."
 ---
 
 # Dangun Veneration (Comparative)

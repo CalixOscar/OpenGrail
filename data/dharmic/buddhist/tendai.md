@@ -48,18 +48,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Tendai%20Buddhism'
 artifacts:
-  - title: "Saicho, founder of Japanese Tendai"
+  - title: "18th-century hanging scroll portrait of Dengyō Daishi (Saichō) from the Metropolitan Museum of Art"
     imageUrl: "/artifacts/tendai-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_of_Dengy%C5%8D_Daishi_(Saich%C5%8D)_MET_DP-21860-002.jpg"
-    provenance: "Anonymous Unknown author; CC0"
+    provenance: "Metropolitan Museum of Art / Unknown author; CC0"
     period: "early 18 th century"
-    description: "This image shows Saicho, founder of Japanese Tendai, selected as a defining visual reference for Tendai Buddhism."
-  - title: "Enryaku-ji on Mount Hiei, head temple of Tendai"
+  - title: "Belfry adjacent to the Kaidan-in Mahāyāna ordination hall at Enryaku-ji on Mount Hiei"
     imageUrl: "/artifacts/tendai-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kaidainin_belfry.jpg"
-    provenance: "Guilhem Vellut from Amsterdam, Netherlands; CC BY 2.0"
+    provenance: "Guilhem Vellut; CC BY 2.0"
     period: "Image dated 2014"
-    description: "This image shows Enryaku-ji on Mount Hiei, head temple of Tendai, selected as a defining visual reference for Tendai Buddhism."
 ---
 
 # Tendai Buddhism

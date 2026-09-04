@@ -50,18 +50,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Tayyibi Ismailism'
     url: 'https://www.cambridge.org/core/search?q=Tayyibi%20Ismailism'
 artifacts:
-  - title: "Queen Arwa Mosque, sanctuary of the Tayyibi queen and hujja"
+  - title: "Mausoleum of Queen Arwa al-Sulayhi at her mosque in Jibla, Yemen"
     imageUrl: "/artifacts/tayyibi-ismailism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mousoleum_Hurrat-ul-Malaika_Arwa.JPG"
     provenance: "Md iet; CC BY-SA 3.0"
     period: "Digital file published 2011"
-    description: "This image shows Queen Arwa Mosque, sanctuary of the Tayyibi queen and hujja, selected as a defining visual reference for Tayyibi Ismailism."
-  - title: "Mausoleum of Queen Arwa within the Jibla mosque"
+  - title: "Tomb of Queen Arwa in Jibla, Yemen"
     imageUrl: "/artifacts/tayyibi-ismailism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Queen_Arya_Tomb,_Jibla_(14159927604).jpg"
     provenance: "Rod Waddington from Kergunyah, Australia; CC BY-SA 2.0"
     period: "Image dated 2014"
-    description: "This image shows Mausoleum of Queen Arwa within the Jibla mosque, selected as a defining visual reference for Tayyibi Ismailism."
 ---
 
 # Tayyibi Ismailism

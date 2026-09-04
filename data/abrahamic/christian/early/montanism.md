@@ -48,19 +48,6 @@ sources:
       Cambridge History of Religions: Abrahamic Traditions & New Prophecy
       Movement
     url: 'https://www.cambridge.org/core/search?q=New%20Prophecy%20Movement'
-artifacts:
-  - title: "Ruins at Pepuza, sacred center of the New Prophecy movement"
-    imageUrl: "/artifacts/montanism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Castelfeder,_rovine_di_Santa_Barbara_02.jpg"
-    provenance: "Syrio; CC BY-SA 4.0"
-    period: "Image dated 2023"
-    description: "This image shows Ruins at Pepuza, sacred center of the New Prophecy movement, selected as a defining visual reference for New Prophecy Movement (Montanism)."
-  - title: "Historical depiction of Montanus and the prophetesses Priscilla and Maximilla"
-    imageUrl: "/artifacts/montanism-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sigmund_Ferdinand_von_Perger_-_Historical_Depiction_-_O_886_-_Slovak_National_Gallery.jpg"
-    provenance: "Sigmund Ferdinand Ritter von Perger; Public domain"
-    period: "Image dated 1824"
-    description: "This image shows Historical depiction of Montanus and the prophetesses Priscilla and Maximilla, selected as a defining visual reference for New Prophecy Movement (Montanism)."
 ---
 
 # New Prophecy Movement (Montanism)

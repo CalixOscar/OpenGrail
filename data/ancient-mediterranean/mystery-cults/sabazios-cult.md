@@ -49,23 +49,18 @@ sources:
   - title: 'Brill: The Religion of Sabazios'
     url: 'https://brill.com/search?q=Sabazios'
 artifacts:
-  - title: Bronze votive hand of Sabazios (Manus Sabazia)
-    imageUrl: /artifacts/sabazios-cult-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Roman_-_Hand_of_Sabazius_-_Walters_542453.jpg
-    provenance: Walters Art Museum; Public domain
-    period: 1st–2nd century CE
-    description: >-
-      Liturgical cast-bronze hand formed in the benedictio gesture, decorated
-      with symbolic attributes of the mystery cult including the coiled serpent,
-      pinecone, ram's head, and nursing mother.
-  - title: Roman marble votive altar dedicated to Jupiter Sabazius
-    imageUrl: /artifacts/sabazios-cult-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Votive_altar_to_Jupiter_Sabazius_(Detroit_Inst_Art_37.185)_01.jpg
-    provenance: Mark Landon; CC BY 4.0
-    period: 2nd century CE
-    description: >-
-      Marble inscribed votive altar dedicated to the syncretic mystery divinity
-      Jupiter Sabazius, Detroit Institute of Arts.
+  - title: "Bronze votive hand of Sabazios (Manus Sabazia)"
+    imageUrl: "/artifacts/sabazios-cult-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Roman_-_Hand_of_Sabazius_-_Walters_542453.jpg"
+    provenance: "Walters Art Museum; Public domain"
+    period: "1st–2nd century CE"
+    description: "Liturgical cast-bronze hand formed in the benedictio gesture, decorated with symbolic attributes of the mystery cult including the coiled serpent, pinecone, ram's head, and nursing mother."
+  - title: "Roman marble votive altar dedicated to Jupiter Sabazius"
+    imageUrl: "/artifacts/sabazios-cult-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Votive_altar_to_Jupiter_Sabazius_(Detroit_Inst_Art_37.185)_01.jpg"
+    provenance: "Mark Landon; CC BY 4.0"
+    period: "2nd century CE"
+    description: "Marble inscribed votive altar dedicated to the syncretic mystery divinity Jupiter Sabazius, Detroit Institute of Arts."
 relations:
   - target: dionysian-mysteries
     type: syncretized_with

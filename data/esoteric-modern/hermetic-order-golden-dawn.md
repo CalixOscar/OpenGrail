@@ -54,18 +54,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hermetic Order of the Golden Dawn'
     url: 'https://brill.com/search?q=Hermetic%20Order%20of%20the%20Golden%20Dawn'
 artifacts:
-  - title: "Samuel Liddell MacGregor Mathers in Egyptian ritual garb"
+  - title: "Table of Hebrew and Chaldee Letters compiled by S. L. MacGregor Mathers"
     imageUrl: "/artifacts/hermetic-order-golden-dawn-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mathers_Table.jpg"
     provenance: "S.L. MacGregor Mathers; Public domain"
     period: "Image dated 2005"
-    description: "This image shows Samuel Liddell MacGregor Mathers in Egyptian ritual garb, selected as a defining visual reference for Hermetic Order of the Golden Dawn."
-  - title: "Golden Dawn Cipher Manuscript"
+  - title: "Plate of Hebrew and Chaldee Letters from The Kabbalah Unveiled (Wellcome Collection)"
     imageUrl: "/artifacts/hermetic-order-golden-dawn-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Table_of_Hebrew_and_Chaldee_letters_Wellcome_L0038195.jpg"
-    provenance: "Wikimedia Commons; CC BY 4.0"
+    provenance: "Wellcome Collection; CC BY 4.0"
     period: "Digital file published 2014"
-    description: "This image shows Golden Dawn Cipher Manuscript, selected as a defining visual reference for Hermetic Order of the Golden Dawn."
     detail: high
 ---
 

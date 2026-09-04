@@ -51,18 +51,16 @@ sources:
       Catholic Church
     url: 'https://www.cambridge.org/core/search?q=Syro-Malankara%20Catholic%20Church'
 artifacts:
-  - title: "West Syriac Holy Qurbono in the Syro-Malankara Catholic Church"
+  - title: "Portrait of Bishop Yoohanon Mar Chrysostom in Syro-Malankara episcopal vestments"
     imageUrl: "/artifacts/syro-malankara-catholic-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bishop_Yoohanon_Mar_Chrysostom,_Diocese_of_Pathanamthitta.jpg"
     provenance: "V.vabraham009; CC BY-SA 3.0"
     period: "Image dated 2011"
-    description: "This image shows West Syriac Holy Qurbono in the Syro-Malankara Catholic Church, selected as a defining visual reference for Syro-Malankara Catholic Church."
-  - title: "Saint Mary's Cathedral at Pattom, the church's principal seat"
+  - title: "Major Archiepiscopal Curia at Saint Mary's Cathedral, Pattom, Trivandrum"
     imageUrl: "/artifacts/syro-malankara-catholic-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Trivandrum_Kurie.JPG"
     provenance: "Kumbalam; CC BY-SA 3.0"
     period: "Image dated 2013"
-    description: "This image shows Saint Mary's Cathedral at Pattom, the church's principal seat, selected as a defining visual reference for Syro-Malankara Catholic Church."
 ---
 
 # Syro-Malankara Catholic Church

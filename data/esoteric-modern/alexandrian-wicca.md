@@ -47,18 +47,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Alexandrian Wicca'
     url: 'https://brill.com/search?q=Alexandrian%20Wicca'
 artifacts:
-  - title: "Alex Sanders, prominent Alexandrian Wiccan high priest"
+  - title: "15 Clanricarde Gardens in London, residence and covenstead of Alex Sanders"
     imageUrl: "/artifacts/alexandrian-wicca-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:15_Clanricarde_Gardens.jpg"
     provenance: "Ethan Doyle White; CC BY-SA 4.0"
     period: "Image dated 2017"
-    description: "This image shows Alex Sanders, prominent Alexandrian Wiccan high priest, selected as a defining visual reference for Alexandrian Wicca."
-  - title: "Alexandrian Wiccan altar with ritual blade and chalice"
+  - title: "Wiccan ritual altar with athame, chalice, and devotional items"
     imageUrl: "/artifacts/alexandrian-wicca-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Wiccan_altar_(1).PNG"
-    provenance: "RaeVynn Sands, Flickr user cronewynd; CC BY 2.0"
+    provenance: "RaeVynn Sands; CC BY 2.0"
     period: "Image dated 2006"
-    description: "This image shows Alexandrian Wiccan altar with ritual blade and chalice, selected as a defining visual reference for Alexandrian Wicca."
 ---
 
 # Alexandrian Wicca

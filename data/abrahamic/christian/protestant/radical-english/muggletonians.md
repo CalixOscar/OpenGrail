@@ -43,14 +43,12 @@ sources:
   - title: 'Oxford University Press: The World of the Muggletonians'
     url: 'https://academic.oup.com/book/muggletonians'
 artifacts:
-  - title: Portrait of Lodowicke Muggleton by William Wood
-    imageUrl: /artifacts/muggletonians-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Lodowicke_Muggleton_by_William_Wood.jpg
-    provenance: William Wood; Public domain
-    period: 1674 (National Portrait Gallery, London)
-    description: >-
-      An authentic 1674 oil portrait of Lodowicke Muggleton (1609–1698), London
-      tailor and co-prophet of the Muggletonian church, painted by William Wood.
+  - title: "Portrait of Lodowicke Muggleton by William Wood"
+    imageUrl: "/artifacts/muggletonians-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Lodowicke_Muggleton_by_William_Wood.jpg"
+    provenance: "William Wood; Public domain"
+    period: "1674 (National Portrait Gallery, London)"
+    description: "An authentic 1674 oil portrait of Lodowicke Muggleton (1609–1698), London tailor and co-prophet of the Muggletonian church, painted by William Wood."
 relations:
   - target: ranters
     type: diverged_from

@@ -38,18 +38,18 @@ relations:
     certainty: academic_consensus
     citation: 'Developed out of the Nichiren tradition''s Lotus Sutra veneration, adapting its doctrine into a lay-centered movement focused on ancestral memorialization.'
 artifacts:
-  - title: Shakaden Temple in Azabudai
-    imageUrl: /artifacts/reiyukai-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Reiyukai-Shakaden-01.jpg'
-    provenance: Rs1421; CC BY-SA 3.0
-    period: Photographed 2012
-    description: 'The Shakaden Temple in Azabudai, Minato, Tokyo, the central sanctuary and spiritual gathering complex of the lay Buddhist movement Reiyūkai.'
-  - title: Portrait of Kotani Kimi
-    imageUrl: /artifacts/reiyukai-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Aoki-Shoten-1955-2.jpg'
-    provenance: Aoki Shoten; Public domain
-    period: Published 1955
-    description: 'Kotani Kimi (1901–1971), co-founder and charismatic first spiritual president of Reiyūkai, who popularized lay ancestor memorialization and hōza counseling circles.'
+  - title: "Shakaden Temple in Azabudai"
+    imageUrl: "/artifacts/reiyukai-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Reiyukai-Shakaden-01.jpg"
+    provenance: "Rs1421; CC BY-SA 3.0"
+    period: "Photographed 2012"
+    description: "The Shakaden Temple in Azabudai, Minato, Tokyo, the central sanctuary and spiritual gathering complex of the lay Buddhist movement Reiyūkai."
+  - title: "Portrait of Kotani Kimi"
+    imageUrl: "/artifacts/reiyukai-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Aoki-Shoten-1955-2.jpg"
+    provenance: "Aoki Shoten; Public domain"
+    period: "Published 1955"
+    description: "Kotani Kimi (1901–1971), co-founder and charismatic first spiritual president of Reiyūkai, who popularized lay ancestor memorialization and hōza counseling circles."
 ---
 
 # Reiyūkai

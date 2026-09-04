@@ -49,18 +49,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Sasanian Zoroastrianism'
     url: 'https://brill.com/search?q=Sasanian%20Zoroastrianism'
 artifacts:
-  - title: "Investiture relief of Ardashir I and Ahura Mazda at Naqsh-e Rostam"
+  - title: "Investiture rock relief of Ardashir I by Ahura Mazda at Naqsh-e Rostam"
     imageUrl: "/artifacts/sasanian-zoroastrianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Naqsh-e-Rostam_(Iran)_Relief_Sassanid_Period.JPG"
-    provenance: "No machine-readable author provided. Hara1603 assumed (based on copyright claims).; Public domain"
+    provenance: "Hara1603; Public domain"
     period: "Image dated 2001"
-    description: "This image shows Investiture relief of Ardashir I and Ahura Mazda at Naqsh-e Rostam, selected as a defining visual reference for Sasanian Zoroastrianism."
-  - title: "Takht-e Soleyman archaeological sanctuary and sacred lake"
+  - title: "Sacred artesian lake and sanctuary ruins at Takht-e Soleyman (Adur Gushnasp)"
     imageUrl: "/artifacts/sasanian-zoroastrianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Takht-e-soleiman-1.jpg"
     provenance: "myself; CC BY-SA 3.0"
     period: "Image dated 2006"
-    description: "This image shows Takht-e Soleyman archaeological sanctuary and sacred lake, selected as a defining visual reference for Sasanian Zoroastrianism."
 ---
 
 # Sasanian Zoroastrianism

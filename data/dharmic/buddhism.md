@@ -56,18 +56,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Buddhism'
 artifacts:
-  - title: "Gupta-period Sarnath Buddha teaching with the dharmacakra gesture"
+  - title: "Gupta-period sandstone sculpture of the Buddha preaching the first sermon at Sarnath"
     imageUrl: "/artifacts/buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg"
-    provenance: "พระมหาเทวประภาส วชิรญาณเมธี (ผู้ถ่าย-ปล่อยสัญญาอนุญาตภาพให้นําไปใช้ได้เพื่อการศึกษาโดยอยู่ภา่ยใต้ cc-by-sa-3.0) ผู้สร้างสรรค์ผลงาน/ส่งข้อมูล; CC BY-SA 3.0"
+    provenance: "Phra Maha Tewaprapas Wachirayanmethee; CC BY-SA 3.0"
     period: "Image dated 2013"
-    description: "This image shows Gupta-period Sarnath Buddha teaching with the dharmacakra gesture, selected as a defining visual reference for Buddhism."
-  - title: "Mahabodhi Temple at the site of the Buddha's awakening"
+  - title: "Devotee offering prayers inside the Mahabodhi Temple at Bodh Gaya"
     imageUrl: "/artifacts/buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Worshipper_at_Mahabodhi_Temple_Bodh_Gaya_India.jpg"
     provenance: "Evan Loveley; CC BY 2.0"
     period: "Image dated 2009"
-    description: "This image shows Mahabodhi Temple at the site of the Buddha's awakening, selected as a defining visual reference for Buddhism."
 ---
 
 # Buddhism

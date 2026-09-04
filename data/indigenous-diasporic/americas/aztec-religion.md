@@ -43,18 +43,16 @@ sources:
   - title: 'Davíd Carrasco: "City of Sacrifice: The Aztec Empire and the Role of Violence in Civilization"'
     url: 'https://www.beacon.org/'
 artifacts:
-  - title: "Aztec Sun Stone (Piedra del Sol)"
+  - title: "Aztec Sun Stone (Piedra del Sol) monolith from Tenochtitlan"
     imageUrl: "/artifacts/aztec-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Monolito_de_la_Piedra_del_Sol.jpg"
     provenance: "El Comandante; CC BY-SA 3.0"
     period: "Image dated 2009"
-    description: "This image shows Aztec Sun Stone (Piedra del Sol), selected as a defining visual reference for Aztec & Mexica Nahua Religion."
-  - title: "Templo Mayor archaeological pyramid sanctuary"
+  - title: "Excavated ruins of the Templo Mayor pyramid in Tenochtitlan"
     imageUrl: "/artifacts/aztec-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ruins_of_Tenochtitlan.JPG"
-    provenance: "No machine-readable author provided. Janothird~commonswiki assumed (based on copyright claims).; CC BY-SA 3.0"
+    provenance: "Janothird; CC BY-SA 3.0"
     period: "Image dated 2005"
-    description: "This image shows Templo Mayor archaeological pyramid sanctuary, selected as a defining visual reference for Aztec & Mexica Nahua Religion."
 ---
 
 # Aztec & Mexica Nahua Religion

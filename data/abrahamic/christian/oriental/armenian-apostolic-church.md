@@ -45,18 +45,16 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Armenian%20Apostolic%20Church'
 artifacts:
-  - title: "Etchmiadzin Cathedral, mother see of the Armenian Apostolic Church"
+  - title: "Sanctuary interior of the Mother Cathedral of Holy Etchmiadzin in Armenia"
     imageUrl: "/artifacts/armenian-apostolic-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mother_Cathedral_of_Holy_Etchmiadzin.JPG"
     provenance: "Edooart; CC BY-SA 3.0"
     period: "Image dated 2013"
-    description: "This image shows Etchmiadzin Cathedral, mother see of the Armenian Apostolic Church, selected as a defining visual reference for Armenian Apostolic Church."
-  - title: "Carved khachkar cross-stones, defining Armenian Christian sacred art"
+  - title: "Medieval carved khachkars (cross-stones) at Noratus cemetery, Armenia"
     imageUrl: "/artifacts/armenian-apostolic-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Noratus_cemetery,_Armenia_-_49770926487.jpg"
     provenance: "Carole Raddato; CC BY-SA 2.0"
     period: "10th-century"
-    description: "This image shows Carved khachkar cross-stones, defining Armenian Christian sacred art, selected as a defining visual reference for Armenian Apostolic Church."
 ---
 
 # Armenian Apostolic Church

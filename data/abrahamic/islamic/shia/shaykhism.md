@@ -48,18 +48,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Shaykhism'
     url: 'https://www.cambridge.org/core/search?q=Shaykhism'
 artifacts:
-  - title: "Historical portrait of Shaykh Ahmad al-Ahsa'i, founder of Shaykhism"
+  - title: "19th-century portrait drawing of Shaykh Ahmad al-Ahsa'i"
     imageUrl: "/artifacts/shaykhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Drawing_of_Ahmad_al-Ahsa%27i_-_19th_century.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "19th century"
-    description: "This image shows Historical portrait of Shaykh Ahmad al-Ahsa'i, founder of Shaykhism, selected as a defining visual reference for Shaykhism."
-  - title: "Historical portrait of Shaykh Ahmad's successor Sayyid Kazim Rashti"
+  - title: "Portrait painting of Sayyid Kazim al-Rashti"
     imageUrl: "/artifacts/shaykhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Portait_painting_of_Kadhim_al-Rashti,_BW.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "19 th century"
-    description: "This image shows Historical portrait of Shaykh Ahmad's successor Sayyid Kazim Rashti, selected as a defining visual reference for Shaykhism."
 ---
 
 # Shaykhism

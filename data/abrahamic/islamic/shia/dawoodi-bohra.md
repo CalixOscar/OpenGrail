@@ -46,18 +46,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Dawoodi Bohra'
     url: 'https://www.cambridge.org/core/search?q=Dawoodi%20Bohra'
 artifacts:
-  - title: "Portrait of the Dawoodi Bohra da'i al-mutlaq"
+  - title: "Dawoodi Bohra community assembly under Syedna Mufaddal Saifuddin"
     imageUrl: "/artifacts/dawoodi-bohra-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:People_doing_mass_sermon_for_Syedna..jpg"
     provenance: "Md iet; CC BY-SA 4.0"
     period: "Image dated 2015"
-    description: "This image shows Portrait of the Dawoodi Bohra da'i al-mutlaq, selected as a defining visual reference for Dawoodi Bohra."
-  - title: "Saifee Masjid, prominent Dawoodi Bohra sanctuary in Mumbai"
+  - title: "Community members gathered for evening prayers at Saifee Masjid in Mumbai"
     imageUrl: "/artifacts/dawoodi-bohra-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dawoodi_Bohra%27s_Saifee_Masjid_in_Mumbai,_India.jpg"
     provenance: "Husain Nadir; CC BY-SA 4.0"
     period: "Image dated 2024"
-    description: "This image shows Saifee Masjid, prominent Dawoodi Bohra sanctuary in Mumbai, selected as a defining visual reference for Dawoodi Bohra."
 ---
 
 # Dawoodi Bohra

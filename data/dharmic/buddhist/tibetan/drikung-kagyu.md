@@ -46,18 +46,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Drikung%20Kagyu'
 artifacts:
-  - title: "Jigten Sumgon, founder of Drikung Kagyu"
+  - title: "Statue of Jigten Sumgön at Lamayuru Monastery, Ladakh"
     imageUrl: "/artifacts/drikung-kagyu-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jigten_Sumg%C3%B6n.JPG"
     provenance: "Bodhisattwa; CC BY-SA 3.0"
     period: "Image dated 2013"
-    description: "This image shows Jigten Sumgon, founder of Drikung Kagyu, selected as a defining visual reference for Drikung Kagyu."
-  - title: "Drikung Til, original monastic seat of the lineage"
+  - title: "Drikung Thil Monastery in the Zhhorong Chu Valley, Tibet"
     imageUrl: "/artifacts/drikung-kagyu-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Drigung_monastery.jpg"
-    provenance: "en:User:Alberrosidus; CC BY-SA 3.0"
+    provenance: "Alberrosidus; CC BY-SA 3.0"
     period: "Image dated 2005"
-    description: "This image shows Drikung Til, original monastic seat of the lineage, selected as a defining visual reference for Drikung Kagyu."
 ---
 
 # Drikung Kagyu

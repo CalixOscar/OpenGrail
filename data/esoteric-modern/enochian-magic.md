@@ -48,18 +48,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Enochian Magic'
     url: 'https://brill.com/search?q=Enochian%20Magic'
 artifacts:
-  - title: "Enochian practitioner John Dee"
+  - title: "Portrait of Dr. John Dee at the Ashmolean Museum"
     imageUrl: "/artifacts/enochian-magic-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:John_Dee_Ashmolean.jpg"
     provenance: "Unidentified painter; Public domain"
     period: "Image dated 1594"
-    description: "This image shows Enochian practitioner John Dee, selected as a defining visual reference for Enochian Magic."
-  - title: "John Dee's wax Sigillum Dei"
+  - title: "3D model of the Holy Table (Tabula Sancta) designed by John Dee"
     imageUrl: "/artifacts/enochian-magic-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Holytable.jpg"
     provenance: "The .:X; CC BY-SA 3.0"
     period: "Image dated 2007"
-    description: "This image shows John Dee's wax Sigillum Dei, selected as a defining visual reference for Enochian Magic."
 ---
 
 # Enochian Magic

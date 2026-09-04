@@ -53,18 +53,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Theodism'
     url: 'https://brill.com/search?q=Theodism'
 artifacts:
-  - title: "Ceremonial drinking horn used in Þeodish symbel rites"
-    imageUrl: "/artifacts/theodism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Odinsborg.jpg"
-    provenance: "Marieke Kuijjer from Leiden, The Netherlands; CC BY-SA 2.0"
-    period: "Image dated 2006"
-    description: "This image shows Ceremonial drinking horn used in Þeodish symbel rites, selected as a defining visual reference for Theodism."
-  - title: "Anglo-Saxon ceremonial drinking horn terminal used in symbel rites"
+  - title: "Early medieval Anglo-Saxon copper-alloy drinking horn terminal from London"
     imageUrl: "/artifacts/theodism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Early_Medieval_copper_alloy_drinking_horn_terminal_(FindID_519973).jpg"
-    provenance: "Museum of London, Kate Sumnall, 2013-01-07 11:24:08; CC BY-SA 2.0"
+    provenance: "Museum of London, Kate Sumnall; CC BY-SA 2.0"
     period: "8th century"
-    description: "This image shows Anglo-Saxon ceremonial drinking horn terminal used in symbel rites, selected as a defining visual reference for Theodism."
 ---
 
 # Theodism

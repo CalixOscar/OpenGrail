@@ -48,18 +48,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Akkadian Religion'
     url: 'https://brill.com/search?q=Akkadian%20Religion'
 artifacts:
-  - title: "Akkadian Adda cylinder seal"
+  - title: "Impression of the cylinder seal of Adda showing Akkadian deities, British Museum"
     imageUrl: "/artifacts/akkadian-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Adda_Seal_Akkadian_Empire_2300_BC.jpg"
-    provenance: "Nic McPhee from Morris, Minnesota, USA; CC BY-SA 2.0"
+    provenance: "Nic McPhee; CC BY-SA 2.0"
     period: "2300 BC"
-    description: "This image shows Akkadian Adda cylinder seal, selected as a defining visual reference for Akkadian Religion."
-  - title: "Divinized Naram-Sin victory stele"
+  - title: "Victory Stele of Naram-Sin, Louvre Museum"
     imageUrl: "/artifacts/akkadian-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Stele_Naram_Sim_Louvre_Sb4.jpg"
-    provenance: "Unknown artist Unknown artist; Public domain"
+    provenance: "Unknown; Public domain"
     period: "12th century BCE"
-    description: "This image shows Divinized Naram-Sin victory stele, selected as a defining visual reference for Akkadian Religion."
     detail: high
 ---
 

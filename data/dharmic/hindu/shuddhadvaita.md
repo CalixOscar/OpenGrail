@@ -49,18 +49,16 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Auddh%C4%81dvaita%20Ved%C4%81nta
 artifacts:
-  - title: "Vallabhacarya, founder of Suddhadvaita Vedanta"
+  - title: "Portrait painting of Mahaprabhu Vallabhacharya, founder of Shuddhadvaita Vedanta"
     imageUrl: "/artifacts/shuddhadvaita-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_of_Vallabhacharyudu.JPG"
-    provenance: "రహ్మానుద్దీన్; CC BY-SA 3.0"
+    provenance: "రహ్มาనుద్దీన్; CC BY-SA 3.0"
     period: "Image dated 2011"
-    description: "This image shows Vallabhacarya, founder of Suddhadvaita Vedanta, selected as a defining visual reference for Śuddhādvaita Vedānta."
-  - title: "Vallabha bethak at Gokul, a lineage pilgrimage seat"
+  - title: "Iconographic portrait of Jagadguru Mahaprabhu Shri Vallabhacharya"
     imageUrl: "/artifacts/shuddhadvaita-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shri_mahaprabhuji.jpg"
-    provenance: "User:Madhurtanwani; CC BY-SA 3.0"
+    provenance: "Madhurtanwani; CC BY-SA 3.0"
     period: "Image dated 2007"
-    description: "This image shows Vallabha bethak at Gokul, a lineage pilgrimage seat, selected as a defining visual reference for Śuddhādvaita Vedānta."
 ---
 
 # Śuddhādvaita Vedānta

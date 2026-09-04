@@ -50,18 +50,16 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Korean%20Confucian%20Traditions
 artifacts:
-  - title: "Portrait of Yi Hwang"
+  - title: "Statue of Yi Hwang (Toegye) at Namsan Park, Seoul"
     imageUrl: "/artifacts/korean-confucianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Statue_of_Yi_Hwang.jpg"
     provenance: "Integral; CC BY-SA 2.0 kr"
     period: "Image dated 2006"
-    description: "This image shows Portrait of Yi Hwang, selected as a defining visual reference for Korean Confucian Traditions."
-  - title: "Dosan Seowon academy"
+  - title: "Entrance steps and pavilion at Dosan Seowon Confucian Academy, Andong"
     imageUrl: "/artifacts/korean-confucianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Korea-Andog-Dosan_Seowon_2987-06.JPG"
     provenance: "Steve46814; CC BY-SA 3.0"
     period: "Image dated 2006"
-    description: "This image shows Dosan Seowon academy, selected as a defining visual reference for Korean Confucian Traditions."
 ---
 
 # Korean Confucian Traditions

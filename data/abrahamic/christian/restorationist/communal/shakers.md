@@ -45,20 +45,18 @@ sources:
   - title: 'Columbia University Press: The Shaker Experience in America (Stephen J. Stein)'
     url: 'https://cup.columbia.edu/search-results?keyword=Shakers'
 artifacts:
-  - title: 'Shaker Gift Drawing: The Tree of Life by Hannah Cohoon'
-    imageUrl: /artifacts/shakers-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Tree_of_Life_-_Shaker_-_painted_by_Hannah_Cohoon.JPG
-    provenance: Hannah Cohoon; Public Domain
-    period: 1854 CE
-    description: >-
-      The iconic Shaker spiritual vision drawing 'Tree of Life' (or 'City of Peace'), created by Sister Hannah Cohoon at the Hancock Shaker community during the Era of Manifestations.
-  - title: Round Stone Barn at Hancock Shaker Village
-    imageUrl: /artifacts/shakers-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Round_Stone_Barn,_Hancock_Shaker_Village_MA.jpg
-    provenance: John Phelan; CC BY-SA 3.0
-    period: Built 1826 CE
-    description: >-
-      The landmark two-story Round Stone Barn at Hancock Shaker Village in Massachusetts, engineered for circular efficiency in dairy farming and livestock management.
+  - title: "Shaker Gift Drawing: The Tree of Life by Hannah Cohoon"
+    imageUrl: "/artifacts/shakers-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tree_of_Life_-_Shaker_-_painted_by_Hannah_Cohoon.JPG"
+    provenance: "Hannah Cohoon; Public Domain"
+    period: "1854 CE"
+    description: "The iconic Shaker spiritual vision drawing 'Tree of Life' (or 'City of Peace'), created by Sister Hannah Cohoon at the Hancock Shaker community during the Era of Manifestations."
+  - title: "Round Stone Barn at Hancock Shaker Village"
+    imageUrl: "/artifacts/shakers-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Round_Stone_Barn,_Hancock_Shaker_Village_MA.jpg"
+    provenance: "John Phelan; CC BY-SA 3.0"
+    period: "Built 1826 CE"
+    description: "The landmark two-story Round Stone Barn at Hancock Shaker Village in Massachusetts, engineered for circular efficiency in dairy farming and livestock management."
 relations:
   - target: quakers
     type: diverged_from

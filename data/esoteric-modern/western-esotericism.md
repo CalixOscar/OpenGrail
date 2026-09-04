@@ -41,18 +41,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Western Esotericism'
     url: 'https://brill.com/search?q=Western%20Esotericism'
 artifacts:
-  - title: "Fludd's Hermetic-Kabbalistic diagram"
+  - title: "Robert Fludd's Hermetic-Kabbalistic Tree of Life diagram from \"Utriusque Cosmi\""
     imageUrl: "/artifacts/western-esotericism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tree_of_Life_Fludd.jpg"
     provenance: "Robert Fludd; Public domain"
     period: "Image dated 1621"
-    description: "This image shows Fludd's Hermetic-Kabbalistic diagram, selected as a defining visual reference for Western Esotericism."
-  - title: "Renaissance occult-philosophy text"
+  - title: "Astrological sigil of the Pleiades from Agrippa's \"De Occulta Philosophia\" (1533)"
     imageUrl: "/artifacts/western-esotericism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pleiades.JPG"
-    provenance: "Hans Bernhard ( Schnobby ); CC BY-SA 3.0"
+    provenance: "Hans Bernhard (Schnobby); CC BY-SA 3.0"
     period: "Image dated 2009"
-    description: "This image shows Renaissance occult-philosophy text, selected as a defining visual reference for Western Esotericism."
 ---
 
 # Western Esotericism

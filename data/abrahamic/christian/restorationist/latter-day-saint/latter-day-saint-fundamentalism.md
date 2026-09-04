@@ -59,18 +59,11 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Latter%20Day%20Saint%20Fundamentalism
 artifacts:
-  - title: "Portrait of Lorin C. Woolley, foundational fundamentalist authority figure"
+  - title: "Portrait of Lorin C. Woolley in wedding suit, 1882"
     imageUrl: "/artifacts/latter-day-saint-fundamentalism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Lorin_C._Woolley_wedding_suit.jpg"
     provenance: "artist unknown; Public domain"
     period: "Image dated 1882"
-    description: "This image shows Portrait of Lorin C. Woolley, foundational fundamentalist authority figure, selected as a defining visual reference for Latter Day Saint Fundamentalism."
-  - title: "Historic Short Creek community, a major fundamentalist center"
-    imageUrl: "/artifacts/latter-day-saint-fundamentalism-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Wolf_Creek_NFH_2024_Appalachia_Historically_Marginalized_Private_Landowner_Workshop_September_2024.png"
-    provenance: "Makenzie Foster/USFWS; Public domain"
-    period: "Image dated 2024"
-    description: "This image shows Historic Short Creek community, a major fundamentalist center, selected as a defining visual reference for Latter Day Saint Fundamentalism."
 ---
 
 # Latter Day Saint Fundamentalism

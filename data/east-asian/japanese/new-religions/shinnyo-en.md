@@ -39,18 +39,18 @@ relations:
     certainty: academic_consensus
     citation: Founder Itō Shinjō underwent formal esoteric training and was ordained as a Great Acharya (Dai-Ajari) within the Sanbō-in lineage of Daigo-ji Shingon Buddhism.
 artifacts:
-  - title: Shinnyo-en International Headquarters in Tachikawa
-    imageUrl: /artifacts/shinnyo-en-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Shinnyo-en_Headquarters.JPG'
-    provenance: Abasaa; Public domain
-    period: Photographed 2018
-    description: 'The international headquarters complex of Shinnyo-en in Tachikawa, Tokyo, founded in 1936 by Shinjō Itō and Tomoji Itō.'
-  - title: 'Karamon Gate at Sanbō-in, Daigo-ji'
-    imageUrl: /artifacts/shinnyo-en-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kyoto_Daigo-ji_Karamon-Tor_1.jpg'
-    provenance: Zairon; CC BY-SA 4.0
-    period: Photographed 2018
-    description: 'The Karamon gate of the Sanbō-in at Daigo-ji, Kyoto, the historic head temple of the Shingon esoteric lineage from which Shinnyo-en founder Shinjō Itō received his Great Acharya (Dai-Ajari) ordination.'
+  - title: "Shinnyo-en International Headquarters in Tachikawa"
+    imageUrl: "/artifacts/shinnyo-en-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shinnyo-en_Headquarters.JPG"
+    provenance: "Abasaa; Public domain"
+    period: "Photographed 2018"
+    description: "The international headquarters complex of Shinnyo-en in Tachikawa, Tokyo, founded in 1936 by Shinjō Itō and Tomoji Itō."
+  - title: "Karamon Gate at Sanbō-in, Daigo-ji"
+    imageUrl: "/artifacts/shinnyo-en-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kyoto_Daigo-ji_Karamon-Tor_1.jpg"
+    provenance: "Zairon; CC BY-SA 4.0"
+    period: "Photographed 2018"
+    description: "The Karamon gate of the Sanbō-in at Daigo-ji, Kyoto, the historic head temple of the Shingon esoteric lineage from which Shinnyo-en founder Shinjō Itō received his Great Acharya (Dai-Ajari) ordination."
 ---
 
 # Shinnyo-en

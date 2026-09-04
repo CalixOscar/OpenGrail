@@ -44,16 +44,12 @@ sources:
   - title: 'Brill: Scholarship on Byzantine heterodoxy'
     url: 'https://brill.com/search?q=Paulicians'
 artifacts:
-  - title: Citadel of Divriği (Ancient Tephrike)
-    imageUrl: /artifacts/paulicianism-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Divrigi_Kale_DSCF2945.jpg
-    provenance: R Prazeres; CC BY-SA 4.0
-    period: Founded 9th century (photographed 2014)
-    description: >-
-      The fortress hill of Divriği in eastern Anatolia, historically known as
-      Tephrike, founded in the 840s as the fortified capital and military
-      stronghold of the Paulician state until its destruction by Byzantine
-      Emperor Basil I in 872.
+  - title: "Citadel of Divriği (Ancient Tephrike)"
+    imageUrl: "/artifacts/paulicianism-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Divrigi_Kale_DSCF2945.jpg"
+    provenance: "R Prazeres; CC BY-SA 4.0"
+    period: "Founded 9th century (photographed 2014)"
+    description: "The fortress hill of Divriği in eastern Anatolia, historically known as Tephrike, founded in the 840s as the fortified capital and military stronghold of the Paulician state until its destruction by Byzantine Emperor Basil I in 872."
 relations:
   - target: eastern-orthodoxy
     type: diverged_from

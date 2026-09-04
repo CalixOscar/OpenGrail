@@ -51,18 +51,16 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Malankara%20Orthodox%20Syrian%20Church
 artifacts:
-  - title: "Malankara Orthodox celebration of the West Syriac Holy Qurbana"
+  - title: "Saint Stephen's Orthodox Cathedral and Pilgrim Centre in Kudassanad, Kerala"
     imageUrl: "/artifacts/malankara-orthodox-syrian-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:St._Stephen%27s_Orthodox_Cathedral_Pilgrim_Centre_,_Kudassanad,_Pandalam,_Kerala.jpg"
-    provenance: "Own work; CC BY-SA 4.0"
+    provenance: "Unknown author; CC BY-SA 4.0"
     period: "14th century"
-    description: "This image shows Malankara Orthodox celebration of the West Syriac Holy Qurbana, selected as a defining visual reference for Malankara Orthodox Syrian Church."
-  - title: "Catholicate Palace at Devalokam, seat of the Malankara Orthodox catholicos"
+  - title: "Catholicate Palace (Devalokam Aramana) in Kottayam, Kerala"
     imageUrl: "/artifacts/malankara-orthodox-syrian-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Devalokam_Aramana,_Kottayam.jpg"
     provenance: "Philipp.ninan!; CC BY-SA 4.0"
     period: "Image dated 2021"
-    description: "This image shows Catholicate Palace at Devalokam, seat of the Malankara Orthodox catholicos, selected as a defining visual reference for Malankara Orthodox Syrian Church."
 ---
 
 # Malankara Orthodox Syrian Church

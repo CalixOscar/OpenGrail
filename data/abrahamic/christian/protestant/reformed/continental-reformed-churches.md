@@ -52,18 +52,11 @@ sources:
       Reformed Churches
     url: 'https://www.cambridge.org/core/search?q=Continental%20Reformed%20Churches'
 artifacts:
-  - title: "Assembly of the Synod of Dort, defining Continental Reformed council"
-    imageUrl: "/artifacts/continental-reformed-churches-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Satire_op_de_Synode_van_Dordrecht,_1618,_RP-T-00-232(R).jpg"
-    provenance: "Rijksmuseum; CC0"
-    period: "Image dated 1621"
-    description: "This image shows Assembly of the Synod of Dort, defining Continental Reformed council, selected as a defining visual reference for Continental Reformed Churches."
-  - title: "First-edition title page of the Heidelberg Catechism"
+  - title: "Title page of the 1563 first edition of the Heidelberg Catechism"
     imageUrl: "/artifacts/continental-reformed-churches-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Heidelberger_Katechismus_1563.jpg"
-    provenance: "http://heidelblog.files.wordpress.com/2009/01/catechismus1563.jpg; Public domain"
+    provenance: "Unknown; Public domain"
     period: "Image dated 1563"
-    description: "This image shows First-edition title page of the Heidelberg Catechism, selected as a defining visual reference for Continental Reformed Churches."
 ---
 
 # Continental Reformed Churches

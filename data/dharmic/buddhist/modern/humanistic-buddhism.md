@@ -57,18 +57,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Humanistic%20Buddhism'
 artifacts:
-  - title: "Taixu, foundational advocate of modern Humanistic Buddhism"
+  - title: "Stele inscription of Master Taixu's calligraphy for the Jiaoshan Buddhist Philosophy Academy"
     imageUrl: "/artifacts/humanistic-buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%E7%84%A6%E5%B1%B1%E4%BD%9B%E5%AD%A6%E9%99%A2%E8%AE%AD%E7%BB%83%E7%8F%AD%E8%AE%B00743.jpg"
     provenance: "Cangminzho; CC BY-SA 4.0"
     period: "Image dated 2017"
-    description: "This image shows Taixu, foundational advocate of modern Humanistic Buddhism, selected as a defining visual reference for Humanistic Buddhism."
-  - title: "Dharma Drum Mountain World Center, a major Humanistic Buddhist institution"
+  - title: "Emblem stone at the entrance road of Dharma Drum Mountain World Center for Buddhist Education"
     imageUrl: "/artifacts/humanistic-buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dharma_Drum_Mountain_Entrance_Road_Sign_20110206.jpg"
     provenance: "玄史生; CC BY-SA 3.0"
     period: "Image dated 2011"
-    description: "This image shows Dharma Drum Mountain World Center, a major Humanistic Buddhist institution, selected as a defining visual reference for Humanistic Buddhism."
 ---
 
 # Humanistic Buddhism

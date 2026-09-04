@@ -45,25 +45,18 @@ sources:
   - title: 'Brill: Russian Sectarian Mysticism'
     url: 'https://brill.com/search?q=Khlysty+Russian+Sectarianism'
 artifacts:
-  - title: Khlyst ecstatic ritual (radenie)
-    imageUrl: /artifacts/khlysts-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Ecstatic_ritual_of_Khlysts_(radeniye).jpg
-    provenance: Unknown author; Public domain
-    period: 19th century
-    description: >-
-      A 19th-century illustration depicting a nocturnal Khlyst radenie assembly,
-      showing participants in white garments engaged in ecstatic circular movement
-      and spiritual chanting.
-  - title: Portrait of Khlyst leader Perfil Katasonov
-    imageUrl: /artifacts/khlysts-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Perfil_Katasonov.jpg
-    provenance: Unknown author; Public domain
-    period: 19th century (published 1911)
-    description: >-
-      A 19th-century portrait drawing of Perfil Katasonov (1783–1856), a prominent
-      spiritual leader and venerated "living Christ" of the Postniki (Fasters)
-      Khlyst branch, published in Vladimir Bonch-Bruyevich's ethnographic
-      collection.
+  - title: "Khlyst ecstatic ritual (radenie)"
+    imageUrl: "/artifacts/khlysts-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ecstatic_ritual_of_Khlysts_(radeniye).jpg"
+    provenance: "Unknown author; Public domain"
+    period: "19th century"
+    description: "A 19th-century illustration depicting a nocturnal Khlyst radenie assembly, showing participants in white garments engaged in ecstatic circular movement and spiritual chanting."
+  - title: "Portrait of Khlyst leader Perfil Katasonov"
+    imageUrl: "/artifacts/khlysts-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Perfil_Katasonov.jpg"
+    provenance: "Unknown author; Public domain"
+    period: "19th century (published 1911)"
+    description: "A 19th-century portrait drawing of Perfil Katasonov (1783–1856), a prominent spiritual leader and venerated \"living Christ\" of the Postniki (Fasters) Khlyst branch, published in Vladimir Bonch-Bruyevich's ethnographic collection."
 relations:
   - target: eastern-orthodoxy
     type: diverged_from

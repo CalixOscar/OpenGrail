@@ -45,18 +45,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Rinzai%20Zen'
 artifacts:
-  - title: "Portrait of Eisai, a founding transmitter of Rinzai Zen in Japan"
+  - title: "Portrait of Zen Master Myōan Eisai preserved at Kennin-ji in Kyoto"
     imageUrl: "/artifacts/rinzai-zen-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Myoan-Eisai-Kennin-ji-Portrait.png"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Kennin-ji / Unknown author; Public domain"
     period: "12 th century"
-    description: "This image shows Portrait of Eisai, a founding transmitter of Rinzai Zen in Japan, selected as a defining visual reference for Rinzai Zen."
-  - title: "Kennin-ji, Japan's oldest Zen temple and an early Rinzai center"
+  - title: "Visitors at Kennin-ji Zen temple in Kyoto"
     imageUrl: "/artifacts/rinzai-zen-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Young_Women_at_Kennin-ji_Zen_Temple_-_Kyoto_-_Japan_(47929430671).jpg"
-    provenance: "Adam Jones from Kelowna, BC, Canada; CC BY-SA 2.0"
+    provenance: "Adam Jones; CC BY-SA 2.0"
     period: "Image dated 2019"
-    description: "This image shows Kennin-ji, Japan's oldest Zen temple and an early Rinzai center, selected as a defining visual reference for Rinzai Zen."
 ---
 
 # Rinzai Zen

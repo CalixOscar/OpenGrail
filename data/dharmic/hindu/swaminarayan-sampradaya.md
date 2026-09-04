@@ -50,18 +50,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Swaminarayan%20Samprad%C4%81ya'
 artifacts:
-  - title: "Sahajanand Swami portrayed as Swaminarayan"
+  - title: "Shri Swaminarayan Mandir in Bhavnagar, Gujarat"
     imageUrl: "/artifacts/swaminarayan-sampradaya-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shri_Swaminarayan_Mandir,_Bhavnagar_01.jpg"
     provenance: "Bernard Gagnon; CC BY-SA 3.0"
     period: "Image dated 2013"
-    description: "This image shows Sahajanand Swami portrayed as Swaminarayan, selected as a defining visual reference for Swaminarayan Sampradāya."
-  - title: "Original Swaminarayan Mandir at Kalupur, Ahmedabad"
+  - title: "Carved wooden facade of Shri Swaminarayan Mandir in Kalupur, Ahmedabad"
     imageUrl: "/artifacts/swaminarayan-sampradaya-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kalupur_Swaminarayan_mandir.JPG"
     provenance: "Rajani; CC BY-SA 3.0"
     period: "Image dated 2011"
-    description: "This image shows Original Swaminarayan Mandir at Kalupur, Ahmedabad, selected as a defining visual reference for Swaminarayan Sampradāya."
 ---
 
 # Swaminarayan Sampradāya

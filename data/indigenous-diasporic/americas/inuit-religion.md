@@ -44,18 +44,11 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Inuit%20Religions'
 artifacts:
-  - title: "Traditional stone Inuksuk landmark and spiritual guide"
-    imageUrl: "/artifacts/inuit-religion-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nova_Scotia_NS-00701_-_Inuksuk_(26806721523).jpg"
-    provenance: "Dennis G. Jarvis; CC BY-SA 2.0"
-    period: "Image dated 2016"
-    description: "This image shows Traditional stone Inuksuk landmark and spiritual guide, selected as a defining visual reference for Inuit Religions."
-  - title: "Inuit traditional carved ivory or stone ritual talisman"
+  - title: "Carved walrus ivory animal amulets used by shamans and hunters"
     imageUrl: "/artifacts/inuit-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Four_carved_ivory_amulets,_Eskimo._Wellcome_L0008603.jpg"
-    provenance: "Wikimedia Commons; CC BY 4.0"
+    provenance: "Wellcome Collection; CC BY 4.0"
     period: "Digital file published 2014"
-    description: "This image shows Inuit traditional carved ivory or stone ritual talisman, selected as a defining visual reference for Inuit Religions."
 ---
 
 # Inuit Religions

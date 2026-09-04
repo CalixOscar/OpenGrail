@@ -43,12 +43,12 @@ relations:
     certainty: academic_consensus
     citation: Founded in the 12th century by monk Mao Ziyuan as a popular lay reform of Tiantai and Pure Land Amitābha recitation societies.
 artifacts:
-  - title: Handscroll Depicting the Gathering of the White Lotus Society
-    imageUrl: /artifacts/white-lotus-bailianjiao-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Anonymous_-_White_Lotus_Society_-_13.220.24_-_Metropolitan_Museum_of_Art.jpg'
-    provenance: Metropolitan Museum of Art; Public domain
-    period: Ming or Qing Dynasty (14th–19th century)
-    description: 'Ming or Qing dynasty ink handscroll in the style of Li Gonglin illustrating the legendary assembly of the White Lotus Society (Bailian hui), representing the Song-era lay Pure Land fellowship that later inspired Chinese salvationist sects.'
+  - title: "Handscroll Depicting the Gathering of the White Lotus Society"
+    imageUrl: "/artifacts/white-lotus-bailianjiao-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Anonymous_-_White_Lotus_Society_-_13.220.24_-_Metropolitan_Museum_of_Art.jpg"
+    provenance: "Metropolitan Museum of Art; Public domain"
+    period: "Ming or Qing Dynasty (14th–19th century)"
+    description: "Ming or Qing dynasty ink handscroll in the style of Li Gonglin illustrating the legendary assembly of the White Lotus Society (Bailian hui), representing the Song-era lay Pure Land fellowship that later inspired Chinese salvationist sects."
 ---
 
 # White Lotus

@@ -50,18 +50,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: A∴A∴'
     url: 'https://brill.com/search?q=A%E2%88%B4A%E2%88%B4'
 artifacts:
-  - title: "A∴A∴ founder Aleister Crowley"
+  - title: "Kabbalistic Tree of Life in the Queen Scale of Crowley's Liber 777"
     imageUrl: "/artifacts/aa-thelema-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tree_of_life_kircher_plain_color.png"
-    provenance: "No machine-readable author provided. PuckSmith~commonswiki assumed (based on copyright claims).; Public domain"
+    provenance: "PuckSmith; Public domain"
     period: "Image dated 2006"
-    description: "This image shows A∴A∴ founder Aleister Crowley, selected as a defining visual reference for A∴A∴."
-  - title: "Original A∴A∴ Equinox publication"
-    imageUrl: "/artifacts/aa-thelema-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Aboard_the_Celebrity_Equinox_on_a_Transatlantic_Cruise_(6690584345).jpg"
-    provenance: "Joe Ross from Lansing, Michigan; CC BY-SA 2.0"
-    period: "Image dated 2011"
-    description: "This image shows Original A∴A∴ Equinox publication, selected as a defining visual reference for A∴A∴."
 ---
 
 # A∴A∴

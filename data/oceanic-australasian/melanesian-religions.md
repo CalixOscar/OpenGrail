@@ -44,18 +44,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Melanesian%20Religions'
 artifacts:
-  - title: "Malagan ceremonial carved wooden funerary mask from New Ireland"
+  - title: "Carved wooden Malagan funerary mask from New Ireland, Papua New Guinea (1901)"
     imageUrl: "/artifacts/melanesian-religions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Malagan_funeral_mask,_New_Ireland,_Papua_New_Guinea,_1901_-_Etnografiska_museet_-_Stockholm,_Sweden_-_DSC00942.JPG"
     provenance: "Daderot; CC0"
     period: "Image dated 2014"
-    description: "This image shows Malagan ceremonial carved wooden funerary mask from New Ireland, selected as a defining visual reference for Melanesian Religions."
-  - title: "Haus Tambaran ancestral spirit house on the Sepik River"
+  - title: "Haus Tambaran ancestral spirit house at Apangai, East Sepik Province"
     imageUrl: "/artifacts/melanesian-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Haus_Tambaran,_Apangai.jpg"
     provenance: "Sylt-Tinto; CC0"
     period: "Image dated 2012"
-    description: "This image shows Haus Tambaran ancestral spirit house on the Sepik River, selected as a defining visual reference for Melanesian Religions."
 ---
 
 # Melanesian Religions

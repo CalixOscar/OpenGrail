@@ -47,18 +47,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ramakrishna%20Movement'
 artifacts:
-  - title: "Historic photograph of Ramakrishna"
+  - title: "Historic studio photograph of Sri Ramakrishna Paramahamsa"
     imageUrl: "/artifacts/ramakrishna-movement-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ramakrishna.jpg"
     provenance: "Abinash Chandra Dna; Public domain"
     period: "Image dated 1885"
-    description: "This image shows Historic photograph of Ramakrishna, selected as a defining visual reference for Ramakrishna Movement."
-  - title: "Belur Math, headquarters of the Ramakrishna Order and Mission"
+  - title: "Sri Ramakrishna Temple at Belur Math headquarters, Howrah"
     imageUrl: "/artifacts/ramakrishna-movement-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Belur_Math,_Howrah,_India_02.jpg"
     provenance: "Ravi Dwivedi; CC BY-SA 4.0"
     period: "Image dated 2022"
-    description: "This image shows Belur Math, headquarters of the Ramakrishna Order and Mission, selected as a defining visual reference for Ramakrishna Movement."
 ---
 
 # Ramakrishna Movement

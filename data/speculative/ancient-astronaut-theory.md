@@ -52,19 +52,6 @@ sources:
     url: 'https://www.oxfordreference.com/search?q=Ancient%20Astronaut%20Theory'
   - title: 'Brill Handbook of Religious Traditions: Ancient Astronaut Theory'
     url: 'https://brill.com/search?q=Ancient%20Astronaut%20Theory'
-artifacts:
-  - title: "Nazca Lines Hummingbird aerial geoglyph"
-    imageUrl: "/artifacts/ancient-astronaut-theory-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:L%C3%ADneas_de_Nazca,_Nazca,_Per%C3%BA,_2015-07-29,_DD_52.JPG"
-    provenance: "Diego Delso; CC BY-SA 4.0"
-    period: "Image dated 2015"
-    description: "This image shows Nazca Lines Hummingbird aerial geoglyph, selected as a defining visual reference for Ancient Astronaut Theory."
-  - title: "Palenque sarcophagus lid carving of K'inich Janaab Pakal I"
-    imageUrl: "/artifacts/ancient-astronaut-theory-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Palenque,_Temple_of_the_Inscriptions_(20498755918).jpg"
-    provenance: "Arian Zwegers from Brussels, Belgium; CC BY 2.0"
-    period: "7th century"
-    description: "This image shows Palenque sarcophagus lid carving of K'inich Janaab Pakal I, selected as a defining visual reference for Ancient Astronaut Theory."
 ---
 
 # Ancient Astronaut Theory

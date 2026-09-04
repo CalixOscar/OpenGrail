@@ -51,18 +51,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Atenism'
     url: 'https://brill.com/search?q=Atenism'
 artifacts:
-  - title: "Amarna royal family beneath Aten"
+  - title: "Interior of the tomb of Panehesy, Chief Servitor of the Aten at Amarna (Tomb EA 6)"
     imageUrl: "/artifacts/atenism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Panehesy%E2%80%99s_EA.6_tomb_(Kairoinfo4u).jpg"
-    provenance: "kairoinfo4u: Mutnedjmet; CC BY-SA 2.0"
+    provenance: "kairoinfo4u; CC BY-SA 2.0"
     period: "Image dated 2009"
-    description: "This image shows Amarna royal family beneath Aten, selected as a defining visual reference for Atenism."
-  - title: "Great Aten Temple at Akhetaten"
+  - title: "Limestone balustrade relief from a temple of the Aten at Amarna, Museo Egizio Turin"
     imageUrl: "/artifacts/atenism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Stela_of_the_Great_temple_of_Aten_at_Akhetaten2008.jpg"
-    provenance: "Jean-Pierre Dalbera; CC BY 2.0"
+    provenance: "Jean-Pierre Dalbéra; CC BY 2.0"
     period: "Image dated 2008"
-    description: "This image shows Great Aten Temple at Akhetaten, selected as a defining visual reference for Atenism."
 ---
 
 # Atenism

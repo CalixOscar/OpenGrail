@@ -45,24 +45,18 @@ sources:
   - title: 'Brill: Scholarship on the Bohemian Reformation'
     url: 'https://brill.com/search?q=Hussites'
 artifacts:
-  - title: Jan Hus at the Stake in the Jena Codex
-    imageUrl: /artifacts/hussites-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Jan_Hus_at_the_Stake.jpg
-    provenance: Janíček Zmilelý z Písku; Public domain
-    period: c. 1490–1500 (Jena Codex)
-    description: >-
-      A late 15th-century manuscript illumination from the Jena Codex (Antithesis
-      Christi et Antichristi) depicting Bohemian reformer Jan Hus being burned at
-      the stake at the Council of Constance in July 1415.
-  - title: Hussite Troops Under Jan Žižka in the Jena Codex
-    imageUrl: /artifacts/hussites-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Jensky_kodex_Zizka.jpg
-    provenance: Janíček Zmilelý z Písku; Public domain
-    period: c. 1490–1500 (Jena Codex)
-    description: >-
-      Manuscript miniature from the Jena Codex showing Hussite military leader Jan
-      Žižka leading an armed column carrying the distinctive Utraquist chalice
-      banner during the Hussite Wars.
+  - title: "Jan Hus at the Stake in the Jena Codex"
+    imageUrl: "/artifacts/hussites-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jan_Hus_at_the_Stake.jpg"
+    provenance: "Janíček Zmilelý z Písku; Public domain"
+    period: "c. 1490–1500 (Jena Codex)"
+    description: "A late 15th-century manuscript illumination from the Jena Codex (Antithesis Christi et Antichristi) depicting Bohemian reformer Jan Hus being burned at the stake at the Council of Constance in July 1415."
+  - title: "Hussite Troops Under Jan Žižka in the Jena Codex"
+    imageUrl: "/artifacts/hussites-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jensky_kodex_Zizka.jpg"
+    provenance: "Janíček Zmilelý z Písku; Public domain"
+    period: "c. 1490–1500 (Jena Codex)"
+    description: "Manuscript miniature from the Jena Codex showing Hussite military leader Jan Žižka leading an armed column carrying the distinctive Utraquist chalice banner during the Hussite Wars."
 relations:
   - target: catholicism
     type: diverged_from

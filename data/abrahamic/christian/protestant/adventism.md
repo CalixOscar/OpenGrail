@@ -50,18 +50,11 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Adventism'
     url: 'https://www.cambridge.org/core/search?q=Adventism'
 artifacts:
-  - title: "Portrait of William Miller, catalyst of the Adventist movement"
-    imageUrl: "/artifacts/adventism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:CONANT(1898)_p279_A_Millerite%27s_attempt_to_fly.jpg"
-    provenance: "Wikimedia Commons; Public domain"
-    period: "Image dated 1898"
-    description: "This image shows Portrait of William Miller, catalyst of the Adventist movement, selected as a defining visual reference for Adventism."
-  - title: "Millerite prophetic chart used in early Adventist preaching"
+  - title: "1843 Millerite prophetic chart illustrating the prophecies of Daniel and Revelation"
     imageUrl: "/artifacts/adventism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Millerite_1843_chart.jpg"
-    provenance: "Wikimedia Commons; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "Object or image dated 1843"
-    description: "This image shows Millerite prophetic chart used in early Adventist preaching, selected as a defining visual reference for Adventism."
 ---
 
 # Adventism

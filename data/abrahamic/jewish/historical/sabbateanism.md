@@ -47,24 +47,18 @@ sources:
   - title: 'Matt Goldish: The Sabbatean Prophets'
     url: 'https://www.hup.harvard.edu/books/9780674012912'
 artifacts:
-  - title: Contemporary engraving of Shabbetai Tzvi
-    imageUrl: /artifacts/sabbateanism-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Shabbatai1.jpg
-    provenance: Thomas Coenen; Public domain
-    period: '1669'
-    description: >-
-      A contemporary 1669 portrait engraving of Shabbetai Tzvi published in
-      Thomas Coenen's chronicle 'Ydele Verwachtinge der Joden' (Amsterdam), based
-      on a 1665 life sketch from Smyrna.
-  - title: Shabbetai Tzvi enthroned in the 1666 Amsterdam Tikkun
-    imageUrl: /artifacts/sabbateanism-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Shabbatai2.jpg
-    provenance: Unknown author; Public domain
-    period: '1666'
-    description: >-
-      Frontispiece illustration from the 1666 Amsterdam liturgical manual
-      'Tikkun', depicting Shabbetai Tzvi enthroned with the crown of David during
-      the height of the messianic movement.
+  - title: "Contemporary engraving of Shabbetai Tzvi"
+    imageUrl: "/artifacts/sabbateanism-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shabbatai1.jpg"
+    provenance: "Thomas Coenen; Public domain"
+    period: "1669"
+    description: "A contemporary 1669 portrait engraving of Shabbetai Tzvi published in Thomas Coenen's chronicle 'Ydele Verwachtinge der Joden' (Amsterdam), based on a 1665 life sketch from Smyrna."
+  - title: "Shabbetai Tzvi enthroned in the 1666 Amsterdam Tikkun"
+    imageUrl: "/artifacts/sabbateanism-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shabbatai2.jpg"
+    provenance: "Unknown author; Public domain"
+    period: "1666"
+    description: "Frontispiece illustration from the 1666 Amsterdam liturgical manual 'Tikkun', depicting Shabbetai Tzvi enthroned with the crown of David during the height of the messianic movement."
 relations:
   - target: judaism
     type: diverged_from

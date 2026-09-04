@@ -47,19 +47,11 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sarv%C4%81stiv%C4%81da'
 artifacts:
-  - title: "Kanishka reliquary from the Kushan milieu that patronized Sarvastivada"
+  - title: "Reliquary casket from the Kanishka Stupa in Peshawar preserved in Mandalay"
     imageUrl: "/artifacts/sarvastivada-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Buddha_relics.JPG"
     provenance: "Teresa Merrigan; CC BY-SA 3.0"
     period: "2nd century"
-    description: "This image shows Kanishka reliquary from the Kushan milieu that patronized Sarvastivada, selected as a defining visual reference for Sarvāstivāda."
-  - title: "Central Asian manuscript witness to Sarvastivada scholastic literature"
-    imageUrl: "/artifacts/sarvastivada-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Destruction_of_Daksha%27s_sacrifice,_from_an_illustrated_manuscript_of_the_Razmnama.jpg"
-    provenance: "Jamshed; CC0"
-    period: "Image dated 1598"
-    description: "This image shows Central Asian manuscript witness to Sarvastivada scholastic literature, selected as a defining visual reference for Sarvāstivāda."
-    detail: high
 ---
 
 # Sarvāstivāda

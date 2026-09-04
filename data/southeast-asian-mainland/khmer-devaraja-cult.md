@@ -40,18 +40,11 @@ sources:
   - title: 'UNESCO World Heritage: Angkor'
     url: 'https://whc.unesco.org/en/list/668/'
 artifacts:
-  - title: "Khmer royal Siva linga embodying the devaraja cult"
-    imageUrl: "/artifacts/khmer-devaraja-cult-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dancers-royales-de-pnom-penh-angkor-unknown-koditek-album-1_f7a675f808d4d45cfba2245a4e9bdc5b.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
-    period: "Digital file published 2026"
-    description: "This image shows Khmer royal Siva linga embodying the devaraja cult, selected as a defining visual reference for Khmer Angkorian Devaraja (God-King) Religion."
-  - title: "Sdok Kok Thom stele recording the origin of the devaraja rite"
+  - title: "Prasat Sdok Kok Thom Khmer temple sanctuary in Sa Kaeo, Thailand"
     imageUrl: "/artifacts/khmer-devaraja-cult-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Prasat_Sdok_Kok_Thom-001.jpg"
     provenance: "Ddalbiez; CC BY-SA 3.0"
     period: "Image dated 2009"
-    description: "This image shows Sdok Kok Thom stele recording the origin of the devaraja rite, selected as a defining visual reference for Khmer Angkorian Devaraja (God-King) Religion."
     detail: high
 ---
 

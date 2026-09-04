@@ -44,18 +44,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Protestantism'
     url: 'https://www.cambridge.org/core/search?q=Protestantism'
 artifacts:
-  - title: "Luther and the Ninety-five Theses at Wittenberg"
+  - title: "The bronze Thesis Door of the Schlosskirche in Wittenberg cast with Luther's Ninety-five Theses"
     imageUrl: "/artifacts/protestantism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-16879-0021,_Wittenberg,_Schlosskirche,_Hauptportal,_Thesent%C3%BCr.jpg"
-    provenance: "Hans-Gunter Quaschinsky; CC BY-SA 3.0 de"
+    provenance: "Hans-Günter Quaschinsky; CC BY-SA 3.0 de"
     period: "Image dated 1952"
-    description: "This image shows Luther and the Ninety-five Theses at Wittenberg, selected as a defining visual reference for Protestantism."
-  - title: "Illustrated first complete edition of Luther's German Bible"
+  - title: "Opening page of Genesis from Martin Luther's complete German Bible (Wittenberg, 1534)"
     imageUrl: "/artifacts/protestantism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Luther_1534,_Genesis_I.jpg"
     provenance: "Published by Hans Luft, 1534; Public domain"
     period: "Image dated 1534"
-    description: "This image shows Illustrated first complete edition of Luther's German Bible, selected as a defining visual reference for Protestantism."
 ---
 
 # Protestantism

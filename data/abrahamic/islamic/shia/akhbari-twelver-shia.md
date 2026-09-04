@@ -47,19 +47,11 @@ sources:
       Shiism
     url: 'https://www.cambridge.org/core/search?q=Akhbari%20Twelver%20Shiism'
 artifacts:
-  - title: "Tomb of Yusuf al-Bahrani, leading Akhbari scholar"
+  - title: "Tomb marker of Akhbari jurist Yusuf al-Bahrani at the Imam Husayn Shrine"
     imageUrl: "/artifacts/akhbari-twelver-shia-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Tomb_of_Yusuf_al-Bahrani.jpg"
     provenance: "Mazharabbasjaffari; CC BY-SA 4.0"
     period: "Image dated 2018"
-    description: "This image shows Tomb of Yusuf al-Bahrani, leading Akhbari scholar, selected as a defining visual reference for Akhbari Twelver Shiism."
-  - title: "Manuscript of al-Astarabadi's foundational Akhbari treatise"
-    imageUrl: "/artifacts/akhbari-twelver-shia-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Seven_leaves_from_an_anthology_compiled_for_Sultan_Abdullah_Quli_Qutb_Shahi_(6125085590).jpg"
-    provenance: "thesandiegomuseumofartcollection; Public domain"
-    period: "Image dated 2003"
-    description: "This image shows Manuscript of al-Astarabadi's foundational Akhbari treatise, selected as a defining visual reference for Akhbari Twelver Shiism."
-    detail: high
 ---
 
 # Akhbari Twelver Shiism

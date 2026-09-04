@@ -48,18 +48,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Drukpa%20Kagyu'
 artifacts:
-  - title: "Lineage image of Tsangpa Gyare Yeshe Dorje"
+  - title: "Traditional painting of Tsangpa Gyare Yeshe Dorje, 1st Gyalwang Drukpa"
     imageUrl: "/artifacts/drukpa-kagyu-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tsangpa_Gyare.jpg"
     provenance: "www.treasuryoflives.org; Public domain"
     period: "Image dated 2014"
-    description: "This image shows Lineage image of Tsangpa Gyare Yeshe Dorje, selected as a defining visual reference for Drukpa Kagyu."
-  - title: "Hemis Monastery, a major Drukpa Kagyu sanctuary"
+  - title: "Buddha statue inside Hemis Monastery, Ladakh"
     imageUrl: "/artifacts/drukpa-kagyu-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hemis_Budhdha_statue.JPG"
     provenance: "Theblessedzee; CC BY-SA 3.0"
     period: "Image dated 2012"
-    description: "This image shows Hemis Monastery, a major Drukpa Kagyu sanctuary, selected as a defining visual reference for Drukpa Kagyu."
 ---
 
 # Drukpa Kagyu

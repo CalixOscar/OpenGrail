@@ -44,14 +44,12 @@ sources:
   - title: 'Oxford Reference: Overview of Hermetic Qabalah and B.O.T.A.'
     url: 'https://www.oxfordreference.com/search?q=Builders+of+the+Adytum'
 artifacts:
-  - title: Portrait of Paul Foster Case
-    imageUrl: /artifacts/builders-of-the-adytum-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Paul_Foster_Case.jpg
-    provenance: Joetuite; CC BY-SA 3.0
-    period: Photographed c. 1930s
-    description: >-
-      Portrait of American occultist Paul Foster Case (1884–1954), founder of Builders of the Adytum
-      (B.O.T.A.) and author of definitive studies on Hermetic Qabalah and the Tarot.
+  - title: "Portrait of Paul Foster Case"
+    imageUrl: "/artifacts/builders-of-the-adytum-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Paul_Foster_Case.jpg"
+    provenance: "Joetuite; CC BY-SA 3.0"
+    period: "Photographed c. 1930s"
+    description: "Portrait of American occultist Paul Foster Case (1884–1954), founder of Builders of the Adytum (B.O.T.A.) and author of definitive studies on Hermetic Qabalah and the Tarot."
 relations:
   - target: hermetic-order-golden-dawn
     type: diverged_from

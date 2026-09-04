@@ -63,18 +63,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Christianity'
     url: 'https://www.cambridge.org/core/search?q=Christianity'
 artifacts:
-  - title: "The Last Supper, iconic sacred art of Jesus and the apostles"
+  - title: "Postcard reproduction of Leonardo da Vinci's The Last Supper"
     imageUrl: "/artifacts/christianity-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Postcard_of_Last_Supper_by_Da_Vinci_published_in_or_before_1904.jpg"
-    provenance: "Anonymous Unknown author; Public domain"
+    provenance: "Anonymous; Public domain"
     period: "Image dated 2012"
-    description: "This image shows The Last Supper, iconic sacred art of Jesus and the apostles, selected as a defining visual reference for Christianity."
-  - title: "Edicule of the Holy Sepulchre, Christianity's central resurrection shrine"
+  - title: "Vigil lamps above the entrance to the Edicule in the Church of the Holy Sepulchre"
     imageUrl: "/artifacts/christianity-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:101_0123.JPG"
     provenance: "Talmoryair; CC BY 2.5"
     period: "Image dated 2004"
-    description: "This image shows Edicule of the Holy Sepulchre, Christianity's central resurrection shrine, selected as a defining visual reference for Christianity."
 ---
 
 # Christianity

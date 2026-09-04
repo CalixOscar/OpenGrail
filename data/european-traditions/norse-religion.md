@@ -46,18 +46,16 @@ sources:
   - title: 'Encyclopaedia Britannica: "Norse Religion"'
     url: 'https://www.britannica.com/topic/norse-religion'
 artifacts:
-  - title: "Odin on the Tjangvide image stone"
+  - title: "Relief of Odin riding the eight-legged horse Sleipnir after the Tjängvide image stone"
     imageUrl: "/artifacts/norse-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Vikings._Odin_Riding_his_Eight_Legs_Horse,_Sleipnir.jpg"
     provenance: "Becherel; CC BY-SA 3.0"
     period: "9th century"
-    description: "This image shows Odin on the Tjangvide image stone, selected as a defining visual reference for Norse Religion."
-  - title: "Viking-age Thor's hammer pendant"
+  - title: "Viking Age silver filigree Thor's hammer pendant from Scania, Sweden"
     imageUrl: "/artifacts/norse-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pendant,_Thor%E2%80%99s_hammer_(6851003113).jpg"
-    provenance: "The Swedish History Museum, Stockholm from Sweden; CC BY 2.0"
+    provenance: "The Swedish History Museum; CC BY 2.0"
     period: "Image dated 2011"
-    description: "This image shows Viking-age Thor's hammer pendant, selected as a defining visual reference for Norse Religion."
 ---
 
 # Norse Religion & Old Scandinavian Heathenry

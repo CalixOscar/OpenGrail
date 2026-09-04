@@ -43,18 +43,16 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: "Virtue Ethics"'
     url: 'https://plato.stanford.edu/entries/ethics-virtue/'
 artifacts:
-  - title: "Roman marble portrait bust of Aristotle"
+  - title: "Roman marble portrait bust of Aristotle at the Louvre"
     imageUrl: "/artifacts/aristotelian-virtue-ethics-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Aristoteles_Louvre.jpg"
-    provenance: "Eric Gaba ( User:Sting ); CC BY-SA 2.5"
+    provenance: "Eric Gaba (User:Sting); CC BY-SA 2.5"
     period: "2nd century AD"
-    description: "This image shows Roman marble portrait bust of Aristotle, selected as a defining visual reference for Aristotelian & Classical Virtue Ethics."
-  - title: "Greek manuscript leaf of Aristotle's Nicomachean Ethics"
+  - title: "Manuscript leaf of Aristotle's Nicomachean Ethics (Book VI)"
     imageUrl: "/artifacts/aristotelian-virtue-ethics-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Aristotle,_Nicomachean_Ethics,_Book_6.jpg"
     provenance: "Aristotle; Public domain"
     period: "Late 15th century"
-    description: "This image shows Greek manuscript leaf of Aristotle's Nicomachean Ethics, selected as a defining visual reference for Aristotelian & Classical Virtue Ethics."
     detail: high
 ---
 

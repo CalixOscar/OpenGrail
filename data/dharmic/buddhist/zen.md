@@ -44,18 +44,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Zen%20Buddhism'
 artifacts:
-  - title: "Hakuin's forceful ink portrait of Bodhidharma"
+  - title: "Half-length portrait of Bodhidharma by Hakuin Ekaku"
     imageUrl: "/artifacts/zen-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hakuin_Ekaku_-_Half-length_Portrait_of_Bodhidharma_-_2018.66.1_-_Minneapolis_Institute_of_Art.jpg"
     provenance: "Hakuin Ekaku; Public domain"
     period: "Digital file published 2022"
-    description: "This image shows Hakuin's forceful ink portrait of Bodhidharma, selected as a defining visual reference for Zen Buddhism."
-  - title: "Ryoan-ji dry landscape garden emblematic of Japanese Zen"
+  - title: "Karesansui (dry landscape rock garden) at Ryoan-ji, Kyoto"
     imageUrl: "/artifacts/zen-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kare-sansui_zen_garden,_Ry%C5%8Dan-ji,_Kyoto_20190416_1.jpg"
     provenance: "DXR; CC BY-SA 4.0"
     period: "Image dated 2019"
-    description: "This image shows Ryoan-ji dry landscape garden emblematic of Japanese Zen, selected as a defining visual reference for Zen Buddhism."
 ---
 
 # Zen Buddhism

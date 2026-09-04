@@ -43,19 +43,17 @@ sources:
   - title: 'Jasser Auda: "Maqasid al-Shariah as Philosophy of Islamic Law"'
     url: 'https://iiit.org/'
 artifacts:
-  - title: "Illuminated manuscript page of Al-Ghazali's Ihyaʾ ʿUlum al-Din"
+  - title: "Illuminated manuscript page of al-Ghazali's Ihya' 'Ulum al-Din (15th century)"
     imageUrl: "/artifacts/islamic-akhlaq-ethics-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Illuminated_Opening_of_the_Eighth_Section_of_Ihya%27_%60Ulum_al-Din_(Revivification_of_the_Religious_Sciences)_by_Muhammed_al-Ghazali_al-Tusi,_Endowed_by_the_Mamluk_Sultan_Abu%27l_Nasr_Qaytbay_LACMA_M.73.5.516.jpg"
-    provenance: "Wikimedia Commons; Public domain"
+    provenance: "Unknown; Public domain"
     period: "15th century"
-    description: "This image shows Illuminated manuscript page of Al-Ghazali's Ihyaʾ ʿUlum al-Din, selected as a defining visual reference for Ilm al-Akhlāq & Maqāṣid al-Sharī'ah (Islamic Ethics)."
     detail: high
-  - title: "Courtyard and library of the University of al-Qarawiyyin in Fez"
+  - title: "Courtyard and pavilion of the University of al-Qarawiyyin in Fez"
     imageUrl: "/artifacts/islamic-akhlaq-ethics-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Al-Qarawiyyin01.jpg"
     provenance: "Khonsali; CC BY-SA 3.0"
     period: "Digital file published 2008"
-    description: "This image shows Courtyard and library of the University of al-Qarawiyyin in Fez, selected as a defining visual reference for Ilm al-Akhlāq & Maqāṣid al-Sharī'ah (Islamic Ethics)."
 ---
 
 # 'Ilm al-Akhlāq & Maqāṣid al-Sharī'ah (Islamic Ethics)

@@ -45,18 +45,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Maya%20Religions'
 artifacts:
-  - title: "El Castillo pyramid of Kʼukʼulkan at Chichen Itza"
+  - title: "Temple of Kʼukʼulkan (El Castillo) step-pyramid at Chichen Itza"
     imageUrl: "/artifacts/maya-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Chichen_Itza,_El_Castillo_(14180679857).jpg"
-    provenance: "Arian Zwegers from Brussels, Belgium; CC BY 2.0"
+    provenance: "Arian Zwegers; CC BY 2.0"
     period: "Image dated 2013"
-    description: "This image shows El Castillo pyramid of Kʼukʼulkan at Chichen Itza, selected as a defining visual reference for Maya Religions."
-  - title: "Astronomical and ritual page from the Dresden Codex"
+  - title: "Page from the pre-Columbian Maya Dresden Codex"
     imageUrl: "/artifacts/maya-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dresden_codex,_page_2.jpg"
-    provenance: "circa 1200 date QS:P,+1200-00-00T00:00:00Z/9,P1480,Q5727902; Public domain"
+    provenance: "Unknown Maya scribe; Public domain"
     period: "Digital file published 2016"
-    description: "This image shows Astronomical and ritual page from the Dresden Codex, selected as a defining visual reference for Maya Religions."
     detail: high
 ---
 

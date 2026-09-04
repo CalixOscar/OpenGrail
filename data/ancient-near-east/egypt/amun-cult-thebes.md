@@ -51,18 +51,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Amun at Thebes'
     url: 'https://brill.com/search?q=Cult%20of%20Amun%20at%20Thebes'
 artifacts:
-  - title: "Cult image of Amun-Ra"
-    imageUrl: "/artifacts/amun-cult-thebes-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nubian_Prisoners,_Abu_Simbel.jpg"
-    provenance: "Aidan McRae Thomson; CC BY-SA 2.0"
-    period: "44 BC"
-    description: "This image shows Cult image of Amun-Ra, selected as a defining visual reference for Cult of Amun at Thebes."
-  - title: "Great Temple of Amun at Karnak"
+  - title: "Avenue of ram-headed criosphinxes leading to the First Pylon at Karnak"
     imageUrl: "/artifacts/amun-cult-thebes-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Corridor_of_Sphinxes_leading_to_the_first_pylon_-_Karnak-_The_largest_ancient_religious_site_of_the_world_(14024051069).jpg"
-    provenance: "Jorge Lascar from Melbourne, Australia; CC BY 2.0"
+    provenance: "Jorge Láscar; CC BY 2.0"
     period: "Image dated 2012"
-    description: "This image shows Great Temple of Amun at Karnak, selected as a defining visual reference for Cult of Amun at Thebes."
 ---
 
 # Cult of Amun at Thebes

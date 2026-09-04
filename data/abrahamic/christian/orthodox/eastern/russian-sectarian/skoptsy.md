@@ -45,16 +45,13 @@ sources:
   - title: 'Harvard University Press: Castration and the Heavenly Kingdom'
     url: 'https://www.hup.harvard.edu/books/9780674000476'
 artifacts:
-  - title: Skoptsy spiritual passport manuscript
-    imageUrl: /artifacts/skoptsy-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Skoptsy_spiritual_passport.png
-    provenance: Unknown author; Public domain
-    period: '1845'
+  - title: "Skoptsy spiritual passport manuscript"
+    imageUrl: "/artifacts/skoptsy-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Skoptsy_spiritual_passport.png"
+    provenance: "Unknown author; Public domain"
+    period: "1845"
+    description: "An authentic 1845 Skoptsy \"spiritual passport\" manuscript certificate claiming citizenship in the heavenly kingdom under Christ and Emperor Peter III to assert spiritual autonomy from imperial authorities."
     detail: high
-    description: >-
-      An authentic 1845 Skoptsy "spiritual passport" manuscript certificate
-      claiming citizenship in the heavenly kingdom under Christ and Emperor Peter
-      III to assert spiritual autonomy from imperial authorities.
 relations:
   - target: khlysts
     type: diverged_from

@@ -53,18 +53,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Spiritism'
     url: 'https://brill.com/search?q=Spiritism'
 artifacts:
-  - title: "Spiritism codifier Allan Kardec"
+  - title: "First Congress of Spiritist Youth of Brazil in Rio de Janeiro (1948)"
     imageUrl: "/artifacts/spiritism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:I_Congresso_de_Mocidades_Esp%C3%ADritas_do_Brasil_1948.jpg"
     provenance: "wikimedia; CC BY-SA 4.0"
     period: "Image dated 2022"
-    description: "This image shows Spiritism codifier Allan Kardec, selected as a defining visual reference for Spiritism."
-  - title: "Brazilian Spiritist center"
+  - title: "Headquarters of the Brazilian Spiritist Federation in Brasília"
     imageUrl: "/artifacts/spiritism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Federacao_espirita.jpg"
     provenance: "Fran6fran6; CC BY-SA 3.0"
     period: "Image dated 2006"
-    description: "This image shows Brazilian Spiritist center, selected as a defining visual reference for Spiritism."
 ---
 
 # Spiritism

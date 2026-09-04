@@ -50,18 +50,11 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Prince%20Philip%20Movement'
 artifacts:
-  - title: "Yaohnanen elders presenting ceremonial portraits on Tanna"
+  - title: "Yaohnanen elders displaying photographs of their 2007 meeting with Prince Philip"
     imageUrl: "/artifacts/prince-philip-movement-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Yaohnanen_Tribesmen_Show_Pictures_of_2007_Visit_with_Prince_Philip.jpg"
     provenance: "Christopher Hogue Thompson; CC BY-SA 3.0"
     period: "Image dated 2012"
-    description: "This image shows Yaohnanen elders presenting ceremonial portraits on Tanna, selected as a defining visual reference for Prince Philip Movement."
-  - title: "Traditional nakamal sacred meeting ground on Tanna"
-    imageUrl: "/artifacts/prince-philip-movement-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Kastom_Lives_On_(117492817).jpeg"
-    provenance: "Graham Crumb; CC BY-SA 3.0"
-    period: "Image dated 2015"
-    description: "This image shows Traditional nakamal sacred meeting ground on Tanna, selected as a defining visual reference for Prince Philip Movement."
 ---
 
 # Prince Philip Movement

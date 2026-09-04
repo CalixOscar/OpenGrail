@@ -40,18 +40,11 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Serer%20Religion'
 artifacts:
-  - title: "Sine Ngayene megalithic stone circles associated with ancient Serer burial"
+  - title: "Senegambian megalithic stone circles in Senegal"
     imageUrl: "/artifacts/serer-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:M%C3%A9galitheS%C3%A9n%C3%A9gal.jpg"
     provenance: "John Atherton; CC BY-SA 2.0"
     period: "Image dated 1967"
-    description: "This image shows Sine Ngayene megalithic stone circles associated with ancient Serer burial, selected as a defining visual reference for Serer Religion."
-  - title: "Xooy traditional divination ceremony performed by Serer Saltigue"
-    imageUrl: "/artifacts/serer-religion-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Early_20th_century_Yoruba_divination_board.jpg"
-    provenance: "Tamsier; CC BY-SA 3.0"
-    period: "20th century"
-    description: "This image shows Xooy traditional divination ceremony performed by Serer Saltigue, selected as a defining visual reference for Serer Religion."
 ---
 
 # Serer Religion

@@ -47,18 +47,11 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Acintya-bhed%C4%81bheda'
 artifacts:
-  - title: "Samadhi shrine of Jiva Gosvamin at Radha Damodar Temple in Vrindavan"
-    imageUrl: "/artifacts/achintya-bheda-abheda-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:George_Harrison_Vrindavan.jpg"
-    provenance: "Gaura; Public domain"
-    period: "Image dated 1996"
-    description: "This image shows Samadhi shrine of Jiva Gosvamin at Radha Damodar Temple in Vrindavan, selected as a defining visual reference for Acintya-bhedābheda."
-  - title: "Radha-Damodara Temple, Jiva Gosvamin's Vrindavan seat"
+  - title: "Enshrined deities of Radha Damodar at the Shri Radha Damodar Temple, Vrindavan"
     imageUrl: "/artifacts/achintya-bheda-abheda-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Deities_of_Radha_Damodar.jpg"
     provenance: "Aliva Sahoo; CC BY-SA 3.0"
     period: "Image dated 2026"
-    description: "This image shows Radha-Damodara Temple, Jiva Gosvamin's Vrindavan seat, selected as a defining visual reference for Acintya-bhedābheda."
 ---
 
 # Acintya-bhedābheda

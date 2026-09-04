@@ -43,18 +43,16 @@ sources:
   - title: 'Christine M. Korsgaard: "Creating the Kingdom of Ends"'
     url: 'https://www.cambridge.org/'
 artifacts:
-  - title: "Portrait painting of Immanuel Kant"
+  - title: "Portrait painting of Immanuel Kant by Johann Gottlieb Becker (1768)"
     imageUrl: "/artifacts/kantian-deontology-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg"
-    provenance: "Johann Gottlieb Becker (1720-1782); Public domain"
+    provenance: "Johann Gottlieb Becker; Public domain"
     period: "Image dated 1768"
-    description: "This image shows Portrait painting of Immanuel Kant, selected as a defining visual reference for Kantian Deontology & The Categorical Imperative."
-  - title: "Title page of the first edition of the Critique of Practical Reason"
+  - title: "Title page of the first edition of Kant's Kritik der praktischen Vernunft (1788)"
     imageUrl: "/artifacts/kantian-deontology-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kritik_der_praktischen_Vernunft.jpg"
     provenance: "Deniev Dagun; CC BY 4.0"
     period: "Image dated 2019"
-    description: "This image shows Title page of the first edition of the Critique of Practical Reason, selected as a defining visual reference for Kantian Deontology & The Categorical Imperative."
 ---
 
 # Kantian Deontology & The Categorical Imperative

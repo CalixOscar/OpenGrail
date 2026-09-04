@@ -38,18 +38,18 @@ relations:
     certainty: academic_consensus
     citation: Established by Ngô Lợi as a direct institutional continuation and communal realization of Đoàn Minh Huyên's Bửu Sơn Kỳ Hương reform movement.
 artifacts:
-  - title: Phi Lai Pagoda in Ba Chúc
-    imageUrl: /artifacts/tu-an-hieu-nghia-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ch%C3%B9a_Phi_Lai_%E1%BB%9F_Ba_Ch%C3%BAc.jpg'
-    provenance: Bùi Thụy Đào Nguyên; CC BY-SA 3.0
-    period: Photographed 2008
-    description: 'The historic Phi Lai Pagoda in Ba Chúc, Tri Tôn district, An Giang Province, established in the late 19th century by Ngô Lợi as a central commune and worship center for Tứ Ân Hiếu Nghĩa.'
-  - title: Sanctuary Grounds of Phi Lai Pagoda
-    imageUrl: /artifacts/tu-an-hieu-nghia-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Chua_Phi_lai,_tri_ton_,_ba_chuc,_angiang_vietnam_-_panoramio.jpg'
-    provenance: trungydang; CC BY 3.0
-    period: Photographed 2013
-    description: 'View of the sacred temple precinct in Ba Chúc at the base of Tượng Mountain, the historic sanctuary of the Tứ Ân Hiếu Nghĩa community.'
+  - title: "Phi Lai Pagoda in Ba Chúc"
+    imageUrl: "/artifacts/tu-an-hieu-nghia-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ch%C3%B9a_Phi_Lai_%E1%BB%9F_Ba_Ch%C3%BAc.jpg"
+    provenance: "Bùi Thụy Đào Nguyên; CC BY-SA 3.0"
+    period: "Photographed 2008"
+    description: "The historic Phi Lai Pagoda in Ba Chúc, Tri Tôn district, An Giang Province, established in the late 19th century by Ngô Lợi as a central commune and worship center for Tứ Ân Hiếu Nghĩa."
+  - title: "Sanctuary Grounds of Phi Lai Pagoda"
+    imageUrl: "/artifacts/tu-an-hieu-nghia-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Chua_Phi_lai,_tri_ton_,_ba_chuc,_angiang_vietnam_-_panoramio.jpg"
+    provenance: "trungydang; CC BY 3.0"
+    period: "Photographed 2013"
+    description: "View of the sacred temple precinct in Ba Chúc at the base of Tượng Mountain, the historic sanctuary of the Tứ Ân Hiếu Nghĩa community."
 ---
 
 # Tứ Ân Hiếu Nghĩa

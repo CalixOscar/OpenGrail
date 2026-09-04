@@ -44,18 +44,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Zaydism'
     url: 'https://www.cambridge.org/core/search?q=Zaydism'
 artifacts:
-  - title: "Great Mosque of Sanaa, historic center of Zaydi learning"
+  - title: "Great Mosque of Sana'a in the Old City of Sana'a, Yemen"
     imageUrl: "/artifacts/zaydism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sanaa_PICT0013_(14569535198).jpg"
     provenance: "lelebella; CC BY 2.0"
     period: "Image dated 2008"
-    description: "This image shows Great Mosque of Sanaa, historic center of Zaydi learning, selected as a defining visual reference for Zaydism."
-  - title: "Great Mosque of Sana'a, historic center of Zaydi learning"
+  - title: "Night view of Old Sana'a showing the minarets of the Great Mosque"
     imageUrl: "/artifacts/zaydism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Yemen,_sanah.jpg"
     provenance: "Yarinya; CC BY-SA 3.0"
     period: "Image dated 2013"
-    description: "This image shows Great Mosque of Sana'a, historic center of Zaydi learning, selected as a defining visual reference for Zaydism."
 ---
 
 # Zaydism

@@ -48,18 +48,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Jogye%20Order'
 artifacts:
-  - title: "Jinul, formative Korean Seon master revered by the Jogye Order"
+  - title: "Portrait of National Preceptor Bojo Jinul preserved at Songgwangsa Temple"
     imageUrl: "/artifacts/jogye-order-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jinul.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Songgwangsa / Unknown Joseon painter; Public domain"
     period: "Image dated 1780"
-    description: "This image shows Jinul, formative Korean Seon master revered by the Jogye Order, selected as a defining visual reference for Jogye Order."
-  - title: "Jogyesa, the chief temple of the Jogye Order"
+  - title: "Daeungjeon main hall of Jogyesa temple decorated with festival lanterns in Seoul"
     imageUrl: "/artifacts/jogye-order-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Seoul-Buddhist.temple-Jogyesa-01.jpg"
-    provenance: "https://www.flickr.com/photos/parrhesiastes/; CC BY 2.0"
+    provenance: "parrhesiastes; CC BY 2.0"
     period: "Image dated 2007"
-    description: "This image shows Jogyesa, the chief temple of the Jogye Order, selected as a defining visual reference for Jogye Order."
 ---
 
 # Jogye Order

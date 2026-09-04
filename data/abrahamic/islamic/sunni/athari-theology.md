@@ -50,19 +50,17 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Athari Theology'
     url: 'https://www.cambridge.org/core/search?q=Athari%20Theology'
 artifacts:
-  - title: "Calligraphic representation of Ibn Taymiyyah, a major Athari theologian"
+  - title: "Calligraphic emblem of Shaykh al-Islam Ibn Taymiyyah in Thuluth script"
     imageUrl: "/artifacts/athari-theology-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%D8%A7%D8%A8%D9%86_%D8%AA%D9%8A%D9%85%D9%8A%D8%A9.png"
     provenance: "عبدالعزيز علي; Public domain"
     period: "Image dated 2023"
-    description: "This image shows Calligraphic representation of Ibn Taymiyyah, a major Athari theologian, selected as a defining visual reference for Athari Theology."
     detail: high
-  - title: "Calligraphic emblem of Hanbali scholar Ibn Taymiyyah"
+  - title: "Arabic calligraphy of the name Ibn Taymiyya"
     imageUrl: "/artifacts/athari-theology-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ibn_Taymiyya.png"
     provenance: "Abdalluh23; CC0"
     period: "Image dated 2024"
-    description: "This image shows Calligraphic emblem of Hanbali scholar Ibn Taymiyyah, selected as a defining visual reference for Athari Theology."
     detail: high
 ---
 

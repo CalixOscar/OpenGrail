@@ -45,18 +45,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Wicca'
     url: 'https://brill.com/search?q=Wicca'
 artifacts:
-  - title: "Wiccan author Doreen Valiente"
+  - title: "Ritual scourge historically associated with Gerald Gardner and Doreen Valiente"
     imageUrl: "/artifacts/wicca-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:NewForestCoven_Scourge.JPG"
-    provenance: "Midnightblueowl ( talk ); CC BY-SA 3.0"
+    provenance: "Midnightblueowl; CC BY-SA 3.0"
     period: "Image dated 2010"
-    description: "This image shows Wiccan author Doreen Valiente, selected as a defining visual reference for Wicca."
-  - title: "Wiccan ritual altar"
+  - title: "Contemporary Wiccan ritual altar with ceremonial instruments"
     imageUrl: "/artifacts/wicca-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Wiccan_altar_(1).PNG"
-    provenance: "RaeVynn Sands, Flickr user cronewynd; CC BY 2.0"
+    provenance: "RaeVynn Sands; CC BY 2.0"
     period: "Image dated 2006"
-    description: "This image shows Wiccan ritual altar, selected as a defining visual reference for Wicca."
 ---
 
 # Wicca

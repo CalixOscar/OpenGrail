@@ -43,20 +43,18 @@ sources:
   - title: 'Cambridge University Press: African Independent Churches and Legio Maria'
     url: 'https://www.cambridge.org/core/search?q=Legio+Maria'
 artifacts:
-  - title: Simeo Ondeto (Baba Mesia) Enthroned
-    imageUrl: /artifacts/legio-maria-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:BABA_Simeo_Lodvikus...The_Son_of_God.jpg
-    provenance: Oloopowerlejo; CC BY-SA 3.0
-    period: c. 1980 CE
-    description: >-
-      Simeo Ondeto (c. 1920–1991), revered by Legio Maria followers as Baba Mesia (Father Messiah / Black Messiah), depicted in full papal vestments, crown, and crucifix on his throne at Got Kwer, Kenya.
-  - title: Legio Maria Sacred Shrine at Kit Mikayi, Kenya
-    imageUrl: /artifacts/legio-maria-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Legio_Maria_shrine_at_Kit_Mikayi,_Kenya.jpg
-    provenance: Zitojoea; CC BY 4.0
-    period: Photographed 2024 CE
-    description: >-
-      The monumental rock formation of Kit Mikayi in Kisumu County, western Kenya, a traditional Luo sacred site utilized as a major natural prayer cathedral and pilgrimage sanctuary by the Legio Maria church.
+  - title: "Simeo Ondeto (Baba Mesia) Enthroned"
+    imageUrl: "/artifacts/legio-maria-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:BABA_Simeo_Lodvikus...The_Son_of_God.jpg"
+    provenance: "Oloopowerlejo; CC BY-SA 3.0"
+    period: "c. 1980 CE"
+    description: "Simeo Ondeto (c. 1920–1991), revered by Legio Maria followers as Baba Mesia (Father Messiah / Black Messiah), depicted in full papal vestments, crown, and crucifix on his throne at Got Kwer, Kenya."
+  - title: "Legio Maria Sacred Shrine at Kit Mikayi, Kenya"
+    imageUrl: "/artifacts/legio-maria-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Legio_Maria_shrine_at_Kit_Mikayi,_Kenya.jpg"
+    provenance: "Zitojoea; CC BY 4.0"
+    period: "Photographed 2024 CE"
+    description: "The monumental rock formation of Kit Mikayi in Kisumu County, western Kenya, a traditional Luo sacred site utilized as a major natural prayer cathedral and pilgrimage sanctuary by the Legio Maria church."
 relations:
   - target: catholicism
     type: diverged_from

@@ -37,18 +37,16 @@ sources:
   - title: 'Kathleen Adams: "Art as Politics: Re-crafting Identities, Tourism, and Power in Tana Toraja"'
     url: 'https://en.wikipedia.org/wiki/Toraja'
 artifacts:
-  - title: "Carved saddle-roofed Tongkonan ancestral house"
+  - title: "Tongkonan ancestral house in Buntu Pune, North Toraja"
     imageUrl: "/artifacts/aluk-todolo-toraja-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Rumah_Adat_Tongkonan_(Toraja)_2.jpg"
     provenance: "Ribkha Tandepadang; CC BY-SA 4.0"
     period: "Image dated 2018"
-    description: "This image shows Carved saddle-roofed Tongkonan ancestral house, selected as a defining visual reference for Aluk Todolo & Torajan Mortuary Religion."
-  - title: "Toraja rock cliff graves and effigy balconies"
+  - title: "Torajan rock-cliff graves at Lemo, South Sulawesi"
     imageUrl: "/artifacts/aluk-todolo-toraja-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Toraja_tumbs.jpg"
     provenance: "Dominique Kirsner; CC BY-SA 2.5"
     period: "Image dated 1976"
-    description: "This image shows Toraja rock cliff graves and effigy balconies, selected as a defining visual reference for Aluk Todolo & Torajan Mortuary Religion."
 ---
 
 # Aluk Todolo & Torajan Mortuary Religion

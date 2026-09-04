@@ -45,18 +45,16 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shugend%C5%8D'
 artifacts:
-  - title: "Image of En no Gyoja"
+  - title: "Stone statue of En no Gyōja at Mount Gyōja in Nara"
     imageUrl: "/artifacts/shugendo-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hirashimizu_Gyoja-yama_En-no-gyoja_stone_statue_03.jpg"
     provenance: "MirokunomichiProject; CC0"
     period: "Image dated 2022"
-    description: "This image shows Image of En no Gyoja, selected as a defining visual reference for Shugendō."
-  - title: "Omine yamabushi pilgrimage"
+  - title: "Nyonin kinsei boundary regulation sign at Mount Ōmine"
     imageUrl: "/artifacts/shugendo-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Oominesan_sign_202705708_a9923100e1_o.jpg"
-    provenance: "Tim Notari, Flickr user tastefulTN; CC BY-SA 2.0"
+    provenance: "Tim Notari; CC BY-SA 2.0"
     period: "Image dated 2006"
-    description: "This image shows Omine yamabushi pilgrimage, selected as a defining visual reference for Shugendō."
 ---
 
 # Shugendō

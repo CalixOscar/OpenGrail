@@ -50,24 +50,18 @@ sources:
   - title: 'University of Texas Press: The Religion of the Etruscans'
     url: 'https://utpress.utexas.edu/books/thoret'
 artifacts:
-  - title: Bronze Liver of Piacenza (Fegato di Piacenza)
-    imageUrl: /artifacts/etruscan-religion-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Piacenza_Bronzeleber.jpg
-    provenance: Lokilech; CC BY-SA 3.0
-    period: Late 2nd – early 1st century BCE
-    description: >-
-      An Etruscan bronze teaching model of a sheep's liver inscribed with the
-      names of forty deities in sixteen cosmological zones, used by priestly
-      haruspices for hepatoscopy (entrail divination).
-  - title: Tomb of the Augurs fresco at Tarquinia
-    imageUrl: /artifacts/etruscan-religion-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Tomba_degli_Auguri.jpg
-    provenance: Unknown author; Public domain
-    period: c. 520 BCE
-    description: >-
-      Fresco on the end wall of the Tomb of the Augurs in the Monterozzi
-      necropolis at Tarquinia, depicting two mourning officiants or augurs
-      flanking the symbolic portal to the underworld.
+  - title: "Bronze Liver of Piacenza (Fegato di Piacenza)"
+    imageUrl: "/artifacts/etruscan-religion-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Piacenza_Bronzeleber.jpg"
+    provenance: "Lokilech; CC BY-SA 3.0"
+    period: "Late 2nd – early 1st century BCE"
+    description: "An Etruscan bronze teaching model of a sheep's liver inscribed with the names of forty deities in sixteen cosmological zones, used by priestly haruspices for hepatoscopy (entrail divination)."
+  - title: "Tomb of the Augurs fresco at Tarquinia"
+    imageUrl: "/artifacts/etruscan-religion-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tomba_degli_Auguri.jpg"
+    provenance: "Unknown author; Public domain"
+    period: "c. 520 BCE"
+    description: "Fresco on the end wall of the Tomb of the Augurs in the Monterozzi necropolis at Tarquinia, depicting two mourning officiants or augurs flanking the symbolic portal to the underworld."
 relations:
   - target: ancient-greek-religion
     type: influenced_by

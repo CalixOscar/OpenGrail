@@ -44,21 +44,19 @@ sources:
   - title: 'University of North Carolina Press: The Moorish Science Temple of America (Richard Brent Turner)'
     url: 'https://uncpress.org/search-results/?q=Moorish+Science+Temple'
 artifacts:
-  - title: Portrait of Prophet Noble Drew Ali
-    imageUrl: /artifacts/moorish-science-temple-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Prophet_Noble_Drew_Ali,_Founder_of_Moorish_Science_Temple_of_America_-_Collection_of_the_National_Museum_of_African_American_History_and_Culture_(cropped).tif
-    provenance: R. D. Jones; CC0
-    period: 1925 CE
-    description: >-
-      Studio portrait of Noble Drew Ali (1886–1929), founder of the Moorish Science Temple of America, dressed in Moorish regalia and headwrap, from the collection of the Smithsonian National Museum of African American History and Culture.
-  - title: Title Page of the Circle Seven Koran
-    imageUrl: /artifacts/moorish-science-temple-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Circle_Seven_Koran,_front_page.jpg
-    provenance: Noble Drew Ali; Public Domain
-    period: Published 1927 CE
+  - title: "Portrait of Prophet Noble Drew Ali"
+    imageUrl: "/artifacts/moorish-science-temple-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Prophet_Noble_Drew_Ali,_Founder_of_Moorish_Science_Temple_of_America_-_Collection_of_the_National_Museum_of_African_American_History_and_Culture_(cropped).tif"
+    provenance: "R. D. Jones; CC0"
+    period: "1925 CE"
+    description: "Studio portrait of Noble Drew Ali (1886–1929), founder of the Moorish Science Temple of America, dressed in Moorish regalia and headwrap, from the collection of the Smithsonian National Museum of African American History and Culture."
+  - title: "Title Page of the Circle Seven Koran"
+    imageUrl: "/artifacts/moorish-science-temple-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Circle_Seven_Koran,_front_page.jpg"
+    provenance: "Noble Drew Ali; Public Domain"
+    period: "Published 1927 CE"
+    description: "The title page of The Holy Koran of the Moorish Science Temple of America (Circle Seven Koran), compiled and published by Noble Drew Ali in 1927 as the primary scripture for Moorish Americans."
     detail: high
-    description: >-
-      The title page of The Holy Koran of the Moorish Science Temple of America (Circle Seven Koran), compiled and published by Noble Drew Ali in 1927 as the primary scripture for Moorish Americans.
 relations:
   - target: islam
     type: influenced_by

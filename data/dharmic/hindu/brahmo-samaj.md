@@ -47,18 +47,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Brahmo%20Samaj'
 artifacts:
-  - title: "Rammohun Roy, founder of the Brahmo Sabha"
+  - title: "Company style portrait of Raja Ram Mohan Roy, founder of the Brahmo Samaj"
     imageUrl: "/artifacts/brahmo-samaj-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bust_portrait_of_the_Hindu_reformer_Ram_Mohan_Roy..jpg"
-    provenance: "anonymous; Public domain"
+    provenance: "Anonymous; Public domain"
     period: "Image dated 1820"
-    description: "This image shows Rammohun Roy, founder of the Brahmo Sabha, selected as a defining visual reference for Brahmo Samaj."
-  - title: "Historic Brahmo Samaj Mandir in Kolkata"
+  - title: "Historic Brahmo Mandir in Cooch Behar, West Bengal"
     imageUrl: "/artifacts/brahmo-samaj-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Brahmo_Mandir,_Cooch_Behar_Town,_West_Bengal,_India_02.jpg"
     provenance: "Amitabha Gupta; CC BY 4.0"
     period: "Image dated 2024"
-    description: "This image shows Historic Brahmo Samaj Mandir in Kolkata, selected as a defining visual reference for Brahmo Samaj."
 ---
 
 # Brahmo Samaj

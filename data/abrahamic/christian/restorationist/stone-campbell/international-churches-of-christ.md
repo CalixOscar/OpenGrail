@@ -48,19 +48,6 @@ sources:
       Churches of Christ
     url: >-
       https://www.cambridge.org/core/search?q=International%20Churches%20of%20Christ
-artifacts:
-  - title: "Discipling-movement baptism in an ICOC congregation"
-    imageUrl: "/artifacts/international-churches-of-christ-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:St._Wolfgang_kath._Pfarrkirche_Pacher-Altar_Taufe_01.jpg"
-    provenance: "Michael Pacher; CC BY-SA 4.0"
-    period: "Image dated 2019"
-    description: "This image shows Discipling-movement baptism in an ICOC congregation, selected as a defining visual reference for International Churches of Christ."
-  - title: "Boston Church of Christ, institutional origin of the ICOC"
-    imageUrl: "/artifacts/international-churches-of-christ-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Faith_United_Church_of_Christ,_Boston,_New_York_-_20230111.jpg"
-    provenance: "Andre Carrotflower; CC BY-SA 4.0"
-    period: "Image dated 2023"
-    description: "This image shows Boston Church of Christ, institutional origin of the ICOC, selected as a defining visual reference for International Churches of Christ."
 ---
 
 # International Churches of Christ

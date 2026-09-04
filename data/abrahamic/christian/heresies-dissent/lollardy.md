@@ -44,25 +44,19 @@ sources:
   - title: 'Brill: Studies in Wycliffism'
     url: 'https://brill.com/search?q=Lollardy'
 artifacts:
-  - title: Opening of John's Gospel in the Wycliffite Bible
-    imageUrl: /artifacts/lollardy-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Wycliffe_John_Gospel.jpg
-    provenance: Unknown 14th-century scribe; Public domain
-    period: Late 14th century (c. 1380–1390)
+  - title: "Opening of John's Gospel in the Wycliffite Bible"
+    imageUrl: "/artifacts/lollardy-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Wycliffe_John_Gospel.jpg"
+    provenance: "Unknown 14th-century scribe; Public domain"
+    period: "Late 14th century (c. 1380–1390)"
+    description: "Illuminated opening page of the Gospel of John from a manuscript copy of the Wycliffite Bible, translating the Latin Vulgate into Middle English in defiance of ecclesiastical prohibitions."
     detail: high
-    description: >-
-      Illuminated opening page of the Gospel of John from a manuscript copy of
-      the Wycliffite Bible, translating the Latin Vulgate into Middle English in
-      defiance of ecclesiastical prohibitions.
-  - title: St Mary's Church in Lutterworth
-    imageUrl: /artifacts/lollardy-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Wycliffe%27s_Church_of_St_Mary%27s_Lutterworth_-_geograph.org.uk_-_346098.jpg
-    provenance: Chris Stafford; CC BY-SA 2.0
-    period: Medieval parish church (photographed 2006)
-    description: >-
-      St Mary's parish church in Lutterworth, Leicestershire, where John Wycliffe
-      served as rector from 1374 until his death in 1384, and where his circle
-      produced the first complete English translations of the Bible.
+  - title: "St Mary's Church in Lutterworth"
+    imageUrl: "/artifacts/lollardy-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Wycliffe%27s_Church_of_St_Mary%27s_Lutterworth_-_geograph.org.uk_-_346098.jpg"
+    provenance: "Chris Stafford; CC BY-SA 2.0"
+    period: "Medieval parish church (photographed 2006)"
+    description: "St Mary's parish church in Lutterworth, Leicestershire, where John Wycliffe served as rector from 1374 until his death in 1384, and where his circle produced the first complete English translations of the Bible."
 relations:
   - target: catholicism
     type: diverged_from

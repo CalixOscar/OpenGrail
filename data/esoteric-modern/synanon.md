@@ -43,14 +43,12 @@ sources:
   - title: 'Encyclopaedia Britannica: "Synanon"'
     url: 'https://www.britannica.com/topic/Synanon'
 artifacts:
-  - title: Historic Casa del Mar building in Santa Monica
-    imageUrl: /artifacts/synanon-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Casa_Del_Mar_Hotel,_Santa_Monica,_California.JPG
-    provenance: Cbl62; CC BY-SA 3.0
-    period: Photographed 2008
-    description: >-
-      The former Club Casa del Mar in Santa Monica, California, which served as the primary residential
-      headquarters and community center for Synanon from 1968 until 1978.
+  - title: "Historic Casa del Mar building in Santa Monica"
+    imageUrl: "/artifacts/synanon-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Casa_Del_Mar_Hotel,_Santa_Monica,_California.JPG"
+    provenance: "Cbl62; CC BY-SA 3.0"
+    period: "Photographed 2008"
+    description: "The former Club Casa del Mar in Santa Monica, California, which served as the primary residential headquarters and community center for Synanon from 1968 until 1978."
 relations:
   - target: new-age-movement
     type: influenced_by

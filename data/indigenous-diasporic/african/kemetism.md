@@ -46,18 +46,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Kemetism'
     url: 'https://brill.com/search?q=Kemetism'
 artifacts:
-  - title: "Kemetic Orthodox deity shrine"
+  - title: "Contemporary Kemetic domestic naos shrine dedicated to Thoth"
     imageUrl: "/artifacts/kemetism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Naos_kemeti.JPG"
     provenance: "Tedmek; Public domain"
     period: "Image dated 2007"
-    description: "This image shows Kemetic Orthodox deity shrine, selected as a defining visual reference for Kemetism."
-  - title: "Contemporary Kemetic rite"
+  - title: "Contemporary Kemetic home altar dedicated to the god Thoth"
     imageUrl: "/artifacts/kemetism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Th_oltar.JPG"
     provenance: "Tedmek; Public domain"
     period: "Image dated 2009"
-    description: "This image shows Contemporary Kemetic rite, selected as a defining visual reference for Kemetism."
 ---
 
 # Kemetism

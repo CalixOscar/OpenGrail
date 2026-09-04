@@ -49,19 +49,17 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Orphism'
     url: 'https://brill.com/search?q=Orphism'
 artifacts:
-  - title: "Derveni Papyrus"
+  - title: "Section I of the Derveni Papyrus, Archaeological Museum of Thessaloniki"
     imageUrl: "/artifacts/orphism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Derveni_Papyrus_(section_I),_Archaeological_Museum_of_Thessaloniki,_July_18th,_2023.jpg"
     provenance: "Katolophyromai; CC BY 4.0"
     period: "Image dated 2023"
-    description: "This image shows Derveni Papyrus, selected as a defining visual reference for Orphism."
     detail: high
-  - title: "Orphic funerary gold tablet"
+  - title: "Orphic funerary gold lamella from Hipponion, Museo Archeologico Statale Vito Capialbi"
     imageUrl: "/artifacts/orphism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Museo_archeologico_statale_Vito_Capialbi_09.jpg"
     provenance: "Adert; CC BY-SA 4.0"
     period: "Image dated 2022"
-    description: "This image shows Orphic funerary gold tablet, selected as a defining visual reference for Orphism."
     detail: high
 ---
 

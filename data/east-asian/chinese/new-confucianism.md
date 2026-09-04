@@ -41,18 +41,11 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=New%20Confucianism'
 artifacts:
-  - title: "Portrait of Mou Zongsan"
-    imageUrl: "/artifacts/new-confucianism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_-_Self-Portrait_with_a_Hat_-_Google_Art_Project.jpg"
-    provenance: "Paul Cezanne; Public domain"
-    period: "Image dated 1894"
-    description: "This image shows Portrait of Mou Zongsan, selected as a defining visual reference for New Confucianism."
-  - title: "New Asia College intellectual center"
+  - title: "New Asia College campus and water tower, Chinese University of Hong Kong"
     imageUrl: "/artifacts/new-confucianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cuhk.jpg"
     provenance: "Baycrest; CC BY-SA 2.5"
     period: "Image dated 2005"
-    description: "This image shows New Asia College intellectual center, selected as a defining visual reference for New Confucianism."
 ---
 
 # New Confucianism

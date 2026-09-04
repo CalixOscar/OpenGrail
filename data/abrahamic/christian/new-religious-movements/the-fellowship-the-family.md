@@ -45,20 +45,18 @@ sources:
   - title: 'HarperCollins: C Street: The Fundamentalist Threat to American Democracy (Jeff Sharlet)'
     url: 'https://www.harpercollins.com/products/the-family-jeff-sharlet'
 artifacts:
-  - title: C Street Center Townhouse in Washington, D.C.
-    imageUrl: /artifacts/the-fellowship-the-family-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:C_Street_Center,_Washington_DC.jpg
-    provenance: John Phelan; CC BY-SA 3.0
-    period: Photographed 2012 CE
-    description: >-
-      The C Street Center townhouse at 133 C Street SE on Capitol Hill in Washington, D.C., operated as a private residence and prayer meeting facility for members of Congress affiliated with The Fellowship.
-  - title: National Prayer Breakfast in Washington, D.C.
-    imageUrl: /artifacts/the-fellowship-the-family-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Barack_Obama_National_Prayer_Breakfast_20090205.jpg
-    provenance: Pete Souza; Public Domain
-    period: February 5, 2009 CE
-    description: >-
-      The annual National Prayer Breakfast in Washington, D.C., established in 1953 by Abraham Vereide and The Fellowship to convene United States political leaders, diplomats, and international dignitaries for informal interfaith prayer and statecraft.
+  - title: "C Street Center Townhouse in Washington, D.C."
+    imageUrl: "/artifacts/the-fellowship-the-family-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:C_Street_Center,_Washington_DC.jpg"
+    provenance: "John Phelan; CC BY-SA 3.0"
+    period: "Photographed 2012 CE"
+    description: "The C Street Center townhouse at 133 C Street SE on Capitol Hill in Washington, D.C., operated as a private residence and prayer meeting facility for members of Congress affiliated with The Fellowship."
+  - title: "National Prayer Breakfast in Washington, D.C."
+    imageUrl: "/artifacts/the-fellowship-the-family-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Barack_Obama_National_Prayer_Breakfast_20090205.jpg"
+    provenance: "Pete Souza; Public Domain"
+    period: "February 5, 2009 CE"
+    description: "The annual National Prayer Breakfast in Washington, D.C., established in 1953 by Abraham Vereide and The Fellowship to convene United States political leaders, diplomats, and international dignitaries for informal interfaith prayer and statecraft."
 relations:
   - target: evangelicalism
     type: influenced_by

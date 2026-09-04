@@ -45,18 +45,18 @@ relations:
     certainty: academic_consensus
     citation: Integrated southern Chinese shamanic spirit possession (channeled by leaders Yang Xiuqing and Xiao Chaogui) and traditional dynastic mandate cosmology.
 artifacts:
-  - title: Taiping Heavenly Kingdom Currency (Shengbao)
-    imageUrl: /artifacts/taiping-heavenly-kingdom-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Taiping_Heavenly_Kingdom_Coin_(17089626576).jpg'
-    provenance: 'Gary Todd from Xinzheng, China; CC0 1.0'
-    period: c. 1853–1864
-    description: Brass coinage inscribed "Taiping Tianguo / Shengbao" minted by the Taiping theocratic state during its rule over southern China (Zhejiang Provincial Museum collection).
-  - title: Taiping Heavenly Kingdom History Museum in Nanjing
-    imageUrl: /artifacts/taiping-heavenly-kingdom-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Taiping_Heavenly_Kingdom_Museum_(10151808984).jpg'
-    provenance: 'Gary Todd from Xinzheng, China; CC0 1.0'
-    period: Photographed 2009
-    description: 'The Zhan Yuan historical complex in Nanjing, which served as a senior Taiping administrative palace and now houses the Taiping Heavenly Kingdom History Museum.'
+  - title: "Taiping Heavenly Kingdom Currency (Shengbao)"
+    imageUrl: "/artifacts/taiping-heavenly-kingdom-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Taiping_Heavenly_Kingdom_Coin_(17089626576).jpg"
+    provenance: "Gary Todd from Xinzheng, China; CC0 1.0"
+    period: "c. 1853–1864"
+    description: "Brass coinage inscribed \"Taiping Tianguo / Shengbao\" minted by the Taiping theocratic state during its rule over southern China (Zhejiang Provincial Museum collection)."
+  - title: "Taiping Heavenly Kingdom History Museum in Nanjing"
+    imageUrl: "/artifacts/taiping-heavenly-kingdom-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Taiping_Heavenly_Kingdom_Museum_(10151808984).jpg"
+    provenance: "Gary Todd from Xinzheng, China; CC0 1.0"
+    period: "Photographed 2009"
+    description: "The Zhan Yuan historical complex in Nanjing, which served as a senior Taiping administrative palace and now houses the Taiping Heavenly Kingdom History Museum."
 ---
 
 # Taiping Heavenly Kingdom

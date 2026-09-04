@@ -45,18 +45,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Druze Faith'
     url: 'https://www.cambridge.org/core/search?q=Druze%20Faith'
 artifacts:
-  - title: "Five-colored Druze star representing the cosmic principles"
+  - title: "Shrine and sacred oak grove of Nabi Sabalan in Hurfeish"
     imageUrl: "/artifacts/druze-faith-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hurfeish_Nabi_Sablan_Avney_Moreshet_caedf640.jpg"
-    provenance: "Jamal Ali (ג'מאל עלי); CC BY 2.5"
+    provenance: "Jamal Ali; CC BY 2.5"
     period: "Image dated 2026"
-    description: "This image shows Five-colored Druze star representing the cosmic principles, selected as a defining visual reference for Druze Faith."
-  - title: "Shrine of Nabi Shu'ayb, principal Druze pilgrimage sanctuary"
+  - title: "Shrine of Nabi Shu'ayb near Hittin"
     imageUrl: "/artifacts/druze-faith-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_29544_Nabi_Shuayb_Shrine.JPG"
-    provenance: "אמיר אבו גוש; CC BY 2.5"
+    provenance: "Amir Abu Ghosh; CC BY 2.5"
     period: "Image dated 2012"
-    description: "This image shows Shrine of Nabi Shu'ayb, principal Druze pilgrimage sanctuary, selected as a defining visual reference for Druze Faith."
 ---
 
 # Druze Faith

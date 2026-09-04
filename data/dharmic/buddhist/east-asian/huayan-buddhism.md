@@ -50,18 +50,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Huayan%20Buddhism'
 artifacts:
-  - title: "Colossal Vairocana Buddha embodying Huayan's cosmic vision"
+  - title: "Colossal rock-cut Vairocana Buddha at Fengxian Temple, Longmen Grottoes"
     imageUrl: "/artifacts/huayan-buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ancient_Buddhist_Grottoes_at_Longmen-_Fengxian_Temple,_Colossal_Statue_of_Vairocana.jpg"
     provenance: "Gary Todd; CC0"
     period: "c. 900 AD"
-    description: "This image shows Colossal Vairocana Buddha embodying Huayan's cosmic vision, selected as a defining visual reference for Huayan Buddhism."
-  - title: "Illustrated Avatamsaka Sutra manuscript central to Huayan teaching"
+  - title: "Illuminated Avatamsaka Sutra manuscript in silver and gold on indigo paper from Goryeo Korea"
     imageUrl: "/artifacts/huayan-buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Transcription_of_Avatamsaka_Sutra_(The_Flower_Garland_Sutra),_Zhou_Version,_in_Silver_and_Gold_on_Indigo_Paper,_Volumes_5_and_6._Goryeo_Dynastry,_14th_century.jpg"
-    provenance: "Unknown illustrator, 14th century; Public domain"
+    provenance: "Horim Museum / Unknown illustrator; Public domain"
     period: "14th century"
-    description: "This image shows Illustrated Avatamsaka Sutra manuscript central to Huayan teaching, selected as a defining visual reference for Huayan Buddhism."
     detail: high
 ---
 

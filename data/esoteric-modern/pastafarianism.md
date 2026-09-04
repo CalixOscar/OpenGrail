@@ -51,18 +51,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Pastafarianism'
     url: 'https://brill.com/search?q=Pastafarianism'
 artifacts:
-  - title: "Flying Spaghetti Monster image"
+  - title: "Cosplay of the Flying Spaghetti Monster and a pirate at Dragon Con"
     imageUrl: "/artifacts/pastafarianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Flying_Spaghetti_Monster_and_Pirate_Dragon_Con_2007.jpg"
-    provenance: "Andrew Guyton (Account on: Flickr · Wikipedia ); CC BY-SA 2.0"
+    provenance: "Andrew Guyton; CC BY-SA 2.0"
     period: "Image dated 2007"
-    description: "This image shows Flying Spaghetti Monster image, selected as a defining visual reference for Pastafarianism."
-  - title: "Pastafarian wedding rite"
+  - title: "Pastafarian participant in Flying Spaghetti Monster headpiece and FSM shirt"
     imageUrl: "/artifacts/pastafarianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Flying_Spaghetti_Monster_2_Rally_to_Restore_Sanity.jpg"
     provenance: "David Shankbone; CC BY 3.0"
     period: "Image dated 2010"
-    description: "This image shows Pastafarian wedding rite, selected as a defining visual reference for Pastafarianism."
 ---
 
 # Pastafarianism

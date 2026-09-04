@@ -46,18 +46,18 @@ relations:
     certainty: academic_consensus
     citation: 'Shared cremation-ground ritualism, propitiation of Bhairava and the Yoginīs, and esoteric antinomian praxis.'
 artifacts:
-  - title: Ascetic Form of Bhairava in Marble
-    imageUrl: /artifacts/kapalika-tradition-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bhairava_in_marble_01.JPG'
-    provenance: Nomu420; CC BY-SA 3.0
-    period: Medieval period
-    description: 'Skeletal marble sculpture of Bhairava holding a skull-cup (kapāla), representing the archetype of the Great Vow (Mahāvrata) emulated by historical Kāpālika ascetics.'
-  - title: 15th-Century Stone Sculpture of Bhairava
-    imageUrl: /artifacts/kapalika-tradition-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bhairava._Stone_statue_from_15th_Century,_A.D._South_India.jpg'
-    provenance: Aadrit28; CC BY-SA 4.0
-    period: 15th century CE
-    description: 'South Indian stone sculpture depicting the terrifying form of Shiva as Bhairava with skull ornaments and staff, central to early medieval Tantric and Kāpālika devotion.'
+  - title: "Ascetic Form of Bhairava in Marble"
+    imageUrl: "/artifacts/kapalika-tradition-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bhairava_in_marble_01.JPG"
+    provenance: "Nomu420; CC BY-SA 3.0"
+    period: "Medieval period"
+    description: "Skeletal marble sculpture of Bhairava holding a skull-cup (kapāla), representing the archetype of the Great Vow (Mahāvrata) emulated by historical Kāpālika ascetics."
+  - title: "15th-Century Stone Sculpture of Bhairava"
+    imageUrl: "/artifacts/kapalika-tradition-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bhairava._Stone_statue_from_15th_Century,_A.D._South_India.jpg"
+    provenance: "Aadrit28; CC BY-SA 4.0"
+    period: "15th century CE"
+    description: "South Indian stone sculpture depicting the terrifying form of Shiva as Bhairava with skull ornaments and staff, central to early medieval Tantric and Kāpālika devotion."
 ---
 
 # Kāpālika Tradition

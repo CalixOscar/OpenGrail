@@ -44,18 +44,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Chan%20Buddhism'
 artifacts:
-  - title: "Traditional portrait of Huineng, the Sixth Patriarch of Chan"
+  - title: "The Sixth Patriarch Huineng Carrying a Shoulder Pole, 13th-century ink painting by Zhiweng"
     imageUrl: "/artifacts/chan-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Huineng_with_rod.jpg"
     provenance: "Zhiweng; Public domain"
     period: "13th century"
-    description: "This image shows Traditional portrait of Huineng, the Sixth Patriarch of Chan, selected as a defining visual reference for Chan Buddhism."
-  - title: "Nanhua Temple, principal sanctuary associated with Huineng"
+  - title: "Drum Tower of Nanhua Temple in Shaoguan, Guangdong"
     imageUrl: "/artifacts/chan-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%8D%8E%E5%AF%BA%E9%BC%93%E6%A5%BC.JPG"
     provenance: "Emitchan; Public domain"
     period: "Digital file published 2008"
-    description: "This image shows Nanhua Temple, principal sanctuary associated with Huineng, selected as a defining visual reference for Chan Buddhism."
 ---
 
 # Chan Buddhism

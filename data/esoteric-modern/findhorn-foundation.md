@@ -44,22 +44,18 @@ sources:
   - title: 'Encyclopaedia Britannica: "Findhorn Foundation"'
     url: 'https://www.britannica.com/topic/Findhorn-Foundation'
 artifacts:
-  - title: Universal Hall at Findhorn Ecovillage
-    imageUrl: /artifacts/findhorn-foundation-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Findhorn_Universal_Hall.jpg
-    provenance: Arthur Pewtey jr.; CC BY-SA 4.0
-    period: Photographed 2014
-    description: >-
-      The Universal Hall auditorium at the Findhorn Ecovillage in Moray, Scotland, built by community
-      members as a central space for spiritual gatherings, arts, and educational conferences.
-  - title: Findhorn Foundation community gardens
-    imageUrl: /artifacts/findhorn-foundation-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Findhorn_Foundation_gardens_(geograph_3130086).jpg
-    provenance: don cload; CC BY-SA 2.0
-    period: Photographed 2012
-    description: >-
-      Organic gardens at the Findhorn Foundation in Scotland, where early community pioneers developed
-      spiritual attunement and ecological cooperation with nature intelligences.
+  - title: "Universal Hall at Findhorn Ecovillage"
+    imageUrl: "/artifacts/findhorn-foundation-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Findhorn_Universal_Hall.jpg"
+    provenance: "Arthur Pewtey jr.; CC BY-SA 4.0"
+    period: "Photographed 2014"
+    description: "The Universal Hall auditorium at the Findhorn Ecovillage in Moray, Scotland, built by community members as a central space for spiritual gatherings, arts, and educational conferences."
+  - title: "Findhorn Foundation community gardens"
+    imageUrl: "/artifacts/findhorn-foundation-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Findhorn_Foundation_gardens_(geograph_3130086).jpg"
+    provenance: "don cload; CC BY-SA 2.0"
+    period: "Photographed 2012"
+    description: "Organic gardens at the Findhorn Foundation in Scotland, where early community pioneers developed spiritual attunement and ecological cooperation with nature intelligences."
 relations:
   - target: new-age-movement
     type: branch_of

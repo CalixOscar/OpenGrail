@@ -49,19 +49,11 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=S%C4%81%E1%B9%83khya'
 artifacts:
-  - title: "Sage Kapila, traditional founder of Samkhya"
+  - title: "Company School painting of Sage Kapila, legendary founder of Samkhya"
     imageUrl: "/artifacts/samkhya-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kapila.jpg"
     provenance: "Company School; Public domain"
     period: "Digital file published 2020"
-    description: "This image shows Sage Kapila, traditional founder of Samkhya, selected as a defining visual reference for Sāṃkhya."
-  - title: "Sanskrit manuscript of Isvarakrsna's Samkhyakarika"
-    imageUrl: "/artifacts/samkhya-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:A_palm_leaf_Sanskrit_manuscript_in_Brahmi_script_from_Miran_China.jpg"
-    provenance: "Unknown; Public domain"
-    period: "Digital file published 2012"
-    description: "This image shows Sanskrit manuscript of Isvarakrsna's Samkhyakarika, selected as a defining visual reference for Sāṃkhya."
-    detail: high
 ---
 
 # Sāṃkhya

@@ -47,18 +47,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Heliopolitan Theology'
     url: 'https://brill.com/search?q=Heliopolitan%20Theology'
 artifacts:
-  - title: "Ra-Horakhty cult image"
+  - title: "Faience inlay depicting the falcon-headed solar deity Re, Metropolitan Museum of Art"
     imageUrl: "/artifacts/heliopolitan-theology-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Inlay_depicting_the_squatting_god_Re_MET_DP239682.jpg"
-    provenance: "Wikimedia Commons; CC0"
+    provenance: "Metropolitan Museum of Art; CC0"
     period: "4th century B.C. Period: Late Period–Ptolemaic Period"
-    description: "This image shows Ra-Horakhty cult image, selected as a defining visual reference for Heliopolitan Theology."
-  - title: "Heliopolitan solar-temple obelisk"
+  - title: "Historic glass lantern slide of the Obelisk of Senusret I at Heliopolis (Al-Masalla)"
     imageUrl: "/artifacts/heliopolitan-theology-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Heliopolis._Obelisk_van_Sesostris_I_Man_poseert_voor_de_obelisk,_GDE002226.jpg"
-    provenance: "Unknown; Public domain"
+    provenance: "Projections Molteni / Leuven University Libraries; Public domain"
     period: "Digital file published 2025"
-    description: "This image shows Heliopolitan solar-temple obelisk, selected as a defining visual reference for Heliopolitan Theology."
 ---
 
 # Heliopolitan Theology

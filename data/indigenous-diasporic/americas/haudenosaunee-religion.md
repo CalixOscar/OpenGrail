@@ -44,18 +44,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Haudenosaunee%20Religions'
 artifacts:
-  - title: "Hiawatha Wampum Belt of the Iroquois Confederacy"
+  - title: "Hiawatha Wampum Belt of the Haudenosaunee Confederacy"
     imageUrl: "/artifacts/haudenosaunee-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:PSM_V28_D311_Wampum_belt_commemorating_the_iroquois_confederacy.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Popular Science Monthly; Public domain"
     period: "Image dated 1885"
-    description: "This image shows Hiawatha Wampum Belt of the Iroquois Confederacy, selected as a defining visual reference for Haudenosaunee Religions."
-  - title: "Traditional Haudenosaunee bark longhouse sanctuary"
+  - title: "Reconstructed Iroquoian clan longhouse at Crawford Lake, Ontario"
     imageUrl: "/artifacts/haudenosaunee-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Iroquoian_Village,_Ontario,_Canada28.JPG"
     provenance: "Laslovarga; CC BY-SA 3.0"
     period: "15th century"
-    description: "This image shows Traditional Haudenosaunee bark longhouse sanctuary, selected as a defining visual reference for Haudenosaunee Religions."
 ---
 
 # Haudenosaunee Religions

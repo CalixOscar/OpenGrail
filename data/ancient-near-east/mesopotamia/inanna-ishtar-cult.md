@@ -51,18 +51,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Inanna–Ishtar'
     url: 'https://brill.com/search?q=Cult%20of%20Inanna%E2%80%93Ishtar'
 artifacts:
-  - title: "Warka Vase offering procession"
+  - title: "Top register of the Warka Vase depicting offerings presented to Inanna, Iraq Museum"
     imageUrl: "/artifacts/inanna-ishtar-cult-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Warka_Vase,_Top_Register.jpg"
-    provenance: "Osama Shukir Muhammed Amin FRCP(Glasg); CC BY-SA 4.0"
+    provenance: "Osama Shukir Muhammed Amin; CC BY-SA 4.0"
     period: "2900 BCE"
-    description: "This image shows Warka Vase offering procession, selected as a defining visual reference for Cult of Inanna–Ishtar."
-  - title: "Eanna sanctuary at Uruk"
-    imageUrl: "/artifacts/inanna-ishtar-cult-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pergamon_Museum_Cone_mosaics_from_temple_district_facade_of_Eanna_in_Uruk_8054.jpg"
-    provenance: "Dosseman; CC BY-SA 4.0"
-    period: "Image dated 2021"
-    description: "This image shows Eanna sanctuary at Uruk, selected as a defining visual reference for Cult of Inanna–Ishtar."
 ---
 
 # Cult of Inanna–Ishtar

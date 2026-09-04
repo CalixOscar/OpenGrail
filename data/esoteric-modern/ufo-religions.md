@@ -48,18 +48,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: UFO Religions'
     url: 'https://brill.com/search?q=UFO%20Religions'
 artifacts:
-  - title: "George Adamski with telescope at the Temple of Scientific Philosophy"
+  - title: "George Adamski with a telescope at the Temple of Scientific Philosophy in Laguna Beach (1938)"
     imageUrl: "/artifacts/ufo-religions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:George_Adamski.jpg"
     provenance: "Los Angeles Times; CC BY 4.0"
     period: "Image dated 1938"
-    description: "This image shows George Adamski with telescope at the Temple of Scientific Philosophy, selected as a defining visual reference for UFO Religions."
-  - title: "Integratron contactee sanctuary"
+  - title: "Historical marker plaque near the Integratron dome in Landers, California"
     imageUrl: "/artifacts/ufo-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Integratron4.JPG"
-    provenance: "User:Model Citizen; Public domain"
+    provenance: "Model Citizen; Public domain"
     period: "Image dated 2006"
-    description: "This image shows Integratron contactee sanctuary, selected as a defining visual reference for UFO Religions."
 ---
 
 # UFO Religions

@@ -47,18 +47,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Ainu%20Religious%20Traditions'
 artifacts:
-  - title: "Ainu Iyomante bear spirit sending ritual"
+  - title: "Japanese scroll painting depicting the Ainu Iyomante bear-sending ritual"
     imageUrl: "/artifacts/ainu-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:AinuBearSacrificeCirca1870.jpg"
-    provenance: "After Hirasawa Byozan 平沢屏山 (1822–1876) [ 2 ]; Public domain"
+    provenance: "After Hirasawa Byōzan; Public domain"
     period: "Image dated 1870"
-    description: "This image shows Ainu Iyomante bear spirit sending ritual, selected as a defining visual reference for Ainu Religious Traditions."
-  - title: "Traditional Ainu chise sacred dwelling and prayer altar"
+  - title: "Reconstructed traditional Ainu chise dwelling and compound in Nibutani, Hokkaido"
     imageUrl: "/artifacts/ainu-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Split_view_of_interior_and_grounds_of_Ainu_traditional_housing_compound_in_Nibutani,_Hokkaido_in_June_2009.jpg"
     provenance: "Gpwitteveen; CC BY-SA 4.0"
     period: "20th century"
-    description: "This image shows Traditional Ainu chise sacred dwelling and prayer altar, selected as a defining visual reference for Ainu Religious Traditions."
 ---
 
 # Ainu Religious Traditions

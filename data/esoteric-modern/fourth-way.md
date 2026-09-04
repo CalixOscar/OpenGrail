@@ -49,18 +49,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: The Fourth Way'
     url: 'https://brill.com/search?q=The%20Fourth%20Way'
 artifacts:
-  - title: "Fourth Way founder Gurdjieff"
+  - title: "Portrait of Fourth Way founder George Ivanovich Gurdjieff"
     imageUrl: "/artifacts/fourth-way-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Georges_Gurdjieff.JPG"
-    provenance: "Janet Flanner-Solita Solano papers.; Public domain"
+    provenance: "Janet Flanner-Solita Solano papers; Public domain"
     period: "Image dated 1925"
-    description: "This image shows Fourth Way founder Gurdjieff, selected as a defining visual reference for The Fourth Way."
-  - title: "Gurdjieff's Prieure institute"
+  - title: "Prieuré des Basses-Loges in Avon, site of Gurdjieff's institute"
     imageUrl: "/artifacts/fourth-way-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Prieur%C3%A9_des_Basses-Loges_%C3%A0_Avon_le_12_septembre_2014_-_1.jpg"
     provenance: "Lionel Allorge; CC BY-SA 3.0"
     period: "Image dated 2014"
-    description: "This image shows Gurdjieff's Prieure institute, selected as a defining visual reference for The Fourth Way."
 ---
 
 # The Fourth Way

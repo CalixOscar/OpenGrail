@@ -42,19 +42,6 @@ sources:
     url: 'https://www.gutenberg.org/'
   - title: 'Peter Singer: "Practical Ethics"'
     url: 'https://www.cambridge.org/'
-artifacts:
-  - title: "Jeremy Bentham's Auto-Icon preservation at University College London"
-    imageUrl: "/artifacts/utilitarianism-ethics-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Piece_of_Jeremy_Bentham%27s_skin,_England,_1832_Wellcome_L0057192.jpg"
-    provenance: "Wikimedia Commons; CC BY 4.0"
-    period: "Object or image dated 1748"
-    description: "This image shows Jeremy Bentham's Auto-Icon preservation at University College London, selected as a defining visual reference for Utilitarianism & Consequentialist Ethics."
-  - title: "Portrait photograph of philosopher John Stuart Mill"
-    imageUrl: "/artifacts/utilitarianism-ethics-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Harriet_Mill_from_NPG.jpg"
-    provenance: "anonymous; Public domain"
-    period: "19th century"
-    description: "This image shows Portrait photograph of philosopher John Stuart Mill, selected as a defining visual reference for Utilitarianism & Consequentialist Ethics."
 ---
 
 # Utilitarianism & Consequentialist Ethics

@@ -45,18 +45,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Methodism'
     url: 'https://www.cambridge.org/core/search?q=Methodism'
 artifacts:
-  - title: "Portrait of John Wesley, founder of the Methodist movement"
+  - title: "Portrait of John Wesley after George Romney (National Portrait Gallery, London)"
     imageUrl: "/artifacts/methodism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:John_Wesley_by_George_Romney.jpg"
-    provenance: "After George Romney; Public domain"
+    provenance: "After George Romney / National Portrait Gallery, London; Public domain"
     period: "Image dated 1802"
-    description: "This image shows Portrait of John Wesley, founder of the Methodist movement, selected as a defining visual reference for Methodism."
-  - title: "Wesley's Chapel in London, historic Methodist sanctuary"
+  - title: "Sanctuary and communion table inside Wesley's Chapel in London"
     imageUrl: "/artifacts/methodism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Wesley%27s_Chapel_altar.jpg"
     provenance: "Nick Sarebi; CC BY 2.0"
     period: "Image dated 2012"
-    description: "This image shows Wesley's Chapel in London, historic Methodist sanctuary, selected as a defining visual reference for Methodism."
 ---
 
 # Methodism

@@ -40,18 +40,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Namdhari%20Sikhs'
 artifacts:
-  - title: "Satguru Ram Singh, formative leader of the Namdhari Sikhs"
+  - title: "Contemporary portrait of Satguru Ram Singh Kuka, Punjab Plains, ca. 1845–1850"
     imageUrl: "/artifacts/namdhari-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Painting_of_Baba_Ram_Singh_Kuka,_Sikh_style,_Punjab_Plains,_ca.1845%E2%80%9350.jpg"
     provenance: "Style of Bishan Singh, possibly created by Kapur Singh of Amritsar; Public domain"
     period: "19th Century"
-    description: "This image shows Satguru Ram Singh, formative leader of the Namdhari Sikhs, selected as a defining visual reference for Namdhari Sikhs."
-  - title: "Sri Bhaini Sahib, headquarters and sacred center of the Namdhari community"
+  - title: "Satguru Uday Singh, spiritual leader of the Namdhari community at Sri Bhaini Sahib"
     imageUrl: "/artifacts/namdhari-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Uday_Singh_(_Namdhari)_01.jpg"
     provenance: "Harvinder Chandigarh; CC BY 4.0"
     period: "Image dated 2024"
-    description: "This image shows Sri Bhaini Sahib, headquarters and sacred center of the Namdhari community, selected as a defining visual reference for Namdhari Sikhs."
 ---
 
 # Namdhari Sikhs

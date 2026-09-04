@@ -52,19 +52,6 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: >-
       https://ich.unesco.org/en/search?q=Hoodoo%20%2F%20African%20American%20Conjure
-artifacts:
-  - title: "Traditional African American bottle tree spirit ward in Mississippi"
-    imageUrl: "/artifacts/hoodoo-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Old_Warren_County_Courthouse_(Mississippi).jpg"
-    provenance: "Ken Lund from Las Vegas, Nevada, USA; CC BY-SA 2.0"
-    period: "19th century"
-    description: "This image shows Traditional African American bottle tree spirit ward in Mississippi, selected as a defining visual reference for Hoodoo / African American Conjure."
-  - title: "Traditional African American bottle tree spirit ward"
-    imageUrl: "/artifacts/hoodoo-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Glass_bottle_containing_Kola_Compound_elixir,_England,_1920-_Wellcome_L0059017.jpg"
-    provenance: "Wikimedia Commons; CC BY 4.0"
-    period: "Object or image dated 1920"
-    description: "This image shows Traditional African American bottle tree spirit ward, selected as a defining visual reference for Hoodoo / African American Conjure."
 ---
 
 # Hoodoo / African American Conjure

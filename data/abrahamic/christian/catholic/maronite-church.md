@@ -44,18 +44,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Maronite Church'
     url: 'https://www.cambridge.org/core/search?q=Maronite%20Church'
 artifacts:
-  - title: "Statue of Saint Maron in Lebanon"
+  - title: "Statue of Saint Maron in an exterior niche of Saint Peter's Basilica"
     imageUrl: "/artifacts/maronite-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:San_maron,_Vatican.jpg"
-    provenance: "Marco Augusto Duenas Cepas; CC BY-SA 4.0"
+    provenance: "Marco Augusto Dueñas Cepas; CC BY-SA 4.0"
     period: "Image dated 2011"
-    description: "This image shows Statue of Saint Maron in Lebanon, selected as a defining visual reference for Maronite Church."
-  - title: "Qozhaya Monastery in the Maronite heartland of the Qadisha Valley"
+  - title: "Summit cross overlooking the Monastery of Saint Anthony of Qozhaya, Qadisha Valley"
     imageUrl: "/artifacts/maronite-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Monastery_of_Qozhaya,_Cross,_Kadisha_Valley,_Lebanon.jpg"
     provenance: "Vyacheslav Argenberg; CC BY 4.0"
     period: "Image dated 2008"
-    description: "This image shows Qozhaya Monastery in the Maronite heartland of the Qadisha Valley, selected as a defining visual reference for Maronite Church."
 ---
 
 # Maronite Church

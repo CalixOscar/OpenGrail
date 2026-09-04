@@ -46,18 +46,11 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sm%C4%81rta%20Tradition'
 artifacts:
-  - title: "Pancayatana layout temple uniting five principal Hindu deities"
+  - title: "Panchayatana complex of the Vishvanatha Temple in Khajuraho, Madhya Pradesh"
     imageUrl: "/artifacts/smartism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:0121821_Vishvanath_temple,_Khajuraho_Madhya_Pradesh_057.jpg"
     provenance: "Ms Sarah Welch; CC0"
     period: "10th-century"
-    description: "This image shows Pancayatana layout temple uniting five principal Hindu deities, selected as a defining visual reference for Smārta Tradition."
-  - title: "Kanchi Kamakoti Pitha, a prominent Smarta-Advaita monastic seat"
-    imageUrl: "/artifacts/smartism-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nandi_mandapa_of_Kamakshi_Amman_Temple,_Kanchipuram.jpg"
-    provenance: "Ms Sarah Welch; CC BY-SA 4.0"
-    period: "Image dated 2018"
-    description: "This image shows Kanchi Kamakoti Pitha, a prominent Smarta-Advaita monastic seat, selected as a defining visual reference for Smārta Tradition."
 ---
 
 # Smārta Tradition

@@ -53,18 +53,11 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%AB%20Vai%E1%B9%A3%E1%B9%87avism
 artifacts:
-  - title: "Consecrated image of Ramanuja, principal Sri Vaisnava theologian"
-    imageUrl: "/artifacts/sri-vaishnavism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Consecrated_ground.jpg"
-    provenance: "User:AnemoneProjectors; CC BY-SA 2.0"
-    period: "Image dated 2010"
-    description: "This image shows Consecrated image of Ramanuja, principal Sri Vaisnava theologian, selected as a defining visual reference for Śrī Vaiṣṇavism."
-  - title: "Srirangam Ranganathaswamy Temple, foremost Sri Vaisnava sanctuary"
+  - title: "Sculptural relief at the Sri Ranganathaswamy Temple in Srirangam, Tamil Nadu"
     imageUrl: "/artifacts/sri-vaishnavism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sri_Ranganathaswamy_Temple,_dedicated_to_Vishnu,_in_Srirangam,_near_Tiruchirappali_(105)_(36802865564).jpg"
-    provenance: "Richard Mortel from Riyadh, Saudi Arabia; CC BY 2.0"
+    provenance: "Richard Mortel; CC BY 2.0"
     period: "11th-century"
-    description: "This image shows Srirangam Ranganathaswamy Temple, foremost Sri Vaisnava sanctuary, selected as a defining visual reference for Śrī Vaiṣṇavism."
 ---
 
 # Śrī Vaiṣṇavism

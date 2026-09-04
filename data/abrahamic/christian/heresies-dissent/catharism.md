@@ -47,24 +47,18 @@ sources:
   - title: 'Brill: Scholarship on medieval dualist movements'
     url: 'https://brill.com/search?q=Catharism'
 artifacts:
-  - title: Château de Montségur in Ariège
-    imageUrl: /artifacts/catharism-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Monts%C3%A9gur_Ari%C3%A8ge.jpg
-    provenance: Mmo75; CC BY-SA 4.0
-    period: 13th-century site (photographed 2017)
-    description: >-
-      The ruined hilltop fortress of Montségur in the French Pyrenees, the final
-      refuge of the Cathar hierarchy where over 200 perfecti were burned
-      following a nine-month siege in 1244.
-  - title: Expulsion of the Cathars from Carcassonne
-    imageUrl: /artifacts/catharism-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Cathars_expelled.JPG
-    provenance: Workshop of Master of Boucicaut; Public domain
-    period: c. 1415 (Grandes Chroniques de France)
-    description: >-
-      A 15th-century manuscript illumination from the Grandes Chroniques de France
-      depicting the expulsion of the Cathar population from the fortified city of
-      Carcassonne during the Albigensian Crusade in August 1209.
+  - title: "Château de Montségur in Ariège"
+    imageUrl: "/artifacts/catharism-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Monts%C3%A9gur_Ari%C3%A8ge.jpg"
+    provenance: "Mmo75; CC BY-SA 4.0"
+    period: "13th-century site (photographed 2017)"
+    description: "The ruined hilltop fortress of Montségur in the French Pyrenees, the final refuge of the Cathar hierarchy where over 200 perfecti were burned following a nine-month siege in 1244."
+  - title: "Expulsion of the Cathars from Carcassonne"
+    imageUrl: "/artifacts/catharism-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cathars_expelled.JPG"
+    provenance: "Workshop of Master of Boucicaut; Public domain"
+    period: "c. 1415 (Grandes Chroniques de France)"
+    description: "A 15th-century manuscript illumination from the Grandes Chroniques de France depicting the expulsion of the Cathar population from the fortified city of Carcassonne during the Albigensian Crusade in August 1209."
 relations:
   - target: catholicism
     type: diverged_from

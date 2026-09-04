@@ -54,18 +54,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Samothracian Mysteries'
     url: 'https://brill.com/search?q=Samothracian%20Mysteries'
 artifacts:
-  - title: "Samothracian votive Nike"
+  - title: "Detail of the Winged Victory of Samothrace, Louvre Museum"
     imageUrl: "/artifacts/samothracian-mysteries-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Wing_victory_Samothrace_Louvre_Ma2369.jpg"
-    provenance: "Unknown artist Unknown artist; Public domain"
+    provenance: "Unknown; Public domain"
     period: "190 BC"
-    description: "This image shows Samothracian votive Nike, selected as a defining visual reference for Samothracian Mysteries."
-  - title: "Samothracian sanctuary"
+  - title: "Ruins of the Hieron in the Sanctuary of the Great Gods, Samothrace"
     imageUrl: "/artifacts/samothracian-mysteries-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Samothraki_Hieron.jpg"
-    provenance: "No machine-readable author provided. Marsyas assumed (based on copyright claims).; CC BY-SA 3.0"
+    provenance: "Marsyas; CC BY-SA 3.0"
     period: "Image dated 2001"
-    description: "This image shows Samothracian sanctuary, selected as a defining visual reference for Samothracian Mysteries."
 ---
 
 # Samothracian Mysteries

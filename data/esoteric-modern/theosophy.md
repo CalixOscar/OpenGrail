@@ -52,18 +52,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Theosophy'
     url: 'https://brill.com/search?q=Theosophy'
 artifacts:
-  - title: "Theosophy founder Helena Blavatsky"
+  - title: "Portrait photograph of Helena Petrovna Blavatsky, co-founder of the Theosophical Society"
     imageUrl: "/artifacts/theosophy-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Blavatsky.006.jpg"
-    provenance: "unklar; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "Image dated 1889"
-    description: "This image shows Theosophy founder Helena Blavatsky, selected as a defining visual reference for Theosophy."
-  - title: "Adyar Theosophical headquarters"
+  - title: "Main headquarters building of the Theosophical Society in Adyar, Chennai (1890)"
     imageUrl: "/artifacts/theosophy-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Adyar_TG.jpg"
-    provenance: "unklar; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "Image dated 2007"
-    description: "This image shows Adyar Theosophical headquarters, selected as a defining visual reference for Theosophy."
 ---
 
 # Theosophy

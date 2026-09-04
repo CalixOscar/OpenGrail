@@ -35,18 +35,16 @@ sources:
   - title: 'UNESCO World Heritage: Rock-Hewn Churches, Lalibela'
     url: 'https://whc.unesco.org/en/list/18/'
 artifacts:
-  - title: "Cross-shaped rock-hewn Church of Saint George at Lalibela"
+  - title: "Rock-hewn Church of Saint George (Bete Giyorgis) in Lalibela, Ethiopia"
     imageUrl: "/artifacts/ethiopian-orthodoxy-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Church_of_Bet_Giyorgis,_Lalibela,_Ethiopia_(3279437544).jpg"
     provenance: "A. Davey from Where I Live Now: Pacific Northwest; CC BY 2.0"
     period: "13th century"
-    description: "This image shows Cross-shaped rock-hewn Church of Saint George at Lalibela, selected as a defining visual reference for Ethiopian Orthodoxy."
-  - title: "Ancient illuminated Garima Gospels in the Ge'ez tradition"
+  - title: "Evangelist portrait illumination from the ancient Ge'ez Garima Gospels"
     imageUrl: "/artifacts/ethiopian-orthodoxy-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Garima-Gospels-1.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "6 th century"
-    description: "This image shows Ancient illuminated Garima Gospels in the Ge'ez tradition, selected as a defining visual reference for Ethiopian Orthodoxy."
 ---
 
 # Ethiopian Orthodoxy

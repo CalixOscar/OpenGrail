@@ -47,19 +47,17 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Canaanite Religion'
     url: 'https://brill.com/search?q=Canaanite%20Religion'
 artifacts:
-  - title: "Baal storm-god stele"
+  - title: "Stele of Baal with a Thunderbolt from the Acropolis of Ugarit, Louvre Museum"
     imageUrl: "/artifacts/canaanite-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Louvre_-_Ugaritic_stelae.jpg"
-    provenance: "Rama; CC BY-SA 3.0 fr"
+    provenance: "Rama; CC BY-SA 3.0 FR"
     period: "Digital file published 2006"
-    description: "This image shows Baal storm-god stele, selected as a defining visual reference for Canaanite Religion."
     detail: high
-  - title: "Hazor Canaanite sanctuary"
+  - title: "Remains of the Canaanite temple cella in Area H at Tel Hazor"
     imageUrl: "/artifacts/canaanite-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hatzor_-_Temple_dvir_area_8-%D7%97.JPG"
     provenance: "Hanay; CC BY-SA 3.0"
     period: "Image dated 2003"
-    description: "This image shows Hazor Canaanite sanctuary, selected as a defining visual reference for Canaanite Religion."
 ---
 
 # Canaanite Religion

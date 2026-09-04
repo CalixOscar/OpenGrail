@@ -47,25 +47,18 @@ sources:
   - title: 'Encyclopaedia Britannica: Frankism'
     url: 'https://www.britannica.com/topic/Frankism'
 artifacts:
-  - title: Portrait of Jacob Frank in aristocratic attire
-    imageUrl: /artifacts/frankism-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Jakob_Joseph_Frank.jpg
-    provenance: Unknown author; Public domain
-    period: c. late 18th century
-    description: >-
-      A late eighteenth-century portrait of Jacob Frank (1726–1791) in aristocratic
-      attire, leader of the Frankist antinomian movement who led thousands of
-      followers into Catholic baptism while establishing a messianic court at
-      Offenbach am Main.
-  - title: Portrait of Eve Frank
-    imageUrl: /artifacts/frankism-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Ewa_Frank.jpg
-    provenance: Unknown author; Public domain
-    period: '1774'
-    description: >-
-      A 1774 portrait of Eve Frank (1754–1816), daughter of Jacob Frank, who was
-      revered as the incarnation of the Shekhinah ('Holy Mistress') and led the
-      Frankist movement following her father's death.
+  - title: "Portrait of Jacob Frank in aristocratic attire"
+    imageUrl: "/artifacts/frankism-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Jakob_Joseph_Frank.jpg"
+    provenance: "Unknown author; Public domain"
+    period: "c. late 18th century"
+    description: "A late eighteenth-century portrait of Jacob Frank (1726–1791) in aristocratic attire, leader of the Frankist antinomian movement who led thousands of followers into Catholic baptism while establishing a messianic court at Offenbach am Main."
+  - title: "Portrait of Eve Frank"
+    imageUrl: "/artifacts/frankism-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ewa_Frank.jpg"
+    provenance: "Unknown author; Public domain"
+    period: "1774"
+    description: "A 1774 portrait of Eve Frank (1754–1816), daughter of Jacob Frank, who was revered as the incarnation of the Shekhinah ('Holy Mistress') and led the Frankist movement following her father's death."
 relations:
   - target: sabbateanism
     type: diverged_from

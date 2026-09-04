@@ -49,24 +49,18 @@ sources:
   - title: 'Brill: The Cult of Sol Invictus and Elagabal in the Roman Empire'
     url: 'https://brill.com/search?q=Elagabal'
 artifacts:
-  - title: Silver denarius depicting the conical Black Stone of Emesa
-    imageUrl: /artifacts/elagabal-sun-cult-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Silver_denarius_of_Elagabalus_(FindID_806621).jpg
-    provenance: Sam Moorhead (Portable Antiquities Scheme); CC BY 2.0
-    period: 218–222 CE
-    description: >-
-      Roman silver denarius struck under Emperor Elagabalus with reverse legend
-      SANCT DEO SOLI ELAGABAL, depicting the conical holy stone (baetyl) of Emesa
-      transported on a ceremonial four-horse chariot (quadriga).
-  - title: Denarius of Elagabalus celebrating the Emesene sun god
-    imageUrl: /artifacts/elagabal-sun-cult-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Roman_Coin,_Denarius_of_Elagabalus_(FindID_88433).jpg
-    provenance: Roger Bland (Portable Antiquities Scheme); CC BY-SA 4.0
-    period: 218–222 CE
-    description: >-
-      Silver denarius commemorating the elevation of the Syrian solar deity
-      Elagabal to the head of the Roman state pantheon, with quadriga carrying the
-      sacred meteorite.
+  - title: "Silver denarius depicting the conical Black Stone of Emesa"
+    imageUrl: "/artifacts/elagabal-sun-cult-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Silver_denarius_of_Elagabalus_(FindID_806621).jpg"
+    provenance: "Sam Moorhead (Portable Antiquities Scheme); CC BY 2.0"
+    period: "218–222 CE"
+    description: "Roman silver denarius struck under Emperor Elagabalus with reverse legend SANCT DEO SOLI ELAGABAL, depicting the conical holy stone (baetyl) of Emesa transported on a ceremonial four-horse chariot (quadriga)."
+  - title: "Denarius of Elagabalus celebrating the Emesene sun god"
+    imageUrl: "/artifacts/elagabal-sun-cult-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Roman_Coin,_Denarius_of_Elagabalus_(FindID_88433).jpg"
+    provenance: "Roger Bland (Portable Antiquities Scheme); CC BY-SA 4.0"
+    period: "218–222 CE"
+    description: "Silver denarius commemorating the elevation of the Syrian solar deity Elagabal to the head of the Roman state pantheon, with quadriga carrying the sacred meteorite."
 relations:
   - target: roman-religion
     type: influenced_by

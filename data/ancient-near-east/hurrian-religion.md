@@ -44,19 +44,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hurrian Religion'
     url: 'https://brill.com/search?q=Hurrian%20Religion'
 artifacts:
-  - title: "Teshub and Hebat relief"
+  - title: "19th-century engraving by Charles Texier of the Hurrian god Sharruma and deities at Yazılıkaya"
     imageUrl: "/artifacts/hurrian-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Yazilikaya_Sharruma.jpg"
     provenance: "Charles Texier; Public domain"
     period: "Image dated 1862"
-    description: "This image shows Teshub and Hebat relief, selected as a defining visual reference for Hurrian Religion."
-  - title: "Hurrian hymn tablet"
-    imageUrl: "/artifacts/hurrian-religion-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ugarit_Corbel.jpg"
-    provenance: "Disdero ( talk · contribs ); CC BY 3.0"
-    period: "Image dated 2005"
-    description: "This image shows Hurrian hymn tablet, selected as a defining visual reference for Hurrian Religion."
-    detail: high
 ---
 
 # Hurrian Religion

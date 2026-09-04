@@ -42,18 +42,18 @@ relations:
     certainty: academic_consensus
     citation: Operates within a Japanese Mahayana devotional and ritual framework while championing early Āgama scriptures.
 artifacts:
-  - title: Agon Shū Tokai Regional Headquarters
-    imageUrl: /artifacts/agon-shu-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Agon_Shu_tokaihonbu_01.jpg'
-    provenance: Mobnoboka; CC BY-SA 4.0
-    period: Photographed 2019
-    description: 'The Tokai Regional Headquarters building of Agon Shū in Nagoya, supporting the modern lay Buddhist organization founded by Kiriyama Seiyū.'
-  - title: Agon Shū Toyohashi Dōjō
-    imageUrl: /artifacts/agon-shu-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Agon-shu-Toyohashi.jpg'
-    provenance: HQA02330; CC BY-SA 4.0
-    period: Photographed 2020
-    description: 'The Agon Shū Toyohashi Dōjō in Aichi Prefecture, a branch meditation and prayer hall dedicated to Āgama sutra study and esoteric rituals.'
+  - title: "Agon Shū Tokai Regional Headquarters"
+    imageUrl: "/artifacts/agon-shu-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Agon_Shu_tokaihonbu_01.jpg"
+    provenance: "Mobnoboka; CC BY-SA 4.0"
+    period: "Photographed 2019"
+    description: "The Tokai Regional Headquarters building of Agon Shū in Nagoya, supporting the modern lay Buddhist organization founded by Kiriyama Seiyū."
+  - title: "Agon Shū Toyohashi Dōjō"
+    imageUrl: "/artifacts/agon-shu-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Agon-shu-Toyohashi.jpg"
+    provenance: "HQA02330; CC BY-SA 4.0"
+    period: "Photographed 2020"
+    description: "The Agon Shū Toyohashi Dōjō in Aichi Prefecture, a branch meditation and prayer hall dedicated to Āgama sutra study and esoteric rituals."
 ---
 
 # Agon Shū

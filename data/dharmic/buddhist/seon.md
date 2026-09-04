@@ -49,18 +49,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Seon%20Buddhism'
 artifacts:
-  - title: "Jinul, formative systematizer of Korean Seon"
+  - title: "Joseon-era portrait of National Preceptor Bojo Jinul at Songgwangsa Temple"
     imageUrl: "/artifacts/seon-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jinul.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Songgwangsa / Unknown Joseon painter; Public domain"
     period: "Image dated 1780"
-    description: "This image shows Jinul, formative systematizer of Korean Seon, selected as a defining visual reference for Seon Buddhism."
-  - title: "Songgwangsa, the monastic center founded by Jinul's community"
+  - title: "Songgwangsa temple complex on Mount Jogye in South Jeolla Province"
     imageUrl: "/artifacts/seon-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%BB%A3%E5%AF%BA_Korean_Temple_Songgwangsa_by_Oadde_01.jpg"
     provenance: "Oadde; CC BY-SA 4.0"
     period: "Image dated 2018"
-    description: "This image shows Songgwangsa, the monastic center founded by Jinul's community, selected as a defining visual reference for Seon Buddhism."
 ---
 
 # Seon Buddhism

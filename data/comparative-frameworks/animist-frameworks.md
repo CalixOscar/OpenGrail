@@ -45,18 +45,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Animist%20Frameworks'
 artifacts:
-  - title: "Meoto Iwa sacred rocks joined by shimenawa rope"
+  - title: "The Wedded Rocks (Meoto Iwa) bound by a sacred shimenawa rope at sunrise, Futami Okitama Shrine"
     imageUrl: "/artifacts/animist-frameworks-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sunrise_of_the_Wedded_Rocks02.jpg"
-    provenance: "Tawashi2006; CC BY 2.1 jp"
+    provenance: "Tawashi2006; CC BY 2.1 JP"
     period: "Image dated 2008"
-    description: "This image shows Meoto Iwa sacred rocks joined by shimenawa rope, selected as a defining visual reference for Animist Frameworks."
-  - title: "Ainu inau sacred carved prayer sticks"
+  - title: "Ainu sacred whittled wooden prayer sticks (inau) at the Kayano Shigeru Nibutani Ainu Museum"
     imageUrl: "/artifacts/animist-frameworks-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Inaw.jpg"
-    provenance: "No machine-readable author provided. Hno3 assumed (based on copyright claims).; Public domain"
+    provenance: "Hno3; Public domain"
     period: "Image dated 2005"
-    description: "This image shows Ainu inau sacred carved prayer sticks, selected as a defining visual reference for Animist Frameworks."
 ---
 
 # Animist Frameworks

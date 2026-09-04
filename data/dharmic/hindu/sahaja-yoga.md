@@ -42,18 +42,18 @@ relations:
     certainty: academic_consensus
     citation: Incorporated Śākta concepts of the primordial Divine Feminine (Ādi Śakti) and the transformative power of guru-initiated energetic transmission.
 artifacts:
-  - title: Shri Mataji Nirmala Devi Conducting Public Program
-    imageUrl: /artifacts/sahaja-yoga-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Shri_Mataji_Nirmala_Shrivastava.jpg'
-    provenance: Michael Markl; CC BY-SA 3.0
-    period: Photographed 1994
-    description: 'Founder Shri Mataji Nirmala Devi (Nirmala Srivastava, 1923–2011) conferring collective Self-Realization during a public Sahaja Yoga meditation program in Prague, 1994.'
-  - title: Sahaja Yoga Subtle Energy and Kundalini System
-    imageUrl: /artifacts/sahaja-yoga-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:DiagrammaChakraKundalini.jpg'
-    provenance: Silvanasono; Public domain
-    period: Created 2010
-    description: Diagram illustrating the three subtle channels (nāḍīs) and seven chakras used in Sahaja Yoga meditation to achieve spontaneous thoughtless awareness (nirvicāra samādhi).
+  - title: "Shri Mataji Nirmala Devi Conducting Public Program"
+    imageUrl: "/artifacts/sahaja-yoga-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shri_Mataji_Nirmala_Shrivastava.jpg"
+    provenance: "Michael Markl; CC BY-SA 3.0"
+    period: "Photographed 1994"
+    description: "Founder Shri Mataji Nirmala Devi (Nirmala Srivastava, 1923–2011) conferring collective Self-Realization during a public Sahaja Yoga meditation program in Prague, 1994."
+  - title: "Sahaja Yoga Subtle Energy and Kundalini System"
+    imageUrl: "/artifacts/sahaja-yoga-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:DiagrammaChakraKundalini.jpg"
+    provenance: "Silvanasono; Public domain"
+    period: "Created 2010"
+    description: "Diagram illustrating the three subtle channels (nāḍīs) and seven chakras used in Sahaja Yoga meditation to achieve spontaneous thoughtless awareness (nirvicāra samādhi)."
 ---
 
 # Sahaja Yoga

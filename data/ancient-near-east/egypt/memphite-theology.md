@@ -51,19 +51,17 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Memphite Theology'
     url: 'https://brill.com/search?q=Memphite%20Theology'
 artifacts:
-  - title: "Shabaka Stone theology inscription"
+  - title: "The Shabaka Stone recording the Memphite Theology, British Museum"
     imageUrl: "/artifacts/memphite-theology-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:ShabakaStone-BritishMuseum-August19-08.jpg"
     provenance: "CaptMondo; CC BY 2.5"
     period: "710 BC"
-    description: "This image shows Shabaka Stone theology inscription, selected as a defining visual reference for Memphite Theology."
     detail: high
-  - title: "Memphite cult image of Ptah"
+  - title: "Lapis lazuli cult statuette of the god Ptah, Metropolitan Museum of Art"
     imageUrl: "/artifacts/memphite-theology-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cult_Image_of_the_God_Ptah_MET_DP142956.jpg"
-    provenance: "Wikimedia Commons; CC0"
+    provenance: "Metropolitan Museum of Art; CC0"
     period: "Digital file published 2017"
-    description: "This image shows Memphite cult image of Ptah, selected as a defining visual reference for Memphite Theology."
 ---
 
 # Memphite Theology

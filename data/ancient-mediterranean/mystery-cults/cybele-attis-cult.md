@@ -51,18 +51,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Cybele and Attis'
     url: 'https://brill.com/search?q=Cult%20of%20Cybele%20and%20Attis'
 artifacts:
-  - title: "Cybele with lions cult image"
+  - title: "Roman bronze statuette of Cybele on a lion-drawn chariot, Metropolitan Museum of Art"
     imageUrl: "/artifacts/cybele-attis-cult-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bronze_statuette_of_Cybele.jpg"
     provenance: "Peterjr1961; CC BY-SA 3.0"
     period: "2nd century"
-    description: "This image shows Cybele with lions cult image, selected as a defining visual reference for Cult of Cybele and Attis."
-  - title: "Palatine sanctuary of Magna Mater"
-    imageUrl: "/artifacts/cybele-attis-cult-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:2017-03-23_On_the_Palatine_Hill.jpg"
-    provenance: "BIG ALBERT; CC BY 2.0"
-    period: "16th century"
-    description: "This image shows Palatine sanctuary of Magna Mater, selected as a defining visual reference for Cult of Cybele and Attis."
 ---
 
 # Cult of Cybele and Attis

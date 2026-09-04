@@ -40,18 +40,16 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Quanzhen%20Daoism'
 artifacts:
-  - title: "Portrait of Wang Chongyang"
+  - title: "Portrait of Wang Chongyang, founder of Quanzhen Daoism"
     imageUrl: "/artifacts/quanzhen-daoism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Wang_Chongyang.jpg"
     provenance: "Phoenix Darshan; CC BY-SA 4.0"
     period: "Image dated 2025"
-    description: "This image shows Portrait of Wang Chongyang, selected as a defining visual reference for Quanzhen Daoism."
-  - title: "Chongyang Palace"
+  - title: "Fresco of Wang Chongyang and the Seven True Daoists at Changchun Temple, Wuhan"
     imageUrl: "/artifacts/quanzhen-daoism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Changchun-Temple-Master-and-disciples-painting-0316.jpg"
-    provenance: "Photo taken by User:Vmenkov . Painter's name is not known to the photographer. Although there is a fair amount of signage around the temple ; Public domain"
+    provenance: "User:Vmenkov; Public domain"
     period: "Image dated 2008"
-    description: "This image shows Chongyang Palace, selected as a defining visual reference for Quanzhen Daoism."
 ---
 
 # Quanzhen Daoism

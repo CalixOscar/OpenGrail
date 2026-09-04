@@ -37,18 +37,11 @@ sources:
   - title: 'UNESCO World Heritage: Bagan'
     url: 'https://whc.unesco.org/en/list/1588/'
 artifacts:
-  - title: "Taung Kalat monastery atop Mount Popa sacred volcanic plug"
+  - title: "Taung Kalat monastery atop the volcanic plug at Mount Popa"
     imageUrl: "/artifacts/burmese-nat-worship-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mt_Popa,_Myanmar.jpg"
     provenance: "Ed Brambley; CC BY-SA 2.0"
     period: "Image dated 2009"
-    description: "This image shows Taung Kalat monastery atop Mount Popa sacred volcanic plug, selected as a defining visual reference for Burmese Nat Worship & Mount Popa Sanctuaries."
-  - title: "Shrine of the 37 Great Nats at Mount Popa"
-    imageUrl: "/artifacts/burmese-nat-worship-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Carbonate_Mountain_At_Great_Sand_Dunes_Nat_L_Park_(237647347).jpeg"
-    provenance: "Eric Johnson; CC0"
-    period: "Image dated 2017"
-    description: "This image shows Shrine of the 37 Great Nats at Mount Popa, selected as a defining visual reference for Burmese Nat Worship & Mount Popa Sanctuaries."
 ---
 
 # Burmese Nat Worship & Mount Popa Sanctuaries

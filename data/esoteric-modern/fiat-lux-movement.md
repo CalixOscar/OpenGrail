@@ -44,14 +44,12 @@ sources:
   - title: 'Inform (Information Network Focus on Religious Movements): "Fiat Lux Profile"'
     url: 'https://inform.ac/'
 artifacts:
-  - title: Headquarters of Fiat Lux in Ibach
-    imageUrl: /artifacts/fiat-lux-movement-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:FiatLux_Ibach1.jpg
-    provenance: Eigene Arbeit; CC BY-SA 3.0
-    period: Photographed 2004
-    description: >-
-      The central sanctuary (*Heiligtum Jesu Christi*) and headquarters of the Geistchristliche
-      Gemeinschaft Fiat Lux in Ibach in the Black Forest region of southern Germany.
+  - title: "Headquarters of Fiat Lux in Ibach"
+    imageUrl: "/artifacts/fiat-lux-movement-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:FiatLux_Ibach1.jpg"
+    provenance: "Eigene Arbeit; CC BY-SA 3.0"
+    period: "Photographed 2004"
+    description: "The central sanctuary (*Heiligtum Jesu Christi*) and headquarters of the Geistchristliche Gemeinschaft Fiat Lux in Ibach in the Black Forest region of southern Germany."
 relations:
   - target: ufo-religions
     type: branch_of

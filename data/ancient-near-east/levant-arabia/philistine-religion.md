@@ -51,18 +51,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Philistine Religion'
     url: 'https://brill.com/search?q=Philistine%20Religion'
 artifacts:
-  - title: "Philistine Ashdoda cult figurine"
+  - title: "Philistine cultic artifacts exhibition featuring an Ashdoda figurine and incense stands, Israel Museum"
     imageUrl: "/artifacts/philistine-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Philistine_Religion_%26_Pottery_(43217306421).jpg"
-    provenance: "Gary Todd from Xinzheng, China; CC0"
+    provenance: "Gary Todd; CC0"
     period: "Image dated 2018"
-    description: "This image shows Philistine Ashdoda cult figurine, selected as a defining visual reference for Philistine Religion."
-  - title: "Ekron temple inscription"
+  - title: "Ekron Royal Dedicatory Inscription from Tel Miqne, Israel Museum"
     imageUrl: "/artifacts/philistine-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:JRSLM_300116_Ekron_inscription.jpg"
     provenance: "Oren Rozen; CC BY-SA 4.0"
     period: "Image dated 2016"
-    description: "This image shows Ekron temple inscription, selected as a defining visual reference for Philistine Religion."
     detail: high
 ---
 

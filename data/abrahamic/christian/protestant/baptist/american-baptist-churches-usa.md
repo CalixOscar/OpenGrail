@@ -51,18 +51,16 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=American%20Baptist%20Churches%20USA
 artifacts:
-  - title: "Portrait of Adoniram Judson, emblematic of American Baptist missions"
+  - title: "1866 Judson Missionary Association certificate with portrait of Adoniram Judson"
     imageUrl: "/artifacts/american-baptist-churches-usa-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:This_is_to_certify_that_Reuben_E._Fenton_is_a_life_member_of_Judson_Missionary_Association_of_the_Hanson_Place_Baptist_Sabbath_School_LCCN00652064.jpg"
-    provenance: "Popular Graphic Arts; Public domain"
+    provenance: "Popular Graphic Arts / Library of Congress; Public domain"
     period: "Image dated 1866"
-    description: "This image shows Portrait of Adoniram Judson, emblematic of American Baptist missions, selected as a defining visual reference for American Baptist Churches USA."
-  - title: "Judson Memorial Church, historic American Baptist congregation"
+  - title: "Interior of Judson Memorial Church in Greenwich Village, New York City"
     imageUrl: "/artifacts/american-baptist-churches-usa-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Judson_Memorial_Church%E2%80%94interior_looking_south_to_rostrum.jpg"
     provenance: "Coelacanth2014; CC BY-SA 4.0"
     period: "Image dated 2016"
-    description: "This image shows Judson Memorial Church, historic American Baptist congregation, selected as a defining visual reference for American Baptist Churches USA."
 ---
 
 # American Baptist Churches USA

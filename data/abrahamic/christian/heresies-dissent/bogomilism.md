@@ -44,16 +44,12 @@ sources:
   - title: 'Brill: Studies in Balkan dualist heresy'
     url: 'https://brill.com/search?q=Bogomilism'
 artifacts:
-  - title: Stećak at Radimlja Necropolis
-    imageUrl: /artifacts/bogomilism-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:13st_Radimlja.jpg
-    provenance: Prof saxx; CC BY-SA 3.0
-    period: 13th–15th century (photographed 2007)
-    description: >-
-      A relief-carved medieval stećak monument at the Radimlja necropolis near
-      Stolac, Bosnia and Herzegovina. Historically popularly linked to the
-      Bosnian Church and Bogomil movement, though modern archaeology notes
-      stećci were erected across confessional boundaries.
+  - title: "Stećak at Radimlja Necropolis"
+    imageUrl: "/artifacts/bogomilism-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:13st_Radimlja.jpg"
+    provenance: "Prof saxx; CC BY-SA 3.0"
+    period: "13th–15th century (photographed 2007)"
+    description: "A relief-carved medieval stećak monument at the Radimlja necropolis near Stolac, Bosnia and Herzegovina. Historically popularly linked to the Bosnian Church and Bogomil movement, though modern archaeology notes stećci were erected across confessional boundaries."
 relations:
   - target: eastern-orthodoxy
     type: diverged_from

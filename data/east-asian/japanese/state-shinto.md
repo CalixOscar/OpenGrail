@@ -41,18 +41,16 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=State%20Shinto'
 artifacts:
-  - title: "Meiji imperial sacred portrait"
+  - title: "Official imperial portrait (goshin'ei) of Emperor Meiji by Edoardo Chiossone"
     imageUrl: "/artifacts/state-shinto-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Black_and_white_portrait_of_emperor_Meiji_of_Japan_in_1888.jpg"
-    provenance: "Artist: Eduardo Chiossone (1833–98); Photographer: Maruki Riyo (also misspelt as Maruki Toshiaki); Public domain"
+    provenance: "Edoardo Chiossone, Maruki Riyō; Public domain"
     period: "Image dated 1888"
-    description: "This image shows Meiji imperial sacred portrait, selected as a defining visual reference for State Shinto."
-  - title: "State Shinto Yasukuni sanctuary"
+  - title: "Shinto priests leading a ceremonial procession at Yasukuni Shrine in 1938"
     imageUrl: "/artifacts/state-shinto-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hitlerjugend_visit_to_Yasukuni_Shrine_State_Shint%C5%8D_wreath_procession_kannushi_1938.jpg"
-    provenance: "Sekai Gaho (世界画報) Pictorial World October 1938 published by Kokusai Joho Shashin Tokyo Japan (now Tokyo Kokusai Johosha?); Public domain"
+    provenance: "Sekai Gahō; Public domain"
     period: "Image dated 1938"
-    description: "This image shows State Shinto Yasukuni sanctuary, selected as a defining visual reference for State Shinto."
 ---
 
 # State Shinto

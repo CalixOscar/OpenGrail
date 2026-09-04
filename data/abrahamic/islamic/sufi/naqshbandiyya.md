@@ -49,18 +49,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Naqshbandiyya'
     url: 'https://www.cambridge.org/core/search?q=Naqshbandiyya'
 artifacts:
-  - title: "Mausoleum of Baha al-Din Naqshband near Bukhara"
+  - title: "Shrine complex of Baha al-Din Naqshband near Bukhara, Uzbekistan"
     imageUrl: "/artifacts/naqshbandiyya-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bakhauddin_Nakhshbandi_Shrine,_near_Bukhara_(484611).jpg"
     provenance: "upyernoz from Haverford, USA; CC BY 2.0"
     period: "Image dated 2004"
-    description: "This image shows Mausoleum of Baha al-Din Naqshband near Bukhara, selected as a defining visual reference for Naqshbandiyya."
-  - title: "Naqshbandi communal practice of silent remembrance"
+  - title: "Silsila chart of spiritual succession of the Naqshbandiyya Mujaddidiyya"
     imageUrl: "/artifacts/naqshbandiyya-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Silsila_Naqshbandi.jpg"
     provenance: "Wilayatalikhan; Public domain"
     period: "Digital file published 2010"
-    description: "This image shows Naqshbandi communal practice of silent remembrance, selected as a defining visual reference for Naqshbandiyya."
 ---
 
 # Naqshbandiyya

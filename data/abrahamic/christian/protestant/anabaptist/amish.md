@@ -46,18 +46,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Amish Traditions'
     url: 'https://www.cambridge.org/core/search?q=Amish%20Traditions'
 artifacts:
-  - title: "Amish plain dress and horse-drawn buggy as visible communal practice"
+  - title: "Old Order Amish horse and buggy in Intercourse, Pennsylvania"
     imageUrl: "/artifacts/amish-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Old_Order_Amish_horse_and_buggy_in_Intercourse,_PA.jpg"
     provenance: "Rlevse; Public domain"
     period: "Image dated 2009"
-    description: "This image shows Amish plain dress and horse-drawn buggy as visible communal practice, selected as a defining visual reference for Amish Traditions."
-  - title: "Historical Ausbund hymnal used in Amish worship"
+  - title: "Title page of the 1742 edition of the Ausbund hymnal"
     imageUrl: "/artifacts/amish-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:De_ausbund_titel.jpg"
-    provenance: "verschiedene; Public domain"
+    provenance: "Public domain"
     period: "Image dated 1742"
-    description: "This image shows Historical Ausbund hymnal used in Amish worship, selected as a defining visual reference for Amish Traditions."
 ---
 
 # Amish Traditions

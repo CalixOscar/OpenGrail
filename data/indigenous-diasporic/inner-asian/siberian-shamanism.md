@@ -45,18 +45,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Siberian%20Shamanic%20Traditions'
 artifacts:
-  - title: "Yhyakh festival ritual wooden serge pole in Sakha"
+  - title: "Sakha dancers performing at the Yhyakh summer solstice festival in Yakutia"
     imageUrl: "/artifacts/siberian-shamanism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Girls_dancing_on_Yhyakh,_Sangar,_Yakutia.jpg"
     provenance: "Tenebroid; CC BY-SA 4.0"
     period: "Image dated 2021"
-    description: "This image shows Yhyakh festival ritual wooden serge pole in Sakha, selected as a defining visual reference for Siberian Shamanic Traditions."
   - title: "Shamanka Rock (Shaman Rock) on Olkhon Island, Lake Baikal"
     imageUrl: "/artifacts/siberian-shamanism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shaman_Rock_on_Olkhon_island.jpg"
-    provenance: "Аркадии Зарубин; CC BY-SA 3.0"
+    provenance: "Arkadiy Zarubin; CC BY-SA 3.0"
     period: "Image dated 2009"
-    description: "This image shows Shamanka Rock (Shaman Rock) on Olkhon Island, Lake Baikal, selected as a defining visual reference for Siberian Shamanic Traditions."
 ---
 
 # Siberian Shamanic Traditions

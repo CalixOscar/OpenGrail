@@ -46,14 +46,12 @@ sources:
   - title: 'Encyclopaedia Britannica: "Nuwaubian Nation of Moors"'
     url: 'https://www.britannica.com/topic/United-Nuwaubian-Nation-of-Moors'
 artifacts:
-  - title: Central pyramid at the Tama-Re compound
-    imageUrl: /artifacts/nuwaubian-nation-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:TamaRe.jpg
-    provenance: Kenneth C. Budd; CC BY 2.0
-    period: Photographed July 2002
-    description: >-
-      Aerial photograph of the Egyptian-revival central pyramid at the Nuwaubian Nation's 476-acre
-      Tama-Re compound near Eatonton, Georgia, built in 1993 and demolished in 2005.
+  - title: "Central pyramid at the Tama-Re compound"
+    imageUrl: "/artifacts/nuwaubian-nation-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:TamaRe.jpg"
+    provenance: "Kenneth C. Budd; CC BY 2.0"
+    period: "Photographed July 2002"
+    description: "Aerial photograph of the Egyptian-revival central pyramid at the Nuwaubian Nation's 476-acre Tama-Re compound near Eatonton, Georgia, built in 1993 and demolished in 2005."
 relations:
   - target: ufo-religions
     type: branch_of

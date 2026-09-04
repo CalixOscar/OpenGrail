@@ -46,20 +46,18 @@ sources:
   - title: 'New York University Press: Chosen People: The Rise of American Black Israelite Religions (Jacob S. Dorman)'
     url: 'https://nyupress.org/9780814725221/chosen-people/'
 artifacts:
-  - title: Entrance to the Village of Peace in Dimona, Israel
-    imageUrl: /artifacts/black-hebrew-israelites-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_32044_Africans_Hebrew_Israelites_in_Dimona.JPG
-    provenance: Dr. Avishai Teicher; CC BY 2.5
-    period: Photographed 2013 CE
-    description: >-
-      The entrance gate to the Kfar HaShalom (Village of Peace) communal settlement in Dimona, Israel, established in 1969 by the African Hebrew Israelites of Jerusalem under Ben Ammi Ben-Israel.
-  - title: Communal Dining Hall of the African Hebrew Israelites in Dimona
-    imageUrl: /artifacts/black-hebrew-israelites-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Black_hebrews_Dimona_visit1.jpg
-    provenance: Dror Eiger; CC BY-SA 2.0
-    period: Photographed 2005 CE
-    description: >-
-      The communal vegan dining center inside the African Hebrew Israelites of Jerusalem settlement in Dimona, Israel, reflecting the community's adherence to holistic living and biblical dietary guidelines.
+  - title: "Entrance to the Village of Peace in Dimona, Israel"
+    imageUrl: "/artifacts/black-hebrew-israelites-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_32044_Africans_Hebrew_Israelites_in_Dimona.JPG"
+    provenance: "Dr. Avishai Teicher; CC BY 2.5"
+    period: "Photographed 2013 CE"
+    description: "The entrance gate to the Kfar HaShalom (Village of Peace) communal settlement in Dimona, Israel, established in 1969 by the African Hebrew Israelites of Jerusalem under Ben Ammi Ben-Israel."
+  - title: "Communal Dining Hall of the African Hebrew Israelites in Dimona"
+    imageUrl: "/artifacts/black-hebrew-israelites-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Black_hebrews_Dimona_visit1.jpg"
+    provenance: "Dror Eiger; CC BY-SA 2.0"
+    period: "Photographed 2005 CE"
+    description: "The communal vegan dining center inside the African Hebrew Israelites of Jerusalem settlement in Dimona, Israel, reflecting the community's adherence to holistic living and biblical dietary guidelines."
 relations:
   - target: judaism
     type: influenced_by

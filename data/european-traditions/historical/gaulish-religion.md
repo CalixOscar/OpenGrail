@@ -52,18 +52,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gaulish Religions'
     url: 'https://brill.com/search?q=Gaulish%20Religions'
 artifacts:
-  - title: "Pillar of the Boatmen deities"
+  - title: "Scale reconstruction model of the Pillar of the Boatmen (Pilier des Nautes)"
     imageUrl: "/artifacts/gaulish-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:CLUNY-Maquette_pilier_nautes_1.JPG"
-    provenance: "anonymous; CC BY 2.5"
+    provenance: "Unknown author; CC BY 2.5"
     period: "Digital file published 2006"
-    description: "This image shows Pillar of the Boatmen deities, selected as a defining visual reference for Gaulish Religions."
-  - title: "Gaulish sanctuary at Gournay"
+  - title: "Reconstructed Gaulish sanctuary altar at the Camp des Pictes in Deux-Sèvres, France"
     imageUrl: "/artifacts/gaulish-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Camp_des_Pictes_(159).JPG"
-    provenance: "Jean-Pierre Bazard Jpbazard; CC BY 4.0"
+    provenance: "Jean-Pierre Bazard; CC BY 4.0"
     period: "Image dated 2018"
-    description: "This image shows Gaulish sanctuary at Gournay, selected as a defining visual reference for Gaulish Religions."
 ---
 
 # Gaulish Religions

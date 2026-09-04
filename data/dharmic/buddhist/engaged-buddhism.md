@@ -46,18 +46,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Engaged%20Buddhism'
 artifacts:
-  - title: "Thich Nhat Hanh leading mindful walking as socially engaged practice"
+  - title: "Earth Holder Sangha practicing mindful walking at the People's Climate March in Washington, D.C."
     imageUrl: "/artifacts/engaged-buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:People%27s_Climate_March_2017_in_Washington_DC_05_-_Members_of_the_Earth_Holder_Sangha_wearing_brown_robes_carry_banner_and_practice_mindful_walking.jpg"
     provenance: "Dcpeopleandeventsof2017; CC BY-SA 4.0"
     period: "Image dated 2017"
-    description: "This image shows Thich Nhat Hanh leading mindful walking as socially engaged practice, selected as a defining visual reference for Engaged Buddhism."
-  - title: "Meditation hall at Plum Village, an institutional center of Engaged Buddhism"
+  - title: "Still Water Meditation Hall at Plum Village Upper Hamlet in Thénac, France"
     imageUrl: "/artifacts/engaged-buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Plum_Village_-_Upper_Hamlet_Still_Water_Meditation_Hall.jpg"
     provenance: "Solipsistic19; CC BY-SA 4.0"
     period: "Image dated 2022"
-    description: "This image shows Meditation hall at Plum Village, an institutional center of Engaged Buddhism, selected as a defining visual reference for Engaged Buddhism."
 ---
 
 # Engaged Buddhism

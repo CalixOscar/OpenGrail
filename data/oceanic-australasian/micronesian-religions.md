@@ -43,18 +43,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Micronesian%20Religions'
 artifacts:
-  - title: "Nan Madol megalithic ceremonial complex at Pohnpei"
+  - title: "Megalithic stone ruins of Nan Madol on Pohnpei"
     imageUrl: "/artifacts/micronesian-religions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Nan_Madol_megalithic_site,_Pohnpei_(Federated_States_of_Micronesia).jpg"
     provenance: "Patrick Nunn; CC BY-SA 4.0"
     period: "Image dated 2014"
-    description: "This image shows Nan Madol megalithic ceremonial complex at Pohnpei, selected as a defining visual reference for Micronesian Religions."
-  - title: "Carved wooden Dilukai protective ancestral figure from Palau"
+  - title: "Carved wooden Dilukai gable figure from Palau (19th–early 20th century)"
     imageUrl: "/artifacts/micronesian-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dilukai_from_the_Caroline_Islands,_Belau_(Palau),_19th-early_20th_century,_Metropolitan_Museum_of_Art.jpg"
     provenance: "Wmpearl; Public domain"
     period: "20th century"
-    description: "This image shows Carved wooden Dilukai protective ancestral figure from Palau, selected as a defining visual reference for Micronesian Religions."
 ---
 
 # Micronesian Religions

@@ -45,20 +45,18 @@ sources:
   - title: 'University of Illinois Press: God, Harlem U.S.A.: The Father Divine Story (Jill Watts)'
     url: 'https://www.press.uillinois.edu/books/?id=68xbf2rk9780252062490'
 artifacts:
-  - title: Woodmont Estate (Mount of the House of the Lord)
-    imageUrl: /artifacts/peace-mission-father-divine-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Woodmont_mansion,_2017.jpg
-    provenance: Narsk; CC BY-SA 4.0
-    period: Built 1892; acquired by Peace Mission 1953
-    description: >-
-      The Woodmont French Gothic revival estate in Gladwyne, Pennsylvania, which served as the international headquarters and sacred shrine of Father Divine's Peace Mission Movement and the resting place of Father and Mother Divine.
-  - title: Divine Lorraine Hotel in Philadelphia
-    imageUrl: /artifacts/peace-mission-father-divine-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Divine_Lorraine_from_Southwest.JPG
-    provenance: Peter Clericuzio; CC BY-SA 3.0
-    period: Acquired by Peace Mission 1948
-    description: >-
-      The Victorian-style Divine Lorraine Hotel on North Broad Street in Philadelphia, purchased by Father Divine's movement in 1948 as one of the first fully racially integrated luxury hotels in the United States.
+  - title: "Woodmont Estate (Mount of the House of the Lord)"
+    imageUrl: "/artifacts/peace-mission-father-divine-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Woodmont_mansion,_2017.jpg"
+    provenance: "Narsk; CC BY-SA 4.0"
+    period: "Built 1892; acquired by Peace Mission 1953"
+    description: "The Woodmont French Gothic revival estate in Gladwyne, Pennsylvania, which served as the international headquarters and sacred shrine of Father Divine's Peace Mission Movement and the resting place of Father and Mother Divine."
+  - title: "Divine Lorraine Hotel in Philadelphia"
+    imageUrl: "/artifacts/peace-mission-father-divine-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Divine_Lorraine_from_Southwest.JPG"
+    provenance: "Peter Clericuzio; CC BY-SA 3.0"
+    period: "Acquired by Peace Mission 1948"
+    description: "The Victorian-style Divine Lorraine Hotel on North Broad Street in Philadelphia, purchased by Father Divine's movement in 1948 as one of the first fully racially integrated luxury hotels in the United States."
 relations:
   - target: protestantism
     type: influenced_by

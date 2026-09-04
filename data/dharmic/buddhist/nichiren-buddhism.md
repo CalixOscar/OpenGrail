@@ -48,18 +48,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nichiren%20Buddhism'
 artifacts:
-  - title: "Historic portrait of Nichiren"
+  - title: "Kamakura-period wooden effigy sculpture of Nichiren at Jusen-ji temple in Chiba"
     imageUrl: "/artifacts/nichiren-buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jusenji_miei.jpg"
-    provenance: "myself; CC0"
+    provenance: "User myself; CC0"
     period: "Digital file published 2011"
-    description: "This image shows Historic portrait of Nichiren, selected as a defining visual reference for Nichiren Buddhism."
-  - title: "Calligraphic Gohonzon mandala central to Nichiren devotion"
+  - title: "Calligraphic Gohonzon mandala transcribed by High Priest Nittatsu"
     imageUrl: "/artifacts/nichiren-buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Nittatsu_Gohonzon.jpeg"
-    provenance: "Andrew Olivo Parodi ( talk ) 17:59, 14 September 2019 (UTC); CC BY-SA 4.0"
+    provenance: "Nittatsu Hosoi / Andrew Olivo Parodi; CC BY-SA 4.0"
     period: "Digital file published 2019"
-    description: "This image shows Calligraphic Gohonzon mandala central to Nichiren devotion, selected as a defining visual reference for Nichiren Buddhism."
     detail: high
 ---
 

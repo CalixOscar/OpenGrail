@@ -48,18 +48,11 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Satmar Hasidism'
     url: 'https://www.cambridge.org/core/search?q=Satmar%20Hasidism'
 artifacts:
-  - title: "Portrait of Joel Teitelbaum, founding Satmar rebbe"
+  - title: "Rabbi Joel Teitelbaum greeting King Carol II of Romania in Satu Mare (1936)"
     imageUrl: "/artifacts/satmar-hasidism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:SatmarRebbe36.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown; Public domain"
     period: "Image dated 1936"
-    description: "This image shows Portrait of Joel Teitelbaum, founding Satmar rebbe, selected as a defining visual reference for Satmar Hasidism."
-  - title: "Main Satmar synagogue on Rodney Street in Williamsburg, Brooklyn"
-    imageUrl: "/artifacts/satmar-hasidism-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Squirrels_0006.jpg"
-    provenance: "This photo was taken by participant/team The Squirrels as part of the Commons:Wikis Take Manhattan project on October 4, 2008. This file is ; CC BY-SA 3.0"
-    period: "Image dated 2008"
-    description: "This image shows Main Satmar synagogue on Rodney Street in Williamsburg, Brooklyn, selected as a defining visual reference for Satmar Hasidism."
 ---
 
 # Satmar Hasidism

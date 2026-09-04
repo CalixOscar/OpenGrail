@@ -47,18 +47,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Mevlevi Order'
     url: 'https://www.cambridge.org/core/search?q=Mevlevi%20Order'
 artifacts:
-  - title: "Mevlevi dervishes performing the disciplined sema"
+  - title: "Galata Mevlevi Ensemble performing the whirling sema ritual"
     imageUrl: "/artifacts/mevlevi-order-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:TFF.Rudolstadt_2007_Galata_Mevlevi_Ensemble.jpg"
     provenance: "Johannes Rohr; CC BY-SA 3.0"
     period: "Image dated 2007"
-    description: "This image shows Mevlevi dervishes performing the disciplined sema, selected as a defining visual reference for Mevlevi Order."
-  - title: "Rumi's mausoleum and Mevlana Museum in Konya"
+  - title: "Mevlana Museum and Green Dome mausoleum of Jalal al-Din Rumi in Konya"
     imageUrl: "/artifacts/mevlevi-order-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mevlana_Museum_(Green_Mausoleum)_in_Konya_Turkey_By_Mardetanha_(10).JPG"
     provenance: "Mardetanha; CC BY-SA 3.0"
     period: "Image dated 2015"
-    description: "This image shows Rumi's mausoleum and Mevlana Museum in Konya, selected as a defining visual reference for Mevlevi Order."
 ---
 
 # Mevlevi Order

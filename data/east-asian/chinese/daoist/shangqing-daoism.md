@@ -46,18 +46,11 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Shangqing%20Daoism'
 artifacts:
-  - title: "Image of Shangqing matriarch Wei Huacun"
-    imageUrl: "/artifacts/shangqing-daoism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Wuyuan_Tuochuan_Likeng_20120401-24.jpg"
-    provenance: "Zhangzhugang; CC BY-SA 4.0"
-    period: "Image dated 2012"
-    description: "This image shows Image of Shangqing matriarch Wei Huacun, selected as a defining visual reference for Shangqing Daoism."
-  - title: "Tao Hongjing, prime organizer of Shangqing Daoism on Mount Mao"
+  - title: "Tao Hongjing Listening to the Pines, Muromachi period ink painting, Yamanashi Prefectural Museum"
     imageUrl: "/artifacts/shangqing-daoism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tao_Hongjing_Listening_to_the_Pines_(Yamanashi_Prefectural_Museum).jpg"
     provenance: "Muromachi-period artists; Public domain"
     period: "Image dated 1442"
-    description: "This image shows Tao Hongjing, prime organizer of Shangqing Daoism on Mount Mao, selected as a defining visual reference for Shangqing Daoism."
 ---
 
 # Shangqing Daoism

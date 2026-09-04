@@ -44,18 +44,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Slavic Religion'
     url: 'https://brill.com/search?q=Slavic%20Religion'
 artifacts:
-  - title: "Zbruch cult idol"
+  - title: "The Zbruch Idol from \"The Mythology of All Races\" (Vol. 3: Celtic and Slavic)"
     imageUrl: "/artifacts/slavic-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Mythology_of_All_Races_Vol_3_(Celtic_and_Slavic)_419.jpg"
-    provenance: "John Arnott MacCulloch and Jan Machal; Public domain"
+    provenance: "John Arnott MacCulloch and Jan Máchal; Public domain"
     period: "Image dated 1918"
-    description: "This image shows Zbruch cult idol, selected as a defining visual reference for Slavic Religion."
-  - title: "Arkona sanctuary of Svantevit"
+  - title: "Artistic reconstruction of the Slavic sanctuary city of Arkona (Jaromarsburg) on Rügen"
     imageUrl: "/artifacts/slavic-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Arkona_artistic_reconstruction.jpg"
     provenance: "Віщун; CC BY-SA 4.0"
     period: "Image dated 2023"
-    description: "This image shows Arkona sanctuary of Svantevit, selected as a defining visual reference for Slavic Religion."
 ---
 
 # Slavic Religion

@@ -44,24 +44,18 @@ sources:
   - title: 'The Mahdist State in the Sudan 1881–1898 (P. M. Holt, Oxford 1970)'
     url: 'https://global.oup.com/academic/product/the-mahdist-state-in-the-sudan-1881-1898-9780198216605'
 artifacts:
-  - title: Qubbat al-Mahdi (Tomb of the Mahdi) in Omdurman
-    imageUrl: /artifacts/sudanese-mahdiyya-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahdi's_Tomb_in_Omdurman_001.jpg
-    provenance: Petr Adam Dohnálek; CC BY-SA 3.0
-    period: Rebuilt 1947
-    description: >-
-      The reconstructed Qubbat al-Mahdi (Mausoleum of Muhammad Ahmad al-Mahdi)
-      in Omdurman, Sudan, original capital and spiritual center of the
-      nineteenth-century Mahdist State.
-  - title: Original cupola of the Mahdi's tomb at Beit al-Khalifa
-    imageUrl: /artifacts/sudanese-mahdiyya-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:KhalifaHouseMuseum1.jpg
-    provenance: Clemens Schmillen; CC BY-SA 4.0
-    period: Origin 1888
-    description: >-
-      The surviving original cupola apex from Muhammad Ahmad's nineteenth-century
-      mausoleum, preserved in the courtyard of the Khalifa House Museum (Beit
-      al-Khalifa) in Omdurman.
+  - title: "Qubbat al-Mahdi (Tomb of the Mahdi) in Omdurman"
+    imageUrl: "/artifacts/sudanese-mahdiyya-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Mahdi's_Tomb_in_Omdurman_001.jpg"
+    provenance: "Petr Adam Dohnálek; CC BY-SA 3.0"
+    period: "Rebuilt 1947"
+    description: "The reconstructed Qubbat al-Mahdi (Mausoleum of Muhammad Ahmad al-Mahdi) in Omdurman, Sudan, original capital and spiritual center of the nineteenth-century Mahdist State."
+  - title: "Original cupola of the Mahdi's tomb at Beit al-Khalifa"
+    imageUrl: "/artifacts/sudanese-mahdiyya-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:KhalifaHouseMuseum1.jpg"
+    provenance: "Clemens Schmillen; CC BY-SA 4.0"
+    period: "Origin 1888"
+    description: "The surviving original cupola apex from Muhammad Ahmad's nineteenth-century mausoleum, preserved in the courtyard of the Khalifa House Museum (Beit al-Khalifa) in Omdurman."
 relations:
   - target: sufism
     type: influenced_by

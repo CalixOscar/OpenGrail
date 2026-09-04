@@ -47,18 +47,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=S%C5%8Dt%C5%8D%20Zen'
 artifacts:
-  - title: "Portrait of Dogen, foundational teacher of Japanese Soto Zen"
+  - title: "Traditional portrait of Zen Master Eihei Dōgen"
     imageUrl: "/artifacts/soto-zen-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Soto-Zen-Master-Dogen-Zenji-Portrait.png"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "Image dated 1253"
-    description: "This image shows Portrait of Dogen, foundational teacher of Japanese Soto Zen, selected as a defining visual reference for Sōtō Zen."
-  - title: "Eihei-ji, one of the two head temples of Soto Zen"
+  - title: "Buddha Hall (Butsuden) at Eihei-ji temple in Fukui Prefecture"
     imageUrl: "/artifacts/soto-zen-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Eihei-ji_Temple,_Fukui_Prefecture;_September_2019_(03).jpg"
     provenance: "雷太; CC BY 2.0"
     period: "Image dated 2019"
-    description: "This image shows Eihei-ji, one of the two head temples of Soto Zen, selected as a defining visual reference for Sōtō Zen."
 ---
 
 # Sōtō Zen

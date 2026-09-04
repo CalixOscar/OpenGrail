@@ -40,18 +40,16 @@ sources:
   - title: 'Griffith University Archaeology: Sulawesi Cave Discoveries'
     url: 'https://www.griffith.edu.au/'
 artifacts:
-  - title: "Maros-Pangkep cave painting of a Sulawesi warty pig"
+  - title: "Pleistocene warty pig rock art panel at Leang Tedongnge, Maros"
     imageUrl: "/artifacts/maros-sulawesi-cave-art-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Leang_Tedongnge_rock_art_panel_credit_Basran_Burhan.jpg"
     provenance: "Basran Burhan; CC BY-SA 4.0"
     period: "Image dated 2017"
-    description: "This image shows Maros-Pangkep cave painting of a Sulawesi warty pig, selected as a defining visual reference for Sulawesi & Maros-Pangkep Paleolithic Sanctuaries."
-  - title: "Prehistoric negative hand stencils at Leang-Leang cave"
+  - title: "Landscape of Leang-Leang Prehistoric Park in Maros, South Sulawesi"
     imageUrl: "/artifacts/maros-sulawesi-cave-art-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Taman_Prasejarah_Leang-leang_view_2.jpg"
     provenance: "Nurulrahayu09; CC BY-SA 4.0"
     period: "Image dated 2019"
-    description: "This image shows Prehistoric negative hand stencils at Leang-Leang cave, selected as a defining visual reference for Sulawesi & Maros-Pangkep Paleolithic Sanctuaries."
 ---
 
 # Sulawesi & Maros-Pangkep Paleolithic Sanctuaries

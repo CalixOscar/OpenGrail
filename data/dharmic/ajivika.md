@@ -45,18 +45,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C4%80j%C4%ABvika%20Tradition'
 artifacts:
-  - title: "Makkhali Gosala, teacher associated with the Ajivika movement"
+  - title: "Interior silhouette inside the rock-cut Barabar Caves in Bihar"
     imageUrl: "/artifacts/ajivika-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Barabar_Caves_-_Silhouette_(9227630484).jpg"
-    provenance: "Photo Dharma from Penang, Malaysia; CC BY 2.0"
+    provenance: "Photo Dharma; CC BY 2.0"
     period: "Image dated 2013"
-    description: "This image shows Makkhali Gosala, teacher associated with the Ajivika movement, selected as a defining visual reference for Ājīvika Tradition."
-  - title: "Lomas Rishi Cave, an Asokan-period sanctuary donated to Ajivikas"
+  - title: "Architectural plans and sections of the Barabar Caves published by Markham Kittoe in 1847"
     imageUrl: "/artifacts/ajivika-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:3rd_century_BCE_Barabar_caves,_Bihar,_plans_and_sections,_1847_sketch.jpg"
-    provenance: "Ms Sarah Welch; CC BY-SA 4.0"
+    provenance: "Markham Kittoe / Ms Sarah Welch; CC BY-SA 4.0"
     period: "3rd century BCE"
-    description: "This image shows Lomas Rishi Cave, an Asokan-period sanctuary donated to Ajivikas, selected as a defining visual reference for Ājīvika Tradition."
 ---
 
 # Ājīvika Tradition

@@ -46,18 +46,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Advaita%20Ved%C4%81nta'
 artifacts:
-  - title: "Adi Sankara with disciples, iconic Advaita lineage image"
+  - title: "Adi Shankara with disciples by Raja Ravi Varma"
     imageUrl: "/artifacts/advaita-vedanta-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Sankaracharya.jpg"
     provenance: "Raja Ravi Varma; Public domain"
     period: "Image dated 1904"
-    description: "This image shows Adi Sankara with disciples, iconic Advaita lineage image, selected as a defining visual reference for Advaita Vedānta."
-  - title: "Srngeri Sarada Pitha, one of the principal Advaita monastic seats"
+  - title: "Sringeri Sharada Peetham monastery complex along the Tunga River, Karnataka"
     imageUrl: "/artifacts/advaita-vedanta-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sringeri_peetham_Advaita_Hindu_monastery,_river_near_the_site,_Karnataka.jpeg"
-    provenance: "Sharada Prasad CS from Berkeley, India; CC BY 2.0"
+    provenance: "Sharada Prasad CS; CC BY 2.0"
     period: "Image dated 2008"
-    description: "This image shows Srngeri Sarada Pitha, one of the principal Advaita monastic seats, selected as a defining visual reference for Advaita Vedānta."
 ---
 
 # Advaita Vedānta

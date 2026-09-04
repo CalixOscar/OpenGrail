@@ -46,18 +46,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Raëlism'
     url: 'https://brill.com/search?q=Ra%C3%ABlism'
 artifacts:
-  - title: "Raelian Elohim emblem"
+  - title: "Tent model of the Embassy for Extraterrestrials at a Raëlian seminar in Colombia"
     imageUrl: "/artifacts/raelism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tent_version_of_Embassy_for_Extraterrestrial_Elohim_for_Ra%C3%ABlian_seminar_in_Columbia,_South_America.jpg"
-    provenance: "The original uploader was Kmarinas86 at English Wikipedia .; Public domain"
+    provenance: "Kmarinas86; Public domain"
     period: "Image dated 2007"
-    description: "This image shows Raelian Elohim emblem, selected as a defining visual reference for Raëlism."
-  - title: "UFOland Raelian exhibition pavilion in Maricourt"
+  - title: "Raëlians at UFOland summer seminar in Valcourt, Quebec (1998)"
     imageUrl: "/artifacts/raelism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ra%C3%ABlians_at_UFOland.jpg"
-    provenance: "The original uploader was Kmarinas86 at English Wikipedia .; Public domain"
+    provenance: "Kmarinas86; Public domain"
     period: "Image dated 2007"
-    description: "This image shows UFOland Raelian exhibition pavilion in Maricourt, selected as a defining visual reference for Raëlism."
 ---
 
 # Raëlism

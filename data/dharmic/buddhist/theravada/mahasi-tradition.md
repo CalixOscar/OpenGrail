@@ -52,18 +52,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81s%C4%AB%20Tradition'
 artifacts:
-  - title: "Mahasi Sayadaw, founder of the modern noting lineage"
+  - title: "Photographic portrait of Venerable Mahasi Sayadaw U Sobhana"
     imageUrl: "/artifacts/mahasi-tradition-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mahasi_Sayadaw.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "Image dated 1949"
-    description: "This image shows Mahasi Sayadaw, founder of the modern noting lineage, selected as a defining visual reference for Mahāsī Tradition."
-  - title: "Mahasi Sasana Yeiktha, the lineage's principal meditation center"
+  - title: "Pyatthat entrance gate of Mahasi Sasana Yeiktha Meditation Centre in Yangon, Myanmar"
     imageUrl: "/artifacts/mahasi-tradition-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mahasi4.JPG"
-    provenance: "Kwantonge|Rockrangoon; CC BY-SA 3.0"
+    provenance: "Kwantonge and Rockrangoon; CC BY-SA 3.0"
     period: "Image dated 2011"
-    description: "This image shows Mahasi Sasana Yeiktha, the lineage's principal meditation center, selected as a defining visual reference for Mahāsī Tradition."
 ---
 
 # Mahāsī Tradition

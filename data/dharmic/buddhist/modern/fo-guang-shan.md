@@ -50,18 +50,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Fo%20Guang%20Shan'
 artifacts:
-  - title: "Master Hsing Yun, founder of Fo Guang Shan"
+  - title: "Main shrine interior of Fo Guang Shan Mabuhay Temple in Manila, Philippines"
     imageUrl: "/artifacts/fo-guang-shan-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:FoGuanTemplejf7621_01.JPG"
     provenance: "Ramon FVelasquez; CC BY-SA 3.0"
     period: "Image dated 2014"
-    description: "This image shows Master Hsing Yun, founder of Fo Guang Shan, selected as a defining visual reference for Fo Guang Shan."
-  - title: "Fo Guang Shan Buddha Museum and its monumental Buddha image"
+  - title: "Colossal Fo Guang Big Buddha at the Buddha Museum in Dashu, Kaohsiung"
     imageUrl: "/artifacts/fo-guang-shan-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Fo_Guang_Shan_Buddha_Memorial_Centre,_Kaohsiung_City,_Dash_District,_Taiwan.png"
     provenance: "Matt Stone; CC BY 4.0"
     period: "Image dated 2016"
-    description: "This image shows Fo Guang Shan Buddha Museum and its monumental Buddha image, selected as a defining visual reference for Fo Guang Shan."
 ---
 
 # Fo Guang Shan

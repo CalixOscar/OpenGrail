@@ -44,13 +44,12 @@ sources:
   - title: 'University of South Africa Press: African Independent Churches (M.L. Daneel)'
     url: 'https://www.unisa.ac.za/sites/corporate/default/Research-&-Innovation/UNISA-Press'
 artifacts:
-  - title: Zion City Moria in Limpopo, South Africa
-    imageUrl: /artifacts/zion-christian-church-zcc-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Moria_ZCC_van_R71-roete_af,_Limpopo,_a.jpg
-    provenance: JMK; CC BY-SA 4.0
-    period: Photographed 2023 CE
-    description: >-
-      Zion City Moria in Limpopo Province, South Africa, the holy city, international headquarters, and annual Easter pilgrimage destination of the Zion Christian Church (ZCC).
+  - title: "Zion City Moria in Limpopo, South Africa"
+    imageUrl: "/artifacts/zion-christian-church-zcc-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Moria_ZCC_van_R71-roete_af,_Limpopo,_a.jpg"
+    provenance: "JMK; CC BY-SA 4.0"
+    period: "Photographed 2023 CE"
+    description: "Zion City Moria in Limpopo Province, South Africa, the holy city, international headquarters, and annual Easter pilgrimage destination of the Zion Christian Church (ZCC)."
 relations:
   - target: pentecostalism
     type: influenced_by

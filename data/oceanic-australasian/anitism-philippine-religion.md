@@ -40,18 +40,16 @@ sources:
   - title: 'F. Landa Jocano: "Philippine Prehistory and Mythology"'
     url: 'https://en.wikipedia.org/wiki/Indigenous_Philippine_folk_religions'
 artifacts:
-  - title: "Carved wooden seated Bulul rice guardian figure"
+  - title: "Carved wooden seated Bulul rice guardian figures from Ifugao"
     imageUrl: "/artifacts/anitism-philippine-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Seated_Bulul_from_Ifugao,_narra_wood,_Honolulu_Museum_of_Art.jpg"
     provenance: "Hiart; CC0"
     period: "Image dated 2016"
-    description: "This image shows Carved wooden seated Bulul rice guardian figure, selected as a defining visual reference for Anitism & Philippine Indigenous Traditions."
-  - title: "The Manunggul Jar with boat of the dead lid"
+  - title: "The Neolithic Manunggul burial jar depicting the soul's journey by boat"
     imageUrl: "/artifacts/anitism-philippine-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Manunggul_Jar.jpg"
     provenance: "Philip Maise; CC BY-SA 3.0"
     period: "Image dated 2013"
-    description: "This image shows The Manunggul Jar with boat of the dead lid, selected as a defining visual reference for Anitism & Philippine Indigenous Traditions."
 ---
 
 # Anitism & Philippine Indigenous Traditions

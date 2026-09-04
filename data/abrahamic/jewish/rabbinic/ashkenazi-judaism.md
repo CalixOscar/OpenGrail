@@ -45,18 +45,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Ashkenazi Judaism'
     url: 'https://www.cambridge.org/core/search?q=Ashkenazi%20Judaism'
 artifacts:
-  - title: "Historic Worms Synagogue, landmark of medieval Ashkenaz"
+  - title: "1174 CE Hebrew column capital inscription in the Worms Synagogue"
     imageUrl: "/artifacts/ashkenazi-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Baujahr_1174_im_hebr%C3%A4ischen_Text_des_Kapitells_der_Synagoge_Worms.jpg"
     provenance: "HOWI - Horsch, Willy; CC BY-SA 3.0"
     period: "Image dated 2014"
-    description: "This image shows Historic Worms Synagogue, landmark of medieval Ashkenaz, selected as a defining visual reference for Ashkenazi Judaism."
-  - title: "Illuminated Worms Mahzor from the Ashkenazi liturgical tradition"
+  - title: "Illuminated Akdamut folio from the Worms Mahzor (1272)"
     imageUrl: "/artifacts/ashkenazi-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Akdamut_(Mahzor_Worms).png"
-    provenance: "Simhah ben Yehudah ha-Sofer, completed 28 Teveth 5033 (20 December 1272 Julian); Public domain"
+    provenance: "Simhah ben Yehudah ha-Sofer; Public domain"
     period: "Image dated 1272"
-    description: "This image shows Illuminated Worms Mahzor from the Ashkenazi liturgical tradition, selected as a defining visual reference for Ashkenazi Judaism."
 ---
 
 # Ashkenazi Judaism

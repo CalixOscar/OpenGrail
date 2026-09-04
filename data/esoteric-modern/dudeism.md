@@ -48,19 +48,6 @@ sources:
     url: 'https://www.oxfordreference.com/search?q=Dudeism'
   - title: 'Brill Handbook of Religious Traditions: Dudeism'
     url: 'https://brill.com/search?q=Dudeism'
-artifacts:
-  - title: "Dudeist ordination and philosophical iconography"
-    imageUrl: "/artifacts/dudeism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Armed_Forces_Network_Bavaria_3rd_Annual_Rock_and_Bowl_Challenge_(5126794).jpg"
-    provenance: "U.S. Army National Guard photo by Sgt. 1st Class Robert Jordan; Public domain"
-    period: "Image dated 2019"
-    description: "This image shows Dudeist ordination and philosophical iconography, selected as a defining visual reference for Dudeism."
-  - title: "Dudeist public ceremony"
-    imageUrl: "/artifacts/dudeism-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Dudes.JPG"
-    provenance: "Grendel1976; Public domain"
-    period: "Image dated 2007"
-    description: "This image shows Dudeist public ceremony, selected as a defining visual reference for Dudeism."
 ---
 
 # Dudeism

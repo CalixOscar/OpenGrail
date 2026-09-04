@@ -40,18 +40,18 @@ relations:
     certainty: academic_consensus
     citation: Emerged from the Japanese tradition of shamanic divine possession (kamigakari) and uses Shinto-derived idioms for divine revelation and purification.
 artifacts:
-  - title: Kitamura Sayo Preaching in Postwar Japan
-    imageUrl: /artifacts/tensho-kotai-jingukyo-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sayo_Kitamura_1948.jpg'
-    provenance: Tenshō Kōtai Jingūkyō; Public domain
-    period: Photographed 1948
-    description: 'Founder Kitamura Sayo (Ogamisama, 1900–1967) preaching moral repentance and spiritual purification in 1948 following the establishment of Tenshō Kōtai Jingūkyō.'
-  - title: Four Volumes of the Seisho Scriptures
-    imageUrl: /artifacts/tensho-kotai-jingukyo-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Seisho_4_volumes_at_Tensho_Kotai_Jingukyo_reception_building.jpg'
-    provenance: Kuroshio no Neko; CC BY 4.0
-    period: Photographed 2026
-    description: 'The four volumes of the Seisho (The Sacred Books), the primary scriptural collection of divine revelations in Tenshō Kōtai Jingūkyō, displayed at the movement''s reception hall in Tabuse.'
+  - title: "Kitamura Sayo Preaching in Postwar Japan"
+    imageUrl: "/artifacts/tensho-kotai-jingukyo-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sayo_Kitamura_1948.jpg"
+    provenance: "Tenshō Kōtai Jingūkyō; Public domain"
+    period: "Photographed 1948"
+    description: "Founder Kitamura Sayo (Ogamisama, 1900–1967) preaching moral repentance and spiritual purification in 1948 following the establishment of Tenshō Kōtai Jingūkyō."
+  - title: "Four Volumes of the Seisho Scriptures"
+    imageUrl: "/artifacts/tensho-kotai-jingukyo-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Seisho_4_volumes_at_Tensho_Kotai_Jingukyo_reception_building.jpg"
+    provenance: "Kuroshio no Neko; CC BY 4.0"
+    period: "Photographed 2026"
+    description: "The four volumes of the Seisho (The Sacred Books), the primary scriptural collection of divine revelations in Tenshō Kōtai Jingūkyō, displayed at the movement's reception hall in Tabuse."
 ---
 
 # Tenshō Kōtai Jingūkyō

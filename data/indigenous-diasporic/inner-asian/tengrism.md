@@ -46,18 +46,11 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Tengrism'
 artifacts:
-  - title: "Tamgaly petroglyphs depicting the radiant solar deity"
-    imageUrl: "/artifacts/tengrism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tamgaly-Tas_Petroglyphs.JPG"
-    provenance: "Stomac; CC BY 3.0"
-    period: "Image dated 2011"
-    description: "This image shows Tamgaly petroglyphs depicting the radiant solar deity, selected as a defining visual reference for Tengrism."
-  - title: "Khan Tengri, the sacred Lord of the Spirits peak in the Tian Shan"
+  - title: "Peak of Mount Khan Tengri at sunset in the Tian Shan"
     imageUrl: "/artifacts/tengrism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Peak_of_Khan_Tengri_at_sunset.jpg"
-    provenance: "No machine-readable author provided. SiGarb assumed (based on copyright claims).; Public domain"
+    provenance: "Simon Garbutt; Public domain"
     period: "Image dated 2005"
-    description: "This image shows Khan Tengri, the sacred Lord of the Spirits peak in the Tian Shan, selected as a defining visual reference for Tengrism."
 ---
 
 # Tengrism

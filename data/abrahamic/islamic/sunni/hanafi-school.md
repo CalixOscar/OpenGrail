@@ -44,18 +44,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Hanafi School'
     url: 'https://www.cambridge.org/core/search?q=Hanafi%20School'
 artifacts:
-  - title: "Abu Hanifa Mosque and mausoleum in Baghdad"
+  - title: "Clock tower of the Abu Hanifa Mosque in Baghdad"
     imageUrl: "/artifacts/hanafi-school-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Abu_hanifa_1.JPG"
     provenance: "Moshtakmoshtak; CC BY-SA 3.0"
     period: "Image dated 2014"
-    description: "This image shows Abu Hanifa Mosque and mausoleum in Baghdad, selected as a defining visual reference for Hanafi School."
-  - title: "Manuscript of al-Marghinani's Hanafi legal classic al-Hidaya"
+  - title: "Arabic calligraphy of the name of Abu Hanifa"
     imageUrl: "/artifacts/hanafi-school-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Abu_Hanifa_Name.png"
     provenance: "بلال الدويك; CC BY-SA 3.0"
     period: "Image dated 2013"
-    description: "This image shows Manuscript of al-Marghinani's Hanafi legal classic al-Hidaya, selected as a defining visual reference for Hanafi School."
     detail: high
 ---
 

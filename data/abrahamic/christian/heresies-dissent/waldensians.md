@@ -44,25 +44,18 @@ sources:
   - title: 'Brill: Studies on medieval poverty movements'
     url: 'https://brill.com/search?q=Waldensians'
 artifacts:
-  - title: Chanforan Synod Monument in Angrogna
-    imageUrl: /artifacts/waldensians-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Angrogna_Chanforan_Monument_(01).jpg
-    provenance: Heinrich Stürzl; CC BY-SA 4.0
-    period: Erected 1932 (photographed 2023)
-    description: >-
-      Memorial monument at Chanforan in the Angrogna valley of Piedmont,
-      commemorating the 1532 synod where Waldensian pastors (barbes) integrated
-      their medieval movement with the Swiss Protestant Reformation.
-  - title: Waldensian Emblem and Motto
-    imageUrl: /artifacts/waldensians-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Waldenser-Wappen.png
-    provenance: Unknown author; Public domain
-    period: Historical church emblem
-    description: >-
-      The traditional coat of arms and emblem of the Waldensian Evangelical
-      Church, featuring a candle burning atop an open Bible encircled by seven
-      stars and the Latin motto Lux Lucet in Tenebris ("The Light Shines in
-      Darkness").
+  - title: "Chanforan Synod Monument in Angrogna"
+    imageUrl: "/artifacts/waldensians-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Angrogna_Chanforan_Monument_(01).jpg"
+    provenance: "Heinrich Stürzl; CC BY-SA 4.0"
+    period: "Erected 1932 (photographed 2023)"
+    description: "Memorial monument at Chanforan in the Angrogna valley of Piedmont, commemorating the 1532 synod where Waldensian pastors (barbes) integrated their medieval movement with the Swiss Protestant Reformation."
+  - title: "Waldensian Emblem and Motto"
+    imageUrl: "/artifacts/waldensians-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Waldenser-Wappen.png"
+    provenance: "Unknown author; Public domain"
+    period: "Historical church emblem"
+    description: "The traditional coat of arms and emblem of the Waldensian Evangelical Church, featuring a candle burning atop an open Bible encircled by seven stars and the Latin motto Lux Lucet in Tenebris (\"The Light Shines in Darkness\")."
 relations:
   - target: catholicism
     type: diverged_from

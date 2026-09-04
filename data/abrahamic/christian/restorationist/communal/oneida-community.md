@@ -45,20 +45,18 @@ sources:
   - title: 'Syracuse University Press: Without Sin: The Life and Death of the Oneida Community (Spencer Klaw)'
     url: 'https://press.syr.edu/search/?q=Oneida'
 artifacts:
-  - title: Oneida Community Mansion House
-    imageUrl: /artifacts/oneida-community-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Oneida_Community_Mansion_House_2021.jpg
-    provenance: Oneidacommunitymansionhouse; CC BY-SA 4.0
-    period: Built 1861–1878 CE
-    description: >-
-      The brick Mansion House in Oneida, New York, which served as the communal residence, library, dining hall, and administrative centre for the Oneida Community until its 1881 dissolution.
-  - title: Big Hall of the Oneida Mansion House
-    imageUrl: /artifacts/oneida-community-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Oneida_Community_Family_Hall.jpg
-    provenance: Cathbart1948; CC BY-SA 4.0
-    period: Interior constructed c. 1862 CE
-    description: >-
-      The central assembly hall inside the Oneida Mansion House, where members gathered daily for evening concerts, theological lectures by John Humphrey Noyes, and mutual criticism sessions.
+  - title: "Oneida Community Mansion House"
+    imageUrl: "/artifacts/oneida-community-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Oneida_Community_Mansion_House_2021.jpg"
+    provenance: "Oneidacommunitymansionhouse; CC BY-SA 4.0"
+    period: "Built 1861–1878 CE"
+    description: "The brick Mansion House in Oneida, New York, which served as the communal residence, library, dining hall, and administrative centre for the Oneida Community until its 1881 dissolution."
+  - title: "Big Hall of the Oneida Mansion House"
+    imageUrl: "/artifacts/oneida-community-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Oneida_Community_Family_Hall.jpg"
+    provenance: "Cathbart1948; CC BY-SA 4.0"
+    period: "Interior constructed c. 1862 CE"
+    description: "The central assembly hall inside the Oneida Mansion House, where members gathered daily for evening concerts, theological lectures by John Humphrey Noyes, and mutual criticism sessions."
 relations:
   - target: protestantism
     type: influenced_by

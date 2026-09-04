@@ -47,18 +47,11 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Modern%20Orthodox%20Judaism'
 artifacts:
-  - title: "Portrait of Rabbi Joseph B. Soloveitchik, major Modern Orthodox thinker"
-    imageUrl: "/artifacts/modern-orthodox-judaism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:A_Portrait_of_a_Rabbi_by_Rembrandt,_c._1640-45,_Getty_Center.JPG"
-    provenance: "Rembrandt; CC0"
-    period: "Image dated 1640"
-    description: "This image shows Portrait of Rabbi Joseph B. Soloveitchik, major Modern Orthodox thinker, selected as a defining visual reference for Modern Orthodox Judaism."
-  - title: "Yeshiva University's Wilf Campus, flagship Modern Orthodox institution"
+  - title: "Wilf Campus marker at Yeshiva University in Manhattan"
     imageUrl: "/artifacts/modern-orthodox-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Yeshiva_University_Wilf_Campus_marker_and_Max_Stern_Athletic_Center.jpg"
     provenance: "Beyond My Ken; CC BY-SA 4.0"
     period: "Image dated 2014"
-    description: "This image shows Yeshiva University's Wilf Campus, flagship Modern Orthodox institution, selected as a defining visual reference for Modern Orthodox Judaism."
 ---
 
 # Modern Orthodox Judaism

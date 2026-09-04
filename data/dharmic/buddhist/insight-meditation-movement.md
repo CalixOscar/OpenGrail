@@ -48,18 +48,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Insight%20Meditation%20Movement'
 artifacts:
-  - title: "Ledi Sayadaw, a formative teacher in modern lay vipassana"
+  - title: "Portrait of Venerable Ledi Sayadaw, pioneer of modern lay vipassanā"
     imageUrl: "/artifacts/insight-meditation-movement-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ledi_Sayadaw.jpg"
-    provenance: "咽頭べさ; Public domain"
+    provenance: "Unknown photographer / 咽頭べさ; Public domain"
     period: "Image dated 2024"
-    description: "This image shows Ledi Sayadaw, a formative teacher in modern lay vipassana, selected as a defining visual reference for Insight Meditation Movement."
-  - title: "Insight Meditation Society, a landmark transnational vipassana center"
+  - title: "Retreat Center main building of the Insight Meditation Society in Barre, Massachusetts"
     imageUrl: "/artifacts/insight-meditation-movement-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Insight_Meditation_Society%27s_retreat_center_amidst_blossoms.jpg"
     provenance: "Charles K. Stevenson; CC BY-SA 3.0"
     period: "Image dated 2012"
-    description: "This image shows Insight Meditation Society, a landmark transnational vipassana center, selected as a defining visual reference for Insight Meditation Movement."
 ---
 
 # Insight Meditation Movement

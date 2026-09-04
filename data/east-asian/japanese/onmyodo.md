@@ -46,18 +46,16 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Onmy%C5%8Dd%C5%8D'
 artifacts:
-  - title: "Traditional image of Abe no Seimei"
+  - title: "Portrait of onmyōji Abe no Seimei from the NDL collection"
     imageUrl: "/artifacts/onmyodo-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:NDL1287881_%E8%82%96%E5%83%8F%E9%9B%86_%EF%BC%91%EF%BC%90.%E5%B9%B3%E8%B3%80%E6%BA%90%E5%86%85%E3%83%BB%E5%AE%89%E9%83%A8%E6%99%B4%E6%98%8E.jpg"
-    provenance: "National Diet Library; Public domain"
+    provenance: "Unknown; Public domain"
     period: "Digital file published 2023"
-    description: "This image shows Traditional image of Abe no Seimei, selected as a defining visual reference for Onmyōdō."
-  - title: "Seimei Shrine"
+  - title: "Gate and pentagram lantern at Seimei Shrine in Kyoto"
     imageUrl: "/artifacts/onmyodo-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Seimei_Jinja,_Lantern_and_Main_Gate_wiyh_Five-pointed_Star_of_Shrine_Crest_001.jpg"
     provenance: "Naokijp; CC BY-SA 4.0"
     period: "Image dated 2019"
-    description: "This image shows Seimei Shrine, selected as a defining visual reference for Onmyōdō."
 ---
 
 # Onmyōdō

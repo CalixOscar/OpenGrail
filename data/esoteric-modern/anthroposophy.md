@@ -51,18 +51,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Anthroposophy'
     url: 'https://brill.com/search?q=Anthroposophy'
 artifacts:
-  - title: "Anthroposophy founder Rudolf Steiner"
+  - title: "Portrait of Anthroposophy founder Rudolf Steiner in 1900"
     imageUrl: "/artifacts/anthroposophy-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Steiner_Berlin_1900_big.jpg"
-    provenance: "Fotograf: Mir nicht bekannt (\"Die Wikipedia akzeptiert alle Bilder vor 1900 ohne expliziten Nachweis des Todesdatums des Urhebers als gemein; Public domain"
+    provenance: "Unknown; Public domain"
     period: "Image dated 1900"
-    description: "This image shows Anthroposophy founder Rudolf Steiner, selected as a defining visual reference for Anthroposophy."
-  - title: "Goetheanum spiritual center"
+  - title: "The Goetheanum in Dornach, Switzerland"
     imageUrl: "/artifacts/anthroposophy-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Goetheanum_Dornach.jpg"
     provenance: "Wladyslaw; CC BY-SA 3.0"
     period: "Image dated 2008"
-    description: "This image shows Goetheanum spiritual center, selected as a defining visual reference for Anthroposophy."
 ---
 
 # Anthroposophy

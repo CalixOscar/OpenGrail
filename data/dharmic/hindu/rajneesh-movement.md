@@ -45,18 +45,18 @@ relations:
     certainty: academic_consensus
     citation: Built upon Advaitic non-dual metaphysics regarding the illusory nature of the social ego and the foundational unity of universal consciousness.
 artifacts:
-  - title: Osho International Meditation Resort in Pune
-    imageUrl: /artifacts/rajneesh-movement-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Osho_International_Meditation_Resort.jpg'
-    provenance: Jayen/OIF; CC BY-SA 3.0
-    period: Photographed 2007
-    description: 'The central pyramid auditorium and gardens of the Osho International Meditation Resort in Koregaon Park, Pune, Maharashtra, established in 1974.'
-  - title: Portrait of Bhagwan Shree Rajneesh (Osho)
-    imageUrl: /artifacts/rajneesh-movement-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Osho_Rajneesh.jpg'
-    provenance: Marcel Antonisse / Anefo; CC0 1.0
-    period: Historical archival photograph
-    description: 'Portrait of Chandra Mohan Jain (1931–1990), known as Bhagwan Shree Rajneesh and later Osho, founder of the Rajneesh movement and developer of Dynamic Meditation.'
+  - title: "Osho International Meditation Resort in Pune"
+    imageUrl: "/artifacts/rajneesh-movement-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Osho_International_Meditation_Resort.jpg"
+    provenance: "Jayen/OIF; CC BY-SA 3.0"
+    period: "Photographed 2007"
+    description: "The central pyramid auditorium and gardens of the Osho International Meditation Resort in Koregaon Park, Pune, Maharashtra, established in 1974."
+  - title: "Portrait of Bhagwan Shree Rajneesh (Osho)"
+    imageUrl: "/artifacts/rajneesh-movement-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Osho_Rajneesh.jpg"
+    provenance: "Marcel Antonisse / Anefo; CC0 1.0"
+    period: "Historical archival photograph"
+    description: "Portrait of Chandra Mohan Jain (1931–1990), known as Bhagwan Shree Rajneesh and later Osho, founder of the Rajneesh movement and developer of Dynamic Meditation."
 ---
 
 # Rajneesh Movement (Osho)

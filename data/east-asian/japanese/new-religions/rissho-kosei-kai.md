@@ -42,18 +42,18 @@ relations:
     certainty: academic_consensus
     citation: Rooted in the Nichiren tradition's devotion to the Lotus Sutra and recitation of the sacred title (Namu Myōhō Renge Kyō).
 artifacts:
-  - title: The Great Sacred Hall (Dai-Seidō)
-    imageUrl: /artifacts/rissho-kosei-kai-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Rissh%C5%8D_K%C5%8Dsei_Kai_Temple_-_The_Great_Sacred_Hall_01.jpg'
-    provenance: Risshō Kōsei Kai; Public domain
-    period: Published 1964
-    description: 'The Great Sacred Hall (Dai-Seidō) at the international headquarters of Risshō Kōsei-kai in Suginami, Tokyo, inaugurated in 1964.'
-  - title: Hōza Counseling Area in the Great Sacred Hall
-    imageUrl: /artifacts/rissho-kosei-kai-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Rissh%C5%8D_K%C5%8Dsei_Kai_Temple_-_Group_Counseling_Area_01.jpg'
-    provenance: Risshō Kōsei Kai; Public domain
-    period: Published 1964
-    description: Dedicated communal counseling floor inside the Great Sacred Hall where Risshō Kōsei-kai members gather in intimate hōza circles for moral reflection and mutual spiritual support.
+  - title: "The Great Sacred Hall (Dai-Seidō)"
+    imageUrl: "/artifacts/rissho-kosei-kai-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Rissh%C5%8D_K%C5%8Dsei_Kai_Temple_-_The_Great_Sacred_Hall_01.jpg"
+    provenance: "Risshō Kōsei Kai; Public domain"
+    period: "Published 1964"
+    description: "The Great Sacred Hall (Dai-Seidō) at the international headquarters of Risshō Kōsei-kai in Suginami, Tokyo, inaugurated in 1964."
+  - title: "Hōza Counseling Area in the Great Sacred Hall"
+    imageUrl: "/artifacts/rissho-kosei-kai-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Rissh%C5%8D_K%C5%8Dsei_Kai_Temple_-_Group_Counseling_Area_01.jpg"
+    provenance: "Risshō Kōsei Kai; Public domain"
+    period: "Published 1964"
+    description: "Dedicated communal counseling floor inside the Great Sacred Hall where Risshō Kōsei-kai members gather in intimate hōza circles for moral reflection and mutual spiritual support."
 ---
 
 # Risshō Kōsei-kai

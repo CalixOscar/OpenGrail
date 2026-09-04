@@ -47,18 +47,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Tibetan%20Buddhism'
 artifacts:
-  - title: "Tibetan Wheel of Life thangka visualizing cyclic existence"
+  - title: "Bhavachakra (Wheel of Life) wall mural at Tawang Monastery, Arunachal Pradesh"
     imageUrl: "/artifacts/tibetan-buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bhavachakra_or_the_Buddhist_Wheel_of_Life_at_Tawang_Monastery,_Tawang,_Arunachal_Pradesh,_India.jpg"
     provenance: "Kingshuk Mondal; CC BY-SA 4.0"
     period: "Image dated 2018"
-    description: "This image shows Tibetan Wheel of Life thangka visualizing cyclic existence, selected as a defining visual reference for Tibetan Buddhism."
-  - title: "Jokhang Temple, home of the revered Jowo Sakyamuni image"
+  - title: "Tibetan pilgrim holding a handheld prayer wheel along the Barkhor circuit in Lhasa"
     imageUrl: "/artifacts/tibetan-buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:An_elderly_Tibetan_women_holding_a_prayer_wheel_on_Lhasa,_Barkhor.jpg"
-    provenance: "Luca Galuzzi ( Lucag ); CC BY-SA 2.5"
+    provenance: "Luca Galuzzi (Lucag); CC BY-SA 2.5"
     period: "Image dated 2006"
-    description: "This image shows Jokhang Temple, home of the revered Jowo Sakyamuni image, selected as a defining visual reference for Tibetan Buddhism."
 ---
 
 # Tibetan Buddhism

@@ -46,18 +46,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Roman Religion'
     url: 'https://brill.com/search?q=Roman%20Religion'
 artifacts:
-  - title: "Capitoline Triad sacred art"
+  - title: "Roman terracotta oil lamp depicting the Capitoline Triad (Jupiter, Juno, Minerva), Staatliche Antikensammlungen"
     imageUrl: "/artifacts/roman-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Staatliche_Antikensammlungen_M%C3%BCnchen_885.JPG"
-    provenance: "Picture taken by Marcus Cyron; CC BY-SA 3.0"
+    provenance: "Marcus Cyron; CC BY-SA 3.0"
     period: "1st century AD"
-    description: "This image shows Capitoline Triad sacred art, selected as a defining visual reference for Roman Religion."
-  - title: "Temple of Vesta"
+  - title: "Temple of Vesta in the Roman Forum"
     imageUrl: "/artifacts/roman-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Temple_of_Vesta_(Rome).jpg"
     provenance: "Wknight94; CC BY-SA 3.0"
     period: "Image dated 2008"
-    description: "This image shows Temple of Vesta, selected as a defining visual reference for Roman Religion."
 ---
 
 # Roman Religion

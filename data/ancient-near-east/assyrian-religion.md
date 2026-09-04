@@ -45,18 +45,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Assyrian Religion'
     url: 'https://brill.com/search?q=Assyrian%20Religion'
 artifacts:
-  - title: "Assyrian lamassu guardian"
+  - title: "Colossal human-headed winged bulls (lamassu) from Khorsabad, Louvre Museum"
     imageUrl: "/artifacts/assyrian-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Human-headed_Winged_Bulls_Gate_Khorsabad_-_Louvre_02a.jpg"
     provenance: "Vania Teofilo; CC BY-SA 3.0"
     period: "Image dated 2006"
-    description: "This image shows Assyrian lamassu guardian, selected as a defining visual reference for Assyrian Religion."
-  - title: "Assyrian sacred-tree relief"
+  - title: "Assyrian alabaster relief of eagle-headed apkallu spirits and the Sacred Tree, British Museum"
     imageUrl: "/artifacts/assyrian-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Assyrian_Relief_-_British_Museum.jpg"
     provenance: "M0tty; CC BY-SA 3.0"
     period: "860 BC"
-    description: "This image shows Assyrian sacred-tree relief, selected as a defining visual reference for Assyrian Religion."
 ---
 
 # Assyrian Religion

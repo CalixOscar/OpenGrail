@@ -50,24 +50,18 @@ sources:
   - title: 'Brill New Pauly: Trophonios'
     url: 'https://brill.com/search?q=Trophonios'
 artifacts:
-  - title: Sanctuary site and springs of Herkyna at Livadeia
-    imageUrl: /artifacts/trophonius-oracle-cult-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Μαντείο_Τροφωνίου_1771.jpg
-    provenance: C messier; CC BY-SA 4.0
-    period: Photographed 2020
-    description: >-
-      The sacred gorge of the river Herkyna (Erkyna) at Livadeia (Lebadeia),
-      Greece, site of the subterranean oracle of Trophonius and the ritual
-      springs of Lethe (Oblivion) and Mnemosyne (Memory).
-  - title: 19th-century view of the oracular cavern of Trophonius
-    imageUrl: /artifacts/trophonius-oracle-cult-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Oracular_cavern_of_Trophonius_-_Skene_James_-_1838-1845.jpg
-    provenance: James Skene; Public domain
-    period: 1838–1845
-    description: >-
-      Watercolor by Scottish traveler James Skene depicting the rock-hewn chasm
-      and caves along the Herkyna river gorge in Livadeia where initiates
-      performed the nocturnal descent (katabasis) to Trophonius.
+  - title: "Sanctuary site and springs of Herkyna at Livadeia"
+    imageUrl: "/artifacts/trophonius-oracle-cult-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Μαντείο_Τροφωνίου_1771.jpg"
+    provenance: "C messier; CC BY-SA 4.0"
+    period: "Photographed 2020"
+    description: "The sacred gorge of the river Herkyna (Erkyna) at Livadeia (Lebadeia), Greece, site of the subterranean oracle of Trophonius and the ritual springs of Lethe (Oblivion) and Mnemosyne (Memory)."
+  - title: "19th-century view of the oracular cavern of Trophonius"
+    imageUrl: "/artifacts/trophonius-oracle-cult-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Oracular_cavern_of_Trophonius_-_Skene_James_-_1838-1845.jpg"
+    provenance: "James Skene; Public domain"
+    period: "1838–1845"
+    description: "Watercolor by Scottish traveler James Skene depicting the rock-hewn chasm and caves along the Herkyna river gorge in Livadeia where initiates performed the nocturnal descent (katabasis) to Trophonius."
 relations:
   - target: ancient-greek-religion
     type: branch_of

@@ -47,18 +47,16 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Greek%20Orthodox%20Patriarchate%20of%20Antioch
 artifacts:
-  - title: "Mariamite Cathedral in Damascus, seat of the Antiochian patriarch"
+  - title: "Mariamite Cathedral complex and seat of the Greek Orthodox Patriarchate of Antioch in Damascus"
     imageUrl: "/artifacts/antiochian-orthodox-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Damascus_Greek_Orthodox_Patriarchate_1573.jpg"
     provenance: "Dosseman; CC BY-SA 4.0"
     period: "Image dated 2010"
-    description: "This image shows Mariamite Cathedral in Damascus, seat of the Antiochian patriarch, selected as a defining visual reference for Greek Orthodox Patriarchate of Antioch."
-  - title: "Antiochian Monastery of Saint George at Al-Humayrah"
+  - title: "Monastery of Saint George at Al-Humayrah (Wadi al-Nasara), Syria"
     imageUrl: "/artifacts/antiochian-orthodox-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:StGeorgeMonSyr1.jpg"
-    provenance: "Wikimedia Commons; CC BY-SA 2.5"
+    provenance: "Unknown author; CC BY-SA 2.5"
     period: "Digital file published 2006"
-    description: "This image shows Antiochian Monastery of Saint George at Al-Humayrah, selected as a defining visual reference for Greek Orthodox Patriarchate of Antioch."
 ---
 
 # Greek Orthodox Patriarchate of Antioch

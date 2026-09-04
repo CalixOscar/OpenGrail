@@ -47,22 +47,18 @@ sources:
   - title: 'Peggy Pawlowski: "Der Illuminatenorden: Ein politischer Geheimbund im Zeitalter der Aufklärung"'
     url: 'https://www.degruyter.com/document/doi/10.1515/9783110757972/html'
 artifacts:
-  - title: Minerval insignia of the Bavarian Illuminati
-    imageUrl: /artifacts/bavarian-illuminati-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Minerval_insignia.png
-    provenance: Adolph Freiherr Knigge; Public domain
-    period: Printed 1788
-    description: >-
-      The original Minerval degree emblem of the historical Bavarian Illuminati from Knigge's
-      1788 system treatise, depicting the Owl of Minerva on an open book to symbolize Enlightenment wisdom.
-  - title: Portrait of Adam Weishaupt
-    imageUrl: /artifacts/bavarian-illuminati-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Adam_Weishaupt.jpg
-    provenance: Christoph Wilhelm Bock; Public domain
-    period: 1788 / 1811
-    description: >-
-      Engraved portrait of Adam Weishaupt (1748–1830), professor of canon law at the University of
-      Ingolstadt who founded the Bavarian Illuminati in May 1776.
+  - title: "Minerval insignia of the Bavarian Illuminati"
+    imageUrl: "/artifacts/bavarian-illuminati-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Minerval_insignia.png"
+    provenance: "Adolph Freiherr Knigge; Public domain"
+    period: "Printed 1788"
+    description: "The original Minerval degree emblem of the historical Bavarian Illuminati from Knigge's 1788 system treatise, depicting the Owl of Minerva on an open book to symbolize Enlightenment wisdom."
+  - title: "Portrait of Adam Weishaupt"
+    imageUrl: "/artifacts/bavarian-illuminati-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Adam_Weishaupt.jpg"
+    provenance: "Christoph Wilhelm Bock; Public domain"
+    period: "1788 / 1811"
+    description: "Engraved portrait of Adam Weishaupt (1748–1830), professor of canon law at the University of Ingolstadt who founded the Bavarian Illuminati in May 1776."
 relations:
   - target: freemasonry
     type: influenced_by

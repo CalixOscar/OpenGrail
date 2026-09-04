@@ -53,19 +53,6 @@ sources:
       https://www.oxfordreference.com/search?q=Pur%C3%A9pecha%20Religious%20Traditions
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Pur%C3%A9pecha%20Religious%20Traditions'
-artifacts:
-  - title: "Yacatas stepped ceremonial pyramids at Tzintzuntzan"
-    imageUrl: "/artifacts/purepecha-religion-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:GrPlattztztzSign.JPG"
-    provenance: "Thelmadatter; CC BY-SA 3.0"
-    period: "Image dated 2009"
-    description: "This image shows Yacatas stepped ceremonial pyramids at Tzintzuntzan, selected as a defining visual reference for Purépecha Religious Traditions."
-  - title: "Purepecha carved stone chacmool offering sculpture"
-    imageUrl: "/artifacts/purepecha-religion-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Manual_de_los_santos_sacramentos_en_el_idioma_de_Michuacan.png"
-    provenance: "Juan de Martinez de Araujo; Public domain"
-    period: "Image dated 1690"
-    description: "This image shows Purepecha carved stone chacmool offering sculpture, selected as a defining visual reference for Purépecha Religious Traditions."
 ---
 
 # Purépecha Religious Traditions

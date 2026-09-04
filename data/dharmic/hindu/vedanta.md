@@ -46,19 +46,11 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ved%C4%81nta'
 artifacts:
-  - title: "Badarayana-Vyasa, traditional author of the Brahma Sutras"
+  - title: "Statue of Adi Shankara"
     imageUrl: "/artifacts/vedanta-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:AdiShankara1.jpg"
     provenance: "User:Sarvagnya; CC BY 2.5"
     period: "Digital file published 2007"
-    description: "This image shows Badarayana-Vyasa, traditional author of the Brahma Sutras, selected as a defining visual reference for Vedānta."
-    detail: high
-  - title: "Sanskrit manuscript of the Brahma Sutras, common Vedanta source text"
-    imageUrl: "/artifacts/vedanta-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:K.V._Haridasan_-_1985_Brahmasutra_oil_on_canvas_46.5x63inch.jpg"
-    provenance: "K.V. Haridasan's artwork.; CC BY 4.0"
-    period: "Image dated 1985"
-    description: "This image shows Sanskrit manuscript of the Brahma Sutras, common Vedanta source text, selected as a defining visual reference for Vedānta."
     detail: high
 ---
 

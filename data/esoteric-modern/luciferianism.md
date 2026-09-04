@@ -45,18 +45,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Luciferianism'
     url: 'https://brill.com/search?q=Modern%20Luciferianism'
 artifacts:
-  - title: "Classical Lucifer image by Guillaume Geefs"
+  - title: "Le Génie du Mal ('Lucifer of Liège') sculpture by Guillaume Geefs"
     imageUrl: "/artifacts/luciferianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Li%C3%A8ge_Le_G%C3%A9nie_du_Mal_R01.jpg"
     provenance: "Marc Ryckaert; CC BY-SA 4.0"
     period: "Image dated 2023"
-    description: "This image shows Classical Lucifer image by Guillaume Geefs, selected as a defining visual reference for Modern Luciferianism."
-  - title: "Luciferian devotional altar"
-    imageUrl: "/artifacts/luciferianism-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Prometheus_at_Night.JPG"
-    provenance: "Andy C; CC BY-SA 3.0"
-    period: "Image dated 2008"
-    description: "This image shows Luciferian devotional altar, selected as a defining visual reference for Modern Luciferianism."
 ---
 
 # Modern Luciferianism

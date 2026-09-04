@@ -44,18 +44,18 @@ relations:
     certainty: academic_consensus
     citation: 'Rooted in Buddhist ascetic monastic vows, meditation disciplines, and Bodhisattva compassion for victims of military conflict.'
 artifacts:
-  - title: Dragon Columns at Phoenix Island Sanctuary
-    imageUrl: /artifacts/coconut-religion-vietnam-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:%C4%90%E1%BA%A1o_D%E1%BB%ABa.jpg'
-    provenance: Bùi Thụy Đào Nguyên; Public domain
-    period: Photographed 2008
-    description: 'The surviving open-air sanctuary on Phoenix Island (Cồn Phụng) in Bến Tre, featuring the iconic carved dragon columns built by the Coconut Monk (Nguyễn Thành Nam) for interreligious peace prayers.'
-  - title: Phoenix Island Floating Commune in 1969
-    imageUrl: /artifacts/coconut-religion-vietnam-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Coconut_Monk_(%C4%90%E1%BA%A1o_D%E1%BB%ABa)_Pagoda_2_1969.jpg'
-    provenance: Cserbell; CC BY-SA 4.0
-    period: Photographed 1969
-    description: Historical 1969 documentary color photograph of the Đạo Dừa religious compound on Phoenix Island during the height of the Vietnam War.
+  - title: "Dragon Columns at Phoenix Island Sanctuary"
+    imageUrl: "/artifacts/coconut-religion-vietnam-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%C4%90%E1%BA%A1o_D%E1%BB%ABa.jpg"
+    provenance: "Bùi Thụy Đào Nguyên; Public domain"
+    period: "Photographed 2008"
+    description: "The surviving open-air sanctuary on Phoenix Island (Cồn Phụng) in Bến Tre, featuring the iconic carved dragon columns built by the Coconut Monk (Nguyễn Thành Nam) for interreligious peace prayers."
+  - title: "Phoenix Island Floating Commune in 1969"
+    imageUrl: "/artifacts/coconut-religion-vietnam-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Coconut_Monk_(%C4%90%E1%BA%A1o_D%E1%BB%ABa)_Pagoda_2_1969.jpg"
+    provenance: "Cserbell; CC BY-SA 4.0"
+    period: "Photographed 1969"
+    description: "Historical 1969 documentary color photograph of the Đạo Dừa religious compound on Phoenix Island during the height of the Vietnam War."
 ---
 
 # Coconut Religion (Đạo Dừa)

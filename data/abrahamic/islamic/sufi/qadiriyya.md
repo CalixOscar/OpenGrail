@@ -45,18 +45,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Qadiriyya'
     url: 'https://www.cambridge.org/core/search?q=Qadiriyya'
 artifacts:
-  - title: "Shrine of Abd al-Qadir al-Jilani in Baghdad"
+  - title: "Tiled exterior of the shrine of Shaykh Abd al-Qadir al-Jilani in Baghdad"
     imageUrl: "/artifacts/qadiriyya-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Peerane_Peer.jpg"
     provenance: "SidSultan05; CC BY-SA 3.0"
     period: "Image dated 2012"
-    description: "This image shows Shrine of Abd al-Qadir al-Jilani in Baghdad, selected as a defining visual reference for Qadiriyya."
-  - title: "Qadiri communal dhikr ritual"
+  - title: "Calligraphic seal of the Qadiriyya Sufi order"
     imageUrl: "/artifacts/qadiriyya-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Seal_of_Qadiriyya_Sufi_Order_.jpg"
     provenance: "Muhammadahmad79; CC BY-SA 4.0"
     period: "Image dated 2018"
-    description: "This image shows Qadiri communal dhikr ritual, selected as a defining visual reference for Qadiriyya."
 ---
 
 # Qadiriyya

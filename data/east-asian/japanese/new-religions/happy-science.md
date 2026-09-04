@@ -43,18 +43,18 @@ relations:
     certainty: academic_consensus
     citation: 'Incorporates Buddhist concepts of karma, the Eightfold Path, and reincarnation into a hierarchical cosmology of multi-dimensional spiritual realms.'
 artifacts:
-  - title: Tokyo Shoshinkan Main Temple
-    imageUrl: /artifacts/happy-science-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tokyo_Shoshinkan_1.jpg'
-    provenance: Happipedia; CC BY-SA 3.0
-    period: Photographed 2010
-    description: 'The Tokyo Shoshinkan, the primary training temple and metropolitan sanctuary of Happy Science (Kōfuku-no-Kagaku) in Shinagawa, Tokyo.'
-  - title: Facade of the Tokyo Shoshinkan
-    imageUrl: /artifacts/happy-science-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tokyo_Shoshinkan_2.jpg'
-    provenance: Happipedia; CC BY-SA 3.0
-    period: Photographed 2010
-    description: 'Architectural facade of the Tokyo Shoshinkan complex in Shinagawa, established for scriptural study, spiritual meditation, and channeling seminars.'
+  - title: "Tokyo Shoshinkan Main Temple"
+    imageUrl: "/artifacts/happy-science-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tokyo_Shoshinkan_1.jpg"
+    provenance: "Happipedia; CC BY-SA 3.0"
+    period: "Photographed 2010"
+    description: "The Tokyo Shoshinkan, the primary training temple and metropolitan sanctuary of Happy Science (Kōfuku-no-Kagaku) in Shinagawa, Tokyo."
+  - title: "Facade of the Tokyo Shoshinkan"
+    imageUrl: "/artifacts/happy-science-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tokyo_Shoshinkan_2.jpg"
+    provenance: "Happipedia; CC BY-SA 3.0"
+    period: "Photographed 2010"
+    description: "Architectural facade of the Tokyo Shoshinkan complex in Shinagawa, established for scriptural study, spiritual meditation, and channeling seminars."
 ---
 
 # Happy Science

@@ -45,18 +45,18 @@ relations:
     certainty: academic_consensus
     citation: 'Incorporated the devotional aesthetics, Radha-Krishna divine love symbolism, and ecstatic kirtan forms of post-Chaitanya Bengali Vaishnava Sahajiya currents.'
 artifacts:
-  - title: Baul Singer with Ektara
-    imageUrl: /artifacts/bauls-of-bengal-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Vandari_Abdul_Jabbar,_folk_singer_singing_with_musical_instrument_%27Ektara%27,_Bangladesh.jpg'
-    provenance: Salim Khandoker; CC BY-SA 4.0
-    period: Photographed 2022
-    description: 'A Baul minstrel performing with the one-stringed ektārā, singing esoteric devotional songs of the Man of the Heart (Maner Mănuṣ).'
-  - title: Devotee at the Lalon Akhra Shrine
-    imageUrl: /artifacts/bauls-of-bengal-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Shadhu_at_Lalon_Akhra.jpg'
-    provenance: SH Palash; CC BY 2.0
-    period: Photographed 2013
-    description: 'A Baul devotee (shadhu) at the Lalon Akhra shrine complex in Chheuriya, Kushtia, Bangladesh, the spiritual home and memorial shrine of mystic poet Lalon Shah.'
+  - title: "Baul Singer with Ektara"
+    imageUrl: "/artifacts/bauls-of-bengal-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Vandari_Abdul_Jabbar,_folk_singer_singing_with_musical_instrument_%27Ektara%27,_Bangladesh.jpg"
+    provenance: "Salim Khandoker; CC BY-SA 4.0"
+    period: "Photographed 2022"
+    description: "A Baul minstrel performing with the one-stringed ektārā, singing esoteric devotional songs of the Man of the Heart (Maner Mănuṣ)."
+  - title: "Devotee at the Lalon Akhra Shrine"
+    imageUrl: "/artifacts/bauls-of-bengal-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shadhu_at_Lalon_Akhra.jpg"
+    provenance: "SH Palash; CC BY 2.0"
+    period: "Photographed 2013"
+    description: "A Baul devotee (shadhu) at the Lalon Akhra shrine complex in Chheuriya, Kushtia, Bangladesh, the spiritual home and memorial shrine of mystic poet Lalon Shah."
 ---
 
 # Bauls of Bengal

@@ -48,19 +48,6 @@ sources:
     url: 'https://www.oxfordreference.com/search?q=Reclaiming%20Tradition'
   - title: 'Brill Handbook of Religious Traditions: Reclaiming Tradition'
     url: 'https://brill.com/search?q=Reclaiming%20Tradition'
-artifacts:
-  - title: "Starhawk (Miriam Simos), co-founder of the Reclaiming tradition"
-    imageUrl: "/artifacts/reclaiming-tradition-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Rue_Lucien-Sampaix_Miriam_Simos.jpg"
-    provenance: "Okhjon; CC BY-SA 4.0"
-    period: "Image dated 2019"
-    description: "This image shows Starhawk (Miriam Simos), co-founder of the Reclaiming tradition, selected as a defining visual reference for Reclaiming Tradition."
-  - title: "Reclaiming Spiral Dance"
-    imageUrl: "/artifacts/reclaiming-tradition-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sepia_Raqs.jpg"
-    provenance: "Eric Hauptmann from Stanton, USA; CC BY-SA 2.0"
-    period: "Image dated 2010"
-    description: "This image shows Reclaiming Spiral Dance, selected as a defining visual reference for Reclaiming Tradition."
 ---
 
 # Reclaiming Tradition

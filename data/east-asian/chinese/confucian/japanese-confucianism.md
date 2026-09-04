@@ -49,18 +49,16 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Japanese%20Confucian%20Traditions
 artifacts:
-  - title: "Portrait of Hayashi Razan"
+  - title: "Hanging scroll portrait of Hayashi Razan"
     imageUrl: "/artifacts/japanese-confucianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Razan_Hayashi.jpg"
-    provenance: "不詳 unknown; Public domain"
+    provenance: "Unknown; Public domain"
     period: "Digital file published 2009"
-    description: "This image shows Portrait of Hayashi Razan, selected as a defining visual reference for Japanese Confucian Traditions."
-  - title: "Yushima Seido"
+  - title: "Taisei-den hall at Yushima Seidō Confucian temple, Tokyo"
     imageUrl: "/artifacts/japanese-confucianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:YushimaSeido8662.jpg"
-    provenance: "No machine-readable author provided. Fg2 assumed (based on copyright claims).; Public domain"
+    provenance: "Fg2; Public domain"
     period: "Image dated 2005"
-    description: "This image shows Yushima Seido, selected as a defining visual reference for Japanese Confucian Traditions."
 ---
 
 # Japanese Confucian Traditions

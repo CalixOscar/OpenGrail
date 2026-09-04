@@ -43,19 +43,6 @@ sources:
       Cambridge History of Religions: Abrahamic Traditions & Grace Communion
       International
     url: 'https://www.cambridge.org/core/search?q=Grace%20Communion%20International'
-artifacts:
-  - title: "Contemporary Grace Communion International congregational worship"
-    imageUrl: "/artifacts/grace-communion-international-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:SU-GCI@PEK_(20140502150229).JPG"
-    provenance: "N509FZ; CC BY-SA 3.0"
-    period: "Image dated 2014"
-    description: "This image shows Contemporary Grace Communion International congregational worship, selected as a defining visual reference for Grace Communion International."
-  - title: "Grace Communion International denominational headquarters"
-    imageUrl: "/artifacts/grace-communion-international-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:SU-GCI@PEK_(20140502150248).JPG"
-    provenance: "N509FZ; CC BY-SA 3.0"
-    period: "Image dated 2014"
-    description: "This image shows Grace Communion International denominational headquarters, selected as a defining visual reference for Grace Communion International."
 ---
 
 # Grace Communion International

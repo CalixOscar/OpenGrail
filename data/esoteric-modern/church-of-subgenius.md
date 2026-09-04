@@ -48,18 +48,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Church of the SubGenius'
     url: 'https://brill.com/search?q=Church%20of%20the%20SubGenius'
 artifacts:
-  - title: "J. R. “Bob” Dobbs icon"
+  - title: "Storefront mural of Church of the SubGenius prophet J. R. 'Bob' Dobbs"
     imageUrl: "/artifacts/church-of-subgenius-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Head_Shop.jpg"
-    provenance: "Stuart Caie from Edinburgh, Scotland; CC BY 2.0"
+    provenance: "Stuart Caie; CC BY 2.0"
     period: "Image dated 2008"
-    description: "This image shows J. R. “Bob” Dobbs icon, selected as a defining visual reference for Church of the SubGenius."
-  - title: "SubGenius devival gathering"
+  - title: "Graffiti stencil of J. R. 'Bob' Dobbs in Stockport"
     imageUrl: "/artifacts/church-of-subgenius-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Act_of_Subgenius.jpg"
-    provenance: "Pete Birkinshaw from Manchester, UK; CC BY 2.0"
+    provenance: "Pete Birkinshaw; CC BY 2.0"
     period: "20th Century"
-    description: "This image shows SubGenius devival gathering, selected as a defining visual reference for Church of the SubGenius."
 ---
 
 # Church of the SubGenius

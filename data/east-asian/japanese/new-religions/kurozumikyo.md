@@ -42,18 +42,18 @@ relations:
     certainty: academic_consensus
     citation: 'Built directly upon traditional shrine Shinto liturgy, imperial solar mythology, and purification rites.'
 artifacts:
-  - title: Portrait of Kurozumi Munetada
-    imageUrl: /artifacts/kurozumikyo-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:%E9%BB%92%E4%BD%8F%E5%AE%97%E5%BF%A0%E5%83%8F_(cropped).jpg'
-    provenance: Kyoto University Library; Public domain
-    period: 19th century
-    description: 'Hanging scroll portrait of Kurozumi Munetada (1780–1850), founder of Kurozumikyō, who established the Sect Shinto movement following his 1814 solar epiphany.'
-  - title: Torii Gates at Munetada Shrine
-    imageUrl: /artifacts/kurozumikyo-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Munetada-jinja_Kyoto_HDSR_IMG_1306.jpg'
-    provenance: Hyppolyte de Saint-Rambert; CC BY-SA 4.0
-    period: Photographed 2020
-    description: 'Torii pathway at Munetada Shrine (Munetada-jinja) in Kyoto, dedicated to the veneration of Kurozumi Munetada and Amaterasu Ōmikami.'
+  - title: "Portrait of Kurozumi Munetada"
+    imageUrl: "/artifacts/kurozumikyo-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%E9%BB%92%E4%BD%8F%E5%AE%97%E5%BF%A0%E5%83%8F_(cropped).jpg"
+    provenance: "Kyoto University Library; Public domain"
+    period: "19th century"
+    description: "Hanging scroll portrait of Kurozumi Munetada (1780–1850), founder of Kurozumikyō, who established the Sect Shinto movement following his 1814 solar epiphany."
+  - title: "Torii Gates at Munetada Shrine"
+    imageUrl: "/artifacts/kurozumikyo-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Munetada-jinja_Kyoto_HDSR_IMG_1306.jpg"
+    provenance: "Hyppolyte de Saint-Rambert; CC BY-SA 4.0"
+    period: "Photographed 2020"
+    description: "Torii pathway at Munetada Shrine (Munetada-jinja) in Kyoto, dedicated to the veneration of Kurozumi Munetada and Amaterasu Ōmikami."
 ---
 
 # Kurozumikyō

@@ -49,18 +49,16 @@ sources:
       Traditions
     url: 'https://www.cambridge.org/core/search?q=Mennonite%20Traditions'
 artifacts:
-  - title: "Portrait of Menno Simons, namesake of the Mennonite tradition"
+  - title: "Portrait of Menno Simons (1788 engraving, Rijksmuseum)"
     imageUrl: "/artifacts/mennonites-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Portret_van_Menno_Simons,_RP-P-1895-A-18886.jpg"
-    provenance: "Rijksmuseum; CC0"
+    provenance: "Louis E.F. Garreau / Rijksmuseum; CC0"
     period: "Image dated 1788"
-    description: "This image shows Portrait of Menno Simons, namesake of the Mennonite tradition, selected as a defining visual reference for Mennonite Traditions."
-  - title: "Illustrated Martyrs Mirror preserving Anabaptist memory"
+  - title: "Etching of Saint Vitalis being buried alive from Jan Luyken's Martyrs Mirror (1685)"
     imageUrl: "/artifacts/mennonites-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Vitalisburiedalive.jpg"
     provenance: "Jan Luyken; Public domain"
     period: "17 th century"
-    description: "This image shows Illustrated Martyrs Mirror preserving Anabaptist memory, selected as a defining visual reference for Mennonite Traditions."
 ---
 
 # Mennonite Traditions

@@ -47,18 +47,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Arya%20Samaj'
 artifacts:
-  - title: "Swami Dayananda Saraswati, founder of Arya Samaj"
+  - title: "Portrait of Swami Dayananda Saraswati from the 1911 Andhra Patrika"
     imageUrl: "/artifacts/arya-samaj-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Swami_Dayananda_Saraswati_1911.jpg"
     provenance: "Andhra Patrika editors; Public domain"
     period: "Image dated 1911"
-    description: "This image shows Swami Dayananda Saraswati, founder of Arya Samaj, selected as a defining visual reference for Arya Samaj."
-  - title: "Historic Arya Samaj mandir used for Vedic worship and reform activity"
+  - title: "Central Vaidik Mandir of the Guyana Arya Samaj in Georgetown, Guyana"
     imageUrl: "/artifacts/arya-samaj-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Central_Vaidik_Mandir,_Georgetown,_Guyana..jpg"
-    provenance: "J.G. de Kruijf, The Netherlands; CC0"
+    provenance: "J.G. de Kruijf; CC0"
     period: "Image dated 2012"
-    description: "This image shows Historic Arya Samaj mandir used for Vedic worship and reform activity, selected as a defining visual reference for Arya Samaj."
 ---
 
 # Arya Samaj

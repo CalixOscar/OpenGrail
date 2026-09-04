@@ -40,18 +40,11 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Lutheranism'
     url: 'https://www.cambridge.org/core/search?q=Lutheranism'
 artifacts:
-  - title: "Cranach portrait of Martin Luther"
-    imageUrl: "/artifacts/lutheranism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Hans_and_Margarethe_Luther,_by_Lucas_Cranach_the_Elder.jpg"
-    provenance: "Lucas Cranach the Elder; Public domain"
-    period: "Image dated 1527"
-    description: "This image shows Cranach portrait of Martin Luther, selected as a defining visual reference for Lutheranism."
-  - title: "Historical manuscript of the Augsburg Confession"
+  - title: "Stained-glass window depicting the presentation of the Augsburg Confession in Speyer"
     imageUrl: "/artifacts/lutheranism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Confessio_Augustana_Speyer.jpg"
     provenance: "Immanuel Giel; Public domain"
     period: "Image dated 2005"
-    description: "This image shows Historical manuscript of the Augsburg Confession, selected as a defining visual reference for Lutheranism."
     detail: high
 ---
 

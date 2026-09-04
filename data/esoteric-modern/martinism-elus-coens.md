@@ -47,22 +47,18 @@ sources:
   - title: 'Oxford Reference: Overview of Martinism'
     url: 'https://www.oxfordreference.com/search?q=Martinism'
 artifacts:
-  - title: Léonard Joseph Prunelle de Lière's Élus Coëns notebook
-    imageUrl: /artifacts/martinism-elus-coens-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Prunelle_de_Li%C3%A8re%E2%80%99s_%C3%89lus_Co%C3%ABns_Notebook.jpg
-    provenance: Léonard Joseph Prunelle-Lière; Public domain
-    period: 18th century
-    description: >-
-      Eighteenth-century manuscript notebook of Élus Coëns initiate Léonard Joseph Prunelle de Lière,
-      illustrating theurgical seals, spirits, and angelic invocations of the Martinezist tradition.
-  - title: Portrait of Louis-Claude de Saint-Martin
-    imageUrl: /artifacts/martinism-elus-coens-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Louis-Claude_de_Saint-Martin.jpg
-    provenance: Ohjay; CC BY 3.0
-    period: 18th-century engraving
-    description: >-
-      Portrait of French theosopher Louis-Claude de Saint-Martin (1743–1803), the 'Unknown Philosopher'
-      who formulated Martinism's interior mystical 'Way of the Heart'.
+  - title: "Léonard Joseph Prunelle de Lière's Élus Coëns notebook"
+    imageUrl: "/artifacts/martinism-elus-coens-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Prunelle_de_Li%C3%A8re%E2%80%99s_%C3%89lus_Co%C3%ABns_Notebook.jpg"
+    provenance: "Léonard Joseph Prunelle-Lière; Public domain"
+    period: "18th century"
+    description: "Eighteenth-century manuscript notebook of Élus Coëns initiate Léonard Joseph Prunelle de Lière, illustrating theurgical seals, spirits, and angelic invocations of the Martinezist tradition."
+  - title: "Portrait of Louis-Claude de Saint-Martin"
+    imageUrl: "/artifacts/martinism-elus-coens-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Louis-Claude_de_Saint-Martin.jpg"
+    provenance: "Ohjay; CC BY 3.0"
+    period: "18th-century engraving"
+    description: "Portrait of French theosopher Louis-Claude de Saint-Martin (1743–1803), the 'Unknown Philosopher' who formulated Martinism's interior mystical 'Way of the Heart'."
 relations:
   - target: hermeticism
     type: influenced_by

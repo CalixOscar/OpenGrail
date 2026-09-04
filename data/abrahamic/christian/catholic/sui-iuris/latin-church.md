@@ -45,18 +45,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Latin Church'
     url: 'https://www.cambridge.org/core/search?q=Latin%20Church'
 artifacts:
-  - title: "A papal Roman-rite Mass in Saint Peter's Basilica"
+  - title: "Medieval lead papal bulla depicting Saint Peter"
     imageUrl: "/artifacts/latin-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Medieval_Papal_Bulla_of_Pope_Urban_III_(probably)_(front,_reverse)_(FindID_241754).jpg"
-    provenance: "Birmingham Museums Trust, Duncan, 2008-12-21 09:00:43; CC BY-SA 2.0"
+    provenance: "Birmingham Museums Trust; CC BY-SA 2.0"
     period: "Image dated 1185"
-    description: "This image shows A papal Roman-rite Mass in Saint Peter's Basilica, selected as a defining visual reference for Latin Church."
-  - title: "Saint John Lateran, cathedral of Rome and principal Latin Church basilica"
+  - title: "Papal cathedra in the apse of the Archbasilica of Saint John Lateran"
     imageUrl: "/artifacts/latin-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Papal_Cathedra,_Basilica_San_Giovanni_in_Laterano_(45603162864).jpg"
     provenance: "Sonse; CC BY 2.0"
     period: "Image dated 2018"
-    description: "This image shows Saint John Lateran, cathedral of Rome and principal Latin Church basilica, selected as a defining visual reference for Latin Church."
 ---
 
 # Latin Church

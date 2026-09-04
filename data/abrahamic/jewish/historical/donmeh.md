@@ -47,24 +47,18 @@ sources:
   - title: 'Encyclopaedia Britannica: Dönmeh'
     url: 'https://www.britannica.com/topic/Donmeh'
 artifacts:
-  - title: Yeni Mosque in Thessaloniki
-    imageUrl: /artifacts/donmeh-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Yeni_Mosque,_Thessaloniki.JPG
-    provenance: Knop92; Public domain
-    period: Built 1902
-    description: >-
-      The Yeni Mosque (New Mosque) in Thessaloniki, built in 1902 by Italian
-      architect Vitaliano Poselli for the city's Dönmeh community before the 1923
-      population exchange.
-  - title: Dönmeh gravestones in Bülbüldere Cemetery
-    imageUrl: /artifacts/donmeh-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Dönme_gravestones_in_the_Bülbüldere_Cemetery_in_Üsküdar,_Istanbul.jpg
-    provenance: Ealinggirl1954; CC BY-SA 4.0
-    period: Photographed 2019
-    description: >-
-      Historic gravestones of the Dönmeh community in the Bülbüldere Cemetery in
-      Üsküdar, Istanbul, exhibiting the distinctive burial traditions and
-      portraiture preserved after relocation from Salonica.
+  - title: "Yeni Mosque in Thessaloniki"
+    imageUrl: "/artifacts/donmeh-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Yeni_Mosque,_Thessaloniki.JPG"
+    provenance: "Knop92; Public domain"
+    period: "Built 1902"
+    description: "The Yeni Mosque (New Mosque) in Thessaloniki, built in 1902 by Italian architect Vitaliano Poselli for the city's Dönmeh community before the 1923 population exchange."
+  - title: "Dönmeh gravestones in Bülbüldere Cemetery"
+    imageUrl: "/artifacts/donmeh-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dönme_gravestones_in_the_Bülbüldere_Cemetery_in_Üsküdar,_Istanbul.jpg"
+    provenance: "Ealinggirl1954; CC BY-SA 4.0"
+    period: "Photographed 2019"
+    description: "Historic gravestones of the Dönmeh community in the Bülbüldere Cemetery in Üsküdar, Istanbul, exhibiting the distinctive burial traditions and portraiture preserved after relocation from Salonica."
 relations:
   - target: sabbateanism
     type: branch_of

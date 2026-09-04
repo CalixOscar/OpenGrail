@@ -38,19 +38,11 @@ sources:
   - title: 'Louvre Museum: The Stele of the Law Code of Hammurabi'
     url: 'https://www.louvre.fr/'
 artifacts:
-  - title: "Upper relief of the Hammurabi Stele showing Shamash and Hammurabi"
+  - title: "Side view of the upper stele of the Code of Hammurabi at the Louvre"
     imageUrl: "/artifacts/mesopotamian-justice-codes-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Code-de-Hammurabi-1.jpg"
     provenance: "Rama; CC BY-SA 3.0 fr"
     period: "Digital file published 2005"
-    description: "This image shows Upper relief of the Hammurabi Stele showing Shamash and Hammurabi, selected as a defining visual reference for Mesopotamian Justice Codes & Divine Jurisprudence."
-    detail: high
-  - title: "Stele of the Vultures cuneiform monument"
-    imageUrl: "/artifacts/mesopotamian-justice-codes-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Stele_of_Vultures_detail_01.jpg"
-    provenance: "Unknown artist Unknown artist; CC BY-SA 3.0"
-    period: "Digital file published 2017"
-    description: "This image shows Stele of the Vultures cuneiform monument, selected as a defining visual reference for Mesopotamian Justice Codes & Divine Jurisprudence."
     detail: high
 ---
 

@@ -50,18 +50,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Australian%20Aboriginal%20Religions'
 artifacts:
-  - title: "Uluru sacred sandstone monolith"
+  - title: "Uluru sacred sandstone monolith at sunset"
     imageUrl: "/artifacts/australian-aboriginal-religions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ayers_rock_at_sunset_(47850034062).jpg"
     provenance: "scott1346 from Mechanicsville, MD, USA; CC BY 2.0"
     period: "Image dated 2019"
-    description: "This image shows Uluru sacred sandstone monolith, selected as a defining visual reference for Australian Aboriginal Religions."
-  - title: "Nourlangie Rock painting depicting Namarrgon the Lightning Man"
+  - title: "Rock art depicting creation ancestors and Namarrgon at Anbangbang Rock Shelter"
     imageUrl: "/artifacts/australian-aboriginal-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Aboriginal_Art_Australia(2).jpg"
     provenance: "Thomas Schoch; CC BY-SA 3.0"
     period: "Image dated 2005"
-    description: "This image shows Nourlangie Rock painting depicting Namarrgon the Lightning Man, selected as a defining visual reference for Australian Aboriginal Religions."
 ---
 
 # Australian Aboriginal Religions

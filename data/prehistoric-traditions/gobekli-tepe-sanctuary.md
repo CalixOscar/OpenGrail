@@ -47,18 +47,16 @@ sources:
   - title: 'UNESCO World Heritage Centre: Göbekli Tepe'
     url: 'https://whc.unesco.org/en/list/1572/'
 artifacts:
-  - title: "Vulture Stone sacred relief"
+  - title: "Carved limestone totem pole from Göbekli Tepe at the Şanlıurfa Museum"
     imageUrl: "/artifacts/gobekli-tepe-sanctuary-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Urfa_museum_Totem_sept_2019_4807.jpg"
     provenance: "Dosseman; CC BY-SA 4.0"
     period: "8000 BCE"
-    description: "This image shows Vulture Stone sacred relief, selected as a defining visual reference for Göbekli Tepe Megalithic Sanctuary Tradition."
-  - title: "Enclosure D megalithic sanctuary"
+  - title: "T-shaped pillar of Enclosure D from Göbekli Tepe at the Şanlıurfa Museum"
     imageUrl: "/artifacts/gobekli-tepe-sanctuary-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Gobekli_Tepe,_enclosure_D_stela._%C5%9Eanl%C4%B1urfa_Museum.jpg"
     provenance: "Dosseman; CC BY-SA 4.0"
     period: "Image dated 2025"
-    description: "This image shows Enclosure D megalithic sanctuary, selected as a defining visual reference for Göbekli Tepe Megalithic Sanctuary Tradition."
 ---
 
 # Göbekli Tepe Megalithic Sanctuary Tradition

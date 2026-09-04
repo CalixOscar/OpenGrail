@@ -45,23 +45,18 @@ sources:
   - title: 'Brill: Spiritual Christianity in Russia'
     url: 'https://brill.com/search?q=Molokan+Spiritual+Christians'
 artifacts:
-  - title: Molokan elders in the Russian Empire
-    imageUrl: /artifacts/molokans-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Molokane_(A).jpg
-    provenance: George Kennan; Public domain
-    period: c. 1870s
-    description: >-
-      An early photograph by American traveler George Kennan depicting a group of
-      Molokan community elders in traditional Russian peasant attire.
-  - title: Molokan settlement of Fioletovo in Armenia
-    imageUrl: /artifacts/molokans-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Fioletovo_-_Armenia_(2926044155).jpg
-    provenance: Rita Willaert; CC BY 2.0
-    period: Founded 1842 (photographed 2008)
-    description: >-
-      The rural settlement of Fioletovo in Lori Province, Armenia, founded in 1842
-      by exiled Spiritual Christian Molokans and preserved as an active
-      traditional agrarian community.
+  - title: "Molokan elders in the Russian Empire"
+    imageUrl: "/artifacts/molokans-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Molokane_(A).jpg"
+    provenance: "George Kennan; Public domain"
+    period: "c. 1870s"
+    description: "An early photograph by American traveler George Kennan depicting a group of Molokan community elders in traditional Russian peasant attire."
+  - title: "Molokan settlement of Fioletovo in Armenia"
+    imageUrl: "/artifacts/molokans-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Fioletovo_-_Armenia_(2926044155).jpg"
+    provenance: "Rita Willaert; CC BY 2.0"
+    period: "Founded 1842 (photographed 2008)"
+    description: "The rural settlement of Fioletovo in Lori Province, Armenia, founded in 1842 by exiled Spiritual Christian Molokans and preserved as an active traditional agrarian community."
 relations:
   - target: doukhobors
     type: diverged_from

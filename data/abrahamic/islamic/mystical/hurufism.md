@@ -46,25 +46,19 @@ sources:
   - title: 'Oxford Reference: Hurufism'
     url: 'https://www.oxfordreference.com/search?q=Hurufism'
 artifacts:
-  - title: 15th-century manuscript folio of the Diwan of Imadaddin Nesimi
-    imageUrl: /artifacts/hurufism-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Azerbaijani_Diwan_of_Nasimi.jpg
-    provenance: Imadaddin Nesimi; Public domain
-    period: 15th century
+  - title: "15th-century manuscript folio of the Diwan of Imadaddin Nesimi"
+    imageUrl: "/artifacts/hurufism-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Azerbaijani_Diwan_of_Nasimi.jpg"
+    provenance: "Imadaddin Nesimi; Public domain"
+    period: "15th century"
+    description: "A fifteenth-century illuminated manuscript folio of the Diwan of Imadaddin Nesimi, the foremost mystical poet of Hurufism who propagated Fazlallah Astarabadi's letter-mysticism across Azerbaijan and Anatolia."
     detail: high
-    description: >-
-      A fifteenth-century illuminated manuscript folio of the Diwan of
-      Imadaddin Nesimi, the foremost mystical poet of Hurufism who propagated
-      Fazlallah Astarabadi's letter-mysticism across Azerbaijan and Anatolia.
-  - title: Fortress of Alinja in Nakhchivan
-    imageUrl: /artifacts/hurufism-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Əlincə_qalası.jpg
-    provenance: Azerbaijaniboy; CC BY-SA 4.0
-    period: Photographed 2017
-    description: >-
-      The fortress of Alinja near Julfa in Nakhchivan, where Hurufi founder
-      Fazlallah Astarabadi was imprisoned and executed in 1394 by order of Miran
-      Shah, son of Timur.
+  - title: "Fortress of Alinja in Nakhchivan"
+    imageUrl: "/artifacts/hurufism-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Əlincə_qalası.jpg"
+    provenance: "Azerbaijaniboy; CC BY-SA 4.0"
+    period: "Photographed 2017"
+    description: "The fortress of Alinja near Julfa in Nakhchivan, where Hurufi founder Fazlallah Astarabadi was imprisoned and executed in 1394 by order of Miran Shah, son of Timur."
 relations:
   - target: sufism
     type: influenced_by

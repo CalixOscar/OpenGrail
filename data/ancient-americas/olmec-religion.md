@@ -37,18 +37,16 @@ sources:
   - title: 'National Geographic: "The Olmecs and the Origins of Mesoamerican Civilization"'
     url: 'https://www.nationalgeographic.com/'
 artifacts:
-  - title: "Olmec colossal head from San Lorenzo"
+  - title: "San Lorenzo Colossal Head 2 at the National Museum of Anthropology"
     imageUrl: "/artifacts/olmec-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Olmec_Head_from_San_Lorenzo,_Veracruz.jpg"
-    provenance: "https://www.flickr.com/photos/rosemania/; CC BY 2.0"
+    provenance: "rosemania; CC BY 2.0"
     period: "Image dated 2006"
-    description: "This image shows Olmec colossal head from San Lorenzo, selected as a defining visual reference for Olmec Sacred Horizon & Were-Jaguar Cult."
-  - title: "La Venta basalt offering altar"
+  - title: "Altar 4 at Parque-Museo La Venta"
     imageUrl: "/artifacts/olmec-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Altar_4_La_Venta_(Ruben_Charles).jpg"
-    provenance: "Ruben Charles, ( http://www.rubencharles.com ); CC BY 2.0"
+    provenance: "Ruben Charles; CC BY 2.0"
     period: "Image dated 2007"
-    description: "This image shows La Venta basalt offering altar, selected as a defining visual reference for Olmec Sacred Horizon & Were-Jaguar Cult."
 ---
 
 # Olmec Sacred Horizon & Were-Jaguar Cult

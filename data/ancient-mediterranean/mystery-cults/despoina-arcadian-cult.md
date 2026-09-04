@@ -47,24 +47,18 @@ sources:
   - title: 'Brill New Pauly: Despoina (cult)'
     url: 'https://brill.com/search?q=Despoina'
 artifacts:
-  - title: Colossal marble head of Demeter from the Sanctuary of Despoina
-    imageUrl: /artifacts/despoina-arcadian-cult-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Marble_Colossal_Head_of_Demeter_from_Sanctuary_of_Demeter_and_Despoina_at_Lykosoura,_Arcadia,_190-180_BC_(28467918886).jpg
-    provenance: Gary Todd; CC0
-    period: c. 190–180 BCE
-    description: >-
-      Colossal marble head of Demeter carved by the sculptor Damophon of Messene
-      for the cult statue group inside the temple of Despoina at Lykosoura,
-      National Archaeological Museum of Athens.
-  - title: Marble relief fragment of the sacred veil of Despoina
-    imageUrl: /artifacts/despoina-arcadian-cult-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Lykosoura-veil-2.jpg
-    provenance: J. Matthew Harrington; CC BY 2.5
-    period: c. 2nd century BCE
-    description: >-
-      Carved marble fragment of the elaborate ceremonial veil from Damophon's
-      colossal statue of Despoina at Lykosoura, depicting an embroidered
-      procession of animal-masked dancers, National Archaeological Museum of Athens.
+  - title: "Colossal marble head of Demeter from the Sanctuary of Despoina"
+    imageUrl: "/artifacts/despoina-arcadian-cult-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Marble_Colossal_Head_of_Demeter_from_Sanctuary_of_Demeter_and_Despoina_at_Lykosoura,_Arcadia,_190-180_BC_(28467918886).jpg"
+    provenance: "Gary Todd; CC0"
+    period: "c. 190–180 BCE"
+    description: "Colossal marble head of Demeter carved by the sculptor Damophon of Messene for the cult statue group inside the temple of Despoina at Lykosoura, National Archaeological Museum of Athens."
+  - title: "Marble relief fragment of the sacred veil of Despoina"
+    imageUrl: "/artifacts/despoina-arcadian-cult-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Lykosoura-veil-2.jpg"
+    provenance: "J. Matthew Harrington; CC BY 2.5"
+    period: "c. 2nd century BCE"
+    description: "Carved marble fragment of the elaborate ceremonial veil from Damophon's colossal statue of Despoina at Lykosoura, depicting an embroidered procession of animal-masked dancers, National Archaeological Museum of Athens."
 relations:
   - target: ancient-greek-religion
     type: branch_of

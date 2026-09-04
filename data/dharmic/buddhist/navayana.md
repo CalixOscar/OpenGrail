@@ -47,18 +47,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Navay%C4%81na%20Buddhism'
 artifacts:
-  - title: "B. R. Ambedkar, founder of Navayana Buddhism"
+  - title: "Photographic portrait of Dr. B. R. Ambedkar in 1950"
     imageUrl: "/artifacts/navayana-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:B.R._Ambedkar_in_1950.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "Image dated 1950"
-    description: "This image shows B. R. Ambedkar, founder of Navayana Buddhism, selected as a defining visual reference for Navayāna Buddhism."
-  - title: "Deekshabhoomi, site of Ambedkar's mass Buddhist conversion"
+  - title: "Commemorative stupa at Deekshabhoomi in Nagpur, Maharashtra"
     imageUrl: "/artifacts/navayana-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Deekshabhumi_Nagpur.jpg"
     provenance: "Mahendra Dayare; CC BY-SA 4.0"
     period: "Image dated 2015"
-    description: "This image shows Deekshabhoomi, site of Ambedkar's mass Buddhist conversion, selected as a defining visual reference for Navayāna Buddhism."
 ---
 
 # Navayāna Buddhism

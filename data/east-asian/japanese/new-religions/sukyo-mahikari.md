@@ -42,18 +42,18 @@ relations:
     certainty: academic_consensus
     citation: Inherits doctrinal lineage and revelation patterns from Ōmoto and Sekai Kyūsei-kyō (Church of World Messianity).
 artifacts:
-  - title: Suza World Shrine in Takayama
-    imageUrl: /artifacts/sukyo-mahikari-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sukyo_Mahikari_Headquarter_01.jpg'
-    provenance: 百楽兎; CC BY-SA 3.0
-    period: Photographed 2007
-    description: 'The Suza World Shrine (Sekai Sō Honzan) of Sūkyō Mahikari in Takayama, Gifu Prefecture, completed in 1984 as the spiritual sanctuary for universal divine light transmission.'
-  - title: Suza Sanctuary in Winter
-    imageUrl: /artifacts/sukyo-mahikari-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sukyo_Mahikari_HQ.jpg'
-    provenance: User Uucp on en.wikipedia; CC BY-SA 2.5
-    period: Photographed 2005
-    description: 'Winter view of the main sanctuary complex of Sūkyō Mahikari in the mountains outside Takayama, Japan.'
+  - title: "Suza World Shrine in Takayama"
+    imageUrl: "/artifacts/sukyo-mahikari-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sukyo_Mahikari_Headquarter_01.jpg"
+    provenance: "百楽兎; CC BY-SA 3.0"
+    period: "Photographed 2007"
+    description: "The Suza World Shrine (Sekai Sō Honzan) of Sūkyō Mahikari in Takayama, Gifu Prefecture, completed in 1984 as the spiritual sanctuary for universal divine light transmission."
+  - title: "Suza Sanctuary in Winter"
+    imageUrl: "/artifacts/sukyo-mahikari-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sukyo_Mahikari_HQ.jpg"
+    provenance: "User Uucp on en.wikipedia; CC BY-SA 2.5"
+    period: "Photographed 2005"
+    description: "Winter view of the main sanctuary complex of Sūkyō Mahikari in the mountains outside Takayama, Japan."
 ---
 
 # Sūkyō Mahikari

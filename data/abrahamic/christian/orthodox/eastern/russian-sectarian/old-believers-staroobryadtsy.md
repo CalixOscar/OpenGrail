@@ -45,25 +45,18 @@ sources:
   - title: 'Cambridge University Press: The Russian Old Believers'
     url: 'https://www.cambridge.org/core/search?q=Old+Believers+Russian+Orthodox'
 artifacts:
-  - title: Boyarynya Morozova by Vasily Surikov
-    imageUrl: /artifacts/old-believers-staroobryadtsy-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Surikov_Boyarynya_Morozova_gtg.jpg
-    provenance: Vasily Surikov; Public domain
-    period: '1887 (oil on canvas)'
-    description: >-
-      Vasily Surikov's 1887 history painting depicting the 1671 arrest of Old
-      Believer noblewoman Feodosia Morozova, defiantly raising two fingers in the
-      pre-Nikonian sign of the cross as she is transported into exile.
-  - title: Protection Cathedral at Rogozhskoye Cemetery
-    imageUrl: /artifacts/old-believers-staroobryadtsy-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Rogozhskoe_cemetery_-_Protection_cathedral_01.jpg
-    provenance: NVO; CC BY-SA 3.0
-    period: Built 1790–1792 (photographed 2008)
-    description: >-
-      The Cathedral of the Intercession of the Most Holy Theotokos at the
-      Rogozhskoye Cemetery complex in Moscow, founded in the late 18th century as
-      the spiritual and administrative center of the priested (Popovtsy) Old
-      Believers.
+  - title: "Boyarynya Morozova by Vasily Surikov"
+    imageUrl: "/artifacts/old-believers-staroobryadtsy-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Surikov_Boyarynya_Morozova_gtg.jpg"
+    provenance: "Vasily Surikov; Public domain"
+    period: "1887 (oil on canvas)"
+    description: "Vasily Surikov's 1887 history painting depicting the 1671 arrest of Old Believer noblewoman Feodosia Morozova, defiantly raising two fingers in the pre-Nikonian sign of the cross as she is transported into exile."
+  - title: "Protection Cathedral at Rogozhskoye Cemetery"
+    imageUrl: "/artifacts/old-believers-staroobryadtsy-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Rogozhskoe_cemetery_-_Protection_cathedral_01.jpg"
+    provenance: "NVO; CC BY-SA 3.0"
+    period: "Built 1790–1792 (photographed 2008)"
+    description: "The Cathedral of the Intercession of the Most Holy Theotokos at the Rogozhskoye Cemetery complex in Moscow, founded in the late 18th century as the spiritual and administrative center of the priested (Popovtsy) Old Believers."
 relations:
   - target: eastern-orthodoxy
     type: schism

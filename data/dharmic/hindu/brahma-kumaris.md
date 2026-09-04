@@ -39,18 +39,18 @@ relations:
     certainty: academic_consensus
     citation: 'Adapted classical Vedāntic concepts of the eternal self (*ātmā*) and cyclical *yugas* into a specialized 5,000-year millenarian theological system.'
 artifacts:
-  - title: Brahma Baba with Early Sisters in the 1940s
-    imageUrl: /artifacts/brahma-kumaris-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Brahma_Baba_mit_Ordensschwestern_1940er_Jahre.jpg'
-    provenance: Brahma Kumaris World spiritual University (BKWSU); CC BY-SA 3.0
-    period: Photographed 1940s
-    description: Founder Dada Lekhraj Kripalani (Brahma Baba) with early female leadership (Dadis) of the Brahma Kumaris community in the 1940s.
-  - title: Portrait of Dada Lekhraj Kripalani
-    imageUrl: /artifacts/brahma-kumaris-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lekhraj_Kripalani.jpg'
-    provenance: BKWSU; Public domain
-    period: Mid-20th century
-    description: 'Dada Lekhraj Kripalani (1876–1969), the diamond merchant from Sindh who experienced cosmic revelations and founded the Om Mandali / Brahma Kumaris movement.'
+  - title: "Brahma Baba with Early Sisters in the 1940s"
+    imageUrl: "/artifacts/brahma-kumaris-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Brahma_Baba_mit_Ordensschwestern_1940er_Jahre.jpg"
+    provenance: "Brahma Kumaris World spiritual University (BKWSU); CC BY-SA 3.0"
+    period: "Photographed 1940s"
+    description: "Founder Dada Lekhraj Kripalani (Brahma Baba) with early female leadership (Dadis) of the Brahma Kumaris community in the 1940s."
+  - title: "Portrait of Dada Lekhraj Kripalani"
+    imageUrl: "/artifacts/brahma-kumaris-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Lekhraj_Kripalani.jpg"
+    provenance: "BKWSU; Public domain"
+    period: "Mid-20th century"
+    description: "Dada Lekhraj Kripalani (1876–1969), the diamond merchant from Sindh who experienced cosmic revelations and founded the Om Mandali / Brahma Kumaris movement."
 ---
 
 # Brahma Kumaris

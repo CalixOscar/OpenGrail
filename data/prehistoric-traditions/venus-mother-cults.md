@@ -46,15 +46,13 @@ artifacts:
   - title: "The Venus of Willendorf carved limestone figurine"
     imageUrl: "/artifacts/venus-mother-cults-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:A_female_Paleolithic_figurine,_Venus_of_Willendorf_Wellcome_M0000440.jpg"
-    provenance: "Wikimedia Commons; CC BY 4.0"
+    provenance: "Wellcome Images; CC BY 4.0"
     period: "Digital file published 2014"
-    description: "This image shows The Venus of Willendorf carved limestone figurine, selected as a defining visual reference for Paleolithic Mother Goddess & Fertility Cults."
-  - title: "The Venus of Laussel rock relief holding a horned cornucopia"
+  - title: "Reproduction cast of the Venus of Laussel limestone bas-relief"
     imageUrl: "/artifacts/venus-mother-cults-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Female_figure_sculpted_relief_in_limestone_block_from_Laussel,_France_(reproduction),_c._23000_BCE.jpg"
     provenance: "Hiart; CC0"
     period: "Image dated 2023"
-    description: "This image shows The Venus of Laussel rock relief holding a horned cornucopia, selected as a defining visual reference for Paleolithic Mother Goddess & Fertility Cults."
 ---
 
 # Paleolithic Mother Goddess & Fertility Cults

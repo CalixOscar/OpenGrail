@@ -48,19 +48,17 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Pre-exilic Yahwism'
     url: 'https://www.cambridge.org/core/search?q=Pre-exilic%20Yahwism'
 artifacts:
-  - title: "Kuntillet Ajrud inscription naming YHWH in a pre-exilic setting"
+  - title: "Pithos depiction with inscription referencing 'Yahweh and his Asherah' from Kuntillet Ajrud"
     imageUrl: "/artifacts/yahwism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Horvat_Teman%27s_couple_and_%27Yahweh_and_his_Asherah%27_inscription.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown; Public domain"
     period: "8 th century BC"
-    description: "This image shows Kuntillet Ajrud inscription naming YHWH in a pre-exilic setting, selected as a defining visual reference for Pre-exilic Yahwism."
     detail: high
-  - title: "Ketef Hinnom silver amulets bearing an early priestly blessing"
+  - title: "Paleo-Hebrew inscription on the Ketef Hinnom silver amulet"
     imageUrl: "/artifacts/yahwism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tetragrammaton_benediction.png"
     provenance: "pvasiliadis; Public domain"
     period: "Image dated 2008"
-    description: "This image shows Ketef Hinnom silver amulets bearing an early priestly blessing, selected as a defining visual reference for Pre-exilic Yahwism."
 ---
 
 # Pre-exilic Yahwism

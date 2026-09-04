@@ -50,18 +50,11 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Coptic%20Catholic%20Church'
 artifacts:
-  - title: "Alexandrian-rite Coptic Catholic liturgy and cross"
-    imageUrl: "/artifacts/coptic-catholic-church-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Church_of_the_Virgin_Mary_and_Saint_Athanasius_in_Mississauga_(33873841828).jpg"
-    provenance: "Andre Forget - Andrew Scheer; CC0"
-    period: "Image dated 2019"
-    description: "This image shows Alexandrian-rite Coptic Catholic liturgy and cross, selected as a defining visual reference for Coptic Catholic Church."
-  - title: "Cathedral of Our Lady of Egypt, seat of the Coptic Catholic patriarch"
+  - title: "Coptic Catholic Cathedral of Our Lady of Egypt in Cairo"
     imageUrl: "/artifacts/coptic-catholic-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cathedral_of_Our_Lady_of_Egypt.jpg"
     provenance: "Hierarchicus2; CC BY-SA 3.0"
     period: "Image dated 2013"
-    description: "This image shows Cathedral of Our Lady of Egypt, seat of the Coptic Catholic patriarch, selected as a defining visual reference for Coptic Catholic Church."
 ---
 
 # Coptic Catholic Church

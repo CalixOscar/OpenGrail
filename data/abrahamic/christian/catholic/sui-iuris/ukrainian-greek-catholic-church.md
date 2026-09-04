@@ -48,18 +48,16 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Ukrainian%20Greek%20Catholic%20Church
 artifacts:
-  - title: "Ukrainian Byzantine Catholic hierarchical Divine Liturgy"
+  - title: "Ukrainian Greek Catholic Memorial at Rookwood Cemetery, Sydney"
     imageUrl: "/artifacts/ukrainian-greek-catholic-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Rookwood_Ukrainian_Greek_Catholic_Memorial.jpg"
     provenance: "J Bar; CC BY-SA 3.0"
     period: "Image dated 2007"
-    description: "This image shows Ukrainian Byzantine Catholic hierarchical Divine Liturgy, selected as a defining visual reference for Ukrainian Greek Catholic Church."
-  - title: "Saint George's Cathedral in Lviv, historic Ukrainian Greek Catholic seat"
+  - title: "1771 architectural plan for the grounds of Saint George's Cathedral in Lviv"
     imageUrl: "/artifacts/ukrainian-greek-catholic-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Park_near_the_cathedral_of_Saint_George,_Lviv_(project).jpg"
     provenance: "Klemens Fesinger; Public domain"
     period: "Image dated 1771"
-    description: "This image shows Saint George's Cathedral in Lviv, historic Ukrainian Greek Catholic seat, selected as a defining visual reference for Ukrainian Greek Catholic Church."
 ---
 
 # Ukrainian Greek Catholic Church

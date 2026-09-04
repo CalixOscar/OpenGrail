@@ -40,18 +40,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nihang%20Sikhs'
 artifacts:
-  - title: "Nihang warrior in traditional blue bana and high turban"
+  - title: "Blue Nishan Sahib at Burj Akali Phula Singh, Amritsar"
     imageUrl: "/artifacts/nihang-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Nishan_Sahib_in_blue,_at_Baba_Phoola_Singh_di_Burj_in_Amritsar.jpg"
     provenance: "Jasleen Kaur from USA; CC BY-SA 2.0"
     period: "Image dated 2008"
-    description: "This image shows Nihang warrior in traditional blue bana and high turban, selected as a defining visual reference for Nihang Sikhs."
-  - title: "Consecrated shastar weapons and chakrams central to Nihang martial devotion"
+  - title: "Illustrated Sarbloh Granth folio depicting and eulogizing consecrated weapons"
     imageUrl: "/artifacts/nihang-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Weapons_drawn_and_inscribed_with_martial_hymns_eulogizing_them,_from_the_Rasaaval_Stanza_of_the_Bachitar_Natak,_on_an_illustrated_folio_of_a_Sarbloh_Granth_manuscript.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "likely circa 18th or 19th century"
-    description: "This image shows Consecrated shastar weapons and chakrams central to Nihang martial devotion, selected as a defining visual reference for Nihang Sikhs."
 ---
 
 # Nihang Sikhs

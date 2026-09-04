@@ -44,18 +44,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Beta Israel'
     url: 'https://www.cambridge.org/core/search?q=Beta%20Israel'
 artifacts:
-  - title: "Beta Israel priests leading the defining Sigd observance"
+  - title: "Beta Israel kahenat (priests) celebrating Sigd"
     imageUrl: "/artifacts/beta-israel-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sigd-27.11.08.jpg"
     provenance: "האגודה הישראלית למען יהודי אתיופיה; CC BY-SA 3.0"
     period: "Image dated 2008"
-    description: "This image shows Beta Israel priests leading the defining Sigd observance, selected as a defining visual reference for Beta Israel."
-  - title: "Ge'ez Orit manuscript from the Beta Israel scriptural tradition"
+  - title: "Beta Israel kes reading from the Orit during Sigd"
     imageUrl: "/artifacts/beta-israel-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_sigd_holiday14-benny_voodoo.jpg"
     provenance: "benny voodoo; CC BY-SA 3.0"
     period: "Image dated 2009"
-    description: "This image shows Ge'ez Orit manuscript from the Beta Israel scriptural tradition, selected as a defining visual reference for Beta Israel."
     detail: high
 ---
 

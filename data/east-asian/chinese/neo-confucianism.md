@@ -49,18 +49,16 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Neo-Confucianism'
 artifacts:
-  - title: "Diagram of the Supreme Ultimate"
+  - title: "Diagram of the Supreme Ultimate (Taijitu) of Zhou Dunyi"
     imageUrl: "/artifacts/neo-confucianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Taijitu_de_Zhou_Dunyi.png"
-    provenance: "No machine-readable author provided. Edescas2 assumed (based on copyright claims).; Public domain"
+    provenance: "Edescas2; Public domain"
     period: "Image dated 2006"
-    description: "This image shows Diagram of the Supreme Ultimate, selected as a defining visual reference for Neo-Confucianism."
-  - title: "Neo-Confucian academy at Lushan"
+  - title: "Entrance gate of White Deer Grotto Academy at Mount Lu"
     imageUrl: "/artifacts/neo-confucianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Lushan_White_Lotus_Grotto_Academy.JPG"
     provenance: "Gisling; CC BY 3.0"
     period: "Image dated 2010"
-    description: "This image shows Neo-Confucian academy at Lushan, selected as a defining visual reference for Neo-Confucianism."
 ---
 
 # Neo-Confucianism

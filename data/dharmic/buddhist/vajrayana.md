@@ -48,18 +48,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Vajray%C4%81na%20Buddhism'
 artifacts:
-  - title: "Guhyasamaja mandala representing Vajrayana deity-yoga practice"
+  - title: "Tibetan thangka of the Manjuvajra Guhyasamaja mandala with 43 deities"
     imageUrl: "/artifacts/vajrayana-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Manjuvajramandala_con_43_divinit%C3%A0_-_Unknown_-_Google_Cultural_Institute.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "Image dated 1400"
-    description: "This image shows Guhyasamaja mandala representing Vajrayana deity-yoga practice, selected as a defining visual reference for Vajrayāna Buddhism."
-  - title: "Tantric Buddhist murals inside Tabo Monastery"
+  - title: "Adobe temples and stupas of Tabo Monastery in Spiti Valley, Himachal Pradesh"
     imageUrl: "/artifacts/vajrayana-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Adobe_monuments_in_the_Tabo_Buddhist_monastery_and_temples_complex,_Himachal_Pradesh.jpg"
     provenance: "Nivedita Ravishankar; CC BY 2.0"
     period: "10th-century"
-    description: "This image shows Tantric Buddhist murals inside Tabo Monastery, selected as a defining visual reference for Vajrayāna Buddhism."
 ---
 
 # Vajrayāna Buddhism

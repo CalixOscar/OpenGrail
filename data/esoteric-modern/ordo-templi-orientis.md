@@ -50,18 +50,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ordo Templi Orientis'
     url: 'https://brill.com/search?q=Ordo%20Templi%20Orientis'
 artifacts:
-  - title: "O.T.O. leader Aleister Crowley"
+  - title: "Aleister Crowley in Ordo Templi Orientis ceremonial regalia by Arnold Genthe"
     imageUrl: "/artifacts/ordo-templi-orientis-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Aleister_Crowley_OTO.jpg"
     provenance: "Arnold Genthe; Public domain"
     period: "Image dated 1919"
-    description: "This image shows O.T.O. leader Aleister Crowley, selected as a defining visual reference for Ordo Templi Orientis."
-  - title: "Altar and ritual layout for the O.T.O. Gnostic Mass"
-    imageUrl: "/artifacts/ordo-templi-orientis-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ecclesia_Gnostica_Vespers_Altar.png"
-    provenance: "Metagignosko( Metagignosko ( talk )); CC BY-SA 3.0"
-    period: "Image dated 1997"
-    description: "This image shows Altar and ritual layout for the O.T.O. Gnostic Mass, selected as a defining visual reference for Ordo Templi Orientis."
 ---
 
 # Ordo Templi Orientis

@@ -47,18 +47,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of England'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20England'
 artifacts:
-  - title: "Archbishop of Canterbury officiating in the Church of England"
+  - title: "Archbishop of Canterbury Frederick Temple in 1900"
     imageUrl: "/artifacts/church-of-england-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Frederick_Temple_1900_Bradford.JPG"
     provenance: "Commonwealth of Massachusetts; Public domain"
     period: "Image dated 1900"
-    description: "This image shows Archbishop of Canterbury officiating in the Church of England, selected as a defining visual reference for Church of England."
-  - title: "1662 Book of Common Prayer, defining Anglican liturgical book"
+  - title: "Title page of the 1662 Book of Common Prayer in French for the Channel Islands"
     imageUrl: "/artifacts/church-of-england-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Common_Prayer_French_language_Liturgie.jpg"
-    provenance: "Wikimedia Commons; Public domain"
+    provenance: "Unknown; Public domain"
     period: "Digital file published 2006"
-    description: "This image shows 1662 Book of Common Prayer, defining Anglican liturgical book, selected as a defining visual reference for Church of England."
 ---
 
 # Church of England

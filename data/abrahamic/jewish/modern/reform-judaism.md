@@ -40,18 +40,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Reform Judaism'
     url: 'https://www.cambridge.org/core/search?q=Reform%20Judaism'
 artifacts:
-  - title: "Portrait of Abraham Geiger, leading founder of Reform Judaism"
+  - title: "Portrait of Abraham Geiger by Lesser Ury"
     imageUrl: "/artifacts/reform-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Abraham_Geiger_by_Lesser_Ury.jpg"
     provenance: "Lesser Ury; Public domain"
     period: "Image dated 1905"
-    description: "This image shows Portrait of Abraham Geiger, leading founder of Reform Judaism, selected as a defining visual reference for Reform Judaism."
-  - title: "Berlin's New Synagogue, monumental center of liberal Judaism"
+  - title: "Interior view of the Neue Synagoge in Berlin"
     imageUrl: "/artifacts/reform-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Berlin_Neue_Synagoge_Innenansicht_BusB.jpg"
-    provenance: "Berlin und seine Bauten, Verlag Wilhelm Ernst & Sohn 1896; Public domain"
+    provenance: "Unknown; Public domain"
     period: "Image dated 1896"
-    description: "This image shows Berlin's New Synagogue, monumental center of liberal Judaism, selected as a defining visual reference for Reform Judaism."
 ---
 
 # Reform Judaism

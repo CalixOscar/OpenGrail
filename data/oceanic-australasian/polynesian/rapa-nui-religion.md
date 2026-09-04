@@ -48,18 +48,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Rapa%20Nui%20Religious%20Traditions'
 artifacts:
-  - title: "Ahu Tongariki monumental moai platform on Rapa Nui"
+  - title: "Monumental moai platform at Ahu Tongariki on Rapa Nui"
     imageUrl: "/artifacts/rapa-nui-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ahu_Tongariki_01.jpg"
     provenance: "LBM1948; CC BY-SA 4.0"
     period: "Image dated 2008"
-    description: "This image shows Ahu Tongariki monumental moai platform on Rapa Nui, selected as a defining visual reference for Rapa Nui Religious Traditions."
-  - title: "Tangata Manu (Birdman) petroglyphs at Orongo village"
+  - title: "Sketches of painted pictographic slabs from the ceremonial village of Orongo"
     imageUrl: "/artifacts/rapa-nui-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Lantern_Slide_of_two_watercolour_sketches;_depicting_two_painted_pictographic_slabs_originally_on_the_inside_of_the_houses_at_the_ceremonial_village_of_Orongo._Oc,G.T.1539,_Mana_Expedition_to_Easter_Island,_British_Museum.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "Image dated 1914"
-    description: "This image shows Tangata Manu (Birdman) petroglyphs at Orongo village, selected as a defining visual reference for Rapa Nui Religious Traditions."
 ---
 
 # Rapa Nui Religious Traditions

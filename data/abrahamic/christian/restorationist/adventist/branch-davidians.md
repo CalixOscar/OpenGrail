@@ -45,18 +45,11 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Branch Davidians'
     url: 'https://www.cambridge.org/core/search?q=Branch%20Davidians'
 artifacts:
-  - title: "Portrait of David Koresh, leader of the best-known Branch Davidian faction"
-    imageUrl: "/artifacts/branch-davidians-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:King_of_the_Universe.png"
-    provenance: "File:Leo III (Zonaras portrait).png has been nominated for deletion at Commons:Deletion requests/File:Leo III (Zonaras portrait).png This is; CC BY-SA 4.0"
-    period: "Digital file published 2019"
-    description: "This image shows Portrait of David Koresh, leader of the best-known Branch Davidian faction, selected as a defining visual reference for Branch Davidians."
-  - title: "Mount Carmel Center near Waco before the 1993 siege"
+  - title: "Aerial photograph of the Branch Davidian Mount Carmel Center compound during the 1993 siege"
     imageUrl: "/artifacts/branch-davidians-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Waco_Siege_%E2%80%93_Branch_Davidian_compound,_morning_of_April_19_1993.jpg"
-    provenance: "United States Government; Public domain"
+    provenance: "United States Government / FBI; Public domain"
     period: "Image dated 1993"
-    description: "This image shows Mount Carmel Center near Waco before the 1993 siege, selected as a defining visual reference for Branch Davidians."
 ---
 
 # Branch Davidians

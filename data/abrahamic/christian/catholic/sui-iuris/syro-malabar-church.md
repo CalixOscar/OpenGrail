@@ -46,18 +46,11 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Syro-Malabar Church'
     url: 'https://www.cambridge.org/core/search?q=Syro-Malabar%20Church'
 artifacts:
-  - title: "Ancient Persian or Saint Thomas cross emblematic of Syro-Malabar heritage"
+  - title: "Ancient Saint Thomas Cross (Persian Cross) with Pahlavi inscription at Kottayam"
     imageUrl: "/artifacts/syro-malabar-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kottayam_Persian_Cross2.jpg"
-    provenance: "Unknown author Unknown author; CC0"
+    provenance: "Unknown author; CC0"
     period: "Digital file published 2022"
-    description: "This image shows Ancient Persian or Saint Thomas cross emblematic of Syro-Malabar heritage, selected as a defining visual reference for Syro-Malabar Church."
-  - title: "Saint Mary's Cathedral Basilica in Ernakulam, major Syro-Malabar sanctuary"
-    imageUrl: "/artifacts/syro-malabar-church-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Saint_Mary%27s_Cathedral_Basilica_(Halifax).jpg"
-    provenance: "baekken; CC BY 2.0"
-    period: "Digital file published 2010"
-    description: "This image shows Saint Mary's Cathedral Basilica in Ernakulam, major Syro-Malabar sanctuary, selected as a defining visual reference for Syro-Malabar Church."
 ---
 
 # Syro-Malabar Church

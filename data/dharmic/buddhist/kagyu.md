@@ -44,18 +44,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Kagyu'
 artifacts:
-  - title: "Milarepa in the iconic listening pose, emblematic Kagyu yogin"
+  - title: "Bhutanese thangka painting of Jetsun Milarepa from Dhodeydrag Gonpa"
     imageUrl: "/artifacts/kagyu-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bhutanese_painted_thanka_of_Milarepa_(1052-1135),_Late_19th-early_20th_Century,_Dhodeydrag_Gonpa,_Thimphu,_Bhutan.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Dhodeydrag Gonpa / Unknown author; Public domain"
     period: "20th Century"
-    description: "This image shows Milarepa in the iconic listening pose, emblematic Kagyu yogin, selected as a defining visual reference for Kagyu."
-  - title: "Tsurphu Monastery, a principal historic Kagyu seat"
+  - title: "Dowo Lung Valley encompassing Tsurphu Monastery in Tibet"
     imageUrl: "/artifacts/kagyu-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dowo_Lung_Valley,_Tsurphu_1993.JPG"
     provenance: "John Hill; CC BY-SA 3.0"
     period: "Image dated 1991"
-    description: "This image shows Tsurphu Monastery, a principal historic Kagyu seat, selected as a defining visual reference for Kagyu."
 ---
 
 # Kagyu

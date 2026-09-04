@@ -46,18 +46,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Secular%20Buddhism'
 artifacts:
-  - title: "Stephen Batchelor, a prominent interpreter of Secular Buddhism"
+  - title: "Author and teacher Stephen Batchelor at Upaya Zen Center in New Mexico"
     imageUrl: "/artifacts/secular-buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Stephen_Batchelor.jpg"
-    provenance: "ottmarliebert.com; CC BY-SA 2.0"
+    provenance: "Ottmar Liebert; CC BY-SA 2.0"
     period: "Image dated 2006"
-    description: "This image shows Stephen Batchelor, a prominent interpreter of Secular Buddhism, selected as a defining visual reference for Secular Buddhism."
-  - title: "Gaia House, a retreat center associated with modern secular insight practice"
+  - title: "Gaia House meditation retreat centre in South Devon, England"
     imageUrl: "/artifacts/secular-buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Gaia_House_-_South_Devon_-_geograph.org.uk_-_82120.jpg"
     provenance: "Richard Knights; CC BY-SA 2.0"
     period: "Image dated 2005"
-    description: "This image shows Gaia House, a retreat center associated with modern secular insight practice, selected as a defining visual reference for Secular Buddhism."
 ---
 
 # Secular Buddhism

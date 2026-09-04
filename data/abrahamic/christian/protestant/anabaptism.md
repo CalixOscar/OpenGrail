@@ -42,18 +42,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Anabaptism'
     url: 'https://www.cambridge.org/core/search?q=Anabaptism'
 artifacts:
-  - title: "Martyrs Mirror engraving of Anabaptist martyr Dirk Willems"
+  - title: "Engraving of Dirk Willems rescuing his pursuer from Martyrs Mirror"
     imageUrl: "/artifacts/anabaptism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dirk.willems.rescue.ncs.jpg"
     provenance: "Jan Luyken; Public domain"
     period: "Image dated 1660"
-    description: "This image shows Martyrs Mirror engraving of Anabaptist martyr Dirk Willems, selected as a defining visual reference for Anabaptism."
-  - title: "Early printed Schleitheim Confession defining Anabaptist practice"
+  - title: "1550 print of the Schleitheim Confession in the Heimatmuseum Schleitheim"
     imageUrl: "/artifacts/anabaptism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Schleitheimer_Bekenntnis_Druck_1550_ausgestellt_im_T%C3%A4uferzimmer_des_Heimatmuseums_Schleitheim.jpg"
     provenance: "Ruth Hockarth; CC BY-SA 4.0"
     period: "Image dated 2017"
-    description: "This image shows Early printed Schleitheim Confession defining Anabaptist practice, selected as a defining visual reference for Anabaptism."
 ---
 
 # Anabaptism

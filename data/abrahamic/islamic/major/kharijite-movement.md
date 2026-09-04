@@ -46,25 +46,18 @@ sources:
   - title: 'Brill: The Kharijites and their Successors'
     url: 'https://brill.com/search?q=Kharijite'
 artifacts:
-  - title: Arab-Sasanian silver dirham of Qatari ibn al-Fuja'a
-    imageUrl: /artifacts/kharijite-movement-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Dirham_of_Qatari_ibn_Fuja'a.jpg
-    provenance: Unknown author; Public domain
-    period: 694–695 CE
-    description: >-
-      An Arab-Sasanian silver dirham minted at Jahrom in 694–695 CE under the
-      Azariqa Kharijite leader Qatari ibn al-Fuja'a, inscribed with the
-      foundational Kharijite motto 'La hukma illa Lillah' (Judgment belongs to
-      God alone).
-  - title: Dry bed of the historic Nahrawan Canal
-    imageUrl: /artifacts/kharijite-movement-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Nahrawan-Canal.jpg
-    provenance: Gertrude Bell; Public domain
-    period: Photographed 1909
-    description: >-
-      The dry bed of the historic Nahrawan Canal in central Iraq, site of the
-      decisive 658 CE Battle of Nahrawan where Caliph Ali clashed with the early
-      Kharijite seceders.
+  - title: "Arab-Sasanian silver dirham of Qatari ibn al-Fuja'a"
+    imageUrl: "/artifacts/kharijite-movement-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dirham_of_Qatari_ibn_Fuja'a.jpg"
+    provenance: "Unknown author; Public domain"
+    period: "694–695 CE"
+    description: "An Arab-Sasanian silver dirham minted at Jahrom in 694–695 CE under the Azariqa Kharijite leader Qatari ibn al-Fuja'a, inscribed with the foundational Kharijite motto 'La hukma illa Lillah' (Judgment belongs to God alone)."
+  - title: "Dry bed of the historic Nahrawan Canal"
+    imageUrl: "/artifacts/kharijite-movement-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nahrawan-Canal.jpg"
+    provenance: "Gertrude Bell; Public domain"
+    period: "Photographed 1909"
+    description: "The dry bed of the historic Nahrawan Canal in central Iraq, site of the decisive 658 CE Battle of Nahrawan where Caliph Ali clashed with the early Kharijite seceders."
 relations:
   - target: islam
     type: schism

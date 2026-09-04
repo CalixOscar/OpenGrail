@@ -48,18 +48,11 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Tlingit%20Religious%20Traditions'
 artifacts:
-  - title: "Chilkat woven ceremonial robe of the Tlingit"
-    imageUrl: "/artifacts/tlingit-religions-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:General_guide_to_the_exhibition_halls_of_the_American_Museum_of_Natural_History_(1945)_(14778128754).jpg"
-    provenance: "Internet Archive Book Images; Public domain"
-    period: "Image dated 1945"
-    description: "This image shows Chilkat woven ceremonial robe of the Tlingit, selected as a defining visual reference for Tlingit Religious Traditions."
-  - title: "Tlingit clan house and totemic crest poles at Sitka"
+  - title: "Tlingit community gathered before a clan house with carved crest post in Sitka"
     imageUrl: "/artifacts/tlingit-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:SITK_25430_(75a0a9a9-1dd8-b71b-0bb6-b509c29f1b64).jpg"
     provenance: "National Park Service; Public domain"
     period: "Image dated 2015"
-    description: "This image shows Tlingit clan house and totemic crest poles at Sitka, selected as a defining visual reference for Tlingit Religious Traditions."
 ---
 
 # Tlingit Religious Traditions

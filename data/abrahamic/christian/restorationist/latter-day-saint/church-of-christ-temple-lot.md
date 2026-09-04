@@ -43,18 +43,11 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Christ'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Christ'
 artifacts:
-  - title: "The Temple Lot held by the Church of Christ"
-    imageUrl: "/artifacts/church-of-christ-temple-lot-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Rlds_stone_church_environs.jpg"
-    provenance: "EGDJ; Public domain"
-    period: "Image dated 2010"
-    description: "This image shows The Temple Lot held by the Church of Christ, selected as a defining visual reference for Church of Christ (Temple Lot)."
-  - title: "The Hedrickite church building beside the Temple Lot"
+  - title: "View of the Temple Lot grounds held by the Church of Christ (Temple Lot) in Independence, Missouri"
     imageUrl: "/artifacts/church-of-christ-temple-lot-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:HedrickiteTempleLotViewSouthwardfromCofChristStoneChurch.jpg"
     provenance: "EGDJ; CC BY-SA 3.0"
     period: "Image dated 2010"
-    description: "This image shows The Hedrickite church building beside the Temple Lot, selected as a defining visual reference for Church of Christ (Temple Lot)."
 ---
 
 # Church of Christ (Temple Lot)

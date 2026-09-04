@@ -46,19 +46,17 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Lingbao%20Daoism'
 artifacts:
-  - title: "Lingbao talismanic manuscript"
+  - title: "Hanging scroll of Lingbao Tianzun (The Three Purities), Ming Dynasty, Minneapolis Institute of Art"
     imageUrl: "/artifacts/lingbao-daoism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Three_Purities,_one_of_three_-_Lingbao_Tianzun.jpg"
-    provenance: "Unknow (Ming Dynasty); Public domain"
+    provenance: "Unknown (Ming Dynasty); Public domain"
     period: "Ming Dynasty (16th century, 1368—1644)"
-    description: "This image shows Lingbao talismanic manuscript, selected as a defining visual reference for Lingbao Daoism."
     detail: high
-  - title: "Ge Hong, patriarch of Lingbao Daoist alchemy and practice"
+  - title: "Ge Zhichuan Relocating His Residence, painting by Wang Meng, Palace Museum Beijing"
     imageUrl: "/artifacts/lingbao-daoism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Wang_Meng._Ge_Zhichuan_Moving_his_Dwelling._ca._1360s_139x58cm_Palace_Museum_Beijing1.jpg"
     provenance: "Wang Meng; Public domain"
     period: "Image dated 1360"
-    description: "This image shows Ge Hong, patriarch of Lingbao Daoist alchemy and practice, selected as a defining visual reference for Lingbao Daoism."
 ---
 
 # Lingbao Daoism

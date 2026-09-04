@@ -39,18 +39,18 @@ relations:
     certainty: academic_consensus
     citation: 'Evolved from pre-war Sect Shinto offshoots (Mitake-kyō and Hito-no-Michi Kyōdan), maintaining ritual purification and devotion to ancestral spirits alongside modern aesthetic theology.'
 artifacts:
-  - title: Great Peace Prayer Tower (Daiheiwa Kinen Tō)
-    imageUrl: /artifacts/pl-kyodan-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dai_Heiwa_Kinen_T%C5%8D_(Osaka_Tondabayashi)_Peace_tower_hdsr_S5_02.jpg'
-    provenance: Hyppolyte de Saint-Rambert; CC BY 4.0
-    period: Photographed 2024
-    description: 'The 180-meter Great Peace Prayer Tower (Daiheiwa Kinen Tō) at the international headquarters of PL Kyōdan in Tondabayashi, Osaka Prefecture, erected in 1970 to commemorate war victims of all faiths.'
-  - title: Base and Spire of the PL Peace Tower
-    imageUrl: /artifacts/pl-kyodan-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dai_Heiwa_Kinen_T%C5%8D_(Osaka_Tondabayashi)_Peace_tower_hdsr_S5_03.jpg'
-    provenance: Hyppolyte de Saint-Rambert; CC BY 4.0
-    period: Photographed 2024
-    description: 'The sculptured white concrete base of the PL Peace Tower in Tondabayashi, reflecting PL Kyōdan''s founding theological precept that "Life is Art".'
+  - title: "Great Peace Prayer Tower (Daiheiwa Kinen Tō)"
+    imageUrl: "/artifacts/pl-kyodan-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dai_Heiwa_Kinen_T%C5%8D_(Osaka_Tondabayashi)_Peace_tower_hdsr_S5_02.jpg"
+    provenance: "Hyppolyte de Saint-Rambert; CC BY 4.0"
+    period: "Photographed 2024"
+    description: "The 180-meter Great Peace Prayer Tower (Daiheiwa Kinen Tō) at the international headquarters of PL Kyōdan in Tondabayashi, Osaka Prefecture, erected in 1970 to commemorate war victims of all faiths."
+  - title: "Base and Spire of the PL Peace Tower"
+    imageUrl: "/artifacts/pl-kyodan-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Dai_Heiwa_Kinen_T%C5%8D_(Osaka_Tondabayashi)_Peace_tower_hdsr_S5_03.jpg"
+    provenance: "Hyppolyte de Saint-Rambert; CC BY 4.0"
+    period: "Photographed 2024"
+    description: "The sculptured white concrete base of the PL Peace Tower in Tondabayashi, reflecting PL Kyōdan's founding theological precept that \"Life is Art\"."
 ---
 
 # PL Kyōdan

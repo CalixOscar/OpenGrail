@@ -43,18 +43,11 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Yazidism'
     url: 'https://www.cambridge.org/core/search?q=Yazidism'
 artifacts:
-  - title: "Peacock standard representing Tawusi Melek"
-    imageUrl: "/artifacts/yazidism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Adramelech.jpg"
-    provenance: "User Machine gun molly on en.wikipedia; Public domain"
-    period: "Image dated 1863"
-    description: "This image shows Peacock standard representing Tawusi Melek, selected as a defining visual reference for Yazidism."
-  - title: "Conical shrines of Lalish, the principal Yazidi sanctuary"
+  - title: "Facade of the Sanctuary of Sheikh Adi in Lalish"
     imageUrl: "/artifacts/yazidism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Front_of_the_Temple_of_Sheikh_Adi_(The_Nestorians_and_their_Rituals).jpg"
     provenance: "George Percy Badger; C. Graf, lithographer; Public domain"
     period: "Image dated 1852"
-    description: "This image shows Conical shrines of Lalish, the principal Yazidi sanctuary, selected as a defining visual reference for Yazidism."
 ---
 
 # Yazidism

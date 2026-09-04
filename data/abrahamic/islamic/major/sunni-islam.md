@@ -42,18 +42,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Sunni Islam'
     url: 'https://www.cambridge.org/core/search?q=Sunni%20Islam'
 artifacts:
-  - title: "Al-Azhar Mosque, historic center of Sunni worship and learning"
+  - title: "Courtyard and minarets of Al-Azhar Mosque in Cairo, Egypt"
     imageUrl: "/artifacts/sunni-islam-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG"
     provenance: "Daniel Mayer; CC BY-SA 4.0"
     period: "Image dated 2008"
-    description: "This image shows Al-Azhar Mosque, historic center of Sunni worship and learning, selected as a defining visual reference for Sunni Islam."
-  - title: "Illuminated manuscript of the preeminent Sunni hadith collection"
+  - title: "Illuminated Ottoman manuscript of al-Hisn al-Hasin by Ibn al-Jazari, 1761–1762"
     imageUrl: "/artifacts/sunni-islam-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:A_religious_treatise_by_Muhammad_bin_Muhammad_bin_Muhammad_al-Jazari_(d._1429);_al-Husn_al-Hasin_signed_%27Ali,_Ottoman_Turkey,_dated_1761-2.jpg"
-    provenance: "Christies.com; Public domain"
+    provenance: "Christie's; Public domain"
     period: "1429 AD"
-    description: "This image shows Illuminated manuscript of the preeminent Sunni hadith collection, selected as a defining visual reference for Sunni Islam."
     detail: high
 ---
 

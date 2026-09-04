@@ -46,18 +46,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Eckankar'
     url: 'https://brill.com/search?q=Eckankar'
 artifacts:
-  - title: "Sacred EK symbol and Eckankar community gathering"
+  - title: "Temple of ECK in Chanhassen, Minnesota"
     imageUrl: "/artifacts/ekankar-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Eckankar_(49119645616)_(cropped).jpg"
-    provenance: "Chad Davis from Minneapolis, United States; CC BY 2.0"
+    provenance: "Chad Davis; CC BY 2.0"
     period: "Image dated 2015"
-    description: "This image shows Sacred EK symbol and Eckankar community gathering, selected as a defining visual reference for Eckankar."
-  - title: "Temple of ECK"
+  - title: "Temple of ECK spiritual center in Chanhassen"
     imageUrl: "/artifacts/ekankar-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:2013-0718-TempleofEck.jpg"
     provenance: "Bobak Ha'Eri; CC BY 3.0"
     period: "Image dated 2013"
-    description: "This image shows Temple of ECK, selected as a defining visual reference for Eckankar."
 ---
 
 # Eckankar

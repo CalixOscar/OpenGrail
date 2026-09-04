@@ -44,18 +44,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Finnic Religions'
     url: 'https://brill.com/search?q=Finnic%20Religions'
 artifacts:
-  - title: "Ukko hammer amulet"
-    imageUrl: "/artifacts/finnish-religion-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pagan_religions_symbols_-_4_rows.png"
-    provenance: "Wewelsburger; CC BY-SA 3.0"
-    period: "Image dated 2013"
-    description: "This image shows Ukko hammer amulet, selected as a defining visual reference for Finnic Religions."
-  - title: "Karelian rune-singing tradition"
+  - title: "Karelian rune singer and kantele player Timo Lipitsä (ethnographic photograph)"
     imageUrl: "/artifacts/finnish-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Timo-Lipitsa.jpg"
-    provenance: "Armas Otto Vaisanen; Public domain"
+    provenance: "Armas Otto Väisänen; Public domain"
     period: "Image dated 1917"
-    description: "This image shows Karelian rune-singing tradition, selected as a defining visual reference for Finnic Religions."
 ---
 
 # Finnic Religions

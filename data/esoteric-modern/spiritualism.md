@@ -48,18 +48,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Modern Spiritualism'
     url: 'https://brill.com/search?q=Modern%20Spiritualism'
 artifacts:
-  - title: "Spiritualist founders the Fox sisters"
-    imageUrl: "/artifacts/spiritualism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:CharlesJamesFox_ByJoshuaReynolds.png"
-    provenance: "Engraving after original by Sir Joshua Reynolds (1723-1792). Another version exists at Saltram House, Devon.; Public domain"
-    period: "Image dated 1762"
-    description: "This image shows Spiritualist founders the Fox sisters, selected as a defining visual reference for Modern Spiritualism."
-  - title: "Historical seance ritual"
+  - title: "Corrugated iron Spiritualist Centre chapel in Basingstoke, Hampshire"
     imageUrl: "/artifacts/spiritualism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Spiritualist_Centre_-_geograph.org.uk_-_634002.jpg"
     provenance: "Sebastian Ballard; CC BY-SA 2.0"
     period: "Image dated 2007"
-    description: "This image shows Historical seance ritual, selected as a defining visual reference for Modern Spiritualism."
 ---
 
 # Modern Spiritualism

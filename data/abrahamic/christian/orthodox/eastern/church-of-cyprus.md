@@ -43,18 +43,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Church of Cyprus'
     url: 'https://www.cambridge.org/core/search?q=Church%20of%20Cyprus'
 artifacts:
-  - title: "Venerated Panagia Kykkotissa icon associated with Cyprus"
+  - title: "Church of Saint George in Stroumbi village, Cyprus"
     imageUrl: "/artifacts/church-of-cyprus-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Church_of_Saint_George_%E2%80%93_Stoumpi.jpg"
     provenance: "Viaggiamocela; CC BY-SA 4.0"
     period: "Image dated 2017"
-    description: "This image shows Venerated Panagia Kykkotissa icon associated with Cyprus, selected as a defining visual reference for Church of Cyprus."
-  - title: "Kykkos Monastery, principal Cypriot Orthodox sanctuary"
+  - title: "Inner courtyard of Kykkos Monastery in the Troodos Mountains, Cyprus"
     imageUrl: "/artifacts/church-of-cyprus-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kykkos_Monastery_Courtyard_1.JPG"
-    provenance: "Julian Nyca; CC BY-SA 3.0"
+    provenance: "Julian Nyča; CC BY-SA 3.0"
     period: "Image dated 2016"
-    description: "This image shows Kykkos Monastery, principal Cypriot Orthodox sanctuary, selected as a defining visual reference for Church of Cyprus."
 ---
 
 # Church of Cyprus

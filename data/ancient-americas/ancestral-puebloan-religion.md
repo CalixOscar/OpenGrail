@@ -40,15 +40,13 @@ artifacts:
   - title: "Casa Rinconada Great Kiva at Chaco Canyon"
     imageUrl: "/artifacts/ancestral-puebloan-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:GreatKiva.jpg"
-    provenance: "Conrad Dunkerson ( CBDunkerson ); Public domain"
+    provenance: "Conrad Dunkerson; Public domain"
     period: "Image dated 1988"
-    description: "This image shows Casa Rinconada Great Kiva at Chaco Canyon, selected as a defining visual reference for Ancestral Puebloan & Chacoan Kiva Traditions."
-  - title: "Chacoan black-on-white ritual cylinder jar"
+  - title: "Ancestral Pueblo black-on-white ceramic bowl from Chaco Canyon"
     imageUrl: "/artifacts/ancestral-puebloan-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Chaco_Anasazi_bowl,_NPS.jpg"
-    provenance: "NPS; Public domain"
+    provenance: "National Park Service; Public domain"
     period: "Object or image dated 1150"
-    description: "This image shows Chacoan black-on-white ritual cylinder jar, selected as a defining visual reference for Ancestral Puebloan & Chacoan Kiva Traditions."
 ---
 
 # Ancestral Puebloan & Chacoan Kiva Traditions

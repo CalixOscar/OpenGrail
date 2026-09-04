@@ -43,18 +43,16 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Second%20Temple%20Judaism'
 artifacts:
-  - title: "Detailed model of the Jerusalem Temple before 70 CE"
+  - title: "Holyland Model of Herod's Temple in Jerusalem"
     imageUrl: "/artifacts/second-temple-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jerusalem_Modell_BW_2.JPG"
     provenance: "Berthold Werner; Public domain"
     period: "Image dated 2008"
-    description: "This image shows Detailed model of the Jerusalem Temple before 70 CE, selected as a defining visual reference for Second Temple Judaism."
-  - title: "Dead Sea Scroll manuscript from the Second Temple period"
+  - title: "Dead Sea Scroll manuscript fragments at the Jordan Museum"
     imageUrl: "/artifacts/second-temple-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dead_Sea_Scrolls_01.jpg"
     provenance: "Mohammad hajeer; CC BY-SA 4.0"
     period: "1st century CE"
-    description: "This image shows Dead Sea Scroll manuscript from the Second Temple period, selected as a defining visual reference for Second Temple Judaism."
     detail: high
 ---
 

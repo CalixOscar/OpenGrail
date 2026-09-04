@@ -47,18 +47,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Rosicrucianism'
     url: 'https://brill.com/search?q=Rosicrucianism'
 artifacts:
-  - title: "Historical Rosy Cross emblem"
+  - title: "Rosicrucian cross emblem associated with Max Heindel and The Rosicrucian Fellowship"
     imageUrl: "/artifacts/rosicrucianism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Embl%C3%A8me_Rose_Croix_Max_Heindel.jpg"
     provenance: "Gabriel.Falcon; Public domain"
     period: "Image dated 2009"
-    description: "This image shows Historical Rosy Cross emblem, selected as a defining visual reference for Rosicrucianism."
-  - title: "AMORC Rosicrucian sanctuary"
+  - title: "Horus falcon replica statue at Rosicrucian Park in San Jose, California"
     imageUrl: "/artifacts/rosicrucianism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Horus_falcon_statue_front_Rosicrucian_Park.JPG"
     provenance: "BrokenSphere; CC BY-SA 3.0"
     period: "Image dated 2008"
-    description: "This image shows AMORC Rosicrucian sanctuary, selected as a defining visual reference for Rosicrucianism."
 ---
 
 # Rosicrucianism

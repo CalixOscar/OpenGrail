@@ -48,19 +48,6 @@ sources:
     url: 'https://www.oxfordreference.com/search?q=Luo%20Teaching'
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Luo%20Teaching'
-artifacts:
-  - title: "Image of patriarch Luo Qing"
-    imageUrl: "/artifacts/luo-teaching-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:%E7%BD%97%E7%A7%9F%E7%AB%99B%E5%87%BA%E5%8F%A3.jpg"
-    provenance: "Lhzss8; CC BY-SA 4.0"
-    period: "Image dated 2025"
-    description: "This image shows Image of patriarch Luo Qing, selected as a defining visual reference for Luo Teaching."
-  - title: "Luo Teaching scripture"
-    imageUrl: "/artifacts/luo-teaching-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Serlio%27s_five_books_on_architecture_MET_DP293035.jpg"
-    provenance: "Mayken Verhulst; CC0"
-    period: "Image dated 1550"
-    description: "This image shows Luo Teaching scripture, selected as a defining visual reference for Luo Teaching."
 ---
 
 # Luo Teaching

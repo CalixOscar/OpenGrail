@@ -47,25 +47,19 @@ sources:
   - title: 'Cambridge University Press: The Religion of the Mycenaeans'
     url: 'https://www.cambridge.org/core/search?q=Mycenaean+Religion'
 artifacts:
-  - title: Inscribed Linear B clay tablet from the Palace of Nestor at Pylos
-    imageUrl: /artifacts/mycenaean-religion-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Linear_B_tablet_Clay_from_Pylos_end_of_13th_century_BCE_NAM_Athens_01.jpg
-    provenance: Mary Harrsch; CC BY-SA 4.0
-    period: 13th century BCE
+  - title: "Inscribed Linear B clay tablet from the Palace of Nestor at Pylos"
+    imageUrl: "/artifacts/mycenaean-religion-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Linear_B_tablet_Clay_from_Pylos_end_of_13th_century_BCE_NAM_Athens_01.jpg"
+    provenance: "Mary Harrsch; CC BY-SA 4.0"
+    period: "13th century BCE"
+    description: "Mycenaean administrative tablet inscribed in Linear B syllabic script from Pylos, recording allocations of grain, livestock, and religious offerings to sanctuaries and deities in the kingdom of Nestor."
     detail: high
-    description: >-
-      Mycenaean administrative tablet inscribed in Linear B syllabic script from
-      Pylos, recording allocations of grain, livestock, and religious offerings
-      to sanctuaries and deities in the kingdom of Nestor.
-  - title: Lady of Mycenae wall painting from the Mycenae Cult Centre
-    imageUrl: /artifacts/mycenaean-religion-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Fresco_of_the_Lady_of_Mycenae,_from_the_Acropolis_of_Mycenae,_13th_Cent._BC.jpg
-    provenance: Gary Todd; CC0
-    period: 13th century BCE
-    description: >-
-      Fresco depicting a Mycenaean goddess or priestess (Mykenaia) holding a
-      necklace, excavated within the Cult Centre on the acropolis of Mycenae,
-      National Archaeological Museum of Athens.
+  - title: "Lady of Mycenae wall painting from the Mycenae Cult Centre"
+    imageUrl: "/artifacts/mycenaean-religion-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Fresco_of_the_Lady_of_Mycenae,_from_the_Acropolis_of_Mycenae,_13th_Cent._BC.jpg"
+    provenance: "Gary Todd; CC0"
+    period: "13th century BCE"
+    description: "Fresco depicting a Mycenaean goddess or priestess (Mykenaia) holding a necklace, excavated within the Cult Centre on the acropolis of Mycenae, National Archaeological Museum of Athens."
 relations:
   - target: minoan-religion
     type: influenced_by

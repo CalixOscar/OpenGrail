@@ -37,18 +37,16 @@ sources:
   - title: 'Samten G. Karmay: "The Arrow and the Spindle: Studies in History, Myths and Rituals in Tibet"'
     url: 'https://brill.com/'
 artifacts:
-  - title: "Thangka of Tonpa Shenrab"
+  - title: "19th-century Tibetan thangka illustrating the life story of Tonpa Shenrab Miwoche"
     imageUrl: "/artifacts/bon-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tonpa_Shenrab_-_Life_Story_19th_century,_Collection_of_Rubin_Museum_of_Art..jpg"
-    provenance: "Anonymous Unknown author; Public domain"
+    provenance: "Rubin Museum of Art / Anonymous; Public domain"
     period: "19th century"
-    description: "This image shows Thangka of Tonpa Shenrab, selected as a defining visual reference for Yungdrung Bon & Indigenous Tibetan Religion."
-  - title: "Menri Bon monastery"
+  - title: "Menri Monastery in Himachal Pradesh, the foremost institutional seat of Yungdrung Bön in exile"
     imageUrl: "/artifacts/bon-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Menri_Feb_2016.jpg"
     provenance: "Unpurrceivable; CC BY-SA 4.0"
     period: "Image dated 2016"
-    description: "This image shows Menri Bon monastery, selected as a defining visual reference for Yungdrung Bon & Indigenous Tibetan Religion."
 ---
 
 # Yungdrung Bon & Indigenous Tibetan Religion

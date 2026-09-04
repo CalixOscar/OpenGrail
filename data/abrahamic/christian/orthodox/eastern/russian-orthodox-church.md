@@ -51,18 +51,16 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Russian%20Orthodox%20Church'
 artifacts:
-  - title: "Rublev's Trinity, the preeminent Russian Orthodox icon"
+  - title: "Andrei Rublev's Holy Trinity (Troitsa) icon"
     imageUrl: "/artifacts/russian-orthodox-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Andrey_Rublev_-_%D0%A1%D0%B2._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg"
     provenance: "Andrei Rublev; Public domain"
     period: "Image dated 1425"
-    description: "This image shows Rublev's Trinity, the preeminent Russian Orthodox icon, selected as a defining visual reference for Russian Orthodox Church."
-  - title: "Cathedral of Christ the Saviour, major Moscow patriarchal sanctuary"
+  - title: "Painting of the interior of the Cathedral of Christ the Saviour in Moscow (1883) by Fyodor Klages"
     imageUrl: "/artifacts/russian-orthodox-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Klages_-_Interior_of_Cathedral_of_Christ_Saviour_in_Moscow.jpg"
     provenance: "Fyodor Klages; Public domain"
     period: "Image dated 2007"
-    description: "This image shows Cathedral of Christ the Saviour, major Moscow patriarchal sanctuary, selected as a defining visual reference for Russian Orthodox Church."
 ---
 
 # Russian Orthodox Church

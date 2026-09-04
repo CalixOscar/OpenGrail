@@ -42,18 +42,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Twelver Shi''a'
     url: 'https://www.cambridge.org/core/search?q=Twelver%20Shi''a'
 artifacts:
-  - title: "Shrine of Imam Husayn at Karbala, central Twelver sanctuary"
+  - title: "Historic photograph of the Imam Husayn Shrine in Karbala, 1928"
     imageUrl: "/artifacts/twelver-shia-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Imam_Husayn_Shrine_in_Karbala_(1).jpg"
-    provenance: "قسم الإعلام في العتبة الحسينية المقدسة شعبة الإنترنت - وحدة البرمجة والتصميم; Public domain"
+    provenance: "Holy Shrine of Imam Husayn Media Department; Public domain"
     period: "Image dated 1928"
-    description: "This image shows Shrine of Imam Husayn at Karbala, central Twelver sanctuary, selected as a defining visual reference for Twelver Shi'a."
-  - title: "Ashura procession with Zuljanah, ritual memory of Karbala"
+  - title: "Twelver Shia clerics participating in the Arba'een pilgrimage walk"
     imageUrl: "/artifacts/twelver-shia-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_clergymen_on_the_arbane_hike_%D8%B1%D9%88%D8%AD%D8%A7%D9%86%DB%8C%D8%AA_%D8%AF%D8%B1_%D9%BE%DB%8C%D8%A7%D8%AF%D9%87_%D8%B1%D9%88%DB%8C_%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86_01.jpg"
     provenance: "Mostafameraji; CC BY-SA 4.0"
     period: "Image dated 2016"
-    description: "This image shows Ashura procession with Zuljanah, ritual memory of Karbala, selected as a defining visual reference for Twelver Shi'a."
 ---
 
 # Twelver Shi'a

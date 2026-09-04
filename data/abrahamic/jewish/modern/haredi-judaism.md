@@ -45,18 +45,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Haredi Judaism'
     url: 'https://www.cambridge.org/core/search?q=Haredi%20Judaism'
 artifacts:
-  - title: "Haredi men in traditional dress at prayer"
+  - title: "Haredi men reading from a Torah scroll at the Western Wall"
     imageUrl: "/artifacts/haredi-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:MORNING_TORA_READING.jpg"
     provenance: "ELIEL JOSEPH SCHAFLER; CC BY-SA 3.0"
     period: "Image dated 2011"
-    description: "This image shows Haredi men in traditional dress at prayer, selected as a defining visual reference for Haredi Judaism."
-  - title: "Ponevezh Yeshiva, emblematic Haredi center of Torah study"
+  - title: "Ponevezh Yeshiva in Bnei Brak"
     imageUrl: "/artifacts/haredi-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bnei_Brak_IMG_5874.JPG"
     provenance: "deror_avi; CC BY-SA 3.0"
     period: "Image dated 2010"
-    description: "This image shows Ponevezh Yeshiva, emblematic Haredi center of Torah study, selected as a defining visual reference for Haredi Judaism."
 ---
 
 # Haredi Judaism

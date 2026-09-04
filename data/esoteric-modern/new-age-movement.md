@@ -50,19 +50,6 @@ sources:
     url: 'https://www.oxfordreference.com/search?q=New%20Age%20Movement'
   - title: 'Brill Handbook of Religious Traditions: New Age Movement'
     url: 'https://brill.com/search?q=New%20Age%20Movement'
-artifacts:
-  - title: "Findhorn spiritual center"
-    imageUrl: "/artifacts/new-age-movement-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D0%B7%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D0%B0%D0%BB%D0%B0_-_%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5_1.JPG"
-    provenance: "Tashkoskim; CC BY-SA 3.0"
-    period: "Image dated 2013"
-    description: "This image shows Findhorn spiritual center, selected as a defining visual reference for New Age Movement."
-  - title: "New Age workshop and meditation culture"
-    imageUrl: "/artifacts/new-age-movement-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Chinese_New_Year_in_Dublin_(Year_Of_The_Tiger)_(4319970995).jpg"
-    provenance: "William Murphy from Dublin, Ireland; CC BY-SA 2.0"
-    period: "Image dated 2010"
-    description: "This image shows New Age workshop and meditation culture, selected as a defining visual reference for New Age Movement."
 ---
 
 # New Age Movement

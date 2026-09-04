@@ -48,18 +48,11 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Dinka%20Religious%20Traditions'
 artifacts:
-  - title: "Sacred Dinka fishing spearheads of spiritual masters"
+  - title: "Dinka iron spearhead (punta de lanza)"
     imageUrl: "/artifacts/dinka-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Punta_de_lanza.JPG"
     provenance: "19Tarrestnom65; CC BY-SA 4.0"
     period: "Image dated 2015"
-    description: "This image shows Sacred Dinka fishing spearheads of spiritual masters, selected as a defining visual reference for Dinka Religious Traditions."
-  - title: "Carved wooden ceremonial headrest of the Dinka people"
-    imageUrl: "/artifacts/dinka-religion-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:DSCF1083_Vintage_red_barber_chairs_in_a_rustic_wooden_shop_waiting_for_the_next_customer.jpg"
-    provenance: "PattayaPatrol; CC BY-SA 4.0"
-    period: "Image dated 2025"
-    description: "This image shows Carved wooden ceremonial headrest of the Dinka people, selected as a defining visual reference for Dinka Religious Traditions."
 ---
 
 # Dinka Religious Traditions

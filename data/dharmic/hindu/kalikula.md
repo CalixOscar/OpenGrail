@@ -45,18 +45,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=K%C4%81l%C4%ABkula'
 artifacts:
-  - title: "Daksina Kali in the eastern Indian Kalikula iconographic form"
+  - title: "Kalighat Kali Temple and market street in Kolkata"
     imageUrl: "/artifacts/kalikula-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kalighat_temple_with_bazzar.JPG"
     provenance: "Balajijagadesh; CC BY-SA 3.0"
     period: "Image dated 2012"
-    description: "This image shows Daksina Kali in the eastern Indian Kalikula iconographic form, selected as a defining visual reference for Kālīkula."
-  - title: "Kalighat Temple, a principal Kalikula sanctuary"
+  - title: "Replica of the Kalighat Kali icon at a Kali Puja pandal in Kolkata"
     imageUrl: "/artifacts/kalikula-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kalighater_Kali.JPG"
     provenance: "Jonoikobangali; CC BY-SA 3.0"
     period: "Digital file published 2008"
-    description: "This image shows Kalighat Temple, a principal Kalikula sanctuary, selected as a defining visual reference for Kālīkula."
 ---
 
 # Kālīkula

@@ -48,18 +48,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hermeticism'
     url: 'https://brill.com/search?q=Hermeticism'
 artifacts:
-  - title: "Hermes Trismegistus mosaic"
+  - title: "Floor mosaic of Hermes Trismegistus by Giovanni di Stefano in Siena Cathedral"
     imageUrl: "/artifacts/hermeticism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hermes_Trismegistus_Sienna_Cathedral_Mosaic.jpg"
     provenance: "Giovanni di Stefano; Public domain"
     period: "Digital file published 2025"
-    description: "This image shows Hermes Trismegistus mosaic, selected as a defining visual reference for Hermeticism."
-  - title: "Corpus Hermeticum manuscript"
+  - title: "First printed edition (editio princeps) of the Hermetic dialogue Asclepius (1469)"
     imageUrl: "/artifacts/hermeticism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Asclepius_1469.jpg"
-    provenance: "unknown medieval author; Public domain"
+    provenance: "Unknown; Public domain"
     period: "Image dated 1469"
-    description: "This image shows Corpus Hermeticum manuscript, selected as a defining visual reference for Hermeticism."
     detail: high
 ---
 

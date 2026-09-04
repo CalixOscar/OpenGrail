@@ -51,18 +51,11 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Eritrean%20Orthodox%20Tewahedo%20Church
 artifacts:
-  - title: "Ornate Ge'ez processional cross used in Eritrean Tewahedo worship"
-    imageUrl: "/artifacts/eritrean-orthodox-tewahedo-church-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Ezana_Stone_-_Detail_(2839378041).jpg"
-    provenance: "A. Davey from Where I Live Now: Pacific Northwest; CC BY 2.0"
-    period: "Image dated 2007"
-    description: "This image shows Ornate Ge'ez processional cross used in Eritrean Tewahedo worship, selected as a defining visual reference for Eritrean Orthodox Tewahedo Church."
-  - title: "Enda Mariam Cathedral in Asmara"
+  - title: "Enda Mariam Cathedral in Asmara, Eritrea"
     imageUrl: "/artifacts/eritrean-orthodox-tewahedo-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Enda_Mariam_Orthodox_Cathedral_(8351473067).jpg"
     provenance: "David Stanley from Nanaimo, Canada; CC BY 2.0"
     period: "Image dated 2012"
-    description: "This image shows Enda Mariam Cathedral in Asmara, selected as a defining visual reference for Eritrean Orthodox Tewahedo Church."
 ---
 
 # Eritrean Orthodox Tewahedo Church

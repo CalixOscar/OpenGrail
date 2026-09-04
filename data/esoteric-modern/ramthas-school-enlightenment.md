@@ -45,22 +45,18 @@ sources:
   - title: 'Encyclopaedia Britannica: "Ramtha''s School of Enlightenment"'
     url: 'https://www.britannica.com/topic/Ramthas-School-of-Enlightenment'
 artifacts:
-  - title: Campus entrance sign at Ramtha's School of Enlightenment
-    imageUrl: /artifacts/ramthas-school-enlightenment-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-05-17_Yelm_Ramtha_School_of_Enlightenment_sign.jpg
-    provenance: Richard David Ramsey; CC BY-SA 3.0
-    period: Photographed 2012
-    description: >-
-      Entrance sign outside the eighty-acre rural campus of Ramtha's School of Enlightenment in
-      Yelm, Washington, established by J. Z. Knight in 1988.
-  - title: Gated entrance to Ramtha's School of Enlightenment
-    imageUrl: /artifacts/ramthas-school-enlightenment-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-05-17_Yelm_Ramtha_School_of_Englightenment_entrance.jpg
-    provenance: Richard David Ramsey; CC BY-SA 3.0
-    period: Photographed 2012
-    description: >-
-      The main entrance gates leading into the grounds, event arenas, and training fields of Ramtha's
-      School of Enlightenment in Yelm, Washington.
+  - title: "Campus entrance sign at Ramtha's School of Enlightenment"
+    imageUrl: "/artifacts/ramthas-school-enlightenment-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:2012-05-17_Yelm_Ramtha_School_of_Enlightenment_sign.jpg"
+    provenance: "Richard David Ramsey; CC BY-SA 3.0"
+    period: "Photographed 2012"
+    description: "Entrance sign outside the eighty-acre rural campus of Ramtha's School of Enlightenment in Yelm, Washington, established by J. Z. Knight in 1988."
+  - title: "Gated entrance to Ramtha's School of Enlightenment"
+    imageUrl: "/artifacts/ramthas-school-enlightenment-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:2012-05-17_Yelm_Ramtha_School_of_Englightenment_entrance.jpg"
+    provenance: "Richard David Ramsey; CC BY-SA 3.0"
+    period: "Photographed 2012"
+    description: "The main entrance gates leading into the grounds, event arenas, and training fields of Ramtha's School of Enlightenment in Yelm, Washington."
 relations:
   - target: new-age-movement
     type: branch_of

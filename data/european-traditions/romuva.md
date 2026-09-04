@@ -43,18 +43,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Romuva'
     url: 'https://brill.com/search?q=Romuva'
 artifacts:
-  - title: "Perkunas shrine site in Kaunas, Lithuania"
-    imageUrl: "/artifacts/romuva-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:House_of_Perk%C5%ABnas,_Kaunas.jpg"
-    provenance: "Wojsyl; CC BY-SA 3.0"
-    period: "Image dated 2005"
-    description: "This image shows Perkunas shrine site in Kaunas, Lithuania, selected as a defining visual reference for Romuva."
-  - title: "Romuva sacred-fire rite"
+  - title: "Sacred ritual fire (aukuras) during a Romuva ceremony"
     imageUrl: "/artifacts/romuva-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Romuvan_ritual_fire.png"
-    provenance: "Wikimedia Commons; CC BY 2.0"
+    provenance: "Unknown author; CC BY 2.0"
     period: "Digital file published 2009"
-    description: "This image shows Romuva sacred-fire rite, selected as a defining visual reference for Romuva."
 ---
 
 # Romuva

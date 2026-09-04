@@ -46,20 +46,18 @@ sources:
   - title: 'CESNUR: Studies on the Twelve Tribes Communities'
     url: 'https://www.cesnur.org/testi/12tribes.htm'
 artifacts:
-  - title: The Yellow Deli in Arcadia, Florida
-    imageUrl: /artifacts/twelve-tribes-movement-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:YellowDeli.jpg
-    provenance: Alexf; CC BY-SA 4.0
-    period: Photographed 2023 CE
-    description: >-
-      The Yellow Deli restaurant in Arcadia, Florida, one of the signature handcrafted artisanal cafes and cooperative enterprises operated worldwide by the Twelve Tribes Communities.
-  - title: Common Sense Store and Cafe at Island Pond, Vermont
-    imageUrl: /artifacts/twelve-tribes-movement-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Common_Sense_Caf%C3%A9_28_Cross_Street_Island_Pond_VT_May_2013.jpg
-    provenance: Artaxerxes; CC BY-SA 3.0
-    period: Photographed 2013 CE
-    description: >-
-      The Common Sense Cafe and natural foods shop on Cross Street in Island Pond, Vermont, established by the Northeast Kingdom Community Church branch of the Twelve Tribes.
+  - title: "The Yellow Deli in Arcadia, Florida"
+    imageUrl: "/artifacts/twelve-tribes-movement-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:YellowDeli.jpg"
+    provenance: "Alexf; CC BY-SA 4.0"
+    period: "Photographed 2023 CE"
+    description: "The Yellow Deli restaurant in Arcadia, Florida, one of the signature handcrafted artisanal cafes and cooperative enterprises operated worldwide by the Twelve Tribes Communities."
+  - title: "Common Sense Store and Cafe at Island Pond, Vermont"
+    imageUrl: "/artifacts/twelve-tribes-movement-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Common_Sense_Caf%C3%A9_28_Cross_Street_Island_Pond_VT_May_2013.jpg"
+    provenance: "Artaxerxes; CC BY-SA 3.0"
+    period: "Photographed 2013 CE"
+    description: "The Common Sense Cafe and natural foods shop on Cross Street in Island Pond, Vermont, established by the Northeast Kingdom Community Church branch of the Twelve Tribes."
 relations:
   - target: protestantism
     type: influenced_by

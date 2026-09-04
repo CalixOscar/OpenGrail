@@ -47,18 +47,16 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Romanian%20Orthodox%20Church'
 artifacts:
-  - title: "The blue Last Judgment fresco at Voronet Monastery"
+  - title: "The Last Judgment fresco on the exterior west wall of Voroneț Monastery, Romania"
     imageUrl: "/artifacts/romanian-orthodox-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Voronet_last_judgment.jpg"
     provenance: "Alejo2083 (Alessio Damato); CC BY-SA 3.0"
     period: "Image dated 2006"
-    description: "This image shows The blue Last Judgment fresco at Voronet Monastery, selected as a defining visual reference for Romanian Orthodox Church."
-  - title: "Patriarchal Cathedral in Bucharest"
+  - title: "Interior mural and sanctuary of the Romanian Patriarchal Cathedral in Bucharest"
     imageUrl: "/artifacts/romanian-orthodox-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Romanian_Patriarchal_Cathedral_-_mural.jpg"
     provenance: "Pudelek (Marcin Szala); CC BY-SA 3.0"
     period: "Image dated 2009"
-    description: "This image shows Patriarchal Cathedral in Bucharest, selected as a defining visual reference for Romanian Orthodox Church."
 ---
 
 # Romanian Orthodox Church

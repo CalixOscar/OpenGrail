@@ -41,18 +41,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Karaite Judaism'
     url: 'https://www.cambridge.org/core/search?q=Karaite%20Judaism'
 artifacts:
-  - title: "Wooden Karaite kenesa at Trakai"
+  - title: "Altar of the Karaite Kenesa in Trakai, Lithuania"
     imageUrl: "/artifacts/karaite-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Trakai_Kenesa_altar.JPG"
     provenance: "Wojsyl; CC BY-SA 3.0"
     period: "Image dated 2005"
-    description: "This image shows Wooden Karaite kenesa at Trakai, selected as a defining visual reference for Karaite Judaism."
-  - title: "Leningrad Codex copied by the Karaite-associated scribe Samuel ben Jacob"
+  - title: "Folio 152b of the Leningrad Codex (1008 CE)"
     imageUrl: "/artifacts/karaite-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Leningrad_Codex_Folio_152b.jpg"
-    provenance: "Unknown author; Public domain"
+    provenance: "Samuel ben Jacob; Public domain"
     period: "Image dated 1008"
-    description: "This image shows Leningrad Codex copied by the Karaite-associated scribe Samuel ben Jacob, selected as a defining visual reference for Karaite Judaism."
     detail: high
 ---
 

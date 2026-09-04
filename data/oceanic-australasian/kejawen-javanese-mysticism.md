@@ -41,18 +41,16 @@ sources:
   - title: 'Niels Mulder: "Mysticism and Everyday Life in Contemporary Java"'
     url: 'https://brill.com/'
 artifacts:
-  - title: "Wayang Kulit leather puppet of Semar, divine clown-deity"
+  - title: "Wayang kulit shadow puppet performance seen from the screen"
     imageUrl: "/artifacts/kejawen-javanese-mysticism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_giant_of_wayang_....._(3189800981).jpg"
     provenance: "micro.cosmic; CC BY-SA 2.0"
     period: "Image dated 2009"
-    description: "This image shows Wayang Kulit leather puppet of Semar, divine clown-deity, selected as a defining visual reference for Kejawen & Javanese Mystical Philosophy (Kebatinan)."
-  - title: "Bangsal Kencono pavilion at the Keraton Yogyakarta royal palace"
+  - title: "Bangsal pavilion at the Kraton of Yogyakarta"
     imageUrl: "/artifacts/kejawen-javanese-mysticism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Yogyakarta_King_Palace_1.jpg"
-    provenance: "user:Kirjapan; CC BY 3.0"
+    provenance: "Kirjapan; CC BY 3.0"
     period: "Image dated 2007"
-    description: "This image shows Bangsal Kencono pavilion at the Keraton Yogyakarta royal palace, selected as a defining visual reference for Kejawen & Javanese Mystical Philosophy (Kebatinan)."
 ---
 
 # Kejawen & Javanese Mystical Philosophy (Kebatinan)

@@ -45,18 +45,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & True Jesus Church'
     url: 'https://www.cambridge.org/core/search?q=True%20Jesus%20Church'
 artifacts:
-  - title: "River baptism performed according to True Jesus Church practice"
+  - title: "True Jesus Church building in Pensiangan, Sabah, Malaysia"
     imageUrl: "/artifacts/true-jesus-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_True-Jesus-Church-03.jpg"
     provenance: "CEphoto, Uwe Aranas; CC BY-SA 3.0"
     period: "Image dated 2013"
-    description: "This image shows River baptism performed according to True Jesus Church practice, selected as a defining visual reference for True Jesus Church."
-  - title: "A principal True Jesus Church sanctuary in Taiwan"
+  - title: "Tainan Church sanctuary of the True Jesus Church in Taiwan"
     imageUrl: "/artifacts/true-jesus-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tainan_Taiwan_True-Jesus-Church-01.jpg"
     provenance: "CEphoto, Uwe Aranas; CC BY-SA 4.0"
     period: "Image dated 2015"
-    description: "This image shows A principal True Jesus Church sanctuary in Taiwan, selected as a defining visual reference for True Jesus Church."
 ---
 
 # True Jesus Church

@@ -50,18 +50,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Hellenistic Religion'
     url: 'https://brill.com/search?q=Hellenistic%20Religion'
 artifacts:
-  - title: "Alexander as Zeus-Ammon"
+  - title: "Silver tetradrachm of Lysimachos depicting Alexander the Great with horns of Zeus-Ammon, British Museum"
     imageUrl: "/artifacts/hellenistic-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Alexander_coin,_British_Museum.jpg"
-    provenance: "Photograph by Mike Peel ( www.mikepeel.net ).; CC BY-SA 4.0"
+    provenance: "Mike Peel; CC BY-SA 4.0"
     period: "281BC"
-    description: "This image shows Alexander as Zeus-Ammon, selected as a defining visual reference for Hellenistic Religion."
-  - title: "Pergamon Altar sacred relief"
+  - title: "Athena fighting Alcyoneus, Gigantomachy frieze of the Pergamon Altar"
     imageUrl: "/artifacts/hellenistic-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pergamonaltarathena.jpg"
     provenance: "Ealdgyth; CC BY-SA 3.0"
     period: "Image dated 2010"
-    description: "This image shows Pergamon Altar sacred relief, selected as a defining visual reference for Hellenistic Religion."
 ---
 
 # Hellenistic Religion

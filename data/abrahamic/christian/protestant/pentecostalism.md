@@ -46,18 +46,11 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Pentecostalism'
     url: 'https://www.cambridge.org/core/search?q=Pentecostalism'
 artifacts:
-  - title: "Portrait of William J. Seymour, leader of the Azusa Street Revival"
-    imageUrl: "/artifacts/pentecostalism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:William_Seymour,_Marquess_of_Hertford,_later_Duke_of_Somerset_(1588-1660),_Attributed_to_Gilbert_Jackson_(1622_-_1640).jpg"
-    provenance: "Attributed to Gilbert Jackson; Public domain"
-    period: "17 th century"
-    description: "This image shows Portrait of William J. Seymour, leader of the Azusa Street Revival, selected as a defining visual reference for Pentecostalism."
-  - title: "Historic Apostolic Faith Gospel Mission at 312 Azusa Street"
+  - title: "The Apostolic Faith Mission on Azusa Street in Los Angeles (1907)"
     imageUrl: "/artifacts/pentecostalism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:AFM_on_azusa_street.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Public domain"
     period: "Object or image dated 1907"
-    description: "This image shows Historic Apostolic Faith Gospel Mission at 312 Azusa Street, selected as a defining visual reference for Pentecostalism."
 ---
 
 # Pentecostalism

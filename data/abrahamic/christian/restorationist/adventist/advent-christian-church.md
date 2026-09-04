@@ -46,18 +46,11 @@ sources:
       Church
     url: 'https://www.cambridge.org/core/search?q=Advent%20Christian%20Church'
 artifacts:
-  - title: "Portrait of George Storrs, formative Advent Christian conditionalist preacher"
-    imageUrl: "/artifacts/advent-christian-church-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Imperial_War_Cabinet_in_1917.jpg"
-    provenance: "Bain News Service, publisher; Public domain"
-    period: "Image dated 1917"
-    description: "This image shows Portrait of George Storrs, formative Advent Christian conditionalist preacher, selected as a defining visual reference for Advent Christian Church."
-  - title: "Historic issue of The World's Crisis, the Advent Christian denominational paper"
+  - title: "The William Miller Chapel in Whitehall, New York"
     imageUrl: "/artifacts/advent-christian-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_William_Miller_Chapel.jpg"
     provenance: "Madereugeneandrew; CC BY-SA 4.0"
     period: "Image dated 2016"
-    description: "This image shows Historic issue of The World's Crisis, the Advent Christian denominational paper, selected as a defining visual reference for Advent Christian Church."
 ---
 
 # Advent Christian Church

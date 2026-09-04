@@ -51,18 +51,16 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Way%20of%20the%20Celestial%20Masters
 artifacts:
-  - title: "Image of Zhang Daoling"
+  - title: "Woodblock print portrait of Zhang Daoling from the Liexian Jiupai (1923)"
     imageUrl: "/artifacts/tianshi-dao-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%E5%BC%B5%E9%81%93%E9%99%B5.jpg"
     provenance: "Hannah; Public domain"
     period: "2nd Century CE"
-    description: "This image shows Image of Zhang Daoling, selected as a defining visual reference for Way of the Celestial Masters."
-  - title: "Celestial Masters' Cave"
+  - title: "Mount Qingcheng landscape, Sichuan"
     imageUrl: "/artifacts/tianshi-dao-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%9F%8E%E5%B1%B1_Mount_Qingcheng_2017.jpg"
     provenance: "JianEn Yu; CC BY 2.0"
     period: "Image dated 2017"
-    description: "This image shows Celestial Masters' Cave, selected as a defining visual reference for Way of the Celestial Masters."
 ---
 
 # Way of the Celestial Masters

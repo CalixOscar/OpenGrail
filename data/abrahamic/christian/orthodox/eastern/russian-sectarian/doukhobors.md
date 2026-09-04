@@ -43,24 +43,18 @@ sources:
   - title: 'University of Toronto Press: Spirit Wrestlers: Doukhobor History'
     url: 'https://utorontopress.com/search-results/?keyword=Doukhobors'
 artifacts:
-  - title: Sirotski Dom in Gorelovka
-    imageUrl: /artifacts/doukhobors-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Sirotski_dom.jpg
-    provenance: Sandro Shanidze; Public domain
-    period: Built 1847 (photographed 2008)
-    description: >-
-      The Sirotski Dom (Orphan House) in Gorelovka, Georgia, built in 1847 as the
-      central administrative residence, community prayer hall, and leadership
-      center of the Doukhobor settlement in the Transcaucasus.
-  - title: Doukhobor assembly at prayer in Saskatchewan
-    imageUrl: /artifacts/doukhobors-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Doukhobor_pilgrims_at_prayer_(HS85-10-13521).jpg
-    provenance: Thomas Veitch Simpson; Public domain
-    period: '1902'
-    description: >-
-      Doukhobor settlers assembled for outdoor communal prayer near Yorkton,
-      Saskatchewan, following their 1899 mass migration from the Russian Empire to
-      western Canada.
+  - title: "Sirotski Dom in Gorelovka"
+    imageUrl: "/artifacts/doukhobors-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sirotski_dom.jpg"
+    provenance: "Sandro Shanidze; Public domain"
+    period: "Built 1847 (photographed 2008)"
+    description: "The Sirotski Dom (Orphan House) in Gorelovka, Georgia, built in 1847 as the central administrative residence, community prayer hall, and leadership center of the Doukhobor settlement in the Transcaucasus."
+  - title: "Doukhobor assembly at prayer in Saskatchewan"
+    imageUrl: "/artifacts/doukhobors-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Doukhobor_pilgrims_at_prayer_(HS85-10-13521).jpg"
+    provenance: "Thomas Veitch Simpson; Public domain"
+    period: "1902"
+    description: "Doukhobor settlers assembled for outdoor communal prayer near Yorkton, Saskatchewan, following their 1899 mass migration from the Russian Empire to western Canada."
 relations:
   - target: eastern-orthodoxy
     type: diverged_from

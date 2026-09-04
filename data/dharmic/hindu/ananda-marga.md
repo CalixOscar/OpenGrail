@@ -44,18 +44,18 @@ relations:
     certainty: academic_consensus
     citation: Adopted Patanjali's ethical precepts (Yama and Niyama) and asana system as foundational requirements for esoteric meditation.
 artifacts:
-  - title: 'Prabhat Ranjan Sarkar Prayer Hall in Tiljala, Kolkata'
-    imageUrl: /artifacts/ananda-marga-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Prabhat_Ranjan_Sarkar_Prayer_Hall_-_Ananda_Marga_Pracaraka_Samgha_-_527_VIP_Nagar_Tiljala_-_Kolkata_2017-04-23_6947.JPG'
-    provenance: Biswarup Ganguly; CC BY 3.0
-    period: Photographed 2017
-    description: 'The Prabhat Ranjan Sarkar Prayer Hall at the global headquarters of Ananda Marga Pracaraka Samgha in Tiljala, Kolkata.'
-  - title: Portrait of Prabhat Ranjan Sarkar (Shrii Shrii Anandamurti)
-    imageUrl: /artifacts/ananda-marga-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:PRSarkar_GentlemanPhoto_2.jpg'
-    provenance: Ananda Marga Pracaraka Samgha; CC BY-SA 3.0
-    period: Mid-20th century
-    description: 'Prabhat Ranjan Sarkar (1921–1990), known to followers as Shrii Shrii Anandamurti, philosopher and founder of Ananda Marga and the PROUT socio-economic system.'
+  - title: "Prabhat Ranjan Sarkar Prayer Hall in Tiljala, Kolkata"
+    imageUrl: "/artifacts/ananda-marga-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Prabhat_Ranjan_Sarkar_Prayer_Hall_-_Ananda_Marga_Pracaraka_Samgha_-_527_VIP_Nagar_Tiljala_-_Kolkata_2017-04-23_6947.JPG"
+    provenance: "Biswarup Ganguly; CC BY 3.0"
+    period: "Photographed 2017"
+    description: "The Prabhat Ranjan Sarkar Prayer Hall at the global headquarters of Ananda Marga Pracaraka Samgha in Tiljala, Kolkata."
+  - title: "Portrait of Prabhat Ranjan Sarkar (Shrii Shrii Anandamurti)"
+    imageUrl: "/artifacts/ananda-marga-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:PRSarkar_GentlemanPhoto_2.jpg"
+    provenance: "Ananda Marga Pracaraka Samgha; CC BY-SA 3.0"
+    period: "Mid-20th century"
+    description: "Prabhat Ranjan Sarkar (1921–1990), known to followers as Shrii Shrii Anandamurti, philosopher and founder of Ananda Marga and the PROUT socio-economic system."
 ---
 
 # Ananda Marga

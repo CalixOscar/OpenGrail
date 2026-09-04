@@ -49,18 +49,16 @@ sources:
     url: >-
       https://www.cambridge.org/core/search?q=Melkite%20Greek%20Catholic%20Church
 artifacts:
-  - title: "Melkite celebration of the Byzantine Divine Liturgy"
+  - title: "Cathedral of Our Lady of the Dormition in Damascus"
     imageUrl: "/artifacts/melkite-greek-catholic-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Melkite_Greek_Catholic_Church,_Damascus_01.jpg"
     provenance: "Bernard Gagnon; CC BY-SA 3.0"
     period: "Image dated 2010"
-    description: "This image shows Melkite celebration of the Byzantine Divine Liturgy, selected as a defining visual reference for Melkite Greek Catholic Church."
-  - title: "Melkite patriarchal Cathedral of the Dormition in Damascus"
+  - title: "Courtyard and entrance of the Melkite Patriarchal Cathedral of Our Lady of the Dormition in Damascus"
     imageUrl: "/artifacts/melkite-greek-catholic-church-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Damasco_Arcieparchia_cattolicaHPIM3220.JPG"
     provenance: "Mappo; CC BY-SA 4.0"
     period: "Image dated 2010"
-    description: "This image shows Melkite patriarchal Cathedral of the Dormition in Damascus, selected as a defining visual reference for Melkite Greek Catholic Church."
 ---
 
 # Melkite Greek Catholic Church

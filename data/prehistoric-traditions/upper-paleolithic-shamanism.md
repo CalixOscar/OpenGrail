@@ -46,18 +46,11 @@ sources:
   - title: 'British Museum: The Löwenmensch (Lion-Man) Ivory Figurine'
     url: 'https://www.britishmuseum.org/collection/object/H_2003-0901-1'
 artifacts:
-  - title: "Lowenmensch lion-headed ivory figurine from Hohlenstein-Stadel"
+  - title: "Löwenmensch (Lion-man) ivory figurine from Hohlenstein-Stadel"
     imageUrl: "/artifacts/upper-paleolithic-shamanism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Lion_man_photo.jpg"
     provenance: "JDuckeck; Public domain"
     period: "Image dated 2011"
-    description: "This image shows Lowenmensch lion-headed ivory figurine from Hohlenstein-Stadel, selected as a defining visual reference for Upper Paleolithic Shamanism & Therianthropism."
-  - title: "Upper Paleolithic animal wall paintings at Chauvet Cave"
-    imageUrl: "/artifacts/upper-paleolithic-shamanism-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Paleolithic_material_culture.jpg"
-    provenance: "Bioanthropologist1; CC BY-SA 4.0"
-    period: "Image dated 2026"
-    description: "This image shows Upper Paleolithic animal wall paintings at Chauvet Cave, selected as a defining visual reference for Upper Paleolithic Shamanism & Therianthropism."
 ---
 
 # Upper Paleolithic Shamanism & Therianthropism

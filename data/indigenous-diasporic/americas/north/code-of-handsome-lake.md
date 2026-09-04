@@ -54,25 +54,18 @@ sources:
   - title: 'Matthew Dennis: "Seneca Possessed: Indians, Witchcraft, and Power in the Early American Republic"'
     url: 'https://www.upenn.edu/pennpress/book/14713.html'
 artifacts:
-  - title: Handsome Lake Preaching at Tonawanda by Jesse Cornplanter
-    imageUrl: /artifacts/code-of-handsome-lake-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Handsome_Lake_Preaching_at_Tonawanda.tif
-    provenance: Jesse Cornplanter; Public domain
-    period: c. 1905
-    description: >-
-      Illustration by Seneca artist Jesse Cornplanter (Sosondowa) depicting
-      Handsome Lake (Sganyodaiyo) preaching the Gaiwiio to the council at
-      Tonawanda, published in Arthur C. Parker's 1913 study 'The Code of Handsome
-      Lake'.
-  - title: Monument marking the grave of Handsome Lake at Onondaga
-    imageUrl: /artifacts/code-of-handsome-lake-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Tomb_of_Handsome_Lake_near_Onondaga_council_house.jpg
-    provenance: Arthur C. Parker / Internet Archive; Public domain
-    period: c. 1910
-    description: >-
-      The marble memorial stone erected in 1898 near the council house on the
-      Onondaga Reservation in New York, marking the burial site of prophet
-      Handsome Lake (died 1815).
+  - title: "Handsome Lake Preaching at Tonawanda by Jesse Cornplanter"
+    imageUrl: "/artifacts/code-of-handsome-lake-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Handsome_Lake_Preaching_at_Tonawanda.tif"
+    provenance: "Jesse Cornplanter; Public domain"
+    period: "c. 1905"
+    description: "Illustration by Seneca artist Jesse Cornplanter (Sosondowa) depicting Handsome Lake (Sganyodaiyo) preaching the Gaiwiio to the council at Tonawanda, published in Arthur C. Parker's 1913 study 'The Code of Handsome Lake'."
+  - title: "Monument marking the grave of Handsome Lake at Onondaga"
+    imageUrl: "/artifacts/code-of-handsome-lake-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tomb_of_Handsome_Lake_near_Onondaga_council_house.jpg"
+    provenance: "Arthur C. Parker / Internet Archive; Public domain"
+    period: "c. 1910"
+    description: "The marble memorial stone erected in 1898 near the council house on the Onondaga Reservation in New York, marking the burial site of prophet Handsome Lake (died 1815)."
 relations:
   - target: haudenosaunee-religion
     type: branch_of

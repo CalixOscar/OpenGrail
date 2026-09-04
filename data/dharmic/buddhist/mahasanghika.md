@@ -46,19 +46,11 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Mah%C4%81s%C4%81%E1%B9%83ghika'
 artifacts:
-  - title: "Amaravati relief from a region strongly associated with Mahasamghika communities"
+  - title: "Sculpted limestone remnants of the Mahāstūpa at Amarāvatī, Andhra Pradesh"
     imageUrl: "/artifacts/mahasanghika-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Remnants_of_Stupa_at_amaravati_02.jpg"
     provenance: "Adityamadhav83; CC BY-SA 3.0"
     period: "Image dated 2011"
-    description: "This image shows Amaravati relief from a region strongly associated with Mahasamghika communities, selected as a defining visual reference for Mahāsāṃghika."
-  - title: "Manuscript of the Mahavastu, a major Mahasamghika-Lokottaravada text"
-    imageUrl: "/artifacts/mahasanghika-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Karla_caves_Chaitya_pillars_vs_Pandavleni_Cave_No10_pillars.jpg"
-    provenance: "Left: Udaykumar PR Right: 036 Cave 10, Front; CC BY 2.0"
-    period: "Image dated 2017"
-    description: "This image shows Manuscript of the Mahavastu, a major Mahasamghika-Lokottaravada text, selected as a defining visual reference for Mahāsāṃghika."
-    detail: high
 ---
 
 # Mahāsāṃghika

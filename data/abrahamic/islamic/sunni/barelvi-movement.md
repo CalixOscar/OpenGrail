@@ -53,18 +53,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Barelvi Movement'
     url: 'https://www.cambridge.org/core/search?q=Barelvi%20Movement'
 artifacts:
-  - title: "Portrait of Ahmad Raza Khan, founder of the Barelvi movement"
+  - title: "Arabic calligraphic emblem of Imam Ahmad Raza Khan Barelvi"
     imageUrl: "/artifacts/barelvi-movement-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ahmad_Raza_Khan_Barelvi.png"
     provenance: "SPQR10; CC BY-SA 3.0"
     period: "Image dated 2019"
-    description: "This image shows Portrait of Ahmad Raza Khan, founder of the Barelvi movement, selected as a defining visual reference for Barelvi Movement."
-  - title: "Dargah of Ahmad Raza Khan at Bareilly"
+  - title: "Dargah-e-Aala Hazrat shrine complex in Bareilly, Uttar Pradesh"
     imageUrl: "/artifacts/barelvi-movement-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Barielly_Sharif_Dargah_Barielly_UP.jpg"
     provenance: "MLD9; CC BY-SA 4.0"
     period: "Image dated 2019"
-    description: "This image shows Dargah of Ahmad Raza Khan at Bareilly, selected as a defining visual reference for Barelvi Movement."
 ---
 
 # Barelvi Movement

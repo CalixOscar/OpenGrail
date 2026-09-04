@@ -47,19 +47,17 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Moabite Religion'
     url: 'https://brill.com/search?q=Moabite%20Religion'
 artifacts:
-  - title: "The Mesha Stele in the Louvre"
+  - title: "The Mesha Stele (Moabite Stone), Louvre Museum"
     imageUrl: "/artifacts/moabite-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mesha_Stele_Louvre.JPG"
-    provenance: "Paterm ( 2008-12-07 ); CC BY-SA 4.0"
+    provenance: "Louvre Museum; CC BY-SA 4.0"
     period: "800 BC"
-    description: "This image shows The Mesha Stele in the Louvre, selected as a defining visual reference for Moabite Religion."
     detail: high
-  - title: "Detail of the Mesha Stele inscription"
+  - title: "Detail view of the Mesha Stele (Moabite Stone) inscription, Louvre Museum"
     imageUrl: "/artifacts/moabite-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mesha_Stele_(511142469).jpg"
-    provenance: "Henri Sivonen from Helsinki, Finland; CC BY 2.0"
+    provenance: "Henri Sivonen; CC BY 2.0"
     period: "Image dated 2007"
-    description: "This image shows Detail of the Mesha Stele inscription, selected as a defining visual reference for Moabite Religion."
     detail: high
 ---
 

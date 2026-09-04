@@ -44,18 +44,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Hanbali School'
     url: 'https://www.cambridge.org/core/search?q=Hanbali%20School'
 artifacts:
-  - title: "Mosque and shrine associated with the Hanbali school's namesake"
+  - title: "Ahmad ibn Hanbal Mosque in Medina"
     imageUrl: "/artifacts/hanbali-school-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ahmad_ibn_Hanbal_Mosque.jpg"
     provenance: "Imam Khairul Annas; CC BY-SA 4.0"
     period: "Image dated 2013"
-    description: "This image shows Mosque and shrine associated with the Hanbali school's namesake, selected as a defining visual reference for Hanbali School."
-  - title: "Historical manuscript of Ahmad ibn Hanbal's Musnad"
+  - title: "Cover of a printed edition of Ahmad ibn Hanbal's Musnad"
     imageUrl: "/artifacts/hanbali-school-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Musnad.PNG"
     provenance: "Jalal0; CC BY 3.0 us"
     period: "Image dated 2011"
-    description: "This image shows Historical manuscript of Ahmad ibn Hanbal's Musnad, selected as a defining visual reference for Hanbali School."
     detail: high
 ---
 

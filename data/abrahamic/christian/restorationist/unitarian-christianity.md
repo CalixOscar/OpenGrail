@@ -47,18 +47,16 @@ sources:
       Christianity
     url: 'https://www.cambridge.org/core/search?q=Unitarian%20Christianity'
 artifacts:
-  - title: "Portrait of Fausto Sozzini, major early Unitarian theologian"
+  - title: "Engraved portrait of theologian Fausto Paolo Sozzini"
     imageUrl: "/artifacts/unitarian-christianity-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Portret_van_de_theoloog_Fausto_Paolo_Sozzini,_RP-P-1908-3942.jpg"
     provenance: "Rijksmuseum; CC0"
     period: "Image dated 1643"
-    description: "This image shows Portrait of Fausto Sozzini, major early Unitarian theologian, selected as a defining visual reference for Unitarian Christianity."
-  - title: "First-edition title page of the Racovian Catechism"
+  - title: "Portrait engraving of Faustus Socinus Senensis, 1739"
     imageUrl: "/artifacts/unitarian-christianity-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Fausto_Sozzini.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "Image dated 1739"
-    description: "This image shows First-edition title page of the Racovian Catechism, selected as a defining visual reference for Unitarian Christianity."
 ---
 
 # Unitarian Christianity

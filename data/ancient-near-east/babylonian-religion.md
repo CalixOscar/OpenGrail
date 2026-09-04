@@ -49,18 +49,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Babylonian Religion'
     url: 'https://brill.com/search?q=Babylonian%20Religion'
 artifacts:
-  - title: "Marduk and mushussu image"
+  - title: "Glazed brick relief of a Mušḫuššu dragon from the Processional Way in Babylon, Istanbul Archaeology Museums"
     imageUrl: "/artifacts/babylonian-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ishtar_Gate_Dragon.JPG"
-    provenance: "The original uploader was Lostinafrica at English Wikipedia .; CC BY-SA 3.0"
+    provenance: "Lostinafrica; CC BY-SA 3.0"
     period: "Image dated 2007"
-    description: "This image shows Marduk and mushussu image, selected as a defining visual reference for Babylonian Religion."
-  - title: "Ishtar Gate of Babylon"
+  - title: "Reconstructed Ishtar Gate of Babylon, Pergamonmuseum Berlin"
     imageUrl: "/artifacts/babylonian-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ishtar_gate_in_Pergamon_museum_in_Berlin..jpg"
     provenance: "Radomir Vrbovsky; CC BY-SA 4.0"
     period: "Image dated 2014"
-    description: "This image shows Ishtar Gate of Babylon, selected as a defining visual reference for Babylonian Religion."
 ---
 
 # Babylonian Religion

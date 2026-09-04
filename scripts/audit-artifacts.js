@@ -53,9 +53,9 @@ async function main() {
     const id = parsed.data.id;
     if (!id || ids.has(id)) fail(errors, `${relativePath}: missing or duplicate id ${id}`);
     ids.add(id);
-    const artifacts = parsed.data.artifacts;
-    if (!Array.isArray(artifacts) || artifacts.length !== 2) {
-      fail(errors, `${relativePath}: expected exactly two artifacts`);
+    const artifacts = parsed.data.artifacts ?? [];
+    if (!Array.isArray(artifacts) || artifacts.length > 2) {
+      fail(errors, `${relativePath}: expected at most two artifacts`);
       continue;
     }
 

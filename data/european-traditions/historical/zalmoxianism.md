@@ -49,24 +49,18 @@ sources:
   - title: 'Brill: Studies in Ancient Greek and Balkan Religion'
     url: 'https://brill.com/search?q=Zalmoxis'
 artifacts:
-  - title: Great Circular Sanctuary at Sarmizegetusa Regia
-    imageUrl: /artifacts/zalmoxianism-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarmizegetusa_Regia-Sanctuarul_mare_circular_(Zona_sacr%C4%83).jpg
-    provenance: Eliza Palos; CC BY-SA 4.0
-    period: 1st century BCE – 1st century CE
-    description: >-
-      The Great Circular Sanctuary in the sacred precinct of the Dacian capital
-      Sarmizegetusa Regia (Orăștie Mountains, Romania), a principal astronomical
-      and ritual centre associated with the priest-kings of Zalmoxis.
-  - title: Andesite and limestone sanctuary circle of Sarmizegetusa Regia
-    imageUrl: /artifacts/zalmoxianism-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarmizegetusa_Regia_-_Sanctuarul_mare_circular._(Zona_sacra).jpg
-    provenance: Calin Jorza; CC BY-SA 3.0
-    period: 1st century BCE – 1st century CE
-    description: >-
-      The stone pillar sanctuaries of Sarmizegetusa Regia in the Orăștie
-      Mountains, central ritual precinct of the Geto-Dacians prior to the Roman
-      conquest in 106 CE.
+  - title: "Great Circular Sanctuary at Sarmizegetusa Regia"
+    imageUrl: "/artifacts/zalmoxianism-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sarmizegetusa_Regia-Sanctuarul_mare_circular_(Zona_sacr%C4%83).jpg"
+    provenance: "Eliza Palos; CC BY-SA 4.0"
+    period: "1st century BCE – 1st century CE"
+    description: "The Great Circular Sanctuary in the sacred precinct of the Dacian capital Sarmizegetusa Regia (Orăștie Mountains, Romania), a principal astronomical and ritual centre associated with the priest-kings of Zalmoxis."
+  - title: "Andesite and limestone sanctuary circle of Sarmizegetusa Regia"
+    imageUrl: "/artifacts/zalmoxianism-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Sarmizegetusa_Regia_-_Sanctuarul_mare_circular._(Zona_sacra).jpg"
+    provenance: "Calin Jorza; CC BY-SA 3.0"
+    period: "1st century BCE – 1st century CE"
+    description: "The stone pillar sanctuaries of Sarmizegetusa Regia in the Orăștie Mountains, central ritual precinct of the Geto-Dacians prior to the Roman conquest in 106 CE."
 relations:
   - target: ancient-greek-religion
     type: influenced_by

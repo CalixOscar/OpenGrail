@@ -44,22 +44,18 @@ sources:
   - title: 'Christian Rebisse: "Rosicrucian History and Mysteries"'
     url: 'https://www.rosicrucian.org/rosicrucian-books'
 artifacts:
-  - title: Entrance of the Rosicrucian Egyptian Museum
-    imageUrl: /artifacts/amorc-rosicrucian-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Rosicrucian_Egyptian_Museum_entrance.jpg
-    provenance: The wub; CC BY-SA 4.0
-    period: Photographed 2023
-    description: >-
-      The Egyptian-revival portal of the Rosicrucian Egyptian Museum at Rosicrucian Park in San Jose,
-      California, established by AMORC founder H. Spencer Lewis in 1927.
-  - title: Portrait of H. Spencer Lewis
-    imageUrl: /artifacts/amorc-rosicrucian-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Harvey_Spencer_Lewis_1927.png
-    provenance: Unknown author; Public domain
-    period: '1927'
-    description: >-
-      Photograph of Harvey Spencer Lewis (1883–1939), who founded the Ancient and Mystical Order
-      Rosae Crucis (AMORC) in 1915 and served as its first Imperator.
+  - title: "Entrance of the Rosicrucian Egyptian Museum"
+    imageUrl: "/artifacts/amorc-rosicrucian-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Rosicrucian_Egyptian_Museum_entrance.jpg"
+    provenance: "The wub; CC BY-SA 4.0"
+    period: "Photographed 2023"
+    description: "The Egyptian-revival portal of the Rosicrucian Egyptian Museum at Rosicrucian Park in San Jose, California, established by AMORC founder H. Spencer Lewis in 1927."
+  - title: "Portrait of H. Spencer Lewis"
+    imageUrl: "/artifacts/amorc-rosicrucian-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Harvey_Spencer_Lewis_1927.png"
+    provenance: "Unknown author; Public domain"
+    period: "1927"
+    description: "Photograph of Harvey Spencer Lewis (1883–1939), who founded the Ancient and Mystical Order Rosae Crucis (AMORC) in 1915 and served as its first Imperator."
 relations:
   - target: rosicrucianism
     type: branch_of

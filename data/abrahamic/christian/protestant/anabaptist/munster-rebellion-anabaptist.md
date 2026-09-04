@@ -45,25 +45,18 @@ sources:
   - title: 'Brill: The Radical Reformation and Münster'
     url: 'https://brill.com/search?q=Munster+Anabaptism'
 artifacts:
-  - title: Anabaptist cages on St. Lambert's Church tower
-    imageUrl: /artifacts/munster-rebellion-anabaptist-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_St.-Lamberti-Kirche,_K%C3%A4fige_--_2022_--_0062.jpg
-    provenance: Dietmar Rabich; CC BY-SA 4.0
-    period: 16th-century cages (photographed 2022)
-    description: >-
-      The three iron cages suspended from the spire of St. Lambert's Church in
-      Münster, where the remains of executed Anabaptist leaders Jan van Leiden,
-      Bernhard Knipperdolling, and Bernhard Krechting were displayed following the
-      suppression of the rebellion in 1535.
-  - title: Engraved portrait of Jan van Leiden
-    imageUrl: /artifacts/munster-rebellion-anabaptist-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Heinrich_Aldegrever,_Jan_van_Leyden,_NGA_3531.jpg
-    provenance: Heinrich Aldegrever; CC0
-    period: 1536 (copper engraving)
-    description: >-
-      A contemporary copper engraving by Westphalian artist Heinrich Aldegrever
-      depicting Jan van Leiden in royal regalia as King of the New Jerusalem
-      during the 1534–1535 Münster Anabaptist theocracy.
+  - title: "Anabaptist cages on St. Lambert's Church tower"
+    imageUrl: "/artifacts/munster-rebellion-anabaptist-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_St.-Lamberti-Kirche,_K%C3%A4fige_--_2022_--_0062.jpg"
+    provenance: "Dietmar Rabich; CC BY-SA 4.0"
+    period: "16th-century cages (photographed 2022)"
+    description: "The three iron cages suspended from the spire of St. Lambert's Church in Münster, where the remains of executed Anabaptist leaders Jan van Leiden, Bernhard Knipperdolling, and Bernhard Krechting were displayed following the suppression of the rebellion in 1535."
+  - title: "Engraved portrait of Jan van Leiden"
+    imageUrl: "/artifacts/munster-rebellion-anabaptist-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Heinrich_Aldegrever,_Jan_van_Leyden,_NGA_3531.jpg"
+    provenance: "Heinrich Aldegrever; CC0"
+    period: "1536 (copper engraving)"
+    description: "A contemporary copper engraving by Westphalian artist Heinrich Aldegrever depicting Jan van Leiden in royal regalia as King of the New Jerusalem during the 1534–1535 Münster Anabaptist theocracy."
 relations:
   - target: anabaptism
     type: branch_of

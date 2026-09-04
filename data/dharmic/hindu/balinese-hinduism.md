@@ -38,18 +38,16 @@ sources:
   - title: 'UNESCO World Heritage: Cultural Landscape of Bali Province: the Subak System'
     url: 'https://whc.unesco.org/en/list/1194/'
 artifacts:
-  - title: "Padmasana shrine tower dedicated to Acintya in Bali"
+  - title: "Carved stone shrine pillar at Pura Puseh Temple in Batuan, Bali"
     imageUrl: "/artifacts/balinese-hinduism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Balinese_temple_pillar.jpg"
     provenance: "Pravin Premkumar; CC BY 2.0"
     period: "Image dated 2005"
-    description: "This image shows Padmasana shrine tower dedicated to Acintya in Bali, selected as a defining visual reference for Balinese Hinduism."
-  - title: "Pura Besakih, Bali's Mother Temple"
+  - title: "Split gateway (candi bentar) at Pura Besakih, Bali's Mother Temple"
     imageUrl: "/artifacts/balinese-hinduism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mother_Temple_of_Besakih.jpg"
-    provenance: "Xeviro at English Wikipedia; CC BY-SA 3.0"
+    provenance: "Xeviro; CC BY-SA 3.0"
     period: "Image dated 2006"
-    description: "This image shows Pura Besakih, Bali's Mother Temple, selected as a defining visual reference for Balinese Hinduism."
 ---
 
 # Balinese Hinduism

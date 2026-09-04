@@ -45,18 +45,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Baptist Traditions'
     url: 'https://www.cambridge.org/core/search?q=Baptist%20Traditions'
 artifacts:
-  - title: "Believer's baptism by full immersion, defining Baptist practice"
+  - title: "Believer's baptism by full water immersion at Champion Forest Baptist Church"
     imageUrl: "/artifacts/baptist-traditions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Champion_Forest_Baptist_Church_-_Baptism_-_August_2017.jpg"
     provenance: "Stevenlmiori; CC BY-SA 4.0"
     period: "Image dated 2017"
-    description: "This image shows Believer's baptism by full immersion, defining Baptist practice, selected as a defining visual reference for Baptist Traditions."
-  - title: "Historic First Baptist Church in America at Providence"
+  - title: "First Baptist Meetinghouse in Providence, Rhode Island"
     imageUrl: "/artifacts/baptist-traditions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:First_Baptist_Meetinghouse,_Providence,_RI.jpg"
     provenance: "Daniel Case; CC BY-SA 3.0"
     period: "Image dated 2008"
-    description: "This image shows Historic First Baptist Church in America at Providence, selected as a defining visual reference for Baptist Traditions."
 ---
 
 # Baptist Traditions

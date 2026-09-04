@@ -46,15 +46,12 @@ sources:
   - title: 'Brill: Russian Judaizers and Subbotniks'
     url: 'https://brill.com/search?q=Subbotniks+Russia'
 artifacts:
-  - title: Dubrovin Estate courtyard in Yesod HaMa'ala
-    imageUrl: /artifacts/subbotniks-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:%D7%90%D7%97%D7%95%D7%96%D7%AA_%D7%93%D7%95%D7%91%D7%A8%D7%95%D7%91%D7%99%D7%9F_-_%D7%94%D7%97%D7%A6%D7%A8.JPG
-    provenance: Levanal; CC BY-SA 3.0
-    period: Founded early 20th century (photographed 2012)
-    description: >-
-      The historic courtyard of the Dubrovin Estate in Yesod HaMa'ala, established
-      by Russian Subbotnik convert Yoav Dubrovin and his family following their
-      migration from the Russian Empire to the Galilee during the Second Aliyah.
+  - title: "Dubrovin Estate courtyard in Yesod HaMa'ala"
+    imageUrl: "/artifacts/subbotniks-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:%D7%90%D7%97%D7%95%D7%96%D7%AA_%D7%93%D7%95%D7%91%D7%A8%D7%95%D7%91%D7%99%D7%9F_-_%D7%94%D7%97%D7%A6%D7%A8.JPG"
+    provenance: "Levanal; CC BY-SA 3.0"
+    period: "Founded early 20th century (photographed 2012)"
+    description: "The historic courtyard of the Dubrovin Estate in Yesod HaMa'ala, established by Russian Subbotnik convert Yoav Dubrovin and his family following their migration from the Russian Empire to the Galilee during the Second Aliyah."
 relations:
   - target: molokans
     type: diverged_from

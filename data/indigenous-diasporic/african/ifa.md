@@ -46,18 +46,11 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=If%C3%A1'
 artifacts:
-  - title: "Carved wooden Opon Ifa divination tray"
+  - title: "Drawing of a 16th–17th century carved wooden Opon Ifá divination tray"
     imageUrl: "/artifacts/ifa-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Buzios_antiq_somb_cor.jpg"
-    provenance: "Andre Koehne; CC BY-SA 3.0"
+    provenance: "André Koehne; CC BY-SA 3.0"
     period: "17th century"
-    description: "This image shows Carved wooden Opon Ifa divination tray, selected as a defining visual reference for Ifá."
-  - title: "Osun-Osogbo Sacred Grove sanctuary"
-    imageUrl: "/artifacts/ifa-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Suspension_Bridge_at_Osun_Sacred_Grove_in_Osogbo,_Nigeria.jpg"
-    provenance: "4toscenethesis; CC BY-SA 4.0"
-    period: "Image dated 2018"
-    description: "This image shows Osun-Osogbo Sacred Grove sanctuary, selected as a defining visual reference for Ifá."
 ---
 
 # Ifá

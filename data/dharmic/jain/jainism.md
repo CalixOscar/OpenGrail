@@ -47,18 +47,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Jainism'
 artifacts:
-  - title: "Image of Mahavira, the twenty-fourth Jina"
+  - title: "Marble shrine with Four Jinas (Chaumukha), 11th–12th century Gujarat, LACMA"
     imageUrl: "/artifacts/jainism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shrine_with_Four_Jinas_(Rishabhanatha_(Adinatha),_Parshvanatha,_Neminatha,_and_Mahavira)_LACMA_M.85.55_(1_of_4).jpg"
-    provenance: "Wikimedia Commons; Public domain"
+    provenance: "Unknown; Public domain"
     period: "Digital file published 2013"
-    description: "This image shows Image of Mahavira, the twenty-fourth Jina, selected as a defining visual reference for Jainism."
-  - title: "Dilwara Temples, masterpieces of Jain sacred architecture"
+  - title: "Intricately carved marble ceiling at Dilwara Jain Temples, Mount Abu"
     imageUrl: "/artifacts/jainism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:LDDilwaraCeiling.jpg"
     provenance: "LinguisticDemographer at English Wikipedia; Public domain"
     period: "Image dated 2007"
-    description: "This image shows Dilwara Temples, masterpieces of Jain sacred architecture, selected as a defining visual reference for Jainism."
 ---
 
 # Jainism

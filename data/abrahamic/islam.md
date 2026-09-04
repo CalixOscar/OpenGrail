@@ -50,18 +50,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Islam'
     url: 'https://www.cambridge.org/core/search?q=Islam'
 artifacts:
-  - title: "Pilgrims circling the Kaaba during Hajj"
+  - title: "Bird's-eye view of pilgrims surrounding the Kaaba in Mecca, circa 1910"
     imageUrl: "/artifacts/islam-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mecca_hist_1.jpg"
-    provenance: "Original uploader was Bless sins at en.wikipedia; CC BY-SA 2.0"
+    provenance: "American Colony Photo Dept. / Bless sins; CC BY-SA 2.0"
     period: "Image dated 2008"
-    description: "This image shows Pilgrims circling the Kaaba during Hajj, selected as a defining visual reference for Islam."
-  - title: "Blue Quran folio, iconic sacred Islamic calligraphy"
+  - title: "Mamluk Qur'an frontispiece folio in white Kufic script on blue and gold ground"
     imageUrl: "/artifacts/islam-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Folio_from_a_Koran_(Sura_Najm).jpg"
     provenance: "Unknown in Mamluk dynasty; Public domain"
     period: "late 14th century"
-    description: "This image shows Blue Quran folio, iconic sacred Islamic calligraphy, selected as a defining visual reference for Islam."
     detail: high
 ---
 

@@ -46,18 +46,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9Aaiva%20Siddh%C4%81nta'
 artifacts:
-  - title: "Chola bronze of Nataraja, supreme icon of Tamil Saiva worship"
+  - title: "Chola bronze of Shiva Nataraja (Lord of Dance), Tamil Nadu, 10th–11th century"
     imageUrl: "/artifacts/shaiva-siddhanta-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shiva_as_the_Lord_of_Dance_LACMA_edit.jpg"
-    provenance: "Shiva_as_the_Lord_of_Dance_LACMA.jpg , photographed by the LACMA. derivative work: Julia \\ talk; Public domain"
+    provenance: "Unknown artist; Public domain"
     period: "Image dated 1000"
-    description: "This image shows Chola bronze of Nataraja, supreme icon of Tamil Saiva worship, selected as a defining visual reference for Śaiva Siddhānta."
-  - title: "Chidambaram Nataraja Temple, central Saiva Siddhanta sanctuary"
+  - title: "Shivaganga temple tank at the Chidambaram Nataraja Temple, Tamil Nadu"
     imageUrl: "/artifacts/shaiva-siddhanta-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Chidambaram_Nataraja_temple_tank.JPG"
     provenance: "BishkekRocks; CC BY-SA 3.0"
     period: "Image dated 2008"
-    description: "This image shows Chidambaram Nataraja Temple, central Saiva Siddhanta sanctuary, selected as a defining visual reference for Śaiva Siddhānta."
 ---
 
 # Śaiva Siddhānta

@@ -45,18 +45,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Mandaeism'
     url: 'https://www.cambridge.org/core/search?q=Mandaeism'
 artifacts:
-  - title: "Mandaean priests performing the defining masbuta river baptism"
+  - title: "Mandaean Masbuta (baptism) ceremony in the Karun River, Ahvaz"
     imageUrl: "/artifacts/mandeanism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Masbuta_by_Mandaean_in_Karun_River,_Ahvaz,_Iran_-_16_July_2018_(20).jpg"
     provenance: "Mehdi Pedramkhoo; CC BY 4.0"
     period: "Image dated 2018"
-    description: "This image shows Mandaean priests performing the defining masbuta river baptism, selected as a defining visual reference for Mandaeism."
-  - title: "Illustrated or inscribed manuscript of the Ginza Rabba"
+  - title: "Mandaic scriptural reading class for women led by Salem Choheili in Ahvaz"
     imageUrl: "/artifacts/mandeanism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mandaic_class_women_Ahvaz_02.jpg"
     provenance: "Yuhana Nashmi (The Worlds of Mandaean Priests); CC BY-SA 4.0"
     period: "Image dated 2015"
-    description: "This image shows Illustrated or inscribed manuscript of the Ginza Rabba, selected as a defining visual reference for Mandaeism."
     detail: high
 ---
 

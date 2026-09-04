@@ -47,18 +47,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Alawite Tradition'
     url: 'https://www.cambridge.org/core/search?q=Alawite%20Tradition'
 artifacts:
-  - title: "A documented Alawite saint's shrine in western Syria"
+  - title: "Mausoleum shrine of Sheikh Muhammad al-Ajami in Homs Governorate, Syria"
     imageUrl: "/artifacts/alawite-tradition-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%D9%85%D9%82%D8%A7%D9%85_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B9%D8%AC%D9%85%D9%8A_%D8%A7%D9%85_%D8%AD%D8%A7%D8%B1%D8%AA%D9%8A%D9%86_%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9_%D8%AD%D8%AF%D9%8A%D8%AF%D8%A9_%D8%AD%D9%85%D8%B5.jpg"
     provenance: "Hayan Alhasan; CC BY-SA 4.0"
     period: "Image dated 2024"
-    description: "This image shows A documented Alawite saint's shrine in western Syria, selected as a defining visual reference for Alawite Tradition."
-  - title: "Rural ziyara shrine in the Latakia coastal mountains"
+  - title: "Rural Alawite ziyara shrine in Syria"
     imageUrl: "/artifacts/alawite-tradition-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%D9%85%D9%82%D8%A7%D9%85_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D8%B3%D8%A8%D8%A3_-_Makam_abdulla_bin_sabaa.jpg"
-    provenance: "facebook; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "Image dated 2017"
-    description: "This image shows Rural ziyara shrine in the Latakia coastal mountains, selected as a defining visual reference for Alawite Tradition."
 ---
 
 # Alawite Tradition

@@ -43,18 +43,18 @@ relations:
     certainty: academic_consensus
     citation: Founder Taniguchi Masaharu was an active disciple and editorial contributor within Ōmoto during the 1920s before establishing his independent movement.
 artifacts:
-  - title: Portrait of Taniguchi Masaharu
-    imageUrl: /artifacts/seicho-no-ie-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Nippon-Kyobunsha-1959-1.jpg'
-    provenance: Nippon Kyōbunsha; Public domain
-    period: Photographed 1958
-    description: 'Portrait of Taniguchi Masaharu (1893–1985), author of The Truth of Life (Seimei no Jissō) and founder of Seichō-no-Ie.'
-  - title: Seichō-no-Ie Harajuku Center
-    imageUrl: /artifacts/seicho-no-ie-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Seicho-No-Ie_Shibuya_1.jpg'
-    provenance: Lombroso; Public domain
-    period: Photographed 2006
-    description: 'The former central headquarters and Tower of Light facility of Seichō-no-Ie in Harajuku, Shibuya, Tokyo.'
+  - title: "Portrait of Taniguchi Masaharu"
+    imageUrl: "/artifacts/seicho-no-ie-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nippon-Kyobunsha-1959-1.jpg"
+    provenance: "Nippon Kyōbunsha; Public domain"
+    period: "Photographed 1958"
+    description: "Portrait of Taniguchi Masaharu (1893–1985), author of The Truth of Life (Seimei no Jissō) and founder of Seichō-no-Ie."
+  - title: "Seichō-no-Ie Harajuku Center"
+    imageUrl: "/artifacts/seicho-no-ie-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Seicho-No-Ie_Shibuya_1.jpg"
+    provenance: "Lombroso; Public domain"
+    period: "Photographed 2006"
+    description: "The former central headquarters and Tower of Light facility of Seichō-no-Ie in Harajuku, Shibuya, Tokyo."
 ---
 
 # Seichō-no-Ie

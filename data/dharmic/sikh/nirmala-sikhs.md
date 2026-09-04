@@ -45,19 +45,6 @@ sources:
     url: 'https://www.oxfordreference.com/search?q=Nirmal%C4%81%20Sikhs'
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Nirmal%C4%81%20Sikhs'
-artifacts:
-  - title: "Nirmala Sikh scholar-ascetic in characteristic saffron robes"
-    imageUrl: "/artifacts/nirmala-sikhs-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Illustrated_manuscript_of_a_Kashmir_Shaivist_or_Trika_Yoga_text_written_in_Gurmukhi_script,_discussing_chakras_and_kundalini_(detail_2).jpg"
-    provenance: "Unknown scribe and painter; Public domain"
-    period: "likely circa 19th century"
-    description: "This image shows Nirmala Sikh scholar-ascetic in characteristic saffron robes, selected as a defining visual reference for Nirmalā Sikhs."
-  - title: "Nirmal Akhara at Haridwar, institutional center of the order"
-    imageUrl: "/artifacts/nirmala-sikhs-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nirmala_Sharma1.JPG"
-    provenance: "Ganesh Paudel; CC BY-SA 3.0"
-    period: "Image dated 2013"
-    description: "This image shows Nirmal Akhara at Haridwar, institutional center of the order, selected as a defining visual reference for Nirmalā Sikhs."
 ---
 
 # Nirmalā Sikhs

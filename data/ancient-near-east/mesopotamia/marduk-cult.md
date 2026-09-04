@@ -49,18 +49,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Marduk'
     url: 'https://brill.com/search?q=Cult%20of%20Marduk'
 artifacts:
-  - title: "Marduk with mushussu dragon"
+  - title: "Glazed brick relief of the Mušḫuššu dragon of Marduk from the Processional Way in Babylon, Istanbul Archaeology Museums"
     imageUrl: "/artifacts/marduk-cult-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ishtar_Gate_Dragon.JPG"
-    provenance: "The original uploader was Lostinafrica at English Wikipedia .; CC BY-SA 3.0"
+    provenance: "Lostinafrica; CC BY-SA 3.0"
     period: "Image dated 2007"
-    description: "This image shows Marduk with mushussu dragon, selected as a defining visual reference for Cult of Marduk."
-  - title: "Esagila sanctuary"
+  - title: "Kudurru of King Marduk-nadin-ahhe excavated from the temple of Esagila, Walters Art Museum"
     imageUrl: "/artifacts/marduk-cult-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Babylonian_-_Boundary_Stone_-_Walters_2110.jpg"
-    provenance: "Anonymous ( Babylon ) Unknown author; Public domain"
+    provenance: "Walters Art Museum; Public domain"
     period: "Image dated 1099"
-    description: "This image shows Esagila sanctuary, selected as a defining visual reference for Cult of Marduk."
 ---
 
 # Cult of Marduk

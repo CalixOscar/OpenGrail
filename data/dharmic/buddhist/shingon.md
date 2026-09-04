@@ -47,18 +47,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Shingon%20Buddhism'
 artifacts:
-  - title: "Portrait of Kukai, founder of Shingon Buddhism"
+  - title: "Hanging scroll portrait of Esoteric Patriarch Amoghavajra with calligraphy by Kūkai at Tō-ji"
     imageUrl: "/artifacts/shingon-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Amogha-Toji_821_pic1910.jpg"
-    provenance: "Orig. Kukai, photo ca. 1909: Dept. of the Interior (Japan); Public domain"
+    provenance: "Kūkai / Dept. of the Interior (Japan); Public domain"
     period: "Image dated 1910"
-    description: "This image shows Portrait of Kukai, founder of Shingon Buddhism, selected as a defining visual reference for Shingon Buddhism."
-  - title: "Kongobu-ji on Mount Koya, head temple of Shingon"
+  - title: "Approaching path through cryptomeria forest at Okunoin on Mount Kōya"
     imageUrl: "/artifacts/shingon-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Okunoin_I.JPG"
     provenance: "Hiro2006; CC BY-SA 3.0"
     period: "Image dated 2003"
-    description: "This image shows Kongobu-ji on Mount Koya, head temple of Shingon, selected as a defining visual reference for Shingon Buddhism."
 ---
 
 # Shingon Buddhism

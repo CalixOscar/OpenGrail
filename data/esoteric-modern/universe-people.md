@@ -44,14 +44,12 @@ sources:
   - title: 'James R. Lewis: "The Encyclopedic Sourcebook of UFO Religions"'
     url: 'https://rowman.com/ISBN/9781573929943/The-Encyclopedic-Sourcebook-of-UFO-Religions'
 artifacts:
-  - title: Universe People public outreach at Letná Park
-    imageUrl: /artifacts/universe-people-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Astar_na_letne.jpg
-    provenance: Che at Czech Wikipedia; CC BY-SA 2.5
-    period: Photographed May 2002
-    description: >-
-      A Universe People (*Vesmírní lidé*) practitioner displaying a flyer depicting Ashtar Sheran
-      and the Book of Life during a public outreach gathering in Letná Park, Prague.
+  - title: "Universe People public outreach at Letná Park"
+    imageUrl: "/artifacts/universe-people-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Astar_na_letne.jpg"
+    provenance: "Che at Czech Wikipedia; CC BY-SA 2.5"
+    period: "Photographed May 2002"
+    description: "A Universe People (*Vesmírní lidé*) practitioner displaying a flyer depicting Ashtar Sheran and the Book of Life during a public outreach gathering in Letná Park, Prague."
 relations:
   - target: ufo-religions
     type: branch_of

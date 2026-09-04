@@ -48,24 +48,18 @@ sources:
   - title: 'Brill: The Roman Cult of Sol Invictus'
     url: 'https://brill.com/search?q=Sol+Invictus'
 artifacts:
-  - title: Radiate coin of Emperor Aurelian depicting Sol Invictus
-    imageUrl: /artifacts/sol-invictus-cult-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Radiate_of_Aurelian_(YORYM_2001_9658)_reverse.jpg
-    provenance: York Museums Trust; CC BY-SA 4.0
-    period: 270–275 CE
-    description: >-
-      Reverse of a radiate coin of Emperor Aurelian depicting Sol Invictus
-      striding with radiate crown, globe, and whip between seated captives,
-      celebrating the restoration of imperial solar authority.
-  - title: Vault mosaic of Sol in the Tomb of the Julii (Mausoleum M)
-    imageUrl: /artifacts/sol-invictus-cult-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:ChristAsSol.jpg
-    provenance: Leinad-Z; Public domain
-    period: Late 3rd – early 4th century CE
-    description: >-
-      Third-century vault mosaic in the Tomb of the Julii beneath St. Peter's
-      Basilica in Rome, depicting Christ syncretically with the radiate nimbus,
-      cloak, and solar chariot of Sol Invictus.
+  - title: "Radiate coin of Emperor Aurelian depicting Sol Invictus"
+    imageUrl: "/artifacts/sol-invictus-cult-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Radiate_of_Aurelian_(YORYM_2001_9658)_reverse.jpg"
+    provenance: "York Museums Trust; CC BY-SA 4.0"
+    period: "270–275 CE"
+    description: "Reverse of a radiate coin of Emperor Aurelian depicting Sol Invictus striding with radiate crown, globe, and whip between seated captives, celebrating the restoration of imperial solar authority."
+  - title: "Vault mosaic of Sol in the Tomb of the Julii (Mausoleum M)"
+    imageUrl: "/artifacts/sol-invictus-cult-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:ChristAsSol.jpg"
+    provenance: "Leinad-Z; Public domain"
+    period: "Late 3rd – early 4th century CE"
+    description: "Third-century vault mosaic in the Tomb of the Julii beneath St. Peter's Basilica in Rome, depicting Christ syncretically with the radiate nimbus, cloak, and solar chariot of Sol Invictus."
 relations:
   - target: roman-religion
     type: branch_of

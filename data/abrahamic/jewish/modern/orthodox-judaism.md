@@ -41,18 +41,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Orthodox Judaism'
     url: 'https://www.cambridge.org/core/search?q=Orthodox%20Judaism'
 artifacts:
-  - title: "Torah reading in an Orthodox synagogue"
+  - title: "Diagram of an Aron Kodesh (Torah ark) in an Eastern European Orthodox synagogue"
     imageUrl: "/artifacts/orthodox-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Brockhaus_and_Efron_Jewish_Encyclopedia_e3_188-5.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "D. Maggid; Public domain"
     period: "Image dated 1906"
-    description: "This image shows Torah reading in an Orthodox synagogue, selected as a defining visual reference for Orthodox Judaism."
-  - title: "Traditional portrait of the Vilna Gaon, iconic Orthodox rabbinic authority"
+  - title: "Traditional portrait of the Vilna Gaon (Eliyahu ben Shlomo Zalman)"
     imageUrl: "/artifacts/orthodox-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Gaon2.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown; Public domain"
     period: "Digital file published 2019"
-    description: "This image shows Traditional portrait of the Vilna Gaon, iconic Orthodox rabbinic authority, selected as a defining visual reference for Orthodox Judaism."
 ---
 
 # Orthodox Judaism

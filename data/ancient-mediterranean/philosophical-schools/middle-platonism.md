@@ -52,18 +52,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Middle Platonism'
     url: 'https://brill.com/search?q=Middle%20Platonism'
 artifacts:
-  - title: "Portrait of Plutarch"
+  - title: "Modern bust of Plutarch at Chaeronea (based on the Delphi portrait)"
     imageUrl: "/artifacts/middle-platonism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Plutarch_of_Chaeronea-03-removebg-preview.png"
     provenance: "Deedman22; CC BY-SA 4.0"
     period: "Image dated 2021"
-    description: "This image shows Portrait of Plutarch, selected as a defining visual reference for Middle Platonism."
-  - title: "Manuscript of Plutarch's Moralia"
+  - title: "Folio from Plutarch's De virtute et vitio (Moralia), Biblioteca Marciana Gr. 248"
     imageUrl: "/artifacts/middle-platonism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Plutarch,_De_virtute_et_vitio,_Venice,_Gr._248.jpg"
-    provenance: "Plutarch; Public domain"
+    provenance: "Biblioteca Nazionale Marciana; Public domain"
     period: "Digital file published 2016"
-    description: "This image shows Manuscript of Plutarch's Moralia, selected as a defining visual reference for Middle Platonism."
     detail: high
 ---
 

@@ -44,18 +44,11 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Mohism'
 artifacts:
-  - title: "Classical portrait of the philosopher Mozi (Mo Di)"
+  - title: "Classical portrait of philosopher Mozi (Mo Di)"
     imageUrl: "/artifacts/mohism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84_%D0%9C%D0%BE-%D0%A6%D0%B7%D1%8B.jpg"
     provenance: "Vjacheslav Rublevskiy; CC0"
     period: "Image dated 2021"
-    description: "This image shows Classical portrait of the philosopher Mozi (Mo Di), selected as a defining visual reference for Mohism."
-  - title: "Ancient Chinese philosophical bamboo text slips"
-    imageUrl: "/artifacts/mohism-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:%E5%BC%B5%E6%8E%96%E9%83%A1%E6%B0%90%E6%B1%A0%E7%B8%A3%E9%A8%8E%E5%A3%AB%E5%90%8D%E7%B1%8D.jpg"
-    provenance: "氏子; CC0"
-    period: "Image dated 2023"
-    description: "This image shows Ancient Chinese philosophical bamboo text slips, selected as a defining visual reference for Mohism."
 ---
 
 # Mohism

@@ -42,18 +42,18 @@ relations:
     certainty: academic_consensus
     citation: Employs Advaita Vedāntic terminology regarding the underlying non-dual identity between the individual soul (*jīva*) and the universal Supreme Self (*Brahman*).
 artifacts:
-  - title: Prasanthi Nilayam Ashram Complex
-    imageUrl: /artifacts/sathya-sai-baba-movement-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Prasanthi_Nilayam_-_Sri_Sathya_Sai_Baba_01.jpg'
-    provenance: Venkatant; CC BY-SA 4.0
-    period: Photographed 2017
-    description: 'The Prasanthi Nilayam ("Abode of Supreme Peace") main ashram complex in Puttaparthi, Andhra Pradesh, founded in 1950 by Sathya Sai Baba.'
-  - title: Main Gopuram Entrance to Prasanthi Nilayam
-    imageUrl: /artifacts/sathya-sai-baba-movement-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Prasanthi_Nilayam_entrance.jpg'
-    provenance: J929; Public domain
-    period: Photographed 2010
-    description: The South Indian gopuram-style gateway to the Prasanthi Nilayam ashram in Puttaparthi.
+  - title: "Prasanthi Nilayam Ashram Complex"
+    imageUrl: "/artifacts/sathya-sai-baba-movement-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Prasanthi_Nilayam_-_Sri_Sathya_Sai_Baba_01.jpg"
+    provenance: "Venkatant; CC BY-SA 4.0"
+    period: "Photographed 2017"
+    description: "The Prasanthi Nilayam (\"Abode of Supreme Peace\") main ashram complex in Puttaparthi, Andhra Pradesh, founded in 1950 by Sathya Sai Baba."
+  - title: "Main Gopuram Entrance to Prasanthi Nilayam"
+    imageUrl: "/artifacts/sathya-sai-baba-movement-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Prasanthi_Nilayam_entrance.jpg"
+    provenance: "J929; Public domain"
+    period: "Photographed 2010"
+    description: "The South Indian gopuram-style gateway to the Prasanthi Nilayam ashram in Puttaparthi."
 ---
 
 # Sathya Sai Baba Movement

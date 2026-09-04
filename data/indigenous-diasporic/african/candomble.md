@@ -50,18 +50,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Candombl%C3%A9'
 artifacts:
-  - title: "Ceremonial festival and offerings for Iemanja in Salvador da Bahia"
+  - title: "Devotee presenting offerings during the Festa de Iemanjá in Rio Vermelho, Salvador"
     imageUrl: "/artifacts/candomble-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mimos_para_Iemanj%C3%A1.jpg"
     provenance: "Jonas.Feitosa; CC BY-SA 4.0"
     period: "Image dated 2020"
-    description: "This image shows Ceremonial festival and offerings for Iemanja in Salvador da Bahia, selected as a defining visual reference for Candomblé."
-  - title: "Historic Terreiro da Casa Branca do Engenho Velho"
+  - title: "Terreiro da Casa Branca do Engenho Velho (Ilê Axé Iyá Nassô Oká) in Salvador, Bahia"
     imageUrl: "/artifacts/candomble-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Il%C3%AA_Ax%C3%A9_Iy%C3%A1_Nass%C3%B4_Ok%C3%A1_Casa_Branca_Salvador_2017-88.jpg"
     provenance: "Paul R. Burley; CC BY-SA 4.0"
     period: "Image dated 2017"
-    description: "This image shows Historic Terreiro da Casa Branca do Engenho Velho, selected as a defining visual reference for Candomblé."
 ---
 
 # Candomblé

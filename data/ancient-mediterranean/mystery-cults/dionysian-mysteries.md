@@ -53,19 +53,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Dionysian Mysteries'
     url: 'https://brill.com/search?q=Dionysian%20Mysteries'
 artifacts:
-  - title: "Dionysian initiation fresco"
+  - title: "Dionysian mystery rite megalographic fresco in the Villa of the Mysteries, Pompeii"
     imageUrl: "/artifacts/dionysian-mysteries-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Villa-of-the-mysteries-dionysian-fresco-long-shot.jpg"
     provenance: "Mosborne01; CC BY-SA 3.0"
     period: "Image dated 2003"
-    description: "This image shows Dionysian initiation fresco, selected as a defining visual reference for Dionysian Mysteries."
-  - title: "Dionysian initiatory gold tablet"
-    imageUrl: "/artifacts/dionysian-mysteries-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Villa_dei_Misteri_3.JPG"
-    provenance: "Mentnafunangann; CC BY-SA 3.0"
-    period: "Image dated 2012"
-    description: "This image shows Dionysian initiatory gold tablet, selected as a defining visual reference for Dionysian Mysteries."
-    detail: high
 ---
 
 # Dionysian Mysteries

@@ -48,18 +48,16 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=%C5%9Ar%C4%ABkula%20%2F%20%C5%9Ar%C4%ABvidy%C4%81
 artifacts:
-  - title: "Sricakra, central ritual diagram of Srividya"
+  - title: "Diagram of the sacred Sri Yantra (Sri Cakra)"
     imageUrl: "/artifacts/srikula-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Sree_Chakram.JPG"
     provenance: "Ranjithsiji; CC BY-SA 3.0"
     period: "Image dated 2010"
-    description: "This image shows Sricakra, central ritual diagram of Srividya, selected as a defining visual reference for Śrīkula / Śrīvidyā."
-  - title: "Kamaksi Temple at Kanchipuram, a major Srikula sanctuary"
+  - title: "Kamakshi Amman Temple and temple tank in Kanchipuram, Tamil Nadu"
     imageUrl: "/artifacts/srikula-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kanchipuram_Kamakshi_Amman_Temple.jpg"
     provenance: "Jbuchholz; CC BY-SA 4.0"
     period: "Image dated 2014"
-    description: "This image shows Kamaksi Temple at Kanchipuram, a major Srikula sanctuary, selected as a defining visual reference for Śrīkula / Śrīvidyā."
 ---
 
 # Śrīkula / Śrīvidyā

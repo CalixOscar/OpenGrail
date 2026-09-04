@@ -45,18 +45,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Catholicism'
     url: 'https://www.cambridge.org/core/search?q=Catholicism'
 artifacts:
-  - title: "The pope presiding at Mass in Saint Peter's Basilica"
+  - title: "Panoramic view of Saint Peter's Basilica and Square from Castel Sant'Angelo"
     imageUrl: "/artifacts/catholicism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:St._Peter%27s_Basilica_(Basilica_Sancti_Petri)_seen_from_St._Angelo.jpg"
     provenance: "JanST; CC BY-SA 4.0"
     period: "Image dated 2016"
-    description: "This image shows The pope presiding at Mass in Saint Peter's Basilica, selected as a defining visual reference for Catholicism."
-  - title: "Raphael's Disputation, monumental art centered on Eucharistic theology"
+  - title: "Raphael's Disputation of the Most Holy Sacrament in the Vatican"
     imageUrl: "/artifacts/catholicism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dispute.jpg"
     provenance: "Raphael; Public domain"
     period: "Image dated 1508"
-    description: "This image shows Raphael's Disputation, monumental art centered on Eucharistic theology, selected as a defining visual reference for Catholicism."
 ---
 
 # Catholicism

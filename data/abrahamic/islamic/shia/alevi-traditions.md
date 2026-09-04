@@ -50,18 +50,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Alevi Traditions'
     url: 'https://www.cambridge.org/core/search?q=Alevi%20Traditions'
 artifacts:
-  - title: "Alevi cem worship with the ritual semah"
+  - title: "Alevi-Bektashi cem ritual gathering"
     imageUrl: "/artifacts/alevi-traditions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cem2.jpg"
     provenance: "Selucreh1; CC BY-SA 4.0"
     period: "Image dated 2014"
-    description: "This image shows Alevi cem worship with the ritual semah, selected as a defining visual reference for Alevi Traditions."
-  - title: "Haci Bektash Veli lodge and pilgrimage complex"
+  - title: "Dervish begging bowls (keşkül) from the Haji Bektash Veli dergâh"
     imageUrl: "/artifacts/alevi-traditions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Keskul_GrantBowl.JPG"
     provenance: "Noumenon; Public domain"
     period: "Image dated 2005"
-    description: "This image shows Haci Bektash Veli lodge and pilgrimage complex, selected as a defining visual reference for Alevi Traditions."
 ---
 
 # Alevi Traditions

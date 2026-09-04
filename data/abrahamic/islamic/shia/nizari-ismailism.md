@@ -44,18 +44,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Nizari Ismailism'
     url: 'https://www.cambridge.org/core/search?q=Nizari%20Ismailism'
 artifacts:
-  - title: "Portrait of Aga Khan IV, hereditary Nizari Imam"
+  - title: "Press photograph of Prince Karim Aga Khan IV, 1964"
     imageUrl: "/artifacts/nizari-ismailism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Aga_Khan_IV_1964.jpg"
     provenance: "Associated Press; Public domain"
     period: "Image dated 1964"
-    description: "This image shows Portrait of Aga Khan IV, hereditary Nizari Imam, selected as a defining visual reference for Nizari Ismailism."
-  - title: "Ruins of Alamut, historic Nizari Ismaili stronghold"
+  - title: "View of the rock fortress of Alamut Castle in Qazvin, Iran"
     imageUrl: "/artifacts/nizari-ismailism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Iran_-_Qazvin_-_Alamout_Castle_View.jpg"
     provenance: "Alireza Javaheri; CC BY 3.0"
     period: "Image dated 2011"
-    description: "This image shows Ruins of Alamut, historic Nizari Ismaili stronghold, selected as a defining visual reference for Nizari Ismailism."
 ---
 
 # Nizari Ismailism

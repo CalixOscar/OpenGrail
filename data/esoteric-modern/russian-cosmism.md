@@ -52,18 +52,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Russian Cosmism'
     url: 'https://brill.com/search?q=Russian%20Cosmism'
 artifacts:
-  - title: "Portrait drawing of Cosmist philosopher Nikolai Fyodorov"
-    imageUrl: "/artifacts/russian-cosmism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:0NevrevNV_Oprichniki_BISHFXD.jpg"
-    provenance: "Nikolai Nevrev; Public domain"
-    period: "Digital file published 2023"
-    description: "This image shows Portrait drawing of Cosmist philosopher Nikolai Fyodorov, selected as a defining visual reference for Russian Cosmism."
-  - title: "Tsiolkovsky cosmological manuscript"
+  - title: "Konstantin Tsiolkovsky's weightlessness illustration from \"Album of Space Travel\" (1933)"
     imageUrl: "/artifacts/russian-cosmism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tsiolkovsky_Album_11.jpg"
-    provenance: "Konstantin Tsiolkovsky (1857–1935); Public domain"
+    provenance: "Konstantin Tsiolkovsky; Public domain"
     period: "Image dated 1933"
-    description: "This image shows Tsiolkovsky cosmological manuscript, selected as a defining visual reference for Russian Cosmism."
     detail: high
 ---
 

@@ -47,18 +47,11 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Thai%20Forest%20Tradition'
 artifacts:
-  - title: "Ajahn Mun Bhuridatta, foundational Thai Forest master"
+  - title: "Memorial viharn dedicated to Ajahn Mun Bhuridatto at Wat Chedi Luang in Chiang Mai"
     imageUrl: "/artifacts/thai-forest-tradition-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Chmaiwchluangvihajman0406a.jpg"
-    provenance: "Fotograf / Photographer: Heinrich Damm ( User:Hdamm , Hdamm at de.wikipedia.org ); CC BY 2.0"
+    provenance: "Heinrich Damm; CC BY 2.0"
     period: "Image dated 2004"
-    description: "This image shows Ajahn Mun Bhuridatta, foundational Thai Forest master, selected as a defining visual reference for Thai Forest Tradition."
-  - title: "Wat Pa Baan Tat, an emblematic Thai Forest monastery"
-    imageUrl: "/artifacts/thai-forest-tradition-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Anastasiya_Yakimova,_Damen-Tennis-Bundesliga_Moers.jpg"
-    provenance: "No machine-readable author provided. Steffen Schmitz ( more photos ) assumed (based on copyright claims).; CC BY-SA 3.0"
-    period: "Image dated 2010"
-    description: "This image shows Wat Pa Baan Tat, an emblematic Thai Forest monastery, selected as a defining visual reference for Thai Forest Tradition."
 ---
 
 # Thai Forest Tradition

@@ -45,18 +45,11 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Konk%C5%8Dky%C5%8D'
 artifacts:
-  - title: "Portrait of Konko Daijin"
-    imageUrl: "/artifacts/konkokyo-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Barabas,_Miklos_-_Portrait_of_Mr._Konkoly_(1837).jpg"
-    provenance: "Miklos Barabas; Public domain"
-    period: "Image dated 1837"
-    description: "This image shows Portrait of Konko Daijin, selected as a defining visual reference for Konkōkyō."
-  - title: "Konkokyo headquarters sanctuary"
+  - title: "Grave of Konkō Daijin at Konkōkyō Headquarters"
     imageUrl: "/artifacts/konkokyo-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Konko_Daijin_grave_1.jpg"
     provenance: "Kuroshio no Neko; CC BY 4.0"
     period: "Image dated 2026"
-    description: "This image shows Konkokyo headquarters sanctuary, selected as a defining visual reference for Konkōkyō."
 ---
 
 # Konkōkyō

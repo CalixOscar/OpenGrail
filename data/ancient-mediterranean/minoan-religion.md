@@ -49,25 +49,18 @@ sources:
   - title: 'Brill Handbook of Oriental Studies: Religions of the Bronze Age Aegean'
     url: 'https://brill.com/search?q=Minoan+Religion'
 artifacts:
-  - title: Faience Snake Goddess figurine from Knossos
-    imageUrl: /artifacts/minoan-religion-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Snake_Goddess,_Knossos,_1650-1550_BC,_AMH,_145155.jpg
-    provenance: Zde; CC BY-SA 4.0
-    period: c. 1650–1550 BCE
-    description: >-
-      Faience figurine of a female votary or priestess holding serpents,
-      discovered in the Temple Repositories of the palace of Knossos; its popular
-      identification as a supreme goddess reflects early twentieth-century
-      reconstructions by Arthur Evans.
-  - title: Bull-Leaping Fresco from the Palace of Knossos
-    imageUrl: /artifacts/minoan-religion-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Bull_leaping_minoan_fresco_archmus_Heraklion.jpg
-    provenance: Jebulon; CC0
-    period: c. 1600–1450 BCE
-    description: >-
-      Restored wall painting from the palatial complex at Knossos depicting the
-      Minoan ritual sport of acrobatically leaping over a charging bull, now
-      preserved in the Heraklion Archaeological Museum.
+  - title: "Faience Snake Goddess figurine from Knossos"
+    imageUrl: "/artifacts/minoan-religion-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Snake_Goddess,_Knossos,_1650-1550_BC,_AMH,_145155.jpg"
+    provenance: "Zde; CC BY-SA 4.0"
+    period: "c. 1650–1550 BCE"
+    description: "Faience figurine of a female votary or priestess holding serpents, discovered in the Temple Repositories of the palace of Knossos; its popular identification as a supreme goddess reflects early twentieth-century reconstructions by Arthur Evans."
+  - title: "Bull-Leaping Fresco from the Palace of Knossos"
+    imageUrl: "/artifacts/minoan-religion-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Bull_leaping_minoan_fresco_archmus_Heraklion.jpg"
+    provenance: "Jebulon; CC0"
+    period: "c. 1600–1450 BCE"
+    description: "Restored wall painting from the palatial complex at Knossos depicting the Minoan ritual sport of acrobatically leaping over a charging bull, now preserved in the Heraklion Archaeological Museum."
 relations:
   - target: ancient-greek-religion
     type: parallel_concept

@@ -43,18 +43,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Gardnerian Wicca'
     url: 'https://brill.com/search?q=Gardnerian%20Wicca'
 artifacts:
-  - title: "Gardnerian founder Gerald Gardner"
+  - title: "Ritual scourge belonging to Gerald Gardner and the New Forest coven"
     imageUrl: "/artifacts/gardnerian-wicca-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:NewForestCoven_Scourge.JPG"
-    provenance: "Midnightblueowl ( talk ); CC BY-SA 3.0"
+    provenance: "Midnightblueowl; CC BY-SA 3.0"
     period: "Image dated 2010"
-    description: "This image shows Gardnerian founder Gerald Gardner, selected as a defining visual reference for Gardnerian Wicca."
-  - title: "Gardnerian Book of Shadows"
+  - title: "Cover of Gerald Gardner's Book of Shadows"
     imageUrl: "/artifacts/gardnerian-wicca-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Gardner%27s_Book_of_Shadows_front.JPG"
-    provenance: "Midnightblueowl ( talk ); CC BY-SA 3.0"
+    provenance: "Midnightblueowl; CC BY-SA 3.0"
     period: "Image dated 2010"
-    description: "This image shows Gardnerian Book of Shadows, selected as a defining visual reference for Gardnerian Wicca."
 ---
 
 # Gardnerian Wicca

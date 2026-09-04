@@ -52,20 +52,17 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Kongo%20Religious%20Traditions'
 artifacts:
-  - title: "Nkisi N'Kondi power figure with ritual blades and medicines"
+  - title: "Kongo power figure (Nkisi Nkondi) studded with blades and nails at the Brooklyn Museum"
     imageUrl: "/artifacts/kongo-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_22.1421_Power_Figure_Nkisi_Nkondi_(9).jpg"
-    provenance: "Unknown author Unknown author; CC BY 3.0"
+    provenance: "Unknown author; CC BY 3.0"
     period: "19 th century"
-    description: "This image shows Nkisi N'Kondi power figure with ritual blades and medicines, selected as a defining visual reference for Kongo Religious Traditions."
   - title: "Nkangi kiditu crucifix cast for Kongo Christian devotion"
     imageUrl: "/artifacts/kongo-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Clevelandart_2010.444.jpg"
     provenance: "Cleveland Museum of Art; CC0"
     period: "19th century"
-    description: "A brass corpus with Kongo facial features mounted on a wooden cross, with a
-      kneeling orant figure at Christ's feet - a Christian form cast by Kongo artisans within
-      Kongo ideas of sacred authority."
+    description: "A brass corpus with Kongo facial features mounted on a wooden cross, with a kneeling orant figure at Christ's feet - a Christian form cast by Kongo artisans within Kongo ideas of sacred authority."
 ---
 
 # Kongo Religious Traditions

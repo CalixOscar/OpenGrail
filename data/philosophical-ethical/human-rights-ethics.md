@@ -46,18 +46,16 @@ sources:
   - title: 'Hans Küng: "A Global Ethic for Global Politics and Economics"'
     url: 'https://www.oxfordreference.com/'
 artifacts:
-  - title: "Eleanor Roosevelt with the Universal Declaration of Human Rights"
+  - title: "Eleanor Roosevelt holding the Universal Declaration of Human Rights (1949)"
     imageUrl: "/artifacts/human-rights-ethics-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Eleanor_Roosevelt_UDHR.jpg"
     provenance: "FDR Presidential Library & Museum; CC BY 2.0"
     period: "Image dated 2008"
-    description: "This image shows Eleanor Roosevelt with the Universal Declaration of Human Rights, selected as a defining visual reference for Universal Human Rights & Global Ethical Horizons."
-  - title: "The Cyrus Cylinder ancient proclamation of religious freedom"
+  - title: "The Cyrus Cylinder in the British Museum"
     imageUrl: "/artifacts/human-rights-ethics-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Cyrus_Cylinder_2.jpg"
-    provenance: "Photograph by Mike Peel ( www.mikepeel.net ).; CC BY-SA 4.0"
+    provenance: "Mike Peel; CC BY-SA 4.0"
     period: "Image dated 2010"
-    description: "This image shows The Cyrus Cylinder ancient proclamation of religious freedom, selected as a defining visual reference for Universal Human Rights & Global Ethical Horizons."
 ---
 
 # Universal Human Rights & Global Ethical Horizons

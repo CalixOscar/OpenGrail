@@ -43,18 +43,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=%C5%9Avet%C4%81mbara%20Jainism'
 artifacts:
-  - title: "White-robed Svetambara mendicants with muhapatti"
+  - title: "Shrine of the Dada Gurus of Kharatara Gaccha, Svetambara Jainism"
     imageUrl: "/artifacts/svetambara-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dada_Gurus_of_Kharatara_Gaccha.jpg"
     provenance: "Nizil Shah; CC BY-SA 3.0"
     period: "Image dated 2016"
-    description: "This image shows White-robed Svetambara mendicants with muhapatti, selected as a defining visual reference for Śvetāmbara Jainism."
-  - title: "Illustrated Kalpa Sutra manuscript from the Svetambara canon"
+  - title: "Two illustrated folios from a Kalpasutra manuscript, Walters Art Museum"
     imageUrl: "/artifacts/svetambara-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Indian_-_Two_Illustrated_Pages_from_a_%22Kalpasutra%22_Manuscript_-_Walters_W910.jpg"
-    provenance: "Walters Art Museum : Home page Info about artwork; Public domain"
+    provenance: "Unknown; Public domain"
     period: "Image dated 1450"
-    description: "This image shows Illustrated Kalpa Sutra manuscript from the Svetambara canon, selected as a defining visual reference for Śvetāmbara Jainism."
     detail: high
 ---
 

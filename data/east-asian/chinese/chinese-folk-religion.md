@@ -48,18 +48,16 @@ sources:
     url: >-
       https://plato.stanford.edu/search/searcher.py?query=Chinese%20Folk%20Religion
 artifacts:
-  - title: "Jade Emperor temple image"
+  - title: "Hall of the Jade Emperor at Qingyang Gong, Chengdu"
     imageUrl: "/artifacts/chinese-folk-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hall_of_Jade_Emperor_-_Qingyang_Gong_-_Chengdu,_China_-_DSC04076.jpg"
     provenance: "Daderot; CC0"
     period: "Image dated 2015"
-    description: "This image shows Jade Emperor temple image, selected as a defining visual reference for Chinese Folk Religion."
-  - title: "Mazu ancestral sanctuary"
+  - title: "Main shrine altar of Mazu at the Taipei Tianhou Temple"
     imageUrl: "/artifacts/chinese-folk-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Interior_of_the_Taipei_Mazu_Temple_20151122.jpg"
     provenance: "老茶; CC BY-SA 4.0"
     period: "Image dated 2015"
-    description: "This image shows Mazu ancestral sanctuary, selected as a defining visual reference for Chinese Folk Religion."
 ---
 
 # Chinese Folk Religion

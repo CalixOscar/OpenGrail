@@ -43,18 +43,18 @@ relations:
     certainty: academic_consensus
     citation: 'Incorporated southern Vietnamese geomancy, local spirit veneration, and sacred geography surrounding the Seven Mountains (Thất Sơn).'
 artifacts:
-  - title: Tây An Pagoda at Mount Sam
-    imageUrl: /artifacts/buu-son-ky-huong-1.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ch%C3%B9a_T%C3%A2y_An_n%C3%BAi_Sam.jpg'
-    provenance: Thuydaonguyen; CC BY-SA 3.0
-    period: Photographed 2008
-    description: 'Tây An Pagoda at the foot of Mount Sam in Châu Đốc, An Giang Province, where founder Đoàn Minh Huyên (Phật Thầy Tây An) established Bửu Sơn Kỳ Hương in 1849.'
-  - title: Sanctuary of Tây An Ancient Temple
-    imageUrl: /artifacts/buu-son-ky-huong-2.webp
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:T%C3%A2y_An_C%E1%BB%95_T%E1%BB%B1,_An_Giang,_Vi%E1%BB%87t_Nam.jpg'
-    provenance: Tú Woody; CC BY-SA 4.0
-    period: Photographed 2023
-    description: 'The central sanctuary of Tây An Ancient Temple in An Giang, the foundational pilgrimage site of southern Vietnamese Bửu Sơn Kỳ Hương lay Buddhism.'
+  - title: "Tây An Pagoda at Mount Sam"
+    imageUrl: "/artifacts/buu-son-ky-huong-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Ch%C3%B9a_T%C3%A2y_An_n%C3%BAi_Sam.jpg"
+    provenance: "Thuydaonguyen; CC BY-SA 3.0"
+    period: "Photographed 2008"
+    description: "Tây An Pagoda at the foot of Mount Sam in Châu Đốc, An Giang Province, where founder Đoàn Minh Huyên (Phật Thầy Tây An) established Bửu Sơn Kỳ Hương in 1849."
+  - title: "Sanctuary of Tây An Ancient Temple"
+    imageUrl: "/artifacts/buu-son-ky-huong-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:T%C3%A2y_An_C%E1%BB%95_T%E1%BB%B1,_An_Giang,_Vi%E1%BB%87t_Nam.jpg"
+    provenance: "Tú Woody; CC BY-SA 4.0"
+    period: "Photographed 2023"
+    description: "The central sanctuary of Tây An Ancient Temple in An Giang, the foundational pilgrimage site of southern Vietnamese Bửu Sơn Kỳ Hương lay Buddhism."
 ---
 
 # Bửu Sơn Kỳ Hương

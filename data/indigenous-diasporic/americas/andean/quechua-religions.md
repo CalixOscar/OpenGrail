@@ -55,18 +55,11 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Quechua%20Religious%20Traditions'
 artifacts:
-  - title: "Sacred Andean woven unkhu ritual tunic"
-    imageUrl: "/artifacts/quechua-religions-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nasca-Huari_style_-_Unku_with_staggered_and_linear_designs_-_Google_Art_Project.jpg"
-    provenance: "Nasca-Huari style (500 - 700); Public domain"
-    period: "Digital file published 2012"
-    description: "This image shows Sacred Andean woven unkhu ritual tunic, selected as a defining visual reference for Quechua Religious Traditions."
-  - title: "Sanctuary of Senor de Qoyllur Rit'i at Sinakara by night"
+  - title: "Sanctuary of Señor de Qoyllur Rit'i illuminated by night at Sinakara"
     imageUrl: "/artifacts/quechua-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Qoyllur_R%27Iti_Shrine_by_night.jpg"
     provenance: "AgainErick; CC BY-SA 3.0"
     period: "Image dated 2007"
-    description: "This image shows Sanctuary of Senor de Qoyllur Rit'i at Sinakara by night, selected as a defining visual reference for Quechua Religious Traditions."
 ---
 
 # Quechua Religious Traditions

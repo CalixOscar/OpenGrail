@@ -44,18 +44,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Ter%C4%81panth%20Jainism'
 artifacts:
-  - title: "Acarya Bhiksu, founder of Terapanth Jainism"
+  - title: "Painting of Acharya Bhikshu, founder of Svetambara Terapanth"
     imageUrl: "/artifacts/terapanth-jainism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Acharya_Shree_Bhikshu_Painting.jpg"
     provenance: "King Rishab Dugar; CC BY-SA 4.0"
     period: "Image dated 2018"
-    description: "This image shows Acarya Bhiksu, founder of Terapanth Jainism, selected as a defining visual reference for Terāpanth Jainism."
-  - title: "Jain Vishva Bharati at Ladnun, a major Terapanth institution"
+  - title: "Acharya Mahapragya, 10th supreme head of Svetambara Terapanth"
     imageUrl: "/artifacts/terapanth-jainism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Acharya_Mahapragya.jpg"
     provenance: "Terapanth; Public domain"
     period: "Image dated 2009"
-    description: "This image shows Jain Vishva Bharati at Ladnun, a major Terapanth institution, selected as a defining visual reference for Terāpanth Jainism."
 ---
 
 # Terāpanth Jainism

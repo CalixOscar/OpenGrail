@@ -45,18 +45,11 @@ sources:
       Christian Church
     url: 'https://www.cambridge.org/core/search?q=International%20Christian%20Church'
 artifacts:
-  - title: "Kip McKean preaching within the International Christian Church movement"
+  - title: "Mercy Day Conference 2015 of the City of Angels International Christian Church"
     imageUrl: "/artifacts/international-christian-church-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mercy_Day_2015_Caicc.jpg"
     provenance: "Mediagirl0423; CC BY-SA 4.0"
     period: "Image dated 2015"
-    description: "This image shows Kip McKean preaching within the International Christian Church movement, selected as a defining visual reference for International Christian Church."
-  - title: "Baptism performed by the founding City of Angels congregation"
-    imageUrl: "/artifacts/international-christian-church-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Angels_Melozzo_(Pinacoteca_Vaticano)_1.jpg"
-    provenance: "Melozzo da Forli; CC BY-SA 4.0"
-    period: "Image dated 1480"
-    description: "This image shows Baptism performed by the founding City of Angels congregation, selected as a defining visual reference for International Christian Church."
 ---
 
 # International Christian Church

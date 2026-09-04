@@ -52,18 +52,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & “Nestorianism”'
     url: 'https://www.cambridge.org/core/search?q=%E2%80%9CNestorianism%E2%80%9D'
 artifacts:
-  - title: "Nestorian cross carving from the Church of the East"
+  - title: "Engraving of the Nestorian Stele cross from Michał Boym's Flora Sinensis (1656)"
     imageUrl: "/artifacts/nestorianism-historical-category-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Flora_Sinensis_-_Nestorian_Stele.JPG"
     provenance: "Michael Boym (Michał Piotr Boym); Public domain"
     period: "Image dated 1656"
-    description: "This image shows Nestorian cross carving from the Church of the East, selected as a defining visual reference for “Nestorianism” (Historical Category)."
-  - title: "Xi'an Stele documenting East Syriac Christianity in Tang China"
+  - title: "The Xi'an Stele in the Beilin Museum, Xi'an"
     imageUrl: "/artifacts/nestorianism-historical-category-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Xian_May_2007_033.jpg"
     provenance: "G41rn8; CC BY-SA 4.0"
     period: "781 AD"
-    description: "This image shows Xi'an Stele documenting East Syriac Christianity in Tang China, selected as a defining visual reference for “Nestorianism” (Historical Category)."
     detail: high
 ---
 

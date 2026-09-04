@@ -44,18 +44,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Shamanic%20Traditions'
 artifacts:
-  - title: "Siberian Evenki shaman ritual costume with iron pendants"
+  - title: "Siberian Evenki reindeer-skin shaman costume, Musée du quai Branly"
     imageUrl: "/artifacts/shamanic-traditions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Evenk_shaman_costume.jpg"
     provenance: "suncana; CC BY 2.0"
     period: "Image dated 2006"
-    description: "This image shows Siberian Evenki shaman ritual costume with iron pendants, selected as a defining visual reference for Shamanic Traditions."
-  - title: "The Sorcerer cave drawing at the Sanctuary of Les Trois-Freres"
+  - title: "Henri Breuil's sketch of 'The Sorcerer' cave art from the Grotte des Trois-Frères, Wellcome Collection"
     imageUrl: "/artifacts/shamanic-traditions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Sorcerer_cave_art._Sketch_of_Breuil%27s_drawing._Photograph._Wellcome_M0008769.jpg"
-    provenance: "Wikimedia Commons; CC BY 4.0"
+    provenance: "Wellcome Collection; CC BY 4.0"
     period: "Digital file published 2014"
-    description: "This image shows The Sorcerer cave drawing at the Sanctuary of Les Trois-Freres, selected as a defining visual reference for Shamanic Traditions."
 ---
 
 # Shamanic Traditions

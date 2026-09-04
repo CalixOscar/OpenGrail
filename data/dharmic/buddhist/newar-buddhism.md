@@ -47,18 +47,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Newar%20Buddhism'
 artifacts:
-  - title: "Newar paubha painting of Dipankara Buddha"
+  - title: "Traditional Newar paubha scroll painting of White Tara"
     imageUrl: "/artifacts/newar-buddhism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tuyumha_tara.jpg"
     provenance: "Kamal Ratna Tuladhar; CC BY-SA 3.0"
     period: "Image dated 2012"
-    description: "This image shows Newar paubha painting of Dipankara Buddha, selected as a defining visual reference for Newar Buddhism."
-  - title: "Kwa Baha Golden Temple, a living Newar Buddhist monastery"
+  - title: "Courtyard of Kwa Bahal (Hiranya Varna Mahavihar) Golden Temple in Patan, Nepal"
     imageUrl: "/artifacts/newar-buddhism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Golden_Temple_(Kwa_Bahal)_Patan.jpg"
     provenance: "Prakat Shrestha; CC BY-SA 4.0"
     period: "Image dated 2017"
-    description: "This image shows Kwa Baha Golden Temple, a living Newar Buddhist monastery, selected as a defining visual reference for Newar Buddhism."
 ---
 
 # Newar Buddhism

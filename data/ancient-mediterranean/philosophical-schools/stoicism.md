@@ -50,18 +50,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Stoicism'
     url: 'https://brill.com/search?q=Stoicism'
 artifacts:
-  - title: "Portrait bust of Zeno"
+  - title: "Plaster cast of the bust of Zeno of Citium, Pushkin Museum"
     imageUrl: "/artifacts/stoicism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Zeno_of_Citium2.jpg"
-    provenance: "user:shakko; CC BY-SA 3.0"
+    provenance: "shakko; CC BY-SA 3.0"
     period: "Image dated 2008"
-    description: "This image shows Portrait bust of Zeno, selected as a defining visual reference for Stoicism."
-  - title: "Painted Stoa philosophical site"
+  - title: "Excavations of the Stoa Poikile (Painted Stoa) in the Ancient Agora of Athens"
     imageUrl: "/artifacts/stoicism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:The_excavated_area_of_the_North_side_of_the_Ancient_Agora_of_Athens_on_August_13,_2020.jpg"
     provenance: "George E. Koronaios; CC0"
     period: "5th century"
-    description: "This image shows Painted Stoa philosophical site, selected as a defining visual reference for Stoicism."
 ---
 
 # Stoicism

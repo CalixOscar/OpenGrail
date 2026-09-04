@@ -48,18 +48,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Radha%20Soami%20Tradition'
 artifacts:
-  - title: "Shiv Dayal Singh, founder of the Radha Soami tradition"
+  - title: "Photograph of Seth Shiv Dayal Singh (Soamiji Maharaj), founder of Radha Soami"
     imageUrl: "/artifacts/radha-soami-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Shiv_Dayal_Singh_Ji.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "Image dated 1878"
-    description: "This image shows Shiv Dayal Singh, founder of the Radha Soami tradition, selected as a defining visual reference for Radha Soami Tradition."
-  - title: "Soami Bagh samadh at Agra, major Radha Soami sanctuary"
+  - title: "Soami Bagh Samadh in Agra, memorial shrine of Shiv Dayal Singh"
     imageUrl: "/artifacts/radha-soami-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Soami-Bagh-Agra.jpg"
     provenance: "VibrantVivek; CC BY-SA 4.0"
     period: "Image dated 2020"
-    description: "This image shows Soami Bagh samadh at Agra, major Radha Soami sanctuary, selected as a defining visual reference for Radha Soami Tradition."
 ---
 
 # Radha Soami Tradition

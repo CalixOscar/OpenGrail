@@ -43,20 +43,18 @@ sources:
   - title: 'Cambridge University Press: Simon Kimbangu and the Kimbanguist Church (Marie-Louise Martin)'
     url: 'https://www.cambridge.org/core/search?q=Kimbangu'
 artifacts:
-  - title: Portrait of Simon Kimbangu
-    imageUrl: /artifacts/kimbanguism-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Simon_Kibangu.jpg
-    provenance: Unknown author; Public domain
-    period: c. 1921 CE
-    description: >-
-      Photographic portrait of the Congolese prophetic leader Simon Kimbangu (1887–1951), whose preaching and faith-healing ministry in Nkamba initiated the Kimbanguist movement.
-  - title: Grand Temple of Nkamba (New Jerusalem)
-    imageUrl: /artifacts/kimbanguism-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Nkamba_nouvelle_J%C3%A9rusalem.jpg
-    provenance: Salemmbungu; CC BY-SA 4.0
-    period: Built 1981 CE
-    description: >-
-      The Grand Temple of the Kimbanguist Church at Nkamba (Nkamba Nouvelle Jérusalem) in Kongo Central, Democratic Republic of the Congo, the primary spiritual sanctuary and pilgrimage destination of Kimbanguism.
+  - title: "Portrait of Simon Kimbangu"
+    imageUrl: "/artifacts/kimbanguism-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Simon_Kibangu.jpg"
+    provenance: "Unknown author; Public domain"
+    period: "c. 1921 CE"
+    description: "Photographic portrait of the Congolese prophetic leader Simon Kimbangu (1887–1951), whose preaching and faith-healing ministry in Nkamba initiated the Kimbanguist movement."
+  - title: "Grand Temple of Nkamba (New Jerusalem)"
+    imageUrl: "/artifacts/kimbanguism-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Nkamba_nouvelle_J%C3%A9rusalem.jpg"
+    provenance: "Salemmbungu; CC BY-SA 4.0"
+    period: "Built 1981 CE"
+    description: "The Grand Temple of the Kimbanguist Church at Nkamba (Nkamba Nouvelle Jérusalem) in Kongo Central, Democratic Republic of the Congo, the primary spiritual sanctuary and pilgrimage destination of Kimbanguism."
 relations:
   - target: protestantism
     type: diverged_from

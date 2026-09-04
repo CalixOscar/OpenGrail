@@ -43,18 +43,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Rodnovery'
     url: 'https://brill.com/search?q=Rodnovery'
 artifacts:
-  - title: "Rodnover Perun cult image"
+  - title: "Rodnover open-air sanctuary (kapyshche) on Mount Smrečník, Slovakia"
     imageUrl: "/artifacts/rodnovery-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Rodnover_sanctuary_at_Smre%C4%8Dn%C3%ADk,_Slovakia.jpg"
-    provenance: "Wojsław Brozyna; CC BY-SA 4.0"
+    provenance: "Wojsław Brożyna; CC BY-SA 4.0"
     period: "Image dated 2017"
-    description: "This image shows Rodnover Perun cult image, selected as a defining visual reference for Rodnovery."
-  - title: "Rodnover Kupala rite"
+  - title: "Ritual round dance during Kupala Night celebration in Rakov, Belarus (2015)"
     imageUrl: "/artifacts/rodnovery-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ritual_Round_Dance_duirng_the_Kupala_Night_Celebration_in_Rakov.jpg"
     provenance: "Aliaksei Staliarou; CC BY-SA 4.0"
     period: "Image dated 2015"
-    description: "This image shows Rodnover Kupala rite, selected as a defining visual reference for Rodnovery."
 ---
 
 # Rodnovery

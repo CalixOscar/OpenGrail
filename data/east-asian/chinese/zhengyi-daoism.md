@@ -40,18 +40,11 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: East Asian Traditions & Thought'
     url: 'https://plato.stanford.edu/search/searcher.py?query=Zhengyi%20Daoism'
 artifacts:
-  - title: "Zhengyi patriarch Zhang Daoling"
-    imageUrl: "/artifacts/zhengyi-daoism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Zhengyi_Lu_Pedestrian_Mall.jpg"
-    provenance: "Chinatravelsavvy; CC BY-SA 3.0"
-    period: "Digital file published 2010"
-    description: "This image shows Zhengyi patriarch Zhang Daoling, selected as a defining visual reference for Zhengyi Daoism."
-  - title: "Celestial Masters' Mansion"
+  - title: "Main gate of the Celestial Master's Mansion (Tianshifu) at Mount Longhu"
     imageUrl: "/artifacts/zhengyi-daoism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Tianshifu_Gate.JPG"
     provenance: "w:User:Zeus1234; CC BY-SA 3.0"
     period: "Digital file published 2010"
-    description: "This image shows Celestial Masters' Mansion, selected as a defining visual reference for Zhengyi Daoism."
 ---
 
 # Zhengyi Daoism

@@ -45,18 +45,11 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=M%C4%81ori%20Religion'
 artifacts:
-  - title: "Hei-tiki nephrite pounamu ancestral pendant"
+  - title: "19th-century Māori hei-tiki pounamu pendant at the Bishop Museum"
     imageUrl: "/artifacts/maori-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hei_Tiki.jpg"
     provenance: "Seagerthomas; CC BY-SA 4.0"
     period: "19th-century"
-    description: "This image shows Hei-tiki nephrite pounamu ancestral pendant, selected as a defining visual reference for Māori Religion."
-  - title: "Carved Wharenui meeting house at Waitangi Marae"
-    imageUrl: "/artifacts/maori-religion-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Inscription_under_pou_by_wharenui,_Hoani_Waititi_Marae.jpg"
-    provenance: "Bjankuloski06; CC BY 4.0"
-    period: "Image dated 2025"
-    description: "This image shows Carved Wharenui meeting house at Waitangi Marae, selected as a defining visual reference for Māori Religion."
 ---
 
 # Māori Religion

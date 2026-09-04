@@ -44,20 +44,18 @@ sources:
   - title: 'CESNUR: Shincheonji Studies'
     url: 'https://www.cesnur.org/shincheonji.htm'
 artifacts:
-  - title: Shincheonji Daegu Church Building
-    imageUrl: /artifacts/shincheonji-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Shincheonji_Daegu_Church_4_20200302.jpg
-    provenance: Namoroka; CC BY-SA 4.0
-    period: Photographed 2020 CE
-    description: >-
-      The exterior of the Shincheonji Church of Jesus multi-story facility in Daegu, South Korea, home of the movement's John Tribe congregation.
-  - title: Shincheonji World Peace Festival Assembly at Seoul Olympic Stadium
-    imageUrl: /artifacts/shincheonji-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinchonji_20120916_6th_Olympiad_World_Peace_Festival_mannam.jpg
-    provenance: Junganghansik; CC BY-SA 3.0
-    period: Photographed 2012 CE
-    description: >-
-      Tens of thousands of Shincheonji adherents performing synchronized card stunts and choreographed displays during the 6th Shincheonji National Olympiad at Seoul Olympic Stadium in 2012.
+  - title: "Shincheonji Daegu Church Building"
+    imageUrl: "/artifacts/shincheonji-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shincheonji_Daegu_Church_4_20200302.jpg"
+    provenance: "Namoroka; CC BY-SA 4.0"
+    period: "Photographed 2020 CE"
+    description: "The exterior of the Shincheonji Church of Jesus multi-story facility in Daegu, South Korea, home of the movement's John Tribe congregation."
+  - title: "Shincheonji World Peace Festival Assembly at Seoul Olympic Stadium"
+    imageUrl: "/artifacts/shincheonji-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Shinchonji_20120916_6th_Olympiad_World_Peace_Festival_mannam.jpg"
+    provenance: "Junganghansik; CC BY-SA 3.0"
+    period: "Photographed 2012 CE"
+    description: "Tens of thousands of Shincheonji adherents performing synchronized card stunts and choreographed displays during the 6th Shincheonji National Olympiad at Seoul Olympic Stadium in 2012."
 relations:
   - target: protestantism
     type: influenced_by

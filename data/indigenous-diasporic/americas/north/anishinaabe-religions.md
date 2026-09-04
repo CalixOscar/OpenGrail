@@ -48,18 +48,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Anishinaabe%20Religious%20Traditions'
 artifacts:
-  - title: "Traditional Anishinaabe Ojibwe beaded bandolier ceremonial bag"
+  - title: "Ojibwe beaded bandolier bag (gashkibidaagan) in the Honolulu Museum of Art"
     imageUrl: "/artifacts/anishinaabe-religions-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bandolier_bag,_Ojibwe_People,_Honolulu_Museum_of_Art.jpg"
     provenance: "Hiart; CC0"
     period: "Image dated 2023"
-    description: "This image shows Traditional Anishinaabe Ojibwe beaded bandolier ceremonial bag, selected as a defining visual reference for Anishinaabe Religious Traditions."
-  - title: "Agawa Rock sacred pictographs on Lake Superior"
+  - title: "Ojibwe red ochre pictographs of Mishipeshu at Agawa Rock, Lake Superior"
     imageUrl: "/artifacts/anishinaabe-religions-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Indian_Pictograms_-_Agawa_Rock,_Lake_Superior_Provincial_Park,_Ontario,_Canada_-_August_1987.jpg"
     provenance: "Giorgio Galeotti; CC BY 4.0"
     period: "Image dated 1986"
-    description: "This image shows Agawa Rock sacred pictographs on Lake Superior, selected as a defining visual reference for Anishinaabe Religious Traditions."
 ---
 
 # Anishinaabe Religious Traditions

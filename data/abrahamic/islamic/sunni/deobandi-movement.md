@@ -55,18 +55,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Deobandi Movement'
     url: 'https://www.cambridge.org/core/search?q=Deobandi%20Movement'
 artifacts:
-  - title: "Portrait of Darul Uloom Deoband cofounder Muhammad Qasim Nanautavi"
+  - title: "Epitaph inscription on the grave of Muhammad Qasim Nanautavi at Deoband"
     imageUrl: "/artifacts/deobandi-movement-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Inscription_on_the_grave_of_Qasim_Nanawtawi.jpg"
     provenance: "Khaatir; CC BY-SA 4.0"
     period: "Image dated 2023"
-    description: "This image shows Portrait of Darul Uloom Deoband cofounder Muhammad Qasim Nanautavi, selected as a defining visual reference for Deobandi Movement."
-  - title: "Darul Uloom Deoband, defining seminary of the movement"
+  - title: "Historic main gate of Darul Uloom Deoband seminary, 1928"
     imageUrl: "/artifacts/deobandi-movement-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Main_Gate,_Darul_Uloom_Deoband_1928.jpg"
-    provenance: "Monthly Al Qasim , Published by Darul Uloom Deoband , Uploaded by Owais Al Qarni; CC0"
+    provenance: "Monthly Al Qasim / Darul Uloom Deoband; CC0"
     period: "Image dated 1928"
-    description: "This image shows Darul Uloom Deoband, defining seminary of the movement, selected as a defining visual reference for Deobandi Movement."
 ---
 
 # Deobandi Movement

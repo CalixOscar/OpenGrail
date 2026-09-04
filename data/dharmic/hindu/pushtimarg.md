@@ -49,18 +49,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Pu%E1%B9%A3%E1%B9%ADim%C4%81rga'
 artifacts:
-  - title: "Srinathji, supreme devotional icon of Pustimarga"
+  - title: "Painting of Shrinathji during the Annakuta Festival with pichhwai backdrop, Nathdwara"
     imageUrl: "/artifacts/pushtimarg-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Nathdwara_srinathji.jpg"
-    provenance: "Unknown artist Unknown artist; Public domain"
+    provenance: "Unknown artist; Public domain"
     period: "18th century late"
-    description: "This image shows Srinathji, supreme devotional icon of Pustimarga, selected as a defining visual reference for Puṣṭimārga."
-  - title: "Srinathji Haveli at Nathdwara, principal Pustimarga sanctuary"
+  - title: "Traditional artist painting devotional Krishna imagery in Nathdwara"
     imageUrl: "/artifacts/pushtimarg-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Painter_at_work,_Nathdwara.jpg"
     provenance: "Prakhar Amba; CC BY 2.0"
     period: "Image dated 2003"
-    description: "This image shows Srinathji Haveli at Nathdwara, principal Pustimarga sanctuary, selected as a defining visual reference for Puṣṭimārga."
 ---
 
 # Puṣṭimārga

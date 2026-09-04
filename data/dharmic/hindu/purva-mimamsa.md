@@ -51,18 +51,16 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=P%C5%ABrva%20M%C4%ABm%C4%81%E1%B9%83s%C4%81
 artifacts:
-  - title: "Sacred Vedic Yajna ritual and sacrificial fire altar of Purva Mimamsa"
+  - title: "Offering oblations into the sacred fire during a Vedic Somayaga ritual"
     imageUrl: "/artifacts/purva-mimamsa-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%E0%A4%A4%E0%A5%81%E0%A4%B2%E0%A4%BE_Balance.jpg"
     provenance: "Puranastudy; CC BY-SA 4.0"
     period: "Image dated 2020"
-    description: "This image shows Sacred Vedic Yajna ritual and sacrificial fire altar of Purva Mimamsa, selected as a defining visual reference for Pūrva Mīmāṃsā."
-  - title: "Sanskrit manuscript of the Mimamsa Sutra"
+  - title: "Folio of a 16th-century Jaiminiya Mimamsa Sutra Bhasya manuscript in Telugu script"
     imageUrl: "/artifacts/purva-mimamsa-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:16th-century_Jaiminiya_Mimamsa_Sutra_Bhasya,_Sanskrit,_Telugu_script,_Andhra_Pradesh.jpg"
     provenance: "Ms Sarah Welch; CC BY-SA 4.0"
     period: "16th-century"
-    description: "This image shows Sanskrit manuscript of the Mimamsa Sutra, selected as a defining visual reference for Pūrva Mīmāṃsā."
     detail: high
 ---
 

@@ -43,19 +43,11 @@ sources:
   - title: 'Stanford Encyclopedia of Philosophy: "Confucian Ethics"'
     url: 'https://plato.stanford.edu/entries/ethics-chinese/'
 artifacts:
-  - title: "Stone tablet rubbing of Confucius teaching by Wu Daozi"
-    imageUrl: "/artifacts/confucian-virtue-ethics-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Inscriptions_of_the_Tomb_Tablets_of_the_Yan_Family_of_Wuxing_WDL4712.jpg"
-    provenance: "Yan, Qifeng; Public domain"
-    period: "Image dated 1909"
-    description: "This image shows Stone tablet rubbing of Confucius teaching by Wu Daozi, selected as a defining visual reference for Confucian Virtue Ethics (Rén & Lǐ)."
-    detail: high
-  - title: "Dacheng Hall at the Temple of Confucius in Qufu"
+  - title: "Carved dragon pillar of Dacheng Hall at the Temple of Confucius in Qufu"
     imageUrl: "/artifacts/confucian-virtue-ethics-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Dachenghalldragonpillar.jpg"
-    provenance: "Rolf Muller ( User:Rolfmueller ); CC BY-SA 3.0"
+    provenance: "Rolf Müller (User:Rolfmueller); CC BY-SA 3.0"
     period: "Image dated 2005"
-    description: "This image shows Dacheng Hall at the Temple of Confucius in Qufu, selected as a defining visual reference for Confucian Virtue Ethics (Rén & Lǐ)."
 ---
 
 # Confucian Virtue Ethics (Rén & Lǐ)

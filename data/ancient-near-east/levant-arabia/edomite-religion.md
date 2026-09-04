@@ -47,18 +47,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Edomite Religion'
     url: 'https://brill.com/search?q=Edomite%20Religion'
 artifacts:
-  - title: "Horvat Qitmit cult stand"
+  - title: "Terracotta head of a three-horned Edomite goddess from Horvat Qitmit, Israel Museum"
     imageUrl: "/artifacts/edomite-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Edomite_goddess,_Qitmit._Israel_Museum,_Jerusalem.JPG"
     provenance: "Chamberi; CC BY-SA 3.0"
     period: "Image dated 2013"
-    description: "This image shows Horvat Qitmit cult stand, selected as a defining visual reference for Edomite Religion."
-  - title: "Horvat Qitmit Edomite cultic sanctuary and figurines"
+  - title: "Clay head of a horned Edomite deity from the shrine at Horvat Qitmit, Israel Museum"
     imageUrl: "/artifacts/edomite-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:-0650_Edomite_Goddess_from_Horvat_Qitmit._Israel_Museum,_Jerusalem_anagoria.jpg"
     provenance: "Anagoria; CC BY 3.0"
     period: "Image dated 2019"
-    description: "This image shows Horvat Qitmit Edomite cultic sanctuary and figurines, selected as a defining visual reference for Edomite Religion."
 ---
 
 # Edomite Religion

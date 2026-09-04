@@ -52,18 +52,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Cult of Nanna–Sîn'
     url: 'https://brill.com/search?q=Cult%20of%20Nanna%E2%80%93S%C3%AEn'
 artifacts:
-  - title: "Lunar emblem of Nanna-Sin"
+  - title: "Detail of astral divine emblems showing the crescent of Sin on the Kudurru of Meli-Shipak II, Louvre Museum"
     imageUrl: "/artifacts/nanna-sin-cult-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Kudurru_Melishipak_Louvre_Sb23_n02.jpg"
-    provenance: "Unknown artist Unknown artist; Public domain"
+    provenance: "Unknown; Public domain"
     period: "12th century BC"
-    description: "This image shows Lunar emblem of Nanna-Sin, selected as a defining visual reference for Cult of Nanna–Sîn."
-  - title: "Nanna's ziggurat at Ur"
+  - title: "The Great Ziggurat of Ur dedicated to the moon god Nanna"
     imageUrl: "/artifacts/nanna-sin-cult-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ziggarat_of_Ur_001.jpg"
-    provenance: "Tla2006 at English Wikipedia; Public domain"
+    provenance: "Tla2006; Public domain"
     period: "Image dated 2006"
-    description: "This image shows Nanna's ziggurat at Ur, selected as a defining visual reference for Cult of Nanna–Sîn."
 ---
 
 # Cult of Nanna–Sîn

@@ -47,19 +47,11 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ugaritic Religion'
     url: 'https://brill.com/search?q=Ugaritic%20Religion'
 artifacts:
-  - title: "Ugaritic Baal stele"
+  - title: "Stele of Baal with a Thunderbolt from the Acropolis of Ugarit, Louvre Museum"
     imageUrl: "/artifacts/ugaritic-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Louvre_-_Ugaritic_stelae.jpg"
-    provenance: "Rama; CC BY-SA 3.0 fr"
+    provenance: "Rama; CC BY-SA 3.0 FR"
     period: "Digital file published 2006"
-    description: "This image shows Ugaritic Baal stele, selected as a defining visual reference for Ugaritic Religion."
-    detail: high
-  - title: "Baal Cycle tablet"
-    imageUrl: "/artifacts/ugaritic-religion-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:A_cylinder_seal_from_Mari_with_a_divine_scene_of_order_and_chaos.jpg"
-    provenance: "פעמי-עליון; CC BY-SA 4.0"
-    period: "2159 BC"
-    description: "This image shows Baal Cycle tablet, selected as a defining visual reference for Ugaritic Religion."
     detail: high
 ---
 

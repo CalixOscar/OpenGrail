@@ -41,25 +41,19 @@ sources:
   - title: 'Cambridge University Press: Gerrard Winstanley and the Diggers'
     url: 'https://www.cambridge.org/core/search?q=Gerrard+Winstanley+Diggers'
 artifacts:
-  - title: Gerrard Winstanley and Diggers memorial stone
-    imageUrl: /artifacts/diggers-true-levellers-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Gerrard_Winstanley_memorial_-_geograph_6433963.jpg
-    provenance: Sean Davis; CC BY-SA 2.0
-    period: Modern memorial (photographed 2020)
-    description: >-
-      A memorial stone near Weybridge railway station commemorating Gerrard
-      Winstanley and the Surrey Diggers (True Levellers), who occupied and
-      cultivated common land on nearby St George's Hill in April 1649.
-  - title: Title page of The Declaration and Standard of the Levellers of England
-    imageUrl: /artifacts/diggers-true-levellers-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Levellers_declaration_and_standard.gif
-    provenance: G. Laurenson; Public domain
-    period: 1649 (London printed pamphlet)
+  - title: "Gerrard Winstanley and Diggers memorial stone"
+    imageUrl: "/artifacts/diggers-true-levellers-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Gerrard_Winstanley_memorial_-_geograph_6433963.jpg"
+    provenance: "Sean Davis; CC BY-SA 2.0"
+    period: "Modern memorial (photographed 2020)"
+    description: "A memorial stone near Weybridge railway station commemorating Gerrard Winstanley and the Surrey Diggers (True Levellers), who occupied and cultivated common land on nearby St George's Hill in April 1649."
+  - title: "Title page of The Declaration and Standard of the Levellers of England"
+    imageUrl: "/artifacts/diggers-true-levellers-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Levellers_declaration_and_standard.gif"
+    provenance: "G. Laurenson; Public domain"
+    period: "1649 (London printed pamphlet)"
+    description: "The 1649 title page of *The Declaration and Standard of the Levellers of England*, delivered to General Fairfax by William Everard outlining the True Levellers' communal cultivation at St George's Hill."
     detail: high
-    description: >-
-      The 1649 title page of *The Declaration and Standard of the Levellers of
-      England*, delivered to General Fairfax by William Everard outlining the
-      True Levellers' communal cultivation at St George's Hill.
 relations:
   - target: protestantism
     type: influenced_by

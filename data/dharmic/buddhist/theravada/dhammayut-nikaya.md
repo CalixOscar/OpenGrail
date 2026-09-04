@@ -49,18 +49,11 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Dhammayut%20Nik%C4%81ya'
 artifacts:
-  - title: "King Mongkut depicted as a monk, founder of the Dhammayut reform"
-    imageUrl: "/artifacts/dhammayut-nikaya-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:Prachum_Phongsawadan_vol_19,_p_3.jpg"
-    provenance: "Unknown author Unknown author; Public domain"
-    period: "Image dated 1920"
-    description: "This image shows King Mongkut depicted as a monk, founder of the Dhammayut reform, selected as a defining visual reference for Dhammayut Nikāya."
-  - title: "Wat Bowonniwet, administrative and lineage center of Dhammayut"
+  - title: "Entrance to Wat Bowonniwet Vihara in Bangkok, administrative center of Dhammayut Nikaya"
     imageUrl: "/artifacts/dhammayut-nikaya-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bkkwatboworn05a.jpg"
-    provenance: "Fotograf / Photographer: Heinrich Damm ( User:Hdamm , Hdamm at de.wikipedia.org ); CC BY 2.0"
+    provenance: "Heinrich Damm; CC BY 2.0"
     period: "Image dated 2005"
-    description: "This image shows Wat Bowonniwet, administrative and lineage center of Dhammayut, selected as a defining visual reference for Dhammayut Nikāya."
 ---
 
 # Dhammayut Nikāya

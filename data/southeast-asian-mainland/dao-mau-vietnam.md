@@ -37,18 +37,11 @@ sources:
   - title: 'Philip Taylor: "Goddess on the Rise: Pilgrimage and Popular Religion in Vietnam"'
     url: 'https://uhpress.hawaii.edu/'
 artifacts:
-  - title: "Four Palaces Mother Goddess altar"
+  - title: "Portrait of Ông Hoàng Bảy Bảo Hà, deity of the Four Palaces in Đạo Mẫu"
     imageUrl: "/artifacts/dao-mau-vietnam-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:%C3%94ng_Ho%C3%A0ng_B%E1%BA%A3y_B%E1%BA%A3o_H%C3%A0_-_Seventh_Prince_of_B%E1%BA%A3o_H%C3%A0.png"
     provenance: "Rio Lam; CC BY-SA 4.0"
     period: "Image dated 2022"
-    description: "This image shows Four Palaces Mother Goddess altar, selected as a defining visual reference for Đạo Mẫu & Vietnamese Mother Goddess Religion."
-  - title: "Phu Giay len đong ceremony"
-    imageUrl: "/artifacts/dao-mau-vietnam-2.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:2017_11_19_102349_Vietnam_SaPa_Museum_overview.jpg"
-    provenance: "Diggers2004; CC BY-SA 4.0"
-    period: "Image dated 2017"
-    description: "This image shows Phu Giay len đong ceremony, selected as a defining visual reference for Đạo Mẫu & Vietnamese Mother Goddess Religion."
 ---
 
 # Đạo Mẫu & Vietnamese Mother Goddess Religion

@@ -45,18 +45,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Lakota%20Religion'
 artifacts:
-  - title: "Lakota sacred Chaŋnuŋpa pipe bowl"
+  - title: "Carved pipestone (catlinite) pipe bowl at Pipestone National Monument"
     imageUrl: "/artifacts/lakota-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Pipestone_National_Monument_PIPE0125.jpg"
     provenance: "National Park Service Digital Image Archives; Public domain"
     period: "Object or image dated 1937"
-    description: "This image shows Lakota sacred Chaŋnuŋpa pipe bowl, selected as a defining visual reference for Lakota Religion."
-  - title: "Matho Thipila (Devils Tower), sacred Lakota ceremonial site"
+  - title: "Mato Tipila (Bear Lodge / Devils Tower) sacred geological monolith in Wyoming"
     imageUrl: "/artifacts/lakota-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Bear_Lodge_Butte_(Devil%E2%80%99s_Tower),_Devils_Tower_National_Monument,_Devils_Tower,_WY.jpg"
-    provenance: "w_lemay; CC BY-SA 2.0"
+    provenance: "Warren LeMay; CC BY-SA 2.0"
     period: "Image dated 2023"
-    description: "This image shows Matho Thipila (Devils Tower), sacred Lakota ceremonial site, selected as a defining visual reference for Lakota Religion."
 ---
 
 # Lakota Religion

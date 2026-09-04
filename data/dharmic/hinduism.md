@@ -57,18 +57,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Hindu%20Traditions'
 artifacts:
-  - title: "Monumental Trimurti-Sadasiva at Elephanta"
+  - title: "Rock-cut shrine entrance at the Elephanta Caves"
     imageUrl: "/artifacts/hinduism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Elephanta_Caves_entrance.jpg"
     provenance: "Elidioo; CC BY-SA 4.0"
     period: "19th century"
-    description: "This image shows Monumental Trimurti-Sadasiva at Elephanta, selected as a defining visual reference for Hindu Traditions."
-  - title: "Ganga arati at Varanasi, an iconic living Hindu ritual"
+  - title: "Evening Ganga Aarti ceremony at Dashashwamedh Ghat, Varanasi"
     imageUrl: "/artifacts/hinduism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ganga_Aarti_in_evening_at_Dashashwamedh_ghat,_Varanasi.jpg"
     provenance: "Sujay25; CC BY-SA 4.0"
     period: "Image dated 2013"
-    description: "This image shows Ganga arati at Varanasi, an iconic living Hindu ritual, selected as a defining visual reference for Hindu Traditions."
 ---
 
 # Hindu Traditions

@@ -48,18 +48,16 @@ sources:
   - title: Routledge Encyclopedia of Indian Philosophy & Dharmic Studies
     url: 'https://www.rep.routledge.com/search?query=Sautr%C4%81ntika'
 artifacts:
-  - title: "Statue of Vasubandhu at Kofuku-ji in Nara"
+  - title: "13th-century wooden statue of Vasubandhu carved by Unkei at Kōfuku-ji in Nara"
     imageUrl: "/artifacts/sautrantika-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Seshin_Vasubandhu_Kofukuji.jpg"
-    provenance: "sculptor: UNKEI, 13th century, photo: Shihachi Fujimoto(family name)), (1911, IIDA,NAGANO, Japan - 2006,Otaru, Hokkaido, Japan ) a renowned ; Public domain"
+    provenance: "Unkei / Shihachi Fujimoto; Public domain"
     period: "5th century"
-    description: "This image shows Statue of Vasubandhu at Kofuku-ji in Nara, selected as a defining visual reference for Sautrāntika."
-  - title: "Abhidharmakosa Sanskrit manuscript"
+  - title: "Sanskrit manuscript folio of Yaśomitra's Abhidharmakośavyākhyā commentary"
     imageUrl: "/artifacts/sautrantika-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Abhidharmako%C5%9Ba-vy%C4%81khy%C4%81._Abhidharmako%C5%9Ba-vy%C4%81khy%C4%81._-_btv1b100829293_(015_of_170).jpg"
-    provenance: "Yasomitra. Auteur du commentaire Vasubandhu. Auteur du texte; Public domain"
+    provenance: "Bibliothèque nationale de France / Yaśomitra; Public domain"
     period: "Image dated 1801"
-    description: "This image shows Abhidharmakosa Sanskrit manuscript, selected as a defining visual reference for Sautrāntika."
     detail: high
 ---
 

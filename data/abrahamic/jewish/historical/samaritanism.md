@@ -45,19 +45,17 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Samaritanism'
     url: 'https://www.cambridge.org/core/search?q=Samaritanism'
 artifacts:
-  - title: "Samaritan high priest displaying a Torah scroll"
+  - title: "Samaritan High Priest during the Passover ceremony on Mount Gerizim"
     imageUrl: "/artifacts/samaritanism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:SamaritamHighPriest.JPG"
     provenance: "Unfacedman; CC BY-SA 4.0"
     period: "Image dated 2010"
-    description: "This image shows Samaritan high priest displaying a Torah scroll, selected as a defining visual reference for Samaritanism."
     detail: high
-  - title: "Annual Passover sacrifice on Mount Gerizim"
+  - title: "Passover sacrifice site on Mount Gerizim"
     imageUrl: "/artifacts/samaritanism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Samaritan_Passover_sacrifice_site_IMG_2126.JPG"
-    provenance: "Deror_avi; CC BY-SA 3.0"
+    provenance: "deror_avi; CC BY-SA 3.0"
     period: "Image dated 2013"
-    description: "This image shows Annual Passover sacrifice on Mount Gerizim, selected as a defining visual reference for Samaritanism."
 ---
 
 # Samaritanism

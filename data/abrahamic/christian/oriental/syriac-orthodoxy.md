@@ -44,18 +44,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Syriac Orthodoxy'
     url: 'https://www.cambridge.org/core/search?q=Syriac%20Orthodoxy'
 artifacts:
-  - title: "Illuminated Rabbula Gospels, a masterpiece of Syriac Christian art"
+  - title: "Saint John the Evangelist miniature from the 6th-century Syriac Rabbula Gospels"
     imageUrl: "/artifacts/syriac-orthodoxy-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:St._John_the_Evangelist_(Rabbula_Gospels).png"
-    provenance: "Unknown author Unknown author; Public domain"
+    provenance: "Unknown author; Public domain"
     period: "6 th century"
-    description: "This image shows Illuminated Rabbula Gospels, a masterpiece of Syriac Christian art, selected as a defining visual reference for Syriac Orthodoxy."
-  - title: "Deyrulzafaran Monastery, historic Syriac Orthodox patriarchal center"
+  - title: "Mor Hananyo Monastery (Deyrulzafaran) in Tur Abdin, Turkey"
     imageUrl: "/artifacts/syriac-orthodoxy-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Mor_Hananyo_Monastery_3.jpg"
     provenance: "Izabela Miszczak; CC BY-SA 4.0"
     period: "Image dated 2013"
-    description: "This image shows Deyrulzafaran Monastery, historic Syriac Orthodox patriarchal center, selected as a defining visual reference for Syriac Orthodoxy."
 ---
 
 # Syriac Orthodoxy

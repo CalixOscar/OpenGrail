@@ -45,18 +45,16 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Essenes'
     url: 'https://www.cambridge.org/core/search?q=Essenes'
 artifacts:
-  - title: "Cave 4 at Qumran, often associated with the Essene community"
+  - title: "Fragment of the Rule of the Congregation (1Q28a) from Qumran Cave 1"
     imageUrl: "/artifacts/essenes-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Part_of_Dead_Sea_Scroll_28a_from_Qumran_Cave_1._The_Jordan_Museum,_Amman.jpg"
-    provenance: "Osama Shukir Muhammed Amin FRCP(Glasg); CC BY-SA 4.0"
+    provenance: "Osama Shukir Muhammed Amin; CC BY-SA 4.0"
     period: "Image dated 2018"
-    description: "This image shows Cave 4 at Qumran, often associated with the Essene community, selected as a defining visual reference for Essenes."
-  - title: "Great Isaiah Scroll from the Qumran manuscript collection"
+  - title: "The Great Isaiah Scroll (1QIsaa) from Qumran"
     imageUrl: "/artifacts/essenes-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Great_Isaiah_Scroll.jpg"
-    provenance: "Photographs by Ardon Bar Hama, author of original document is unknown.; Public domain"
+    provenance: "Ardon Bar Hama; Public domain"
     period: "+/- second century BC"
-    description: "This image shows Great Isaiah Scroll from the Qumran manuscript collection, selected as a defining visual reference for Essenes."
     detail: high
 ---
 

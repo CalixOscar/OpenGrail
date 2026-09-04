@@ -43,18 +43,11 @@ sources:
   - title: 'Cambridge History of Religions: Abrahamic Traditions & Anglicanism'
     url: 'https://www.cambridge.org/core/search?q=Anglicanism'
 artifacts:
-  - title: "Compass Rose emblem of the worldwide Anglican Communion"
-    imageUrl: "/artifacts/anglicanism-1.webp"
-    sourceUrl: "https://commons.wikimedia.org/wiki/File:CompAss_Rows.jpg"
-    provenance: "Bridgman; Public domain"
-    period: "Image dated 2007"
-    description: "This image shows Compass Rose emblem of the worldwide Anglican Communion, selected as a defining visual reference for Anglicanism."
-  - title: "Canterbury Cathedral, historic center of Anglican communion"
+  - title: "15th-century stone choir screen inside Canterbury Cathedral"
     imageUrl: "/artifacts/anglicanism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Interior_of_Canterbury_Cathedral_JC_09.JPG"
     provenance: "Jonathan Cardy; CC BY-SA 3.0"
     period: "Image dated 2015"
-    description: "This image shows Canterbury Cathedral, historic center of Anglican communion, selected as a defining visual reference for Anglicanism."
 ---
 
 # Anglicanism

@@ -42,13 +42,12 @@ sources:
   - title: 'CESNUR: The Movement for the Restoration of the Ten Commandments of God'
     url: 'https://www.cesnur.org/testi/uganda_002.htm'
 artifacts:
-  - title: Rural Landscape of Kanungu District, Uganda
-    imageUrl: /artifacts/restoration-ten-commandments-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Cloudy_day_in_Kanungu_South_Western_Uganda.jpg
-    provenance: Kateregga1; CC BY-SA 4.0
-    period: Photographed 2023 CE
-    description: >-
-      The hilly, lush rural landscape of Kanungu District in southwestern Uganda, where the Movement for the Restoration of the Ten Commandments of God established its secluded communal settlement in 1989.
+  - title: "Rural Landscape of Kanungu District, Uganda"
+    imageUrl: "/artifacts/restoration-ten-commandments-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Cloudy_day_in_Kanungu_South_Western_Uganda.jpg"
+    provenance: "Kateregga1; CC BY-SA 4.0"
+    period: "Photographed 2023 CE"
+    description: "The hilly, lush rural landscape of Kanungu District in southwestern Uganda, where the Movement for the Restoration of the Ten Commandments of God established its secluded communal settlement in 1989."
 relations:
   - target: catholicism
     type: diverged_from

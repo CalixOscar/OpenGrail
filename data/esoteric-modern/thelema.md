@@ -47,19 +47,17 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Thelema'
     url: 'https://brill.com/search?q=Thelema'
 artifacts:
-  - title: "Thelemic Stele of Revealing"
+  - title: "Museum display tag for the Stele of Revealing (Stela of Ankhefenkhonsu) in Cairo"
     imageUrl: "/artifacts/thelema-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:666-Stele_of_revealing-_tag_from_Cairo_Museum.jpg"
     provenance: "Metadromos963; CC BY-SA 4.0"
     period: "Image dated 1998"
-    description: "This image shows Thelemic Stele of Revealing, selected as a defining visual reference for Thelema."
     detail: high
-  - title: "Abbey of Thelema"
+  - title: "Rear entrance of the Abbey of Thelema in Cefalù, Sicily"
     imageUrl: "/artifacts/thelema-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Abbey_of_Thelema_03.jpg"
     provenance: "Erik Albers; CC0"
     period: "Image dated 2017"
-    description: "This image shows Abbey of Thelema, selected as a defining visual reference for Thelema."
 ---
 
 # Thelema

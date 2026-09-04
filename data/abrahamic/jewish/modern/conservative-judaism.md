@@ -42,18 +42,16 @@ sources:
       Judaism
     url: 'https://www.cambridge.org/core/search?q=Conservative%20Judaism'
 artifacts:
-  - title: "Portrait of Solomon Schechter, architect of Conservative Judaism"
+  - title: "Etching of Solomon Schechter by Hermann Struck (1912–1913)"
     imageUrl: "/artifacts/conservative-judaism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Hermann_Struck_Grafik_JMBerlin_GDR_98_1_19.jpg"
     provenance: "Hermann Struck; Public domain"
     period: "Image dated 1912"
-    description: "This image shows Portrait of Solomon Schechter, architect of Conservative Judaism, selected as a defining visual reference for Conservative Judaism."
-  - title: "Jewish Theological Seminary, principal Conservative institution"
+  - title: "Jewish Theological Seminary of America in Manhattan"
     imageUrl: "/artifacts/conservative-judaism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:JTSA_122_Bway_jeh.JPG"
     provenance: "Jim.henderson; Public domain"
     period: "Image dated 2008"
-    description: "This image shows Jewish Theological Seminary, principal Conservative institution, selected as a defining visual reference for Conservative Judaism."
 ---
 
 # Conservative Judaism

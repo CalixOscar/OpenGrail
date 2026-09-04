@@ -45,18 +45,16 @@ sources:
     url: >-
       https://www.rep.routledge.com/search?query=P%C4%81%C5%9Bupata%20%C5%9Aaivism
 artifacts:
-  - title: "Lakulisa sculpture, iconic teacher-deity of Pasupata Saivism"
+  - title: "Sculpture of Lakulisha with club, Deccan, 7th–8th century"
     imageUrl: "/artifacts/pashupata-shaivism-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Lakulisa,_maestro_di_shiva,_forse_deccan,_VII-VIII_sec.JPG"
-    provenance: "sailko; CC BY-SA 3.0"
+    provenance: "Sailko; CC BY-SA 3.0"
     period: "Image dated 2011"
-    description: "This image shows Lakulisa sculpture, iconic teacher-deity of Pasupata Saivism, selected as a defining visual reference for Pāśupata Śaivism."
-  - title: "Kayavarohana temple, principal pilgrimage center of the Lakulisa lineage"
+  - title: "Lakulish Shiva Temple at Kayavarohan, Gujarat"
     imageUrl: "/artifacts/pashupata-shaivism-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Lakulish_Shiv_Temple_-_Kayavarohan_-_Gujarat_-_DSC001.jpg"
     provenance: "Snehrashmi; CC BY-SA 4.0"
     period: "Image dated 2021"
-    description: "This image shows Kayavarohana temple, principal pilgrimage center of the Lakulisa lineage, selected as a defining visual reference for Pāśupata Śaivism."
 ---
 
 # Pāśupata Śaivism

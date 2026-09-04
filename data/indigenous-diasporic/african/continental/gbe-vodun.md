@@ -47,18 +47,16 @@ sources:
   - title: UNESCO Intangible Cultural Heritage & Indigenous Knowledge Systems
     url: 'https://ich.unesco.org/en/search?q=Gbe%20Vodun%20Traditions'
 artifacts:
-  - title: "Temple of Pythons sacred sanctuary in Ouidah"
+  - title: "Entrance to the Temple of Pythons (Temple des Pythons) in Ouidah, Benin"
     imageUrl: "/artifacts/gbe-vodun-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Entr%C3%A9e_du_Temple_des_Pythons_(Ouidah).jpg"
     provenance: "Ji-Elle; CC BY-SA 4.0"
     period: "Image dated 2017"
-    description: "This image shows Temple of Pythons sacred sanctuary in Ouidah, selected as a defining visual reference for Gbe Vodun Traditions."
-  - title: "Fon Vodun bocio carved wooden ritual power figure"
+  - title: "Fon carved wooden bocio ritual power figure at the Musée Vodou de Strasbourg"
     imageUrl: "/artifacts/gbe-vodun-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Statuette_magique_Bocio-Mus%C3%A9e_Vodou.jpg"
     provenance: "Ji-Elle; CC BY-SA 3.0"
     period: "Image dated 2014"
-    description: "This image shows Fon Vodun bocio carved wooden ritual power figure, selected as a defining visual reference for Gbe Vodun Traditions."
 ---
 
 # Gbe Vodun Traditions

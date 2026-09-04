@@ -45,18 +45,16 @@ sources:
   - title: 'Brill Handbook of Religious Traditions: Ancient Greek Religion'
     url: 'https://brill.com/search?q=Ancient%20Greek%20Religion'
 artifacts:
-  - title: "Artemision Zeus bronze"
+  - title: "The Artemision Bronze (Zeus or Poseidon) in the National Archaeological Museum of Athens"
     imageUrl: "/artifacts/ancient-greek-religion-1.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Athens_-_National_Archeological_Museum_-_Zeus_(or_Poseidon)_statue_-_20060930.jpg"
-    provenance: "Taken by the uploader, w:es:Usuario:Barcex; CC BY-SA 3.0"
+    provenance: "Barcex; CC BY-SA 3.0"
     period: "460 BC"
-    description: "This image shows Artemision Zeus bronze, selected as a defining visual reference for Ancient Greek Religion."
-  - title: "Delphic sanctuary of Apollo"
+  - title: "Ruins of the Temple of Apollo at Delphi"
     imageUrl: "/artifacts/ancient-greek-religion-2.webp"
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Ruins_at_the_Sanctuary_of_Apollo_in_Delphi_on_October_4,_2020.jpg"
     provenance: "George E. Koronaios; CC BY-SA 4.0"
     period: "Image dated 2020"
-    description: "This image shows Delphic sanctuary of Apollo, selected as a defining visual reference for Ancient Greek Religion."
 ---
 
 # Ancient Greek Religion

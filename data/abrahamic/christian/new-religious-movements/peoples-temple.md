@@ -44,20 +44,18 @@ sources:
   - title: 'San Diego State University: Alternative Considerations of Jonestown & Peoples Temple'
     url: 'https://jonestown.sdsu.edu/'
 artifacts:
-  - title: Peoples Temple San Francisco Headquarters
-    imageUrl: /artifacts/peoples-temple-1.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Peoples_Temple.jpg
-    provenance: Nicolas Martin; CC BY-SA 4.0
-    period: Photographed December 1978
-    description: >-
-      The exterior entrance of the Peoples Temple headquarters at 1859 Geary Boulevard in San Francisco's Fillmore District, which served as the primary urban center for the movement's social programs and political activity from 1971 to 1977.
-  - title: Port Kaituma River Landscape, Guyana
-    imageUrl: /artifacts/peoples-temple-2.webp
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Port_Kaituma1.jpg
-    provenance: Closedavid; Public Domain
-    period: Photographed 2006
-    description: >-
-      The riverine landscape of Port Kaituma in the Barima-Waini region of northwestern Guyana, the remote jungle settlement six miles from the site of the Peoples Temple Agricultural Project (Jonestown).
+  - title: "Peoples Temple San Francisco Headquarters"
+    imageUrl: "/artifacts/peoples-temple-1.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Peoples_Temple.jpg"
+    provenance: "Nicolas Martin; CC BY-SA 4.0"
+    period: "Photographed December 1978"
+    description: "The exterior entrance of the Peoples Temple headquarters at 1859 Geary Boulevard in San Francisco's Fillmore District, which served as the primary urban center for the movement's social programs and political activity from 1971 to 1977."
+  - title: "Port Kaituma River Landscape, Guyana"
+    imageUrl: "/artifacts/peoples-temple-2.webp"
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Port_Kaituma1.jpg"
+    provenance: "Closedavid; Public Domain"
+    period: "Photographed 2006"
+    description: "The riverine landscape of Port Kaituma in the Barima-Waini region of northwestern Guyana, the remote jungle settlement six miles from the site of the Peoples Temple Agricultural Project (Jonestown)."
 relations:
   - target: christian-church-disciples-of-christ
     type: diverged_from
