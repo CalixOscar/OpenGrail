@@ -31,11 +31,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Haitian Vodou formed in Saint-Domingue and Haiti as
     enslaved and free Africans, their descendants, and local communities rebuilt
-    religious life under brutal col...
+    religious life under brutal colonial conditions.
   - >-
     Distinctive Practice: Service to the *lwa* includes song, drumming, dance,
     offering, possession, healing, initiation, and care for ancestors. Houses
-    and lineages differ; there is no ...
+    and lineages differ; there is no universal catechism.
   - >-
     Core Orientation: A Haitian religion formed through African ritual lineages,
     colonial violence, Catholic encounter, and local creativity.

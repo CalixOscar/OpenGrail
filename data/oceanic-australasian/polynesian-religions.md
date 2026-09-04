@@ -24,11 +24,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Polynesian-speaking navigators settled islands across
     a vast Pacific region over many centuries, developing related languages and
-    highly specific political, eco...
+    highly specific political, ecological, and religious systems.
   - >-
     Distinctive Practice: Genealogy, chiefly authority, ocean and land,
     ancestors, sacred restriction, gift exchange, ritual expertise, and powers
-    described through terms such as *mana* ...
+    described through terms such as *mana* and *tapu* recur with locally
+    different meanings.
   - >-
     Core Orientation: A comparative family of distinct religious traditions
     across the Polynesian triangle and diasporas.

@@ -28,11 +28,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Oriental Orthodox churches rejected or did not
     receive the Council of Chalcedon's 451 formula and developed enduring
-    communities in Egypt, Syria, Armenia, Ethio...
+    communities in Egypt, Syria, Armenia, Ethiopia, Eritrea, and India.
   - >-
     Distinctive Practice: These churches describe Christ as one incarnate nature
     of the divine Word, a position called miaphysite rather than the polemical
-    label “monophysite.” They pres...
+    label “monophysite.” They preserve ancient liturgies, episcopal succession,
+    sacraments, fasting, and strong monastic traditions.
   - >-
     Core Orientation: A communion of ancient churches that receive the first
     three ecumenical councils and follow miaphysite Christology.

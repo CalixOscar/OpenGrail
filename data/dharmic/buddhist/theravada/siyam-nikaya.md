@@ -32,11 +32,15 @@ key_tenets:
   - >-
     Foundational Doctrine: The Siyam Nikāya arose when the Kandyan court invited
     monks from Ayutthaya to restore higher ordination in 1753 under the
-    leadership of the Thai monk Upāli. The...
+    leadership of the Thai monk Upāli. The mission renewed a lineage that Sri
+    Lankan Buddhists considered interrupted and linked the Kandyan sangha to
+    wider Theravāda networks.
   - >-
     Distinctive Practice: The nikāya has preserved monastic education, ritual
     service, temple administration, and Pāli discipline within Sri Lankan
-    Buddhism. Historically, access to its ...
+    Buddhism. Historically, access to its higher ordination was restricted
+    largely to the Govigama caste, a policy that helped prompt the creation of
+    other fraternities.
   - >-
     Core Orientation: A major Sri Lankan monastic fraternity established through
     an ordination mission from the Thai kingdom of Ayutthaya.

@@ -35,11 +35,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Yiguandao developed from Chinese popular sectarian
     and salvationist networks and expanded rapidly under Zhang Tianran and Sun
-    Suzhen during the Republican era. ...
+    Suzhen during the Republican era. Suppressed in mainland China after 1949,
+    it grew in Taiwan and later through global Chinese diasporas.
   - >-
     Distinctive Practice: Teachings center on the Unborn or Eternal Mother, a
     final age of cosmic crisis, initiation into the Dao, vegetarian ethics,
-    ancestor care, and missionary merit....
+    ancestor care, and missionary merit. Yiguandao presents Confucianism,
+    Buddhism, and Daoism as expressions of one truth, while also incorporating
+    figures associated with Christianity and Islam.
   - >-
     Core Orientation: A Chinese salvationist religion teaching a universal Way,
     revelatory succession, moral cultivation, and return to the primordial

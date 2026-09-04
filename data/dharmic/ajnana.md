@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Early Buddhist and Jain texts describe skeptical
     interlocutors, including Sañjaya Belaṭṭhaputta, who declined to affirm or
-    deny major metaphysical propositions....
+    deny major metaphysical propositions. Their own writings do not survive, and
+    rival depictions may stylize their refusal to answer.
   - >-
     Distinctive Practice: Ajñāna practice appears to have used suspension of
     judgment in response to questions about afterlife, karma, and the nature of
-    a liberated person. Whether this ...
+    a liberated person. Whether this was a coordinated school or a family of
+    debate strategies remains uncertain.
   - >-
     Core Orientation: Ancient Indian skeptical teachers known mainly through
     Buddhist and Jain accounts for suspending judgment on disputed metaphysical

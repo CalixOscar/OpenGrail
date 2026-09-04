@@ -25,11 +25,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Hopi villages maintain distinct clan histories,
     ceremonial societies, agricultural knowledge, and responsibilities rooted in
-    long residence on and around the Ho...
+    long residence on and around the Hopi mesas.
   - >-
     Distinctive Practice: Dry farming, rain, emergence histories, katsinam,
     pilgrimage, reciprocity, and village ceremonial cycles connect ethical life
-    with place. Practice differs among...
+    with place. Practice differs among villages and societies; “Hopi religion”
+    is not a single public creed.
   - >-
     Core Orientation: Community-governed religious traditions of Hopi villages
     in what is now northeastern Arizona.

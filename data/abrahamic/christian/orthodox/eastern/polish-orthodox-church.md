@@ -29,11 +29,11 @@ key_tenets:
   - >-
     Foundational Doctrine: After an independent Polish state reappeared
     following the First World War, Orthodox dioceses formerly linked to the
-    Russian church sought a new canonical settl...
+    Russian church sought a new canonical settlement.
   - >-
     Distinctive Practice: The metropolitan of Warsaw presides over a synodal
     church that worships mainly in Church Slavonic and Polish, with Belarusian,
-    Ukrainian, and other local identi...
+    Ukrainian, and other local identities represented among its faithful.
   - >-
     Core Orientation: An autocephalous Eastern Orthodox church serving Orthodox
     communities in Poland and maintaining Byzantine-Slavic traditions.

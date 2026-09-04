@@ -31,11 +31,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Mary Ann and Robert de Grimston formed the Process in
     1960s London after leaving Scientology. It developed communes, striking
-    black-clad public imagery, magazin...
+    black-clad public imagery, magazines, and chapters in Europe and North
+    America.
   - >-
     Distinctive Practice: Process theology sought reconciliation among Jehovah,
     Lucifer, Satan, and Christ within an approaching judgment. Sensational
-    allegations linking the group to un...
+    allegations linking the group to unrelated crimes have not been
+    substantiated and should not replace primary evidence.
   - >-
     Core Orientation: A countercultural communal religion that developed a
     distinctive theology of Jehovah, Lucifer, Satan, and Christ before

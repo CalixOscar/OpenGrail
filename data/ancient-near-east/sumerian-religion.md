@@ -32,11 +32,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Sumerian-speaking communities of southern Mesopotamia
     developed temple institutions by the fourth millennium BCE. Cities such as
-    Uruk, Ur, Nippur, Eridu, and La...
+    Uruk, Ur, Nippur, Eridu, and Lagash honored overlapping but locally ordered
+    pantheons.
   - >-
     Distinctive Practice: Divine authority, civic prosperity, irrigation,
     kingship, and ritual labor were closely connected. Deities including An,
-    Enlil, Enki, Inanna, Nanna, and Utu occ...
+    Enlil, Enki, Inanna, Nanna, and Utu occupied changing constellations of
+    power.
   - >-
     Core Orientation: The temple-centered religious traditions of
     Sumerian-speaking city-states in southern Mesopotamia.

@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Lay-oriented vipassanā methods expanded in colonial
     and postcolonial Burma through teachers such as Ledi Sayadaw, Mahasi
-    Sayadaw, and U Ba Khin. Asian and Weste...
+    Sayadaw, and U Ba Khin. Asian and Western students carried related
+    techniques into global retreat centers during the later twentieth century.
   - >-
     Distinctive Practice: Programs commonly emphasize systematic mindfulness of
     changing bodily and mental events, intensive retreat, and practical
-    instruction. Some retain chanting, mer...
+    instruction. Some retain chanting, merit, rebirth, and monastic authority;
+    others translate practice into psychological language.
   - >-
     Core Orientation: Modern transnational vipassanā networks derived chiefly
     from Burmese and Theravāda meditation reforms.

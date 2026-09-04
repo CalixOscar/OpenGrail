@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Pharaoh Akhenaten redirected royal patronage toward
     the visible solar disk Aten, founded a new capital at Akhetaten, altered
-    divine imagery, and attacked the na...
+    divine imagery, and attacked the names and institutions of Amun and some
+    other gods.
   - >-
     Distinctive Practice: Scholars debate whether Atenism should be called
     monotheism, monolatry, royal henotheism, or an exceptional centralization of
-    cult. Evidence mostly reflects off...
+    cult. Evidence mostly reflects official monuments rather than ordinary
+    belief, and the movement’s duration was brief.
   - >-
     Core Orientation: Akhenaten's short-lived royal program elevating the solar
     Aten and restricting major traditional cults during Egypt's Amarna Period.

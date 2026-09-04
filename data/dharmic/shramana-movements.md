@@ -37,11 +37,14 @@ key_tenets:
   - >-
     Foundational Doctrine: During the first millennium BCE, renouncers,
     teachers, and communities in northern India developed alternatives to Vedic
-    sacrifice and householder status. Buddh...
+    sacrifice and householder status. Buddhist and Jain sources preserve debates
+    with Ājīvikas, materialists, skeptics, and other groups, although accounts
+    written by rivals must be used critically.
   - >-
     Distinctive Practice: Śramaṇa is a broad social and historical category, not
     one religion. Its communities disagreed over whether karma exists, whether
-    action changes destiny, what s...
+    action changes destiny, what survives death, and whether knowledge or
+    austerity liberates.
   - >-
     Core Orientation: An analytical umbrella for renunciant movements of ancient
     India that debated karma, rebirth, knowledge, austerity, and liberation

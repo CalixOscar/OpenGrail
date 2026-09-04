@@ -27,11 +27,15 @@ key_tenets:
   - >-
     Foundational Doctrine: The tradition historically called Nusayri traces
     formative teaching to Muhammad ibn Nusayr and later medieval missionaries.
-    Communities became concentrated in t...
+    Communities became concentrated in the Syrian coastal mountains and
+    experienced changing conditions under Mamluk, Ottoman, French mandate, and
+    Syrian governments.
   - >-
     Distinctive Practice: Alawite teachings are partly initiatory and
     historically transmitted within restricted circles, making outsider reports
-    uneven and sometimes hostile. Sources de...
+    uneven and sometimes hostile. Sources describe esoteric interpretation,
+    veneration of Ali, and a distinctive sacred calendar containing Islamic and
+    locally adapted elements.
   - >-
     Core Orientation: An esoteric religious tradition rooted in medieval Shi'a
     environments and concentrated historically in coastal Syria.

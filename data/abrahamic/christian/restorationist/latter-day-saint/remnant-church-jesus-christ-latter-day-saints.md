@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The Remnant Church was organized in 2000 by
     participants in the Restoration Branch movement who sought a unified church
-    and renewed lineal prophetic presidency....
+    and renewed lineal prophetic presidency. It established headquarters in
+    Independence, Missouri, and gathered congregations that shared a
+    conservative Reorganization heritage.
   - >-
     Distinctive Practice: The church affirms the Bible, Book of Mormon, and an
     open Doctrine and Covenants, together with sacraments and priesthood forms
-    inherited from the Reorganized t...
+    inherited from the Reorganized tradition.
   - >-
     Core Orientation: An organized restorationist church formed from
     conservative Restoration Branch networks in Independence, Missouri.

@@ -32,11 +32,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Sahajānand Swami organized the movement in early
     nineteenth-century Gujarat and came to be worshipped by followers as
-    Swaminarayan. Temples, monastic leadership...
+    Swaminarayan. Temples, monastic leadership, moral codes, vernacular
+    teaching, and social service supported durable communities.
   - >-
     Distinctive Practice: The tradition combines disciplined Vaiṣṇava devotion,
     image worship, ethical vows, and reverence for an authorized lineage of
-    teachers. Its branches differ over...
+    teachers. Its branches differ over succession and the theological status of
+    the guru.
   - >-
     Core Orientation: A Gujarati Vaiṣṇava tradition founded around Sahajānand
     Swami, revered as Swaminarayan, with several modern institutional branches.

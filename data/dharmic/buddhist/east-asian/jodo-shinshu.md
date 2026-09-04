@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Shinran, a disciple of Hōnen, interpreted Pure Land
     teaching around radical dependence on Amitābha’s vow and did not initially
-    establish a formal school. Commun...
+    establish a formal school. Communities organized around his descendants and
+    writings, eventually developing powerful Honganji institutions and several
+    branches.
   - >-
     Distinctive Practice: Jōdo Shinshū treats *shinjin*, the entrusting
     heart-mind given through other-power, as decisive; *nembutsu* expresses
-    gratitude rather than accumulating merit t...
+    gratitude rather than accumulating merit to compel salvation.
   - >-
     Core Orientation: The Japanese True Pure Land tradition associated with
     Shinran, emphasizing entrusting faith and Amitābha’s other-power.

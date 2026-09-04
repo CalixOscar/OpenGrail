@@ -31,11 +31,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Mary Baker Eddy founded the Church of Christ,
     Scientist in 1879 after developing a system of scriptural interpretation and
-    spiritual healing. The movement estab...
+    spiritual healing. The movement established practitioners, reading rooms,
+    periodicals, and a central church in Boston, expanding internationally
+    around 1900.
   - >-
     Distinctive Practice: Christian Science understands ultimate reality as
     spiritual and treats sin, sickness, and death as errors overcome through
-    clearer apprehension of God. Worship ...
+    clearer apprehension of God. Worship pairs readings from the Bible with
+    *Science and Health* and has no ordained clergy.
   - >-
     Core Orientation: The church of the Christian Science movement, founded by
     Mary Baker Eddy in nineteenth-century New England.

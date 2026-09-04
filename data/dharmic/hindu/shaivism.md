@@ -32,11 +32,16 @@ key_tenets:
   - >-
     Foundational Doctrine: Devotion to Rudra-Śiva has Vedic antecedents, but
     recognizably Śaiva institutions expanded around the turn of the common era.
-    Pāśupata ascetics, temple-centered...
+    Pāśupata ascetics, temple-centered Siddhānta, tantric lineages, Kashmirian
+    theologians, and Tamil poet-saints formed distinct yet interacting worlds.
   - >-
     Distinctive Practice: Śiva may be approached as supreme lord, absolute
     consciousness, ascetic, householder, dancer, or *liṅga*. Initiation, mantra,
-    image worship, yoga, pilgrimage, a...
+    image worship, yoga, pilgrimage, and grace take different forms by lineage.
+    Śaiva and Śākta traditions frequently share tantric scriptures and ritual
+    systems, making rigid boundaries misleading. Śaivism is not one
+    denomination: its schools disagree about self, world, liberation, and who
+    may receive initiation.
   - >-
     Core Orientation: Diverse Hindu traditions devoted to Śiva, spanning temple
     worship, theology, asceticism, tantra, and vernacular devotion.

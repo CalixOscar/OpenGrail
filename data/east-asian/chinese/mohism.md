@@ -25,11 +25,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Mohism arose during the Warring States period around
     Mo Di, or Mozi, and organized communities of teachers and technical
-    specialists. Mohist texts preserve ethi...
+    specialists. Mohist texts preserve ethical essays, political proposals,
+    defenses against siege warfare, and sophisticated discussions of language
+    and reasoning.
   - >-
     Distinctive Practice: Mohists argued for inclusive or impartial care,
     appointment by merit, economic restraint, opposition to aggressive war, and
-    conformity to Heaven's morally purpo...
+    conformity to Heaven's morally purposive order.
   - >-
     Core Orientation: An ancient Chinese ethical and political tradition
     associated with Mozi, known for impartial care, merit, frugality, and

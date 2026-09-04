@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Montanus and the women prophets Priscilla and
     Maximilla began ecstatic prophecy in second-century Phrygia, announcing the
-    Spirit's urgent guidance and an approa...
+    Spirit's urgent guidance and an approaching eschatological fulfillment
+    associated with Pepuza.
   - >-
     Distinctive Practice: The New Prophecy promoted fasting, moral rigor,
     martyrdom, and continued charismatic revelation while using broadly
-    Christian scripture. Ancient critics charged...
+    Christian scripture. Ancient critics charged its prophets with excess and
+    false inspiration, but surviving evidence is largely polemical.
   - >-
     Core Orientation: An early Christian prophetic renewal movement begun in
     Phrygia by Montanus, Priscilla, and Maximilla.

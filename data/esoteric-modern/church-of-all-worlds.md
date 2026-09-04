@@ -32,11 +32,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Oberon Zell and Lance Christie organized an early
     form of the Church of All Worlds in 1962, borrowing the name and
-    water-sharing language from Robert Heinlein's...
+    water-sharing language from Robert Heinlein's novel *Stranger in a Strange
+    Land*.
   - >-
     Distinctive Practice: CAW has emphasized nature religion, pluralism, sacred
     sexuality, environmental concern, and creative ritual. It is a real
-    religious organization inspired partly...
+    religious organization inspired partly by fiction, not merely a fandom.
   - >-
     Core Orientation: An American Neo-Pagan church founded by Oberon Zell and
     collaborators, partly inspired by Stranger in a Strange Land.

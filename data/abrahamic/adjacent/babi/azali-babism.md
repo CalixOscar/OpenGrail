@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: After the Bab's execution, leadership claims and the
     later announcement of Baha'u'llah divided the Babi community. Followers of
-    Mirza Yahya Subh-i Azal rejected...
+    Mirza Yahya Subh-i Azal rejected Baha'u'llah's claim to be the promised
+    figure announced by the Bab and maintained allegiance to the Babi Bayan.
   - >-
     Distinctive Practice: Azalis emphasized preservation and interpretation of
     the Bab's laws and writings while often practicing concealment in a hostile
-    environment. Their numbers decl...
+    environment. Their numbers declined and reliable demographic information
+    remains difficult to establish.
   - >-
     Core Orientation: A small Babi continuation associated with Subh-i Azal that
     did not accept Baha'u'llah's prophetic claim.

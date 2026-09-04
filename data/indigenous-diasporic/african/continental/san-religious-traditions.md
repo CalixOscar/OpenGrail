@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: “San” covers peoples with different languages and
     histories across southern Africa. Pastoral expansion, settler violence,
-    dispossession, labor systems, conserva...
+    dispossession, labor systems, conservation policy, and mission Christianity
+    profoundly disrupted communities.
   - >-
     Distinctive Practice: In several documented traditions, communal dances
     generate healing potency, alter consciousness, and repair relationships;
-    stories connect animals, persons, wea...
+    stories connect animals, persons, weather, and ancestral time.
   - >-
     Core Orientation: An analytical umbrella for distinct religious traditions
     among San peoples of southern Africa, including healing dances, stories, and

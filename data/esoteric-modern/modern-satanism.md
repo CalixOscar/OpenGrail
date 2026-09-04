@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Self-identified Satanic organizations emerged
     publicly in the later twentieth century, although Christian accusations of
-    Satan worship are much older. Modern mo...
+    Satan worship are much older. Modern movements differ sharply: some are
+    atheistic and symbolic, others theistic or esoteric, and some primarily
+    political.
   - >-
     Distinctive Practice: Satan may represent autonomy, transgression, rational
     self-interest, resistance to authority, or an actual spiritual being. No
-    single doctrine speaks for all Sa...
+    single doctrine speaks for all Satanists.
   - >-
     Core Orientation: A family of modern religions and ethical movements using
     Satan as symbol, deity, adversarial principle, or focus of identity.

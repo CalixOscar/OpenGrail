@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Zaydism traces its name to Zayd ibn Ali, killed in
     revolt against Umayyad rule in 740. Zaydi communities established imamates
-    around the Caspian and, most endur...
+    around the Caspian and, most enduringly, in Yemen from the late ninth
+    century.
   - >-
     Distinctive Practice: Zaydis teach that a qualified descendant of Hasan or
     Husayn may claim the Imamate through learning and active leadership, rather
-    than affirming a fixed line of ...
+    than affirming a fixed line of infallible Imams.
   - >-
     Core Orientation: A Shi'a tradition following Zayd ibn Ali's lineage of
     learned activist Imams, historically influential in Yemen.

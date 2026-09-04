@@ -32,11 +32,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Medieval Korean texts narrate Dangun as founder of
     the first Korean polity, while the story drew on older sacred-geographical
-    and ancestral themes. From the lat...
+    and ancestral themes. From the late nineteenth century, intellectuals and
+    new religions reworked Dangun as a focus of national origin under imperial
+    pressure and Japanese colonization.
   - >-
     Distinctive Practice: This node groups a motif and ritual field, not one
     self-identifying denomination. Dangun may appear as divine ancestor, culture
-    hero, historical symbol, or nati...
+    hero, historical symbol, or national emblem depending on the community.
   - >-
     Core Orientation: An analytical node for Korean rites, narratives, and
     modern movements centered on Dangun as an ancestral culture-founder.

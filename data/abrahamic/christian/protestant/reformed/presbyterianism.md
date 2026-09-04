@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Presbyterianism developed through the Scottish
     Reformation, especially the work of John Knox and the Reformed settlement of
-    1560. Churches carried presbyterian ...
+    1560. Churches carried presbyterian polity and confessional theology to
+    Ireland, North America, Africa, Asia, and Oceania.
   - >-
     Distinctive Practice: Presbyterian churches are governed by connected
     councils of teaching and ruling elders rather than bishops or wholly
-    independent congregations. Reformed emphase...
+    independent congregations. Reformed emphases include divine sovereignty,
+    covenant, preaching, sacraments, and disciplined communal life.
   - >-
     Core Orientation: A Reformed Christian family governed through councils of
     elders and historically shaped by Scottish reform.

@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: After the flying-saucer reports of the late 1940s,
     contactees and new religious movements combined space-age imagery with
-    Theosophy, Christianity, millennial ex...
+    Theosophy, Christianity, millennial expectation, channeling, and
+    evolutionary narratives.
   - >-
     Distinctive Practice: Movements may describe extraterrestrials as creators,
     ascended teachers, rescuers, judges, or fellow cosmic beings. Documenting
-    such beliefs does not provide sc...
+    such beliefs does not provide scientific evidence for alien contact.
   - >-
     Core Orientation: An analytical family of modern movements interpreting
     extraterrestrial beings, spacecraft, or cosmic civilizations through

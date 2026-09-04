@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Nimbārka lineage developed a form of *bhedābheda*
     Vedānta, usually dated to the late first or early second millennium CE.
-    Later communities linked its metap...
+    Later communities linked its metaphysics to devotion toward Rādhā and Kṛṣṇa
+    and organized the Nimbārka Sampradāya in North India.
   - >-
     Distinctive Practice: Souls and matter depend completely on Brahman and are
     therefore non-different, yet possess real qualities and agency that make
-    them different. The relation is c...
+    them different. The relation is compared to sun and rays.
   - >-
     Core Orientation: Nimbārka's Vedānta of simultaneous difference and
     non-difference between Brahman, selves, and matter.

@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Pro-Catholic currents appeared within the Syriac
     Orthodox milieu during the early modern period, aided by contacts with
-    missionaries and Rome. A lasting Catholi...
+    missionaries and Rome. A lasting Catholic patriarchal succession is
+    conventionally dated from the election of Michael Jarweh in 1782.
   - >-
     Distinctive Practice: This patriarchal *sui iuris* church celebrates the
     West Syriac rite and preserves Syriac language, hymnody, fasting, and
-    spirituality associated with Antiochene...
+    spirituality associated with Antiochene Christianity.
   - >-
     Core Orientation: A West Syriac Catholic patriarchal church centered
     historically in the Middle East and in communion with Rome.

@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Claude Vorilhon, later Raël, founded the movement
     after reporting an encounter in France in 1973 with an extraterrestrial
-    representative of the Elohim. Publicat...
+    representative of the Elohim. Publications and missionary organization
+    spread the message internationally.
   - >-
     Distinctive Practice: Raëlians interpret biblical and other religious
     narratives as misunderstood accounts of advanced biotechnology, reject
-    supernatural creation, and promote sensua...
+    supernatural creation, and promote sensuality, scientific progress, and
+    human cloning.
   - >-
     Core Orientation: A new religious movement teaching that extraterrestrial
     scientists created terrestrial life and were remembered as gods.

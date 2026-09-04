@@ -35,11 +35,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Yarsan tradition coalesced in the Kurdish cultural
     region, with Sultan Sahak conventionally associated with a formative sacred
-    era around the fourteenth or fift...
+    era around the fourteenth or fifteenth century.
   - >-
     Distinctive Practice: Teachings include successive divine manifestations,
     spiritual ranks, sacred music, communal assembly, and covenantal bonds.
-    Outsiders have variously classified ...
+    Outsiders have variously classified Yarsan as Islamic, Sufi, “heterodox,” or
+    a survival of ancient Iranian religion; none fully captures all community
+    self-understandings.
   - >-
     Core Orientation: An initiatory religious tradition centered among Kurdish
     and related communities, with sacred hymns, cyclical divine manifestations,

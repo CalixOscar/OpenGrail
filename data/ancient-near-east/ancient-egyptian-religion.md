@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Ancient Egyptian religious traditions developed over
     more than three millennia, from early kingdoms through Ptolemaic and Roman
-    rule. Temples maintained divine ...
+    rule. Temples maintained divine images and estates, kingship enacted cosmic
+    order, and households honored protective and ancestral powers.
   - >-
     Distinctive Practice: Maintaining *ma'at*—truth, justice, and ordered
     relation—joined ritual, ethics, and political legitimacy. Ra, Osiris, Isis,
-    Amun, Hathor, Horus, and many local ...
+    Amun, Hathor, Horus, and many local gods could combine without requiring a
+    single systematic theology.
   - >-
     Core Orientation: Plural temple, royal, mortuary, and household traditions
     practiced across pharaonic Egypt.

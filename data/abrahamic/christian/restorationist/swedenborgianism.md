@@ -31,11 +31,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Emanuel Swedenborg published extensive accounts of
     visions and a spiritual interpretation of Christianity in the eighteenth
-    century but did not found a denomina...
+    century but did not found a denomination.
   - >-
     Distinctive Practice: New Church theology understands the Trinity as united
     in the one person of Jesus Christ and interprets scripture through
-    correspondences between natural and spi...
+    correspondences between natural and spiritual realities.
   - >-
     Core Orientation: Christian churches inspired by Emanuel Swedenborg's
     visionary biblical theology, collectively known as the New Church.

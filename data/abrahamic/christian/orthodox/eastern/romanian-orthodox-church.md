@@ -26,11 +26,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Orthodox metropolitanates long served the
     principalities of Wallachia and Moldavia under complex relations with
-    Constantinople. Their hierarchy was unified afte...
+    Constantinople. Their hierarchy was unified after the creation of modern
+    Romania, declared autocephalous in 1872, recognized by Constantinople in
+    1885, and elevated to patriarchal status in 1925.
   - >-
     Distinctive Practice: The Romanian Orthodox Church celebrates Byzantine
     liturgy primarily in Romanian and is governed through a holy synod headed by
-    the patriarch of Romania. Monasti...
+    the patriarch of Romania. Monastic spirituality, vernacular hymnody, and
+    local saints give it recognizable character.
   - >-
     Core Orientation: An autocephalous Eastern Orthodox church serving
     Romanian-speaking communities and headed by the patriarch of Romania.

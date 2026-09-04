@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Disciples of Christ descend from the Stone and
     Campbell reform movements that joined in the 1830s. Cooperative missionary,
-    educational, and benevolent insti...
+    educational, and benevolent institutions developed alongside congregational
+    independence.
   - >-
     Distinctive Practice: Disciples congregations center worship on the Lord's
     Supper and usually practice baptism by immersion while recognizing
-    Christians from other baptismal traditio...
+    Christians from other baptismal traditions.
   - >-
     Core Orientation: A mainline Protestant Stone-Campbell denomination
     organized in its present form through a twentieth-century restructure.

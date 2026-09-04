@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Vietnamese chronicles describe several meditation
     lineages arriving through Chinese and Indian-connected routes. The Trúc Lâm
-    school gained royal support under ...
+    school gained royal support under the Trần dynasty and became an enduring
+    emblem of Vietnamese Buddhism.
   - >-
     Distinctive Practice: Thiền values meditative insight and teacher
     transmission but is rarely isolated from chanting, merit-making, and
-    devotion to buddhas and bodhisattvas. Modern te...
+    devotion to buddhas and bodhisattvas. Modern teachers, especially Thích Nhất
+    Hạnh, made Vietnamese meditation and engaged Buddhism globally influential.
   - >-
     Core Orientation: Vietnamese forms of Chan Buddhism combining meditation
     lineages with devotional, ritual, and socially engaged practice.

@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Aleister Crowley founded Thelema after the 1904
     reception of *The Book of the Law*, which he attributed to a discarnate
-    intelligence named Aiwass. Crowley rewor...
+    intelligence named Aiwass. Crowley reworked ceremonial magic, yoga,
+    mysticism, and initiatory orders into a new religious system.
   - >-
     Distinctive Practice: The maxim “Do what thou wilt” refers within Thelema to
     discovering and enacting True Will, not simply following impulse. Ritual
-    magic, meditation, graded initia...
+    magic, meditation, graded initiation, sacred sexuality, and devotion to
+    figures such as Nuit, Hadit, and Ra-Hoor-Khuit may feature.
   - >-
     Core Orientation: An esoteric religious current founded by Aleister Crowley
     around the law of Thelema, ritual attainment, and discovery of True Will.

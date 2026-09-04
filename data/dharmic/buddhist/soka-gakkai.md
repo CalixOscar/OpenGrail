@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Educators Makiguchi Tsunesaburō and Toda Jōsei
     founded the Soka Kyoiku Gakkai in 1930 within Nichiren Shōshū. Reorganized
-    after wartime repression, Soka Gakkai ...
+    after wartime repression, Soka Gakkai grew rapidly under Toda and Ikeda
+    Daisaku and developed an international network.
   - >-
     Distinctive Practice: Members chant *Nam-myōhō-renge-kyō* before a
     *gohonzon*, study Nichiren’s writings, and frame practice as “human
-    revolution” expressed through daily life and so...
+    revolution” expressed through daily life and social contribution.
   - >-
     Core Orientation: A global lay Nichiren Buddhist movement emphasizing
     chanting, personal transformation, peace, culture, and education.

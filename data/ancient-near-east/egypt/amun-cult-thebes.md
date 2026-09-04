@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Amun rose from a Theban god to national prominence as
     Theban rulers reunified Egypt and founded the New Kingdom. Joined with the
-    solar god Re as Amun-Re, he rec...
+    solar god Re as Amun-Re, he received monumental temples at Karnak and Luxor,
+    extensive estates, priesthoods, and festival processions.
   - >-
     Distinctive Practice: The cult’s theology could describe Amun as hidden,
     transcendent, and manifest through other gods, but this did not abolish
-    Egyptian polytheistic practice. “Amun...
+    Egyptian polytheistic practice. “Amunism” is therefore misleading if it
+    implies a separate confessional religion.
   - >-
     Core Orientation: The Theban temple cult of Amun, whose fusion with Re and
     royal patronage made him preeminent in the New Kingdom.

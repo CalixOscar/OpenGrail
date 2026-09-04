@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Eusebio Joaquín González, known in the movement as
     Aarón, founded La Luz del Mundo in Guadalajara in 1926. The church grew
-    through missionary activity, strong c...
+    through missionary activity, strong community institutions, distinctive
+    temples, and leadership successions within the Joaquín family.
   - >-
     Distinctive Practice: The church teaches restoration of the original
     Christian church through a living apostle, baptism in the name of Jesus
-    Christ, disciplined congregational life, ...
+    Christ, disciplined congregational life, and non-Trinitarian theology.
   - >-
     Core Orientation: A Mexican restorationist Christian church with apostolic
     leadership and an international congregational network.

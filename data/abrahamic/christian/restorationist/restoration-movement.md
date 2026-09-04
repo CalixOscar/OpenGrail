@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Restoration Movement arose on the early
     nineteenth-century United States frontier through networks associated
-    especially with Barton W. Stone and Alexander ...
+    especially with Barton W. Stone and Alexander Campbell.
   - >-
     Distinctive Practice: Common themes include believer's baptism by immersion,
     weekly Communion, congregational life, and the slogan that scripture should
-    supply a basis for unity. The...
+    supply a basis for unity. The movement's branches differ substantially over
+    ministry, worship, ecumenism, and biblical interpretation.
   - >-
     Core Orientation: The Stone-Campbell movement, a Protestant-origin effort to
     restore New Testament Christianity and overcome denominational division.

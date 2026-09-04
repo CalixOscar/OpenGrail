@@ -28,11 +28,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Rastafari emerged in 1930s Jamaica amid colonial
     rule, Black internationalism, Ethiopianism, Garveyite thought, and popular
-    biblical culture. The coronation of ...
+    biblical culture. The coronation of Haile Selassie I became a central sign
+    interpreted differently by Rastafari mansions and individuals.
   - >-
     Distinctive Practice: Rastafari language contrasts oppressive “Babylon” with
     liberation, repatriation, and Africa; *reasoning*, *livity*, ital practice,
-    dreadlocks, and sacramental c...
+    dreadlocks, and sacramental cannabis may shape community life.
   - >-
     Core Orientation: A Jamaican religious and liberation movement centered on
     Black dignity, biblical interpretation, and Ethiopia.

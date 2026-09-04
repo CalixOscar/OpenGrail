@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Kānaka Maoli religious life developed across the
     Hawaiian Islands through chiefly polities, specialist lineages, agriculture,
-    fishing, navigation, and relations...
+    fishing, navigation, and relationships with particular places.
   - >-
     Distinctive Practice: Akua such as Kāne, Kanaloa, Kū, and Lono participate
     in a much wider field of ancestors and localized powers. *Mele*, *moʻolelo*,
-    *kapu*, *mana*, offering, and ...
+    *kapu*, *mana*, offering, and care for ʻāina join religion with genealogy
+    and governance.
   - >-
     Core Orientation: Kānaka Maoli religious traditions grounded in genealogy,
     akua, ʻāina, chiefly history, and reciprocal care.

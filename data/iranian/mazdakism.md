@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Mazdak appears in sources as a religious reformer
     active around the reign of the Sasanian king Kavad I. Later Zoroastrian,
-    Arabic, and Persian authors portray h...
+    Arabic, and Persian authors portray his followers as social and cosmological
+    radicals, but their accounts were written by opponents and often disagree.
   - >-
     Distinctive Practice: Reports associate the movement with nonviolence,
     restraint, communal access to resources, and a cosmology of light and
-    darkness. Sensational claims about “shari...
+    darkness. Sensational claims about “sharing women” likely reflect polemic
+    more than neutral description.
   - >-
     Core Orientation: A contested designation for the reform movement associated
     with Mazdak in late Sasanian Iran.

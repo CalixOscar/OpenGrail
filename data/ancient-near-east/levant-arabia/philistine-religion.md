@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Philistine communities appeared in the southern
     coastal Levant during the upheavals around 1200 BCE. Early material culture
-    shows Aegean and eastern Mediterrane...
+    shows Aegean and eastern Mediterranean connections, followed by increasingly
+    local forms.
   - >-
     Distinctive Practice: Philistine religion was neither a preserved package of
     Mycenaean belief nor simply Canaanite religion under a new ethnic label.
-    Generations of migration, interm...
+    Generations of migration, intermarriage, trade, and political competition
+    produced hybrid local traditions.
   - >-
     Core Orientation: The evolving Iron Age religions of Philistine cities,
     formed through Aegean-linked migration and sustained Levantine interaction.

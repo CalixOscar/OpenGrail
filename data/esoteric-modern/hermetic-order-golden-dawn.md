@@ -35,11 +35,13 @@ key_tenets:
   - >-
     Foundational Doctrine: William Wynn Westcott, Samuel Liddell MacGregor
     Mathers, and William Robert Woodman founded the Golden Dawn in London in
-    1888. Its temples admitted women and me...
+    1888. Its temples admitted women and men and attracted figures including
+    Florence Farr, W.
   - >-
     Distinctive Practice: The curriculum aligned initiation grades with a
     Kabbalistic Tree of Life and combined ritual magic, tarot, astrology,
-    alchemy, and visionary work. Much contempo...
+    alchemy, and visionary work. Much contemporary ceremonial magic descends
+    from Golden Dawn publications and offshoots.
   - >-
     Core Orientation: A British initiatory order that synthesized ceremonial
     magic, Kabbalah, tarot, astrology, and alchemy into a graded curriculum.

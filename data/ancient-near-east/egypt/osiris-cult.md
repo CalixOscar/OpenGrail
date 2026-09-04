@@ -32,11 +32,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Osiris appears in Old Kingdom mortuary texts and
     became closely associated with Abydos, burial, judgment, agricultural
-    renewal, and legitimate succession throug...
+    renewal, and legitimate succession through Horus.
   - >-
     Distinctive Practice: The cult did not promise resurrection in precisely the
     later Christian sense; Egyptian afterlife concepts joined bodily
-    preservation, transformed existence, sol...
+    preservation, transformed existence, solar cycles, social status, and divine
+    identification.
   - >-
     Core Orientation: The enduring Egyptian mortuary and festival cult of
     Osiris, ruler of the dead and model of restored life.

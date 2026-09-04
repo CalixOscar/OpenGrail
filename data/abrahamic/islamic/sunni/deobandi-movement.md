@@ -36,11 +36,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Scholars founded Darul Uloom Deoband in north India
     in 1866 amid the social and political upheavals of British colonial rule.
-    Its seminary model, publishing net...
+    Its seminary model, publishing networks, and graduates spread across South
+    Asia and later to Africa, Europe, and North America, creating a
+    decentralized but recognizable educational tradition.
   - >-
     Distinctive Practice: Deobandi scholarship is generally Hanafi in law,
     emphasizes hadith study and personal reform, and historically incorporated
-    disciplined Sufi mentorship while op...
+    disciplined Sufi mentorship while opposing practices it considered unlawful
+    innovation.
   - >-
     Core Orientation: A transnational Sunni reform and educational movement
     originating at Darul Uloom Deoband in colonial India.

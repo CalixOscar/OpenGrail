@@ -30,11 +30,15 @@ key_tenets:
   - >-
     Foundational Doctrine: Churches of Christ emerged from the Stone-Campbell
     Restoration Movement in the United States. Disputes over missionary
-    societies, instrumental music, biblical i...
+    societies, instrumental music, biblical interpretation, and the effects of
+    the Civil War gradually separated many congregations from the stream later
+    represented by the Disciples of Christ.
   - >-
     Distinctive Practice: Congregations are autonomous and normally governed by
     local elders rather than a denominational headquarters. Common practices
-    include believer's baptism by imm...
+    include believer's baptism by immersion, weekly Communion, and a strong
+    appeal to New Testament precedent; most congregations sing without
+    instruments.
   - >-
     Core Orientation: Autonomous Stone-Campbell congregations known for
     congregational governance, weekly Communion, and normally unaccompanied

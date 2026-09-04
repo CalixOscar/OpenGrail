@@ -37,11 +37,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Latter Day Saint fundamentalism arose after the
     Church of Jesus Christ of Latter-day Saints ended authorization of new
-    plural marriages around the turn of the t...
+    plural marriages around the turn of the twentieth century.
   - >-
     Distinctive Practice: Fundamentalist groups commonly accept
     nineteenth-century Latter Day Saint scriptures and temple theology while
-    disputing later institutional changes. Their lead...
+    disputing later institutional changes. Their leadership systems, communal
+    arrangements, and marriage practices differ widely.
   - >-
     Core Orientation: An umbrella for movements preserving plural marriage and
     other nineteenth-century Latter Day Saint teachings after institutional

@@ -31,11 +31,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Modern Aghori lineages commonly trace themselves
     through Bābā Kīnārām in early modern North India while drawing on older
-    Kāpālika and avadhūta imagery. Crematio...
+    Kāpālika and avadhūta imagery. Cremation grounds and the sacred geography of
+    Varanasi are prominent, but contemporary institutions also operate
+    monasteries and charitable programs.
   - >-
     Distinctive Practice: Aghori discipline seeks realization that divine
     reality cannot be divided into pure and impure. Some practitioners ritually
-    confront substances and places rejec...
+    confront substances and places rejected by ordinary society, under lineage
+    authority and ascetic constraints.
   - >-
     Core Orientation: A small Śaiva ascetic tradition that confronts purity
     boundaries through disciplined nonduality and cremation-ground symbolism.

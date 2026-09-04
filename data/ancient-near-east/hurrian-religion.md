@@ -25,11 +25,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Hurrian-speaking peoples lived across a wide zone
     from northern Mesopotamia to Syria and Anatolia during the third and second
-    millennia BCE. Their traditions ar...
+    millennia BCE. Their traditions are reconstructed from archives at Hattusa,
+    Ugarit, Nuzi, and other sites, often through texts copied by non-Hurrian
+    scribes.
   - >-
     Distinctive Practice: The storm god Teššub, Ḫebat, Šauška, Kumarbi, and
     deities grouped as ancient “former gods” feature in surviving myth and
-    ritual. Offerings, purification, music,...
+    ritual. Offerings, purification, music, divination, and oath-making traveled
+    through multilingual courts.
   - >-
     Core Orientation: Religious traditions of Hurrian-speaking communities
     across northern Mesopotamia, Syria, and Anatolia.

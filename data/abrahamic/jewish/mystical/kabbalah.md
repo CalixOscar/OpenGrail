@@ -27,11 +27,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Earlier Jewish mystical and cosmological writings
     preceded Kabbalah, but recognizable schools emerged in medieval Provence and
-    Iberia. The *Zohar*, composed lar...
+    Iberia. The *Zohar*, composed largely in thirteenth-century Castile, became
+    foundational.
   - >-
     Distinctive Practice: Kabbalists interpret Torah through symbolic structures
     including the ten *sefirot*, which describe dynamic divine manifestation
-    without simply multiplying gods....
+    without simply multiplying gods. Lurianic traditions discuss contraction,
+    shattered vessels, and restoration through commandments performed with
+    intention.
   - >-
     Core Orientation: A family of Jewish esoteric traditions concerning divine
     manifestation, creation, scripture, ritual intention, and restoration.

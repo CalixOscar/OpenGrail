@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Three anonymous German works published between 1614
     and 1616 described Christian Rosenkreutz and a secret brotherhood seeking
-    universal reform. The manifestos g...
+    universal reform. The manifestos generated controversy, imitation, and
+    societies claiming Rosicrucian inheritance.
   - >-
     Distinctive Practice: Rosicrucian currents combine Protestant reform hopes,
     alchemical symbolism, Hermetic and Paracelsian nature philosophy,
-    initiation, and the ideal of concealed s...
+    initiation, and the ideal of concealed service.
   - >-
     Core Orientation: An esoteric current inspired by manifestos announcing a
     hidden fraternity devoted to religious, intellectual, and social reform.

@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Beta Israel developed in the Ethiopian highlands,
     although proposed origin stories range from ancient Israelite descent to
-    gradual local formation; evidence doe...
+    gradual local formation; evidence does not support a single certain account.
   - >-
     Distinctive Practice: The Orit, incorporating the Torah and related books,
     anchors Beta Israel practice alongside distinctive Sabbath, purity, fasting,
-    and pilgrimage traditions. His...
+    and pilgrimage traditions. Historically the community did not organize life
+    around the Talmud in the same way as Rabbinic Judaism.
   - >-
     Core Orientation: An Ethiopian Jewish community with a distinctive Ge'ez
     scriptural, priestly, and ritual heritage.

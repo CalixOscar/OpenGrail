@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Michael Aquino and associates formed the Temple of
     Set in 1975 after leaving the Church of Satan. The organization developed a
-    graded initiatory system drawing ...
+    graded initiatory system drawing on ceremonial magic, Western esotericism,
+    and a reinterpretation of the Egyptian deity Set.
   - >-
     Distinctive Practice: Setians generally affirm Set as an objective
     metaphysical intelligence and pursue *xeper*, self-directed becoming or
-    coming into being. This distinguishes the T...
+    coming into being. This distinguishes the Temple's theology from the Church
+    of Satan's symbolic atheism.
   - >-
     Core Orientation: An initiatory Left-Hand Path religion founded by Michael
     Aquino that understands Set as a real principle of isolate intelligence.

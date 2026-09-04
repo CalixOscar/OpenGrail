@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The New Age milieu took recognizable form in the
     later twentieth century through alternative religious communities,
-    metaphysical bookstores, seminars, channelin...
+    metaphysical bookstores, seminars, channeling networks, holistic health, and
+    mass-market publishing.
   - >-
     Distinctive Practice: Recurring themes include inner divinity, personal
     growth, energetic healing, reincarnation, channeling, planetary
-    transformation, and the harmonization of scien...
+    transformation, and the harmonization of science and spirituality.
   - >-
     Core Orientation: A decentralized milieu of alternative spirituality focused
     on personal transformation, holistic healing, and an anticipated shift in

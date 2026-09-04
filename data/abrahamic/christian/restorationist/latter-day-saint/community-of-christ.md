@@ -30,11 +30,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The Reorganized Church of Jesus Christ of Latter Day
     Saints was formally organized in 1860 with Joseph Smith III as president. It
-    gathered Midwestern Saints who...
+    gathered Midwestern Saints who had not followed Brigham Young and rejected
+    plural marriage.
   - >-
     Distinctive Practice: Community of Christ emphasizes Jesus Christ, peace,
     reconciliation, responsible interpretation of scripture, and continuing
-    revelation. It practices open Commun...
+    revelation. It practices open Communion, ordains women, and has moved toward
+    a broadly Trinitarian theology while retaining the Book of Mormon and an
+    open canon of Doctrine and Covenants.
   - >-
     Core Orientation: A Latter Day Saint denomination formerly named the
     Reorganized Church, centered in Independence, Missouri.

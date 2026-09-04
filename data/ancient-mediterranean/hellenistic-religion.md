@@ -32,11 +32,13 @@ key_tenets:
   - >-
     Foundational Doctrine: After Alexander's conquests, Greek-speaking kingdoms
     connected Egypt, western Asia, and the eastern Mediterranean through new
-    cities, courts, armies, and trade....
+    cities, courts, armies, and trade. Religious change did not erase local
+    traditions.
   - >-
     Distinctive Practice: Associations, healing sanctuaries, household cult,
     oracles, royal ritual, and initiatory groups offered overlapping forms of
-    belonging. Deities such as Sarapis ...
+    belonging. Deities such as Sarapis demonstrate institutional synthesis,
+    while Isis retained multiple Egyptian and Mediterranean meanings.
   - >-
     Core Orientation: Interconnected local and transregional religious worlds
     formed after Alexander's conquests.

@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Oromo religious traditions long developed through the
     Gadaa political-generational system, local sacred sites, kinship, and
-    pastoral or agricultural life across...
+    pastoral or agricultural life across Ethiopia and Kenya.
   - >-
     Distinctive Practice: Waaqa is associated with creation, sky, truth, and
     moral order; *ayyaana* can name manifestations or spiritual agencies within
-    that order. *Safuu* concerns ethi...
+    that order. *Safuu* concerns ethically proper relationship among people,
+    land, and the sacred.
   - >-
     Core Orientation: The Indigenous religion of Oromo communities centered on
     Waaqa, moral order, sacred ecology, and institutions connected with the

@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: British contactee George King founded the Aetherius
     Society in London in 1955 after reporting communication with advanced
-    extraterrestrial intelligences. The mo...
+    extraterrestrial intelligences. The movement later established centers in
+    Britain and the United States and organized ritualized “spiritual energy”
+    missions.
   - >-
     Distinctive Practice: The society teaches a populated spiritual cosmos,
     karmic evolution, yoga, prayer, healing, and service directed by Cosmic
-    Masters. Mountains and charged devices...
+    Masters. Mountains and charged devices figure in some missions.
   - >-
     Core Orientation: A UFO-oriented new religious movement founded by George
     King, combining Theosophical cosmology, yoga, healing, and service to cosmic

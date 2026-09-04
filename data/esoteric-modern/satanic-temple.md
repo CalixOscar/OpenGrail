@@ -32,11 +32,11 @@ key_tenets:
   - >-
     Foundational Doctrine: The Satanic Temple appeared in the United States in
     2013 and became known through public campaigns concerning religious
-    pluralism, church-state separation, and ...
+    pluralism, church-state separation, and bodily autonomy.
   - >-
     Distinctive Practice: TST is nontheistic: Satan functions as a literary
     emblem rather than a supernatural being. Its activism is also lived by
-    members as religious identity and commu...
+    members as religious identity and community.
   - >-
     Core Orientation: A nontheistic Satanic organization using Satan as a symbol
     of rebellion, bodily autonomy, pluralism, and reason.

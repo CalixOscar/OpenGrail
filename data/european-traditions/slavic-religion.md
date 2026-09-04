@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Pre-Christian Slavic religions are known through
     sparse archaeology, place-names, medieval chronicles, sermons against
-    customary rites, and later folklore. Evid...
+    customary rites, and later folklore. Evidence differs markedly between
+    Kievan Rus', the Baltic coast, western Slavic regions, and the Balkans.
   - >-
     Distinctive Practice: Perun, Veles, household beings, ancestors, seasonal
     rites, oath-making, and agricultural observances are attested unevenly.
-    Political rulers sometimes organized...
+    Political rulers sometimes organized public cults, but village and domestic
+    practice followed other rhythms.
   - >-
     Core Orientation: The varied pre-Christian practices of Slavic-speaking
     communities in eastern, central, and southeastern Europe.

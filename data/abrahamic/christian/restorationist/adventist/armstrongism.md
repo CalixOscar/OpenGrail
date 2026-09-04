@@ -30,11 +30,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Herbert W. Armstrong began a radio ministry after
     association with the Oregon Conference of the Church of God (Seventh Day)
-    and organized the Radio Church of Go...
+    and organized the Radio Church of God in 1934.
   - >-
     Distinctive Practice: Historic Armstrongism combined seventh-day Sabbath and
     biblical festivals with non-Trinitarian theology, conditional immortality, a
-    distinctive account of God's...
+    distinctive account of God's future family, and British Israelism.
   - >-
     Core Orientation: A family of Sabbatarian churches derived from Herbert W.
     Armstrong's Worldwide Church of God.

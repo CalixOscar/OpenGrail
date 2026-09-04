@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Tāraṇ Svāmī taught in central India around the late
     fifteenth and early sixteenth centuries. Communities gathered around his
-    writings and built *chaityālayas* t...
+    writings and built *chaityālayas* that enshrine books rather than Jina
+    images.
   - >-
     Distinctive Practice: Tāraṇapanth worship emphasizes knowledge, meditation,
     ethical discipline, and reverence for texts. Its rejection of image ritual
-    differentiates it from many Dig...
+    differentiates it from many Digambara temple traditions while leaving it
+    within Jain commitments to the Jinas, karma theory, nonviolence, and
+    liberation.
   - >-
     Core Orientation: A non-image-worshipping Digambara Jain tradition inspired
     by Tāraṇ Svāmī and centered on scripture halls and contemplative teaching.

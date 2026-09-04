@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Muscogee or Mvskoke peoples historically organized
     through towns and confederated political relationships across the Southeast.
-    United States warfare and forced...
+    United States warfare and forced removal relocated many communities to
+    Indian Territory, while others remained in the Southeast.
   - >-
     Distinctive Practice: The annual Busk or Green Corn cycle renews sacred
     fire, community relationships, ethical order, and connection to land through
-    fasting, medicine, dance, and del...
+    fasting, medicine, dance, and deliberation.
   - >-
     Core Orientation: Muscogee religious traditions centered in autonomous
     ceremonial grounds, sacred fire, seasonal renewal, kinship, dance, and

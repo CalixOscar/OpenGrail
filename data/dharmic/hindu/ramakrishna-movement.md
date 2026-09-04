@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: After the Bengali temple priest and mystic
     Ramakrishna died in 1886, disciples formed a monastic community. Vivekananda
-    founded the Ramakrishna Mission in 1897,...
+    founded the Ramakrishna Mission in 1897, joining monastic practice with
+    education, health care, disaster relief, and international teaching.
   - >-
     Distinctive Practice: The movement presents Vedānta as spiritually universal
     while retaining devotion to Ramakrishna, Sarada Devi, and Hindu deities. It
-    often distinguishes an inward...
+    often distinguishes an inward Ramakrishna Math from the service-oriented
+    Mission, though personnel and ideals overlap.
   - >-
     Core Orientation: A modern Vedānta movement shaped by Ramakrishna, Sarada
     Devi, Vivekananda, monastic discipline, and organized service.

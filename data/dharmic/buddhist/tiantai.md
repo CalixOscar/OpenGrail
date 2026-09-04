@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Tiantai crystallized around Zhiyi in sixth-century
     China and took its name from Mount Tiantai. Zhiyi organized the varied
-    Buddhist scriptures translated into Ch...
+    Buddhist scriptures translated into Chinese through a comprehensive
+    classification of teachings and practices.
   - >-
     Distinctive Practice: Tiantai gives special interpretive authority to the
     *Lotus Sūtra* and teaches the mutual inclusion of all phenomena through the
-    “three truths” of emptiness, pro...
+    “three truths” of emptiness, provisional existence, and the middle.
   - >-
     Core Orientation: A Chinese Buddhist school systematizing the Lotus Sūtra,
     doctrinal classification, and integrated calm-and-insight meditation.

@@ -34,11 +34,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Theravāda became dominant after centuries in which
     Khmer courts supported Hindu and Mahāyāna institutions, especially during
-    the post-Angkor period. Village mon...
+    the post-Angkor period. Village monasteries served as centers of learning,
+    ritual, and social life under both the majority Mohanikay and the
+    royal-connected Thommayut order.
   - >-
     Distinctive Practice: Cambodian Buddhist life includes merit transfer,
     ancestor rites, chanting, temporary ordination, festivals, ethical precepts,
-    and protective practices as well a...
+    and protective practices as well as meditation.
   - >-
     Core Orientation: Cambodia’s predominantly Theravāda Buddhist tradition,
     rebuilt after severe twentieth-century persecution and institutional

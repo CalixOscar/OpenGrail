@@ -28,11 +28,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Zurvanism is a scholarly name for doctrines reported
     especially by late antique Armenian, Syriac, Greek, and Middle Persian
-    witnesses. These accounts make Zurva...
+    witnesses. These accounts make Zurvan, often understood as infinite Time,
+    the parent or ground of the opposed spirits Ohrmazd and Ahriman.
   - >-
     Distinctive Practice: The category may represent several speculative
     tendencies rather than one denomination, and scholars dispute its antiquity,
-    coherence, and place within Zoroastr...
+    coherence, and place within Zoroastrian history.
   - >-
     Core Orientation: A debated Zoroastrian current in which Zurvan, Time,
     framed the relation of Ohrmazd and Ahriman.

@@ -26,11 +26,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The earliest Baptist congregations appeared among
     English Separatists in Amsterdam and England in the early seventeenth
-    century. General Baptists held Arminian ...
+    century. General Baptists held Arminian theology, while Particular Baptists
+    adopted Calvinist positions.
   - >-
     Distinctive Practice: Baptists normally administer baptism to professing
     believers by immersion and understand the local congregation as a primary
-    locus of church authority. They def...
+    locus of church authority. They defend liberty of conscience and reject
+    state coercion in faith, though historical practice has not always met that
+    ideal.
   - >-
     Core Orientation: Protestant churches united especially by believer's
     baptism and the gathered congregation, but diverse in theology and polity.

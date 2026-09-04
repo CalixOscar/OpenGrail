@@ -37,11 +37,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Aymara-speaking peoples inherited and transformed
     religious landscapes associated with Tiwanaku, regional lordships, Inca
-    rule, Spanish colonialism, and the mod...
+    rule, Spanish colonialism, and the modern states of Bolivia, Peru, and
+    Chile.
   - >-
     Distinctive Practice: Offerings may sustain reciprocity with *Pachamama*,
     mountain and place beings, ancestors, herd animals, and Christian figures.
-    Ritual specialists diagnose relat...
+    Ritual specialists diagnose relations among health, weather, work, and
+    social obligation.
   - >-
     Core Orientation: Aymara traditions of the Andean altiplano structured
     through reciprocal relations with earth, mountains, weather, ancestors,

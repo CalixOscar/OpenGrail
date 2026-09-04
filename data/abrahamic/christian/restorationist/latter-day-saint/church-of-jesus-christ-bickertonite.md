@@ -25,11 +25,13 @@ key_tenets:
   - >-
     Foundational Doctrine: This church traces its succession through Sidney
     Rigdon's post-1844 claim and the ministry of William Bickerton in western
-    Pennsylvania. Bickerton organized the...
+    Pennsylvania. Bickerton organized the body in 1862 after Rigdon's
+    organization had fragmented.
   - >-
     Distinctive Practice: The church accepts the Bible and Book of Mormon while
     rejecting the Doctrine and Covenants and Pearl of Great Price as standards
-    of scripture. It practices bapt...
+    of scripture. It practices baptism by immersion, foot washing, Communion
+    with bread and wine, and leadership by apostles and elders.
   - >-
     Core Orientation: A Latter Day Saint church descending from Sidney Rigdon
     and William Bickerton, with headquarters in Pennsylvania.

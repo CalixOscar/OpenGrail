@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The word *shaman* entered European scholarship
     through Tungusic-speaking communities of Siberia and was later extended to
-    ritual specialists around the world. T...
+    ritual specialists around the world. That expansion can enable comparison
+    but has also erased local titles, institutions, and colonial histories.
   - >-
     Distinctive Practice: Practices called shamanic may include spirit
     negotiation, healing, divination, soul journey, drumming, possession, or
-    initiation through illness, but no univers...
+    initiation through illness, but no universal checklist applies.
   - >-
     Core Orientation: A comparative umbrella for specialized ritual mediation,
     healing, and spirit encounter, derived from a Siberian term but applied much

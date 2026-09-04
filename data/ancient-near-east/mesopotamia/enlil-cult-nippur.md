@@ -32,11 +32,15 @@ key_tenets:
   - >-
     Foundational Doctrine: Nippur was never consistently a great imperial
     capital, yet its temple Ekur made the city a pan-Mesopotamian religious
-    center. Sumerian and Akkadian rulers repa...
+    center. Sumerian and Akkadian rulers repaired the sanctuary, dedicated
+    offerings, and sought Enlil’s authorization as a sign of legitimate
+    kingship.
   - >-
     Distinctive Practice: Enlil was associated with sovereign command, wind, and
     the ordering of the divine assembly, but ancient divine roles were not fixed
-    doctrinal portfolios. This n...
+    doctrinal portfolios. This node represents a temple institution and its
+    ritual network, not a separate denomination whose adherents worshiped only
+    Enlil.
   - >-
     Core Orientation: The temple cult of Enlil centered on Ekur at Nippur, a
     major source of religious legitimacy in Mesopotamia.

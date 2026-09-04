@@ -33,11 +33,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Ukrainian Native Faith includes several twentieth-
     and twenty-first-century movements shaped by émigré, Soviet, post-Soviet,
-    folkloric, and nationalist contexts...
+    folkloric, and nationalist contexts.
   - >-
     Distinctive Practice: Practitioners draw on chronicles, archaeology,
     folklore, language, and modern religious texts, but no intact pre-Christian
-    Ukrainian liturgy survived for straig...
+    Ukrainian liturgy survived for straightforward restoration.
   - >-
     Core Orientation: A family of modern Ukrainian religious movements
     reconstructing or reformulating pre-Christian Slavic heritage.

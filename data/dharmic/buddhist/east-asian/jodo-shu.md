@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Hōnen taught an independent Pure Land path in late
     Heian and early Kamakura Japan, conventionally dating his school’s founding
-    to 1175. Drawing on Chinese Pure ...
+    to 1175. Drawing on Chinese Pure Land masters and Genshin, he selected vocal
+    *nembutsu* as the practice suited to an age of declining Dharma.
   - >-
     Distinctive Practice: Jōdo-shū encourages trusting Amitābha’s vow and
     reciting *Namu Amida Butsu*, alongside ethical conduct, liturgy, memorial
-    practice, and study. Hōnen emphasized ...
+    practice, and study. Hōnen emphasized the selected practice without
+    necessarily denying all value to other Buddhist disciplines.
   - >-
     Core Orientation: A Japanese Pure Land school founded by Hōnen that centers
     recitation of Amitābha Buddha’s name as the accessible path to birth in

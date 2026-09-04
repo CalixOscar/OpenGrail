@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Shona-speaking societies in Zimbabwe and neighboring
     regions developed varied ritual systems around dynastic centers, local
-    chiefdoms, agriculture, cattle, and ...
+    chiefdoms, agriculture, cattle, and sacred landscapes.
   - >-
     Distinctive Practice: Ancestors, clan spirits, territorial *mhondoro*, and
     Mwari connect moral conduct with rain, fertility, health, and legitimate
-    authority. Mediums may speak for h...
+    authority. Mediums may speak for historical or territorial beings, but their
+    public power differs by place and period.
   - >-
     Core Orientation: Religious traditions among Shona-speaking communities
     involving Mwari, ancestors, territorial spirits, mediumship, rain, healing,

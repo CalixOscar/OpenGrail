@@ -31,11 +31,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Seventh-day Adventism formed from Millerite believers
     who reinterpreted the disappointment of 1844 and adopted the seventh-day
-    Sabbath. Networks associated with...
+    Sabbath. Networks associated with James and Ellen White, Joseph Bates, and
+    other leaders organized the denomination in 1863.
   - >-
     Distinctive Practice: The church is Protestant and Trinitarian, observes
     Saturday as Sabbath, practices baptism by immersion, and teaches conditional
-    immortality and a heavenly inves...
+    immortality and a heavenly investigative judgment beginning in 1844.
   - >-
     Core Orientation: The largest Adventist denomination, distinguished by
     Saturday Sabbath observance, global mission, and the influence of Ellen G.

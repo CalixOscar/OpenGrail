@@ -32,11 +32,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Healing sanctuaries of Asclepius flourished at
     Epidaurus, Cos, Pergamum, Athens, Rome, and many other sites. Visitors
-    purified themselves, offered sacrifice, sl...
+    purified themselves, offered sacrifice, slept in sacred precincts, reported
+    dreams or encounters, and dedicated anatomical models or inscriptions after
+    healing.
   - >-
     Distinctive Practice: Temple healing and learned medicine were not always
     competing alternatives; ancient patients could use both. Miracle
-    inscriptions advertised divine efficacy but...
+    inscriptions advertised divine efficacy but are curated sanctuary narratives
+    rather than neutral clinical records.
   - >-
     Core Orientation: A transregional Greek and Roman healing cult centered on
     sanctuary incubation, dedication, and the god Asclepius.

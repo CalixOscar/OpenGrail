@@ -37,11 +37,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Buddhist traditions trace their origin to Siddhārtha
     Gautama, the Buddha, who taught in northern South Asia sometime around the
-    fifth century BCE. Precise dates...
+    fifth century BCE. Precise dates remain debated.
   - >-
     Distinctive Practice: Royal and mercantile patronage supported monasteries
     and missions across Asia. Distinct schools developed their own disciplinary
-    and doctrinal canons. Mahāyāna ...
+    and doctrinal canons. Mahāyāna movements elevated the bodhisattva path and
+    circulated new sūtras; tantric forms later joined ritual, visualization,
+    mantra, and initiation.
   - >-
     Core Orientation: A diverse tradition tracing itself to the Buddha and
     organized around diagnosing suffering, cultivating a path, and awakening

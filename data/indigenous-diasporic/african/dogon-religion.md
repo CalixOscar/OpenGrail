@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Dogon communities in and around Mali's Bandiagara
     region include multiple dialects, settlements, occupational histories, and
-    religious affiliations. Their pract...
+    religious affiliations. Their practices have been documented through
+    archaeology, local testimony, and intensive twentieth-century ethnography.
   - >-
     Distinctive Practice: Ancestors, land, masks, funerary sequences,
     initiation, sacrifice, and relations with local powers vary by community and
-    lineage. Islam and Christianity also ha...
+    lineage. Islam and Christianity also have long local histories.
   - >-
     Core Orientation: Diverse ritual and cosmological traditions among Dogon
     communities of Mali and neighboring regions.

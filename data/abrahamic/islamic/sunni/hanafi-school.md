@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Hanafi school formed through Abu Hanifa's
     eighth-century teaching circle in Kufa and the writings and judicial careers
-    of students such as Abu Yusuf and Muh...
+    of students such as Abu Yusuf and Muhammad al-Shaybani.
   - >-
     Distinctive Practice: Hanafi jurisprudence is known for systematic
     analogical reasoning, attention to juristic preference, and a substantial
-    inherited corpus of hypothetical cases. T...
+    inherited corpus of hypothetical cases. These features operate within
+    scriptural argument, not instead of it.
   - >-
     Core Orientation: A Sunni school of law associated with Abu Hanifa and
     influential from the Balkans through Central and South Asia.

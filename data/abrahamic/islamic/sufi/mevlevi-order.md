@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Followers and descendants of the Persian-language
     poet and teacher Jalal al-Din Rumi organized the Mevlevi path in Konya after
-    his death in 1273. Lodges across ...
+    his death in 1273. Lodges across the Ottoman Empire became centers of
+    spiritual training, music, poetry, and elite culture.
   - >-
     Distinctive Practice: The *sema* ceremony joins recited poetry, reed flute,
     music, and measured turning as a disciplined remembrance of God. Mevlevi
-    formation historically required e...
+    formation historically required extensive ethical and artistic training, not
+    merely public performance.
   - >-
     Core Orientation: A Sufi order formed around the legacy of Jalal al-Din Rumi
     and known for its disciplined turning ceremony.

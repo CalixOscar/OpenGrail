@@ -27,11 +27,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Ifá developed within Yorùbá religious worlds and is
     also practiced in related West African and Atlantic diaspora communities.
-    Trained *babaláwo* and *ìyánífá* i...
+    Trained *babaláwo* and *ìyánífá* interpret configurations associated with
+    the 256 *odù*, drawing on a vast repertoire of verses, narratives,
+    prescriptions, and remembered cases.
   - >-
     Distinctive Practice: Consultation links a client's circumstances with moral
     reflection, sacrifice, medicine, and relations among humans, òrìṣà, and
-    ancestors. Ifá is more than fortu...
+    ancestors. Ifá is more than fortune-telling: its corpus preserves
+    philosophy, history, poetry, and practical reasoning.
   - >-
     Core Orientation: A Yorùbá divinatory, ethical, and literary system
     transmitted through trained specialists and extensive oral corpora.

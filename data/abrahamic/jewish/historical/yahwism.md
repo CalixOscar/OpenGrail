@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: “Yahwism” is a modern scholarly term for worship
     centered on YHWH before the Babylonian exile. Biblical texts and epigraphic
-    evidence reveal regional diversity,...
+    evidence reveal regional diversity, devotion to YHWH alongside other divine
+    beings, and repeated efforts by royal or priestly reformers to centralize
+    sacrifice and suppress competing cults.
   - >-
     Distinctive Practice: The evidence does not describe a single denomination
     or uniform creed. Scholars debate when exclusive monotheism became dominant
-    and how official ideals related...
+    and how official ideals related to household religion.
   - >-
     Core Orientation: A scholarly label for forms of YHWH worship in Israel and
     Judah before the Babylonian exile.

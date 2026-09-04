@@ -26,11 +26,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Anton Szandor LaVey founded the Church of Satan in
     San Francisco in 1966, combining theatrical ritual, social critique, occult
-    aesthetics, and a philosophy of s...
+    aesthetics, and a philosophy of self-directed materialism.
   - >-
     Distinctive Practice: The Church is non-theistic: Satan symbolizes pride,
     liberty, skepticism, and embodied life rather than a worshiped supernatural
-    being. Ritual can serve psychodr...
+    being. Ritual can serve psychodramatic and celebratory purposes.
   - >-
     Core Orientation: An atheistic Satanist organization founded by Anton LaVey
     that treats Satan as a symbol of individualism and carnal existence.

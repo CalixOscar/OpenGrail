@@ -36,11 +36,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Quechua became widespread through pre-Inca exchange,
     Inca administration, colonial mission policy, and later national histories.
-    Communities across Peru, Bolivi...
+    Communities across Peru, Bolivia, Ecuador, Argentina, and migration settings
+    possess distinct local traditions rather than one surviving imperial
+    religion.
   - >-
     Distinctive Practice: Reciprocity with *Pachamama*, mountain beings often
     called *apus*, water, crops, herd animals, ancestors, saints, and the dead
-    may organize offerings and festiv...
+    may organize offerings and festivals.
   - >-
     Core Orientation: Diverse Quechua-speaking traditions of the Andes involving
     earth beings, mountains, ancestors, reciprocity, agriculture, pilgrimage,

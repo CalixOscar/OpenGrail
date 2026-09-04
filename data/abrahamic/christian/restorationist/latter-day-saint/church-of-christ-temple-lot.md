@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Church of Christ (Temple Lot) descends from
     Latter Day Saints who did not join the largest post-succession bodies.
-    Granville Hedrick helped organize the chu...
+    Granville Hedrick helped organize the church in Illinois in 1863, and
+    members later returned to Independence, Missouri.
   - >-
     Distinctive Practice: Temple Lot members accept the Bible and Book of Mormon
     and use the earlier Book of Commandments, while rejecting plural marriage,
-    baptism for the dead, and seve...
+    baptism for the dead, and several later theological developments.
   - >-
     Core Orientation: A small Latter Day Saint church associated with the Temple
     Lot property in Independence, Missouri.

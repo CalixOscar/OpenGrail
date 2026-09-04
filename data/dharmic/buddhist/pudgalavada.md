@@ -31,11 +31,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Vātsīputrīya and Sāṃmitīya communities became
     widespread in India and were collectively criticized as Pudgalavādins by
-    rival Buddhists. Few of their own texts s...
+    rival Buddhists. Few of their own texts survive, so much reconstruction
+    depends on opponents and Chinese translations.
   - >-
     Distinctive Practice: Pudgalavādins posited a “person” that could not be
     described as either identical with or wholly different from the five
-    aggregates. This was intended to explain...
+    aggregates. This was intended to explain moral responsibility, rebirth, and
+    liberation while rejecting an eternal ātman.
   - >-
     Core Orientation: Early Buddhist schools teaching an analytically
     inexpressible 'person' to account for agency, continuity, and liberation

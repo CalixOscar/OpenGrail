@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Kūkai returned from Tang China in 806 with esoteric
     initiations, texts, and ritual technologies that became Shingon. Mount Kōya
-    and Tōji developed as major cent...
+    and Tōji developed as major centers, while Shingon lineages served court,
+    monastery, and local communities.
   - >-
     Distinctive Practice: Shingon presents Mahāvairocana Buddha as the cosmic
     expression of reality and uses the “three mysteries” of body, speech, and
-    mind to realize buddhahood in this...
+    mind to realize buddhahood in this very body.
   - >-
     Core Orientation: A Japanese esoteric Buddhist tradition transmitted by
     Kūkai, using mantra, mudra, mandala, and ritual identification with

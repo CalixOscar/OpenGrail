@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Eritrean Orthodox communities share the ancient
     Aksumite Christian inheritance historically administered within the
-    Ethiopian Orthodox Tewahedo Church. Followin...
+    Ethiopian Orthodox Tewahedo Church. Following Eritrea’s independence, the
+    Coptic Orthodox pope recognized an autocephalous Eritrean church in 1993,
+    and its first patriarch was consecrated in 1994.
   - >-
     Distinctive Practice: The church belongs to Oriental Orthodoxy and uses the
     Alexandrian-derived Ge’ez rite, with fasting, sacred dance, chant,
-    monasticism, and devotion to the *tabot...
+    monasticism, and devotion to the *tabot* prominent in religious life.
   - >-
     Core Orientation: An autocephalous Oriental Orthodox church in the Eritrean
     Tewahedo tradition, recognized after Eritrean independence.

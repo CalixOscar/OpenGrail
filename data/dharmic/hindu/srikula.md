@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Śrīvidyā systems matured in medieval South Asia and
     became important within South Indian temple, courtly, monastic, and
-    household settings. They synthesize Godd...
+    household settings. They synthesize Goddess worship with carefully graded
+    initiation and influential ritual diagrams, especially the Śrīcakra.
   - >-
     Distinctive Practice: Tripurasundarī is revered as supreme beauty and
     consciousness, expressed through mantra, the interlocking triangles of the
-    Śrīcakra, and a retinue of divine pow...
+    Śrīcakra, and a retinue of divine powers.
   - >-
     Core Orientation: A Śākta tantric family centered on Tripurasundarī, the
     Śrīcakra, mantra, and ordered worship of the beautiful Goddess.

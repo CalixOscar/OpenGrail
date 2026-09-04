@@ -32,11 +32,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The monk Hsing Yun founded Fo Guang Shan in southern
     Taiwan in 1967. It grew into an international network of temples, schools,
-    museums, publishing programs, so...
+    museums, publishing programs, social services, and the lay Buddha’s Light
+    International Association.
   - >-
     Distinctive Practice: Fo Guang Shan teaches Humanistic Buddhism through the
     integration of Chan, Pure Land devotion, precepts, study, ritual, culture,
-    and public service. Its polishe...
+    and public service. Its polished institutions and large events are part of a
+    deliberate effort to make Buddhist life accessible and socially engaged.
   - >-
     Core Orientation: A global Chinese Buddhist monastic and lay organization
     founded in Taiwan by Hsing Yun and identified with Humanistic Buddhism.

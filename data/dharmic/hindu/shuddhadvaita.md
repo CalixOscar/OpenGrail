@@ -28,11 +28,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Vallabha articulated Śuddhādvaita in fifteenth- and
     sixteenth-century North India through commentaries on the *Brahma Sūtras*
-    and *Bhāgavata Purāṇa*. His teachi...
+    and *Bhāgavata Purāṇa*. His teaching supplied the theological foundation for
+    Puṣṭimārga and continued through hereditary teachers and scholastic
+    interpretation.
   - >-
     Distinctive Practice: Śuddhādvaita identifies Brahman with the personal,
     blissful Kṛṣṇa while affirming the reality of the universe as divine
-    manifestation. Bondage results from obsc...
+    manifestation. Bondage results from obscured awareness rather than an unreal
+    world, and grace-filled devotion restores participation in divine play.
   - >-
     Core Orientation: Vallabha's 'pure nondualism,' which regards Kṛṣṇa, selves,
     and cosmos as real expressions of one divine reality.

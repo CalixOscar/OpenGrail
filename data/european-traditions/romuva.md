@@ -27,11 +27,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Romuva's modern roots lie in Lithuanian national and
     folklore movements of the early twentieth century, with major institutional
-    development under Jonas Trinkūn...
+    development under Jonas Trinkūnas after the Soviet period.
   - >-
     Distinctive Practice: Sacred fire, *dainos*, ancestors, local landscape,
     family rites, and festivals such as Rasos are prominent. Community
-    understandings of deities, reconstruction,...
+    understandings of deities, reconstruction, and ethnic belonging differ.
   - >-
     Core Orientation: A modern Lithuanian ethnic-religious movement renewing
     Baltic ritual, song, and reverence for land and ancestors.

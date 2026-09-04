@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Jeungsanist movements arose in Korea around Kang
     Il-sun, known as Kang Jeungsan, whose followers understood his ritual work
-    and teaching as a response to the cr...
+    and teaching as a response to the crises of the late Joseon and colonial
+    periods.
   - >-
     Distinctive Practice: Jeungsanist traditions commonly anticipate a
     transformed Later World brought through the resolution of accumulated
-    grievance and the reordering of cosmic relati...
+    grievance and the reordering of cosmic relationships.
   - >-
     Core Orientation: A family of Korean new religions rooted in the teachings
     attributed to Kang Jeungsan and visions of cosmic renewal.

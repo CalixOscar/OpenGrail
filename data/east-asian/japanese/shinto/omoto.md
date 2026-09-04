@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Deguchi Nao began recording divine revelations in
     1892, and her son-in-law Deguchi Onisaburō expanded the movement through
-    organization, art, pilgrimage, and vo...
+    organization, art, pilgrimage, and voluminous teaching.
   - >-
     Distinctive Practice: Ōmoto teaches the renewal of the world, divine
     activity through multiple kami, spiritual purification, and art as a
-    religious path. Its founders’ teachings do n...
+    religious path. Its founders’ teachings do not always speak with one voice,
+    and the movement has changed across persecution and reconstruction.
   - >-
     Core Orientation: An influential Japanese new religion founded through
     Deguchi Nao’s revelations and later developed by Deguchi Onisaburō.

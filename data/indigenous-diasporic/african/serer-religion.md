@@ -24,11 +24,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Serer religious traditions developed within
     communities of present-day Senegal and The Gambia through kinship, land
-    tenure, royal histories, farming, and inheri...
+    tenure, royal histories, farming, and inherited ritual offices.
   - >-
     Distinctive Practice: Roog, ancestral and saint-like *pangool*, maternal and
     paternal lineages, divination, initiation, and stewardship of land organize
-    religious relationships in di...
+    religious relationships in differing ways.
   - >-
     Core Orientation: Inherited religious traditions of Serer communities in
     Senegal and The Gambia.

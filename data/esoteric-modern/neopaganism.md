@@ -27,11 +27,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Modern Pagan religions developed through Romantic
     nationalism, folklore collecting, occult revival, environmental movements,
-    feminist spirituality, and modern r...
+    feminist spirituality, and modern reconstructions of ancient religions.
   - >-
     Distinctive Practice: Many Pagan communities honor multiple deities,
     seasonal cycles, ancestors, land, ritual reciprocity, or immanent sacred
-    power, though none of these defines ever...
+    power, though none of these defines every group.
   - >-
     Core Orientation: A diverse family of modern religions reviving,
     reconstructing, or creatively renewing pre-Christian and nature-centered

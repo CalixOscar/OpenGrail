@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Texts excavated at Late Bronze Age Ugarit on the
     Syrian coast preserve myths, offering lists, divination, correspondence, and
-    ritual instructions in Ugaritic an...
+    ritual instructions in Ugaritic and other languages.
   - >-
     Distinctive Practice: Ugarit supplies the richest textual window onto a
     northern Canaanite religious world, but it cannot stand unchanged for every
-    Levantine city or later century. L...
+    Levantine city or later century. Literary myths are not straightforward
+    transcripts of ritual.
   - >-
     Core Orientation: The Late Bronze Age temple and mythic traditions of
     Ugarit, documented unusually well by alphabetic cuneiform archives.

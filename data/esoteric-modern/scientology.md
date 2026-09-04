@@ -26,11 +26,14 @@ key_tenets:
   - >-
     Foundational Doctrine: L. Ron Hubbard introduced Dianetics in 1950 as a
     therapeutic system and soon reframed it within Scientology, organized
-    through churches from the mid-1950s. The ...
+    through churches from the mid-1950s. The movement spread internationally
+    through courses, missions, celebrity programs, and tightly managed
+    institutions.
   - >-
     Distinctive Practice: Scientology teaches that the person is an immortal
     *thetan* whose capacities are constrained by traumatic impressions and a
-    vast spiritual history. Auditing wit...
+    vast spiritual history. Auditing with an E-meter and progressive training
+    seek increasing freedom.
   - >-
     Core Orientation: A modern religious movement founded by L. Ron Hubbard
     around auditing, spiritual rehabilitation, and the immortal thetan.

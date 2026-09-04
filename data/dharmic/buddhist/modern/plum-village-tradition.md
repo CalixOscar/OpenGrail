@@ -32,11 +32,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Vietnamese monk and peace activist Thích Nhất Hạnh
     established a community at Plum Village in France in 1982 after years of
-    exile and antiwar work. Building on ...
+    exile and antiwar work. Building on the Order of Interbeing begun in 1966,
+    monastic and lay communities spread internationally.
   - >-
     Distinctive Practice: Plum Village practice emphasizes mindful breathing,
     walking, communal meals, deep listening, ethical trainings, and
-    “interbeing,” a contemporary expression of d...
+    “interbeing,” a contemporary expression of dependent arising and emptiness.
   - >-
     Core Orientation: A transnational engaged-Buddhist community founded by
     Thích Nhất Hạnh, integrating Vietnamese Thiền, mindfulness, ethics, and

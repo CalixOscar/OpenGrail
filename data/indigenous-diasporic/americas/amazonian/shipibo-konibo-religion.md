@@ -33,11 +33,15 @@ key_tenets:
   - >-
     Foundational Doctrine: Shipibo, Konibo, and Xetebo communities formed a
     related people through long histories along the Ucayali and its tributaries.
-    Missions, rubber extraction, epide...
+    Missions, rubber extraction, epidemics, urban migration, oil and logging
+    pressure, and global ayahuasca tourism changed healing economies and access
+    to knowledge.
   - >-
     Distinctive Practice: Plants known as *rao*, healing songs, dreams, diets,
     river beings, and geometric *kené* designs participate in interconnected
-    forms of knowledge and care. Ayahu...
+    forms of knowledge and care. Ayahuasca is important in some practice but
+    does not summarize Shipibo-Konibo religion or authorize outsiders to extract
+    songs and designs.
   - >-
     Core Orientation: Shipibo-Konibo traditions of the Peruvian Amazon involving
     plant knowledge, healing songs, patterned design, kinship, riverine places,

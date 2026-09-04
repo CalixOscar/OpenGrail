@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Rammohun Roy established the Brahmo Sabha in Calcutta
     in 1828; Debendranath Tagore, Keshab Chandra Sen, and later leaders reshaped
-    it through successive organiz...
+    it through successive organizations and schisms.
   - >-
     Distinctive Practice: Brahmos advocate worship of one formless God, ethical
     reform, and reasoned engagement with scripture, especially the Upaniṣads.
-    Many rejected image worship, cas...
+    Many rejected image worship, caste restrictions, and practices they regarded
+    as harmful, while supporting women’s education and legal reform.
   - >-
     Core Orientation: A Bengali monotheistic reform movement combining
     Upanishadic interpretation, ethical worship, and nineteenth-century social

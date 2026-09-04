@@ -32,11 +32,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Madagascar’s peoples formed through African,
     Austronesian, Indian Ocean, and later European histories, producing
-    substantial regional diversity. Royal ritual, l...
+    substantial regional diversity. Royal ritual, local lineages, Islam, mission
+    Christianity, colonial government, and national politics all changed
+    religious institutions.
   - >-
     Distinctive Practice: Relations with *razana*, the ancestors, shape kinship,
     tombs, land, blessing, and moral continuity. Diviners, sacred prohibitions
-    known as *fady*, possession tr...
+    known as *fady*, possession traditions, and royal relics matter in
+    particular settings.
   - >-
     Core Orientation: Diverse Malagasy traditions linking ancestors, land,
     kinship, sacred authority, divination, and locally specific ritual

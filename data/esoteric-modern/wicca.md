@@ -29,11 +29,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Wicca became public in Britain through Gerald Gardner
     in the 1950s, drawing on ceremonial magic, folklore, romantic ideas of
-    witchcraft, fraternal ritual, and c...
+    witchcraft, fraternal ritual, and collaborators such as Doreen Valiente.
   - >-
     Distinctive Practice: Wiccan ritual commonly uses a consecrated circle,
     seasonal festivals, lunar observances, magic, initiation, and devotion to a
-    Goddess and God, though theology v...
+    Goddess and God, though theology varies from polytheism to symbolism.
   - >-
     Core Orientation: A modern Pagan initiatory and devotional religion shaped
     by ritual magic, seasonal observance, and reverence for goddess and god.

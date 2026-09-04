@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Sun Myung Moon founded the Holy Spirit Association
     for the Unification of World Christianity in Seoul in 1954. Missionary
-    expansion, mass blessing ceremonies, a...
+    expansion, mass blessing ceremonies, anticommunist activism, businesses,
+    media, and later successor organizations made it a prominent global new
+    religion.
   - >-
     Distinctive Practice: The *Divine Principle* rereads biblical history
     through creation, human fall, restoration, and the mission of a messianic
-    “True Parent.” Marriage and family car...
+    “True Parent.” Marriage and family carry cosmic significance.
   - >-
     Core Orientation: A Korean-origin new religion founded by Sun Myung Moon
     with a restorationist Christian theology centered on ideal families and

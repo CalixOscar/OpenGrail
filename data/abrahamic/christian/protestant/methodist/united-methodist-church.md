@@ -30,11 +30,11 @@ key_tenets:
   - >-
     Foundational Doctrine: The United Methodist Church formed in 1968 from the
     Methodist Church and the Evangelical United Brethren Church, joining
-    Wesleyan, German Pietist, and American ...
+    Wesleyan, German Pietist, and American denominational histories.
   - >-
     Distinctive Practice: United Methodism combines Wesleyan teaching on grace
     and sanctification with liturgy, evangelism, education, and social action.
-    It baptizes infants and adults a...
+    It baptizes infants and adults and welcomes Christians to Communion.
   - >-
     Core Orientation: A global Methodist denomination created by the union of
     the Methodist Church and Evangelical United Brethren Church.

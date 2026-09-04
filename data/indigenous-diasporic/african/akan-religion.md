@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Akan religious life developed across communities
     including Asante, Fante, Akuapem, Bono, and others, each with distinct
-    political and ritual institutions. Oral ...
+    political and ritual institutions. Oral histories, stools, shrines,
+    festivals, proverbs, and specialist lineages preserve knowledge alongside
+    centuries of Islamic, Christian, colonial, and global interaction.
   - >-
     Distinctive Practice: Nyame, *abosom*, ancestors, matrilineal and political
     authority, moral personhood, healing, possession, and relations with land
-    are important in varying combina...
+    are important in varying combinations.
   - >-
     Core Orientation: Related religious traditions among Akan-speaking peoples
     of Ghana and Côte d'Ivoire.

@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Luo Qing, a former soldier and religious seeker,
     published the texts later called the *Five Books in Six Volumes* around
-    1509. Communities inspired by his teach...
+    1509. Communities inspired by his teaching spread among laborers and boatmen
+    along the Grand Canal and generated multiple lineages rather than one
+    centralized organization.
   - >-
     Distinctive Practice: The texts teach discovery of an originally pure,
     unborn condition through personal awakening, ethical practice, and critique
-    of merely external ritual. Subseque...
+    of merely external ritual. Subsequent descendants could differ sharply over
+    deities, initiation, clerical authority, and millennial expectation.
   - >-
     Core Orientation: A late-imperial lay religious tradition founded around Luo
     Qing’s writings and influential among canal, migrant, and vegetarian

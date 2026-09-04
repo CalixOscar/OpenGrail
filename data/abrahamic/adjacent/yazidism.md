@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Yazidism formed in northern Mesopotamia around the
     twelfth-century Sufi figure Sheikh Adi and older regional traditions, then
-    developed as a distinct hereditary...
+    developed as a distinct hereditary community with sacred lineages and a
+    pilgrimage center at Lalish.
   - >-
     Distinctive Practice: Yazidis worship one God and honor seven holy beings
     led by Tawusi Melek, the Peacock Angel. Oral *qewls*, ritual specialists,
-    seasonal festivals, and endogamous...
+    seasonal festivals, and endogamous social groups structure communal life.
   - >-
     Core Orientation: A Kurdish-speaking endogamous religion centered on Tawusi
     Melek, sacred lineages, oral hymns, and pilgrimage to Lalish.

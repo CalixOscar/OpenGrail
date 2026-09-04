@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Ernests Brastiņš and collaborators organized
     Dievturība in interwar Latvia, interpreting the vast Latvian *daina* song
-    corpus as a foundation for renewed indige...
+    corpus as a foundation for renewed indigenous religion.
   - >-
     Distinctive Practice: Dievturi commonly honor Dievs, Māra, Laima, ancestors,
     seasonal festivals, and Latvian ethical-cultural inheritance. Folklore
-    supplies rich evidence but was col...
+    supplies rich evidence but was collected after centuries of Christianity and
+    does not mechanically reproduce an ancient creed.
   - >-
     Core Orientation: A modern Latvian religious movement reconstructing Baltic
     tradition primarily from folk songs, language, and national cultural

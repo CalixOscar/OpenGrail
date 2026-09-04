@@ -26,11 +26,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Mirza Ghulam Ahmad founded the Ahmadiyya movement at
     Qadian in Punjab in 1889, presenting himself as a divinely appointed
-    reformer, promised messiah, and mahdi....
+    reformer, promised messiah, and mahdi. After his death, followers built a
+    caliphal organization and global missionary network; a 1914 division
+    produced the larger Ahmadiyya Muslim Community and the Lahore Ahmadiyya
+    Movement.
   - >-
     Distinctive Practice: Ahmadis affirm the Qur'an, Muhammad, prayer, fasting,
     and other Islamic practices while interpreting the finality of prophecy in
-    ways most Sunni and Shi'a autho...
+    ways most Sunni and Shi'a authorities reject.
   - >-
     Core Orientation: An Islamic revival movement founded by Mirza Ghulam Ahmad
     in British India and organized today in two principal branches.

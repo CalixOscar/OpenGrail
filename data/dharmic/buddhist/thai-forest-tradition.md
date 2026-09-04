@@ -27,11 +27,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The Kammaṭṭhāna or Thai Forest tradition formed
     around Ajahn Sao and Ajahn Mun in late nineteenth- and early
-    twentieth-century northeastern Thailand. Its teache...
+    twentieth-century northeastern Thailand. Its teachers renewed wandering
+    ascetic observances and intensive meditation during a period when
+    state-backed monastic administration was consolidating.
   - >-
     Distinctive Practice: Practice emphasizes the Vinaya, selected ascetic
     observances, mindfulness of the body, concentration, and investigation of
-    impermanence. Charismatic teacher nar...
+    impermanence. Charismatic teacher narratives and relic devotion coexist with
+    claims of experiential verification.
   - >-
     Core Orientation: A Thai Theravāda reform lineage emphasizing ascetic
     discipline, meditation, wandering practice, and direct training under

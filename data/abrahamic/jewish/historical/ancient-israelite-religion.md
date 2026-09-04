@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Ancient Israelite religion developed among Iron Age
     communities in the southern Levant and changed substantially across the
-    monarchic, exilic, and post-exilic p...
+    monarchic, exilic, and post-exilic periods.
   - >-
     Distinctive Practice: Scholars distinguish this varied ancient religion from
     the later institutions and textual traditions called Judaism. Exclusive
-    worship of YHWH, covenantal ident...
+    worship of YHWH, covenantal identity, Torah traditions, and the Jerusalem
+    temple became increasingly central, especially through exile and Persian
+    rule.
   - >-
     Core Orientation: The changing religious cultures of ancient Israel and
     Judah from which later Judaism developed.

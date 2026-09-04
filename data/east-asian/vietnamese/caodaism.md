@@ -35,11 +35,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Cao Đài was formally established in southern Vietnam
     in 1926 after spirit-medium sessions conveyed revelations attributed to the
-    Supreme Being. It developed an ...
+    Supreme Being. It developed an elaborate ecclesiastical organization at Tây
+    Ninh while other Cao Đài branches formed their own administrations.
   - >-
     Distinctive Practice: Cao Đài presents religious history as progressive
     revelation and places figures from multiple traditions within a universal
-    sacred order. Worship combines Vietn...
+    sacred order. Worship combines Vietnamese ancestor rites, vegetarian
+    observance, meditation, séances, colorful liturgy, and a hierarchical
+    clergy.
   - >-
     Core Orientation: A Vietnamese new religion joining spirit-medium revelation
     with Buddhist, Daoist, Confucian, Christian, and local religious resources.

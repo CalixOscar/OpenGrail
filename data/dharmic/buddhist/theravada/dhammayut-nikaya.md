@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Prince Mongkut, then a monk and later King Rama IV,
     organized the Thammayut or Dhammayut reform in 1833 after studying with
-    Mon-affiliated monks. Reformers soug...
+    Mon-affiliated monks. Reformers sought more exact Vinaya observance,
+    standardized Pāli pronunciation, and practices they regarded as textually
+    warranted.
   - >-
     Distinctive Practice: Dhammayut identity is primarily an ordination and
     administrative affiliation rather than a separate Buddhist doctrine.
-    Monasteries vary in meditation, scholarsh...
+    Monasteries vary in meditation, scholarship, ritual, and relation to forest
+    practice.
   - >-
     Core Orientation: A Thai Theravāda reform order founded by the future King
     Mongkut with an emphasis on disciplined observance and textual

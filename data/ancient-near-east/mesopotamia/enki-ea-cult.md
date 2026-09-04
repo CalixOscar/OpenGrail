@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Eridu’s E-abzu sanctuary linked Enki with the
     subterranean freshwater ocean, technical skill, purification, and wise
-    counsel. Under the Akkadian name Ea, the de...
+    counsel. Under the Akkadian name Ea, the deity remained prominent in
+    Babylonian and Assyrian scholarship, incantation, and myth.
   - >-
     Distinctive Practice: The cult crossed language and dynastic boundaries
     without becoming a separate missionary religion. Priests, exorcists, rulers,
-    and households invoked Enki–Ea in...
+    and households invoked Enki–Ea inside broader temple systems.
   - >-
     Core Orientation: The Mesopotamian cult of the wisdom and freshwater deity
     Enki, called Ea in Akkadian, centered especially at Eridu.

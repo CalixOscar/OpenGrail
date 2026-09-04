@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Reformed Christianity grew from reforms associated
     with Huldrych Zwingli, John Calvin, Heinrich Bullinger, and related
-    movements in Switzerland, France, the Net...
+    movements in Switzerland, France, the Netherlands, Scotland, and beyond.
   - >-
     Distinctive Practice: Reformed theology emphasizes divine sovereignty,
     covenant, disciplined communal life, and preaching ordered by scripture.
-    Classic confessions teach infant bapti...
+    Classic confessions teach infant baptism and a spiritual real participation
+    in the Lord's Supper, distinguishing them from many Baptist traditions and
+    from some Lutheran formulations.
   - >-
     Core Orientation: A Protestant family shaped by Swiss and Genevan reformers
     and traditions of covenantal, confessional theology.

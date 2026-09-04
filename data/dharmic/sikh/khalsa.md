@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Guru Gobind Singh inaugurated the Khalsa at Anandpur
     in 1699 through initiation with *amrit*, amid conflict and community
-    consolidation. Initiates adopted the n...
+    consolidation. Initiates adopted the names Singh or Kaur and a shared
+    discipline.
   - >-
     Distinctive Practice: The Khalsa ideal joins devotion with readiness to
     defend justice and the vulnerable. Initiated Sikhs maintain the five Ks and
-    a code governing worship, conduct,...
+    a code governing worship, conduct, and communal responsibility.
   - >-
     Core Orientation: The initiated Sikh collective founded by Guru Gobind
     Singh, marked by shared discipline, symbols, courage, and corporate

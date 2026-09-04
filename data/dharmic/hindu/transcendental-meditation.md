@@ -31,11 +31,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Maharishi Mahesh Yogi began teaching internationally
     in the late 1950s, adapting a mantra practice rooted in his North Indian
-    monastic lineage for lay audiences...
+    monastic lineage for lay audiences.
   - >-
     Distinctive Practice: Practitioners repeat an individually assigned mantra
     in brief daily sessions. Organizations often describe the technique as
-    natural and nonreligious, while its ...
+    natural and nonreligious, while its initiation, lineage, Sanskrit ceremony,
+    metaphysics, and institutional history remain relevant to religious-studies
+    analysis.
   - >-
     Core Orientation: A global mantra-meditation movement founded by Maharishi
     Mahesh Yogi and presented in both spiritual and secular idioms.

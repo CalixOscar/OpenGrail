@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Charles Taze Russell organized Bible study circles in
     the 1870s within a wider American millenarian environment. The Watch Tower
-    Society coordinated publishing ...
+    Society coordinated publishing and preaching, while leadership under Joseph
+    Rutherford reshaped organization and adopted the name Jehovah's Witnesses in
+    1931.
   - >-
     Distinctive Practice: Witnesses worship Jehovah as the one God, reject the
     Trinity, understand Jesus as God's first creation, and expect divine rule to
-    replace present political syst...
+    replace present political systems.
   - >-
     Core Orientation: A millenarian Christian-origin movement descending from
     Charles Taze Russell's Bible Student networks.

@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Christianity became established in the kingdoms of
     Iberia and Colchis during late antiquity, with Saint Nino prominent in
-    Georgian tradition. The church develop...
+    Georgian tradition. The church developed its own hierarchy, scriptural
+    translations, monastic centers, and eventually recognized autocephaly.
   - >-
     Distinctive Practice: The Catholicos-Patriarch of All Georgia heads the
     church’s synodal structure. Worship follows the Byzantine rite in Georgian,
-    drawing on a distinctive hymnograp...
+    drawing on a distinctive hymnographic, architectural, and monastic heritage.
   - >-
     Core Orientation: An ancient autocephalous Eastern Orthodox church whose
     liturgical and literary tradition developed in the Georgian language.

@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The Pentecostal Assemblies of the World traces its
     beginnings to early Pentecostal cooperation during the Azusa Street revival
-    era. It became associated with th...
+    era. It became associated with the Oneness position after 1913 and, under
+    leaders including Garfield T.
   - >-
     Distinctive Practice: The denomination teaches one God revealed in Jesus
     Christ, baptism in Jesus' name, and reception of the Holy Spirit with
-    speaking in tongues. Worship emphasizes...
+    speaking in tongues. Worship emphasizes preaching, music, healing,
+    testimony, and moral holiness.
   - >-
     Core Orientation: A historically Black Oneness Pentecostal denomination with
     roots in the Azusa Street revival era.

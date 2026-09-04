@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: A disputed succession to the Tayyibi office of *da'i
     al-mutlaq* in 1592 separated followers of Dawud ibn Qutb Shah from the
-    Sulaymani line. Dawoodi Bohra commun...
+    Sulaymani line. Dawoodi Bohra communities developed especially in Gujarat
+    and later across the Indian Ocean and global diaspora.
   - >-
     Distinctive Practice: Dawoodi Bohras combine Ismaili theology and esoteric
     interpretation with distinctive Fatimid-derived ritual, dress, and communal
-    organization. They recognize a ...
+    organization. They recognize a concealed imam represented by the living
+    *da'i*.
   - >-
     Core Orientation: The largest Tayyibi Ismaili Bohra community, centered
     historically in western India and led by a da'i al-mutlaq.

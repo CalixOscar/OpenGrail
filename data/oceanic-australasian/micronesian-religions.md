@@ -27,11 +27,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Micronesia includes the Marianas, Carolines,
     Marshalls, Kiribati, Nauru, and other island groups with different
-    languages, settlement histories, and political s...
+    languages, settlement histories, and political systems.
   - >-
     Distinctive Practice: Genealogy, chiefly or clan authority, ocean knowledge,
     ancestors, breadfruit and taro cycles, sacred places, and specialist healing
-    appear in locally specific f...
+    appear in locally specific forms.
   - >-
     Core Orientation: Distinct island religious traditions across the diverse
     region conventionally called Micronesia.

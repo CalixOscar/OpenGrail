@@ -34,11 +34,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Bobby Henderson proposed the Flying Spaghetti Monster
     in a 2005 open letter opposing the presentation of intelligent design
-    alongside evolution in Kansas scienc...
+    alongside evolution in Kansas science classes.
   - >-
     Distinctive Practice: Pastafarian language includes pirates, colanders, mock
     commandments, and a deliberately unfalsifiable creator. Participants range
-    from secular activists to peop...
+    from secular activists to people claiming sincere religious identity.
   - >-
     Core Orientation: A parody religion centered on the Flying Spaghetti
     Monster, created to critique the teaching of intelligent design as science.

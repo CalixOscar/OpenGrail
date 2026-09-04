@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Moabite religion is known through archaeology,
     neighboring literary witnesses, and above all the ninth-century BCE Mesha
-    Stele. That inscription credits Chemosh...
+    Stele. That inscription credits Chemosh with land, victory, anger, and
+    restoration, binding divine patronage to the Moabite kingdom.
   - >-
     Distinctive Practice: Chemosh’s national prominence resembles other Iron Age
     Levantine patron-god traditions without making them identical. Biblical
-    portrayals are important but ofte...
+    portrayals are important but often polemical external witnesses.
   - >-
     Core Orientation: The Iron Age religious traditions of Moab east of the Dead
     Sea, prominently associated with the national god Chemosh.

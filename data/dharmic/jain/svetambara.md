@@ -27,11 +27,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Śvetāmbara institutions developed principally in
     western and northern India through mendicant orders, lay patronage,
-    pilgrimage centers, manuscript culture, and...
+    pilgrimage centers, manuscript culture, and scholastic debate.
   - >-
     Distinctive Practice: Śvetāmbara monks and nuns wear white robes and the
     tradition accepts that women can attain liberation. Image-worshiping temple
-    communities coexist with Sthānaka...
+    communities coexist with Sthānakavāsī and Terāpanth non-image lineages.
   - >-
     Core Orientation: A major Jain tradition of white-robed mendicants
     preserving an Āgama canon and diverse temple and reform lineages.

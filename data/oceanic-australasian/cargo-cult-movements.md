@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Anthropologists and colonial officials applied “cargo
     cult” to many unrelated prophetic, political, and ritual movements in
-    Melanesia and nearby regions. These ...
+    Melanesia and nearby regions. These arose amid missionization, labor
+    recruitment, racial hierarchy, war, and radically unequal access to wealth.
   - >-
     Distinctive Practice: Particular movements used Christian prophecy,
     ancestors, kastom, new ritual, military imagery, or cooperative organization
-    in different combinations. Some expec...
+    in different combinations. Some expected material transformation, but
+    “cargo” was never their single concern.
   - >-
     Core Orientation: A contested scholarly category for distinct Oceanic
     prophetic movements responding to colonial power and exchange.

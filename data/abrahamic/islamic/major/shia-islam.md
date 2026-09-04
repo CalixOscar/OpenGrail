@@ -31,11 +31,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Shi'a traditions grew from loyalty to Ali ibn Abi
     Talib and claims that authority after Muhammad belonged within the Prophet's
-    household. The killing of Husayn ...
+    household. The killing of Husayn at Karbala in 680 became a defining memory
+    of injustice and faithful witness.
   - >-
     Distinctive Practice: Shi'a theology gives the Imams special authority as
     guides to revelation and law, although the nature and number of Imams differ
-    by branch. Ritual remembrance o...
+    by branch. Ritual remembrance of Karbala, devotion to the Prophet's family,
+    pilgrimage, and separate hadith corpora are prominent.
   - >-
     Core Orientation: Islamic traditions centered on the authority of Ali and
     the Prophet's family, with several distinct lines of Imams.

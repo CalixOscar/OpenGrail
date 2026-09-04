@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Modern Druidry grew from eighteenth-century British
     antiquarianism, fraternal societies, Welsh cultural revival, Romantic nature
-    spirituality, and later Pagan m...
+    spirituality, and later Pagan movements.
   - >-
     Distinctive Practice: Seasonal ceremony, poetry, meditation, sacred
     landscape, ancestry, and service to community or environment often matter
-    more than fixed theology. Some Druids ar...
+    more than fixed theology. Some Druids are polytheists, others pantheists,
+    Christians, or religious naturalists.
   - >-
     Core Orientation: A family of modern spiritual, cultural, and religious
     movements inspired by imagined and studied ancient Druids.

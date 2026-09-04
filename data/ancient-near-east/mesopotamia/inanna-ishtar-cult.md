@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Inanna was central to the Eanna precinct at Uruk by
     the late fourth millennium BCE. Akkadian-language traditions increasingly
-    identified her with Ishtar, whose ...
+    identified her with Ishtar, whose cult flourished at cities including Akkad,
+    Nineveh, and Arbela.
   - >-
     Distinctive Practice: Inanna and Ishtar were substantially identified, yet
     local manifestations could retain different titles, rituals, and political
-    meanings. This node maps a distr...
+    meanings. This node maps a distributed cult complex within Mesopotamian
+    religion rather than a freestanding faith.
   - >-
     Core Orientation: Mesopotamian cult traditions devoted to Sumerian Inanna
     and Akkadian Ishtar, especially at Uruk and later royal centers.

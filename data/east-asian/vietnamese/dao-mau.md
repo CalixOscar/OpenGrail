@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Mother-goddess cults have long histories in Vietnam,
     while the Four Palaces configuration and prominent devotion to Liễu Hạnh
-    took recognizable form in the earl...
+    took recognizable form in the early modern period.
   - >-
     Distinctive Practice: The *hầu đồng* possession ceremony presents divine
     personae through colored robes, dance, offerings, and *chầu văn* music.
-    Devotion connects health, fortune, pr...
+    Devotion connects health, fortune, protection, gendered authority, and the
+    landscapes of heaven, mountains, waters, and earth.
   - >-
     Core Orientation: Vietnamese traditions venerating Mother Goddesses through
     temples, pilgrimage, spirit-mediumship, music, and regional sacred

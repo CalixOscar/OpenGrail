@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Rebbe Nachman, a great-grandson of the Baal Shem Tov,
     established his circle in Ukraine and spent his final years in Breslov.
-    After his death in 1810 the moveme...
+    After his death in 1810 the movement appointed no successor rebbe; Nathan of
+    Nemirov preserved and published Nachman's teachings.
   - >-
     Distinctive Practice: Breslov teaching stresses hope, joy, honest
     self-examination, simple faith, and *hitbodedut*, spontaneous personal
-    prayer to God. Stories and paradoxes address ...
+    prayer to God. Stories and paradoxes address spiritual struggle as well as
+    mystical ascent.
   - >-
     Core Orientation: A Hasidic movement centered on the teachings of Rebbe
     Nachman of Breslov, prayer, joy, and spiritual renewal.

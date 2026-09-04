@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Roman Mithraism appears archaeologically from the
     late first century CE in purpose-built or adapted *mithraea*. Membership was
-    especially visible among soldiers...
+    especially visible among soldiers, merchants, imperial staff, and freedmen,
+    though evidence varies by region.
   - >-
     Distinctive Practice: Initiatory grades, communal banquets, cosmic imagery,
     and small male associations distinguished the cult within Roman religious
-    life. The name Mithras is relate...
+    life. The name Mithras is related to Iranian Mithra, yet scholars reject the
+    old model of a fully formed Persian mystery religion simply imported west.
   - >-
     Core Orientation: An initiatory cult of Mithras attested in small
     sanctuaries across the Roman Empire.

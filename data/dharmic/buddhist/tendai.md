@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Saichō established Japanese Tendai at Mount Hiei
     after studying Tiantai materials in China in the early ninth century. The
-    institution developed its own ordinat...
+    institution developed its own ordination platform and combined Lotus
+    teaching, meditation, Pure Land devotion, and esoteric ritual.
   - >-
     Distinctive Practice: Tendai affirms the potential for awakening in all
     beings and reads diverse practices through the unifying horizon of the
-    *Lotus Sūtra*. Its doctrine of original...
+    *Lotus Sūtra*. Its doctrine of original enlightenment became influential but
+    took several forms.
   - >-
     Core Orientation: The Japanese transmission of Tiantai centered at Mount
     Hiei, historically integrating Lotus, meditation, esoteric, and devotional

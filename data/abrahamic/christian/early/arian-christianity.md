@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Conflict began when the Alexandrian presbyter Arius
     argued that the Son derived existence from the Father and was not eternal in
-    the same manner. The Council of...
+    the same manner. The Council of Nicaea in 325 affirmed the Son as
+    *homoousios* with the Father, but emperors, bishops, and councils continued
+    debating multiple non-Nicene formulas for decades.
   - >-
     Distinctive Practice: “Arian” was often a polemical umbrella imposed on
     theologians who did not share one doctrine, including Homoians,
-    Homoiousians, and Anomoeans. Gothic and other ...
+    Homoiousians, and Anomoeans. Gothic and other post-Roman churches later
+    maintained Homoian Christianity.
   - >-
     Core Orientation: A historical category for fourth-century Christian
     theologies that denied the Son's coeternity or consubstantial equality with

@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Victor Houteff began promoting *The Shepherd's Rod*
     among Seventh-day Adventists in 1929, presenting new interpretations of
-    prophecy and a purified end-time rem...
+    prophecy and a purified end-time remnant.
   - >-
     Distinctive Practice: Davidians retain major Seventh-day Adventist
     teachings, the authority of Ellen White, and additional interpretations
-    attributed to Houteff. They expect an end-t...
+    attributed to Houteff. They expect an end-time purification and restoration
+    connected with biblical Israel.
   - >-
     Core Orientation: An apocalyptic offshoot of Seventh-day Adventism begun
     through Victor Houteff's Shepherd's Rod teachings.

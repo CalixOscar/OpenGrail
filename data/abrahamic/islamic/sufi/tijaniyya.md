@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Ahmad al-Tijani established his path in the late
     eighteenth-century Maghreb and taught a distinctive direct spiritual
-    authorization from the Prophet Muhammad. S...
+    authorization from the Prophet Muhammad. Scholars, merchants, and reformers
+    carried the order across the Sahara, where major West African lineages
+    developed around figures such as al-Hajj Umar Tall and Ibrahim Niasse.
   - >-
     Distinctive Practice: Initiates recite prescribed litanies including the
     *wazifa* and affirm an exclusive commitment to the Tijani path. Communities
-    combine Sufi formation with schol...
+    combine Sufi formation with scholarship, trade, social welfare, and
+    sometimes political leadership.
   - >-
     Core Orientation: A major Sufi order founded by Ahmad al-Tijani and
     especially influential across North and West Africa.

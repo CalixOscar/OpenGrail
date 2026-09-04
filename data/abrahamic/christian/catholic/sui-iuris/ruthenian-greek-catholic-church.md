@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The Union of Uzhhorod in 1646 brought a group of
     Orthodox priests in the Habsburg lands into communion with Rome while
-    preserving Byzantine worship and discipli...
+    preserving Byzantine worship and discipline.
   - >-
     Distinctive Practice: The Ruthenian church uses the Byzantine rite and
     belongs to the family of Eastern Catholic *sui iuris* churches. “Ruthenian”
-    is a historical ecclesial and regio...
+    is a historical ecclesial and regional label connected particularly with
+    Carpathian Rusyn heritage; it does not encompass every Slavic Greek
+    Catholic.
   - >-
     Core Orientation: A Byzantine-rite Eastern Catholic church rooted among
     Carpathian Rusyn communities and now organized especially in Central Europe

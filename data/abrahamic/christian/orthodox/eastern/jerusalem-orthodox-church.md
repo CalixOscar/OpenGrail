@@ -26,11 +26,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Jerusalem’s Christian community claims direct
     continuity with the earliest church described in Acts. The Council of
-    Chalcedon elevated the see to patriarchal ra...
+    Chalcedon elevated the see to patriarchal rank in 451.
   - >-
     Distinctive Practice: The patriarchate is an autocephalous Eastern Orthodox
     church with jurisdiction in Israel, Palestine, and Jordan and a central role
-    in the Church of the Holy Sep...
+    in the Church of the Holy Sepulchre.
   - >-
     Core Orientation: An ancient Eastern Orthodox patriarchate responsible for
     holy places and communities in Jerusalem and surrounding territories.

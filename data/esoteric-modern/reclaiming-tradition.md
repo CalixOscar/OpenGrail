@@ -31,11 +31,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Reclaiming formed in the San Francisco Bay Area in
     1979 around Starhawk, Diane Baker, and collaborators. Camps, public rituals,
-    affinity groups, and activist ne...
+    affinity groups, and activist networks spread its practices internationally
+    while retaining decentralized governance.
   - >-
     Distinctive Practice: The tradition joins earth-based spirituality, magic,
     feminism, nonhierarchical process, and political action. Its public
-    Principles of Unity affirm inclusivity ...
+    Principles of Unity affirm inclusivity and ecological responsibility.
   - >-
     Core Orientation: A feminist and activist witchcraft tradition integrating
     Goddess spirituality, consensus process, ecological ethics, and magical

@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The oldest Upaniṣads were composed within late Vedic
     learned communities, beginning roughly in the first millennium BCE. They
-    extend rather than simply reject s...
+    extend rather than simply reject sacrificial culture, recasting ritual
+    correspondences as inquiry into breath, consciousness, death, rebirth, and
+    the relation between *ātman* and *brahman*.
   - >-
     Distinctive Practice: These texts preserve multiple positions rather than
     one settled doctrine: some emphasize identity between self and ultimate
-    reality, while others retain differe...
+    reality, while others retain difference or devotional hierarchy.
   - >-
     Core Orientation: Late Vedic currents that relocated sacrificial speculation
     toward knowledge of self, ultimate reality, rebirth, and liberation.

@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Tlingit clans developed complex maritime, diplomatic,
     artistic, and ceremonial systems in Southeast Alaska and neighboring
-    regions. Russian and American colonia...
+    regions. Russian and American colonialism brought trade, Orthodox and
+    Protestant missions, epidemic loss, property seizure, and bans on potlatch.
   - >-
     Distinctive Practice: Sacred and historical property known as *at.óow* can
     include names, stories, songs, designs, places, and objects held through
-    clan rights. Memorial exchanges re...
+    clan rights. Memorial exchanges restore social balance and affirm
+    relationships between moieties and generations.
   - >-
     Core Orientation: Tlingit traditions grounded in matrilineal clans,
     ancestral property, land and sea, memorial exchange, names, crests, and

@@ -35,11 +35,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Names meaning “old custom” became common among
     Scandinavian pagan organizations during the late twentieth-century revival.
-    Independent bodies in Denmark, Sweden...
+    Independent bodies in Denmark, Sweden, Norway, and elsewhere developed
+    public rites, life-cycle ceremonies, legal recognition, and local
+    congregational structures.
   - >-
     Distinctive Practice: Practice may include *blót*, seasonal gatherings,
     ancestor remembrance, and devotion to Norse gods and local powers. Modern
-    values and national legal contexts s...
+    values and national legal contexts shape these communities as much as
+    medieval texts do.
   - >-
     Core Orientation: Modern Scandinavian Heathen traditions whose name means
     old custom, organized in several independent national associations.

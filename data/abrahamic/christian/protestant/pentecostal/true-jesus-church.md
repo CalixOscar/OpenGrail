@@ -28,11 +28,11 @@ key_tenets:
   - >-
     Foundational Doctrine: The True Jesus Church arose in China in 1917 through
     leaders including Paul Wei, Zhang Lingsheng, and Barnabas Zhang, amid
-    indigenous revival and contact with i...
+    indigenous revival and contact with international Pentecostal missions.
   - >-
     Distinctive Practice: The church teaches the Oneness of God, baptism in
     Jesus' name with full immersion, reception of the Holy Spirit evidenced by
-    tongues, foot washing, divine heali...
+    tongues, foot washing, divine healing, and Saturday Sabbath observance.
   - >-
     Core Orientation: An independent Chinese Oneness Pentecostal church
     combining charismatic gifts, Jesus-name baptism, and seventh-day Sabbath

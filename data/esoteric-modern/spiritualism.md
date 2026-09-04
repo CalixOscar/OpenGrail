@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Modern Spiritualism emerged in the United States
     around the 1848 phenomena associated with the Fox sisters and rapidly became
-    a transatlantic movement. Public m...
+    a transatlantic movement. Public mediums, home circles, reform networks,
+    churches, investigators, and skeptics all shaped it.
   - >-
     Distinctive Practice: Spiritualists seek communication with deceased persons
     through trance speech, automatic writing, healing, or other forms of
-    mediumship. Many interpret such cont...
+    mediumship. Many interpret such contact as empirical confirmation of moral
+    progress after death.
   - >-
     Core Orientation: A modern religious movement centered on communication with
     the dead, mediumship, and evidence for postmortem existence.

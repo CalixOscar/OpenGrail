@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Syriac Orthodox Church carries a West Syriac
     Christian inheritance associated with Antioch. After the Council of
-    Chalcedon, non-Chalcedonian communities end...
+    Chalcedon, non-Chalcedonian communities endured imperial pressure and were
+    reorganized through leaders including Jacob Baradaeus.
   - >-
     Distinctive Practice: Worship uses the West Syriac rite and preserves
     Syriac, a literary form of Aramaic, alongside local languages. The church's
-    miaphysite Christology aligns it wit...
+    miaphysite Christology aligns it with Oriental Orthodoxy.
   - >-
     Core Orientation: A West Syriac Oriental Orthodox church historically
     centered around Antioch and Upper Mesopotamia.

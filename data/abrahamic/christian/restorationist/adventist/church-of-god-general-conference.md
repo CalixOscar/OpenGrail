@@ -25,11 +25,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Church of God General Conference, sometimes
     identified historically with the “Abrahamic Faith,” grew from
-    nineteenth-century Adventist and restorationist co...
+    nineteenth-century Adventist and restorationist congregations associated
+    with Benjamin Wilson and related preachers.
   - >-
     Distinctive Practice: The denomination teaches the unity of God, Jesus as
     the human Messiah and Son of God, conditional immortality, resurrection, and
-    the future kingdom of God on ea...
+    the future kingdom of God on earth.
   - >-
     Core Orientation: An Adventist Christian denomination with roots in
     nineteenth-century restorationism and a non-Trinitarian, conditionalist

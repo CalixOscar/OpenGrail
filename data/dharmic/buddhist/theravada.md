@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Theravāda descends from the Sri Lankan Mahāvihāra
     lineage and became established across Myanmar, Thailand, Laos, and Cambodia
-    through changing networks of ordin...
+    through changing networks of ordination and royal patronage.
   - >-
     Distinctive Practice: Theravāda communities center the Buddha’s teaching,
     monastic discipline, merit, generosity, ethical conduct, and cultivation of
-    calm and insight. The arhat is a...
+    calm and insight. The arhat is a prominent ideal, but devotion, relics,
+    protective rites, and aspirations concerning future buddhas also matter.
   - >-
     Core Orientation: A living Buddhist tradition grounded in the Pāli canon and
     monastic lineages of Sri Lanka and mainland Southeast Asia.

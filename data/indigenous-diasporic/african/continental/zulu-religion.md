@@ -32,11 +32,11 @@ key_tenets:
   - >-
     Foundational Doctrine: AmaZulu religious life has changed through the rise
     of the nineteenth-century Zulu kingdom, colonial conquest, migrant labor,
-    apartheid, Christianity, and urban...
+    apartheid, Christianity, and urbanization.
   - >-
     Distinctive Practice: Ancestors or *amadlozi* remain involved in kinship,
     well-being, misfortune, and moral obligation. Diviners and healers diagnose
-    disrupted relationships and work...
+    disrupted relationships and work through dreams, medicines, and ritual.
   - >-
     Core Orientation: AmaZulu religious traditions involving ancestors,
     divination, healing, kinship, royal history, and powers associated with sky

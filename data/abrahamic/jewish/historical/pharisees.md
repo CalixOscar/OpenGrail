@@ -27,11 +27,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Pharisees appear in sources from the Hasmonean and
     early Roman periods as a movement with influence among parts of the
-    population. Josephus, the New Testament, ...
+    population. Josephus, the New Testament, and later rabbinic literature
+    portray them from different agendas, so reconstruction requires comparison
+    rather than literal harmonization.
   - >-
     Distinctive Practice: Sources associate Pharisees with traditions
     interpreting written Torah, practices extending purity beyond the Temple,
-    belief in resurrection, and a combination ...
+    belief in resurrection, and a combination of providence with human
+    responsibility.
   - >-
     Core Orientation: A Second Temple Jewish movement known for legal
     interpretation, purity practice, and teachings including resurrection.

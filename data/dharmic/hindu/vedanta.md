@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Vedānta, literally the “end of the Veda,” grew from
     systematic interpretation of the Upaniṣads. Bādarāyaṇa’s *Brahma Sūtras*
-    organized disputed teachings, and l...
+    organized disputed teachings, and later commentators read this terse work
+    alongside the Upaniṣads and *Bhagavad Gītā*.
   - >-
     Distinctive Practice: Vedānta asks how ultimate reality, individual selves,
     the world, action, devotion, and liberation are related. Advaita teaches
-    nonduality; Viśiṣṭādvaita qualifi...
+    nonduality; Viśiṣṭādvaita qualified nonduality; Dvaita enduring difference.
   - >-
     Core Orientation: A family of Hindu philosophical schools interpreting the
     Upaniṣads, Bhagavad Gītā, and Brahma Sūtras.

@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Liṅgāyat or Vīraśaiva community formation is strongly
     associated with twelfth-century Karnataka and the *vachanas* of Basava,
-    Allama Prabhu, Akka Mahadevi, and ...
+    Allama Prabhu, Akka Mahadevi, and other *śaraṇas*.
   - >-
     Distinctive Practice: Initiates wear and worship a personal *iṣṭaliṅga*,
     emphasizing direct relation to Śiva, work, ethical community, and
-    remembrance. Early vachanas sharply critici...
+    remembrance. Early vachanas sharply criticized caste hierarchy, gender
+    restrictions, and empty ritual, although historical communities developed
+    varied social arrangements.
   - >-
     Core Orientation: A Kannada-speaking devotional community centered on Śiva
     as the personal iṣṭaliṅga and the vachana heritage.

@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Ritual specialists commonly called *mudang* have
     served Korean households and communities through changing kingdoms,
-    Confucian governance, colonial suppression,...
+    Confucian governance, colonial suppression, war, urbanization, and heritage
+    policy.
   - >-
     Distinctive Practice: The *gut* combines offerings, music, dance, costume,
     narrative, divination, and spirit embodiment to heal, guide the dead, secure
-    fortune, or restore relationsh...
+    fortune, or restore relationships.
   - >-
     Core Orientation: Korean ritual traditions in which spirit specialists
     mediate among deities, ancestors, misfortune, healing, and communal life.

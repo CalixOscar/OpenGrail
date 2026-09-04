@@ -31,11 +31,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Adventism grew from William Miller's
     interdenominational preaching that anticipated Christ's return in the 1840s.
-    After the “Great Disappointment” of 1844, part...
+    After the “Great Disappointment” of 1844, participants formed several new
+    bodies rather than abandoning apocalyptic expectation.
   - >-
     Distinctive Practice: Adventist groups share emphasis on eschatology but
     differ considerably. Seventh-day Adventists worship on Saturday, teach
-    conditional immortality and an investi...
+    conditional immortality and an investigative judgment, and regard White's
+    prophetic ministry as authoritative while affirming the Bible as their
+    doctrinal standard.
   - >-
     Core Orientation: A Protestant family emerging from nineteenth-century
     expectation of Christ's imminent return and renewed study of prophecy.

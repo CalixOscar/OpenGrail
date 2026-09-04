@@ -31,11 +31,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Udāsīs trace their lineage to Sri Chand, a son of
     Guru Nanak, and developed itinerant and monastic networks across North
-    India. Udāsī custodians managed many Si...
+    India. Udāsī custodians managed many Sikh shrines before nineteenth- and
+    twentieth-century reform movements placed gurdwaras under Khalsa-oriented
+    administration.
   - >-
     Distinctive Practice: Udāsī ascetics revere Guru Nanak and Sikh scripture
     while using renunciant symbols and practices shared with wider Indic
-    traditions. Sikh authorities have diffe...
+    traditions. Sikh authorities have differed over whether Udāsīs fall within
+    the Panth or form a related but distinct order.
   - >-
     Core Orientation: An ascetic tradition associated with Sri Chand that
     transmitted Sikh teaching while incorporating broader Indic renunciant

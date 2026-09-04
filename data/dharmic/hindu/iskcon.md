@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: A. C. Bhaktivedanta Swami Prabhupada founded ISKCON
     in New York in 1966 as a modern institution within Bengali Gauḍīya
-    Vaiṣṇavism. Public chanting, book distrib...
+    Vaiṣṇavism. Public chanting, book distribution, temples, communal
+    residences, and vegetarian food programs enabled rapid global growth.
   - >-
     Distinctive Practice: ISKCON centers devotion to Kṛṣṇa through
     congregational chanting of the Hare Krishna mantra, deity worship,
-    scriptural study, ethical vows, and service. It teac...
+    scriptural study, ethical vows, and service. It teaches Caitanya as a divine
+    descent and emphasizes disciplined *bhakti*.
   - >-
     Core Orientation: A global Gauḍīya Vaiṣṇava movement founded by A. C.
     Bhaktivedanta Swami Prabhupada in New York.

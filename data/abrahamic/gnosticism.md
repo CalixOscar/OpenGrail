@@ -38,11 +38,13 @@ key_tenets:
   - >-
     Foundational Doctrine: “Gnosticism” is a retrospective category applied to a
     range of movements flourishing mainly in the second and third centuries CE.
-    Important evidence comes from ...
+    Important evidence comes from critics such as Irenaeus as well as
+    manuscripts found near Nag Hammadi in 1945.
   - >-
     Distinctive Practice: Many sources reinterpret Jewish creation narratives
     and Christian claims about Jesus through complex myth. A transcendent divine
-    fullness may stand beyond a fla...
+    fullness may stand beyond a flawed or ignorant creator; a revealer awakens
+    people to their origin beyond the visible cosmos.
   - >-
     Core Orientation: A contested scholarly category for several ancient
     movements that emphasized revealed knowledge, elaborate divine worlds, and

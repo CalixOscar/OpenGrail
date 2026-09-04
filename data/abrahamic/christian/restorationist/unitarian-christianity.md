@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Organized anti-Trinitarian churches emerged in the
     Polish-Lithuanian Commonwealth and Transylvania during the Reformation.
-    English and American Unitarianism lat...
+    English and American Unitarianism later developed through rational dissent
+    and liberal Congregationalism.
   - >-
     Distinctive Practice: Unitarian Christians affirm one God without the
     coequal three-person formulation of the Nicene Creed. Understandings of
-    Jesus range from uniquely inspired human...
+    Jesus range from uniquely inspired human teacher to preexistent subordinate
+    divine agent.
   - >-
     Core Orientation: Christian traditions affirming God's unity while rejecting
     classical Trinitarian doctrine, in several historical and modern forms.

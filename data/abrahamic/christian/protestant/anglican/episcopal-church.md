@@ -32,11 +32,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Anglican congregations in the newly independent
     United States reorganized without royal supremacy and secured an episcopate
-    through Scottish and English consecr...
+    through Scottish and English consecrations.
   - >-
     Distinctive Practice: The Episcopal Church retains bishops, priests,
     deacons, liturgical worship, creeds, and Anglican comprehensiveness. General
-    Convention joins a House of Bishops ...
+    Convention joins a House of Bishops with elected clerical and lay deputies.
   - >-
     Core Orientation: The United States-based province of the Anglican
     Communion, organized after American independence.

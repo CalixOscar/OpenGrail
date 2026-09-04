@@ -24,11 +24,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Yorùbá religious traditions developed among
     communities in present-day southwestern Nigeria and neighboring Benin and
-    Togo, with major centers such as Ilé-Ifẹ̀ ...
+    Togo, with major centers such as Ilé-Ifẹ̀ and Ọ̀yọ́.
   - >-
     Distinctive Practice: Olódùmarè, the òrìṣà, ancestors, personal destiny,
     morally cultivated character, divination, healing, sacrifice, music, and
-    festival create a relational religio...
+    festival create a relational religious world.
   - >-
     Core Orientation: Interrelated religious traditions of Yorùbá communities
     centered on divinity, ancestors, character, and reciprocal ritual.

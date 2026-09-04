@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The Malankara church belongs to the Saint Thomas
     Christian history of southwestern India. After resistance to Portuguese
-    Latinization in the seventeenth century...
+    Latinization in the seventeenth century, part of the community formed closer
+    ties with the Syriac Orthodox patriarchate and adopted the West Syriac rite.
   - >-
     Distinctive Practice: The Malankara Orthodox Syrian Church recognizes the
     catholicos of the East and Malankara metropolitan as its primate and belongs
-    to Oriental Orthodox communion....
+    to Oriental Orthodox communion. It is Indian rather than ethnically Syrian;
+    “Syrian” refers to a liturgical and ecclesiastical inheritance.
   - >-
     Core Orientation: An autocephalous Oriental Orthodox church of the Saint
     Thomas Christian tradition in India, using the West Syriac rite.

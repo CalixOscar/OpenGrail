@@ -26,11 +26,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The Branch Davidian line emerged after Victor
     Houteff's death when Benjamin Roden proclaimed a new “Branch” message within
-    the Davidian movement. Leadership lat...
+    the Davidian movement. Leadership later passed through Lois Roden and
+    competing claimants.
   - >-
     Distinctive Practice: Branch Davidian theology combines Adventist and
     Davidian apocalyptic interpretation with claims of continuing prophetic
-    revelation. Beliefs varied significantly...
+    revelation. Beliefs varied significantly by leader and period, and Koresh's
+    community should not stand for all historical Davidians or Seventh-day
+    Adventists.
   - >-
     Core Orientation: A Davidian Adventist branch whose best-known later
     community was led by David Koresh near Waco, Texas.

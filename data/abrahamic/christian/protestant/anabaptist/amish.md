@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: A late seventeenth-century dispute among Swiss and
     Alsatian Anabaptists separated followers of Jakob Ammann from other
-    Mennonites over discipline, shunning, Com...
+    Mennonites over discipline, shunning, Communion, and visible conformity.
   - >-
     Distinctive Practice: Amish church districts regulate technology, dress,
     transportation, schooling, and social relations through local custom called
-    the *Ordnung*. Adult baptism, mut...
+    the *Ordnung*. Adult baptism, mutual aid, nonresistance, and face-to-face
+    community are central.
   - >-
     Core Orientation: An Anabaptist family descending from followers of Jakob
     Ammann and organized through locally governed church districts.

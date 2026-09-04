@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Edomite communities south and southeast of the Dead
     Sea developed political institutions during the Iron Age, with Qos appearing
-    prominently in personal names a...
+    prominently in personal names and later Idumean evidence.
   - >-
     Distinctive Practice: Qos is securely associated with Edom, but surviving
     sources do not support a complete mythology or fixed theology. Similarities
-    with neighboring Levantine relig...
+    with neighboring Levantine religions reflect shared language, exchange, and
+    comparable political forms.
   - >-
     Core Orientation: The Iron Age religious traditions of Edom and Idumea, in
     which the deity Qos held special royal and communal importance.

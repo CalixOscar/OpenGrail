@@ -27,11 +27,14 @@ key_tenets:
   - >-
     Foundational Doctrine: James J. Strang claimed appointment by Joseph Smith
     and reported new angelic authority shortly after Smith's death in 1844. His
-    movement established communities...
+    movement established communities in Wisconsin and on Beaver Island in Lake
+    Michigan, where Strang briefly exercised both ecclesiastical and civil
+    power.
   - >-
     Distinctive Practice: Strangites accept the Bible, Book of Mormon, parts of
     the Doctrine and Covenants, and Strang's *Book of the Law of the Lord*. The
-    tradition maintains Saturday a...
+    tradition maintains Saturday as the Sabbath and recognizes prophetic
+    succession through angelic ordination.
   - >-
     Core Orientation: A Latter Day Saint branch that accepted James J. Strang as
     Joseph Smith's prophetic successor.

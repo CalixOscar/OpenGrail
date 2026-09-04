@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The Ammonite kingdom occupied territory around modern
     Amman during the Iron Age. Inscriptions, personal names, figurines,
-    monumental remains, and external accou...
+    monumental remains, and external accounts indicate worship of Milkom and
+    other divine powers.
   - >-
     Distinctive Practice: Evidence for Ammon is much thinner than the archives
     from Ugarit or Mesopotamia, so reconstructions must remain modest. Even the
-    identities and spellings of maj...
+    identities and spellings of major divine names are debated in particular
+    inscriptions.
   - >-
     Core Orientation: The Iron Age religious traditions of the Ammonite kingdom
     around Rabbath-Ammon, associated especially with Milkom.

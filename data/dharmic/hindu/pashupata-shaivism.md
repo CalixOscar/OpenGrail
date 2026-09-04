@@ -28,11 +28,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Pāśupatas appear in inscriptions and literary sources
     from the early centuries CE and became an influential network of Śaiva
-    ascetics. Traditions associated the...
+    ascetics. Traditions associated their teaching with Lakulīśa.
   - >-
     Distinctive Practice: The system distinguishes the Lord, bound souls, and
     the causes of bondage, prescribing staged ascetic disciplines aimed at union
-    with Śiva and the end of suffer...
+    with Śiva and the end of suffering.
   - >-
     Core Orientation: One of the earliest documented Śaiva ascetic traditions,
     oriented toward Paśupati and liberation through disciplined practice.

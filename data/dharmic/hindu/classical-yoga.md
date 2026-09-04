@@ -30,11 +30,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The *Yoga Sūtras*, compiled in the early centuries CE
     and read with the *Yoga Bhāṣya*, systematized older South Asian ascetic and
-    contemplative practices. This ...
+    contemplative practices. This classical school later became one of the six
+    conventional Hindu *darśanas*, though “yoga” also names many practices
+    outside Patañjali’s framework.
   - >-
     Distinctive Practice: Yoga seeks the stilling of mental activity so
     consciousness can be known apart from material processes. Ethical
-    restraints, observances, posture, breath regulat...
+    restraints, observances, posture, breath regulation, sensory withdrawal,
+    concentration, meditation, and absorption form its celebrated eight limbs.
   - >-
     Core Orientation: The meditative and philosophical system organized in
     Patañjali's Yoga Sūtras and their commentarial tradition.

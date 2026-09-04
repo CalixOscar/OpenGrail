@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Dinka or Jieng communities comprise numerous sections
     with distinct territories, histories, and ritual specialists. Their
-    religious worlds developed through cat...
+    religious worlds developed through cattle pastoralism, agriculture, kinship,
+    conflict, and exchange in the Nile basin.
   - >-
     Distinctive Practice: Accounts commonly describe a high divinity and diverse
     Powers associated with clans, places, illness, and social life. Cattle can
-    mediate sacrifice, naming, poe...
+    mediate sacrifice, naming, poetry, wealth, and relationships rather than
+    serving as mere economic property.
   - >-
     Core Orientation: Diverse religious traditions of Dinka communities in South
     Sudan, involving Divinity, clan powers, ancestors, cattle, sacrifice, and

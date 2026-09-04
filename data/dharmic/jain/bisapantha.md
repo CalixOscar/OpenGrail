@@ -27,11 +27,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Bīsapantha emerged within early modern Digambara Jain
     debates over temple authority and ritual practice. It became a widespread
-    lay orientation in northern and ...
+    lay orientation in northern and central India and maintains established
+    patterns of image worship and offerings.
   - >-
     Distinctive Practice: Communities venerate Jina images and may include
     flowers, lamps, incense, and food offerings in worship, often working with
-    *bhaṭṭāraka* institutions. The name ...
+    *bhaṭṭāraka* institutions. The name is best understood within Digambara
+    sectarian history; it does not indicate a separate Jain canon or a departure
+    from core vows of nonviolence and liberation.
   - >-
     Core Orientation: A major Digambara Jain lay tradition retaining image
     worship and offerings under the guidance of ritual specialists.

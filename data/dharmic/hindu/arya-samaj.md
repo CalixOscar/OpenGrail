@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Dayananda Saraswati founded the Arya Samaj in Bombay
     in 1875, and it became particularly influential in Punjab and northern
-    India. Responding to colonial critiq...
+    India. Responding to colonial critique and internal debate, the movement
+    promoted Vedic education, printing, public disputation, social service, and
+    campaigns concerning caste, widow remarriage, and reconversion.
   - >-
     Distinctive Practice: Arya Samaj treats the Vedas as uniquely authoritative
     and teaches one formless God, rejecting image worship, hereditary priestly
-    privilege, and later texts when...
+    privilege, and later texts when they conflict with its Vedic interpretation.
   - >-
     Core Orientation: A Veda-centered Hindu reform movement founded by Dayananda
     Saraswati, active in education and social reform.

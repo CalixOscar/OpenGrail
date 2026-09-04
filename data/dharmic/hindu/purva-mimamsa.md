@@ -31,11 +31,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Pūrva Mīmāṃsā grew from specialists interpreting
     Vedic injunctions and ritual performance. Jaimini’s *Mīmāṃsā Sūtra*,
-    Śabara’s commentary, and the rival lines o...
+    Śabara’s commentary, and the rival lines of Kumārila and Prabhākara
+    developed influential theories of language, duty, and knowledge.
   - >-
     Distinctive Practice: Mīmāṃsā regards the Veda as authorless and
     intrinsically authoritative, with *dharma* known through its commands.
-    Ritual action produces unseen efficacy rather ...
+    Ritual action produces unseen efficacy rather than requiring a creator deity
+    to distribute results.
   - >-
     Core Orientation: A Hindu hermeneutical school defending Vedic ritual
     obligation, linguistic authority, and disciplined textual interpretation.

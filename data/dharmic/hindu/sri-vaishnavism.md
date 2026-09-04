@@ -32,11 +32,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Śrī Vaiṣṇavism developed in Tamil South India from
     temple traditions, the vernacular hymns of the Āḻvārs, and Sanskrit Vedānta.
-    Nāthamuni, Yāmuna, and Rāmānuja ...
+    Nāthamuni, Yāmuna, and Rāmānuja helped consolidate its institutions and
+    theology, while major centers such as Śrīraṅgam sustained ritual and
+    scholastic lineages.
   - >-
     Distinctive Practice: Viṣṇu-Nārāyaṇa and Śrī are central, and salvation is
     understood through divine grace, surrender, devotion, and service. Sanskrit
-    revelation and the Tamil *Divya...
+    revelation and the Tamil *Divya Prabandham* function together as a “double
+    Veda.”
   - >-
     Core Orientation: A South Indian Vaiṣṇava tradition joining Tamil Āḻvār
     devotion, temple liturgy, and Viśiṣṭādvaita theology.

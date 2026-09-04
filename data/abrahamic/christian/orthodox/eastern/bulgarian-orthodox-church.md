@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Bulgarian church received autonomous status in
     the ninth century and later patriarchal dignity, becoming an important
-    center of Slavic Christian literature ...
+    center of Slavic Christian literature and worship.
   - >-
     Distinctive Practice: The church is governed by a holy synod under the
     patriarch of Bulgaria and follows Byzantine liturgy in Church Slavonic and
-    Bulgarian. Medieval centers such as ...
+    Bulgarian. Medieval centers such as Preslav, Ohrid, and Tarnovo remain
+    central to its cultural memory.
   - >-
     Core Orientation: An autocephalous Eastern Orthodox church with medieval
     roots and a restored patriarchate centered in Sofia.

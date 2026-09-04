@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Viśiṣṭādvaita was systematized by Rāmānuja in the
     eleventh and twelfth centuries within the Śrīvaiṣṇava world of South India.
-    His Sanskrit commentaries interpre...
+    His Sanskrit commentaries interpreted Vedānta through worship of Nārāyaṇa
+    and interacted with Tamil Āḻvār devotion, temple institutions, and earlier
+    theologians such as Yāmuna.
   - >-
     Distinctive Practice: The school describes reality as a qualified unity:
     conscious selves and matter are real, distinct, and wholly dependent on
-    brahman, often likened to God's body....
+    brahman, often likened to God's body. Loving devotion and divine grace
+    accompany knowledge and disciplined action.
   - >-
     Core Orientation: Rāmānuja's qualified-nondual Vedānta, in which souls and
     world are real modes dependent upon a personal brahman.

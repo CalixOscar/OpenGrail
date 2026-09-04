@@ -32,11 +32,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Before Islam, Arabian communities maintained highly
     diverse religious systems across northern, central, eastern, and southern
-    Arabia. Inscriptions attest local ...
+    Arabia. Inscriptions attest local and transregional deities, pilgrimage,
+    offerings, oath formulas, ancestor commemoration, and sanctuary
+    institutions.
   - >-
     Distinctive Practice: This is a comparative umbrella, not one pan-Arabian
     creed. Later Muslim authors preserve valuable memories but wrote within
-    polemical and chronological distance...
+    polemical and chronological distance, while the Qur'an addresses only part
+    of the religious landscape.
   - >-
     Core Orientation: A comparative umbrella for the diverse pre-Islamic cults
     of Arabia documented by inscriptions, archaeology, poetry, and later

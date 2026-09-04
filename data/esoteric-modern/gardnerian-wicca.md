@@ -27,11 +27,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Gerald Gardner publicized Wicca in 1950s Britain
     after the repeal of laws against witchcraft claims. Doreen Valiente and
-    other early initiates helped shape the ...
+    other early initiates helped shape the liturgy.
   - >-
     Distinctive Practice: Gardnerian practice commonly includes three initiatory
     degrees, ritual nudity in some covens, a Goddess and Horned God, seasonal
-    festivals, and oath-bound mater...
+    festivals, and oath-bound material.
   - >-
     Core Orientation: The initiatory Wiccan lineage made public by Gerald
     Gardner and transmitted through covens and degree-based initiation.

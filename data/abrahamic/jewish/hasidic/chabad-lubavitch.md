@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Shneur Zalman of Liadi founded Chabad in the late
     eighteenth century within the expanding Hasidic movement. Its name
-    abbreviates the Hebrew faculties of wisdom,...
+    abbreviates the Hebrew faculties of wisdom, understanding, and knowledge.
   - >-
     Distinctive Practice: Chabad integrates Lurianic Kabbalah with disciplined
     intellectual contemplation, Hasidic prayer, and halakhic observance. Under
-    Menachem Mendel Schneerson it bu...
+    Menachem Mendel Schneerson it built a global network of emissaries, schools,
+    synagogues, and public Jewish programs.
   - >-
     Core Orientation: A Hasidic movement founded by Shneur Zalman of Liadi,
     known for intellectual mysticism and worldwide outreach.

@@ -29,11 +29,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Shugendō took shape around sacred mountains,
     itinerant practitioners called *yamabushi*, Buddhist temples, and local kami
-    cults. Traditions associate the path w...
+    cults. Traditions associate the path with the legendary En no Gyōja.
   - >-
     Distinctive Practice: Mountain entry, fasting, waterfall austerity, mantra,
     fire ritual, and guided pilgrimage transform the practitioner through direct
-    encounter with a sacral lands...
+    encounter with a sacral landscape.
   - >-
     Core Orientation: A Japanese mountain-ascetic tradition integrating esoteric
     Buddhism, kami worship, pilgrimage, and demanding embodied practice.

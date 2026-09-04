@@ -26,11 +26,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Lakota religious traditions belong within the wider
     Oceti Sakowin while retaining community, band, family, and ceremonial
-    distinctions. United States warfare, r...
+    distinctions. United States warfare, reservation confinement, boarding
+    schools, bans on ceremony, and loss of the Black Hills inflicted sustained
+    religious violence.
   - >-
     Distinctive Practice: Mitákuye Oyás'i expresses expansive kinship and
     obligation rather than a detachable slogan. Prayer, pipe traditions, vision
-    seeking, Sun Dance, sacred songs, an...
+    seeking, Sun Dance, sacred songs, and relationships with land and beings
+    require proper preparation and sponsorship.
   - >-
     Core Orientation: Sacred traditions of Lakota communities within the Oceti
     Sakowin, grounded in kinship, land, and ceremony.

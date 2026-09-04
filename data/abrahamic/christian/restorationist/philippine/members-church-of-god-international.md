@@ -31,11 +31,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Members Church of God International traces its
     lineage through a Philippine Church of God body founded by Nicolas Perez
-    after his departure from Iglesia ni Cris...
+    after his departure from Iglesia ni Cristo.
   - >-
     Distinctive Practice: MCGI emphasizes intensive Bible exposition, baptism,
     charity, congregational prayer, and a non-Trinitarian understanding of God.
-    Members follow distinctive prac...
+    Members follow distinctive practices concerning prayer posture, food, dress,
+    and church discipline, though teachings have developed over time.
   - >-
     Core Orientation: A Philippine restorationist Christian body widely known
     through the Ang Dating Daan broadcasting ministry.

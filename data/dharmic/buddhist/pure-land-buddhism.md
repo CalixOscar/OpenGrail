@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Indian scriptures describing Amitābha and Sukhāvatī
     entered China through early translations and inspired devotional societies,
-    commentaries, and recitation pra...
+    commentaries, and recitation practices.
   - >-
     Distinctive Practice: Practitioners recollect or recite Amitābha’s name,
     cultivate trust and aspiration, and dedicate merit toward birth in a realm
-    especially conducive to awakening....
+    especially conducive to awakening. Traditions differ over self-power,
+    other-power, visualization, and whether Pure Land is cosmological or also
+    realized in mind.
   - >-
     Core Orientation: Mahāyāna traditions devoted to Amitābha Buddha and
     aspiration for rebirth in his Pure Land.

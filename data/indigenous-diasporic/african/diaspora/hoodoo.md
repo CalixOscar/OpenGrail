@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Hoodoo developed among enslaved African Americans and
     their descendants, especially in the southern United States, through Central
-    and West African knowledge, b...
+    and West African knowledge, biblical practice, Indigenous and European
+    materia, and the conditions of racial violence.
   - >-
     Distinctive Practice: Rootworkers may use herbs, roots, minerals, personal
     concerns, prayer, Psalms, amulets, baths, and divination for healing, luck,
-    protection, love, or justice. H...
+    protection, love, or justice. Hoodoo has often been practiced by Christians
+    and does not require membership in a separate religion.
   - >-
     Core Orientation: An African American healing, protection, divination, and
     justice practice complex rather than a single church or uniform religion.

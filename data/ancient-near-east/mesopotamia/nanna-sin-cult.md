@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The moon god Nanna, Akkadian Sîn, was the patron of
     Ur, where the Ekišnugal temple and its personnel held major economic and
-    ceremonial roles. His cult also bec...
+    ceremonial roles. His cult also became deeply rooted at Harran in upper
+    Mesopotamia.
   - >-
     Distinctive Practice: Ur and Harran were related centers but not identical
     institutions, and the cult’s practices changed substantially over time. The
-    divine family linking Sîn with ...
+    divine family linking Sîn with Ningal, Shamash, and Ishtar supplied a
+    language for astral order.
   - >-
     Core Orientation: The lunar cult of Sumerian Nanna and Akkadian Sîn,
     centered at Ur and Harran and sustained across Mesopotamian empires.

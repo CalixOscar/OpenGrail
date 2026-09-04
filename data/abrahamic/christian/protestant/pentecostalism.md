@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Modern Pentecostalism coalesced through holiness
     revivals, Charles Parham's Bible school, and the interracial Azusa Street
-    revival led by William Seymour from 1...
+    revival led by William Seymour from 1906.
   - >-
     Distinctive Practice: Pentecostals expect gifts described in the New
     Testament, including tongues, prophecy, healing, and discernment. Many teach
-    a distinct baptism in the Holy Spiri...
+    a distinct baptism in the Holy Spirit, although definitions and expected
+    evidence vary.
   - >-
     Core Orientation: A global Protestant-charismatic family emphasizing the
     Holy Spirit's gifts, healing, and experiential worship.

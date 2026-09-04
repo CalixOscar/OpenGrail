@@ -32,11 +32,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Choe Je-u founded Donghak, “Eastern Learning,” in
     1860 amid foreign pressure and domestic crisis. The movement joined
-    revelation, ethical discipline, and critiq...
+    revelation, ethical discipline, and critique of corrupt hierarchy; followers
+    participated in the 1894 Donghak uprising.
   - >-
     Distinctive Practice: Cheondoism teaches that humans bear or serve Heaven
     within, grounding radical dignity and moral responsibility. Incantation,
-    reverence, disciplined sincerity, a...
+    reverence, disciplined sincerity, and social reform connect inward
+    cultivation with a renewed world.
   - >-
     Core Orientation: A Korean religion descended from Donghak, teaching the
     nearness of Heaven, human dignity, ethical cultivation, and social renewal.

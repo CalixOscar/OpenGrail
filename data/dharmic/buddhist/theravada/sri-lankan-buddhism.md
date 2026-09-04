@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Buddhist chronicles connect the island’s first
     durable monastic establishment with missions during Aśoka’s reign in the
-    third century BCE. Anurādhapura monaster...
+    third century BCE. Anurādhapura monasteries developed distinct fraternities,
+    and the Mahāvihāra lineage eventually supplied the institutional ancestry
+    claimed by modern Theravāda.
   - >-
     Distinctive Practice: Sri Lankan practice joins Pāli learning and monastic
     discipline with pilgrimage, relic and bodhi-tree devotion, protective
-    chanting, merit-making, and worship o...
+    chanting, merit-making, and worship of regional deities.
   - >-
     Core Orientation: The Sri Lankan Theravāda tradition whose Pāli textual,
     monastic, and ritual lineages deeply shaped Buddhism across Southeast Asia.

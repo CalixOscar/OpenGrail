@@ -31,11 +31,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Vedic religion is reconstructed primarily from
     Sanskrit compositions transmitted orally with extraordinary precision. The
-    oldest layer, the *Rigveda*, is usuall...
+    oldest layer, the *Rigveda*, is usually situated in the late second
+    millennium BCE among Indo-Aryan-speaking communities in northwestern South
+    Asia.
   - >-
     Distinctive Practice: Fire sacrifice (*yajña*) linked patrons, specialist
     priests, deities, ancestors, and cosmic order. Hymns praise figures such as
-    Agni, Indra, Soma, Uṣas, and Var...
+    Agni, Indra, Soma, Uṣas, and Varuṇa, but their importance changes between
+    texts.
   - >-
     Core Orientation: The sacrificial and poetic religious culture preserved in
     the Vedas, formed among Indo-Aryan communities of the late second and first

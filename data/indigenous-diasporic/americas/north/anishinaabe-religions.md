@@ -30,11 +30,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Anishinaabe peoples—including Ojibwe, Odawa,
     Potawatomi, Algonquin, Nipissing, and Mississauga communities—maintain
-    related but distinct histories around the Gr...
+    related but distinct histories around the Great Lakes and beyond.
   - >-
     Distinctive Practice: Religious life may involve relations with *manidoog*,
     fasting and dreams, medicines, drums, seasonal narratives, funerary
-    responsibilities, and Midewiwin teachi...
+    responsibilities, and Midewiwin teachings.
   - >-
     Core Orientation: Diverse Anishinaabe traditions grounded in relationships
     with land, manidoog, kin, dreams, medicines, seasonal stories, and

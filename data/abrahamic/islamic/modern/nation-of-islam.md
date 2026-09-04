@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Nation of Islam began with Wallace Fard Muhammad
     in Detroit in 1930 and expanded under Elijah Muhammad through temples,
-    businesses, disciplined communal pro...
+    businesses, disciplined communal programs, and critique of white supremacy.
   - >-
     Distinctive Practice: Classic Nation teachings combine Islamic terms and
     practices with Black nationalist theology, including accounts of Fard's
-    divinity and Elijah Muhammad's messen...
+    divinity and Elijah Muhammad's messenger role that differ sharply from Sunni
+    and Shi'a doctrine.
   - >-
     Core Orientation: An African American religious and nationalist movement
     founded in Detroit and developed under Elijah Muhammad.

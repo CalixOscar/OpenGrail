@@ -27,11 +27,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Ibadi communities emerged from early disputes about
     righteous leadership and communal judgment. Historians connect their
-    formation to moderate currents that sep...
+    formation to moderate currents that separated from more militant Kharijites,
+    but Ibadis reject the use of “Kharijite” as a sufficient self-description.
   - >-
     Distinctive Practice: Ibadi thought teaches that an imam should be selected
     for knowledge and righteousness rather than hereditary lineage and may be
-    removed for grave failure. Its l...
+    removed for grave failure. Its law, hadith transmission, and theology form
+    an independent tradition while sharing basic worship and scripture with
+    other Muslims.
   - >-
     Core Orientation: An early Islamic tradition distinct from Sunni and Shi'a
     Islam, now centered especially in Oman and North Africa.

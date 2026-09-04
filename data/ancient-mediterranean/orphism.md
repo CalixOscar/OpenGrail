@@ -30,11 +30,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Ancient sources attach poems, initiations,
     purifications, and unusual theogonies to Orpheus, but they do not reveal a
-    centralized “Orphic church.” Gold tablets ...
+    centralized “Orphic church.” Gold tablets from graves, the Derveni Papyrus,
+    later hymns, and hostile or comic references span many centuries and
+    settings.
   - >-
     Distinctive Practice: Some evidence emphasizes special knowledge about
     divine origins, postmortem routes, purity, and liberation from a difficult
-    cycle of life. Vegetarian rules and ...
+    cycle of life. Vegetarian rules and a Dionysian anthropology appear in
+    particular witnesses, not universally.
   - >-
     Core Orientation: A debated family of texts, rites, and afterlife teachings
     associated with the mythical singer Orpheus.

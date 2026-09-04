@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Maasai communities in Kenya and Tanzania formed
     through migration, incorporation, pastoral specialization, and changing
-    relationships with neighboring peoples. ...
+    relationships with neighboring peoples. Colonial boundaries, land seizure,
+    conservation policy, wage labor, schooling, and Christianity altered ritual
+    authority and mobility.
   - >-
     Distinctive Practice: Enkai or Engai is addressed as source of rain, cattle,
     fertility, and moral order, while elders, age sets, prophets known as
-    *laibon*, and household blessings s...
+    *laibon*, and household blessings structure religious action.
   - >-
     Core Orientation: Religious traditions of Maa-speaking Maasai communities
     involving Enkai, age-set life, cattle, blessing, prophecy, and land.

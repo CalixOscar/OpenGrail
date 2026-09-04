@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Xiantiandao, the “Way of Former Heaven,” names
     related late-imperial transmission networks rather than one continuously
-    centralized church. Lineages used patria...
+    centralized church. Lineages used patriarchal succession, vegetarian halls,
+    initiation, and revealed teaching to organize followers.
   - >-
     Distinctive Practice: Many lineages teach that souls originate with the
     Unborn or Eternal Mother and must return from the later-heaven world through
-    moral cultivation and initiation....
+    moral cultivation and initiation. They often interpret Confucian, Buddhist,
+    and Daoist figures within one salvific history.
   - >-
     Core Orientation: A family of Chinese salvationist lineages venerating the
     Eternal Mother and transmitting an initiatory path of return to primordial

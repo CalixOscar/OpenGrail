@@ -26,11 +26,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Samaritans understand themselves as descendants of
     ancient Israel who preserved worship at Mount Gerizim. Jewish and Samaritan
-    communities developed distinct in...
+    communities developed distinct institutions and competing historical
+    accounts during the Persian and Hellenistic periods, though the chronology
+    of separation is debated.
   - >-
     Distinctive Practice: The Samaritan Pentateuch is the sole scriptural canon
     and identifies Gerizim as the chosen sanctuary. Passover sacrifice remains a
-    central communal rite, led wi...
+    central communal rite, led with a hereditary priesthood and a calendar
+    distinct from the rabbinic one.
   - >-
     Core Orientation: An Israelite tradition centered on the Samaritan
     Pentateuch, Mount Gerizim, and a continuous priestly community.

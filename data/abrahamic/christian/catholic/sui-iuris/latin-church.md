@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The Latin Church developed from Christian communities
     in the western Roman world, with Rome becoming its principal episcopal
-    center. Latin liturgy, canon law, m...
+    center. Latin liturgy, canon law, monasticism, scholastic theology, and
+    missionary institutions gave western Catholicism a recognizable form.
   - >-
     Distinctive Practice: The Latin Church is a self-governing *sui iuris*
     church within the Catholic communion, not a synonym for all Catholicism.
-    “Roman Rite” names its largest liturgi...
+    “Roman Rite” names its largest liturgical tradition, whereas “Latin Church”
+    names the church that ordinarily celebrates it.
   - >-
     Core Orientation: The largest Catholic sui iuris church, shaped historically
     by western Latin Christianity and ordinarily using the Roman Rite.

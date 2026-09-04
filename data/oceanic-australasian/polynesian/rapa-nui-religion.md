@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Polynesian settlers created a distinctive society on
     Rapa Nui, building ancestral platforms and moai within clan landscapes.
-    Later ritual authority included cer...
+    Later ritual authority included ceremonies associated with Motu Nui and the
+    birdman competition.
   - >-
     Distinctive Practice: Moai are ancestral presences embedded in named places
     and communities, not free-standing symbols of a vanished mystery. Rongorongo
-    remains undeciphered and shou...
+    remains undeciphered and should not be presented as a readable scripture.
   - >-
     Core Orientation: Rapa Nui traditions connecting ancestors, monumental
     landscapes, chiefly lineages, ritual competition, oceanic place, and modern

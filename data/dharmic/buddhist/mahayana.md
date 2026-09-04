@@ -32,11 +32,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Mahāyāna texts and communities became visible in
     India around the beginning of the common era, developing within existing
-    monasteries rather than immediately fo...
+    monasteries rather than immediately forming a separate ordination.
   - >-
     Distinctive Practice: The bodhisattva vow joins liberation with commitment
     to all beings. Emptiness, skillful means, buddha-fields, compassion, and
-    multiple celestial buddhas receive...
+    multiple celestial buddhas receive varying emphasis.
   - >-
     Core Orientation: A broad Buddhist movement centered on bodhisattva paths,
     expanding scripture, and diverse philosophies of wisdom and compassion.

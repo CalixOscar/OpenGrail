@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Ainu communities in Hokkaido, Sakhalin, and the Kuril
     region developed religious life through hunting, fishing, household ritual,
-    oral epic, and relations with ...
+    oral epic, and relations with *kamuy*.
   - >-
     Distinctive Practice: Kamuy are powerful other-than-human beings encountered
     through animals, fire, tools, disease, weather, and other forms. Offerings
-    and carefully ordered ceremoni...
+    and carefully ordered ceremonies sustain reciprocity; the famous
+    bear-sending rite should not be isolated as a spectacle from its ethical
+    world.
   - >-
     Core Orientation: The living religious traditions of the Ainu, structured by
     reciprocal relations with kamuy, ancestors, animals, and place.

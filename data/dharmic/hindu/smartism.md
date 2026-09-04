@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: “Smārta” has referred broadly to Brahmins oriented
     toward *smṛti* and domestic Vedic norms, and more narrowly to communities
-    associated with Advaita Vedānta and...
+    associated with Advaita Vedānta and Śaṅkara-linked monastic centers.
   - >-
     Distinctive Practice: Smārta practice combines household rites, temple
     worship, life-cycle observances, and philosophical study. Its inclusive
-    deity arrangement is sometimes presente...
+    deity arrangement is sometimes presented as a universal template for
+    Hinduism, but it represents one historical formation among many.
   - >-
     Core Orientation: A Brahmanical Hindu tradition joining domestic orthopraxy,
     multiple-deity worship, and influential Advaita interpretation.

@@ -25,11 +25,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Sthānakavāsī formation followed late medieval western
     Indian critiques associated with Loṅkā Śāh, who argued that the received
-    Āgamas did not authorize image wo...
+    Āgamas did not authorize image worship.
   - >-
     Distinctive Practice: Sthānakavāsīs emphasize meditation, preaching, ethical
     vows, canonical study, and careful nonviolence while rejecting temple images
-    and related offerings. Mendi...
+    and related offerings. Mendicants may wear a mouth covering as a visible
+    precaution against harming minute life.
   - >-
     Core Orientation: A Śvetāmbara Jain reform tradition rejecting image worship
     and emphasizing scripture, ascetic discipline, and meeting-hall devotion.

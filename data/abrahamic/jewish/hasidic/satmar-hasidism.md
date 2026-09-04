@@ -28,11 +28,15 @@ key_tenets:
   - >-
     Foundational Doctrine: Joel Teitelbaum established the Satmar dynasty in
     Satu Mare, then within Hungary, in the early twentieth century. After
-    surviving the Holocaust he rebuilt the c...
+    surviving the Holocaust he rebuilt the community in New York, where it
+    developed extensive schools, charities, congregations, and Yiddish-speaking
+    neighborhoods.
   - >-
     Distinctive Practice: Satmar combines Hasidic devotion with strict halakhic
     observance, communal separation, and preservation of Yiddish culture. Its
-    influential anti-Zionism argues ...
+    influential anti-Zionism argues that Jewish sovereignty before messianic
+    redemption violates traditional prohibitions; this position is theological
+    and differs from secular political anti-Zionism.
   - >-
     Core Orientation: A large Hungarian-rooted Hasidic dynasty known for strict
     communal institutions and theological anti-Zionism.

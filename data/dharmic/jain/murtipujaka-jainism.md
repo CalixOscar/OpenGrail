@@ -31,11 +31,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Mūrtipūjaka communities constitute the principal
     image-worshipping stream of Śvetāmbara Jainism. Mendicant *gacchas*,
-    merchant patronage, pilgrimage networks, a...
+    merchant patronage, pilgrimage networks, and ornate temples shaped its
+    medieval and modern history in western India and the diaspora.
   - >-
     Distinctive Practice: Ritual centers on consecrated images of the Jinas,
     accompanied by offerings, hymns, meditation, confession, and festival
-    observance. The images are perfected te...
+    observance. The images are perfected teachers rather than creator gods.
   - >-
     Core Orientation: The image-worshipping majority current of Śvetāmbara
     Jainism, organized through mendicant orders, temples, and lay communities.

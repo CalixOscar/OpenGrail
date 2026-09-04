@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Christian community of ancient Antioch appears
     prominently in early Christian sources and became one of the major
-    patriarchal sees. After the Chalcedonian d...
+    patriarchal sees. After the Chalcedonian divisions, rival patriarchal
+    successions developed.
   - >-
     Distinctive Practice: Despite the historic title “Greek Orthodox,” most of
     its contemporary faithful are Arabic-speaking, and the church should not be
-    mistaken for the Church of Gree...
+    mistaken for the Church of Greece.
   - >-
     Core Orientation: An ancient autocephalous Eastern Orthodox patriarchate
     rooted in Antiochene Christianity and now centered in Damascus.

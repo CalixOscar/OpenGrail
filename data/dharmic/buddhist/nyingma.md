@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Nyingma lineages trace key translations and practices
     to the eighth- and ninth-century imperial period, especially figures such as
-    Padmasambhava, Śāntarakṣita, ...
+    Padmasambhava, Śāntarakṣita, and Vimalamitra.
   - >-
     Distinctive Practice: The school classifies teachings in nine vehicles and
     gives special prominence to Dzogchen, or Great Perfection, while also
-    preserving elaborate tantric ritual a...
+    preserving elaborate tantric ritual and monastic study. *Terma* revelations
+    are understood internally as concealed teachings discovered at appropriate
+    times.
   - >-
     Core Orientation: The 'Ancient' Tibetan Buddhist tradition tracing its
     principal transmissions to Tibet's first imperial dissemination.

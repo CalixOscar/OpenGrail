@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Tonga’s island polities linked sacred and political
     rank through the Tuʻi Tonga and other chiefly lines while maintaining wide
-    voyaging networks. Wesleyan, Cath...
+    voyaging networks. Wesleyan, Catholic, and other missions gained influence
+    in the nineteenth century amid civil conflict and state consolidation.
   - >-
     Distinctive Practice: Kinship, gift exchange, land, rank, funeral
     responsibilities, dance, and sacred restrictions carry religious force even
-    when not labeled separately from Christi...
+    when not labeled separately from Christianity.
   - >-
     Core Orientation: Tongan traditions of divine and chiefly genealogy, sacred
     authority, land, ocean, reciprocity, and thoroughly indigenized

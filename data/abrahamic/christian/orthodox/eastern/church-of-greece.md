@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Following Greek independence from the Ottoman Empire,
     church authorities in the new kingdom declared autocephaly in 1833; the
-    Ecumenical Patriarchate recognized...
+    Ecumenical Patriarchate recognized it in 1850.
   - >-
     Distinctive Practice: The Church of Greece is governed by a synod headed by
     the archbishop of Athens. Its worship follows the Byzantine rite in Greek,
-    within the larger theological a...
+    within the larger theological and sacramental communion of Eastern
+    Orthodoxy.
   - >-
     Core Orientation: The autocephalous Eastern Orthodox church governing most
     dioceses within the modern Greek state.

@@ -32,11 +32,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Goddess-centered tantric scriptures and lineages
     became visible in the early medieval period within a broader Śaiva tantric
-    world. They developed across regions...
+    world. They developed across regions and courts, monasteries, temples, and
+    household settings.
   - >-
     Distinctive Practice: Initiation, mantra, mandala or yantra, visualization,
     deity installation, and the ritual body organize many Śākta tantric paths.
-    Some texts prescribe transgress...
+    Some texts prescribe transgressive substances or rites, while many living
+    traditions use highly regulated symbolic or temple forms.
   - >-
     Core Orientation: Initiatory Goddess-centered tantric traditions using
     mantra, visualization, ritual diagrams, worship, and embodied disciplines.

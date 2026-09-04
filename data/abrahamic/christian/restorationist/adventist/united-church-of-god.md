@@ -25,11 +25,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The United Church of God was organized in 1995 by
     ministers and members departing the Worldwide Church of God as that body
-    adopted evangelical doctrines. It cre...
+    adopted evangelical doctrines. It created a council-led governance structure
+    intended to avoid concentrating authority in one individual.
   - >-
     Distinctive Practice: The church observes the seventh-day Sabbath and
     biblical annual festivals, teaches conditional immortality, and anticipates
-    Christ's millennial reign. It reject...
+    Christ's millennial reign. It rejects the Trinity and understands God as a
+    family into which redeemed humans may ultimately be born.
   - >-
     Core Orientation: A major Church of God denomination formed by ministers and
     members who rejected Worldwide Church of God doctrinal reforms.

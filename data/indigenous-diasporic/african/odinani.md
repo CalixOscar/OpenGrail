@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Ọdịnani refers broadly to inherited religious, moral,
     and customary orders among Igbo communities of southeastern Nigeria. Village
-    republics, titled societies, ...
+    republics, titled societies, oracle centers, age grades, market networks,
+    and local landscapes produced substantial diversity before and during
+    colonial rule.
   - >-
     Distinctive Practice: Chukwu, *alusi*, Ala, ancestors, personal *chi*,
     divination, masquerade, oath, healing, and obligations to community and land
-    appear in different local configur...
+    appear in different local configurations.
   - >-
     Core Orientation: A name for inherited Igbo religious and ethical traditions
     relating community, land, divinities, and ancestors.

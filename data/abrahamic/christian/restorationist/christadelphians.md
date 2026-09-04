@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: John Thomas entered Alexander Campbell's restoration
     movement after emigrating to the United States but developed independent
-    teachings through debate and bibli...
+    teachings through debate and biblical study.
   - >-
     Distinctive Practice: Christadelphians reject the Trinity, the inherent
     immortality of the soul, and a supernatural personal devil. They teach that
-    Jesus is God's Son and human Messi...
+    Jesus is God's Son and human Messiah, that the dead await resurrection, and
+    that Christ will establish God's kingdom on earth.
   - >-
     Core Orientation: A non-Trinitarian restorationist fellowship founded
     through the preaching of John Thomas in Britain and North America.

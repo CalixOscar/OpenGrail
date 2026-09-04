@@ -32,11 +32,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Marduk rose with Babylon’s political fortunes,
     especially from the Old Babylonian period onward. Priests and scholars
-    increasingly assigned him powers formerly ...
+    increasingly assigned him powers formerly associated with other great gods.
   - >-
     Distinctive Practice: Marduk’s elevation did not turn Babylonian religion
     into exclusive monotheism. Other gods retained temples, agency, and worship,
-    while theological texts could c...
+    while theological texts could concentrate divine attributes in different
+    ways.
   - >-
     Core Orientation: The civic and imperial cult of Babylon’s patron Marduk,
     elevated to head of the Babylonian pantheon.

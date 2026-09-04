@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The ELCA began in 1988 through the union of the
     American Lutheran Church, Association of Evangelical Lutheran Churches, and
-    Lutheran Church in America. Those bo...
+    Lutheran Church in America. Those bodies carried German, Scandinavian, and
+    other immigrant Lutheran histories into a new nationwide denomination.
   - >-
     Distinctive Practice: The ELCA confesses the triune God, justification by
     grace through faith, the authority of scripture, and the Lutheran
-    confessions. It practices infant and adult...
+    confessions. It practices infant and adult baptism and celebrates the
+    Eucharist as a means of grace.
   - >-
     Core Orientation: The largest Lutheran denomination in the United States,
     formed through a merger of three church bodies.

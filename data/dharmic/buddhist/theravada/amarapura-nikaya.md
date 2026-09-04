@@ -31,11 +31,15 @@ key_tenets:
   - >-
     Foundational Doctrine: Sri Lankan monks traveled to Amarapura, then a royal
     capital in Burma, to receive higher ordination at the turn of the nineteenth
-    century. Their return establis...
+    century. Their return established lineages outside the caste restrictions
+    associated with the Siyam Nikāya and expanded monastic access among coastal
+    and non-Govigama communities.
   - >-
     Distinctive Practice: Amarapura communities share the Pāli canon and
     Theravāda discipline while differing in temple networks, administrative
-    chapters, and reform histories. Monks fro...
+    chapters, and reform histories. Monks from the fraternity participated in
+    education, print culture, temperance, and Buddhist revival movements under
+    colonial rule.
   - >-
     Core Orientation: A Sri Lankan monastic fraternity founded through Burmese
     ordination and historically open to communities excluded from the Siyam

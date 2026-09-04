@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Mennonite communities emerged from Swiss, South
     German, and Dutch Anabaptist networks of the Radical Reformation. The former
-    priest Menno Simons became an influ...
+    priest Menno Simons became an influential organizer and writer among
+    nonviolent Dutch-speaking groups.
   - >-
     Distinctive Practice: Historic commitments include voluntary baptism,
     congregational discipline, mutual aid, separation of church and coercive
-    state power, and refusal of violence an...
+    state power, and refusal of violence and oath-taking.
   - >-
     Core Orientation: An Anabaptist family named for Menno Simons and marked
     historically by believers' baptism, discipleship, and nonviolence.

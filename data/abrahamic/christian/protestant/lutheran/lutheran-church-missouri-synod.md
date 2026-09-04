@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: German Lutheran pastors and congregations organized
     the Missouri Synod in Chicago in 1847 under the leadership of C. F. W.
-    Walther and others. The denomination ...
+    Walther and others. The denomination developed parochial schools,
+    seminaries, publishing, and global missions while maintaining a strong
+    confessional identity.
   - >-
     Distinctive Practice: The LCMS subscribes to the Book of Concord as a
     faithful exposition of scripture, teaches biblical inerrancy, and practices
-    closed or close Communion. It ordain...
+    closed or close Communion. It ordains men to the pastoral office while
+    recognizing other service roles for women.
   - >-
     Core Orientation: A confessional Lutheran denomination in the United States
     formed largely by German immigrant congregations.

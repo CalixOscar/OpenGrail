@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Care for the dead appears in archaeological and
     historical settings across the world, but its meanings differ. Ancestors may
-    protect descendants, authorize land...
+    protect descendants, authorize land and office, require feeding, judge
+    conduct, or remain present through names, shrines, graves, relics, and
+    collective memory.
   - >-
     Distinctive Practice: Offerings, funerary cycles, genealogical recitation,
     household altars, pilgrimage, and spirit consultation can renew kinship
-    across death. The term is a compara...
+    across death. The term is a comparative node rather than a single religion.
   - >-
     Core Orientation: A cross-cultural family of practices sustaining
     reciprocal, moral, and ritual relationships between living communities and

@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Kemetism includes modern movements that revive or
     reconstruct religions of ancient Egypt, with organized communities
-    developing especially from the 1970s onward...
+    developing especially from the 1970s onward.
   - >-
     Distinctive Practice: Devotion to Netjeru, offerings, shrine practice,
     ancestor reverence, and ethical commitment to *ma'at* commonly appear.
-    Modern life lacks the ancient temple eco...
+    Modern life lacks the ancient temple economy and divine kingship, so all
+    revival involves selection and adaptation.
   - >-
     Core Orientation: Modern religious movements reconstructing and renewing
     devotion to ancient Egyptian deities and concepts.

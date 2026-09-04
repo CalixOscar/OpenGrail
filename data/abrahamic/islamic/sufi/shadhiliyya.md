@@ -28,11 +28,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Abu al-Hasan al-Shadhili taught in the
     thirteenth-century Maghreb and Egypt, and disciples including Abu al-Abbas
-    al-Mursi and Ibn Ata Allah systematized his pa...
+    al-Mursi and Ibn Ata Allah systematized his path.
   - >-
     Distinctive Practice: Shadhili traditions commonly emphasize remembrance,
     gratitude, reliance on God, and spiritual realization while remaining
-    engaged in ordinary work and society. ...
+    engaged in ordinary work and society. Litanies such as *Hizb al-Bahr*
+    circulate beyond formal initiates.
   - >-
     Core Orientation: A major North African and Egyptian Sufi order tracing its
     lineage to Abu al-Hasan al-Shadhili.

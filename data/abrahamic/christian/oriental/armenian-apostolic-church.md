@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Armenian tradition associates national conversion
     with Gregory the Illuminator and King Tiridates in the early fourth century.
-    The creation of the Armenian alph...
+    The creation of the Armenian alphabet by Mesrop Mashtots enabled major
+    translation and literary projects.
   - >-
     Distinctive Practice: The Armenian rite combines ancient local developments
     with Syriac, Cappadocian, and later Latin contacts. The church receives the
-    first three ecumenical council...
+    first three ecumenical councils and belongs to Oriental Orthodoxy.
   - >-
     Core Orientation: The national church of historic Armenia and a major member
     of the Oriental Orthodox communion.

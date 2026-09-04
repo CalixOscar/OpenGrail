@@ -34,11 +34,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Scholars use categories such as “salvationist
     religions,” “redemptive societies,” or formerly “sectarian religions” for a
-    changing range of Chinese lay movement...
+    changing range of Chinese lay movements from the late imperial through
+    modern periods.
   - >-
     Distinctive Practice: Recurring features include revelation, moral
     cultivation, initiation, millennial renewal, the Unborn or Eternal Mother,
-    Maitreya, and claims to unite the Three ...
+    Maitreya, and claims to unite the Three Teachings.
   - >-
     Core Orientation: An analytical umbrella for distinct Chinese lay movements
     organized around moral reform, revelation, initiation, and universal

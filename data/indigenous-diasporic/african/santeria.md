@@ -31,11 +31,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Lucumí, also widely called Santería or Regla de Ocha,
     took shape in colonial and postcolonial Cuba among Yorùbá-speaking captives
-    and descendants, in interactio...
+    and descendants, in interaction with other African nations, Catholic
+    institutions, Spiritism, and Cuban social life.
   - >-
     Distinctive Practice: Initiation, divination, drumming, sacrifice, spirit
     possession, and reciprocal service to the *oricha* organize practice.
-    Catholic saints may correspond to oric...
+    Catholic saints may correspond to oricha in historically layered ways, but
+    the beings are not simply identical.
   - >-
     Core Orientation: An Afro-Cuban religion joining Yorùbá-derived òrìṣà
     devotion with Cuban, Catholic, and diaspora histories.

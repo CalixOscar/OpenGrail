@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Alevi communities formed through layered Anatolian
     histories involving Turkmen religious networks, devotion to the Prophet's
-    family, Safavid-Ottoman conflict, B...
+    family, Safavid-Ottoman conflict, Bektashi teaching, and local lineages.
   - >-
     Distinctive Practice: The *cem* gathering includes music, sung poetry,
     teaching, and the *semah* ritual, often with women and men participating
-    together. Hereditary spiritual lineage...
+    together. Hereditary spiritual lineages and ideals summarized as mastery of
+    hand, tongue, and sexuality guide communal ethics.
   - >-
     Core Orientation: Diverse Anatolian traditions joining devotion to Ali and
     the Twelve Imams with Sufi, communal, and poetic practice.

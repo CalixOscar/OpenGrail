@@ -41,11 +41,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Mani began preaching in third-century Sasanian
     Mesopotamia and presented himself within a succession of messengers that
-    included Buddha, Zarathustra, and Jesus....
+    included Buddha, Zarathustra, and Jesus. His church developed scriptures, a
+    hierarchy of Elect and Hearers, visual teaching, and an ambitious
+    translation program.
   - >-
     Distinctive Practice: Its cosmology narrates the mixture and eventual
     separation of Light and Darkness; disciplined diet, confession, almsgiving,
-    and ritual supported that liberation...
+    and ritual supported that liberation.
   - >-
     Core Orientation: A missionary religion founded by Mani that joined a
     radical light-dark cosmology to diverse late antique traditions.

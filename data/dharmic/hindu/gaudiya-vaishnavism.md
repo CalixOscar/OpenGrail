@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Gauḍīya Vaiṣṇavism formed around the devotional
     movement of Caitanya in sixteenth-century Bengal and Odisha. His followers,
-    especially the Gosvāmins of Vrindava...
+    especially the Gosvāmins of Vrindavan, organized its theology, sacred
+    geography, ritual practice, and literary canon.
   - >-
     Distinctive Practice: The tradition presents Rādhā and Kṛṣṇa as the highest
     expression of divine love and makes *bhakti*—cultivated through chanting,
-    remembrance, worship, and servic...
+    remembrance, worship, and service—the central path.
   - >-
     Core Orientation: A Bengali Vaiṣṇava devotional tradition centered on
     Caitanya, loving devotion to Rādhā and Kṛṣṇa, and congregational chanting.

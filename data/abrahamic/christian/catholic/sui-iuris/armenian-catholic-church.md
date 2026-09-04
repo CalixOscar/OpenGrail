@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Contacts between Armenian Christians and Rome
     occurred for centuries, especially through Cilicia and missionary networks.
-    In 1742 Rome recognized Abraham Pierre...
+    In 1742 Rome recognized Abraham Pierre I Ardzivian as patriarch, marking the
+    durable organization of an Armenian Catholic hierarchy.
   - >-
     Distinctive Practice: The Armenian Catholic Church is a patriarchal *sui
     iuris* church using the Armenian rite, a tradition with its own liturgical
-    language, music, calendar, vesture...
+    language, music, calendar, vesture, and theological expression.
   - >-
     Core Orientation: An Armenian-rite Catholic patriarchal church formed from
     Armenian Christian communities in communion with Rome.

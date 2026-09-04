@@ -34,11 +34,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Shabak communities have lived especially in the
     Nineveh plain of northern Iraq and speak an Iranian language variety
-    alongside Arabic and Kurdish. Sources descr...
+    alongside Arabic and Kurdish. Sources describe hereditary religious
+    specialists, sacred *Buyruk* materials, communal rites, and reverence for
+    figures important in Shi‘i and Sufi traditions.
   - >-
     Distinctive Practice: Some Shabaks identify as Twelver Shi‘i Muslims, while
     others emphasize a distinct communal religion; external labels often fail to
-    respect that diversity. Paral...
+    respect that diversity. Parallels with Yarsan and Alevi traditions have
+    encouraged genealogical theories, but direct descent is not established.
   - >-
     Core Orientation: The internally diverse religious traditions of Shabak
     communities in northern Iraq, shaped by Shi'i, Sufi, and neighboring

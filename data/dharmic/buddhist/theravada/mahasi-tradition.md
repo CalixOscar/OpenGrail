@@ -32,11 +32,15 @@ key_tenets:
   - >-
     Foundational Doctrine: Mahāsī Sayadaw developed his teaching within Burmese
     reform networks influenced by Mingun Jetavan Sayadaw and the wider revival
-    of lay vipassanā. From 1949 he t...
+    of lay vipassanā. From 1949 he taught at Yangon’s Thathana Yeiktha
+    meditation center, training teachers who carried the method throughout Asia
+    and into global retreat culture.
   - >-
     Distinctive Practice: Practice commonly begins with close observation of
     abdominal movement and applies mental noting to sensations, intentions,
-    emotions, and other changing events. ...
+    emotions, and other changing events. Intensive continuity of mindfulness is
+    used to disclose impermanence, unsatisfactoriness, and non-self through a
+    commentarial map of insight knowledge.
   - >-
     Core Orientation: A Burmese insight-meditation lineage known for systematic
     moment-to-moment noting and intensive lay and monastic retreat practice.

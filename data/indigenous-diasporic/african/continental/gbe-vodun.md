@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Vodun institutions developed among Fon, Ewe, and
     other Gbe-speaking communities through households, towns, kingdoms,
-    priesthoods, and regional exchange. The kin...
+    priesthoods, and regional exchange. The kingdom of Dahomey reorganized some
+    cults without creating a single permanent system.
   - >-
     Distinctive Practice: Specific *vodun* relate to natural forces, craft,
     illness, kin groups, political authority, and particular places through
-    initiation, possession, offerings, dru...
+    initiation, possession, offerings, drumming, and divination.
   - >-
     Core Orientation: Locally diverse Vodun traditions among Gbe-speaking
     communities of Benin, Togo, Ghana, and neighboring regions.

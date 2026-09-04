@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The retrospective category “Russian Cosmism” groups
     thinkers including Nikolai Fedorov, Konstantin Tsiolkovsky, and Vladimir
-    Vernadsky, whose projects differed ...
+    Vernadsky, whose projects differed sharply.
   - >-
     Distinctive Practice: Cosmist themes include overcoming death, active
     evolution, space settlement, planetary responsibility, and human
-    participation in cosmic development. Because th...
+    participation in cosmic development. Because the grouping joins religious
+    philosophy, science, and later ideological appropriation, it is better
+    treated as a current than a single religion.
   - >-
     Core Orientation: A diverse Russian philosophical current linking human
     transformation, cosmic expansion, science, religious ethics, and—in Nikolai

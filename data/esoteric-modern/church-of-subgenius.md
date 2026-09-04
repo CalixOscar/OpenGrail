@@ -31,11 +31,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Ivan Stang and Philo Drummond began distributing
     SubGenius materials around 1979. Mail art, zines, radio, performance,
-    “devivals,” and early internet culture ex...
+    “devivals,” and early internet culture expanded its mythology of the
+    salesman-prophet “Bob” Dobbs and an alien conspiracy.
   - >-
     Distinctive Practice: “Slack” names liberation from work, normality, and
     imposed expectations. The church deliberately mixes parody, conspiracy
-    tropes, occult references, and communa...
+    tropes, occult references, and communal ritual.
   - >-
     Core Orientation: A satirical religious movement built around J. R. 'Bob'
     Dobbs, the promise of Slack, media collage, and critique of conformity.

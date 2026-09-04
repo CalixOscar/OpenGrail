@@ -27,11 +27,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Advaita emerged through early Vedānta interpretation
     and became especially influential through Śaṅkara and later monastic
-    teaching lineages. Śaṅkara’s eighth-ce...
+    teaching lineages. Śaṅkara’s eighth-century commentaries defended a nondual
+    reading of the shared Vedānta canon while disputing Buddhist, Mīmāṃsā,
+    Sāṃkhya, and realist accounts.
   - >-
     Distinctive Practice: Advaita holds that *brahman* alone is ultimately
     nondual and that ignorance makes the self appear limited and separate.
-    Liberation arises through disciplined he...
+    Liberation arises through disciplined hearing, reflection, and realization,
+    not merely intellectual assent.
   - >-
     Core Orientation: A nondual Vedānta school teaching that liberating
     knowledge discloses the identity of self and brahman.

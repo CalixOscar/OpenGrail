@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Pythagoras established a community in Croton in
     southern Italy during the sixth century BCE, but almost no securely
-    contemporary writing survives. Later Pythago...
+    contemporary writing survives. Later Pythagoreans developed mathematical,
+    cosmological, musical, ethical, and political teachings, while ancient
+    biographies surrounded the founder with wonder stories.
   - >-
     Distinctive Practice: Communal rules, purification, dietary disciplines,
     reverence for number, and teachings about the soul gave Pythagorean life a
-    religious dimension alongside phil...
+    religious dimension alongside philosophical inquiry.
   - >-
     Core Orientation: An ancient Greek philosophical and communal tradition
     linking disciplined life, number, cosmic order, and teachings attributed to

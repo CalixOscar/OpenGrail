@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Roman religion developed through household rites,
     neighborhood associations, civic priesthoods, military practice, and
-    relationships with communities across Ita...
+    relationships with communities across Italy and the empire.
   - >-
     Distinctive Practice: Correct performance, vows, auspices, sacrifice,
     festival calendars, and negotiated peace with the gods mattered more than
-    assent to a universal creed. Lares, Pe...
+    assent to a universal creed. Lares, Penates, ancestors, and household genius
+    stood beside Jupiter, Juno, Mars, and countless local gods.
   - >-
     Core Orientation: The civic, domestic, military, and imperial cults of Rome
     and the wider Roman world.

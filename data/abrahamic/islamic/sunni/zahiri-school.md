@@ -30,11 +30,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Dawud al-Zahiri articulated the school in
     ninth-century Baghdad, and Ibn Hazm later became its most influential
-    Andalusian representative. Zahiri jurists accept...
+    Andalusian representative. Zahiri jurists accepted consensus in restricted
+    forms but opposed analogical reasoning and juristic preference, grounding
+    rulings in the manifest sense of Quranic and prophetic language.
   - >-
     Distinctive Practice: The Zahiri school ceased to function as one of the
     major continuously institutionalized Sunni madhhabs, yet its texts and
-    arguments remained influential. Modern...
+    arguments remained influential. Modern scholars and revivalists sometimes
+    invoke Zahiri methods without reproducing a complete medieval school.
   - >-
     Core Orientation: A Sunni legal school emphasizing the apparent wording of
     revelation and rejecting analogical extension as an independent source of

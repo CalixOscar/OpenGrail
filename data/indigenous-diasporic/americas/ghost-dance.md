@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Two related prophetic dance movements spread through
     western North American networks, first around the Paiute prophet Wodziwob in
-    1870 and later around the Nort...
+    1870 and later around the Northern Paiute prophet Wovoka after 1889.
   - >-
     Distinctive Practice: Dancing, songs, moral renewal, reunion with the dead,
     restored land, and the ending of colonial suffering received locally
-    different interpretations. Wovoka's l...
+    different interpretations. Wovoka's language drew partly on Christian
+    encounter while remaining an Indigenous prophetic response.
   - >-
     Core Orientation: Intertribal prophetic dance movements promising renewal
     amid invasion, dispossession, and colonial violence.

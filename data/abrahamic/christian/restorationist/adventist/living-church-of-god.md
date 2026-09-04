@@ -25,11 +25,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Roderick C. Meredith organized the Global Church of
     God after leaving the Worldwide Church of God in 1992. A governance conflict
-    in that body led Meredith and s...
+    in that body led Meredith and supporters to form the Living Church of God in
+    1998.
   - >-
     Distinctive Practice: The church teaches seventh-day Sabbath observance,
     annual holy days, conditional immortality, non-Trinitarian theology, and a
-    future kingdom of God on earth. It...
+    future kingdom of God on earth. Its governmental model emphasizes
+    hierarchical ministerial authority.
   - >-
     Core Orientation: An Armstrongist denomination formed under Roderick C.
     Meredith after divisions among Worldwide Church of God successors.

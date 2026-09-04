@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Assyrian religious life formed around the city of
     Aššur and expanded with Old, Middle, and Neo-Assyrian political power. Its
-    archives share much Akkadian schola...
+    archives share much Akkadian scholarly and ritual literature with Babylonia,
+    while local institutions and the god Aššur gave the northern tradition a
+    distinctive civic focus.
   - >-
     Distinctive Practice: Aššur's changing representation, Ishtar's major
     sanctuaries, prophetic consultation, treaties, divination, purification, and
-    temple service structured state rel...
+    temple service structured state religion.
   - >-
     Core Orientation: Northern Mesopotamian religious traditions centered on
     Aššur and embedded in Assyrian civic and imperial life.

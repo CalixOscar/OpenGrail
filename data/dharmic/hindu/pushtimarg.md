@@ -32,11 +32,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Vallabha and his descendants established Puṣṭimārga
     in northwestern India around the turn of the sixteenth century. The
-    tradition developed household and temple...
+    tradition developed household and temple networks focused on images of child
+    Kṛṣṇa, with the Śrīnāthjī temple at Nathdwara becoming a major center.
   - >-
     Distinctive Practice: Devotees seek participation in divine grace through
     initiation and loving *sevā*: bathing, clothing, feeding, adorning, and
-    celebrating Kṛṣṇa throughout the day...
+    celebrating Kṛṣṇa throughout the day.
   - >-
     Core Orientation: The Vallabha Vaiṣṇava 'path of grace,' centered on
     intimate service to Kṛṣṇa, especially as Śrīnāthjī.

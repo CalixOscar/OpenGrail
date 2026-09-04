@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Saint Sava obtained autocephaly for the Serbian
     church in 1219, linking ecclesiastical organization with the medieval
-    Serbian state. The patriarchate of Peć und...
+    Serbian state. The patriarchate of Peć underwent suppression and restoration
+    under changing imperial regimes.
   - >-
     Distinctive Practice: The church is organized synodally under the patriarch
     of Serbia and includes dioceses across the Balkans and diaspora. It follows
-    Byzantine worship with a stron...
+    Byzantine worship with a strong Church Slavonic and Serbian inheritance,
+    while monasteries and the *slava* family-patron feast are culturally
+    prominent.
   - >-
     Core Orientation: An autocephalous Eastern Orthodox church associated
     historically with Serbian lands and the medieval patriarchate of Peć.

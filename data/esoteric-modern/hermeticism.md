@@ -31,11 +31,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Greek and Latin Hermetic writings emerged in Roman
     Egypt, presenting dialogues in which Hermes Trismegistus reveals cosmology,
-    piety, mind, and spiritual rebirt...
+    piety, mind, and spiritual rebirth.
   - >-
     Distinctive Practice: Hermetic texts describe a divinely ordered cosmos that
     can be contemplated and, in technical traditions, ritually engaged.
-    Knowledge transforms the knower throu...
+    Knowledge transforms the knower through reverence and purification.
   - >-
     Core Orientation: Late antique revelatory and philosophical traditions
     attributed to Hermes Trismegistus and repeatedly revived in later

@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The modern Jogye Order emerged through
     twentieth-century efforts to unify and reform Korean monastic Buddhism after
-    Japanese colonial rule, while invoking older...
+    Japanese colonial rule, while invoking older Seon lineages and the name of
+    China’s Caoxi or Jogye tradition.
   - >-
     Distinctive Practice: Jogye training gives prominence to *ganhwa Seon*,
     meditation focused on a critical phrase or *hwadu*, together with Vinaya,
-    chanting, doctrinal education, repen...
+    chanting, doctrinal education, repentance, and devotional ritual.
   - >-
     Core Orientation: The largest modern Korean Buddhist order, grounded in Seon
     practice and a lineage identity associated with the historical Jogye

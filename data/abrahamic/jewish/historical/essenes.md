@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Josephus, Philo, and Pliny describe Essenes as
     disciplined Jewish communities with shared property, initiation, purity
-    practices, and in some accounts celibacy....
+    practices, and in some accounts celibacy. Many scholars connect at least
+    part of this movement with the Dead Sea Scroll community at Qumran, though
+    the identification and the site's functions remain debated.
   - >-
     Distinctive Practice: Qumran texts present a covenant community awaiting
     divine judgment, following a distinctive calendar, and interpreting
-    scripture through its own inspired teache...
+    scripture through its own inspired teachers.
   - >-
     Core Orientation: An ascetic Second Temple Jewish movement described by
     ancient authors and often associated, with qualifications, with Qumran.

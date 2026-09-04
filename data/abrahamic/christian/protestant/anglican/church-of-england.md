@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The English crown rejected papal jurisdiction under
     Henry VIII, while later reforms under Edward VI, Mary I, and Elizabeth I
-    reshaped doctrine, worship, and gov...
+    reshaped doctrine, worship, and governance.
   - >-
     Distinctive Practice: The Church of England combines bishops, parishes,
     cathedrals, synods, and a formal relationship with the Crown. Evangelical,
-    Anglo-Catholic, liberal, and charis...
+    Anglo-Catholic, liberal, and charismatic currents coexist within common
+    structures.
   - >-
     Core Orientation: The established church of England and historic mother
     church of the worldwide Anglican Communion.

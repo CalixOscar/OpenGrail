@@ -35,11 +35,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Anglo-Saxon-focused Heathen practice developed within
     the wider twentieth-century Germanic pagan revival. Practitioners work with
-    archaeology, Old English, plac...
+    archaeology, Old English, place-names, charms, poetry, comparative Germanic
+    material, and contemporary ritual experimentation.
   - >-
     Distinctive Practice: The surviving Anglo-Saxon archive was mostly written
     by Christians and does not provide a complete pagan liturgy. Comparisons
-    with Norse sources help fill patte...
+    with Norse sources help fill patterns but cannot make Anglo-Saxon gods and
+    practices identical to later Icelandic material.
   - >-
     Core Orientation: Modern Heathen reconstruction focused on the pre-Christian
     religious cultures of early medieval Anglo-Saxon England.

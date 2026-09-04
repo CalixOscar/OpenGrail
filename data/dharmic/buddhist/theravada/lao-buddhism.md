@@ -34,11 +34,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Theravāda institutions became closely associated with
     the Lan Xang kingdom from the fourteenth century, supported by regional
-    exchanges with Khmer, Lanna, Siame...
+    exchanges with Khmer, Lanna, Siamese, and Sri Lankan lineages.
   - >-
     Distinctive Practice: Lao communities cultivate merit through alms,
     ordination, festivals, funerals, precepts, and devotion to images and
-    relics. The *Vessantara Jātaka* and local ma...
+    relics. The *Vessantara Jātaka* and local manuscript traditions have been
+    especially prominent, while protective rites intersect with respect for
+    territorial and ancestral spirits.
   - >-
     Core Orientation: The Theravāda traditions of Laos and Lao communities,
     historically embedded in monasteries, festivals, education, and village

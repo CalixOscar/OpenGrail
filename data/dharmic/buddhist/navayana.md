@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: On 14 October 1956, jurist and anti-caste leader B.
     R. Ambedkar converted to Buddhism with hundreds of thousands of followers at
-    Nagpur. His posthumously publis...
+    Nagpur. His posthumously published *The Buddha and His Dhamma* interpreted
+    the tradition through liberty, equality, fraternity, reason, and organized
+    struggle against caste oppression.
   - >-
     Distinctive Practice: Navayāna, the “new vehicle,” foregrounds social
     reconstruction and often rejects doctrines or customs understood to support
-    hierarchy, fatalism, or priestly aut...
+    hierarchy, fatalism, or priestly authority.
   - >-
     Core Orientation: B. R. Ambedkar's socially emancipatory reinterpretation of
     Buddhism and the communities formed through mass conversion in India.

@@ -35,11 +35,16 @@ key_tenets:
   - >-
     Foundational Doctrine: Twentieth-century reformer Taixu promoted a “Buddhism
     for human life,” and Yin Shun further developed the language of Buddhism for
-    the human realm. Later organi...
+    the human realm. Later organizations in Taiwan and the Chinese
+    diaspora—including Fo Guang Shan, Dharma Drum Mountain, and Tzu
+    Chi—translated related ideals into education, charity, media, cultural work,
+    and lay participation.
   - >-
     Distinctive Practice: Humanistic Buddhism locates the bodhisattva path in
     ordinary society rather than treating Buddhism chiefly as funerary ritual or
-    escape from the world. It value...
+    escape from the world. It values ethical action, accessible teaching,
+    community service, and the possibility of creating a Pure Land through
+    transformed relationships.
   - >-
     Core Orientation: A modern Chinese Buddhist current emphasizing this-worldly
     practice, education, welfare, culture, and the bodhisattva path in everyday

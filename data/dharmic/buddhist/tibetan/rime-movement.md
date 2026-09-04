@@ -39,11 +39,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Rimé, meaning “without boundaries” or nonsectarian,
     arose especially in nineteenth-century Kham through figures such as Jamgön
-    Kongtrul, Jamyang Khyentse Wangpo...
+    Kongtrul, Jamyang Khyentse Wangpo, and Chokgyur Dechen Lingpa.
   - >-
     Distinctive Practice: Rimé encourages receiving and preserving teachings
     from multiple schools while practicing each according to its own view and
-    lineage requirements. It was not a ...
+    lineage requirements. It was not a project to dissolve Nyingma, Kagyu,
+    Sakya, Gelug, or Bön into a new synthetic church.
   - >-
     Core Orientation: A Tibetan nonsectarian current that collected, preserved,
     and practiced endangered teachings across established school boundaries.

@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Richard Allen and other Black Methodists built
     independent congregations after experiencing segregation and discrimination
-    in white-controlled churches. Represe...
+    in white-controlled churches. Representatives organized the African
+    Methodist Episcopal Church in Philadelphia in 1816 and elected Allen as
+    bishop.
   - >-
     Distinctive Practice: The AME Church retains Wesleyan teachings on grace,
     conversion, sanctification, sacraments, and connectional episcopal
-    governance. Its congregations have served...
+    governance. Its congregations have served as centers of worship, political
+    organization, mutual aid, civil rights, and education.
   - >-
     Core Orientation: The first independent Black denomination in the United
     States, founded from Methodist resistance to racial discrimination.

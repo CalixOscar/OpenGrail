@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Sadducees are known almost entirely through opponents
     or later observers, including Josephus, New Testament authors, and rabbinic
-    texts. They appear connected w...
+    texts. They appear connected with aristocratic and priestly circles during
+    Hasmonean and Roman rule, though neither their membership nor the origin of
+    their name is certain.
   - >-
     Distinctive Practice: Ancient reports say Sadducees rejected resurrection
     and some Pharisaic traditions, but the claim that they accepted only the
-    Pentateuch cannot be demonstrated s...
+    Pentateuch cannot be demonstrated securely.
   - >-
     Core Orientation: A Second Temple Jewish party associated in surviving
     sources with priestly elites and Temple-centered authority.

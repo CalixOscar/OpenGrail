@@ -32,11 +32,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Palo formed in colonial Cuba among Central
     African-descended communities who recreated Kongo ritual knowledge under
-    slavery and urban association. Branches comm...
+    slavery and urban association. Branches commonly named Mayombe, Briyumba,
+    and Kimbisa developed different liturgies and relationships with
+    Catholicism, Spiritism, and other Afro-Cuban religions.
   - >-
     Distinctive Practice: Ritual centers on an empowered vessel often called
     *nganga* or *prenda*, assembled through lineage-specific knowledge to
-    mediate spirits, protection, healing, a...
+    mediate spirits, protection, healing, and justice.
   - >-
     Core Orientation: An Afro-Cuban initiatory religion rooted especially in
     Kongo traditions and organized through lineages working with empowered

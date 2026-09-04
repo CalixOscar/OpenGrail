@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The Ryukyu Islands developed ritual systems through
     island communities, the Ryukyu Kingdom, maritime exchange, and later
-    Japanese incorporation. Royal priestess...
+    Japanese incorporation. Royal priestesses headed by the *kikoe-ōgimi* once
+    coordinated state rites, while village priestesses, household ritualists,
+    and spirit mediums sustained local practice.
   - >-
     Distinctive Practice: Ancestors, hearth powers, sea and land presences, and
     sacred groves called *utaki* remain central in varied combinations. Women
-    have often held prominent ritual...
+    have often held prominent ritual roles, though practice differs by island
+    and period.
   - >-
     Core Orientation: Indigenous religious traditions of the Ryukyu Islands
     centered on ancestors, sacred groves, household rites, and historically

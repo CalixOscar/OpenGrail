@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Ācārya Bhikṣu founded the Śvetāmbara Terāpanth in
     Rajasthan in 1760 after disagreements over mendicant authority and conduct.
-    The order developed an unusually c...
+    The order developed an unusually centralized structure under one ācārya.
   - >-
     Distinctive Practice: Terāpanth rejects image worship in continuity with
     Sthānakavāsī practice and stresses unified discipline, study, and obedience
-    within the mendicant order. The A...
+    within the mendicant order. The Anuvrat movement invites people beyond
+    Jainism to undertake small ethical vows, while Preksha meditation presents
+    contemplative training in accessible form.
   - >-
     Core Orientation: A centralized Sthānakavāsī-derived Jain order founded by
     Ācārya Bhikṣu, known for disciplined leadership and modern lay programs.

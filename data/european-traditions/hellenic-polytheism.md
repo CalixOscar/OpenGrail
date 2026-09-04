@@ -28,11 +28,15 @@ key_tenets:
   - >-
     Foundational Doctrine: Contemporary Hellenic polytheism developed through
     twentieth-century pagan revival, Greek cultural organizations, diaspora
-    communities, and online networks. Pra...
+    communities, and online networks. Practitioners reconstruct or renew
+    devotion to Greek gods using ancient literature, archaeology, inscriptions,
+    and modern ritual judgment.
   - >-
     Distinctive Practice: Offerings, hymns, household worship, festival
     calendars, reciprocity, and virtues such as hospitality commonly shape
-    practice. No modern group can reproduce an ...
+    practice. No modern group can reproduce an ancient polis with its civic
+    institutions, slavery, or social hierarchy; renewal necessarily selects and
+    transforms.
   - >-
     Core Orientation: Contemporary devotional and reconstructionist religions
     centered on ancient Greek deities and ritual sources.

@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Anglicanism took institutional form when the English
     crown rejected papal jurisdiction, then underwent successive Protestant and
-    Catholicizing reforms. The Eliz...
+    Catholicizing reforms. The Elizabethan settlement and Book of Common Prayer
+    gave English Christianity a durable liturgical shape.
   - >-
     Distinctive Practice: Anglicans commonly appeal to scripture, historic
     creeds, episcopal order, and liturgical prayer, but they contain
-    evangelical, Anglo-Catholic, charismatic, and ...
+    evangelical, Anglo-Catholic, charismatic, and liberal currents.
   - >-
     Core Orientation: A worldwide Christian communion descended from the Church
     of England and shaped by Reformation and catholic inheritances.

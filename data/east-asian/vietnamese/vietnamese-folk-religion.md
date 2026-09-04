@@ -32,11 +32,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Vietnamese communal and household religion developed
     through local lineages, village cults, royal patronage, regional exchange,
-    and long engagement with Buddhis...
+    and long engagement with Buddhist, Confucian, and Daoist institutions.
   - >-
     Distinctive Practice: Offerings, festivals, pilgrimage, mediumship,
     protective rites, divination, and care for graves bind households to wider
-    sacred geographies. The Mother Goddess ...
+    sacred geographies. The Mother Goddess religion known as Đạo Mẫu is an
+    especially visible current but does not exhaust the field.
   - >-
     Core Orientation: Plural Vietnamese practices centered on ancestors,
     tutelary spirits, goddesses, local heroes, temples, and household rites.

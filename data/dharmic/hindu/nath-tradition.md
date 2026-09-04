@@ -32,11 +32,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Nāth lineages emerged in medieval South Asia around
     siddha figures such as Matsyendranāth and Gorakhnāth. Monasteries and
-    itinerant ascetics transmitted yogic d...
+    itinerant ascetics transmitted yogic disciplines across linguistic and
+    political boundaries, interacting with Śaiva, tantric, Buddhist, and later
+    Sufi settings.
   - >-
     Distinctive Practice: Nāth practice emphasizes bodily discipline, breath,
     meditation, mantra, and the transformation associated with *haṭha yoga*.
-    Initiated ascetics are sometimes ca...
+    Initiated ascetics are sometimes called split-ear or *kānphaṭā* yogis
+    because of their earrings.
   - >-
     Core Orientation: A South Asian yogic and ascetic network associated with
     Matsyendranāth and Gorakhnāth.

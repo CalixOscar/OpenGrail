@@ -23,11 +23,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Vodun traditions are practiced especially in Benin,
     Togo, Ghana, and adjacent regions among communities with distinct languages
-    and political histories. Royal i...
+    and political histories. Royal institutions, family shrines, markets,
+    healing lineages, colonial intervention, Christian and Muslim contact, and
+    modern state recognition have all shaped them.
   - >-
     Distinctive Practice: Devotees cultivate reciprocal relationships with
     particular *vodun*, ancestors, and community powers through initiation,
-    offering, possession, divination, music...
+    offering, possession, divination, music, and festival.
   - >-
     Core Orientation: Related but locally governed religious traditions among
     Fon, Ewe, Aja, and neighboring peoples of West Africa.

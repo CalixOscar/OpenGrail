@@ -30,11 +30,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Maturidi theology crystallized around Abu Mansur
     al-Maturidi of Samarqand and earlier Hanafi theological traditions in
-    Central Asia. Later scholars systematized...
+    Central Asia. Later scholars systematized and spread it through Seljuk,
+    Ottoman, South Asian, and other learned networks.
   - >-
     Distinctive Practice: Maturidis use rational argument in defense of
     revelation and generally hold that reason can know basic truths about God
-    and moral accountability. They affirm di...
+    and moral accountability. They affirm divine attributes while resisting
+    crude anthropomorphism and develop nuanced accounts of human action under
+    divine creation.
   - >-
     Core Orientation: A major Sunni theological school associated with Abu
     Mansur al-Maturidi and historically common among Hanafi scholars.

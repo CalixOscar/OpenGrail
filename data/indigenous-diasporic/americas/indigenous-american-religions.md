@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The Americas contain thousands of sovereign peoples
     with distinct languages, lands, ceremonial systems, and histories. Invasion
-    brought epidemic disease, missio...
+    brought epidemic disease, missionization, dispossession, enslavement, bans
+    on ceremony, boarding schools, and extractive research.
   - >-
     Distinctive Practice: Land, kinship, nonhuman persons, reciprocal
     obligation, dreams, seasonal ceremony, and oral transmission recur without
-    forming one pan-Indigenous theology. This...
+    forming one pan-Indigenous theology. This node is an analytical navigation
+    aid only.
   - >-
     Core Orientation: A comparative umbrella for the distinct place-based
     religious traditions of Indigenous peoples across the Americas.

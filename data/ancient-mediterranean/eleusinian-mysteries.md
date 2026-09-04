@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The Eleusinian Mysteries were public institutions of
     Athens centered at Eleusis and associated with Demeter, Kore, agriculture,
-    loss, and return. Initiates trav...
+    loss, and return. Initiates traveled in procession, underwent preparation,
+    and entered the Telesterion for rites protected by a rule of secrecy.
   - >-
     Distinctive Practice: Ancient testimony promises initiates a more hopeful
     relation to death, but the secret center of the rite cannot be securely
-    reconstructed. The *Homeric Hymn to ...
+    reconstructed. The *Homeric Hymn to Demeter*, architecture, inscriptions,
+    and scattered witnesses provide context without a complete script.
   - >-
     Core Orientation: An Athenian initiatory cult of Demeter and Kore celebrated
     at Eleusis for nearly a millennium.

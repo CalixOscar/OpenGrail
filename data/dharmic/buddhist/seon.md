@@ -31,11 +31,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Meditation lineages reached Korea from Tang China and
     were remembered as the Nine Mountain Schools. During Goryeo, Jinul developed
-    an influential synthesis of S...
+    an influential synthesis of Seon practice and doctrinal learning at the
+    retreat community of Suseonsa.
   - >-
     Distinctive Practice: Seon often combines sudden awakening with gradual
     cultivation and uses *hwadu* inquiry focused on a critical phrase. Monastic
-    meditation retreats coexist with l...
+    meditation retreats coexist with liturgy, scripture, funerals, and lay
+    devotion.
   - >-
     Core Orientation: Korean forms of Chan Buddhism emphasizing meditation,
     monastic discipline, and integration with doctrinal study.

@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Egyptian Christianity produced major schools of
     theology and the formative desert monastic movement. After Chalcedon, the
-    non-Chalcedonian patriarchal lineage b...
+    non-Chalcedonian patriarchal lineage became what is now the Coptic Orthodox
+    Church.
   - >-
     Distinctive Practice: The church follows the Alexandrian rite, honors
     figures such as Cyril of Alexandria, and gives fasting, saints, pilgrimage,
-    and monasticism a prominent role. Co...
+    and monasticism a prominent role. Coptic is preserved liturgically although
+    Arabic is common in community life.
   - >-
     Core Orientation: The Egyptian member of the Oriental Orthodox communion,
     centered on the Coptic Orthodox Church of Alexandria.

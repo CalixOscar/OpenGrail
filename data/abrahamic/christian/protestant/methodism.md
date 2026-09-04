@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Methodism began as an eighteenth-century revival
     within the Church of England led by John and Charles Wesley and their
-    associates. Field preaching, small accoun...
+    associates. Field preaching, small accountability groups, lay leadership,
+    hymnody, and itinerant ministry enabled rapid growth.
   - >-
     Distinctive Practice: Wesleyan theology describes prevenient grace as
     enabling human response and teaches sanctification as a life of growing holy
-    love. Methodists generally baptize ...
+    love. Methodists generally baptize infants and adults and practice open or
+    broadly welcoming Communion.
   - >-
     Core Orientation: A Wesleyan Protestant movement emphasizing disciplined
     discipleship, grace, holiness, and organized social witness.

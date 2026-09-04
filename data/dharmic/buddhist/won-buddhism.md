@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Pak Chungbin, known as Sotaesan, experienced
     awakening in 1916 and organized a community during Japanese colonial rule.
-    The movement adopted the name Won Buddhi...
+    The movement adopted the name Won Buddhism after liberation and developed
+    temples, schools, welfare institutions, and international missions.
   - >-
     Distinctive Practice: The *Il-Won-Sang*, a single circle, symbolizes
     dharma-body Buddha and the interdependent source of all things. Practice
-    joins seated meditation, inquiry, mindfu...
+    joins seated meditation, inquiry, mindful choice in daily activity, and
+    gratitude toward four encompassing beneficences.
   - >-
     Core Orientation: A Korean modern Buddhist movement founded by Sotaesan,
     symbolized by a circle and oriented toward practice in everyday life.

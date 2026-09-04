@@ -32,11 +32,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Memphis was a royal and artisan center whose chief
     god Ptah gained wide importance. The Shabaka Stone presents Ptah as creating
-    gods and the ordered world throu...
+    gods and the ordered world through heart and tongue, while integrating
+    figures from Heliopolitan genealogy.
   - >-
     Distinctive Practice: The modern phrase “Memphite theology” identifies a
     textual and priestly formulation rather than a separate religion. Its
-    language of thought and speech has prom...
+    language of thought and speech has prompted comparisons with later
+    philosophical or biblical concepts, but similarity alone does not establish
+    influence.
   - >-
     Core Orientation: A learned Egyptian creation tradition centered on Ptah of
     Memphis, especially known from the Shabaka Stone.

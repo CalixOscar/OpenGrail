@@ -25,11 +25,12 @@ key_tenets:
   - >-
     Foundational Doctrine: After Herbert W. Armstrong's death, leaders of the
     Worldwide Church of God gradually rejected British Israelism, required
-    festival observance, non-Trinitarian t...
+    festival observance, non-Trinitarian teaching, and other inherited
+    doctrines.
   - >-
     Distinctive Practice: Grace Communion International now affirms the Trinity,
     salvation by grace, and mainstream evangelical Christian doctrine, and
-    participates in evangelical associ...
+    participates in evangelical associations.
   - >-
     Core Orientation: The Trinitarian evangelical successor to the Worldwide
     Church of God after major doctrinal reforms.

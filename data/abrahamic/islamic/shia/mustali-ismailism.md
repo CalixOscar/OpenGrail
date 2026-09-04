@@ -31,11 +31,13 @@ key_tenets:
   - >-
     Foundational Doctrine: After the Fatimid caliph-imam al-Mustansir died in
     1094, supporters divided over the succession of his sons Nizar and
-    al-Musta'li. The Fatimid state supported a...
+    al-Musta'li. The Fatimid state supported al-Musta'li, while Nizari
+    communities followed Nizar's line.
   - >-
     Distinctive Practice: Another succession dispute after al-Amir's death
     produced Hafizi and Tayyibi lines. The Hafizi community faded after the end
-    of Fatimid rule, while Tayyibi comm...
+    of Fatimid rule, while Tayyibi communities continued through a concealed
+    imam and a missionary representative, the *da'i al-mutlaq*.
   - >-
     Core Orientation: An Ismaili succession branch recognizing al-Musta'li after
     the death of the Fatimid caliph-imam al-Mustansir.

@@ -27,11 +27,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The Church of the East formed east of the Roman
     frontier, especially within the Sasanian Empire. Its bishops organized
-    independently of Roman imperial churches,...
+    independently of Roman imperial churches, and East Syriac monks and
+    merchants carried Christianity through Iran and Central Asia as far as India
+    and Tang China.
   - >-
     Distinctive Practice: Its liturgical inheritance includes the ancient
     Anaphora of Addai and Mari and a Christological vocabulary associated with
-    Theodore of Mopsuestia. Calling the w...
+    Theodore of Mopsuestia. Calling the whole tradition “Nestorian” is imprecise
+    and often polemical; its own development was broader than Nestorius.
   - >-
     Core Orientation: An East Syriac Christian tradition historically centered
     in Mesopotamia and active across Central and East Asia.

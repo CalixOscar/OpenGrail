@@ -24,11 +24,11 @@ key_tenets:
   - >-
     Foundational Doctrine: “Western esotericism” is a modern scholarly category
     used for currents including Hermeticism, Christian Kabbalah, alchemy, magic,
-    Rosicrucianism, occultism, The...
+    Rosicrucianism, occultism, Theosophy, and related initiatory movements.
   - >-
     Distinctive Practice: Common themes include correspondences between
     macrocosm and microcosm, living nature, symbolic interpretation, mediation
-    through spiritual beings, initiation, a...
+    through spiritual beings, initiation, and transformative knowledge.
   - >-
     Core Orientation: A scholarly umbrella for interrelated European and
     Atlantic currents claiming special knowledge of nature, divinity, and

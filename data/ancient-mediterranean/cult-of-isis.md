@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Isis was rooted in Egyptian temple and royal
     traditions, but her cult acquired new languages, images, associations, and
-    sanctuaries across the Hellenistic and R...
+    sanctuaries across the Hellenistic and Roman Mediterranean.
   - >-
     Distinctive Practice: Mediterranean Isis could be healer, protector at sea,
     mourning mother, cosmic sovereign, and guarantor of initiated devotion.
-    These forms did not replace Egypti...
+    These forms did not replace Egyptian practice or become identical
+    everywhere.
   - >-
     Core Orientation: Mediterranean cults of the Egyptian goddess Isis adapted
     through Hellenistic and Roman institutions.

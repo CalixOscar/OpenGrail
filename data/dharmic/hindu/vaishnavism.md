@@ -32,11 +32,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Vaiṣṇava formations grew from Vedic Viṣṇu traditions,
     Vāsudeva-Kṛṣṇa devotion, epic and Purāṇic narrative, and regional cults. By
-    the early common era inscripti...
+    the early common era inscriptions and temples attest organized worship.
   - >-
     Distinctive Practice: Viṣṇu or a particular form is treated as supreme,
     approached through image worship, recitation, pilgrimage, service, and
-    loving devotion. The avatāra idea frame...
+    loving devotion. The avatāra idea frames divine presence in figures
+    including Rāma and Kṛṣṇa.
   - >-
     Core Orientation: Hindu devotional traditions centered on Viṣṇu and forms
     such as Kṛṣṇa, Rāma, and Nārāyaṇa.

@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Rāmānandī communities emerged in late medieval North
     India around memories of the teacher Rāmānanda and devotion to Rāma.
-    Monastic orders, renouncers, temples, ...
+    Monastic orders, renouncers, temples, pilgrimage centers, and lay devotees
+    made it one of the region's largest Vaiṣṇava formations.
   - >-
     Distinctive Practice: Rāma, Sītā, and Hanumān anchor worship, recitation,
     pilgrimage, and ascetic discipline. Rāmānandīs include both armed *nāgā*
-    renouncers and household communitie...
+    renouncers and household communities, and they have negotiated caste
+    inclusion in different ways.
   - >-
     Core Orientation: A large North Indian Vaiṣṇava ascetic and devotional
     network focused especially on Rāma and Sītā.

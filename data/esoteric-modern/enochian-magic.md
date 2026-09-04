@@ -32,11 +32,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Elizabethan scholar John Dee and medium Edward Kelley
     recorded elaborate angelic communications during the 1580s, including
-    tables, calls, cosmology, and a cons...
+    tables, calls, cosmology, and a constructed sacred language.
   - >-
     Distinctive Practice: Modern Enochian practice employs angelic names, calls,
     elemental tablets, and visionary exploration. Historical Dee material and
-    later Golden Dawn or Thelemic s...
+    later Golden Dawn or Thelemic systems differ substantially.
   - >-
     Core Orientation: A ritual and angelic-language system recorded by John Dee
     and Edward Kelley and later reworked by modern occult orders.

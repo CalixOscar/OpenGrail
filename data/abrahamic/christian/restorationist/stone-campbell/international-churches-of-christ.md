@@ -25,11 +25,15 @@ key_tenets:
   - >-
     Foundational Doctrine: The International Churches of Christ developed from a
     rapidly growing ministry led by Kip McKean in Lexington, Massachusetts, and
-    then Boston from 1979. Its dis...
+    then Boston from 1979. Its discipling system, missionary expansion, and
+    centralized sector leadership differentiated the Boston Movement from other
+    Churches of Christ.
   - >-
     Distinctive Practice: Congregations retain Stone-Campbell emphases on the
     Bible, baptism by immersion, and restoration of early Christian
-    discipleship. Intensive mentoring and a stro...
+    discipleship. Intensive mentoring and a strong expectation of evangelism
+    have been distinctive, although practice changed after public criticism and
+    internal reforms.
   - >-
     Core Orientation: A global Stone-Campbell network formed from the Boston
     Movement within Churches of Christ.

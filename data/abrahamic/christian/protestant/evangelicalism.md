@@ -28,11 +28,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Evangelicalism took shape through eighteenth-century
     revivals in Britain and North America, drawing on Pietist, Puritan,
-    Anglican, and Methodist sources. Ninete...
+    Anglican, and Methodist sources. Nineteenth-century missions and reform
+    societies widened its reach.
   - >-
     Distinctive Practice: Historians often describe four recurring traits:
     conversion, activism, high regard for the Bible, and focus on Christ's
-    atoning death. Evangelicalism crosses Ba...
+    atoning death. Evangelicalism crosses Baptist, Anglican, Reformed, Wesleyan,
+    Pentecostal, and independent churches, so it is not a denomination or
+    centralized hierarchy.
   - >-
     Core Orientation: A transdenominational Protestant movement stressing
     conversion, biblical authority, Christ's saving work, and active witness.

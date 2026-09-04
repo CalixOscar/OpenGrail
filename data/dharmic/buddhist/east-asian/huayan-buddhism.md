@@ -34,11 +34,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Huayan scholastic identity developed in medieval
     China around successive translations of the *Avataṃsaka Sūtra* and exegetes
-    later arranged as patriarchs, espec...
+    later arranged as patriarchs, especially Zhiyan, Fazang, and Chengguan.
   - >-
     Distinctive Practice: Huayan thinkers describe every phenomenon as
     dependently arising within and interpenetrating every other without erasing
-    distinction, illustrated through Indra’...
+    distinction, illustrated through Indra’s net and Fazang’s golden lion.
   - >-
     Core Orientation: An East Asian Mahāyāna tradition centered on the
     Avataṃsaka Sūtra and the interpenetration of all phenomena.

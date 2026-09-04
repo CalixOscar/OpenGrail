@@ -27,11 +27,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Rodnovery, or Slavic Native Faith, comprises modern
     movements that expanded especially after the late Soviet period across
-    Russia, Ukraine, Poland, and other Sl...
+    Russia, Ukraine, Poland, and other Slavic countries and diasporas.
   - >-
     Distinctive Practice: Seasonal festivals, ancestors, land, household
     practice, and gods such as Perun or Veles may be central. The modern archive
-    is fragmentary, so reconstruction an...
+    is fragmentary, so reconstruction and innovation are inseparable.
   - >-
     Core Orientation: Modern Slavic Native Faith movements reconstructing and
     renewing pre-Christian Slavic religion.

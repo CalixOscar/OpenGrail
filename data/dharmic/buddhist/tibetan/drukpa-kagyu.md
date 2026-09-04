@@ -28,11 +28,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The Drukpa lineage developed from teachings
     transmitted through Lingrepa Pema Dorje and his disciple Tsangpa Gyare in
-    the late twelfth century. Its monasteries ...
+    the late twelfth century. Its monasteries and sublineages spread across
+    Tibet, Ladakh, Nepal, and Bhutan.
   - >-
     Distinctive Practice: Drukpa training combines Mahāmudrā, the Six Dharmas of
     Nāropa, tantric ritual, monastic discipline, and yogic retreat. Its
-    Bhutanese prominence does not mean th...
+    Bhutanese prominence does not mean that every Bhutanese religious
+    institution is administratively identical with Drukpa organizations
+    elsewhere.
   - >-
     Core Orientation: A surviving Kagyu lineage founded through Lingrepa and
     Tsangpa Gyare, historically central to Bhutan and present across the

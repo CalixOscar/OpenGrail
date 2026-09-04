@@ -35,11 +35,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Dionysian worship ranged from civic drama and
     festivals to private associations, ecstatic rites, and initiatory practices.
-    Evidence includes vase painting, trag...
+    Evidence includes vase painting, tragedy, inscriptions, ritual objects, and
+    Roman regulation of the Bacchanalia in 186 BCE.
   - >-
     Distinctive Practice: Initiates could seek divine presence, communal
     identity, protection, or favorable postmortem hopes, but secrecy limits
-    reconstruction. Dionysian and Orphic mate...
+    reconstruction. Dionysian and Orphic materials sometimes overlap without
+    being interchangeable.
   - >-
     Core Orientation: Diverse initiatory and ecstatic cult practices associated
     with Dionysus across Greek and Roman societies.

@@ -26,11 +26,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Turkic and Mongolic polities of Inner Asia invoked
     Tengri, often translated as Eternal Heaven, in inscriptions and accounts of
-    legitimate rule. Practices also c...
+    legitimate rule. Practices also concerned earth-water powers, ancestors,
+    sacred mountains, fire, and divination.
   - >-
     Distinctive Practice: Tengrism is a modern umbrella whose historical
     referents were diverse and rarely constituted a centralized creed.
-    Contemporary revival movements reconstruct ide...
+    Contemporary revival movements reconstruct identity from inscriptions,
+    folklore, and living customs and should be distinguished from early imperial
+    religion.
   - >-
     Core Orientation: Inner Asian religious traditions centered on Heaven or
     Tengri, land-and-water powers, ancestors, sovereignty, and ritual

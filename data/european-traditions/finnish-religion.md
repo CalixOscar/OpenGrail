@@ -28,11 +28,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Finnic religious traditions are reconstructed through
     archaeology, linguistic evidence, rune songs, charms, laments, and
-    ethnography recorded mainly after long ...
+    ethnography recorded mainly after long Christian contact.
   - >-
     Distinctive Practice: Ritual specialists, incantatory knowledge, ancestors,
     sacred places, and reciprocal relations with forest, water, weather, and
-    household powers appear across so...
+    household powers appear across sources.
   - >-
     Core Orientation: Related but distinct religious traditions among Finnish,
     Karelian, Estonian, and other Finnic-speaking peoples.

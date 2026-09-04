@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Chaldean Catholic Church emerged from
     sixteenth-century succession disputes within the Church of the East. A line
-    of bishops entered communion with Rome in ...
+    of bishops entered communion with Rome in 1553, although later alliances and
+    patriarchal lines shifted before a stable Catholic hierarchy consolidated.
   - >-
     Distinctive Practice: This patriarchal *sui iuris* church preserves the East
     Syriac rite, including the ancient Anaphora of Addai and Mari, and a
-    theological vocabulary formed outsid...
+    theological vocabulary formed outside the Greek and Latin imperial centers.
   - >-
     Core Orientation: An East Syriac Catholic patriarchal church whose heritage
     developed within the historic Church of the East.

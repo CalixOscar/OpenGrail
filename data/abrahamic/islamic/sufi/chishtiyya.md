@@ -28,11 +28,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Chishti path originated around Chisht in
     present-day Afghanistan and became deeply rooted in South Asia through Mu'in
-    al-Din Chishti of Ajmer and later mast...
+    al-Din Chishti of Ajmer and later masters in Delhi.
   - >-
     Distinctive Practice: Chishti traditions emphasize love, generosity,
     remembrance of God, service to visitors, and guidance by a spiritual master.
-    Many lineages use *sama'*, spiritual...
+    Many lineages use *sama'*, spiritually disciplined listening that
+    contributed to South Asian devotional music, although its forms are debated.
   - >-
     Core Orientation: A major South Asian Sufi order associated with Mu'in
     al-Din Chishti and hospitable shrine-centered networks.

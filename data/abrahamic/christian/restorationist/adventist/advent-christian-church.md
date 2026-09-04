@@ -25,11 +25,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The Advent Christian Church emerged when several
     post-Millerite associations joined in the Advent Christian Association in
-    1860. George Storrs and other preache...
+    1860. George Storrs and other preachers helped spread conditionalist
+    interpretations of death and resurrection within the wider Adventist
+    environment.
   - >-
     Distinctive Practice: Advent Christians emphasize the visible return of
     Christ, resurrection at his coming, and conditional immortality rather than
-    an inherently immortal soul. They ...
+    an inherently immortal soul. They normally worship on Sunday and do not
+    recognize Ellen G.
   - >-
     Core Orientation: A Sunday-observing Adventist denomination shaped by
     Millerism and the doctrine of conditional immortality.

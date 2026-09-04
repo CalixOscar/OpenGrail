@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Zeno of Citium taught at the Painted Stoa in Athens
     around 300 BCE. Cleanthes, Chrysippus, and later Greek and Roman thinkers
-    developed a systematic tradition o...
+    developed a systematic tradition of logic, physics, and ethics.
   - >-
     Distinctive Practice: Stoics described a rational, living cosmos pervaded by
     divine *logos* or pneuma and emphasized virtue, disciplined judgment,
-    providence, and human kinship. They...
+    providence, and human kinship. They interpreted traditional gods
+    allegorically while participating in surrounding civic cultures.
   - >-
     Core Orientation: A Hellenistic philosophical tradition teaching life
     according to reason and nature within a providentially ordered cosmos.

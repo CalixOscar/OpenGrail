@@ -31,11 +31,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Candomblé developed in Brazil through communities
     formed under Atlantic slavery and after emancipation. Terreiros identify
-    with ritual “nations” such as Ketu, J...
+    with ritual “nations” such as Ketu, Jeje, and Angola, reflecting Yorùbá,
+    Fon/Ewe, Kongo-Angolan, and specifically Brazilian histories.
   - >-
     Distinctive Practice: Initiation, drumming, sacred language, possession,
     divination, offerings, and long obligations to orixás, voduns, or inquices
-    create temple kinship. Catholic an...
+    create temple kinship. Catholic and Indigenous Brazilian contacts affected
+    calendars and practice, while persecution encouraged both concealment and
+    public advocacy.
   - >-
     Core Orientation: Afro-Brazilian temple religions organized through distinct
     nations, initiatory houses, and African-derived deities.

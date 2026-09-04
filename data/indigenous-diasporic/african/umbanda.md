@@ -34,11 +34,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Umbanda emerged publicly in early twentieth-century
     Brazil from a wider field of Afro-Brazilian temples, Kardecist Spiritism,
-    Catholic devotion, Indigenous symb...
+    Catholic devotion, Indigenous symbolism, healing, and urban change.
   - >-
     Distinctive Practice: Mediums incorporate spirit lines often named as
     *caboclos*, *pretos velhos*, children, or other social figures, offering
-    counsel and healing through song, smoke...
+    counsel and healing through song, smoke, gesture, and prayer.
   - >-
     Core Orientation: A diverse Brazilian religious field combining mediumship,
     Afro-Brazilian ritual, Catholic devotion, and other currents.

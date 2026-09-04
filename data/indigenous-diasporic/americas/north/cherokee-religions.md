@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Cherokee communities developed town, clan,
     diplomatic, agricultural, and ceremonial institutions in the southern
-    Appalachians. War, missionization, removal on t...
+    Appalachians. War, missionization, removal on the Trail of Tears, allotment,
+    and federal suppression divided populations and sacred landscapes.
   - >-
     Distinctive Practice: Ceremonial fires, stomp grounds, Green Corn
     observances, water rites, medicine knowledge, clan relationships, and the
-    sacred homelands remain important in diffe...
+    sacred homelands remain important in different settings.
   - >-
     Core Orientation: Religious traditions of Cherokee peoples involving
     ceremonial grounds, clan responsibilities, medicine, sacred fire, renewal,

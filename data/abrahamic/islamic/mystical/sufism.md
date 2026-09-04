@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Sufism developed from early Muslim asceticism,
     prayer, ethical self-examination, and reflection on intimacy with God. By
-    the medieval period, teaching lineages ...
+    the medieval period, teaching lineages and orders such as the Qadiriyya,
+    Chishtiyya, Shadhiliyya, and Naqshbandiyya organized instruction and social
+    institutions across Africa and Eurasia.
   - >-
     Distinctive Practice: Sufi paths cultivate remembrance (*dhikr*), sincerity,
     disciplined character, and awareness of God under a guide. Practices may
-    include silent or vocal recitati...
+    include silent or vocal recitation, music, movement, retreat, and visitation
+    of saints, but no single practice defines all Sufis.
   - >-
     Core Orientation: Islamic traditions of spiritual discipline and divine
     remembrance transmitted through teachers, texts, and devotional paths.

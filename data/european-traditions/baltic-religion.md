@@ -24,11 +24,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Baltic religion is reconstructed for Lithuanian,
     Latvian, Old Prussian, and related communities from archaeology, medieval
-    chronicles, early modern reports, lan...
+    chronicles, early modern reports, language, songs, and later folklore.
   - >-
     Distinctive Practice: Sacred groves, household and agricultural rites, fire,
     seasonal songs, ancestors, and powers associated with thunder, sun, fate,
-    and the land recur in regional ...
+    and the land recur in regional evidence.
   - >-
     Core Orientation: Pre-Christian and early modern religious traditions among
     Baltic-speaking peoples.

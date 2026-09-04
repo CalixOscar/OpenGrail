@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Maronite origins are associated with the
     fifth-century ascetic Maron and communities that later gathered in the
-    mountains of Lebanon. Medieval contact with Crus...
+    mountains of Lebanon. Medieval contact with Crusaders made communion with
+    Rome more visible; Maronite tradition holds that this communion was never
+    broken, although documentary details of the early period are debated.
   - >-
     Distinctive Practice: The Maronite Church uses a West Syriac liturgical
     inheritance with Syriac and Arabic elements and is governed by its patriarch
-    and synod in communion with the p...
+    and synod in communion with the pope.
   - >-
     Core Orientation: A West Syriac Eastern Catholic church rooted in the
     monastic followers of Saint Maron and centered historically in Lebanon.

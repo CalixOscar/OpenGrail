@@ -25,11 +25,13 @@ key_tenets:
   - >-
     Foundational Doctrine: “Celtic religion” is a comparative umbrella for
     traditions among Celtic-speaking communities from Iberia and Gaul to Britain
-    and Ireland. There was no pan-Celti...
+    and Ireland. There was no pan-Celtic church or uniform pantheon.
   - >-
     Distinctive Practice: Local deities, springs, groves, feasting, votive
     deposition, warfare, sovereignty, ancestors, and seasonal assemblies recur
-    in some settings. Roman-era dedicati...
+    in some settings. Roman-era dedications paired certain gods across
+    languages, but those equations were contextual acts rather than proof of
+    identity.
   - >-
     Core Orientation: Diverse Iron Age and Roman-period religions among
     Celtic-speaking peoples of Europe.

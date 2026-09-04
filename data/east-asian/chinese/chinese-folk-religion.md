@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Chinese local religion has no single founder or
     canon. Household ancestor rites, village temples, territorial gods,
-    pilgrimage networks, spirit mediums, opera, ...
+    pilgrimage networks, spirit mediums, opera, and calendrical festivals
+    developed through imperial and modern change.
   - >-
     Distinctive Practice: Practice sustains reciprocal relations among living
     families, ancestors, gods, ghosts, and place through offerings, vows,
-    divination, healing, and communal cele...
+    divination, healing, and communal celebration.
   - >-
     Core Orientation: Diverse Chinese household and communal practices involving
     ancestors, gods, temples, festivals, spirit media, and local moral worlds.

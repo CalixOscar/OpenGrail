@@ -32,11 +32,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Chaos magic developed in Britain during the late
     1970s through writers and practitioners including Peter J. Carroll and Ray
-    Sherwin, with the Illuminates of Tha...
+    Sherwin, with the Illuminates of Thanateros as an early network.
   - >-
     Distinctive Practice: Practitioners often treat belief as a temporary
     instrument, combine methods from different systems, create sigils, and use
-    concentrated states called gnosis. Th...
+    concentrated states called gnosis. This methodological eclecticism does not
+    mean participants believe nothing; approaches range from psychological
+    experiment to spirit-centered practice.
   - >-
     Core Orientation: A postmodern occult current emphasizing pragmatic
     techniques, altered states, sigils, and flexible use of belief.

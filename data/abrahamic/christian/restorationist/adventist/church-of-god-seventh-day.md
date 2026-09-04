@@ -25,11 +25,15 @@ key_tenets:
   - >-
     Foundational Doctrine: The Church of God (Seventh Day) traces its organized
     history to Sabbatarian Adventists who did not join the Seventh-day Adventist
-    denomination in the 1860s. Its...
+    denomination in the 1860s. Its periodical and conferences linked scattered
+    congregations, though later reorganizations and divisions produced more than
+    one body using related names.
   - >-
     Distinctive Practice: Members observe the seventh-day Sabbath, anticipate
     the return of Christ, practice baptism by immersion, and emphasize biblical
-    authority. The Denver conference...
+    authority. The Denver conference is evangelical in many teachings but
+    differs from Seventh-day Adventism by rejecting Ellen White's prophetic
+    authority and the investigative judgment doctrine.
   - >-
     Core Orientation: A Sabbatarian Adventist denomination whose congregations
     developed separately from the Seventh-day Adventist Church.

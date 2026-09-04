@@ -37,11 +37,15 @@ key_tenets:
   - >-
     Foundational Doctrine: Celtic Reconstructionist approaches emerged in the
     late twentieth century among polytheists dissatisfied with generalized
-    “Celtic” spirituality. Practitioners e...
+    “Celtic” spirituality. Practitioners emphasize particular languages and
+    cultures, historical criticism, folklore, community ethics, and reciprocal
+    relationships with deities, ancestors, and places.
   - >-
     Distinctive Practice: Reconstruction means building viable present practice
     from incomplete archives; it is not proof of an unbroken pre-Christian
-    priesthood. Celtic Reconstructionis...
+    priesthood. Celtic Reconstructionism overlaps with some forms of modern
+    Druidry but is not identical to them, often placing more weight on
+    polytheism and cultural specificity.
   - >-
     Core Orientation: A modern polytheist movement reconstructing culturally
     specific Celtic practices through scholarship, folklore, and living language

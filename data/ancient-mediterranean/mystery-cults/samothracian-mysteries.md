@@ -36,11 +36,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The sanctuary of the Great Gods on Samothrace drew
     initiates from many regions, including sailors, rulers, and Roman elites.
-    Monumental buildings and dedication...
+    Monumental buildings and dedications expanded especially during the
+    Hellenistic age.
   - >-
     Distinctive Practice: Secrecy obscures ritual detail and even the stable
     identities of the “Great Gods.” Ancient writers compared them with Cabeiri
-    and other divine groups, but local...
+    and other divine groups, but local names and functions should not be
+    harmonized too quickly.
   - >-
     Core Orientation: The initiatory cult of the Great Gods on Samothrace,
     renowned across the Greek and Roman worlds for protection and prestige.

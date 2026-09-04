@@ -32,11 +32,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Nabataean kingdom connected northwestern Arabia,
     southern Syria, and the Levant through caravan trade and urban centers such
-    as Petra and Hegra. Inscription...
+    as Petra and Hegra. Inscriptions and sanctuaries attest Dushara, al-‘Uzza,
+    Allat, Manat, and many local divine titles.
   - >-
     Distinctive Practice: Nabataean practice combined Arabian, Aramaic-speaking,
     Levantine, Greek, and Roman forms without becoming a uniform synthetic
-    creed. Divine identifications vari...
+    creed. Divine identifications varied by site and patron.
   - >-
     Core Orientation: The cultic traditions of the Nabataean kingdom and
     diaspora, centered on deities such as Dushara and al-'Uzza.

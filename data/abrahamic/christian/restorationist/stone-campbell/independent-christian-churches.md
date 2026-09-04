@@ -25,11 +25,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Independent Christian Churches developed from
     congregations and institutions that resisted the increasingly denominational
-    structure of the Disciples of Christ ...
+    structure of the Disciples of Christ during the early and mid-twentieth
+    century.
   - >-
     Distinctive Practice: These congregations usually practice believer's
     baptism by immersion, celebrate Communion weekly, use instrumental music,
-    and emphasize local autonomy. Bible co...
+    and emphasize local autonomy. Bible colleges and independent mission
+    agencies connect congregations without forming a binding hierarchy.
   - >-
     Core Orientation: Congregationally independent Stone-Campbell churches
     occupying a middle stream between Disciples and a cappella Churches of

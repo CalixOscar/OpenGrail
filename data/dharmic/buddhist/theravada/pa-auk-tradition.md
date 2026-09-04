@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The contemporary Pa-Auk system is associated with
     Pa-Auk Tawya Monastery in Myanmar and the teaching of Pa-Auk Sayadaw, who
-    became its abbot in the early 1980s....
+    became its abbot in the early 1980s. International monastics and lay
+    practitioners helped establish affiliated centers and retreats in several
+    countries.
   - >-
     Distinctive Practice: Students are often taught sustained concentration
     through mindfulness of breathing, followed by absorption practices, analysis
-    of material and mental processes,...
+    of material and mental processes, dependent origination, and insight
+    contemplation.
   - >-
     Core Orientation: A Burmese Theravāda meditation lineage presenting a
     detailed concentration-and-insight curriculum based on the Pāli

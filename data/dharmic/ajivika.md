@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Ājīvikas were prominent rivals of Buddhists and Jains
     in ancient India and received Mauryan patronage, including cave donations.
-    They remained visible for centu...
+    They remained visible for centuries, especially in southern India, before
+    disappearing as an identifiable community.
   - >-
     Distinctive Practice: Rival sources attribute to Ājīvikas *niyati*, an exact
     cosmic destiny through which beings pass regardless of volitional effort,
-    alongside rigorous asceticism. ...
+    alongside rigorous asceticism. Because nearly all descriptions come from
+    opponents, details of doctrine and practice remain uncertain.
   - >-
     Core Orientation: An extinct Indian ascetic movement associated with
     Makkhali Gosāla and a strong doctrine of cosmic determinism.

@@ -35,11 +35,11 @@ key_tenets:
   - >-
     Foundational Doctrine: After Joseph Smith's death in 1844, most Latter Day
     Saints who accepted the leadership of the Quorum of the Twelve Apostles
-    followed Brigham Young to the Great ...
+    followed Brigham Young to the Great Basin.
   - >-
     Distinctive Practice: Members affirm continuing revelation, restored
     priesthood authority, baptism and confirmation, temple covenants, eternal
-    families, and the potential for human e...
+    families, and the potential for human exaltation through Jesus Christ.
   - >-
     Core Orientation: The largest Latter Day Saint church, led west after Joseph
     Smith's death and headquartered in Salt Lake City.

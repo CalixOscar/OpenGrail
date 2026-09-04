@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Mexicayotl emerged through twentieth-century Mexican
     movements seeking to renew Indigenous identity, language, dance, calendar,
-    and spirituality after centuries...
+    and spirituality after centuries of colonial suppression and state
+    mestizaje.
   - >-
     Distinctive Practice: Ceremonial dance, Nahuatl names, calendrical
     observance, offerings, and devotion to Mexica deities may express decolonial
-    identity as well as religion. Reconstr...
+    identity as well as religion. Reconstruction uses colonial manuscripts and
+    archaeology, sources that require critical interpretation.
   - >-
     Core Orientation: A modern Mexican cultural and religious revival drawing on
     Mexica and broader Nahua heritage.

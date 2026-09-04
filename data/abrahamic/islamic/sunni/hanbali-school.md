@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Hanbali jurisprudence formed around Ahmad ibn Hanbal,
     a major hadith scholar remembered for resisting the Abbasid inquisition over
-    the createdness of the Qur'an...
+    the createdness of the Qur'an.
   - >-
     Distinctive Practice: The school prioritizes Qur'an, hadith, companion
     reports, and early precedent while using analogy under constrained
-    conditions. Hanbalis have included quietist ...
+    conditions. Hanbalis have included quietist jurists, Sufis, reformers, and
+    political actors.
   - >-
     Core Orientation: A Sunni school of law associated with Ahmad ibn Hanbal and
     a strong preference for scriptural and early transmitted evidence.

@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Na Cheol publicly organized Daejonggyo in 1909 amid
     the loss of Korean sovereignty. The movement presented itself as a revival
-    of an ancient national teaching c...
+    of an ancient national teaching centered on Dangun and became active in
+    education, historical writing, and resistance to Japanese rule, especially
+    among exile communities in Manchuria.
   - >-
     Distinctive Practice: Daejonggyo venerates Dangun as the Great Ancestor and
     teaches a Korean sacred history through a distinct scriptural corpus and
-    ritual calendar. Its nationalism ...
+    ritual calendar. Its nationalism emerged in an anti-colonial setting but has
+    been interpreted in varied political ways.
   - >-
     Core Orientation: A modern Korean religion venerating Dangun and closely
     associated with cultural nationalism and anti-colonial activism.

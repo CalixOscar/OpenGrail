@@ -30,11 +30,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Sāṃkhya ideas developed over centuries before
     Īśvarakṛṣṇa’s *Sāṃkhyakārikā* offered a compact classical formulation around
-    the fourth century CE. The school’s c...
+    the fourth century CE. The school’s categories influenced epic literature,
+    medicine, Yoga, Purāṇic cosmology, and later Vedānta even when those
+    traditions rejected its independent metaphysics.
   - >-
     Distinctive Practice: Classical Sāṃkhya distinguishes many passive conscious
     subjects (*puruṣas*) from a single productive material nature (*prakṛti*),
-    whose constituents evolve into...
+    whose constituents evolve into intellect, ego, senses, subtle elements, and
+    the experienced world.
   - >-
     Core Orientation: A classical analytic school distinguishing plural
     consciousness from evolving material nature.

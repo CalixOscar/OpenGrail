@@ -26,11 +26,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Melkite Christianity descends from Chalcedonian
     communities of the patriarchates of Antioch, Alexandria, and Jerusalem. A
-    disputed patriarchal election in 1724 ...
+    disputed patriarchal election in 1724 produced a durable division between a
+    line in communion with Rome and the hierarchy now associated with the Greek
+    Orthodox Patriarchate of Antioch.
   - >-
     Distinctive Practice: The Melkite church is a patriarchal *sui iuris*
     Eastern Catholic church using the Byzantine rite, commonly in Arabic and
-    local languages. Its liturgy, iconograp...
+    local languages. Its liturgy, iconography, fasting traditions, married
+    parish clergy, and synodal structures reflect its Orthodox inheritance.
   - >-
     Core Orientation: An Antiochene Byzantine-rite Catholic church with historic
     roots in Arabic-speaking Eastern Christianity.

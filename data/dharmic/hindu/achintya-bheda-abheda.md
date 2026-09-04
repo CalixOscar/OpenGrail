@@ -28,11 +28,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The formula of “inconceivable difference and
     nondifference” summarizes theology systematized by Jīva Gosvāmin and later
-    Gauḍīya authors after Caitanya. It parti...
+    Gauḍīya authors after Caitanya. It participates in the wider Vedānta debate
+    over how Brahman, individual selves, and the world relate while drawing
+    especially on the *Bhāgavata Purāṇa*.
   - >-
     Distinctive Practice: Kṛṣṇa and divine energies are inseparable, yet finite
     selves and the cosmos retain real difference. Their simultaneous unity and
-    plurality exceeds ordinary logi...
+    plurality exceeds ordinary logical capture and supports a devotional
+    relationship between worshipper and deity.
   - >-
     Core Orientation: The Gauḍīya Vedānta teaching that selves and cosmos are
     inconceivably both distinct from and united with Kṛṣṇa.

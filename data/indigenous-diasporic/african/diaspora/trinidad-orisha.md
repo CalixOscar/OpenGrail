@@ -32,11 +32,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Yorùbá-speaking migrants and formerly enslaved
     communities sustained Orisha worship in nineteenth-century Trinidad under
-    colonial restriction. The tradition int...
+    colonial restriction. The tradition interacted with Catholicism,
+    Protestantism, Spiritual Baptism, and the island’s wider plural society.
   - >-
     Distinctive Practice: Shrines honor multiple Orisha through drumming, song,
     offering, divination, healing, and possession. “Shango” historically became
-    a broad popular name, but cont...
+    a broad popular name, but contemporary communities may prefer Orisha.
   - >-
     Core Orientation: A Trinidadian Orisha religion rooted principally in Yorùbá
     traditions and transformed through Caribbean ritual, Christianity, and later

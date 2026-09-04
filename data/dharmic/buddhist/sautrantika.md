@@ -31,11 +31,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Later Buddhist doxographies use “Sautrāntika” for
     teachers who challenged Vaibhāṣika Sarvāstivāda orthodoxy and appealed to
-    sūtras over certain Abhidharma claim...
+    sūtras over certain Abhidharma claims.
   - >-
     Distinctive Practice: Positions associated with Sautrāntikas include
     representational theories of perception, seeds or latent continuities, and
-    denial that past and future phenomena ...
+    denial that past and future phenomena exist in the same way as present ones.
   - >-
     Core Orientation: A historical label for Buddhist Abhidharma critics who
     privileged sūtra reasoning and developed influential theories of perception

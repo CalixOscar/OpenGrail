@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The church grew from Russian Orthodox missions in
     Alaska beginning in the late eighteenth century and from later immigrant
-    parishes across North America. Admini...
+    parishes across North America. Administrative upheaval after the Russian
+    Revolution encouraged local consolidation.
   - >-
     Distinctive Practice: The OCA is sacramentally in communion with the
     canonical Eastern Orthodox churches, but its precise status is disputed:
-    Moscow and several churches recognize it...
+    Moscow and several churches recognize its autocephaly, while Constantinople
+    and others treat it as self-governing without recognizing that grant.
   - >-
     Core Orientation: A North American Orthodox church whose 1970 grant of
     autocephaly by Moscow is accepted by some Orthodox churches and not by

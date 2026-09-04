@@ -32,11 +32,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Felix Y. Manalo registered Iglesia ni Cristo with the
     Philippine government in 1914 after engagement with several Protestant and
-    restorationist currents. The ch...
+    restorationist currents. The church expanded from Manila through centralized
+    administration, purpose-built congregations, disciplined lay participation,
+    and overseas communities serving the Filipino diaspora.
   - >-
     Distinctive Practice: Iglesia ni Cristo teaches that the one God is the
     Father, that Jesus is the uniquely appointed human Son and Savior, and that
-    the church represents a restoratio...
+    the church represents a restoration of the true church.
   - >-
     Core Orientation: A Filipino Christian restorationist church founded by
     Felix Y. Manalo and known internationally by its Tagalog name.

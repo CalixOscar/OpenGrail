@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Shiv Dayal Singh began public satsang in Agra in
     1861, and successor disputes produced several independent Radha Soami
-    lineages, including Soami Bagh and Beas. ...
+    lineages, including Soami Bagh and Beas. These movements drew on North
+    Indian Sant traditions, Sikh vocabulary, and modern associational forms,
+    later developing substantial Indian and global followings.
   - >-
     Distinctive Practice: Initiates typically follow vegetarianism and moral
     disciplines while practicing *surat shabd yoga*, inward attention to divine
-    sound and light under a living *s...
+    sound and light under a living *satguru*.
   - >-
     Core Orientation: A North Indian Sant-derived family of movements centered
     on a living teacher, inner sound meditation, ethical discipline, and

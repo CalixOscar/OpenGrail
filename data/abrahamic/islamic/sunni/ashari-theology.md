@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Ash'arism takes its name from Abu al-Hasan
     al-Ash'ari, a tenth-century theologian whose followers developed a major
-    tradition of Sunni dialectical theology. Sch...
+    tradition of Sunni dialectical theology. Scholars including al-Baqillani,
+    al-Juwayni, al-Ghazali, and al-Razi expanded its methods in conversation
+    with philosophy and rival schools.
   - >-
     Distinctive Practice: Ash'ari theologians affirm divine transcendence and
     attributes, prophecy, resurrection, and God's comprehensive creative agency,
-    often using occasionalist accou...
+    often using occasionalist accounts of causation.
   - >-
     Core Orientation: A major Sunni school of theology using disciplined
     rational argument to articulate and defend revealed doctrine.

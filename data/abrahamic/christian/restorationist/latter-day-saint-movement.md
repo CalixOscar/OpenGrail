@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Joseph Smith organized the Church of Christ in 1830
     after publishing the Book of Mormon and reporting visions and angelic
-    mediation. Gathering, temple building,...
+    mediation. Gathering, temple building, persecution, migration, and Smith's
+    death in 1844 produced a succession crisis.
   - >-
     Distinctive Practice: Latter Day Saint traditions teach modern revelation,
     restoration of priesthood authority, covenant ordinances, and an expansive
-    sacred history. Their views of G...
+    sacred history. Their views of God, premortal existence, scripture, and
+    human exaltation differ from Nicene Christianity.
   - >-
     Core Orientation: A restorationist Christian-origin movement founded by
     Joseph Smith and continued in several churches with additional scriptures.

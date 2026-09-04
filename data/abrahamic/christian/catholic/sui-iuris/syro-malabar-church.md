@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Syro-Malabar Church descends from the Saint
     Thomas Christian communities of India, which maintained long relationships
-    with East Syriac bishops and merchant...
+    with East Syriac bishops and merchants.
   - >-
     Distinctive Practice: Syro-Malabar worship belongs to the East Syriac
     tradition and centers on the Holy Qurbana. The church is Indian and
-    Catholic, not a migrant branch founded by Eu...
+    Catholic, not a migrant branch founded by European missionaries, though
+    colonial encounters deeply affected it.
   - >-
     Core Orientation: An East Syriac major archiepiscopal Catholic church rooted
     among the Saint Thomas Christians of Kerala, India.

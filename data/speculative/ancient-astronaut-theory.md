@@ -32,11 +32,15 @@ key_tenets:
   - >-
     Foundational Doctrine: Ancient astronaut theory is a family of
     twentieth-century claims that extraterrestrial visitors inspired ancient
-    gods, scriptures, monuments, or technologies. I...
+    gods, scriptures, monuments, or technologies. It became internationally
+    popular through Erich von Däniken's *Chariots of the Gods?* and later
+    television, while related UFO-religious and speculative works supplied
+    variants.
   - >-
     Distinctive Practice: Advocates commonly reinterpret visionary beings,
     aerial vehicles, monumental architecture, or sudden cultural change as
-    evidence of advanced visitors. Biblical ...
+    evidence of advanced visitors. Biblical wheels and “sons of God,” Indian
+    *vimānas*, Egyptian pyramids, and Mesoamerican art are frequent examples.
   - >-
     Core Orientation: A modern pseudohistorical claim that extraterrestrial
     visitors caused or accelerated ancient religions, monuments, technologies,

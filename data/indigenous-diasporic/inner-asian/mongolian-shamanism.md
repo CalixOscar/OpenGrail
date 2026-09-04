@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Mongolian-speaking communities have maintained varied
     relationships with ancestors, territorial masters, Heaven, and spirit
-    specialists across imperial, Buddhis...
+    specialists across imperial, Buddhist, socialist, and post-socialist
+    periods.
   - >-
     Distinctive Practice: Specialists may use drums, costume, invocation,
     sacrifice, divination, and embodied spirit encounter for healing or communal
-    protection. “Black,” “white,” and o...
+    protection. “Black,” “white,” and other classifications have different local
+    histories and should not be universalized.
   - >-
     Core Orientation: Diverse Mongolian practices of spirit mediation, lineage
     ritual, healing, and relations with ancestors and local powers.

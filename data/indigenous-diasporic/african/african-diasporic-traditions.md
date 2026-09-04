@@ -31,11 +31,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Enslaved and free African-descended people in the
     Americas and Atlantic world rebuilt religious life under violent
-    displacement. Yorùbá, Gbe, Kongo, Akan, and o...
+    displacement. Yorùbá, Gbe, Kongo, Akan, and other inheritances interacted
+    with Indigenous American traditions, Catholic and Protestant Christianity,
+    Spiritism, Islam, and new social conditions.
   - >-
     Distinctive Practice: Initiation, possession, divination, healing,
     ancestors, sacred music, and reciprocal relations with divine powers recur
-    in different combinations. Some traditio...
+    in different combinations. Some traditions are organized religions; others,
+    including hoodoo, may be better described as practice complexes.
   - >-
     Core Orientation: An analytical umbrella for distinct religions and practice
     complexes created by African-descended communities under slavery,

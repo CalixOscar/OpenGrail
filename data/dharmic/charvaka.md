@@ -34,11 +34,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Indian philosophical literature repeatedly describes
     materialists called Cārvākas or Lokāyatas, but most supposed foundational
-    texts are lost and surviving port...
+    texts are lost and surviving portraits are often polemical.
   - >-
     Distinctive Practice: Positions attributed to Cārvāka include prioritizing
     perception, denying disembodied souls and postmortem karma, and criticizing
-    priestly revelation. Familiar s...
+    priestly revelation. Familiar slogans about crude hedonism may caricature
+    opponents.
   - >-
     Core Orientation: A reconstructed family of Indian materialist positions
     rejecting Vedic authority, karmic afterlife, and inference used without

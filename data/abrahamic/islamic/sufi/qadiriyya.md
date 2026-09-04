@@ -29,11 +29,11 @@ key_tenets:
   - >-
     Foundational Doctrine: The Qadiriyya traces spiritual descent to Abd
     al-Qadir al-Jilani, a twelfth-century Hanbali preacher in Baghdad whose
-    descendants and admirers spread his reputa...
+    descendants and admirers spread his reputation.
   - >-
     Distinctive Practice: Qadiri practice commonly includes remembrance of God,
     litanies, ethical discipline, spiritual companionship, and reverence for
-    al-Jilani. Ritual forms and doctr...
+    al-Jilani. Ritual forms and doctrinal emphases differ by region and lineage.
   - >-
     Core Orientation: A widespread Sufi order tracing its lineage to the Baghdad
     preacher and jurist Abd al-Qadir al-Jilani.

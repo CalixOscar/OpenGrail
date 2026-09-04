@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The Native American Church developed in the late
     nineteenth and early twentieth centuries as peyote ceremonial traditions
-    moved through Indigenous kin and trave...
+    moved through Indigenous kin and travel networks from northern Mexico and
+    the southern Plains.
   - >-
     Distinctive Practice: An all-night meeting may center prayer, peyote, water,
     fire, song, drum, cedar, testimony, and communal care under trained
-    officers. Some lineages use explicitl...
+    officers. Some lineages use explicitly Christian language, while others
+    frame peyote through different Indigenous teachings.
   - >-
     Core Orientation: A modern intertribal peyote religion joining Indigenous
     sacramental practice, prayer, kinship, and varied Christian elements.

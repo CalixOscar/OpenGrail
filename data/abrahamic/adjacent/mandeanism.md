@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Mandaean communities are historically documented in
     southern Iraq and southwestern Iran, though the precise formation and
-    earlier geography of the tradition rem...
+    earlier geography of the tradition remain debated.
   - >-
     Distinctive Practice: Mandaeans venerate John the Baptist and practice
     repeated full immersion in flowing “living water,” alongside complex death
-    rites and priestly ceremonies. Texts...
+    rites and priestly ceremonies. Texts describe a world of light, the soul's
+    journey, and saving knowledge, while portraying Jesus negatively rather than
+    as divine.
   - >-
     Core Orientation: A living Gnostic religion from southern Mesopotamia
     centered on repeated baptism, revealed knowledge, and John the Baptist.

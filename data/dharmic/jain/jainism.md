@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Jain communities trace a succession of twenty-four
     Jinas, with Pārśva and Mahāvīra historically associated with the eastern
-    Gangetic world before and during ear...
+    Gangetic world before and during early Buddhism.
   - >-
     Distinctive Practice: Jain teaching describes living souls bound by karmic
     matter and liberated through right faith, knowledge, conduct, and severe
-    nonviolence. Ascetics model renunc...
+    nonviolence. Ascetics model renunciation; laypeople pursue adapted vows,
+    generosity, pilgrimage, and temple or non-image-based worship.
   - >-
     Core Orientation: An Indian tradition centered on the Jinas' path of
     nonviolence, karmic purification, disciplined knowledge, and liberation.

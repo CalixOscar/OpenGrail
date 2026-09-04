@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Haudenosaunee Confederacy joins Mohawk, Oneida,
     Onondaga, Cayuga, Seneca, and later Tuscarora nations through the Great Law
-    of Peace while preserving each n...
+    of Peace while preserving each nation's councils, clans, language, and
+    ceremonial life.
   - >-
     Distinctive Practice: The Thanksgiving Address, condolence, longhouse
     ceremonies, seasonal cycles, clan relations, dreams, and responsibilities to
-    the natural world shape distinct bu...
+    the natural world shape distinct but connected traditions.
   - >-
     Core Orientation: Religious and political traditions of the Six Nations of
     the Haudenosaunee Confederacy.

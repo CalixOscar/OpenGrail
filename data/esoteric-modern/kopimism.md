@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Isak Gerson and associates founded the Missionary
     Church of Kopimism in Sweden around 2010 amid political arguments over
-    copyright and file sharing. Swedish aut...
+    copyright and file sharing. Swedish authorities registered it as a religious
+    community in 2012 after earlier applications.
   - >-
     Distinctive Practice: Kopimist discourse treats information as sacred,
     copying as a sacrament, and commands such as Ctrl-C and Ctrl-V as symbols.
-    The movement combines sincere digita...
+    The movement combines sincere digital ethics, legal commentary, and playful
+    religious form.
   - >-
     Core Orientation: A Swedish-founded religion treating copying and
     circulation of information as sacred acts and keyboard shortcuts as symbols.

@@ -26,11 +26,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Anabaptist movements emerged in several
     sixteenth-century European settings when reformers rejected infant baptism
-    and established communities of professing bel...
+    and established communities of professing believers.
   - >-
     Distinctive Practice: Historic Anabaptist themes include discipleship
     modeled on Jesus, mutual accountability, refusal of coercion, economic
-    sharing in some communities, and often no...
+    sharing in some communities, and often nonviolence.
   - >-
     Core Orientation: A Radical Reformation family advocating voluntary baptism,
     disciplined communities, and separation from coercive religion.

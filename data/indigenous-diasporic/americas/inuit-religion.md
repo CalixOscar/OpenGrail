@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Inuit communities extend across Kalaallit Nunaat,
     Canada, Alaska, and Chukotka, with distinct languages, colonial histories,
-    and local practices. Mission Christ...
+    and local practices. Mission Christianity, forced settlement, residential
+    schooling, relocations, wage economies, and climate disruption have
+    transformed religious life.
   - >-
     Distinctive Practice: Hunting ethics, naming, human-animal reciprocity,
     weather, sea powers, helping spirits, storytelling, and the work of ritual
-    specialists appeared in varying for...
+    specialists appeared in varying forms.
   - >-
     Core Orientation: Diverse land-, sea-, kin-, and spirit-centered traditions
     among Inuit across the circumpolar North.

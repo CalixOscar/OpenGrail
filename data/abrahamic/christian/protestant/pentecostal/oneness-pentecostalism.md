@@ -28,11 +28,15 @@ key_tenets:
   - >-
     Foundational Doctrine: Oneness Pentecostalism emerged from baptismal and
     Christological debates within the early Pentecostal movement after a 1913
-    camp meeting in California. Minister...
+    camp meeting in California. Ministers began baptizing in the name of Jesus
+    Christ rather than using the Trinitarian formula, and some developed a
+    theology of God's undivided self-revelation in Jesus.
   - >-
     Distinctive Practice: Oneness believers affirm one God who reveals himself
     as Father, Son, and Holy Spirit rather than three coequal divine persons.
-    Many teach repentance, baptism in...
+    Many teach repentance, baptism in Jesus' name, and reception of the Holy
+    Spirit evidenced by speaking in tongues as the apostolic pattern of
+    salvation.
   - >-
     Core Orientation: A non-Trinitarian Pentecostal family teaching that the one
     God is fully revealed in Jesus Christ.

@@ -32,11 +32,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Ashur was both the god and sacred identity of the
     city bearing his name. As Assyria expanded, royal inscriptions presented
-    conquest, governance, and temple buil...
+    conquest, governance, and temple building as missions undertaken by Ashur’s
+    command.
   - >-
     Distinctive Practice: Ashur’s prominence was imperial and relational: kings
     acted as his agents, while a wide pantheon continued to receive cult. He was
-    not simply a renamed Marduk, ...
+    not simply a renamed Marduk, even where texts borrowed Marduk’s titles or
+    narrative roles.
   - >-
     Core Orientation: The cult of Assyria’s city and national god Ashur, whose
     authority became inseparable from Assyrian imperial kingship.

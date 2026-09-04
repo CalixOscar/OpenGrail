@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Jigten Sumgön founded Drikung Til Monastery in 1179
     and organized a lineage descending through Phagmo Drupa from Gampopa.
-    Drikung institutions became powerful i...
+    Drikung institutions became powerful in medieval Tibet, endured political
+    and military reversals, and maintained communities in Ladakh and other
+    Himalayan regions.
   - >-
     Distinctive Practice: The tradition transmits Mahāmudrā, the Six Dharmas of
     Nāropa, the “Single Intention” teachings, and a well-known form of *phowa*,
-    alongside standard Tibetan Bud...
+    alongside standard Tibetan Buddhist study and ritual.
   - >-
     Core Orientation: A Kagyu lineage founded by Jigten Sumgön, preserving
     distinctive Mahāmudrā, ritual, and contemplative transmissions.

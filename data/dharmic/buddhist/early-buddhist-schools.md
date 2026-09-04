@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: In the centuries after the Buddha, monastic
     communities differentiated through ordination lineages, disciplinary codes,
-    geography, patronage, and doctrinal anal...
+    geography, patronage, and doctrinal analysis.
   - >-
     Distinctive Practice: Schools produced distinct Vinayas and Abhidharma
     systems while sharing teachings on dependent arising, ethical discipline,
-    meditation, and liberation. Theravāda...
+    meditation, and liberation. Theravāda preserves one continuing ordination
+    and canonical lineage; Sarvāstivāda and Mahāsāṃghika writings survive partly
+    in Chinese, Tibetan, and Sanskrit witnesses.
   - >-
     Core Orientation: The multiple monastic and doctrinal lineages that
     developed after the Buddha, preserved through fragmentary and living canons.

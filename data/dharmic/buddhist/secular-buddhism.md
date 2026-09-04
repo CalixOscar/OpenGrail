@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Secular Buddhist networks emerged prominently in
     Europe, North America, and Australasia from late twentieth-century convert
-    Buddhism, mindfulness culture, histo...
+    Buddhism, mindfulness culture, historical-critical study, and humanist
+    ethics.
   - >-
     Distinctive Practice: Many participants treat rebirth, karma across lives,
     supernatural beings, and cosmology as optional, symbolic, or historically
-    conditioned while retaining medit...
+    conditioned while retaining meditation, ethical precepts, community, and
+    dependent arising.
   - >-
     Core Orientation: Modern Buddhist-inspired approaches that bracket or
     reinterpret cosmology while emphasizing ethics, practice, and human

@@ -28,11 +28,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Siberia contains many peoples and language families,
     including Evenki, Sakha, Buryat, Khanty, and others, whose ritual traditions
-    cannot be collapsed into one s...
+    cannot be collapsed into one system.
   - >-
     Distinctive Practice: Depending on community, specialists may heal, retrieve
     souls, guide the dead, divine, mediate with land masters, or sustain clan
-    relations through song, costume...
+    relations through song, costume, drum, and offering.
   - >-
     Core Orientation: Community-specific ritual traditions across Siberia
     involving healing, spirit mediation, land relations, and specialist

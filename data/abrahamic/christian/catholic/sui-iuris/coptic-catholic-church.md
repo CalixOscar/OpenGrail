@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Catholic missions and changing communities in Ottoman
     Egypt led Rome to establish an apostolic vicariate for Coptic Catholics in
-    1741. A Catholic patriarchate o...
+    1741. A Catholic patriarchate of Alexandria was restored on a stable basis
+    in the late nineteenth century.
   - >-
     Distinctive Practice: The Coptic Catholic Church is a patriarchal *sui
     iuris* church that celebrates the Alexandrian Coptic rite while accepting
-    communion with the bishop of Rome. It...
+    communion with the bishop of Rome. Its Coptic language, calendar,
+    spirituality, and liturgical forms reflect Egypt’s ancient Christian
+    heritage.
   - >-
     Core Orientation: An Alexandrian-rite Eastern Catholic patriarchal church
     based principally in Egypt and in communion with Rome.

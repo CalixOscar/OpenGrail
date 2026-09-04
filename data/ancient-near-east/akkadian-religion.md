@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Akkadian-speaking populations lived alongside
     Sumerian speakers for centuries, and rulers of the Akkadian Empire made
-    Semitic-language royal and divine traditio...
+    Semitic-language royal and divine traditions newly visible after about 2350
+    BCE.
   - >-
     Distinctive Practice: Ishtar, Shamash, Adad, Ea, and other deities often
     corresponded to Sumerian counterparts while acquiring distinct emphases.
-    Divination, lament, purification, oa...
+    Divination, lament, purification, oath, royal ideology, and care for divine
+    images organized religious life.
   - >-
     Core Orientation: Akkadian-language Mesopotamian traditions that adapted
     Sumerian cults within changing imperial and city settings.

@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Kagyu traditions arose from Tibetan reception of
     Indian tantric transmissions, remembered through the teacher sequence
-    Tilopa, Nāropa, Marpa, Milarepa, and Gamp...
+    Tilopa, Nāropa, Marpa, Milarepa, and Gampopa.
   - >-
     Distinctive Practice: Mahāmudrā meditation and the Six Dharmas of Nāropa are
     characteristic, alongside monastic study, ritual, and bodhisattva training.
-    Popular images of Kagyu as pu...
+    Popular images of Kagyu as purely experiential can obscure its substantial
+    textual and institutional learning.
   - >-
     Core Orientation: A family of Tibetan Buddhist transmission lineages
     associated with Marpa, Milarepa, Gampopa, Mahāmudrā, and yogic practice.

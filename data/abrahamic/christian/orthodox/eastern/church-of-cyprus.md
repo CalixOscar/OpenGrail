@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Christian communities flourished early on Cyprus,
     which New Testament tradition associates with Barnabas and Paul. The Council
-    of Ephesus in 431 affirmed the Cy...
+    of Ephesus in 431 affirmed the Cypriot church’s independence from Antioch,
+    making its autocephaly one of the oldest.
   - >-
     Distinctive Practice: The archbishop of Cyprus presides over a synod of
     diocesan bishops. The church celebrates the Byzantine rite in Greek and
-    participates fully in Eastern Orthodox...
+    participates fully in Eastern Orthodox communion.
   - >-
     Core Orientation: An ancient autocephalous Eastern Orthodox church whose
     independence was affirmed at the Council of Ephesus.

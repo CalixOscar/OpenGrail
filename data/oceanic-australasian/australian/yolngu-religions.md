@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Yolŋu clans have maintained law, trade, ceremony, and
     custodianship in northeast Arnhem Land across ancient connections and later
-    Macassan exchange. Mission set...
+    Macassan exchange. Mission settlements, Australian administration, mining,
+    and land-rights struggles changed public institutions.
   - >-
     Distinctive Practice: Ancestral beings and events associated with *Wangarr*
     establish country, kinship, song paths, names, designs, and ceremonial
-    responsibilities. Knowledge is diff...
+    responsibilities. Knowledge is differentiated by clan, gender, age, and
+    initiation; a public painting may still carry owned law.
   - >-
     Core Orientation: Clan-governed Yolŋu traditions of northeast Arnhem Land
     linking ancestral law, country, kinship, song, design, ceremony, and

@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Celtic-speaking communities across Iron Age Gaul
     worshiped through sanctuaries, feasts, vows, deposits, processions, and
-    local political institutions. Roman con...
+    local political institutions. Roman conquest produced abundant bilingual or
+    Latin inscriptions pairing indigenous divine names with Roman titles.
   - >-
     Distinctive Practice: The plural “religions” emphasizes local variation
     across centuries and territories. Interpretatio Romana was an active process
-    of translation, patronage, and in...
+    of translation, patronage, and institutional change, not proof that paired
+    deities were originally identical.
   - >-
     Core Orientation: The diverse pre-Christian cults of Celtic-speaking
     communities in Gaul, known especially through archaeology and Gallo-Roman

@@ -43,11 +43,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Christianity began within the diverse Judaism of
     first-century Roman Judea. Jesus's followers interpreted his teaching,
-    execution, and experiences of his resurr...
+    execution, and experiences of his resurrection through Israel's scriptures
+    and Jewish expectations about messiah, kingdom, covenant, and the
+    restoration of creation.
   - >-
     Distinctive Practice: Separation from Judaism was gradual, uneven, and
     regionally varied. The destruction of Jerusalem in 70 CE, developing
-    Christian claims about Jesus, changing com...
+    Christian claims about Jesus, changing communal institutions, and later
+    imperial law all contributed.
   - >-
     Core Orientation: A family of traditions centered on Jesus of Nazareth, his
     proclaimed resurrection, and the interpretation of Israel's scriptures in

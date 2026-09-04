@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Guaraní-speaking peoples inhabit regions now divided
     among Paraguay, Brazil, Argentina, and Bolivia and include distinct
-    communities such as Mbyá, Kaiowá, Ñande...
+    communities such as Mbyá, Kaiowá, Ñandeva, and Ava.
   - >-
     Distinctive Practice: Sacred speech, song, naming, prayer houses, dreams,
     cultivation, and journeys toward good or imperishable land are important in
-    several traditions. Published co...
+    several traditions. Published collections such as *Ayvu Rapyta* document
+    particular Mbyá teachings, not a universal Guaraní scripture.
   - >-
     Core Orientation: Distinct religious traditions among Guaraní peoples
     centered on sacred speech, song, kinship, cultivated land, mobility, and

@@ -33,11 +33,16 @@ key_tenets:
   - >-
     Foundational Doctrine: Daoism encompasses textual philosophies, organized
     priesthoods, communal movements, body-cultivation practices, and local
-    ritual systems. The *Daodejing* and *Z...
+    ritual systems. The *Daodejing* and *Zhuangzi*, compiled in the late Warring
+    States and early imperial periods, explore the *Dao*—the ungraspable course
+    through which beings arise and transform—and criticize rigid knowledge or
+    coercive government.
   - >-
     Distinctive Practice: Organized communities such as the Celestial Masters
     appeared by the second century CE with registers, moral codes, healing,
-    confession, and ritual leadership. S...
+    confession, and ritual leadership. Shangqing revelations, Lingbao liturgies,
+    alchemical traditions, and later Quanzhen institutions added distinctive
+    scriptures and practices.
   - >-
     Core Orientation: Chinese philosophical, ritual, communal, and contemplative
     traditions oriented toward the Dao, natural transformation, cultivated

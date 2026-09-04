@@ -32,11 +32,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Yogananda founded the organization in the United
     States in 1920 after training in the Yogoda and Kriya Yoga lineage of Sri
-    Yukteswar. Lectures, correspondence l...
+    Yukteswar. Lectures, correspondence lessons, monastic communities, and
+    *Autobiography of a Yogi* made it an influential channel for modern yoga and
+    Vedānta worldwide.
   - >-
     Distinctive Practice: The movement teaches Kriya Yoga meditation, devotion,
     ethical discipline, and direct realization of God. Yogananda presented
-    parallels between Krishna's and Jes...
+    parallels between Krishna's and Jesus's teachings within a universalist
+    theology.
   - >-
     Core Orientation: Paramahansa Yogananda's international organization
     teaching Kriya Yoga through a modern universalist Vedānta framework.

@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Karma Kagyu, also called Karma Kamtsang, traces its
     Tibetan institutional formation to Düsum Khyenpa, the First Karmapa, a
-    student of Gampopa. Successive Karmap...
+    student of Gampopa. Successive Karmapas and associated lineage holders
+    developed monasteries, textual traditions, artistic patronage, and retreat
+    systems across Tibet and the Himalayas.
   - >-
     Distinctive Practice: The lineage is especially associated with Mahāmudrā,
     the Six Dharmas of Nāropa, guru yoga, and the continuity of oral instruction
-    within a shared Tibetan Buddhi...
+    within a shared Tibetan Buddhist curriculum.
   - >-
     Core Orientation: A major Kagyu lineage founded by Düsum Khyenpa and led
     through the successive reincarnation line of the Karmapas.

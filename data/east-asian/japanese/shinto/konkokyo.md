@@ -29,11 +29,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Farmer Kawate Bunjirō, later known as Konkō Daijin,
     understood a series of experiences culminating in 1859 as a call from Tenchi
-    Kane no Kami to serve people th...
+    Kane no Kami to serve people through spiritual mediation.
   - >-
     Distinctive Practice: Konkōkyō teaches a mutually dependent relationship
     between the divine parent of the universe and human beings, gratitude amid
-    ordinary life, and *toritsugi*, me...
+    ordinary life, and *toritsugi*, mediation through listening and counsel.
   - >-
     Core Orientation: A Japanese Sect Shinto tradition founded through Konkō
     Daijin’s revelations and centered on mediation with Tenchi Kane no Kami.

@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Onmyōdō developed in the Japanese court from Chinese
     yin-yang theory, calendrics, omen interpretation, astral knowledge, and
-    ritual techniques transmitted throu...
+    ritual techniques transmitted through the peninsula.
   - >-
     Distinctive Practice: Practitioners addressed directional taboo, pollution,
     dangerous spirits, timing, and protection through divination and rites.
-    Buddhist, kami, and continental co...
+    Buddhist, kami, and continental cosmological elements became inseparable in
+    practice.
   - >-
     Core Orientation: A Japanese court and ritual tradition applying yin-yang,
     calendrical, divinatory, astral, and apotropaic knowledge.

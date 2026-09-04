@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The church traces its Christian inheritance to
     medieval Kyiv and its present institutional form especially to the Union of
-    Brest in 1596, when several Orthodox ...
+    Brest in 1596, when several Orthodox bishops of the Polish-Lithuanian
+    Commonwealth entered communion with Rome.
   - >-
     Distinctive Practice: The Ukrainian Greek Catholic Church is a *sui iuris*
     major archiepiscopal church. It celebrates the Byzantine liturgy, follows
-    eastern spiritual and canonical t...
+    eastern spiritual and canonical traditions, and permits the ordination of
+    married men to the priesthood under its discipline.
   - >-
     Core Orientation: A Byzantine-rite Eastern Catholic church rooted in the
     Kyivan Christian tradition and in communion with Rome.

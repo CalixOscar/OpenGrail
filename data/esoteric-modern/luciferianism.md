@@ -29,11 +29,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Modern Luciferian identities grew from Romantic
     reinterpretations of the rebellious light-bringer, occult literature, and
-    twentieth-century left-hand-path organ...
+    twentieth-century left-hand-path organizations.
   - >-
     Distinctive Practice: Lucifer may represent reason, liberation, forbidden
     knowledge, spiritual ascent, or an actual divine intelligence. Some
-    Luciferians reject the label Satanist wh...
+    Luciferians reject the label Satanist while others overlap with it.
   - >-
     Core Orientation: A diverse modern esoteric current treating Lucifer as a
     symbol or deity of illumination, autonomy, knowledge, and self-cultivation.

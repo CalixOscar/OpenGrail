@@ -35,11 +35,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Roman emperor cult developed from Hellenistic ruler
     honors, Roman ancestor and genius traditions, and local civic initiatives.
-    Provinces, cities, associations, ...
+    Provinces, cities, associations, households, and armies honored living or
+    deified rulers in different forms.
   - >-
     Distinctive Practice: The phrase “emperor worship” can conceal important
     distinctions between sacrifice for an emperor, sacrifice to a deified
-    emperor, and honors to imperial virtues...
+    emperor, and honors to imperial virtues or household powers.
   - >-
     Core Orientation: Public rites honoring Roman emperors, their households,
     and imperial power across locally varied civic institutions.

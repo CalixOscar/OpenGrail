@@ -26,11 +26,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The bishopric of Byzantium gained exceptional
     prominence after Constantine made the city an imperial capital in 330.
-    Ecumenical councils accorded Constantinople...
+    Ecumenical councils accorded Constantinople senior rank after Rome, and its
+    patriarchate profoundly shaped Byzantine liturgy, theology, monasticism, and
+    Slavic missions.
   - >-
     Distinctive Practice: The ecumenical patriarch is conventionally described
     as “first among equals” among Orthodox primates. This primacy is one of
-    honor and coordinating responsibili...
+    honor and coordinating responsibility, not the universal ordinary
+    jurisdiction claimed for the pope in Catholic doctrine.
   - >-
     Core Orientation: An ancient autocephalous Orthodox church whose patriarch
     holds a primacy of honor within Eastern Orthodoxy.

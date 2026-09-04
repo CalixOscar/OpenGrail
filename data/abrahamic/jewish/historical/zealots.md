@@ -29,11 +29,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Josephus uses language of zeal and identifies a
     specific Zealot faction during the Jewish revolt of 66–70 CE, while later
-    usage sometimes applies the name broad...
+    usage sometimes applies the name broadly to anti-Roman militants.
   - >-
     Distinctive Practice: Historians distinguish the Jerusalem Zealots from the
     Sicarii and avoid treating every rebel as a member of one party. Nearly all
-    evidence comes from hostile or...
+    evidence comes from hostile or retrospective sources, especially Josephus.
   - >-
     Core Orientation: A contested label for militant Jewish resistance groups
     during the late Second Temple period and revolt against Rome.

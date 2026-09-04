@@ -26,11 +26,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The Druze call began in the early eleventh-century
     Fatimid realm and was declared closed to new adherents within a few decades.
-    Communities endured in the mount...
+    Communities endured in the mountains of present-day Lebanon, Syria, Israel,
+    and Jordan, developing strong local institutions and histories of both
+    autonomy and participation in surrounding states.
   - >-
     Distinctive Practice: The *Epistles of Wisdom* present an esoteric
     monotheism shaped by Ismaili interpretation and philosophical traditions.
-    The community distinguishes initiated *uq...
+    The community distinguishes initiated *uqqal*, who study religious texts and
+    follow special disciplines, from uninitiated *juhhal*.
   - >-
     Core Orientation: A closed, initiatory monotheistic tradition that emerged
     from an Ismaili milieu under the Fatimid caliph al-Hakim.

@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Khön Könchok Gyalpo founded Sakya Monastery in 1073,
     building on transmissions associated with the Indian adept Virūpa. The Khön
-    family and ordained masters joi...
+    family and ordained masters jointly shaped leadership.
   - >-
     Distinctive Practice: The Lamdré, or “Path and Fruit,” system integrates
     Hevajra tantra with a complete account of path and result. Sakya scholarship
-    is renowned for logic, language,...
+    is renowned for logic, language, and philosophy as well as esoteric
+    practice.
   - >-
     Core Orientation: A Tibetan Buddhist school centered on Sakya Monastery,
     Lamdré teaching, rigorous scholarship, and hereditary-clerical leadership.

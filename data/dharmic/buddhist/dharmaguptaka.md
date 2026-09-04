@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The Dharmaguptakas were one of the early Indian
     Buddhist monastic schools and were active along trade routes into Central
-    Asia. Their scriptures survive largely...
+    Asia. Their scriptures survive largely in Chinese translation and in
+    Gāndhārī manuscript discoveries.
   - >-
     Distinctive Practice: Dharmaguptaka collections organize discipline and
     doctrine somewhat differently from Theravāda and Sarvāstivāda sources. The
-    four-part Vinaya remains authoritat...
+    four-part Vinaya remains authoritative for monastics in Chinese, Korean, and
+    Vietnamese Buddhism.
   - >-
     Core Orientation: An early Buddhist school whose Vinaya became the
     ordination code of most East Asian Buddhist monastic communities.

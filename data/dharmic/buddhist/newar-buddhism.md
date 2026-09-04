@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Newar Buddhism preserves Sanskrit Mahāyāna and
     Vajrayāna texts and rituals in the Kathmandu Valley through hereditary
-    ritual specialists, monasteries, festivals...
+    ritual specialists, monasteries, festivals, and lay associations.
   - >-
     Distinctive Practice: Vajrācārya and Śākya lineages conduct initiations,
     life-cycle rites, deity practices, and communal observances. Buddhist and
-    Hindu deities, festivals, and space...
+    Hindu deities, festivals, and spaces overlap extensively, yet participants
+    maintain meaningful identities and ritual jurisdictions.
   - >-
     Core Orientation: The Sanskritic Mahāyāna and Vajrayāna traditions of the
     Newar communities of Nepal's Kathmandu Valley.

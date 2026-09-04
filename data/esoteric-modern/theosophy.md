@@ -32,11 +32,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Helena Blavatsky, Henry Steel Olcott, and associates
     founded the Theosophical Society in New York in 1875. Its center later moved
-    to India, where members engage...
+    to India, where members engaged Buddhist and Hindu reformers as well as
+    anticolonial and educational projects.
   - >-
     Distinctive Practice: Theosophy teaches spiritual evolution, karma, rebirth,
     hidden adepts, layered human constitution, and an ancient wisdom underlying
-    religions. Its creative use o...
+    religions. Its creative use of Sanskrit and Buddhist vocabulary helped
+    popularize Asian traditions in Euro-American settings while often
+    transforming them through occult and racial-evolutionary frameworks.
   - >-
     Core Orientation: A transnational esoteric movement seeking universal wisdom
     through occult evolution and selective readings of Asian and Western

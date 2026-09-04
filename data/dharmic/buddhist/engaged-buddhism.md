@@ -30,11 +30,11 @@ key_tenets:
   - >-
     Foundational Doctrine: The English label “Engaged Buddhism” gained currency
     through Thích Nhất Hạnh during the Vietnam War, but related Buddhist
-    activism developed independently acros...
+    activism developed independently across Asia and beyond.
   - >-
     Distinctive Practice: Engaged Buddhists interpret compassion,
     interdependence, non-harming, and the bodhisattva path as mandates to
-    confront social structures as well as individual d...
+    confront social structures as well as individual distress.
   - >-
     Core Orientation: Transnational Buddhist movements applying ethics and
     contemplative practice to peace, justice, ecology, and structural suffering.

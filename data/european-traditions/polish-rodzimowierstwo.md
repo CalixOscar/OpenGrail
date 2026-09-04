@@ -34,11 +34,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Polish Slavic Native Faith gained visible
     organizations after the end of communist rule, drawing on earlier romantic,
-    folkloric, and interwar precedents. Commun...
+    folkloric, and interwar precedents. Communities reconstruct seasonal
+    festivals, offerings, rites of passage, and relations with Slavic gods and
+    ancestors.
   - >-
     Distinctive Practice: The term *rodzimowierstwo* emphasizes native or
     ancestral faith, but participants disagree over ethnicity, politics,
-    historical rigor, and openness. Surviving e...
+    historical rigor, and openness. Surviving evidence for pre-Christian West
+    Slavic religion is fragmentary and often externally authored.
   - >-
     Core Orientation: Polish forms of contemporary Slavic Native Faith,
     organized through several communities with differing ritual and ideological

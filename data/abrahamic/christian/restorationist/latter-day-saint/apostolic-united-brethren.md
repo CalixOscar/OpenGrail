@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Apostolic United Brethren emerged from a 1954
     division among Latter Day Saint fundamentalists associated with the
-    priesthood council and Short Creek communi...
+    priesthood council and Short Creek community.
   - >-
     Distinctive Practice: The AUB accepts the standard works of the Latter Day
     Saint tradition and maintains plural marriage as a religious principle. It
-    operates through a priesthood co...
+    operates through a priesthood council and affiliated congregations while
+    lacking recognition from the Utah-based church.
   - >-
     Core Orientation: A Latter Day Saint fundamentalist body formed after a
     leadership division within the Short Creek-era priesthood movement.

@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Theodism emerged in the United States during the
     1970s as a distinctive current of Germanic neopaganism. Groups attempted to
-    reconstruct an oath-bound *théod*, ...
+    reconstruct an oath-bound *théod*, or people, using interpretations of
+    Anglo-Saxon lordship, gift exchange, household cult, and sacral authority.
   - >-
     Distinctive Practice: Theodism is much smaller and more hierarchically
     structured than most Heathen organizations. Its reconstructed social order
-    is a modern religious project, not t...
+    is a modern religious project, not the transparent continuation of a
+    documented ancient institution.
   - >-
     Core Orientation: A small modern Heathen current reconstructing Germanic
     sacral kingship, oath-bound community, and hierarchical customary

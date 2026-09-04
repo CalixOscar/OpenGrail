@@ -30,11 +30,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Later tradition dates the movement to Zhang Daoling’s
     revelation from the deified Laozi in Sichuan in 142 CE. Communities
-    organized households into districts, s...
+    organized households into districts, supported ritual officials through
+    contributions, and used registers, confession, petitions, and communal
+    observances.
   - >-
     Distinctive Practice: The tradition joined moral discipline and communal
     welfare to a bureaucratic sacred cosmos in which authorized priests
-    communicated with divine administrations....
+    communicated with divine administrations. Healing and confession addressed
+    disorder in both bodies and communities.
   - >-
     Core Orientation: An early organized Daoist movement whose communal
     registers, priesthood, ethics, and ritual shaped later Zhengyi traditions.

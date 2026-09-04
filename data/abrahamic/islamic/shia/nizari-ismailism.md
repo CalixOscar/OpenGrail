@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Nizari Ismailism arose after a Fatimid succession
     dispute in 1094, when supporters recognized Nizar rather than al-Musta'li.
-    Nizari communities developed center...
+    Nizari communities developed centers in Iran and Syria, including Alamut,
+    and survived Mongol conquest through dispersed networks.
   - >-
     Distinctive Practice: Nizaris recognize a present hereditary Imam as
     authoritative interpreter of faith and ethics. Community life includes the
-    *jamatkhana*, service institutions, an...
+    *jamatkhana*, service institutions, and regionally varied devotional
+    literatures such as South Asian ginans.
   - >-
     Core Orientation: The largest Ismaili branch, recognizing a continuous line
     of living Imams commonly known by the title Aga Khan.

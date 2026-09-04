@@ -31,11 +31,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Direct evidence for pre-Christian Gaelic religion is
     fragmentary. Archaeology, place-names, ogham inscriptions, early law,
-    saints’ lives, and medieval Irish nar...
+    saints’ lives, and medieval Irish narratives preserve materials filtered
+    through long Christian transmission.
   - >-
     Distinctive Practice: Medieval tales about the Tuatha Dé Danann are
     literature, not a surviving pagan scripture, and Scottish and Irish evidence
-    cannot simply be made uniform. The no...
+    cannot simply be made uniform. The node marks a regional branch within the
+    broad comparative category of Celtic religions.
   - >-
     Core Orientation: A scholarly reconstruction of pre-Christian religious
     traditions among Gaelic-speaking communities in Ireland and Scotland.

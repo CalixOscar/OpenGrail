@@ -27,11 +27,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Ismaili communities emerged from disagreement over
     succession after Ja'far al-Sadiq in the eighth century. A far-reaching
-    missionary network supported the Fatim...
+    missionary network supported the Fatimid caliphate, founded in North Africa
+    in 909 and later centered in Cairo.
   - >-
     Distinctive Practice: Ismaili thought emphasizes the Imam's authoritative
     guidance and layered interpretation that relates outward practice to inward
-    meaning. Fatimid scholars contri...
+    meaning. Fatimid scholars contributed to philosophy, law, administration,
+    and learning; historical caricatures of secretive “Assassins” distort Nizari
+    life.
   - >-
     Core Orientation: A Shi'a family recognizing the Imamate through Isma'il ibn
     Ja'far and known for Fatimid institutions and esoteric interpretation.

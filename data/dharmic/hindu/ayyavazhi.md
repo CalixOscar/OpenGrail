@@ -28,11 +28,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Ayyavazhi formed in nineteenth-century South
     Travancore around Ayya Vaikundar and communities confronting severe caste
-    exclusion. Its principal narrative, the *...
+    exclusion. Its principal narrative, the *Akilattirattu Ammanai*, presents a
+    sacred history of cosmic ages and Vaikundar’s work against oppressive
+    *Kali*.
   - >-
     Distinctive Practice: Congregational rites, ethical discipline, shared
     meals, and rejection of degrading caste practices are prominent. Vaikundar
-    is interpreted through a Vaiṣṇava id...
+    is interpreted through a Vaiṣṇava idiom yet occupies a distinctive
+    revelatory role.
   - >-
     Core Orientation: A South Indian religious tradition centered on Ayya
     Vaikundar, sacred narrative, congregational worship, and social equality.

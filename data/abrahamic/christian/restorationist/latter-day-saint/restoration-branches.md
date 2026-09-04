@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Restoration Branches formed chiefly during the 1980s
     as conservative members and congregations opposed changes in the Reorganized
-    Church of Jesus Christ of Latt...
+    Church of Jesus Christ of Latter Day Saints, particularly women's ordination
+    and evolving theology.
   - >-
     Distinctive Practice: Branches generally preserve older Reorganization
     scriptures, priesthood offices, sacramental practice, and an expectation of
-    Zion centered in Independence, Miss...
+    Zion centered in Independence, Missouri.
   - >-
     Core Orientation: Independent congregations that separated from the
     Reorganized Church during its liberalization and later transition to

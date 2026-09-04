@@ -31,11 +31,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Esoteric Buddhist scriptures and ritual systems
     expanded in India from about the sixth century CE and traveled to Tibet,
-    Nepal, China, Japan, and Southeast Asia...
+    Nepal, China, Japan, and Southeast Asia.
   - >-
     Distinctive Practice: Vajrayāna aims to transform body, speech, and mind by
     ritually inhabiting awakened form under a qualified teacher. Practices are
-    graduated and traditionally req...
+    graduated and traditionally require initiation; public imagery should not be
+    detached from those commitments.
   - >-
     Core Orientation: Esoteric Buddhist traditions using initiation, mantra,
     mandala, deity yoga, and embodied ritual within a Mahāyāna framework.

@@ -30,11 +30,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The Vaiśeṣika school is associated with Kaṇāda’s
     *Vaiśeṣika Sūtra*, composed over time before the early common era. It
-    developed a realist inventory of the worl...
+    developed a realist inventory of the world and later converged with Nyāya’s
+    epistemological program.
   - >-
     Distinctive Practice: Vaiśeṣika classifies reality through categories such
     as substance, quality, motion, universal, particularity, and inherence. Its
-    account of physical objects is ...
+    account of physical objects is atomistic, but its atoms differ from modern
+    scientific particles and exist within a broader metaphysics including
+    selves, time, space, and mind.
   - >-
     Core Orientation: A realist Hindu philosophical school classifying
     substances, qualities, actions, universals, and particulars.

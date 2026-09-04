@@ -34,11 +34,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Jedi identification appeared among fans and online
     communities in the late twentieth century, then gained visibility through
-    religion responses in several natio...
+    religion responses in several national censuses beginning in 2001.
   - >-
     Distinctive Practice: Jediists commonly interpret the Force as a spiritual,
     ethical, psychological, or metaphorical principle and cultivate service,
-    self-discipline, and emotional ba...
+    self-discipline, and emotional balance.
   - >-
     Core Orientation: A decentralized set of spiritual and ethical movements
     adapting Jedi imagery and the Force from Star Wars into lived practice.

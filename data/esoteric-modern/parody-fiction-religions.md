@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Modern mass media, counterculture, legal debates
     about religion, and online community produced movements that openly draw on
-    satire or fictional worlds. Some be...
+    satire or fictional worlds. Some began as protests or jokes but developed
+    durable identities, rituals, ethics, organizations, and sincere
+    participants.
   - >-
     Distinctive Practice: Parody, play, and religious seriousness are not
     mutually exclusive. A movement may mock institutional privilege while also
-    providing community and a way of life...
+    providing community and a way of life.
   - >-
     Core Orientation: An analytical family of communities that use satire,
     invented mythology, or fictional worlds for religion, identity, ethics,

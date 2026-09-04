@@ -25,11 +25,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Baba Dyal founded the original Nirankari movement in
     nineteenth-century Punjab, calling Sikhs back to devotion to the *nirankar*,
-    the formless divine, and criti...
+    the formless divine, and criticizing accretions he regarded as contrary to
+    Guru Nanak’s teaching.
   - >-
     Distinctive Practice: Early Nirankaris favored simple rites, recitation, and
     rejection of image worship. They should be distinguished from the
-    twentieth-century Sant Nirankari Missio...
+    twentieth-century Sant Nirankari Mission, which developed separately and has
+    had conflictual relations with orthodox Sikh institutions.
   - >-
     Core Orientation: A nineteenth-century Sikh reform lineage founded by Baba
     Dyal, emphasizing worship of the formless divine and simplified observance.

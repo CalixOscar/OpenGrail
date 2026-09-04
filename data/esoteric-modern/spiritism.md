@@ -36,11 +36,12 @@ key_tenets:
   - >-
     Foundational Doctrine: French educator Hippolyte Léon Denizard Rivail,
     writing as Allan Kardec, organized reports of mediumistic communication into
-    a systematic doctrine beginning in ...
+    a systematic doctrine beginning in 1857.
   - >-
     Distinctive Practice: Spiritists teach survival after death, repeated
     incarnation, communication with spirits, moral causation, and progressive
-    education across lives. Kardec disting...
+    education across lives. Kardec distinguished his codified philosophy from
+    the broader Spiritualist séance movement.
   - >-
     Core Orientation: A movement codified by Allan Kardec that joins mediumship,
     reincarnation, moral progress, and a rationalized account of spirits.

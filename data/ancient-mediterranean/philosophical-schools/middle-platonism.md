@@ -32,11 +32,14 @@ key_tenets:
   - >-
     Foundational Doctrine: From roughly the first century BCE to the third
     century CE, Platonist thinkers reread Plato alongside Aristotle, Pythagorean
-    traditions, and Stoic debates. Figu...
+    traditions, and Stoic debates. Figures such as Plutarch, Alcinous, Apuleius,
+    and Numenius differed considerably.
   - >-
     Distinctive Practice: These writers explored divine transcendence,
     intermediary beings, providence, soul, cosmology, and the philosophical
-    interpretation of traditional cult. Their s...
+    interpretation of traditional cult. Their synthesis prepared important
+    problems and vocabulary for Plotinus and later Neoplatonism, but no clean
+    boundary separates every phase.
   - >-
     Core Orientation: A modern label for diverse Platonist philosophies between
     the early Academy and Plotinus, often integrating theology and ritual

@@ -31,11 +31,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Greg Hill and Kerry Thornley developed Discordianism
     in the late 1950s and circulated the *Principia Discordia* through
-    countercultural networks. Robert Anton W...
+    countercultural networks. Robert Anton Wilson and Robert Shea's
+    *Illuminatus!* novels greatly expanded its influence, including on later
+    chaos magic and online culture.
   - >-
     Distinctive Practice: Discordian texts use contradiction, jokes, invented
     offices, and Erisian mythology to unsettle rigid distinctions between order
-    and chaos. Some participants tre...
+    and chaos. Some participants treat it as satire, some as a spiritual
+    practice, and many refuse that choice.
   - >-
     Core Orientation: A playful countercultural religion or anti-religion
     devoted to Eris and the creative tension between order and disorder.

@@ -37,11 +37,14 @@ key_tenets:
   - >-
     Foundational Doctrine: “Hinduism” is a relatively recent umbrella label for
     traditions with much older and varied histories. Between the late Vedic
-    period and the early centuries CE, ...
+    period and the early centuries CE, sacrificial lineages, renunciant
+    movements, local cults, epic narratives, and new forms of devotion
+    interacted across South Asia.
   - >-
     Distinctive Practice: Vedic texts retained exceptional authority in many
     schools, but continuity did not mean simple preservation. Philosophers
-    reinterpreted sacrifice, self, action,...
+    reinterpreted sacrifice, self, action, liberation, language, and ultimate
+    reality.
   - >-
     Core Orientation: A plural family of South Asian traditions linking Vedic
     authority, temple and household practice, devotion, philosophy, pilgrimage,

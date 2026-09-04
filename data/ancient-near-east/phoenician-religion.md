@@ -28,11 +28,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Phoenician religion refers to the Iron Age traditions
     of coastal cities such as Tyre, Sidon, Byblos, and Arwad and to related
-    Punic communities overseas. There ...
+    Punic communities overseas. There was no unified Phoenician church or
+    canonical mythology.
   - >-
     Distinctive Practice: Melqart, Eshmun, Astarte, Baal Hammon, and Tanit
     became prominent in different places and periods. Maritime mobility carried
-    cult practices through Cyprus, Nort...
+    cult practices through Cyprus, North Africa, Iberia, and other Mediterranean
+    networks, where exchange produced local forms.
   - >-
     Core Orientation: The locally varied Iron Age cults of Phoenician cities and
     their Mediterranean settlements.

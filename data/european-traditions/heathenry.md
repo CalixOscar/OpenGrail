@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Heathenry, including groups using names such as
     Ásatrú, emerged as organized modern religion in the later twentieth century,
-    although romantic and folkloric pre...
+    although romantic and folkloric precedents are older.
   - >-
     Distinctive Practice: Offerings called *blót*, communal toasts, hospitality,
     reciprocity, ancestors, and relationships with gods or land powers are
-    common but not universal. The infl...
+    common but not universal. The influence edge identifies ancient source
+    material without claiming institutional continuity.
   - >-
     Core Orientation: Modern religions reconstructing pre-Christian Germanic and
     Norse devotional, ethical, and communal practice.

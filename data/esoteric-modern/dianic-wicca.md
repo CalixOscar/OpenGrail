@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Dianic witchcraft emerged within 1970s feminist
     spirituality, with Zsuzsanna Budapest's Los Angeles community becoming
-    especially influential. Other groups use ...
+    especially influential. Other groups use “Dianic” for related but distinct
+    Goddess-centered paths, so the label covers more than one lineage.
   - >-
     Distinctive Practice: Many Dianic circles emphasize women-centered ritual,
     female divinity, seasonal observance, healing, and political solidarity.
-    Membership policies and definition...
+    Membership policies and definitions of womanhood differ and have generated
+    sustained controversy, particularly concerning transgender inclusion.
   - >-
     Core Orientation: A feminist Goddess-centered family of modern witchcraft
     traditions, especially associated with Zsuzsanna Budapest in the United

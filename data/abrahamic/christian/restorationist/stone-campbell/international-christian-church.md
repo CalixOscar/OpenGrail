@@ -25,11 +25,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The International Christian Church coalesced in
     Portland, Oregon, around Kip McKean and congregations that separated from
-    the International Churches of Christ d...
+    the International Churches of Christ during the mid-2000s.
   - >-
     Distinctive Practice: The movement teaches baptism by immersion for
     disciples, structured personal discipling, and an obligation to evangelize
-    the world. It maintains a more coordina...
+    the world. It maintains a more coordinated global mission program than the
+    decentralized post-2003 International Churches of Christ.
   - >-
     Core Orientation: A restorationist church network organized after a split
     from the International Churches of Christ.

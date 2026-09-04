@@ -31,11 +31,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Baha'u'llah, an early follower of the Bab, announced
     in the 1860s that he was the promised messenger anticipated in Babi texts.
-    Exiled successively by Iranian a...
+    Exiled successively by Iranian and Ottoman authorities, he wrote works that
+    established an independent religious community.
   - >-
     Distinctive Practice: Baha'i teaching affirms one God and a progressive
     series of divine educators including Abraham, Krishna, Moses, Buddha, Jesus,
-    Muhammad, the Bab, and Baha'u'lla...
+    Muhammad, the Bab, and Baha'u'llah.
   - >-
     Core Orientation: A global monotheistic religion founded by Baha'u'llah,
     teaching progressive revelation and the unity of humanity.

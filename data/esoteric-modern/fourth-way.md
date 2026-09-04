@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: G. I. Gurdjieff taught in Russia and Western Europe
     in the early twentieth century, later establishing an institute near Paris.
-    P. D. Ouspensky's writings sprea...
+    P. D. Ouspensky's writings spread a related presentation, and multiple
+    foundations and independent lineages continued after both teachers died.
   - >-
     Distinctive Practice: The teaching describes ordinary human beings as
     mechanically asleep and prescribes self-remembering, observation, sacred
-    dance, music, and coordinated work. The...
+    dance, music, and coordinated work. The “fourth way” is said to integrate
+    bodily, emotional, and intellectual disciplines without monastic withdrawal.
   - >-
     Core Orientation: G. I. Gurdjieff's modern esoteric teaching of awakening
     through self-observation, intentional work, movement, and group discipline

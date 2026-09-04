@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Eastern Catholic churches arose through several
     different histories: some maintained communion with Rome, while others
-    entered union through agreements such as ...
+    entered union through agreements such as Brest in 1596 or through later
+    institutional realignments.
   - >-
     Distinctive Practice: These churches recognize papal communion while
     retaining their own liturgy, canon law, clerical discipline, spirituality,
-    and governance as *sui iuris* churches...
+    and governance as *sui iuris* churches.
   - >-
     Core Orientation: Self-governing Eastern Christian churches in communion
     with Rome that preserve diverse eastern rites and disciplines.

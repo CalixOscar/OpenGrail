@@ -35,11 +35,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Serapis became prominent under the early Ptolemies,
     combining Egyptian associations of Osiris-Apis with a Greek anthropomorphic
-    image and attributes linked to s...
+    image and attributes linked to sovereignty, fertility, healing, and the
+    underworld.
   - >-
     Distinctive Practice: The cult is a documented institutional synthesis, but
     it was not an abstract merger of “Greek religion” and “Egyptian religion” in
-    equal measure everywhere. Egy...
+    equal measure everywhere. Egyptian and Greek worshipers could interpret
+    Serapis through different ritual and linguistic frames.
   - >-
     Core Orientation: A Hellenistic and Roman cult centered on Serapis, an
     Egyptian-Greek deity promoted especially in Ptolemaic Alexandria.

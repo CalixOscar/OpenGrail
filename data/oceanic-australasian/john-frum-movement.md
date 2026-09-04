@@ -24,11 +24,15 @@ key_tenets:
   - >-
     Foundational Doctrine: The John Frum movement arose on Tanna under the
     Anglo-French colonial regime, mission pressure, plantation labor, and
-    debates over local governance. Prophecies ...
+    debates over local governance. Prophecies and public organization became
+    especially visible around the Second World War and the arrival of American
+    forces.
   - >-
     Distinctive Practice: Friday observance, songs, marching, village
     organization, volcanic and ancestral landscapes, and narratives of John Frum
-    vary among adherents. Outsiders often r...
+    vary among adherents. Outsiders often reduce the movement to naïve
+    expectation of manufactured “cargo,” ignoring its anticolonial analysis and
+    enduring institutions.
   - >-
     Core Orientation: An Indigenous prophetic and political movement centered on
     Tanna in Vanuatu.

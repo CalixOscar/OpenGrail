@@ -31,11 +31,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Buddhism was present in the region long before Pagan,
     but royal support under Anawrahta and later dynasties made Theravāda
-    institutions increasingly prominent f...
+    institutions increasingly prominent from the eleventh century.
   - >-
     Distinctive Practice: Burmese Buddhism combines Pāli scholarship, strict
     Vinaya currents, merit-making, pagoda devotion, spirit-related practices,
-    and intensive meditation. Several s...
+    and intensive meditation. Several state-recognized monastic orders coexist,
+    while methods associated with Ledi Sayadaw, Mahāsī Sayadaw, U Ba Khin, and
+    Pa-Auk became globally influential.
   - >-
     Core Orientation: Myanmar’s diverse Theravāda traditions, shaped by royal
     patronage, village monasteries, scriptural learning, and influential

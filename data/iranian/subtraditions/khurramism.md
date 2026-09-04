@@ -34,11 +34,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Medieval Muslim authors used labels related to
     *Khurramiyya* for several Iranian movements, most famously the rebellion led
-    by Babak Khorramdin against the Abba...
+    by Babak Khorramdin against the Abbasids in the ninth century.
   - >-
     Distinctive Practice: Scholars often connect Khurramite movements with
     Mazdakite legacies and older Iranian religious patterns, yet the evidence
-    does not establish simple institution...
+    does not establish simple institutional descent.
   - >-
     Core Orientation: An umbrella for early Islamic-era Iranian religious and
     revolutionary movements known chiefly through hostile external accounts.

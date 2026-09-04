@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Nyāya developed as a rigorous tradition of reasoning,
     debate, and epistemology around the *Nyāya Sūtra* and successive
-    commentaries. Its authors argued with Bud...
+    commentaries. Its authors argued with Buddhists, Jains, Mīmāṃsakas, and
+    other Hindu thinkers.
   - >-
     Distinctive Practice: Nyāya analyzes perception, inference, comparison, and
     trustworthy testimony as means of knowledge. It treats error as diagnosable
-    and liberation as dependent on...
+    and liberation as dependent on true cognition of selves and reality.
   - >-
     Core Orientation: A Hindu school of logic and epistemology centered on
     reliable means of knowledge and disciplined debate.

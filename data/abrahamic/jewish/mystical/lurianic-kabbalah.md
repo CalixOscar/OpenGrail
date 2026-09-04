@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Isaac Luria taught a circle of kabbalists in Safed
     during the final years of his life, leaving transmission chiefly to
-    disciples such as Hayyim Vital. Their wri...
+    disciples such as Hayyim Vital. Their writings organized accounts of divine
+    contraction, cosmic rupture, exile, and restoration into a powerful
+    interpretive system that spread rapidly through Jewish communities.
   - >-
     Distinctive Practice: Lurianic teaching describes *tzimtzum*, the breaking
     of vessels, scattered divine sparks, and *tikkun*, or repair, accomplished
-    through commandments and mystica...
+    through commandments and mystical intention.
   - >-
     Core Orientation: The influential kabbalistic system attributed to Isaac
     Luria and transmitted by disciples in Ottoman Safed.

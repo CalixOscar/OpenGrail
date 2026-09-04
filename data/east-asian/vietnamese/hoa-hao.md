@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Huỳnh Phú Sổ began preaching in 1939 in the western
     Mekong Delta, building on the earlier Bửu Sơn Kỳ Hương reform environment.
-    The movement grew rapidly among r...
+    The movement grew rapidly among rural communities and became entangled in
+    anticolonial conflict, armed politics, and the founder’s disappearance in
+    1947.
   - >-
     Distinctive Practice: Hòa Hảo teaching encourages Buddhist moral reform,
     simple home altars, remembrance of ancestors, charity, and reduced
-    dependence on costly ceremonies or monasti...
+    dependence on costly ceremonies or monastic intermediaries.
   - >-
     Core Orientation: A Vietnamese Buddhist reform religion founded by Huỳnh Phú
     Sổ in the Mekong Delta, emphasizing accessible household practice and social

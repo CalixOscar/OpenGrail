@@ -32,11 +32,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Hundreds of Aboriginal nations maintain distinct
     languages, Countries, laws, kin systems, and ceremonial responsibilities
-    developed over tens of thousands of ye...
+    developed over tens of thousands of years.
   - >-
     Distinctive Practice: English terms such as “Dreaming” or “Dreamtime”
     translate several non-equivalent concepts relating ancestral action, law,
-    place, story, and ongoing responsibili...
+    place, story, and ongoing responsibility; they do not describe a remote
+    mythic past alone.
   - >-
     Core Orientation: Country-, language-, and kin-specific religious traditions
     of Aboriginal peoples across Australia.

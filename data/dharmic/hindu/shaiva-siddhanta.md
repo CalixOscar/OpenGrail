@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Śaiva Siddhānta grew from initiatory scriptures and
     temple systems visible by the early medieval period. Sanskrit traditions
-    circulated widely, while Tamil devo...
+    circulated widely, while Tamil devotional and scholastic forms became
+    especially enduring in South India and Sri Lanka.
   - >-
     Distinctive Practice: Many Siddhānta theologians distinguish Śiva,
     individual souls, and the bonds that constrain them; ritual initiation,
-    worship, disciplined conduct, knowledge, an...
+    worship, disciplined conduct, knowledge, and divine grace enable liberation.
   - >-
     Core Orientation: A temple, initiatory, and theological Śaiva tradition
     influential in South India and historically across much of Asia.

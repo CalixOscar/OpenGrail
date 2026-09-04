@@ -31,11 +31,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Ernest and Ruth Norman established Unarius in Los
     Angeles in 1954 and later centered it in El Cajon, California. Ruth Norman,
-    known as Uriel, guided a highly vi...
+    known as Uriel, guided a highly visual public phase involving costumes,
+    films, public celebrations, and expectation of contact with a confederation
+    of planets.
   - >-
     Distinctive Practice: Unarius teaches repeated lives across planets, trauma
     carried from past incarnations, channeling, and therapeutic reenactment
-    through “psychodrama.” Its use of ...
+    through “psychodrama.” Its use of “science” is a religious self-description
+    and should not be confused with empirical scientific validation.
   - >-
     Core Orientation: A California UFO religion founded by Ernest and Ruth
     Norman around channeling, reincarnation, psychic healing, and advanced space

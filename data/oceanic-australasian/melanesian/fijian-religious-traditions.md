@@ -36,11 +36,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Fiji’s islands developed varied chiefdoms and ritual
     systems through local histories and exchange with Tonga and other Pacific
-    societies. Nineteenth-century war...
+    societies. Nineteenth-century warfare, Methodist conversion, colonial
+    government, and the formation of modern chiefly institutions transformed
+    religious authority.
   - >-
     Distinctive Practice: The *vanua* joins land, people, chiefly order,
     ancestors, and collective obligation rather than naming land as a detachable
-    commodity. Ceremonial exchange, yaqo...
+    commodity. Ceremonial exchange, yaqona, *meke*, funerals, and church life
+    can all enact sacred relationship.
   - >-
     Core Orientation: Indigenous Fijian traditions of ancestors, vanua, chiefly
     authority, land and sea, exchange, spirit powers, and indigenized

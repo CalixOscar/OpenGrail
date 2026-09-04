@@ -32,11 +32,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Some people in Yaohnanen and neighboring communities
     on Tanna came to identify Britain’s Prince Philip with a powerful overseas
-    figure interpreted through local...
+    figure interpreted through local kastom narratives.
   - >-
     Distinctive Practice: The movement belongs to a particular colonial and
     kastom history, not to a universal Pacific fascination with European goods.
-    “Cargo cult” remains a familiar sc...
+    “Cargo cult” remains a familiar scholarly category but can belittle coherent
+    Indigenous political and religious reasoning.
   - >-
     Core Orientation: A localized religious movement on Tanna, Vanuatu, that
     interpreted Prince Philip through existing kastom narratives and colonial

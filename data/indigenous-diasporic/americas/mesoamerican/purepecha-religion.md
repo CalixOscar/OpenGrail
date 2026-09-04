@@ -33,11 +33,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The Purépecha state centered in the Lake Pátzcuaro
     region remained politically independent of the Mexica empire before Spanish
-    invasion. The colonial *Relación ...
+    invasion. The colonial *Relación de Michoacán* records valuable but mediated
+    information about rulers, priests, temples, and the deity Curicaueri.
   - >-
     Distinctive Practice: Fire, lakes, mountains, ancestors, communal offices,
     agricultural cycles, saints, and funerary observances remain locally
-    important. Precolonial reconstruction ...
+    important. Precolonial reconstruction must distinguish colonial testimony
+    from living practice and avoid treating Purépecha religion as a provincial
+    form of Mexica religion.
   - >-
     Core Orientation: Religious traditions of the Purépecha people, shaped by an
     independent precolonial state and continuing community, land, ancestor, and

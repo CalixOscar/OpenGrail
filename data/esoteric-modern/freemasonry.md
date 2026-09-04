@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Organized speculative Freemasonry became publicly
     visible with British grand lodges in the early eighteenth century, drawing
-    symbols and structures from stonema...
+    symbols and structures from stonemasons' guild traditions while creating a
+    new associational form.
   - >-
     Distinctive Practice: Lodge ceremonies use staged degrees and the tools of
     architecture to teach fellowship, mortality, charity, and moral discipline.
-    Most regular bodies require bel...
+    Most regular bodies require belief in a Supreme Being while declining to
+    define a creed; others are secular or mixed-gender.
   - >-
     Core Orientation: A family of initiatory fraternities using architectural
     symbolism, ethical instruction, ritual degrees, and lodge organization.

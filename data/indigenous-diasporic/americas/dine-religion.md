@@ -26,11 +26,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Diné religious life is grounded in homelands of the
     Southwest and shaped by clan relationships, pastoralism, colonial violence,
-    the Long Walk, resource extracti...
+    the Long Walk, resource extraction, and continuing sovereignty.
   - >-
     Distinctive Practice: The aspiration toward *hózhó*—often translated through
     beauty, balance, order, and right relationship—guides healing and ethical
-    practice without reducing to si...
+    practice without reducing to simple “harmony.”
   - >-
     Core Orientation: Ceremonial, ethical, and land-based traditions of the
     Diné, commonly known in English as Navajo.

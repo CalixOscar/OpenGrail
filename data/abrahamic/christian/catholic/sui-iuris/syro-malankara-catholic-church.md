@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: The church arose when Archbishop Mar Ivanios and
     companions from the Malankara tradition entered communion with Rome in 1930.
-    Their communities belonged to the ...
+    Their communities belonged to the complex history of the Saint Thomas
+    Christians and had received the West Syriac liturgical tradition through
+    connections with the Syriac Orthodox Church.
   - >-
     Distinctive Practice: The Syro-Malankara Catholic Church is a major
     archiepiscopal *sui iuris* church celebrating the West Syriac rite,
-    especially the Liturgy of Saint James. Its nam...
+    especially the Liturgy of Saint James. Its name does not make it
+    interchangeable with the Syro-Malabar Church, whose rite is East Syriac.
   - >-
     Core Orientation: A West Syriac Eastern Catholic church formed through
     reunion by part of the Malankara Christian community in India.

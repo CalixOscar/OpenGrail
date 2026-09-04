@@ -31,11 +31,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Goddess worship has deep and varied South Asian
     histories. A recognizably Śākta synthesis appears in the *Devī Māhātmya* and
-    later Purāṇas and Tantras, where mu...
+    later Purāṇas and Tantras, where multiple regional goddesses are identified
+    with an encompassing Devī.
   - >-
     Distinctive Practice: Śakti is divine power and may be worshiped as Durgā,
     Kālī, Lalitā, Lakṣmī, or other forms. Ritual ranges from public festivals
-    and domestic offerings to initiat...
+    and domestic offerings to initiated mantra, visualization, and subtle-body
+    practice. Śākta and Śaiva tantras frequently share cosmology and liturgy,
+    while differing in emphasis.
   - >-
     Core Orientation: Hindu traditions venerating Devī or Śakti as supreme
     divine power through temple, devotional, and tantric forms.

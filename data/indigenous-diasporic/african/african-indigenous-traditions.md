@@ -28,11 +28,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Africa contains extraordinary religious diversity
     shaped by language families, polities, migrations, ecologies, and exchange
-    with Christianity, Islam, and other...
+    with Christianity, Islam, and other traditions.
   - >-
     Distinctive Practice: Ancestors, divination, healing, sacred authority,
     land, moral personhood, and relations with more-than-human beings recur, but
-    never form one African creed. Thi...
+    never form one African creed. This node is explicitly an analytical map
+    layer.
   - >-
     Core Orientation: A comparative umbrella for thousands of distinct, locally
     named religious traditions indigenous to the African continent.

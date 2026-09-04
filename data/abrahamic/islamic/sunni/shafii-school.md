@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Muhammad ibn Idris al-Shafi'i studied in Arabia and
     Iraq before teaching in Egypt in the early ninth century. Works attributed
-    to his mature period helped syste...
+    to his mature period helped systematize argument about Qur'an, prophetic
+    sunna, consensus, and analogy.
   - >-
     Distinctive Practice: Shafi'i legal theory gives authenticated prophetic
     reports a central role and seeks disciplined analogical extension when
-    explicit texts do not settle a case. L...
+    explicit texts do not settle a case. Later jurists refined rather than
+    merely repeated al-Shafi'i's positions.
   - >-
     Core Orientation: A Sunni legal school associated with al-Shafi'i and
     widespread in East Africa, southern Arabia, and Southeast Asia.

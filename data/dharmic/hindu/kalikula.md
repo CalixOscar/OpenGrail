@@ -28,11 +28,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Kālīkula denotes Goddess lineages in which Kālī and
     related deities occupy the central place. Tantric sources, temple cults,
-    vernacular poetry, and household de...
+    vernacular poetry, and household devotion made these traditions especially
+    influential in Bengal, Assam, Odisha, and neighboring regions.
   - >-
     Distinctive Practice: Kālī may be approached as terrifying time, protective
     mother, liberating wisdom, or supreme reality. Practice ranges from public
-    festival and domestic worship t...
+    festival and domestic worship to restricted initiatory ritual.
   - >-
     Core Orientation: A family of Śākta traditions oriented toward Kālī and
     related fierce goddesses, especially influential in eastern India.

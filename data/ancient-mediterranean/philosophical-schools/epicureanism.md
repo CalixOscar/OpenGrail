@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Epicurus founded his Athenian school, the Garden, in
     306 BCE. Communities preserved letters, maxims, commemorative meals,
-    friendship networks, and a philosophic...
+    friendship networks, and a philosophical curriculum over centuries.
   - >-
     Distinctive Practice: Epicureans accepted blessed and immortal gods but
     denied that they created or providentially governed the world. Natural
-    explanations of celestial events and de...
+    explanations of celestial events and death were meant to free people from
+    fear, enabling modest pleasure, friendship, and tranquility.
   - >-
     Core Orientation: A Hellenistic philosophical community seeking tranquil
     pleasure through friendship, ethical discipline, and a naturalistic account

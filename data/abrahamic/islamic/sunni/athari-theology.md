@@ -34,11 +34,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Early Sunni traditionalists defended doctrine
     grounded in Quran, hadith, and the statements of the first generations,
-    often resisting the methods of *kalam*, or...
+    often resisting the methods of *kalam*, or speculative theology.
   - >-
     Distinctive Practice: Athari theologians affirm divine attributes found in
     revelation while rejecting assimilation of God to creation and frequently
-    avoiding figurative reinterpretat...
+    avoiding figurative reinterpretation.
   - >-
     Core Orientation: A Sunni theological current privileging transmitted
     scripture and early authorities over systematic speculative theology.

@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: “Canaanite religion” groups related but nonuniform
     West Semitic traditions of the Levant. The Late Bronze Age tablets from
-    Ugarit provide the richest mythic cor...
+    Ugarit provide the richest mythic corpus, while inscriptions and archaeology
+    reveal other local cults across changing polities.
   - >-
     Distinctive Practice: Texts portray El, Athirat, Baal, Anat, Mot, and other
     deities within kinship, kingship, storm, fertility, and death imagery.
-    Sacrifice, feasting, ancestor rites...
+    Sacrifice, feasting, ancestor rites, and household religion accompanied
+    palace and temple cult.
   - >-
     Core Orientation: Diverse Bronze and Iron Age West Semitic cults known
     through Ugaritic texts, inscriptions, and archaeology.

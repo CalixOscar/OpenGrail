@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Maya religious histories span more than three
     millennia across present-day Mexico, Guatemala, Belize, Honduras, and El
-    Salvador. Hundreds of communities speak d...
+    Salvador. Hundreds of communities speak distinct Mayan languages and
+    experienced different city-states, colonial regimes, churches, wars, and
+    revitalization movements.
   - >-
     Distinctive Practice: Calendrical knowledge, maize cultivation, caves and
     mountains, ancestors, offerings, divination, healing, cofradías, and
-    reciprocal relations with nonhuman powe...
+    reciprocal relations with nonhuman powers appear in locally specific forms.
   - >-
     Core Orientation: Diverse ancient and living religious traditions among Maya
     peoples of Mesoamerica.

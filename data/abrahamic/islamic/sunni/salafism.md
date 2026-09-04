@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Modern Salafism draws on earlier Sunni traditionalism
     and reform associated especially with Ibn Taymiyya and the
-    eighteenth-century Najdi movement, while the la...
+    eighteenth-century Najdi movement, while the label also acquired new
+    meanings in nineteenth- and twentieth-century debates.
   - >-
     Distinctive Practice: Salafis advocate direct conformity to Qur'an and
     authenticated sunna as understood by the pious ancestors, criticize many
-    later theological speculations, and of...
+    later theological speculations, and often reject devotional innovation
+    around saints.
   - >-
     Core Orientation: A set of Sunni reform currents seeking to emulate the
     earliest Muslim generations in belief and practice.

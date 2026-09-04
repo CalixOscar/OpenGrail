@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Maliki law developed around Malik ibn Anas in
     eighth-century Medina and was carried westward by students and judges. It
-    became especially influential in the Mag...
+    became especially influential in the Maghreb, al-Andalus, Saharan networks,
+    and West Africa, while remaining present in parts of the Gulf.
   - >-
     Distinctive Practice: Maliki reasoning gives notable evidentiary weight to
     the inherited practice of Medina and also employs public welfare and
-    blocking means to harm within defined ...
+    blocking means to harm within defined legal methods.
   - >-
     Core Orientation: A Sunni school of law associated with Malik ibn Anas and
     historically prominent in North and West Africa.

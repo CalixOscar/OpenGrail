@@ -30,11 +30,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Babylonian religion grew from the multilingual
     religious worlds of southern Mesopotamia during the second and first
-    millennia BCE. Babylon's political prominenc...
+    millennia BCE. Babylon's political prominence elevated its city god Marduk,
+    especially in the *Enūma Eliš*, but older cult centers and gods retained
+    authority.
   - >-
     Distinctive Practice: Festival processions, divination, exorcistic medicine,
     prayer, sacrifice, and maintenance of cult statues linked human society with
-    a vulnerable cosmic order. E...
+    a vulnerable cosmic order. Extensive lexical and ritual scholarship
+    preserved Sumerian materials within Akkadian learning.
   - >-
     Core Orientation: The evolving cultic, scholarly, and domestic traditions of
     Babylonia in southern Mesopotamia.

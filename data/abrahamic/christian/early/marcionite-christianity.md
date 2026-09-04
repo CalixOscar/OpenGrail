@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Marcion of Sinope taught in Rome during the
     mid-second century and formed communities that spread widely across the
-    Mediterranean and Near East. He distinguishe...
+    Mediterranean and Near East. He distinguished the just creator described in
+    Jewish scripture from the previously unknown good God revealed by Jesus and
+    rejected the Hebrew Bible as Christian scripture.
   - >-
     Distinctive Practice: Marcion used an edited Gospel related to Luke and a
     collection of Pauline letters, making his movement central to debates about
-    early Christian canons. Opponent...
+    early Christian canons. Opponents such as Tertullian preserve much of the
+    evidence, so reconstruction requires caution.
   - >-
     Core Orientation: An early Christian movement associated with Marcion of
     Sinope, a sharply delimited canon, and rejection of the creator God as

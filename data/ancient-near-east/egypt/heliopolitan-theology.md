@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Iunu, called Heliopolis by the Greeks, was a major
     center of solar worship. Pyramid Texts and later compositions organize
-    creation around Atum, who emerges from...
+    creation around Atum, who emerges from the primeval waters and generates the
+    divine relationships later called the Ennead.
   - >-
     Distinctive Practice: “Heliopolitan theology” is a modern analytic label,
     not an ancient denomination with a fixed creed. Egyptian authors could
-    combine its genealogies with Memphite...
+    combine its genealogies with Memphite, Hermopolitan, or Theban accounts
+    without treating them as mutually exclusive.
   - >-
     Core Orientation: A scholarly label for Egyptian creation traditions
     centered on the solar god Atum-Re and the Ennead of Heliopolis.

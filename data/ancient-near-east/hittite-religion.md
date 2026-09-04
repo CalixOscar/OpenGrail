@@ -30,11 +30,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Hittite archives from Hattusa preserve thousands of
     ritual, festival, mythic, and diplomatic tablets from second-millennium BCE
-    Anatolia. Court scribes worked i...
+    Anatolia. Court scribes worked in Hittite, Hattic, Hurrian, Luwian,
+    Akkadian, and other languages.
   - >-
     Distinctive Practice: Seasonal festivals, oath gods, royal ancestor rites,
     purification, sacrifice, and careful maintenance of divine images tied
-    ritual accuracy to political welfare...
+    ritual accuracy to political welfare.
   - >-
     Core Orientation: The multilingual state and local cults of Bronze Age Hatti
     in central Anatolia.

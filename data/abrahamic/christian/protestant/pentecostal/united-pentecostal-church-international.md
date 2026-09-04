@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The United Pentecostal Church International formed in
     1945 through the merger of the Pentecostal Church, Incorporated and the
-    Pentecostal Assemblies of Jesus Ch...
+    Pentecostal Assemblies of Jesus Christ.
   - >-
     Distinctive Practice: The UPCI teaches Oneness theology, baptism in the name
     of Jesus Christ, and Spirit baptism associated with speaking in tongues.
-    Congregations practice energetic...
+    Congregations practice energetic worship, evangelism, divine healing, and
+    holiness disciplines.
   - >-
     Core Orientation: The largest predominantly white Oneness Pentecostal
     denomination, created by a merger in the United States.

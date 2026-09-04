@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Northern Baptist mission and publication societies
     organized the Northern Baptist Convention in 1907 to coordinate work while
-    preserving congregational freedom....
+    preserving congregational freedom. It later became the American Baptist
+    Convention and adopted its present name in 1972.
   - >-
     Distinctive Practice: American Baptists practice believer's baptism, affirm
     local church autonomy, and cooperate in mission, education, and social
-    witness. The denomination includes ...
+    witness. The denomination includes evangelical and progressive theological
+    currents and does not impose one comprehensive creed.
   - >-
     Core Orientation: A mainline Baptist denomination rooted in northern United
     States mission societies and diverse regional conventions.

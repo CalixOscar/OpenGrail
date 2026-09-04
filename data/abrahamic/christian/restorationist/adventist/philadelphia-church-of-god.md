@@ -26,11 +26,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Gerald Flurry founded the Philadelphia Church of God
     in 1989 after his dismissal from the Worldwide Church of God. The new body
-    opposed doctrinal changes under ...
+    opposed doctrinal changes under Joseph W.
   - >-
     Distinctive Practice: The church observes the seventh-day Sabbath and
     biblical festivals and retains non-Trinitarian, apocalyptic, and
-    British-Israelite elements of historic Armstron...
+    British-Israelite elements of historic Armstrongism.
   - >-
     Core Orientation: An Armstrongist church founded by Gerald Flurry during the
     Worldwide Church of God's doctrinal transition.

@@ -34,11 +34,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Kongo-speaking societies developed across the lower
     Congo region before the Kingdom of Kongo’s encounter with Portuguese
-    Christianity in the late fifteenth cent...
+    Christianity in the late fifteenth century.
   - >-
     Distinctive Practice: Kongo cosmologies often distinguish yet connect the
     lands of living and dead through water, burial, lineage, and cyclical
-    imagery. Specialists work with *minkis...
+    imagery. Specialists work with *minkisi*, empowered assemblages used for
+    healing, protection, oath, or justice.
   - >-
     Core Orientation: Religious traditions of Kongo-speaking peoples centered on
     ancestors, territorial powers, healing, moral order, and traffic between

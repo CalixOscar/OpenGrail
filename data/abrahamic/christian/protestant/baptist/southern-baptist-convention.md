@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: White Baptist churches organized the Southern Baptist
     Convention in 1845 after a national missionary body declined to appoint
-    slaveholders as missionaries. Foll...
+    slaveholders as missionaries. Following the Civil War, the convention built
+    mission boards, seminaries, and publishing institutions while African
+    American Baptists formed independent conventions.
   - >-
     Distinctive Practice: SBC congregations are autonomous but cooperate in
     conventions and support shared missions and education. The Baptist Faith and
-    Message expresses conservative ev...
+    Message expresses conservative evangelical positions on scripture, baptism,
+    Communion, and ministry, though it is not a binding creed over each church.
   - >-
     Core Orientation: A large United States Baptist convention founded in a
     sectional dispute over slaveholding missionaries and later shaped by

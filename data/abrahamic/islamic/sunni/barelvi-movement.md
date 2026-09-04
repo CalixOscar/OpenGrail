@@ -36,11 +36,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The movement formed around the scholarship of Ahmad
     Raza Khan of Bareilly in late nineteenth-century British India. Its scholars
-    defended established Sunni devo...
+    defended established Sunni devotional and Sufi practices in polemics with
+    Deobandi, Ahl-i Hadith, and other reform currents.
   - >-
     Distinctive Practice: Barelvi scholars are usually Hanafi and affirm
     intercession, celebration of the Prophet's birth, devotional poetry, saintly
-    charisma, and visitation of shrines ...
+    charisma, and visitation of shrines within defined theological limits.
   - >-
     Core Orientation: A South Asian Sunni movement associated with Ahmad Raza
     Khan and devotional affirmation of the Prophet and Sufi practice.

@@ -32,11 +32,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Reformed churches emerged through Swiss reformers
     including Zwingli, Bullinger, and Calvin and developed distinct confessional
-    traditions in the Netherlands, Ge...
+    traditions in the Netherlands, German territories, France, Hungary, and
+    elsewhere.
   - >-
     Distinctive Practice: Continental Reformed identity often draws on the
     Heidelberg Catechism, Belgic Confession, and Canons of Dort, while regional
-    churches use additional standards. ...
+    churches use additional standards. Covenant theology, preaching, disciplined
+    worship, and presbyterial-synodal governance are recurrent themes.
   - >-
     Core Orientation: Reformed churches shaped in Switzerland, the Netherlands,
     Germany, France, Hungary, and related continental settings.

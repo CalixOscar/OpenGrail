@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Stone-Campbell congregations appeared in the
     Australian colonies in the nineteenth century through migration and local
-    evangelism. State conferences developed t...
+    evangelism. State conferences developed to coordinate mission, education,
+    and social services without erasing congregational autonomy.
   - >-
     Distinctive Practice: Australian Churches of Christ commonly emphasize
     believer's baptism, regular Communion, biblical preaching, and local
-    congregational responsibility. Most use in...
+    congregational responsibility. Most use instruments in worship and cooperate
+    through state- or territory-based bodies and national agencies.
   - >-
     Core Orientation: Australian Stone-Campbell churches organized through state
     conferences while retaining congregational autonomy.

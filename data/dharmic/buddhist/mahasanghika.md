@@ -29,11 +29,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Mahāsāṃghika communities appear among the earliest
     named Buddhist monastic groupings and later included regional branches in
-    central and southern India. Their V...
+    central and southern India. Their Vinaya survives in Chinese translation,
+    while the *Mahāvastu* is associated with the Lokottaravāda branch.
   - >-
     Distinctive Practice: Some Mahāsāṃghika materials portray buddhas as
     supramundane and emphasize the limitations of ordinary arhat knowledge,
-    though positions varied across sub-school...
+    though positions varied across sub-schools.
   - >-
     Core Orientation: An influential early Buddhist monastic affiliation
     associated with several sub-schools and a surviving Vinaya.

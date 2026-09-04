@@ -26,11 +26,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Ancient Greek religion encompassed changing practices
     from the post-Mycenaean world through the Hellenistic and Roman periods.
-    Independent poleis organized dist...
+    Independent poleis organized distinctive calendars, priesthoods, sacrifices,
+    festivals, and patron deities, while pan-Hellenic sanctuaries connected
+    wider networks.
   - >-
     Distinctive Practice: Reciprocity with gods, ritual purity, household
     observance, divination, hero cult, and care for the dead structured
-    religious life. Zeus, Athena, Apollo, Demete...
+    religious life. Zeus, Athena, Apollo, Demeter, Dionysus, and other gods
+    appeared under many local epithets.
   - >-
     Core Orientation: Plural civic, household, sanctuary, and mystery cults
     practiced across the ancient Greek-speaking world.

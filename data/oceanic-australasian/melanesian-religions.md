@@ -27,11 +27,12 @@ key_tenets:
   - >-
     Foundational Doctrine: “Melanesia” is a colonial-era regional label covering
     extraordinary linguistic and cultural diversity in New Guinea, the
-    Bismarcks, Solomon Islands, Vanuatu, Ne...
+    Bismarcks, Solomon Islands, Vanuatu, New Caledonia, and Fiji.
   - >-
     Distinctive Practice: Ancestors, spirits, gardening, exchange, secrecy,
     initiation, healing, and ceremonial houses matter in some communities but
-    never define all. Classic anthropolo...
+    never define all. Classic anthropology often converted local concepts into
+    broad theories of mana, magic, or “cargo cults.”
   - >-
     Core Orientation: A geographic umbrella for highly diverse Indigenous
     religions across islands conventionally called Melanesia.

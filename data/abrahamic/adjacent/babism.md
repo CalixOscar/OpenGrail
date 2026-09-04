@@ -32,11 +32,12 @@ key_tenets:
   - >-
     Foundational Doctrine: In 1844 Sayyid Ali Muhammad of Shiraz declared
     himself the Bab, first understood as a gate to the hidden Imam and later as
-    an independent messenger inaugurating...
+    an independent messenger inaugurating a new revelation.
   - >-
     Distinctive Practice: Babi scripture reworks Shi'a messianic expectation
     through new laws, symbolic exegesis, sacred calendars, and an emphasis on
-    progressive revelation. Most surviv...
+    progressive revelation. Most surviving Babis later followed Baha'u'llah and
+    became Baha'is; a smaller Azali community followed Subh-i Azal.
   - >-
     Core Orientation: A nineteenth-century Iranian religion founded by the Bab,
     emerging from a Twelver Shi'a messianic environment.

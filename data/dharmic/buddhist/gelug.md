@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Tsongkhapa and his disciples founded monasteries
     including Ganden, Drepung, and Sera in the fifteenth century, drawing on
-    Kadam path teaching and multiple tantr...
+    Kadam path teaching and multiple tantric transmissions.
   - >-
     Distinctive Practice: Gelug training combines monastic discipline, debate,
     Madhyamaka analysis, graded-path contemplation, and tantra. Its presentation
-    of emptiness emphasizes depend...
+    of emptiness emphasizes dependent designation while defending conventional
+    knowledge.
   - >-
     Core Orientation: A Tibetan Buddhist school founded by Tsongkhapa's
     followers, emphasizing monastic discipline, systematic study, and graduated

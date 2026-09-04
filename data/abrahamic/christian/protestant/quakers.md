@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The Religious Society of Friends arose amid the
     religious upheaval of seventeenth-century England. George Fox and other
-    traveling ministers rejected compulsory ...
+    traveling ministers rejected compulsory tithes, a professional clergy, and
+    fixed sacramental rites, enduring imprisonment and public hostility.
   - >-
     Distinctive Practice: Friends emphasize the inward light or present guidance
     of Christ and seek decisions through corporate discernment. Some meetings
-    worship in expectant silence wi...
+    worship in expectant silence without a programmed sermon; others resemble
+    evangelical services.
   - >-
     Core Orientation: The Religious Society of Friends, a Protestant-origin
     movement centered on direct spiritual guidance and communal discernment.

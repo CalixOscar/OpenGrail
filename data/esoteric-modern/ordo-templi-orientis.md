@@ -33,11 +33,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The O.T.O. began in the German-speaking occult and
     fraternal milieu around 1902. After joining, Aleister Crowley revised its
-    rituals and constitution around the...
+    rituals and constitution around the Law of Thelema.
   - >-
     Distinctive Practice: The order uses graded initiation and celebrates the
     Gnostic Mass while teaching Thelemic principles such as discovery of True
-    Will. Its early structure borrowed...
+    Will. Its early structure borrowed from Masonic high-degree systems, but
+    O.T.O. is not recognized as regular Freemasonry.
   - >-
     Core Orientation: An initiatory occult fraternity reshaped by Aleister
     Crowley into a principal institutional vehicle for Thelema.

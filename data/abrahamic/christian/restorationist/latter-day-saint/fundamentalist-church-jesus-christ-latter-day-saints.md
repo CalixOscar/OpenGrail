@@ -31,11 +31,13 @@ key_tenets:
   - >-
     Foundational Doctrine: The FLDS Church developed from the Short Creek
     community and a fundamentalist priesthood council that continued plural
-    marriage after its abandonment by the Uta...
+    marriage after its abandonment by the Utah-based church.
   - >-
     Distinctive Practice: The church preserves a fundamentalist interpretation
     of nineteenth-century Latter Day Saint scripture, priesthood, communal
-    discipline, and plural marriage. It ...
+    discipline, and plural marriage. It is institutionally independent from the
+    Church of Jesus Christ of Latter-day Saints, which rejects both its
+    authority claims and its marriage practices.
   - >-
     Core Orientation: A centralized Latter Day Saint fundamentalist church
     commonly abbreviated FLDS, historically based in the Arizona-Utah border

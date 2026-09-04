@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Nichiren taught in thirteenth-century Japan amid
     political instability and competing Buddhist institutions. Drawing on
-    Japanese Tendai training, he identified t...
+    Japanese Tendai training, he identified the *Lotus Sūtra* as the definitive
+    teaching for his age and endured exile and persecution.
   - >-
     Distinctive Practice: Chanting *Namu Myōhō Renge Kyō*, devotion to the
     *Lotus Sūtra*, and use of a calligraphic *gohonzon* are central. Nichiren
-    connected personal awakening with the...
+    connected personal awakening with the welfare of society and offered sharp
+    criticism of rival schools.
   - >-
     Core Orientation: Japanese Buddhist traditions founded on Nichiren's
     exclusive elevation of the Lotus Sūtra and chanting of its title.

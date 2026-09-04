@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Alex and Maxine Sanders became public faces of
     British witchcraft in the 1960s and initiated a network of covens later
-    called Alexandrian. The tradition drew su...
+    called Alexandrian. The tradition drew substantially on Gardnerian material
+    while developing its own lineages, public style, and ceremonial emphases.
   - >-
     Distinctive Practice: Alexandrian covens usually use degree initiation,
     seasonal and lunar rites, polarity symbolism, and ceremonial magic. Practice
-    varies by lineage, and some coven...
+    varies by lineage, and some covens share dual Gardnerian-Alexandrian
+    inheritance.
   - >-
     Core Orientation: An initiatory Wiccan tradition associated with Alex and
     Maxine Sanders, combining Wiccan liturgy with ceremonial-magic emphases.

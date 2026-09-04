@@ -29,11 +29,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Madhva established Dvaita in thirteenth-century
     Karnataka, grounding his interpretation of the Vedānta canon in devotion to
-    Viṣṇu. Monastic centers at Udupi and...
+    Viṣṇu. Monastic centers at Udupi and a substantial commentarial tradition
+    preserved and elaborated his teachings.
   - >-
     Distinctive Practice: Dvaita treats God, individual selves, and matter as
     genuinely and eternally distinct, while maintaining their complete
-    dependence on Viṣṇu. Liberation is commun...
+    dependence on Viṣṇu. Liberation is communion with God rather than identity
+    with an impersonal absolute.
   - >-
     Core Orientation: Madhva's dualist Vedānta, affirming lasting distinctions
     among God, souls, and material reality.

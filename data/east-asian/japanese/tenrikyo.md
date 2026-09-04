@@ -26,11 +26,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Tenrikyo dates its founding to Nakayama Miki’s
     revelatory experience in 1838 at what became Jiba, the tradition’s sacred
-    center in Nara. The community grew thro...
+    center in Nara. The community grew through healing, pilgrimage, song, and
+    missionary networks.
   - >-
     Distinctive Practice: God the Parent created humanity for the Joyous Life,
     realized through gratitude, mutual help, inner transformation, and
-    *hinokishin* service. The seated service...
+    *hinokishin* service. The seated service and sacred dances embody its
+    revealed teaching.
   - >-
     Core Orientation: A Japanese religion founded through Nakayama Miki's
     revelations, teaching joyful life, divine parenthood, service, and ritual

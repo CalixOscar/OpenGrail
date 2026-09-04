@@ -33,11 +33,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Bhakti is older than any single “movement,” but from
     the first millennium CE poet-saints and institutions made personal devotion
-    especially visible in Tamil, Ka...
+    especially visible in Tamil, Kannada, Marathi, Hindi, Bengali, and other
+    languages. Āḻvārs, Nāyaṉmārs, Vīraśaivas, Sants, Gauḍīyas, and many others
+    addressed different deities and publics.
   - >-
     Distinctive Practice: Songs emphasize love, surrender, remembrance, grace,
     and embodied encounter through image, name, music, or community. Some poets
-    challenged caste privilege and ...
+    challenged caste privilege and ritual authority; others worked within temple
+    and court structures.
   - >-
     Core Orientation: Overlapping South Asian devotional movements expressed
     through vernacular poetry, pilgrimage, performance, and loving relation to

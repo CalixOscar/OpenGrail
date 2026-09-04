@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Theravāda lineages connected with Sri Lanka became
     prominent in the Tai kingdoms of Sukhothai, Lanna, and Ayutthaya, although
-    earlier Buddhist traditions also s...
+    earlier Buddhist traditions also shaped the region.
   - >-
     Distinctive Practice: Ordination, almsgiving, festivals, protective ritual,
     meditation, relic devotion, and temporary male monasticism all contribute to
-    Thai Buddhist life. Most monk...
+    Thai Buddhist life. Most monks belong to either the majority Mahā Nikāya or
+    the smaller Dhammayut order, though local practice exceeds these
+    administrative categories.
   - >-
     Core Orientation: Thailand’s Theravāda traditions, encompassing the Mahā
     Nikāya and Dhammayut orders, temple communities, forest lineages, and

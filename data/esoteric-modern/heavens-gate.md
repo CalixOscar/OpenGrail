@@ -32,11 +32,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Bonnie Nettles and Marshall Applewhite formed a
     disciplined communal movement in the 1970s, teaching that members could
-    transform beyond the human level. After ...
+    transform beyond the human level. After Nettles died, Applewhite
+    increasingly emphasized leaving the body.
   - >-
     Distinctive Practice: The group reinterpreted Jesus, apocalypticism,
     extraterrestrials, celibacy, and bodily renunciation within a technological
-    cosmology. Its deaths require direct,...
+    cosmology. Its deaths require direct, non-romantic description, but they
+    should not be generalized to all UFO religions or new religious movements.
   - >-
     Core Orientation: A small American millennial UFO religion led by Marshall
     Applewhite and Bonnie Nettles that ended in a 1997 mass suicide.

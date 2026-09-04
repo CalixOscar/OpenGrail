@@ -33,11 +33,11 @@ key_tenets:
   - >-
     Foundational Doctrine: “Neoplatonism” names several late antique
     philosophical lineages beginning conventionally with Plotinus and continuing
-    through Porphyry, Iamblichus, Proclus, Da...
+    through Porphyry, Iamblichus, Proclus, Damascius, and others.
   - >-
     Distinctive Practice: Many systems trace all reality to a first principle,
     often “the One,” through ordered levels of intellect and soul, with return
-    through virtue and contemplation...
+    through virtue and contemplation.
   - >-
     Core Orientation: A modern label for late antique Platonic schools that
     joined metaphysics, ethics, contemplation, and ritual.

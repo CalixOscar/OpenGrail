@@ -30,11 +30,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Shaykh Ahmad al-Ahsa'i and his successor Sayyid Kazim
     Rashti formed a distinctive scholarly network in Qajar Iran and Ottoman
-    Iraq. Their teachings explored the...
+    Iraq. Their teachings explored the spiritual bodies of resurrection, the
+    metaphysical rank of the imams, and layered worlds of divine manifestation.
   - >-
     Distinctive Practice: Some students from the Shaykhi environment became
     early followers of the Bab, giving the school an important place in Babi
-    history. Other Shaykhis rejected the ...
+    history. Other Shaykhis rejected the Bab's claims and remained within
+    Twelver Shiism.
   - >-
     Core Orientation: A Twelver Shia school founded through the teachings of
     Shaykh Ahmad al-Ahsa'i, emphasizing imamology and esoteric cosmology.

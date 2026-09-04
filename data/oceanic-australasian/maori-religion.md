@@ -27,11 +27,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Māori ancestors settled Aotearoa from East Polynesia
     and developed traditions grounded in particular iwi, hapū, marae, waterways,
-    and landscapes. British coloni...
+    and landscapes. British colonization, land confiscation, mission
+    Christianity, urbanization, and state suppression of language profoundly
+    disrupted religious authority.
   - >-
     Distinctive Practice: Whakapapa relates people with atua, ancestors,
     species, and place; *tapu*, *mana*, *mauri*, karakia, tangihanga, and
-    responsibilities to whenua operate within s...
+    responsibilities to whenua operate within specific kin structures.
   - >-
     Core Orientation: Iwi- and hapū-specific Māori traditions of whakapapa,
     atua, whenua, ritual, and ethical relationship in Aotearoa.

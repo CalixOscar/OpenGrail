@@ -26,11 +26,12 @@ key_tenets:
   - >-
     Foundational Doctrine: The Reform Movement arose among European Seventh-day
     Adventists who rejected denominational accommodations to military service
-    during World War I. After expulsi...
+    during World War I. After expulsions and failed reconciliation efforts,
+    representatives organized internationally in the 1920s.
   - >-
     Distinctive Practice: The movement preserves Seventh-day Adventist
     scripture, Sabbath, eschatology, and esteem for Ellen White while applying
-    stricter teachings on noncombatancy, die...
+    stricter teachings on noncombatancy, diet, dress, and church discipline.
   - >-
     Core Orientation: An Adventist denomination formed during World War I over
     military service, Sabbath observance, and church discipline.

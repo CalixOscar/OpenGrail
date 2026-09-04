@@ -33,11 +33,13 @@ key_tenets:
   - >-
     Foundational Doctrine: Samoan villages developed religious life through kin
     groups, chiefly titles, land, ancestral genealogies, specialist powers, and
-    relationships with named deitie...
+    relationships with named deities.
   - >-
     Distinctive Practice: The *fa'a Sāmoa*, or Samoan way, binds service,
     reciprocity, respect, genealogy, family, village, and land, but it is
-    broader than a denomination. Indigenous co...
+    broader than a denomination. Indigenous concepts persist within Christian
+    prayer, covenant, funeral, and chiefly practice while communities debate
+    obligation and change.
   - >-
     Core Orientation: Samoan religious traditions of genealogy, land, chiefly
     authority, ancestral powers, covenant, and locally transformed Christianity.

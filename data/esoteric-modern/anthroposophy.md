@@ -31,11 +31,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Rudolf Steiner led the German Section of the
     Theosophical Society before founding the Anthroposophical Society in
-    1912–1913. He developed an explicitly Christ-c...
+    1912–1913. He developed an explicitly Christ-centered esoteric history and
+    inspired Waldorf education, biodynamic agriculture, eurythmy, architecture,
+    and approaches to medicine.
   - >-
     Distinctive Practice: Anthroposophy teaches that disciplined thinking and
     imaginative cognition can investigate spiritual worlds. Its broad practical
-    legacy coexists with contested c...
+    legacy coexists with contested clairvoyant claims and historically
+    racialized passages in Steiner's works.
   - >-
     Core Orientation: Rudolf Steiner's esoteric movement seeking spiritual
     knowledge through disciplined cognition and applying it to education,

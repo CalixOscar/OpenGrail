@@ -32,11 +32,12 @@ key_tenets:
   - >-
     Foundational Doctrine: Christian heresiologists described Ebionites as
     Torah-observant followers of Jesus who rejected Paul, used one or more
-    Jewish-Christian gospels, and denied Chri...
+    Jewish-Christian gospels, and denied Christ's preexistent divinity.
   - >-
     Distinctive Practice: “Ebionite” may combine distinct Jewish-Christian
     communities under an outsider label derived from the Hebrew word for poor.
-    Their views of virgin birth, sacrifi...
+    Their views of virgin birth, sacrifice, and Christology cannot be
+    reconstructed with complete confidence.
   - >-
     Core Orientation: A patristic label for Jewish-Christian groups that
     observed Torah and understood Jesus in non-Nicene ways.

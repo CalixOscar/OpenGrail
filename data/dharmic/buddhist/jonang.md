@@ -29,11 +29,14 @@ key_tenets:
   - >-
     Foundational Doctrine: Jonang institutions developed in Tibet from the
     thirteenth century, with Dolpopa Sherab Gyaltsen and Tāranātha among their
-    major authors. Seventeenth-century po...
+    major authors. Seventeenth-century political changes converted many central
+    Tibetan monasteries to Gelug control, leading outsiders to presume the
+    school extinct.
   - >-
     Distinctive Practice: Jonang preserves a complete Kālacakra system and
     teaches *shentong*, or “other-emptiness,” describing ultimate awakened
-    qualities as empty of adventitious defil...
+    qualities as empty of adventitious defilement rather than empty of their own
+    nature.
   - >-
     Core Orientation: A Tibetan Buddhist tradition known for Kālacakra practice
     and a distinctive other-emptiness interpretation.

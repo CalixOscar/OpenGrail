@@ -35,11 +35,11 @@ key_tenets:
   - >-
     Foundational Doctrine: Nestorius, patriarch of Constantinople, was condemned
     at the Council of Ephesus in 431 amid disputes about how to speak of
-    Christ's divinity, humanity, and Mary...
+    Christ's divinity, humanity, and Mary as *Theotokos*.
   - >-
     Distinctive Practice: The Church of the East developed its own East Syriac
     Christology through figures such as Babai the Great and does not identify
-    its doctrine simply with Nestoriu...
+    its doctrine simply with Nestorius.
   - >-
     Core Orientation: A disputed heresiological label applied to positions
     associated with Nestorius and, often inaccurately, to East Syriac
