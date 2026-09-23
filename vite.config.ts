@@ -4,7 +4,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/opengrail/',
+  base: '/',
   plugins: [react()],
   build: {
     rollupOptions: {

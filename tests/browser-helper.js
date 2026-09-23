@@ -94,19 +94,10 @@ export async function startStaticAppServer() {
     const parsedUrl = new URL(req.url || '/', 'http://127.0.0.1');
     let pathname = decodeURIComponent(parsedUrl.pathname);
 
-    if (pathname === '/' || pathname === '/opengrail') {
-      res.writeHead(302, { Location: '/opengrail/' });
-      res.end();
-      return;
-    }
-
-    if (!pathname.startsWith('/opengrail/')) {
-      res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });
-      res.end('Not Found');
-      return;
-    }
-
-    const relativePath = pathname.slice('/opengrail/'.length);
+    // The app is served from the root of its own domain, matching vite's
+    // base: '/'. Keep this in step with vite.config.ts or the bundle's
+    // absolute asset paths will 404 here but work in production.
+    const relativePath = pathname.replace(/^\/+/, '');
     let filePath = path.join(DIST_DIR, relativePath);
 
     // Prevent directory traversal attacks
@@ -142,7 +133,7 @@ export async function startStaticAppServer() {
 
   const address = server.address();
   const port = typeof address === 'object' && address ? address.port : 0;
-  const baseUrl = `http://127.0.0.1:${port}/opengrail/`;
+  const baseUrl = `http://127.0.0.1:${port}/`;
 
   return {
     server,
