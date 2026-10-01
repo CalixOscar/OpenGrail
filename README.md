@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Traditions](https://img.shields.io/badge/Traditions-695-success.svg)](#content-model)
 [![Theological Links](https://img.shields.io/badge/Graph%20Links-1088-purple.svg)](#content-model)
-[![Visual Artifacts](https://img.shields.io/badge/Artifacts-1%2C146-amber.svg)](#content-model)
+[![Visual Artifacts](https://img.shields.io/badge/Artifacts-1%2C089-amber.svg)](#content-model)
 [![Clusters](https://img.shields.io/badge/Clusters-11-teal.svg)](#content-model)
 [![React](https://img.shields.io/badge/React-18-61dafb.svg)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
@@ -23,7 +23,7 @@
 </h3>
 
 <a href="https://www.calmdownoscar.com/opengrail/">
-  <img src="docs/media/atlas-graph.webp" alt="OpenGrail's force-directed graph view: 573 traditions drawn as colored nodes clustered by philosophical affinity, connected by 903 lines of theological descent and influence." width="880">
+  <img src="docs/media/atlas-graph.webp" alt="OpenGrail's force-directed graph view: 695 traditions drawn as colored nodes clustered by philosophical affinity, connected by 1,088 lines of theological descent and influence." width="880">
 </a>
 
 <sub>Force-graph view · <a href="https://www.calmdownoscar.com/opengrail/#view=map">the same data on the 3D globe</a></sub>
@@ -42,7 +42,7 @@
 - **Chronological Timeline Scrubber**: Filter traditions and historical splits dynamically from ancient antiquity through modern movements.
 - **Fuzzy Search & Deep Linking**: Instant keyboard search across traditions, aliases, and canonical texts. Every tradition and view mode has a unique, shareable URL hash (e.g. `#tradition=stoicism&view=map`).
 - **Epistemic Rigor**: Explicitly distinguishes between `academic_consensus`, `minority_scholarly`, `theological_claim`, and `speculative_fringe` so historical facts and devotional traditions remain clear.
-- **Curated Visual Artifacts**: Over 1,100 curated public-domain thumbnails and manuscripts linking out to high-resolution originals on Wikimedia Commons.
+- **Curated Visual Artifacts**: Over 1,000 curated public-domain thumbnails and manuscripts linking out to high-resolution originals on Wikimedia Commons.
 - **Markdown-as-Database**: 100% static, fast, and git-native. Every tradition is a standalone Markdown file with validated YAML frontmatter compiled deterministically into `graph.json`.
 
 ---
