@@ -9,10 +9,10 @@ export default defineConfig({
   build: {
     rollupOptions: {
       output: {
-        manualChunks: {
-          graph: ['react-force-graph-2d'],
-          markdown: ['react-markdown', 'remark-gfm'],
-          react: ['react', 'react-dom'],
+        manualChunks(id: string) {
+          if (id.includes('node_modules/react-force-graph-2d')) return 'graph';
+          if (/node_modules\/(react-markdown|remark-gfm)\//.test(id)) return 'markdown';
+          if (/node_modules\/(react|react-dom)\//.test(id)) return 'react';
         },
       },
     },
