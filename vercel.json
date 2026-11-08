@@ -3,6 +3,11 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "framework": "vite",
+  "git": {
+    "deploymentEnabled": {
+      "dependabot/*": false
+    }
+  },
   "headers": [
     {
       "source": "/(.*)",
