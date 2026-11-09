@@ -6,7 +6,7 @@ import {
   ThumbsDown,
   MessageSquarePlus,
   Send,
-  Github,
+  ExternalLink,
   Copy,
   Check,
   X,
@@ -224,7 +224,7 @@ export function DocumentFeedback({ node }: DocumentFeedbackProps) {
                   onClick={handleGitHubIssue}
                   title="Open a pre-filled GitHub Issue for review"
                 >
-                  <Github size={14} />
+                  <ExternalLink size={14} />
                   <span>Submit via GitHub</span>
                 </button>
 
