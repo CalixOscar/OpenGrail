@@ -329,7 +329,7 @@ function AppContent() {
                   type="button"
                   onClick={() => setShowFilters((value) => !value)}
                   aria-pressed={showFilters}
-                  aria-label="Toggle filter bar"
+                  aria-label="Filters: toggle filter bar"
                   title="Toggle filter bar"
                 >
                   <SlidersHorizontal size={15} />

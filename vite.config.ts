@@ -7,12 +7,14 @@ export default defineConfig({
   base: '/',
   plugins: [react()],
   build: {
-    rollupOptions: {
+    rolldownOptions: {
       output: {
-        manualChunks: {
-          graph: ['react-force-graph-2d'],
-          markdown: ['react-markdown', 'remark-gfm'],
-          react: ['react', 'react-dom'],
+        codeSplitting: {
+          groups: [
+            { name: 'graph', test: /node_modules[\\/]react-force-graph-2d[\\/]/ },
+            { name: 'markdown', test: /node_modules[\\/](react-markdown|remark-gfm)[\\/]/ },
+            { name: 'react', test: /node_modules[\\/](react|react-dom)[\\/]/ },
+          ],
         },
       },
     },

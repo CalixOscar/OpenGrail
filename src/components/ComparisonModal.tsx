@@ -681,7 +681,6 @@ export function ComparisonModal({
                             onClick={() =>
                               setActiveArtifact({ artifact: art, traditionTitle: nodeA.title })
                             }
-                            aria-label={`Inspect ${art.title}`}
                           >
                             <div className="comparison-artifact-card__image-wrap">
                               <img src={imgUrl} alt={art.title} loading="lazy" />
@@ -722,7 +721,6 @@ export function ComparisonModal({
                             onClick={() =>
                               setActiveArtifact({ artifact: art, traditionTitle: nodeB.title })
                             }
-                            aria-label={`Inspect ${art.title}`}
                           >
                             <div className="comparison-artifact-card__image-wrap">
                               <img src={imgUrl} alt={art.title} loading="lazy" />
